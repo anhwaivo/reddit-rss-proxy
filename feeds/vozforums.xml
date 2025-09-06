@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-09-06T09:36:08+00:00</updated>
+  <updated>2025-09-06T09:50:10+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1n9ocip</id>
-    <title>Tai nghe in ear</title>
-    <updated>2025-09-06T02:40:35+00:00</updated>
-    <author>
-      <name>/u/Aggressive_Sand_5408</name>
-      <uri>https://old.reddit.com/user/Aggressive_Sand_5408</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình cần tìm tai nghe in-ear dưới 500 có mic tốt để dạy học làm video thì nên mua loại nào à mọi người, nghe thì ổn là được&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Aggressive_Sand_5408"&gt; /u/Aggressive_Sand_5408 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1n9ocip/tai_nghe_in_ear/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1n9ocip/tai_nghe_in_ear/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1n9ocip/tai_nghe_in_ear/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-06T02:40:35+00:00</published>
-  </entry>
   <entry>
     <id>t3_1n9oyhg</id>
     <title>Làm sao để không hối tiếc lần nữa về người ấy?</title>
@@ -242,19 +229,6 @@
     <published>2025-09-06T09:16:37+00:00</published>
   </entry>
   <entry>
-    <id>t3_1n9v9c3</id>
-    <title>CBM và ý định 4.4</title>
-    <updated>2025-09-06T09:30:07+00:00</updated>
-    <author>
-      <name>/u/Ok-Artist6995</name>
-      <uri>https://old.reddit.com/user/Ok-Artist6995</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình sinh năm 2k mình vừa thua 150tr tiền vào trò BCR trước đó mình đã kiếm được từ nó khoảng vài chục triệu để mua sắm những thứ mà mình hằng mong ước như: PC, TV, máy ảnh ... tài khoản còn dương gần 20tr rồi với lòng tham vô đáy mình lao đầu vào đến mất trắng lại vay các APP và thẻ tín dụng, cắm xe máy, đồ đạc và vay bạn bè tới nay cũng gần 150tr dù đã nhiều lần trước mình độ esport thua sạch cầm cố điện thoại laptop và xe nhưng được gia đình cứu vãn giải quyết mỗi lần tầm 20 - 30tr cũng ít nhất 6,7 lần rồi giờ mình rất tuyệt vọng vì những gì mình đã gây ra đang dự định kết thúc cs bằng thuốc ngủ vì không biết sẽ phải đối mặt với người thân nhất là với cha mẹ ra sao khi họ biết chuyện này.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ok-Artist6995"&gt; /u/Ok-Artist6995 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1n9v9c3/cbm_và_ý_định_44/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1n9v9c3/cbm_và_ý_định_44/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1n9v9c3/cbm_và_ý_định_44/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-06T09:30:07+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1n9v9xc</id>
     <title>Sau khi chết có gì? Trong tương lai vô hạn con người có biết chắc không? 🤔</title>
     <updated>2025-09-06T09:31:09+00:00</updated>
@@ -279,6 +253,32 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1n9cj2n/bị_gia_đình_ép_về_nhà_thành_lập_công_ty/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-05T18:08:20+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1n9vddl</id>
+    <title>Thời gian nhận phản hồi trên các nền tảng tuyển dụng</title>
+    <updated>2025-09-06T09:37:20+00:00</updated>
+    <author>
+      <name>/u/ContributionWorth252</name>
+      <uri>https://old.reddit.com/user/ContributionWorth252</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em chào mọi người. Em vừa mới ra trường đang tìm việc làm full time. Em vừa gửi hồ sơ một vài vị trí mình quan tâm trên TopCV, Vietnamwork, linkedin.&lt;/p&gt; &lt;p&gt;Em muốn hỏi thời gian trung bình các công ty phản hồi thường là bao lâu. Em gửi vài vị trí từ 27/8, 31/8 nhưng h chưa thấy phản hồi. 😓&lt;/p&gt; &lt;p&gt;Tiện anh chị nào tuyển dụng các vị trí CS, procurement/ purchasing hoặc các vị trí tương tự có thể cmt post này. Em sẽ chủ động gửi CV ạ.&lt;/p&gt; &lt;p&gt;Em cảm ơn mn nhiều! &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ContributionWorth252"&gt; /u/ContributionWorth252 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1n9vddl/thời_gian_nhận_phản_hồi_trên_các_nền_tảng_tuyển/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1n9vddl/thời_gian_nhận_phản_hồi_trên_các_nền_tảng_tuyển/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1n9vddl/thời_gian_nhận_phản_hồi_trên_các_nền_tảng_tuyển/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-06T09:37:20+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1n9vigy</id>
+    <title>Em dùng 4060 7500f mà chơi pubg cpu toàn 80 độ đổ xuống thì có gọi là bất ổn ko ạ, em dùng tản tháp, với bác nào rành thì chỉ em tối ưu bios với, em dùng main tuf</title>
+    <updated>2025-09-06T09:46:18+00:00</updated>
+    <author>
+      <name>/u/EfficientFeedback163</name>
+      <uri>https://old.reddit.com/user/EfficientFeedback163</uri>
+    </author>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/EfficientFeedback163"&gt; /u/EfficientFeedback163 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1n9vigy/em_dùng_4060_7500f_mà_chơi_pubg_cpu_toàn_80_độ_đổ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1n9vigy/em_dùng_4060_7500f_mà_chơi_pubg_cpu_toàn_80_độ_đổ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1n9vigy/em_dùng_4060_7500f_mà_chơi_pubg_cpu_toàn_80_độ_đổ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-06T09:46:18+00:00</published>
   </entry>
   <entry>
     <id>t3_1n9pbxq</id>
