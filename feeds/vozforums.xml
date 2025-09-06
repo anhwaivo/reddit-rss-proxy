@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-09-06T05:15:16+00:00</updated>
+  <updated>2025-09-06T05:37:48+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -177,19 +177,6 @@
     <published>2025-09-06T03:32:30+00:00</published>
   </entry>
   <entry>
-    <id>t3_1n9q1in</id>
-    <title>Chuyện đi rừng</title>
-    <updated>2025-09-06T04:10:14+00:00</updated>
-    <author>
-      <name>/u/RimTona</name>
-      <uri>https://old.reddit.com/user/RimTona</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các anh chị nào nhà gần rừng hay những chuyến touring đi rừng nào có những câu chuyện tâm linh hay vấn đề nào hay hay kể em với! Em nhà ở quê đồng bằng ruộng lúa ít có rừng nên chưa hiểu lắm tự dưng hỗm nay thích cái chủ đề này quá anh chị kể em nghe, em cảm ơn rất nhiều!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/RimTona"&gt; /u/RimTona &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1n9q1in/chuyện_đi_rừng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1n9q1in/chuyện_đi_rừng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1n9q1in/chuyện_đi_rừng/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-06T04:10:14+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1n9qw2u</id>
     <title>Mua ghế công thái học (hoặc chỉ ghế bth ngồi cho êm với mát)</title>
     <updated>2025-09-06T04:57:50+00:00</updated>
@@ -268,6 +255,19 @@
     <published>2025-09-05T08:15:21+00:00</published>
   </entry>
   <entry>
+    <id>t3_1n963e9</id>
+    <title>Đi nước ngoài có phải là trốn nghĩa vụ quân sự không ?</title>
+    <updated>2025-09-05T14:01:28+00:00</updated>
+    <author>
+      <name>/u/quyet249</name>
+      <uri>https://old.reddit.com/user/quyet249</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Năm sau em bị gọi mà em muốn đi Nhật thì có tính là trốn không ạ ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/quyet249"&gt; /u/quyet249 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1n963e9/đi_nước_ngoài_có_phải_là_trốn_nghĩa_vụ_quân_sự/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1n963e9/đi_nước_ngoài_có_phải_là_trốn_nghĩa_vụ_quân_sự/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1n963e9/đi_nước_ngoài_có_phải_là_trốn_nghĩa_vụ_quân_sự/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-05T14:01:28+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1n8unbv</id>
     <title>có cách nào để thêm thu nhập?</title>
     <updated>2025-09-05T03:27:48+00:00</updated>
@@ -281,17 +281,17 @@
     <published>2025-09-05T03:27:48+00:00</published>
   </entry>
   <entry>
-    <id>t3_1n963e9</id>
-    <title>Đi nước ngoài có phải là trốn nghĩa vụ quân sự không ?</title>
-    <updated>2025-09-05T14:01:28+00:00</updated>
+    <id>t3_1n9q1in</id>
+    <title>Chuyện đi rừng</title>
+    <updated>2025-09-06T04:10:14+00:00</updated>
     <author>
-      <name>/u/quyet249</name>
-      <uri>https://old.reddit.com/user/quyet249</uri>
+      <name>/u/RimTona</name>
+      <uri>https://old.reddit.com/user/RimTona</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Năm sau em bị gọi mà em muốn đi Nhật thì có tính là trốn không ạ ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/quyet249"&gt; /u/quyet249 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1n963e9/đi_nước_ngoài_có_phải_là_trốn_nghĩa_vụ_quân_sự/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1n963e9/đi_nước_ngoài_có_phải_là_trốn_nghĩa_vụ_quân_sự/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1n963e9/đi_nước_ngoài_có_phải_là_trốn_nghĩa_vụ_quân_sự/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các anh chị nào nhà gần rừng hay những chuyến touring đi rừng nào có những câu chuyện tâm linh hay vấn đề nào hay hay kể em với! Em nhà ở quê đồng bằng ruộng lúa ít có rừng nên chưa hiểu lắm tự dưng hỗm nay thích cái chủ đề này quá anh chị kể em nghe, em cảm ơn rất nhiều!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/RimTona"&gt; /u/RimTona &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1n9q1in/chuyện_đi_rừng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1n9q1in/chuyện_đi_rừng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1n9q1in/chuyện_đi_rừng/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-05T14:01:28+00:00</published>
+    <published>2025-09-06T04:10:14+00:00</published>
   </entry>
   <entry>
     <id>t3_1n9ob8m</id>
