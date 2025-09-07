@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-09-07T10:38:28+00:00</updated>
+  <updated>2025-09-07T10:50:10+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -45,6 +45,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1na766h/xuất_phát_muộn_2k8/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-06T18:37:50+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nak6by</id>
+    <title>Câu hỏi về công nghệ thông tin và thuật toán</title>
+    <updated>2025-09-07T04:40:39+00:00</updated>
+    <author>
+      <name>/u/Chunghiacanhanvidai</name>
+      <uri>https://old.reddit.com/user/Chunghiacanhanvidai</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Một số ông chuyên về lĩnh vực IT, thành thạo ngôn ngữ tiếng Anh có thể giúp tôi giải đáp một câu hỏi đó là tại sao có một số cộng đồng Reddit tiếng Anh ở trên nền tảng này là có những quy luật kiểm duyệt rất là khó hiểu. &lt;/p&gt; &lt;p&gt;Chẳng hạn như việc cũng cùng nội dung đăng trên cùng một cộng đồng thì có người đăng được nhưng có người là không thể đăng được vì bị Reddit Filter đánh dấu thùng rác màu đỏ ở trên góc.&lt;/p&gt; &lt;p&gt;Bình luận cũng tương tự khi mà cùng một nội dung về cùng một bài viết ở trên cùng một cộng đồng thì có người đăng được nhưng có người vừa đăng bình luận xong thì bị xóa ngay lập tức.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Chunghiacanhanvidai"&gt; /u/Chunghiacanhanvidai &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nak6by/câu_hỏi_về_công_nghệ_thông_tin_và_thuật_toán/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nak6by/câu_hỏi_về_công_nghệ_thông_tin_và_thuật_toán/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nak6by/câu_hỏi_về_công_nghệ_thông_tin_và_thuật_toán/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-07T04:40:39+00:00</published>
   </entry>
   <entry>
     <id>t3_1naajh6</id>
@@ -151,32 +164,6 @@
     <published>2025-09-07T07:55:01+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nanfz5</id>
-    <title>Hỏi cách mua hàng trên banggood?</title>
-    <updated>2025-09-07T07:58:05+00:00</updated>
-    <author>
-      <name>/u/daogiahieu</name>
-      <uri>https://old.reddit.com/user/daogiahieu</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Có bác nào đã từng mua hàng qua app banggood chưa ạ?&lt;br /&gt; Mình đang muốn mua món đồ, sau khi áp code giá còn khoảng 1tr2. Thì có thể đặt nó ship trực tiếp về không nhỉ? Mình sợ mua xong phải làm tờ khai thủ tục HQ, đóng thuế má các thứ cũng hơi phức tạp.&lt;br /&gt; Ko biết là ship về nhận luôn như shopee hay phải đặt qua trung gian ở đâu cho tiện không ạ? Bác nào có kinh nghiệm chỉ mình với, cảm ơn mọi người.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/daogiahieu"&gt; /u/daogiahieu &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nanfz5/hỏi_cách_mua_hàng_trên_banggood/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nanfz5/hỏi_cách_mua_hàng_trên_banggood/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nanfz5/hỏi_cách_mua_hàng_trên_banggood/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-07T07:58:05+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1nak6by</id>
-    <title>Câu hỏi về công nghệ thông tin và thuật toán</title>
-    <updated>2025-09-07T04:40:39+00:00</updated>
-    <author>
-      <name>/u/Chunghiacanhanvidai</name>
-      <uri>https://old.reddit.com/user/Chunghiacanhanvidai</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Một số ông chuyên về lĩnh vực IT, thành thạo ngôn ngữ tiếng Anh có thể giúp tôi giải đáp một câu hỏi đó là tại sao có một số cộng đồng Reddit tiếng Anh ở trên nền tảng này là có những quy luật kiểm duyệt rất là khó hiểu. &lt;/p&gt; &lt;p&gt;Chẳng hạn như việc cũng cùng nội dung đăng trên cùng một cộng đồng thì có người đăng được nhưng có người là không thể đăng được vì bị Reddit Filter đánh dấu thùng rác màu đỏ ở trên góc.&lt;/p&gt; &lt;p&gt;Bình luận cũng tương tự khi mà cùng một nội dung về cùng một bài viết ở trên cùng một cộng đồng thì có người đăng được nhưng có người vừa đăng bình luận xong thì bị xóa ngay lập tức.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Chunghiacanhanvidai"&gt; /u/Chunghiacanhanvidai &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nak6by/câu_hỏi_về_công_nghệ_thông_tin_và_thuật_toán/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nak6by/câu_hỏi_về_công_nghệ_thông_tin_và_thuật_toán/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nak6by/câu_hỏi_về_công_nghệ_thông_tin_và_thuật_toán/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-07T04:40:39+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1naoatn</id>
     <title>Build PC dưới 35M</title>
     <updated>2025-09-07T08:52:55+00:00</updated>
@@ -242,6 +229,19 @@
     <published>2025-09-07T02:33:26+00:00</published>
   </entry>
   <entry>
+    <id>t3_1nanfz5</id>
+    <title>Hỏi cách mua hàng trên banggood?</title>
+    <updated>2025-09-07T07:58:05+00:00</updated>
+    <author>
+      <name>/u/daogiahieu</name>
+      <uri>https://old.reddit.com/user/daogiahieu</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Có bác nào đã từng mua hàng qua app banggood chưa ạ?&lt;br /&gt; Mình đang muốn mua món đồ, sau khi áp code giá còn khoảng 1tr2. Thì có thể đặt nó ship trực tiếp về không nhỉ? Mình sợ mua xong phải làm tờ khai thủ tục HQ, đóng thuế má các thứ cũng hơi phức tạp.&lt;br /&gt; Ko biết là ship về nhận luôn như shopee hay phải đặt qua trung gian ở đâu cho tiện không ạ? Bác nào có kinh nghiệm chỉ mình với, cảm ơn mọi người.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/daogiahieu"&gt; /u/daogiahieu &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nanfz5/hỏi_cách_mua_hàng_trên_banggood/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nanfz5/hỏi_cách_mua_hàng_trên_banggood/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nanfz5/hỏi_cách_mua_hàng_trên_banggood/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-07T07:58:05+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1n9zviq</id>
     <title>Tiền điện tháng 8 tăng vọt</title>
     <updated>2025-09-06T13:42:00+00:00</updated>
@@ -268,19 +268,6 @@
     <published>2025-09-07T09:24:24+00:00</published>
   </entry>
   <entry>
-    <id>t3_1napbmi</id>
-    <title>Xin việc khi còn nợ môn</title>
-    <updated>2025-09-07T09:59:21+00:00</updated>
-    <author>
-      <name>/u/kitchcu</name>
-      <uri>https://old.reddit.com/user/kitchcu</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em hiện tại đã hoàn thành đồ án tốt nghiệp và các chứng chỉ cần thiết để ra trường, không may thì em lại bị rớt 1 môn và sẽ hoàn thành nó vào cuối tháng 11 năm nay, còn bằng tốt nghiệp thì em chưa biết khi nào có. Liệu có cách nào để xin việc không ạ ? Kiểu em muốn hỏi là cách trả lời phỏng vấn như thế nào để người ta chấp nhận cho học việc ấy ạ. Mong các anh chị đã có kinh nghiệm giúp em chứ em nôn nao lắm rồi :((&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/kitchcu"&gt; /u/kitchcu &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1napbmi/xin_việc_khi_còn_nợ_môn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1napbmi/xin_việc_khi_còn_nợ_môn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1napbmi/xin_việc_khi_còn_nợ_môn/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-07T09:59:21+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1na19iy</id>
     <title>Công án dí dùi cui điện vào dân</title>
     <updated>2025-09-06T14:41:56+00:00</updated>
@@ -305,6 +292,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nan9gr/tư_vấn_thinkpad/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-07T07:46:01+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1napbmi</id>
+    <title>Xin việc khi còn nợ môn</title>
+    <updated>2025-09-07T09:59:21+00:00</updated>
+    <author>
+      <name>/u/kitchcu</name>
+      <uri>https://old.reddit.com/user/kitchcu</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em hiện tại đã hoàn thành đồ án tốt nghiệp và các chứng chỉ cần thiết để ra trường, không may thì em lại bị rớt 1 môn và sẽ hoàn thành nó vào cuối tháng 11 năm nay, còn bằng tốt nghiệp thì em chưa biết khi nào có. Liệu có cách nào để xin việc không ạ ? Kiểu em muốn hỏi là cách trả lời phỏng vấn như thế nào để người ta chấp nhận cho học việc ấy ạ. Mong các anh chị đã có kinh nghiệm giúp em chứ em nôn nao lắm rồi :((&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/kitchcu"&gt; /u/kitchcu &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1napbmi/xin_việc_khi_còn_nợ_môn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1napbmi/xin_việc_khi_còn_nợ_môn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1napbmi/xin_việc_khi_còn_nợ_môn/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-07T09:59:21+00:00</published>
   </entry>
   <entry>
     <id>t3_1nal40c</id>
