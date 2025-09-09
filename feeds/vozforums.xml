@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-09-09T06:50:18+00:00</updated>
+  <updated>2025-09-09T07:17:42+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -99,19 +99,6 @@
     <published>2025-09-08T14:51:20+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nboxnp</id>
-    <title>Mua USDT/USDC coin hay mua đô?</title>
-    <updated>2025-09-08T14:16:52+00:00</updated>
-    <author>
-      <name>/u/Green-Pineapple-1850</name>
-      <uri>https://old.reddit.com/user/Green-Pineapple-1850</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tình hình tiền VN mất giá quá, em tích được 150M sau 5 năm, định cứ gửi tiết kiệm quay vòng đều đều ăn lãi kép nhưng có vẻ so với trượt giá không ăn thua. Định mua vàng nhưng ngồi xếp hàng dài thôi khỏi. Mua đô bằng giấy tích trữ thì không biết để đâu lại còn dễ hỏng (Gấp nếp cái là mất giá). Còn mỗi coin usdt/usdc định mua rồi vất tạm vào ví nào đó cho qua bão lạm phát này rồi quay về VND thì có nên không các bác?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Green-Pineapple-1850"&gt; /u/Green-Pineapple-1850 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nboxnp/mua_usdtusdc_coin_hay_mua_đô/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nboxnp/mua_usdtusdc_coin_hay_mua_đô/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nboxnp/mua_usdtusdc_coin_hay_mua_đô/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-08T14:16:52+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1ncarwm</id>
     <title>Ký gửi vàng ngân hàng</title>
     <updated>2025-09-09T05:39:51+00:00</updated>
@@ -123,6 +110,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ncarwm/ký_gửi_vàng_ngân_hàng/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-09T05:39:51+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nboxnp</id>
+    <title>Mua USDT/USDC coin hay mua đô?</title>
+    <updated>2025-09-08T14:16:52+00:00</updated>
+    <author>
+      <name>/u/Green-Pineapple-1850</name>
+      <uri>https://old.reddit.com/user/Green-Pineapple-1850</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tình hình tiền VN mất giá quá, em tích được 150M sau 5 năm, định cứ gửi tiết kiệm quay vòng đều đều ăn lãi kép nhưng có vẻ so với trượt giá không ăn thua. Định mua vàng nhưng ngồi xếp hàng dài thôi khỏi. Mua đô bằng giấy tích trữ thì không biết để đâu lại còn dễ hỏng (Gấp nếp cái là mất giá). Còn mỗi coin usdt/usdc định mua rồi vất tạm vào ví nào đó cho qua bão lạm phát này rồi quay về VND thì có nên không các bác?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Green-Pineapple-1850"&gt; /u/Green-Pineapple-1850 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nboxnp/mua_usdtusdc_coin_hay_mua_đô/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nboxnp/mua_usdtusdc_coin_hay_mua_đô/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nboxnp/mua_usdtusdc_coin_hay_mua_đô/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-08T14:16:52+00:00</published>
   </entry>
   <entry>
     <id>t3_1nbysqk</id>
