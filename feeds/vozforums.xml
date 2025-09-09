@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-09-09T16:46:30+00:00</updated>
+  <updated>2025-09-09T17:15:43+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1nci4pz</id>
-    <title>Lỗi loạn cảm ứng trên iphone X sửa hết bao nhiêu</title>
-    <updated>2025-09-09T12:54:32+00:00</updated>
-    <author>
-      <name>/u/doantv9x</name>
-      <uri>https://old.reddit.com/user/doantv9x</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các bác sửa hết bn để em gom lúa đi sửa ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/doantv9x"&gt; /u/doantv9x &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nci4pz/lỗi_loạn_cảm_ứng_trên_iphone_x_sửa_hết_bao_nhiêu/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nci4pz/lỗi_loạn_cảm_ứng_trên_iphone_x_sửa_hết_bao_nhiêu/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nci4pz/lỗi_loạn_cảm_ứng_trên_iphone_x_sửa_hết_bao_nhiêu/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-09T12:54:32+00:00</published>
-  </entry>
   <entry>
     <id>t3_1nci9c0</id>
     <title>chuyện về khởi nghiệp kinh doanh về cục server</title>
@@ -34,19 +21,6 @@
     <published>2025-09-09T13:00:09+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nbrh6k</id>
-    <title>40tr thì nên dùng làm gì</title>
-    <updated>2025-09-08T15:53:35+00:00</updated>
-    <author>
-      <name>/u/GenesisGeno</name>
-      <uri>https://old.reddit.com/user/GenesisGeno</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình nay 22, có 40tr trong tk nhờ đi làm vs tiết kiệm từ lúc mới vào đại học. Mình có nên đầu tư z hay có cách nào để nó sinh lời thụ động ko, ko nhiều cx đc, miễn là kiếm thêm đc chút đỉnh. Mong đc các bác chỉ giáo&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/GenesisGeno"&gt; /u/GenesisGeno &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nbrh6k/40tr_thì_nên_dùng_làm_gì/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nbrh6k/40tr_thì_nên_dùng_làm_gì/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nbrh6k/40tr_thì_nên_dùng_làm_gì/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-08T15:53:35+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1ncie83</id>
     <title>hỏi chỗ đi chơi gia đình, ngã tư Thủ Đức</title>
     <updated>2025-09-09T13:05:43+00:00</updated>
@@ -58,6 +32,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ncie83/hỏi_chỗ_đi_chơi_gia_đình_ngã_tư_thủ_đức/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-09T13:05:43+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nbrh6k</id>
+    <title>40tr thì nên dùng làm gì</title>
+    <updated>2025-09-08T15:53:35+00:00</updated>
+    <author>
+      <name>/u/GenesisGeno</name>
+      <uri>https://old.reddit.com/user/GenesisGeno</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình nay 22, có 40tr trong tk nhờ đi làm vs tiết kiệm từ lúc mới vào đại học. Mình có nên đầu tư z hay có cách nào để nó sinh lời thụ động ko, ko nhiều cx đc, miễn là kiếm thêm đc chút đỉnh. Mong đc các bác chỉ giáo&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/GenesisGeno"&gt; /u/GenesisGeno &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nbrh6k/40tr_thì_nên_dùng_làm_gì/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nbrh6k/40tr_thì_nên_dùng_làm_gì/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nbrh6k/40tr_thì_nên_dùng_làm_gì/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-08T15:53:35+00:00</published>
   </entry>
   <entry>
     <id>t3_1nc97h3</id>
@@ -203,6 +190,19 @@
     <published>2025-09-09T10:42:38+00:00</published>
   </entry>
   <entry>
+    <id>t3_1nco75t</id>
+    <title>Học tiếng Nhật</title>
+    <updated>2025-09-09T16:50:29+00:00</updated>
+    <author>
+      <name>/u/No_Dot_1279</name>
+      <uri>https://old.reddit.com/user/No_Dot_1279</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Có bác nào học bảng chữ cái tiếng Nhật mà gần 1 tháng ko thuộc được ko? Em đang học lên N5 để T12 này thi mà khá khoai 🥲. Bác nào có kinh nghiệm rồi chỉ em với ạ, em cám ơn các bác nhiều ạ &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/No_Dot_1279"&gt; /u/No_Dot_1279 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nco75t/học_tiếng_nhật/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nco75t/học_tiếng_nhật/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nco75t/học_tiếng_nhật/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-09T16:50:29+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1nckf33</id>
     <title>Có ông nào muốn chơi stardew valley cùng ko?</title>
     <updated>2025-09-09T14:27:36+00:00</updated>
@@ -229,19 +229,6 @@
     <published>2025-09-09T16:10:35+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ncl8nz</id>
-    <title>Con trai thích con gái chân chất hay chỉn chu?</title>
-    <updated>2025-09-09T14:59:13+00:00</updated>
-    <author>
-      <name>/u/No_Obligation_2250</name>
-      <uri>https://old.reddit.com/user/No_Obligation_2250</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình là nữ năm nay 24 tuổi, muốn xin ý kiến của các bạn là con gái thì nên trang điểm trâu chuốt khi đi ra ngoài hay mặt mộc tự nhiên thì sẽ cuốn hút ghi điểm với phái nam hơn&lt;/p&gt; &lt;p&gt;Mong nhận được sự góp ý từ cộng đồng&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/No_Obligation_2250"&gt; /u/No_Obligation_2250 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ncl8nz/con_trai_thích_con_gái_chân_chất_hay_chỉn_chu/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ncl8nz/con_trai_thích_con_gái_chân_chất_hay_chỉn_chu/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ncl8nz/con_trai_thích_con_gái_chân_chất_hay_chỉn_chu/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-09T14:59:13+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nck6bs</id>
     <title>Vàng khi nào thì giảm?</title>
     <updated>2025-09-09T14:18:07+00:00</updated>
@@ -255,17 +242,17 @@
     <published>2025-09-09T14:18:07+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nc9uxp</id>
-    <title>Không thoát được sốc văn hoá ngược</title>
-    <updated>2025-09-09T04:45:26+00:00</updated>
+    <id>t3_1ncl8nz</id>
+    <title>Con trai thích con gái chân chất hay chỉn chu?</title>
+    <updated>2025-09-09T14:59:13+00:00</updated>
     <author>
-      <name>/u/RipJunior9404</name>
-      <uri>https://old.reddit.com/user/RipJunior9404</uri>
+      <name>/u/No_Obligation_2250</name>
+      <uri>https://old.reddit.com/user/No_Obligation_2250</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình từng là 1 dhs úc. Từng mong mỏi ngày về VN để được đoàn tụ bên người thân yêu, để cống hiến cho mảnh đất nơi mình sinh ra và sẽ có những trải nghiệm thật ý nghĩa. Nhưng nửa năm rồi, có 1 công việc ổn định, sống cùng bố mẹ, nhưng mình chưa baoh cảm thấy cuộc sống vô nghĩa đến thế. Nghĩ về số tiền mình kiếm được so với bạn bè ở nước ngoài, về mức sống của ng việt,… làm mình không thể thoát ra khỏi vòng suy nghĩ tiêu cực luẩn quẩn. Tại sao mình lại ở đây? Tại sao mình phải cố gắng khi dù có cố gắng đến mấy cũng không thể có 1 csong như họ? Khó khăn nữa là tìm kiếm sự đồng cảm từ những ng bạn, ng thân. Khi họ không có góc nhìn của 1 ng từng sinh sống tại các nước phương tây phát triển. Mong mn có thể cho mình lời khuyên, làm thế nào để suy nghĩ tích cực hơn. Rất cần góc nhìn của những cựu du học sinh lựa chọn quay về.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/RipJunior9404"&gt; /u/RipJunior9404 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nc9uxp/không_thoát_được_sốc_văn_hoá_ngược/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nc9uxp/không_thoát_được_sốc_văn_hoá_ngược/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nc9uxp/không_thoát_được_sốc_văn_hoá_ngược/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình là nữ năm nay 24 tuổi, muốn xin ý kiến của các bạn là con gái thì nên trang điểm trâu chuốt khi đi ra ngoài hay mặt mộc tự nhiên thì sẽ cuốn hút ghi điểm với phái nam hơn&lt;/p&gt; &lt;p&gt;Mong nhận được sự góp ý từ cộng đồng&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/No_Obligation_2250"&gt; /u/No_Obligation_2250 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ncl8nz/con_trai_thích_con_gái_chân_chất_hay_chỉn_chu/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ncl8nz/con_trai_thích_con_gái_chân_chất_hay_chỉn_chu/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ncl8nz/con_trai_thích_con_gái_chân_chất_hay_chỉn_chu/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-09T04:45:26+00:00</published>
+    <published>2025-09-09T14:59:13+00:00</published>
   </entry>
   <entry>
     <id>t3_1nc84hz</id>
@@ -279,6 +266,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nc84hz/ny_rất_thích_đi_chơi_và_có_hành_động_cử_chỉ_thân/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-09T03:13:19+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nc9uxp</id>
+    <title>Không thoát được sốc văn hoá ngược</title>
+    <updated>2025-09-09T04:45:26+00:00</updated>
+    <author>
+      <name>/u/RipJunior9404</name>
+      <uri>https://old.reddit.com/user/RipJunior9404</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình từng là 1 dhs úc. Từng mong mỏi ngày về VN để được đoàn tụ bên người thân yêu, để cống hiến cho mảnh đất nơi mình sinh ra và sẽ có những trải nghiệm thật ý nghĩa. Nhưng nửa năm rồi, có 1 công việc ổn định, sống cùng bố mẹ, nhưng mình chưa baoh cảm thấy cuộc sống vô nghĩa đến thế. Nghĩ về số tiền mình kiếm được so với bạn bè ở nước ngoài, về mức sống của ng việt,… làm mình không thể thoát ra khỏi vòng suy nghĩ tiêu cực luẩn quẩn. Tại sao mình lại ở đây? Tại sao mình phải cố gắng khi dù có cố gắng đến mấy cũng không thể có 1 csong như họ? Khó khăn nữa là tìm kiếm sự đồng cảm từ những ng bạn, ng thân. Khi họ không có góc nhìn của 1 ng từng sinh sống tại các nước phương tây phát triển. Mong mn có thể cho mình lời khuyên, làm thế nào để suy nghĩ tích cực hơn. Rất cần góc nhìn của những cựu du học sinh lựa chọn quay về.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/RipJunior9404"&gt; /u/RipJunior9404 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nc9uxp/không_thoát_được_sốc_văn_hoá_ngược/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nc9uxp/không_thoát_được_sốc_văn_hoá_ngược/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nc9uxp/không_thoát_được_sốc_văn_hoá_ngược/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-09T04:45:26+00:00</published>
   </entry>
   <entry>
     <id>t3_1ncct28</id>
