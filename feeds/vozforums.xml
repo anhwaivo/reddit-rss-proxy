@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-09-09T16:22:33+00:00</updated>
+  <updated>2025-09-09T16:46:30+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -60,19 +60,6 @@
     <published>2025-09-09T13:05:43+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nc85ea</id>
-    <title>Máy lọc không khí có thực sự hiệu quả không?</title>
-    <updated>2025-09-09T03:14:34+00:00</updated>
-    <author>
-      <name>/u/LivingDog9168</name>
-      <uri>https://old.reddit.com/user/LivingDog9168</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các bác có kinh nghiệm tư vấn giúp mình. Mình đang định mua máy lọc không khí với kinh phí &amp;lt;1tr5 để trong phòng rộng khoảng 25m2. Mình băng khoăn là thực sự máy lọc không khí có hiệu quả không hay chỉ là mua sự an tâm? Mình cần hiệu quả thực sự vì phòng mình tích bụi rất nhiều. Cứ cách vài ngày là phải lau chùi một lần. Nếu được thì nhờ các bác tư vấn giúp mình một số mẫu trong tầm giá dưới 1tr5. Cảm ơn các bác.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/LivingDog9168"&gt; /u/LivingDog9168 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nc85ea/máy_lọc_không_khí_có_thực_sự_hiệu_quả_không/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nc85ea/máy_lọc_không_khí_có_thực_sự_hiệu_quả_không/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nc85ea/máy_lọc_không_khí_có_thực_sự_hiệu_quả_không/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-09T03:14:34+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nc97h3</id>
     <title>Tại sao quảng cáo lừa đảo tràn lan trên mạng xã hội mà chẳng thấy ai thông báo hay cảnh báo chính thức?</title>
     <updated>2025-09-09T04:09:31+00:00</updated>
@@ -84,6 +71,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nc97h3/tại_sao_quảng_cáo_lừa_đảo_tràn_lan_trên_mạng_xã/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-09T04:09:31+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nc85ea</id>
+    <title>Máy lọc không khí có thực sự hiệu quả không?</title>
+    <updated>2025-09-09T03:14:34+00:00</updated>
+    <author>
+      <name>/u/LivingDog9168</name>
+      <uri>https://old.reddit.com/user/LivingDog9168</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các bác có kinh nghiệm tư vấn giúp mình. Mình đang định mua máy lọc không khí với kinh phí &amp;lt;1tr5 để trong phòng rộng khoảng 25m2. Mình băng khoăn là thực sự máy lọc không khí có hiệu quả không hay chỉ là mua sự an tâm? Mình cần hiệu quả thực sự vì phòng mình tích bụi rất nhiều. Cứ cách vài ngày là phải lau chùi một lần. Nếu được thì nhờ các bác tư vấn giúp mình một số mẫu trong tầm giá dưới 1tr5. Cảm ơn các bác.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/LivingDog9168"&gt; /u/LivingDog9168 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nc85ea/máy_lọc_không_khí_có_thực_sự_hiệu_quả_không/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nc85ea/máy_lọc_không_khí_có_thực_sự_hiệu_quả_không/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nc85ea/máy_lọc_không_khí_có_thực_sự_hiệu_quả_không/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-09T03:14:34+00:00</published>
   </entry>
   <entry>
     <id>t3_1nclfzt</id>
@@ -110,19 +110,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nclscc/tìm_mua_macbook_cũ/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-09T15:19:51+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1nclzc7</id>
-    <title>Mông lung khi mới ra trường</title>
-    <updated>2025-09-09T15:27:15+00:00</updated>
-    <author>
-      <name>/u/taipyn</name>
-      <uri>https://old.reddit.com/user/taipyn</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em sinh năm 2003, học ngành Kinh tế xây dựng.Trong lúc học đại học, em không thích ngành nên đã cố gắng học vượt để ra trường sớm.Ra trường đi làm, nhưng công việc ở công ty chỉ là lặt vặt, không học hỏi hay phát triển kỹ năng được. Hiện tại em rất mông lung về tương lai , anh chị có thể cho em lời khuyên được không 😿&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/taipyn"&gt; /u/taipyn &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nclzc7/mông_lung_khi_mới_ra_trường/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nclzc7/mông_lung_khi_mới_ra_trường/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nclzc7/mông_lung_khi_mới_ra_trường/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-09T15:27:15+00:00</published>
   </entry>
   <entry>
     <id>t3_1ncmxyv</id>
@@ -177,6 +164,19 @@
     <published>2025-09-09T02:45:17+00:00</published>
   </entry>
   <entry>
+    <id>t3_1nclzc7</id>
+    <title>Mông lung khi mới ra trường</title>
+    <updated>2025-09-09T15:27:15+00:00</updated>
+    <author>
+      <name>/u/taipyn</name>
+      <uri>https://old.reddit.com/user/taipyn</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em sinh năm 2003, học ngành Kinh tế xây dựng.Trong lúc học đại học, em không thích ngành nên đã cố gắng học vượt để ra trường sớm.Ra trường đi làm, nhưng công việc ở công ty chỉ là lặt vặt, không học hỏi hay phát triển kỹ năng được. Hiện tại em rất mông lung về tương lai , anh chị có thể cho em lời khuyên được không 😿&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/taipyn"&gt; /u/taipyn &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nclzc7/mông_lung_khi_mới_ra_trường/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nclzc7/mông_lung_khi_mới_ra_trường/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nclzc7/mông_lung_khi_mới_ra_trường/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-09T15:27:15+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1nc9smc</id>
     <title>CẢM THẤY THẾ NÀO KHI ĐI XEM PHIM 1 MÌNH</title>
     <updated>2025-09-09T04:41:52+00:00</updated>
@@ -188,19 +188,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nc9smc/cảm_thấy_thế_nào_khi_đi_xem_phim_1_mình/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-09T04:41:52+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1ncn50e</id>
-    <title>Sinh viên nên tiết kiệm thế nào ạ?</title>
-    <updated>2025-09-09T16:10:35+00:00</updated>
-    <author>
-      <name>/u/Negative_Plankton_99</name>
-      <uri>https://old.reddit.com/user/Negative_Plankton_99</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em chào các bác ạ. Em hiện đang là sinh viên năm 2 của một trường Đại học ở HN. Hiện thì e cx đang tích cóp được một khoản khá nhỏ (~5tr) và đang có mong muốn để dành dụm dần dần. Mỗi tháng e có thể gửi thêm khoảng 1.5 - 2tr tùy tháng. Em hiện đang dùng Techcombank sinh lời tự động, xong e thấy nó cx không lãi được thêm bao nhiêu. Em có đang tìm hiểu về Binance Earn nhưng chưa quá hiểu. Mong có bác nào có thể chỉ bảo thêm hoặc giới thiệu thêm một vài nền tảng để em gửi tiền vào cho nó sinh lãi ạ. Em cảm ơn mọi người ạ. PS: em không cần dành tiền để học thêm kỹ năng hay sinh hoạt phí vì gia đình em ở HN và cx khá thoáng tay với việc đi học thêm các kỹ năng ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Negative_Plankton_99"&gt; /u/Negative_Plankton_99 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ncn50e/sinh_viên_nên_tiết_kiệm_thế_nào_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ncn50e/sinh_viên_nên_tiết_kiệm_thế_nào_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ncn50e/sinh_viên_nên_tiết_kiệm_thế_nào_ạ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-09T16:10:35+00:00</published>
   </entry>
   <entry>
     <id>t3_1ncfgql</id>
@@ -229,17 +216,17 @@
     <published>2025-09-09T14:27:36+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nck6bs</id>
-    <title>Vàng khi nào thì giảm?</title>
-    <updated>2025-09-09T14:18:07+00:00</updated>
+    <id>t3_1ncn50e</id>
+    <title>Sinh viên nên tiết kiệm thế nào ạ?</title>
+    <updated>2025-09-09T16:10:35+00:00</updated>
     <author>
-      <name>/u/AccomplishedTough539</name>
-      <uri>https://old.reddit.com/user/AccomplishedTough539</uri>
+      <name>/u/Negative_Plankton_99</name>
+      <uri>https://old.reddit.com/user/Negative_Plankton_99</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Xin chào mọi người, em chỉ là đang học tập 1 chút về kinh tế, em có thắc mắc là xu hướng vàng lúc nào cũng tăng và giai doạn này tăng mạnh, không biết khi nào thì vàng mới giảm và những nguyên nhân theo lí thuyết khiến vàng có thể giảm (em đang tìm hiểu nên hỏi hơi ngố ạ)&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/AccomplishedTough539"&gt; /u/AccomplishedTough539 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nck6bs/vàng_khi_nào_thì_giảm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nck6bs/vàng_khi_nào_thì_giảm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nck6bs/vàng_khi_nào_thì_giảm/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em chào các bác ạ. Em hiện đang là sinh viên năm 2 của một trường Đại học ở HN. Hiện thì e cx đang tích cóp được một khoản khá nhỏ (~5tr) và đang có mong muốn để dành dụm dần dần. Mỗi tháng e có thể gửi thêm khoảng 1.5 - 2tr tùy tháng. Em hiện đang dùng Techcombank sinh lời tự động, xong e thấy nó cx không lãi được thêm bao nhiêu. Em có đang tìm hiểu về Binance Earn nhưng chưa quá hiểu. Mong có bác nào có thể chỉ bảo thêm hoặc giới thiệu thêm một vài nền tảng để em gửi tiền vào cho nó sinh lãi ạ. Em cảm ơn mọi người ạ. PS: em không cần dành tiền để học thêm kỹ năng hay sinh hoạt phí vì gia đình em ở HN và cx khá thoáng tay với việc đi học thêm các kỹ năng ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Negative_Plankton_99"&gt; /u/Negative_Plankton_99 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ncn50e/sinh_viên_nên_tiết_kiệm_thế_nào_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ncn50e/sinh_viên_nên_tiết_kiệm_thế_nào_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ncn50e/sinh_viên_nên_tiết_kiệm_thế_nào_ạ/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-09T14:18:07+00:00</published>
+    <published>2025-09-09T16:10:35+00:00</published>
   </entry>
   <entry>
     <id>t3_1ncl8nz</id>
@@ -253,6 +240,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ncl8nz/con_trai_thích_con_gái_chân_chất_hay_chỉn_chu/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-09T14:59:13+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nck6bs</id>
+    <title>Vàng khi nào thì giảm?</title>
+    <updated>2025-09-09T14:18:07+00:00</updated>
+    <author>
+      <name>/u/AccomplishedTough539</name>
+      <uri>https://old.reddit.com/user/AccomplishedTough539</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Xin chào mọi người, em chỉ là đang học tập 1 chút về kinh tế, em có thắc mắc là xu hướng vàng lúc nào cũng tăng và giai doạn này tăng mạnh, không biết khi nào thì vàng mới giảm và những nguyên nhân theo lí thuyết khiến vàng có thể giảm (em đang tìm hiểu nên hỏi hơi ngố ạ)&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/AccomplishedTough539"&gt; /u/AccomplishedTough539 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nck6bs/vàng_khi_nào_thì_giảm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nck6bs/vàng_khi_nào_thì_giảm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nck6bs/vàng_khi_nào_thì_giảm/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-09T14:18:07+00:00</published>
   </entry>
   <entry>
     <id>t3_1nc9uxp</id>
