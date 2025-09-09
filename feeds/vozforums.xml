@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-09-09T20:19:25+00:00</updated>
+  <updated>2025-09-09T20:39:07+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -281,19 +281,6 @@
     <published>2025-09-09T07:50:13+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nctj28</id>
-    <title>Làm ơn mắc oán</title>
-    <updated>2025-09-09T20:05:15+00:00</updated>
-    <author>
-      <name>/u/luubi1945</name>
-      <uri>https://old.reddit.com/user/luubi1945</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1nctj28/làm_ơn_mắc_oán/"&gt; &lt;img alt="Làm ơn mắc oán" src="https://preview.redd.it/k44uhly447of1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=8ae7b1c4889fd81963fc34e33fd2c8bdbdd94dbb" title="Làm ơn mắc oán" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Giờ nói chung gặp ai bị nạn thì gọi cứu thương tới chứ đừng giúp. Dân ngu ngoài kia nhiều lắm, không biết đúng sai. Như bầy khỉ đột.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/luubi1945"&gt; /u/luubi1945 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/k44uhly447of1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nctj28/làm_ơn_mắc_oán/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nctj28/làm_ơn_mắc_oán/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-09T20:05:15+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nc5bt7</id>
     <title>Tiền VND ở Mỹ</title>
     <updated>2025-09-09T00:58:38+00:00</updated>
@@ -305,6 +292,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nc5bt7/tiền_vnd_ở_mỹ/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-09T00:58:38+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nctj28</id>
+    <title>Làm ơn mắc oán</title>
+    <updated>2025-09-09T20:05:15+00:00</updated>
+    <author>
+      <name>/u/luubi1945</name>
+      <uri>https://old.reddit.com/user/luubi1945</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1nctj28/làm_ơn_mắc_oán/"&gt; &lt;img alt="Làm ơn mắc oán" src="https://preview.redd.it/k44uhly447of1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=8ae7b1c4889fd81963fc34e33fd2c8bdbdd94dbb" title="Làm ơn mắc oán" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Giờ nói chung gặp ai bị nạn thì gọi cứu thương tới chứ đừng giúp. Dân ngu ngoài kia nhiều lắm, không biết đúng sai. Như bầy khỉ đột.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/luubi1945"&gt; /u/luubi1945 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/k44uhly447of1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nctj28/làm_ơn_mắc_oán/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nctj28/làm_ơn_mắc_oán/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-09T20:05:15+00:00</published>
   </entry>
   <entry>
     <id>t3_1nchheu</id>
