@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-09-10T05:16:48+00:00</updated>
+  <updated>2025-09-10T05:39:16+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1nc9smc</id>
-    <title>CẢM THẤY THẾ NÀO KHI ĐI XEM PHIM 1 MÌNH</title>
-    <updated>2025-09-09T04:41:52+00:00</updated>
-    <author>
-      <name>/u/ImportantAdeptness41</name>
-      <uri>https://old.reddit.com/user/ImportantAdeptness41</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình rất ít khi đi xem phim ở rạp, một năm chỉ đi một lần. Xem trailer nên quyết định đi xem xuất chiếu lúc 11h30 ngày chủ nhật 25.08. Lúc mua vé nhân viên nói chưa có ai mua vé cả, có thể a sẽ coi một mình. Mình cảm thấy ổn thôi. Xong trong lòng có chút buồn vì ekip đã cố gắng đến thế mà. Mình vào rạp chọn ghế G7 tuyệt thật cả rạp là của mình rồi. Phim được chừng 7 phút. Thì một cô gái bước vào ngôi cách mình 2 hàng ghế. Thế là chúng tôi cùng nhau xem hết phim. Khi phim kết thúc bài hát vang lên cả 2 lặng trong khoảng 1 phút tôi vẫn đang bị dư âm của bộ phim làm cho tê tê. Đèn bật sáng, Cô gái quay đầu nhìn tôi nở một nụ cười đồng cảm, thân thiện, bao dung có chút gượng. Tôi mở miệng bất chợt nói cảm ơn. Chúng tôi lặng lẽ rời khán đài hòa vào dòng người tấp nập, náo nhiệt bên ngoài.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ImportantAdeptness41"&gt; /u/ImportantAdeptness41 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nc9smc/cảm_thấy_thế_nào_khi_đi_xem_phim_1_mình/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nc9smc/cảm_thấy_thế_nào_khi_đi_xem_phim_1_mình/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nc9smc/cảm_thấy_thế_nào_khi_đi_xem_phim_1_mình/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-09T04:41:52+00:00</published>
-  </entry>
   <entry>
     <id>t3_1ncn50e</id>
     <title>Sinh viên nên tiết kiệm thế nào ạ?</title>
@@ -177,17 +164,17 @@
     <published>2025-09-09T12:25:52+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ncct28</id>
-    <title>Con đường đi tiếp theo.</title>
-    <updated>2025-09-09T07:50:13+00:00</updated>
+    <id>t3_1nd5u4c</id>
+    <title>Bị trêu chọc trong lớp học</title>
+    <updated>2025-09-10T05:29:49+00:00</updated>
     <author>
-      <name>/u/Disastrous_Mode_7486</name>
-      <uri>https://old.reddit.com/user/Disastrous_Mode_7486</uri>
+      <name>/u/Majestic-Level-7664</name>
+      <uri>https://old.reddit.com/user/Majestic-Level-7664</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác,&lt;/p&gt; &lt;p&gt;Mình 30 tuổi, đã ở trong nghề Software khoảng 7 năm, vì từ lúc ra trường mình chỉ làm công ty Startup, nên kinh nghiệm ở Big Tech mình không có. Loanh quanh sửa mấy con app, web, và mình có làm 1 hệ thống backend (dùng cả Kubernetes và 1 số công nghệ như Redis, Rabbitmq). Hệ thống này hiện đang serve khoảng 20k DAU / 1 ngày. &lt;/p&gt; &lt;p&gt;Hiện tại thì ở công ty chạy ổn rồi, hệ thống không có gì mới, mọi tính năng mới ở công ty cũng không còn ai mặn mà làm, doanh thu đi xuống nên mình cũng bị giảm lương. (mặc dù công việc nhàn).&lt;/p&gt; &lt;p&gt;Vì thế, mình đang tính chuyển sang hướng mới, nhưng luẩn quẩn đi tìm hiểu các Big Tech (Cụ thể đang nhìn Grab ở HCM) thấy họ OT khá nhiều, mà lương thì cũng như mình ở công ty hiện tại. &lt;/p&gt; &lt;p&gt;Tìm hiểu về làm Indie Hacker, nhưng mình không giỏi marketing hay design gì cả, mở cái app ra code 1 chút, thấy đoạn design vướng vướng là lại nản.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Background:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;- Mình có bằng thạc sĩ, trước có đi dạy ở 1 trường chuyên tu có tiếng ở HN, nhưng làm ở đó không có sự thăng tiến gì (toàn việc vặt vãnh), nên mình xin nghỉ. Tiếng Anh giao tiếp tốt.&lt;/p&gt; &lt;p&gt;- Mình chưa có gia đình, tài sản thì có 1 căn chung cư và 1 mảnh đất ở quê. (Mình mua lâu rồi nên rẻ, giờ thì không mua được nữa rồi). Mình có thể sống thoair mái nếu thất nghiệp 2, 3 năm. (Do mình cũng mua vàng từ sớm). &lt;/p&gt; &lt;p&gt;- Trước mình có đi phỏng vấn ở Công ty CNTT hàng đầu VN, offer cũng 5x/ month. Nhưng bị cái là 40% lương soft =)). Vì cũng thấp hơn mức lương hiện tại, và chịu trách nhiệm Techlead (Do mình ít quản lý người khác, sợ không có kinh nghiệm thì bị layoff) nên mình từ chối. &lt;/p&gt; &lt;p&gt;Kính nhờ các bác tư vấn 1 số đường đi tiếp với background của mình.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Disastrous_Mode_7486"&gt; /u/Disastrous_Mode_7486 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ncct28/con_đường_đi_tiếp_theo/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ncct28/con_đường_đi_tiếp_theo/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ncct28/con_đường_đi_tiếp_theo/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là em là người hướng nội, rất trầm tính và ít nói nhưng vẫn tương tác và nói chuyện với các bạn trong lớp bình thường, có điều là e không chơi thân với ai cả, ai ngồi gần em một hồi cx nhìn nhau chứ ko nói gì cả&lt;/p&gt; &lt;p&gt;Em cũng không rõ từ lúc nào các bạn nam rất hay trêu chọc em ( em là nữ), hầu như ngày nào cũng trêu, kiểu như cả bầy con trai sẽ cùng nhau hét tên em ở nơi đông người hoặc trong lớp, ngồi sau lưng em cứ chọc chọc, lâu lâu hay bảo em xinh như hoa hậu, không thì cứ hay gọi em là &amp;quot; em yêu có đi hơi với anh không&amp;quot;, &amp;quot; sáng nay lên sân khấu có lẽ mấy anh thích 'tên em' lắm đó, còn hay đẩy thuyền em với những bạn nam nào chơi thân với em cơ, nó còn đẩy thuyền e với thằng bạn thân e, thk bạn e lên ngồi với em để học bài nó cx chụp ảnh lại, ghép nhạc❤ rồi đăng lên ins cho cả trường thấy😭 ,... ncl là nhiều lắm, trêu xong là cả đám cười hô hố, lần nào trêu em cũng ngại đỏ mặt hết mà không làm gì được....&lt;/p&gt; &lt;p&gt;Mọi người nghĩ sao ạ, thực sự là mấy bạn ấy trêu em vì mục đích gì vậy ạ, ko lẽ e là trò đùa. Em thực sự rất ngại nhưng chẳng thể làm gì ạ🙁&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Majestic-Level-7664"&gt; /u/Majestic-Level-7664 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nd5u4c/bị_trêu_chọc_trong_lớp_học/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nd5u4c/bị_trêu_chọc_trong_lớp_học/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nd5u4c/bị_trêu_chọc_trong_lớp_học/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-09T07:50:13+00:00</published>
+    <published>2025-09-10T05:29:49+00:00</published>
   </entry>
   <entry>
     <id>t3_1nd1nlj</id>
@@ -201,6 +188,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nd1nlj/lộ_trình_tự_học_ielts_hợp_lí_nhất/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-10T01:50:43+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ncct28</id>
+    <title>Con đường đi tiếp theo.</title>
+    <updated>2025-09-09T07:50:13+00:00</updated>
+    <author>
+      <name>/u/Disastrous_Mode_7486</name>
+      <uri>https://old.reddit.com/user/Disastrous_Mode_7486</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác,&lt;/p&gt; &lt;p&gt;Mình 30 tuổi, đã ở trong nghề Software khoảng 7 năm, vì từ lúc ra trường mình chỉ làm công ty Startup, nên kinh nghiệm ở Big Tech mình không có. Loanh quanh sửa mấy con app, web, và mình có làm 1 hệ thống backend (dùng cả Kubernetes và 1 số công nghệ như Redis, Rabbitmq). Hệ thống này hiện đang serve khoảng 20k DAU / 1 ngày. &lt;/p&gt; &lt;p&gt;Hiện tại thì ở công ty chạy ổn rồi, hệ thống không có gì mới, mọi tính năng mới ở công ty cũng không còn ai mặn mà làm, doanh thu đi xuống nên mình cũng bị giảm lương. (mặc dù công việc nhàn).&lt;/p&gt; &lt;p&gt;Vì thế, mình đang tính chuyển sang hướng mới, nhưng luẩn quẩn đi tìm hiểu các Big Tech (Cụ thể đang nhìn Grab ở HCM) thấy họ OT khá nhiều, mà lương thì cũng như mình ở công ty hiện tại. &lt;/p&gt; &lt;p&gt;Tìm hiểu về làm Indie Hacker, nhưng mình không giỏi marketing hay design gì cả, mở cái app ra code 1 chút, thấy đoạn design vướng vướng là lại nản.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Background:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;- Mình có bằng thạc sĩ, trước có đi dạy ở 1 trường chuyên tu có tiếng ở HN, nhưng làm ở đó không có sự thăng tiến gì (toàn việc vặt vãnh), nên mình xin nghỉ. Tiếng Anh giao tiếp tốt.&lt;/p&gt; &lt;p&gt;- Mình chưa có gia đình, tài sản thì có 1 căn chung cư và 1 mảnh đất ở quê. (Mình mua lâu rồi nên rẻ, giờ thì không mua được nữa rồi). Mình có thể sống thoair mái nếu thất nghiệp 2, 3 năm. (Do mình cũng mua vàng từ sớm). &lt;/p&gt; &lt;p&gt;- Trước mình có đi phỏng vấn ở Công ty CNTT hàng đầu VN, offer cũng 5x/ month. Nhưng bị cái là 40% lương soft =)). Vì cũng thấp hơn mức lương hiện tại, và chịu trách nhiệm Techlead (Do mình ít quản lý người khác, sợ không có kinh nghiệm thì bị layoff) nên mình từ chối. &lt;/p&gt; &lt;p&gt;Kính nhờ các bác tư vấn 1 số đường đi tiếp với background của mình.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Disastrous_Mode_7486"&gt; /u/Disastrous_Mode_7486 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ncct28/con_đường_đi_tiếp_theo/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ncct28/con_đường_đi_tiếp_theo/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ncct28/con_đường_đi_tiếp_theo/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-09T07:50:13+00:00</published>
   </entry>
   <entry>
     <id>t3_1nd2fhd</id>
