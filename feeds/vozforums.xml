@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-09-10T11:38:59+00:00</updated>
+  <updated>2025-09-10T11:49:54+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1ncct28</id>
-    <title>Con đường đi tiếp theo.</title>
-    <updated>2025-09-09T07:50:13+00:00</updated>
-    <author>
-      <name>/u/Disastrous_Mode_7486</name>
-      <uri>https://old.reddit.com/user/Disastrous_Mode_7486</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác,&lt;/p&gt; &lt;p&gt;Mình 30 tuổi, đã ở trong nghề Software khoảng 7 năm, vì từ lúc ra trường mình chỉ làm công ty Startup, nên kinh nghiệm ở Big Tech mình không có. Loanh quanh sửa mấy con app, web, và mình có làm 1 hệ thống backend (dùng cả Kubernetes và 1 số công nghệ như Redis, Rabbitmq). Hệ thống này hiện đang serve khoảng 20k DAU / 1 ngày. &lt;/p&gt; &lt;p&gt;Hiện tại thì ở công ty chạy ổn rồi, hệ thống không có gì mới, mọi tính năng mới ở công ty cũng không còn ai mặn mà làm, doanh thu đi xuống nên mình cũng bị giảm lương. (mặc dù công việc nhàn).&lt;/p&gt; &lt;p&gt;Vì thế, mình đang tính chuyển sang hướng mới, nhưng luẩn quẩn đi tìm hiểu các Big Tech (Cụ thể đang nhìn Grab ở HCM) thấy họ OT khá nhiều, mà lương thì cũng như mình ở công ty hiện tại. &lt;/p&gt; &lt;p&gt;Tìm hiểu về làm Indie Hacker, nhưng mình không giỏi marketing hay design gì cả, mở cái app ra code 1 chút, thấy đoạn design vướng vướng là lại nản.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Background:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;- Mình có bằng thạc sĩ, trước có đi dạy ở 1 trường chuyên tu có tiếng ở HN, nhưng làm ở đó không có sự thăng tiến gì (toàn việc vặt vãnh), nên mình xin nghỉ. Tiếng Anh giao tiếp tốt.&lt;/p&gt; &lt;p&gt;- Mình chưa có gia đình, tài sản thì có 1 căn chung cư và 1 mảnh đất ở quê. (Mình mua lâu rồi nên rẻ, giờ thì không mua được nữa rồi). Mình có thể sống thoair mái nếu thất nghiệp 2, 3 năm. (Do mình cũng mua vàng từ sớm). &lt;/p&gt; &lt;p&gt;- Trước mình có đi phỏng vấn ở Công ty CNTT hàng đầu VN, offer cũng 5x/ month. Nhưng bị cái là 40% lương soft =)). Vì cũng thấp hơn mức lương hiện tại, và chịu trách nhiệm Techlead (Do mình ít quản lý người khác, sợ không có kinh nghiệm thì bị layoff) nên mình từ chối. &lt;/p&gt; &lt;p&gt;Kính nhờ các bác tư vấn 1 số đường đi tiếp với background của mình.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Disastrous_Mode_7486"&gt; /u/Disastrous_Mode_7486 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ncct28/con_đường_đi_tiếp_theo/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ncct28/con_đường_đi_tiếp_theo/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ncct28/con_đường_đi_tiếp_theo/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-09T07:50:13+00:00</published>
-  </entry>
   <entry>
     <id>t3_1nd72mn</id>
     <title>Nơi tiết kiệm/rút từng phần</title>
@@ -162,6 +149,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nd1fpq/gặp_lừa_đảo_online_giả_danh_cảnh_sát/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-10T01:40:19+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ndbysm</id>
+    <title>Xin kinh nghiệm sống ở Hà Nội ạ</title>
+    <updated>2025-09-10T11:47:51+00:00</updated>
+    <author>
+      <name>/u/Forsaken_Ad_1501</name>
+      <uri>https://old.reddit.com/user/Forsaken_Ad_1501</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em chào các anh/chị đi trước ạ em là tân sinh viên sắp lên Hà Nội học ạ em lên đây muốn các anh chị cho ít lời khuyên khi lên Hà Nội ạ em cả ơn ạ &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Forsaken_Ad_1501"&gt; /u/Forsaken_Ad_1501 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ndbysm/xin_kinh_nghiệm_sống_ở_hà_nội_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ndbysm/xin_kinh_nghiệm_sống_ở_hà_nội_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ndbysm/xin_kinh_nghiệm_sống_ở_hà_nội_ạ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-10T11:47:51+00:00</published>
   </entry>
   <entry>
     <id>t3_1nd2i1x</id>
