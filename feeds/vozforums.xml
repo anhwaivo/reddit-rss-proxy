@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-09-10T16:21:45+00:00</updated>
+  <updated>2025-09-10T16:45:11+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -138,19 +138,6 @@
     <published>2025-09-10T15:46:17+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ndilog</id>
-    <title>Mn có tin vào chuyện tâm linh ko?</title>
-    <updated>2025-09-10T16:14:40+00:00</updated>
-    <author>
-      <name>/u/demenphieuluuky</name>
-      <uri>https://old.reddit.com/user/demenphieuluuky</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Nay em chuyển vô phòng mới, phòng thì mặt đằng trước là cửa ra vào và 1 cái cửa sổ bên cạnh, mặt sau thì có 2 cái cửa sổ, 2 bên ko có gì, e thì thích để cái bàn học và giường cạnh nhau để học xong thì ngủ luôn, nhưng nếu để thế thì đầu đuôi giường sẽ hướng về phía cửa ra vào và cửa sổ và bố mẹ e bảo người ta kiêng để vậy. E thì ko chưa bao h tin vào chuyện này cả, các bác có ý kiến sao, e có nên giữ nguyên hay để ra chỗ khác không?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/demenphieuluuky"&gt; /u/demenphieuluuky &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ndilog/mn_có_tin_vào_chuyện_tâm_linh_ko/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ndilog/mn_có_tin_vào_chuyện_tâm_linh_ko/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ndilog/mn_có_tin_vào_chuyện_tâm_linh_ko/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-10T16:14:40+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nd8uxs</id>
     <title>Tips xây dựng pro5 trên Linked In</title>
     <updated>2025-09-10T08:45:05+00:00</updated>
@@ -201,6 +188,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nd5u4c/bị_trêu_chọc_trong_lớp_học/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-10T05:29:49+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ndilog</id>
+    <title>Mn có tin vào chuyện tâm linh ko?</title>
+    <updated>2025-09-10T16:14:40+00:00</updated>
+    <author>
+      <name>/u/demenphieuluuky</name>
+      <uri>https://old.reddit.com/user/demenphieuluuky</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Nay em chuyển vô phòng mới, phòng thì mặt đằng trước là cửa ra vào và 1 cái cửa sổ bên cạnh, mặt sau thì có 2 cái cửa sổ, 2 bên ko có gì, e thì thích để cái bàn học và giường cạnh nhau để học xong thì ngủ luôn, nhưng nếu để thế thì đầu đuôi giường sẽ hướng về phía cửa ra vào và cửa sổ và bố mẹ e bảo người ta kiêng để vậy. E thì ko chưa bao h tin vào chuyện này cả, các bác có ý kiến sao, e có nên giữ nguyên hay để ra chỗ khác không?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/demenphieuluuky"&gt; /u/demenphieuluuky &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ndilog/mn_có_tin_vào_chuyện_tâm_linh_ko/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ndilog/mn_có_tin_vào_chuyện_tâm_linh_ko/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ndilog/mn_có_tin_vào_chuyện_tâm_linh_ko/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-10T16:14:40+00:00</published>
   </entry>
   <entry>
     <id>t3_1nd8hsf</id>
