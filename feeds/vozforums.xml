@@ -2,37 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-09-11T09:50:39+00:00</updated>
+  <updated>2025-09-11T10:17:58+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1ndzdmu</id>
-    <title>Build PC THNS.</title>
-    <updated>2025-09-11T04:19:05+00:00</updated>
-    <author>
-      <name>/u/Successful-Leg-8445</name>
-      <uri>https://old.reddit.com/user/Successful-Leg-8445</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1ndzdmu/build_pc_thns/"&gt; &lt;img alt="Build PC THNS." src="https://preview.redd.it/nx2uxtm5pgof1.jpeg?width=320&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=6fdbd3a4cb3bab979d18e039cb316eb17258b86c" title="Build PC THNS." /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Ngân sách của e khoảng từng này và được THNS recommended build máy như này thì đã hợp lý chưa ạ? Nhu cầu chơi Cs2 fps cao nhất có thể ạ. Ảnh hơi mờ mn thông cảm.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Successful-Leg-8445"&gt; /u/Successful-Leg-8445 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/nx2uxtm5pgof1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ndzdmu/build_pc_thns/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ndzdmu/build_pc_thns/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-11T04:19:05+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1ne009z</id>
-    <title>Làm sao thay đổi các thiết lập trong “Adjust desktop size and position” của NVIDIA Control Panel mà không cần mở NVIDIA Control Panel?</title>
-    <updated>2025-09-11T04:55:17+00:00</updated>
-    <author>
-      <name>/u/Former_Cover2663</name>
-      <uri>https://old.reddit.com/user/Former_Cover2663</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1ne009z/làm_sao_thay_đổi_các_thiết_lập_trong_adjust/"&gt; &lt;img alt="Làm sao thay đổi các thiết lập trong “Adjust desktop size and position” của NVIDIA Control Panel mà không cần mở NVIDIA Control Panel?" src="https://b.thumbs.redditmedia.com/MGKHJjgIUTw9TK94bJqViCrsjo_7ONnWI5sTRJ5sDuM.jpg" title="Làm sao thay đổi các thiết lập trong “Adjust desktop size and position” của NVIDIA Control Panel mà không cần mở NVIDIA Control Panel?" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình muốn thay đổi một số thiết lập trong NVIDIA Control Panel (mục Adjust desktop size and position) mà không cần phải mở giao diện Control Panel&lt;br /&gt; Cụ thể:&lt;/p&gt; &lt;p&gt;&lt;a href="https://preview.redd.it/w8r1x740vgof1.png?width=960&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=c471923b872c67513479cf065dc9fbe1cdf23044"&gt;https://preview.redd.it/w8r1x740vgof1.png?width=960&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=c471923b872c67513479cf065dc9fbe1cdf23044&lt;/a&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Chỉnh &lt;strong&gt;Scaling mode&lt;/strong&gt; sang Full-screen&lt;/li&gt; &lt;li&gt;Đổi &lt;strong&gt;Perform scaling on&lt;/strong&gt; từ Display → GPU&lt;/li&gt; &lt;li&gt;Bật tùy chọn &lt;strong&gt;Override the scaling mode set by games and programs&lt;/strong&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Lý do là chỉnh cái này để chơi game Fps 4:3 ko bị black bars , và mỗi lần ra nét phải vào đây chỉnh thủ công khá là phiền , thay vì lúc nào cũng phải mở lên và chỉnh thì muốn tích hợp thành 1 dạng code hay gì đó chỉ cần click là xong&lt;/p&gt; &lt;p&gt;Có ai biết giải pháp nào cho việc này không?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Former_Cover2663"&gt; /u/Former_Cover2663 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ne009z/làm_sao_thay_đổi_các_thiết_lập_trong_adjust/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ne009z/làm_sao_thay_đổi_các_thiết_lập_trong_adjust/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ne009z/làm_sao_thay_đổi_các_thiết_lập_trong_adjust/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-11T04:55:17+00:00</published>
-  </entry>
   <entry>
     <id>t3_1ndilog</id>
     <title>Mn có tin vào chuyện tâm linh ko?</title>
@@ -177,17 +151,30 @@
     <published>2025-09-11T09:49:56+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ne1kp7</id>
-    <title>Xin ý kiến du học</title>
-    <updated>2025-09-11T06:31:35+00:00</updated>
+    <id>t3_1ne4v98</id>
+    <title>có bác nào từng sử dụng dịch vụ tâm lí của bác ManHoa trên voz chưa? Ai cho em xin review được không ạ?</title>
+    <updated>2025-09-11T10:08:11+00:00</updated>
     <author>
-      <name>/u/Turbulent_Arrival_55</name>
-      <uri>https://old.reddit.com/user/Turbulent_Arrival_55</uri>
+      <name>/u/Shoddy-Evidence-5271</name>
+      <uri>https://old.reddit.com/user/Shoddy-Evidence-5271</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em 2k9 nam hiện có bằng 8.0 IELTS, Huy chương bạc giải HKICO Huy chương đồng giải HKIMO Giải 3 cờ vua quân đội Hà Nội, ngoài ra em có GPA trung bình tầm 9,5+&lt;/p&gt; &lt;p&gt;Ban đầu em định học ở trg TU Darmstadt tại đức nhg vì tiếng đức khó quá nên em quyết từ bỏ ý định đó&lt;/p&gt; &lt;p&gt;Hiện em thấy CV em cũng ổn nên em xin ý kiến các anh chị về một số trường đại học nc ngoài (châu âu, úc, canada hay gì cũng được), tầm 3-4 chỗ mà nổi tiếng có giáo dục tốt, môi trường sống thân thiện, không bị thương mại hóa (cái này quan trọng nhất) và giá cả thì cũng phù hợp. &lt;/p&gt; &lt;p&gt;Em muốn một ngôi trường khóa tiếng anh về khoa học máy tính nổi tiếng ạ &lt;/p&gt; &lt;p&gt;(à nếu đc thì khu có chỗ cầu lông hay bóng đá nhé :))) thực ra thì k liên quan nhg mà nếu đc thì tốt)&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Turbulent_Arrival_55"&gt; /u/Turbulent_Arrival_55 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ne1kp7/xin_ý_kiến_du_học/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ne1kp7/xin_ý_kiến_du_học/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ne1kp7/xin_ý_kiến_du_học/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Như tít, em định tham gia tư vấn tâm lý của bác ManHoa trên voz, ko biết anh chị em nào từng làm ở đây cho em xin review được không ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Shoddy-Evidence-5271"&gt; /u/Shoddy-Evidence-5271 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ne4v98/có_bác_nào_từng_sử_dụng_dịch_vụ_tâm_lí_của_bác/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ne4v98/có_bác_nào_từng_sử_dụng_dịch_vụ_tâm_lí_của_bác/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ne4v98/có_bác_nào_từng_sử_dụng_dịch_vụ_tâm_lí_của_bác/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-11T06:31:35+00:00</published>
+    <published>2025-09-11T10:08:11+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ne50vm</id>
+    <title>Nước giặt nước xả tốt ( máy lồng ngang )</title>
+    <updated>2025-09-11T10:17:40+00:00</updated>
+    <author>
+      <name>/u/deep_longzero</name>
+      <uri>https://old.reddit.com/user/deep_longzero</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Nhà các bác đang dùng loại nước giặt nước xả nào có thể chia sẻ giúp em với . Bữa giờ mẹ em mua cái nước giặt săn sale mà giặt bẩn nguyên&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/deep_longzero"&gt; /u/deep_longzero &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ne50vm/nước_giặt_nước_xả_tốt_máy_lồng_ngang/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ne50vm/nước_giặt_nước_xả_tốt_máy_lồng_ngang/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ne50vm/nước_giặt_nước_xả_tốt_máy_lồng_ngang/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-11T10:17:40+00:00</published>
   </entry>
   <entry>
     <id>t3_1ndvgbz</id>
@@ -216,17 +203,17 @@
     <published>2025-09-10T23:27:01+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ne2d13</id>
-    <title>tâm trạng thay đổi khi nghe thấy tiếng mưa</title>
-    <updated>2025-09-11T07:22:45+00:00</updated>
+    <id>t3_1ne1kp7</id>
+    <title>Xin ý kiến du học</title>
+    <updated>2025-09-11T06:31:35+00:00</updated>
     <author>
-      <name>/u/justasian_deutsch16</name>
-      <uri>https://old.reddit.com/user/justasian_deutsch16</uri>
+      <name>/u/Turbulent_Arrival_55</name>
+      <uri>https://old.reddit.com/user/Turbulent_Arrival_55</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;lúc còn là 1 thằng học sinh cấp 3 ngây ngô, mỗi khi mưa đến lại lôi cây đàn ra ngồi ngân nga, ngắm mưa xong thấy nó thơ mộng lắm. Mùa hè chỉ mong những lúc như này, vừa mát mẻ vừa dễ ngủ&lt;/p&gt; &lt;p&gt;nhưng nay lại khác các ông ạ, mưa đến chỉ lo cho căn nhà mái dột không biết còn chịu được bao lâu, thấp thỏm không biết mẹ đi ra ngoài mưa gió có bị sao không, cũng lo cho đứa em gái đi học bất tiện chỉ mong sau này cuộc sống khá hơn, tôi sẽ được thấy cơn mưa đẹp như lúc còn học cấp 3&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/justasian_deutsch16"&gt; /u/justasian_deutsch16 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ne2d13/tâm_trạng_thay_đổi_khi_nghe_thấy_tiếng_mưa/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ne2d13/tâm_trạng_thay_đổi_khi_nghe_thấy_tiếng_mưa/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ne2d13/tâm_trạng_thay_đổi_khi_nghe_thấy_tiếng_mưa/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em 2k9 nam hiện có bằng 8.0 IELTS, Huy chương bạc giải HKICO Huy chương đồng giải HKIMO Giải 3 cờ vua quân đội Hà Nội, ngoài ra em có GPA trung bình tầm 9,5+&lt;/p&gt; &lt;p&gt;Ban đầu em định học ở trg TU Darmstadt tại đức nhg vì tiếng đức khó quá nên em quyết từ bỏ ý định đó&lt;/p&gt; &lt;p&gt;Hiện em thấy CV em cũng ổn nên em xin ý kiến các anh chị về một số trường đại học nc ngoài (châu âu, úc, canada hay gì cũng được), tầm 3-4 chỗ mà nổi tiếng có giáo dục tốt, môi trường sống thân thiện, không bị thương mại hóa (cái này quan trọng nhất) và giá cả thì cũng phù hợp. &lt;/p&gt; &lt;p&gt;Em muốn một ngôi trường khóa tiếng anh về khoa học máy tính nổi tiếng ạ &lt;/p&gt; &lt;p&gt;(à nếu đc thì khu có chỗ cầu lông hay bóng đá nhé :))) thực ra thì k liên quan nhg mà nếu đc thì tốt)&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Turbulent_Arrival_55"&gt; /u/Turbulent_Arrival_55 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ne1kp7/xin_ý_kiến_du_học/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ne1kp7/xin_ý_kiến_du_học/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ne1kp7/xin_ý_kiến_du_học/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-11T07:22:45+00:00</published>
+    <published>2025-09-11T06:31:35+00:00</published>
   </entry>
   <entry>
     <id>t3_1ne3t42</id>
@@ -240,6 +227,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ne3t42/tiền_điện_tăng_vọt/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-11T08:59:41+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ne2d13</id>
+    <title>tâm trạng thay đổi khi nghe thấy tiếng mưa</title>
+    <updated>2025-09-11T07:22:45+00:00</updated>
+    <author>
+      <name>/u/justasian_deutsch16</name>
+      <uri>https://old.reddit.com/user/justasian_deutsch16</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;lúc còn là 1 thằng học sinh cấp 3 ngây ngô, mỗi khi mưa đến lại lôi cây đàn ra ngồi ngân nga, ngắm mưa xong thấy nó thơ mộng lắm. Mùa hè chỉ mong những lúc như này, vừa mát mẻ vừa dễ ngủ&lt;/p&gt; &lt;p&gt;nhưng nay lại khác các ông ạ, mưa đến chỉ lo cho căn nhà mái dột không biết còn chịu được bao lâu, thấp thỏm không biết mẹ đi ra ngoài mưa gió có bị sao không, cũng lo cho đứa em gái đi học bất tiện chỉ mong sau này cuộc sống khá hơn, tôi sẽ được thấy cơn mưa đẹp như lúc còn học cấp 3&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/justasian_deutsch16"&gt; /u/justasian_deutsch16 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ne2d13/tâm_trạng_thay_đổi_khi_nghe_thấy_tiếng_mưa/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ne2d13/tâm_trạng_thay_đổi_khi_nghe_thấy_tiếng_mưa/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ne2d13/tâm_trạng_thay_đổi_khi_nghe_thấy_tiếng_mưa/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-11T07:22:45+00:00</published>
   </entry>
   <entry>
     <id>t3_1ne1vxo</id>
@@ -268,19 +268,6 @@
     <published>2025-09-11T03:41:45+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ndyf2h</id>
-    <title>Ngân hàng thêm số dư</title>
-    <updated>2025-09-11T03:26:58+00:00</updated>
-    <author>
-      <name>/u/haizzizzzz</name>
-      <uri>https://old.reddit.com/user/haizzizzzz</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là người nhà mình chuyển cho mình 10tr đi rút tiền dùm thế nào về nhà mình lại thấy số dư +10.000.000 là số dư 20.000.000 thay vì trừ 10.000.000 mình thấy vậy chuyển liếm hết 20.000.000 về momo rồi làm vậy có sao không mn &lt;/p&gt; &lt;p&gt;Edit: Nghe mấy bác nói sợ quá nên mình đã chuyển hết tiền về lại ngân hàng rồi và mình ra ngân hàng làm việc lại rồi họ bảo lỗi họ kêu mình kí tên các thứ rồi -20.000.000 rồi&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/haizzizzzz"&gt; /u/haizzizzzz &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ndyf2h/ngân_hàng_thêm_số_dư/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ndyf2h/ngân_hàng_thêm_số_dư/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ndyf2h/ngân_hàng_thêm_số_dư/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-11T03:26:58+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1ne0d1r</id>
     <title>Mình bị hack toàn bộ tài khoản và bị theo dõi nhiều năm, nghi ngờ hacker có mục đích phá hoại có chủ đích đối với cá nhân mình. Mình cần cv để</title>
     <updated>2025-09-11T05:16:27+00:00</updated>
@@ -292,6 +279,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ne0d1r/mình_bị_hack_toàn_bộ_tài_khoản_và_bị_theo_dõi/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-11T05:16:27+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ndyf2h</id>
+    <title>Ngân hàng thêm số dư</title>
+    <updated>2025-09-11T03:26:58+00:00</updated>
+    <author>
+      <name>/u/haizzizzzz</name>
+      <uri>https://old.reddit.com/user/haizzizzzz</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là người nhà mình chuyển cho mình 10tr đi rút tiền dùm thế nào về nhà mình lại thấy số dư +10.000.000 là số dư 20.000.000 thay vì trừ 10.000.000 mình thấy vậy chuyển liếm hết 20.000.000 về momo rồi làm vậy có sao không mn &lt;/p&gt; &lt;p&gt;Edit: Nghe mấy bác nói sợ quá nên mình đã chuyển hết tiền về lại ngân hàng rồi và mình ra ngân hàng làm việc lại rồi họ bảo lỗi họ kêu mình kí tên các thứ rồi -20.000.000 rồi&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/haizzizzzz"&gt; /u/haizzizzzz &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ndyf2h/ngân_hàng_thêm_số_dư/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ndyf2h/ngân_hàng_thêm_số_dư/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ndyf2h/ngân_hàng_thêm_số_dư/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-11T03:26:58+00:00</published>
   </entry>
   <entry>
     <id>t3_1ne1z1b</id>
