@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-09-11T11:38:18+00:00</updated>
+  <updated>2025-09-11T11:50:05+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -242,19 +242,6 @@
     <published>2025-09-11T07:22:45+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ne3t42</id>
-    <title>Tiền điện tăng vọt</title>
-    <updated>2025-09-11T08:59:41+00:00</updated>
-    <author>
-      <name>/u/Real-Jackfruit-6214</name>
-      <uri>https://old.reddit.com/user/Real-Jackfruit-6214</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Nhà mình mở công ty, tháng vừa rồi còn có thuê bảo vệ ở tại kho thì tiền điện tháng trước rơi vào 12 triệu. Tuy nhiên tháng này đã cắt giảm bảo vệ, cắt giảm nhân viên, đóng cửa kho nhưng tiền điện lại cao hơn cả tháng trước tận 800k. Đang có chuyện gì xảy ra vậy@@&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Real-Jackfruit-6214"&gt; /u/Real-Jackfruit-6214 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ne3t42/tiền_điện_tăng_vọt/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ne3t42/tiền_điện_tăng_vọt/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ne3t42/tiền_điện_tăng_vọt/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-11T08:59:41+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1ndyoxi</id>
     <title>Sợ hãi muốn cầu cứu</title>
     <updated>2025-09-11T03:41:45+00:00</updated>
@@ -266,6 +253,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ndyoxi/sợ_hãi_muốn_cầu_cứu/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-11T03:41:45+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ne3t42</id>
+    <title>Tiền điện tăng vọt</title>
+    <updated>2025-09-11T08:59:41+00:00</updated>
+    <author>
+      <name>/u/Real-Jackfruit-6214</name>
+      <uri>https://old.reddit.com/user/Real-Jackfruit-6214</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Nhà mình mở công ty, tháng vừa rồi còn có thuê bảo vệ ở tại kho thì tiền điện tháng trước rơi vào 12 triệu. Tuy nhiên tháng này đã cắt giảm bảo vệ, cắt giảm nhân viên, đóng cửa kho nhưng tiền điện lại cao hơn cả tháng trước tận 800k. Đang có chuyện gì xảy ra vậy@@&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Real-Jackfruit-6214"&gt; /u/Real-Jackfruit-6214 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ne3t42/tiền_điện_tăng_vọt/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ne3t42/tiền_điện_tăng_vọt/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ne3t42/tiền_điện_tăng_vọt/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-11T08:59:41+00:00</published>
   </entry>
   <entry>
     <id>t3_1ne0d1r</id>
