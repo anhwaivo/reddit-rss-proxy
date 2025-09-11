@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-09-11T11:13:41+00:00</updated>
+  <updated>2025-09-11T11:26:34+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
+  <entry>
+    <id>t3_1ndl1ci</id>
+    <title>Hỏi ý kiến các pro về dự án code cá nhân</title>
+    <updated>2025-09-10T17:42:47+00:00</updated>
+    <author>
+      <name>/u/SirCryALot2609</name>
+      <uri>https://old.reddit.com/user/SirCryALot2609</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các anh chị em,&lt;/p&gt; &lt;p&gt;Mình mới tốt nghiệp IT vào tháng 3, trc đấy đã đi thực tập ở 1 công ty được gần 1 năm, tháng 6 mình nghỉ ở công ty đó sau đó do k xin được việc nên làm trái ngành 1 thời gian, giờ mình nghiêm túc lại với sự nghiệp code.&lt;/p&gt; &lt;p&gt;Mình đi phỏng vấn thì có vẻ họ k ấn tượng với cv của mình lắm, tại mình cũng nói thẳng luôn là role của mình ở cty cũ chỉ làm CRUD cơ bản thôi (cty rất bé nên tech stack ko hoành tráng) nên họ cũng ko hỏi thêm gì về kiến thức mình biết (dù mình cũng có học lý thuyết tương đối ổn và có kiến thức nền về logic code và frame work tạm ổn) nhiều khi họ gọi mình đến hỏi đã được làm gì rồi đuổi về? Cay vl công việc ghi 1 năm kn???&lt;/p&gt; &lt;p&gt;Trình bày dài dòng tóm lại baay giờ mình đang phát triển 1 dự án cá nhân, sẽ generate ra template code CRUD + business logic theo clean architecture. Cụ thể là đầu vào là dbdiagram dạng json + business logic gồm các template build sẵn. Hiện tại dự án được khoảng 30% backend, nhưng khối lượng công việc tương đối khổng lồ. Nên mình muốn hỏi là dự án này có đủ sức làm phỏng vấn viên ấn tượng hơn không? Không cần quá wow nhưng ít ra có cái cho họ hỏi là mình biết gì và làm đc gì. Mình đang phân vân giữa việc tiếp tục hoàn thành dự án hoặc học cho kỹ năng thật nét r fake bừa cv lên để nhận cơ hội phỏng vấn hơn ạ? Anh chị em tư vấn giúp mình và nhận xét về dự án cá nhân này xem nó có viển vông hay k nhé &lt;/p&gt; &lt;p&gt;Cảm ơn mng đã đọc&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/SirCryALot2609"&gt; /u/SirCryALot2609 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ndl1ci/hỏi_ý_kiến_các_pro_về_dự_án_code_cá_nhân/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ndl1ci/hỏi_ý_kiến_các_pro_về_dự_án_code_cá_nhân/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ndl1ci/hỏi_ý_kiến_các_pro_về_dự_án_code_cá_nhân/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-10T17:42:47+00:00</published>
+  </entry>
   <entry>
     <id>t3_1ndze9u</id>
     <title>Học TOEIC</title>
@@ -125,19 +138,6 @@
     <published>2025-09-11T00:57:47+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ne5fzb</id>
-    <title>Lý do tôi không áp lực chuyện học và đi làm kiếm tiền:</title>
-    <updated>2025-09-11T10:42:31+00:00</updated>
-    <author>
-      <name>/u/RemarkableLeg6110</name>
-      <uri>https://old.reddit.com/user/RemarkableLeg6110</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;- Bố mẹ có 340 mét vuông đất thổ cư ở Di Trạch, Hoài Đức với giá thị trường &amp;gt;100tr/m2.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/RemarkableLeg6110"&gt; /u/RemarkableLeg6110 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ne5fzb/lý_do_tôi_không_áp_lực_chuyện_học_và_đi_làm_kiếm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ne5fzb/lý_do_tôi_không_áp_lực_chuyện_học_và_đi_làm_kiếm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ne5fzb/lý_do_tôi_không_áp_lực_chuyện_học_và_đi_làm_kiếm/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-11T10:42:31+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1ndtkbw</id>
     <title>Bán nước hoa lời 50k / đơn tầm này có nên tham gia thị trường không</title>
     <updated>2025-09-10T23:27:01+00:00</updated>
@@ -149,6 +149,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ndtkbw/bán_nước_hoa_lời_50k_đơn_tầm_này_có_nên_tham_gia/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-10T23:27:01+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ne5qvy</id>
+    <title>Nhà mình 340 mét vuông ở Di Trạch, Hoài Đức như này có gọi là giàu hay khá giả nhỉ.</title>
+    <updated>2025-09-11T10:59:57+00:00</updated>
+    <author>
+      <name>/u/RemarkableLeg6110</name>
+      <uri>https://old.reddit.com/user/RemarkableLeg6110</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1ne5qvy/nhà_mình_340_mét_vuông_ở_di_trạch_hoài_đức_như/"&gt; &lt;img alt="Nhà mình 340 mét vuông ở Di Trạch, Hoài Đức như này có gọi là giàu hay khá giả nhỉ." src="https://b.thumbs.redditmedia.com/q4C99Fpynru6z5gdAPSR8DnJXBWi-LDwQND4pYhExrE.jpg" title="Nhà mình 340 mét vuông ở Di Trạch, Hoài Đức như này có gọi là giàu hay khá giả nhỉ." /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/RemarkableLeg6110"&gt; /u/RemarkableLeg6110 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1ne5qvy"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ne5qvy/nhà_mình_340_mét_vuông_ở_di_trạch_hoài_đức_như/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ne5qvy/nhà_mình_340_mét_vuông_ở_di_trạch_hoài_đức_như/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-11T10:59:57+00:00</published>
   </entry>
   <entry>
     <id>t3_1ne1kp7</id>
@@ -242,19 +255,6 @@
     <published>2025-09-11T08:59:41+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ne5qvy</id>
-    <title>Nhà mình 340 mét vuông ở Di Trạch, Hoài Đức như này có gọi là giàu hay khá giả nhỉ.</title>
-    <updated>2025-09-11T10:59:57+00:00</updated>
-    <author>
-      <name>/u/RemarkableLeg6110</name>
-      <uri>https://old.reddit.com/user/RemarkableLeg6110</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1ne5qvy/nhà_mình_340_mét_vuông_ở_di_trạch_hoài_đức_như/"&gt; &lt;img alt="Nhà mình 340 mét vuông ở Di Trạch, Hoài Đức như này có gọi là giàu hay khá giả nhỉ." src="https://b.thumbs.redditmedia.com/q4C99Fpynru6z5gdAPSR8DnJXBWi-LDwQND4pYhExrE.jpg" title="Nhà mình 340 mét vuông ở Di Trạch, Hoài Đức như này có gọi là giàu hay khá giả nhỉ." /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/RemarkableLeg6110"&gt; /u/RemarkableLeg6110 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1ne5qvy"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ne5qvy/nhà_mình_340_mét_vuông_ở_di_trạch_hoài_đức_như/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ne5qvy/nhà_mình_340_mét_vuông_ở_di_trạch_hoài_đức_như/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-11T10:59:57+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1ndyoxi</id>
     <title>Sợ hãi muốn cầu cứu</title>
     <updated>2025-09-11T03:41:45+00:00</updated>
@@ -281,19 +281,6 @@
     <published>2025-09-11T05:16:27+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ndyf2h</id>
-    <title>Ngân hàng thêm số dư</title>
-    <updated>2025-09-11T03:26:58+00:00</updated>
-    <author>
-      <name>/u/haizzizzzz</name>
-      <uri>https://old.reddit.com/user/haizzizzzz</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là người nhà mình chuyển cho mình 10tr đi rút tiền dùm thế nào về nhà mình lại thấy số dư +10.000.000 là số dư 20.000.000 thay vì trừ 10.000.000 mình thấy vậy chuyển liếm hết 20.000.000 về momo rồi làm vậy có sao không mn &lt;/p&gt; &lt;p&gt;Edit: Nghe mấy bác nói sợ quá nên mình đã chuyển hết tiền về lại ngân hàng rồi và mình ra ngân hàng làm việc lại rồi họ bảo lỗi họ kêu mình kí tên các thứ rồi -20.000.000 rồi&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/haizzizzzz"&gt; /u/haizzizzzz &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ndyf2h/ngân_hàng_thêm_số_dư/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ndyf2h/ngân_hàng_thêm_số_dư/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ndyf2h/ngân_hàng_thêm_số_dư/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-11T03:26:58+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1ne1z1b</id>
     <title>Có nên chuyển sang Linux với cấu hình máy tính của mình không?</title>
     <updated>2025-09-11T06:57:54+00:00</updated>
@@ -305,6 +292,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ne1z1b/có_nên_chuyển_sang_linux_với_cấu_hình_máy_tính/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-11T06:57:54+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ndyf2h</id>
+    <title>Ngân hàng thêm số dư</title>
+    <updated>2025-09-11T03:26:58+00:00</updated>
+    <author>
+      <name>/u/haizzizzzz</name>
+      <uri>https://old.reddit.com/user/haizzizzzz</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là người nhà mình chuyển cho mình 10tr đi rút tiền dùm thế nào về nhà mình lại thấy số dư +10.000.000 là số dư 20.000.000 thay vì trừ 10.000.000 mình thấy vậy chuyển liếm hết 20.000.000 về momo rồi làm vậy có sao không mn &lt;/p&gt; &lt;p&gt;Edit: Nghe mấy bác nói sợ quá nên mình đã chuyển hết tiền về lại ngân hàng rồi và mình ra ngân hàng làm việc lại rồi họ bảo lỗi họ kêu mình kí tên các thứ rồi -20.000.000 rồi&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/haizzizzzz"&gt; /u/haizzizzzz &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ndyf2h/ngân_hàng_thêm_số_dư/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ndyf2h/ngân_hàng_thêm_số_dư/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ndyf2h/ngân_hàng_thêm_số_dư/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-11T03:26:58+00:00</published>
   </entry>
   <entry>
     <id>t3_1ndfgzf</id>
