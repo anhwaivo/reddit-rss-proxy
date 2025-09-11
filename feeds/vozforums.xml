@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-09-11T04:41:49+00:00</updated>
+  <updated>2025-09-11T04:51:38+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -164,19 +164,6 @@
     <published>2025-09-09T20:05:15+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ndl1ci</id>
-    <title>Hỏi ý kiến các pro về dự án code cá nhân</title>
-    <updated>2025-09-10T17:42:47+00:00</updated>
-    <author>
-      <name>/u/SirCryALot2609</name>
-      <uri>https://old.reddit.com/user/SirCryALot2609</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các anh chị em,&lt;/p&gt; &lt;p&gt;Mình mới tốt nghiệp IT vào tháng 3, trc đấy đã đi thực tập ở 1 công ty được gần 1 năm, tháng 6 mình nghỉ ở công ty đó sau đó do k xin được việc nên làm trái ngành 1 thời gian, giờ mình nghiêm túc lại với sự nghiệp code.&lt;/p&gt; &lt;p&gt;Mình đi phỏng vấn thì có vẻ họ k ấn tượng với cv của mình lắm, tại mình cũng nói thẳng luôn là role của mình ở cty cũ chỉ làm CRUD cơ bản thôi (cty rất bé nên tech stack ko hoành tráng) nên họ cũng ko hỏi thêm gì về kiến thức mình biết (dù mình cũng có học lý thuyết tương đối ổn và có kiến thức nền về logic code và frame work tạm ổn) nhiều khi họ gọi mình đến hỏi đã được làm gì rồi đuổi về? Cay vl công việc ghi 1 năm kn???&lt;/p&gt; &lt;p&gt;Trình bày dài dòng tóm lại baay giờ mình đang phát triển 1 dự án cá nhân, sẽ generate ra template code CRUD + business logic theo clean architecture. Cụ thể là đầu vào là dbdiagram dạng json + business logic gồm các template build sẵn. Hiện tại dự án được khoảng 30% backend, nhưng khối lượng công việc tương đối khổng lồ. Nên mình muốn hỏi là dự án này có đủ sức làm phỏng vấn viên ấn tượng hơn không? Không cần quá wow nhưng ít ra có cái cho họ hỏi là mình biết gì và làm đc gì. Mình đang phân vân giữa việc tiếp tục hoàn thành dự án hoặc học cho kỹ năng thật nét r fake bừa cv lên để nhận cơ hội phỏng vấn hơn ạ? Anh chị em tư vấn giúp mình và nhận xét về dự án cá nhân này xem nó có viển vông hay k nhé &lt;/p&gt; &lt;p&gt;Cảm ơn mng đã đọc&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/SirCryALot2609"&gt; /u/SirCryALot2609 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ndl1ci/hỏi_ý_kiến_các_pro_về_dự_án_code_cá_nhân/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ndl1ci/hỏi_ý_kiến_các_pro_về_dự_án_code_cá_nhân/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ndl1ci/hỏi_ý_kiến_các_pro_về_dự_án_code_cá_nhân/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-10T17:42:47+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nd6z97</id>
     <title>Đang thất nghiệp, rảnh rỗi share cho ae Cloud Synology hơn 100Tb Games bom tấn, Film đủ thể loại update liên tục</title>
     <updated>2025-09-10T06:40:41+00:00</updated>
@@ -190,30 +177,17 @@
     <published>2025-09-10T06:40:41+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ndcacx</id>
-    <title>Đứa trẻ sinh ra không thuộc về bạn. Chúng là những sinh linh tự do.</title>
-    <updated>2025-09-10T12:03:20+00:00</updated>
+    <id>t3_1ndl1ci</id>
+    <title>Hỏi ý kiến các pro về dự án code cá nhân</title>
+    <updated>2025-09-10T17:42:47+00:00</updated>
     <author>
-      <name>/u/PureProgrammer3085</name>
-      <uri>https://old.reddit.com/user/PureProgrammer3085</uri>
+      <name>/u/SirCryALot2609</name>
+      <uri>https://old.reddit.com/user/SirCryALot2609</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chẳng ai cho phép con cái mình thoải mái nhảy múa, hát hò, gào thét cả vì những lý do tầm thường: có thể làm hỏng thứ gì đó, có thể bọn trẻ sẽ bị ướt. Thế mà một phẩm chất tâm linh tuyệt vời – tính thích vui đùa – đã hoàn toàn bị tiêu diệt. Đứa trẻ biết nghe lời được bố mẹ, thầy cô và mọi người khen ngợi; đứa trẻ nghịch ngợm bị chê trách. Sự vui đùa của trẻ có thể hoàn toàn vô hại, nhưng trẻ bị chê trách vì nó tiềm ẩn một sự nổi loạn.&lt;/p&gt; &lt;p&gt;Nếu đứa trẻ lớn lên và được hoàn toàn tự do vui đùa, nó có thể sẽ trở thành một kẻ nổi loạn; nó sẽ không dễ dàng bị biến thành nô lệ, không dễ dàng bị ra lệnh đi tiêu diệt người khác. Một đứa trẻ nổi loạn sẽ trở thành một thanh niên nổi loạn; khi đó bạn sẽ không thể ép thanh niên ấy kết hôn theo ý bạn, không thể ép anh ta làm công việc theo ý bạn, cũng không thể ép anh ta thực hiện những khát vọng và ước muốn mà bố mẹ chưa hoàn thành. Người thanh niên nổi loạn ấy sẽ đi con đường riêng của mình; anh ta sẽ sống một cuộc đời theo những khát vọng sâu thẳm trong lòng mình chứ không theo lý tưởng của bất kỳ ai khác.&lt;/p&gt; &lt;p&gt;Vì tất cả những nguyên nhân này mà tính thích vui đùa bị dập tắt và nghiền nát ngay từ trong trứng nước. Bản chất của bạn không bao giờ được phép cất lên tiếng nói. Dần dần, bạn bắt đầu mang trong mình một đứa trẻ không còn sức sống; đứa trẻ ấy tiêu diệt óc hài hước của bạn. Bạn không thể cười bằng cả trái tim, không thể chơi đùa, không thể tận hưởng những điều nhỏ bé trong cuộc sống; bạn trở nên nghiêm túc đến mức cuộc đời bạn, thay vì mở rộng, lại bắt đầu co lại.&lt;/p&gt; &lt;p&gt;Từng khoảnh khắc của cuộc sống nên là một sự sáng tạo vô giá; không quan trọng bạn tạo ra cái gì – có thể chỉ là lâu đài cát trên biển – nhưng mọi hành động của bạn nên xuất phát từ sự vui tươi và hứng khởi.&lt;/p&gt; &lt;p&gt;Thông minh – trí thông minh – không phải là thứ cứ cố gắng là đạt được; nó có sẵn, bẩm sinh, cố hữu. Không chỉ trẻ em mới thông minh; động vật cũng thông minh theo kiểu của chúng, cây cỏ thông minh theo kiểu của cây cỏ. Tất nhiên, mỗi loài thông minh theo một kiểu khác nhau vì nhu cầu khác nhau; nhưng hiện nay người ta đã khẳng định rằng tất cả sự sống đều thông minh: không thể có sự sống nếu không có trí thông minh; sự sống và trí thông minh là một.&lt;/p&gt; &lt;p&gt;Nhưng loài người lại gặp phải một tình thế tiến thoái lưỡng nan vì một lý do đơn giản: con người không chỉ thông minh mà còn nhận thức được trí thông minh của mình. Đó là một điều độc đáo chỉ có ở chúng ta – đặc ân, đặc quyền, vinh quang của con người – nhưng nó có thể dễ dàng biến thành nỗi thống khổ. Con người ý thức được rằng mình thông minh, và ý thức ấy mang theo những vấn đề của nó.&lt;/p&gt; &lt;p&gt;Vấn đề đầu tiên là: nó tạo ra cái tôi – thứ không tồn tại ở bất cứ đâu khác ngoài loài người. Cái tôi bắt đầu lớn lên khi đứa trẻ lớn lên. Bố mẹ, trường học, tất cả đều giúp củng cố cái tôi vì một lý do đơn giản: trong nhiều thế kỷ con người đã phải chật vật để tồn tại, và trong tiềm thức sâu xa đã bị áp đặt rằng chỉ những cái tôi mạnh mẽ mới có thể tồn tại trong cuộc vật lộn với đời. Cuộc đời đã thành ra chỉ còn là một cuộc đấu tranh sinh tồn, và các nhà khoa học đã củng cố ý tưởng này bằng lý thuyết “loài sống sót là loài thích nghi nhất”.&lt;/p&gt; &lt;p&gt;Thế là chúng ta giúp mọi đứa trẻ có được cái tôi ngày càng mạnh mẽ hơn, và chính ở đó vấn đề nảy sinh. Khi cái tôi trở nên mạnh mẽ, nó bắt đầu bao quanh trí thông minh như một bức màn tối tăm dày đặc. Trí thông minh là ánh sáng; cái tôi là bóng tối. Trí thông minh rất mong manh; cái tôi rất cứng rắn. Trí thông minh giống như một bông hồng, trong khi cái tôi giống một tảng đá.&lt;/p&gt; &lt;p&gt;Nếu bạn muốn sống sót, những người được cho là hiểu biết nói rằng bạn phải trở nên cứng rắn như đá; bạn phải mạnh mẽ, không dễ bị tổn thương; bạn phải trở thành một pháo đài đóng kín bất khả xâm phạm. Nhưng rồi bạn trở nên khép kín; trí thông minh của bạn bắt đầu chết dần chết mòn, bởi trí thông minh cần bầu trời rộng mở, cần gió, không khí, mặt trời để phát triển, mở rộng và tuôn chảy. Để tồn tại, nó cần tuôn chảy không ngừng; nếu bị tù đọng, dần dần nó trở thành một hiện tượng chết.&lt;/p&gt; &lt;p&gt;Vậy có nên cho phép con trẻ thông minh? Thứ nhất, nếu thông minh, chúng sẽ dễ bị tổn thương, mong manh, cởi mở. Nếu thông minh, chúng có thể nhận ra dối trá ở bất cứ đâu; chúng sẽ trở nên nổi loạn; chúng sẽ là những cá thể độc lập; chúng sẽ không dễ dàng bị dắt mũi; bạn không thể biến chúng thành nô lệ, bạn không thể ép chúng thỏa hiệp. Một mặt, trí thông minh rất mềm mại như bông hồng; nhưng mặt khác, nó có sức mạnh riêng – sức mạnh tinh tế, không thô thiển – đó là sức mạnh của thái độ không thỏa hiệp: người thông minh không muốn bán linh hồn mình cho ai cả.&lt;/p&gt; &lt;p&gt;Ngây thơ – trẻ em ngây thơ – nhưng không phải chúng cố gắng đạt được phẩm chất ấy; đó là bản chất. Chúng có thể “ngốc nghếch”, nhưng sự “ngốc nghếch” ấy đôi khi còn lành mạnh hơn so với một số người được học hành cẩn thận, vì những người đã qua học hành chỉ đang che đậy sự rỗng tuếch của mình bằng lời nói, học thuyết, triết lý, giáo lý, tín điều. Chỉ cần cào nhẹ là thấy bên trong chẳng có gì ngoài bóng tối. Trẻ em ở trạng thái tốt hơn rất nhiều, vì chúng nhìn rõ mọi thứ; dù “ngốc nghếch”, chúng vẫn ngẫu hứng, và vẫn nhìn thấu những điều giá trị.&lt;/p&gt; &lt;p&gt;Bạn cứ vô thức sinh ra những bản sao của chính mình. Trước tiên, hãy suy nghĩ: bạn có đang ở trạng thái mà nếu sinh ra một đứa trẻ, bạn sẽ mang lại cho thế giới một món quà không? Bạn là một phước lành cho thế giới hay là một lời nguyền? Rồi hỏi tiếp: bạn có sẵn sàng làm mẹ hay bố của một đứa trẻ không? Bạn có sẵn sàng trao đi tình yêu vô điều kiện không?&lt;/p&gt; &lt;p&gt;Nhờ có bạn mà con được sinh ra, nhưng chúng không thuộc về bạn. Bạn có thể trao cho chúng tình yêu, nhưng không nên áp đặt tư tưởng của bạn lên chúng; đừng trao cho chúng cách sống điên khùng của bạn. Bạn sẽ cho phép chúng nở rộ theo cách riêng chứ? Bạn sẽ cho phép chúng tự do là chính mình chứ? Nếu bạn sẵn sàng thì đã đến lúc; nếu không, hãy đợi đến khi sẵn sàng.&lt;/p&gt; &lt;p&gt;Với con người, sự tiến hóa có ý thức đã diễn ra – đừng giống như cầm thú chỉ biết sinh sản vô thức. Bây giờ, hãy chuẩn bị sẵn sàng trước khi quyết định có con: tỉnh thức hơn, trở nên tĩnh lặng và bình yên hơn; rũ bỏ những rối loạn bên trong; đợi đến thời điểm trong sạch rồi mới sinh con; sau đó, trao cuộc sống và tình yêu của mình cho con – như vậy là bạn đang giúp tạo ra một thế giới tốt đẹp hơn.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/PureProgrammer3085"&gt; /u/PureProgrammer3085 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ndcacx/đứa_trẻ_sinh_ra_không_thuộc_về_bạn_chúng_là_những/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ndcacx/đứa_trẻ_sinh_ra_không_thuộc_về_bạn_chúng_là_những/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ndcacx/đứa_trẻ_sinh_ra_không_thuộc_về_bạn_chúng_là_những/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các anh chị em,&lt;/p&gt; &lt;p&gt;Mình mới tốt nghiệp IT vào tháng 3, trc đấy đã đi thực tập ở 1 công ty được gần 1 năm, tháng 6 mình nghỉ ở công ty đó sau đó do k xin được việc nên làm trái ngành 1 thời gian, giờ mình nghiêm túc lại với sự nghiệp code.&lt;/p&gt; &lt;p&gt;Mình đi phỏng vấn thì có vẻ họ k ấn tượng với cv của mình lắm, tại mình cũng nói thẳng luôn là role của mình ở cty cũ chỉ làm CRUD cơ bản thôi (cty rất bé nên tech stack ko hoành tráng) nên họ cũng ko hỏi thêm gì về kiến thức mình biết (dù mình cũng có học lý thuyết tương đối ổn và có kiến thức nền về logic code và frame work tạm ổn) nhiều khi họ gọi mình đến hỏi đã được làm gì rồi đuổi về? Cay vl công việc ghi 1 năm kn???&lt;/p&gt; &lt;p&gt;Trình bày dài dòng tóm lại baay giờ mình đang phát triển 1 dự án cá nhân, sẽ generate ra template code CRUD + business logic theo clean architecture. Cụ thể là đầu vào là dbdiagram dạng json + business logic gồm các template build sẵn. Hiện tại dự án được khoảng 30% backend, nhưng khối lượng công việc tương đối khổng lồ. Nên mình muốn hỏi là dự án này có đủ sức làm phỏng vấn viên ấn tượng hơn không? Không cần quá wow nhưng ít ra có cái cho họ hỏi là mình biết gì và làm đc gì. Mình đang phân vân giữa việc tiếp tục hoàn thành dự án hoặc học cho kỹ năng thật nét r fake bừa cv lên để nhận cơ hội phỏng vấn hơn ạ? Anh chị em tư vấn giúp mình và nhận xét về dự án cá nhân này xem nó có viển vông hay k nhé &lt;/p&gt; &lt;p&gt;Cảm ơn mng đã đọc&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/SirCryALot2609"&gt; /u/SirCryALot2609 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ndl1ci/hỏi_ý_kiến_các_pro_về_dự_án_code_cá_nhân/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ndl1ci/hỏi_ý_kiến_các_pro_về_dự_án_code_cá_nhân/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ndl1ci/hỏi_ý_kiến_các_pro_về_dự_án_code_cá_nhân/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-10T12:03:20+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1ndilog</id>
-    <title>Mn có tin vào chuyện tâm linh ko?</title>
-    <updated>2025-09-10T16:14:40+00:00</updated>
-    <author>
-      <name>/u/demenphieuluuky</name>
-      <uri>https://old.reddit.com/user/demenphieuluuky</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Nay em chuyển vô phòng mới, phòng thì mặt đằng trước là cửa ra vào và 1 cái cửa sổ bên cạnh, mặt sau thì có 2 cái cửa sổ, 2 bên ko có gì, e thì thích để cái bàn học và giường cạnh nhau để học xong thì ngủ luôn, nhưng nếu để thế thì đầu đuôi giường sẽ hướng về phía cửa ra vào và cửa sổ và bố mẹ e bảo người ta kiêng để vậy. E thì ko chưa bao h tin vào chuyện này cả, các bác có ý kiến sao, e có nên giữ nguyên hay để ra chỗ khác không?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/demenphieuluuky"&gt; /u/demenphieuluuky &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ndilog/mn_có_tin_vào_chuyện_tâm_linh_ko/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ndilog/mn_có_tin_vào_chuyện_tâm_linh_ko/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ndilog/mn_có_tin_vào_chuyện_tâm_linh_ko/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-10T16:14:40+00:00</published>
+    <published>2025-09-10T17:42:47+00:00</published>
   </entry>
   <entry>
     <id>t3_1ndzdmu</id>
@@ -229,6 +203,19 @@
     <published>2025-09-11T04:19:05+00:00</published>
   </entry>
   <entry>
+    <id>t3_1ndcacx</id>
+    <title>Đứa trẻ sinh ra không thuộc về bạn. Chúng là những sinh linh tự do.</title>
+    <updated>2025-09-10T12:03:20+00:00</updated>
+    <author>
+      <name>/u/PureProgrammer3085</name>
+      <uri>https://old.reddit.com/user/PureProgrammer3085</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chẳng ai cho phép con cái mình thoải mái nhảy múa, hát hò, gào thét cả vì những lý do tầm thường: có thể làm hỏng thứ gì đó, có thể bọn trẻ sẽ bị ướt. Thế mà một phẩm chất tâm linh tuyệt vời – tính thích vui đùa – đã hoàn toàn bị tiêu diệt. Đứa trẻ biết nghe lời được bố mẹ, thầy cô và mọi người khen ngợi; đứa trẻ nghịch ngợm bị chê trách. Sự vui đùa của trẻ có thể hoàn toàn vô hại, nhưng trẻ bị chê trách vì nó tiềm ẩn một sự nổi loạn.&lt;/p&gt; &lt;p&gt;Nếu đứa trẻ lớn lên và được hoàn toàn tự do vui đùa, nó có thể sẽ trở thành một kẻ nổi loạn; nó sẽ không dễ dàng bị biến thành nô lệ, không dễ dàng bị ra lệnh đi tiêu diệt người khác. Một đứa trẻ nổi loạn sẽ trở thành một thanh niên nổi loạn; khi đó bạn sẽ không thể ép thanh niên ấy kết hôn theo ý bạn, không thể ép anh ta làm công việc theo ý bạn, cũng không thể ép anh ta thực hiện những khát vọng và ước muốn mà bố mẹ chưa hoàn thành. Người thanh niên nổi loạn ấy sẽ đi con đường riêng của mình; anh ta sẽ sống một cuộc đời theo những khát vọng sâu thẳm trong lòng mình chứ không theo lý tưởng của bất kỳ ai khác.&lt;/p&gt; &lt;p&gt;Vì tất cả những nguyên nhân này mà tính thích vui đùa bị dập tắt và nghiền nát ngay từ trong trứng nước. Bản chất của bạn không bao giờ được phép cất lên tiếng nói. Dần dần, bạn bắt đầu mang trong mình một đứa trẻ không còn sức sống; đứa trẻ ấy tiêu diệt óc hài hước của bạn. Bạn không thể cười bằng cả trái tim, không thể chơi đùa, không thể tận hưởng những điều nhỏ bé trong cuộc sống; bạn trở nên nghiêm túc đến mức cuộc đời bạn, thay vì mở rộng, lại bắt đầu co lại.&lt;/p&gt; &lt;p&gt;Từng khoảnh khắc của cuộc sống nên là một sự sáng tạo vô giá; không quan trọng bạn tạo ra cái gì – có thể chỉ là lâu đài cát trên biển – nhưng mọi hành động của bạn nên xuất phát từ sự vui tươi và hứng khởi.&lt;/p&gt; &lt;p&gt;Thông minh – trí thông minh – không phải là thứ cứ cố gắng là đạt được; nó có sẵn, bẩm sinh, cố hữu. Không chỉ trẻ em mới thông minh; động vật cũng thông minh theo kiểu của chúng, cây cỏ thông minh theo kiểu của cây cỏ. Tất nhiên, mỗi loài thông minh theo một kiểu khác nhau vì nhu cầu khác nhau; nhưng hiện nay người ta đã khẳng định rằng tất cả sự sống đều thông minh: không thể có sự sống nếu không có trí thông minh; sự sống và trí thông minh là một.&lt;/p&gt; &lt;p&gt;Nhưng loài người lại gặp phải một tình thế tiến thoái lưỡng nan vì một lý do đơn giản: con người không chỉ thông minh mà còn nhận thức được trí thông minh của mình. Đó là một điều độc đáo chỉ có ở chúng ta – đặc ân, đặc quyền, vinh quang của con người – nhưng nó có thể dễ dàng biến thành nỗi thống khổ. Con người ý thức được rằng mình thông minh, và ý thức ấy mang theo những vấn đề của nó.&lt;/p&gt; &lt;p&gt;Vấn đề đầu tiên là: nó tạo ra cái tôi – thứ không tồn tại ở bất cứ đâu khác ngoài loài người. Cái tôi bắt đầu lớn lên khi đứa trẻ lớn lên. Bố mẹ, trường học, tất cả đều giúp củng cố cái tôi vì một lý do đơn giản: trong nhiều thế kỷ con người đã phải chật vật để tồn tại, và trong tiềm thức sâu xa đã bị áp đặt rằng chỉ những cái tôi mạnh mẽ mới có thể tồn tại trong cuộc vật lộn với đời. Cuộc đời đã thành ra chỉ còn là một cuộc đấu tranh sinh tồn, và các nhà khoa học đã củng cố ý tưởng này bằng lý thuyết “loài sống sót là loài thích nghi nhất”.&lt;/p&gt; &lt;p&gt;Thế là chúng ta giúp mọi đứa trẻ có được cái tôi ngày càng mạnh mẽ hơn, và chính ở đó vấn đề nảy sinh. Khi cái tôi trở nên mạnh mẽ, nó bắt đầu bao quanh trí thông minh như một bức màn tối tăm dày đặc. Trí thông minh là ánh sáng; cái tôi là bóng tối. Trí thông minh rất mong manh; cái tôi rất cứng rắn. Trí thông minh giống như một bông hồng, trong khi cái tôi giống một tảng đá.&lt;/p&gt; &lt;p&gt;Nếu bạn muốn sống sót, những người được cho là hiểu biết nói rằng bạn phải trở nên cứng rắn như đá; bạn phải mạnh mẽ, không dễ bị tổn thương; bạn phải trở thành một pháo đài đóng kín bất khả xâm phạm. Nhưng rồi bạn trở nên khép kín; trí thông minh của bạn bắt đầu chết dần chết mòn, bởi trí thông minh cần bầu trời rộng mở, cần gió, không khí, mặt trời để phát triển, mở rộng và tuôn chảy. Để tồn tại, nó cần tuôn chảy không ngừng; nếu bị tù đọng, dần dần nó trở thành một hiện tượng chết.&lt;/p&gt; &lt;p&gt;Vậy có nên cho phép con trẻ thông minh? Thứ nhất, nếu thông minh, chúng sẽ dễ bị tổn thương, mong manh, cởi mở. Nếu thông minh, chúng có thể nhận ra dối trá ở bất cứ đâu; chúng sẽ trở nên nổi loạn; chúng sẽ là những cá thể độc lập; chúng sẽ không dễ dàng bị dắt mũi; bạn không thể biến chúng thành nô lệ, bạn không thể ép chúng thỏa hiệp. Một mặt, trí thông minh rất mềm mại như bông hồng; nhưng mặt khác, nó có sức mạnh riêng – sức mạnh tinh tế, không thô thiển – đó là sức mạnh của thái độ không thỏa hiệp: người thông minh không muốn bán linh hồn mình cho ai cả.&lt;/p&gt; &lt;p&gt;Ngây thơ – trẻ em ngây thơ – nhưng không phải chúng cố gắng đạt được phẩm chất ấy; đó là bản chất. Chúng có thể “ngốc nghếch”, nhưng sự “ngốc nghếch” ấy đôi khi còn lành mạnh hơn so với một số người được học hành cẩn thận, vì những người đã qua học hành chỉ đang che đậy sự rỗng tuếch của mình bằng lời nói, học thuyết, triết lý, giáo lý, tín điều. Chỉ cần cào nhẹ là thấy bên trong chẳng có gì ngoài bóng tối. Trẻ em ở trạng thái tốt hơn rất nhiều, vì chúng nhìn rõ mọi thứ; dù “ngốc nghếch”, chúng vẫn ngẫu hứng, và vẫn nhìn thấu những điều giá trị.&lt;/p&gt; &lt;p&gt;Bạn cứ vô thức sinh ra những bản sao của chính mình. Trước tiên, hãy suy nghĩ: bạn có đang ở trạng thái mà nếu sinh ra một đứa trẻ, bạn sẽ mang lại cho thế giới một món quà không? Bạn là một phước lành cho thế giới hay là một lời nguyền? Rồi hỏi tiếp: bạn có sẵn sàng làm mẹ hay bố của một đứa trẻ không? Bạn có sẵn sàng trao đi tình yêu vô điều kiện không?&lt;/p&gt; &lt;p&gt;Nhờ có bạn mà con được sinh ra, nhưng chúng không thuộc về bạn. Bạn có thể trao cho chúng tình yêu, nhưng không nên áp đặt tư tưởng của bạn lên chúng; đừng trao cho chúng cách sống điên khùng của bạn. Bạn sẽ cho phép chúng nở rộ theo cách riêng chứ? Bạn sẽ cho phép chúng tự do là chính mình chứ? Nếu bạn sẵn sàng thì đã đến lúc; nếu không, hãy đợi đến khi sẵn sàng.&lt;/p&gt; &lt;p&gt;Với con người, sự tiến hóa có ý thức đã diễn ra – đừng giống như cầm thú chỉ biết sinh sản vô thức. Bây giờ, hãy chuẩn bị sẵn sàng trước khi quyết định có con: tỉnh thức hơn, trở nên tĩnh lặng và bình yên hơn; rũ bỏ những rối loạn bên trong; đợi đến thời điểm trong sạch rồi mới sinh con; sau đó, trao cuộc sống và tình yêu của mình cho con – như vậy là bạn đang giúp tạo ra một thế giới tốt đẹp hơn.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/PureProgrammer3085"&gt; /u/PureProgrammer3085 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ndcacx/đứa_trẻ_sinh_ra_không_thuộc_về_bạn_chúng_là_những/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ndcacx/đứa_trẻ_sinh_ra_không_thuộc_về_bạn_chúng_là_những/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ndcacx/đứa_trẻ_sinh_ra_không_thuộc_về_bạn_chúng_là_những/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-10T12:03:20+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1ndze9u</id>
     <title>Học TOEIC</title>
     <updated>2025-09-11T04:20:08+00:00</updated>
@@ -242,6 +229,19 @@
     <published>2025-09-11T04:20:08+00:00</published>
   </entry>
   <entry>
+    <id>t3_1ndilog</id>
+    <title>Mn có tin vào chuyện tâm linh ko?</title>
+    <updated>2025-09-10T16:14:40+00:00</updated>
+    <author>
+      <name>/u/demenphieuluuky</name>
+      <uri>https://old.reddit.com/user/demenphieuluuky</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Nay em chuyển vô phòng mới, phòng thì mặt đằng trước là cửa ra vào và 1 cái cửa sổ bên cạnh, mặt sau thì có 2 cái cửa sổ, 2 bên ko có gì, e thì thích để cái bàn học và giường cạnh nhau để học xong thì ngủ luôn, nhưng nếu để thế thì đầu đuôi giường sẽ hướng về phía cửa ra vào và cửa sổ và bố mẹ e bảo người ta kiêng để vậy. E thì ko chưa bao h tin vào chuyện này cả, các bác có ý kiến sao, e có nên giữ nguyên hay để ra chỗ khác không?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/demenphieuluuky"&gt; /u/demenphieuluuky &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ndilog/mn_có_tin_vào_chuyện_tâm_linh_ko/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ndilog/mn_có_tin_vào_chuyện_tâm_linh_ko/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ndilog/mn_có_tin_vào_chuyện_tâm_linh_ko/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-10T16:14:40+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1ndfktf</id>
     <title>Vốn ít, đồng tiền mất giá, nên đầu tư gì?</title>
     <updated>2025-09-10T14:22:07+00:00</updated>
@@ -253,19 +253,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ndfktf/vốn_ít_đồng_tiền_mất_giá_nên_đầu_tư_gì/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-10T14:22:07+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1ndyoxi</id>
-    <title>Sợ hãi muốn cầu cứu</title>
-    <updated>2025-09-11T03:41:45+00:00</updated>
-    <author>
-      <name>/u/Ok-Patient7409</name>
-      <uri>https://old.reddit.com/user/Ok-Patient7409</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em đi du học cấp 3 sang Mỹ một trường nội trú tư thục. Em cùng các học sinh quốc tế khác sống trong ký túc xá. Trong số đó lũ tây ban nha quậy nhất. Gần đây có hai thằng tây ban nha nó bị trường đuổi học ngay hôm nay. Tuy nhiên hai thằng đó cực kỳ nguy hiểm, có 1 thằng chơi ma tuý. Em khẳng định nguy cơ cao thằng đó sẽ cầm giao và .... gì hiẻu rồi đêm nay. Ngay bây giờ em đang trong phòng em với bạn cùng phòng đã ngủ say, khá hiền. Em nhắn dòng này trong bóng tối trong phòng. Em ko dám làm gì hết. Quản dorm họ trong phòng riêng ngủ hết rồi. Họ ko quan tâm gì hết. Em chưa thể gọi 911 vì chưa biết em cảm tính đúng hay ko chứi giờ sợ quá. Với lại em ở vùng quê nước mỹ nữa. Xung quanh toàn rừng, dân cư thưa thớt. Mọi người giúp qua đêm nay đi ạ :((((((((((&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ok-Patient7409"&gt; /u/Ok-Patient7409 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ndyoxi/sợ_hãi_muốn_cầu_cứu/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ndyoxi/sợ_hãi_muốn_cầu_cứu/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ndyoxi/sợ_hãi_muốn_cầu_cứu/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-11T03:41:45+00:00</published>
   </entry>
   <entry>
     <id>t3_1ndy430</id>
@@ -292,6 +279,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ndtkbw/bán_nước_hoa_lời_50k_đơn_tầm_này_có_nên_tham_gia/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-10T23:27:01+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ndyoxi</id>
+    <title>Sợ hãi muốn cầu cứu</title>
+    <updated>2025-09-11T03:41:45+00:00</updated>
+    <author>
+      <name>/u/Ok-Patient7409</name>
+      <uri>https://old.reddit.com/user/Ok-Patient7409</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em đi du học cấp 3 sang Mỹ một trường nội trú tư thục. Em cùng các học sinh quốc tế khác sống trong ký túc xá. Trong số đó lũ tây ban nha quậy nhất. Gần đây có hai thằng tây ban nha nó bị trường đuổi học ngay hôm nay. Tuy nhiên hai thằng đó cực kỳ nguy hiểm, có 1 thằng chơi ma tuý. Em khẳng định nguy cơ cao thằng đó sẽ cầm giao và .... gì hiẻu rồi đêm nay. Ngay bây giờ em đang trong phòng em với bạn cùng phòng đã ngủ say, khá hiền. Em nhắn dòng này trong bóng tối trong phòng. Em ko dám làm gì hết. Quản dorm họ trong phòng riêng ngủ hết rồi. Họ ko quan tâm gì hết. Em chưa thể gọi 911 vì chưa biết em cảm tính đúng hay ko chứi giờ sợ quá. Với lại em ở vùng quê nước mỹ nữa. Xung quanh toàn rừng, dân cư thưa thớt. Mọi người giúp qua đêm nay đi ạ :((((((((((&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ok-Patient7409"&gt; /u/Ok-Patient7409 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ndyoxi/sợ_hãi_muốn_cầu_cứu/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ndyoxi/sợ_hãi_muốn_cầu_cứu/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ndyoxi/sợ_hãi_muốn_cầu_cứu/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-11T03:41:45+00:00</published>
   </entry>
   <entry>
     <id>t3_1ndvgbz</id>
