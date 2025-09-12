@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-09-12T05:16:07+00:00</updated>
+  <updated>2025-09-12T05:38:51+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -86,19 +86,6 @@
     <published>2025-09-11T06:57:54+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ndyf2h</id>
-    <title>Ngân hàng thêm số dư</title>
-    <updated>2025-09-11T03:26:58+00:00</updated>
-    <author>
-      <name>/u/haizzizzzz</name>
-      <uri>https://old.reddit.com/user/haizzizzzz</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là người nhà mình chuyển cho mình 10tr đi rút tiền dùm thế nào về nhà mình lại thấy số dư +10.000.000 là số dư 20.000.000 thay vì trừ 10.000.000 mình thấy vậy chuyển liếm hết 20.000.000 về momo rồi làm vậy có sao không mn &lt;/p&gt; &lt;p&gt;Edit: Nghe mấy bác nói sợ quá nên mình đã chuyển hết tiền về lại ngân hàng rồi và mình ra ngân hàng làm việc lại rồi họ bảo lỗi họ kêu mình kí tên các thứ rồi -20.000.000 rồi&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/haizzizzzz"&gt; /u/haizzizzzz &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ndyf2h/ngân_hàng_thêm_số_dư/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ndyf2h/ngân_hàng_thêm_số_dư/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ndyf2h/ngân_hàng_thêm_số_dư/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-11T03:26:58+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nebf1u</id>
     <title>Món quà tặng mẹ sau hơn 3 năm</title>
     <updated>2025-09-11T15:12:07+00:00</updated>
@@ -110,6 +97,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nebf1u/món_quà_tặng_mẹ_sau_hơn_3_năm/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-11T15:12:07+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ndyf2h</id>
+    <title>Ngân hàng thêm số dư</title>
+    <updated>2025-09-11T03:26:58+00:00</updated>
+    <author>
+      <name>/u/haizzizzzz</name>
+      <uri>https://old.reddit.com/user/haizzizzzz</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là người nhà mình chuyển cho mình 10tr đi rút tiền dùm thế nào về nhà mình lại thấy số dư +10.000.000 là số dư 20.000.000 thay vì trừ 10.000.000 mình thấy vậy chuyển liếm hết 20.000.000 về momo rồi làm vậy có sao không mn &lt;/p&gt; &lt;p&gt;Edit: Nghe mấy bác nói sợ quá nên mình đã chuyển hết tiền về lại ngân hàng rồi và mình ra ngân hàng làm việc lại rồi họ bảo lỗi họ kêu mình kí tên các thứ rồi -20.000.000 rồi&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/haizzizzzz"&gt; /u/haizzizzzz &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ndyf2h/ngân_hàng_thêm_số_dư/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ndyf2h/ngân_hàng_thêm_số_dư/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ndyf2h/ngân_hàng_thêm_số_dư/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-11T03:26:58+00:00</published>
   </entry>
   <entry>
     <id>t3_1ne9sb1</id>
@@ -294,19 +294,6 @@
     <published>2025-09-12T04:51:16+00:00</published>
   </entry>
   <entry>
-    <id>t3_1netpvu</id>
-    <title>Làm cách nào để có thể tìm việc remote, tăng thêm thu nhập sau giờ làm?</title>
-    <updated>2025-09-12T04:19:28+00:00</updated>
-    <author>
-      <name>/u/LeilaV_Marketing</name>
-      <uri>https://old.reddit.com/user/LeilaV_Marketing</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình đi apply rât nhiều cho các job remote của nước ngoài và cả Việt Nam đều chưa từng nhận được phản hồi, mình cảm thấy khá mệt mõi vì không tim ra được cách, mọi người có thể cho mình xin lời góp ý hay hướng dẫn không?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/LeilaV_Marketing"&gt; /u/LeilaV_Marketing &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1netpvu/làm_cách_nào_để_có_thể_tìm_việc_remote_tăng_thêm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1netpvu/làm_cách_nào_để_có_thể_tìm_việc_remote_tăng_thêm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1netpvu/làm_cách_nào_để_có_thể_tìm_việc_remote_tăng_thêm/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-12T04:19:28+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1negtrv</id>
     <title>Các bác lập trình viên già sẽ làm gì</title>
     <updated>2025-09-11T18:39:06+00:00</updated>
@@ -318,6 +305,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1negtrv/các_bác_lập_trình_viên_già_sẽ_làm_gì/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-11T18:39:06+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1netpvu</id>
+    <title>Làm cách nào để có thể tìm việc remote, tăng thêm thu nhập sau giờ làm?</title>
+    <updated>2025-09-12T04:19:28+00:00</updated>
+    <author>
+      <name>/u/LeilaV_Marketing</name>
+      <uri>https://old.reddit.com/user/LeilaV_Marketing</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình đi apply rât nhiều cho các job remote của nước ngoài và cả Việt Nam đều chưa từng nhận được phản hồi, mình cảm thấy khá mệt mõi vì không tim ra được cách, mọi người có thể cho mình xin lời góp ý hay hướng dẫn không?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/LeilaV_Marketing"&gt; /u/LeilaV_Marketing &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1netpvu/làm_cách_nào_để_có_thể_tìm_việc_remote_tăng_thêm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1netpvu/làm_cách_nào_để_có_thể_tìm_việc_remote_tăng_thêm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1netpvu/làm_cách_nào_để_có_thể_tìm_việc_remote_tăng_thêm/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-12T04:19:28+00:00</published>
   </entry>
   <entry>
     <id>t3_1nerzha</id>
