@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-09-12T11:27:01+00:00</updated>
+  <updated>2025-09-12T11:38:20+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -151,19 +151,6 @@
     <published>2025-09-12T09:40:01+00:00</published>
   </entry>
   <entry>
-    <id>t3_1netmit</id>
-    <title>Góc thắc mắc của sinh viên nhập môn ngành CNTT</title>
-    <updated>2025-09-12T04:14:18+00:00</updated>
-    <author>
-      <name>/u/SpotEqual8597</name>
-      <uri>https://old.reddit.com/user/SpotEqual8597</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Dạ em có một thắc mắc là hiện nay nhân sự ngành CNTT vẫn đang thiếu hụt nhưng đó là những nhân sự chất lượng cao, vậy thì như thế nào mới gọi là nhân sự CLC ạ. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/SpotEqual8597"&gt; /u/SpotEqual8597 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1netmit/góc_thắc_mắc_của_sinh_viên_nhập_môn_ngành_cntt/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1netmit/góc_thắc_mắc_của_sinh_viên_nhập_môn_ngành_cntt/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1netmit/góc_thắc_mắc_của_sinh_viên_nhập_môn_ngành_cntt/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-12T04:14:18+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1neg8v8</id>
     <title>[TÌM HỌC VIÊN]</title>
     <updated>2025-09-11T18:16:57+00:00</updated>
@@ -177,19 +164,6 @@
     <published>2025-09-11T18:16:57+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nf0l4x</id>
-    <title>Cho hỏi TPHCM có hay bị thiếu quân để đưa những người trên 1,5 độ đi nvqs ko?</title>
-    <updated>2025-09-12T11:24:53+00:00</updated>
-    <author>
-      <name>/u/Jackcontor</name>
-      <uri>https://old.reddit.com/user/Jackcontor</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Như tiêu đè&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Jackcontor"&gt; /u/Jackcontor &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nf0l4x/cho_hỏi_tphcm_có_hay_bị_thiếu_quân_để_đưa_những/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nf0l4x/cho_hỏi_tphcm_có_hay_bị_thiếu_quân_để_đưa_những/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nf0l4x/cho_hỏi_tphcm_có_hay_bị_thiếu_quân_để_đưa_những/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-12T11:24:53+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nex8w1</id>
     <title>Kinh nghiệm làm freelance 2nd job</title>
     <updated>2025-09-12T07:59:23+00:00</updated>
@@ -201,6 +175,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nex8w1/kinh_nghiệm_làm_freelance_2nd_job/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-12T07:59:23+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1netmit</id>
+    <title>Góc thắc mắc của sinh viên nhập môn ngành CNTT</title>
+    <updated>2025-09-12T04:14:18+00:00</updated>
+    <author>
+      <name>/u/SpotEqual8597</name>
+      <uri>https://old.reddit.com/user/SpotEqual8597</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Dạ em có một thắc mắc là hiện nay nhân sự ngành CNTT vẫn đang thiếu hụt nhưng đó là những nhân sự chất lượng cao, vậy thì như thế nào mới gọi là nhân sự CLC ạ. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/SpotEqual8597"&gt; /u/SpotEqual8597 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1netmit/góc_thắc_mắc_của_sinh_viên_nhập_môn_ngành_cntt/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1netmit/góc_thắc_mắc_của_sinh_viên_nhập_môn_ngành_cntt/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1netmit/góc_thắc_mắc_của_sinh_viên_nhập_môn_ngành_cntt/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-12T04:14:18+00:00</published>
   </entry>
   <entry>
     <id>t3_1nennkr</id>
@@ -242,19 +229,6 @@
     <published>2025-09-12T10:23:12+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nexxu5</id>
-    <title>Cần trợ giúp</title>
-    <updated>2025-09-12T08:45:19+00:00</updated>
-    <author>
-      <name>/u/User010925</name>
-      <uri>https://old.reddit.com/user/User010925</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Có ai biết điệu rải guitar bài mong manh tình về bản cover của Vũ Ngọc Huyền không? Mình mới học guitar không nghe ra được. Thanks!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/User010925"&gt; /u/User010925 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nexxu5/cần_trợ_giúp/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nexxu5/cần_trợ_giúp/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nexxu5/cần_trợ_giúp/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-12T08:45:19+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1netpvu</id>
     <title>Làm cách nào để có thể tìm việc remote, tăng thêm thu nhập sau giờ làm?</title>
     <updated>2025-09-12T04:19:28+00:00</updated>
@@ -279,6 +253,32 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1negtrv/các_bác_lập_trình_viên_già_sẽ_làm_gì/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-11T18:39:06+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nf0l4x</id>
+    <title>Cho hỏi TPHCM có hay bị thiếu quân để đưa những người trên 1,5 độ đi nvqs ko?</title>
+    <updated>2025-09-12T11:24:53+00:00</updated>
+    <author>
+      <name>/u/Jackcontor</name>
+      <uri>https://old.reddit.com/user/Jackcontor</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Như tiêu đè&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Jackcontor"&gt; /u/Jackcontor &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nf0l4x/cho_hỏi_tphcm_có_hay_bị_thiếu_quân_để_đưa_những/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nf0l4x/cho_hỏi_tphcm_có_hay_bị_thiếu_quân_để_đưa_những/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nf0l4x/cho_hỏi_tphcm_có_hay_bị_thiếu_quân_để_đưa_những/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-12T11:24:53+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nexxu5</id>
+    <title>Cần trợ giúp</title>
+    <updated>2025-09-12T08:45:19+00:00</updated>
+    <author>
+      <name>/u/User010925</name>
+      <uri>https://old.reddit.com/user/User010925</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Có ai biết điệu rải guitar bài mong manh tình về bản cover của Vũ Ngọc Huyền không? Mình mới học guitar không nghe ra được. Thanks!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/User010925"&gt; /u/User010925 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nexxu5/cần_trợ_giúp/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nexxu5/cần_trợ_giúp/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nexxu5/cần_trợ_giúp/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-12T08:45:19+00:00</published>
   </entry>
   <entry>
     <id>t3_1neua2g</id>
