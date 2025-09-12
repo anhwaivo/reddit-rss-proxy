@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-09-12T19:50:08+00:00</updated>
+  <updated>2025-09-12T20:18:50+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1nf5onv</id>
-    <title>Góc khuất ngành khách sạn</title>
-    <updated>2025-09-12T15:05:48+00:00</updated>
-    <author>
-      <name>/u/Upbeat-Recipe5121</name>
-      <uri>https://old.reddit.com/user/Upbeat-Recipe5121</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các bác ai đã từng làm mảng khách sạn kể ít nhiều về góc khuất ngành này nghe chơi đê :D &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Upbeat-Recipe5121"&gt; /u/Upbeat-Recipe5121 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nf5onv/góc_khuất_ngành_khách_sạn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nf5onv/góc_khuất_ngành_khách_sạn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nf5onv/góc_khuất_ngành_khách_sạn/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-12T15:05:48+00:00</published>
-  </entry>
   <entry>
     <id>t3_1nex8w1</id>
     <title>Kinh nghiệm làm freelance 2nd job</title>
@@ -84,19 +71,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nf8mwa/tháng_12000_không_đại_học_còn_dính_nvqs_không_ạ/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-12T17:00:35+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1nf0l4x</id>
-    <title>Cho hỏi TPHCM có hay bị thiếu quân để đưa những người trên 1,5 độ đi nvqs ko?</title>
-    <updated>2025-09-12T11:24:53+00:00</updated>
-    <author>
-      <name>/u/Jackcontor</name>
-      <uri>https://old.reddit.com/user/Jackcontor</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Như tiêu đè&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Jackcontor"&gt; /u/Jackcontor &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nf0l4x/cho_hỏi_tphcm_có_hay_bị_thiếu_quân_để_đưa_những/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nf0l4x/cho_hỏi_tphcm_có_hay_bị_thiếu_quân_để_đưa_những/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nf0l4x/cho_hỏi_tphcm_có_hay_bị_thiếu_quân_để_đưa_những/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-12T11:24:53+00:00</published>
   </entry>
   <entry>
     <id>t3_1nexxu5</id>
@@ -177,6 +151,19 @@
     <published>2025-09-11T18:39:06+00:00</published>
   </entry>
   <entry>
+    <id>t3_1nf0l4x</id>
+    <title>Cho hỏi TPHCM có hay bị thiếu quân để đưa những người trên 1,5 độ đi nvqs ko?</title>
+    <updated>2025-09-12T11:24:53+00:00</updated>
+    <author>
+      <name>/u/Jackcontor</name>
+      <uri>https://old.reddit.com/user/Jackcontor</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Như tiêu đè&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Jackcontor"&gt; /u/Jackcontor &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nf0l4x/cho_hỏi_tphcm_có_hay_bị_thiếu_quân_để_đưa_những/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nf0l4x/cho_hỏi_tphcm_có_hay_bị_thiếu_quân_để_đưa_những/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nf0l4x/cho_hỏi_tphcm_có_hay_bị_thiếu_quân_để_đưa_những/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-12T11:24:53+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1netpvu</id>
     <title>Làm cách nào để có thể tìm việc remote, tăng thêm thu nhập sau giờ làm?</title>
     <updated>2025-09-12T04:19:28+00:00</updated>
@@ -201,6 +188,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nf7htw/chuột_cho_macbook_giá_dưới_500k/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-12T16:16:08+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nfdgim</id>
+    <title>Mình là người nói nhiều nhưng mà làm việc siêu chậm, chậm hiểu, không tập trung trong công việc, kh nhanh nhẹn, kh biết có cách nào cải thiện kh🥲</title>
+    <updated>2025-09-12T20:10:21+00:00</updated>
+    <author>
+      <name>/u/Middle-Order-8327</name>
+      <uri>https://old.reddit.com/user/Middle-Order-8327</uri>
+    </author>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Middle-Order-8327"&gt; /u/Middle-Order-8327 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nfdgim/mình_là_người_nói_nhiều_nhưng_mà_làm_việc_siêu/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nfdgim/mình_là_người_nói_nhiều_nhưng_mà_làm_việc_siêu/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nfdgim/mình_là_người_nói_nhiều_nhưng_mà_làm_việc_siêu/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-12T20:10:21+00:00</published>
   </entry>
   <entry>
     <id>t3_1nf8wil</id>
@@ -281,19 +281,6 @@
     <published>2025-09-12T16:14:45+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nf5wsr</id>
-    <title>Trốn nghĩa vụ quân sự</title>
-    <updated>2025-09-12T15:14:48+00:00</updated>
-    <author>
-      <name>/u/borntolernDeutsch</name>
-      <uri>https://old.reddit.com/user/borntolernDeutsch</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em chào mọi người&lt;/p&gt; &lt;p&gt;Sắp tới vào khoảng tháng 11 em sẽ có visa và bay sang Đức, nhưng em sợ trước khi đó em đã nhận được giấy khám rồi. Thì bây giờ em có thắc mắc:&lt;/p&gt; &lt;ol&gt; &lt;li&gt; Em dự định đi đâu đó xa (vẫn trong nước) và giả vờ rằng bố mẹ hay gia đình không thể liên lạc cho em được, để em có thể tránh việc nhận trực tiếp giấy khám. Việc này chỉ kéo dài cho đến khi em nhận visa và bay.&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Em muốn hỏi là việc đó có khả thi không ?&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Trong trường hợp em nhận trực tiếp giấy nhưng bay trước ngày khám sơ tuyển vòng 1 thì điều đó có ảnh hưởng trong hồ sơ hay không ạ ?&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Em mong mọi người giải đáp thắc mắc giúp em, em cảm ơn ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/borntolernDeutsch"&gt; /u/borntolernDeutsch &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nf5wsr/trốn_nghĩa_vụ_quân_sự/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nf5wsr/trốn_nghĩa_vụ_quân_sự/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nf5wsr/trốn_nghĩa_vụ_quân_sự/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-12T15:14:48+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nerzha</id>
     <title>CIC Trung tâm dữ liệu tín dụng bị hack</title>
     <updated>2025-09-12T02:48:04+00:00</updated>
@@ -305,6 +292,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nerzha/cic_trung_tâm_dữ_liệu_tín_dụng_bị_hack/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-12T02:48:04+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nf5wsr</id>
+    <title>Trốn nghĩa vụ quân sự</title>
+    <updated>2025-09-12T15:14:48+00:00</updated>
+    <author>
+      <name>/u/borntolernDeutsch</name>
+      <uri>https://old.reddit.com/user/borntolernDeutsch</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em chào mọi người&lt;/p&gt; &lt;p&gt;Sắp tới vào khoảng tháng 11 em sẽ có visa và bay sang Đức, nhưng em sợ trước khi đó em đã nhận được giấy khám rồi. Thì bây giờ em có thắc mắc:&lt;/p&gt; &lt;ol&gt; &lt;li&gt; Em dự định đi đâu đó xa (vẫn trong nước) và giả vờ rằng bố mẹ hay gia đình không thể liên lạc cho em được, để em có thể tránh việc nhận trực tiếp giấy khám. Việc này chỉ kéo dài cho đến khi em nhận visa và bay.&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Em muốn hỏi là việc đó có khả thi không ?&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Trong trường hợp em nhận trực tiếp giấy nhưng bay trước ngày khám sơ tuyển vòng 1 thì điều đó có ảnh hưởng trong hồ sơ hay không ạ ?&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Em mong mọi người giải đáp thắc mắc giúp em, em cảm ơn ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/borntolernDeutsch"&gt; /u/borntolernDeutsch &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nf5wsr/trốn_nghĩa_vụ_quân_sự/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nf5wsr/trốn_nghĩa_vụ_quân_sự/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nf5wsr/trốn_nghĩa_vụ_quân_sự/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-12T15:14:48+00:00</published>
   </entry>
   <entry>
     <id>t3_1nevntv</id>
