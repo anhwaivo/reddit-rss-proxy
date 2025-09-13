@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-09-13T07:26:28+00:00</updated>
+  <updated>2025-09-13T07:37:31+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -281,19 +281,6 @@
     <published>2025-09-13T07:02:15+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nfkxc1</id>
-    <title>Rút tiền từ Binance</title>
-    <updated>2025-09-13T01:35:05+00:00</updated>
-    <author>
-      <name>/u/_tht</name>
-      <uri>https://old.reddit.com/user/_tht</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình có thắc mắc là sau khi nhà nước ra luật mới như vậy, liệu rút tiền P2P từ Binance còn được không.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/_tht"&gt; /u/_tht &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nfkxc1/rút_tiền_từ_binance/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nfkxc1/rút_tiền_từ_binance/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nfkxc1/rút_tiền_từ_binance/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-13T01:35:05+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nfq8za</id>
     <title>Lớp 12 có nên tập gym hay không</title>
     <updated>2025-09-13T06:25:04+00:00</updated>
@@ -305,6 +292,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nfq8za/lớp_12_có_nên_tập_gym_hay_không/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-13T06:25:04+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nfkxc1</id>
+    <title>Rút tiền từ Binance</title>
+    <updated>2025-09-13T01:35:05+00:00</updated>
+    <author>
+      <name>/u/_tht</name>
+      <uri>https://old.reddit.com/user/_tht</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình có thắc mắc là sau khi nhà nước ra luật mới như vậy, liệu rút tiền P2P từ Binance còn được không.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/_tht"&gt; /u/_tht &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nfkxc1/rút_tiền_từ_binance/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nfkxc1/rút_tiền_từ_binance/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nfkxc1/rút_tiền_từ_binance/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-13T01:35:05+00:00</published>
   </entry>
   <entry>
     <id>t3_1nf44wl</id>
