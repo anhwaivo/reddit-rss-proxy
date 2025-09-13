@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-09-13T09:50:27+00:00</updated>
+  <updated>2025-09-13T10:15:53+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1nf8mwa</id>
-    <title>Tháng 1/2000, không đại học còn dính NVQS không ạ ?</title>
-    <updated>2025-09-12T17:00:35+00:00</updated>
-    <author>
-      <name>/u/tenten951</name>
-      <uri>https://old.reddit.com/user/tenten951</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Như tiêu đề ạ. Mình ở Đà Nẵng. Ai có thông tin gì không ạ ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/tenten951"&gt; /u/tenten951 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nf8mwa/tháng_12000_không_đại_học_còn_dính_nvqs_không_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nf8mwa/tháng_12000_không_đại_học_còn_dính_nvqs_không_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nf8mwa/tháng_12000_không_đại_học_còn_dính_nvqs_không_ạ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-12T17:00:35+00:00</published>
-  </entry>
   <entry>
     <id>t3_1nex2mp</id>
     <title>Tự học tiếng anh ở nhà như thế nào?</title>
@@ -47,19 +34,6 @@
     <published>2025-09-12T16:16:08+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nf3osb</id>
-    <title>Bằng khá đại học</title>
-    <updated>2025-09-12T13:46:22+00:00</updated>
-    <author>
-      <name>/u/No_Dot_1279</name>
-      <uri>https://old.reddit.com/user/No_Dot_1279</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Như tít, cho em hỏi là bằng khá đại học thì sau này có ảnh hưởng đến công việc ko các bác. Sang năm em sang Nhật, học tiếng tầm 1 năm, lúc học xong em 24t thì có nên học đại học ở Nhật nữa ko các bác? Cám ơn các bác nhiều ạ &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/No_Dot_1279"&gt; /u/No_Dot_1279 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nf3osb/bằng_khá_đại_học/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nf3osb/bằng_khá_đại_học/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nf3osb/bằng_khá_đại_học/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-12T13:46:22+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nfsbs6</id>
     <title>IUH mãi đỉnh #IUH #FHRE</title>
     <updated>2025-09-13T08:33:31+00:00</updated>
@@ -71,6 +45,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nfsbs6/iuh_mãi_đỉnh_iuh_fhre/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-13T08:33:31+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nf3osb</id>
+    <title>Bằng khá đại học</title>
+    <updated>2025-09-12T13:46:22+00:00</updated>
+    <author>
+      <name>/u/No_Dot_1279</name>
+      <uri>https://old.reddit.com/user/No_Dot_1279</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Như tít, cho em hỏi là bằng khá đại học thì sau này có ảnh hưởng đến công việc ko các bác. Sang năm em sang Nhật, học tiếng tầm 1 năm, lúc học xong em 24t thì có nên học đại học ở Nhật nữa ko các bác? Cám ơn các bác nhiều ạ &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/No_Dot_1279"&gt; /u/No_Dot_1279 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nf3osb/bằng_khá_đại_học/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nf3osb/bằng_khá_đại_học/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nf3osb/bằng_khá_đại_học/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-12T13:46:22+00:00</published>
   </entry>
   <entry>
     <id>t3_1nfkq12</id>
@@ -216,6 +203,19 @@
     <published>2025-09-13T05:56:33+00:00</published>
   </entry>
   <entry>
+    <id>t3_1nftomh</id>
+    <title>Em thắc mắc chút</title>
+    <updated>2025-09-13T10:02:23+00:00</updated>
+    <author>
+      <name>/u/IcyWinter9406</name>
+      <uri>https://old.reddit.com/user/IcyWinter9406</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Con gái đi làm thêm buổi tối là bị đánh giá lắm phải không ạ? em là sinh viên mới nhập học cũng muốn có một khoản tiền tiết kiệm nhỏ và để bớt phải xin tiền gia đình vì ban ngày đi học nên đi làm thêm thì em chỉ có thể xin được ca tối. Em có hỏi chủ trọ về việc em đi về muộn gây ra vài tiếng động có ảnh hưởng đến họ không ( trọ chung cổng) chủ nhà đồng ý nhưng em cảm thấy họ đang nghĩ em là dạng chơi bời, có 2 người trong nhà chủ thi thoảng gặp hay hỏi em là &amp;quot; sắp đi làm chưa&amp;quot;, &amp;quot; còn chỗ nào không cho chú đi làm với&amp;quot; em cảm thấy hơi khó xử khi bị hỏi thế không biết ngta hỏi thế có ý đánh giá mình không.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/IcyWinter9406"&gt; /u/IcyWinter9406 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nftomh/em_thắc_mắc_chút/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nftomh/em_thắc_mắc_chút/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nftomh/em_thắc_mắc_chút/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-13T10:02:23+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1nf5wsr</id>
     <title>Trốn nghĩa vụ quân sự</title>
     <updated>2025-09-12T15:14:48+00:00</updated>
@@ -255,6 +255,19 @@
     <published>2025-09-13T07:01:34+00:00</published>
   </entry>
   <entry>
+    <id>t3_1nfq8za</id>
+    <title>Lớp 12 có nên tập gym hay không</title>
+    <updated>2025-09-13T06:25:04+00:00</updated>
+    <author>
+      <name>/u/Robert-Christ7671</name>
+      <uri>https://old.reddit.com/user/Robert-Christ7671</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hello mọi người hiện tại em là học sinh lớp 12, sắp chuẩn bị thi đại học em có tập gym đc 4-5 tháng mà năm sau em thi đại học rồi mọi người cho em xin lời khuyên em có nên đi tập tiếp hay thôi tập trung học em aim trường đại học cũng cao ạ cảm ơn mọi người&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Robert-Christ7671"&gt; /u/Robert-Christ7671 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nfq8za/lớp_12_có_nên_tập_gym_hay_không/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nfq8za/lớp_12_có_nên_tập_gym_hay_không/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nfq8za/lớp_12_có_nên_tập_gym_hay_không/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-13T06:25:04+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1nft3a1</id>
     <title>Em cần giúp đỡ nhanh ạ</title>
     <updated>2025-09-13T09:24:04+00:00</updated>
@@ -279,19 +292,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nfkxc1/rút_tiền_từ_binance/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-13T01:35:05+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1nfq8za</id>
-    <title>Lớp 12 có nên tập gym hay không</title>
-    <updated>2025-09-13T06:25:04+00:00</updated>
-    <author>
-      <name>/u/Robert-Christ7671</name>
-      <uri>https://old.reddit.com/user/Robert-Christ7671</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hello mọi người hiện tại em là học sinh lớp 12, sắp chuẩn bị thi đại học em có tập gym đc 4-5 tháng mà năm sau em thi đại học rồi mọi người cho em xin lời khuyên em có nên đi tập tiếp hay thôi tập trung học em aim trường đại học cũng cao ạ cảm ơn mọi người&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Robert-Christ7671"&gt; /u/Robert-Christ7671 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nfq8za/lớp_12_có_nên_tập_gym_hay_không/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nfq8za/lớp_12_có_nên_tập_gym_hay_không/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nfq8za/lớp_12_có_nên_tập_gym_hay_không/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-13T06:25:04+00:00</published>
   </entry>
   <entry>
     <id>t3_1nf44wl</id>
