@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-09-14T08:40:56+00:00</updated>
+  <updated>2025-09-14T08:50:45+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -216,19 +216,6 @@
     <published>2025-09-13T17:34:46+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nfx6ma</id>
-    <title>Đứng trước nguy cơ đi tù vì giữ tài sản số</title>
-    <updated>2025-09-13T13:13:00+00:00</updated>
-    <author>
-      <name>/u/Unlucky_Mine_9412</name>
-      <uri>https://old.reddit.com/user/Unlucky_Mine_9412</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Như mọi người biết thì vn sắp có luật dành cho tiền điện tử và phải chuyển tài sản từ sàn quốc tế qua sàn vn trong vòng 6 tháng. Thì mọi người có suy nghĩ gì về luật này và nên làm gì vào thời điểm này để không ăn lắc bạc &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Unlucky_Mine_9412"&gt; /u/Unlucky_Mine_9412 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nfx6ma/đứng_trước_nguy_cơ_đi_tù_vì_giữ_tài_sản_số/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nfx6ma/đứng_trước_nguy_cơ_đi_tù_vì_giữ_tài_sản_số/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nfx6ma/đứng_trước_nguy_cơ_đi_tù_vì_giữ_tài_sản_số/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-13T13:13:00+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1ngc9sa</id>
     <title>Tuổi 21, rời HN về quê</title>
     <updated>2025-09-13T23:42:33+00:00</updated>
@@ -240,6 +227,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ngc9sa/tuổi_21_rời_hn_về_quê/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-13T23:42:33+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nfx6ma</id>
+    <title>Đứng trước nguy cơ đi tù vì giữ tài sản số</title>
+    <updated>2025-09-13T13:13:00+00:00</updated>
+    <author>
+      <name>/u/Unlucky_Mine_9412</name>
+      <uri>https://old.reddit.com/user/Unlucky_Mine_9412</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Như mọi người biết thì vn sắp có luật dành cho tiền điện tử và phải chuyển tài sản từ sàn quốc tế qua sàn vn trong vòng 6 tháng. Thì mọi người có suy nghĩ gì về luật này và nên làm gì vào thời điểm này để không ăn lắc bạc &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Unlucky_Mine_9412"&gt; /u/Unlucky_Mine_9412 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nfx6ma/đứng_trước_nguy_cơ_đi_tù_vì_giữ_tài_sản_số/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nfx6ma/đứng_trước_nguy_cơ_đi_tù_vì_giữ_tài_sản_số/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nfx6ma/đứng_trước_nguy_cơ_đi_tù_vì_giữ_tài_sản_số/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-13T13:13:00+00:00</published>
   </entry>
   <entry>
     <id>t3_1ngihxd</id>
