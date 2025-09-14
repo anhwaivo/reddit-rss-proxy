@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-09-14T05:37:40+00:00</updated>
+  <updated>2025-09-14T05:50:13+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1nfz60v</id>
-    <title>Tìm việc online</title>
-    <updated>2025-09-13T14:40:06+00:00</updated>
-    <author>
-      <name>/u/Exciting_Storm9908</name>
-      <uri>https://old.reddit.com/user/Exciting_Storm9908</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Ai có công việc gì làm online cho mình làm với ạ. Nghèo quá ạ :(&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Exciting_Storm9908"&gt; /u/Exciting_Storm9908 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nfz60v/tìm_việc_online/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nfz60v/tìm_việc_online/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nfz60v/tìm_việc_online/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-13T14:40:06+00:00</published>
-  </entry>
   <entry>
     <id>t3_1nft3a1</id>
     <title>Em cần giúp đỡ nhanh ạ</title>
@@ -203,19 +190,6 @@
     <published>2025-09-13T17:35:43+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nfzlpz</id>
-    <title>tại sao khi thuyết trình trước đám đông lại run</title>
-    <updated>2025-09-13T14:58:06+00:00</updated>
-    <author>
-      <name>/u/Exciting_Storm9908</name>
-      <uri>https://old.reddit.com/user/Exciting_Storm9908</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình cứ thuyết trình là bị run, học thuộc hết rồi, lên thuyết trình thì lại quên hết luôn, làm sao để hết run được ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Exciting_Storm9908"&gt; /u/Exciting_Storm9908 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nfzlpz/tại_sao_khi_thuyết_trình_trước_đám_đông_lại_run/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nfzlpz/tại_sao_khi_thuyết_trình_trước_đám_đông_lại_run/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nfzlpz/tại_sao_khi_thuyết_trình_trước_đám_đông_lại_run/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-13T14:58:06+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1ngi44e</id>
     <title>Hỏi về NVQS</title>
     <updated>2025-09-14T04:43:59+00:00</updated>
@@ -227,6 +201,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ngi44e/hỏi_về_nvqs/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-14T04:43:59+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nfzlpz</id>
+    <title>tại sao khi thuyết trình trước đám đông lại run</title>
+    <updated>2025-09-13T14:58:06+00:00</updated>
+    <author>
+      <name>/u/Exciting_Storm9908</name>
+      <uri>https://old.reddit.com/user/Exciting_Storm9908</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình cứ thuyết trình là bị run, học thuộc hết rồi, lên thuyết trình thì lại quên hết luôn, làm sao để hết run được ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Exciting_Storm9908"&gt; /u/Exciting_Storm9908 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nfzlpz/tại_sao_khi_thuyết_trình_trước_đám_đông_lại_run/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nfzlpz/tại_sao_khi_thuyết_trình_trước_đám_đông_lại_run/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nfzlpz/tại_sao_khi_thuyết_trình_trước_đám_đông_lại_run/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-13T14:58:06+00:00</published>
   </entry>
   <entry>
     <id>t3_1nfxh6c</id>
@@ -255,6 +242,19 @@
     <published>2025-09-14T05:26:30+00:00</published>
   </entry>
   <entry>
+    <id>t3_1ngj3yi</id>
+    <title>Buồn chán nên làm gì</title>
+    <updated>2025-09-14T05:43:16+00:00</updated>
+    <author>
+      <name>/u/quan_tq</name>
+      <uri>https://old.reddit.com/user/quan_tq</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mấy hôm nay mình trống rỗng và mông lung lắm, muốn ra ngoài chơi nhưng cũng không có ai, ở nhà thì nghĩ linh tinh, không tập trung được. Mọi người có gợi ý gì để bớt rảnh và chán không ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/quan_tq"&gt; /u/quan_tq &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ngj3yi/buồn_chán_nên_làm_gì/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ngj3yi/buồn_chán_nên_làm_gì/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ngj3yi/buồn_chán_nên_làm_gì/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-14T05:43:16+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1ng3k4i</id>
     <title>Cho em hỏi học bơi có đắt không ạ?</title>
     <updated>2025-09-13T17:34:46+00:00</updated>
@@ -281,19 +281,6 @@
     <published>2025-09-13T13:13:00+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ngihxd</id>
-    <title>Mọi người làm ở các trung tâm ngoại ngữ cho em hỏi một chút</title>
-    <updated>2025-09-14T05:06:08+00:00</updated>
-    <author>
-      <name>/u/Kindly_Succotash2951</name>
-      <uri>https://old.reddit.com/user/Kindly_Succotash2951</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chả là em có dùng hồ sơ CV của mình apply giáo viên parttime online 3 trung tâm ngoại ngữ để thử sức, và test năng luc. Cụ thể là tiếng Trung, nhưng em rất thắc mắc vì em đều bị đánh trượt tu vòng CV&lt;/p&gt; &lt;p&gt;Cụ thể sơ qua vê profile của em như dưới ạ: &lt;/p&gt; &lt;ol&gt; &lt;li&gt;&lt;p&gt;Du học sinh Trung 3 năm hệ đại học tại Trường sư phạm khá có tiếng bên Trung. Hiện vẫn đg học&lt;/p&gt; &lt;ol&gt; &lt;li&gt;HSK6:268, HSKCC&lt;/li&gt; &lt;li&gt;Kinh nghiệm dạy online ở trung tâm cũ 1 năm, 2 năm nhận các lớp tự do online, giúp các bạn đỗ chứng chỉ được kha khá từ H1-H4&lt;/li&gt; &lt;li&gt; Ngoài ra còn các giải thưởng liên quan tới tiếng Trung khác&lt;/li&gt; &lt;/ol&gt;&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Em không flex, em chỉ mong muốn được giải đáp thắc mắc và tìm ra khuyết điểm để phát triển, vì bản thân em cũng cảm thấy profile mình cũng không quá tệ mà luôn bị trượt từ vòng CV. &lt;/p&gt; &lt;p&gt;Em có hỏi bên tuyển dụng, nhưng họ đều không nói rõ lý do em bị từ chối nên em khá khó hiểu.&lt;/p&gt; &lt;p&gt;Em cảm ơn mn đã đọc bài viết dài này ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Kindly_Succotash2951"&gt; /u/Kindly_Succotash2951 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ngihxd/mọi_người_làm_ở_các_trung_tâm_ngoại_ngữ_cho_em/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ngihxd/mọi_người_làm_ở_các_trung_tâm_ngoại_ngữ_cho_em/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ngihxd/mọi_người_làm_ở_các_trung_tâm_ngoại_ngữ_cho_em/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-14T05:06:08+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1ngc9sa</id>
     <title>Tuổi 21, rời HN về quê</title>
     <updated>2025-09-13T23:42:33+00:00</updated>
@@ -305,6 +292,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ngc9sa/tuổi_21_rời_hn_về_quê/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-13T23:42:33+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ngihxd</id>
+    <title>Mọi người làm ở các trung tâm ngoại ngữ cho em hỏi một chút</title>
+    <updated>2025-09-14T05:06:08+00:00</updated>
+    <author>
+      <name>/u/Kindly_Succotash2951</name>
+      <uri>https://old.reddit.com/user/Kindly_Succotash2951</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chả là em có dùng hồ sơ CV của mình apply giáo viên parttime online 3 trung tâm ngoại ngữ để thử sức, và test năng luc. Cụ thể là tiếng Trung, nhưng em rất thắc mắc vì em đều bị đánh trượt tu vòng CV&lt;/p&gt; &lt;p&gt;Cụ thể sơ qua vê profile của em như dưới ạ: &lt;/p&gt; &lt;ol&gt; &lt;li&gt;&lt;p&gt;Du học sinh Trung 3 năm hệ đại học tại Trường sư phạm khá có tiếng bên Trung. Hiện vẫn đg học&lt;/p&gt; &lt;ol&gt; &lt;li&gt;HSK6:268, HSKCC&lt;/li&gt; &lt;li&gt;Kinh nghiệm dạy online ở trung tâm cũ 1 năm, 2 năm nhận các lớp tự do online, giúp các bạn đỗ chứng chỉ được kha khá từ H1-H4&lt;/li&gt; &lt;li&gt; Ngoài ra còn các giải thưởng liên quan tới tiếng Trung khác&lt;/li&gt; &lt;/ol&gt;&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Em không flex, em chỉ mong muốn được giải đáp thắc mắc và tìm ra khuyết điểm để phát triển, vì bản thân em cũng cảm thấy profile mình cũng không quá tệ mà luôn bị trượt từ vòng CV. &lt;/p&gt; &lt;p&gt;Em có hỏi bên tuyển dụng, nhưng họ đều không nói rõ lý do em bị từ chối nên em khá khó hiểu.&lt;/p&gt; &lt;p&gt;Em cảm ơn mn đã đọc bài viết dài này ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Kindly_Succotash2951"&gt; /u/Kindly_Succotash2951 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ngihxd/mọi_người_làm_ở_các_trung_tâm_ngoại_ngữ_cho_em/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ngihxd/mọi_người_làm_ở_các_trung_tâm_ngoại_ngữ_cho_em/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ngihxd/mọi_người_làm_ở_các_trung_tâm_ngoại_ngữ_cho_em/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-14T05:06:08+00:00</published>
   </entry>
   <entry>
     <id>t3_1ng9v5m</id>
