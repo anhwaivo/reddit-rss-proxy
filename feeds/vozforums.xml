@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-09-15T15:19:08+00:00</updated>
+  <updated>2025-09-15T15:40:00+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1nhndcb</id>
-    <title>Mấy bữa nay mình đang khá chán vì ko tìm được truyện nào ưng ý, các bạn gợi ý giúp mình nhé. Mình thích mấy truyện tranh nặng đô như Good nigh,Punpun hoặc một vài oneshot của Fujimoto Tasuki</title>
-    <updated>2025-09-15T14:27:57+00:00</updated>
-    <author>
-      <name>/u/Possible_Neat_876</name>
-      <uri>https://old.reddit.com/user/Possible_Neat_876</uri>
-    </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Possible_Neat_876"&gt; /u/Possible_Neat_876 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nhndcb/mấy_bữa_nay_mình_đang_khá_chán_vì_ko_tìm_được/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nhndcb/mấy_bữa_nay_mình_đang_khá_chán_vì_ko_tìm_được/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nhndcb/mấy_bữa_nay_mình_đang_khá_chán_vì_ko_tìm_được/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-15T14:27:57+00:00</published>
-  </entry>
   <entry>
     <id>t3_1nhgrc5</id>
     <title>Tìm hiểu về kiến thức đầu tư</title>
@@ -60,32 +47,6 @@
     <published>2025-09-15T15:04:48+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nhonka</id>
-    <title>Việc thăm viếng.</title>
-    <updated>2025-09-15T15:16:18+00:00</updated>
-    <author>
-      <name>/u/Mindless-Location-39</name>
-      <uri>https://old.reddit.com/user/Mindless-Location-39</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là người nhà của bạn thân mình mất. Bạn ấy có báo tin cho mình nhưng mà mình ngỏ ý đến thăm viếng thì bạn ấy lại không trả lời mình. &lt;/p&gt; &lt;p&gt;Mình nghĩ việc thăm viếng rất dù chỉ là có mặt thôi cũng có thể làm dịu đi phần nào đó. &lt;/p&gt; &lt;p&gt;Người ta sợ phiền phức hay thế nào ấy ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Mindless-Location-39"&gt; /u/Mindless-Location-39 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nhonka/việc_thăm_viếng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nhonka/việc_thăm_viếng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nhonka/việc_thăm_viếng/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-15T15:16:18+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1nhbb9t</id>
-    <title>Chuyện làm việc nhóm trên đại học</title>
-    <updated>2025-09-15T03:31:24+00:00</updated>
-    <author>
-      <name>/u/RefrigeratorSure8443</name>
-      <uri>https://old.reddit.com/user/RefrigeratorSure8443</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, hiện tại em học bên kinh tế (M), cũng sắp ra trường rồi. Ấy thế mà trong suốt 4 năm, em lúc nào tìm việc nhóm cũng bị cho ra rìa, không được ai nhận cả, toàn phải giảng viên can thiệp. Lớp em toàn con gái (55/68), cho nên e hoài nghi là đám này truyền tin cho nhau bảo là làm việc với em không tốt, hoặc nói xấu 1 cái gì đó về em. Đúng là năm nhất e cũng hay cáu gắt chúng nó vì tội làm trễ deadline, nhưng mà không thể có những người chưa làm việc cùng bao giờ đã vội từ chối được. &lt;/p&gt; &lt;p&gt;Giờ cũng sắp ra trường nên em ko quá quan tâm việc làm nhóm mà chỉ tò mò việc con gái có thể thân thiết và truyền tin cho nhau nhanh thế ạ ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/RefrigeratorSure8443"&gt; /u/RefrigeratorSure8443 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nhbb9t/chuyện_làm_việc_nhóm_trên_đại_học/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nhbb9t/chuyện_làm_việc_nhóm_trên_đại_học/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nhbb9t/chuyện_làm_việc_nhóm_trên_đại_học/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-15T03:31:24+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nhd0vz</id>
     <title>Bị bắt nạt và muốn phản kháng</title>
     <updated>2025-09-15T05:04:06+00:00</updated>
@@ -112,6 +73,19 @@
     <published>2025-09-15T05:55:47+00:00</published>
   </entry>
   <entry>
+    <id>t3_1nhbb9t</id>
+    <title>Chuyện làm việc nhóm trên đại học</title>
+    <updated>2025-09-15T03:31:24+00:00</updated>
+    <author>
+      <name>/u/RefrigeratorSure8443</name>
+      <uri>https://old.reddit.com/user/RefrigeratorSure8443</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, hiện tại em học bên kinh tế (M), cũng sắp ra trường rồi. Ấy thế mà trong suốt 4 năm, em lúc nào tìm việc nhóm cũng bị cho ra rìa, không được ai nhận cả, toàn phải giảng viên can thiệp. Lớp em toàn con gái (55/68), cho nên e hoài nghi là đám này truyền tin cho nhau bảo là làm việc với em không tốt, hoặc nói xấu 1 cái gì đó về em. Đúng là năm nhất e cũng hay cáu gắt chúng nó vì tội làm trễ deadline, nhưng mà không thể có những người chưa làm việc cùng bao giờ đã vội từ chối được. &lt;/p&gt; &lt;p&gt;Giờ cũng sắp ra trường nên em ko quá quan tâm việc làm nhóm mà chỉ tò mò việc con gái có thể thân thiết và truyền tin cho nhau nhanh thế ạ ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/RefrigeratorSure8443"&gt; /u/RefrigeratorSure8443 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nhbb9t/chuyện_làm_việc_nhóm_trên_đại_học/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nhbb9t/chuyện_làm_việc_nhóm_trên_đại_học/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nhbb9t/chuyện_làm_việc_nhóm_trên_đại_học/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-15T03:31:24+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1nhl788</id>
     <title>Các bác cho e xin link con keyboard chính hãng win 68 trên sàn cam với ,cảm ơn các bác</title>
     <updated>2025-09-15T13:00:50+00:00</updated>
@@ -123,19 +97,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nhl788/các_bác_cho_e_xin_link_con_keyboard_chính_hãng/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-15T13:00:50+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1ngrntd</id>
-    <title>Các bác nghĩ lên sửa luật như nào để giảm tình trạng tài xế cố ý kill người như này?</title>
-    <updated>2025-09-14T13:43:20+00:00</updated>
-    <author>
-      <name>/u/Fortuna369</name>
-      <uri>https://old.reddit.com/user/Fortuna369</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1ngrntd/các_bác_nghĩ_lên_sửa_luật_như_nào_để_giảm_tình/"&gt; &lt;img alt="Các bác nghĩ lên sửa luật như nào để giảm tình trạng tài xế cố ý kill người như này?" src="https://preview.redd.it/291jlg2kw4pf1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=981c5dfe3d78188fe81fa5802d9695170c2eb387" title="Các bác nghĩ lên sửa luật như nào để giảm tình trạng tài xế cố ý kill người như này?" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;🚨 Cơ quan CSĐT Công an thành phố Hà Nội đã tạm giữ hình sự đối tượng Đinh Văn Long (SN: 1974; thường trú tại xã An Bình, tỉnh Phú Thọ) để điều tra về hành vi giết người. &lt;/p&gt; &lt;h2&gt;‎&lt;/h2&gt; &lt;p&gt;‎Trước đó, vào khoảng 09h20' ngày 13/9/2025, xảy ra vụ tai nạn giao thông giữa xe ô tô bồn chở bê tông và xe máy điện tại gầm cầu chui Vạn Điểm thuộc thôn Lam Sơn, xã Phú Xuyên. &lt;/p&gt; &lt;p&gt;Hậu quả: nữ sinh (SN: 2010) điều khiển xe máy điện bị thương, được đi cấp cứu tại Bệnh viện Bạch Mai sau đó tử vong. &lt;/p&gt; &lt;p&gt;Sau khi xảy ra sự việc lái xe ô tô là Đinh Văn Long đã bỏ trốn khỏi hiện trường. ‎ ‎Cơ quan CSĐT Công an Thành phố, Phòng Cảnh sát giao thông đã phối hợp các đơn vị chức năng, Công an xã Phú Xuyên tổ chức khám nghiệm hiện trường, điều tra, làm rõ vụ việc theo quy định. ‎ ‎Đến khoảng 19h cùng ngày, đối tượng Đinh Văn Long đã đến Công an xã Phú Xuyên đầu thú. &lt;/p&gt; &lt;p&gt;Tại cơ quan Công an, Long đã thừa nhận hành vi cố ý tiếp tục điều khiển xe ô tô kéo lê nạn nhân trên đường (sau khi va chạm) dẫn đến thương tích nặng rồi tử vong. &lt;/p&gt; &lt;p&gt;Mục đích là để cho nạn nhân thiệt mạng luôn và Long đi tù sẽ không phải lo đền bù tiền cho nạn nhân. &lt;/p&gt; &lt;p&gt;Kết quả xét nghiệm đối với Long: không có nồng độ cồn trong hơi thở và âm tính với ma tuý. ‎ ‎Hành vi vi phạm của đối tượng hết sức tàn nhẫn, vô nhân đạo với động cơ đê hèn. &lt;/p&gt; &lt;p&gt;📝 Căn cứ vào tài liệu thu thập được, ngày 14/9/2025, Cơ quan CSĐT Công an thành phố Hà Nội đã ra quyết định tạm giữ hình sự Đinh Văn Long để điều tra về hành vi giết người.&lt;br /&gt; ‎ ‎Hiện Giám đốc Công an Thành phố đã chỉ đạo các đơn vị chức năng nhanh chóng củng cố hồ sơ, xử lý nghiêm đối tượng theo quy định pháp luật.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Fortuna369"&gt; /u/Fortuna369 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/291jlg2kw4pf1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ngrntd/các_bác_nghĩ_lên_sửa_luật_như_nào_để_giảm_tình/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ngrntd/các_bác_nghĩ_lên_sửa_luật_như_nào_để_giảm_tình/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-14T13:43:20+00:00</published>
   </entry>
   <entry>
     <id>t3_1nheqx8</id>
@@ -151,6 +112,19 @@
     <published>2025-09-15T06:48:32+00:00</published>
   </entry>
   <entry>
+    <id>t3_1ngrntd</id>
+    <title>Các bác nghĩ lên sửa luật như nào để giảm tình trạng tài xế cố ý kill người như này?</title>
+    <updated>2025-09-14T13:43:20+00:00</updated>
+    <author>
+      <name>/u/Fortuna369</name>
+      <uri>https://old.reddit.com/user/Fortuna369</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1ngrntd/các_bác_nghĩ_lên_sửa_luật_như_nào_để_giảm_tình/"&gt; &lt;img alt="Các bác nghĩ lên sửa luật như nào để giảm tình trạng tài xế cố ý kill người như này?" src="https://preview.redd.it/291jlg2kw4pf1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=981c5dfe3d78188fe81fa5802d9695170c2eb387" title="Các bác nghĩ lên sửa luật như nào để giảm tình trạng tài xế cố ý kill người như này?" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;🚨 Cơ quan CSĐT Công an thành phố Hà Nội đã tạm giữ hình sự đối tượng Đinh Văn Long (SN: 1974; thường trú tại xã An Bình, tỉnh Phú Thọ) để điều tra về hành vi giết người. &lt;/p&gt; &lt;h2&gt;‎&lt;/h2&gt; &lt;p&gt;‎Trước đó, vào khoảng 09h20' ngày 13/9/2025, xảy ra vụ tai nạn giao thông giữa xe ô tô bồn chở bê tông và xe máy điện tại gầm cầu chui Vạn Điểm thuộc thôn Lam Sơn, xã Phú Xuyên. &lt;/p&gt; &lt;p&gt;Hậu quả: nữ sinh (SN: 2010) điều khiển xe máy điện bị thương, được đi cấp cứu tại Bệnh viện Bạch Mai sau đó tử vong. &lt;/p&gt; &lt;p&gt;Sau khi xảy ra sự việc lái xe ô tô là Đinh Văn Long đã bỏ trốn khỏi hiện trường. ‎ ‎Cơ quan CSĐT Công an Thành phố, Phòng Cảnh sát giao thông đã phối hợp các đơn vị chức năng, Công an xã Phú Xuyên tổ chức khám nghiệm hiện trường, điều tra, làm rõ vụ việc theo quy định. ‎ ‎Đến khoảng 19h cùng ngày, đối tượng Đinh Văn Long đã đến Công an xã Phú Xuyên đầu thú. &lt;/p&gt; &lt;p&gt;Tại cơ quan Công an, Long đã thừa nhận hành vi cố ý tiếp tục điều khiển xe ô tô kéo lê nạn nhân trên đường (sau khi va chạm) dẫn đến thương tích nặng rồi tử vong. &lt;/p&gt; &lt;p&gt;Mục đích là để cho nạn nhân thiệt mạng luôn và Long đi tù sẽ không phải lo đền bù tiền cho nạn nhân. &lt;/p&gt; &lt;p&gt;Kết quả xét nghiệm đối với Long: không có nồng độ cồn trong hơi thở và âm tính với ma tuý. ‎ ‎Hành vi vi phạm của đối tượng hết sức tàn nhẫn, vô nhân đạo với động cơ đê hèn. &lt;/p&gt; &lt;p&gt;📝 Căn cứ vào tài liệu thu thập được, ngày 14/9/2025, Cơ quan CSĐT Công an thành phố Hà Nội đã ra quyết định tạm giữ hình sự Đinh Văn Long để điều tra về hành vi giết người.&lt;br /&gt; ‎ ‎Hiện Giám đốc Công an Thành phố đã chỉ đạo các đơn vị chức năng nhanh chóng củng cố hồ sơ, xử lý nghiêm đối tượng theo quy định pháp luật.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Fortuna369"&gt; /u/Fortuna369 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/291jlg2kw4pf1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ngrntd/các_bác_nghĩ_lên_sửa_luật_như_nào_để_giảm_tình/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ngrntd/các_bác_nghĩ_lên_sửa_luật_như_nào_để_giảm_tình/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-14T13:43:20+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1nhng4m</id>
     <title>Yêu xa</title>
     <updated>2025-09-15T14:30:54+00:00</updated>
@@ -162,19 +136,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nhng4m/yêu_xa/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-15T14:30:54+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1nh8e8q</id>
-    <title>Chuyện đi dạy gia sư</title>
-    <updated>2025-09-15T01:08:59+00:00</updated>
-    <author>
-      <name>/u/Available-Touch7665</name>
-      <uri>https://old.reddit.com/user/Available-Touch7665</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em là svien năm 2 ngành ngôn ngữ anh (nữ), năm đầu em có nhận gia sư một bé lớp 9 lên 10 để lấy kinh nghiệm, lấy 30k một giờ vì mẹ em bảo giá đó là hợp lí, em cũng ngu ngơ ko biết cách tính giá như nào nên cũng đồng ý lấy giá đó nhưng thực sự e thấy ko cân với công sức em bỏ ra. Sau lần đó là em ko muốn nhận dạy bé đó nữa do bé học khá yếu hay quên + kĩ năng dạy của em cũng chưa vững nên chưa thể dạy bé từ yếu thành giỏi (e dạy bé từ 2,3 điểm cuối kì lên 7 và 5,5d tn) nhưng vì bé là con của bạn mẹ nên em ko từ chối được và tiếp tục nhận dạy kèm bé này ở lớp 10, nếu em lấy 50k/ h thì có hợp lí ko vì bé tới nhà em để học nên mẹ chỉ muốn em lấy nhiêu đó th. Nếu có thể lấy cao hơn làm sao để nói cho mẹ hiểu đây ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Available-Touch7665"&gt; /u/Available-Touch7665 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nh8e8q/chuyện_đi_dạy_gia_sư/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nh8e8q/chuyện_đi_dạy_gia_sư/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nh8e8q/chuyện_đi_dạy_gia_sư/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-15T01:08:59+00:00</published>
   </entry>
   <entry>
     <id>t3_1nho9fs</id>
@@ -190,6 +151,19 @@
     <published>2025-09-15T15:01:46+00:00</published>
   </entry>
   <entry>
+    <id>t3_1nh8e8q</id>
+    <title>Chuyện đi dạy gia sư</title>
+    <updated>2025-09-15T01:08:59+00:00</updated>
+    <author>
+      <name>/u/Available-Touch7665</name>
+      <uri>https://old.reddit.com/user/Available-Touch7665</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em là svien năm 2 ngành ngôn ngữ anh (nữ), năm đầu em có nhận gia sư một bé lớp 9 lên 10 để lấy kinh nghiệm, lấy 30k một giờ vì mẹ em bảo giá đó là hợp lí, em cũng ngu ngơ ko biết cách tính giá như nào nên cũng đồng ý lấy giá đó nhưng thực sự e thấy ko cân với công sức em bỏ ra. Sau lần đó là em ko muốn nhận dạy bé đó nữa do bé học khá yếu hay quên + kĩ năng dạy của em cũng chưa vững nên chưa thể dạy bé từ yếu thành giỏi (e dạy bé từ 2,3 điểm cuối kì lên 7 và 5,5d tn) nhưng vì bé là con của bạn mẹ nên em ko từ chối được và tiếp tục nhận dạy kèm bé này ở lớp 10, nếu em lấy 50k/ h thì có hợp lí ko vì bé tới nhà em để học nên mẹ chỉ muốn em lấy nhiêu đó th. Nếu có thể lấy cao hơn làm sao để nói cho mẹ hiểu đây ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Available-Touch7665"&gt; /u/Available-Touch7665 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nh8e8q/chuyện_đi_dạy_gia_sư/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nh8e8q/chuyện_đi_dạy_gia_sư/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nh8e8q/chuyện_đi_dạy_gia_sư/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-15T01:08:59+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1nhl5qj</id>
     <title>17 Tuổi Xin Lời Khuyên</title>
     <updated>2025-09-15T12:59:06+00:00</updated>
@@ -203,17 +177,30 @@
     <published>2025-09-15T12:59:06+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nhomgp</id>
-    <title>USDT đang xuống</title>
-    <updated>2025-09-15T15:15:10+00:00</updated>
+    <id>t3_1nhonka</id>
+    <title>Việc thăm viếng.</title>
+    <updated>2025-09-15T15:16:18+00:00</updated>
     <author>
-      <name>/u/Gloomy_Education1288</name>
-      <uri>https://old.reddit.com/user/Gloomy_Education1288</uri>
+      <name>/u/Mindless-Location-39</name>
+      <uri>https://old.reddit.com/user/Mindless-Location-39</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình mới mua USDT để tránh mất giá. Mua được có vài hôm mà thấy giảm giá ghê quá:))))&lt;/p&gt; &lt;p&gt;Nhưng xu hướng lâu dài thì USDT vẫn an toàn hơn VND phải không?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Gloomy_Education1288"&gt; /u/Gloomy_Education1288 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nhomgp/usdt_đang_xuống/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nhomgp/usdt_đang_xuống/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nhomgp/usdt_đang_xuống/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là người nhà của bạn thân mình mất. Bạn ấy có báo tin cho mình nhưng mà mình ngỏ ý đến thăm viếng thì bạn ấy lại không trả lời mình. Mình ngỏ ý tận hai lần.&lt;/p&gt; &lt;p&gt;Người ta sợ phiền phức hay thế nào ấy ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Mindless-Location-39"&gt; /u/Mindless-Location-39 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nhonka/việc_thăm_viếng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nhonka/việc_thăm_viếng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nhonka/việc_thăm_viếng/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-15T15:15:10+00:00</published>
+    <published>2025-09-15T15:16:18+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nhotzl</id>
+    <title>Nộp thuế thì dễ đấy nhưng nộp phạt thì không hề</title>
+    <updated>2025-09-15T15:22:56+00:00</updated>
+    <author>
+      <name>/u/Subarashi_21</name>
+      <uri>https://old.reddit.com/user/Subarashi_21</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Xin chào ae, &lt;/p&gt; &lt;p&gt;Kể lại chuyện đi hỏi cách đóng phạt mấy bữa nay. Xưa nhà tui có mua 1 mảnh đất nằm ở ngoài tỉnh tui sống, dạo gần đây đã chuyển đổi mục đích miếng đất sang cho phép kinh doanh.&lt;/p&gt; &lt;p&gt;Chuyển đổi mục đích thì khó thôi rồi nhưng cuối cùng đóng thuế các thứ rồi cũng xong. Thế vậy mà 10 ngày sau phát hiện ra bố tui đóng thuế trễ 10 ngày so với hạn chót đóng thuế.&lt;/p&gt; &lt;p&gt;Như vậy, theo quy định hiện tại sẽ bị phạt % trên tổng giá trị đất. OK, phạt thì đóng thôi.&lt;/p&gt; &lt;p&gt;Nhưng chả có thông tin hay thông báo gì liên quan nộp phạt. Liền chạy ra chi cục thuế hỏi.&lt;/p&gt; &lt;p&gt;&amp;quot;E ơi, cái này lên app đóng cho tiện&amp;quot;&lt;/p&gt; &lt;p&gt;Lật đật, kêu người đứng tên lên tải app, chuyển mã thuế, đăng nhập,....&lt;/p&gt; &lt;p&gt;&amp;quot;Chị ơi, vẫn không thấy thông tin đóng phạt trên app&amp;quot;&lt;/p&gt; &lt;p&gt;&amp;quot;À, chắc nó chưa cập nhật kịp. Nếu vây, e chạy lên chi cục thuế thuộc địa bàn của miếng đất mà hỏi&amp;quot;&lt;/p&gt; &lt;p&gt;Nghe xong tui cạn lời, đất nước đang vương mình , đồng bộ ở đâu ? nhanh chóng ở đâu ? giờ phải bỏ thời gian chạy hơn cả 100km cầu rằng bọn trên đó có câu trả lời. Không thì phải tốn mớ tiền cho dịch vụ làm hộ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Subarashi_21"&gt; /u/Subarashi_21 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nhotzl/nộp_thuế_thì_dễ_đấy_nhưng_nộp_phạt_thì_không_hề/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nhotzl/nộp_thuế_thì_dễ_đấy_nhưng_nộp_phạt_thì_không_hề/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nhotzl/nộp_thuế_thì_dễ_đấy_nhưng_nộp_phạt_thì_không_hề/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-15T15:22:56+00:00</published>
   </entry>
   <entry>
     <id>t3_1nhh6yp</id>
@@ -281,6 +268,19 @@
     <published>2025-09-15T13:13:15+00:00</published>
   </entry>
   <entry>
+    <id>t3_1nhkd5f</id>
+    <title>NVQS trụ cột gia đình</title>
+    <updated>2025-09-15T12:23:54+00:00</updated>
+    <author>
+      <name>/u/Available_Class6998</name>
+      <uri>https://old.reddit.com/user/Available_Class6998</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình 23F đã lấy chồng và có anh trai 25M hiện đang là thu nhập chính nuôi bố mẹ. Bố mình trước giờ bị “tâm thần” nhẹ và không thể kiếm ra tiền. Mẹ mình hiện tại cũng sức yếu bệnh nền không kiếm được tiền nữa. Mà giờ sau tốt nghiệp đại học thấy a trai bị gọi NVQS, nay gọi điện thấy trong tuần này xã sẽ lên list những cá nhân sẽ thuộc diện khám vào đợt tháng 11. Mình tuy lấy chồng nhưng 2vck ở xa và cũng chật vật kinh tế nên chỉ có anh trai đi làm nuôi bố mẹ là chính, mà giờ ảnh bị gọi đi nghĩa vụ thì mình sợ bố mẹ sẽ không ai gánh vác mất sẽ rất vất vả.&lt;/p&gt; &lt;p&gt;Cho mình hỏi trường hợp a mình có làm đơn miễn trừ gia cảnh đc không ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Available_Class6998"&gt; /u/Available_Class6998 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nhkd5f/nvqs_trụ_cột_gia_đình/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nhkd5f/nvqs_trụ_cột_gia_đình/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nhkd5f/nvqs_trụ_cột_gia_đình/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-15T12:23:54+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1nho49z</id>
     <title>Đàn ông liệu có yêu bằng tai?</title>
     <updated>2025-09-15T14:56:41+00:00</updated>
@@ -294,17 +294,17 @@
     <published>2025-09-15T14:56:41+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nhkd5f</id>
-    <title>NVQS trụ cột gia đình</title>
-    <updated>2025-09-15T12:23:54+00:00</updated>
+    <id>t3_1nhomgp</id>
+    <title>USDT đang xuống</title>
+    <updated>2025-09-15T15:15:10+00:00</updated>
     <author>
-      <name>/u/Available_Class6998</name>
-      <uri>https://old.reddit.com/user/Available_Class6998</uri>
+      <name>/u/Gloomy_Education1288</name>
+      <uri>https://old.reddit.com/user/Gloomy_Education1288</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình 23F đã lấy chồng và có anh trai 25M hiện đang là thu nhập chính nuôi bố mẹ. Bố mình trước giờ bị “tâm thần” nhẹ và không thể kiếm ra tiền. Mẹ mình hiện tại cũng sức yếu bệnh nền không kiếm được tiền nữa. Mà giờ sau tốt nghiệp đại học thấy a trai bị gọi NVQS, nay gọi điện thấy trong tuần này xã sẽ lên list những cá nhân sẽ thuộc diện khám vào đợt tháng 11. Mình tuy lấy chồng nhưng 2vck ở xa và cũng chật vật kinh tế nên chỉ có anh trai đi làm nuôi bố mẹ là chính, mà giờ ảnh bị gọi đi nghĩa vụ thì mình sợ bố mẹ sẽ không ai gánh vác mất sẽ rất vất vả.&lt;/p&gt; &lt;p&gt;Cho mình hỏi trường hợp a mình có làm đơn miễn trừ gia cảnh đc không ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Available_Class6998"&gt; /u/Available_Class6998 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nhkd5f/nvqs_trụ_cột_gia_đình/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nhkd5f/nvqs_trụ_cột_gia_đình/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nhkd5f/nvqs_trụ_cột_gia_đình/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình mới mua USDT để tránh mất giá. Mua được có vài hôm mà thấy giảm giá ghê quá:))))&lt;/p&gt; &lt;p&gt;Nhưng xu hướng lâu dài thì USDT vẫn an toàn hơn VND phải không?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Gloomy_Education1288"&gt; /u/Gloomy_Education1288 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nhomgp/usdt_đang_xuống/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nhomgp/usdt_đang_xuống/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nhomgp/usdt_đang_xuống/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-15T12:23:54+00:00</published>
+    <published>2025-09-15T15:15:10+00:00</published>
   </entry>
   <entry>
     <id>t3_1nhlbbf</id>
