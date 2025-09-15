@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-09-15T08:24:02+00:00</updated>
+  <updated>2025-09-15T08:46:20+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -177,19 +177,6 @@
     <published>2025-09-14T23:39:20+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nheqx8</id>
-    <title>Blockchain - Lương trả bằng token</title>
-    <updated>2025-09-15T06:48:32+00:00</updated>
-    <author>
-      <name>/u/Southern_Arm_5726</name>
-      <uri>https://old.reddit.com/user/Southern_Arm_5726</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, em là dân IT, mới ra trường. Em có dạo tìm công việc thì tình cờ thấy một startup về blockchain tuyển backend intern (remote, parttime, golang, python). Bên đó &lt;strong&gt;đang ở giai đoạn fundraising&lt;/strong&gt;, và có nói thẳng vị trí này sẽ &lt;strong&gt;trả lương theo token&lt;/strong&gt; và ứng viên xem đây là &lt;strong&gt;công việc phụ&lt;/strong&gt; (làm việc ban đêm và cuối tuần, có meeting). Sau khi fundraise thành công thì sẽ trả lương cố định sau.&lt;/p&gt; &lt;p&gt;Em chưa biết gì về blockchain nhưng rất &lt;strong&gt;muốn thử sức&lt;/strong&gt;. Em không biết trả lời câu hỏi &amp;quot;mức lương mong muốn theo tháng ?&amp;quot; của họ như thế nào cho hợp lý. Anh chị nào rành về mảng blockchain thì cho em cách trả lời hoặc con số cụ thể (kèm theo lời giải thích nữa thì quá tuyệt). Em xin cảm ơn trước.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Chú ý:&lt;/strong&gt; Cá nhân em muốn thử sức nên cũng xem chuyện được/mất không quan trọng, chủ yếu là học công nghệ mới và có dự án thực tế để làm thôi, nên là anh chị có thể cách nhìn tiêu cực thì có thể bỏ qua bài này. Nếu như việc có thể xảy ra các vấn đề pháp lý thì anh chị có thể cho em biết với ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Southern_Arm_5726"&gt; /u/Southern_Arm_5726 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nheqx8/blockchain_lương_trả_bằng_token/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nheqx8/blockchain_lương_trả_bằng_token/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nheqx8/blockchain_lương_trả_bằng_token/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-15T06:48:32+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nhabfh</id>
     <title>Nên hướng theo Marketing hay Design chuyên sâu hơn?</title>
     <updated>2025-09-15T02:41:45+00:00</updated>
@@ -240,6 +227,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ngpd69/cảm_thấy_bản_thân_là_kẻ_loser/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-14T11:55:00+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nheqx8</id>
+    <title>Blockchain - Lương trả bằng token</title>
+    <updated>2025-09-15T06:48:32+00:00</updated>
+    <author>
+      <name>/u/Southern_Arm_5726</name>
+      <uri>https://old.reddit.com/user/Southern_Arm_5726</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, em là dân IT, mới ra trường. Em có dạo tìm công việc thì tình cờ thấy một startup về blockchain tuyển backend intern (remote, parttime, golang, python). Bên đó &lt;strong&gt;đang ở giai đoạn fundraising&lt;/strong&gt;, và có nói thẳng vị trí này sẽ &lt;strong&gt;trả lương theo token&lt;/strong&gt; và ứng viên xem đây là &lt;strong&gt;công việc phụ&lt;/strong&gt; (làm việc ban đêm và cuối tuần, có meeting). Sau khi fundraise thành công thì sẽ trả lương cố định sau.&lt;/p&gt; &lt;p&gt;Em chưa biết gì về blockchain nhưng rất &lt;strong&gt;muốn thử sức&lt;/strong&gt;. Em không biết trả lời câu hỏi &amp;quot;mức lương mong muốn theo tháng ?&amp;quot; của họ như thế nào cho hợp lý. Anh chị nào rành về mảng blockchain thì cho em cách trả lời hoặc con số cụ thể (kèm theo lời giải thích nữa thì quá tuyệt). Em xin cảm ơn trước.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Chú ý:&lt;/strong&gt; Cá nhân em muốn thử sức nên cũng xem chuyện được/mất không quan trọng, chủ yếu là học công nghệ mới và có dự án thực tế để làm thôi, nên là anh chị có thể cách nhìn tiêu cực thì có thể bỏ qua bài này. Nếu như việc có thể xảy ra các vấn đề pháp lý thì anh chị có thể cho em biết với ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Southern_Arm_5726"&gt; /u/Southern_Arm_5726 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nheqx8/blockchain_lương_trả_bằng_token/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nheqx8/blockchain_lương_trả_bằng_token/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nheqx8/blockchain_lương_trả_bằng_token/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-15T06:48:32+00:00</published>
   </entry>
   <entry>
     <id>t3_1nh8e8q</id>
