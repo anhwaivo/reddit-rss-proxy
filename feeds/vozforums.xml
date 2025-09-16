@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-09-16T21:15:24+00:00</updated>
+  <updated>2025-09-16T21:36:58+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -242,19 +242,6 @@
     <published>2025-09-16T02:15:45+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nisfka</id>
-    <title>Làm sao biết một người vợ/bạn gái tốt phù hợp nhiều năm</title>
-    <updated>2025-09-16T20:14:20+00:00</updated>
-    <author>
-      <name>/u/dragon_Mai</name>
-      <uri>https://old.reddit.com/user/dragon_Mai</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Xin các cao nhân chỉ giáo kinh nghiệm…. Khi nào thì bạn gái không còn phù hợp nữa… ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/dragon_Mai"&gt; /u/dragon_Mai &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nisfka/làm_sao_biết_một_người_vợbạn_gái_tốt_phù_hợp/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nisfka/làm_sao_biết_một_người_vợbạn_gái_tốt_phù_hợp/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nisfka/làm_sao_biết_một_người_vợbạn_gái_tốt_phù_hợp/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-16T20:14:20+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nidqr9</id>
     <title>Mình không mượn nợ gì mà nó cứ gọi quài làm sao được mn. Mấy lần trước nghe chữ muốn mượn tiền hay gì mình k nhớ lắm là mình cúp máy liền rồi mà nó cứ gọi liên tục. Chặn số này nó gọi bằng số khác.</title>
     <updated>2025-09-16T10:29:01+00:00</updated>
@@ -266,6 +253,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nidqr9/mình_không_mượn_nợ_gì_mà_nó_cứ_gọi_quài_làm_sao/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-16T10:29:01+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nisfka</id>
+    <title>Làm sao biết một người vợ/bạn gái tốt phù hợp nhiều năm</title>
+    <updated>2025-09-16T20:14:20+00:00</updated>
+    <author>
+      <name>/u/dragon_Mai</name>
+      <uri>https://old.reddit.com/user/dragon_Mai</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Xin các cao nhân chỉ giáo kinh nghiệm…. Khi nào thì bạn gái không còn phù hợp nữa… ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/dragon_Mai"&gt; /u/dragon_Mai &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nisfka/làm_sao_biết_một_người_vợbạn_gái_tốt_phù_hợp/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nisfka/làm_sao_biết_một_người_vợbạn_gái_tốt_phù_hợp/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nisfka/làm_sao_biết_một_người_vợbạn_gái_tốt_phù_hợp/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-16T20:14:20+00:00</published>
   </entry>
   <entry>
     <id>t3_1nierkf</id>
