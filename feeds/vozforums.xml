@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-09-17T05:16:38+00:00</updated>
+  <updated>2025-09-17T05:39:19+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1nib1py</id>
-    <title>Góc thắc mắc</title>
-    <updated>2025-09-16T07:36:45+00:00</updated>
-    <author>
-      <name>/u/Embarrassed_Dig_6652</name>
-      <uri>https://old.reddit.com/user/Embarrassed_Dig_6652</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;có ai thấy từ năm 2019 trở đi thời gian trôi qua rất nhanh không, 6 năm trôi qua rồi mà cảm giác như mới mấy tháng hay do mxh tiktok phát triển &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Embarrassed_Dig_6652"&gt; /u/Embarrassed_Dig_6652 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nib1py/góc_thắc_mắc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nib1py/góc_thắc_mắc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nib1py/góc_thắc_mắc/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-16T07:36:45+00:00</published>
-  </entry>
   <entry>
     <id>t3_1niku74</id>
     <title>Ngành vật lý kỹ thuật</title>
@@ -229,19 +216,6 @@
     <published>2025-09-16T11:25:42+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nisfka</id>
-    <title>Làm sao biết một người vợ/bạn gái tốt phù hợp nhiều năm</title>
-    <updated>2025-09-16T20:14:20+00:00</updated>
-    <author>
-      <name>/u/dragon_Mai</name>
-      <uri>https://old.reddit.com/user/dragon_Mai</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Xin các cao nhân chỉ giáo kinh nghiệm…. Khi nào thì bạn gái không còn phù hợp nữa… ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/dragon_Mai"&gt; /u/dragon_Mai &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nisfka/làm_sao_biết_một_người_vợbạn_gái_tốt_phù_hợp/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nisfka/làm_sao_biết_một_người_vợbạn_gái_tốt_phù_hợp/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nisfka/làm_sao_biết_một_người_vợbạn_gái_tốt_phù_hợp/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-16T20:14:20+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nihb9p</id>
     <title>chuyện tiền tip và tiền "bồi dưỡng"</title>
     <updated>2025-09-16T13:20:28+00:00</updated>
@@ -253,6 +227,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nihb9p/chuyện_tiền_tip_và_tiền_bồi_dưỡng/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-16T13:20:28+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nisfka</id>
+    <title>Làm sao biết một người vợ/bạn gái tốt phù hợp nhiều năm</title>
+    <updated>2025-09-16T20:14:20+00:00</updated>
+    <author>
+      <name>/u/dragon_Mai</name>
+      <uri>https://old.reddit.com/user/dragon_Mai</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Xin các cao nhân chỉ giáo kinh nghiệm…. Khi nào thì bạn gái không còn phù hợp nữa… ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/dragon_Mai"&gt; /u/dragon_Mai &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nisfka/làm_sao_biết_một_người_vợbạn_gái_tốt_phù_hợp/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nisfka/làm_sao_biết_một_người_vợbạn_gái_tốt_phù_hợp/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nisfka/làm_sao_biết_một_người_vợbạn_gái_tốt_phù_hợp/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-16T20:14:20+00:00</published>
   </entry>
   <entry>
     <id>t3_1nj438d</id>
@@ -281,17 +268,17 @@
     <published>2025-09-17T02:58:19+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nj2js7</id>
-    <title>Làm sao xin miễn lãi thẻ tín dụng?</title>
-    <updated>2025-09-17T03:35:27+00:00</updated>
+    <id>t3_1nj4fmv</id>
+    <title>Ở SG, vốn khoảng 200tr thì mình nên kinh doanh gì ạ.</title>
+    <updated>2025-09-17T05:16:50+00:00</updated>
     <author>
-      <name>/u/RespondBeneficial388</name>
-      <uri>https://old.reddit.com/user/RespondBeneficial388</uri>
+      <name>/u/Technical-Fly-9896</name>
+      <uri>https://old.reddit.com/user/Technical-Fly-9896</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình có nhiều khoản nợ thẻ tín dụng, nợ 2 3 năm nay rồi. Bây giờ mới có khả năng trả. Nếu mà xin miễn lãi tất cả thành công thì chắc 1 2 tháng tới là mình trả xong. Nhưng tình hình là bên thu hồi nợ của mấy ngân hàng này ko chịu miễn lãi. Thế này chắc còn lâu mình mới tất toán xong. Có ae nào có kinh nghiệm xin miễn lãi thẻ tín dụng ko chỉ mình với ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/RespondBeneficial388"&gt; /u/RespondBeneficial388 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj2js7/làm_sao_xin_miễn_lãi_thẻ_tín_dụng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj2js7/làm_sao_xin_miễn_lãi_thẻ_tín_dụng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nj2js7/làm_sao_xin_miễn_lãi_thẻ_tín_dụng/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các cao nhân vào giải đáp giúp mình với &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Technical-Fly-9896"&gt; /u/Technical-Fly-9896 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj4fmv/ở_sg_vốn_khoảng_200tr_thì_mình_nên_kinh_doanh_gì_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj4fmv/ở_sg_vốn_khoảng_200tr_thì_mình_nên_kinh_doanh_gì_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nj4fmv/ở_sg_vốn_khoảng_200tr_thì_mình_nên_kinh_doanh_gì_ạ/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-17T03:35:27+00:00</published>
+    <published>2025-09-17T05:16:50+00:00</published>
   </entry>
   <entry>
     <id>t3_1nj0ble</id>
@@ -305,6 +292,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nj0ble/mắt_35_có_phải_di_nvqs_không/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-17T01:47:08+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nj2js7</id>
+    <title>Làm sao xin miễn lãi thẻ tín dụng?</title>
+    <updated>2025-09-17T03:35:27+00:00</updated>
+    <author>
+      <name>/u/RespondBeneficial388</name>
+      <uri>https://old.reddit.com/user/RespondBeneficial388</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình có nhiều khoản nợ thẻ tín dụng, nợ 2 3 năm nay rồi. Bây giờ mới có khả năng trả. Nếu mà xin miễn lãi tất cả thành công thì chắc 1 2 tháng tới là mình trả xong. Nhưng tình hình là bên thu hồi nợ của mấy ngân hàng này ko chịu miễn lãi. Thế này chắc còn lâu mình mới tất toán xong. Có ae nào có kinh nghiệm xin miễn lãi thẻ tín dụng ko chỉ mình với ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/RespondBeneficial388"&gt; /u/RespondBeneficial388 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj2js7/làm_sao_xin_miễn_lãi_thẻ_tín_dụng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj2js7/làm_sao_xin_miễn_lãi_thẻ_tín_dụng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nj2js7/làm_sao_xin_miễn_lãi_thẻ_tín_dụng/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-17T03:35:27+00:00</published>
   </entry>
   <entry>
     <id>t3_1nif6z5</id>
