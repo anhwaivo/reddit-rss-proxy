@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-09-17T06:27:04+00:00</updated>
+  <updated>2025-09-17T06:49:28+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -99,19 +99,6 @@
     <published>2025-09-16T10:29:01+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nj2pw3</id>
-    <title>Mọi người dùng WiFi bên nào oke nhỉ</title>
-    <updated>2025-09-17T03:43:59+00:00</updated>
-    <author>
-      <name>/u/CompetitivePlenty710</name>
-      <uri>https://old.reddit.com/user/CompetitivePlenty710</uri>
-    </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/CompetitivePlenty710"&gt; /u/CompetitivePlenty710 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj2pw3/mọi_người_dùng_wifi_bên_nào_oke_nhỉ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj2pw3/mọi_người_dùng_wifi_bên_nào_oke_nhỉ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nj2pw3/mọi_người_dùng_wifi_bên_nào_oke_nhỉ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-17T03:43:59+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nili6y</id>
     <title>Duy trì sức khỏe, thể chất</title>
     <updated>2025-09-16T16:00:14+00:00</updated>
@@ -190,19 +177,6 @@
     <published>2025-09-17T06:23:14+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nija4e</id>
-    <title>Đi xe bus</title>
-    <updated>2025-09-16T14:37:24+00:00</updated>
-    <author>
-      <name>/u/PralineExact3966</name>
-      <uri>https://old.reddit.com/user/PralineExact3966</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình là nữ, sv. Hôm qua đi xe bus vừa chật vừa đông, hầu hết là sv về ktx. Ngay sau là một bạn nam, nhìn hơi thừa cân, cận và… có thể các bạn sẽ hiểu mô tả của mình…, lúc đầu lên mình không để ý lắm có chỗ đứng là đc. Sau đó mấy lúc mình quay sang phải thì thấy tay bạn ấy kiểu để hờ trên không như quàng qua vai mình, để rất gần, xong ngón tay cử động kiểu chần như muốn chạm vào. Cuối cùng thì cũng không chạm vào, nhưng trong lúc đó mình run cực kì. Mình cũng tự hỏi có đang overthinking ko, nhưng trên xe bus thì tay để như vậy để làm gì, không mỏi hả, mình còn quay qua quay lại như muốn xác nhận nhiều lần, thì bạn ấy có để tay xuống. Ai có kinh nghiệm trong việc này ko ạ, mình từng gặp bái thiến real nên bị nhạy cảm và ám ảnh dữ lắm 🥲 &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/PralineExact3966"&gt; /u/PralineExact3966 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nija4e/đi_xe_bus/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nija4e/đi_xe_bus/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nija4e/đi_xe_bus/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-16T14:37:24+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nierkf</id>
     <title>Có nên mua đất không?</title>
     <updated>2025-09-16T11:25:42+00:00</updated>
@@ -216,6 +190,32 @@
     <published>2025-09-16T11:25:42+00:00</published>
   </entry>
   <entry>
+    <id>t3_1nija4e</id>
+    <title>Đi xe bus</title>
+    <updated>2025-09-16T14:37:24+00:00</updated>
+    <author>
+      <name>/u/PralineExact3966</name>
+      <uri>https://old.reddit.com/user/PralineExact3966</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình là nữ, sv. Hôm qua đi xe bus vừa chật vừa đông, hầu hết là sv về ktx. Ngay sau là một bạn nam, nhìn hơi thừa cân, cận và… có thể các bạn sẽ hiểu mô tả của mình…, lúc đầu lên mình không để ý lắm có chỗ đứng là đc. Sau đó mấy lúc mình quay sang phải thì thấy tay bạn ấy kiểu để hờ trên không như quàng qua vai mình, để rất gần, xong ngón tay cử động kiểu chần như muốn chạm vào. Cuối cùng thì cũng không chạm vào, nhưng trong lúc đó mình run cực kì. Mình cũng tự hỏi có đang overthinking ko, nhưng trên xe bus thì tay để như vậy để làm gì, không mỏi hả, mình còn quay qua quay lại như muốn xác nhận nhiều lần, thì bạn ấy có để tay xuống. Ai có kinh nghiệm trong việc này ko ạ, mình từng gặp bái thiến real nên bị nhạy cảm và ám ảnh dữ lắm 🥲 &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/PralineExact3966"&gt; /u/PralineExact3966 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nija4e/đi_xe_bus/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nija4e/đi_xe_bus/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nija4e/đi_xe_bus/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-16T14:37:24+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nj2pw3</id>
+    <title>Mọi người dùng WiFi bên nào oke nhỉ</title>
+    <updated>2025-09-17T03:43:59+00:00</updated>
+    <author>
+      <name>/u/CompetitivePlenty710</name>
+      <uri>https://old.reddit.com/user/CompetitivePlenty710</uri>
+    </author>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/CompetitivePlenty710"&gt; /u/CompetitivePlenty710 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj2pw3/mọi_người_dùng_wifi_bên_nào_oke_nhỉ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj2pw3/mọi_người_dùng_wifi_bên_nào_oke_nhỉ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nj2pw3/mọi_người_dùng_wifi_bên_nào_oke_nhỉ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-17T03:43:59+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1nihb9p</id>
     <title>chuyện tiền tip và tiền "bồi dưỡng"</title>
     <updated>2025-09-16T13:20:28+00:00</updated>
@@ -227,19 +227,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nihb9p/chuyện_tiền_tip_và_tiền_bồi_dưỡng/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-16T13:20:28+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1nj438d</id>
-    <title>Vốn 10tr thì nên kinh doanh sản phẩm nhỏ nào ạ ?</title>
-    <updated>2025-09-17T04:56:43+00:00</updated>
-    <author>
-      <name>/u/Angel_babyy_01</name>
-      <uri>https://old.reddit.com/user/Angel_babyy_01</uri>
-    </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Angel_babyy_01"&gt; /u/Angel_babyy_01 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj438d/vốn_10tr_thì_nên_kinh_doanh_sản_phẩm_nhỏ_nào_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj438d/vốn_10tr_thì_nên_kinh_doanh_sản_phẩm_nhỏ_nào_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nj438d/vốn_10tr_thì_nên_kinh_doanh_sản_phẩm_nhỏ_nào_ạ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-17T04:56:43+00:00</published>
   </entry>
   <entry>
     <id>t3_1nisfka</id>
@@ -268,17 +255,17 @@
     <published>2025-09-17T02:58:19+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nj58du</id>
-    <title>t đang ôm em bé 3 tháng trong khi thằng ny t đi “kết bạn” với người khác</title>
-    <updated>2025-09-17T06:03:19+00:00</updated>
+    <id>t3_1nj438d</id>
+    <title>Vốn 10tr thì nên kinh doanh sản phẩm nhỏ nào ạ ?</title>
+    <updated>2025-09-17T04:56:43+00:00</updated>
     <author>
-      <name>/u/Past-Engineering-660</name>
-      <uri>https://old.reddit.com/user/Past-Engineering-660</uri>
+      <name>/u/Angel_babyy_01</name>
+      <uri>https://old.reddit.com/user/Angel_babyy_01</uri>
     </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1nj58du/t_đang_ôm_em_bé_3_tháng_trong_khi_thằng_ny_t_đi/"&gt; &lt;img alt="t đang ôm em bé 3 tháng trong khi thằng ny t đi “kết bạn” với người khác" src="https://preview.redd.it/dobqkiw71opf1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=81aec960fc9498d3df93f73cba6179b2fd9f74c2" title="t đang ôm em bé 3 tháng trong khi thằng ny t đi “kết bạn” với người khác" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;t đang ôm con 3 tháng, về nhà mẹ đẻ ở cử. trước kia khi t bầu xảy ra xích mích nên t không đkkh. bh ng yêu t ở trên sg đi làm, môi ngày nhắn vài câu hỏi thăm con, thấy tình cảm cũng k còn, nch dễ gây nhau nên hạn chế nhắn tin. cho đến khi t stalk nó thấy nó đi “kết bạn” với ng mới, đánh đàn uống bia hút thuốc như thể đang bấu víu chữ tự do. t nhắn cho bạn nữ, bạn nữ kêu biết nó qua tinder và cũng chỉ đi kiếm bạn giết thời gian. nó về dc mỗi tháng 1-2 lần, mỗi lần 2 ngày. khi t bảo với mẹ nó, đây là thứ mẹ nó trả lời. bây thấy t phải nghĩ sao &lt;sup&gt;^&lt;/sup&gt; t tủi lắm, quanh quẩn chỉ có con, bạn của t là bức tường. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Past-Engineering-660"&gt; /u/Past-Engineering-660 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/dobqkiw71opf1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj58du/t_đang_ôm_em_bé_3_tháng_trong_khi_thằng_ny_t_đi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nj58du/t_đang_ôm_em_bé_3_tháng_trong_khi_thằng_ny_t_đi/"/>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Angel_babyy_01"&gt; /u/Angel_babyy_01 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj438d/vốn_10tr_thì_nên_kinh_doanh_sản_phẩm_nhỏ_nào_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj438d/vốn_10tr_thì_nên_kinh_doanh_sản_phẩm_nhỏ_nào_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nj438d/vốn_10tr_thì_nên_kinh_doanh_sản_phẩm_nhỏ_nào_ạ/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-17T06:03:19+00:00</published>
+    <published>2025-09-17T04:56:43+00:00</published>
   </entry>
   <entry>
     <id>t3_1nj0ble</id>
@@ -307,17 +294,17 @@
     <published>2025-09-16T11:47:29+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nj4fmv</id>
-    <title>Ở SG, vốn khoảng 200tr thì mình nên kinh doanh gì ạ.</title>
-    <updated>2025-09-17T05:16:50+00:00</updated>
+    <id>t3_1nj58du</id>
+    <title>t đang ôm em bé 3 tháng trong khi thằng ny t đi “kết bạn” với người khác</title>
+    <updated>2025-09-17T06:03:19+00:00</updated>
     <author>
-      <name>/u/Technical-Fly-9896</name>
-      <uri>https://old.reddit.com/user/Technical-Fly-9896</uri>
+      <name>/u/Past-Engineering-660</name>
+      <uri>https://old.reddit.com/user/Past-Engineering-660</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các cao nhân vào giải đáp giúp mình với &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Technical-Fly-9896"&gt; /u/Technical-Fly-9896 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj4fmv/ở_sg_vốn_khoảng_200tr_thì_mình_nên_kinh_doanh_gì_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj4fmv/ở_sg_vốn_khoảng_200tr_thì_mình_nên_kinh_doanh_gì_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nj4fmv/ở_sg_vốn_khoảng_200tr_thì_mình_nên_kinh_doanh_gì_ạ/"/>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1nj58du/t_đang_ôm_em_bé_3_tháng_trong_khi_thằng_ny_t_đi/"&gt; &lt;img alt="t đang ôm em bé 3 tháng trong khi thằng ny t đi “kết bạn” với người khác" src="https://preview.redd.it/dobqkiw71opf1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=81aec960fc9498d3df93f73cba6179b2fd9f74c2" title="t đang ôm em bé 3 tháng trong khi thằng ny t đi “kết bạn” với người khác" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;t đang ôm con 3 tháng, về nhà mẹ đẻ ở cử. trước kia khi t bầu xảy ra xích mích nên t không đkkh. bh ng yêu t ở trên sg đi làm, môi ngày nhắn vài câu hỏi thăm con, thấy tình cảm cũng k còn, nch dễ gây nhau nên hạn chế nhắn tin. cho đến khi t stalk nó thấy nó đi “kết bạn” với ng mới, đánh đàn uống bia hút thuốc như thể đang bấu víu chữ tự do. t nhắn cho bạn nữ, bạn nữ kêu biết nó qua tinder và cũng chỉ đi kiếm bạn giết thời gian. nó về dc mỗi tháng 1-2 lần, mỗi lần 2 ngày. khi t bảo với mẹ nó, đây là thứ mẹ nó trả lời. bây thấy t phải nghĩ sao &lt;sup&gt;^&lt;/sup&gt; t tủi lắm, quanh quẩn chỉ có con, bạn của t là bức tường. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Past-Engineering-660"&gt; /u/Past-Engineering-660 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/dobqkiw71opf1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj58du/t_đang_ôm_em_bé_3_tháng_trong_khi_thằng_ny_t_đi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nj58du/t_đang_ôm_em_bé_3_tháng_trong_khi_thằng_ny_t_đi/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-17T05:16:50+00:00</published>
+    <published>2025-09-17T06:03:19+00:00</published>
   </entry>
   <entry>
     <id>t3_1nizo47</id>
@@ -331,5 +318,18 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nizo47/cuối_năm_nhảy_việc_có_nên_không/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-17T01:16:55+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nj4fmv</id>
+    <title>Ở SG, vốn khoảng 200tr thì mình nên kinh doanh gì ạ.</title>
+    <updated>2025-09-17T05:16:50+00:00</updated>
+    <author>
+      <name>/u/Technical-Fly-9896</name>
+      <uri>https://old.reddit.com/user/Technical-Fly-9896</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các cao nhân vào giải đáp giúp mình với &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Technical-Fly-9896"&gt; /u/Technical-Fly-9896 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj4fmv/ở_sg_vốn_khoảng_200tr_thì_mình_nên_kinh_doanh_gì_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj4fmv/ở_sg_vốn_khoảng_200tr_thì_mình_nên_kinh_doanh_gì_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nj4fmv/ở_sg_vốn_khoảng_200tr_thì_mình_nên_kinh_doanh_gì_ạ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-17T05:16:50+00:00</published>
   </entry>
 </feed>
