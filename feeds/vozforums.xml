@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-09-17T22:50:06+00:00</updated>
+  <updated>2025-09-17T23:15:39+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -268,19 +268,6 @@
     <published>2025-09-17T15:52:23+00:00</published>
   </entry>
   <entry>
-    <id>t3_1njl8at</id>
-    <title>Vụ này giờ chìm nghỉm luôn r nhỉ =))</title>
-    <updated>2025-09-17T18:29:45+00:00</updated>
-    <author>
-      <name>/u/GuoWang_369</name>
-      <uri>https://old.reddit.com/user/GuoWang_369</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1njl8at/vụ_này_giờ_chìm_nghỉm_luôn_r_nhỉ/"&gt; &lt;img alt="Vụ này giờ chìm nghỉm luôn r nhỉ =))" src="https://preview.redd.it/4wgzci2eqrpf1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=e4f53891e3acd46bf8214b099900e783c825c9d7" title="Vụ này giờ chìm nghỉm luôn r nhỉ =))" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/GuoWang_369"&gt; /u/GuoWang_369 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/4wgzci2eqrpf1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1njl8at/vụ_này_giờ_chìm_nghỉm_luôn_r_nhỉ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1njl8at/vụ_này_giờ_chìm_nghỉm_luôn_r_nhỉ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-17T18:29:45+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1njatmd</id>
     <title>Sinh viên năm nhất muốn tìm công việc part time</title>
     <updated>2025-09-17T11:43:47+00:00</updated>
@@ -292,6 +279,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1njatmd/sinh_viên_năm_nhất_muốn_tìm_công_việc_part_time/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-17T11:43:47+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1njl8at</id>
+    <title>Vụ này giờ chìm nghỉm luôn r nhỉ =))</title>
+    <updated>2025-09-17T18:29:45+00:00</updated>
+    <author>
+      <name>/u/GuoWang_369</name>
+      <uri>https://old.reddit.com/user/GuoWang_369</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1njl8at/vụ_này_giờ_chìm_nghỉm_luôn_r_nhỉ/"&gt; &lt;img alt="Vụ này giờ chìm nghỉm luôn r nhỉ =))" src="https://preview.redd.it/4wgzci2eqrpf1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=e4f53891e3acd46bf8214b099900e783c825c9d7" title="Vụ này giờ chìm nghỉm luôn r nhỉ =))" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/GuoWang_369"&gt; /u/GuoWang_369 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/4wgzci2eqrpf1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1njl8at/vụ_này_giờ_chìm_nghỉm_luôn_r_nhỉ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1njl8at/vụ_này_giờ_chìm_nghỉm_luôn_r_nhỉ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-17T18:29:45+00:00</published>
   </entry>
   <entry>
     <id>t3_1njda0n</id>
