@@ -2,11 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-09-17T12:36:47+00:00</updated>
+  <updated>2025-09-17T13:15:56+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
+  <entry>
+    <id>t3_1nj8fha</id>
+    <title>Làm giàu bằng startup KHÔNG ĐƠN GIẢN như tôi nghĩ !</title>
+    <updated>2025-09-17T09:29:10+00:00</updated>
+    <author>
+      <name>/u/Sad-Potato4352</name>
+      <uri>https://old.reddit.com/user/Sad-Potato4352</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác,&lt;br /&gt; Mình là một co-founder 20 tuổi của một startup về AI Agentic.&lt;/p&gt; &lt;p&gt;Câu chuyện khởi nghiệp của mình bắt đầu từ một động lực rất cá nhân. Gia đình mình từng có một quá khứ khá giả nhưng rồi biến cố xảy ra, và mình đã sớm nhận ra rằng con đường làm công ăn lương, dù với mức lương mơ ước 100 triệu/tháng, cũng khó có thể tạo ra sự đảm bảo tài chính vững chắc cho gia đình trong 10-20 năm tới. Điều đó thôi thúc mình phải xây dựng một thứ gì đó của riêng mình.&lt;/p&gt; &lt;p&gt;Và đây là nơi mình cần đến trí tuệ của cộng đồng.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;[Bối cảnh &amp;amp; Vấn đề]&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Team mình nhận thấy thị trường Affiliate, đặc biệt là cho Shopee, đang bùng nổ ở Việt Nam. Lướt Facebook, Threads... đâu đâu cũng thấy link affiliate.&lt;/p&gt; &lt;p&gt;Qua tìm hiểu, mình biết rằng quy trình này hiện tại rất thủ công. Các shop/KOC phải:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Thuê nhân sự (chi phí 5-8 triệu/người) chỉ để rải link một cách thủ công.&lt;/li&gt; &lt;li&gt;Trả hoa hồng cao.&lt;/li&gt; &lt;li&gt;Tốn rất nhiều thời gian và công sức nhưng độ phủ lại có hạn.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;[Giải pháp của chúng mình]&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Với thế mạnh về công nghệ, team mình đã phát triển một AI Agent có thể giải quyết trực tiếp vấn đề này:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Tự động hóa 90%:&lt;/strong&gt; AI sẽ tự động tìm các group, bài post phù hợp và đăng link affiliate với nội dung được tùy biến.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Giảm chi phí:&lt;/strong&gt; Giúp các shop tiết kiệm chi phí nhân sự và tối ưu hóa hoa hồng.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Nội dung như người thật:&lt;/strong&gt; AI được huấn luyện theo các cấu trúc copywriting chuyên nghiệp, tạo ra các bình luận/bài đăng tự nhiên, không có cảm giác là bot.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;[Điều khiến team mình đang trăn trở]&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Về lý thuyết, đây là một giải pháp rất &amp;quot;trúng&amp;quot; insight thị trường. Nhưng chính vì nó có vẻ quá đơn giản và rõ ràng, team mình lại cảm thấy hơi lo. Tụ an toàn một cách đáng ngờ.&lt;/p&gt; &lt;p&gt;Tụi mình tin rằng không có con đường nào dễ dàng như vậy và có thể đang có những &amp;quot;điểm mù&amp;quot; mà vì thiếu kinh nghiệm, tụi mình chưa nhìn ra.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;[Câu hỏi xin tư vấn]&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Vì vậy, mình rất mong nhận được những góc nhìn, chia sẻ, hay thậm chí là những lời &amp;quot;phản biện&amp;quot; thẳng thắn từ mọi người có kinh nghiệm về các vấn đề sau:&lt;/p&gt; &lt;ol&gt; &lt;li&gt;&lt;strong&gt;Về mặt nền tảng:&lt;/strong&gt; Liệu việc đăng link tự động hàng loạt có rủi ro bị các nền tảng (Facebook, Threads,...) đánh dấu là spam và khóa tài khoản không? Cơ chế chống spam của họ hoạt động thế nào?&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Về mặt thị trường:&lt;/strong&gt; Có đối thủ nào (kể cả ở nước ngoài) đang làm điều tương tự mà tụi mình chưa biết không? Mô hình của họ có gì khác biệt.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Về mô hình kinh doanh:&lt;/strong&gt; Ngoài việc bán cho các shop, liệu còn tệp khách hàng nào khác (ví dụ: các bạn KOC/KOL cá nhân) mà tụi mình có thể khai thác không?&lt;/li&gt; &lt;li&gt;Câu hỏi cuối là nếu không phải là ý tưởng này thì các bạn có ý tưởng nào khả thi thì có thể feel free comment xuống hỗ trợ mình ạ.&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Bất kỳ ý kiến nào, dù là nhỏ nhất, cũng đều vô cùng quý giá với một team trẻ như tụi mình lúc này.&lt;/p&gt; &lt;p&gt;Xin cảm ơn mọi người đã dành thời gian đọc!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Sad-Potato4352"&gt; /u/Sad-Potato4352 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj8fha/làm_giàu_bằng_startup_không_đơn_giản_như_tôi_nghĩ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj8fha/làm_giàu_bằng_startup_không_đơn_giản_như_tôi_nghĩ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nj8fha/làm_giàu_bằng_startup_không_đơn_giản_như_tôi_nghĩ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-17T09:29:10+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nj8fs3</id>
+    <title>Lỗi mã hết hạn của wechat, xin cách khắc phục</title>
+    <updated>2025-09-17T09:29:45+00:00</updated>
+    <author>
+      <name>/u/GuoWang_369</name>
+      <uri>https://old.reddit.com/user/GuoWang_369</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1nj8fs3/lỗi_mã_hết_hạn_của_wechat_xin_cách_khắc_phục/"&gt; &lt;img alt="Lỗi mã hết hạn của wechat, xin cách khắc phục" src="https://b.thumbs.redditmedia.com/9mGrqIxgFNI6gWvJKovAaeEicss4cV0yRuS-82geUBM.jpg" title="Lỗi mã hết hạn của wechat, xin cách khắc phục" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;T có nhờ một bác trên Reddit quét mã dùm, nhưng nó cứ hiển thị mã hết hạn trong khi mã vừa được tạo. Tài khoản của bác kia thì đầy đủ điều kiện để quét rồi nhưng vẫn lỗi mã hết hạn, bác ấy có nhờ một người bạn bên trung quốc quét hộ t và vẫn bị lỗi.&lt;/p&gt; &lt;p&gt;T nghe nói chụp màn hình rồi out app ra gửi ảnh thì sẽ bị dính lỗi này lên t có dùng một đt khác chụp ảnh mã rồi gửi ảnh cho bác ấy để không cần out app, nhưng vẫn vậy, vẫn bị lỗi mã hết hạn.&lt;/p&gt; &lt;p&gt;Bác nào biết cách khắc phục lỗi này không, chỉ t vs :((&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/GuoWang_369"&gt; /u/GuoWang_369 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1nj8fs3"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj8fs3/lỗi_mã_hết_hạn_của_wechat_xin_cách_khắc_phục/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nj8fs3/lỗi_mã_hết_hạn_của_wechat_xin_cách_khắc_phục/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-17T09:29:45+00:00</published>
+  </entry>
   <entry>
     <id>t3_1nisfka</id>
     <title>Làm sao biết một người vợ/bạn gái tốt phù hợp nhiều năm</title>
@@ -45,19 +71,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nj6l8y/tìm_việc_tiếng_anhtiếng_nhật_ở_tphcm_có_khó_không/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-17T07:27:40+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1njadri</id>
-    <title>Hãy kể những lần bạn gặp ma (Real, không đùa cợt, không bịa)</title>
-    <updated>2025-09-17T11:21:31+00:00</updated>
-    <author>
-      <name>/u/GuoWang_369</name>
-      <uri>https://old.reddit.com/user/GuoWang_369</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1njadri/hãy_kể_những_lần_bạn_gặp_ma_real_không_đùa_cợt/"&gt; &lt;img alt="Hãy kể những lần bạn gặp ma (Real, không đùa cợt, không bịa)" src="https://preview.redd.it/a406n9mzlppf1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=4040b2a9470074461fe33632bd95557f7ae9c61c" title="Hãy kể những lần bạn gặp ma (Real, không đùa cợt, không bịa)" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình trước :&lt;/p&gt; &lt;p&gt;Mình trông bè hay ngủ ở cái thuyền lớn cặp mé ngoài bè, bị người ta khều chân hoài á, sau phải kê con dao đầu giường với treo tỏi bốn xung quanh mới không bị người ta trêu.&lt;/p&gt; &lt;p&gt;Sau này mình đi làm dưới tàu sông, cứ neo lại chỗ nào để ngủ nghỉ mà chỗ đó &amp;quot;có&amp;quot; là kiểu gì đêm ngủ cũng bị bóng đè. Có bữa có cái thây ch*t trôi nó theo nước dính ngay đầu sà lan mình ngủ, 3h sáng tự dưng tỉnh vì thấy lạnh toát dù đang mùa Hè, chạy vội về đầy máy, tới tầm 9h thì cái thây ấy trôi ngang đầu máy, thế là phải điện cho công an họ ra tìm rồi kéo về bờ. Nói chung chuyện tâm linh phải trải qua mới tin.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/GuoWang_369"&gt; /u/GuoWang_369 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/a406n9mzlppf1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1njadri/hãy_kể_những_lần_bạn_gặp_ma_real_không_đùa_cợt/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1njadri/hãy_kể_những_lần_bạn_gặp_ma_real_không_đùa_cợt/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-17T11:21:31+00:00</published>
   </entry>
   <entry>
     <id>t3_1njaj73</id>
@@ -125,19 +138,6 @@
     <published>2025-09-17T07:59:06+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nj78wv</id>
-    <title>Cảm thấy ngột ngạt trong chính căn nhà của mình</title>
-    <updated>2025-09-17T08:11:34+00:00</updated>
-    <author>
-      <name>/u/MrBlueSakura</name>
-      <uri>https://old.reddit.com/user/MrBlueSakura</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em năm nay 20 tuổi. Em sẽ kể ngắn gọn về cuộc đời mình.&lt;/p&gt; &lt;p&gt;Hồi còn đi học em là 1 học sinh giỏi từ đạo đức đến học vấn. 12 năm học sinh giỏi. Năm 2023 em đổ Đại Học Kinh Tế HCM. &lt;/p&gt; &lt;p&gt;Em cứ nghĩ đại học là nơi để em tìm thấy bản thân và đam mê thực sự của bản thân, nhưng không. Bởi vì đam mê thật sự của em đã xuất hiện từ trước đó rồi. &lt;/p&gt; &lt;p&gt;Năm 2022 em bắt đầu biết tới trading, crypto khi còn học lớp 11. Ban đầu chỉ là thử nghiệm em không suy nghĩ nhiều tới nó. Nhưng cảm giác thua cuộc hết lần này đến lần khác, nó thức tỉnh ham muốn chiến thắng trong em. Em muốn đánh bại thị trường. Nhưng rồi 2023 phải gác lại để dành cho thu tuyển sinh.&lt;/p&gt; &lt;p&gt;Trong năm 2023 khi vừa học hết HK1 với thành tích 3,4. Em cảm thấy rất rõ ràng, giảng đường không phải là nơi sẽ giúp em tìm ra được bản thân mình. Em quyết định drop out. bỏ ngang chương trình học. Ở nhà tự nghiên cứu và trading. trong năm 2023 và 2024 tài khoản em chia 3 tới 2 lần. Lúc này ba mẹ vẫn chưa biết em drop out. &lt;/p&gt; &lt;p&gt;Đôi khi nhậu say mèn để rồi tự hỏi rằng đây có phải quyết định đúng đắn? Rất lâu sau đó em mới biết không đó chắc chắn không phải là quyết định đúng đắn. Nhưng nó cũng không sai.&lt;/p&gt; &lt;p&gt;Từ đầu năm 2025 em bỏ việc làm part time. và dành 100% thời gian để nghiên cứu sách đầu tư, đầu cơ, phương pháp giao dịch.&lt;/p&gt; &lt;p&gt;Tính từ tháng 4 2025 tới hiện tại. Tài khoản em tăng 70%. Tuy nhiên vẫn chưa bù đc khoản lỗ trước đó. Nhưng điều đó không quan trọng, ngay lúc này em hiểu rõ bản thân muốn gì và làm gì. Em muốn trở thành người có thể đánh bại thị trường. Và em đang làm tốt điều đó khi mà các chiến lược quản lý của bản thân đang có hiệu quả. &lt;/p&gt; &lt;p&gt;Nhưng tháng 6 ba mẹ em biết và bắt em về quê để học tại một đại học ở tỉnh. Em không thích điều đó, vì em hiện tại không thể dành tâm trí cho việc khác đc. Em đã nhiều lần nói với ba mẹ về đam mê uoc mo của em, nhưng họ đôi khi từ chối đôi khi im lặng. Để rồi lại 1 lần nữa em bỏ học... &lt;/p&gt; &lt;p&gt;Không phải là em không có thời gian đến lớp, nhưng mà em chỉ là không muốn. Em đã có các dự định cho riêng mình. 1 tháng nữa em sẽ bắt đầu mua oc và xây dựng một hệ thống riêng, và lập kênh youtube nữa (ước mơ thuở nhỏ) &lt;/p&gt; &lt;p&gt;Lúc trước thì em chỉ nửa vời với giấc mơ ytb nhưng lần này em cảm thấy mình sẽ làm được, bắt buộc phải thế. Ba mẹ em không ủng hộ em. Em cảm thấy bí bách ngột ngạt khi ở nhà. Dù thời gian em dành để đọc sách, phân tích thị trường là ít nhất 6 tiếng/ ngày. 1 tiếng tập thể dục, 2 tiếng phu giúp gia đình buôn bán. Có thể nói 1 ngày của em trôi khá đầy đủ chứ ko thiếu hay thừa. &lt;/p&gt; &lt;p&gt;Gia đình em kì vọng rằng em là người có bằng cấp, để khi nói chuyện với khách hàng họ có thể tự hào. Nhưng đó ko phải điều em muốn. Em không quan tâm người khác nghĩ gì. Nhưng ba mẹ em năm lần bảy lượt nói sai sự thật với khách hàng rằng em vẫn đang học UEH. Đây gọi là gì ạ?&lt;/p&gt; &lt;p&gt;Em nên thế nào? Em có nên ra ở riêng không?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/MrBlueSakura"&gt; /u/MrBlueSakura &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj78wv/cảm_thấy_ngột_ngạt_trong_chính_căn_nhà_của_mình/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj78wv/cảm_thấy_ngột_ngạt_trong_chính_căn_nhà_của_mình/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nj78wv/cảm_thấy_ngột_ngạt_trong_chính_căn_nhà_của_mình/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-17T08:11:34+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nj0ble</id>
     <title>Mắt 3,5 có phải di nvqs không?</title>
     <updated>2025-09-17T01:47:08+00:00</updated>
@@ -203,19 +203,6 @@
     <published>2025-09-16T11:47:29+00:00</published>
   </entry>
   <entry>
-    <id>t3_1njatmd</id>
-    <title>Sinh viên năm nhất muốn tìm công việc part time</title>
-    <updated>2025-09-17T11:43:47+00:00</updated>
-    <author>
-      <name>/u/thatdullindividual</name>
-      <uri>https://old.reddit.com/user/thatdullindividual</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1njatmd/sinh_viên_năm_nhất_muốn_tìm_công_việc_part_time/"&gt; &lt;img alt="Sinh viên năm nhất muốn tìm công việc part time" src="https://preview.redd.it/qvslrllypppf1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=1d3eb8009f1fdc75325f82c69e107db713a99be7" title="Sinh viên năm nhất muốn tìm công việc part time" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em là sinh viên năm nhất và hiện tại em có rất nhiều thời gian rảnh nên em muốn tìm cho mình thêm công việc part time để kiếm thêm thu nhập để trang trải tiền trọ, &lt;/p&gt; &lt;p&gt;Thì bây giờ em cũng đang muốn tìm công việc freelance để có kinh nghiệm nền, thì anh chị nào biết có thể đề xuất và giới thiệu giúp em những job nào mà em có thể làm không ạ? Trình độ tiếng Anh của em hiện tại là B2, em viết lách, viết script, guide, thiết kế slides PowerPoint, Canva, Prezi, Pitch cũng rất oke ạ&lt;/p&gt; &lt;p&gt;Ngoài ra thì em cũng muốn tập thiết kế layout, UI và retouching (edit ảnh) nhưng chưa có kinh nghiệm gì, nếu có công việc phù hợp dành cho em thì em nên bắt đầu từ đâu vậy mọi người &lt;/p&gt; &lt;p&gt;Bên lề thì em có theo chuyên ngành kỹ thuật phần mềm (software engineer) nhưng chưa có bắt đầu học nền tảng, bây giờ thì em đang học tiếng Anh để cải thiện nốt speaking &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/thatdullindividual"&gt; /u/thatdullindividual &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/qvslrllypppf1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1njatmd/sinh_viên_năm_nhất_muốn_tìm_công_việc_part_time/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1njatmd/sinh_viên_năm_nhất_muốn_tìm_công_việc_part_time/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-17T11:43:47+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nj7q7n</id>
     <title>Ý tướng cho project IT cho sinh viên sắp ra trường ạ</title>
     <updated>2025-09-17T08:43:40+00:00</updated>
@@ -227,6 +214,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nj7q7n/ý_tướng_cho_project_it_cho_sinh_viên_sắp_ra/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-17T08:43:40+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1njatmd</id>
+    <title>Sinh viên năm nhất muốn tìm công việc part time</title>
+    <updated>2025-09-17T11:43:47+00:00</updated>
+    <author>
+      <name>/u/thatdullindividual</name>
+      <uri>https://old.reddit.com/user/thatdullindividual</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1njatmd/sinh_viên_năm_nhất_muốn_tìm_công_việc_part_time/"&gt; &lt;img alt="Sinh viên năm nhất muốn tìm công việc part time" src="https://preview.redd.it/qvslrllypppf1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=1d3eb8009f1fdc75325f82c69e107db713a99be7" title="Sinh viên năm nhất muốn tìm công việc part time" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em là sinh viên năm nhất và hiện tại em có rất nhiều thời gian rảnh nên em muốn tìm cho mình thêm công việc part time để kiếm thêm thu nhập để trang trải tiền trọ, &lt;/p&gt; &lt;p&gt;Thì bây giờ em cũng đang muốn tìm công việc freelance để có kinh nghiệm nền, thì anh chị nào biết có thể đề xuất và giới thiệu giúp em những job nào mà em có thể làm không ạ? Trình độ tiếng Anh của em hiện tại là B2, em viết lách, viết script, guide, thiết kế slides PowerPoint, Canva, Prezi, Pitch cũng rất oke ạ&lt;/p&gt; &lt;p&gt;Ngoài ra thì em cũng muốn tập thiết kế layout, UI và retouching (edit ảnh) nhưng chưa có kinh nghiệm gì, nếu có công việc phù hợp dành cho em thì em nên bắt đầu từ đâu vậy mọi người &lt;/p&gt; &lt;p&gt;Bên lề thì em có theo chuyên ngành kỹ thuật phần mềm (software engineer) nhưng chưa có bắt đầu học nền tảng, bây giờ thì em đang học tiếng Anh để cải thiện nốt speaking &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/thatdullindividual"&gt; /u/thatdullindividual &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/qvslrllypppf1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1njatmd/sinh_viên_năm_nhất_muốn_tìm_công_việc_part_time/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1njatmd/sinh_viên_năm_nhất_muốn_tìm_công_việc_part_time/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-17T11:43:47+00:00</published>
   </entry>
   <entry>
     <id>t3_1nj858m</id>
@@ -281,19 +281,6 @@
     <published>2025-09-17T10:32:37+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nj6ecn</id>
-    <title>Có công việc ổn định thì nên đầu tư kinh doanh thêm gì?</title>
-    <updated>2025-09-17T07:15:23+00:00</updated>
-    <author>
-      <name>/u/TypicalDuty526</name>
-      <uri>https://old.reddit.com/user/TypicalDuty526</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào ae, Mình 29 tuổi có cv chắc chắn, ổn định trong vòng 10-20 năm tới, mỗi tháng htai dư ra 20-30tr, số dư tài khoản htai 500tr ở nhà thuê tại tphcm cùng vk con, ko có ý định mua nhà vì đã có nhà ở quê, sau già sẽ về quê. dạo này vật giá tăng cao lương thì tăng chậm, nên muốn kinh doanh tăng thêm thu nhập. ngoại trừ bds ra thì có mô hình vừa đi làm đc vừa kinh doanh buôn bán ổn không mọi người nhỉ. Nhờ ae có kn tư vấn giúp với ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/TypicalDuty526"&gt; /u/TypicalDuty526 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj6ecn/có_công_việc_ổn_định_thì_nên_đầu_tư_kinh_doanh/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj6ecn/có_công_việc_ổn_định_thì_nên_đầu_tư_kinh_doanh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nj6ecn/có_công_việc_ổn_định_thì_nên_đầu_tư_kinh_doanh/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-17T07:15:23+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nj4fmv</id>
     <title>Ở SG, vốn khoảng 200tr thì mình nên kinh doanh gì ạ.</title>
     <updated>2025-09-17T05:16:50+00:00</updated>
@@ -307,17 +294,17 @@
     <published>2025-09-17T05:16:50+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nj8yjr</id>
-    <title>bị kỷ luật khi sinh con thứ 3</title>
-    <updated>2025-09-17T10:01:54+00:00</updated>
+    <id>t3_1nj6ecn</id>
+    <title>Có công việc ổn định thì nên đầu tư kinh doanh thêm gì?</title>
+    <updated>2025-09-17T07:15:23+00:00</updated>
     <author>
-      <name>/u/greate_man</name>
-      <uri>https://old.reddit.com/user/greate_man</uri>
+      <name>/u/TypicalDuty526</name>
+      <uri>https://old.reddit.com/user/TypicalDuty526</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Cơ quan của mấy ní có bị kỷ luật khi sinh con thứ 3 không.&lt;/p&gt; &lt;p&gt;Tớ đang làm ở bệnh viện lớn tại Huế, sinh con xong và bị bệnh viện áp dụng chính sách kỷ luật những ai sinh con thứ 3.&lt;/p&gt; &lt;p&gt;-cắt toàn bộ tiền thưởng -không nâng lương vài năm -không bổ nhiệm chức vụ ...&lt;/p&gt; &lt;p&gt;Bệnh viện áp dụng kỷ luật với người sinh con thứ ba thế có đúng không nhỉ? Tại thấy nhiều cơ quan đã bãi bỏ, luật lao động cũng không cấm, nhà nước lại khuyến khích sinh...&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/greate_man"&gt; /u/greate_man &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj8yjr/bị_kỷ_luật_khi_sinh_con_thứ_3/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj8yjr/bị_kỷ_luật_khi_sinh_con_thứ_3/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nj8yjr/bị_kỷ_luật_khi_sinh_con_thứ_3/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào ae, Mình 29 tuổi có cv chắc chắn, ổn định trong vòng 10-20 năm tới, mỗi tháng htai dư ra 20-30tr, số dư tài khoản htai 500tr ở nhà thuê tại tphcm cùng vk con, ko có ý định mua nhà vì đã có nhà ở quê, sau già sẽ về quê. dạo này vật giá tăng cao lương thì tăng chậm, nên muốn kinh doanh tăng thêm thu nhập. ngoại trừ bds ra thì có mô hình vừa đi làm đc vừa kinh doanh buôn bán ổn không mọi người nhỉ. Nhờ ae có kn tư vấn giúp với ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/TypicalDuty526"&gt; /u/TypicalDuty526 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj6ecn/có_công_việc_ổn_định_thì_nên_đầu_tư_kinh_doanh/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj6ecn/có_công_việc_ổn_định_thì_nên_đầu_tư_kinh_doanh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nj6ecn/có_công_việc_ổn_định_thì_nên_đầu_tư_kinh_doanh/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-17T10:01:54+00:00</published>
+    <published>2025-09-17T07:15:23+00:00</published>
   </entry>
   <entry>
     <id>t3_1nj58du</id>
@@ -331,5 +318,18 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nj58du/t_đang_ôm_em_bé_3_tháng_trong_khi_thằng_ny_t_đi/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-17T06:03:19+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nj8yjr</id>
+    <title>bị kỷ luật khi sinh con thứ 3</title>
+    <updated>2025-09-17T10:01:54+00:00</updated>
+    <author>
+      <name>/u/greate_man</name>
+      <uri>https://old.reddit.com/user/greate_man</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Cơ quan của mấy ní có bị kỷ luật khi sinh con thứ 3 không.&lt;/p&gt; &lt;p&gt;Tớ đang làm ở bệnh viện lớn tại Huế, sinh con xong và bị bệnh viện áp dụng chính sách kỷ luật những ai sinh con thứ 3.&lt;/p&gt; &lt;p&gt;-cắt toàn bộ tiền thưởng -không nâng lương vài năm -không bổ nhiệm chức vụ ...&lt;/p&gt; &lt;p&gt;Bệnh viện áp dụng kỷ luật với người sinh con thứ ba thế có đúng không nhỉ? Tại thấy nhiều cơ quan đã bãi bỏ, luật lao động cũng không cấm, nhà nước lại khuyến khích sinh...&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/greate_man"&gt; /u/greate_man &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj8yjr/bị_kỷ_luật_khi_sinh_con_thứ_3/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj8yjr/bị_kỷ_luật_khi_sinh_con_thứ_3/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nj8yjr/bị_kỷ_luật_khi_sinh_con_thứ_3/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-17T10:01:54+00:00</published>
   </entry>
 </feed>
