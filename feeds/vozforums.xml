@@ -2,37 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-09-17T13:15:56+00:00</updated>
+  <updated>2025-09-17T13:43:17+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1nj8fha</id>
-    <title>Làm giàu bằng startup KHÔNG ĐƠN GIẢN như tôi nghĩ !</title>
-    <updated>2025-09-17T09:29:10+00:00</updated>
-    <author>
-      <name>/u/Sad-Potato4352</name>
-      <uri>https://old.reddit.com/user/Sad-Potato4352</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác,&lt;br /&gt; Mình là một co-founder 20 tuổi của một startup về AI Agentic.&lt;/p&gt; &lt;p&gt;Câu chuyện khởi nghiệp của mình bắt đầu từ một động lực rất cá nhân. Gia đình mình từng có một quá khứ khá giả nhưng rồi biến cố xảy ra, và mình đã sớm nhận ra rằng con đường làm công ăn lương, dù với mức lương mơ ước 100 triệu/tháng, cũng khó có thể tạo ra sự đảm bảo tài chính vững chắc cho gia đình trong 10-20 năm tới. Điều đó thôi thúc mình phải xây dựng một thứ gì đó của riêng mình.&lt;/p&gt; &lt;p&gt;Và đây là nơi mình cần đến trí tuệ của cộng đồng.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;[Bối cảnh &amp;amp; Vấn đề]&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Team mình nhận thấy thị trường Affiliate, đặc biệt là cho Shopee, đang bùng nổ ở Việt Nam. Lướt Facebook, Threads... đâu đâu cũng thấy link affiliate.&lt;/p&gt; &lt;p&gt;Qua tìm hiểu, mình biết rằng quy trình này hiện tại rất thủ công. Các shop/KOC phải:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Thuê nhân sự (chi phí 5-8 triệu/người) chỉ để rải link một cách thủ công.&lt;/li&gt; &lt;li&gt;Trả hoa hồng cao.&lt;/li&gt; &lt;li&gt;Tốn rất nhiều thời gian và công sức nhưng độ phủ lại có hạn.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;[Giải pháp của chúng mình]&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Với thế mạnh về công nghệ, team mình đã phát triển một AI Agent có thể giải quyết trực tiếp vấn đề này:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Tự động hóa 90%:&lt;/strong&gt; AI sẽ tự động tìm các group, bài post phù hợp và đăng link affiliate với nội dung được tùy biến.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Giảm chi phí:&lt;/strong&gt; Giúp các shop tiết kiệm chi phí nhân sự và tối ưu hóa hoa hồng.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Nội dung như người thật:&lt;/strong&gt; AI được huấn luyện theo các cấu trúc copywriting chuyên nghiệp, tạo ra các bình luận/bài đăng tự nhiên, không có cảm giác là bot.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;[Điều khiến team mình đang trăn trở]&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Về lý thuyết, đây là một giải pháp rất &amp;quot;trúng&amp;quot; insight thị trường. Nhưng chính vì nó có vẻ quá đơn giản và rõ ràng, team mình lại cảm thấy hơi lo. Tụ an toàn một cách đáng ngờ.&lt;/p&gt; &lt;p&gt;Tụi mình tin rằng không có con đường nào dễ dàng như vậy và có thể đang có những &amp;quot;điểm mù&amp;quot; mà vì thiếu kinh nghiệm, tụi mình chưa nhìn ra.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;[Câu hỏi xin tư vấn]&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Vì vậy, mình rất mong nhận được những góc nhìn, chia sẻ, hay thậm chí là những lời &amp;quot;phản biện&amp;quot; thẳng thắn từ mọi người có kinh nghiệm về các vấn đề sau:&lt;/p&gt; &lt;ol&gt; &lt;li&gt;&lt;strong&gt;Về mặt nền tảng:&lt;/strong&gt; Liệu việc đăng link tự động hàng loạt có rủi ro bị các nền tảng (Facebook, Threads,...) đánh dấu là spam và khóa tài khoản không? Cơ chế chống spam của họ hoạt động thế nào?&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Về mặt thị trường:&lt;/strong&gt; Có đối thủ nào (kể cả ở nước ngoài) đang làm điều tương tự mà tụi mình chưa biết không? Mô hình của họ có gì khác biệt.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Về mô hình kinh doanh:&lt;/strong&gt; Ngoài việc bán cho các shop, liệu còn tệp khách hàng nào khác (ví dụ: các bạn KOC/KOL cá nhân) mà tụi mình có thể khai thác không?&lt;/li&gt; &lt;li&gt;Câu hỏi cuối là nếu không phải là ý tưởng này thì các bạn có ý tưởng nào khả thi thì có thể feel free comment xuống hỗ trợ mình ạ.&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Bất kỳ ý kiến nào, dù là nhỏ nhất, cũng đều vô cùng quý giá với một team trẻ như tụi mình lúc này.&lt;/p&gt; &lt;p&gt;Xin cảm ơn mọi người đã dành thời gian đọc!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Sad-Potato4352"&gt; /u/Sad-Potato4352 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj8fha/làm_giàu_bằng_startup_không_đơn_giản_như_tôi_nghĩ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj8fha/làm_giàu_bằng_startup_không_đơn_giản_như_tôi_nghĩ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nj8fha/làm_giàu_bằng_startup_không_đơn_giản_như_tôi_nghĩ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-17T09:29:10+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1nj8fs3</id>
-    <title>Lỗi mã hết hạn của wechat, xin cách khắc phục</title>
-    <updated>2025-09-17T09:29:45+00:00</updated>
-    <author>
-      <name>/u/GuoWang_369</name>
-      <uri>https://old.reddit.com/user/GuoWang_369</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1nj8fs3/lỗi_mã_hết_hạn_của_wechat_xin_cách_khắc_phục/"&gt; &lt;img alt="Lỗi mã hết hạn của wechat, xin cách khắc phục" src="https://b.thumbs.redditmedia.com/9mGrqIxgFNI6gWvJKovAaeEicss4cV0yRuS-82geUBM.jpg" title="Lỗi mã hết hạn của wechat, xin cách khắc phục" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;T có nhờ một bác trên Reddit quét mã dùm, nhưng nó cứ hiển thị mã hết hạn trong khi mã vừa được tạo. Tài khoản của bác kia thì đầy đủ điều kiện để quét rồi nhưng vẫn lỗi mã hết hạn, bác ấy có nhờ một người bạn bên trung quốc quét hộ t và vẫn bị lỗi.&lt;/p&gt; &lt;p&gt;T nghe nói chụp màn hình rồi out app ra gửi ảnh thì sẽ bị dính lỗi này lên t có dùng một đt khác chụp ảnh mã rồi gửi ảnh cho bác ấy để không cần out app, nhưng vẫn vậy, vẫn bị lỗi mã hết hạn.&lt;/p&gt; &lt;p&gt;Bác nào biết cách khắc phục lỗi này không, chỉ t vs :((&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/GuoWang_369"&gt; /u/GuoWang_369 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1nj8fs3"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj8fs3/lỗi_mã_hết_hạn_của_wechat_xin_cách_khắc_phục/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nj8fs3/lỗi_mã_hết_hạn_của_wechat_xin_cách_khắc_phục/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-17T09:29:45+00:00</published>
-  </entry>
   <entry>
     <id>t3_1nisfka</id>
     <title>Làm sao biết một người vợ/bạn gái tốt phù hợp nhiều năm</title>
@@ -151,6 +125,32 @@
     <published>2025-09-17T01:47:08+00:00</published>
   </entry>
   <entry>
+    <id>t3_1njd0df</id>
+    <title>Thời gian trôi quá nhanh</title>
+    <updated>2025-09-17T13:21:20+00:00</updated>
+    <author>
+      <name>/u/Forward-Divide8898</name>
+      <uri>https://old.reddit.com/user/Forward-Divide8898</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Trước covid, mình thấy thời gian từ năm này qua năm khác trôi qua chậm và rất là đều. Nhưng kể từ sau covid thì tự nhiên tất cả mọi thứ trôi qua rất là nhanh, mới đây đã gần 6 năm sau covid. Mình còn chưa chuẩn bị gì nữa, mình chỉ muốn nói khi nào thời gian mới trôi chậm lại như trước covid.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Forward-Divide8898"&gt; /u/Forward-Divide8898 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1njd0df/thời_gian_trôi_quá_nhanh/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1njd0df/thời_gian_trôi_quá_nhanh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1njd0df/thời_gian_trôi_quá_nhanh/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-17T13:21:20+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1njda0n</id>
+    <title>Nhận công trình làm cải tạo thợ cứ bảo gặp ma hoài, không phải riêng thợ mình mà có cả những đơn vị khác, cúng kính như nào cho an toàn bây giờ ai có kinh nghiệm mách hộ mình, vừa có 1 bạn té dàn giáo ngay chổ trước người ta t.r.e.o c.ổ 😟</title>
+    <updated>2025-09-17T13:32:30+00:00</updated>
+    <author>
+      <name>/u/GuoWang_369</name>
+      <uri>https://old.reddit.com/user/GuoWang_369</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1njda0n/nhận_công_trình_làm_cải_tạo_thợ_cứ_bảo_gặp_ma/"&gt; &lt;img alt="Nhận công trình làm cải tạo thợ cứ bảo gặp ma hoài, không phải riêng thợ mình mà có cả những đơn vị khác, cúng kính như nào cho an toàn bây giờ ai có kinh nghiệm mách hộ mình, vừa có 1 bạn té dàn giáo ngay chổ trước người ta t.r.e.o c.ổ 😟" src="https://preview.redd.it/mrjeekwc9qpf1.jpeg?width=320&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=31e724bf97f2ad2796eb81d6fb660ba4a1baf25c" title="Nhận công trình làm cải tạo thợ cứ bảo gặp ma hoài, không phải riêng thợ mình mà có cả những đơn vị khác, cúng kính như nào cho an toàn bây giờ ai có kinh nghiệm mách hộ mình, vừa có 1 bạn té dàn giáo ngay chổ trước người ta t.r.e.o c.ổ 😟" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/GuoWang_369"&gt; /u/GuoWang_369 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/mrjeekwc9qpf1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1njda0n/nhận_công_trình_làm_cải_tạo_thợ_cứ_bảo_gặp_ma/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1njda0n/nhận_công_trình_làm_cải_tạo_thợ_cứ_bảo_gặp_ma/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-17T13:32:30+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1nj438d</id>
     <title>Vốn 10tr thì nên kinh doanh sản phẩm nhỏ nào ạ ?</title>
     <updated>2025-09-17T04:56:43+00:00</updated>
@@ -214,19 +214,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nj7q7n/ý_tướng_cho_project_it_cho_sinh_viên_sắp_ra/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-17T08:43:40+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1njatmd</id>
-    <title>Sinh viên năm nhất muốn tìm công việc part time</title>
-    <updated>2025-09-17T11:43:47+00:00</updated>
-    <author>
-      <name>/u/thatdullindividual</name>
-      <uri>https://old.reddit.com/user/thatdullindividual</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1njatmd/sinh_viên_năm_nhất_muốn_tìm_công_việc_part_time/"&gt; &lt;img alt="Sinh viên năm nhất muốn tìm công việc part time" src="https://preview.redd.it/qvslrllypppf1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=1d3eb8009f1fdc75325f82c69e107db713a99be7" title="Sinh viên năm nhất muốn tìm công việc part time" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em là sinh viên năm nhất và hiện tại em có rất nhiều thời gian rảnh nên em muốn tìm cho mình thêm công việc part time để kiếm thêm thu nhập để trang trải tiền trọ, &lt;/p&gt; &lt;p&gt;Thì bây giờ em cũng đang muốn tìm công việc freelance để có kinh nghiệm nền, thì anh chị nào biết có thể đề xuất và giới thiệu giúp em những job nào mà em có thể làm không ạ? Trình độ tiếng Anh của em hiện tại là B2, em viết lách, viết script, guide, thiết kế slides PowerPoint, Canva, Prezi, Pitch cũng rất oke ạ&lt;/p&gt; &lt;p&gt;Ngoài ra thì em cũng muốn tập thiết kế layout, UI và retouching (edit ảnh) nhưng chưa có kinh nghiệm gì, nếu có công việc phù hợp dành cho em thì em nên bắt đầu từ đâu vậy mọi người &lt;/p&gt; &lt;p&gt;Bên lề thì em có theo chuyên ngành kỹ thuật phần mềm (software engineer) nhưng chưa có bắt đầu học nền tảng, bây giờ thì em đang học tiếng Anh để cải thiện nốt speaking &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/thatdullindividual"&gt; /u/thatdullindividual &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/qvslrllypppf1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1njatmd/sinh_viên_năm_nhất_muốn_tìm_công_việc_part_time/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1njatmd/sinh_viên_năm_nhất_muốn_tìm_công_việc_part_time/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-17T11:43:47+00:00</published>
   </entry>
   <entry>
     <id>t3_1nj858m</id>
@@ -305,6 +292,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nj6ecn/có_công_việc_ổn_định_thì_nên_đầu_tư_kinh_doanh/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-17T07:15:23+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1njatmd</id>
+    <title>Sinh viên năm nhất muốn tìm công việc part time</title>
+    <updated>2025-09-17T11:43:47+00:00</updated>
+    <author>
+      <name>/u/thatdullindividual</name>
+      <uri>https://old.reddit.com/user/thatdullindividual</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1njatmd/sinh_viên_năm_nhất_muốn_tìm_công_việc_part_time/"&gt; &lt;img alt="Sinh viên năm nhất muốn tìm công việc part time" src="https://preview.redd.it/qvslrllypppf1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=1d3eb8009f1fdc75325f82c69e107db713a99be7" title="Sinh viên năm nhất muốn tìm công việc part time" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em là sinh viên năm nhất và hiện tại em có rất nhiều thời gian rảnh nên em muốn tìm cho mình thêm công việc part time để kiếm thêm thu nhập để trang trải tiền trọ, &lt;/p&gt; &lt;p&gt;Thì bây giờ em cũng đang muốn tìm công việc freelance để có kinh nghiệm nền, thì anh chị nào biết có thể đề xuất và giới thiệu giúp em những job nào mà em có thể làm không ạ? Trình độ tiếng Anh của em hiện tại là B2, em viết lách, viết script, guide, thiết kế slides PowerPoint, Canva, Prezi, Pitch cũng rất oke ạ&lt;/p&gt; &lt;p&gt;Ngoài ra thì em cũng muốn tập thiết kế layout, UI và retouching (edit ảnh) nhưng chưa có kinh nghiệm gì, nếu có công việc phù hợp dành cho em thì em nên bắt đầu từ đâu vậy mọi người &lt;/p&gt; &lt;p&gt;Bên lề thì em có theo chuyên ngành kỹ thuật phần mềm (software engineer) nhưng chưa có bắt đầu học nền tảng, bây giờ thì em đang học tiếng Anh để cải thiện nốt speaking &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/thatdullindividual"&gt; /u/thatdullindividual &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/qvslrllypppf1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1njatmd/sinh_viên_năm_nhất_muốn_tìm_công_việc_part_time/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1njatmd/sinh_viên_năm_nhất_muốn_tìm_công_việc_part_time/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-17T11:43:47+00:00</published>
   </entry>
   <entry>
     <id>t3_1nj58du</id>
