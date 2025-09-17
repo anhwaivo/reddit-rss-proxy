@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-09-17T13:43:17+00:00</updated>
+  <updated>2025-09-17T13:53:43+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -73,19 +73,6 @@
     <published>2025-09-17T11:42:16+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nj1t0g</id>
-    <title>Choán đời quá</title>
-    <updated>2025-09-17T02:58:19+00:00</updated>
-    <author>
-      <name>/u/kitchcu</name>
-      <uri>https://old.reddit.com/user/kitchcu</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Có bác nào ra trường tới nơi rồi vẫn chả biết phải làm cái quái gì không ? Mình là nạn nhân của việc sống không định hướng, tại thấy chán quá nên toàn học cho đủ qua môn thôi. Được cái là tại thấy chán nên quãng thời gian đó thấy gì cũng muốn làm từ phục vụ, thiết kế cho các brand quần áo, cốc, magazine cho 1 shop trên esty và cả việc chuyên ngành nữa, ... nhưng tựu chung lại thì làm tầm vài tháng lại thấy chán vì công việc lặp đi lặp quá. Xong giờ chỉ toàn nằm trong phòng như mấy thằng neet thôi haizz&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/kitchcu"&gt; /u/kitchcu &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj1t0g/choán_đời_quá/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj1t0g/choán_đời_quá/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nj1t0g/choán_đời_quá/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-17T02:58:19+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1njatu4</id>
     <title>Tư vấn mua laptop học đồ hoạ</title>
     <updated>2025-09-17T11:44:06+00:00</updated>
@@ -110,6 +97,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nj72bl/iphone_hay_samsung_hay_hãng_nào_đó_của_trung_quốc/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-17T07:59:06+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nj1t0g</id>
+    <title>Choán đời quá</title>
+    <updated>2025-09-17T02:58:19+00:00</updated>
+    <author>
+      <name>/u/kitchcu</name>
+      <uri>https://old.reddit.com/user/kitchcu</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Có bác nào ra trường tới nơi rồi vẫn chả biết phải làm cái quái gì không ? Mình là nạn nhân của việc sống không định hướng, tại thấy chán quá nên toàn học cho đủ qua môn thôi. Được cái là tại thấy chán nên quãng thời gian đó thấy gì cũng muốn làm từ phục vụ, thiết kế cho các brand quần áo, cốc, magazine cho 1 shop trên esty và cả việc chuyên ngành nữa, ... nhưng tựu chung lại thì làm tầm vài tháng lại thấy chán vì công việc lặp đi lặp quá. Xong giờ chỉ toàn nằm trong phòng như mấy thằng neet thôi haizz&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/kitchcu"&gt; /u/kitchcu &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj1t0g/choán_đời_quá/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj1t0g/choán_đời_quá/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nj1t0g/choán_đời_quá/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-17T02:58:19+00:00</published>
   </entry>
   <entry>
     <id>t3_1nj0ble</id>
@@ -138,17 +138,17 @@
     <published>2025-09-17T13:21:20+00:00</published>
   </entry>
   <entry>
-    <id>t3_1njda0n</id>
-    <title>Nhận công trình làm cải tạo thợ cứ bảo gặp ma hoài, không phải riêng thợ mình mà có cả những đơn vị khác, cúng kính như nào cho an toàn bây giờ ai có kinh nghiệm mách hộ mình, vừa có 1 bạn té dàn giáo ngay chổ trước người ta t.r.e.o c.ổ 😟</title>
-    <updated>2025-09-17T13:32:30+00:00</updated>
+    <id>t3_1nj9e1k</id>
+    <title>Việc Làm Thời Gian Rảnh</title>
+    <updated>2025-09-17T10:27:17+00:00</updated>
     <author>
-      <name>/u/GuoWang_369</name>
-      <uri>https://old.reddit.com/user/GuoWang_369</uri>
+      <name>/u/Vanwag_lonely29</name>
+      <uri>https://old.reddit.com/user/Vanwag_lonely29</uri>
     </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1njda0n/nhận_công_trình_làm_cải_tạo_thợ_cứ_bảo_gặp_ma/"&gt; &lt;img alt="Nhận công trình làm cải tạo thợ cứ bảo gặp ma hoài, không phải riêng thợ mình mà có cả những đơn vị khác, cúng kính như nào cho an toàn bây giờ ai có kinh nghiệm mách hộ mình, vừa có 1 bạn té dàn giáo ngay chổ trước người ta t.r.e.o c.ổ 😟" src="https://preview.redd.it/mrjeekwc9qpf1.jpeg?width=320&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=31e724bf97f2ad2796eb81d6fb660ba4a1baf25c" title="Nhận công trình làm cải tạo thợ cứ bảo gặp ma hoài, không phải riêng thợ mình mà có cả những đơn vị khác, cúng kính như nào cho an toàn bây giờ ai có kinh nghiệm mách hộ mình, vừa có 1 bạn té dàn giáo ngay chổ trước người ta t.r.e.o c.ổ 😟" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/GuoWang_369"&gt; /u/GuoWang_369 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/mrjeekwc9qpf1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1njda0n/nhận_công_trình_làm_cải_tạo_thợ_cứ_bảo_gặp_ma/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1njda0n/nhận_công_trình_làm_cải_tạo_thợ_cứ_bảo_gặp_ma/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Xin chào cả nhà! &lt;/p&gt; &lt;p&gt;Hiện tại em đang là sinh viên năm 3 ngành MIS, tuy là năm 3 nhưng lịch học của e khá trống. Cụ thể là sẽ nghỉ khoảng 3,4 ngày/tuần. Trong khoảng thời gian này e cũng muốn tìm 1 công việc part time để kiếm thêm thu nhập đôi chút cũng như tích lũy thêm kinh nghiệm. &lt;/p&gt; &lt;p&gt;Em cũng được khuyên nhiều là nên tìm việc liên quan đến chuyên ngành nhưng mà giờ các công việc liên quan đến Data theo định hướng của e rất ít và khó tìm. &lt;/p&gt; &lt;p&gt;Anh chị nào có kinh nghiệm hay bí quyết gì có thể chia sẻ giúp e được không ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Vanwag_lonely29"&gt; /u/Vanwag_lonely29 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj9e1k/việc_làm_thời_gian_rảnh/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj9e1k/việc_làm_thời_gian_rảnh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nj9e1k/việc_làm_thời_gian_rảnh/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-17T13:32:30+00:00</published>
+    <published>2025-09-17T10:27:17+00:00</published>
   </entry>
   <entry>
     <id>t3_1nj438d</id>
@@ -162,19 +162,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nj438d/vốn_10tr_thì_nên_kinh_doanh_sản_phẩm_nhỏ_nào_ạ/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-17T04:56:43+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1nj9e1k</id>
-    <title>Việc Làm Thời Gian Rảnh</title>
-    <updated>2025-09-17T10:27:17+00:00</updated>
-    <author>
-      <name>/u/Vanwag_lonely29</name>
-      <uri>https://old.reddit.com/user/Vanwag_lonely29</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Xin chào cả nhà! &lt;/p&gt; &lt;p&gt;Hiện tại em đang là sinh viên năm 3 ngành MIS, tuy là năm 3 nhưng lịch học của e khá trống. Cụ thể là sẽ nghỉ khoảng 3,4 ngày/tuần. Trong khoảng thời gian này e cũng muốn tìm 1 công việc part time để kiếm thêm thu nhập đôi chút cũng như tích lũy thêm kinh nghiệm. &lt;/p&gt; &lt;p&gt;Em cũng được khuyên nhiều là nên tìm việc liên quan đến chuyên ngành nhưng mà giờ các công việc liên quan đến Data theo định hướng của e rất ít và khó tìm. &lt;/p&gt; &lt;p&gt;Anh chị nào có kinh nghiệm hay bí quyết gì có thể chia sẻ giúp e được không ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Vanwag_lonely29"&gt; /u/Vanwag_lonely29 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj9e1k/việc_làm_thời_gian_rảnh/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj9e1k/việc_làm_thời_gian_rảnh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nj9e1k/việc_làm_thời_gian_rảnh/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-17T10:27:17+00:00</published>
   </entry>
   <entry>
     <id>t3_1nj6lki</id>
@@ -242,6 +229,19 @@
     <published>2025-09-17T01:16:55+00:00</published>
   </entry>
   <entry>
+    <id>t3_1nj9hg2</id>
+    <title>Chuyện gia đình</title>
+    <updated>2025-09-17T10:32:37+00:00</updated>
+    <author>
+      <name>/u/EqualShopping3106</name>
+      <uri>https://old.reddit.com/user/EqualShopping3106</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Stress quá các bác ạ :( Bố mình vừa được chuẩn đoán xơ gan cổ chướng, mà gọi điện về nghe chừng hai vị chỉ mới lờ mờ nhận thức được độ nghiêm trọng của vấn đề, vẫn bảo &amp;quot;giờ về điều trị thôi còn sống dài dài&amp;quot;, trong khi cổ trướng là giai đoạn cuối của xơ gan, tiên lượng thường rất xấu. Mình mà không đi làm ngồi trong văn phòng chắc mất bình tĩnh hét ầm ngay tại chỗ luôn rồi.&lt;/p&gt; &lt;p&gt;Bố mình trước sinh hoạt như cl, rượu uống như nước lã, nói cho thì bảo là &amp;quot;uống vì công việc&amp;quot;, công việc khỉ gì mà ở nhà ăn cơm với vợ con vẫn uống rượu. Nước lọc thì không uống, vài năm nay chỉ đun nước lá uống thay nước lọc, hỏi ra thì biết là nghe thiên hạ đồn nước lá tốt nên đem về uống, mỗi lần về quê mình lại chửi cho bao lần vẫn không bỏ. Gần đây mình về quê thấy sắc mặt sức khỏe biểu hiện không tốt nên mắng vốn xa xả, cộng thêm có triệu chứng rõ rệt mới chịu đi khám, rồi mới lòi ra bệnh.&lt;/p&gt; &lt;p&gt;Haiz mới về hưu được 2 tháng giờ phải đi điều trị bệnh mong duy trì mạng sống.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/EqualShopping3106"&gt; /u/EqualShopping3106 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj9hg2/chuyện_gia_đình/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj9hg2/chuyện_gia_đình/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nj9hg2/chuyện_gia_đình/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-17T10:32:37+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1nj6aec</id>
     <title>Dự định học Automation Test để nhảy việc đầu năm sau – xin lời khuyên từ mọi người</title>
     <updated>2025-09-17T07:08:21+00:00</updated>
@@ -255,17 +255,17 @@
     <published>2025-09-17T07:08:21+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nj9hg2</id>
-    <title>Chuyện gia đình</title>
-    <updated>2025-09-17T10:32:37+00:00</updated>
+    <id>t3_1njda0n</id>
+    <title>Nhận công trình làm cải tạo thợ cứ bảo gặp ma hoài, không phải riêng thợ mình mà có cả những đơn vị khác, cúng kính như nào cho an toàn bây giờ ai có kinh nghiệm mách hộ mình, vừa có 1 bạn té dàn giáo ngay chổ trước người ta t.r.e.o c.ổ 😟</title>
+    <updated>2025-09-17T13:32:30+00:00</updated>
     <author>
-      <name>/u/EqualShopping3106</name>
-      <uri>https://old.reddit.com/user/EqualShopping3106</uri>
+      <name>/u/GuoWang_369</name>
+      <uri>https://old.reddit.com/user/GuoWang_369</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Stress quá các bác ạ :( Bố mình vừa được chuẩn đoán xơ gan cổ chướng, mà gọi điện về nghe chừng hai vị chỉ mới lờ mờ nhận thức được độ nghiêm trọng của vấn đề, vẫn bảo &amp;quot;giờ về điều trị thôi còn sống dài dài&amp;quot;, trong khi cổ trướng là giai đoạn cuối của xơ gan, tiên lượng thường rất xấu. Mình mà không đi làm ngồi trong văn phòng chắc mất bình tĩnh hét ầm ngay tại chỗ luôn rồi.&lt;/p&gt; &lt;p&gt;Bố mình trước sinh hoạt như cl, rượu uống như nước lã, nói cho thì bảo là &amp;quot;uống vì công việc&amp;quot;, công việc khỉ gì mà ở nhà ăn cơm với vợ con vẫn uống rượu. Nước lọc thì không uống, vài năm nay chỉ đun nước lá uống thay nước lọc, hỏi ra thì biết là nghe thiên hạ đồn nước lá tốt nên đem về uống, mỗi lần về quê mình lại chửi cho bao lần vẫn không bỏ. Gần đây mình về quê thấy sắc mặt sức khỏe biểu hiện không tốt nên mắng vốn xa xả, cộng thêm có triệu chứng rõ rệt mới chịu đi khám, rồi mới lòi ra bệnh.&lt;/p&gt; &lt;p&gt;Haiz mới về hưu được 2 tháng giờ phải đi điều trị bệnh mong duy trì mạng sống.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/EqualShopping3106"&gt; /u/EqualShopping3106 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj9hg2/chuyện_gia_đình/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj9hg2/chuyện_gia_đình/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nj9hg2/chuyện_gia_đình/"/>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1njda0n/nhận_công_trình_làm_cải_tạo_thợ_cứ_bảo_gặp_ma/"&gt; &lt;img alt="Nhận công trình làm cải tạo thợ cứ bảo gặp ma hoài, không phải riêng thợ mình mà có cả những đơn vị khác, cúng kính như nào cho an toàn bây giờ ai có kinh nghiệm mách hộ mình, vừa có 1 bạn té dàn giáo ngay chổ trước người ta t.r.e.o c.ổ 😟" src="https://preview.redd.it/mrjeekwc9qpf1.jpeg?width=320&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=31e724bf97f2ad2796eb81d6fb660ba4a1baf25c" title="Nhận công trình làm cải tạo thợ cứ bảo gặp ma hoài, không phải riêng thợ mình mà có cả những đơn vị khác, cúng kính như nào cho an toàn bây giờ ai có kinh nghiệm mách hộ mình, vừa có 1 bạn té dàn giáo ngay chổ trước người ta t.r.e.o c.ổ 😟" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/GuoWang_369"&gt; /u/GuoWang_369 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/mrjeekwc9qpf1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1njda0n/nhận_công_trình_làm_cải_tạo_thợ_cứ_bảo_gặp_ma/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1njda0n/nhận_công_trình_làm_cải_tạo_thợ_cứ_bảo_gặp_ma/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-17T10:32:37+00:00</published>
+    <published>2025-09-17T13:32:30+00:00</published>
   </entry>
   <entry>
     <id>t3_1nj4fmv</id>
@@ -281,19 +281,6 @@
     <published>2025-09-17T05:16:50+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nj6ecn</id>
-    <title>Có công việc ổn định thì nên đầu tư kinh doanh thêm gì?</title>
-    <updated>2025-09-17T07:15:23+00:00</updated>
-    <author>
-      <name>/u/TypicalDuty526</name>
-      <uri>https://old.reddit.com/user/TypicalDuty526</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào ae, Mình 29 tuổi có cv chắc chắn, ổn định trong vòng 10-20 năm tới, mỗi tháng htai dư ra 20-30tr, số dư tài khoản htai 500tr ở nhà thuê tại tphcm cùng vk con, ko có ý định mua nhà vì đã có nhà ở quê, sau già sẽ về quê. dạo này vật giá tăng cao lương thì tăng chậm, nên muốn kinh doanh tăng thêm thu nhập. ngoại trừ bds ra thì có mô hình vừa đi làm đc vừa kinh doanh buôn bán ổn không mọi người nhỉ. Nhờ ae có kn tư vấn giúp với ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/TypicalDuty526"&gt; /u/TypicalDuty526 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj6ecn/có_công_việc_ổn_định_thì_nên_đầu_tư_kinh_doanh/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj6ecn/có_công_việc_ổn_định_thì_nên_đầu_tư_kinh_doanh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nj6ecn/có_công_việc_ổn_định_thì_nên_đầu_tư_kinh_doanh/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-17T07:15:23+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1njatmd</id>
     <title>Sinh viên năm nhất muốn tìm công việc part time</title>
     <updated>2025-09-17T11:43:47+00:00</updated>
@@ -305,6 +292,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1njatmd/sinh_viên_năm_nhất_muốn_tìm_công_việc_part_time/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-17T11:43:47+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nj6ecn</id>
+    <title>Có công việc ổn định thì nên đầu tư kinh doanh thêm gì?</title>
+    <updated>2025-09-17T07:15:23+00:00</updated>
+    <author>
+      <name>/u/TypicalDuty526</name>
+      <uri>https://old.reddit.com/user/TypicalDuty526</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào ae, Mình 29 tuổi có cv chắc chắn, ổn định trong vòng 10-20 năm tới, mỗi tháng htai dư ra 20-30tr, số dư tài khoản htai 500tr ở nhà thuê tại tphcm cùng vk con, ko có ý định mua nhà vì đã có nhà ở quê, sau già sẽ về quê. dạo này vật giá tăng cao lương thì tăng chậm, nên muốn kinh doanh tăng thêm thu nhập. ngoại trừ bds ra thì có mô hình vừa đi làm đc vừa kinh doanh buôn bán ổn không mọi người nhỉ. Nhờ ae có kn tư vấn giúp với ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/TypicalDuty526"&gt; /u/TypicalDuty526 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj6ecn/có_công_việc_ổn_định_thì_nên_đầu_tư_kinh_doanh/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj6ecn/có_công_việc_ổn_định_thì_nên_đầu_tư_kinh_doanh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nj6ecn/có_công_việc_ổn_định_thì_nên_đầu_tư_kinh_doanh/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-17T07:15:23+00:00</published>
   </entry>
   <entry>
     <id>t3_1nj58du</id>
