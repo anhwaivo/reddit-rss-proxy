@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-09-17T10:41:51+00:00</updated>
+  <updated>2025-09-17T10:51:42+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -203,19 +203,6 @@
     <published>2025-09-17T04:56:43+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nj9hg2</id>
-    <title>Chuyện gia đình</title>
-    <updated>2025-09-17T10:32:37+00:00</updated>
-    <author>
-      <name>/u/EqualShopping3106</name>
-      <uri>https://old.reddit.com/user/EqualShopping3106</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Stress quá các bác ạ :( Bố mình vừa được chuẩn đoán xơ gan cổ chướng, mà gọi điện về nghe chừng hai vị chỉ mới lờ mờ nhận thức được độ nghiêm trọng của vấn đề, vẫn bảo &amp;quot;giờ về điều trị thôi còn sống dài dài&amp;quot;, trong khi cổ trướng là giai đoạn cuối của xơ gan, tiên lượng thường rất xấu. Mình mà không đi làm ngồi trong văn phòng chắc mất bình tĩnh hét ầm ngay tại chỗ luôn rồi.&lt;/p&gt; &lt;p&gt;Bố mình trước sinh hoạt như cl, rượu uống như nước lã, nói cho thì bảo là &amp;quot;uống vì công việc&amp;quot;, công việc khỉ gì mà ở nhà ăn cơm với vợ con vẫn uống rượu. Nước lọc thì không uống, vài năm nay chỉ đun nước lá uống thay nước lọc, hỏi ra thì biết là nghe thiên hạ đồn nước lá tốt nên đem về uống, mỗi lần về quê mình lại chửi cho bao lần vẫn không bỏ. Gần đây mình về quê thấy sắc mặt sức khỏe biểu hiện không tốt nên mắng vốn xa xả, cộng thêm có triệu chứng rõ rệt mới chịu đi khám, rồi mới lòi ra bệnh.&lt;/p&gt; &lt;p&gt;Haiz mới về hưu được 2 tháng giờ phải đi điều trị bệnh mong duy trì mạng sống.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/EqualShopping3106"&gt; /u/EqualShopping3106 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj9hg2/chuyện_gia_đình/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj9hg2/chuyện_gia_đình/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nj9hg2/chuyện_gia_đình/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-17T10:32:37+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nif6z5</id>
     <title>Bị giảng viên đuổi khỏi lớp học</title>
     <updated>2025-09-16T11:47:29+00:00</updated>
@@ -242,6 +229,19 @@
     <published>2025-09-17T08:43:40+00:00</published>
   </entry>
   <entry>
+    <id>t3_1nj9hg2</id>
+    <title>Chuyện gia đình</title>
+    <updated>2025-09-17T10:32:37+00:00</updated>
+    <author>
+      <name>/u/EqualShopping3106</name>
+      <uri>https://old.reddit.com/user/EqualShopping3106</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Stress quá các bác ạ :( Bố mình vừa được chuẩn đoán xơ gan cổ chướng, mà gọi điện về nghe chừng hai vị chỉ mới lờ mờ nhận thức được độ nghiêm trọng của vấn đề, vẫn bảo &amp;quot;giờ về điều trị thôi còn sống dài dài&amp;quot;, trong khi cổ trướng là giai đoạn cuối của xơ gan, tiên lượng thường rất xấu. Mình mà không đi làm ngồi trong văn phòng chắc mất bình tĩnh hét ầm ngay tại chỗ luôn rồi.&lt;/p&gt; &lt;p&gt;Bố mình trước sinh hoạt như cl, rượu uống như nước lã, nói cho thì bảo là &amp;quot;uống vì công việc&amp;quot;, công việc khỉ gì mà ở nhà ăn cơm với vợ con vẫn uống rượu. Nước lọc thì không uống, vài năm nay chỉ đun nước lá uống thay nước lọc, hỏi ra thì biết là nghe thiên hạ đồn nước lá tốt nên đem về uống, mỗi lần về quê mình lại chửi cho bao lần vẫn không bỏ. Gần đây mình về quê thấy sắc mặt sức khỏe biểu hiện không tốt nên mắng vốn xa xả, cộng thêm có triệu chứng rõ rệt mới chịu đi khám, rồi mới lòi ra bệnh.&lt;/p&gt; &lt;p&gt;Haiz mới về hưu được 2 tháng giờ phải đi điều trị bệnh mong duy trì mạng sống.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/EqualShopping3106"&gt; /u/EqualShopping3106 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj9hg2/chuyện_gia_đình/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj9hg2/chuyện_gia_đình/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nj9hg2/chuyện_gia_đình/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-17T10:32:37+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1nj858m</id>
     <title>Xin tư vấn mẫu điện thoại để quay video</title>
     <updated>2025-09-17T09:11:01+00:00</updated>
@@ -253,19 +253,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nj858m/xin_tư_vấn_mẫu_điện_thoại_để_quay_video/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-17T09:11:01+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1nj8yjr</id>
-    <title>bị kỷ luật khi sinh con thứ 3</title>
-    <updated>2025-09-17T10:01:54+00:00</updated>
-    <author>
-      <name>/u/greate_man</name>
-      <uri>https://old.reddit.com/user/greate_man</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Cơ quan của mấy ní có bị kỷ luật khi sinh con thứ 3 không.&lt;/p&gt; &lt;p&gt;Tớ đang làm ở bệnh viện lớn tại Huế, sinh con xong và bị bệnh viện áp dụng chính sách kỷ luật những ai sinh con thứ 3.&lt;/p&gt; &lt;p&gt;-cắt toàn bộ tiền thưởng -không nâng lương vài năm -không bổ nhiệm chức vụ ...&lt;/p&gt; &lt;p&gt;Bệnh viện áp dụng kỷ luật với người sinh con thứ ba thế có đúng không nhỉ? Tại thấy nhiều cơ quan đã bãi bỏ, luật lao động cũng không cấm, nhà nước lại khuyến khích sinh...&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/greate_man"&gt; /u/greate_man &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj8yjr/bị_kỷ_luật_khi_sinh_con_thứ_3/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj8yjr/bị_kỷ_luật_khi_sinh_con_thứ_3/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nj8yjr/bị_kỷ_luật_khi_sinh_con_thứ_3/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-17T10:01:54+00:00</published>
   </entry>
   <entry>
     <id>t3_1nizo47</id>
@@ -292,6 +279,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nj6aec/dự_định_học_automation_test_để_nhảy_việc_đầu_năm/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-17T07:08:21+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nj8yjr</id>
+    <title>bị kỷ luật khi sinh con thứ 3</title>
+    <updated>2025-09-17T10:01:54+00:00</updated>
+    <author>
+      <name>/u/greate_man</name>
+      <uri>https://old.reddit.com/user/greate_man</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Cơ quan của mấy ní có bị kỷ luật khi sinh con thứ 3 không.&lt;/p&gt; &lt;p&gt;Tớ đang làm ở bệnh viện lớn tại Huế, sinh con xong và bị bệnh viện áp dụng chính sách kỷ luật những ai sinh con thứ 3.&lt;/p&gt; &lt;p&gt;-cắt toàn bộ tiền thưởng -không nâng lương vài năm -không bổ nhiệm chức vụ ...&lt;/p&gt; &lt;p&gt;Bệnh viện áp dụng kỷ luật với người sinh con thứ ba thế có đúng không nhỉ? Tại thấy nhiều cơ quan đã bãi bỏ, luật lao động cũng không cấm, nhà nước lại khuyến khích sinh...&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/greate_man"&gt; /u/greate_man &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj8yjr/bị_kỷ_luật_khi_sinh_con_thứ_3/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj8yjr/bị_kỷ_luật_khi_sinh_con_thứ_3/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nj8yjr/bị_kỷ_luật_khi_sinh_con_thứ_3/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-17T10:01:54+00:00</published>
   </entry>
   <entry>
     <id>t3_1nj6ecn</id>
