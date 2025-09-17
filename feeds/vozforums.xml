@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-09-17T02:40:34+00:00</updated>
+  <updated>2025-09-17T03:17:56+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -21,19 +21,6 @@
     <published>2025-09-16T13:46:56+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nicjw1</id>
-    <title>Đơn hàng bị delay không được giao</title>
-    <updated>2025-09-16T09:15:45+00:00</updated>
-    <author>
-      <name>/u/IceStone2906</name>
-      <uri>https://old.reddit.com/user/IceStone2906</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1nicjw1/đơn_hàng_bị_delay_không_được_giao/"&gt; &lt;img alt="Đơn hàng bị delay không được giao" src="https://b.thumbs.redditmedia.com/j-zhtB9rCarYE9ryU9_HG9AdX5RcS-kJgHNcnYVgExA.jpg" title="Đơn hàng bị delay không được giao" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Cho em hỏi trên này nhà mình có ai làm việc trong các hãng vận chuyển như shopee express, GHN,… không ạ. Chuyện là mấy nay các đơn em đặt trên shopee được chuyển về kho trên Bắc Ninh là cứ thấy đứng mãi trên đó. Có 1 số đơn về khu vực chỗ em rồi thì cũng đứng mãi không thấy giao. Có ai biết lí do tại sao không ạ, chứ 7 đơn e đặt thì cả 7 đứng hết không đơn nào được giao cả 😭. Giờ em sợ không dám đặt hàng trên shopee luôn, mà nhiều mặt hàng ở ngoài lại không mua được chứ 😢&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/IceStone2906"&gt; /u/IceStone2906 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1nicjw1"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nicjw1/đơn_hàng_bị_delay_không_được_giao/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nicjw1/đơn_hàng_bị_delay_không_được_giao/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-16T09:15:45+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1ni74vq</id>
     <title>Vừa bị cận vừa bị gãy tay có phải đi NVQS không</title>
     <updated>2025-09-16T03:46:50+00:00</updated>
@@ -45,6 +32,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ni74vq/vừa_bị_cận_vừa_bị_gãy_tay_có_phải_đi_nvqs_không/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-16T03:46:50+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nicjw1</id>
+    <title>Đơn hàng bị delay không được giao</title>
+    <updated>2025-09-16T09:15:45+00:00</updated>
+    <author>
+      <name>/u/IceStone2906</name>
+      <uri>https://old.reddit.com/user/IceStone2906</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1nicjw1/đơn_hàng_bị_delay_không_được_giao/"&gt; &lt;img alt="Đơn hàng bị delay không được giao" src="https://b.thumbs.redditmedia.com/j-zhtB9rCarYE9ryU9_HG9AdX5RcS-kJgHNcnYVgExA.jpg" title="Đơn hàng bị delay không được giao" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Cho em hỏi trên này nhà mình có ai làm việc trong các hãng vận chuyển như shopee express, GHN,… không ạ. Chuyện là mấy nay các đơn em đặt trên shopee được chuyển về kho trên Bắc Ninh là cứ thấy đứng mãi trên đó. Có 1 số đơn về khu vực chỗ em rồi thì cũng đứng mãi không thấy giao. Có ai biết lí do tại sao không ạ, chứ 7 đơn e đặt thì cả 7 đứng hết không đơn nào được giao cả 😭. Giờ em sợ không dám đặt hàng trên shopee luôn, mà nhiều mặt hàng ở ngoài lại không mua được chứ 😢&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/IceStone2906"&gt; /u/IceStone2906 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1nicjw1"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nicjw1/đơn_hàng_bị_delay_không_được_giao/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nicjw1/đơn_hàng_bị_delay_không_được_giao/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-16T09:15:45+00:00</published>
   </entry>
   <entry>
     <id>t3_1niafo3</id>
@@ -86,17 +86,17 @@
     <published>2025-09-16T15:35:02+00:00</published>
   </entry>
   <entry>
-    <id>t3_1niv8nu</id>
-    <title>5 điều để biết ơn khi thấy chán đời/tiêu cực</title>
-    <updated>2025-09-16T22:02:26+00:00</updated>
+    <id>t3_1niwgeq</id>
+    <title>K3 max led thì sao các bác ơi e cần dùng để nhập code và tin học văn phòng</title>
+    <updated>2025-09-16T22:52:54+00:00</updated>
     <author>
-      <name>/u/dragon_Mai</name>
-      <uri>https://old.reddit.com/user/dragon_Mai</uri>
+      <name>/u/PlusFlight2861</name>
+      <uri>https://old.reddit.com/user/PlusFlight2861</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;• ⁠được kết hôn/cặp với người bạn yêu. Có nước không được đâu, các cụ ngày xưa có khi k được. Người LGBTQ trước kia có thể bị bắn vì yêu người đồng giới. Được yêu là cảm giác rất tích cực - và giờ mình có quyền đó • ⁠được hoà bình. Chiến tranh trên thế giới nhiều. Xin cảm ơn hoà bình • ⁠được có điện + Internet… you would die without these two, we would die and burn in hell without these 2, in sadness and desperation and torture without these 2…. Xin biết ơn 🌷🤣 • ⁠được có người yêu mình. Tính cả bố mẹ, họ hàng, anh chị em, người yêu… • ⁠được thuộc về 1 cộng đồng, hầu hết ng ở đây luôn luôn thuộc cộng đồng VN&lt;/p&gt; &lt;p&gt;Xin cảm ơn bác đã đọc. Có biết ơn gì thì viết dưới cho tui biết nha…&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/dragon_Mai"&gt; /u/dragon_Mai &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1niv8nu/5_điều_để_biết_ơn_khi_thấy_chán_đờitiêu_cực/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1niv8nu/5_điều_để_biết_ơn_khi_thấy_chán_đờitiêu_cực/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1niv8nu/5_điều_để_biết_ơn_khi_thấy_chán_đờitiêu_cực/"/>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/PlusFlight2861"&gt; /u/PlusFlight2861 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1niwgeq/k3_max_led_thì_sao_các_bác_ơi_e_cần_dùng_để_nhập/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1niwgeq/k3_max_led_thì_sao_các_bác_ơi_e_cần_dùng_để_nhập/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1niwgeq/k3_max_led_thì_sao_các_bác_ơi_e_cần_dùng_để_nhập/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-16T22:02:26+00:00</published>
+    <published>2025-09-16T22:52:54+00:00</published>
   </entry>
   <entry>
     <id>t3_1nilund</id>
@@ -110,19 +110,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nilund/lcp_đà_nẵng/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-16T16:12:55+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1niwgeq</id>
-    <title>K3 max led thì sao các bác ơi e cần dùng để nhập code và tin học văn phòng</title>
-    <updated>2025-09-16T22:52:54+00:00</updated>
-    <author>
-      <name>/u/PlusFlight2861</name>
-      <uri>https://old.reddit.com/user/PlusFlight2861</uri>
-    </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/PlusFlight2861"&gt; /u/PlusFlight2861 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1niwgeq/k3_max_led_thì_sao_các_bác_ơi_e_cần_dùng_để_nhập/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1niwgeq/k3_max_led_thì_sao_các_bác_ơi_e_cần_dùng_để_nhập/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1niwgeq/k3_max_led_thì_sao_các_bác_ơi_e_cần_dùng_để_nhập/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-16T22:52:54+00:00</published>
   </entry>
   <entry>
     <id>t3_1nianwr</id>
@@ -164,17 +151,30 @@
     <published>2025-09-16T02:15:45+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nija4e</id>
-    <title>Đi xe bus</title>
-    <updated>2025-09-16T14:37:24+00:00</updated>
+    <id>t3_1nj0c3b</id>
+    <title>otomi games có dùng để tải game được không các bác? xin các web tải game lậu uy tín, tới giờ biết mỗi daominhha</title>
+    <updated>2025-09-17T01:47:46+00:00</updated>
     <author>
-      <name>/u/PralineExact3966</name>
-      <uri>https://old.reddit.com/user/PralineExact3966</uri>
+      <name>/u/AkaiitoMea</name>
+      <uri>https://old.reddit.com/user/AkaiitoMea</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình là nữ, sv. Hôm qua đi xe bus vừa chật vừa đông, hầu hết là sv về ktx. Ngay sau là một bạn nam, nhìn hơi thừa cân, cận và… có thể các bạn sẽ hiểu mô tả của mình…, lúc đầu lên mình không để ý lắm có chỗ đứng là đc. Sau đó mấy lúc mình quay sang phải thì thấy tay bạn ấy kiểu để hờ trên không như quàng qua vai mình, để rất gần, xong ngón tay cử động kiểu chần như muốn chạm vào. Cuối cùng thì cũng không chạm vào, nhưng trong lúc đó mình run cực kì. Mình cũng tự hỏi có đang overthinking ko, nhưng trên xe bus thì tay để như vậy để làm gì, không mỏi hả, mình còn quay qua quay lại như muốn xác nhận nhiều lần, thì bạn ấy có để tay xuống. Ai có kinh nghiệm trong việc này ko ạ, mình từng gặp bái thiến real nên bị nhạy cảm và ám ảnh dữ lắm 🥲 &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/PralineExact3966"&gt; /u/PralineExact3966 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nija4e/đi_xe_bus/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nija4e/đi_xe_bus/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nija4e/đi_xe_bus/"/>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/AkaiitoMea"&gt; /u/AkaiitoMea &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj0c3b/otomi_games_có_dùng_để_tải_game_được_không_các/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj0c3b/otomi_games_có_dùng_để_tải_game_được_không_các/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nj0c3b/otomi_games_có_dùng_để_tải_game_được_không_các/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-16T14:37:24+00:00</published>
+    <published>2025-09-17T01:47:46+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1niv8nu</id>
+    <title>5 điều để biết ơn khi thấy chán đời/tiêu cực</title>
+    <updated>2025-09-16T22:02:26+00:00</updated>
+    <author>
+      <name>/u/dragon_Mai</name>
+      <uri>https://old.reddit.com/user/dragon_Mai</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;• ⁠được kết hôn/cặp với người bạn yêu. Có nước không được đâu, các cụ ngày xưa có khi k được. Người LGBTQ trước kia có thể bị bắn vì yêu người đồng giới. Được yêu là cảm giác rất tích cực - và giờ mình có quyền đó • ⁠được hoà bình. Chiến tranh trên thế giới nhiều. Xin cảm ơn hoà bình • ⁠được có điện + Internet… you would die without these two, we would die and burn in hell without these 2, in sadness and desperation and torture without these 2…. Xin biết ơn 🌷🤣 • ⁠được có người yêu mình. Tính cả bố mẹ, họ hàng, anh chị em, người yêu… • ⁠được thuộc về 1 cộng đồng, hầu hết ng ở đây luôn luôn thuộc cộng đồng VN&lt;/p&gt; &lt;p&gt;Xin cảm ơn bác đã đọc. Có biết ơn gì thì viết dưới cho tui biết nha…&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/dragon_Mai"&gt; /u/dragon_Mai &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1niv8nu/5_điều_để_biết_ơn_khi_thấy_chán_đờitiêu_cực/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1niv8nu/5_điều_để_biết_ơn_khi_thấy_chán_đờitiêu_cực/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1niv8nu/5_điều_để_biết_ơn_khi_thấy_chán_đờitiêu_cực/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-16T22:02:26+00:00</published>
   </entry>
   <entry>
     <id>t3_1nidqr9</id>
@@ -190,17 +190,17 @@
     <published>2025-09-16T10:29:01+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nj0c3b</id>
-    <title>otomi games có dùng để tải game được không các bác? xin các web tải game lậu uy tín, tới giờ biết mỗi daominhha</title>
-    <updated>2025-09-17T01:47:46+00:00</updated>
+    <id>t3_1nija4e</id>
+    <title>Đi xe bus</title>
+    <updated>2025-09-16T14:37:24+00:00</updated>
     <author>
-      <name>/u/AkaiitoMea</name>
-      <uri>https://old.reddit.com/user/AkaiitoMea</uri>
+      <name>/u/PralineExact3966</name>
+      <uri>https://old.reddit.com/user/PralineExact3966</uri>
     </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/AkaiitoMea"&gt; /u/AkaiitoMea &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj0c3b/otomi_games_có_dùng_để_tải_game_được_không_các/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj0c3b/otomi_games_có_dùng_để_tải_game_được_không_các/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nj0c3b/otomi_games_có_dùng_để_tải_game_được_không_các/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình là nữ, sv. Hôm qua đi xe bus vừa chật vừa đông, hầu hết là sv về ktx. Ngay sau là một bạn nam, nhìn hơi thừa cân, cận và… có thể các bạn sẽ hiểu mô tả của mình…, lúc đầu lên mình không để ý lắm có chỗ đứng là đc. Sau đó mấy lúc mình quay sang phải thì thấy tay bạn ấy kiểu để hờ trên không như quàng qua vai mình, để rất gần, xong ngón tay cử động kiểu chần như muốn chạm vào. Cuối cùng thì cũng không chạm vào, nhưng trong lúc đó mình run cực kì. Mình cũng tự hỏi có đang overthinking ko, nhưng trên xe bus thì tay để như vậy để làm gì, không mỏi hả, mình còn quay qua quay lại như muốn xác nhận nhiều lần, thì bạn ấy có để tay xuống. Ai có kinh nghiệm trong việc này ko ạ, mình từng gặp bái thiến real nên bị nhạy cảm và ám ảnh dữ lắm 🥲 &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/PralineExact3966"&gt; /u/PralineExact3966 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nija4e/đi_xe_bus/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nija4e/đi_xe_bus/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nija4e/đi_xe_bus/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-17T01:47:46+00:00</published>
+    <published>2025-09-16T14:37:24+00:00</published>
   </entry>
   <entry>
     <id>t3_1nili6y</id>
@@ -214,6 +214,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nili6y/duy_trì_sức_khỏe_thể_chất/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-16T16:00:14+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nj1t0g</id>
+    <title>Choán đời quá</title>
+    <updated>2025-09-17T02:58:19+00:00</updated>
+    <author>
+      <name>/u/kitchcu</name>
+      <uri>https://old.reddit.com/user/kitchcu</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Có bác nào ra trường tới nơi rồi vẫn chả biết phải làm cái quái gì không ? Mình là nạn nhân của việc sống không định hướng, tại thấy chán quá nên toàn học cho đủ qua môn thôi. Được cái là tại thấy chán nên quãng thời gian đó thấy gì cũng muốn làm từ phục vụ, thiết kế cho các brand quần áo, cốc, magazine cho 1 shop trên esty và cả việc chuyên ngành nữa, ... nhưng tựu chung lại thì làm tầm vài tháng lại thấy chán vì công việc lặp đi lặp quá. Xong giờ chỉ toàn nằm trong phòng như mấy thằng neet thôi haizz&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/kitchcu"&gt; /u/kitchcu &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj1t0g/choán_đời_quá/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj1t0g/choán_đời_quá/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nj1t0g/choán_đời_quá/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-17T02:58:19+00:00</published>
   </entry>
   <entry>
     <id>t3_1ni8zvs</id>
@@ -242,19 +255,6 @@
     <published>2025-09-16T01:35:10+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nierkf</id>
-    <title>Có nên mua đất không?</title>
-    <updated>2025-09-16T11:25:42+00:00</updated>
-    <author>
-      <name>/u/Ok_Echo_6226</name>
-      <uri>https://old.reddit.com/user/Ok_Echo_6226</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình con gái 31 tuổi độc thân đang sống ơ HN. Chị mình mới gọi bảo là muốn bán mảnh đất 5×40m, 200m2 đất, 100 m2 thổ cư ở Phước Hòa, Bà Rịa Vũng Tàu, bán cho ng ngoài tầm 2 tỷ nhưng người nhà thì 1 tỷ 8. Chị ấy muốn bán cho mình để lấy tiền mở rộng kinh doanh, gia đình mình cũng bảo mảnh đất đó đẹp. Mình đang có 1 khoản tk tầm 700 800tr, lương cơ bản nét hàng tháng khoảng 32tr, thêm bonus tầm 2-5tr, nếu lấy mảnh đất này thì cũng có tý áp lực trả tiền. Mình thấy giá đất cao, xung quanh cũng cao vậy, hồi 2018 chị mìmh mua 400tr mà giờ lên gấp mấy lần thì khả năng lên nữa là khó ah. Mình tính nếu sau này nó k tăng thì có thể mình sẽ vào đó xây nhà ở, nhưng cảm giác kinh tế trong đó cũng k phát triển lắm. Nếu mua đất này thì khả năng 2 3 năm nữa là mình sẽ ko mua dc chỗ khác trong trường hợp chung cư ngoài này giá bình ổn lại, mình sẽ chỉ mua chung cư ngoài HN khi thấy nó đúng giá, và có tầm 70-80% giá trị căn nhà chứ k gồng trả lãi ngân hàng. Nếu mua của chị mình thì sẽ k áp lực trả tiền quá. Thực sự bối rối chưa biết làm sao. Hiện tại thì e có plan trong 5 năm nữa sẽ ko ở HN, và tương lai cũng chưa chắc đã ở HN, nên mua đất ở đâu cũng ko phải là vđ, mua ở Bà Rịa thì còn có gia đình chị trông vì gđ chị ở gần đó. Mỗi người 1 hoàn cảnh nên vđ mua bán giữa người nhà với nhau e xin ko bàn luận ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ok_Echo_6226"&gt; /u/Ok_Echo_6226 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nierkf/có_nên_mua_đất_không/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nierkf/có_nên_mua_đất_không/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nierkf/có_nên_mua_đất_không/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-16T11:25:42+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nj0ble</id>
     <title>Mắt 3,5 có phải di nvqs không?</title>
     <updated>2025-09-17T01:47:08+00:00</updated>
@@ -268,17 +268,17 @@
     <published>2025-09-17T01:47:08+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nj0d3u</id>
-    <title>Công ty này có vẻ lạ</title>
-    <updated>2025-09-17T01:49:10+00:00</updated>
+    <id>t3_1nierkf</id>
+    <title>Có nên mua đất không?</title>
+    <updated>2025-09-16T11:25:42+00:00</updated>
     <author>
-      <name>/u/kitchcu</name>
-      <uri>https://old.reddit.com/user/kitchcu</uri>
+      <name>/u/Ok_Echo_6226</name>
+      <uri>https://old.reddit.com/user/Ok_Echo_6226</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;1 công ty Nhật chi nhánh VN từ năm này qua tháng nọ chỉ toàn tuyển sinh viên mới ra trường, không yêu cầu kinh nghiệm, mỗi lần chỉ tuyển 2-3 bạn vẫn cùng 1 vị trí đấy thì có gì đó không ổn nhỉ ? Ý là thông tin về địa chỉ hay gì đấy đều oke hết và em cũng đã đi check rồi nhưng bị cái em tìm hiểu thông tin cty này trên mạng thì chả có mấy, vẫn có mst nha. Anh chị nghĩ sao về cty này ? &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/kitchcu"&gt; /u/kitchcu &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj0d3u/công_ty_này_có_vẻ_lạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj0d3u/công_ty_này_có_vẻ_lạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nj0d3u/công_ty_này_có_vẻ_lạ/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình con gái 31 tuổi độc thân đang sống ơ HN. Chị mình mới gọi bảo là muốn bán mảnh đất 5×40m, 200m2 đất, 100 m2 thổ cư ở Phước Hòa, Bà Rịa Vũng Tàu, bán cho ng ngoài tầm 2 tỷ nhưng người nhà thì 1 tỷ 8. Chị ấy muốn bán cho mình để lấy tiền mở rộng kinh doanh, gia đình mình cũng bảo mảnh đất đó đẹp. Mình đang có 1 khoản tk tầm 700 800tr, lương cơ bản nét hàng tháng khoảng 32tr, thêm bonus tầm 2-5tr, nếu lấy mảnh đất này thì cũng có tý áp lực trả tiền. Mình thấy giá đất cao, xung quanh cũng cao vậy, hồi 2018 chị mìmh mua 400tr mà giờ lên gấp mấy lần thì khả năng lên nữa là khó ah. Mình tính nếu sau này nó k tăng thì có thể mình sẽ vào đó xây nhà ở, nhưng cảm giác kinh tế trong đó cũng k phát triển lắm. Nếu mua đất này thì khả năng 2 3 năm nữa là mình sẽ ko mua dc chỗ khác trong trường hợp chung cư ngoài này giá bình ổn lại, mình sẽ chỉ mua chung cư ngoài HN khi thấy nó đúng giá, và có tầm 70-80% giá trị căn nhà chứ k gồng trả lãi ngân hàng. Nếu mua của chị mình thì sẽ k áp lực trả tiền quá. Thực sự bối rối chưa biết làm sao. Hiện tại thì e có plan trong 5 năm nữa sẽ ko ở HN, và tương lai cũng chưa chắc đã ở HN, nên mua đất ở đâu cũng ko phải là vđ, mua ở Bà Rịa thì còn có gia đình chị trông vì gđ chị ở gần đó. Mỗi người 1 hoàn cảnh nên vđ mua bán giữa người nhà với nhau e xin ko bàn luận ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ok_Echo_6226"&gt; /u/Ok_Echo_6226 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nierkf/có_nên_mua_đất_không/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nierkf/có_nên_mua_đất_không/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nierkf/có_nên_mua_đất_không/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-17T01:49:10+00:00</published>
+    <published>2025-09-16T11:25:42+00:00</published>
   </entry>
   <entry>
     <id>t3_1nisfka</id>
