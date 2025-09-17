@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-09-17T07:37:35+00:00</updated>
+  <updated>2025-09-17T07:50:35+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1nianwr</id>
-    <title>Học IT nhưng code yếu thì nên chuyển hướng sang mảng gì ?</title>
-    <updated>2025-09-16T07:11:31+00:00</updated>
-    <author>
-      <name>/u/quyet249</name>
-      <uri>https://old.reddit.com/user/quyet249</uri>
-    </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/quyet249"&gt; /u/quyet249 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nianwr/học_it_nhưng_code_yếu_thì_nên_chuyển_hướng_sang/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nianwr/học_it_nhưng_code_yếu_thì_nên_chuyển_hướng_sang/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nianwr/học_it_nhưng_code_yếu_thì_nên_chuyển_hướng_sang/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-16T07:11:31+00:00</published>
-  </entry>
   <entry>
     <id>t3_1ni5b2o</id>
     <title>Cuồng Iphone</title>
@@ -58,6 +45,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nidqr9/mình_không_mượn_nợ_gì_mà_nó_cứ_gọi_quài_làm_sao/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-16T10:29:01+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nj6ecn</id>
+    <title>Có công việc ổn định thì nên đầu tư kinh doanh thêm gì?</title>
+    <updated>2025-09-17T07:15:23+00:00</updated>
+    <author>
+      <name>/u/TypicalDuty526</name>
+      <uri>https://old.reddit.com/user/TypicalDuty526</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào ae, Mình 29 tuổi có cv chắc chắn, ổn định trong vòng 10-20 năm tới, mỗi tháng htai dư ra 20-30tr, số dư tài khoản htai 500tr ở nhà thuê tại tphcm cùng vk con, ko có ý định mua nhà vì đã có nhà ở quê, sau già sẽ về quê. dạo này vật giá tăng cao lương thì tăng chậm, nên muốn kinh doanh tăng thêm thu nhập. ngoại trừ bds ra thì có mô hình vừa đi làm đc vừa kinh doanh buôn bán ổn không mọi người nhỉ. Nhờ ae có kn tư vấn giúp với ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/TypicalDuty526"&gt; /u/TypicalDuty526 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj6ecn/có_công_việc_ổn_định_thì_nên_đầu_tư_kinh_doanh/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj6ecn/có_công_việc_ổn_định_thì_nên_đầu_tư_kinh_doanh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nj6ecn/có_công_việc_ổn_định_thì_nên_đầu_tư_kinh_doanh/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-17T07:15:23+00:00</published>
   </entry>
   <entry>
     <id>t3_1nili6y</id>
@@ -151,32 +151,6 @@
     <published>2025-09-17T02:58:19+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nj6ecn</id>
-    <title>Có công việc ổn định thì nên đầu tư kinh doanh thêm gì?</title>
-    <updated>2025-09-17T07:15:23+00:00</updated>
-    <author>
-      <name>/u/TypicalDuty526</name>
-      <uri>https://old.reddit.com/user/TypicalDuty526</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào ae, Mình 29 tuổi có cv chắc chắn, ổn định trong vòng 10-20 năm tới, mỗi tháng htai dư ra 20-30tr, số dư tài khoản htai 500tr ở nhà thuê tại tphcm cùng vk con, ko có ý định mua nhà vì đã có nhà ở quê, sau già sẽ về quê. dạo này vật giá tăng cao lương thì tăng chậm, nên muốn kinh doanh tăng thêm thu nhập. ngoại trừ bds ra thì có mô hình vừa đi làm đc vừa kinh doanh buôn bán ổn không mọi người nhỉ. Nhờ ae có kn tư vấn giúp với ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/TypicalDuty526"&gt; /u/TypicalDuty526 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj6ecn/có_công_việc_ổn_định_thì_nên_đầu_tư_kinh_doanh/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj6ecn/có_công_việc_ổn_định_thì_nên_đầu_tư_kinh_doanh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nj6ecn/có_công_việc_ổn_định_thì_nên_đầu_tư_kinh_doanh/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-17T07:15:23+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1nj6l8y</id>
-    <title>Tìm việc tiếng anh+tiếng nhật ở TPHCM có khó không?</title>
-    <updated>2025-09-17T07:27:40+00:00</updated>
-    <author>
-      <name>/u/TypicalDuty526</name>
-      <uri>https://old.reddit.com/user/TypicalDuty526</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào ae. Sắp tới đây m sẽ từ nc ngoài về VN để làm cho cty hiện tại . lương 5x làm giờ hành chính. Luật cty ko cho làm thêm việc khác. Nhưng mình muốn kiếm thêm. Không biết là với khả năng thành thạo Tiếng Anh và Tiếng Nhật có kiếm đc việc gì tối lại hoặc cuối tuần làm online,ofline không báo thuế ở Tphcm không ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/TypicalDuty526"&gt; /u/TypicalDuty526 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj6l8y/tìm_việc_tiếng_anhtiếng_nhật_ở_tphcm_có_khó_không/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj6l8y/tìm_việc_tiếng_anhtiếng_nhật_ở_tphcm_có_khó_không/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nj6l8y/tìm_việc_tiếng_anhtiếng_nhật_ở_tphcm_có_khó_không/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-17T07:27:40+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nj2pw3</id>
     <title>Mọi người dùng WiFi bên nào oke nhỉ</title>
     <updated>2025-09-17T03:43:59+00:00</updated>
@@ -201,6 +175,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nija4e/đi_xe_bus/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-16T14:37:24+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nj6tnu</id>
+    <title>Xin chỗ mua quần áo thể thao ở HN</title>
+    <updated>2025-09-17T07:42:46+00:00</updated>
+    <author>
+      <name>/u/Important_Can_4520</name>
+      <uri>https://old.reddit.com/user/Important_Can_4520</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;E sắp có kèo cầu lông, các bác cho em xin chỗ sắm bộ quần áo thoáng mát với 🙏&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Important_Can_4520"&gt; /u/Important_Can_4520 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj6tnu/xin_chỗ_mua_quần_áo_thể_thao_ở_hn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj6tnu/xin_chỗ_mua_quần_áo_thể_thao_ở_hn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nj6tnu/xin_chỗ_mua_quần_áo_thể_thao_ở_hn/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-17T07:42:46+00:00</published>
   </entry>
   <entry>
     <id>t3_1nihb9p</id>
@@ -240,6 +227,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nj438d/vốn_10tr_thì_nên_kinh_doanh_sản_phẩm_nhỏ_nào_ạ/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-17T04:56:43+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nj6l8y</id>
+    <title>Tìm việc tiếng anh+tiếng nhật ở TPHCM có khó không?</title>
+    <updated>2025-09-17T07:27:40+00:00</updated>
+    <author>
+      <name>/u/TypicalDuty526</name>
+      <uri>https://old.reddit.com/user/TypicalDuty526</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào ae. Sắp tới đây m sẽ từ nc ngoài về VN để làm cho cty hiện tại . lương 5x làm giờ hành chính. Luật cty ko cho làm thêm việc khác. Nhưng mình muốn kiếm thêm. Không biết là với khả năng thành thạo Tiếng Anh và Tiếng Nhật có kiếm đc việc gì tối lại hoặc cuối tuần làm online,ofline không báo thuế ở Tphcm không ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/TypicalDuty526"&gt; /u/TypicalDuty526 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj6l8y/tìm_việc_tiếng_anhtiếng_nhật_ở_tphcm_có_khó_không/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj6l8y/tìm_việc_tiếng_anhtiếng_nhật_ở_tphcm_có_khó_không/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nj6l8y/tìm_việc_tiếng_anhtiếng_nhật_ở_tphcm_có_khó_không/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-17T07:27:40+00:00</published>
   </entry>
   <entry>
     <id>t3_1nj6lki</id>
