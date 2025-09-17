@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-09-17T05:50:31+00:00</updated>
+  <updated>2025-09-17T06:27:04+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1nib1py</id>
-    <title>Góc thắc mắc</title>
-    <updated>2025-09-16T07:36:45+00:00</updated>
-    <author>
-      <name>/u/Embarrassed_Dig_6652</name>
-      <uri>https://old.reddit.com/user/Embarrassed_Dig_6652</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;có ai thấy từ năm 2019 trở đi thời gian trôi qua rất nhanh không, 6 năm trôi qua rồi mà cảm giác như mới mấy tháng hay do mxh tiktok phát triển &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Embarrassed_Dig_6652"&gt; /u/Embarrassed_Dig_6652 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nib1py/góc_thắc_mắc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nib1py/góc_thắc_mắc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nib1py/góc_thắc_mắc/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-16T07:36:45+00:00</published>
-  </entry>
   <entry>
     <id>t3_1niku74</id>
     <title>Ngành vật lý kỹ thuật</title>
@@ -32,6 +19,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1niku74/ngành_vật_lý_kỹ_thuật/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-16T15:35:02+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1niafo3</id>
+    <title>Web developer làm gì sau 30 tuổi ?</title>
+    <updated>2025-09-16T06:57:08+00:00</updated>
+    <author>
+      <name>/u/Extension_Piece_1353</name>
+      <uri>https://old.reddit.com/user/Extension_Piece_1353</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em mới làm dev web mảng FE được khoảng 2 năm. Nhiều khi thấy mấy anh trên công ty bảo là tuổi nghề dev không cao, trung bình tầm 35 thôi, một số anh chị sau 30 tuổi còn bỏ nghề đi buôn cơ. Nên em cũng đang không biết mai sau em nên chọn theo hướng nào. Theo như anh chị trên cty kể chuyện thì bọn em có 3 hướng: 1 là đi sâu tiếp vào công nghệ làm techlead (về sau lên Architect thì nhàn hơn), 2 là trình lên cao rồi (middle, senior) thì có thể chuyển sang làm PM, 3 là mai sau đi buôn-cái này khá mông lung.&lt;br /&gt; Mọi người cho em xin tư vấn đề chuẩn bị cho định hướng sau này với ạ. Em lo lắng ko biết là techlead thì làm đc bao lâu vì phải cập nhật công nghệ liên tục để ko bị đào thải; còn PM thì ko biết có khó khăn gì ko, kiếm việc dễ không vì hình như nó phụ thuộc khá nhiều vào công ty,....&lt;br /&gt; Em muốn xác định hướng đi sau này để còn biết cần chuẩn bị điều gì ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Extension_Piece_1353"&gt; /u/Extension_Piece_1353 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1niafo3/web_developer_làm_gì_sau_30_tuổi/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1niafo3/web_developer_làm_gì_sau_30_tuổi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1niafo3/web_developer_làm_gì_sau_30_tuổi/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-16T06:57:08+00:00</published>
   </entry>
   <entry>
     <id>t3_1niwgeq</id>
@@ -58,19 +58,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nilund/lcp_đà_nẵng/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-16T16:12:55+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1niy48a</id>
-    <title>Looking for feedback on my stock portfolio! 🤑</title>
-    <updated>2025-09-17T00:05:11+00:00</updated>
-    <author>
-      <name>/u/NeedleworkerCandid80</name>
-      <uri>https://old.reddit.com/user/NeedleworkerCandid80</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1niy48a/looking_for_feedback_on_my_stock_portfolio/"&gt; &lt;img alt="Looking for feedback on my stock portfolio! 🤑" src="https://preview.redd.it/orixpspb9mpf1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=32166b1896b0d806696f0a062594a42604815793" title="Looking for feedback on my stock portfolio! 🤑" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/NeedleworkerCandid80"&gt; /u/NeedleworkerCandid80 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/orixpspb9mpf1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1niy48a/looking_for_feedback_on_my_stock_portfolio/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1niy48a/looking_for_feedback_on_my_stock_portfolio/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-17T00:05:11+00:00</published>
   </entry>
   <entry>
     <id>t3_1nianwr</id>
@@ -112,19 +99,6 @@
     <published>2025-09-16T10:29:01+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nili6y</id>
-    <title>Duy trì sức khỏe, thể chất</title>
-    <updated>2025-09-16T16:00:14+00:00</updated>
-    <author>
-      <name>/u/Top-Life-2709</name>
-      <uri>https://old.reddit.com/user/Top-Life-2709</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình nhận thấy đa số mọi người, chẳng ai có thể dành tận vài tiếng mỗi ngày để tập gym cả, và cũng có đáng kể nhưng người thể lực không cao, tim mạch yếu, tinh thần không đáp ứng như trầm cảm,... để có thể dành nhiều thời gian cho tập luyện mỗi ngày. Có ai ở đây biết những bài tập nhẹ, dễ làm, ít thời gian, có thể làm mỗi ngày để duy trì thể lực, hệ miễn dịch, và cải thiện tâm trạng không?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Top-Life-2709"&gt; /u/Top-Life-2709 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nili6y/duy_trì_sức_khỏe_thể_chất/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nili6y/duy_trì_sức_khỏe_thể_chất/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nili6y/duy_trì_sức_khỏe_thể_chất/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-16T16:00:14+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nj2pw3</id>
     <title>Mọi người dùng WiFi bên nào oke nhỉ</title>
     <updated>2025-09-17T03:43:59+00:00</updated>
@@ -136,6 +110,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nj2pw3/mọi_người_dùng_wifi_bên_nào_oke_nhỉ/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-17T03:43:59+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nili6y</id>
+    <title>Duy trì sức khỏe, thể chất</title>
+    <updated>2025-09-16T16:00:14+00:00</updated>
+    <author>
+      <name>/u/Top-Life-2709</name>
+      <uri>https://old.reddit.com/user/Top-Life-2709</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình nhận thấy đa số mọi người, chẳng ai có thể dành tận vài tiếng mỗi ngày để tập gym cả, và cũng có đáng kể nhưng người thể lực không cao, tim mạch yếu, tinh thần không đáp ứng như trầm cảm,... để có thể dành nhiều thời gian cho tập luyện mỗi ngày. Có ai ở đây biết những bài tập nhẹ, dễ làm, ít thời gian, có thể làm mỗi ngày để duy trì thể lực, hệ miễn dịch, và cải thiện tâm trạng không?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Top-Life-2709"&gt; /u/Top-Life-2709 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nili6y/duy_trì_sức_khỏe_thể_chất/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nili6y/duy_trì_sức_khỏe_thể_chất/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nili6y/duy_trì_sức_khỏe_thể_chất/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-16T16:00:14+00:00</published>
   </entry>
   <entry>
     <id>t3_1nj3e9c</id>
@@ -190,6 +177,19 @@
     <published>2025-09-17T01:47:46+00:00</published>
   </entry>
   <entry>
+    <id>t3_1nj5khq</id>
+    <title>App hướng dẫn workout</title>
+    <updated>2025-09-17T06:23:14+00:00</updated>
+    <author>
+      <name>/u/New_Yogurtcloset_487</name>
+      <uri>https://old.reddit.com/user/New_Yogurtcloset_487</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Ae có ai dùng app hướng dẫn tập gym ko, cho mình xin recommend ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/New_Yogurtcloset_487"&gt; /u/New_Yogurtcloset_487 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj5khq/app_hướng_dẫn_workout/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj5khq/app_hướng_dẫn_workout/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nj5khq/app_hướng_dẫn_workout/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-17T06:23:14+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1nija4e</id>
     <title>Đi xe bus</title>
     <updated>2025-09-16T14:37:24+00:00</updated>
@@ -229,19 +229,6 @@
     <published>2025-09-16T13:20:28+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nisfka</id>
-    <title>Làm sao biết một người vợ/bạn gái tốt phù hợp nhiều năm</title>
-    <updated>2025-09-16T20:14:20+00:00</updated>
-    <author>
-      <name>/u/dragon_Mai</name>
-      <uri>https://old.reddit.com/user/dragon_Mai</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Xin các cao nhân chỉ giáo kinh nghiệm…. Khi nào thì bạn gái không còn phù hợp nữa… ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/dragon_Mai"&gt; /u/dragon_Mai &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nisfka/làm_sao_biết_một_người_vợbạn_gái_tốt_phù_hợp/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nisfka/làm_sao_biết_một_người_vợbạn_gái_tốt_phù_hợp/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nisfka/làm_sao_biết_một_người_vợbạn_gái_tốt_phù_hợp/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-16T20:14:20+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nj438d</id>
     <title>Vốn 10tr thì nên kinh doanh sản phẩm nhỏ nào ạ ?</title>
     <updated>2025-09-17T04:56:43+00:00</updated>
@@ -253,6 +240,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nj438d/vốn_10tr_thì_nên_kinh_doanh_sản_phẩm_nhỏ_nào_ạ/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-17T04:56:43+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nisfka</id>
+    <title>Làm sao biết một người vợ/bạn gái tốt phù hợp nhiều năm</title>
+    <updated>2025-09-16T20:14:20+00:00</updated>
+    <author>
+      <name>/u/dragon_Mai</name>
+      <uri>https://old.reddit.com/user/dragon_Mai</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Xin các cao nhân chỉ giáo kinh nghiệm…. Khi nào thì bạn gái không còn phù hợp nữa… ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/dragon_Mai"&gt; /u/dragon_Mai &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nisfka/làm_sao_biết_một_người_vợbạn_gái_tốt_phù_hợp/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nisfka/làm_sao_biết_một_người_vợbạn_gái_tốt_phù_hợp/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nisfka/làm_sao_biết_một_người_vợbạn_gái_tốt_phù_hợp/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-16T20:14:20+00:00</published>
   </entry>
   <entry>
     <id>t3_1nj1t0g</id>
@@ -268,6 +268,19 @@
     <published>2025-09-17T02:58:19+00:00</published>
   </entry>
   <entry>
+    <id>t3_1nj58du</id>
+    <title>t đang ôm em bé 3 tháng trong khi thằng ny t đi “kết bạn” với người khác</title>
+    <updated>2025-09-17T06:03:19+00:00</updated>
+    <author>
+      <name>/u/Past-Engineering-660</name>
+      <uri>https://old.reddit.com/user/Past-Engineering-660</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1nj58du/t_đang_ôm_em_bé_3_tháng_trong_khi_thằng_ny_t_đi/"&gt; &lt;img alt="t đang ôm em bé 3 tháng trong khi thằng ny t đi “kết bạn” với người khác" src="https://preview.redd.it/dobqkiw71opf1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=81aec960fc9498d3df93f73cba6179b2fd9f74c2" title="t đang ôm em bé 3 tháng trong khi thằng ny t đi “kết bạn” với người khác" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;t đang ôm con 3 tháng, về nhà mẹ đẻ ở cử. trước kia khi t bầu xảy ra xích mích nên t không đkkh. bh ng yêu t ở trên sg đi làm, môi ngày nhắn vài câu hỏi thăm con, thấy tình cảm cũng k còn, nch dễ gây nhau nên hạn chế nhắn tin. cho đến khi t stalk nó thấy nó đi “kết bạn” với ng mới, đánh đàn uống bia hút thuốc như thể đang bấu víu chữ tự do. t nhắn cho bạn nữ, bạn nữ kêu biết nó qua tinder và cũng chỉ đi kiếm bạn giết thời gian. nó về dc mỗi tháng 1-2 lần, mỗi lần 2 ngày. khi t bảo với mẹ nó, đây là thứ mẹ nó trả lời. bây thấy t phải nghĩ sao &lt;sup&gt;^&lt;/sup&gt; t tủi lắm, quanh quẩn chỉ có con, bạn của t là bức tường. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Past-Engineering-660"&gt; /u/Past-Engineering-660 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/dobqkiw71opf1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj58du/t_đang_ôm_em_bé_3_tháng_trong_khi_thằng_ny_t_đi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nj58du/t_đang_ôm_em_bé_3_tháng_trong_khi_thằng_ny_t_đi/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-17T06:03:19+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1nj0ble</id>
     <title>Mắt 3,5 có phải di nvqs không?</title>
     <updated>2025-09-17T01:47:08+00:00</updated>
@@ -281,17 +294,17 @@
     <published>2025-09-17T01:47:08+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nj2js7</id>
-    <title>Làm sao xin miễn lãi thẻ tín dụng?</title>
-    <updated>2025-09-17T03:35:27+00:00</updated>
+    <id>t3_1nif6z5</id>
+    <title>Bị giảng viên đuổi khỏi lớp học</title>
+    <updated>2025-09-16T11:47:29+00:00</updated>
     <author>
-      <name>/u/RespondBeneficial388</name>
-      <uri>https://old.reddit.com/user/RespondBeneficial388</uri>
+      <name>/u/Pitiful_Afternoon111</name>
+      <uri>https://old.reddit.com/user/Pitiful_Afternoon111</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình có nhiều khoản nợ thẻ tín dụng, nợ 2 3 năm nay rồi. Bây giờ mới có khả năng trả. Nếu mà xin miễn lãi tất cả thành công thì chắc 1 2 tháng tới là mình trả xong. Nhưng tình hình là bên thu hồi nợ của mấy ngân hàng này ko chịu miễn lãi. Thế này chắc còn lâu mình mới tất toán xong. Có ae nào có kinh nghiệm xin miễn lãi thẻ tín dụng ko chỉ mình với ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/RespondBeneficial388"&gt; /u/RespondBeneficial388 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj2js7/làm_sao_xin_miễn_lãi_thẻ_tín_dụng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj2js7/làm_sao_xin_miễn_lãi_thẻ_tín_dụng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nj2js7/làm_sao_xin_miễn_lãi_thẻ_tín_dụng/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, hiện em đang là sinh viên năm 2 của một trường đại học ở Thủ Đức. Chuyện sẽ chẳng có gì phải khiến em lên đây kể nếu như em không bị đuổi khỏi lớp chỉ vì ngáp nhiều (cỡ 4-5 lần) trong buổi học 4 tiếng. Từ đầu buổi thì thầy đã phổ cập các nội quy do thầy tự đặt ra và trong đó có mấy cái việc kiểu thầy sẽ yêu cầu ra khỏi lớp học nếu ngủ gục, chơi đt, để thầy chỉ mà trả lời không được, để thầy chỉ mới trả lời… Mọi người thấy khá là vô lí nhưng do ai cũng nghe qua danh thầy nên bị sợ, không phản bác. Sau khi bị mời ra ngoài vì ngáp nhiều xong thì em khá bức xúc. Việc giảng viên mời sinh viên ra ngoài như vậy thì có hợp lí không ạ ? Nếu không thì em có nên khiếu nại với trường không ạ ? :v&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Pitiful_Afternoon111"&gt; /u/Pitiful_Afternoon111 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nif6z5/bị_giảng_viên_đuổi_khỏi_lớp_học/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nif6z5/bị_giảng_viên_đuổi_khỏi_lớp_học/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nif6z5/bị_giảng_viên_đuổi_khỏi_lớp_học/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-17T03:35:27+00:00</published>
+    <published>2025-09-16T11:47:29+00:00</published>
   </entry>
   <entry>
     <id>t3_1nj4fmv</id>
@@ -305,19 +318,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nj4fmv/ở_sg_vốn_khoảng_200tr_thì_mình_nên_kinh_doanh_gì_ạ/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-17T05:16:50+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1nif6z5</id>
-    <title>Bị giảng viên đuổi khỏi lớp học</title>
-    <updated>2025-09-16T11:47:29+00:00</updated>
-    <author>
-      <name>/u/Pitiful_Afternoon111</name>
-      <uri>https://old.reddit.com/user/Pitiful_Afternoon111</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, hiện em đang là sinh viên năm 2 của một trường đại học ở Thủ Đức. Chuyện sẽ chẳng có gì phải khiến em lên đây kể nếu như em không bị đuổi khỏi lớp chỉ vì ngáp nhiều (cỡ 4-5 lần) trong buổi học 4 tiếng. Từ đầu buổi thì thầy đã phổ cập các nội quy do thầy tự đặt ra và trong đó có mấy cái việc kiểu thầy sẽ yêu cầu ra khỏi lớp học nếu ngủ gục, chơi đt, để thầy chỉ mà trả lời không được, để thầy chỉ mới trả lời… Mọi người thấy khá là vô lí nhưng do ai cũng nghe qua danh thầy nên bị sợ, không phản bác. Sau khi bị mời ra ngoài vì ngáp nhiều xong thì em khá bức xúc. Việc giảng viên mời sinh viên ra ngoài như vậy thì có hợp lí không ạ ? Nếu không thì em có nên khiếu nại với trường không ạ ? :v&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Pitiful_Afternoon111"&gt; /u/Pitiful_Afternoon111 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nif6z5/bị_giảng_viên_đuổi_khỏi_lớp_học/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nif6z5/bị_giảng_viên_đuổi_khỏi_lớp_học/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nif6z5/bị_giảng_viên_đuổi_khỏi_lớp_học/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-16T11:47:29+00:00</published>
   </entry>
   <entry>
     <id>t3_1nizo47</id>
