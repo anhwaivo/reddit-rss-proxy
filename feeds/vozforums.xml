@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-09-17T20:50:31+00:00</updated>
+  <updated>2025-09-17T21:14:52+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1njgzlj</id>
-    <title>Lời khuyên sắp xong khoá học it</title>
-    <updated>2025-09-17T15:55:23+00:00</updated>
-    <author>
-      <name>/u/Samuel_Who</name>
-      <uri>https://old.reddit.com/user/Samuel_Who</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Đồ án kỳ cuối này e làm microservice vừa springboot (web) và vừa code mobile Flutter em cũng chuẩn bị xong khoá full stack dự định tháng 12 xong sẽ đi xin việc, anh em có kinh nghiệm gì hay lời khuyên gì không hay khi ra trường mình nắm vững các kiến thức gì vì gì e cx bt chung chung&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Samuel_Who"&gt; /u/Samuel_Who &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1njgzlj/lời_khuyên_sắp_xong_khoá_học_it/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1njgzlj/lời_khuyên_sắp_xong_khoá_học_it/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1njgzlj/lời_khuyên_sắp_xong_khoá_học_it/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-17T15:55:23+00:00</published>
-  </entry>
   <entry>
     <id>t3_1njhl0j</id>
     <title>đúng là rất khó</title>
@@ -188,6 +175,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nj6aec/dự_định_học_automation_test_để_nhảy_việc_đầu_năm/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-17T07:08:21+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1njpgnh</id>
+    <title>Thuê chung cư HN</title>
+    <updated>2025-09-17T21:12:50+00:00</updated>
+    <author>
+      <name>/u/ducbomeomeo</name>
+      <uri>https://old.reddit.com/user/ducbomeomeo</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác, em hiện tại đang làm IT remote 100% cho 1 cty bên Mẽo &lt;/p&gt; &lt;p&gt;Hiện em đang nghĩ đến việc nâng cấp cuộc sống, nên muốn tìm chung cư nào trong nội thành HN để ở 1 mình, vừa là không gian sinh hoạt vừa làm việc luôn&lt;/p&gt; &lt;p&gt;Mong được các bác tư vấn ạ!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ducbomeomeo"&gt; /u/ducbomeomeo &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1njpgnh/thuê_chung_cư_hn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1njpgnh/thuê_chung_cư_hn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1njpgnh/thuê_chung_cư_hn/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-17T21:12:50+00:00</published>
   </entry>
   <entry>
     <id>t3_1nj4fmv</id>
