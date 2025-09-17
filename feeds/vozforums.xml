@@ -2,37 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-09-17T07:16:36+00:00</updated>
+  <updated>2025-09-17T07:37:35+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1niwgeq</id>
-    <title>K3 max led thì sao các bác ơi e cần dùng để nhập code và tin học văn phòng</title>
-    <updated>2025-09-16T22:52:54+00:00</updated>
-    <author>
-      <name>/u/PlusFlight2861</name>
-      <uri>https://old.reddit.com/user/PlusFlight2861</uri>
-    </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/PlusFlight2861"&gt; /u/PlusFlight2861 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1niwgeq/k3_max_led_thì_sao_các_bác_ơi_e_cần_dùng_để_nhập/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1niwgeq/k3_max_led_thì_sao_các_bác_ơi_e_cần_dùng_để_nhập/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1niwgeq/k3_max_led_thì_sao_các_bác_ơi_e_cần_dùng_để_nhập/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-16T22:52:54+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1nilund</id>
-    <title>LCP Đà Nẵng</title>
-    <updated>2025-09-16T16:12:55+00:00</updated>
-    <author>
-      <name>/u/Nongnoc23</name>
-      <uri>https://old.reddit.com/user/Nongnoc23</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Có fen nào đi xem LCP Đà Nẵng 1 mình k? Hoặc fen nào ở Đà Nẵng mê lol kết bạn đi ăn uống bia k? Tui boy ở Phan Thiết 1 mình ra ĐN, ước gì có bợm nào dắt đi nhậu mấy quán ruột ở ĐN thì hết xảy. Tui được ở lại đêm 19, 20, 21 tháng 9. Mong được giao lưu kết bạn ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Nongnoc23"&gt; /u/Nongnoc23 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nilund/lcp_đà_nẵng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nilund/lcp_đà_nẵng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nilund/lcp_đà_nẵng/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-16T16:12:55+00:00</published>
-  </entry>
   <entry>
     <id>t3_1nianwr</id>
     <title>Học IT nhưng code yếu thì nên chuyển hướng sang mảng gì ?</title>
@@ -177,19 +151,6 @@
     <published>2025-09-17T02:58:19+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nj6aec</id>
-    <title>Dự định học Automation Test để nhảy việc đầu năm sau – xin lời khuyên từ mọi người</title>
-    <updated>2025-09-17T07:08:21+00:00</updated>
-    <author>
-      <name>/u/Heavy-Fun7192</name>
-      <uri>https://old.reddit.com/user/Heavy-Fun7192</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người,&lt;/p&gt; &lt;p&gt;Em là nữ 24 tuổi, hiện đang làm manual tester hơn 2 năm, chủ yếu test web/app, viết testcase, SQL và một chút API. Gần đây em có tự học Java for tester để làm nền tảng cho automation, thấy cũng tiếp thu được. Em dự định đăng ký một khóa học automation test vào cuối tháng 9 này để học bài bản hơn.&lt;/p&gt; &lt;p&gt;Kế hoạch là:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Từ giờ đến cuối năm tập trung học automation (Java + Selenium hoặc framework liên quan).&lt;/li&gt; &lt;li&gt;Xây dựng vài project nhỏ để có cái show trong CV.&lt;/li&gt; &lt;li&gt;Đầu năm sau thì apply job, hướng tới vị trí automation hoặc manual + auto tester.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Điều em băn khoăn là:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Vì công ty hiện tại vẫn chỉ để em làm manual, nên gần như sẽ không có môi trường thực hành automation thực tế.&lt;/li&gt; &lt;li&gt;Chỉ có thể tự học, tự làm project cá nhân, lead em có biết automation nhưng ít chia sẻ kinh nghiệm&lt;/li&gt; &lt;li&gt;Liệu với khoảng vài tháng học + project tự làm, thì đầu năm sau cơ hội có job automation (hoặc hybrid manual + auto) có khả thi không?&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Công ty em thì cũng không phải công ty lớn, nhưng mới trúng một dự án banking khá lớn, em cũng khá hứng thú với mảng này nhưng hiện tại chưa dev xong nên cũng chưa định hình được dự án test như nào. Tuy nhiên team em chủ yếu vẫn làm mảng Salesforce và thiên về manual nên em không có cơ hội thử automation trong môi trường thực tế.&lt;/p&gt; &lt;p&gt;Em muốn hỏi anh chị em đã từng chuyển từ manual sang auto:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Bao lâu thì mọi người có thể xin được job automation đầu tiên?&lt;/li&gt; &lt;li&gt;Có tips gì để vừa học vừa làm CV nổi bật hơn không?&lt;/li&gt; &lt;li&gt;Có nên apply job auto sớm để “thử lửa” hay chờ tới khi tự tin hơn mới apply ạ?&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Em cảm ơn và mong nhận được chia sẻ cũng như lời khuyên của mọi người ạ. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Heavy-Fun7192"&gt; /u/Heavy-Fun7192 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj6aec/dự_định_học_automation_test_để_nhảy_việc_đầu_năm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj6aec/dự_định_học_automation_test_để_nhảy_việc_đầu_năm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nj6aec/dự_định_học_automation_test_để_nhảy_việc_đầu_năm/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-17T07:08:21+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nj6ecn</id>
     <title>Có công việc ổn định thì nên đầu tư kinh doanh thêm gì?</title>
     <updated>2025-09-17T07:15:23+00:00</updated>
@@ -203,17 +164,17 @@
     <published>2025-09-17T07:15:23+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nija4e</id>
-    <title>Đi xe bus</title>
-    <updated>2025-09-16T14:37:24+00:00</updated>
+    <id>t3_1nj6l8y</id>
+    <title>Tìm việc tiếng anh+tiếng nhật ở TPHCM có khó không?</title>
+    <updated>2025-09-17T07:27:40+00:00</updated>
     <author>
-      <name>/u/PralineExact3966</name>
-      <uri>https://old.reddit.com/user/PralineExact3966</uri>
+      <name>/u/TypicalDuty526</name>
+      <uri>https://old.reddit.com/user/TypicalDuty526</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình là nữ, sv. Hôm qua đi xe bus vừa chật vừa đông, hầu hết là sv về ktx. Ngay sau là một bạn nam, nhìn hơi thừa cân, cận và… có thể các bạn sẽ hiểu mô tả của mình…, lúc đầu lên mình không để ý lắm có chỗ đứng là đc. Sau đó mấy lúc mình quay sang phải thì thấy tay bạn ấy kiểu để hờ trên không như quàng qua vai mình, để rất gần, xong ngón tay cử động kiểu chần như muốn chạm vào. Cuối cùng thì cũng không chạm vào, nhưng trong lúc đó mình run cực kì. Mình cũng tự hỏi có đang overthinking ko, nhưng trên xe bus thì tay để như vậy để làm gì, không mỏi hả, mình còn quay qua quay lại như muốn xác nhận nhiều lần, thì bạn ấy có để tay xuống. Ai có kinh nghiệm trong việc này ko ạ, mình từng gặp bái thiến real nên bị nhạy cảm và ám ảnh dữ lắm 🥲 &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/PralineExact3966"&gt; /u/PralineExact3966 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nija4e/đi_xe_bus/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nija4e/đi_xe_bus/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nija4e/đi_xe_bus/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào ae. Sắp tới đây m sẽ từ nc ngoài về VN để làm cho cty hiện tại . lương 5x làm giờ hành chính. Luật cty ko cho làm thêm việc khác. Nhưng mình muốn kiếm thêm. Không biết là với khả năng thành thạo Tiếng Anh và Tiếng Nhật có kiếm đc việc gì tối lại hoặc cuối tuần làm online,ofline không báo thuế ở Tphcm không ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/TypicalDuty526"&gt; /u/TypicalDuty526 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj6l8y/tìm_việc_tiếng_anhtiếng_nhật_ở_tphcm_có_khó_không/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj6l8y/tìm_việc_tiếng_anhtiếng_nhật_ở_tphcm_có_khó_không/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nj6l8y/tìm_việc_tiếng_anhtiếng_nhật_ở_tphcm_có_khó_không/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-16T14:37:24+00:00</published>
+    <published>2025-09-17T07:27:40+00:00</published>
   </entry>
   <entry>
     <id>t3_1nj2pw3</id>
@@ -227,6 +188,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nj2pw3/mọi_người_dùng_wifi_bên_nào_oke_nhỉ/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-17T03:43:59+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nija4e</id>
+    <title>Đi xe bus</title>
+    <updated>2025-09-16T14:37:24+00:00</updated>
+    <author>
+      <name>/u/PralineExact3966</name>
+      <uri>https://old.reddit.com/user/PralineExact3966</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình là nữ, sv. Hôm qua đi xe bus vừa chật vừa đông, hầu hết là sv về ktx. Ngay sau là một bạn nam, nhìn hơi thừa cân, cận và… có thể các bạn sẽ hiểu mô tả của mình…, lúc đầu lên mình không để ý lắm có chỗ đứng là đc. Sau đó mấy lúc mình quay sang phải thì thấy tay bạn ấy kiểu để hờ trên không như quàng qua vai mình, để rất gần, xong ngón tay cử động kiểu chần như muốn chạm vào. Cuối cùng thì cũng không chạm vào, nhưng trong lúc đó mình run cực kì. Mình cũng tự hỏi có đang overthinking ko, nhưng trên xe bus thì tay để như vậy để làm gì, không mỏi hả, mình còn quay qua quay lại như muốn xác nhận nhiều lần, thì bạn ấy có để tay xuống. Ai có kinh nghiệm trong việc này ko ạ, mình từng gặp bái thiến real nên bị nhạy cảm và ám ảnh dữ lắm 🥲 &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/PralineExact3966"&gt; /u/PralineExact3966 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nija4e/đi_xe_bus/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nija4e/đi_xe_bus/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nija4e/đi_xe_bus/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-16T14:37:24+00:00</published>
   </entry>
   <entry>
     <id>t3_1nihb9p</id>
@@ -268,6 +242,19 @@
     <published>2025-09-17T04:56:43+00:00</published>
   </entry>
   <entry>
+    <id>t3_1nj6lki</id>
+    <title>Em cần tư vấn 1 mẫu laptop 7 triệu ạ</title>
+    <updated>2025-09-17T07:28:15+00:00</updated>
+    <author>
+      <name>/u/Think_Turnover_1283</name>
+      <uri>https://old.reddit.com/user/Think_Turnover_1283</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Dạ,laptop thì em ưu tiên mỏng nhẹ ,màn đẹp xíu vì em lập trình nên nhìn lâu ạ,ram thì em mong mainboard hỗ trợ 32gb để em nâng cấp(vì em hai mở nhiều tab và quên tắt nên 8gb 16gb hay bị treo)ssd thì em cũng sẽ tự nâng lên 1tb luôn nên không đặt nặng phần dung lượng,máy thì em hy vọng máy chạy ổn LOL ,vì kinh phí hạn hẹp nên em chỉ muốn chủ yếu máy mỏng nhẹ,mainboard hỗ trợ nâng cấp,màn tốt xíu để nhìn lâu còn lại như chuột,phím,game,ram,ssd thì em tự nâng được.&lt;/p&gt; &lt;p&gt;Các bác giới thiệu em hàng xách tay hay chính hãng cũng được ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Think_Turnover_1283"&gt; /u/Think_Turnover_1283 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj6lki/em_cần_tư_vấn_1_mẫu_laptop_7_triệu_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj6lki/em_cần_tư_vấn_1_mẫu_laptop_7_triệu_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nj6lki/em_cần_tư_vấn_1_mẫu_laptop_7_triệu_ạ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-17T07:28:15+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1nj0ble</id>
     <title>Mắt 3,5 có phải di nvqs không?</title>
     <updated>2025-09-17T01:47:08+00:00</updated>
@@ -294,17 +281,17 @@
     <published>2025-09-16T11:47:29+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nj58du</id>
-    <title>t đang ôm em bé 3 tháng trong khi thằng ny t đi “kết bạn” với người khác</title>
-    <updated>2025-09-17T06:03:19+00:00</updated>
+    <id>t3_1nj6aec</id>
+    <title>Dự định học Automation Test để nhảy việc đầu năm sau – xin lời khuyên từ mọi người</title>
+    <updated>2025-09-17T07:08:21+00:00</updated>
     <author>
-      <name>/u/Past-Engineering-660</name>
-      <uri>https://old.reddit.com/user/Past-Engineering-660</uri>
+      <name>/u/Heavy-Fun7192</name>
+      <uri>https://old.reddit.com/user/Heavy-Fun7192</uri>
     </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1nj58du/t_đang_ôm_em_bé_3_tháng_trong_khi_thằng_ny_t_đi/"&gt; &lt;img alt="t đang ôm em bé 3 tháng trong khi thằng ny t đi “kết bạn” với người khác" src="https://preview.redd.it/dobqkiw71opf1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=81aec960fc9498d3df93f73cba6179b2fd9f74c2" title="t đang ôm em bé 3 tháng trong khi thằng ny t đi “kết bạn” với người khác" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;t đang ôm con 3 tháng, về nhà mẹ đẻ ở cử. trước kia khi t bầu xảy ra xích mích nên t không đkkh. bh ng yêu t ở trên sg đi làm, môi ngày nhắn vài câu hỏi thăm con, thấy tình cảm cũng k còn, nch dễ gây nhau nên hạn chế nhắn tin. cho đến khi t stalk nó thấy nó đi “kết bạn” với ng mới, đánh đàn uống bia hút thuốc như thể đang bấu víu chữ tự do. t nhắn cho bạn nữ, bạn nữ kêu biết nó qua tinder và cũng chỉ đi kiếm bạn giết thời gian. nó về dc mỗi tháng 1-2 lần, mỗi lần 2 ngày. khi t bảo với mẹ nó, đây là thứ mẹ nó trả lời. bây thấy t phải nghĩ sao &lt;sup&gt;^&lt;/sup&gt; t tủi lắm, quanh quẩn chỉ có con, bạn của t là bức tường. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Past-Engineering-660"&gt; /u/Past-Engineering-660 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/dobqkiw71opf1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj58du/t_đang_ôm_em_bé_3_tháng_trong_khi_thằng_ny_t_đi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nj58du/t_đang_ôm_em_bé_3_tháng_trong_khi_thằng_ny_t_đi/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người,&lt;/p&gt; &lt;p&gt;Em là nữ 24 tuổi, hiện đang làm manual tester hơn 2 năm, chủ yếu test web/app, viết testcase, SQL và một chút API. Gần đây em có tự học Java for tester để làm nền tảng cho automation, thấy cũng tiếp thu được. Em dự định đăng ký một khóa học automation test vào cuối tháng 9 này để học bài bản hơn.&lt;/p&gt; &lt;p&gt;Kế hoạch là:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Từ giờ đến cuối năm tập trung học automation (Java + Selenium hoặc framework liên quan).&lt;/li&gt; &lt;li&gt;Xây dựng vài project nhỏ để có cái show trong CV.&lt;/li&gt; &lt;li&gt;Đầu năm sau thì apply job, hướng tới vị trí automation hoặc manual + auto tester.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Điều em băn khoăn là:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Vì công ty hiện tại vẫn chỉ để em làm manual, nên gần như sẽ không có môi trường thực hành automation thực tế.&lt;/li&gt; &lt;li&gt;Chỉ có thể tự học, tự làm project cá nhân, lead em có biết automation nhưng ít chia sẻ kinh nghiệm&lt;/li&gt; &lt;li&gt;Liệu với khoảng vài tháng học + project tự làm, thì đầu năm sau cơ hội có job automation (hoặc hybrid manual + auto) có khả thi không?&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Công ty em thì cũng không phải công ty lớn, nhưng mới trúng một dự án banking khá lớn, em cũng khá hứng thú với mảng này nhưng hiện tại chưa dev xong nên cũng chưa định hình được dự án test như nào. Tuy nhiên team em chủ yếu vẫn làm mảng Salesforce và thiên về manual nên em không có cơ hội thử automation trong môi trường thực tế.&lt;/p&gt; &lt;p&gt;Em muốn hỏi anh chị em đã từng chuyển từ manual sang auto:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Bao lâu thì mọi người có thể xin được job automation đầu tiên?&lt;/li&gt; &lt;li&gt;Có tips gì để vừa học vừa làm CV nổi bật hơn không?&lt;/li&gt; &lt;li&gt;Có nên apply job auto sớm để “thử lửa” hay chờ tới khi tự tin hơn mới apply ạ?&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Em cảm ơn và mong nhận được chia sẻ cũng như lời khuyên của mọi người ạ. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Heavy-Fun7192"&gt; /u/Heavy-Fun7192 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj6aec/dự_định_học_automation_test_để_nhảy_việc_đầu_năm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj6aec/dự_định_học_automation_test_để_nhảy_việc_đầu_năm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nj6aec/dự_định_học_automation_test_để_nhảy_việc_đầu_năm/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-17T06:03:19+00:00</published>
+    <published>2025-09-17T07:08:21+00:00</published>
   </entry>
   <entry>
     <id>t3_1nizo47</id>
@@ -331,5 +318,18 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nj4fmv/ở_sg_vốn_khoảng_200tr_thì_mình_nên_kinh_doanh_gì_ạ/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-17T05:16:50+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nj58du</id>
+    <title>t đang ôm em bé 3 tháng trong khi thằng ny t đi “kết bạn” với người khác</title>
+    <updated>2025-09-17T06:03:19+00:00</updated>
+    <author>
+      <name>/u/Past-Engineering-660</name>
+      <uri>https://old.reddit.com/user/Past-Engineering-660</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1nj58du/t_đang_ôm_em_bé_3_tháng_trong_khi_thằng_ny_t_đi/"&gt; &lt;img alt="t đang ôm em bé 3 tháng trong khi thằng ny t đi “kết bạn” với người khác" src="https://preview.redd.it/dobqkiw71opf1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=81aec960fc9498d3df93f73cba6179b2fd9f74c2" title="t đang ôm em bé 3 tháng trong khi thằng ny t đi “kết bạn” với người khác" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;t đang ôm con 3 tháng, về nhà mẹ đẻ ở cử. trước kia khi t bầu xảy ra xích mích nên t không đkkh. bh ng yêu t ở trên sg đi làm, môi ngày nhắn vài câu hỏi thăm con, thấy tình cảm cũng k còn, nch dễ gây nhau nên hạn chế nhắn tin. cho đến khi t stalk nó thấy nó đi “kết bạn” với ng mới, đánh đàn uống bia hút thuốc như thể đang bấu víu chữ tự do. t nhắn cho bạn nữ, bạn nữ kêu biết nó qua tinder và cũng chỉ đi kiếm bạn giết thời gian. nó về dc mỗi tháng 1-2 lần, mỗi lần 2 ngày. khi t bảo với mẹ nó, đây là thứ mẹ nó trả lời. bây thấy t phải nghĩ sao &lt;sup&gt;^&lt;/sup&gt; t tủi lắm, quanh quẩn chỉ có con, bạn của t là bức tường. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Past-Engineering-660"&gt; /u/Past-Engineering-660 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/dobqkiw71opf1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj58du/t_đang_ôm_em_bé_3_tháng_trong_khi_thằng_ny_t_đi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nj58du/t_đang_ôm_em_bé_3_tháng_trong_khi_thằng_ny_t_đi/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-17T06:03:19+00:00</published>
   </entry>
 </feed>
