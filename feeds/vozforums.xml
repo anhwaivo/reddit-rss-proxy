@@ -2,37 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-09-18T15:39:47+00:00</updated>
+  <updated>2025-09-18T15:50:30+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1nk0ntt</id>
-    <title>🚀 Enfyra - Platform tự động tạo REST + GraphQL API từ database schema</title>
-    <updated>2025-09-18T06:15:44+00:00</updated>
-    <author>
-      <name>/u/Affectionate-Safe515</name>
-      <uri>https://old.reddit.com/user/Affectionate-Safe515</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào ae dev Việt! 👋&lt;/p&gt; &lt;p&gt;Mình khá tệ trong việc viết lách nên nội dung bên dưới là 100% từ AI nha!!!&lt;/p&gt; &lt;p&gt;Mình vừa launch xong &lt;strong&gt;Enfyra&lt;/strong&gt; - một platform backend tự động generate REST và GraphQL APIs từ database schema của bạn, kèm admin interface để quản lý mọi thứ bằng giao diện.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Giải quyết vấn đề gì?&lt;/strong&gt; Chán viết CRUD operations lặp đi lặp lại mãi? Enfyra loại bỏ hết những việc lặp lại này:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Tạo table&lt;/strong&gt; → Tự động có REST endpoints + GraphQL schema&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Admin interface&lt;/strong&gt; → Quản lý data không cần code frontend&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Custom logic&lt;/strong&gt; → Override bằng JS/TS handlers khi cần&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Install packages runtime&lt;/strong&gt; → Cài NPM packages qua UI, không cần động vào package.json&lt;/li&gt; &lt;li&gt;&lt;p&gt;&lt;strong&gt;Zero downtime&lt;/strong&gt; → Thay đổi schema không làm crash API&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Cách hoạt động&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;1. Thiết kế cấu trúc data&lt;/strong&gt; Tạo tables qua admin interface - không cần SQL. Định nghĩa columns, relationships, constraints bằng giao diện.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;2. APIs được tạo tự động&lt;/strong&gt; Mỗi table ngay lập tức trở thành:&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Đầy đủ REST CRUD endpoints (&lt;code&gt;GET&lt;/code&gt;, &lt;code&gt;POST&lt;/code&gt;, &lt;code&gt;PATCH&lt;/code&gt;, &lt;code&gt;DELETE&lt;/code&gt;)&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;GraphQL schema&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Filtering, sorting, pagination, relation queries siêu xịn&lt;/p&gt; &lt;p&gt;&lt;strong&gt;3. Customize khi cần&lt;/strong&gt; Viết JavaScript handlers cho business logic:&lt;/p&gt; &lt;p&gt;// Custom route handler - code trực tiếp, không cần wrapper function const slug = $ctx.$helpers.autoSlug($ctx.$body.title) const result = await $ctx.$repos.posts.create({ ...$ctx.$body, slug, authorId: $ctx.$user.id, publishedAt: new Date() }) return result&lt;/p&gt; &lt;p&gt;&lt;strong&gt;4. Install packages runtime&lt;/strong&gt; Cần thư viện ngoài? Install NPM packages trực tiếp qua UI:&lt;/p&gt; &lt;p&gt;// Install axios, lodash, moment qua admin interface // Xong dùng ngay trong handlers:&lt;/p&gt; &lt;p&gt;const axios = $ctx.$pkgs.axios const _ = $ctx.$pkgs.lodash const moment = $ctx.$pkgs.moment&lt;/p&gt; &lt;p&gt;// Fetch data từ API ngoài và xử lý const response = await axios.get('&lt;a href="https://api.external.com/data&amp;#x27;"&gt;https://api.external.com/data'&lt;/a&gt;) const grouped = _.groupBy(response.data, 'category')&lt;/p&gt; &lt;p&gt;return { data: grouped, timestamp: moment().format('YYYY-MM-DD HH:mm:ss') }&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Tech Stack&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Backend (NestJS + TypeScript)&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;TypeORM cho database (MySQL, PostgreSQL, SQLite)&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Redis cho caching và sync multi-instance&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;GraphQL Yoga cho GraphQL server&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Sandboxed execution cho security&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Dynamic entity generation&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Frontend (Nuxt 4 + Vue 3)&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;TailwindCSS + Nuxt UI&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Dynamic form generation&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Extension system với live compilation&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Khác biệt gì so với các platform khác?&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;🚀 Bắt đầu đơn giản, scale phức tạp&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Khởi đầu với no-code table creation&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Thêm custom logic dần dần&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Không bao giờ bị giới hạn bởi platform&lt;/p&gt; &lt;p&gt;&lt;strong&gt;🔓 Full API access&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Data không bị nhốt trong hệ thống proprietary&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Standard REST và GraphQL endpoints&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Dùng bất kỳ frontend framework nào&lt;/p&gt; &lt;p&gt;&lt;strong&gt;📦 Runtime package installation&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Install NPM packages qua admin UI&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Packages ngay lập tức có trong handlers: &lt;code&gt;$ctx.$pkgs.packagename&lt;/code&gt;&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Không cần restart server&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Các packages phổ biến: axios, lodash, moment, joi, uuid, bcrypt.... bất kỳ thứ gì&lt;/p&gt; &lt;p&gt;&lt;strong&gt;⚡ Real-time mọi thứ&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Thay đổi schema reflect ngay trong API&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Extensions compile và load từ database&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Multi-instance sync qua Redis&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Use cases thực tế&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;E-commerce Backend&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Products, categories, orders, customers&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Quản lý inventory với cảnh báo hết hàng&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Custom pricing logic và tính discount&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Content Management&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Blog posts, pages, quản lý media&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Multi-language content&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;SEO optimization&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Business Applications&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;CRM với workflow automation&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Project management với time tracking&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Hệ thống inventory với barcode scanning&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Third-party Integrations&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Payment với Stripe SDK&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Email với Nodemailer&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;SMS với Twilio&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Cloud storage với AWS SDK&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Performance &amp;amp; Scale&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Intelligent Caching&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;SWR pattern cho performance tối ưu&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Route-level caching với auto invalidation&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Database connection pooling&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Multi-instance Architecture&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Chạy nhiều servers với auto schema sync&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Compatible với load balancer&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Stateless design với Redis coordination&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Có gì trong v0.1.0-beta&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;✅ &lt;strong&gt;Backend Repository&lt;/strong&gt; (Elastic License 2.0)&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Complete API generation engine&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Custom handler system&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Runtime NPM package installation&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Multi-database support&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Production-ready authentication&lt;/p&gt; &lt;p&gt;✅ &lt;strong&gt;Frontend Repository&lt;/strong&gt; (MIT License)&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Visual admin interface&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Real-time schema management&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Package management UI&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Extension marketplace foundation&lt;/p&gt; &lt;p&gt;✅ &lt;strong&gt;Documentation đầy đủ&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Hướng dẫn setup từng bước&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;API reference và examples&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Tutorials sử dụng packages&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Guides phát triển extensions&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;&lt;strong&gt;Documentation:&lt;/strong&gt; &lt;a href="https://github.com/dothinh115/enfyra-docs"&gt;https://github.com/dothinh115/enfyra-docs&lt;/a&gt;&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;&lt;strong&gt;Live demo:&lt;/strong&gt; &lt;a href="https://demo.enfyra.io"&gt;https://demo.enfyra.io&lt;/a&gt; (Mình đã điền tài khoản và mật khẩu, click login ngay khi vào trang)&lt;/p&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Đây là open source project đầu tiên của mình - giải quyết việc lặp lại backend work mà mình hay gặp trong các client projects. Mục tiêu là loại bỏ những phần boring của backend development nhưng vẫn giữ được flexibility cho requirements phức tạp.&lt;/p&gt; &lt;p&gt;Feature runtime package installation đặc biệt powerful - bạn có thể install axios, lodash, stripe SDK, hoặc bất kỳ NPM package nào qua UI và dùng ngay trong custom handlers mà không cần config server gì cả.&lt;/p&gt; &lt;p&gt;Beta đã sẵn sàng để test và nhận feedback. Rất mong được nghe ý kiến từ anh em dev Việt Nam! 🚀&lt;/p&gt; &lt;p&gt;Mình cũng đang tìm contributors và early adopters để cùng phát triển project này. Welcome mọi người!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Affectionate-Safe515"&gt; /u/Affectionate-Safe515 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nk0ntt/enfyra_platform_tự_động_tạo_rest_graphql_api_từ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nk0ntt/enfyra_platform_tự_động_tạo_rest_graphql_api_từ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nk0ntt/enfyra_platform_tự_động_tạo_rest_graphql_api_từ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-18T06:15:44+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1nk2s0y</id>
-    <title>Xin địa chỉ phòng gym giá rẻ quanh khu vực Trung Hòa, Trung Kính, Cầu Giấy</title>
-    <updated>2025-09-18T08:31:02+00:00</updated>
-    <author>
-      <name>/u/Good-Expression-4535</name>
-      <uri>https://old.reddit.com/user/Good-Expression-4535</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi các bác, em là nữ, chưa tiếp xúc với gym bao giờ. Dạo gần đây ngồi văn phòng nhiều thấy người có vẻ phị ra nên muốn tìm phòng tập gym. Các bác cho em xin chút thông tin về các phòng tập uy tín, giá hạt dẻ (dưới 400k/tháng) quanh Cầu Giấy với. &lt;/p&gt; &lt;p&gt;Các bác gợi ý cho em xem newbie có cần chuẩn bị gì hay lưu ý gì trước khi tập không với ạ, em cảm ưn &amp;lt;3&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Good-Expression-4535"&gt; /u/Good-Expression-4535 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nk2s0y/xin_địa_chỉ_phòng_gym_giá_rẻ_quanh_khu_vực_trung/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nk2s0y/xin_địa_chỉ_phòng_gym_giá_rẻ_quanh_khu_vực_trung/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nk2s0y/xin_địa_chỉ_phòng_gym_giá_rẻ_quanh_khu_vực_trung/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-18T08:31:02+00:00</published>
-  </entry>
   <entry>
     <id>t3_1nk30y7</id>
     <title>Xin sự tư vấn cho âm thanh lớp học</title>
@@ -112,19 +86,6 @@
     <published>2025-09-18T14:57:54+00:00</published>
   </entry>
   <entry>
-    <id>t3_1njl8at</id>
-    <title>Vụ này giờ chìm nghỉm luôn r nhỉ =))</title>
-    <updated>2025-09-17T18:29:45+00:00</updated>
-    <author>
-      <name>/u/GuoWang_369</name>
-      <uri>https://old.reddit.com/user/GuoWang_369</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1njl8at/vụ_này_giờ_chìm_nghỉm_luôn_r_nhỉ/"&gt; &lt;img alt="Vụ này giờ chìm nghỉm luôn r nhỉ =))" src="https://preview.redd.it/4wgzci2eqrpf1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=e4f53891e3acd46bf8214b099900e783c825c9d7" title="Vụ này giờ chìm nghỉm luôn r nhỉ =))" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/GuoWang_369"&gt; /u/GuoWang_369 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/4wgzci2eqrpf1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1njl8at/vụ_này_giờ_chìm_nghỉm_luôn_r_nhỉ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1njl8at/vụ_này_giờ_chìm_nghỉm_luôn_r_nhỉ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-17T18:29:45+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nkario</id>
     <title>Cận trên 4 độ 2 mắt thì liệu có bị ép đi nghĩa vụ không?</title>
     <updated>2025-09-18T15:05:01+00:00</updated>
@@ -138,6 +99,19 @@
     <published>2025-09-18T15:05:01+00:00</published>
   </entry>
   <entry>
+    <id>t3_1njl8at</id>
+    <title>Vụ này giờ chìm nghỉm luôn r nhỉ =))</title>
+    <updated>2025-09-17T18:29:45+00:00</updated>
+    <author>
+      <name>/u/GuoWang_369</name>
+      <uri>https://old.reddit.com/user/GuoWang_369</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1njl8at/vụ_này_giờ_chìm_nghỉm_luôn_r_nhỉ/"&gt; &lt;img alt="Vụ này giờ chìm nghỉm luôn r nhỉ =))" src="https://preview.redd.it/4wgzci2eqrpf1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=e4f53891e3acd46bf8214b099900e783c825c9d7" title="Vụ này giờ chìm nghỉm luôn r nhỉ =))" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/GuoWang_369"&gt; /u/GuoWang_369 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/4wgzci2eqrpf1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1njl8at/vụ_này_giờ_chìm_nghỉm_luôn_r_nhỉ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1njl8at/vụ_này_giờ_chìm_nghỉm_luôn_r_nhỉ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-17T18:29:45+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1nkbb6v</id>
     <title>Kiếm tiền tuổi 18</title>
     <updated>2025-09-18T15:25:23+00:00</updated>
@@ -149,6 +123,32 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nkbb6v/kiếm_tiền_tuổi_18/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-18T15:25:23+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nkbov6</id>
+    <title>Các bác cho em hỏi. Đang có ý định làm youtube mà tìm trên mạng có mấy con mic Gocheck, ULanzi, Comica ko biết nên chọn con nào. Xin các cao nhân chỉ giáo</title>
+    <updated>2025-09-18T15:39:45+00:00</updated>
+    <author>
+      <name>/u/Overall_Study4455</name>
+      <uri>https://old.reddit.com/user/Overall_Study4455</uri>
+    </author>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Overall_Study4455"&gt; /u/Overall_Study4455 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nkbov6/các_bác_cho_em_hỏi_đang_có_ý_định_làm_youtube_mà/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nkbov6/các_bác_cho_em_hỏi_đang_có_ý_định_làm_youtube_mà/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nkbov6/các_bác_cho_em_hỏi_đang_có_ý_định_làm_youtube_mà/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-18T15:39:45+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nkbrld</id>
+    <title>Điện Thoại Trong Tầm Giá 10 Triệu!</title>
+    <updated>2025-09-18T15:42:27+00:00</updated>
+    <author>
+      <name>/u/Fine_Positive_2972</name>
+      <uri>https://old.reddit.com/user/Fine_Positive_2972</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Như tiêu đề, mình cần tham khảo một số ý kiến về các mẫu điện thoại trong khoảng 10 triệu đổ xuống để sử dụng trong khoảng 3-4 năm tới. Mình không có yêu cầu về camera trước và sau, thời gian sử dụng chủ yếu dùng để nghe nhạc &amp;gt; xem phim = chơi game &amp;gt; nghe gọi &amp;gt; các nhu cầu khác. Mình ổn với cả máy chính hãng lẫn sách tay (nhưng khá ngại mua đồ cũ) và đang khá ưng chiếc OnePlus Ace 5. Hy vọng có thêm một số option tham khảo từ các bác!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Fine_Positive_2972"&gt; /u/Fine_Positive_2972 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nkbrld/điện_thoại_trong_tầm_giá_10_triệu/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nkbrld/điện_thoại_trong_tầm_giá_10_triệu/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nkbrld/điện_thoại_trong_tầm_giá_10_triệu/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-18T15:42:27+00:00</published>
   </entry>
   <entry>
     <id>t3_1nk72rp</id>
@@ -190,19 +190,6 @@
     <published>2025-09-18T08:18:44+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nk77ql</id>
-    <title>Có nên đi làm với mức lương 8tr/tháng khi vừa tốt nghiệp.</title>
-    <updated>2025-09-18T12:41:55+00:00</updated>
-    <author>
-      <name>/u/Pristine-Chemical982</name>
-      <uri>https://old.reddit.com/user/Pristine-Chemical982</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;E chào a/c, e đang là sinh viên năm cuối ngôn ngữ anh (đang đợi bằng) tại một trường tư ở HN, GPA không quá cao nhưng mà do e đã có kinh nghiệm đi dạy nên kĩ năng nói của khá tốt. Nên e đã apply cho vị trí AQM ở một công ty ở Hà Nam với mức lương thực tập là 8tr chưa tính tăng ca và phụ cấp(chưa bao gồm BHXH, công đoàn....), có trợ cấp ăn trưa và cung cấp laptop. Và sẽ deal lại sau 2 tháng thực tập và có giấy chứng nhận tốt nghiệp.Làm việc từ t2-t7 (8h-5h chiều). Nhưng bạn e cứ bảo là lương 8tr là thấp, không nên đi làm vì có cả tiếng trung và tiếng anh nên xứng có offer cao hơn. A/c có kinh nghiệm cho e lời khuyên với ạ!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Pristine-Chemical982"&gt; /u/Pristine-Chemical982 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nk77ql/có_nên_đi_làm_với_mức_lương_8trtháng_khi_vừa_tốt/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nk77ql/có_nên_đi_làm_với_mức_lương_8trtháng_khi_vừa_tốt/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nk77ql/có_nên_đi_làm_với_mức_lương_8trtháng_khi_vừa_tốt/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-18T12:41:55+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nk84y7</id>
     <title>Cái này có chữa dc ko mn?(Ảnh hơi kinh)</title>
     <updated>2025-09-18T13:21:31+00:00</updated>
@@ -214,6 +201,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nk84y7/cái_này_có_chữa_dc_ko_mnảnh_hơi_kinh/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-18T13:21:31+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nk77ql</id>
+    <title>Có nên đi làm với mức lương 8tr/tháng khi vừa tốt nghiệp.</title>
+    <updated>2025-09-18T12:41:55+00:00</updated>
+    <author>
+      <name>/u/Pristine-Chemical982</name>
+      <uri>https://old.reddit.com/user/Pristine-Chemical982</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;E chào a/c, e đang là sinh viên năm cuối ngôn ngữ anh (đang đợi bằng) tại một trường tư ở HN, GPA không quá cao nhưng mà do e đã có kinh nghiệm đi dạy nên kĩ năng nói của khá tốt. Nên e đã apply cho vị trí AQM ở một công ty ở Hà Nam với mức lương thực tập là 8tr chưa tính tăng ca và phụ cấp(chưa bao gồm BHXH, công đoàn....), có trợ cấp ăn trưa và cung cấp laptop. Và sẽ deal lại sau 2 tháng thực tập và có giấy chứng nhận tốt nghiệp.Làm việc từ t2-t7 (8h-5h chiều). Nhưng bạn e cứ bảo là lương 8tr là thấp, không nên đi làm vì có cả tiếng trung và tiếng anh nên xứng có offer cao hơn. A/c có kinh nghiệm cho e lời khuyên với ạ!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Pristine-Chemical982"&gt; /u/Pristine-Chemical982 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nk77ql/có_nên_đi_làm_với_mức_lương_8trtháng_khi_vừa_tốt/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nk77ql/có_nên_đi_làm_với_mức_lương_8trtháng_khi_vừa_tốt/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nk77ql/có_nên_đi_làm_với_mức_lương_8trtháng_khi_vừa_tốt/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-18T12:41:55+00:00</published>
   </entry>
   <entry>
     <id>t3_1njuo24</id>
