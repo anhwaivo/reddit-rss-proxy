@@ -2,49 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-09-18T16:54:39+00:00</updated>
+  <updated>2025-09-18T17:15:30+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
   <entry>
-    <id>t3_1nk72xh</id>
-    <title>Các bác cho e hỏi con Keyboard k3 max led ok ko ạ ,e cần dùng để làm việc văn phòng</title>
-    <updated>2025-09-18T12:35:55+00:00</updated>
+    <id>t3_1nk0ntt</id>
+    <title>🚀 Enfyra - Platform tự động tạo REST + GraphQL API từ database schema</title>
+    <updated>2025-09-18T06:15:44+00:00</updated>
     <author>
-      <name>/u/PlusFlight2861</name>
-      <uri>https://old.reddit.com/user/PlusFlight2861</uri>
+      <name>/u/Affectionate-Safe515</name>
+      <uri>https://old.reddit.com/user/Affectionate-Safe515</uri>
     </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/PlusFlight2861"&gt; /u/PlusFlight2861 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nk72xh/các_bác_cho_e_hỏi_con_keyboard_k3_max_led_ok_ko_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nk72xh/các_bác_cho_e_hỏi_con_keyboard_k3_max_led_ok_ko_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nk72xh/các_bác_cho_e_hỏi_con_keyboard_k3_max_led_ok_ko_ạ/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào ae dev Việt! 👋&lt;/p&gt; &lt;p&gt;Mình khá tệ trong việc viết lách nên nội dung bên dưới là 100% từ AI nha!!!&lt;/p&gt; &lt;p&gt;Mình vừa launch xong &lt;strong&gt;Enfyra&lt;/strong&gt; - một platform backend tự động generate REST và GraphQL APIs từ database schema của bạn, kèm admin interface để quản lý mọi thứ bằng giao diện.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Giải quyết vấn đề gì?&lt;/strong&gt; Chán viết CRUD operations lặp đi lặp lại mãi? Enfyra loại bỏ hết những việc lặp lại này:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Tạo table&lt;/strong&gt; → Tự động có REST endpoints + GraphQL schema&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Admin interface&lt;/strong&gt; → Quản lý data không cần code frontend&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Custom logic&lt;/strong&gt; → Override bằng JS/TS handlers khi cần&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Install packages runtime&lt;/strong&gt; → Cài NPM packages qua UI, không cần động vào package.json&lt;/li&gt; &lt;li&gt;&lt;p&gt;&lt;strong&gt;Zero downtime&lt;/strong&gt; → Thay đổi schema không làm crash API&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Cách hoạt động&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;1. Thiết kế cấu trúc data&lt;/strong&gt; Tạo tables qua admin interface - không cần SQL. Định nghĩa columns, relationships, constraints bằng giao diện.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;2. APIs được tạo tự động&lt;/strong&gt; Mỗi table ngay lập tức trở thành:&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Đầy đủ REST CRUD endpoints (&lt;code&gt;GET&lt;/code&gt;, &lt;code&gt;POST&lt;/code&gt;, &lt;code&gt;PATCH&lt;/code&gt;, &lt;code&gt;DELETE&lt;/code&gt;)&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;GraphQL schema&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Filtering, sorting, pagination, relation queries siêu xịn&lt;/p&gt; &lt;p&gt;&lt;strong&gt;3. Customize khi cần&lt;/strong&gt; Viết JavaScript handlers cho business logic:&lt;/p&gt; &lt;p&gt;// Custom route handler - code trực tiếp, không cần wrapper function const slug = $ctx.$helpers.autoSlug($ctx.$body.title) const result = await $ctx.$repos.posts.create({ ...$ctx.$body, slug, authorId: $ctx.$user.id, publishedAt: new Date() }) return result&lt;/p&gt; &lt;p&gt;&lt;strong&gt;4. Install packages runtime&lt;/strong&gt; Cần thư viện ngoài? Install NPM packages trực tiếp qua UI:&lt;/p&gt; &lt;p&gt;// Install axios, lodash, moment qua admin interface // Xong dùng ngay trong handlers:&lt;/p&gt; &lt;p&gt;const axios = $ctx.$pkgs.axios const _ = $ctx.$pkgs.lodash const moment = $ctx.$pkgs.moment&lt;/p&gt; &lt;p&gt;// Fetch data từ API ngoài và xử lý const response = await axios.get('&lt;a href="https://api.external.com/data&amp;#x27;"&gt;https://api.external.com/data'&lt;/a&gt;) const grouped = _.groupBy(response.data, 'category')&lt;/p&gt; &lt;p&gt;return { data: grouped, timestamp: moment().format('YYYY-MM-DD HH:mm:ss') }&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Tech Stack&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Backend (NestJS + TypeScript)&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;TypeORM cho database (MySQL, PostgreSQL, SQLite)&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Redis cho caching và sync multi-instance&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;GraphQL Yoga cho GraphQL server&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Sandboxed execution cho security&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Dynamic entity generation&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Frontend (Nuxt 4 + Vue 3)&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;TailwindCSS + Nuxt UI&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Dynamic form generation&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Extension system với live compilation&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Khác biệt gì so với các platform khác?&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;🚀 Bắt đầu đơn giản, scale phức tạp&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Khởi đầu với no-code table creation&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Thêm custom logic dần dần&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Không bao giờ bị giới hạn bởi platform&lt;/p&gt; &lt;p&gt;&lt;strong&gt;🔓 Full API access&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Data không bị nhốt trong hệ thống proprietary&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Standard REST và GraphQL endpoints&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Dùng bất kỳ frontend framework nào&lt;/p&gt; &lt;p&gt;&lt;strong&gt;📦 Runtime package installation&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Install NPM packages qua admin UI&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Packages ngay lập tức có trong handlers: &lt;code&gt;$ctx.$pkgs.packagename&lt;/code&gt;&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Không cần restart server&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Các packages phổ biến: axios, lodash, moment, joi, uuid, bcrypt.... bất kỳ thứ gì&lt;/p&gt; &lt;p&gt;&lt;strong&gt;⚡ Real-time mọi thứ&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Thay đổi schema reflect ngay trong API&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Extensions compile và load từ database&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Multi-instance sync qua Redis&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Use cases thực tế&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;E-commerce Backend&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Products, categories, orders, customers&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Quản lý inventory với cảnh báo hết hàng&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Custom pricing logic và tính discount&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Content Management&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Blog posts, pages, quản lý media&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Multi-language content&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;SEO optimization&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Business Applications&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;CRM với workflow automation&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Project management với time tracking&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Hệ thống inventory với barcode scanning&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Third-party Integrations&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Payment với Stripe SDK&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Email với Nodemailer&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;SMS với Twilio&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Cloud storage với AWS SDK&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Performance &amp;amp; Scale&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Intelligent Caching&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;SWR pattern cho performance tối ưu&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Route-level caching với auto invalidation&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Database connection pooling&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Multi-instance Architecture&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Chạy nhiều servers với auto schema sync&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Compatible với load balancer&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Stateless design với Redis coordination&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Có gì trong v0.1.0-beta&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;✅ &lt;strong&gt;Backend Repository&lt;/strong&gt; (Elastic License 2.0)&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Complete API generation engine&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Custom handler system&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Runtime NPM package installation&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Multi-database support&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Production-ready authentication&lt;/p&gt; &lt;p&gt;✅ &lt;strong&gt;Frontend Repository&lt;/strong&gt; (MIT License)&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Visual admin interface&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Real-time schema management&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Package management UI&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Extension marketplace foundation&lt;/p&gt; &lt;p&gt;✅ &lt;strong&gt;Documentation đầy đủ&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Hướng dẫn setup từng bước&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;API reference và examples&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Tutorials sử dụng packages&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Guides phát triển extensions&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;&lt;strong&gt;Documentation:&lt;/strong&gt; &lt;a href="https://github.com/dothinh115/enfyra-docs"&gt;https://github.com/dothinh115/enfyra-docs&lt;/a&gt;&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;&lt;strong&gt;Live demo:&lt;/strong&gt; &lt;a href="https://demo.enfyra.io"&gt;https://demo.enfyra.io&lt;/a&gt; (Mình đã điền tài khoản và mật khẩu, click login ngay khi vào trang)&lt;/p&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Đây là open source project đầu tiên của mình - giải quyết việc lặp lại backend work mà mình hay gặp trong các client projects. Mục tiêu là loại bỏ những phần boring của backend development nhưng vẫn giữ được flexibility cho requirements phức tạp.&lt;/p&gt; &lt;p&gt;Feature runtime package installation đặc biệt powerful - bạn có thể install axios, lodash, stripe SDK, hoặc bất kỳ NPM package nào qua UI và dùng ngay trong custom handlers mà không cần config server gì cả.&lt;/p&gt; &lt;p&gt;Beta đã sẵn sàng để test và nhận feedback. Rất mong được nghe ý kiến từ anh em dev Việt Nam! 🚀&lt;/p&gt; &lt;p&gt;Mình cũng đang tìm contributors và early adopters để cùng phát triển project này. Welcome mọi người!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Affectionate-Safe515"&gt; /u/Affectionate-Safe515 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nk0ntt/enfyra_platform_tự_động_tạo_rest_graphql_api_từ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nk0ntt/enfyra_platform_tự_động_tạo_rest_graphql_api_từ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nk0ntt/enfyra_platform_tự_động_tạo_rest_graphql_api_từ/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-18T12:35:55+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1nj8yjr</id>
-    <title>bị kỷ luật khi sinh con thứ 3</title>
-    <updated>2025-09-17T10:01:54+00:00</updated>
-    <author>
-      <name>/u/greate_man</name>
-      <uri>https://old.reddit.com/user/greate_man</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Cơ quan của mấy ní có bị kỷ luật khi sinh con thứ 3 không.&lt;/p&gt; &lt;p&gt;Tớ đang làm ở bệnh viện lớn tại Huế, sinh con xong và bị bệnh viện áp dụng chính sách kỷ luật những ai sinh con thứ 3.&lt;/p&gt; &lt;p&gt;-cắt toàn bộ tiền thưởng -không nâng lương vài năm -không bổ nhiệm chức vụ ...&lt;/p&gt; &lt;p&gt;Bệnh viện áp dụng kỷ luật với người sinh con thứ ba thế có đúng không nhỉ? Tại thấy nhiều cơ quan đã bãi bỏ, luật lao động cũng không cấm, nhà nước lại khuyến khích sinh...&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/greate_man"&gt; /u/greate_man &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj8yjr/bị_kỷ_luật_khi_sinh_con_thứ_3/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nj8yjr/bị_kỷ_luật_khi_sinh_con_thứ_3/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nj8yjr/bị_kỷ_luật_khi_sinh_con_thứ_3/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-17T10:01:54+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1nk3l6j</id>
-    <title>Cần bao nhiêu vốn để mở airbnb ở HCM?</title>
-    <updated>2025-09-18T09:25:17+00:00</updated>
-    <author>
-      <name>/u/Pamlord</name>
-      <uri>https://old.reddit.com/user/Pamlord</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em với bạn em hai đứa sinh viên mới ra trường cày cuốc góp được khoảng 200tr tiền vốn. Em không biết là với 200tr có khả thi để làm 1 cái airbnb nhỏ nhỏ ở Sài Gòn không mn?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Pamlord"&gt; /u/Pamlord &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nk3l6j/cần_bao_nhiêu_vốn_để_mở_airbnb_ở_hcm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nk3l6j/cần_bao_nhiêu_vốn_để_mở_airbnb_ở_hcm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nk3l6j/cần_bao_nhiêu_vốn_để_mở_airbnb_ở_hcm/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-18T09:25:17+00:00</published>
+    <published>2025-09-18T06:15:44+00:00</published>
   </entry>
   <entry>
     <id>t3_1nk9jpa</id>
@@ -84,19 +58,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1njl8at/vụ_này_giờ_chìm_nghỉm_luôn_r_nhỉ/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-17T18:29:45+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1nkbb6v</id>
-    <title>Kiếm tiền tuổi 18</title>
-    <updated>2025-09-18T15:25:23+00:00</updated>
-    <author>
-      <name>/u/psychocheck</name>
-      <uri>https://old.reddit.com/user/psychocheck</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;E năm nay 2k8, chuẩn bị vào đh rồi mà gia đình e lại vỡ nợ nên e muốn kiếm tiền trang trải các thứ. E có tìm hiểu về mảng cày airdrop thì ko biết là bây h còn ăn được nữa ko mn? Còn nếu ko thì e có thể học trade forex hay future từ đâu? Mong mn giúp đỡ và cho e lời khuyên ạ E cảm ơn mn nhiều &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/psychocheck"&gt; /u/psychocheck &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nkbb6v/kiếm_tiền_tuổi_18/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nkbb6v/kiếm_tiền_tuổi_18/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nkbb6v/kiếm_tiền_tuổi_18/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-18T15:25:23+00:00</published>
   </entry>
   <entry>
     <id>t3_1nkbov6</id>
@@ -177,17 +138,17 @@
     <published>2025-09-18T08:18:44+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nkakee</id>
-    <title>Chuyển từ Windows sang macOS sau 10 năm – MacBook Air M4 có đủ cho designer fresher?</title>
-    <updated>2025-09-18T14:57:54+00:00</updated>
+    <id>t3_1nkbb6v</id>
+    <title>Kiếm tiền tuổi 18</title>
+    <updated>2025-09-18T15:25:23+00:00</updated>
     <author>
-      <name>/u/Huibeo</name>
-      <uri>https://old.reddit.com/user/Huibeo</uri>
+      <name>/u/psychocheck</name>
+      <uri>https://old.reddit.com/user/psychocheck</uri>
     </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1nkakee/chuyển_từ_windows_sang_macos_sau_10_năm_macbook/"&gt; &lt;img alt="Chuyển từ Windows sang macOS sau 10 năm – MacBook Air M4 có đủ cho designer fresher?" src="https://preview.redd.it/0i1rzv4itxpf1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=a217a03d890b893e7c2195d6e05a6dde4735f9df" title="Chuyển từ Windows sang macOS sau 10 năm – MacBook Air M4 có đủ cho designer fresher?" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào anh em,&lt;/p&gt; &lt;p&gt;Mình dùng Windows cũng hơn 10 năm rồi và giờ đang tính chuyển sang macOS. Công việc chính của mình là designer mới vào nghề, thường xuyên dùng Illustrator với Photoshop (nhiều layer, nhiều artboard), ngoài ra thì mình cũng hay duyệt nhiều tab, web và dùng trong thời gian dài.&lt;/p&gt; &lt;p&gt;Liệu MacBook Air không có quạt tản nhiệt, không biết làm việc lâu dài kiểu này có bị ảnh hưởng hiệu suất nhiều không?&lt;/p&gt; &lt;p&gt;Cuối cùng thì mình đang phân vân giữa bản 13 inch RAM 24GB và bản 15 inch RAM 16GB. Theo anh em thì với nhu cầu như trên, 16GB RAM trên macOS có đủ không, hay nên chọn bản 24GB cho chắc ăn dù màn hình nhỏ hơn?&lt;/p&gt; &lt;p&gt;Rất mong được anh em tư vấn, cảm ơn nhiều!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Huibeo"&gt; /u/Huibeo &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/0i1rzv4itxpf1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nkakee/chuyển_từ_windows_sang_macos_sau_10_năm_macbook/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nkakee/chuyển_từ_windows_sang_macos_sau_10_năm_macbook/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;E năm nay 2k8, chuẩn bị vào đh rồi mà gia đình e lại vỡ nợ nên e muốn kiếm tiền trang trải các thứ. E có tìm hiểu về mảng cày airdrop thì ko biết là bây h còn ăn được nữa ko mn? Còn nếu ko thì e có thể học trade forex hay future từ đâu? Mong mn giúp đỡ và cho e lời khuyên ạ E cảm ơn mn nhiều &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/psychocheck"&gt; /u/psychocheck &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nkbb6v/kiếm_tiền_tuổi_18/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nkbb6v/kiếm_tiền_tuổi_18/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nkbb6v/kiếm_tiền_tuổi_18/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-18T14:57:54+00:00</published>
+    <published>2025-09-18T15:25:23+00:00</published>
   </entry>
   <entry>
     <id>t3_1nk84y7</id>
@@ -203,6 +164,45 @@
     <published>2025-09-18T13:21:31+00:00</published>
   </entry>
   <entry>
+    <id>t3_1nke3bg</id>
+    <title>Mông lung về tương lai sau này</title>
+    <updated>2025-09-18T17:08:25+00:00</updated>
+    <author>
+      <name>/u/SedMachine</name>
+      <uri>https://old.reddit.com/user/SedMachine</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác, em học xong đại học thì bị gọi đi nvqs, rồi xong ra không biết mình nên làm gì. Kiểu em không biết mình thích cái gì, mình muốn cái gì, mình theo nó liệu có ổn không vì em h 25 tuổi rồi. Vì là thằng con trai duy nhất nên gia đình luôn muốn đòi cưới sớm để có con cháu. Em thì ngược lại, chỉ mong kiếm được việc nào ổn định, cũng không dám yêu đương vì trong tay mình không có gì cả.&lt;br /&gt; Em đang tính học tiếng nhật để làm phiên dịch viên còn trong thời gian đó em đi làm thêm. Lý do em nghĩ tới điều đó là vì trước em có đam mê với việc học ngôn ngữ. Nhưng trong lòng em vẫn không dám chắc con đường đó có đúng không? Em xin lời khuyên với ạ, mình có nên thử sức với nhiều lĩnh vực khác hay nên chọn đúng 1 hướng đi để ổn định?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/SedMachine"&gt; /u/SedMachine &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nke3bg/mông_lung_về_tương_lai_sau_này/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nke3bg/mông_lung_về_tương_lai_sau_này/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nke3bg/mông_lung_về_tương_lai_sau_này/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-18T17:08:25+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nkakee</id>
+    <title>Chuyển từ Windows sang macOS sau 10 năm – MacBook Air M4 có đủ cho designer fresher?</title>
+    <updated>2025-09-18T14:57:54+00:00</updated>
+    <author>
+      <name>/u/Huibeo</name>
+      <uri>https://old.reddit.com/user/Huibeo</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1nkakee/chuyển_từ_windows_sang_macos_sau_10_năm_macbook/"&gt; &lt;img alt="Chuyển từ Windows sang macOS sau 10 năm – MacBook Air M4 có đủ cho designer fresher?" src="https://preview.redd.it/0i1rzv4itxpf1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=a217a03d890b893e7c2195d6e05a6dde4735f9df" title="Chuyển từ Windows sang macOS sau 10 năm – MacBook Air M4 có đủ cho designer fresher?" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào anh em,&lt;/p&gt; &lt;p&gt;Mình dùng Windows cũng hơn 10 năm rồi và giờ đang tính chuyển sang macOS. Công việc chính của mình là designer mới vào nghề, thường xuyên dùng Illustrator với Photoshop (nhiều layer, nhiều artboard), ngoài ra thì mình cũng hay duyệt nhiều tab, web và dùng trong thời gian dài.&lt;/p&gt; &lt;p&gt;Liệu MacBook Air không có quạt tản nhiệt, không biết làm việc lâu dài kiểu này có bị ảnh hưởng hiệu suất nhiều không?&lt;/p&gt; &lt;p&gt;Cuối cùng thì mình đang phân vân giữa bản 13 inch RAM 24GB và bản 15 inch RAM 16GB. Theo anh em thì với nhu cầu như trên, 16GB RAM trên macOS có đủ không, hay nên chọn bản 24GB cho chắc ăn dù màn hình nhỏ hơn?&lt;/p&gt; &lt;p&gt;Rất mong được anh em tư vấn, cảm ơn nhiều!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Huibeo"&gt; /u/Huibeo &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/0i1rzv4itxpf1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nkakee/chuyển_từ_windows_sang_macos_sau_10_năm_macbook/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nkakee/chuyển_từ_windows_sang_macos_sau_10_năm_macbook/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-18T14:57:54+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nke4tl</id>
+    <title>Vì sao buổi hẹn đầu nam thường phải trả tiền ?</title>
+    <updated>2025-09-18T17:09:59+00:00</updated>
+    <author>
+      <name>/u/kitchcu</name>
+      <uri>https://old.reddit.com/user/kitchcu</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hình như có nhiều người hiểu lầm gì ở đây thì phải, nếu đúng theo quy tắc xả giao ai mời thì người đó sẽ trả và chẳng phân biệt nam hay nữ gì hết. Thường các buổi hẹn hò đầu thì nam luôn là người chủ động mời nên họ sẽ trả, thành ra về lâu dài nhiều bạn cứ bị mặc định nam phải là người trả tiền cho buổi hẹn đầu, tai hại hơn là tất cả buổi hẹn sau luôn cơ, xong rồi nhiều ông lại lên mạng phàn nàn rồi lôi cái bình đẳng giới ra nói chuyện :))&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/kitchcu"&gt; /u/kitchcu &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nke4tl/vì_sao_buổi_hẹn_đầu_nam_thường_phải_trả_tiền/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nke4tl/vì_sao_buổi_hẹn_đầu_nam_thường_phải_trả_tiền/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nke4tl/vì_sao_buổi_hẹn_đầu_nam_thường_phải_trả_tiền/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-18T17:09:59+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1njuo24</id>
     <title>Tiền mất giá quá nhanh, nên làm gì với tiền dư hằng tháng</title>
     <updated>2025-09-18T00:59:51+00:00</updated>
@@ -214,19 +214,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1njuo24/tiền_mất_giá_quá_nhanh_nên_làm_gì_với_tiền_dư/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-18T00:59:51+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1nkbcpk</id>
-    <title>Mình hay quên và mọi người lẫn mình đều ghét điều đó ở mình</title>
-    <updated>2025-09-18T15:26:57+00:00</updated>
-    <author>
-      <name>/u/TCGB1080</name>
-      <uri>https://old.reddit.com/user/TCGB1080</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Từ lúc mình bắt đầu lên cấp 2, mình tự đi học và luôn đến trường rất sớm, đơn giản vì mình hay quên, lỡ chưa làm bài tập gì đó thì còn kịp thgian xử lí,mình học cái gì cũng đọc đi đọc lại và lầm bầm nhiều đến mức người khác phải nhắc nhở, cứ thế đến hết cấp 3. Đến lúc đi làm, tính tình siêng năng cũng không cứu vớt được tính làm trước quên sau của mình, nên rất dễ làm người khác khó chịu. Cũng 2,3 tháng rồi, đến nay được nghỉ ngơi 1 ngày, mình bắt tay vào dọn dẹp nhà cửa, cha mình khó tính nên mình cố gắng làm nhiều nhất có thể để không làm phật lòng cha mình, cuối ngày tưởng như mọi chuyện đã êm xui, mình quên đóng cả bảo hiểm y tế trễ tận 4 tháng, mất 5 năm liên tục, cha mình cũng không nói chuyện với mình nữa. Mình biết cha giận mình vì không tự lo được cho bản thân. Nhưng mình cứ sống mãi với hàng tá cái ghi chú trên điện thoại mình thấy chán bản thân lắm, các bạn nào &amp;quot;đã từng&amp;quot; như mình, thực sự cần lời chỉ dẫn của những người &amp;quot;đã từng&amp;quot; ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/TCGB1080"&gt; /u/TCGB1080 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nkbcpk/mình_hay_quên_và_mọi_người_lẫn_mình_đều_ghét_điều/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nkbcpk/mình_hay_quên_và_mọi_người_lẫn_mình_đều_ghét_điều/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nkbcpk/mình_hay_quên_và_mọi_người_lẫn_mình_đều_ghét_điều/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-18T15:26:57+00:00</published>
   </entry>
   <entry>
     <id>t3_1nk2i31</id>
@@ -242,6 +229,19 @@
     <published>2025-09-18T08:12:38+00:00</published>
   </entry>
   <entry>
+    <id>t3_1nkbcpk</id>
+    <title>Mình hay quên và mọi người lẫn mình đều ghét điều đó ở mình</title>
+    <updated>2025-09-18T15:26:57+00:00</updated>
+    <author>
+      <name>/u/TCGB1080</name>
+      <uri>https://old.reddit.com/user/TCGB1080</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Từ lúc mình bắt đầu lên cấp 2, mình tự đi học và luôn đến trường rất sớm, đơn giản vì mình hay quên, lỡ chưa làm bài tập gì đó thì còn kịp thgian xử lí,mình học cái gì cũng đọc đi đọc lại và lầm bầm nhiều đến mức người khác phải nhắc nhở, cứ thế đến hết cấp 3. Đến lúc đi làm, tính tình siêng năng cũng không cứu vớt được tính làm trước quên sau của mình, nên rất dễ làm người khác khó chịu. Cũng 2,3 tháng rồi, đến nay được nghỉ ngơi 1 ngày, mình bắt tay vào dọn dẹp nhà cửa, cha mình khó tính nên mình cố gắng làm nhiều nhất có thể để không làm phật lòng cha mình, cuối ngày tưởng như mọi chuyện đã êm xui, mình quên đóng cả bảo hiểm y tế trễ tận 4 tháng, mất 5 năm liên tục, cha mình cũng không nói chuyện với mình nữa. Mình biết cha giận mình vì không tự lo được cho bản thân. Nhưng mình cứ sống mãi với hàng tá cái ghi chú trên điện thoại mình thấy chán bản thân lắm, các bạn nào &amp;quot;đã từng&amp;quot; như mình, thực sự cần lời chỉ dẫn của những người &amp;quot;đã từng&amp;quot; ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/TCGB1080"&gt; /u/TCGB1080 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nkbcpk/mình_hay_quên_và_mọi_người_lẫn_mình_đều_ghét_điều/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nkbcpk/mình_hay_quên_và_mọi_người_lẫn_mình_đều_ghét_điều/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nkbcpk/mình_hay_quên_và_mọi_người_lẫn_mình_đều_ghét_điều/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-18T15:26:57+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1nk58k0</id>
     <title>[Nhờ tư vấn] Trầm cảm nặng có loạn thần (F32.3) – mình nên làm gì tiếp theo?</title>
     <updated>2025-09-18T11:04:13+00:00</updated>
@@ -255,19 +255,6 @@
     <published>2025-09-18T11:04:13+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nk6jyv</id>
-    <title>Mấy anh cho em hỏi, em cao 1m8, 80kg, một bên mắt cận hơn 3 độ, bên kia 1 độ hơn thì có cần đi nvqs không ạ?</title>
-    <updated>2025-09-18T12:11:34+00:00</updated>
-    <author>
-      <name>/u/colocken</name>
-      <uri>https://old.reddit.com/user/colocken</uri>
-    </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/colocken"&gt; /u/colocken &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nk6jyv/mấy_anh_cho_em_hỏi_em_cao_1m8_80kg_một_bên_mắt/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nk6jyv/mấy_anh_cho_em_hỏi_em_cao_1m8_80kg_một_bên_mắt/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nk6jyv/mấy_anh_cho_em_hỏi_em_cao_1m8_80kg_một_bên_mắt/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-18T12:11:34+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nk77ql</id>
     <title>Có nên đi làm với mức lương 8tr/tháng khi vừa tốt nghiệp.</title>
     <updated>2025-09-18T12:41:55+00:00</updated>
@@ -279,6 +266,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nk77ql/có_nên_đi_làm_với_mức_lương_8trtháng_khi_vừa_tốt/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-18T12:41:55+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nk6jyv</id>
+    <title>Mấy anh cho em hỏi, em cao 1m8, 80kg, một bên mắt cận hơn 3 độ, bên kia 1 độ hơn thì có cần đi nvqs không ạ?</title>
+    <updated>2025-09-18T12:11:34+00:00</updated>
+    <author>
+      <name>/u/colocken</name>
+      <uri>https://old.reddit.com/user/colocken</uri>
+    </author>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/colocken"&gt; /u/colocken &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nk6jyv/mấy_anh_cho_em_hỏi_em_cao_1m8_80kg_một_bên_mắt/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nk6jyv/mấy_anh_cho_em_hỏi_em_cao_1m8_80kg_một_bên_mắt/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nk6jyv/mấy_anh_cho_em_hỏi_em_cao_1m8_80kg_một_bên_mắt/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-18T12:11:34+00:00</published>
   </entry>
   <entry>
     <id>t3_1nk11zm</id>
@@ -307,19 +307,6 @@
     <published>2025-09-18T00:36:26+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nkddei</id>
-    <title>Tình cờ gặp người chồng cũ vozer</title>
-    <updated>2025-09-18T16:41:55+00:00</updated>
-    <author>
-      <name>/u/trinh309</name>
-      <uri>https://old.reddit.com/user/trinh309</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1nkddei/tình_cờ_gặp_người_chồng_cũ_vozer/"&gt; &lt;img alt="Tình cờ gặp người chồng cũ vozer" src="https://preview.redd.it/7aygkif2cypf1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=df14c8aa176fe8039657939d56b7307afdfed7aa" title="Tình cờ gặp người chồng cũ vozer" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình chào cả nhà ạ. Mình chính là con đàn bà đó - con vợ cũ họ Lào trong câu chuyện của ck iu mình. Và mình đang khá mệt mỏi trong câu chuyện thăm nuôi con của bạn ck cũ này dạo gần đây, có vẻ như sau một thời gian dài bỏ lơ em bé thì ck cũ đã nhận ra phải có thêm cái mác iu con thăm nuôi con thì mới đủ xây dựng hình tượng ng tử tế. Nói sơ qua cuộc hôn nhân này, ở hướng mình, mình yêu bạn này, rồi mình có em bé, với sự cố gắng vượt thử thách để cưới mình khi đó mình đã nghĩ bạn cũng yêu mình, đến hôm nay mình mới biết cuộc hôn nhân này là tình cảm chưa đủ bị ép cưới. Mình trải qua thời kì bầu 1 mình, vì ck mình làm ở Sing, &amp;quot;chi phí quá cao, ko tiện&amp;quot; nên mình dù muốn thì thời gian mang bầu vẫn ở xa, đến khi mình sinh con, mình đẻ non, con mình đang nằm lồng thì ck mình về Hà Nội đi gái, mình phát hiện thì bị ck bạo hành cả thể xác lẫn tinh thần trong suốt thời gian nuôi con nhỏ. Mình đã tha thứ bỏ qua rất nhiều. Nhưng liên tục lừa dối chồng lừa dối. Đỉnh điểm ck mình rất chi li, tính toán, keo kiệt trong việc chi tiêu cho con mình. Dẫn đến bạo lực ck mình liên tục đòi chém đuổi 2 mẹ con. Mình đã quyết định li hôn khi liên tục bị bạo hành, lừa dối, ck mình quen gái bị phốt, bố mẹ ck bênh con trai. Nói về hậu li hôn thì, mình khá trần ai khổ ải để thoả thuận đc mức chu cấp 20tr/tháng vì quan điểm của ck mình là 0đ là đúng và đủ lương tâm. May mắn ck mình thuê chú luật sự có tâm, lúc đầu chú thuận theo ý ck mình soạn đơn ghi: ko cần chu cấp gửi cho mình ký, nhưng qua vài lần gọi điện trai đổi chú khuyên mình cố gắng thoả thuận với ck để có tiền lo cho con ăn học. Mình nhận 20tr/tháng của ck với nhiều sự mạt sát chửi bới. Về thăm nuôi con, từ lúc quyết định li hôn ck mình ko hề gọi hỏi thăm con, tết nhất ck mình ko có đc 10 ngàn lì xì mừng tuổi cho con. Con mình đến nay 20 tháng thì 8 tháng là khoảng thời gian ko hề có 1 cuộc gọi nhỡ. Bẵng đi thì tháng vừa rồi, 16/8 ck mình đòi thăm gặp con, mình đồng ý, nhưng sau khi gặp ck mình liền có những đòi hỏi vô lý và có ngôn từ bạo lực chửi mắng mình. Mình tiếp tục cho cơ hội bù đắp tình cảm cho con là hẹn đi ăn chung, sau cuộc ăn chung đó thì về lại 01 cuộc gọi (ck mình thường cố tình nhắn tin vào khoảng 9-10-11h đêm đòi gọi cho con trong khi con 20m đã đi ngủ từ sớm). Đến nay lại tiếp tục đòi thăm gặp nhưng thực sự, mình ko thấy ck cũ mình thương con, chỉ đang muốn thông qua việc thăm gặp con lấy hình ảnh trong mắt bạn bè đồng nghiệp. Mình thực sự chia sẻ ở đây nha. Mình khá cực, nhưng con mình là ánh sáng của đời mình, ck cũ mình có thể nói là rất tệ với mình, nhưng nếu có 1 tia yêu thương con thôi thì mình đã ko bao h li hôn hết. Nay đã li hôn rồi, cũng đã bỏ bê con rồi, nay lại vì muốn có hình ảnh ng cha tốt mà quay lại kiếm con...mình thì ổn rồi, nhưng tội con quá...&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/trinh309"&gt; /u/trinh309 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/7aygkif2cypf1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nkddei/tình_cờ_gặp_người_chồng_cũ_vozer/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nkddei/tình_cờ_gặp_người_chồng_cũ_vozer/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-18T16:41:55+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nk4xdr</id>
     <title>tôi có làm hơi quá không ?</title>
     <updated>2025-09-18T10:46:59+00:00</updated>
@@ -331,5 +318,18 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nk4xdr/tôi_có_làm_hơi_quá_không/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-18T10:46:59+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nkddei</id>
+    <title>Tình cờ gặp người chồng cũ vozer</title>
+    <updated>2025-09-18T16:41:55+00:00</updated>
+    <author>
+      <name>/u/trinh309</name>
+      <uri>https://old.reddit.com/user/trinh309</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1nkddei/tình_cờ_gặp_người_chồng_cũ_vozer/"&gt; &lt;img alt="Tình cờ gặp người chồng cũ vozer" src="https://preview.redd.it/7aygkif2cypf1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=df14c8aa176fe8039657939d56b7307afdfed7aa" title="Tình cờ gặp người chồng cũ vozer" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình chào cả nhà ạ. Mình chính là con đàn bà đó - con vợ cũ họ Lào trong câu chuyện của ck iu mình. Và mình đang khá mệt mỏi trong câu chuyện thăm nuôi con của bạn ck cũ này dạo gần đây, có vẻ như sau một thời gian dài bỏ lơ em bé thì ck cũ đã nhận ra phải có thêm cái mác iu con thăm nuôi con thì mới đủ xây dựng hình tượng ng tử tế. Nói sơ qua cuộc hôn nhân này, ở hướng mình, mình yêu bạn này, rồi mình có em bé, với sự cố gắng vượt thử thách để cưới mình khi đó mình đã nghĩ bạn cũng yêu mình, đến hôm nay mình mới biết cuộc hôn nhân này là tình cảm chưa đủ bị ép cưới. Mình trải qua thời kì bầu 1 mình, vì ck mình làm ở Sing, &amp;quot;chi phí quá cao, ko tiện&amp;quot; nên mình dù muốn thì thời gian mang bầu vẫn ở xa, đến khi mình sinh con, mình đẻ non, con mình đang nằm lồng thì ck mình về Hà Nội đi gái, mình phát hiện thì bị ck bạo hành cả thể xác lẫn tinh thần trong suốt thời gian nuôi con nhỏ. Mình đã tha thứ bỏ qua rất nhiều. Nhưng liên tục lừa dối chồng lừa dối. Đỉnh điểm ck mình rất chi li, tính toán, keo kiệt trong việc chi tiêu cho con mình. Dẫn đến bạo lực ck mình liên tục đòi chém đuổi 2 mẹ con. Mình đã quyết định li hôn khi liên tục bị bạo hành, lừa dối, ck mình quen gái bị phốt, bố mẹ ck bênh con trai. Nói về hậu li hôn thì, mình khá trần ai khổ ải để thoả thuận đc mức chu cấp 20tr/tháng vì quan điểm của ck mình là 0đ là đúng và đủ lương tâm. May mắn ck mình thuê chú luật sự có tâm, lúc đầu chú thuận theo ý ck mình soạn đơn ghi: ko cần chu cấp gửi cho mình ký, nhưng qua vài lần gọi điện trai đổi chú khuyên mình cố gắng thoả thuận với ck để có tiền lo cho con ăn học. Mình nhận 20tr/tháng của ck với nhiều sự mạt sát chửi bới. Về thăm nuôi con, từ lúc quyết định li hôn ck mình ko hề gọi hỏi thăm con, tết nhất ck mình ko có đc 10 ngàn lì xì mừng tuổi cho con. Con mình đến nay 20 tháng thì 8 tháng là khoảng thời gian ko hề có 1 cuộc gọi nhỡ. Bẵng đi thì tháng vừa rồi, 16/8 ck mình đòi thăm gặp con, mình đồng ý, nhưng sau khi gặp ck mình liền có những đòi hỏi vô lý và có ngôn từ bạo lực chửi mắng mình. Mình tiếp tục cho cơ hội bù đắp tình cảm cho con là hẹn đi ăn chung, sau cuộc ăn chung đó thì về lại 01 cuộc gọi (ck mình thường cố tình nhắn tin vào khoảng 9-10-11h đêm đòi gọi cho con trong khi con 20m đã đi ngủ từ sớm). Đến nay lại tiếp tục đòi thăm gặp nhưng thực sự, mình ko thấy ck cũ mình thương con, chỉ đang muốn thông qua việc thăm gặp con lấy hình ảnh trong mắt bạn bè đồng nghiệp. Mình thực sự chia sẻ ở đây nha. Mình khá cực, nhưng con mình là ánh sáng của đời mình, ck cũ mình có thể nói là rất tệ với mình, nhưng nếu có 1 tia yêu thương con thôi thì mình đã ko bao h li hôn hết. Nay đã li hôn rồi, cũng đã bỏ bê con rồi, nay lại vì muốn có hình ảnh ng cha tốt mà quay lại kiếm con...mình thì ổn rồi, nhưng tội con quá...&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/trinh309"&gt; /u/trinh309 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/7aygkif2cypf1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nkddei/tình_cờ_gặp_người_chồng_cũ_vozer/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nkddei/tình_cờ_gặp_người_chồng_cũ_vozer/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-18T16:41:55+00:00</published>
   </entry>
 </feed>
