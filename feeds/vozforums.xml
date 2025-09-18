@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-09-18T19:37:08+00:00</updated>
+  <updated>2025-09-18T19:50:11+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -151,19 +151,6 @@
     <published>2025-09-18T17:25:05+00:00</published>
   </entry>
   <entry>
-    <id>t3_1njuo24</id>
-    <title>Tiền mất giá quá nhanh, nên làm gì với tiền dư hằng tháng</title>
-    <updated>2025-09-18T00:59:51+00:00</updated>
-    <author>
-      <name>/u/Vivid_Conclusion5732</name>
-      <uri>https://old.reddit.com/user/Vivid_Conclusion5732</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Ngày trước thì em có thói quen là 1 tháng trích ra 1 khoản gửi tiết kiệm, nhưng sau khi thấy giá vàng và bđs tăng phi mã thì thấy cách này không còn hiệu quả, coin với chứng khoán cũng thử rồi nhưng không có thời gian nghiên cứu và chắc cũng không có khiếu chơi. Giờ theo các bác là với tiền dư khoảng 40-50tr 1 tháng nên bỏ vào đâu? Em định mua vàng cất hằng tháng, có hợp lý không. Nhờ các bác chia sẻ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Vivid_Conclusion5732"&gt; /u/Vivid_Conclusion5732 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1njuo24/tiền_mất_giá_quá_nhanh_nên_làm_gì_với_tiền_dư/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1njuo24/tiền_mất_giá_quá_nhanh_nên_làm_gì_với_tiền_dư/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1njuo24/tiền_mất_giá_quá_nhanh_nên_làm_gì_với_tiền_dư/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-18T00:59:51+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nk84y7</id>
     <title>Cái này có chữa dc ko mn?(Ảnh hơi kinh)</title>
     <updated>2025-09-18T13:21:31+00:00</updated>
@@ -175,6 +162,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nk84y7/cái_này_có_chữa_dc_ko_mnảnh_hơi_kinh/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-18T13:21:31+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1njuo24</id>
+    <title>Tiền mất giá quá nhanh, nên làm gì với tiền dư hằng tháng</title>
+    <updated>2025-09-18T00:59:51+00:00</updated>
+    <author>
+      <name>/u/Vivid_Conclusion5732</name>
+      <uri>https://old.reddit.com/user/Vivid_Conclusion5732</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Ngày trước thì em có thói quen là 1 tháng trích ra 1 khoản gửi tiết kiệm, nhưng sau khi thấy giá vàng và bđs tăng phi mã thì thấy cách này không còn hiệu quả, coin với chứng khoán cũng thử rồi nhưng không có thời gian nghiên cứu và chắc cũng không có khiếu chơi. Giờ theo các bác là với tiền dư khoảng 40-50tr 1 tháng nên bỏ vào đâu? Em định mua vàng cất hằng tháng, có hợp lý không. Nhờ các bác chia sẻ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Vivid_Conclusion5732"&gt; /u/Vivid_Conclusion5732 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1njuo24/tiền_mất_giá_quá_nhanh_nên_làm_gì_với_tiền_dư/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1njuo24/tiền_mất_giá_quá_nhanh_nên_làm_gì_với_tiền_dư/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1njuo24/tiền_mất_giá_quá_nhanh_nên_làm_gì_với_tiền_dư/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-18T00:59:51+00:00</published>
   </entry>
   <entry>
     <id>t3_1nk2i31</id>
