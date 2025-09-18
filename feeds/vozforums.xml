@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-09-18T03:20:19+00:00</updated>
+  <updated>2025-09-18T03:46:36+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1njgzlj</id>
-    <title>Lời khuyên sắp xong khoá học it</title>
-    <updated>2025-09-17T15:55:23+00:00</updated>
-    <author>
-      <name>/u/Samuel_Who</name>
-      <uri>https://old.reddit.com/user/Samuel_Who</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Đồ án kỳ cuối này e làm microservice vừa springboot (web) và vừa code mobile Flutter em cũng chuẩn bị xong khoá full stack dự định tháng 12 xong sẽ đi xin việc, anh em có kinh nghiệm gì hay lời khuyên gì không hay khi ra trường mình nắm vững các kiến thức gì vì gì e cx bt chung chung&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Samuel_Who"&gt; /u/Samuel_Who &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1njgzlj/lời_khuyên_sắp_xong_khoá_học_it/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1njgzlj/lời_khuyên_sắp_xong_khoá_học_it/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1njgzlj/lời_khuyên_sắp_xong_khoá_học_it/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-17T15:55:23+00:00</published>
-  </entry>
   <entry>
     <id>t3_1nj4fmv</id>
     <title>Ở SG, vốn khoảng 200tr thì mình nên kinh doanh gì ạ.</title>
@@ -151,19 +138,6 @@
     <published>2025-09-18T02:25:55+00:00</published>
   </entry>
   <entry>
-    <id>t3_1njwo32</id>
-    <title>Iphone 17 pro max</title>
-    <updated>2025-09-18T02:34:54+00:00</updated>
-    <author>
-      <name>/u/ScaredRecover9405</name>
-      <uri>https://old.reddit.com/user/ScaredRecover9405</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em nghĩ em hỏi câu này nó hơi ngu ngốc với thừa thải, bây giờ em có 2 option để mua&lt;/p&gt; &lt;ol&gt; &lt;li&gt;&lt;p&gt;Trade in điện thoại với nhà mạng, được giảm $400, phần còn lại trả góp 24 tháng nhưng yêu cầu show điểm tín dụng các thứ rất lằng nhằng và con iphone em đang xài có nhiều kỉ niệm với em nên em không nỡ trade in- nó là con đt đầu em mua được và nó vẫn còn xài khá tốt, em định để nó làm đt phụ &lt;/p&gt; &lt;ol&gt; &lt;li&gt;Mua trực tiếp với Táo, không giảm giá, vẫn trả góp 24 tháng&lt;/li&gt; &lt;/ol&gt;&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Chọn kỉ niệm hay kinh phí mọi người nhỉ :(&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ScaredRecover9405"&gt; /u/ScaredRecover9405 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1njwo32/iphone_17_pro_max/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1njwo32/iphone_17_pro_max/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1njwo32/iphone_17_pro_max/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-18T02:34:54+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1njx1ow</id>
     <title>Gia Sư Tóan dỏm nhưng nhiệt tình</title>
     <updated>2025-09-18T02:53:11+00:00</updated>
@@ -216,6 +190,32 @@
     <published>2025-09-17T11:43:47+00:00</published>
   </entry>
   <entry>
+    <id>t3_1njtcdv</id>
+    <title>Tư vấn học tập - làm việc - sắp xếp thời gian và xin lời khuyên</title>
+    <updated>2025-09-17T23:57:37+00:00</updated>
+    <author>
+      <name>/u/tonyhuy_1764</name>
+      <uri>https://old.reddit.com/user/tonyhuy_1764</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hiện tại, em đang là sinh viên năm 4 (năm sau tốt nghiệp rồi). Kỳ rồi em đã xin gia hạn học phí và tháng 11 này phải đóng học phí cho kỳ rồi và kỳ này.&lt;/p&gt; &lt;p&gt;Ba em sắp tới chuẩn bị phải nghỉ làm 1.5 - 2 tháng do phải gửi xe về hãng để sửa (ba em làm tài xế xe máy).&lt;/p&gt; &lt;p&gt;Tầm cuối năm ngoái em phải nhập viện và đến đầu năm 2025 em cũng phải ra vào bệnh viện liên tục về vấn đề sức khoẻ nên khoảng đầu năm em đã nghỉ chạy xe giao hàng. Đến kỳ hè được thực tập ngoài trường em chủ nghĩ ít nhất cũng được trợ cấp nên cũng không lo lắm, nhưng thật sự không được trợ cấp nên kinh tế phụ thuộc vào ba khá nhiều. Về học tập, giảng viên hướng dẫn của em đã có đề tài từ đầu năm nay, em đã có kết quả nghiên cứu nhưng vẫn chưa dám nộp Thầy và cũng chưa nhắn tin báo cáo tiến độ cho Thầy từ đó đến giờ. Tầm tháng 7,8 Thầy có gửi mail em tài trợ tiền để lấy nghiên cứu em đi thi hội thảo cuối năm nay.&lt;/p&gt; &lt;p&gt;Hiện tại, em đang rất áp lực, lo về tiền bạc và cũng muốn học xong sớm để đi làm. Em cũng không thật sự có tự tin để gặp Thầy và cũng đang hơi mệt trong lúc đi học khi cứ nghĩ tới chuyện tiền bạc. Em còn nghĩ đến việc mail lại Thầy xin phép được không đi thi, chỉ cần lấy đề tài đó để làm luận văn tốt nghiệp.&lt;/p&gt; &lt;p&gt;Các bác nào có thể tư vấn, cho em lời khuyên em có thể làm gì vào lúc này. Hay các bác có thể giới thiệu công việc làm thêm buổi tối giúp em. Em ở phường Gia Định, TP.HCM.&lt;/p&gt; &lt;p&gt;Em xin cảm ơn các bác đã đọc và lắng nghe lời tâm sự của em.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/tonyhuy_1764"&gt; /u/tonyhuy_1764 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1njtcdv/tư_vấn_học_tập_làm_việc_sắp_xếp_thời_gian_và_xin/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1njtcdv/tư_vấn_học_tập_làm_việc_sắp_xếp_thời_gian_và_xin/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1njtcdv/tư_vấn_học_tập_làm_việc_sắp_xếp_thời_gian_và_xin/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-17T23:57:37+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1njwo32</id>
+    <title>Iphone 17 pro max</title>
+    <updated>2025-09-18T02:34:54+00:00</updated>
+    <author>
+      <name>/u/ScaredRecover9405</name>
+      <uri>https://old.reddit.com/user/ScaredRecover9405</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em nghĩ em hỏi câu này nó hơi ngu ngốc với thừa thải, bây giờ em có 2 option để mua&lt;/p&gt; &lt;ol&gt; &lt;li&gt;&lt;p&gt;Trade in điện thoại với nhà mạng, được giảm $400, phần còn lại trả góp 24 tháng nhưng yêu cầu show điểm tín dụng các thứ rất lằng nhằng và con iphone em đang xài có nhiều kỉ niệm với em nên em không nỡ trade in- nó là con đt đầu em mua được và nó vẫn còn xài khá tốt, em định để nó làm đt phụ &lt;/p&gt; &lt;ol&gt; &lt;li&gt;Mua trực tiếp với Táo, không giảm giá, vẫn trả góp 24 tháng&lt;/li&gt; &lt;/ol&gt;&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Chọn kỉ niệm hay kinh phí mọi người nhỉ :(&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ScaredRecover9405"&gt; /u/ScaredRecover9405 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1njwo32/iphone_17_pro_max/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1njwo32/iphone_17_pro_max/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1njwo32/iphone_17_pro_max/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-18T02:34:54+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1njjbxm</id>
     <title>tâm sự tí tiiiiiiii</title>
     <updated>2025-09-17T17:20:50+00:00</updated>
@@ -229,17 +229,17 @@
     <published>2025-09-17T17:20:50+00:00</published>
   </entry>
   <entry>
-    <id>t3_1njtcdv</id>
-    <title>Tư vấn học tập - làm việc - sắp xếp thời gian và xin lời khuyên</title>
-    <updated>2025-09-17T23:57:37+00:00</updated>
+    <id>t3_1njxmr7</id>
+    <title>Học sinh lớp 11 cần vài lời khuyên.</title>
+    <updated>2025-09-18T03:23:15+00:00</updated>
     <author>
-      <name>/u/tonyhuy_1764</name>
-      <uri>https://old.reddit.com/user/tonyhuy_1764</uri>
+      <name>/u/xinhgaiso1_102</name>
+      <uri>https://old.reddit.com/user/xinhgaiso1_102</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hiện tại, em đang là sinh viên năm 4 (năm sau tốt nghiệp rồi). Kỳ rồi em đã xin gia hạn học phí và tháng 11 này phải đóng học phí cho kỳ rồi và kỳ này.&lt;/p&gt; &lt;p&gt;Ba em sắp tới chuẩn bị phải nghỉ làm 1.5 - 2 tháng do phải gửi xe về hãng để sửa (ba em làm tài xế xe máy).&lt;/p&gt; &lt;p&gt;Tầm cuối năm ngoái em phải nhập viện và đến đầu năm 2025 em cũng phải ra vào bệnh viện liên tục về vấn đề sức khoẻ nên khoảng đầu năm em đã nghỉ chạy xe giao hàng. Đến kỳ hè được thực tập ngoài trường em chủ nghĩ ít nhất cũng được trợ cấp nên cũng không lo lắm, nhưng thật sự không được trợ cấp nên kinh tế phụ thuộc vào ba khá nhiều. Về học tập, giảng viên hướng dẫn của em đã có đề tài từ đầu năm nay, em đã có kết quả nghiên cứu nhưng vẫn chưa dám nộp Thầy và cũng chưa nhắn tin báo cáo tiến độ cho Thầy từ đó đến giờ. Tầm tháng 7,8 Thầy có gửi mail em tài trợ tiền để lấy nghiên cứu em đi thi hội thảo cuối năm nay.&lt;/p&gt; &lt;p&gt;Hiện tại, em đang rất áp lực, lo về tiền bạc và cũng muốn học xong sớm để đi làm. Em cũng không thật sự có tự tin để gặp Thầy và cũng đang hơi mệt trong lúc đi học khi cứ nghĩ tới chuyện tiền bạc. Em còn nghĩ đến việc mail lại Thầy xin phép được không đi thi, chỉ cần lấy đề tài đó để làm luận văn tốt nghiệp.&lt;/p&gt; &lt;p&gt;Các bác nào có thể tư vấn, cho em lời khuyên em có thể làm gì vào lúc này. Hay các bác có thể giới thiệu công việc làm thêm buổi tối giúp em. Em ở phường Gia Định, TP.HCM.&lt;/p&gt; &lt;p&gt;Em xin cảm ơn các bác đã đọc và lắng nghe lời tâm sự của em.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/tonyhuy_1764"&gt; /u/tonyhuy_1764 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1njtcdv/tư_vấn_học_tập_làm_việc_sắp_xếp_thời_gian_và_xin/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1njtcdv/tư_vấn_học_tập_làm_việc_sắp_xếp_thời_gian_và_xin/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1njtcdv/tư_vấn_học_tập_làm_việc_sắp_xếp_thời_gian_và_xin/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mọi người ơi, đang đang là học sinh cấp 3 đang lớp 11 và em đang cảm thấy thời gian của mình trôi qua vô nghĩa, đi học về em chỉ vào phòng trọ ngày qua ngày cứ thế em đang cảm thấy mình vô hướng trước tương lai, lớp thì em cũng chỉ chơi với 1-2 bạn thôi em cũng khá trầm tính. Anh chị nào có lời khuyên gì giúp em với ạ. Em cảm ơn!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/xinhgaiso1_102"&gt; /u/xinhgaiso1_102 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1njxmr7/học_sinh_lớp_11_cần_vài_lời_khuyên/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1njxmr7/học_sinh_lớp_11_cần_vài_lời_khuyên/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1njxmr7/học_sinh_lớp_11_cần_vài_lời_khuyên/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-17T23:57:37+00:00</published>
+    <published>2025-09-18T03:23:15+00:00</published>
   </entry>
   <entry>
     <id>t3_1njl8at</id>
