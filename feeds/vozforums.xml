@@ -2,37 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-09-18T17:15:30+00:00</updated>
+  <updated>2025-09-18T17:38:58+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1nk0ntt</id>
-    <title>🚀 Enfyra - Platform tự động tạo REST + GraphQL API từ database schema</title>
-    <updated>2025-09-18T06:15:44+00:00</updated>
-    <author>
-      <name>/u/Affectionate-Safe515</name>
-      <uri>https://old.reddit.com/user/Affectionate-Safe515</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào ae dev Việt! 👋&lt;/p&gt; &lt;p&gt;Mình khá tệ trong việc viết lách nên nội dung bên dưới là 100% từ AI nha!!!&lt;/p&gt; &lt;p&gt;Mình vừa launch xong &lt;strong&gt;Enfyra&lt;/strong&gt; - một platform backend tự động generate REST và GraphQL APIs từ database schema của bạn, kèm admin interface để quản lý mọi thứ bằng giao diện.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Giải quyết vấn đề gì?&lt;/strong&gt; Chán viết CRUD operations lặp đi lặp lại mãi? Enfyra loại bỏ hết những việc lặp lại này:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Tạo table&lt;/strong&gt; → Tự động có REST endpoints + GraphQL schema&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Admin interface&lt;/strong&gt; → Quản lý data không cần code frontend&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Custom logic&lt;/strong&gt; → Override bằng JS/TS handlers khi cần&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Install packages runtime&lt;/strong&gt; → Cài NPM packages qua UI, không cần động vào package.json&lt;/li&gt; &lt;li&gt;&lt;p&gt;&lt;strong&gt;Zero downtime&lt;/strong&gt; → Thay đổi schema không làm crash API&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Cách hoạt động&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;1. Thiết kế cấu trúc data&lt;/strong&gt; Tạo tables qua admin interface - không cần SQL. Định nghĩa columns, relationships, constraints bằng giao diện.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;2. APIs được tạo tự động&lt;/strong&gt; Mỗi table ngay lập tức trở thành:&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Đầy đủ REST CRUD endpoints (&lt;code&gt;GET&lt;/code&gt;, &lt;code&gt;POST&lt;/code&gt;, &lt;code&gt;PATCH&lt;/code&gt;, &lt;code&gt;DELETE&lt;/code&gt;)&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;GraphQL schema&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Filtering, sorting, pagination, relation queries siêu xịn&lt;/p&gt; &lt;p&gt;&lt;strong&gt;3. Customize khi cần&lt;/strong&gt; Viết JavaScript handlers cho business logic:&lt;/p&gt; &lt;p&gt;// Custom route handler - code trực tiếp, không cần wrapper function const slug = $ctx.$helpers.autoSlug($ctx.$body.title) const result = await $ctx.$repos.posts.create({ ...$ctx.$body, slug, authorId: $ctx.$user.id, publishedAt: new Date() }) return result&lt;/p&gt; &lt;p&gt;&lt;strong&gt;4. Install packages runtime&lt;/strong&gt; Cần thư viện ngoài? Install NPM packages trực tiếp qua UI:&lt;/p&gt; &lt;p&gt;// Install axios, lodash, moment qua admin interface // Xong dùng ngay trong handlers:&lt;/p&gt; &lt;p&gt;const axios = $ctx.$pkgs.axios const _ = $ctx.$pkgs.lodash const moment = $ctx.$pkgs.moment&lt;/p&gt; &lt;p&gt;// Fetch data từ API ngoài và xử lý const response = await axios.get('&lt;a href="https://api.external.com/data&amp;#x27;"&gt;https://api.external.com/data'&lt;/a&gt;) const grouped = _.groupBy(response.data, 'category')&lt;/p&gt; &lt;p&gt;return { data: grouped, timestamp: moment().format('YYYY-MM-DD HH:mm:ss') }&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Tech Stack&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Backend (NestJS + TypeScript)&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;TypeORM cho database (MySQL, PostgreSQL, SQLite)&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Redis cho caching và sync multi-instance&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;GraphQL Yoga cho GraphQL server&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Sandboxed execution cho security&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Dynamic entity generation&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Frontend (Nuxt 4 + Vue 3)&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;TailwindCSS + Nuxt UI&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Dynamic form generation&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Extension system với live compilation&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Khác biệt gì so với các platform khác?&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;🚀 Bắt đầu đơn giản, scale phức tạp&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Khởi đầu với no-code table creation&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Thêm custom logic dần dần&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Không bao giờ bị giới hạn bởi platform&lt;/p&gt; &lt;p&gt;&lt;strong&gt;🔓 Full API access&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Data không bị nhốt trong hệ thống proprietary&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Standard REST và GraphQL endpoints&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Dùng bất kỳ frontend framework nào&lt;/p&gt; &lt;p&gt;&lt;strong&gt;📦 Runtime package installation&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Install NPM packages qua admin UI&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Packages ngay lập tức có trong handlers: &lt;code&gt;$ctx.$pkgs.packagename&lt;/code&gt;&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Không cần restart server&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Các packages phổ biến: axios, lodash, moment, joi, uuid, bcrypt.... bất kỳ thứ gì&lt;/p&gt; &lt;p&gt;&lt;strong&gt;⚡ Real-time mọi thứ&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Thay đổi schema reflect ngay trong API&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Extensions compile và load từ database&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Multi-instance sync qua Redis&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Use cases thực tế&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;E-commerce Backend&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Products, categories, orders, customers&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Quản lý inventory với cảnh báo hết hàng&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Custom pricing logic và tính discount&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Content Management&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Blog posts, pages, quản lý media&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Multi-language content&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;SEO optimization&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Business Applications&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;CRM với workflow automation&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Project management với time tracking&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Hệ thống inventory với barcode scanning&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Third-party Integrations&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Payment với Stripe SDK&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Email với Nodemailer&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;SMS với Twilio&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Cloud storage với AWS SDK&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Performance &amp;amp; Scale&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Intelligent Caching&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;SWR pattern cho performance tối ưu&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Route-level caching với auto invalidation&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Database connection pooling&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Multi-instance Architecture&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Chạy nhiều servers với auto schema sync&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Compatible với load balancer&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Stateless design với Redis coordination&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Có gì trong v0.1.0-beta&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;✅ &lt;strong&gt;Backend Repository&lt;/strong&gt; (Elastic License 2.0)&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Complete API generation engine&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Custom handler system&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Runtime NPM package installation&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Multi-database support&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Production-ready authentication&lt;/p&gt; &lt;p&gt;✅ &lt;strong&gt;Frontend Repository&lt;/strong&gt; (MIT License)&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Visual admin interface&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Real-time schema management&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Package management UI&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Extension marketplace foundation&lt;/p&gt; &lt;p&gt;✅ &lt;strong&gt;Documentation đầy đủ&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Hướng dẫn setup từng bước&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;API reference và examples&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Tutorials sử dụng packages&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Guides phát triển extensions&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;&lt;strong&gt;Documentation:&lt;/strong&gt; &lt;a href="https://github.com/dothinh115/enfyra-docs"&gt;https://github.com/dothinh115/enfyra-docs&lt;/a&gt;&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;&lt;strong&gt;Live demo:&lt;/strong&gt; &lt;a href="https://demo.enfyra.io"&gt;https://demo.enfyra.io&lt;/a&gt; (Mình đã điền tài khoản và mật khẩu, click login ngay khi vào trang)&lt;/p&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Đây là open source project đầu tiên của mình - giải quyết việc lặp lại backend work mà mình hay gặp trong các client projects. Mục tiêu là loại bỏ những phần boring của backend development nhưng vẫn giữ được flexibility cho requirements phức tạp.&lt;/p&gt; &lt;p&gt;Feature runtime package installation đặc biệt powerful - bạn có thể install axios, lodash, stripe SDK, hoặc bất kỳ NPM package nào qua UI và dùng ngay trong custom handlers mà không cần config server gì cả.&lt;/p&gt; &lt;p&gt;Beta đã sẵn sàng để test và nhận feedback. Rất mong được nghe ý kiến từ anh em dev Việt Nam! 🚀&lt;/p&gt; &lt;p&gt;Mình cũng đang tìm contributors và early adopters để cùng phát triển project này. Welcome mọi người!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Affectionate-Safe515"&gt; /u/Affectionate-Safe515 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nk0ntt/enfyra_platform_tự_động_tạo_rest_graphql_api_từ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nk0ntt/enfyra_platform_tự_động_tạo_rest_graphql_api_từ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nk0ntt/enfyra_platform_tự_động_tạo_rest_graphql_api_từ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-18T06:15:44+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1nk9jpa</id>
-    <title>Đổi GPLX nước ngoài về VN</title>
-    <updated>2025-09-18T14:18:00+00:00</updated>
-    <author>
-      <name>/u/Medical-Matter-4015</name>
-      <uri>https://old.reddit.com/user/Medical-Matter-4015</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình đang thắc mắc là mình có GPLX Mỹ, nhưng mình là sinh viên theo dạng visa F1, thì không biết khi về VN có đổi sang GPLX VN được không? Và nếu được thì thời hạn GPLX VN bao lâu?&lt;/p&gt; &lt;p&gt;Có ai đổi chưa cho mình xin thông tin với🥹🥹🥹&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Medical-Matter-4015"&gt; /u/Medical-Matter-4015 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nk9jpa/đổi_gplx_nước_ngoài_về_vn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nk9jpa/đổi_gplx_nước_ngoài_về_vn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nk9jpa/đổi_gplx_nước_ngoài_về_vn/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-18T14:18:00+00:00</published>
-  </entry>
   <entry>
     <id>t3_1nkario</id>
     <title>Cận trên 4 độ 2 mắt thì liệu có bị ép đi nghĩa vụ không?</title>
@@ -171,7 +145,7 @@
       <name>/u/SedMachine</name>
       <uri>https://old.reddit.com/user/SedMachine</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác, em học xong đại học thì bị gọi đi nvqs, rồi xong ra không biết mình nên làm gì. Kiểu em không biết mình thích cái gì, mình muốn cái gì, mình theo nó liệu có ổn không vì em h 25 tuổi rồi. Vì là thằng con trai duy nhất nên gia đình luôn muốn đòi cưới sớm để có con cháu. Em thì ngược lại, chỉ mong kiếm được việc nào ổn định, cũng không dám yêu đương vì trong tay mình không có gì cả.&lt;br /&gt; Em đang tính học tiếng nhật để làm phiên dịch viên còn trong thời gian đó em đi làm thêm. Lý do em nghĩ tới điều đó là vì trước em có đam mê với việc học ngôn ngữ. Nhưng trong lòng em vẫn không dám chắc con đường đó có đúng không? Em xin lời khuyên với ạ, mình có nên thử sức với nhiều lĩnh vực khác hay nên chọn đúng 1 hướng đi để ổn định?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/SedMachine"&gt; /u/SedMachine &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nke3bg/mông_lung_về_tương_lai_sau_này/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nke3bg/mông_lung_về_tương_lai_sau_này/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác, em học xong đại học thì bị gọi đi nvqs và đã hoàn thành xong, cơ mà xong ra em không biết mình nên làm gì. Kiểu em không biết mình thích cái gì, mình muốn cái gì, mình theo nó liệu có ổn không vì em h 25 tuổi rồi. Vì là thằng con trai duy nhất nên gia đình luôn muốn đòi cưới sớm để có con cháu. Em thì ngược lại, chỉ mong kiếm được việc nào ổn định, cũng không dám yêu đương vì trong tay mình không có gì cả.&lt;br /&gt; Em đang tính học tiếng nhật để làm phiên dịch viên còn trong thời gian đó em đi làm thêm. Lý do em nghĩ tới điều đó là vì trước em có đam mê với việc học ngôn ngữ. Nhưng trong lòng em vẫn không dám chắc con đường đó có đúng không? Em xin lời khuyên với ạ, mình có nên thử sức với nhiều lĩnh vực khác hay nên chọn đúng 1 hướng đi để ổn định?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/SedMachine"&gt; /u/SedMachine &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nke3bg/mông_lung_về_tương_lai_sau_này/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nke3bg/mông_lung_về_tương_lai_sau_này/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
     <link href="https://old.reddit.com/r/vozforums/comments/1nke3bg/mông_lung_về_tương_lai_sau_này/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-18T17:08:25+00:00</published>
@@ -190,17 +164,30 @@
     <published>2025-09-18T14:57:54+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nke4tl</id>
-    <title>Vì sao buổi hẹn đầu nam thường phải trả tiền ?</title>
-    <updated>2025-09-18T17:09:59+00:00</updated>
+    <id>t3_1nkejcc</id>
+    <title>Tìm ctv</title>
+    <updated>2025-09-18T17:25:05+00:00</updated>
     <author>
-      <name>/u/kitchcu</name>
-      <uri>https://old.reddit.com/user/kitchcu</uri>
+      <name>/u/Tuan_tien_ti</name>
+      <uri>https://old.reddit.com/user/Tuan_tien_ti</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hình như có nhiều người hiểu lầm gì ở đây thì phải, nếu đúng theo quy tắc xả giao ai mời thì người đó sẽ trả và chẳng phân biệt nam hay nữ gì hết. Thường các buổi hẹn hò đầu thì nam luôn là người chủ động mời nên họ sẽ trả, thành ra về lâu dài nhiều bạn cứ bị mặc định nam phải là người trả tiền cho buổi hẹn đầu, tai hại hơn là tất cả buổi hẹn sau luôn cơ, xong rồi nhiều ông lại lên mạng phàn nàn rồi lôi cái bình đẳng giới ra nói chuyện :))&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/kitchcu"&gt; /u/kitchcu &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nke4tl/vì_sao_buổi_hẹn_đầu_nam_thường_phải_trả_tiền/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nke4tl/vì_sao_buổi_hẹn_đầu_nam_thường_phải_trả_tiền/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nke4tl/vì_sao_buổi_hẹn_đầu_nam_thường_phải_trả_tiền/"/>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1nkejcc/tìm_ctv/"&gt; &lt;img alt="Tìm ctv" src="https://preview.redd.it/2m6dndxqjypf1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=8423d1f6fdb6238716868e81ae47fed30528588a" title="Tìm ctv" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tuyển ctv bán tài nguyên game cho các game thủ Mỹ Trung Nhật Nga .&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Tuan_tien_ti"&gt; /u/Tuan_tien_ti &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/2m6dndxqjypf1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nkejcc/tìm_ctv/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nkejcc/tìm_ctv/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-18T17:09:59+00:00</published>
+    <published>2025-09-18T17:25:05+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nkejo3</id>
+    <title>Tìm app học tiếng Anh từ vựng và ngữ pháp</title>
+    <updated>2025-09-18T17:25:24+00:00</updated>
+    <author>
+      <name>/u/Even-Fun-5454</name>
+      <uri>https://old.reddit.com/user/Even-Fun-5454</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Như tiêu đề em muốn tìm một app học từ vựng và ngữ pháp ổn ổn một xíu. Vì đi làm nên thời gian ngồi tập trung trên lớp khá lười và bản thân em lại thích học online và 1 mình hơn. Ko biết có app nào ok ko ạ, từ vựng và ngữ pháp thôi ạ chứ giao tiếp và nghe thì em nghĩ training thực tế thôi. Trước em học Quizlet nhưng mà cũng hơi nhàm chán và phụ thuộc vào tài liệu người khác xây dựng.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Even-Fun-5454"&gt; /u/Even-Fun-5454 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nkejo3/tìm_app_học_tiếng_anh_từ_vựng_và_ngữ_pháp/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nkejo3/tìm_app_học_tiếng_anh_từ_vựng_và_ngữ_pháp/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nkejo3/tìm_app_học_tiếng_anh_từ_vựng_và_ngữ_pháp/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-18T17:25:24+00:00</published>
   </entry>
   <entry>
     <id>t3_1njuo24</id>
@@ -242,6 +229,19 @@
     <published>2025-09-18T15:26:57+00:00</published>
   </entry>
   <entry>
+    <id>t3_1nk6jyv</id>
+    <title>Mấy anh cho em hỏi, em cao 1m8, 80kg, một bên mắt cận hơn 3 độ, bên kia 1 độ hơn thì có cần đi nvqs không ạ?</title>
+    <updated>2025-09-18T12:11:34+00:00</updated>
+    <author>
+      <name>/u/colocken</name>
+      <uri>https://old.reddit.com/user/colocken</uri>
+    </author>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/colocken"&gt; /u/colocken &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nk6jyv/mấy_anh_cho_em_hỏi_em_cao_1m8_80kg_một_bên_mắt/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nk6jyv/mấy_anh_cho_em_hỏi_em_cao_1m8_80kg_một_bên_mắt/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nk6jyv/mấy_anh_cho_em_hỏi_em_cao_1m8_80kg_một_bên_mắt/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-18T12:11:34+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1nk58k0</id>
     <title>[Nhờ tư vấn] Trầm cảm nặng có loạn thần (F32.3) – mình nên làm gì tiếp theo?</title>
     <updated>2025-09-18T11:04:13+00:00</updated>
@@ -268,19 +268,6 @@
     <published>2025-09-18T12:41:55+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nk6jyv</id>
-    <title>Mấy anh cho em hỏi, em cao 1m8, 80kg, một bên mắt cận hơn 3 độ, bên kia 1 độ hơn thì có cần đi nvqs không ạ?</title>
-    <updated>2025-09-18T12:11:34+00:00</updated>
-    <author>
-      <name>/u/colocken</name>
-      <uri>https://old.reddit.com/user/colocken</uri>
-    </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/colocken"&gt; /u/colocken &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nk6jyv/mấy_anh_cho_em_hỏi_em_cao_1m8_80kg_một_bên_mắt/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nk6jyv/mấy_anh_cho_em_hỏi_em_cao_1m8_80kg_một_bên_mắt/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nk6jyv/mấy_anh_cho_em_hỏi_em_cao_1m8_80kg_một_bên_mắt/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-18T12:11:34+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nk11zm</id>
     <title>Thread là thánh địa sống ảo- flex</title>
     <updated>2025-09-18T06:39:46+00:00</updated>
@@ -292,6 +279,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nk11zm/thread_là_thánh_địa_sống_ảo_flex/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-18T06:39:46+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nke4tl</id>
+    <title>Vì sao buổi hẹn đầu nam thường phải trả tiền ?</title>
+    <updated>2025-09-18T17:09:59+00:00</updated>
+    <author>
+      <name>/u/kitchcu</name>
+      <uri>https://old.reddit.com/user/kitchcu</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hình như có nhiều người hiểu lầm gì ở đây thì phải, nếu đúng theo quy tắc xả giao ai mời thì người đó sẽ trả và chẳng phân biệt nam hay nữ gì hết. Thường các buổi hẹn hò đầu thì nam luôn là người chủ động mời nên họ sẽ trả, thành ra về lâu dài nhiều bạn cứ bị mặc định nam phải là người trả tiền cho buổi hẹn đầu, tai hại hơn là tất cả buổi hẹn sau luôn cơ, xong rồi nhiều ông lại lên mạng phàn nàn rồi lôi cái bình đẳng giới ra nói chuyện :))&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/kitchcu"&gt; /u/kitchcu &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nke4tl/vì_sao_buổi_hẹn_đầu_nam_thường_phải_trả_tiền/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nke4tl/vì_sao_buổi_hẹn_đầu_nam_thường_phải_trả_tiền/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nke4tl/vì_sao_buổi_hẹn_đầu_nam_thường_phải_trả_tiền/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-18T17:09:59+00:00</published>
   </entry>
   <entry>
     <id>t3_1nju6ev</id>
