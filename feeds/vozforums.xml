@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-09-19T16:54:07+00:00</updated>
+  <updated>2025-09-19T17:15:00+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -125,19 +125,6 @@
     <published>2025-09-19T15:12:33+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nl3r0j</id>
-    <title>Viêm gan và nvqs</title>
-    <updated>2025-09-19T13:35:01+00:00</updated>
-    <author>
-      <name>/u/lolilands</name>
-      <uri>https://old.reddit.com/user/lolilands</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác, em là M25. 2 năm vừa rồi em sang Nhật làm IT, tới giữa năm nay thì hết hợp đồng và phải về lại VN. Em mới tìm được việc làm và chuẩn bị nhận việc vào tháng tới thì nhận được giấy gọi khám nvqs. Các bác cho em hỏi là 1m76, 68kg + với viêm gan B di truyền từ mẹ thì có đi không các bác? Em có tìm hiểu về viêm gan B thể ngủ thì thuộc sk loại 3 và vẫn phải đi.&lt;/p&gt; &lt;p&gt;Có bác nào đã từng đi khám với bệnh lí trên và được cho ở nhà thì cho em xin lời khuyên với ạ. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/lolilands"&gt; /u/lolilands &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nl3r0j/viêm_gan_và_nvqs/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nl3r0j/viêm_gan_và_nvqs/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nl3r0j/viêm_gan_và_nvqs/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-19T13:35:01+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nl4xsr</id>
     <title>Kể khổ và bức xúc thực tập trời ơi đất hỡi ở cty văn hóa gia đình trị</title>
     <updated>2025-09-19T14:22:41+00:00</updated>
@@ -162,6 +149,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nl08pg/trúng_số_có_phải_hết_phước/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-19T10:48:17+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nl3r0j</id>
+    <title>Viêm gan và nvqs</title>
+    <updated>2025-09-19T13:35:01+00:00</updated>
+    <author>
+      <name>/u/lolilands</name>
+      <uri>https://old.reddit.com/user/lolilands</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác, em là M25. 2 năm vừa rồi em sang Nhật làm IT, tới giữa năm nay thì hết hợp đồng và phải về lại VN. Em mới tìm được việc làm và chuẩn bị nhận việc vào tháng tới thì nhận được giấy gọi khám nvqs. Các bác cho em hỏi là 1m76, 68kg + với viêm gan B di truyền từ mẹ thì có đi không các bác? Em có tìm hiểu về viêm gan B thể ngủ thì thuộc sk loại 3 và vẫn phải đi.&lt;/p&gt; &lt;p&gt;Có bác nào đã từng đi khám với bệnh lí trên và được cho ở nhà thì cho em xin lời khuyên với ạ. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/lolilands"&gt; /u/lolilands &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nl3r0j/viêm_gan_và_nvqs/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nl3r0j/viêm_gan_và_nvqs/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nl3r0j/viêm_gan_và_nvqs/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-19T13:35:01+00:00</published>
   </entry>
   <entry>
     <id>t3_1nkypkx</id>
@@ -190,17 +190,17 @@
     <published>2025-09-18T20:16:23+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nl88h2</id>
-    <title>Tâm sự chuyện tình dang dở</title>
-    <updated>2025-09-19T16:27:11+00:00</updated>
+    <id>t3_1nl5744</id>
+    <title>Nhờ các anh chị cô chú tư vấn giúp thằng em này ạ</title>
+    <updated>2025-09-19T14:32:46+00:00</updated>
     <author>
-      <name>/u/GracePham14</name>
-      <uri>https://old.reddit.com/user/GracePham14</uri>
+      <name>/u/Unusual_Currency_511</name>
+      <uri>https://old.reddit.com/user/Unusual_Currency_511</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Dạo này thất nghiệp nên em có nhiều thời gian rảnh, nằm nghĩ linh tinh. Em (nữ, 24 tuổi) đã độc thân khoảng 4–5 năm, sau khi chia tay mối tình đầu (cũng quen không lâu). Sau đó em cũng tìm hiểu khá nhiều người nhưng chẳng mối nào đi đến đâu.&lt;/p&gt; &lt;p&gt;Mọi người xung quanh hay bảo có thể em hơi khép kín, chưa mở lòng nhưng thật ra em cũng chẳng còn vương vấn gì người cũ (vì thời gian hẹn hò ngắn và chia tay cũng lâu rồi). Em cũng có thiện cảm với vài người, đi chơi vài lần, nhưng rồi họ thay đổi, em cũng chủ động kết thúc. Sau này mới biết họ còn có những đối tượng khác nữa ( lúc còn đi chơi nói chuyện em không biết, sau khi kết thúc tự nhiên nó xuất hiện trước mắt em ). Có những người thì xin in4, nhắn tin, giúp đỡ em đôi chút trong cuộc sống nhưng rồi cũng không tiến xa hơn.&lt;/p&gt; &lt;p&gt;Gần đây em còn thử đi xem mắt. Buổi gặp khá vui, chính họ nói thế, nhưng rồi sau đó lại biến mất 🤡. Em bắt đầu tự hỏi không biết mình có “vấn đề” gì trong chuyện tình cảm không. Tình duyên của em cứ trúc trắc, dở dang như vậy, đôi khi em nghĩ không biết có bị “duyên âm” không nữa😅.&lt;/p&gt; &lt;p&gt;Về ngoại hình, mọi người nhận xét em xinh, thu hút nên em cũng không nghĩ vấn đề nằm ở đó.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/GracePham14"&gt; /u/GracePham14 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nl88h2/tâm_sự_chuyện_tình_dang_dở/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nl88h2/tâm_sự_chuyện_tình_dang_dở/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nl88h2/tâm_sự_chuyện_tình_dang_dở/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chẳng là năm nay em phải tham gia kì thì đại học và khá nhiều kì thi khác như ielts ,đánh giá năng lực ,học sinh giỏi thành phố ,... Về khoản e thì học lực cũng khá tốt nên e đã quyết định mua khoá học trên mạng về để tự học thay vì đi học thêm thầy cô mỗi tháng khá đắt đỏ coi như để tiết kiệm tiền bạc cho cha mẹ .Nhưng sau 3 tháng e ngồi tự học ở nhà thì e thấy có cảm giác rất áp lực với những bạn bè những ai đã đi học thêm .Vì họ được thầy cô chỉ dạy đến nơi đến chốn ,kèm từ a - z nên khi e thấy các bạn tiến bộ hơn rất nhiều e cũng thấy rất lo cho e vì sợ e tự học sẽ không đú lại các bạn&lt;/p&gt; &lt;p&gt;Với cả em thấy tự học nó rất khó khăn ,chỉ riêng mỗi ngày chỉ có 1 mình ngồi vào bàn học 5 - 6 tiếng đồng hồ ôm cái máy tính để học online thì e thấy rất mệt mỏi .Chưa kể có nhiều hôm e xao lãng rồi không tập trung hẳn hoi vào việc học .Ngay bây giờ em mới thấy tự học nó rất mệt mỏi ,dễ burn out và xao lãng .&lt;/p&gt; &lt;p&gt;Hiện tại e đang khá phân vân không biết nên đóng tiền học thêm thầy cô dạy tại lớp hay tiếp tục việc học online vì e đã tốn tiền để mua khoá học mà giờ đăng kí học off lại thì ko biết nói sau với cha mẹ ,rất uổng tiền .Hoặc e sẽ cố gắng tự học .Chung quy lại e cũng ko biết mình viết bài post này để làm gì ,chắc có lẽ là tìm động lực nhỏ từ lời động viên mấy anh chị mặc dù e biết bản thân e vẫn phải tự thân vận động&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Unusual_Currency_511"&gt; /u/Unusual_Currency_511 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nl5744/nhờ_các_anh_chị_cô_chú_tư_vấn_giúp_thằng_em_này_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nl5744/nhờ_các_anh_chị_cô_chú_tư_vấn_giúp_thằng_em_này_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nl5744/nhờ_các_anh_chị_cô_chú_tư_vấn_giúp_thằng_em_này_ạ/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-19T16:27:11+00:00</published>
+    <published>2025-09-19T14:32:46+00:00</published>
   </entry>
   <entry>
     <id>t3_1nl2hfd</id>
@@ -214,19 +214,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nl2hfd/yêu_lước_và_nvqs/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-19T12:41:00+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1nl5744</id>
-    <title>Nhờ các anh chị cô chú tư vấn giúp thằng em này ạ</title>
-    <updated>2025-09-19T14:32:46+00:00</updated>
-    <author>
-      <name>/u/Unusual_Currency_511</name>
-      <uri>https://old.reddit.com/user/Unusual_Currency_511</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chẳng là năm nay em phải tham gia kì thì đại học và khá nhiều kì thi khác như ielts ,đánh giá năng lực ,học sinh giỏi thành phố ,... Về khoản e thì học lực cũng khá tốt nên e đã quyết định mua khoá học trên mạng về để tự học thay vì đi học thêm thầy cô mỗi tháng khá đắt đỏ coi như để tiết kiệm tiền bạc cho cha mẹ .Nhưng sau 3 tháng e ngồi tự học ở nhà thì e thấy có cảm giác rất áp lực với những bạn bè những ai đã đi học thêm .Vì họ được thầy cô chỉ dạy đến nơi đến chốn ,kèm từ a - z nên khi e thấy các bạn tiến bộ hơn rất nhiều e cũng thấy rất lo cho e vì sợ e tự học sẽ không đú lại các bạn&lt;/p&gt; &lt;p&gt;Với cả em thấy tự học nó rất khó khăn ,chỉ riêng mỗi ngày chỉ có 1 mình ngồi vào bàn học 5 - 6 tiếng đồng hồ ôm cái máy tính để học online thì e thấy rất mệt mỏi .Chưa kể có nhiều hôm e xao lãng rồi không tập trung hẳn hoi vào việc học .Ngay bây giờ em mới thấy tự học nó rất mệt mỏi ,dễ burn out và xao lãng .&lt;/p&gt; &lt;p&gt;Hiện tại e đang khá phân vân không biết nên đóng tiền học thêm thầy cô dạy tại lớp hay tiếp tục việc học online vì e đã tốn tiền để mua khoá học mà giờ đăng kí học off lại thì ko biết nói sau với cha mẹ ,rất uổng tiền .Hoặc e sẽ cố gắng tự học .Chung quy lại e cũng ko biết mình viết bài post này để làm gì ,chắc có lẽ là tìm động lực nhỏ từ lời động viên mấy anh chị mặc dù e biết bản thân e vẫn phải tự thân vận động&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Unusual_Currency_511"&gt; /u/Unusual_Currency_511 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nl5744/nhờ_các_anh_chị_cô_chú_tư_vấn_giúp_thằng_em_này_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nl5744/nhờ_các_anh_chị_cô_chú_tư_vấn_giúp_thằng_em_này_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nl5744/nhờ_các_anh_chị_cô_chú_tư_vấn_giúp_thằng_em_này_ạ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-19T14:32:46+00:00</published>
   </entry>
   <entry>
     <id>t3_1nl2r0y</id>
@@ -266,6 +253,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nkyb2x/hntokyo_em_xin_phép_share_job_it_nonit_cho_ace_ạ/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-19T08:48:52+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nl88h2</id>
+    <title>Tâm sự chuyện tình dang dở</title>
+    <updated>2025-09-19T16:27:11+00:00</updated>
+    <author>
+      <name>/u/GracePham14</name>
+      <uri>https://old.reddit.com/user/GracePham14</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Dạo này thất nghiệp nên em có nhiều thời gian rảnh, nằm nghĩ linh tinh. Em (nữ, 24 tuổi) đã độc thân khoảng 4–5 năm, sau khi chia tay mối tình đầu (cũng quen không lâu). Sau đó em cũng tìm hiểu khá nhiều người nhưng chẳng mối nào đi đến đâu.&lt;/p&gt; &lt;p&gt;Mọi người xung quanh hay bảo có thể em hơi khép kín, chưa mở lòng nhưng thật ra em cũng chẳng còn vương vấn gì người cũ (vì thời gian hẹn hò ngắn và chia tay cũng lâu rồi). Em cũng có thiện cảm với vài người, đi chơi vài lần, nhưng rồi họ thay đổi, em cũng chủ động kết thúc. Sau này mới biết họ còn có những đối tượng khác nữa ( lúc còn đi chơi nói chuyện em không biết, sau khi kết thúc tự nhiên nó xuất hiện trước mắt em ). Có những người thì xin in4, nhắn tin, giúp đỡ em đôi chút trong cuộc sống nhưng rồi cũng không tiến xa hơn.&lt;/p&gt; &lt;p&gt;Gần đây em còn thử đi xem mắt. Buổi gặp khá vui, chính họ nói thế, nhưng rồi sau đó lại biến mất 🤡. Em bắt đầu tự hỏi không biết mình có “vấn đề” gì trong chuyện tình cảm không. Tình duyên của em cứ trúc trắc, dở dang như vậy, đôi khi em nghĩ không biết có bị “duyên âm” không nữa😅.&lt;/p&gt; &lt;p&gt;Về ngoại hình, mọi người nhận xét em xinh, thu hút nên em cũng không nghĩ vấn đề nằm ở đó.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/GracePham14"&gt; /u/GracePham14 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nl88h2/tâm_sự_chuyện_tình_dang_dở/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nl88h2/tâm_sự_chuyện_tình_dang_dở/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nl88h2/tâm_sự_chuyện_tình_dang_dở/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-19T16:27:11+00:00</published>
   </entry>
   <entry>
     <id>t3_1nkddei</id>
