@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-09-18T23:50:15+00:00</updated>
+  <updated>2025-09-19T01:19:45+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1njl8at</id>
-    <title>Vụ này giờ chìm nghỉm luôn r nhỉ =))</title>
-    <updated>2025-09-17T18:29:45+00:00</updated>
-    <author>
-      <name>/u/GuoWang_369</name>
-      <uri>https://old.reddit.com/user/GuoWang_369</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1njl8at/vụ_này_giờ_chìm_nghỉm_luôn_r_nhỉ/"&gt; &lt;img alt="Vụ này giờ chìm nghỉm luôn r nhỉ =))" src="https://preview.redd.it/4wgzci2eqrpf1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=e4f53891e3acd46bf8214b099900e783c825c9d7" title="Vụ này giờ chìm nghỉm luôn r nhỉ =))" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/GuoWang_369"&gt; /u/GuoWang_369 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/4wgzci2eqrpf1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1njl8at/vụ_này_giờ_chìm_nghỉm_luôn_r_nhỉ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1njl8at/vụ_này_giờ_chìm_nghỉm_luôn_r_nhỉ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-17T18:29:45+00:00</published>
-  </entry>
   <entry>
     <id>t3_1nkbov6</id>
     <title>Các bác cho em hỏi. Đang có ý định làm youtube mà tìm trên mạng có mấy con mic Gocheck, ULanzi, Comica ko biết nên chọn con nào. Xin các cao nhân chỉ giáo</title>
@@ -203,19 +190,6 @@
     <published>2025-09-18T17:08:25+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nk6jyv</id>
-    <title>Mấy anh cho em hỏi, em cao 1m8, 80kg, một bên mắt cận hơn 3 độ, bên kia 1 độ hơn thì có cần đi nvqs không ạ?</title>
-    <updated>2025-09-18T12:11:34+00:00</updated>
-    <author>
-      <name>/u/colocken</name>
-      <uri>https://old.reddit.com/user/colocken</uri>
-    </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/colocken"&gt; /u/colocken &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nk6jyv/mấy_anh_cho_em_hỏi_em_cao_1m8_80kg_một_bên_mắt/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nk6jyv/mấy_anh_cho_em_hỏi_em_cao_1m8_80kg_một_bên_mắt/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nk6jyv/mấy_anh_cho_em_hỏi_em_cao_1m8_80kg_một_bên_mắt/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-18T12:11:34+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nk58k0</id>
     <title>[Nhờ tư vấn] Trầm cảm nặng có loạn thần (F32.3) – mình nên làm gì tiếp theo?</title>
     <updated>2025-09-18T11:04:13+00:00</updated>
@@ -227,6 +201,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nk58k0/nhờ_tư_vấn_trầm_cảm_nặng_có_loạn_thần_f323_mình/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-18T11:04:13+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nk6jyv</id>
+    <title>Mấy anh cho em hỏi, em cao 1m8, 80kg, một bên mắt cận hơn 3 độ, bên kia 1 độ hơn thì có cần đi nvqs không ạ?</title>
+    <updated>2025-09-18T12:11:34+00:00</updated>
+    <author>
+      <name>/u/colocken</name>
+      <uri>https://old.reddit.com/user/colocken</uri>
+    </author>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/colocken"&gt; /u/colocken &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nk6jyv/mấy_anh_cho_em_hỏi_em_cao_1m8_80kg_một_bên_mắt/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nk6jyv/mấy_anh_cho_em_hỏi_em_cao_1m8_80kg_một_bên_mắt/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nk6jyv/mấy_anh_cho_em_hỏi_em_cao_1m8_80kg_một_bên_mắt/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-18T12:11:34+00:00</published>
   </entry>
   <entry>
     <id>t3_1nkejo3</id>
@@ -294,17 +281,17 @@
     <published>2025-09-18T00:36:26+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nkj36z</id>
-    <title>VN lọt TOP quốc gia đáng sống đối vs người ngoại quốc :0</title>
-    <updated>2025-09-18T20:16:23+00:00</updated>
+    <id>t3_1nknpkc</id>
+    <title>Cuộc đời mình thất bại thảm hại</title>
+    <updated>2025-09-18T23:25:04+00:00</updated>
     <author>
-      <name>/u/Tada__</name>
-      <uri>https://old.reddit.com/user/Tada__</uri>
+      <name>/u/Weekly_Drummer4534</name>
+      <uri>https://old.reddit.com/user/Weekly_Drummer4534</uri>
     </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1nkj36z/vn_lọt_top_quốc_gia_đáng_sống_đối_vs_người_ngoại/"&gt; &lt;img alt="VN lọt TOP quốc gia đáng sống đối vs người ngoại quốc :0" src="https://preview.redd.it/j137tntbezpf1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=1cfb6dbad48f510066cf02f5912233a1c796e59f" title="VN lọt TOP quốc gia đáng sống đối vs người ngoại quốc :0" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Đây là bài viết mang ý đóng góp quan điểm cá nhân, rất mong được mn đóng góp ý kiến. Theo Internation thì VN vừa lọt top 5 quốc gia đáng sống nhất đối với người ngoại quốc. Nghe thì cũng tự hào phết 😁, nhưng đầu tiên thú thật tôi cũng hơi giật mình khi thấy những nước trên mình có cả Colombia và Mexico 🤔. Khá khó hiểu, nhưng thôi… kệ đi! Dù sao thì việc lọt top cũng đáng để suy nghĩ...&lt;/p&gt; &lt;p&gt;Vậy tại sao họ lại “yêu thích VN như vậy”? Ừ thì đại ý là họ cảm thấy mình “giàu” hơn khi ở đây :). Với 1h làm bên họ thì có thể thừa tiền ăn cả ngày ở VN, trong khi dân ta (25k/h?) còn không đủ mua 1 cốc trà sữa size L :v. Ngoài ra, dân mình cũng có xu hướng sính ngoại (chắc phải top đầu TG nốt. Cái gì của Tây cũng tốt, cũng thơm. Tôi cũng hơi hơi vậy. Vậy nên có một cơ số cá nhân người nước ngoài (rất nhiều) đã bắt được điều đó và sang VN sinh sống, một số học tiếng để “kiếm” :v.&lt;/p&gt; &lt;p&gt;Tôi cũng không biết là trong những người đó có bao nhiêu người thật sự có học thức cao hay thu nhập tốt khi còn ở nước họ (trừ những người sang theo diện công ty điều đi), và đã chấp nhận sang VN để sinh sống?&lt;/p&gt; &lt;p&gt;Hồi xưa bản thân tôi cũng thích xem những video của bọn họ. Đến giờ vẫn có một số người tôi theo dõi, nhưng khi nội dung ngày càng bị lạm phát thì tôi dần cảm thấy “ngán”. Nghĩ cũng kỳ: dân ta thì muốn sang nước ngoài để học tập, sinh sống, còn dân họ thì lại muốn về VN để định cư :)&lt;/p&gt; &lt;p&gt;Vậy nên câu hỏi ở đây là: mình có nên tự hào khi VN chỉ là nơi để họ tìm kiếm những gì họ không có ở nước họ – nơi kiếm tiền, nơi dưỡng già hay một chỗ sống giá rẻ? Cá nhân tôi thì “không rõ”. Nhưng rõ ràng, việc họ đến đây để du lịch hay sinh sống chắc chắn sẽ kích thích nền kinh tế, giúp dân ta có thêm thu nhập. Vậy là tốt rồi 😁&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Tada__"&gt; /u/Tada__ &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/j137tntbezpf1.png"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nkj36z/vn_lọt_top_quốc_gia_đáng_sống_đối_vs_người_ngoại/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nkj36z/vn_lọt_top_quốc_gia_đáng_sống_đối_vs_người_ngoại/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình vừa tông xe, đang ngồi đợi cảnh sát mà thấy sao cuộc đời mình thất bại thảm hại v Mình tốt nghiệp kỹ sư ở Canada, bằng lẹt đẹt, nhiều môn toàn cheat lúc final chứ không có chút kiến thức nào. Suốt mấy năm đại học, mình chưa bao giờ học hành cmg fail 2-3 môn 1 kì. Số lần mình dự tiết chắc đếm chưa hết bàn tay tối không ngày nào về trước 3h. mình có ny ở việt nam xong cắm sừng ny mình với mấy con gặp lần đầu, rồi cũng chia tay quen 3-4 người khác rồi lại cắm sừng những người đó, đéo hiểu sao ích kỉ ngu k có bản lĩnh để bh không còn ai dám ở bên mình nữa. rồi tất cả cuộc đời này mình không hề được chọn lựa. đi du học cũng là bố mẹ ép học kĩ sư vì bố mình muốn, sống k khác gì cái xác, cứ lết qua từng môn 1. Không đam mê không mục đích không thấy tương lai có thể tốt hơn chút nào. Rồi ra trường đi làm 2 năm tài khoản không dư 1 đồng đốt hết cho mấy con trên club. Rồi mình quyết định nghỉ làm xin bố mẹ tiền cọc mua nhà xong không mua mà lấy xài đến bh tiền thì hết xong nhà thì làm gì có cái nào nghề ngỗng cũng k có xe ngửa tay xin bố mẹ cũng tông nát mẹ nó rồi thật sự thấy quá bế tắc tại sao mình lại cho phép bản than sống cuộc đời của 1 thằng thất bại bù nhìn như v&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Weekly_Drummer4534"&gt; /u/Weekly_Drummer4534 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nknpkc/cuộc_đời_mình_thất_bại_thảm_hại/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nknpkc/cuộc_đời_mình_thất_bại_thảm_hại/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nknpkc/cuộc_đời_mình_thất_bại_thảm_hại/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-18T20:16:23+00:00</published>
+    <published>2025-09-18T23:25:04+00:00</published>
   </entry>
   <entry>
     <id>t3_1nk4xdr</id>
@@ -318,6 +305,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nk4xdr/tôi_có_làm_hơi_quá_không/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-18T10:46:59+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nkj36z</id>
+    <title>VN lọt TOP quốc gia đáng sống đối vs người ngoại quốc :0</title>
+    <updated>2025-09-18T20:16:23+00:00</updated>
+    <author>
+      <name>/u/Tada__</name>
+      <uri>https://old.reddit.com/user/Tada__</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1nkj36z/vn_lọt_top_quốc_gia_đáng_sống_đối_vs_người_ngoại/"&gt; &lt;img alt="VN lọt TOP quốc gia đáng sống đối vs người ngoại quốc :0" src="https://preview.redd.it/j137tntbezpf1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=1cfb6dbad48f510066cf02f5912233a1c796e59f" title="VN lọt TOP quốc gia đáng sống đối vs người ngoại quốc :0" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Đây là bài viết mang ý đóng góp quan điểm cá nhân, rất mong được mn đóng góp ý kiến. Theo Internation thì VN vừa lọt top 5 quốc gia đáng sống nhất đối với người ngoại quốc. Nghe thì cũng tự hào phết 😁, nhưng đầu tiên thú thật tôi cũng hơi giật mình khi thấy những nước trên mình có cả Colombia và Mexico 🤔. Khá khó hiểu, nhưng thôi… kệ đi! Dù sao thì việc lọt top cũng đáng để suy nghĩ...&lt;/p&gt; &lt;p&gt;Vậy tại sao họ lại “yêu thích VN như vậy”? Ừ thì đại ý là họ cảm thấy mình “giàu” hơn khi ở đây :). Với 1h làm bên họ thì có thể thừa tiền ăn cả ngày ở VN, trong khi dân ta (25k/h?) còn không đủ mua 1 cốc trà sữa size L :v. Ngoài ra, dân mình cũng có xu hướng sính ngoại (chắc phải top đầu TG nốt. Cái gì của Tây cũng tốt, cũng thơm. Tôi cũng hơi hơi vậy. Vậy nên có một cơ số cá nhân người nước ngoài (rất nhiều) đã bắt được điều đó và sang VN sinh sống, một số học tiếng để “kiếm” :v.&lt;/p&gt; &lt;p&gt;Tôi cũng không biết là trong những người đó có bao nhiêu người thật sự có học thức cao hay thu nhập tốt khi còn ở nước họ (trừ những người sang theo diện công ty điều đi), và đã chấp nhận sang VN để sinh sống?&lt;/p&gt; &lt;p&gt;Hồi xưa bản thân tôi cũng thích xem những video của bọn họ. Đến giờ vẫn có một số người tôi theo dõi, nhưng khi nội dung ngày càng bị lạm phát thì tôi dần cảm thấy “ngán”. Nghĩ cũng kỳ: dân ta thì muốn sang nước ngoài để học tập, sinh sống, còn dân họ thì lại muốn về VN để định cư :)&lt;/p&gt; &lt;p&gt;Vậy nên câu hỏi ở đây là: mình có nên tự hào khi VN chỉ là nơi để họ tìm kiếm những gì họ không có ở nước họ – nơi kiếm tiền, nơi dưỡng già hay một chỗ sống giá rẻ? Cá nhân tôi thì “không rõ”. Nhưng rõ ràng, việc họ đến đây để du lịch hay sinh sống chắc chắn sẽ kích thích nền kinh tế, giúp dân ta có thêm thu nhập. Vậy là tốt rồi 😁&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Tada__"&gt; /u/Tada__ &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/j137tntbezpf1.png"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nkj36z/vn_lọt_top_quốc_gia_đáng_sống_đối_vs_người_ngoại/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nkj36z/vn_lọt_top_quốc_gia_đáng_sống_đối_vs_người_ngoại/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-18T20:16:23+00:00</published>
   </entry>
   <entry>
     <id>t3_1nkddei</id>
