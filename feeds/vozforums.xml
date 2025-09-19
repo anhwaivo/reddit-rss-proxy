@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-09-19T01:19:45+00:00</updated>
+  <updated>2025-09-19T02:45:26+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1nkbov6</id>
-    <title>Các bác cho em hỏi. Đang có ý định làm youtube mà tìm trên mạng có mấy con mic Gocheck, ULanzi, Comica ko biết nên chọn con nào. Xin các cao nhân chỉ giáo</title>
-    <updated>2025-09-18T15:39:45+00:00</updated>
-    <author>
-      <name>/u/Overall_Study4455</name>
-      <uri>https://old.reddit.com/user/Overall_Study4455</uri>
-    </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Overall_Study4455"&gt; /u/Overall_Study4455 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nkbov6/các_bác_cho_em_hỏi_đang_có_ý_định_làm_youtube_mà/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nkbov6/các_bác_cho_em_hỏi_đang_có_ý_định_làm_youtube_mà/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nkbov6/các_bác_cho_em_hỏi_đang_có_ý_định_làm_youtube_mà/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-18T15:39:45+00:00</published>
-  </entry>
   <entry>
     <id>t3_1nkbrld</id>
     <title>Điện Thoại Trong Tầm Giá 10 Triệu!</title>
@@ -47,19 +34,6 @@
     <published>2025-09-18T12:35:44+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nkdc4u</id>
-    <title>Tìm việc vất vả</title>
-    <updated>2025-09-18T16:40:41+00:00</updated>
-    <author>
-      <name>/u/HiepYuuki</name>
-      <uri>https://old.reddit.com/user/HiepYuuki</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em chào anh/chị. Em ở HCM, hiện tại vừa tốt nghiệp ngành IT, tuy vừa mới ra trường nhưng em có từ 1 đến 2 năm kn(vì trong lúc còn ở đại học em có đi thực tập và đi làm ở 1 vài doanh nghiệp, các doanh nghiệp em làm lúc đó có tuyển sinh viên nên em đã làm được 1 thời gian), em làm về fullstack. Nhưng hiện tại thì em đang tìm việc vị trí Junior, thậm chí là Intern ở HCM, nhưng em search trên gg và fb thấy ở HCM toàn tuyển senior từ 3 năm trở lên, còn intern thì em rải cũng không có phản hồi. Nếu có tuyển dưới 3 năm thì ở HN em thấy đăng tin tuyển nhiều. Em cũng có thử &amp;quot;fake địa chỉ&amp;quot; ngoài HN để apply nhưng đều không có phản hồi hoặc là không phù hợp. Giờ em không biết như nào nữa. Anh/chị cho em xin ý kiến. Em cảm ơn nhiều ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/HiepYuuki"&gt; /u/HiepYuuki &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nkdc4u/tìm_việc_vất_vả/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nkdc4u/tìm_việc_vất_vả/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nkdc4u/tìm_việc_vất_vả/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-18T16:40:41+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1njz6vi</id>
     <title>Có ai từng rụng tóc mà ám ảnh tới mức mơ vẫn thấy không</title>
     <updated>2025-09-18T04:48:32+00:00</updated>
@@ -73,17 +47,17 @@
     <published>2025-09-18T04:48:32+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nkakee</id>
-    <title>Chuyển từ Windows sang macOS sau 10 năm – MacBook Air M4 có đủ cho designer fresher?</title>
-    <updated>2025-09-18T14:57:54+00:00</updated>
+    <id>t3_1nkejcc</id>
+    <title>Tìm ctv</title>
+    <updated>2025-09-18T17:25:05+00:00</updated>
     <author>
-      <name>/u/Huibeo</name>
-      <uri>https://old.reddit.com/user/Huibeo</uri>
+      <name>/u/Tuan_tien_ti</name>
+      <uri>https://old.reddit.com/user/Tuan_tien_ti</uri>
     </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1nkakee/chuyển_từ_windows_sang_macos_sau_10_năm_macbook/"&gt; &lt;img alt="Chuyển từ Windows sang macOS sau 10 năm – MacBook Air M4 có đủ cho designer fresher?" src="https://preview.redd.it/0i1rzv4itxpf1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=a217a03d890b893e7c2195d6e05a6dde4735f9df" title="Chuyển từ Windows sang macOS sau 10 năm – MacBook Air M4 có đủ cho designer fresher?" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào anh em,&lt;/p&gt; &lt;p&gt;Mình dùng Windows cũng hơn 10 năm rồi và giờ đang tính chuyển sang macOS. Công việc chính của mình là designer mới vào nghề, thường xuyên dùng Illustrator với Photoshop (nhiều layer, nhiều artboard), ngoài ra thì mình cũng hay duyệt nhiều tab, web và dùng trong thời gian dài.&lt;/p&gt; &lt;p&gt;Liệu MacBook Air không có quạt tản nhiệt, không biết làm việc lâu dài kiểu này có bị ảnh hưởng hiệu suất nhiều không?&lt;/p&gt; &lt;p&gt;Cuối cùng thì mình đang phân vân giữa bản 13 inch RAM 24GB và bản 15 inch RAM 16GB. Theo anh em thì với nhu cầu như trên, 16GB RAM trên macOS có đủ không, hay nên chọn bản 24GB cho chắc ăn dù màn hình nhỏ hơn?&lt;/p&gt; &lt;p&gt;Rất mong được anh em tư vấn, cảm ơn nhiều!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Huibeo"&gt; /u/Huibeo &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/0i1rzv4itxpf1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nkakee/chuyển_từ_windows_sang_macos_sau_10_năm_macbook/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nkakee/chuyển_từ_windows_sang_macos_sau_10_năm_macbook/"/>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1nkejcc/tìm_ctv/"&gt; &lt;img alt="Tìm ctv" src="https://preview.redd.it/2m6dndxqjypf1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=8423d1f6fdb6238716868e81ae47fed30528588a" title="Tìm ctv" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tuyển ctv bán tài nguyên game cho các game thủ Mỹ Trung Nhật Nga .&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Tuan_tien_ti"&gt; /u/Tuan_tien_ti &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/2m6dndxqjypf1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nkejcc/tìm_ctv/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nkejcc/tìm_ctv/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-18T14:57:54+00:00</published>
+    <published>2025-09-18T17:25:05+00:00</published>
   </entry>
   <entry>
     <id>t3_1nk2le0</id>
@@ -112,17 +86,17 @@
     <published>2025-09-18T15:25:23+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nkejcc</id>
-    <title>Tìm ctv</title>
-    <updated>2025-09-18T17:25:05+00:00</updated>
+    <id>t3_1nkdc4u</id>
+    <title>Tìm việc vất vả</title>
+    <updated>2025-09-18T16:40:41+00:00</updated>
     <author>
-      <name>/u/Tuan_tien_ti</name>
-      <uri>https://old.reddit.com/user/Tuan_tien_ti</uri>
+      <name>/u/HiepYuuki</name>
+      <uri>https://old.reddit.com/user/HiepYuuki</uri>
     </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1nkejcc/tìm_ctv/"&gt; &lt;img alt="Tìm ctv" src="https://preview.redd.it/2m6dndxqjypf1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=8423d1f6fdb6238716868e81ae47fed30528588a" title="Tìm ctv" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tuyển ctv bán tài nguyên game cho các game thủ Mỹ Trung Nhật Nga .&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Tuan_tien_ti"&gt; /u/Tuan_tien_ti &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/2m6dndxqjypf1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nkejcc/tìm_ctv/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nkejcc/tìm_ctv/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em chào anh/chị. Em ở HCM, hiện tại vừa tốt nghiệp ngành IT, tuy vừa mới ra trường nhưng em có từ 1 đến 2 năm kn(vì trong lúc còn ở đại học em có đi thực tập và đi làm ở 1 vài doanh nghiệp, các doanh nghiệp em làm lúc đó có tuyển sinh viên nên em đã làm được 1 thời gian), em làm về fullstack. Nhưng hiện tại thì em đang tìm việc vị trí Junior, thậm chí là Intern ở HCM, nhưng em search trên gg và fb thấy ở HCM toàn tuyển senior từ 3 năm trở lên, còn intern thì em rải cũng không có phản hồi. Nếu có tuyển dưới 3 năm thì ở HN em thấy đăng tin tuyển nhiều. Em cũng có thử &amp;quot;fake địa chỉ&amp;quot; ngoài HN để apply nhưng đều không có phản hồi hoặc là không phù hợp. Giờ em không biết như nào nữa. Anh/chị cho em xin ý kiến. Em cảm ơn nhiều ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/HiepYuuki"&gt; /u/HiepYuuki &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nkdc4u/tìm_việc_vất_vả/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nkdc4u/tìm_việc_vất_vả/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nkdc4u/tìm_việc_vất_vả/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-18T17:25:05+00:00</published>
+    <published>2025-09-18T16:40:41+00:00</published>
   </entry>
   <entry>
     <id>t3_1njuo24</id>
@@ -281,17 +255,17 @@
     <published>2025-09-18T00:36:26+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nknpkc</id>
-    <title>Cuộc đời mình thất bại thảm hại</title>
-    <updated>2025-09-18T23:25:04+00:00</updated>
+    <id>t3_1nkr7jh</id>
+    <title>Chương trình HTV ngày xưa và bây giờ</title>
+    <updated>2025-09-19T02:08:20+00:00</updated>
     <author>
-      <name>/u/Weekly_Drummer4534</name>
-      <uri>https://old.reddit.com/user/Weekly_Drummer4534</uri>
+      <name>/u/Forward-Divide8898</name>
+      <uri>https://old.reddit.com/user/Forward-Divide8898</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình vừa tông xe, đang ngồi đợi cảnh sát mà thấy sao cuộc đời mình thất bại thảm hại v Mình tốt nghiệp kỹ sư ở Canada, bằng lẹt đẹt, nhiều môn toàn cheat lúc final chứ không có chút kiến thức nào. Suốt mấy năm đại học, mình chưa bao giờ học hành cmg fail 2-3 môn 1 kì. Số lần mình dự tiết chắc đếm chưa hết bàn tay tối không ngày nào về trước 3h. mình có ny ở việt nam xong cắm sừng ny mình với mấy con gặp lần đầu, rồi cũng chia tay quen 3-4 người khác rồi lại cắm sừng những người đó, đéo hiểu sao ích kỉ ngu k có bản lĩnh để bh không còn ai dám ở bên mình nữa. rồi tất cả cuộc đời này mình không hề được chọn lựa. đi du học cũng là bố mẹ ép học kĩ sư vì bố mình muốn, sống k khác gì cái xác, cứ lết qua từng môn 1. Không đam mê không mục đích không thấy tương lai có thể tốt hơn chút nào. Rồi ra trường đi làm 2 năm tài khoản không dư 1 đồng đốt hết cho mấy con trên club. Rồi mình quyết định nghỉ làm xin bố mẹ tiền cọc mua nhà xong không mua mà lấy xài đến bh tiền thì hết xong nhà thì làm gì có cái nào nghề ngỗng cũng k có xe ngửa tay xin bố mẹ cũng tông nát mẹ nó rồi thật sự thấy quá bế tắc tại sao mình lại cho phép bản than sống cuộc đời của 1 thằng thất bại bù nhìn như v&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Weekly_Drummer4534"&gt; /u/Weekly_Drummer4534 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nknpkc/cuộc_đời_mình_thất_bại_thảm_hại/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nknpkc/cuộc_đời_mình_thất_bại_thảm_hại/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nknpkc/cuộc_đời_mình_thất_bại_thảm_hại/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Ngày xưa trên HTV thời 2015-2019 là thời hoàng kim với các chương trình hay như người bí ẩn, ... Nhưng bây giờ thì đài HTV toàn mấy chương trình nhảm nhí, làm cho mình thấy rối não. Chứ thời 2015-2019 đài HTV có chương trình hay mà mình tận hưởng vào mỗi buổi tối, mình cảm thấy kể từ sau covid thì HTV không còn sản xuất chương trình hay nữa.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Forward-Divide8898"&gt; /u/Forward-Divide8898 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nkr7jh/chương_trình_htv_ngày_xưa_và_bây_giờ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nkr7jh/chương_trình_htv_ngày_xưa_và_bây_giờ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nkr7jh/chương_trình_htv_ngày_xưa_và_bây_giờ/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-18T23:25:04+00:00</published>
+    <published>2025-09-19T02:08:20+00:00</published>
   </entry>
   <entry>
     <id>t3_1nk4xdr</id>
@@ -307,6 +281,19 @@
     <published>2025-09-18T10:46:59+00:00</published>
   </entry>
   <entry>
+    <id>t3_1nknpkc</id>
+    <title>Cuộc đời mình thất bại thảm hại</title>
+    <updated>2025-09-18T23:25:04+00:00</updated>
+    <author>
+      <name>/u/Weekly_Drummer4534</name>
+      <uri>https://old.reddit.com/user/Weekly_Drummer4534</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình vừa tông xe, đang ngồi đợi cảnh sát mà thấy sao cuộc đời mình thất bại thảm hại v Mình tốt nghiệp kỹ sư ở Canada, bằng lẹt đẹt, nhiều môn toàn cheat lúc final chứ không có chút kiến thức nào. Suốt mấy năm đại học, mình chưa bao giờ học hành cmg fail 2-3 môn 1 kì. Số lần mình dự tiết chắc đếm chưa hết bàn tay tối không ngày nào về trước 3h. mình có ny ở việt nam xong cắm sừng ny mình với mấy con gặp lần đầu, rồi cũng chia tay quen 3-4 người khác rồi lại cắm sừng những người đó, đéo hiểu sao ích kỉ ngu k có bản lĩnh để bh không còn ai dám ở bên mình nữa. rồi tất cả cuộc đời này mình không hề được chọn lựa. đi du học cũng là bố mẹ ép học kĩ sư vì bố mình muốn, sống k khác gì cái xác, cứ lết qua từng môn 1. Không đam mê không mục đích không thấy tương lai có thể tốt hơn chút nào. Rồi ra trường đi làm 2 năm tài khoản không dư 1 đồng đốt hết cho mấy con trên club. Rồi mình quyết định nghỉ làm xin bố mẹ tiền cọc mua nhà xong không mua mà lấy xài đến bh tiền thì hết xong nhà thì làm gì có cái nào nghề ngỗng cũng k có xe ngửa tay xin bố mẹ cũng tông nát mẹ nó rồi thật sự thấy quá bế tắc tại sao mình lại cho phép bản than sống cuộc đời của 1 thằng thất bại bù nhìn như v&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Weekly_Drummer4534"&gt; /u/Weekly_Drummer4534 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nknpkc/cuộc_đời_mình_thất_bại_thảm_hại/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nknpkc/cuộc_đời_mình_thất_bại_thảm_hại/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nknpkc/cuộc_đời_mình_thất_bại_thảm_hại/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-18T23:25:04+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1nkj36z</id>
     <title>VN lọt TOP quốc gia đáng sống đối vs người ngoại quốc :0</title>
     <updated>2025-09-18T20:16:23+00:00</updated>
@@ -318,6 +305,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nkj36z/vn_lọt_top_quốc_gia_đáng_sống_đối_vs_người_ngoại/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-18T20:16:23+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nkr8a8</id>
+    <title>Có nên giấu lương nữa không ?</title>
+    <updated>2025-09-19T02:09:17+00:00</updated>
+    <author>
+      <name>/u/Relevant_Rabbit2298</name>
+      <uri>https://old.reddit.com/user/Relevant_Rabbit2298</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;strong&gt;như tiều đề =))&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;E đã đi làm được khoảng 1 năm rưỡi, và mỗi khi ai đó hỏi lương bao nhiêu e đều bảo là &lt;strong&gt;7M chưa trừ bảo hiểm&lt;/strong&gt; (cả với bố mẹ) =)). Vì đa phần người hỏi đều là để so sánh với con họ/người này,người kia? nếu ko hỏi chính xác lương bao nhiêu để làm gì ?&lt;/p&gt; &lt;p&gt;Còn về bố mẹ, e cũng không chia sẻ vì xong kiểu gì cả làng xóm cũng biết =)) e cũng thông cảm đó là vì tự hào như lúc đỗ đại học vậy. Nhưng e không muốn mấy chuyện riêng tư kiểu này để người khác biết.&lt;/p&gt; &lt;p&gt;Gần đây ở 1 buổi tụ tập lễ 2/9, gồm họ hàng và 1 số người quen, và lúc ngồi ăn =)) đương nhiên sẽ lại hỏi công việc và lương. Và e vẫn giữ nguyên câu trả lời cũ nhưng lần này nhận được những &amp;quot;ánh mắt&amp;quot; và những lời nói như: &lt;strong&gt;&amp;quot;Học đại học tốn mấy trăm M,xong ra trường chỉ thấp thế thôi á&amp;quot;, &amp;quot;Làm ở HN mà lương thấp thế thì thà về nhà mà làm KCN còn lương cao hơn&amp;quot;, &amp;quot;Con nhà A làm B lương XX&amp;quot;,...&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Và bố mẹ có nghe thấy và trông có vẻ không vui, e cũng muốn nói thật nhưng mà kiểu gì khi có người hỏi thì mẹ e cũng sẽ nói ngay =)) (để khoe).&lt;/p&gt; &lt;p&gt;Vậy e nên tiếp tục ỉm hay nói ra lương nhỉ. Lương e cũng chỉ 2x thiếu nhi nhưng vấn đề là không muốn bị lôi ra so sánh làm gì cho phiền =))&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Relevant_Rabbit2298"&gt; /u/Relevant_Rabbit2298 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nkr8a8/có_nên_giấu_lương_nữa_không/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nkr8a8/có_nên_giấu_lương_nữa_không/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nkr8a8/có_nên_giấu_lương_nữa_không/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-19T02:09:17+00:00</published>
   </entry>
   <entry>
     <id>t3_1nkddei</id>
