@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-09-19T09:19:55+00:00</updated>
+  <updated>2025-09-19T09:39:11+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -151,19 +151,6 @@
     <published>2025-09-19T03:04:28+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nkypkx</id>
-    <title>Giữ lửa yêu xa</title>
-    <updated>2025-09-19T09:15:10+00:00</updated>
-    <author>
-      <name>/u/Working_Builder_4892</name>
-      <uri>https://old.reddit.com/user/Working_Builder_4892</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, em và bạn nữ yêu xa, thời gian đầu hai đứa nói đủ thứ chuyện trên trời dưới đất, sau một thời gian hai đứa dần hết chuyện để nói, chả biết nhắn gì. Em vẫn còn tình cảm với bạn nhưng em không biết nói gì hay làm gì để giữ lửa hết. Mọi người cho em xin lời khuyên được không? Em cảm ơn mọi người🙏&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Working_Builder_4892"&gt; /u/Working_Builder_4892 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nkypkx/giữ_lửa_yêu_xa/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nkypkx/giữ_lửa_yêu_xa/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nkypkx/giữ_lửa_yêu_xa/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-19T09:15:10+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nkr7jh</id>
     <title>Chương trình HTV ngày xưa và bây giờ</title>
     <updated>2025-09-19T02:08:20+00:00</updated>
@@ -229,17 +216,17 @@
     <published>2025-09-19T08:29:35+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nkyb2x</id>
-    <title>[HN/Tokyo] Em xin phép Share job IT &amp; Non-IT cho ACE ạ</title>
-    <updated>2025-09-19T08:48:52+00:00</updated>
+    <id>t3_1nkypkx</id>
+    <title>Giữ lửa yêu xa</title>
+    <updated>2025-09-19T09:15:10+00:00</updated>
     <author>
-      <name>/u/SignificantScar8070</name>
-      <uri>https://old.reddit.com/user/SignificantScar8070</uri>
+      <name>/u/Working_Builder_4892</name>
+      <uri>https://old.reddit.com/user/Working_Builder_4892</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, mình từng share danh sách job hồi tháng 7 và đã chốt được 5 offer 🎉 Hôm nay mình update thêm các job mới cho anh/chị em quan tâm:&lt;/p&gt; &lt;p&gt;&lt;strong&gt;📍 Location&lt;/strong&gt;: Hà Nội – Tôn Thất Thuyết, Cầu Giấy&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Thời gian: Thứ 2–6, 8h30–17h30&lt;/li&gt; &lt;li&gt;Remote: 3 ngày/tháng&lt;/li&gt; &lt;li&gt;Đi muộn linh hoạt: 7 buổi/tháng&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;Tech roles&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;Python (Django) – up to 35M gross (Eng good / no Eng)&lt;/li&gt; &lt;li&gt;Java - 3+Exp, Up to 36M gross (Eng good)&lt;/li&gt; &lt;li&gt;Data Scientist – up to 50M gross (Eng good)&lt;/li&gt; &lt;li&gt;Computer Vision – up to 50M gross &lt;/li&gt; &lt;li&gt;.NET Senior (WPF, .NET core, C++) – dự án KH Singapore IoT (Eng good)&lt;/li&gt; &lt;li&gt;Manual Tester – JP N2/N1, 3–10y exp, insurance domain → 25–45M (Eng good)&lt;/li&gt; &lt;li&gt;DevOps – 5y exp, AWS strong, insurance domain → 55–60M (Eng good)&lt;/li&gt; &lt;li&gt;DevSecOps – 5y exp, Python + Github Actions → KH Singapore (Eng good)&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;Non-tech / Hybrid&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;Business Analyst – bilingual (EN–JP) → up to 60M (có remote)&lt;/li&gt; &lt;li&gt;Business Analyst – JP N1/N2 → up to 50M&lt;/li&gt; &lt;li&gt;BrSE Hà Nội – 3y+ exp → up to 60M&lt;/li&gt; &lt;li&gt;C&amp;amp;B Leader – policy &amp;amp; payroll exp, EN good → up to 35M (Eng good)&lt;/li&gt; &lt;li&gt;Project Manager – 5y+ exp, EN fluent, KH Mỹ → up to 60M&lt;/li&gt; &lt;li&gt;Delivery Manager – thị trường Nhật, JP good, tech base → 75–80M&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;Onsite Tokyo&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;BrSE Tokyo – 3y+ exp, tech base advantage → up to 800 Man JPY/năm (~60–65k USD)&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;📩 Liên hệ để nhận JD chi tiết&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Mail: [&lt;a href="mailto:mynh3@vmogroup.com"&gt;mynh3@vmogroup.com&lt;/a&gt;](mailto:&lt;a href="mailto:mynh3@vmogroup.com"&gt;mynh3@vmogroup.com&lt;/a&gt;)&lt;/li&gt; &lt;li&gt;Zalo: 0916.321.596&lt;/li&gt; &lt;li&gt;Facebook: search “Hà My (Bí IT)”&lt;/li&gt; &lt;li&gt;Linkedin: search “hamynguyen22”&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;(Địa chỉ văn phòng: IDMC Mỹ Đình Building, Tôn Thất Thuyết, Cầu Giấy, Hà Nội)&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/SignificantScar8070"&gt; /u/SignificantScar8070 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nkyb2x/hntokyo_em_xin_phép_share_job_it_nonit_cho_ace_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nkyb2x/hntokyo_em_xin_phép_share_job_it_nonit_cho_ace_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nkyb2x/hntokyo_em_xin_phép_share_job_it_nonit_cho_ace_ạ/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, em và bạn nữ yêu xa, thời gian đầu hai đứa nói đủ thứ chuyện trên trời dưới đất, sau một thời gian hai đứa dần hết chuyện để nói, chả biết nhắn gì. Em vẫn còn tình cảm với bạn nhưng em không biết nói gì hay làm gì để giữ lửa hết. Mọi người cho em xin lời khuyên được không? Em cảm ơn mọi người🙏&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Working_Builder_4892"&gt; /u/Working_Builder_4892 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nkypkx/giữ_lửa_yêu_xa/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nkypkx/giữ_lửa_yêu_xa/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nkypkx/giữ_lửa_yêu_xa/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-19T08:48:52+00:00</published>
+    <published>2025-09-19T09:15:10+00:00</published>
   </entry>
   <entry>
     <id>t3_1nkt47p</id>
@@ -268,6 +255,19 @@
     <published>2025-09-18T23:25:04+00:00</published>
   </entry>
   <entry>
+    <id>t3_1nkyb2x</id>
+    <title>[HN/Tokyo] Em xin phép Share job IT &amp; Non-IT cho ACE ạ</title>
+    <updated>2025-09-19T08:48:52+00:00</updated>
+    <author>
+      <name>/u/SignificantScar8070</name>
+      <uri>https://old.reddit.com/user/SignificantScar8070</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, mình từng share danh sách job hồi tháng 7 và đã chốt được 5 offer 🎉 Hôm nay mình update thêm các job mới cho anh/chị em quan tâm:&lt;/p&gt; &lt;p&gt;&lt;strong&gt;📍 Location&lt;/strong&gt;: Hà Nội – Tôn Thất Thuyết, Cầu Giấy&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Thời gian: Thứ 2–6, 8h30–17h30&lt;/li&gt; &lt;li&gt;Remote: 3 ngày/tháng&lt;/li&gt; &lt;li&gt;Đi muộn linh hoạt: 7 buổi/tháng&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;Tech roles&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;Python (Django) – up to 35M gross (Eng good / no Eng)&lt;/li&gt; &lt;li&gt;Java - 3+Exp, Up to 36M gross (Eng good)&lt;/li&gt; &lt;li&gt;Data Scientist – up to 50M gross (Eng good)&lt;/li&gt; &lt;li&gt;Computer Vision – up to 50M gross &lt;/li&gt; &lt;li&gt;.NET Senior (WPF, .NET core, C++) – dự án KH Singapore IoT (Eng good)&lt;/li&gt; &lt;li&gt;Manual Tester – JP N2/N1, 3–10y exp, insurance domain → 25–45M (Eng good)&lt;/li&gt; &lt;li&gt;DevOps – 5y exp, AWS strong, insurance domain → 55–60M (Eng good)&lt;/li&gt; &lt;li&gt;DevSecOps – 5y exp, Python + Github Actions → KH Singapore (Eng good)&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;Non-tech / Hybrid&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;Business Analyst – bilingual (EN–JP) → up to 60M (có remote)&lt;/li&gt; &lt;li&gt;Business Analyst – JP N1/N2 → up to 50M&lt;/li&gt; &lt;li&gt;BrSE Hà Nội – 3y+ exp → up to 60M&lt;/li&gt; &lt;li&gt;C&amp;amp;B Leader – policy &amp;amp; payroll exp, EN good → up to 35M (Eng good)&lt;/li&gt; &lt;li&gt;Project Manager – 5y+ exp, EN fluent, KH Mỹ → up to 60M&lt;/li&gt; &lt;li&gt;Delivery Manager – thị trường Nhật, JP good, tech base → 75–80M&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;Onsite Tokyo&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;BrSE Tokyo – 3y+ exp, tech base advantage → up to 800 Man JPY/năm (~60–65k USD)&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;📩 Liên hệ để nhận JD chi tiết&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Mail: [&lt;a href="mailto:mynh3@vmogroup.com"&gt;mynh3@vmogroup.com&lt;/a&gt;](mailto:&lt;a href="mailto:mynh3@vmogroup.com"&gt;mynh3@vmogroup.com&lt;/a&gt;)&lt;/li&gt; &lt;li&gt;Zalo: 0916.321.596&lt;/li&gt; &lt;li&gt;Facebook: search “Hà My (Bí IT)”&lt;/li&gt; &lt;li&gt;Linkedin: search “hamynguyen22”&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;(Địa chỉ văn phòng: IDMC Mỹ Đình Building, Tôn Thất Thuyết, Cầu Giấy, Hà Nội)&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/SignificantScar8070"&gt; /u/SignificantScar8070 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nkyb2x/hntokyo_em_xin_phép_share_job_it_nonit_cho_ace_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nkyb2x/hntokyo_em_xin_phép_share_job_it_nonit_cho_ace_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nkyb2x/hntokyo_em_xin_phép_share_job_it_nonit_cho_ace_ạ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-19T08:48:52+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1nkj36z</id>
     <title>VN lọt TOP quốc gia đáng sống đối vs người ngoại quốc :0</title>
     <updated>2025-09-18T20:16:23+00:00</updated>
@@ -294,19 +294,6 @@
     <published>2025-09-19T08:17:13+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nkwtks</id>
-    <title>Cloud Storage &gt;100Tb đủ các thể loại phim, game offline tuyển chọn Share ae</title>
-    <updated>2025-09-19T07:11:42+00:00</updated>
-    <author>
-      <name>/u/Fun-Rule9066</name>
-      <uri>https://old.reddit.com/user/Fun-Rule9066</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1nkwtks/cloud_storage_100tb_đủ_các_thể_loại_phim_game/"&gt; &lt;img alt="Cloud Storage &amp;gt;100Tb đủ các thể loại phim, game offline tuyển chọn Share ae" src="https://a.thumbs.redditmedia.com/zSdgbQG8bb5tBoW16Bov8Eoo_RmzgaH2lFBEB0WKs94.jpg" title="Cloud Storage &amp;gt;100Tb đủ các thể loại phim, game offline tuyển chọn Share ae" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hơn 100Tb Game offline, Phim truyền hình VTV, phim bộ, chiếu rap, Phim Uncen, Censored 4k, Nhạc Lossless, Ảnh girls Collection update liên tục…tuyển chọn phục vụ ae.&lt;/p&gt; &lt;p&gt;Hướng dẫn xem phim trên điện thoại. (Không lo quảng cáo, virus, nhảy tab)&lt;/p&gt; &lt;p&gt;B1: Tải ứng dụng &lt;strong&gt;DS file (Synology)&lt;/strong&gt; trên Appstore hoặc CH Play.&lt;/p&gt; &lt;p&gt;B2: Nhập thông tin &lt;strong&gt;&lt;em&gt;user trial&lt;/em&gt;&lt;/strong&gt; như hình. ID: Reddit - Pass: Synology1525 &lt;strong&gt;(Điền đủ 3 dòng như hình)&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;B3: Sign in. (Quá trình đăng nhập tầm 30 giây, 1 số đinh dạng ts, wmv… điện thoại không xem được thì ae tải ứng dụng &lt;strong&gt;Arc video Player&lt;/strong&gt; là xem được)&lt;/p&gt; &lt;p&gt;P/s: AE thấy hợp gu ib để m tạo &lt;strong&gt;User Private&lt;/strong&gt; riêng full nội dung, không giới hạn thời gian, tốc độ. Ủng hộ m ly cà phê là dc. Ae nào cần tải &lt;strong&gt;game, film trên pc&lt;/strong&gt; cũng ib mình hướng dẫn&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Fun-Rule9066"&gt; /u/Fun-Rule9066 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1nkwtks"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nkwtks/cloud_storage_100tb_đủ_các_thể_loại_phim_game/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nkwtks/cloud_storage_100tb_đủ_các_thể_loại_phim_game/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-19T07:11:42+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nkddei</id>
     <title>Tình cờ gặp người chồng cũ vozer</title>
     <updated>2025-09-18T16:41:55+00:00</updated>
@@ -318,6 +305,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nkddei/tình_cờ_gặp_người_chồng_cũ_vozer/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-18T16:41:55+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nkwtks</id>
+    <title>Cloud Storage &gt;100Tb đủ các thể loại phim, game offline tuyển chọn Share ae</title>
+    <updated>2025-09-19T07:11:42+00:00</updated>
+    <author>
+      <name>/u/Fun-Rule9066</name>
+      <uri>https://old.reddit.com/user/Fun-Rule9066</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1nkwtks/cloud_storage_100tb_đủ_các_thể_loại_phim_game/"&gt; &lt;img alt="Cloud Storage &amp;gt;100Tb đủ các thể loại phim, game offline tuyển chọn Share ae" src="https://a.thumbs.redditmedia.com/zSdgbQG8bb5tBoW16Bov8Eoo_RmzgaH2lFBEB0WKs94.jpg" title="Cloud Storage &amp;gt;100Tb đủ các thể loại phim, game offline tuyển chọn Share ae" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hơn 100Tb Game offline, Phim truyền hình VTV, phim bộ, chiếu rap, Phim Uncen, Censored 4k, Nhạc Lossless, Ảnh girls Collection update liên tục…tuyển chọn phục vụ ae.&lt;/p&gt; &lt;p&gt;Hướng dẫn xem phim trên điện thoại. (Không lo quảng cáo, virus, nhảy tab)&lt;/p&gt; &lt;p&gt;B1: Tải ứng dụng &lt;strong&gt;DS file (Synology)&lt;/strong&gt; trên Appstore hoặc CH Play.&lt;/p&gt; &lt;p&gt;B2: Nhập thông tin &lt;strong&gt;&lt;em&gt;user trial&lt;/em&gt;&lt;/strong&gt; như hình. ID: Reddit - Pass: Synology1525 &lt;strong&gt;(Điền đủ 3 dòng như hình)&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;B3: Sign in. (Quá trình đăng nhập tầm 30 giây, 1 số đinh dạng ts, wmv… điện thoại không xem được thì ae tải ứng dụng &lt;strong&gt;Arc video Player&lt;/strong&gt; là xem được)&lt;/p&gt; &lt;p&gt;P/s: AE thấy hợp gu ib để m tạo &lt;strong&gt;User Private&lt;/strong&gt; riêng full nội dung, không giới hạn thời gian, tốc độ. Ủng hộ m ly cà phê là dc. Ae nào cần tải &lt;strong&gt;game, film trên pc&lt;/strong&gt; cũng ib mình hướng dẫn&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Fun-Rule9066"&gt; /u/Fun-Rule9066 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1nkwtks"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nkwtks/cloud_storage_100tb_đủ_các_thể_loại_phim_game/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nkwtks/cloud_storage_100tb_đủ_các_thể_loại_phim_game/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-19T07:11:42+00:00</published>
   </entry>
   <entry>
     <id>t3_1nkr8a8</id>
