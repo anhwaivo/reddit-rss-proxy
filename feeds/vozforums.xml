@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-09-19T18:24:16+00:00</updated>
+  <updated>2025-09-19T18:46:01+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
+  <entry>
+    <id>t3_1nl0zvx</id>
+    <title>Newbie muốn học piano</title>
+    <updated>2025-09-19T11:29:00+00:00</updated>
+    <author>
+      <name>/u/taipyn</name>
+      <uri>https://old.reddit.com/user/taipyn</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình ở tp.HCM muốn học piano ở khu vực Thủ Đức ,giá hạt dẻ tí , ai biết giới thiệu mình được khum 😙😗😗&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/taipyn"&gt; /u/taipyn &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nl0zvx/newbie_muốn_học_piano/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nl0zvx/newbie_muốn_học_piano/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nl0zvx/newbie_muốn_học_piano/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-19T11:29:00+00:00</published>
+  </entry>
   <entry>
     <id>t3_1nl6bq4</id>
     <title>Tôi ko biết động lực j nữa</title>
@@ -47,19 +60,6 @@
     <published>2025-09-19T09:02:07+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nlbafc</id>
-    <title>MV nhạc đang thoái trào</title>
-    <updated>2025-09-19T18:22:17+00:00</updated>
-    <author>
-      <name>/u/Forward-Divide8898</name>
-      <uri>https://old.reddit.com/user/Forward-Divide8898</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình thấy bây giờ có rất nhiều hát rất nổi trên bảng xếp hạng âm nhạc quốc tế, nhưng để ý kỹ thì có rất nhiều bài không có MV. Nó làm mình nhớ thời trước, mỗi bài hát ra mắt là luôn có MV bài hát. Vì thời đó nhiều người còn có tivi nên chiếu MV trên tivi là bài hát đó sẽ nổi. Nhưng giờ có Spotify, Apple Music thì các nghệ sĩ tập trung phát hành bài hát trên mạng nên người ta ít quan tâm tới việc sản xuất MV cho người ta xem.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Forward-Divide8898"&gt; /u/Forward-Divide8898 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nlbafc/mv_nhạc_đang_thoái_trào/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nlbafc/mv_nhạc_đang_thoái_trào/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nlbafc/mv_nhạc_đang_thoái_trào/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-19T18:22:17+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nknpkc</id>
     <title>Cuộc đời mình thất bại thảm hại</title>
     <updated>2025-09-18T23:25:04+00:00</updated>
@@ -71,6 +71,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nknpkc/cuộc_đời_mình_thất_bại_thảm_hại/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-18T23:25:04+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nlbafc</id>
+    <title>MV nhạc đang thoái trào</title>
+    <updated>2025-09-19T18:22:17+00:00</updated>
+    <author>
+      <name>/u/Forward-Divide8898</name>
+      <uri>https://old.reddit.com/user/Forward-Divide8898</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình thấy bây giờ có rất nhiều hát rất nổi trên bảng xếp hạng âm nhạc quốc tế, nhưng để ý kỹ thì có rất nhiều bài không có MV. Nó làm mình nhớ thời trước, mỗi bài hát ra mắt là luôn có MV bài hát. Vì thời đó nhiều người còn có tivi nên chiếu MV trên tivi là bài hát đó sẽ nổi. Nhưng giờ có Spotify, Apple Music thì các nghệ sĩ tập trung phát hành bài hát trên mạng nên người ta ít quan tâm tới việc sản xuất MV cho người ta xem.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Forward-Divide8898"&gt; /u/Forward-Divide8898 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nlbafc/mv_nhạc_đang_thoái_trào/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nlbafc/mv_nhạc_đang_thoái_trào/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nlbafc/mv_nhạc_đang_thoái_trào/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-19T18:22:17+00:00</published>
   </entry>
   <entry>
     <id>t3_1nl5g10</id>
@@ -112,32 +125,6 @@
     <published>2025-09-19T15:12:33+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nl757s</id>
-    <title>Lương thấp vì là sinh viên vừa ra trường và cho dù là dân kỹ thuật.</title>
-    <updated>2025-09-19T15:46:34+00:00</updated>
-    <author>
-      <name>/u/Xuanduong03</name>
-      <uri>https://old.reddit.com/user/Xuanduong03</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;thực ra em chưa ra trường, nhưng em đã có kinh nghiệm thực tập và làm việc ở 2 công ty, nhưng đi phỏng vấn ở chi nhánh Fu** thuộc tập đoàn lớn Fo***nn ở Bắc Giang, đã pass phỏng vấn, và đến lúc deal lương thì được offer mức lương 9tr cơ bản chỉ vì em đang đợi bằng tốt nghiệp... với một vị trí có sử dụng tiếng anh 4 kỹ năng nghe-nói-đọc-viết và bằng của tự động hoá. Các anh và các chị cho em hỏi bây giờ thị trường lao động của mình đang gặp chuyện gì vậy ? trong khi em nghe anh chị từ 91 đến 95 từ ngày xưa mới ra trường có ngoại ngữ mà lương đã 14 15 rồi. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Xuanduong03"&gt; /u/Xuanduong03 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nl757s/lương_thấp_vì_là_sinh_viên_vừa_ra_trường_và_cho/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nl757s/lương_thấp_vì_là_sinh_viên_vừa_ra_trường_và_cho/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nl757s/lương_thấp_vì_là_sinh_viên_vừa_ra_trường_và_cho/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-19T15:46:34+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1nl8b7h</id>
-    <title>Tìm nguồn kiến thức căn bản về kinh tế, tài chính</title>
-    <updated>2025-09-19T16:30:01+00:00</updated>
-    <author>
-      <name>/u/Square-Painting1852</name>
-      <uri>https://old.reddit.com/user/Square-Painting1852</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em sinh viên mới ra trường, cũng bắt đầu có cái gọi là thu nhập nên muốn tìm hiểu về lĩnh vực kinh tế, thị trường, tài chính cơ bản. Đầu tiên là để biết quản lý đồng tiền và lâu dài thì có thể có kiến thức để đầu tư, kinh doanh.&lt;/p&gt; &lt;p&gt;Nên các bác đã từng trải, có kinh nghiệm có thể cho em xin một số nguồn kiến thức để trau dồi dần dần được không ạ, như sách hay cách học nào đó, em cảm ơnnn ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Square-Painting1852"&gt; /u/Square-Painting1852 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nl8b7h/tìm_nguồn_kiến_thức_căn_bản_về_kinh_tế_tài_chính/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nl8b7h/tìm_nguồn_kiến_thức_căn_bản_về_kinh_tế_tài_chính/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nl8b7h/tìm_nguồn_kiến_thức_căn_bản_về_kinh_tế_tài_chính/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-19T16:30:01+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nl08pg</id>
     <title>Trúng số có phải hết phước</title>
     <updated>2025-09-19T10:48:17+00:00</updated>
@@ -149,6 +136,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nl08pg/trúng_số_có_phải_hết_phước/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-19T10:48:17+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nl757s</id>
+    <title>Lương thấp vì là sinh viên vừa ra trường và cho dù là dân kỹ thuật.</title>
+    <updated>2025-09-19T15:46:34+00:00</updated>
+    <author>
+      <name>/u/Xuanduong03</name>
+      <uri>https://old.reddit.com/user/Xuanduong03</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;thực ra em chưa ra trường, nhưng em đã có kinh nghiệm thực tập và làm việc ở 2 công ty, nhưng đi phỏng vấn ở chi nhánh Fu** thuộc tập đoàn lớn Fo***nn ở Bắc Giang, đã pass phỏng vấn, và đến lúc deal lương thì được offer mức lương 9tr cơ bản chỉ vì em đang đợi bằng tốt nghiệp... với một vị trí có sử dụng tiếng anh 4 kỹ năng nghe-nói-đọc-viết và bằng của tự động hoá. Các anh và các chị cho em hỏi bây giờ thị trường lao động của mình đang gặp chuyện gì vậy ? trong khi em nghe anh chị từ 91 đến 95 từ ngày xưa mới ra trường có ngoại ngữ mà lương đã 14 15 rồi. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Xuanduong03"&gt; /u/Xuanduong03 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nl757s/lương_thấp_vì_là_sinh_viên_vừa_ra_trường_và_cho/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nl757s/lương_thấp_vì_là_sinh_viên_vừa_ra_trường_và_cho/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nl757s/lương_thấp_vì_là_sinh_viên_vừa_ra_trường_và_cho/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-19T15:46:34+00:00</published>
   </entry>
   <entry>
     <id>t3_1nl4xsr</id>
