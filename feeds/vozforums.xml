@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-09-19T14:41:48+00:00</updated>
+  <updated>2025-09-19T14:51:40+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -47,19 +47,6 @@
     <published>2025-09-19T12:48:31+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nl3mmn</id>
-    <title>Tìm nhà thờ Thiên Chúa giáo có lễ tiếng Anh ở Sài Gòn</title>
-    <updated>2025-09-19T13:29:57+00:00</updated>
-    <author>
-      <name>/u/ImportantPerformer16</name>
-      <uri>https://old.reddit.com/user/ImportantPerformer16</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người,&lt;/p&gt; &lt;p&gt;Mình đang tìm một nhà thờ Thiên Chúa giáo ở TP.HCM có lễ bằng tiếng Anh, cộng đồng thân thiện cho người nước ngoài, và có nhiều hoạt động cho gia đình/trẻ em.&lt;/p&gt; &lt;p&gt;Ai biết chỗ nào phù hợp thì cho mình xin gợi ý nhé. Cảm ơn nhiều!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ImportantPerformer16"&gt; /u/ImportantPerformer16 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nl3mmn/tìm_nhà_thờ_thiên_chúa_giáo_có_lễ_tiếng_anh_ở_sài/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nl3mmn/tìm_nhà_thờ_thiên_chúa_giáo_có_lễ_tiếng_anh_ở_sài/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nl3mmn/tìm_nhà_thờ_thiên_chúa_giáo_có_lễ_tiếng_anh_ở_sài/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-19T13:29:57+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nkx9lf</id>
     <title>Cần tư vấn ạ</title>
     <updated>2025-09-19T07:40:37+00:00</updated>
@@ -97,19 +84,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nkt47p/chủ_động/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-19T03:41:11+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1nl4wna</id>
-    <title>Cuối tuần rồi , nhậu thôi . Thế giới hòa bình</title>
-    <updated>2025-09-19T14:21:24+00:00</updated>
-    <author>
-      <name>/u/ThickOrganization525</name>
-      <uri>https://old.reddit.com/user/ThickOrganization525</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1nl4wna/cuối_tuần_rồi_nhậu_thôi_thế_giới_hòa_bình/"&gt; &lt;img alt="Cuối tuần rồi , nhậu thôi . Thế giới hòa bình" src="https://preview.redd.it/6fqz81str4qf1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=b326cca5944ee60289050387636393638fd2c10c" title="Cuối tuần rồi , nhậu thôi . Thế giới hòa bình" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ThickOrganization525"&gt; /u/ThickOrganization525 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/6fqz81str4qf1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nl4wna/cuối_tuần_rồi_nhậu_thôi_thế_giới_hòa_bình/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nl4wna/cuối_tuần_rồi_nhậu_thôi_thế_giới_hòa_bình/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-19T14:21:24+00:00</published>
   </entry>
   <entry>
     <id>t3_1nl4xsr</id>
@@ -203,17 +177,30 @@
     <published>2025-09-19T10:48:17+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nl5744</id>
-    <title>Nhờ các anh chị cô chú tư vấn giúp thằng em này ạ</title>
-    <updated>2025-09-19T14:32:46+00:00</updated>
+    <id>t3_1nl5g10</id>
+    <title>Các bác có tin vào việc không cầu mà được?</title>
+    <updated>2025-09-19T14:42:20+00:00</updated>
     <author>
-      <name>/u/Unusual_Currency_511</name>
-      <uri>https://old.reddit.com/user/Unusual_Currency_511</uri>
+      <name>/u/borjiginnergui</name>
+      <uri>https://old.reddit.com/user/borjiginnergui</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chẳng là năm nay em phải tham gia kì thì đại học và khá nhiều kì thi khác như ielts ,đánh giá năng lực ,học sinh giỏi thành phố ,... Về khoản e thì học lực cũng khá tốt nên e đã quyết định mua khoá học trên mạng về để tự học thay vì đi học thêm thầy cô mỗi tháng khá đắt đỏ coi như để tiết kiệm tiền bạc cho cha mẹ .Nhưng sau 3 tháng e ngồi tự học ở nhà thì e thấy có cảm giác rất áp lực với những bạn bè những ai đã đi học thêm .Vì họ được thầy cô chỉ dạy đến nơi đến chốn ,kèm từ a - z nên khi e thấy các bạn tiến bộ hơn rất nhiều e cũng thấy rất lo cho e vì sợ e tự học sẽ không đú lại các bạn&lt;/p&gt; &lt;p&gt;Với cả em thấy tự học nó rất khó khăn ,chỉ riêng mỗi ngày chỉ có 1 mình ngồi vào bàn học 5 - 6 tiếng đồng hồ ôm cái máy tính để học online thì e thấy rất mệt mỏi .Chưa kể có nhiều hôm e xao lãng rồi không tập trung hẳn hoi vào việc học .Ngay bây giờ em mới thấy tự học nó rất mệt mỏi ,dễ burn out và xao lãng .&lt;/p&gt; &lt;p&gt;Hiện tại e đang khá phân vân không biết nên đóng tiền học thêm thầy cô dạy tại lớp hay tiếp tục việc học online vì e đã tốn tiền để mua khoá học mà giờ đăng kí học off lại thì ko biết nói sau với cha mẹ ,rất uổng tiền .Hoặc e sẽ cố gắng tự học .Chung quy lại e cũng ko biết mình viết bài post này để làm gì ,chắc có lẽ là tìm động lực nhỏ từ lời động viên mấy anh chị mặc dù e biết bản thân e vẫn phải tự thân vận động&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Unusual_Currency_511"&gt; /u/Unusual_Currency_511 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nl5744/nhờ_các_anh_chị_cô_chú_tư_vấn_giúp_thằng_em_này_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nl5744/nhờ_các_anh_chị_cô_chú_tư_vấn_giúp_thằng_em_này_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nl5744/nhờ_các_anh_chị_cô_chú_tư_vấn_giúp_thằng_em_này_ạ/"/>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/borjiginnergui"&gt; /u/borjiginnergui &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nl5g10/các_bác_có_tin_vào_việc_không_cầu_mà_được/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nl5g10/các_bác_có_tin_vào_việc_không_cầu_mà_được/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nl5g10/các_bác_có_tin_vào_việc_không_cầu_mà_được/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-19T14:32:46+00:00</published>
+    <published>2025-09-19T14:42:20+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nl4wna</id>
+    <title>Cuối tuần rồi , nhậu thôi . Thế giới hòa bình</title>
+    <updated>2025-09-19T14:21:24+00:00</updated>
+    <author>
+      <name>/u/ThickOrganization525</name>
+      <uri>https://old.reddit.com/user/ThickOrganization525</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1nl4wna/cuối_tuần_rồi_nhậu_thôi_thế_giới_hòa_bình/"&gt; &lt;img alt="Cuối tuần rồi , nhậu thôi . Thế giới hòa bình" src="https://preview.redd.it/6fqz81str4qf1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=b326cca5944ee60289050387636393638fd2c10c" title="Cuối tuần rồi , nhậu thôi . Thế giới hòa bình" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ThickOrganization525"&gt; /u/ThickOrganization525 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/6fqz81str4qf1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nl4wna/cuối_tuần_rồi_nhậu_thôi_thế_giới_hòa_bình/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nl4wna/cuối_tuần_rồi_nhậu_thôi_thế_giới_hòa_bình/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-19T14:21:24+00:00</published>
   </entry>
   <entry>
     <id>t3_1nkj36z</id>
@@ -227,6 +214,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nkj36z/vn_lọt_top_quốc_gia_đáng_sống_đối_vs_người_ngoại/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-18T20:16:23+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nl5744</id>
+    <title>Nhờ các anh chị cô chú tư vấn giúp thằng em này ạ</title>
+    <updated>2025-09-19T14:32:46+00:00</updated>
+    <author>
+      <name>/u/Unusual_Currency_511</name>
+      <uri>https://old.reddit.com/user/Unusual_Currency_511</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chẳng là năm nay em phải tham gia kì thì đại học và khá nhiều kì thi khác như ielts ,đánh giá năng lực ,học sinh giỏi thành phố ,... Về khoản e thì học lực cũng khá tốt nên e đã quyết định mua khoá học trên mạng về để tự học thay vì đi học thêm thầy cô mỗi tháng khá đắt đỏ coi như để tiết kiệm tiền bạc cho cha mẹ .Nhưng sau 3 tháng e ngồi tự học ở nhà thì e thấy có cảm giác rất áp lực với những bạn bè những ai đã đi học thêm .Vì họ được thầy cô chỉ dạy đến nơi đến chốn ,kèm từ a - z nên khi e thấy các bạn tiến bộ hơn rất nhiều e cũng thấy rất lo cho e vì sợ e tự học sẽ không đú lại các bạn&lt;/p&gt; &lt;p&gt;Với cả em thấy tự học nó rất khó khăn ,chỉ riêng mỗi ngày chỉ có 1 mình ngồi vào bàn học 5 - 6 tiếng đồng hồ ôm cái máy tính để học online thì e thấy rất mệt mỏi .Chưa kể có nhiều hôm e xao lãng rồi không tập trung hẳn hoi vào việc học .Ngay bây giờ em mới thấy tự học nó rất mệt mỏi ,dễ burn out và xao lãng .&lt;/p&gt; &lt;p&gt;Hiện tại e đang khá phân vân không biết nên đóng tiền học thêm thầy cô dạy tại lớp hay tiếp tục việc học online vì e đã tốn tiền để mua khoá học mà giờ đăng kí học off lại thì ko biết nói sau với cha mẹ ,rất uổng tiền .Hoặc e sẽ cố gắng tự học .Chung quy lại e cũng ko biết mình viết bài post này để làm gì ,chắc có lẽ là tìm động lực nhỏ từ lời động viên mấy anh chị mặc dù e biết bản thân e vẫn phải tự thân vận động&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Unusual_Currency_511"&gt; /u/Unusual_Currency_511 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nl5744/nhờ_các_anh_chị_cô_chú_tư_vấn_giúp_thằng_em_này_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nl5744/nhờ_các_anh_chị_cô_chú_tư_vấn_giúp_thằng_em_này_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nl5744/nhờ_các_anh_chị_cô_chú_tư_vấn_giúp_thằng_em_này_ạ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-19T14:32:46+00:00</published>
   </entry>
   <entry>
     <id>t3_1nkypkx</id>
