@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-09-20T06:54:45+00:00</updated>
+  <updated>2025-09-20T07:15:18+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1nkypkx</id>
-    <title>Giữ lửa yêu xa</title>
-    <updated>2025-09-19T09:15:10+00:00</updated>
-    <author>
-      <name>/u/Working_Builder_4892</name>
-      <uri>https://old.reddit.com/user/Working_Builder_4892</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, em và bạn nữ yêu xa, thời gian đầu hai đứa nói đủ thứ chuyện trên trời dưới đất, sau một thời gian hai đứa dần hết chuyện để nói, chả biết nhắn gì. Em vẫn còn tình cảm với bạn nhưng em không biết nói gì hay làm gì để giữ lửa hết. Mọi người cho em xin lời khuyên được không? Em cảm ơn mọi người🙏&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Working_Builder_4892"&gt; /u/Working_Builder_4892 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nkypkx/giữ_lửa_yêu_xa/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nkypkx/giữ_lửa_yêu_xa/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nkypkx/giữ_lửa_yêu_xa/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-19T09:15:10+00:00</published>
-  </entry>
   <entry>
     <id>t3_1nl4xsr</id>
     <title>Kể khổ và bức xúc thực tập trời ơi đất hỡi ở cty văn hóa gia đình trị</title>
@@ -32,19 +19,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nl4xsr/kể_khổ_và_bức_xúc_thực_tập_trời_ơi_đất_hỡi_ở_cty/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-19T14:22:41+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1nl5siu</id>
-    <title>Các bác đã đi làm. Các bác còn nhớ các kiến thức cấp 3 của bản thân không?(Đặc biệt là các môn Tự nhiên). Dù ngày xưa từng học giỏi?</title>
-    <updated>2025-09-19T14:55:54+00:00</updated>
-    <author>
-      <name>/u/borjiginnergui</name>
-      <uri>https://old.reddit.com/user/borjiginnergui</uri>
-    </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/borjiginnergui"&gt; /u/borjiginnergui &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nl5siu/các_bác_đã_đi_làm_các_bác_còn_nhớ_các_kiến_thức/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nl5siu/các_bác_đã_đi_làm_các_bác_còn_nhớ_các_kiến_thức/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nl5siu/các_bác_đã_đi_làm_các_bác_còn_nhớ_các_kiến_thức/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-19T14:55:54+00:00</published>
   </entry>
   <entry>
     <id>t3_1nkyb2x</id>
@@ -110,6 +84,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nkddei/tình_cờ_gặp_người_chồng_cũ_vozer/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-18T16:41:55+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nl5siu</id>
+    <title>Các bác đã đi làm. Các bác còn nhớ các kiến thức cấp 3 của bản thân không?(Đặc biệt là các môn Tự nhiên). Dù ngày xưa từng học giỏi?</title>
+    <updated>2025-09-19T14:55:54+00:00</updated>
+    <author>
+      <name>/u/borjiginnergui</name>
+      <uri>https://old.reddit.com/user/borjiginnergui</uri>
+    </author>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/borjiginnergui"&gt; /u/borjiginnergui &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nl5siu/các_bác_đã_đi_làm_các_bác_còn_nhớ_các_kiến_thức/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nl5siu/các_bác_đã_đi_làm_các_bác_còn_nhớ_các_kiến_thức/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nl5siu/các_bác_đã_đi_làm_các_bác_còn_nhớ_các_kiến_thức/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-19T14:55:54+00:00</published>
   </entry>
   <entry>
     <id>t3_1nkwtks</id>
@@ -190,6 +177,19 @@
     <published>2025-09-20T06:42:56+00:00</published>
   </entry>
   <entry>
+    <id>t3_1nlrgmu</id>
+    <title>Chuyển tin nhắn và ảnh Zalo khi đổi điện thoại</title>
+    <updated>2025-09-20T07:05:47+00:00</updated>
+    <author>
+      <name>/u/Kirakira010</name>
+      <uri>https://old.reddit.com/user/Kirakira010</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình đang định đổi điện thoại, mình đã sao lưu tin nhắn trên Zalo (Zalo có chức năng này) nhưng còn hình ảnh mình chưa sao lưu được, Zalo bắt phải mua zcloud tới 590k/tháng. Mọi ngườI biết còn cách nào khác để sao lưu và chuyển tin nhắn/hình ảnh Zalo sang điện thoại mới không ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Kirakira010"&gt; /u/Kirakira010 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nlrgmu/chuyển_tin_nhắn_và_ảnh_zalo_khi_đổi_điện_thoại/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nlrgmu/chuyển_tin_nhắn_và_ảnh_zalo_khi_đổi_điện_thoại/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nlrgmu/chuyển_tin_nhắn_và_ảnh_zalo_khi_đổi_điện_thoại/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-20T07:05:47+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1nl4ei1</id>
     <title>Có nên mua game trên Microsoft Store</title>
     <updated>2025-09-19T14:01:27+00:00</updated>
@@ -201,6 +201,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nl4ei1/có_nên_mua_game_trên_microsoft_store/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-19T14:01:27+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nlq0s5</id>
+    <title>Mấy bạn gái bị bạn trai gọi là "đào mỏ", bạn có câu chuyện gì để minh oan không?</title>
+    <updated>2025-09-20T05:39:31+00:00</updated>
+    <author>
+      <name>/u/kinomy</name>
+      <uri>https://old.reddit.com/user/kinomy</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hoặc ngược lại, không áp dụng cho bất cứ giới tính nào.&lt;/p&gt; &lt;p&gt;Có những hành vi nào bạn cho rằng nó là sự chia sẻ bình thường, nhưng đối tác lại quan điểm hóa thành &amp;quot;đào mỏ&amp;quot;, lợi dụng tình cảm, tiền bạc của họ, khiến bạn oan ức, tức giận, chia tay?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/kinomy"&gt; /u/kinomy &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nlq0s5/mấy_bạn_gái_bị_bạn_trai_gọi_là_đào_mỏ_bạn_có_câu/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nlq0s5/mấy_bạn_gái_bị_bạn_trai_gọi_là_đào_mỏ_bạn_có_câu/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nlq0s5/mấy_bạn_gái_bị_bạn_trai_gọi_là_đào_mỏ_bạn_có_câu/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-20T05:39:31+00:00</published>
   </entry>
   <entry>
     <id>t3_1nl757s</id>
@@ -227,19 +240,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nln8a0/làm_sao_hết_rụng_ạ/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-20T03:05:19+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1nlq0s5</id>
-    <title>Mấy bạn gái bị bạn trai gọi là "đào mỏ", bạn có câu chuyện gì để minh oan không?</title>
-    <updated>2025-09-20T05:39:31+00:00</updated>
-    <author>
-      <name>/u/kinomy</name>
-      <uri>https://old.reddit.com/user/kinomy</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hoặc ngược lại, không áp dụng cho bất cứ giới tính nào.&lt;/p&gt; &lt;p&gt;Có những hành vi nào bạn cho rằng nó là sự chia sẻ bình thường, nhưng đối tác lại quan điểm hóa thành &amp;quot;đào mỏ&amp;quot;, lợi dụng tình cảm, tiền bạc của họ, khiến bạn oan ức, tức giận, chia tay?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/kinomy"&gt; /u/kinomy &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nlq0s5/mấy_bạn_gái_bị_bạn_trai_gọi_là_đào_mỏ_bạn_có_câu/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nlq0s5/mấy_bạn_gái_bị_bạn_trai_gọi_là_đào_mỏ_bạn_có_câu/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nlq0s5/mấy_bạn_gái_bị_bạn_trai_gọi_là_đào_mỏ_bạn_có_câu/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-20T05:39:31+00:00</published>
   </entry>
   <entry>
     <id>t3_1nlql37</id>
