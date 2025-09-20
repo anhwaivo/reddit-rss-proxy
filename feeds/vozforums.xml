@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-09-20T07:50:02+00:00</updated>
+  <updated>2025-09-20T08:21:08+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1nl3r0j</id>
-    <title>Viêm gan và nvqs</title>
-    <updated>2025-09-19T13:35:01+00:00</updated>
-    <author>
-      <name>/u/lolilands</name>
-      <uri>https://old.reddit.com/user/lolilands</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác, em là M25. 2 năm vừa rồi em sang Nhật làm IT, tới giữa năm nay thì hết hợp đồng và phải về lại VN. Em mới tìm được việc làm và chuẩn bị nhận việc vào tháng tới thì nhận được giấy gọi khám nvqs. Các bác cho em hỏi là 1m76, 68kg + với viêm gan B di truyền từ mẹ thì có đi không các bác? Em có tìm hiểu về viêm gan B thể ngủ thì thuộc sk loại 3 và vẫn phải đi.&lt;/p&gt; &lt;p&gt;Có bác nào đã từng đi khám với bệnh lí trên và được cho ở nhà thì cho em xin lời khuyên với ạ. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/lolilands"&gt; /u/lolilands &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nl3r0j/viêm_gan_và_nvqs/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nl3r0j/viêm_gan_và_nvqs/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nl3r0j/viêm_gan_và_nvqs/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-19T13:35:01+00:00</published>
-  </entry>
   <entry>
     <id>t3_1nkyb2x</id>
     <title>[HN/Tokyo] Em xin phép Share job IT &amp; Non-IT cho ACE ạ</title>
@@ -177,6 +164,19 @@
     <published>2025-09-19T14:01:27+00:00</published>
   </entry>
   <entry>
+    <id>t3_1nlsaw1</id>
+    <title>Nói về quy định giao dịch tài sản mã hóa ở Việt Nam</title>
+    <updated>2025-09-20T07:59:23+00:00</updated>
+    <author>
+      <name>/u/Charming-Height-5413</name>
+      <uri>https://old.reddit.com/user/Charming-Height-5413</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Như mọi người có biết vừa có quy định bắt buộc giao dịch tài sản mã hóa phải được thực hiện ở các sàn tập trung được cấp phép trong nước, tuy nhiên mình thấy quy định này đi ngược lại với bản chất phi tập trung.&lt;/p&gt; &lt;p&gt;Bitcoin hay Ethereum bản chất là phi tập trung, chạy trên hàng ngàn đến cả triệu node (máy chủ) phân tán khắp thế giới. Các node này cùng đồng thuận 1 thuật toán mã hóa. Và bạn cũng có thể tham gia chạy 1 node để tham gia vào mạng lưới mà không cần ai cho phép.&lt;/p&gt; &lt;p&gt;Khi bạn cần chuyển BTC hay ETH bạn cần dùng private key để tạo 1 chữ ký (signature), các node trong mạng lưới sẽ verify chữ ký của bạn với address ( được tạo thành từ public key qua hàm hash), đây chính là bản chất phi tập trung được đảo bảo bằng các thuật toán mã hóa công khai (asymmetric cryptography), chỉ có bạn mới biết private key của chính bạn và không 1 máy chủ nào lưu trữ nó. Nó khác hoàn toàn với mô hình tập trung khi máy chủ của nhà cung cấp lưu trữ cả username và password của bạn.&lt;/p&gt; &lt;p&gt;Đối với Ethereum còn làm được nhiều hơn thế, khi smart contract chạy phân tán trên toàn thế giới, là nền tảng của defi - tài chính phi tập trung. Ví dụ tôi muốn chuyển đổi ETH lấy USDT, tôi sẽ chuyển ETH vào smart contract, smart contract sẽ tự động tính số USDT tương ứng và chuyển lại cho tôi, logic của smart contract là công khai trên blockchain và không thể bị sửa đổi, không thể gian lận. Hay nói cách khác thay vì 1 có sàn tập trung như HOSE đứng giữa, bây giờ thứ đứng giữa là 1 thuật toán công khai dc đảm bảo bằng mật mã.&lt;/p&gt; &lt;p&gt;Như vậy việc bắt buộc phải giao dịch tài sản mã hóa thông qua 1 sàn tập trung liệu có đi ngược lại với nền tảng công nghệ phi tập trung hay không.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Charming-Height-5413"&gt; /u/Charming-Height-5413 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nlsaw1/nói_về_quy_định_giao_dịch_tài_sản_mã_hóa_ở_việt/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nlsaw1/nói_về_quy_định_giao_dịch_tài_sản_mã_hóa_ở_việt/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nlsaw1/nói_về_quy_định_giao_dịch_tài_sản_mã_hóa_ở_việt/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-20T07:59:23+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1nlq0s5</id>
     <title>Mấy bạn gái bị bạn trai gọi là "đào mỏ", bạn có câu chuyện gì để minh oan không?</title>
     <updated>2025-09-20T05:39:31+00:00</updated>
@@ -190,32 +190,6 @@
     <published>2025-09-20T05:39:31+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nl757s</id>
-    <title>Lương thấp vì là sinh viên vừa ra trường và cho dù là dân kỹ thuật.</title>
-    <updated>2025-09-19T15:46:34+00:00</updated>
-    <author>
-      <name>/u/Xuanduong03</name>
-      <uri>https://old.reddit.com/user/Xuanduong03</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;thực ra em chưa ra trường, nhưng em đã có kinh nghiệm thực tập và làm việc ở 2 công ty, nhưng đi phỏng vấn ở chi nhánh Fu** thuộc tập đoàn lớn Fo***nn ở Bắc Giang, đã pass phỏng vấn, và đến lúc deal lương thì được offer mức lương 9tr cơ bản chỉ vì em đang đợi bằng tốt nghiệp... với một vị trí có sử dụng tiếng anh 4 kỹ năng nghe-nói-đọc-viết và bằng của tự động hoá. Các anh và các chị cho em hỏi bây giờ thị trường lao động của mình đang gặp chuyện gì vậy ? trong khi em nghe anh chị từ 91 đến 95 từ ngày xưa mới ra trường có ngoại ngữ mà lương đã 14 15 rồi. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Xuanduong03"&gt; /u/Xuanduong03 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nl757s/lương_thấp_vì_là_sinh_viên_vừa_ra_trường_và_cho/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nl757s/lương_thấp_vì_là_sinh_viên_vừa_ra_trường_và_cho/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nl757s/lương_thấp_vì_là_sinh_viên_vừa_ra_trường_và_cho/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-19T15:46:34+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1nlr2uw</id>
-    <title>Sắp hết hợp đồng và công ty đề nghị viết đơn xin thôi việc</title>
-    <updated>2025-09-20T06:42:56+00:00</updated>
-    <author>
-      <name>/u/BlandRice9613</name>
-      <uri>https://old.reddit.com/user/BlandRice9613</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Xin chào mọi người, sắp tới hợp đồng lao động của mình hết hạn, và công ty có thông báo với mình là sẽ không gia hạn hợp đồng nữa (cty sẽ thanh toán tiền lương tháng cuối cùng + các phép năm chưa nghỉ và các khoản khác).&lt;/p&gt; &lt;p&gt;Thì mình cứ tưởng là hết hạn thì đến ngày được thanh toán và nghỉ thôi, nhưng mình được chị kế toán nói là viết và ký vào &amp;quot;Đơn xin thôi việc&amp;quot; để nộp nữa.&lt;/p&gt; &lt;p&gt;Mọi người cho mình hỏi là điều này có bình thường khi mà lao động hết hạn hợp đồng không ạ? Mình cảm ơn mọi người!&lt;/p&gt; &lt;p&gt;UPDATE 1: mình đọc lại hợp đồng thì không có ghi cụ thể gì về việc &amp;quot;hết thời hạn&amp;quot; hoặc &amp;quot;người lao động chủ động ngừng hợp đồng&amp;quot;. Có một điểm nói là có một số điều không được quy định ở trong hợp đồng, thì sẽ được thực hiện theo &amp;quot;thỏa ước lao động tập thể&amp;quot;. Còn lại thì không có quy định gì liên quan đến về vấn đề mình đang thắc mắc cả @@&lt;/p&gt; &lt;p&gt;Một điều nữa là cty đã có gửi thông báo sẽ không gia hạn hợp đồng + sẽ trả các khoản tiền liên quan, nhưng vẫn yêu cầu mình viết đơn thôi việc? Thực sự mình không hiểu.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/BlandRice9613"&gt; /u/BlandRice9613 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nlr2uw/sắp_hết_hợp_đồng_và_công_ty_đề_nghị_viết_đơn_xin/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nlr2uw/sắp_hết_hợp_đồng_và_công_ty_đề_nghị_viết_đơn_xin/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nlr2uw/sắp_hết_hợp_đồng_và_công_ty_đề_nghị_viết_đơn_xin/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-20T06:42:56+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nln8a0</id>
     <title>Làm sao hết rụng ạ</title>
     <updated>2025-09-20T03:05:19+00:00</updated>
@@ -227,6 +201,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nln8a0/làm_sao_hết_rụng_ạ/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-20T03:05:19+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nl757s</id>
+    <title>Lương thấp vì là sinh viên vừa ra trường và cho dù là dân kỹ thuật.</title>
+    <updated>2025-09-19T15:46:34+00:00</updated>
+    <author>
+      <name>/u/Xuanduong03</name>
+      <uri>https://old.reddit.com/user/Xuanduong03</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;thực ra em chưa ra trường, nhưng em đã có kinh nghiệm thực tập và làm việc ở 2 công ty, nhưng đi phỏng vấn ở chi nhánh Fu** thuộc tập đoàn lớn Fo***nn ở Bắc Giang, đã pass phỏng vấn, và đến lúc deal lương thì được offer mức lương 9tr cơ bản chỉ vì em đang đợi bằng tốt nghiệp... với một vị trí có sử dụng tiếng anh 4 kỹ năng nghe-nói-đọc-viết và bằng của tự động hoá. Các anh và các chị cho em hỏi bây giờ thị trường lao động của mình đang gặp chuyện gì vậy ? trong khi em nghe anh chị từ 91 đến 95 từ ngày xưa mới ra trường có ngoại ngữ mà lương đã 14 15 rồi. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Xuanduong03"&gt; /u/Xuanduong03 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nl757s/lương_thấp_vì_là_sinh_viên_vừa_ra_trường_và_cho/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nl757s/lương_thấp_vì_là_sinh_viên_vừa_ra_trường_và_cho/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nl757s/lương_thấp_vì_là_sinh_viên_vừa_ra_trường_và_cho/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-19T15:46:34+00:00</published>
   </entry>
   <entry>
     <id>t3_1nls0f9</id>
@@ -253,6 +240,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nlql37/ngành_tâm_lý_học_và_xã_hội_học_ở_ussh/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-20T06:13:01+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nlr2uw</id>
+    <title>Sắp hết hợp đồng và công ty đề nghị viết đơn xin thôi việc</title>
+    <updated>2025-09-20T06:42:56+00:00</updated>
+    <author>
+      <name>/u/BlandRice9613</name>
+      <uri>https://old.reddit.com/user/BlandRice9613</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Xin chào mọi người, sắp tới hợp đồng lao động của mình hết hạn, và công ty có thông báo với mình là sẽ không gia hạn hợp đồng nữa (cty sẽ thanh toán tiền lương tháng cuối cùng + các phép năm chưa nghỉ và các khoản khác).&lt;/p&gt; &lt;p&gt;Thì mình cứ tưởng là hết hạn thì đến ngày được thanh toán và nghỉ thôi, nhưng mình được chị kế toán nói là viết và ký vào &amp;quot;Đơn xin thôi việc&amp;quot; để nộp nữa.&lt;/p&gt; &lt;p&gt;Mọi người cho mình hỏi là điều này có bình thường khi mà lao động hết hạn hợp đồng không ạ? Mình cảm ơn mọi người!&lt;/p&gt; &lt;p&gt;UPDATE 1: mình đọc lại hợp đồng thì không có ghi cụ thể gì về việc &amp;quot;hết thời hạn&amp;quot; hoặc &amp;quot;người lao động chủ động ngừng hợp đồng&amp;quot;. Có một điểm nói là có một số điều không được quy định ở trong hợp đồng, thì sẽ được thực hiện theo &amp;quot;thỏa ước lao động tập thể&amp;quot;. Còn lại thì không có quy định gì liên quan đến về vấn đề mình đang thắc mắc cả @@&lt;/p&gt; &lt;p&gt;Một điều nữa là cty đã có gửi thông báo sẽ không gia hạn hợp đồng + sẽ trả các khoản tiền liên quan, nhưng vẫn yêu cầu mình viết đơn thôi việc? Thực sự mình không hiểu.&lt;/p&gt; &lt;p&gt;UPDATE 2: hợp đồng của mình là có thời hạn, và thời hạn là 1 năm á&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/BlandRice9613"&gt; /u/BlandRice9613 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nlr2uw/sắp_hết_hợp_đồng_và_công_ty_đề_nghị_viết_đơn_xin/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nlr2uw/sắp_hết_hợp_đồng_và_công_ty_đề_nghị_viết_đơn_xin/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nlr2uw/sắp_hết_hợp_đồng_và_công_ty_đề_nghị_viết_đơn_xin/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-20T06:42:56+00:00</published>
   </entry>
   <entry>
     <id>t3_1nl4wna</id>
