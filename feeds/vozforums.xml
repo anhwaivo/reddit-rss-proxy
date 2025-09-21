@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-09-21T13:30:00+00:00</updated>
+  <updated>2025-09-21T13:40:38+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -58,32 +58,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nmrobd/career_path_sinh_viên_năm_3_muốn_theo_it_support/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-21T13:15:15+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1nmrqkf</id>
-    <title>Giấc mơ tuổi 19</title>
-    <updated>2025-09-21T13:18:00+00:00</updated>
-    <author>
-      <name>/u/Friendly_Ad_5529</name>
-      <uri>https://old.reddit.com/user/Friendly_Ad_5529</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1nmrqkf/giấc_mơ_tuổi_19/"&gt; &lt;img alt="Giấc mơ tuổi 19" src="https://preview.redd.it/8ub62w3fqiqf1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=f91f7d0b70de01cc791181ade8afde9926529f52" title="Giấc mơ tuổi 19" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người,em là sv năm 2 ngày ôm máy tính điện thoại gần 15-17 tiếng,thì cho em hỏi liệu em có thể tiến xa hơn trong mức thu nhập này không em đang aim ra trường là mua nhà được ạ,các bác hỏi em làm nghề gì thì em làm bên mảng MMO nhé&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Friendly_Ad_5529"&gt; /u/Friendly_Ad_5529 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/8ub62w3fqiqf1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nmrqkf/giấc_mơ_tuổi_19/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nmrqkf/giấc_mơ_tuổi_19/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-21T13:18:00+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1nmrsud</id>
-    <title>Hạnh phúc</title>
-    <updated>2025-09-21T13:20:48+00:00</updated>
-    <author>
-      <name>/u/jzzzlye</name>
-      <uri>https://old.reddit.com/user/jzzzlye</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em chưa trải nhưng mà em muốn hỏi mọi người định nghĩa như thế nào là hạnh phúc vậy ạ? Em tự nhận xét mình là người được bố mẹ yêu thương, chưa từng để bản thân thiếu thứ gì, được cho ăn học đầy đủ và bố mẹ cũng tôn trọng quyết định về tương lai của em, nói chung là hiện tại em vẫn thấy mình may mắn hơn nhiều người nhưng mà nhiều lúc em đặt người xuống lại cảm thấy bản thân mình có một cái hạnh phúc không trọn vẹn, em cảm giác mỗi ngày trôi qua cũng chỉ có như vậy và em cảm thấy trống rỗng lắm ạ￼&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/jzzzlye"&gt; /u/jzzzlye &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nmrsud/hạnh_phúc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nmrsud/hạnh_phúc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nmrsud/hạnh_phúc/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-21T13:20:48+00:00</published>
   </entry>
   <entry>
     <id>t3_1nmifjl</id>
@@ -177,6 +151,19 @@
     <published>2025-09-21T10:28:28+00:00</published>
   </entry>
   <entry>
+    <id>t3_1nmrsud</id>
+    <title>Hạnh phúc</title>
+    <updated>2025-09-21T13:20:48+00:00</updated>
+    <author>
+      <name>/u/jzzzlye</name>
+      <uri>https://old.reddit.com/user/jzzzlye</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em chưa trải nhưng mà em muốn hỏi mọi người định nghĩa như thế nào là hạnh phúc vậy ạ? Em tự nhận xét mình là người được bố mẹ yêu thương, chưa từng để bản thân thiếu thứ gì, được cho ăn học đầy đủ và bố mẹ cũng tôn trọng quyết định về tương lai của em, nói chung là hiện tại em vẫn thấy mình may mắn hơn nhiều người nhưng mà nhiều lúc em đặt người xuống lại cảm thấy bản thân mình có một cái hạnh phúc không trọn vẹn, em cảm giác mỗi ngày trôi qua cũng chỉ có như vậy và em cảm thấy trống rỗng lắm ạ￼&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/jzzzlye"&gt; /u/jzzzlye &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nmrsud/hạnh_phúc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nmrsud/hạnh_phúc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nmrsud/hạnh_phúc/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-21T13:20:48+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1nmkbpi</id>
     <title>27 tuổi thất nghiệp và mất định hướng, xin lời khuyên</title>
     <updated>2025-09-21T06:08:18+00:00</updated>
@@ -253,6 +240,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nmrlri/tập_gym_nhiều_và_tổn_thọ/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-21T13:12:07+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nmrqkf</id>
+    <title>Giấc mơ tuổi 19</title>
+    <updated>2025-09-21T13:18:00+00:00</updated>
+    <author>
+      <name>/u/Friendly_Ad_5529</name>
+      <uri>https://old.reddit.com/user/Friendly_Ad_5529</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1nmrqkf/giấc_mơ_tuổi_19/"&gt; &lt;img alt="Giấc mơ tuổi 19" src="https://preview.redd.it/8ub62w3fqiqf1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=f91f7d0b70de01cc791181ade8afde9926529f52" title="Giấc mơ tuổi 19" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người,em là sv năm 2 ngày ôm máy tính điện thoại gần 15-17 tiếng,thì cho em hỏi liệu em có thể tiến xa hơn trong mức thu nhập này không em đang aim ra trường là mua nhà được ạ,các bác hỏi em làm nghề gì thì em làm bên mảng MMO nhé&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Friendly_Ad_5529"&gt; /u/Friendly_Ad_5529 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/8ub62w3fqiqf1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nmrqkf/giấc_mơ_tuổi_19/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nmrqkf/giấc_mơ_tuổi_19/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-21T13:18:00+00:00</published>
   </entry>
   <entry>
     <id>t3_1nml9pq</id>
