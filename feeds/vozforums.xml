@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-09-22T11:15:26+00:00</updated>
+  <updated>2025-09-22T11:37:16+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -99,19 +99,6 @@
     <published>2025-09-22T02:09:11+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nmvorz</id>
-    <title>Tương lai bọn em và chuyện bói toán</title>
-    <updated>2025-09-21T15:58:04+00:00</updated>
-    <author>
-      <name>/u/Similar_Positive_676</name>
-      <uri>https://old.reddit.com/user/Similar_Positive_676</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi mọi người,&lt;br /&gt; Em tự giới thiệu, E 27M (1999), hiện làm lập trình viên nhà F, thu nhập không gọi là cao nhưng vẫn đủ tích góp hằng năm, em xin lỗi nếu câu văn của em hơi lủng củng ạ.&lt;br /&gt; Chuyện là em có quen một bạn sinh cùng tháng cùng năm, mối quan hệ bọn em rất tốt, bạn gái e cũng rất chu đáo, quan tâm đến em, bọn em thậm chí đã nghĩ đến vấn đề tiến xa hơn là sẽ cưới nhau, gia đình em và bạn cũng rất quý 2 đứa bọn em. Chuyện không có gì cho đến khi gia đình bạn gái em đi xem bói về tuổi và hôn nhân, kết quả ra rất xấu, nếu cưới nhau, gia đình 2 bên làm ăn không được, sức khỏe đi xuống,...&lt;/p&gt; &lt;p&gt;Ba mẹ bạn em cũng rât buồn khi nghe thầy nói v, vì trong nhà bạn cũng đã có đến 2 trường hợp tương tự, không nghe thầy mà vẫn lấy nhau. Em và bạn cũng hiểu, vì cha mẹ nào cũng muốn con cái của mình sau này đầy đủ, hạnh phúc. Kể từ đó, gia đình bạn bảo với bạn gái em là nên hạn chế qua lại, đừng tiến xa hơn, đương nhiên bạn gái của em không đồng ý, và cũng có bày ra một số cách để cả 2 cùng nhau tiến bộ, cải thiện thu nhập, cốt yếu để lấy được lòng tin từ phụ huynh.&lt;/p&gt; &lt;p&gt;Bản thân em thì không tin chuyện bói toán, e tin vào sự nổ lực của bản thân hơn, nhưng mọi người cũng hiểu đó là quan niệm của cha mẹ bạn và em cũng không muốn phải vì chuyện này mà 2 bên mất hòa khí.&lt;/p&gt; &lt;p&gt;Các bác tâm sự với em chút nha, không biết đã có ai từng bị trường hợp giống như em không ạ. Giờ em rối lắm, em và bạn không muốn mât đi mối quan hệ này, chỉ biết âm thầm phấn đấu và giải quyết mọi chuyện cùng nhau, mong mọi người cho em lời khuyên thỏa đáng với ạ, em cảm ơn mọi người.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Similar_Positive_676"&gt; /u/Similar_Positive_676 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nmvorz/tương_lai_bọn_em_và_chuyện_bói_toán/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nmvorz/tương_lai_bọn_em_và_chuyện_bói_toán/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nmvorz/tương_lai_bọn_em_và_chuyện_bói_toán/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-21T15:58:04+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nnidmr</id>
     <title>Ví crypto</title>
     <updated>2025-09-22T10:02:33+00:00</updated>
@@ -123,6 +110,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nnidmr/ví_crypto/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-22T10:02:33+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nmvorz</id>
+    <title>Tương lai bọn em và chuyện bói toán</title>
+    <updated>2025-09-21T15:58:04+00:00</updated>
+    <author>
+      <name>/u/Similar_Positive_676</name>
+      <uri>https://old.reddit.com/user/Similar_Positive_676</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi mọi người,&lt;br /&gt; Em tự giới thiệu, E 27M (1999), hiện làm lập trình viên nhà F, thu nhập không gọi là cao nhưng vẫn đủ tích góp hằng năm, em xin lỗi nếu câu văn của em hơi lủng củng ạ.&lt;br /&gt; Chuyện là em có quen một bạn sinh cùng tháng cùng năm, mối quan hệ bọn em rất tốt, bạn gái e cũng rất chu đáo, quan tâm đến em, bọn em thậm chí đã nghĩ đến vấn đề tiến xa hơn là sẽ cưới nhau, gia đình em và bạn cũng rất quý 2 đứa bọn em. Chuyện không có gì cho đến khi gia đình bạn gái em đi xem bói về tuổi và hôn nhân, kết quả ra rất xấu, nếu cưới nhau, gia đình 2 bên làm ăn không được, sức khỏe đi xuống,...&lt;/p&gt; &lt;p&gt;Ba mẹ bạn em cũng rât buồn khi nghe thầy nói v, vì trong nhà bạn cũng đã có đến 2 trường hợp tương tự, không nghe thầy mà vẫn lấy nhau. Em và bạn cũng hiểu, vì cha mẹ nào cũng muốn con cái của mình sau này đầy đủ, hạnh phúc. Kể từ đó, gia đình bạn bảo với bạn gái em là nên hạn chế qua lại, đừng tiến xa hơn, đương nhiên bạn gái của em không đồng ý, và cũng có bày ra một số cách để cả 2 cùng nhau tiến bộ, cải thiện thu nhập, cốt yếu để lấy được lòng tin từ phụ huynh.&lt;/p&gt; &lt;p&gt;Bản thân em thì không tin chuyện bói toán, e tin vào sự nổ lực của bản thân hơn, nhưng mọi người cũng hiểu đó là quan niệm của cha mẹ bạn và em cũng không muốn phải vì chuyện này mà 2 bên mất hòa khí.&lt;/p&gt; &lt;p&gt;Các bác tâm sự với em chút nha, không biết đã có ai từng bị trường hợp giống như em không ạ. Giờ em rối lắm, em và bạn không muốn mât đi mối quan hệ này, chỉ biết âm thầm phấn đấu và giải quyết mọi chuyện cùng nhau, mong mọi người cho em lời khuyên thỏa đáng với ạ, em cảm ơn mọi người.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Similar_Positive_676"&gt; /u/Similar_Positive_676 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nmvorz/tương_lai_bọn_em_và_chuyện_bói_toán/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nmvorz/tương_lai_bọn_em_và_chuyện_bói_toán/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nmvorz/tương_lai_bọn_em_và_chuyện_bói_toán/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-21T15:58:04+00:00</published>
   </entry>
   <entry>
     <id>t3_1nniwca</id>
@@ -216,19 +216,6 @@
     <published>2025-09-21T13:18:00+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nnfogb</id>
-    <title>Hỡi các anh em ai đã và đang bị trĩ</title>
-    <updated>2025-09-22T07:05:59+00:00</updated>
-    <author>
-      <name>/u/WallyFuelarall</name>
-      <uri>https://old.reddit.com/user/WallyFuelarall</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình hiện đang bị trĩ cả nội lẫn ngoại, mỗi lần đi vệ sinh xong đều phải dùng tay nhét búi trĩ vào. Dạo gần đây mình đi vệ sinh còn ra cả máu nên mình lên đây để nhờ mn tư vấn giúp mình nên khám ở đâu trong khu vực TpHCM và cũng như giá thành ra sao ? Mình có bhyt nhé&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/WallyFuelarall"&gt; /u/WallyFuelarall &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nnfogb/hỡi_các_anh_em_ai_đã_và_đang_bị_trĩ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nnfogb/hỡi_các_anh_em_ai_đã_và_đang_bị_trĩ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nnfogb/hỡi_các_anh_em_ai_đã_và_đang_bị_trĩ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-22T07:05:59+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nncsck</id>
     <title>Xin kinh nghiệm đầu tư</title>
     <updated>2025-09-22T04:14:03+00:00</updated>
@@ -266,6 +253,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nniy0e/thực_tập_sinh_năm_4_được_giao_nhiệm_vụ_phát_triển/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-22T10:35:51+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nnfogb</id>
+    <title>Hỡi các anh em ai đã và đang bị trĩ</title>
+    <updated>2025-09-22T07:05:59+00:00</updated>
+    <author>
+      <name>/u/WallyFuelarall</name>
+      <uri>https://old.reddit.com/user/WallyFuelarall</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình hiện đang bị trĩ cả nội lẫn ngoại, mỗi lần đi vệ sinh xong đều phải dùng tay nhét búi trĩ vào. Dạo gần đây mình đi vệ sinh còn ra cả máu nên mình lên đây để nhờ mn tư vấn giúp mình nên khám ở đâu trong khu vực TpHCM và cũng như giá thành ra sao ? Mình có bhyt nhé&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/WallyFuelarall"&gt; /u/WallyFuelarall &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nnfogb/hỡi_các_anh_em_ai_đã_và_đang_bị_trĩ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nnfogb/hỡi_các_anh_em_ai_đã_và_đang_bị_trĩ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nnfogb/hỡi_các_anh_em_ai_đã_và_đang_bị_trĩ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-22T07:05:59+00:00</published>
   </entry>
   <entry>
     <id>t3_1nnf35y</id>
