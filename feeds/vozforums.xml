@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-09-23T15:18:16+00:00</updated>
+  <updated>2025-09-23T15:39:56+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -110,19 +110,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nodxqh/mình_ko_rõ_mình_bị_làm_sao/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-23T10:40:06+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1nojxsz</id>
-    <title>Công việc có mùi lừa đảo</title>
-    <updated>2025-09-23T15:08:13+00:00</updated>
-    <author>
-      <name>/u/HiepYuuki</name>
-      <uri>https://old.reddit.com/user/HiepYuuki</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào anh/chị. Em có gửi CV online tại 1 startup và họ bảo là đến văn phòng để pv vòng cuối, mà họ chỉ bảo là địa chỉ văn phòng xung quanh đây kèm theo 1 link gg map. Em có hỏi tên startup mà họ bảo là đến đó sẽ bàn. Em thấy nghi nghi. Anh/chị cho em xin ý kiến. Em không thể để link gg map trực tiếp được, nhưng mà địa chỉ họ gửi là công viên Nam Viên ở quận 7, mọi người ai có thể check giúp em thì em cảm ơn ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/HiepYuuki"&gt; /u/HiepYuuki &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nojxsz/công_việc_có_mùi_lừa_đảo/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nojxsz/công_việc_có_mùi_lừa_đảo/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nojxsz/công_việc_có_mùi_lừa_đảo/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-23T15:08:13+00:00</published>
   </entry>
   <entry>
     <id>t3_1nok30v</id>
@@ -242,6 +229,19 @@
     <published>2025-09-23T12:55:36+00:00</published>
   </entry>
   <entry>
+    <id>t3_1nojxsz</id>
+    <title>Công việc có mùi lừa đảo</title>
+    <updated>2025-09-23T15:08:13+00:00</updated>
+    <author>
+      <name>/u/HiepYuuki</name>
+      <uri>https://old.reddit.com/user/HiepYuuki</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào anh/chị. Em có gửi CV online tại 1 startup và họ bảo là đến văn phòng để pv vòng cuối, mà họ chỉ bảo là địa chỉ văn phòng xung quanh đây kèm theo 1 link gg map. Em có hỏi tên startup mà họ bảo là đến đó sẽ bàn. Em thấy nghi nghi. Anh/chị cho em xin ý kiến. Em không thể để link gg map trực tiếp được, nhưng mà địa chỉ họ gửi là công viên Nam Viên ở quận 7, mọi người ai có thể check giúp em thì em cảm ơn ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/HiepYuuki"&gt; /u/HiepYuuki &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nojxsz/công_việc_có_mùi_lừa_đảo/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nojxsz/công_việc_có_mùi_lừa_đảo/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nojxsz/công_việc_có_mùi_lừa_đảo/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-23T15:08:13+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1no5gl9</id>
     <title>Xin lời khuyên</title>
     <updated>2025-09-23T02:14:48+00:00</updated>
@@ -268,19 +268,6 @@
     <published>2025-09-23T14:47:25+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nofz9x</id>
-    <title>Tư vấn balo chịu tải &gt;10kg</title>
-    <updated>2025-09-23T12:26:17+00:00</updated>
-    <author>
-      <name>/u/_stupedasso</name>
-      <uri>https://old.reddit.com/user/_stupedasso</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hello! Mình có thằng em khác cha khác mẹ đang học đại học. Vấn đề là nó gạ được nhà nó mua cho con lap gaming 16 inch. Vậy là cả bộ lap + sạc vừa tròn 5kg, chưa kể nó còn sạc dự phòng, tablet, nước uống, sách vở, comdom, s*xtoy, bôi trơn các kiểu nữa thì cũng phải hơn 10kg. Anh em có ai thực tế đang xài balo nào build tốt xíu ko? Nó cũng xài 2-3 cái balo dưới 1 củ rồi nhưng đeo cái đống kia đc 1-2 tháng nó bung hết chỉ ra. Cảm ơn anh em đã hỗ trợ 🥰&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/_stupedasso"&gt; /u/_stupedasso &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nofz9x/tư_vấn_balo_chịu_tải_10kg/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nofz9x/tư_vấn_balo_chịu_tải_10kg/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nofz9x/tư_vấn_balo_chịu_tải_10kg/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-23T12:26:17+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nogbin</id>
     <title>Ngành đtvt bây h có ổn ko ạ? E nghe mấy ng lớn cứ bảo no hope nản lắm ạ😭😭</title>
     <updated>2025-09-23T12:41:46+00:00</updated>
@@ -292,6 +279,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nogbin/ngành_đtvt_bây_h_có_ổn_ko_ạ_e_nghe_mấy_ng_lớn_cứ/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-23T12:41:46+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nofz9x</id>
+    <title>Tư vấn balo chịu tải &gt;10kg</title>
+    <updated>2025-09-23T12:26:17+00:00</updated>
+    <author>
+      <name>/u/_stupedasso</name>
+      <uri>https://old.reddit.com/user/_stupedasso</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hello! Mình có thằng em khác cha khác mẹ đang học đại học. Vấn đề là nó gạ được nhà nó mua cho con lap gaming 16 inch. Vậy là cả bộ lap + sạc vừa tròn 5kg, chưa kể nó còn sạc dự phòng, tablet, nước uống, sách vở, comdom, s*xtoy, bôi trơn các kiểu nữa thì cũng phải hơn 10kg. Anh em có ai thực tế đang xài balo nào build tốt xíu ko? Nó cũng xài 2-3 cái balo dưới 1 củ rồi nhưng đeo cái đống kia đc 1-2 tháng nó bung hết chỉ ra. Cảm ơn anh em đã hỗ trợ 🥰&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/_stupedasso"&gt; /u/_stupedasso &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nofz9x/tư_vấn_balo_chịu_tải_10kg/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nofz9x/tư_vấn_balo_chịu_tải_10kg/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nofz9x/tư_vấn_balo_chịu_tải_10kg/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-23T12:26:17+00:00</published>
   </entry>
   <entry>
     <id>t3_1noiz6r</id>
