@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-09-24T09:19:08+00:00</updated>
+  <updated>2025-09-24T09:40:31+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1noiz6r</id>
-    <title>Em có tài chính khoảng 21tr cần mua laptop để học ,em học ngành cơ điện tử ạ.</title>
-    <updated>2025-09-23T14:31:22+00:00</updated>
-    <author>
-      <name>/u/Weekly_Weird_3729</name>
-      <uri>https://old.reddit.com/user/Weekly_Weird_3729</uri>
-    </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Weekly_Weird_3729"&gt; /u/Weekly_Weird_3729 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1noiz6r/em_có_tài_chính_khoảng_21tr_cần_mua_laptop_để_học/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1noiz6r/em_có_tài_chính_khoảng_21tr_cần_mua_laptop_để_học/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1noiz6r/em_có_tài_chính_khoảng_21tr_cần_mua_laptop_để_học/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-23T14:31:22+00:00</published>
-  </entry>
   <entry>
     <id>t3_1noj4q6</id>
     <title>Cảm giác khi yêu</title>
@@ -47,19 +34,6 @@
     <published>2025-09-24T02:36:42+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nom48z</id>
-    <title>Lại chuyện NVQS</title>
-    <updated>2025-09-23T16:29:39+00:00</updated>
-    <author>
-      <name>/u/Lunaprism_404</name>
-      <uri>https://old.reddit.com/user/Lunaprism_404</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình cũng xác định là nhà mình không quen biết cũng không chạy chọt được rồi, nên chấp nhận là đi khám nếu có bị gọi cũng chịu đi, hiện tại mình đang làm Dev cho 1 cty startup, cơ bản là cũng đang phát triển sự nghiệp, tiếng Anh mình tốt, và còn đang học thêm ngoại ngữ thứ 2 nữa, xác định đi là không được cầm máy tính vào nên nếu lỡ trúng thì mình tính in một đống sách tiếng Nhật vào và 1 ít sách thuật toán vào để học với code giấy cho đỡ quên, sau ra ngoài còn có nền tảng, đỡ thọt so với mọi người, bác nào đi rồi cho mình hỏi là liệu với cường độ luyện tập trong doanh trại thì còn thời gian và còn sức để học không nhỉ, thấy cũng khó vì thằng anh mình kêu nghĩa vụ rất mệt, về đặt đít xuống là chỉ muốn nằm, nhưng thực sự mình không muốn vì vào đấy 2 năm mà ra ngoài bị thụt lùi, thụt về công nghệ thì ít nhất cũng bù đắp được bằng 1 ít thuật toán và ngoại ngữ.&lt;/p&gt; &lt;p&gt;edit: mình không có debuff gì cả =)), cận 0,75 loạn 0,5, hàm có phẫu thuật khớp cắn ngược và vẫn còn vít titan ở trong xương nhưng ra ngoài đấy khám ngta gạt phắt đi.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Lunaprism_404"&gt; /u/Lunaprism_404 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nom48z/lại_chuyện_nvqs/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nom48z/lại_chuyện_nvqs/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nom48z/lại_chuyện_nvqs/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-23T16:29:39+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1np5l1l</id>
     <title>Em muốn build pc</title>
     <updated>2025-09-24T07:08:41+00:00</updated>
@@ -73,6 +47,19 @@
     <published>2025-09-24T07:08:41+00:00</published>
   </entry>
   <entry>
+    <id>t3_1nom48z</id>
+    <title>Lại chuyện NVQS</title>
+    <updated>2025-09-23T16:29:39+00:00</updated>
+    <author>
+      <name>/u/Lunaprism_404</name>
+      <uri>https://old.reddit.com/user/Lunaprism_404</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình cũng xác định là nhà mình không quen biết cũng không chạy chọt được rồi, nên chấp nhận là đi khám nếu có bị gọi cũng chịu đi, hiện tại mình đang làm Dev cho 1 cty startup, cơ bản là cũng đang phát triển sự nghiệp, tiếng Anh mình tốt, và còn đang học thêm ngoại ngữ thứ 2 nữa, xác định đi là không được cầm máy tính vào nên nếu lỡ trúng thì mình tính in một đống sách tiếng Nhật vào và 1 ít sách thuật toán vào để học với code giấy cho đỡ quên, sau ra ngoài còn có nền tảng, đỡ thọt so với mọi người, bác nào đi rồi cho mình hỏi là liệu với cường độ luyện tập trong doanh trại thì còn thời gian và còn sức để học không nhỉ, thấy cũng khó vì thằng anh mình kêu nghĩa vụ rất mệt, về đặt đít xuống là chỉ muốn nằm, nhưng thực sự mình không muốn vì vào đấy 2 năm mà ra ngoài bị thụt lùi, thụt về công nghệ thì ít nhất cũng bù đắp được bằng 1 ít thuật toán và ngoại ngữ.&lt;/p&gt; &lt;p&gt;edit: mình không có debuff gì cả =)), cận 0,75 loạn 0,5, hàm có phẫu thuật khớp cắn ngược và vẫn còn vít titan ở trong xương nhưng ra ngoài đấy khám ngta gạt phắt đi.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Lunaprism_404"&gt; /u/Lunaprism_404 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nom48z/lại_chuyện_nvqs/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nom48z/lại_chuyện_nvqs/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nom48z/lại_chuyện_nvqs/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-23T16:29:39+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1nojxsz</id>
     <title>Công việc có mùi lừa đảo</title>
     <updated>2025-09-23T15:08:13+00:00</updated>
@@ -84,19 +71,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nojxsz/công_việc_có_mùi_lừa_đảo/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-23T15:08:13+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1np6h22</id>
-    <title>Thi Iar thối hơn</title>
-    <updated>2025-09-24T08:09:45+00:00</updated>
-    <author>
-      <name>/u/Maximum_Antelope_346</name>
-      <uri>https://old.reddit.com/user/Maximum_Antelope_346</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Đang buồn iỉa và có thằng phòng kế nó ỉa thối vkl và quyết tâm iar thối hơn nó để nó biết mùi. Như vậy có phải là kẻ khốn nạn không?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Maximum_Antelope_346"&gt; /u/Maximum_Antelope_346 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1np6h22/thi_iar_thối_hơn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1np6h22/thi_iar_thối_hơn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1np6h22/thi_iar_thối_hơn/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-24T08:09:45+00:00</published>
   </entry>
   <entry>
     <id>t3_1np6i9g</id>
@@ -138,6 +112,19 @@
     <published>2025-09-24T08:32:05+00:00</published>
   </entry>
   <entry>
+    <id>t3_1np7p52</id>
+    <title>Xin tư vấn để đăng ký NVQS cho em trai</title>
+    <updated>2025-09-24T09:34:14+00:00</updated>
+    <author>
+      <name>/u/jacky2391</name>
+      <uri>https://old.reddit.com/user/jacky2391</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, hiện tại em trai mình sinh năm 99, cũng ra trường đi làm được khoảng 4 - 5 năm rồi, mình dẫn nó vào nghề IT và mức lương của nó hiện tại cũng nằm ở mức thu nhập khá (&amp;gt;30M) 1 tháng. Tuy nhiên thời gian gần đây tâm lý của nó có vẻ không được ổn lắm, nó gây sự với mọi người trên công ty rồi bỏ nhà đi bỏ hết đồ đạc nó mới sắm sửa (nó bảo là nó muốn làm âm nhạc) cả hơn trăm triệu, rồi đùng đùng nó xin nghỉ công ty làm mình phải hứng chịu mọi hậu quả của nó gây ra. Giờ mình nói nó thì nó cũng không chịu nghe nữa, nó cứ tự tưởng tượng ra có ông anh nào đó cho nó vay mấy tỷ để làm studio làm nhạc của nó, mình thì cũng nhẹ nhàng với nó nhưng mà nó cũng kiểu bất cần, mặc dù mình cũng muốn giúp nó thoát ra khỏi cái tâm lý hiện tại nhưng nó đang từ chối giao tiếp với mình. Nên mình nghĩ tới chuyện đăng ký cho nó đi NVQS để cho nó vào trong đó mấy năm vì giờ có cưỡng ép nó đi chữa bệnh ở trên bệnh viện nó cũng không có chịu đi nữa, theo các bác thì trường hợp này mình nên làm gì với nó và mình có nên đăng ký để cho nó đi NVQS cho nó biết không mọi người nhỉ? Dấu hiệu của nó thì tự tách mình khỏi các mối quan hệ xã hội và gia đình, mà nó hay ảo tưởng và tự huyễn hoặc bản thân mình rất nhiều nữa. Mong các bác tư vấn giúp mình vì mình cũng đã áp dụng mọi cách có thể rồi mà tình hình vẫn không khả quan hơn. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/jacky2391"&gt; /u/jacky2391 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1np7p52/xin_tư_vấn_để_đăng_ký_nvqs_cho_em_trai/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1np7p52/xin_tư_vấn_để_đăng_ký_nvqs_cho_em_trai/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1np7p52/xin_tư_vấn_để_đăng_ký_nvqs_cho_em_trai/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-24T09:34:14+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1np0ryh</id>
     <title>Xin Visa đi Mỹ diện công tác theo giấy giới thiệu của đối tác</title>
     <updated>2025-09-24T02:35:14+00:00</updated>
@@ -177,19 +164,6 @@
     <published>2025-09-24T02:31:27+00:00</published>
   </entry>
   <entry>
-    <id>t3_1np1c8t</id>
-    <title>Câu chuyện NVQS</title>
-    <updated>2025-09-24T03:03:27+00:00</updated>
-    <author>
-      <name>/u/QuangDetail</name>
-      <uri>https://old.reddit.com/user/QuangDetail</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình đi khám 2 năm rồi người ta cho về, lí do bị cận 4,25 và loạn 1. Thấy bảo năm nay bế cả cận đi hết nhỉ mn&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/QuangDetail"&gt; /u/QuangDetail &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1np1c8t/câu_chuyện_nvqs/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1np1c8t/câu_chuyện_nvqs/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1np1c8t/câu_chuyện_nvqs/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-24T03:03:27+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1np2e05</id>
     <title>Hỏi về mấy job remote trên reddit</title>
     <updated>2025-09-24T03:58:12+00:00</updated>
@@ -201,6 +175,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1np2e05/hỏi_về_mấy_job_remote_trên_reddit/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-24T03:58:12+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1np1c8t</id>
+    <title>Câu chuyện NVQS</title>
+    <updated>2025-09-24T03:03:27+00:00</updated>
+    <author>
+      <name>/u/QuangDetail</name>
+      <uri>https://old.reddit.com/user/QuangDetail</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình đi khám 2 năm rồi người ta cho về, lí do bị cận 4,25 và loạn 1. Thấy bảo năm nay bế cả cận đi hết nhỉ mn&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/QuangDetail"&gt; /u/QuangDetail &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1np1c8t/câu_chuyện_nvqs/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1np1c8t/câu_chuyện_nvqs/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1np1c8t/câu_chuyện_nvqs/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-24T03:03:27+00:00</published>
   </entry>
   <entry>
     <id>t3_1np3rhd</id>
@@ -253,6 +240,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1np174d/nhận_nhiều_cuộc_gọi_lạ_từ_số_châu_âu/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-24T02:56:28+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1np7htq</id>
+    <title>Voz thành chỗ để hỏi cách để không đi nghĩa vụ?</title>
+    <updated>2025-09-24T09:20:17+00:00</updated>
+    <author>
+      <name>/u/Ok_Tonight_4336</name>
+      <uri>https://old.reddit.com/user/Ok_Tonight_4336</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tôi biết các bạn đang rất lo lắng cho tương lai của mình nhưng làm ơn đừng spam nữa, đọc link này &lt;a href="https://luatminhkhue.vn/bang-phan-loai-tieu-chuan-suc-khoe-di-nghia-vu-quan-su.aspx"&gt;https://luatminhkhue.vn/bang-phan-loai-tieu-chuan-suc-khoe-di-nghia-vu-quan-su.aspx&lt;/a&gt; xem mình có phải đi hay không. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ok_Tonight_4336"&gt; /u/Ok_Tonight_4336 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1np7htq/voz_thành_chỗ_để_hỏi_cách_để_không_đi_nghĩa_vụ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1np7htq/voz_thành_chỗ_để_hỏi_cách_để_không_đi_nghĩa_vụ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1np7htq/voz_thành_chỗ_để_hỏi_cách_để_không_đi_nghĩa_vụ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-24T09:20:17+00:00</published>
   </entry>
   <entry>
     <id>t3_1np6wks</id>
