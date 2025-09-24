@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-09-24T19:14:29+00:00</updated>
+  <updated>2025-09-24T19:27:05+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1np1c8t</id>
-    <title>Câu chuyện NVQS</title>
-    <updated>2025-09-24T03:03:27+00:00</updated>
-    <author>
-      <name>/u/QuangDetail</name>
-      <uri>https://old.reddit.com/user/QuangDetail</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình đi khám 2 năm rồi người ta cho về, lí do bị cận 4,25 và loạn 1. Thấy bảo năm nay bế cả cận đi hết nhỉ mn&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/QuangDetail"&gt; /u/QuangDetail &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1np1c8t/câu_chuyện_nvqs/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1np1c8t/câu_chuyện_nvqs/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1np1c8t/câu_chuyện_nvqs/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-24T03:03:27+00:00</published>
-  </entry>
   <entry>
     <id>t3_1np9jql</id>
     <title>khám mắt trước NVQS</title>
@@ -99,19 +86,6 @@
     <published>2025-09-24T12:37:17+00:00</published>
   </entry>
   <entry>
-    <id>t3_1np59av</id>
-    <title>2 bên mắt của mình cận 9 độ và loạn 1 độ ở bên trái thì có đi NVQS không ạ ?</title>
-    <updated>2025-09-24T06:48:24+00:00</updated>
-    <author>
-      <name>/u/No-Mixture-9326</name>
-      <uri>https://old.reddit.com/user/No-Mixture-9326</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Như tiêu đề ạ ! Em cám ơn !&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/No-Mixture-9326"&gt; /u/No-Mixture-9326 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1np59av/2_bên_mắt_của_mình_cận_9_độ_và_loạn_1_độ_ở_bên/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1np59av/2_bên_mắt_của_mình_cận_9_độ_và_loạn_1_độ_ở_bên/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1np59av/2_bên_mắt_của_mình_cận_9_độ_và_loạn_1_độ_ở_bên/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-24T06:48:24+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1np94rh</id>
     <title>Hai cánh tay nối dài</title>
     <updated>2025-09-24T11:02:06+00:00</updated>
@@ -123,6 +97,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1np94rh/hai_cánh_tay_nối_dài/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-24T11:02:06+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1np59av</id>
+    <title>2 bên mắt của mình cận 9 độ và loạn 1 độ ở bên trái thì có đi NVQS không ạ ?</title>
+    <updated>2025-09-24T06:48:24+00:00</updated>
+    <author>
+      <name>/u/No-Mixture-9326</name>
+      <uri>https://old.reddit.com/user/No-Mixture-9326</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Như tiêu đề ạ ! Em cám ơn !&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/No-Mixture-9326"&gt; /u/No-Mixture-9326 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1np59av/2_bên_mắt_của_mình_cận_9_độ_và_loạn_1_độ_ở_bên/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1np59av/2_bên_mắt_của_mình_cận_9_độ_và_loạn_1_độ_ở_bên/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1np59av/2_bên_mắt_của_mình_cận_9_độ_và_loạn_1_độ_ở_bên/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-24T06:48:24+00:00</published>
   </entry>
   <entry>
     <id>t3_1npb995</id>
@@ -149,6 +136,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1npkv1w/buông_lời_chia_tay_khi_còn_quá_yêu_mình_không_thể/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-24T19:01:50+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1npl8q7</id>
+    <title>Chuyện lái xe</title>
+    <updated>2025-09-24T19:16:16+00:00</updated>
+    <author>
+      <name>/u/TrHaiz</name>
+      <uri>https://old.reddit.com/user/TrHaiz</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em sinh viên năm 2, đã có bằng lái xe máy và đi đường thị trấn vẫn khá ổn nhưng không hiểu sao em vẫn thấy ngại việc lái xe máy ở Hà Nội. Tính em hấp tấp, lúng túng nên việc xử lý mấy tình huống bất ngờ trên đường coi bộ hơi khó. Dù vậy, em nghĩ mình cần học cách lái xe máy để có thể tự chủ trong việc di chuyển và tiết kiệm được một khoản tiền đặt xe hàng tháng. Cho em xin cách vượt qua cái cảm giác ngại lái xe với ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/TrHaiz"&gt; /u/TrHaiz &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1npl8q7/chuyện_lái_xe/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1npl8q7/chuyện_lái_xe/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1npl8q7/chuyện_lái_xe/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-24T19:16:16+00:00</published>
   </entry>
   <entry>
     <id>t3_1npfs9s</id>
