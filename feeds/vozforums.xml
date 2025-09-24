@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-09-24T11:39:39+00:00</updated>
+  <updated>2025-09-24T11:50:08+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -138,19 +138,6 @@
     <published>2025-09-24T10:02:34+00:00</published>
   </entry>
   <entry>
-    <id>t3_1np3rhd</id>
-    <title>tiêu chuẩn về thị lực của nvqs năm nay</title>
-    <updated>2025-09-24T05:16:18+00:00</updated>
-    <author>
-      <name>/u/sigtrovert</name>
-      <uri>https://old.reddit.com/user/sigtrovert</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1np3rhd/tiêu_chuẩn_về_thị_lực_của_nvqs_năm_nay/"&gt; &lt;img alt="tiêu chuẩn về thị lực của nvqs năm nay" src="https://preview.redd.it/rgfpwzs7r1rf1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=830a6f32fb40df817487eca6a81e336f33a85c7f" title="tiêu chuẩn về thị lực của nvqs năm nay" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;e xin phép hỏi các bác là e bị cận nnay thì có đủ tiêu chuẩn để được đi nvqs k ạ. Em cảm ơn ạ. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/sigtrovert"&gt; /u/sigtrovert &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/rgfpwzs7r1rf1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1np3rhd/tiêu_chuẩn_về_thị_lực_của_nvqs_năm_nay/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1np3rhd/tiêu_chuẩn_về_thị_lực_của_nvqs_năm_nay/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-24T05:16:18+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1np59av</id>
     <title>2 bên mắt của mình cận 9 độ và loạn 1 độ ở bên trái thì có đi NVQS không ạ ?</title>
     <updated>2025-09-24T06:48:24+00:00</updated>
@@ -162,19 +149,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1np59av/2_bên_mắt_của_mình_cận_9_độ_và_loạn_1_độ_ở_bên/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-24T06:48:24+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1np1c8t</id>
-    <title>Câu chuyện NVQS</title>
-    <updated>2025-09-24T03:03:27+00:00</updated>
-    <author>
-      <name>/u/QuangDetail</name>
-      <uri>https://old.reddit.com/user/QuangDetail</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình đi khám 2 năm rồi người ta cho về, lí do bị cận 4,25 và loạn 1. Thấy bảo năm nay bế cả cận đi hết nhỉ mn&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/QuangDetail"&gt; /u/QuangDetail &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1np1c8t/câu_chuyện_nvqs/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1np1c8t/câu_chuyện_nvqs/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1np1c8t/câu_chuyện_nvqs/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-24T03:03:27+00:00</published>
   </entry>
   <entry>
     <id>t3_1np0akl</id>
@@ -216,6 +190,32 @@
     <published>2025-09-24T02:56:28+00:00</published>
   </entry>
   <entry>
+    <id>t3_1np1c8t</id>
+    <title>Câu chuyện NVQS</title>
+    <updated>2025-09-24T03:03:27+00:00</updated>
+    <author>
+      <name>/u/QuangDetail</name>
+      <uri>https://old.reddit.com/user/QuangDetail</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình đi khám 2 năm rồi người ta cho về, lí do bị cận 4,25 và loạn 1. Thấy bảo năm nay bế cả cận đi hết nhỉ mn&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/QuangDetail"&gt; /u/QuangDetail &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1np1c8t/câu_chuyện_nvqs/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1np1c8t/câu_chuyện_nvqs/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1np1c8t/câu_chuyện_nvqs/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-24T03:03:27+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1np3rhd</id>
+    <title>tiêu chuẩn về thị lực của nvqs năm nay</title>
+    <updated>2025-09-24T05:16:18+00:00</updated>
+    <author>
+      <name>/u/sigtrovert</name>
+      <uri>https://old.reddit.com/user/sigtrovert</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1np3rhd/tiêu_chuẩn_về_thị_lực_của_nvqs_năm_nay/"&gt; &lt;img alt="tiêu chuẩn về thị lực của nvqs năm nay" src="https://preview.redd.it/rgfpwzs7r1rf1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=830a6f32fb40df817487eca6a81e336f33a85c7f" title="tiêu chuẩn về thị lực của nvqs năm nay" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;e xin phép hỏi các bác là e bị cận nnay thì có đủ tiêu chuẩn để được đi nvqs k ạ. Em cảm ơn ạ. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/sigtrovert"&gt; /u/sigtrovert &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/rgfpwzs7r1rf1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1np3rhd/tiêu_chuẩn_về_thị_lực_của_nvqs_năm_nay/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1np3rhd/tiêu_chuẩn_về_thị_lực_của_nvqs_năm_nay/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-24T05:16:18+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1np9egp</id>
     <title>Mọi người có nghĩ thời điểm hiện tại lương 20tr/ tháng là cao ko</title>
     <updated>2025-09-24T11:17:12+00:00</updated>
@@ -242,19 +242,6 @@
     <published>2025-09-24T11:25:39+00:00</published>
   </entry>
   <entry>
-    <id>t3_1np6wks</id>
-    <title>Mắt của em như này có đủ chỉ tiêu để được đi nvqs ko ạ?</title>
-    <updated>2025-09-24T08:40:26+00:00</updated>
-    <author>
-      <name>/u/NguyenT1234</name>
-      <uri>https://old.reddit.com/user/NguyenT1234</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1np6wks/mắt_của_em_như_này_có_đủ_chỉ_tiêu_để_được_đi_nvqs/"&gt; &lt;img alt="Mắt của em như này có đủ chỉ tiêu để được đi nvqs ko ạ?" src="https://preview.redd.it/05wt51kmr2rf1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=c951608e41c5b9ac2d2103401d0465f6b4b4367b" title="Mắt của em như này có đủ chỉ tiêu để được đi nvqs ko ạ?" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Đây là kết quả của em sau khi đo, tờ giấy kia thì họ ghi như không ghi nên em không chụp lại&lt;/p&gt; &lt;p&gt;Đại khái là tờ bên trái là số liệu đo lần đầu (2 mắt đều 7/10)&lt;/p&gt; &lt;p&gt;Sau đó, họ thử nhỏ thuốc điều tiết và đo lại cho em thì ra tờ bên phải ( thế nào có một mắt còn lòi ra cả viễn thị, nhưng mắt còn lại thì lên được 10/10)&lt;/p&gt; &lt;p&gt;Kết luận em được nhận là mắt trái của em bị nhược thị do mờ từ bé mà không đeo kính sớm, mãi mãi 7/10 và không cải thiện được nữa.&lt;/p&gt; &lt;p&gt;Mắt trái của em bị cận thị giả do ngồi màn hình nhiều.&lt;/p&gt; &lt;p&gt;Em muốn hỏi mọi người thử xem là mắt của em như vậy thì có đạt chỉ tiêu để được đi nvqs ko ạ?Em có dốt hay hỏi ngu gì thì mong mọi người thông cảm ạ, em cảm ơn mọi người.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/NguyenT1234"&gt; /u/NguyenT1234 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/05wt51kmr2rf1.png"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1np6wks/mắt_của_em_như_này_có_đủ_chỉ_tiêu_để_được_đi_nvqs/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1np6wks/mắt_của_em_như_này_có_đủ_chỉ_tiêu_để_được_đi_nvqs/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-24T08:40:26+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1np6sfj</id>
     <title>Quan điểm về xét nghiệm DNA cho con mới sinh</title>
     <updated>2025-09-24T08:32:05+00:00</updated>
@@ -266,6 +253,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1np6sfj/quan_điểm_về_xét_nghiệm_dna_cho_con_mới_sinh/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-24T08:32:05+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1np6wks</id>
+    <title>Mắt của em như này có đủ chỉ tiêu để được đi nvqs ko ạ?</title>
+    <updated>2025-09-24T08:40:26+00:00</updated>
+    <author>
+      <name>/u/NguyenT1234</name>
+      <uri>https://old.reddit.com/user/NguyenT1234</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1np6wks/mắt_của_em_như_này_có_đủ_chỉ_tiêu_để_được_đi_nvqs/"&gt; &lt;img alt="Mắt của em như này có đủ chỉ tiêu để được đi nvqs ko ạ?" src="https://preview.redd.it/05wt51kmr2rf1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=c951608e41c5b9ac2d2103401d0465f6b4b4367b" title="Mắt của em như này có đủ chỉ tiêu để được đi nvqs ko ạ?" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Đây là kết quả của em sau khi đo, tờ giấy kia thì họ ghi như không ghi nên em không chụp lại&lt;/p&gt; &lt;p&gt;Đại khái là tờ bên trái là số liệu đo lần đầu (2 mắt đều 7/10)&lt;/p&gt; &lt;p&gt;Sau đó, họ thử nhỏ thuốc điều tiết và đo lại cho em thì ra tờ bên phải ( thế nào có một mắt còn lòi ra cả viễn thị, nhưng mắt còn lại thì lên được 10/10)&lt;/p&gt; &lt;p&gt;Kết luận em được nhận là mắt trái của em bị nhược thị do mờ từ bé mà không đeo kính sớm, mãi mãi 7/10 và không cải thiện được nữa.&lt;/p&gt; &lt;p&gt;Mắt trái của em bị cận thị giả do ngồi màn hình nhiều.&lt;/p&gt; &lt;p&gt;Em muốn hỏi mọi người thử xem là mắt của em như vậy thì có đạt chỉ tiêu để được đi nvqs ko ạ?Em có dốt hay hỏi ngu gì thì mong mọi người thông cảm ạ, em cảm ơn mọi người.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/NguyenT1234"&gt; /u/NguyenT1234 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/05wt51kmr2rf1.png"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1np6wks/mắt_của_em_như_này_có_đủ_chỉ_tiêu_để_được_đi_nvqs/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1np6wks/mắt_của_em_như_này_có_đủ_chỉ_tiêu_để_được_đi_nvqs/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-24T08:40:26+00:00</published>
   </entry>
   <entry>
     <id>t3_1np5cy6</id>
