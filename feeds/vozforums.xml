@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-09-24T07:38:35+00:00</updated>
+  <updated>2025-09-24T07:50:11+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -60,19 +60,6 @@
     <published>2025-09-23T18:46:54+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nom48z</id>
-    <title>Lại chuyện NVQS</title>
-    <updated>2025-09-23T16:29:39+00:00</updated>
-    <author>
-      <name>/u/Lunaprism_404</name>
-      <uri>https://old.reddit.com/user/Lunaprism_404</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình cũng xác định là nhà mình không quen biết cũng không chạy chọt được rồi, nên chấp nhận là đi khám nếu có bị gọi cũng chịu đi, hiện tại mình đang làm Dev cho 1 cty startup, cơ bản là cũng đang phát triển sự nghiệp, tiếng Anh mình tốt, và còn đang học thêm ngoại ngữ thứ 2 nữa, xác định đi là không được cầm máy tính vào nên nếu lỡ trúng thì mình tính in một đống sách tiếng Nhật vào và 1 ít sách thuật toán vào để học với code giấy cho đỡ quên, sau ra ngoài còn có nền tảng, đỡ thọt so với mọi người, bác nào đi rồi cho mình hỏi là liệu với cường độ luyện tập trong doanh trại thì còn thời gian và còn sức để học không nhỉ, thấy cũng khó vì thằng anh mình kêu nghĩa vụ rất mệt, về đặt đít xuống là chỉ muốn nằm, nhưng thực sự mình không muốn vì vào đấy 2 năm mà ra ngoài bị thụt lùi, thụt về công nghệ thì ít nhất cũng bù đắp được bằng 1 ít thuật toán và ngoại ngữ.&lt;/p&gt; &lt;p&gt;edit: mình không có debuff gì cả =)), cận 0,75 loạn 0,5, hàm có phẫu thuật khớp cắn ngược và vẫn còn vít titan ở trong xương nhưng ra ngoài đấy khám ngta gạt phắt đi.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Lunaprism_404"&gt; /u/Lunaprism_404 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nom48z/lại_chuyện_nvqs/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nom48z/lại_chuyện_nvqs/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nom48z/lại_chuyện_nvqs/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-23T16:29:39+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1noiz6r</id>
     <title>Em có tài chính khoảng 21tr cần mua laptop để học ,em học ngành cơ điện tử ạ.</title>
     <updated>2025-09-23T14:31:22+00:00</updated>
@@ -84,6 +71,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1noiz6r/em_có_tài_chính_khoảng_21tr_cần_mua_laptop_để_học/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-23T14:31:22+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nom48z</id>
+    <title>Lại chuyện NVQS</title>
+    <updated>2025-09-23T16:29:39+00:00</updated>
+    <author>
+      <name>/u/Lunaprism_404</name>
+      <uri>https://old.reddit.com/user/Lunaprism_404</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình cũng xác định là nhà mình không quen biết cũng không chạy chọt được rồi, nên chấp nhận là đi khám nếu có bị gọi cũng chịu đi, hiện tại mình đang làm Dev cho 1 cty startup, cơ bản là cũng đang phát triển sự nghiệp, tiếng Anh mình tốt, và còn đang học thêm ngoại ngữ thứ 2 nữa, xác định đi là không được cầm máy tính vào nên nếu lỡ trúng thì mình tính in một đống sách tiếng Nhật vào và 1 ít sách thuật toán vào để học với code giấy cho đỡ quên, sau ra ngoài còn có nền tảng, đỡ thọt so với mọi người, bác nào đi rồi cho mình hỏi là liệu với cường độ luyện tập trong doanh trại thì còn thời gian và còn sức để học không nhỉ, thấy cũng khó vì thằng anh mình kêu nghĩa vụ rất mệt, về đặt đít xuống là chỉ muốn nằm, nhưng thực sự mình không muốn vì vào đấy 2 năm mà ra ngoài bị thụt lùi, thụt về công nghệ thì ít nhất cũng bù đắp được bằng 1 ít thuật toán và ngoại ngữ.&lt;/p&gt; &lt;p&gt;edit: mình không có debuff gì cả =)), cận 0,75 loạn 0,5, hàm có phẫu thuật khớp cắn ngược và vẫn còn vít titan ở trong xương nhưng ra ngoài đấy khám ngta gạt phắt đi.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Lunaprism_404"&gt; /u/Lunaprism_404 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nom48z/lại_chuyện_nvqs/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nom48z/lại_chuyện_nvqs/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nom48z/lại_chuyện_nvqs/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-23T16:29:39+00:00</published>
   </entry>
   <entry>
     <id>t3_1np0sz6</id>
@@ -177,19 +177,6 @@
     <published>2025-09-24T05:16:18+00:00</published>
   </entry>
   <entry>
-    <id>t3_1np1rg7</id>
-    <title>Góc thắc mắc bệnh Sùi</title>
-    <updated>2025-09-24T03:25:02+00:00</updated>
-    <author>
-      <name>/u/Penguins2074</name>
-      <uri>https://old.reddit.com/user/Penguins2074</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác, chuyện là em có cô người yêu hay lo. Cách đây 1 tuần có em gái của anh họ tới chơi (Chị đấy bị sùi) mà ny em lại không biết chuyện đấy, nên trong lúc không biết thì có dùng cốc nước chị ấy đã uống để uống nước (ny em rót nước mới để uống chứ không uống nước thừa). Thì theo các bác có nguy cơ lây nhiễm qua đường nước bọt kiểu vậy không. Em bảo đưa ny đi khám nhưng ny bảo bệnh viện nhiều nơi khám hơi bẩn. Các bác cho em lời khuyên với ạ và gợi ý cho em nhưng điểm nào khám bệnh này sạch sẽ với. Cảm ơn các bác &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Penguins2074"&gt; /u/Penguins2074 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1np1rg7/góc_thắc_mắc_bệnh_sùi/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1np1rg7/góc_thắc_mắc_bệnh_sùi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1np1rg7/góc_thắc_mắc_bệnh_sùi/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-24T03:25:02+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1np0p47</id>
     <title>Nice life quote 003</title>
     <updated>2025-09-24T02:31:27+00:00</updated>
@@ -227,6 +214,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1np1c8t/câu_chuyện_nvqs/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-24T03:03:27+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1np1rg7</id>
+    <title>Góc thắc mắc bệnh Sùi</title>
+    <updated>2025-09-24T03:25:02+00:00</updated>
+    <author>
+      <name>/u/Penguins2074</name>
+      <uri>https://old.reddit.com/user/Penguins2074</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác, chuyện là em có cô người yêu hay lo. Cách đây 1 tuần có em gái của anh họ tới chơi (Chị đấy bị sùi) mà ny em lại không biết chuyện đấy, nên trong lúc không biết thì có dùng cốc nước chị ấy đã uống để uống nước (ny em rót nước mới để uống chứ không uống nước thừa). Thì theo các bác có nguy cơ lây nhiễm qua đường nước bọt kiểu vậy không. Em bảo đưa ny đi khám nhưng ny bảo bệnh viện nhiều nơi khám hơi bẩn. Các bác cho em lời khuyên với ạ và gợi ý cho em nhưng điểm nào khám bệnh này sạch sẽ với. Cảm ơn các bác &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Penguins2074"&gt; /u/Penguins2074 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1np1rg7/góc_thắc_mắc_bệnh_sùi/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1np1rg7/góc_thắc_mắc_bệnh_sùi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1np1rg7/góc_thắc_mắc_bệnh_sùi/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-24T03:25:02+00:00</published>
   </entry>
   <entry>
     <id>t3_1np2e05</id>
@@ -268,19 +268,6 @@
     <published>2025-09-24T02:12:08+00:00</published>
   </entry>
   <entry>
-    <id>t3_1np5muo</id>
-    <title>Mất nhiều mối quan hệ vì nhậu</title>
-    <updated>2025-09-24T07:11:58+00:00</updated>
-    <author>
-      <name>/u/IEnjoyAnimeToo99</name>
-      <uri>https://old.reddit.com/user/IEnjoyAnimeToo99</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các bác có ai uống yếu hoặc sức khoẻ không cho phép uống ko nhỉ, tôi là 1 trường hợp như vậy nhưng có vẻ là 90% các mối quan hệ của tôi chọn bonding bằng cách &amp;quot;ra quán làm vài lon&amp;quot; rồi. &lt;/p&gt; &lt;p&gt;Thật ra ko phải vòng tròn của tôi toxic đâu, tôi đi theo thì họ vẫn cho tôi uống nước suối thôi, nhưng dần tôi cũng tự thấy bản thân mình bị thừa thải trong bàn tiệc ấy, tôi cũng cảm nhận được là nó bị mất vui khi cả bàn đứng dậy cụng li nhưng lòi ra 1 thằng uống nước suối ấy. &lt;/p&gt; &lt;p&gt;Hôm nay nhóm bạn từ cấp 2 của tôi rủ nhau cuối tuần ra quán, và thay vì tag @ all thì bọn nó chọn tag từng người một để ko dính tôi vào, trông cũng hơi tuổi thân 1 tí nhưng tôi cũng xác định thanh lọc nhóm bạn đó rồi. &lt;/p&gt; &lt;p&gt;Tôi đi đá banh để lấy mồ hôi, sức khoẻ thì 9 trên 10 trận họ cũng rủ nhau đá xong ra quán làm vài lon, tôi trốn mãi thì sau họ cũng ko thèm rủ tôi đi đá nữa luôn. Tôi ko ngại việc đó vì ko thân nhưng cũng hơi lười vì phải đi tìm 1 đội mới, rồi khi tôi nghĩ mình tìm được 1 môi trường phù hợp rồi thì lại phải tìm lại từ đầu vì vấn đề tương tự. &lt;/p&gt; &lt;p&gt;Ở VN ko biết uống khó tồn tại thế à, hay là tại tôi chưa tìm đúng cách nhỉ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/IEnjoyAnimeToo99"&gt; /u/IEnjoyAnimeToo99 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1np5muo/mất_nhiều_mối_quan_hệ_vì_nhậu/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1np5muo/mất_nhiều_mối_quan_hệ_vì_nhậu/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1np5muo/mất_nhiều_mối_quan_hệ_vì_nhậu/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-24T07:11:58+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1np174d</id>
     <title>Nhận nhiều cuộc gọi lạ từ số Châu Âu</title>
     <updated>2025-09-24T02:56:28+00:00</updated>
@@ -292,6 +279,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1np174d/nhận_nhiều_cuộc_gọi_lạ_từ_số_châu_âu/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-24T02:56:28+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1np5muo</id>
+    <title>Mất nhiều mối quan hệ vì nhậu</title>
+    <updated>2025-09-24T07:11:58+00:00</updated>
+    <author>
+      <name>/u/IEnjoyAnimeToo99</name>
+      <uri>https://old.reddit.com/user/IEnjoyAnimeToo99</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các bác có ai uống yếu hoặc sức khoẻ không cho phép uống ko nhỉ, tôi là 1 trường hợp như vậy nhưng có vẻ là 90% các mối quan hệ của tôi chọn bonding bằng cách &amp;quot;ra quán làm vài lon&amp;quot; rồi. &lt;/p&gt; &lt;p&gt;Thật ra ko phải vòng tròn của tôi toxic đâu, tôi đi theo thì họ vẫn cho tôi uống nước suối thôi, nhưng dần tôi cũng tự thấy bản thân mình bị thừa thải trong bàn tiệc ấy, tôi cũng cảm nhận được là nó bị mất vui khi cả bàn đứng dậy cụng li nhưng lòi ra 1 thằng uống nước suối ấy. &lt;/p&gt; &lt;p&gt;Hôm nay nhóm bạn từ cấp 2 của tôi rủ nhau cuối tuần ra quán, và thay vì tag @ all thì bọn nó chọn tag từng người một để ko dính tôi vào, trông cũng hơi tuổi thân 1 tí nhưng tôi cũng xác định thanh lọc nhóm bạn đó rồi. &lt;/p&gt; &lt;p&gt;Tôi đi đá banh để lấy mồ hôi, sức khoẻ thì 9 trên 10 trận họ cũng rủ nhau đá xong ra quán làm vài lon, tôi trốn mãi thì sau họ cũng ko thèm rủ tôi đi đá nữa luôn. Tôi ko ngại việc đó vì ko thân nhưng cũng hơi lười vì phải đi tìm 1 đội mới, rồi khi tôi nghĩ mình tìm được 1 môi trường phù hợp rồi thì lại phải tìm lại từ đầu vì vấn đề tương tự. &lt;/p&gt; &lt;p&gt;Ở VN ko biết uống khó tồn tại thế à, hay là tại tôi chưa tìm đúng cách nhỉ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/IEnjoyAnimeToo99"&gt; /u/IEnjoyAnimeToo99 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1np5muo/mất_nhiều_mối_quan_hệ_vì_nhậu/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1np5muo/mất_nhiều_mối_quan_hệ_vì_nhậu/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1np5muo/mất_nhiều_mối_quan_hệ_vì_nhậu/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-24T07:11:58+00:00</published>
   </entry>
   <entry>
     <id>t3_1np2d1r</id>
