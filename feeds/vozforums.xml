@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-09-27T07:14:15+00:00</updated>
+  <updated>2025-09-27T07:26:26+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -138,19 +138,6 @@
     <published>2025-09-26T13:26:40+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nrnvzo</id>
-    <title>NVQS</title>
-    <updated>2025-09-27T06:16:39+00:00</updated>
-    <author>
-      <name>/u/Itchy_Juggernaut_766</name>
-      <uri>https://old.reddit.com/user/Itchy_Juggernaut_766</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mọi người cho em hỏi. Em là sinh viên năm 2, do mẹ em xem nhầm thời gian hết hạn nộp giấy xác nhận sinh viên nên nộp muộn 2 ngày. H người ta bảo tới thời điểm thì phải về quê khám NVQS. Mà em vẫn còn đang học, h có cách nào thoát khỏi trường hợp trên không ạ. Cứu em với🥲😭&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Itchy_Juggernaut_766"&gt; /u/Itchy_Juggernaut_766 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nrnvzo/nvqs/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nrnvzo/nvqs/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nrnvzo/nvqs/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-27T06:16:39+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nrol9z</id>
     <title>làm sao để tự học tiếng nhật</title>
     <updated>2025-09-27T07:00:34+00:00</updated>
@@ -253,6 +240,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nrkztp/tự_dưng_kiếm_chuyện/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-27T03:29:11+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nrnvzo</id>
+    <title>NVQS</title>
+    <updated>2025-09-27T06:16:39+00:00</updated>
+    <author>
+      <name>/u/Itchy_Juggernaut_766</name>
+      <uri>https://old.reddit.com/user/Itchy_Juggernaut_766</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mọi người cho em hỏi. Em là sinh viên năm 2, do mẹ em xem nhầm thời gian hết hạn nộp giấy xác nhận sinh viên nên nộp muộn 2 ngày. H người ta bảo tới thời điểm thì phải về quê khám NVQS. Mà em vẫn còn đang học, h có cách nào thoát khỏi trường hợp trên không ạ. Cứu em với🥲😭&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Itchy_Juggernaut_766"&gt; /u/Itchy_Juggernaut_766 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nrnvzo/nvqs/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nrnvzo/nvqs/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nrnvzo/nvqs/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-27T06:16:39+00:00</published>
   </entry>
   <entry>
     <id>t3_1nrefa0</id>
