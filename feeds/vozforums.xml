@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-09-27T04:20:26+00:00</updated>
+  <updated>2025-09-27T04:40:55+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -60,19 +60,6 @@
     <published>2025-09-26T13:58:27+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nr6eln</id>
-    <title>Có nên học tiếng nhật không mn?</title>
-    <updated>2025-09-26T16:46:58+00:00</updated>
-    <author>
-      <name>/u/Designer-Muffin-47</name>
-      <uri>https://old.reddit.com/user/Designer-Muffin-47</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình đang là sinh viên ngành ai&amp;amp;ds. Theo mọi người thì cơ hội học tiếp master hay phd bên nhật ngành của mình có tốt không ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Designer-Muffin-47"&gt; /u/Designer-Muffin-47 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nr6eln/có_nên_học_tiếng_nhật_không_mn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nr6eln/có_nên_học_tiếng_nhật_không_mn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nr6eln/có_nên_học_tiếng_nhật_không_mn/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-26T16:46:58+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nr3gbb</id>
     <title>Mơ hồ về NVQS</title>
     <updated>2025-09-26T14:53:24+00:00</updated>
@@ -97,19 +84,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nr3lfm/mình_tìm_người_chơi_chung_dying_light_the_beast/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-26T14:58:56+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1nrduip</id>
-    <title>Ra Đà Nẵng bắt đầu lại, dễ sống và dễ tìm việc không mọi người?</title>
-    <updated>2025-09-26T21:41:48+00:00</updated>
-    <author>
-      <name>/u/ManagementCapable754</name>
-      <uri>https://old.reddit.com/user/ManagementCapable754</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình chán SG quá mọi người ạ. Xô bồ cái guồng tiền bạc hơn mười mấy năm mà cũng chẳng đi đến đâu. Tháng sau hết hợp đồng nhà trên này nên mình tính ra Đà Nẵng bắt đầu lại. Đà Nẵng dễ sống không mọi người, khu nào giá nhà rẻ tầm 3tr mà an ninh tốt ạ. Mình làm design được hơn 2 năm, nữ 3x, tính cách hơi hướng nội, nên cũng lo cơ hội việc làm hơi khó chút :(&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ManagementCapable754"&gt; /u/ManagementCapable754 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nrduip/ra_đà_nẵng_bắt_đầu_lại_dễ_sống_và_dễ_tìm_việc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nrduip/ra_đà_nẵng_bắt_đầu_lại_dễ_sống_và_dễ_tìm_việc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nrduip/ra_đà_nẵng_bắt_đầu_lại_dễ_sống_và_dễ_tìm_việc/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-26T21:41:48+00:00</published>
   </entry>
   <entry>
     <id>t3_1nr031b</id>
@@ -162,6 +136,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nqs7cu/nvqs/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-26T04:37:59+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nrduip</id>
+    <title>Ra Đà Nẵng bắt đầu lại, dễ sống và dễ tìm việc không mọi người?</title>
+    <updated>2025-09-26T21:41:48+00:00</updated>
+    <author>
+      <name>/u/ManagementCapable754</name>
+      <uri>https://old.reddit.com/user/ManagementCapable754</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình chán SG quá mọi người ạ. Xô bồ cái guồng tiền bạc hơn mười mấy năm mà cũng chẳng đi đến đâu. Tháng sau hết hợp đồng nhà trên này nên mình tính ra Đà Nẵng bắt đầu lại. Đà Nẵng dễ sống không mọi người, khu nào giá nhà rẻ tầm 3tr mà an ninh tốt ạ. Mình làm design được hơn 2 năm, nữ 3x, tính cách hơi hướng nội, nên cũng lo cơ hội việc làm hơi khó chút :(&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ManagementCapable754"&gt; /u/ManagementCapable754 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nrduip/ra_đà_nẵng_bắt_đầu_lại_dễ_sống_và_dễ_tìm_việc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nrduip/ra_đà_nẵng_bắt_đầu_lại_dễ_sống_và_dễ_tìm_việc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nrduip/ra_đà_nẵng_bắt_đầu_lại_dễ_sống_và_dễ_tìm_việc/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-26T21:41:48+00:00</published>
   </entry>
   <entry>
     <id>t3_1nrip0t</id>
@@ -229,6 +216,19 @@
     <published>2025-09-27T03:42:08+00:00</published>
   </entry>
   <entry>
+    <id>t3_1nrm4mt</id>
+    <title>Tư vấn tai nghe</title>
+    <updated>2025-09-27T04:32:07+00:00</updated>
+    <author>
+      <name>/u/Low-Extreme1269</name>
+      <uri>https://old.reddit.com/user/Low-Extreme1269</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Ai tư vấn cho e con tai nghe nào giá tầm 100-200 có USB C,em nghe thì thiên về nhạc trong và nghe giọng nhiều hơn bass ấy ạ có chơi game nên cần có dây ạ,con nào ổn ạ ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Low-Extreme1269"&gt; /u/Low-Extreme1269 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nrm4mt/tư_vấn_tai_nghe/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nrm4mt/tư_vấn_tai_nghe/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nrm4mt/tư_vấn_tai_nghe/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-27T04:32:07+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1nr1btg</id>
     <title>Góc bóc phốt dịch vụ Facebook của Thiện Boss media làm ăn mất uy tín, vô trách nhiệm</title>
     <updated>2025-09-26T13:26:40+00:00</updated>
@@ -281,19 +281,6 @@
     <published>2025-09-27T03:29:11+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nr6i94</id>
-    <title>Nên giúp em gái thực hiện ước mơ hay rẽ cho em sang 1 hướng khác?</title>
-    <updated>2025-09-26T16:50:57+00:00</updated>
-    <author>
-      <name>/u/AyZoTom</name>
-      <uri>https://old.reddit.com/user/AyZoTom</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình có 1 đứa em gái,năm nay 15t,tức đã lên lớp 10 rồi,không như những bạn nữ khác ở tuổi này,em lại là 1 bạn nữ có phong cách và cá tinh rất mạnh,cùng với đó là niềm đam mê với bộ môn thể thao đua xe,1 fan cứng của f1,em vẫn luôn tâm sự với mình về việc ước mơ được cầm vô lăng đi đua,em bảo rằng em muốn đi đua go kart,và ước mơ của em là được vào f1 academy,đua cho đội ferrari,em cũng tìm hiểu rất sâu về các giải đua và kể cho mình nghe.Nhưng theo mình được biết để theo bộ môn này thì phải cần tốn rất nhiều tiền,mà gia đình mình thì chỉ thuộc dạng trung lưu đủ ăn đủ mặc,và bố mẹ thì có vẻ cũng ko muốn em theo con đường này dù em rất thích,mình thì kinh tế ko đủ vững để giúp em phần nào được,vậy theo mọi người,mình nên tìm cách giúp em hay cho em sang 1 hướng khác dễ chi trả hơn?.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/AyZoTom"&gt; /u/AyZoTom &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nr6i94/nên_giúp_em_gái_thực_hiện_ước_mơ_hay_rẽ_cho_em/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nr6i94/nên_giúp_em_gái_thực_hiện_ước_mơ_hay_rẽ_cho_em/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nr6i94/nên_giúp_em_gái_thực_hiện_ước_mơ_hay_rẽ_cho_em/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-26T16:50:57+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nrefa0</id>
     <title>Cách phát triển tài chính cá nhân</title>
     <updated>2025-09-26T22:06:52+00:00</updated>
@@ -305,6 +292,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nrefa0/cách_phát_triển_tài_chính_cá_nhân/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-26T22:06:52+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nr6i94</id>
+    <title>Nên giúp em gái thực hiện ước mơ hay rẽ cho em sang 1 hướng khác?</title>
+    <updated>2025-09-26T16:50:57+00:00</updated>
+    <author>
+      <name>/u/AyZoTom</name>
+      <uri>https://old.reddit.com/user/AyZoTom</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình có 1 đứa em gái,năm nay 15t,tức đã lên lớp 10 rồi,không như những bạn nữ khác ở tuổi này,em lại là 1 bạn nữ có phong cách và cá tinh rất mạnh,cùng với đó là niềm đam mê với bộ môn thể thao đua xe,1 fan cứng của f1,em vẫn luôn tâm sự với mình về việc ước mơ được cầm vô lăng đi đua,em bảo rằng em muốn đi đua go kart,và ước mơ của em là được vào f1 academy,đua cho đội ferrari,em cũng tìm hiểu rất sâu về các giải đua và kể cho mình nghe.Nhưng theo mình được biết để theo bộ môn này thì phải cần tốn rất nhiều tiền,mà gia đình mình thì chỉ thuộc dạng trung lưu đủ ăn đủ mặc,và bố mẹ thì có vẻ cũng ko muốn em theo con đường này dù em rất thích,mình thì kinh tế ko đủ vững để giúp em phần nào được,vậy theo mọi người,mình nên tìm cách giúp em hay cho em sang 1 hướng khác dễ chi trả hơn?.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/AyZoTom"&gt; /u/AyZoTom &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nr6i94/nên_giúp_em_gái_thực_hiện_ước_mơ_hay_rẽ_cho_em/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nr6i94/nên_giúp_em_gái_thực_hiện_ước_mơ_hay_rẽ_cho_em/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nr6i94/nên_giúp_em_gái_thực_hiện_ước_mơ_hay_rẽ_cho_em/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-26T16:50:57+00:00</published>
   </entry>
   <entry>
     <id>t3_1nrj8kn</id>
