@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-09-27T07:37:27+00:00</updated>
+  <updated>2025-09-27T07:50:35+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -190,19 +190,6 @@
     <published>2025-09-26T21:41:48+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nrp1im</id>
-    <title>Chuyện đi nước ngoài mùa nvqs</title>
-    <updated>2025-09-27T07:28:49+00:00</updated>
-    <author>
-      <name>/u/Responsible-Bench482</name>
-      <uri>https://old.reddit.com/user/Responsible-Bench482</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em đang là sinh viên năm 3, tình hình là sang năm sau tốt nghiệp có thể bị gọi đi nvqs rồi nên em đang cân nhắc đến việc đi nước ngoài để tránh bị gọi. Theo mấy bác em nên sang Úc hay nước nào đó để học thạc sĩ, hay nên sang Nhật làm dev. Về tiếng anh thì em có cái bằng IELTS 6.0, giao tiếp ít nên nghe nói không tốt lắm. Còn tiếng Nhật thì em chưa từng học, cùng lắm chắc sẽ có hứng học hơn tiếng anh do em thích xem anime. Hay là bây giờ đã trễ rồi và em chỉ còn cách đấm tiền vậy ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Responsible-Bench482"&gt; /u/Responsible-Bench482 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nrp1im/chuyện_đi_nước_ngoài_mùa_nvqs/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nrp1im/chuyện_đi_nước_ngoài_mùa_nvqs/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nrp1im/chuyện_đi_nước_ngoài_mùa_nvqs/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-27T07:28:49+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nqx18c</id>
     <title>Cảm thấy chán nản</title>
     <updated>2025-09-26T09:43:06+00:00</updated>
@@ -268,6 +255,19 @@
     <published>2025-09-26T22:06:52+00:00</published>
   </entry>
   <entry>
+    <id>t3_1nrp1im</id>
+    <title>Chuyện đi nước ngoài mùa nvqs</title>
+    <updated>2025-09-27T07:28:49+00:00</updated>
+    <author>
+      <name>/u/Responsible-Bench482</name>
+      <uri>https://old.reddit.com/user/Responsible-Bench482</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em đang là sinh viên năm 3, tình hình là sang năm sau tốt nghiệp có thể bị gọi đi nvqs rồi nên em đang cân nhắc đến việc đi nước ngoài để tránh bị gọi. Theo mấy bác em nên sang Úc hay nước nào đó để học thạc sĩ, hay nên sang Nhật làm dev. Về tiếng anh thì em có cái bằng IELTS 6.0, giao tiếp ít nên nghe nói không tốt lắm. Còn tiếng Nhật thì em chưa từng học, cùng lắm chắc sẽ có hứng học hơn tiếng anh do em thích xem anime. Hay là bây giờ đã trễ rồi và em chỉ còn cách đấm tiền vậy ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Responsible-Bench482"&gt; /u/Responsible-Bench482 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nrp1im/chuyện_đi_nước_ngoài_mùa_nvqs/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nrp1im/chuyện_đi_nước_ngoài_mùa_nvqs/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nrp1im/chuyện_đi_nước_ngoài_mùa_nvqs/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-27T07:28:49+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1nrn4b0</id>
     <title>Em muốn xin mn giúp em tư vấn chọn truờng và ngành ạ.</title>
     <updated>2025-09-27T05:29:49+00:00</updated>
@@ -307,19 +307,6 @@
     <published>2025-09-26T16:50:57+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nroeak</id>
-    <title>Nên gắn bó với công việc nhà nước hay theo đuổi đam mê của mình</title>
-    <updated>2025-09-27T06:48:34+00:00</updated>
-    <author>
-      <name>/u/Accomplished-Wing281</name>
-      <uri>https://old.reddit.com/user/Accomplished-Wing281</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em là nữ, năm nay 28 tuổi. Hiện đang làm bác sĩ tại 1 bệnh viện công gần nhà. Công việc của e thì khá bình thường cũng k quá vất vả, thu nhập ổn đủ để trang trải cuộc sống. Thông thường bác sĩ bọn e khi vào làm việc tại bv sẽ phải ký cam kết làm việc tại viện thường là 3-5 năm thậm chí là 10 năm do bv mất công và chi phí cho bs đi học và đào tạo hành nghề. Do cam kết như vậy nên e nghĩ bản thân sẽ gắn bó với bệnh viện, sau đó sẽ lấy chồng sinh con như bao b nữ khác thôi. Tuy nhiên do 1 vài sự cố bên phía bệnh viện mà cam kết này bị phá vỡ, e muốn nghỉ việc tại bv và tự túc đi học lên thạc sĩ hoặc chuyên khoa 1 để mở rộng cơ hội việc làm và theo đuổi chuyên ngành mình thích. Tuy nhiên bố mẹ em thì lại kịch liệt phản đối vì cho rằng con gái thì chỉ cần làm gần nhà, đã đỗ biên chế rồi thì sẽ dễ lấy chồng hơn, giờ nếu đi học thì sẽ khó có người muốn làm quen hay lấy em nếu đợi e học xong thì cũng đã hơi quá tuổi. Bản thân em k phải là người phản đối hôn nhân, e cũng muốn lập gia đình nên khi nghe bố mẹ phản đối quyết liệt như vậy em cũng rất phân vân. Liệu em nên lựa chọn sự an toàn bằng việc tiếp tục làm việc tại viện hay theo đuổi đam mê của mình. Và em cũng muốn lắng nghe quan điểm của các bạn trai rằng các b có ngại hay suy nghĩ về việc muốn làm quen hoặc thậm chí tiến xa hơn trong 1 mối quan hệ với 1 bạn nữ còn đang đi học và công việc tạm thời chưa ổn định k ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Accomplished-Wing281"&gt; /u/Accomplished-Wing281 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nroeak/nên_gắn_bó_với_công_việc_nhà_nước_hay_theo_đuổi/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nroeak/nên_gắn_bó_với_công_việc_nhà_nước_hay_theo_đuổi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nroeak/nên_gắn_bó_với_công_việc_nhà_nước_hay_theo_đuổi/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-27T06:48:34+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nrl9jb</id>
     <title>Nên kiếm việc gì thời sinh viên?</title>
     <updated>2025-09-27T03:43:52+00:00</updated>
@@ -331,5 +318,18 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nrl9jb/nên_kiếm_việc_gì_thời_sinh_viên/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-27T03:43:52+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nroeak</id>
+    <title>Nên gắn bó với công việc nhà nước hay theo đuổi đam mê của mình</title>
+    <updated>2025-09-27T06:48:34+00:00</updated>
+    <author>
+      <name>/u/Accomplished-Wing281</name>
+      <uri>https://old.reddit.com/user/Accomplished-Wing281</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em là nữ, năm nay 28 tuổi. Hiện đang làm bác sĩ tại 1 bệnh viện công gần nhà. Công việc của e thì khá bình thường cũng k quá vất vả, thu nhập ổn đủ để trang trải cuộc sống. Thông thường bác sĩ bọn e khi vào làm việc tại bv sẽ phải ký cam kết làm việc tại viện thường là 3-5 năm thậm chí là 10 năm do bv mất công và chi phí cho bs đi học và đào tạo hành nghề. Do cam kết như vậy nên e nghĩ bản thân sẽ gắn bó với bệnh viện, sau đó sẽ lấy chồng sinh con như bao b nữ khác thôi. Tuy nhiên do 1 vài sự cố bên phía bệnh viện mà cam kết này bị phá vỡ, e muốn nghỉ việc tại bv và tự túc đi học lên thạc sĩ hoặc chuyên khoa 1 để mở rộng cơ hội việc làm và theo đuổi chuyên ngành mình thích. Tuy nhiên bố mẹ em thì lại kịch liệt phản đối vì cho rằng con gái thì chỉ cần làm gần nhà, đã đỗ biên chế rồi thì sẽ dễ lấy chồng hơn, giờ nếu đi học thì sẽ khó có người muốn làm quen hay lấy em nếu đợi e học xong thì cũng đã hơi quá tuổi. Bản thân em k phải là người phản đối hôn nhân, e cũng muốn lập gia đình nên khi nghe bố mẹ phản đối quyết liệt như vậy em cũng rất phân vân. Liệu em nên lựa chọn sự an toàn bằng việc tiếp tục làm việc tại viện hay theo đuổi đam mê của mình. Và em cũng muốn lắng nghe quan điểm của các bạn trai rằng các b có ngại hay suy nghĩ về việc muốn làm quen hoặc thậm chí tiến xa hơn trong 1 mối quan hệ với 1 bạn nữ còn đang đi học và công việc tạm thời chưa ổn định k ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Accomplished-Wing281"&gt; /u/Accomplished-Wing281 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nroeak/nên_gắn_bó_với_công_việc_nhà_nước_hay_theo_đuổi/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nroeak/nên_gắn_bó_với_công_việc_nhà_nước_hay_theo_đuổi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nroeak/nên_gắn_bó_với_công_việc_nhà_nước_hay_theo_đuổi/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-27T06:48:34+00:00</published>
   </entry>
 </feed>
