@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-09-27T14:30:30+00:00</updated>
+  <updated>2025-09-27T14:50:16+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1nrnvzo</id>
-    <title>NVQS</title>
-    <updated>2025-09-27T06:16:39+00:00</updated>
-    <author>
-      <name>/u/Itchy_Juggernaut_766</name>
-      <uri>https://old.reddit.com/user/Itchy_Juggernaut_766</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mọi người cho em hỏi. Em là sinh viên năm 2, do mẹ em xem nhầm thời gian hết hạn nộp giấy xác nhận sinh viên nên nộp muộn 2 ngày. H người ta bảo tới thời điểm thì phải về quê khám NVQS. Mà em vẫn còn đang học, h có cách nào thoát khỏi trường hợp trên không ạ. Cứu em với🥲😭&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Itchy_Juggernaut_766"&gt; /u/Itchy_Juggernaut_766 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nrnvzo/nvqs/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nrnvzo/nvqs/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nrnvzo/nvqs/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-27T06:16:39+00:00</published>
-  </entry>
   <entry>
     <id>t3_1nrm4mt</id>
     <title>Tư vấn tai nghe</title>
@@ -73,19 +60,6 @@
     <published>2025-09-27T07:28:49+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nrj8kn</id>
-    <title>Tiết Kiệm Hợp Lí</title>
-    <updated>2025-09-27T01:57:35+00:00</updated>
-    <author>
-      <name>/u/Mobile-Star-3762</name>
-      <uri>https://old.reddit.com/user/Mobile-Star-3762</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, em đang 23 tuổi, hiện đang làm remote cho công ty nước ngoài. Mỗi tháng em có khoảng 10-15tt tiền nhàn rỗi, trong ngắn ngạn (1-2 năm) thì em nên tiết kiệm ở kênh nào là hợp lí. Em đã có từng mua vàng nhưng ở thời điểm hiện tại và với mục tiêu tích lũy ngắn hạn cá nhân thì em nghĩ vàng không hợp lí lắm. Mong mọi người cho em xin ý kiến ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Mobile-Star-3762"&gt; /u/Mobile-Star-3762 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nrj8kn/tiết_kiệm_hợp_lí/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nrj8kn/tiết_kiệm_hợp_lí/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nrj8kn/tiết_kiệm_hợp_lí/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-27T01:57:35+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nrtgmi</id>
     <title>kích cơ ưu việt</title>
     <updated>2025-09-27T12:02:08+00:00</updated>
@@ -97,6 +71,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nrtgmi/kích_cơ_ưu_việt/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-27T12:02:08+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nrj8kn</id>
+    <title>Tiết Kiệm Hợp Lí</title>
+    <updated>2025-09-27T01:57:35+00:00</updated>
+    <author>
+      <name>/u/Mobile-Star-3762</name>
+      <uri>https://old.reddit.com/user/Mobile-Star-3762</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, em đang 23 tuổi, hiện đang làm remote cho công ty nước ngoài. Mỗi tháng em có khoảng 10-15tt tiền nhàn rỗi, trong ngắn ngạn (1-2 năm) thì em nên tiết kiệm ở kênh nào là hợp lí. Em đã có từng mua vàng nhưng ở thời điểm hiện tại và với mục tiêu tích lũy ngắn hạn cá nhân thì em nghĩ vàng không hợp lí lắm. Mong mọi người cho em xin ý kiến ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Mobile-Star-3762"&gt; /u/Mobile-Star-3762 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nrj8kn/tiết_kiệm_hợp_lí/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nrj8kn/tiết_kiệm_hợp_lí/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nrj8kn/tiết_kiệm_hợp_lí/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-27T01:57:35+00:00</published>
   </entry>
   <entry>
     <id>t3_1nrefa0</id>
@@ -190,6 +177,19 @@
     <published>2025-09-27T14:18:15+00:00</published>
   </entry>
   <entry>
+    <id>t3_1nrwfex</id>
+    <title>Xin lỗi ae thiết kế độ họa</title>
+    <updated>2025-09-27T14:19:02+00:00</updated>
+    <author>
+      <name>/u/joeanime122</name>
+      <uri>https://old.reddit.com/user/joeanime122</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tôi cx là một người đang làm nghệ thuật, cụ thể là concept với minh họa, thì ra trường được thời gian tôi thấy nhưng ng vào học tkdh thường ra trường không có việc làm, hoặc bỏ dỡ giữa chừng. &lt;/p&gt; &lt;p&gt;( tôi học hội họa)&lt;/p&gt; &lt;p&gt;vốn cái tkdh nó đã không dạy những cái quá cần thiết mà có ích để có thể đi làm ngay được, tôi nói thật chứ những gì học được trong tkdh, mấy ông lên youtube gõ có đầy free, học đh chẳng khác gì quăng cái lộ trình chứ chả có nhiều cái đáng giá khi học tkdh cả&lt;/p&gt; &lt;p&gt;nên tôi mới nghĩ ae học tkdh ra trường thường thất nghiệp nhiều là do ngành tkdh hoặc bản thân &lt;/p&gt; &lt;p&gt;sau rất nhiều tg tôi đi dò hỏi nhiều ng học tkdh, tôi đưa ra kết luận, do trường&lt;/p&gt; &lt;p&gt;gần như ae nào học trường tư mà đi tkdh là 60% là no hope r &lt;/p&gt; &lt;p&gt;trường tư nó vốn đã dạy ít kiến thức chuyên ngành hơn những trường khác rất rất nhiều r, mà cơ sở thì cx k đầy đủ&lt;/p&gt; &lt;p&gt;nhà đứa nào dư giả, chu cấp cho sinh tồn đc mỗi tháng hoặc đã biết vẽ trc còn có hi vọng, chứ tôi thấy phần lớn ae đều là những người vừa phải đi làm vừa phải đi học &lt;/p&gt; &lt;p&gt;trường tư nó dí deadline thì phải gọi là khủng bố, tôi hỏi nhiều người học trường D ở đà nẵng, nhiều khi vừa chạy xong dl 3 ngày thì thở đc nửa ngày thì chạy tiếp, mà deadline thì sát, tiền cho cái dl cx độn lên rất nhiều, thì ae cx phải có tiền&lt;/p&gt; &lt;p&gt;dl trường, đi làm kiếm sống trả trọ ăn uống tiền học là gần như hết tg rồi, lấy đâu thời gian học vẽ bên ngoài, học vẽ nhiều cái nx&lt;/p&gt; &lt;p&gt;tg thực tập gần như k có&lt;/p&gt; &lt;p&gt;ngành đã cạnh tranh cao, đã khó mà còn k có tg up skill bên ngoài thì no hope là cái chắc&lt;/p&gt; &lt;p&gt;ae vô đc ngành có thể viết vẽ chút màu, chút chì nhưng mà những cái đó cx chả vẽ ra tiền, không thiếu ng vẽ đẹp hơn, mà nếu ae mà vẽ chì, màu đẹp thì là số đầu ngón tay và k thất nghiệp r&lt;/p&gt; &lt;p&gt;có khi học tkdh mấy trường như này thì ae kiếm tiền còn thua 1 đứa cấp 3 bán com vẽ chơi trên phở bò &lt;/p&gt; &lt;p&gt;ông nào học tkdh mà ra làm đc, thì xem lại hoàn cảnh bản thân có khó khăn k, có phải cố lấy học bổng như ngk k, trường có ổn như ngk k , và thiếu tg như những ngk không&lt;/p&gt; &lt;p&gt;nói ra nhiều ông nói là ơ là do bản thân kém, không có tiếp thu nhành, k học thêm những kỹ năng ngoài bla bla, thì dạ là vì ông đg là ng có năng lực khá tốt trở lên và đg sống trên cao mà k ngước nhìn xuống, đâu phải ai cx có năng lực y chang nhau &lt;/p&gt; &lt;p&gt;tôi không nói đến trường cho ng giàu với trường chuyên mỹ thuật nhé &lt;/p&gt; &lt;p&gt;Những ngành khác thì chắc chắn là cx có tình trạng này nhưng tôi nghĩ những gì mà ae đc học nó sẽ có ích hơn và dễ có vc hơn tấm bằng cx có giá trị hơn là khi ae học tkdh ở một trường tư&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/joeanime122"&gt; /u/joeanime122 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nrwfex/xin_lỗi_ae_thiết_kế_độ_họa/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nrwfex/xin_lỗi_ae_thiết_kế_độ_họa/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nrwfex/xin_lỗi_ae_thiết_kế_độ_họa/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-27T14:19:02+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1nrwhv7</id>
     <title>Râu mọc nhanh</title>
     <updated>2025-09-27T14:21:57+00:00</updated>
@@ -201,6 +201,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nrwhv7/râu_mọc_nhanh/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-27T14:21:57+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nrx40j</id>
+    <title>(Game) Xin 1 vài tip chạy làn trái + đường Hong Kong</title>
+    <updated>2025-09-27T14:48:44+00:00</updated>
+    <author>
+      <name>/u/Foreign-Molasses-461</name>
+      <uri>https://old.reddit.com/user/Foreign-Molasses-461</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1nrx40j/game_xin_1_vài_tip_chạy_làn_trái_đường_hong_kong/"&gt; &lt;img alt="(Game) Xin 1 vài tip chạy làn trái + đường Hong Kong" src="https://a.thumbs.redditmedia.com/72LrwiMb1pKcu6r3cBNo1IkZRg7ucqP55WcH9X4i9q8.jpg" title="(Game) Xin 1 vài tip chạy làn trái + đường Hong Kong" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;E đang chơi lái thử bus HK(map Cao Luân) trong game sim mà ko quen với chạy làn bên trái và khá nhiều đoạn đường 1 chiều hẹp, cua nhìn gương mà đôi lúc quá tay bên trái xe đụng vào mấy hàng rào bên lề, e xin vài kinh nghiệm đi đường kiểu này của mấy bác, ko nhất thiết phải xe to ạ&lt;/p&gt; &lt;p&gt;&lt;a href="https://preview.redd.it/k8c7q0j70qrf1.png?width=1920&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=579bc97245494665385fed5db2cdee35bd6f25a3"&gt;https://preview.redd.it/k8c7q0j70qrf1.png?width=1920&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=579bc97245494665385fed5db2cdee35bd6f25a3&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;a href="https://preview.redd.it/jyu5hr180qrf1.png?width=1920&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=d65f77caba8e509e130447050c22a593ad3107ae"&gt;https://preview.redd.it/jyu5hr180qrf1.png?width=1920&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=d65f77caba8e509e130447050c22a593ad3107ae&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Foreign-Molasses-461"&gt; /u/Foreign-Molasses-461 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nrx40j/game_xin_1_vài_tip_chạy_làn_trái_đường_hong_kong/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nrx40j/game_xin_1_vài_tip_chạy_làn_trái_đường_hong_kong/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nrx40j/game_xin_1_vài_tip_chạy_làn_trái_đường_hong_kong/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-27T14:48:44+00:00</published>
   </entry>
   <entry>
     <id>t3_1nrsqjq</id>
@@ -227,19 +240,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nrl9jb/nên_kiếm_việc_gì_thời_sinh_viên/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-27T03:43:52+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1nrwfex</id>
-    <title>Xin lỗi ae thiết kế độ họa</title>
-    <updated>2025-09-27T14:19:02+00:00</updated>
-    <author>
-      <name>/u/joeanime122</name>
-      <uri>https://old.reddit.com/user/joeanime122</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tôi cx là một người đang làm nghệ thuật, cụ thể là concept với minh họa, thì ra trường được thời gian tôi thấy nhưng ng vào học tkdh thường ra trường không có việc làm, hoặc bỏ dỡ giữa chừng. &lt;/p&gt; &lt;p&gt;( tôi học hội họa)&lt;/p&gt; &lt;p&gt;vốn cái tkdh nó đã không dạy những cái quá cần thiết mà có ích để có thể đi làm ngay được, tôi nói thật chứ những gì học được trong tkdh, mấy ông lên youtube gõ có đầy free, học đh chẳng khác gì quăng cái lộ trình chứ chả có nhiều cái đáng giá khi học tkdh cả&lt;/p&gt; &lt;p&gt;nên tôi mới nghĩ ae học tkdh ra trường thường thất nghiệp nhiều là do ngành tkdh hoặc bản thân &lt;/p&gt; &lt;p&gt;sau rất nhiều tg tôi đi dò hỏi nhiều ng học tkdh, tôi đưa ra kết luận, do trường&lt;/p&gt; &lt;p&gt;gần như ae nào học trường tư mà đi tkdh là 60% là no hope r &lt;/p&gt; &lt;p&gt;trường tư nó vốn đã dạy ít kiến thức chuyên ngành hơn những trường khác rất rất nhiều r, mà cơ sở thì cx k đầy đủ&lt;/p&gt; &lt;p&gt;nhà đứa nào dư giả, chu cấp cho sinh tồn đc mỗi tháng hoặc đã biết vẽ trc còn có hi vọng, chứ tôi thấy phần lớn ae đều là những người vừa phải đi làm vừa phải đi học &lt;/p&gt; &lt;p&gt;trường tư nó dí deadline thì phải gọi là khủng bố, tôi hỏi nhiều người học trường D ở đà nẵng, nhiều khi vừa chạy xong dl 3 ngày thì thở đc nửa ngày thì chạy tiếp, mà deadline thì sát, tiền cho cái dl cx độn lên rất nhiều, thì ae cx phải có tiền&lt;/p&gt; &lt;p&gt;dl trường, đi làm kiếm sống trả trọ ăn uống tiền học là gần như hết tg rồi, lấy đâu thời gian học vẽ bên ngoài, học vẽ nhiều cái nx&lt;/p&gt; &lt;p&gt;tg thực tập gần như k có&lt;/p&gt; &lt;p&gt;ngành đã cạnh tranh cao, đã khó mà còn k có tg up skill bên ngoài thì no hope là cái chắc&lt;/p&gt; &lt;p&gt;ae vô đc ngành có thể viết vẽ chút màu, chút chì nhưng mà những cái đó cx chả vẽ ra tiền, không thiếu ng vẽ đẹp hơn, mà nếu ae mà vẽ chì, màu đẹp thì là số đầu ngón tay và k thất nghiệp r&lt;/p&gt; &lt;p&gt;có khi học tkdh mấy trường như này thì ae kiếm tiền còn thua 1 đứa cấp 3 bán com vẽ chơi trên phở bò &lt;/p&gt; &lt;p&gt;ông nào học tkdh mà ra làm đc, thì xem lại hoàn cảnh bản thân có khó khăn k, có phải cố lấy học bổng như ngk k, trường có ổn như ngk k , và thiếu tg như những ngk không&lt;/p&gt; &lt;p&gt;nói ra nhiều ông nói là ơ là do bản thân kém, không có tiếp thu nhành, k học thêm những kỹ năng ngoài bla bla, thì dạ là vì ông đg là ng có năng lực khá tốt trở lên và đg sống trên cao mà k ngước nhìn xuống, đâu phải ai cx có năng lực y chang nhau &lt;/p&gt; &lt;p&gt;tôi không nói đến trường cho ng giàu với trường chuyên mỹ thuật nhé &lt;/p&gt; &lt;p&gt;Những ngành khác thì chắc chắn là cx có tình trạng này nhưng tôi nghĩ những gì mà ae đc học nó sẽ có ích hơn và dễ có vc hơn tấm bằng cx có giá trị hơn là khi ae học tkdh ở một trường tư&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/joeanime122"&gt; /u/joeanime122 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nrwfex/xin_lỗi_ae_thiết_kế_độ_họa/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nrwfex/xin_lỗi_ae_thiết_kế_độ_họa/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nrwfex/xin_lỗi_ae_thiết_kế_độ_họa/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-27T14:19:02+00:00</published>
   </entry>
   <entry>
     <id>t3_1nrqau6</id>
