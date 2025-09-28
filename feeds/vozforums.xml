@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-09-28T07:50:08+00:00</updated>
+  <updated>2025-09-28T08:20:20+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -45,6 +45,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nsdr4p/lựa_chọn_lĩnh_vực_sale_nào/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-28T03:08:19+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nshvwf</id>
+    <title>ác nhân dĩ ái vi căn</title>
+    <updated>2025-09-28T07:09:50+00:00</updated>
+    <author>
+      <name>/u/Plus-Perspective2037</name>
+      <uri>https://old.reddit.com/user/Plus-Perspective2037</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;tôi viết ra bài đăng này là để tuyên truyền đạo đức tiếc là ở reddit ko đc dùng biện ngôn phóng đại nhưng tôi thử hỏi với lòng ơn sinh thành là đại nghĩa cả đời tại sao giới trẻ ko khóc vì ơn sinh thành mấy chục năm mà đi khóc lời chia tay của nhỏ bồ đây là nghịch lí lớn nhất vào xã hội ngay lúc này và cần thay đổi gấp&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Plus-Perspective2037"&gt; /u/Plus-Perspective2037 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nshvwf/ác_nhân_dĩ_ái_vi_căn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nshvwf/ác_nhân_dĩ_ái_vi_căn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nshvwf/ác_nhân_dĩ_ái_vi_căn/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-28T07:09:50+00:00</published>
   </entry>
   <entry>
     <id>t3_1nrywse</id>
@@ -151,19 +164,6 @@
     <published>2025-09-28T06:40:55+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nshfgk</id>
-    <title>Có phải tôi đang bị hói ko các bác</title>
-    <updated>2025-09-28T06:41:34+00:00</updated>
-    <author>
-      <name>/u/Party-Apple6868</name>
-      <uri>https://old.reddit.com/user/Party-Apple6868</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1nshfgk/có_phải_tôi_đang_bị_hói_ko_các_bác/"&gt; &lt;img alt="Có phải tôi đang bị hói ko các bác" src="https://b.thumbs.redditmedia.com/8xGOUtTBKhmomZ3fd3VgsBhqz6NILEkw2EnJxISWSEc.jpg" title="Có phải tôi đang bị hói ko các bác" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các bác cho ý kiến giúp tôi nhá. Thanks!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Party-Apple6868"&gt; /u/Party-Apple6868 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1nshfgk"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nshfgk/có_phải_tôi_đang_bị_hói_ko_các_bác/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nshfgk/có_phải_tôi_đang_bị_hói_ko_các_bác/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-28T06:41:34+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nrthu8</id>
     <title>DIY dasai mochi clone từ vỏ móc khóa</title>
     <updated>2025-09-27T12:03:55+00:00</updated>
@@ -203,43 +203,17 @@
     <published>2025-09-27T09:41:25+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nshvwf</id>
-    <title>ác nhân dĩ ái vi căn</title>
-    <updated>2025-09-28T07:09:50+00:00</updated>
+    <id>t3_1nshfgk</id>
+    <title>Có phải tôi đang bị hói ko các bác</title>
+    <updated>2025-09-28T06:41:34+00:00</updated>
     <author>
-      <name>/u/Plus-Perspective2037</name>
-      <uri>https://old.reddit.com/user/Plus-Perspective2037</uri>
+      <name>/u/Party-Apple6868</name>
+      <uri>https://old.reddit.com/user/Party-Apple6868</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;tôi viết ra bài đăng này là để tuyên truyền đạo đức tiếc là ở reddit ko đc dùng biện ngôn phóng đại nhưng tôi thử hỏi với lòng ơn sinh thành là đại nghĩa cả đời tại sao giới trẻ ko khóc vì ơn sinh thành mấy chục năm mà đi khóc lời chia tay của nhỏ bồ đây là nghịch lí lớn nhất vào xã hội ngay lúc này và cần thay đổi gấp&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Plus-Perspective2037"&gt; /u/Plus-Perspective2037 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nshvwf/ác_nhân_dĩ_ái_vi_căn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nshvwf/ác_nhân_dĩ_ái_vi_căn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nshvwf/ác_nhân_dĩ_ái_vi_căn/"/>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1nshfgk/có_phải_tôi_đang_bị_hói_ko_các_bác/"&gt; &lt;img alt="Có phải tôi đang bị hói ko các bác" src="https://b.thumbs.redditmedia.com/8xGOUtTBKhmomZ3fd3VgsBhqz6NILEkw2EnJxISWSEc.jpg" title="Có phải tôi đang bị hói ko các bác" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các bác cho ý kiến giúp tôi nhá. Thanks!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Party-Apple6868"&gt; /u/Party-Apple6868 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1nshfgk"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nshfgk/có_phải_tôi_đang_bị_hói_ko_các_bác/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nshfgk/có_phải_tôi_đang_bị_hói_ko_các_bác/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-28T07:09:50+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1nsig01</id>
-    <title>Trước Nhân Loại Liệu rằng có tồn nền Văn Minh khác không ?</title>
-    <updated>2025-09-28T07:45:58+00:00</updated>
-    <author>
-      <name>/u/TXKhoi_official</name>
-      <uri>https://old.reddit.com/user/TXKhoi_official</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Con người hiện đại – Homo sapiens – chỉ mới xuất hiện khoảng 300.000 năm trước. So với tuổi đời 4,5 tỷ năm của Trái Đất và hơn 13,8 tỷ năm của vũ trụ, sự hiện diện của chúng ta chỉ như một chớp mắt trong dòng thời gian vô tận. Vậy mà chỉ trong vài nghìn năm văn minh, chúng ta đã phát triển ngôn ngữ, khoa học, nghệ thuật, công nghệ và thậm chí vươn tới không gian.&lt;/p&gt; &lt;p&gt;Điều này dẫn tới một câu hỏi lớn: Liệu trước chúng ta có từng tồn tại những nền văn minh khác?&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Dữ liệu khoa học và câu hỏi về “ngẫu nhiên”&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Các nhà khoa học cho rằng sự sống trên Trái Đất xuất hiện từ khoảng 3,5 – 4 tỷ năm trước, thông qua quá trình tiến hóa tự nhiên. Nhưng sự tinh vi trong cấu trúc của sự sống khiến nhiều người hoài nghi. Ví dụ:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;p&gt;Một phân tử DNA chứa hơn 3 tỷ cặp base, giống như một bộ sách mã hóa toàn bộ sự sống. Xác suất để một cấu trúc như vậy hình thành hoàn toàn ngẫu nhiên gần như bằng 0.&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Hằng số vũ trụ như lực hấp dẫn, tốc độ ánh sáng, hay hằng số Planck được tinh chỉnh ở mức cực kỳ chính xác. Chỉ cần lệch đi một phần triệu, vũ trụ như ta biết sẽ không tồn tại.&lt;/p&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Điều này khiến nhiều triết gia và nhà vật lý (như Paul Davies, Roger Penrose) cho rằng: vũ trụ trông giống như “có thiết kế”, hơn là một sản phẩm của ngẫu nhiên.&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Tâm linh và câu hỏi về Thượng Đế&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Trong nhiều tôn giáo, sự hoàn hảo ấy được quy về một Thượng Đế hoặc một ý chí siêu việt. Nhưng ở chiều ngược lại, những người theo chủ nghĩa duy vật lại phản biện: “Chúng ta thấy trật tự, vì nếu không có trật tự, chúng ta đã không tồn tại để quan sát nó” (nguyên lý nhân học).&lt;/p&gt; &lt;p&gt;Điều này dẫn đến một nghịch lý: Ta nhìn thấy sự tinh vi trong vũ trụ và gọi đó là minh chứng cho Thượng Đế. Nhưng cũng có thể, chính sự tồn tại của ta đã khiến ta buộc phải thấy vũ trụ tinh vi như vậy.&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Có nền văn minh nào trước con người?&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Nếu Trái Đất đã tồn tại hàng tỷ năm, tại sao văn minh công nghệ chỉ xuất hiện vài nghìn năm gần đây? Một số giả thuyết “tiền sử nâng cao” (Silurian Hypothesis) cho rằng: có thể từng có nền văn minh trước con người, nhưng bằng chứng đã bị xóa sạch bởi địa chất, núi lửa, biến đổi khí hậu và thời gian.&lt;/p&gt; &lt;p&gt;Ví dụ: - Nền văn minh Maya, Ai Cập, Lưỡng Hà từng phát triển rực rỡ rồi biến mất, để lại di tích mà ta còn thấy. Nhưng nếu một nền văn minh từng tồn tại cách đây hàng trăm triệu năm, thì các bằng chứng có lẽ đã bị xóa sạch hoàn toàn.&lt;/p&gt; &lt;ul&gt; &lt;li&gt; Một khối đá nhân tạo sau 100 triệu năm sẽ bị nghiền thành bụi bởi kiến tạo địa chất. Một vệ tinh nhân tạo trên quỹ đạo cũng chỉ tồn tại vài chục nghìn năm trước khi rơi xuống và bị thiêu rụi.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Điều này mở ra khả năng rằng chúng ta chưa hẳn là nền văn minh duy nhất, mà có thể chỉ là một “lượt chơi” mới trong ván cờ dài vô tận của Trái Đất.&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Góc nhìn xã hội: niềm tin và sự thật&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Tại sao con người lại khát khao tin vào Thượng Đế, thần tiên, hay một thế giới tâm linh? Bởi vì vũ trụ quá mênh mông, và đời người lại quá ngắn ngủi. Khi đối diện với cái chết, sự hỗn loạn và bất công, ta tìm tới một niềm tin rằng có một trật tự lớn hơn, một ý nghĩa cao hơn. - Ở phương Đông, triết lý Phật giáo nói về nghiệp báo và luân hồi. - Ở phương Tây, Kitô giáo nhấn mạnh về Thượng Đế và sự cứu rỗi. - Ngay cả trong xã hội hiện đại, khi khoa học phát triển, niềm tin vào tâm linh vẫn tồn tại song song – bởi nó chạm tới nhu cầu sâu thẳm nhất của con người: tìm kiếm ý nghĩa.&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Khoa học hay Thượng Đế?&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Có lẽ câu trả lời cuối cùng không nằm ở việc chọn một bên, mà ở chỗ chấp nhận nghịch lý: Khoa học giải thích cái “cách” vũ trụ vận hành, nhưng tôn giáo và triết học đặt câu hỏi về cái “tại sao” nó lại tồn tại.&lt;/p&gt; &lt;p&gt;Nếu vũ trụ là một bản nhạc, khoa học cho ta thấy từng nốt nhạc vận hành thế nào, còn câu hỏi “ai viết bản nhạc này” vẫn để ngỏ.&lt;/p&gt; &lt;p&gt;Và vì thế, con người vẫn tiếp tục tìm kiếm – trong phòng thí nghiệm, trong đền chùa, trong nhà thờ, và trong chính nội tâm mình.&lt;/p&gt; &lt;p&gt;[ hãy góp ý hoặc phản biện ở dưới ] [ bài viết chỉ nêu góc nhìn cá nhân và được hỗ trợ một phần của AI ] &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/TXKhoi_official"&gt; /u/TXKhoi_official &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nsig01/trước_nhân_loại_liệu_rằng_có_tồn_nền_văn_minh/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nsig01/trước_nhân_loại_liệu_rằng_có_tồn_nền_văn_minh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nsig01/trước_nhân_loại_liệu_rằng_có_tồn_nền_văn_minh/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-28T07:45:58+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1nsigmc</id>
-    <title>lq</title>
-    <updated>2025-09-28T07:47:04+00:00</updated>
-    <author>
-      <name>/u/Ashamed_Area_6022</name>
-      <uri>https://old.reddit.com/user/Ashamed_Area_6022</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;mình bị hack tk garena thg hack đổi hết gmail vs sđt vs mk bây giờ còn mỗi cái cccd thì còn cứu đc ko ạ giúp đc hứa hậu tạ:((&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ashamed_Area_6022"&gt; /u/Ashamed_Area_6022 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nsigmc/lq/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nsigmc/lq/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nsigmc/lq/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-28T07:47:04+00:00</published>
+    <published>2025-09-28T06:41:34+00:00</published>
   </entry>
   <entry>
     <id>t3_1nrxt5o</id>
@@ -253,6 +227,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nrxt5o/tâm_sự_làm_công_ty_dính_đến_pháp_luật/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-27T15:17:16+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nsigmc</id>
+    <title>lq</title>
+    <updated>2025-09-28T07:47:04+00:00</updated>
+    <author>
+      <name>/u/Ashamed_Area_6022</name>
+      <uri>https://old.reddit.com/user/Ashamed_Area_6022</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;mình bị hack tk garena thg hack đổi hết gmail vs sđt vs mk bây giờ còn mỗi cái cccd thì còn cứu đc ko ạ giúp đc hứa hậu tạ:((&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ashamed_Area_6022"&gt; /u/Ashamed_Area_6022 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nsigmc/lq/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nsigmc/lq/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nsigmc/lq/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-28T07:47:04+00:00</published>
   </entry>
   <entry>
     <id>t3_1nsfiml</id>
@@ -275,7 +262,7 @@
       <name>/u/chimcuccuccu</name>
       <uri>https://old.reddit.com/user/chimcuccuccu</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Xin chào mng, em là FM22, ny em M22, bọn em hiện đã yêu nhau gần 3 năm, học chung ngành (bọn em học IT), chung trường, nửa cuối năm gần đây thì bạn ny em bứt phá khá mạnh, bạn đạt được nhiều thành tựu về học tập và công việc cho bản thân, em rất mừng và hãnh diện vì điều đó, và đó cũng là động lực để em cố gắng từng ngày, để bọn em có thể đồng hành cùng nhau trong tương lai. Gần đây bọn em có apply 1 chương trình, nhưng bạn thì pass còn em thì xịt thẳng cổ, em buồn vì mình chưa đủ năng lực, em biết mình cần cố gắng thêm. Nhưng tự nhiên trong đầu em lại có suy nghĩ là liệu ny em có thấy em kém mà chán yêu hay gì không?&lt;/p&gt; &lt;p&gt;*Quay lại 1 tháng trước&lt;/p&gt; &lt;p&gt;Bạn ny em được sang thực tập ở nước ngoài 1 tháng hè, thì trong 1 tháng đó bọn em cãi nhau khá nhiều và bạn thừa nhận với em là thích một bạn nữ đi cùng đoàn thực tập (Bạn ấy xinh gái, học giỏi (GPA cao, IELTS 7., JLPT N2), nhẹ nhàng). Sau đó thì chuyện lùm xùm một chút nhưng khi suy xét kỹ lại thì em với bạn vẫn đồng ý tiếp tục đồng hành cùng nhau, nhưng từ đó em cứ có suy nghĩ là so sánh với bạn đó, em học không giỏi bằng bạn đó, những thứ khác thì em không biết, nhưng suy nghĩ đó cứ bám lấy em hoài, em biết ai cũng phải bắt đầu từ đâu đó, nhưng khó quá em chả thể ngừng được cái suy nghĩ ấy :(&lt;/p&gt; &lt;p&gt;Mọi người thấy sao và có thể cho em vài lời khuyên được không, em chưa trải đời nhiều nên những vấn đề như này còn non nớt quá, mọi người thấy sao nếu ny mình chưa giỏi bằng mình ạ? &lt;/p&gt; &lt;p&gt;*Em trước giờ vẫn luôn tự tin mọi thứ về bản thân (trừ học tập ạ =))) ), ngoại hình em ưa nhìn (khôm phải xinh xuất sắc như mấy chị trên tóp tóp nhma vẫn ô sờ kê đủ dùng ạ), tính cách luôn năng lượng và hòa nhập với mọi người, em biết chơi thể thao, em biết vài tài lẻ kiểu đàn hát nháy nhót các thứ bla bla, gia đình em cũng là gia đình gia giáo, yêu thương nhau. Tự nhận xét bản thân thì em thấy lúc yêu em khá trẻ con nhưng không đến mức là vô tâm hay không suy nghĩ gì cho đối phương hết cả.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/chimcuccuccu"&gt; /u/chimcuccuccu &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nshiru/mọi_người_nghĩ_thế_nào_về_việc_bản_thân_kém_hơn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nshiru/mọi_người_nghĩ_thế_nào_về_việc_bản_thân_kém_hơn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Xin chào mng, em là FM22, ny em M22, bọn em hiện đã yêu nhau gần 3 năm, học chung ngành (bọn em học IT), chung trường, nửa cuối năm gần đây thì bạn ny em bứt phá khá mạnh, bạn đạt được nhiều thành tựu về học tập và công việc cho bản thân, em rất mừng và hãnh diện vì điều đó, và đó cũng là động lực để em cố gắng từng ngày, để bọn em có thể đồng hành cùng nhau trong tương lai. Gần đây bọn em có apply 1 chương trình, nhưng bạn thì pass còn em thì xịt thẳng cổ, em buồn vì mình chưa đủ năng lực, em biết mình cần cố gắng thêm. Nhưng tự nhiên trong đầu em lại có suy nghĩ là liệu ny em có thấy em kém mà chán yêu hay gì không?&lt;/p&gt; &lt;p&gt;*Quay lại 1 tháng trước&lt;/p&gt; &lt;p&gt;(Bạn ny em được sang thực tập ở nước ngoài 1 tháng hè, thì trong 1 tháng đó bọn em cãi nhau khá nhiều và bạn thừa nhận với em là thích một bạn nữ đi cùng đoàn thực tập (Bạn ấy xinh gái, học giỏi (GPA cao, IELTS 7., JLPT N2), nhẹ nhàng). Sau đó thì chuyện lùm xùm một chút nhưng khi suy xét kỹ lại thì em với bạn vẫn đồng ý tiếp tục đồng hành cùng nhau, nhưng từ đó em cứ có suy nghĩ là so sánh với bạn đó, em học không giỏi bằng bạn đó, những thứ khác thì em không biết, nhưng suy nghĩ đó cứ bám lấy em hoài, em biết ai cũng phải bắt đầu từ đâu đó, nhưng khó quá em chả thể ngừng được cái suy nghĩ ấy :( )&lt;/p&gt; &lt;p&gt;Mọi người thấy sao và có thể cho em vài lời khuyên được không, em chưa trải đời nhiều nên những vấn đề như này còn non nớt quá, mọi người thấy sao nếu ny mình chưa giỏi bằng mình ạ? &lt;/p&gt; &lt;p&gt;*Em trước giờ vẫn luôn tự tin mọi thứ về bản thân (trừ học tập ạ =))) ), ngoại hình em ưa nhìn (khôm phải xinh xuất sắc như mấy chị trên tóp tóp nhma vẫn ô sờ kê đủ dùng ạ), tính cách luôn năng lượng và hòa nhập với mọi người, em biết chơi thể thao, em biết vài tài lẻ kiểu đàn hát nháy nhót các thứ bla bla, gia đình em cũng là gia đình gia giáo, yêu thương nhau. Tự nhận xét bản thân thì em thấy lúc yêu em khá trẻ con nhưng không đến mức là vô tâm hay không suy nghĩ gì cho đối phương hết cả.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/chimcuccuccu"&gt; /u/chimcuccuccu &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nshiru/mọi_người_nghĩ_thế_nào_về_việc_bản_thân_kém_hơn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nshiru/mọi_người_nghĩ_thế_nào_về_việc_bản_thân_kém_hơn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
     <link href="https://old.reddit.com/r/vozforums/comments/1nshiru/mọi_người_nghĩ_thế_nào_về_việc_bản_thân_kém_hơn/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-28T06:47:15+00:00</published>
@@ -292,6 +279,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nrsy2s/nvqs_năm_nay_không_tuyển_cận_từ_15_diop_trở_lên/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-27T11:34:14+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nsig01</id>
+    <title>Trước Nhân Loại Liệu rằng có tồn nền Văn Minh khác không ?</title>
+    <updated>2025-09-28T07:45:58+00:00</updated>
+    <author>
+      <name>/u/TXKhoi_official</name>
+      <uri>https://old.reddit.com/user/TXKhoi_official</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Con người hiện đại – Homo sapiens – chỉ mới xuất hiện khoảng 300.000 năm trước. So với tuổi đời 4,5 tỷ năm của Trái Đất và hơn 13,8 tỷ năm của vũ trụ, sự hiện diện của chúng ta chỉ như một chớp mắt trong dòng thời gian vô tận. Vậy mà chỉ trong vài nghìn năm văn minh, chúng ta đã phát triển ngôn ngữ, khoa học, nghệ thuật, công nghệ và thậm chí vươn tới không gian.&lt;/p&gt; &lt;p&gt;Điều này dẫn tới một câu hỏi lớn: Liệu trước chúng ta có từng tồn tại những nền văn minh khác?&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Dữ liệu khoa học và câu hỏi về “ngẫu nhiên”&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Các nhà khoa học cho rằng sự sống trên Trái Đất xuất hiện từ khoảng 3,5 – 4 tỷ năm trước, thông qua quá trình tiến hóa tự nhiên. Nhưng sự tinh vi trong cấu trúc của sự sống khiến nhiều người hoài nghi. Ví dụ:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;p&gt;Một phân tử DNA chứa hơn 3 tỷ cặp base, giống như một bộ sách mã hóa toàn bộ sự sống. Xác suất để một cấu trúc như vậy hình thành hoàn toàn ngẫu nhiên gần như bằng 0.&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Hằng số vũ trụ như lực hấp dẫn, tốc độ ánh sáng, hay hằng số Planck được tinh chỉnh ở mức cực kỳ chính xác. Chỉ cần lệch đi một phần triệu, vũ trụ như ta biết sẽ không tồn tại.&lt;/p&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Điều này khiến nhiều triết gia và nhà vật lý (như Paul Davies, Roger Penrose) cho rằng: vũ trụ trông giống như “có thiết kế”, hơn là một sản phẩm của ngẫu nhiên.&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Tâm linh và câu hỏi về Thượng Đế&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Trong nhiều tôn giáo, sự hoàn hảo ấy được quy về một Thượng Đế hoặc một ý chí siêu việt. Nhưng ở chiều ngược lại, những người theo chủ nghĩa duy vật lại phản biện: “Chúng ta thấy trật tự, vì nếu không có trật tự, chúng ta đã không tồn tại để quan sát nó” (nguyên lý nhân học).&lt;/p&gt; &lt;p&gt;Điều này dẫn đến một nghịch lý: Ta nhìn thấy sự tinh vi trong vũ trụ và gọi đó là minh chứng cho Thượng Đế. Nhưng cũng có thể, chính sự tồn tại của ta đã khiến ta buộc phải thấy vũ trụ tinh vi như vậy.&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Có nền văn minh nào trước con người?&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Nếu Trái Đất đã tồn tại hàng tỷ năm, tại sao văn minh công nghệ chỉ xuất hiện vài nghìn năm gần đây? Một số giả thuyết “tiền sử nâng cao” (Silurian Hypothesis) cho rằng: có thể từng có nền văn minh trước con người, nhưng bằng chứng đã bị xóa sạch bởi địa chất, núi lửa, biến đổi khí hậu và thời gian.&lt;/p&gt; &lt;p&gt;Ví dụ: - Nền văn minh Maya, Ai Cập, Lưỡng Hà từng phát triển rực rỡ rồi biến mất, để lại di tích mà ta còn thấy. Nhưng nếu một nền văn minh từng tồn tại cách đây hàng trăm triệu năm, thì các bằng chứng có lẽ đã bị xóa sạch hoàn toàn.&lt;/p&gt; &lt;ul&gt; &lt;li&gt; Một khối đá nhân tạo sau 100 triệu năm sẽ bị nghiền thành bụi bởi kiến tạo địa chất. Một vệ tinh nhân tạo trên quỹ đạo cũng chỉ tồn tại vài chục nghìn năm trước khi rơi xuống và bị thiêu rụi.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Điều này mở ra khả năng rằng chúng ta chưa hẳn là nền văn minh duy nhất, mà có thể chỉ là một “lượt chơi” mới trong ván cờ dài vô tận của Trái Đất.&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Góc nhìn xã hội: niềm tin và sự thật&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Tại sao con người lại khát khao tin vào Thượng Đế, thần tiên, hay một thế giới tâm linh? Bởi vì vũ trụ quá mênh mông, và đời người lại quá ngắn ngủi. Khi đối diện với cái chết, sự hỗn loạn và bất công, ta tìm tới một niềm tin rằng có một trật tự lớn hơn, một ý nghĩa cao hơn. - Ở phương Đông, triết lý Phật giáo nói về nghiệp báo và luân hồi. - Ở phương Tây, Kitô giáo nhấn mạnh về Thượng Đế và sự cứu rỗi. - Ngay cả trong xã hội hiện đại, khi khoa học phát triển, niềm tin vào tâm linh vẫn tồn tại song song – bởi nó chạm tới nhu cầu sâu thẳm nhất của con người: tìm kiếm ý nghĩa.&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Khoa học hay Thượng Đế?&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Có lẽ câu trả lời cuối cùng không nằm ở việc chọn một bên, mà ở chỗ chấp nhận nghịch lý: Khoa học giải thích cái “cách” vũ trụ vận hành, nhưng tôn giáo và triết học đặt câu hỏi về cái “tại sao” nó lại tồn tại.&lt;/p&gt; &lt;p&gt;Nếu vũ trụ là một bản nhạc, khoa học cho ta thấy từng nốt nhạc vận hành thế nào, còn câu hỏi “ai viết bản nhạc này” vẫn để ngỏ.&lt;/p&gt; &lt;p&gt;Và vì thế, con người vẫn tiếp tục tìm kiếm – trong phòng thí nghiệm, trong đền chùa, trong nhà thờ, và trong chính nội tâm mình.&lt;/p&gt; &lt;p&gt;[ hãy góp ý hoặc phản biện ở dưới ] [ bài viết chỉ nêu góc nhìn cá nhân và được hỗ trợ một phần của AI ] &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/TXKhoi_official"&gt; /u/TXKhoi_official &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nsig01/trước_nhân_loại_liệu_rằng_có_tồn_nền_văn_minh/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nsig01/trước_nhân_loại_liệu_rằng_có_tồn_nền_văn_minh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nsig01/trước_nhân_loại_liệu_rằng_có_tồn_nền_văn_minh/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-28T07:45:58+00:00</published>
   </entry>
   <entry>
     <id>t3_1nsg9p4</id>
