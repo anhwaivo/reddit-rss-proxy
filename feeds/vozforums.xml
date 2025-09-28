@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-09-28T07:27:28+00:00</updated>
+  <updated>2025-09-28T07:38:26+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -242,19 +242,6 @@
     <published>2025-09-28T07:09:50+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nshiru</id>
-    <title>Mọi người nghĩ thế nào về việc bản thân kém hơn người yêu</title>
-    <updated>2025-09-28T06:47:15+00:00</updated>
-    <author>
-      <name>/u/chimcuccuccu</name>
-      <uri>https://old.reddit.com/user/chimcuccuccu</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Xin chào mng, em là FM22, ny em M22, bọn em hiện đã yêu nhau gần 3 năm, học chung ngành (bọn em học IT), chung trường, nửa cuối năm gần đây thì bạn ny em bứt phá khá mạnh, bạn đạt được nhiều thành tựu về học tập và công việc cho bản thân, em rất mừng và hãnh diện vì điều đó, và đó cũng là động lực để em cố gắng từng ngày, để bọn em có thể đồng hành cùng nhau trong tương lai. Gần đây bọn em có apply 1 chương trình, nhưng bạn thì pass còn em thì xịt thẳng cổ, em buồn vì mình chưa đủ năng lực, em biết mình cần cố gắng thêm. Nhưng tự nhiên trong đầu em lại có suy nghĩ là liệu ny em có thấy em kém mà chán yêu hay gì không?&lt;/p&gt; &lt;p&gt;*Quay lại 1 tháng trước&lt;/p&gt; &lt;p&gt;Bạn ny em được sang thực tập ở nước ngoài 1 tháng hè, thì trong 1 tháng đó bọn em cãi nhau khá nhiều và bạn thừa nhận với em là thích một bạn nữ đi cùng đoàn thực tập (Bạn ấy xinh gái, học giỏi (GPA cao, IELTS 7., JLPT N2), nhẹ nhàng). Sau đó thì chuyện lùm xùm một chút nhưng khi suy xét kỹ lại thì em với bạn vẫn đồng ý tiếp tục đồng hành cùng nhau, nhưng từ đó em cứ có suy nghĩ là so sánh với bạn đó, em học không giỏi bằng bạn đó, những thứ khác thì em không biết, nhưng suy nghĩ đó cứ bám lấy em hoài, em biết ai cũng phải bắt đầu từ đâu đó, nhưng khó quá em chả thể ngừng được cái suy nghĩ ấy :(&lt;/p&gt; &lt;p&gt;Mọi người thấy sao ạ, em chưa trải đời nhiều nên những vấn đề như này còn non nớt quá, mọi người thấy sao nếu ny mình chưa giỏi bằng mình ạ? &lt;/p&gt; &lt;p&gt;*Em trước giờ vẫn luôn tự tin mọi thứ về bản thân (trừ học tập ạ =))) ), ngoại hình em ưa nhìn, tính cách luôn năng lượng và hòa nhập với mọi người, em biết chơi thể thao, em biết vài tài lẻ kiểu đàn hát nháy nhót các thứ bla bla, gia đình em cũng là gia đình gia giáo, yêu thương nhau.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/chimcuccuccu"&gt; /u/chimcuccuccu &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nshiru/mọi_người_nghĩ_thế_nào_về_việc_bản_thân_kém_hơn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nshiru/mọi_người_nghĩ_thế_nào_về_việc_bản_thân_kém_hơn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nshiru/mọi_người_nghĩ_thế_nào_về_việc_bản_thân_kém_hơn/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-28T06:47:15+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nrxt5o</id>
     <title>[Tâm sự] làm công ty, dính đến pháp luật</title>
     <updated>2025-09-27T15:17:16+00:00</updated>
@@ -279,6 +266,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nsfiml/đòi_nợ/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-28T04:45:13+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nshiru</id>
+    <title>Mọi người nghĩ thế nào về việc bản thân kém hơn người yêu</title>
+    <updated>2025-09-28T06:47:15+00:00</updated>
+    <author>
+      <name>/u/chimcuccuccu</name>
+      <uri>https://old.reddit.com/user/chimcuccuccu</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Xin chào mng, em là FM22, ny em M22, bọn em hiện đã yêu nhau gần 3 năm, học chung ngành (bọn em học IT), chung trường, nửa cuối năm gần đây thì bạn ny em bứt phá khá mạnh, bạn đạt được nhiều thành tựu về học tập và công việc cho bản thân, em rất mừng và hãnh diện vì điều đó, và đó cũng là động lực để em cố gắng từng ngày, để bọn em có thể đồng hành cùng nhau trong tương lai. Gần đây bọn em có apply 1 chương trình, nhưng bạn thì pass còn em thì xịt thẳng cổ, em buồn vì mình chưa đủ năng lực, em biết mình cần cố gắng thêm. Nhưng tự nhiên trong đầu em lại có suy nghĩ là liệu ny em có thấy em kém mà chán yêu hay gì không?&lt;/p&gt; &lt;p&gt;*Quay lại 1 tháng trước&lt;/p&gt; &lt;p&gt;Bạn ny em được sang thực tập ở nước ngoài 1 tháng hè, thì trong 1 tháng đó bọn em cãi nhau khá nhiều và bạn thừa nhận với em là thích một bạn nữ đi cùng đoàn thực tập (Bạn ấy xinh gái, học giỏi (GPA cao, IELTS 7., JLPT N2), nhẹ nhàng). Sau đó thì chuyện lùm xùm một chút nhưng khi suy xét kỹ lại thì em với bạn vẫn đồng ý tiếp tục đồng hành cùng nhau, nhưng từ đó em cứ có suy nghĩ là so sánh với bạn đó, em học không giỏi bằng bạn đó, những thứ khác thì em không biết, nhưng suy nghĩ đó cứ bám lấy em hoài, em biết ai cũng phải bắt đầu từ đâu đó, nhưng khó quá em chả thể ngừng được cái suy nghĩ ấy :(&lt;/p&gt; &lt;p&gt;Mọi người thấy sao ạ, em chưa trải đời nhiều nên những vấn đề như này còn non nớt quá, mọi người thấy sao nếu ny mình chưa giỏi bằng mình ạ? &lt;/p&gt; &lt;p&gt;*Em trước giờ vẫn luôn tự tin mọi thứ về bản thân (trừ học tập ạ =))) ), ngoại hình em ưa nhìn, tính cách luôn năng lượng và hòa nhập với mọi người, em biết chơi thể thao, em biết vài tài lẻ kiểu đàn hát nháy nhót các thứ bla bla, gia đình em cũng là gia đình gia giáo, yêu thương nhau.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/chimcuccuccu"&gt; /u/chimcuccuccu &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nshiru/mọi_người_nghĩ_thế_nào_về_việc_bản_thân_kém_hơn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nshiru/mọi_người_nghĩ_thế_nào_về_việc_bản_thân_kém_hơn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nshiru/mọi_người_nghĩ_thế_nào_về_việc_bản_thân_kém_hơn/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-28T06:47:15+00:00</published>
   </entry>
   <entry>
     <id>t3_1nrsy2s</id>
