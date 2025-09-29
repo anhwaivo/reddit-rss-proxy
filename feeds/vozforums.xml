@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-09-29T14:18:09+00:00</updated>
+  <updated>2025-09-29T14:42:46+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -86,19 +86,6 @@
     <published>2025-09-29T13:13:34+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nsrine</id>
-    <title>Hóa đơn Youtube Premium bị thu vượt số tiền ghi trên web hơn 23.6%</title>
-    <updated>2025-09-28T15:41:18+00:00</updated>
-    <author>
-      <name>/u/Feisty-Kiwi6616</name>
-      <uri>https://old.reddit.com/user/Feisty-Kiwi6616</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1nsrine/hóa_đơn_youtube_premium_bị_thu_vượt_số_tiền_ghi/"&gt; &lt;img alt="Hóa đơn Youtube Premium bị thu vượt số tiền ghi trên web hơn 23.6%" src="https://preview.redd.it/rt0atlw3cxrf1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=e79406983fd27f1bb8df1a717a015cc9c9b8cd0f" title="Hóa đơn Youtube Premium bị thu vượt số tiền ghi trên web hơn 23.6%" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào cả nhà, hôm nay mình phát hiện ra là tài khoản Youtube Premium cá nhân của mình bị Youtube thu lên tới 97,678 đ/tháng (mình trả bằng thẻ Techcombank Visa Debit).&lt;/p&gt; &lt;p&gt;Giá ghi trên web là 79k/tháng (chưa bao gồm thuế VAT) + 10% VAT thì cũng chỉ rơi vào gần 87K. Không hiểu sao lại thu tới gần 98K như kia. Có ai biết lý do tại sao thì chỉ mình với ạ.&lt;/p&gt; &lt;p&gt;Cảm ơn cả nhà!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Feisty-Kiwi6616"&gt; /u/Feisty-Kiwi6616 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/rt0atlw3cxrf1.png"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nsrine/hóa_đơn_youtube_premium_bị_thu_vượt_số_tiền_ghi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nsrine/hóa_đơn_youtube_premium_bị_thu_vượt_số_tiền_ghi/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-28T15:41:18+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nthrqx</id>
     <title>6.5 IELTS có nên đâm đầu vào học ngôn ngữ Anh ở Hà Nội.</title>
     <updated>2025-09-29T13:17:05+00:00</updated>
@@ -110,6 +97,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nthrqx/65_ielts_có_nên_đâm_đầu_vào_học_ngôn_ngữ_anh_ở_hà/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-29T13:17:05+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nsrine</id>
+    <title>Hóa đơn Youtube Premium bị thu vượt số tiền ghi trên web hơn 23.6%</title>
+    <updated>2025-09-28T15:41:18+00:00</updated>
+    <author>
+      <name>/u/Feisty-Kiwi6616</name>
+      <uri>https://old.reddit.com/user/Feisty-Kiwi6616</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1nsrine/hóa_đơn_youtube_premium_bị_thu_vượt_số_tiền_ghi/"&gt; &lt;img alt="Hóa đơn Youtube Premium bị thu vượt số tiền ghi trên web hơn 23.6%" src="https://preview.redd.it/rt0atlw3cxrf1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=e79406983fd27f1bb8df1a717a015cc9c9b8cd0f" title="Hóa đơn Youtube Premium bị thu vượt số tiền ghi trên web hơn 23.6%" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào cả nhà, hôm nay mình phát hiện ra là tài khoản Youtube Premium cá nhân của mình bị Youtube thu lên tới 97,678 đ/tháng (mình trả bằng thẻ Techcombank Visa Debit).&lt;/p&gt; &lt;p&gt;Giá ghi trên web là 79k/tháng (chưa bao gồm thuế VAT) + 10% VAT thì cũng chỉ rơi vào gần 87K. Không hiểu sao lại thu tới gần 98K như kia. Có ai biết lý do tại sao thì chỉ mình với ạ.&lt;/p&gt; &lt;p&gt;Cảm ơn cả nhà!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Feisty-Kiwi6616"&gt; /u/Feisty-Kiwi6616 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/rt0atlw3cxrf1.png"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nsrine/hóa_đơn_youtube_premium_bị_thu_vượt_số_tiền_ghi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nsrine/hóa_đơn_youtube_premium_bị_thu_vượt_số_tiền_ghi/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-28T15:41:18+00:00</published>
   </entry>
   <entry>
     <id>t3_1nswd26</id>
@@ -151,19 +151,6 @@
     <published>2025-09-28T13:59:39+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nte5f9</id>
-    <title>Calling all engineers, inventors, and experts in automatic control, mechatronics, industrial electronics, and laser technology</title>
-    <updated>2025-09-29T10:11:27+00:00</updated>
-    <author>
-      <name>/u/inventtechcapital</name>
-      <uri>https://old.reddit.com/user/inventtechcapital</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;I am currently working on a project: &lt;strong&gt;designing and producing a precise PID controller for a laser microcircuit engraving system&lt;/strong&gt;. This device requires meticulous control of temperature, speed, and positioning to ensure optimal engraving quality and extremely high accuracy.&lt;/p&gt; &lt;p&gt;I am eager to connect and collaborate with individuals or teams who have experience, creativity, and goodwill to support in the following areas:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Advanced PID controller design, including algorithms and embedded software.&lt;/li&gt; &lt;li&gt;Integration of sensor and actuator systems for laser engraving.&lt;/li&gt; &lt;li&gt;Development of control hardware using microcontrollers, FPGA, or analog circuits if needed.&lt;/li&gt; &lt;li&gt;Performance optimization, noise reduction, and PID parameter tuning suitable for the system’s dynamics.&lt;/li&gt; &lt;li&gt;Support in research and testing to enhance the device’s stability and precision.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;This is an open project and welcomes all ideas, feedback, and technical support. I believe that with the joint effort of a community of dedicated engineers and inventors, we can create a high-tech product that contributes to the advancement of the electronics and optics industries.&lt;/p&gt; &lt;p&gt;If you are interested in participating or discussing further, please contact me at: [Your contact information: email, phone number, address…]&lt;/p&gt; &lt;p&gt;I look forward to your support, partnership, and cooperation!&lt;/p&gt; &lt;p&gt;Sincerely, Send me a direct message on this Reddit account&lt;/p&gt; &lt;hr /&gt; &lt;p&gt;Bạn nào là Việtnamese thì thảo luận với tôi bằng tiếng Việt&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/inventtechcapital"&gt; /u/inventtechcapital &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nte5f9/calling_all_engineers_inventors_and_experts_in/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nte5f9/calling_all_engineers_inventors_and_experts_in/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nte5f9/calling_all_engineers_inventors_and_experts_in/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-29T10:11:27+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nterdi</id>
     <title>cô độc tột độ</title>
     <updated>2025-09-29T10:49:15+00:00</updated>
@@ -175,6 +162,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nterdi/cô_độc_tột_độ/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-29T10:49:15+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ntju8g</id>
+    <title>Review phim Spider Rose của phần 4 Love Death Robots</title>
+    <updated>2025-09-29T14:41:45+00:00</updated>
+    <author>
+      <name>/u/Tosalance</name>
+      <uri>https://old.reddit.com/user/Tosalance</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1ntju8g/review_phim_spider_rose_của_phần_4_love_death/"&gt; &lt;img alt="Review phim Spider Rose của phần 4 Love Death Robots" src="https://external-preview.redd.it/9PfXYbbwVC8Y8r2KPd2CeIpzVrOVdyMNtqMAHOaNfzo.jpeg?width=320&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=6cc98aef7f7d3c1536315da021d8e1e67ebed7b9" title="Review phim Spider Rose của phần 4 Love Death Robots" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Sau khi mình luyện hết 10 tập của bộ LDR mới nhất thì mình thấy thích mỗi tập này nhất dù nội dung cái kết bị chỉnh sửa lại hết. Mọi người có thể vào xem mình phân tích lại cái kết cũ trong truyện ngắn gốc trong link nha.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Tosalance"&gt; /u/Tosalance &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.youtube.com/watch?v=Bpy1fHq_lNo&amp;amp;t=2s"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ntju8g/review_phim_spider_rose_của_phần_4_love_death/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ntju8g/review_phim_spider_rose_của_phần_4_love_death/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-29T14:41:45+00:00</published>
   </entry>
   <entry>
     <id>t3_1ntf6k2</id>
@@ -190,19 +190,6 @@
     <published>2025-09-29T11:13:12+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ntb136</id>
-    <title>Rút kinh nghiệm từ tình đầu sau 22 năm</title>
-    <updated>2025-09-29T06:42:22+00:00</updated>
-    <author>
-      <name>/u/Working_Builder_4892</name>
-      <uri>https://old.reddit.com/user/Working_Builder_4892</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chọn người yêu mình đừng chọn người mình yêu.&lt;/p&gt; &lt;p&gt;Chọn người yêu mình đừng chọn người mình yêu.&lt;/p&gt; &lt;p&gt;Chọn người yêu mình đừng chọn người mình yêu.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Working_Builder_4892"&gt; /u/Working_Builder_4892 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ntb136/rút_kinh_nghiệm_từ_tình_đầu_sau_22_năm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ntb136/rút_kinh_nghiệm_từ_tình_đầu_sau_22_năm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ntb136/rút_kinh_nghiệm_từ_tình_đầu_sau_22_năm/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-29T06:42:22+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1ntb36d</id>
     <title>Tình duyên quá lận đận thì làm sao?</title>
     <updated>2025-09-29T06:46:10+00:00</updated>
@@ -214,6 +201,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ntb36d/tình_duyên_quá_lận_đận_thì_làm_sao/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-29T06:46:10+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ntb136</id>
+    <title>Rút kinh nghiệm từ tình đầu sau 22 năm</title>
+    <updated>2025-09-29T06:42:22+00:00</updated>
+    <author>
+      <name>/u/Working_Builder_4892</name>
+      <uri>https://old.reddit.com/user/Working_Builder_4892</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chọn người yêu mình đừng chọn người mình yêu.&lt;/p&gt; &lt;p&gt;Chọn người yêu mình đừng chọn người mình yêu.&lt;/p&gt; &lt;p&gt;Chọn người yêu mình đừng chọn người mình yêu.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Working_Builder_4892"&gt; /u/Working_Builder_4892 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ntb136/rút_kinh_nghiệm_từ_tình_đầu_sau_22_năm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ntb136/rút_kinh_nghiệm_từ_tình_đầu_sau_22_năm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ntb136/rút_kinh_nghiệm_từ_tình_đầu_sau_22_năm/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-29T06:42:22+00:00</published>
   </entry>
   <entry>
     <id>t3_1ntfcbi</id>
@@ -294,19 +294,6 @@
     <published>2025-09-29T09:23:37+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ntj5b9</id>
-    <title>Yêu nữ lớn tuổi hơn?</title>
-    <updated>2025-09-29T14:14:29+00:00</updated>
-    <author>
-      <name>/u/WritingMaterial383</name>
-      <uri>https://old.reddit.com/user/WritingMaterial383</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em là nam 23 tuổi, vừa ra trường đi làm hơn 1 năm. Trong cty có để ý 1 chị 29 tuổi, chị ấy rất xinh và trẻ, nhìn vào không ai biết là chị 29 30 tuổi rồi. Được biết là chị đó vẫn độc thân, em muốn hỏi là em có nên đẩy láo không ạ, em vẫn đang lưỡng lự vì từng tuổi này rồi em nghĩ chị ấy cũng kiếm người nghiêm túc, em thì thoải mái hơn, nhưng nếu hợp nhau thì em nghĩ mình vẫn có thể nghiêm túc tiến xa hơn. Chỉ là em không muốn gieo rắc hi vọng tình cảm để rồi lại phí tgian của chị. Hay là em nghĩ nhiều quá, chỉ là em không muốn chị đó tổn thương. Mấy anh chị cho em lời khuyên ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/WritingMaterial383"&gt; /u/WritingMaterial383 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ntj5b9/yêu_nữ_lớn_tuổi_hơn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ntj5b9/yêu_nữ_lớn_tuổi_hơn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ntj5b9/yêu_nữ_lớn_tuổi_hơn/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-29T14:14:29+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nt7wg8</id>
     <title>Chỉ là muốn kể với mọi người là tầm tháng sau thất nghiệp.</title>
     <updated>2025-09-29T03:36:13+00:00</updated>
@@ -318,6 +305,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nt7wg8/chỉ_là_muốn_kể_với_mọi_người_là_tầm_tháng_sau/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-29T03:36:13+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ntj5b9</id>
+    <title>Yêu nữ lớn tuổi hơn?</title>
+    <updated>2025-09-29T14:14:29+00:00</updated>
+    <author>
+      <name>/u/WritingMaterial383</name>
+      <uri>https://old.reddit.com/user/WritingMaterial383</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em là nam 23 tuổi, vừa ra trường đi làm hơn 1 năm. Trong cty có để ý 1 chị 29 tuổi, chị ấy rất xinh và trẻ, nhìn vào không ai biết là chị 29 30 tuổi rồi. Được biết là chị đó vẫn độc thân, em muốn hỏi là em có nên đẩy láo không ạ, em vẫn đang lưỡng lự vì từng tuổi này rồi em nghĩ chị ấy cũng kiếm người nghiêm túc, em thì thoải mái hơn, nhưng nếu hợp nhau thì em nghĩ mình vẫn có thể nghiêm túc tiến xa hơn. Chỉ là em không muốn gieo rắc hi vọng tình cảm để rồi lại phí tgian của chị. Hay là em nghĩ nhiều quá, chỉ là em không muốn chị đó tổn thương. Mấy anh chị cho em lời khuyên ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/WritingMaterial383"&gt; /u/WritingMaterial383 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ntj5b9/yêu_nữ_lớn_tuổi_hơn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ntj5b9/yêu_nữ_lớn_tuổi_hơn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ntj5b9/yêu_nữ_lớn_tuổi_hơn/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-29T14:14:29+00:00</published>
   </entry>
   <entry>
     <id>t3_1ntgfjs</id>
