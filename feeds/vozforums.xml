@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-09-29T06:52:45+00:00</updated>
+  <updated>2025-09-29T07:18:44+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -99,19 +99,6 @@
     <published>2025-09-28T11:26:42+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nsc796</id>
-    <title>22 tuổi mới ra đời, ít trải nghiệm, kinh nghiệm mong được nghe một số lời khuyên về công việc, cuộc sống của các bác</title>
-    <updated>2025-09-28T01:46:44+00:00</updated>
-    <author>
-      <name>/u/Square-Painting1852</name>
-      <uri>https://old.reddit.com/user/Square-Painting1852</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Từ những điều có thể đơn giản, ngắn gọn mà các bác đã trải nghiệm hoặc rút ra thôi ạ. Em xin ghi nhận hết nhất là về phát triển bản thân, đầu tư, sức khoẻ, gia đình,…&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Square-Painting1852"&gt; /u/Square-Painting1852 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nsc796/22_tuổi_mới_ra_đời_ít_trải_nghiệm_kinh_nghiệm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nsc796/22_tuổi_mới_ra_đời_ít_trải_nghiệm_kinh_nghiệm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nsc796/22_tuổi_mới_ra_đời_ít_trải_nghiệm_kinh_nghiệm/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-28T01:46:44+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nss8jc</id>
     <title>Mình đang gặp một chuyện khó nói cần mọi người giúp ạ.Mình có một người bạn là con gái,mà xui thay có 1 thằng lúc nào cũng đeo bám,lợi dụng toxic,kiếm chuyện vs mình,không chịu buông tha bạn đấy,hay thao túng tâm lí nữa lúc nào cũng muốn lợi cho thằng đấy,mình không biết phải làm sao nữa....</title>
     <updated>2025-09-28T16:10:14+00:00</updated>
@@ -123,6 +110,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nss8jc/mình_đang_gặp_một_chuyện_khó_nói_cần_mọi_người/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-28T16:10:14+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nsc796</id>
+    <title>22 tuổi mới ra đời, ít trải nghiệm, kinh nghiệm mong được nghe một số lời khuyên về công việc, cuộc sống của các bác</title>
+    <updated>2025-09-28T01:46:44+00:00</updated>
+    <author>
+      <name>/u/Square-Painting1852</name>
+      <uri>https://old.reddit.com/user/Square-Painting1852</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Từ những điều có thể đơn giản, ngắn gọn mà các bác đã trải nghiệm hoặc rút ra thôi ạ. Em xin ghi nhận hết nhất là về phát triển bản thân, đầu tư, sức khoẻ, gia đình,…&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Square-Painting1852"&gt; /u/Square-Painting1852 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nsc796/22_tuổi_mới_ra_đời_ít_trải_nghiệm_kinh_nghiệm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nsc796/22_tuổi_mới_ra_đời_ít_trải_nghiệm_kinh_nghiệm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nsc796/22_tuổi_mới_ra_đời_ít_trải_nghiệm_kinh_nghiệm/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-28T01:46:44+00:00</published>
   </entry>
   <entry>
     <id>t3_1nt942x</id>
@@ -242,17 +242,17 @@
     <published>2025-09-29T05:13:26+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nswd26</id>
-    <title>Em muốn chia sẻ câu chuyện khá khó chịu và khó hiểu này ạ</title>
-    <updated>2025-09-28T18:54:09+00:00</updated>
+    <id>t3_1nsr5lm</id>
+    <title>Gái cho địa chỉ nhà có phải là đèn xanh không các bác</title>
+    <updated>2025-09-28T15:26:34+00:00</updated>
     <author>
-      <name>/u/IcyWinter9406</name>
-      <uri>https://old.reddit.com/user/IcyWinter9406</uri>
+      <name>/u/VintageMobile</name>
+      <uri>https://old.reddit.com/user/VintageMobile</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em là sinh viên năm cuối, vừa tìm được phòng ở ghép với một bạn khác cùng tuổi mà 2 gia đình em và bạn này có quen nhau ( xã giao, không thân chỉ biết mặt) vấn đề chỉ có mỗi việc là sau khi ở vài tuần thì thấy không hợp nhau do bạn kia cũng chơi bời, đấy là việc riêng của bạn thì em ko quan tâm nhưng làm ảnh hưởng đến em như đi chơi đêm về gọi mở cổng, giờ giấc sinh hoạt khác nhau bạn kia ngày ngủ đêm thức chơi game hoặc call vs người yêu rất ồn, lúc thì dẫn bồ về phòng, mẹ bạn thì hay gọi điện tra hỏi mình xem bạn đấy có phải đang đi học hay đi chơi...em thấy phiền nên muốn chuyển đi.&lt;/p&gt; &lt;p&gt;Chuyện chỉ có vậy nhưng đến khi em báo với gia đình thì lại bị quát là do em khó tính không ở được với ai rồi làm um sùm lên, em cũng nghĩ là do gia đình lo không tìm đc trọ ở nên mới thế nhưng khi em tìm đc chỗ khác ở rồi và báo sẽ chuyển đi thì bố mẹ em ở quê lại sang nhà gặp bố mẹ bạn ở ghép cùng em để nói chuyện nhưng em khó chịu ở chỗ là gia đình em như đang &amp;quot;xin lỗi&amp;quot; gia đình bạn đó và nói do em khó tính không ở được nên chuyển đi ?? &lt;/p&gt; &lt;p&gt;Em thấy rất khó chịu khi tại sao lúc nào cũng đỗ lỗi sang người em và gia đình mình cứ phải cúi đầu trước người đời như thế cảm giác nó rất là khó chịu, &amp;quot;mình xin lỗi vì mình đã khó tính khi bạn làm phiền mình&amp;quot; =)) em khó hiểu vì sao gia đình lúc nào cũng hạ mình,rồi nâng người ngoài, lúc nào cũng nhận phần thiệt về mình vấn đề không phải trong mỗi chuyện chuyển trọ của em mà các mối quan hệ họ hàng thì cũng vậy, ngay cả khi hàng xóm lấn đất xây nhà lên rồi cũng chấp nhận đổi lại bằng đoạn đất phía sau trong khi nếu đòi bằng được phần đất nó lấn thì đất trông đã rộng và đẹp rồi, giờ đất vừa hẹp vừa méo. lúc nào cũng hạ mình, sợ mất mặt..em thấy thắc mắc vì sao phải đến mức thế.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/IcyWinter9406"&gt; /u/IcyWinter9406 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nswd26/em_muốn_chia_sẻ_câu_chuyện_khá_khó_chịu_và_khó/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nswd26/em_muốn_chia_sẻ_câu_chuyện_khá_khó_chịu_và_khó/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nswd26/em_muốn_chia_sẻ_câu_chuyện_khá_khó_chịu_và_khó/"/>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1nsr5lm/gái_cho_địa_chỉ_nhà_có_phải_là_đèn_xanh_không_các/"&gt; &lt;img alt="Gái cho địa chỉ nhà có phải là đèn xanh không các bác" src="https://preview.redd.it/9v2ivfmqbxrf1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=43999db884ede81ce6f1a9b85a0b542cb3d3fb71" title="Gái cho địa chỉ nhà có phải là đèn xanh không các bác" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Dạ e chào các bác, em 18m ngoại hình cũng cao ráo đẹp trai, tập jim đều đặn. em ở lớp em thích một chị 19f, thấy 2 đứa cũng khá là comfortable. Hôm trc e đi cùng c ý ra bãi xe, xong c ý quay ra c hỏi rằng nhà em ở đâu? Gần đây hem. 349.... xong c nói là ơ gần nhà c thế. 31.... xong c hỏi nhà gần nhau thế, cùng đi lúc 7r mà sao t ko gặp m. E mấy lần e đi qua thấy xe đỗ đó thì e xác nhận là thật nhé Câu chuyện cũng chả ra đâu vs đâu nhỉ... các bác xem hộ em xem nnao với ợ. Lớp sắp hết rồi e có nên liều một lần không. Tks các bác ợ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/VintageMobile"&gt; /u/VintageMobile &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/9v2ivfmqbxrf1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nsr5lm/gái_cho_địa_chỉ_nhà_có_phải_là_đèn_xanh_không_các/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nsr5lm/gái_cho_địa_chỉ_nhà_có_phải_là_đèn_xanh_không_các/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-28T18:54:09+00:00</published>
+    <published>2025-09-28T15:26:34+00:00</published>
   </entry>
   <entry>
     <id>t3_1nsrine</id>
@@ -268,17 +268,17 @@
     <published>2025-09-28T15:41:18+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nsr5lm</id>
-    <title>Gái cho địa chỉ nhà có phải là đèn xanh không các bác</title>
-    <updated>2025-09-28T15:26:34+00:00</updated>
+    <id>t3_1nswd26</id>
+    <title>Em muốn chia sẻ câu chuyện khá khó chịu và khó hiểu này ạ</title>
+    <updated>2025-09-28T18:54:09+00:00</updated>
     <author>
-      <name>/u/VintageMobile</name>
-      <uri>https://old.reddit.com/user/VintageMobile</uri>
+      <name>/u/IcyWinter9406</name>
+      <uri>https://old.reddit.com/user/IcyWinter9406</uri>
     </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1nsr5lm/gái_cho_địa_chỉ_nhà_có_phải_là_đèn_xanh_không_các/"&gt; &lt;img alt="Gái cho địa chỉ nhà có phải là đèn xanh không các bác" src="https://preview.redd.it/9v2ivfmqbxrf1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=43999db884ede81ce6f1a9b85a0b542cb3d3fb71" title="Gái cho địa chỉ nhà có phải là đèn xanh không các bác" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Dạ e chào các bác, em 18m ngoại hình cũng cao ráo đẹp trai, tập jim đều đặn. em ở lớp em thích một chị 19f, thấy 2 đứa cũng khá là comfortable. Hôm trc e đi cùng c ý ra bãi xe, xong c ý quay ra c hỏi rằng nhà em ở đâu? Gần đây hem. 349.... xong c nói là ơ gần nhà c thế. 31.... xong c hỏi nhà gần nhau thế, cùng đi lúc 7r mà sao t ko gặp m. E mấy lần e đi qua thấy xe đỗ đó thì e xác nhận là thật nhé Câu chuyện cũng chả ra đâu vs đâu nhỉ... các bác xem hộ em xem nnao với ợ. Lớp sắp hết rồi e có nên liều một lần không. Tks các bác ợ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/VintageMobile"&gt; /u/VintageMobile &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/9v2ivfmqbxrf1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nsr5lm/gái_cho_địa_chỉ_nhà_có_phải_là_đèn_xanh_không_các/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nsr5lm/gái_cho_địa_chỉ_nhà_có_phải_là_đèn_xanh_không_các/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em là sinh viên năm cuối, vừa tìm được phòng ở ghép với một bạn khác cùng tuổi mà 2 gia đình em và bạn này có quen nhau ( xã giao, không thân chỉ biết mặt) vấn đề chỉ có mỗi việc là sau khi ở vài tuần thì thấy không hợp nhau do bạn kia cũng chơi bời, đấy là việc riêng của bạn thì em ko quan tâm nhưng làm ảnh hưởng đến em như đi chơi đêm về gọi mở cổng, giờ giấc sinh hoạt khác nhau bạn kia ngày ngủ đêm thức chơi game hoặc call vs người yêu rất ồn, lúc thì dẫn bồ về phòng, mẹ bạn thì hay gọi điện tra hỏi mình xem bạn đấy có phải đang đi học hay đi chơi...em thấy phiền nên muốn chuyển đi.&lt;/p&gt; &lt;p&gt;Chuyện chỉ có vậy nhưng đến khi em báo với gia đình thì lại bị quát là do em khó tính không ở được với ai rồi làm um sùm lên, em cũng nghĩ là do gia đình lo không tìm đc trọ ở nên mới thế nhưng khi em tìm đc chỗ khác ở rồi và báo sẽ chuyển đi thì bố mẹ em ở quê lại sang nhà gặp bố mẹ bạn ở ghép cùng em để nói chuyện nhưng em khó chịu ở chỗ là gia đình em như đang &amp;quot;xin lỗi&amp;quot; gia đình bạn đó và nói do em khó tính không ở được nên chuyển đi ?? &lt;/p&gt; &lt;p&gt;Em thấy rất khó chịu khi tại sao lúc nào cũng đỗ lỗi sang người em và gia đình mình cứ phải cúi đầu trước người đời như thế cảm giác nó rất là khó chịu, &amp;quot;mình xin lỗi vì mình đã khó tính khi bạn làm phiền mình&amp;quot; =)) em khó hiểu vì sao gia đình lúc nào cũng hạ mình,rồi nâng người ngoài, lúc nào cũng nhận phần thiệt về mình vấn đề không phải trong mỗi chuyện chuyển trọ của em mà các mối quan hệ họ hàng thì cũng vậy, ngay cả khi hàng xóm lấn đất xây nhà lên rồi cũng chấp nhận đổi lại bằng đoạn đất phía sau trong khi nếu đòi bằng được phần đất nó lấn thì đất trông đã rộng và đẹp rồi, giờ đất vừa hẹp vừa méo. lúc nào cũng hạ mình, sợ mất mặt..em thấy thắc mắc vì sao phải đến mức thế.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/IcyWinter9406"&gt; /u/IcyWinter9406 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nswd26/em_muốn_chia_sẻ_câu_chuyện_khá_khó_chịu_và_khó/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nswd26/em_muốn_chia_sẻ_câu_chuyện_khá_khó_chịu_và_khó/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nswd26/em_muốn_chia_sẻ_câu_chuyện_khá_khó_chịu_và_khó/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-28T15:26:34+00:00</published>
+    <published>2025-09-28T18:54:09+00:00</published>
   </entry>
   <entry>
     <id>t3_1nsp1ou</id>
