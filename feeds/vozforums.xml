@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-09-30T09:40:48+00:00</updated>
+  <updated>2025-09-30T09:50:40+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -255,19 +255,6 @@
     <published>2025-09-30T03:14:10+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nu6gtc</id>
-    <title>Mỗi ngày uống 1 ly cà phê, về lâu dài có ảnh hưởng gì tới sức khỏe không mn?</title>
-    <updated>2025-09-30T07:07:46+00:00</updated>
-    <author>
-      <name>/u/Slight-Boat4045</name>
-      <uri>https://old.reddit.com/user/Slight-Boat4045</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình đang 25 tuổi, muốn uống cà phê mỗi ngày cho tập trung hơn, trước đây mình cũng it uống. Về lâu dàu có ảnh hưởng gì tới sức khoẻ ko mn. Thanks&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Slight-Boat4045"&gt; /u/Slight-Boat4045 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nu6gtc/mỗi_ngày_uống_1_ly_cà_phê_về_lâu_dài_có_ảnh_hưởng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nu6gtc/mỗi_ngày_uống_1_ly_cà_phê_về_lâu_dài_có_ảnh_hưởng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nu6gtc/mỗi_ngày_uống_1_ly_cà_phê_về_lâu_dài_có_ảnh_hưởng/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-30T07:07:46+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1ntzn6o</id>
     <title>Em xin kinh nghiệm kinh doanh ạ !!</title>
     <updated>2025-09-30T01:04:50+00:00</updated>
@@ -279,6 +266,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ntzn6o/em_xin_kinh_nghiệm_kinh_doanh_ạ/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-30T01:04:50+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nu6gtc</id>
+    <title>Mỗi ngày uống 1 ly cà phê, về lâu dài có ảnh hưởng gì tới sức khỏe không mn?</title>
+    <updated>2025-09-30T07:07:46+00:00</updated>
+    <author>
+      <name>/u/Slight-Boat4045</name>
+      <uri>https://old.reddit.com/user/Slight-Boat4045</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình đang 25 tuổi, muốn uống cà phê mỗi ngày cho tập trung hơn, trước đây mình cũng it uống. Về lâu dàu có ảnh hưởng gì tới sức khoẻ ko mn. Thanks&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Slight-Boat4045"&gt; /u/Slight-Boat4045 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nu6gtc/mỗi_ngày_uống_1_ly_cà_phê_về_lâu_dài_có_ảnh_hưởng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nu6gtc/mỗi_ngày_uống_1_ly_cà_phê_về_lâu_dài_có_ảnh_hưởng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nu6gtc/mỗi_ngày_uống_1_ly_cà_phê_về_lâu_dài_có_ảnh_hưởng/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-30T07:07:46+00:00</published>
   </entry>
   <entry>
     <id>t3_1nu05xc</id>
