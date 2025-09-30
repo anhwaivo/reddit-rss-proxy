@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-09-30T10:52:47+00:00</updated>
+  <updated>2025-09-30T11:15:31+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -19,6 +19,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ntmy5q/em_đang_sốc_lắm_mn_ạ/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-29T16:39:01+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nu7mc2</id>
+    <title>nvqs</title>
+    <updated>2025-09-30T08:22:33+00:00</updated>
+    <author>
+      <name>/u/Classic-Deer-2840</name>
+      <uri>https://old.reddit.com/user/Classic-Deer-2840</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;hôm trước em có đi khám mắt ở vòng sơ tuyển nhưng do lâu rồi không đeo kính cũng không rõ là bao nhiêu độ che mắt đọc bảng thì được 1/10 và 2/10 em cũng thấy hoang mang xong họ cũng bảo về đi rồi em ra bệnh viện khám thì hai mắt 2/10 và 3/10 mắt phải cận 2 độ loạn 1 mắt trái 0.5 độ loạn 2 thì em không biết họ có xét cho đi khám vòng 2 không và liệu lên đó có bị bùa không ạ nếu có thì phải làm sao mong được giải đáp ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Classic-Deer-2840"&gt; /u/Classic-Deer-2840 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nu7mc2/nvqs/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nu7mc2/nvqs/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nu7mc2/nvqs/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-30T08:22:33+00:00</published>
   </entry>
   <entry>
     <id>t3_1nu43xd</id>
@@ -112,19 +125,6 @@
     <published>2025-09-29T18:47:09+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nu7mc2</id>
-    <title>nvqs</title>
-    <updated>2025-09-30T08:22:33+00:00</updated>
-    <author>
-      <name>/u/Classic-Deer-2840</name>
-      <uri>https://old.reddit.com/user/Classic-Deer-2840</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;hôm trước em có đi khám mắt ở vòng sơ tuyển nhưng do lâu rồi không đeo kính cũng không rõ là bao nhiêu độ che mắt đọc bảng thì được 1/10 và 2/10 em cũng thấy hoang mang xong họ cũng bảo về đi rồi em ra bệnh viện khám thì hai mắt 2/10 và 3/10 mắt phải cận 2 độ loạn 1 mắt trái 0.5 độ loạn 2 thì em không biết họ có xét cho đi khám vòng 2 không và liệu lên đó có bị bùa không ạ nếu có thì phải làm sao mong được giải đáp ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Classic-Deer-2840"&gt; /u/Classic-Deer-2840 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nu7mc2/nvqs/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nu7mc2/nvqs/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nu7mc2/nvqs/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-30T08:22:33+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nu8aqn</id>
     <title>Cách xử lý khi sách bị ướt</title>
     <updated>2025-09-30T09:07:53+00:00</updated>
@@ -190,19 +190,6 @@
     <published>2025-09-30T08:10:20+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nu9n2m</id>
-    <title>Cúp điện thì cấp nguồn cho wifi có internet không?</title>
-    <updated>2025-09-30T10:33:09+00:00</updated>
-    <author>
-      <name>/u/only-huma</name>
-      <uri>https://old.reddit.com/user/only-huma</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Như tiêu đề. Mình ở quê, cúp điện khá thường xuyên, mỗi lần cúp cả ngày (lý do thường là sửa chữa, bảo trì lưới điện). Có ai làm bên mấy vụ điện, viễn thông cho mình hỏi, Nếu khi cúp điện thì cấp nguồn cho modem internet thì vẫn có mạng chứ hả?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/only-huma"&gt; /u/only-huma &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nu9n2m/cup_điên_thi_câp_nguôn_cho_wifi_co_internet_không/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nu9n2m/cup_điên_thi_câp_nguôn_cho_wifi_co_internet_không/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nu9n2m/cup_điên_thi_câp_nguôn_cho_wifi_co_internet_không/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-30T10:33:09+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nu53rd</id>
     <title>Bán hàng B2B ở Việt Nam</title>
     <updated>2025-09-30T05:42:53+00:00</updated>
@@ -229,19 +216,6 @@
     <published>2025-09-30T03:14:10+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nu5xwp</id>
-    <title>Tăng thu nhập, tìm nơi an cư?</title>
-    <updated>2025-09-30T06:34:31+00:00</updated>
-    <author>
-      <name>/u/thingneedtochange00</name>
-      <uri>https://old.reddit.com/user/thingneedtochange00</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em hỏi thật các bác bây giờ đã bao nhiêu tuổi rồi? Có nhà chưa hay đang thuê? Mấy nay em cảm thấy bế tắc thực sự vì giá nhà đua nhau lên, tốc độ tăng của giá nhà và thu nhập càng ngày càng xa nhau. &lt;/p&gt; &lt;p&gt;Em chỉ muốn có một ngồi nhà nhỏ/ căn chung cư be bé để sống thôi, hiện đang trọ trên HN làm việc mà gia đình cứ muốn em về quê, khổ nỗi về quê thì lương bèo, không có gì để làm nhiều.&lt;/p&gt; &lt;p&gt;Gia đình em nói chỉ hỗ trợ tối đa 1 tỏi, giờ em 24 tuổi, tích được hơn 1 trăm chút thôi. Cứ đà này chẳng biết bao giờ mua nổi nhà.&lt;/p&gt; &lt;p&gt;Em cũng có suy nghĩ đi tỉnh khác làm/ mua nhà, có bao nhiêu bác rời quê đi xa rồi ạ? Các bác thế nào rồi? Chia sẻ em để em có chút động lực với!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/thingneedtochange00"&gt; /u/thingneedtochange00 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nu5xwp/tăng_thu_nhập_tìm_nơi_an_cư/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nu5xwp/tăng_thu_nhập_tìm_nơi_an_cư/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nu5xwp/tăng_thu_nhập_tìm_nơi_an_cư/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-30T06:34:31+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1ntzn6o</id>
     <title>Em xin kinh nghiệm kinh doanh ạ !!</title>
     <updated>2025-09-30T01:04:50+00:00</updated>
@@ -253,6 +227,32 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ntzn6o/em_xin_kinh_nghiệm_kinh_doanh_ạ/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-30T01:04:50+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nu9n2m</id>
+    <title>Cúp điện thì cấp nguồn cho wifi có internet không?</title>
+    <updated>2025-09-30T10:33:09+00:00</updated>
+    <author>
+      <name>/u/only-huma</name>
+      <uri>https://old.reddit.com/user/only-huma</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Như tiêu đề. Mình ở quê, cúp điện khá thường xuyên, mỗi lần cúp cả ngày (lý do thường là sửa chữa, bảo trì lưới điện). Có ai làm bên mấy vụ điện, viễn thông cho mình hỏi, Nếu khi cúp điện thì cấp nguồn cho modem internet thì vẫn có mạng chứ hả?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/only-huma"&gt; /u/only-huma &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nu9n2m/cup_điên_thi_câp_nguôn_cho_wifi_co_internet_không/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nu9n2m/cup_điên_thi_câp_nguôn_cho_wifi_co_internet_không/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nu9n2m/cup_điên_thi_câp_nguôn_cho_wifi_co_internet_không/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-30T10:33:09+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nu5xwp</id>
+    <title>Tăng thu nhập, tìm nơi an cư?</title>
+    <updated>2025-09-30T06:34:31+00:00</updated>
+    <author>
+      <name>/u/thingneedtochange00</name>
+      <uri>https://old.reddit.com/user/thingneedtochange00</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em hỏi thật các bác bây giờ đã bao nhiêu tuổi rồi? Có nhà chưa hay đang thuê? Mấy nay em cảm thấy bế tắc thực sự vì giá nhà đua nhau lên, tốc độ tăng của giá nhà và thu nhập càng ngày càng xa nhau. &lt;/p&gt; &lt;p&gt;Em chỉ muốn có một ngồi nhà nhỏ/ căn chung cư be bé để sống thôi, hiện đang trọ trên HN làm việc mà gia đình cứ muốn em về quê, khổ nỗi về quê thì lương bèo, không có gì để làm nhiều.&lt;/p&gt; &lt;p&gt;Gia đình em nói chỉ hỗ trợ tối đa 1 tỏi, giờ em 24 tuổi, tích được hơn 1 trăm chút thôi. Cứ đà này chẳng biết bao giờ mua nổi nhà.&lt;/p&gt; &lt;p&gt;Em cũng có suy nghĩ đi tỉnh khác làm/ mua nhà, có bao nhiêu bác rời quê đi xa rồi ạ? Các bác thế nào rồi? Chia sẻ em để em có chút động lực với!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/thingneedtochange00"&gt; /u/thingneedtochange00 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nu5xwp/tăng_thu_nhập_tìm_nơi_an_cư/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nu5xwp/tăng_thu_nhập_tìm_nơi_an_cư/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nu5xwp/tăng_thu_nhập_tìm_nơi_an_cư/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-30T06:34:31+00:00</published>
   </entry>
   <entry>
     <id>t3_1nu84ui</id>
