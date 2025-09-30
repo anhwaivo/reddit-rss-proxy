@@ -2,37 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-09-30T17:15:38+00:00</updated>
+  <updated>2025-09-30T17:39:06+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1nuj32p</id>
-    <title>Lỗi Lầm</title>
-    <updated>2025-09-30T17:14:41+00:00</updated>
-    <author>
-      <name>/u/Consistent_Gas1590</name>
-      <uri>https://old.reddit.com/user/Consistent_Gas1590</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình nãy có dùng từ có ý nghĩa không được văn minh lắm ( trong môi trường lớp học ) , bây giờ mình phải làm sao để xin lỗi bạn ấy ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Consistent_Gas1590"&gt; /u/Consistent_Gas1590 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nuj32p/lỗi_lầm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nuj32p/lỗi_lầm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nuj32p/lỗi_lầm/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-30T17:14:41+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1nue2lb</id>
-    <title>bài hát</title>
-    <updated>2025-09-30T14:03:38+00:00</updated>
-    <author>
-      <name>/u/white-sheep-179</name>
-      <uri>https://old.reddit.com/user/white-sheep-179</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Anh chị bạn dì ơi, giúp em kiếm bài này với ạ. MV là của một anh mặc áo măng tô xanh có đeo một chiếc khăn len màu trắng hoặc nâu. Ảnh đứng ảnh hát giống như du học sinh. Bài này từ hôi xưa chắc 20 mười mấy mà hay dữ lắm. Em nghiền hồi nhỏ, giờ k nhớ raaa huhu&lt;/p&gt; &lt;p&gt;Có ai giúp em với ạ chứ tối nay không ngủ được luôn ạa&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/white-sheep-179"&gt; /u/white-sheep-179 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nue2lb/bài_hát/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nue2lb/bài_hát/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nue2lb/bài_hát/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-30T14:03:38+00:00</published>
-  </entry>
   <entry>
     <id>t3_1nuca3a</id>
     <title>Chứng chỉ quỹ</title>
@@ -84,19 +58,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nu7fn4/mình_hỏi_1_chút_về_đám_cưới/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-30T08:10:20+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1nuhbl7</id>
-    <title>Đi khám ADHD</title>
-    <updated>2025-09-30T16:07:47+00:00</updated>
-    <author>
-      <name>/u/Deathtothenafoid</name>
-      <uri>https://old.reddit.com/user/Deathtothenafoid</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình chuẩn bị đi khám để chuẩn đoán xem có bị adhd hay không thứ 6 tuần này. Bây giờ mình đã năm 4 rồi nhưng vẫn chưa đạt được thành tựu gì lớn trong học tập, nguyên 4 năm học thì thấy các môn học dễ lắm, nhiều môn không học gì cũng đã được 3.8 nhưng những môn cần tập trung thì mình không tập trung được và các bài tập nhóm thì mình bị trì hoãn và không thấu suốt được. Gia đình mình thấy bảng điểm số thì cũng có thể thấy rõ được sự chênh lệch đó và có hỏi, mình cũng kiểu giải thích mình có khả năng bị adhd nhưng cũng không thuyết phục được bởi chưa đi khám nên đây cũng chỉ là đoán mò và cơ bản thì các ông bố bà mẹ Châu Á không hiểu về bệnh này thì cũng suy ra là con mình lười. Nhưng mình cảm thấy đến ngưỡng nguy hiểm trong năm 4 rồi nên cũng không thể để cái tình trạng đoán mò đoán non rồi không làm gì được nữa, nên mình chuẩn bị chi ra 700k để khám, chưa kể nếu ra bệnh thật thì tiền thuốc còn bao nhiêu nữa. Nếu không có ra bệnh thì damn, mình bị lười hay bị khùng thật : ). Dù kết quả ra sao, mong bản thân này sẽ đấu tranh được. &lt;/p&gt; &lt;p&gt;Cảm ơn mọi người đã đọc, xin lỗi nếu văn của mình có hơi ngộ nghĩnh, trước giờ tiếng Việt của mình mọi người hay bảo là nghe mắc cười.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Deathtothenafoid"&gt; /u/Deathtothenafoid &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nuhbl7/đi_khám_adhd/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nuhbl7/đi_khám_adhd/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nuhbl7/đi_khám_adhd/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-30T16:07:47+00:00</published>
   </entry>
   <entry>
     <id>t3_1nu5xwp</id>
@@ -151,17 +112,17 @@
     <published>2025-09-30T16:51:19+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nuiwvg</id>
-    <title>TỰ HỦY HOẠI</title>
-    <updated>2025-09-30T17:08:08+00:00</updated>
+    <id>t3_1nuj867</id>
+    <title>Nhờ vả vào link wechat</title>
+    <updated>2025-09-30T17:19:47+00:00</updated>
     <author>
-      <name>/u/Artistic-Draft9288</name>
-      <uri>https://old.reddit.com/user/Artistic-Draft9288</uri>
+      <name>/u/truongvanhoc0236</name>
+      <uri>https://old.reddit.com/user/truongvanhoc0236</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em năm nay 17 tuổi, đang học cấp 3. Trước đây hay cãi lại cha mẹ, tính cách bốc đồng, hoang tưởng, bệnh hoạn, ngu dốt.Những thứ mà ba mẹ dạy dỗ em không chịu nghe vì nghĩ rằng nó sai, nhưng giờ thì hối hận. Emtự làm hỏng cuộc đời chính mình. Những thứ bình thường mà một người cần có như: mối quan hệ với gia đình, bạn bè, tính cách, tư duy phát triển,... thì em không có. Em đã tự hủy hoại những thứ đó và bây giờ muốn xây dựng lại thì nên làm gì ạ. Em mong nhận được lời khuyên và sẵn sàng chịu khổ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Artistic-Draft9288"&gt; /u/Artistic-Draft9288 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nuiwvg/tự_hủy_hoại/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nuiwvg/tự_hủy_hoại/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nuiwvg/tự_hủy_hoại/"/>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1nuj867/nhờ_vả_vào_link_wechat/"&gt; &lt;img alt="Nhờ vả vào link wechat" src="https://b.thumbs.redditmedia.com/qc0DEKm9hVqRQvydL8EG2b8rhsEfFlomtd1FzdlEnRo.jpg" title="Nhờ vả vào link wechat" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Có bác nào có acc wechat, có thể quét giúp em cái mã QR này xem giùm có video hướng dẫn lắp cái lồng đèn hình con lân không? Em mua về lắp cho con chơi mà không có hướng dẫn. Em mò cũng được kha khá nhưng còn cái sừng và cái chân chưa biết làm kiểu gì. Xin video shop bán trên shopee thì nó nói nó cũng không có... Cám ơn các bác&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/truongvanhoc0236"&gt; /u/truongvanhoc0236 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1nuj867"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nuj867/nhờ_vả_vào_link_wechat/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nuj867/nhờ_vả_vào_link_wechat/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-30T17:08:08+00:00</published>
+    <published>2025-09-30T17:19:47+00:00</published>
   </entry>
   <entry>
     <id>t3_1nudp5q</id>
@@ -188,6 +149,32 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nuedo2/bọn_đào_lửa_có_chi_tiết_thông_tin_cá_nhân_của/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-30T14:15:48+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nuhbl7</id>
+    <title>Đi khám ADHD</title>
+    <updated>2025-09-30T16:07:47+00:00</updated>
+    <author>
+      <name>/u/Deathtothenafoid</name>
+      <uri>https://old.reddit.com/user/Deathtothenafoid</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình chuẩn bị đi khám để chuẩn đoán xem có bị adhd hay không thứ 6 tuần này. Bây giờ mình đã năm 4 rồi nhưng vẫn chưa đạt được thành tựu gì lớn trong học tập, nguyên 4 năm học thì thấy các môn học dễ lắm, nhiều môn không học gì cũng đã được 3.8 nhưng những môn cần tập trung thì mình không tập trung được và các bài tập nhóm thì mình bị trì hoãn và không thấu suốt được. Gia đình mình thấy bảng điểm số thì cũng có thể thấy rõ được sự chênh lệch đó và có hỏi, mình cũng kiểu giải thích mình có khả năng bị adhd nhưng cũng không thuyết phục được bởi chưa đi khám nên đây cũng chỉ là đoán mò và cơ bản thì các ông bố bà mẹ Châu Á không hiểu về bệnh này thì cũng suy ra là con mình lười. Nhưng mình cảm thấy đến ngưỡng nguy hiểm trong năm 4 rồi nên cũng không thể để cái tình trạng đoán mò đoán non rồi không làm gì được nữa, nên mình chuẩn bị chi ra 700k để khám, chưa kể nếu ra bệnh thật thì tiền thuốc còn bao nhiêu nữa. Nếu không có ra bệnh thì damn, mình bị lười hay bị khùng thật : ). Dù kết quả ra sao, mong bản thân này sẽ đấu tranh được. &lt;/p&gt; &lt;p&gt;Cảm ơn mọi người đã đọc, xin lỗi nếu văn của mình có hơi ngộ nghĩnh, trước giờ tiếng Việt của mình mọi người hay bảo là nghe mắc cười.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Deathtothenafoid"&gt; /u/Deathtothenafoid &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nuhbl7/đi_khám_adhd/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nuhbl7/đi_khám_adhd/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nuhbl7/đi_khám_adhd/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-30T16:07:47+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nuhqy0</id>
+    <title>Duyên</title>
+    <updated>2025-09-30T16:24:14+00:00</updated>
+    <author>
+      <name>/u/Consistent_Gas1590</name>
+      <uri>https://old.reddit.com/user/Consistent_Gas1590</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mọi người ơi, chả là mình hay bị cái tật là nghĩ cái gì thì nói thẳng ra mà quên suy nghĩ tới cảm nhận của người đối diện nên dễ gây mất lòng. Mình đã nhận ra và cố gắng sửa nhưng chưa có cách nào hiệu quả. May mắn mình được tha lỗi , nhưng mà có cách nào để nói chuyện vừa có duyên vừa có tí hài không ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Consistent_Gas1590"&gt; /u/Consistent_Gas1590 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nuhqy0/duyên/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nuhqy0/duyên/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nuhqy0/duyên/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-30T16:24:14+00:00</published>
   </entry>
   <entry>
     <id>t3_1nu84ui</id>
@@ -305,6 +292,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nufldf/cảm_ơn_bố/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-30T15:02:54+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nuiwvg</id>
+    <title>TỰ HỦY HOẠI</title>
+    <updated>2025-09-30T17:08:08+00:00</updated>
+    <author>
+      <name>/u/Artistic-Draft9288</name>
+      <uri>https://old.reddit.com/user/Artistic-Draft9288</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em năm nay 17 tuổi, đang học cấp 3. Trước đây hay cãi lại cha mẹ, tính cách bốc đồng, hoang tưởng, bệnh hoạn, ngu dốt.Những thứ mà ba mẹ dạy dỗ em không chịu nghe vì nghĩ rằng nó sai, nhưng giờ thì hối hận. Emtự làm hỏng cuộc đời chính mình. Những thứ bình thường mà một người cần có như: mối quan hệ với gia đình, bạn bè, tính cách, tư duy phát triển,... thì em không có. Em đã tự hủy hoại những thứ đó và bây giờ muốn xây dựng lại thì nên làm gì ạ. Em mong nhận được lời khuyên và sẵn sàng chịu khổ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Artistic-Draft9288"&gt; /u/Artistic-Draft9288 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nuiwvg/tự_hủy_hoại/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nuiwvg/tự_hủy_hoại/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nuiwvg/tự_hủy_hoại/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-30T17:08:08+00:00</published>
   </entry>
   <entry>
     <id>t3_1nu4xt3</id>
