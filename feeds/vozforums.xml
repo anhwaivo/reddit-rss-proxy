@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-10-01T16:22:25+00:00</updated>
+  <updated>2025-10-01T16:45:38+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -112,19 +112,6 @@
     <published>2025-10-01T03:37:35+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nuzr71</id>
-    <title>USD đang tăng</title>
-    <updated>2025-10-01T05:20:15+00:00</updated>
-    <author>
-      <name>/u/SuyNhieuLan</name>
-      <uri>https://old.reddit.com/user/SuyNhieuLan</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;như tiêu đề thì em là sinh viên đang có 10 triệu ( đã trừ các khoản khác ) thì sáng nay em có coi đồng USD đã lên 26,400d. theo các bác thì em có nên mua vàng tích trữ không ạ em cảm ơn các bác&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/SuyNhieuLan"&gt; /u/SuyNhieuLan &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nuzr71/usd_đang_tăng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nuzr71/usd_đang_tăng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nuzr71/usd_đang_tăng/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-01T05:20:15+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nurrmf</id>
     <title>Thức khuya 12-1h sáng và dậy 8 giờ tốt hơn hay ngủ sớm 21-22h dậy 3h-4h tốt hơn?</title>
     <updated>2025-09-30T22:49:05+00:00</updated>
@@ -162,6 +149,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nv65qc/làm_grab_parttime/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-01T11:56:32+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nuzr71</id>
+    <title>USD đang tăng</title>
+    <updated>2025-10-01T05:20:15+00:00</updated>
+    <author>
+      <name>/u/SuyNhieuLan</name>
+      <uri>https://old.reddit.com/user/SuyNhieuLan</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;như tiêu đề thì em là sinh viên đang có 10 triệu ( đã trừ các khoản khác ) thì sáng nay em có coi đồng USD đã lên 26,400d. theo các bác thì em có nên mua vàng tích trữ không ạ em cảm ơn các bác&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/SuyNhieuLan"&gt; /u/SuyNhieuLan &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nuzr71/usd_đang_tăng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nuzr71/usd_đang_tăng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nuzr71/usd_đang_tăng/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-01T05:20:15+00:00</published>
   </entry>
   <entry>
     <id>t3_1nvch6n</id>
