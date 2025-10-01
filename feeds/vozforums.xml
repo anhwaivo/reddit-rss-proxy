@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-10-01T10:52:27+00:00</updated>
+  <updated>2025-10-01T11:15:56+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1nuyb3l</id>
-    <title>Có chuyện gì với web written chinese vậy?</title>
-    <updated>2025-10-01T04:00:50+00:00</updated>
-    <author>
-      <name>/u/Longjumping-You3949</name>
-      <uri>https://old.reddit.com/user/Longjumping-You3949</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mọi sáng mở mắt ngồi luyện chữ hán chill chill bằng app liên tục đã hai năm nay giờ nó không vào được nữa rồi Bình thường mình dùng written chinese để xem cách viết và bộ thủ và pleco để vẽ những chữ không biết nghĩa mà giờ mất một trong hai cảm giác lòng mình không được thoải mái Tiện đây có ai có web từ điển tiếng trung nào oke recommend mình với. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Longjumping-You3949"&gt; /u/Longjumping-You3949 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nuyb3l/có_chuyện_gì_với_web_written_chinese_vậy/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nuyb3l/có_chuyện_gì_với_web_written_chinese_vậy/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nuyb3l/có_chuyện_gì_với_web_written_chinese_vậy/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-01T04:00:50+00:00</published>
-  </entry>
   <entry>
     <id>t3_1nv27f9</id>
     <title>Let see</title>
@@ -47,19 +34,6 @@
     <published>2025-10-01T04:28:13+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nufldf</id>
-    <title>Cảm ơn bố</title>
-    <updated>2025-09-30T15:02:54+00:00</updated>
-    <author>
-      <name>/u/VietAnhisme</name>
-      <uri>https://old.reddit.com/user/VietAnhisme</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác! Hôm nay sinh nhật tuổi 17 của em, em cũng nghĩ chắc vài lời chúc từ người thân anh em bạn bè là được rồi (Em nghĩ bố em sẽ không nhớ tới bởi ông ấy và em không nói chuyện nhiều với nhau và ông ấy có 1 mớ việc ngoài kia). Nhưng em đã lầm, khá bất ngờ khi ông ấy mua 1 chiếc bánh kem tổ chức bữa tiệc sinh nhật nho nhỏ dành cho em. Tuy giá trị vật chất không cao nhưng về mặt tình cảm thì em đã biết ông ấy vẫn để tâm tới em🥲 Thực sự em cảm ơn bố em nhiều lắm!!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/VietAnhisme"&gt; /u/VietAnhisme &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nufldf/cảm_ơn_bố/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nufldf/cảm_ơn_bố/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nufldf/cảm_ơn_bố/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-30T15:02:54+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nuwev8</id>
     <title>nên làm shipper hay làm phục vụ quán cf anh em</title>
     <updated>2025-10-01T02:24:56+00:00</updated>
@@ -71,6 +45,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nuwev8/nên_làm_shipper_hay_làm_phục_vụ_quán_cf_anh_em/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-01T02:24:56+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nufldf</id>
+    <title>Cảm ơn bố</title>
+    <updated>2025-09-30T15:02:54+00:00</updated>
+    <author>
+      <name>/u/VietAnhisme</name>
+      <uri>https://old.reddit.com/user/VietAnhisme</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác! Hôm nay sinh nhật tuổi 17 của em, em cũng nghĩ chắc vài lời chúc từ người thân anh em bạn bè là được rồi (Em nghĩ bố em sẽ không nhớ tới bởi ông ấy và em không nói chuyện nhiều với nhau và ông ấy có 1 mớ việc ngoài kia). Nhưng em đã lầm, khá bất ngờ khi ông ấy mua 1 chiếc bánh kem tổ chức bữa tiệc sinh nhật nho nhỏ dành cho em. Tuy giá trị vật chất không cao nhưng về mặt tình cảm thì em đã biết ông ấy vẫn để tâm tới em🥲 Thực sự em cảm ơn bố em nhiều lắm!!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/VietAnhisme"&gt; /u/VietAnhisme &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nufldf/cảm_ơn_bố/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nufldf/cảm_ơn_bố/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nufldf/cảm_ơn_bố/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-30T15:02:54+00:00</published>
   </entry>
   <entry>
     <id>t3_1nv30n0</id>
@@ -125,17 +112,17 @@
     <published>2025-10-01T05:43:02+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nv41i6</id>
-    <title>Mùi sơn tường - tưởng không hại mà hại không tưởng</title>
-    <updated>2025-10-01T09:58:04+00:00</updated>
+    <id>t3_1nu4xt3</id>
+    <title>Bạn trai bảo tiêu 2 tr/ tháng là quá nhiều</title>
+    <updated>2025-09-30T05:32:46+00:00</updated>
     <author>
-      <name>/u/Life_Buy1408</name>
-      <uri>https://old.reddit.com/user/Life_Buy1408</uri>
+      <name>/u/Public_Squirrel_7757</name>
+      <uri>https://old.reddit.com/user/Public_Squirrel_7757</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Khi mới sơn sửa nhà, nhiều người thường nghĩ chỉ cần “ngửi hơi khó chịu một chút, mở cửa vài hôm sẽ hết”. Nhưng thực tế, mùi sơn không chỉ gây khó chịu tức thời, mà còn tiềm ẩn hàng loạt tác hại lâu dài cho sức khỏe.&lt;/p&gt; &lt;h1&gt;Vì sao sơn lại độc hại?&lt;/h1&gt; &lt;p&gt;Trong các loại sơn (sơn tường, sơn gỗ, sơn kim loại…), có chứa hợp chất hữu cơ bay hơi (VOC) – nổi bật là &lt;a href="https://airproce.com.vn/may-loc-khong-khi-loc-formaldehyde/"&gt;formaldehyde&lt;/a&gt;, toluene, xylene, benzene. Đây là những hóa chất dễ phát tán vào không khí, tạo thành mùi hăng nồng đặc trưng.&lt;/p&gt; &lt;p&gt;Đặc biệt, formaldehyde trong sơn có thể tồn tại trong môi trường suốt nhiều tháng, thậm chí nhiều năm sau khi công trình đã hoàn thiện.&lt;/p&gt; &lt;h1&gt;Tác hại của mùi sơn đối với sức khỏe:&lt;/h1&gt; &lt;ol&gt; &lt;li&gt;Ảnh hưởng tức thì &lt;ul&gt; &lt;li&gt;Cay mắt, chảy nước mắt.&lt;/li&gt; &lt;li&gt;Đau đầu, chóng mặt, buồn nôn.&lt;/li&gt; &lt;li&gt;Ngạt mũi, khó thở, khô họng.&lt;/li&gt; &lt;/ul&gt;&lt;/li&gt; &lt;li&gt;Ảnh hưởng lâu dài &lt;ul&gt; &lt;li&gt;Gây kích ứng phế quản, làm nặng thêm bệnh hen suyễn hoặc viêm mũi dị ứng.&lt;/li&gt; &lt;li&gt;Ảnh hưởng hệ thần kinh: giảm tập trung, gây rối loạn giấc ngủ, mệt mỏi triền miên.&lt;/li&gt; &lt;li&gt;Một số dung môi trong sơn (như benzene) đã được WHO xếp vào nhóm chất gây ung thư khi tiếp xúc lâu dài.&lt;/li&gt; &lt;/ul&gt;&lt;/li&gt; &lt;li&gt;Nguy hiểm đặc biệt với trẻ em và phụ nữ mang thai &lt;ul&gt; &lt;li&gt;Trẻ nhỏ dễ bị tổn thương đường hô hấp và hệ miễn dịch còn non yếu.&lt;/li&gt; &lt;li&gt;Phụ nữ mang thai hít phải khí sơn trong thời gian dài có thể ảnh hưởng đến sự phát triển thần kinh và hô hấp của thai nhi.&lt;/li&gt; &lt;/ul&gt;&lt;/li&gt; &lt;/ol&gt; &lt;h1&gt;💡 Làm gì để giảm tác hại từ mùi sơn?&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;Chọn sơn ít VOC hoặc sơn gốc nước để hạn chế hóa chất độc hại.&lt;/li&gt; &lt;li&gt;Thông gió thường xuyên, mở cửa sổ và sử dụng quạt hút gió sau khi sơn.&lt;/li&gt; &lt;li&gt;Đặt thêm cây xanh như lưỡi hổ, trầu bà, nha đam… để hỗ trợ hấp thụ khí độc.&lt;/li&gt; &lt;li&gt;Sử dụng máy lọc không khí có than hoạt tính để hấp phụ các hợp chất hữu cơ bay hơi.&lt;/li&gt; &lt;li&gt;Tránh để trẻ nhỏ, phụ nữ mang thai ở lâu trong khu vực vừa sơn sửa.&lt;/li&gt; &lt;/ul&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Life_Buy1408"&gt; /u/Life_Buy1408 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nv41i6/mùi_sơn_tường_tưởng_không_hại_mà_hại_không_tưởng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nv41i6/mùi_sơn_tường_tưởng_không_hại_mà_hại_không_tưởng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nv41i6/mùi_sơn_tường_tưởng_không_hại_mà_hại_không_tưởng/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác, đợt rồi em và bạn trai có cãi nhau về vụ tiền bạc căng quá nên muốn lên đây chia sẻ xem các bác thấy em có đang nhạy cảm quá về chuyện tiền bạc như bạn trai em bảo k?&lt;/p&gt; &lt;p&gt;Em là nữ 23t, đợt rồi em có mua một căn chung cư nho nhỏ tầm 3 tỉ. Hiện tại em có mỗi 200tr thôi nhưng do mẹ em có bảo sẽ cho em vay 2t8 để mua nên em cũng cắn răng chốt do giá khá oke và sợ sau này nhà tăng giá sẽ khó mua hơn.&lt;/p&gt; &lt;p&gt;Hôm trước có đi chơi vs bạn trai (24t làm bộ đội) em lỡ nói vs anh ý là em mới mua nhà. Cứ ngỡ là được khích lệ động viên ai dè anh ny em lại bĩu môi bảo thế nợ bao nhiêu. Rồi anh tràng giang đại hải về việc nhà a ý không baoh dám vay nợ vì mỗi tháng phải trả lãi nhiều thế này thế kia. Em bảo e có vay được mẹ thì a ý bảo &amp;quot;Ừ, thế do em may. Chứ em nghĩ không có mẹ em thì em có mua được k?&amp;quot;&lt;/p&gt; &lt;p&gt;Sau đó a ny hỏi em là tháng e tiêu bao nhiêu tiền, e bảo e chỉ tiêu 2 triệu còn lại sẽ trả nợ cho mẹ thì anh ý lại xì, nói rằng tiêu 2 triệu/ tháng trong khi ở nhà vs bố mẹ là quá nhiều, bình thường a ý ở đơn vị còn k tiêu đồng nào. Điều a ý nói khiến e ngã ngửa vì theo em tháng chỉ tiêu có 2 triệu đã là quá ít, em còn phải cắt toàn bộ khoản quần áo mỹ phẩm trong khi những bạn nữ khác tầm tuổi em, tháng kiếm ít hơn còn tiêu nhiều hơn 2 triệu. Giờ thì e chỉ cần tưởng tượng sau này lỡ lấy về anh ý sẽ bắt em tiêu mỗi tháng 1 triệu quá, trong khi mẹ và em gái a ý vẫn chi tiêu thoải mái mà a ý k nói gì (do mẹ và em gái a ý ăn mặc khá thời trang, nhà em khá giả hơn mà em và mẹ chưa dám mua nhiều quần áo thế baoh). Chưa kể a ý bảo em là lương tháng a ý làm bộ đội tầm 15tr mà k tiêu đồng nào thì không đúng vì tiền ma chay hiếu hỉ, tiền a ý chơi bi-a với bạn chả lẽ là xin bố mẹ. Anh ý vẫn ăn và chơi như thường mà bắt em vén sống 1 tháng chỉ triệu do &amp;quot;em còn đang nợ chứ anh có nợ đâu&amp;quot; càng khiến em tức giận. Quan điểm em vẫn là nâng cao thu nhập chứ 1 triệu/ tháng thật sự k sống nổi kể cả đang nợ.&lt;/p&gt; &lt;p&gt;Em thấy buồn và tủi thân quá mọi người ah, người yêu em thì từ đầu đã xác định không baoh mua nổi nhà nhưng em cứ nghĩ em mua nhà được thì ny phải ủng hộ. Đằng này anh ý lại tỏ thái độ tiêu cực và không ủng hộ khiến em rất chán nản. Em xác định tiền nợ mua nhà này do em trả mà a còn đế thêm vào là đừng kéo a ý vào đống nợ của em (em chưa từng nói để a ý trả nợ hộ). Giờ tuy vẫn còn tình cảm nhưng em thật sự k còn có thể nói chuyện và làm nũng với anh ny thoải mái như trước nữa. Trong đầu em cũng nhen nhóm suy nghĩ sẽ chia tay, mong mọi người tư vấn cho em với ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Public_Squirrel_7757"&gt; /u/Public_Squirrel_7757 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nu4xt3/bạn_trai_bảo_tiêu_2_tr_tháng_là_quá_nhiều/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nu4xt3/bạn_trai_bảo_tiêu_2_tr_tháng_là_quá_nhiều/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nu4xt3/bạn_trai_bảo_tiêu_2_tr_tháng_là_quá_nhiều/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-01T09:58:04+00:00</published>
+    <published>2025-09-30T05:32:46+00:00</published>
   </entry>
   <entry>
     <id>t3_1nurrmf</id>
@@ -151,17 +138,30 @@
     <published>2025-09-30T22:49:05+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nu4xt3</id>
-    <title>Bạn trai bảo tiêu 2 tr/ tháng là quá nhiều</title>
-    <updated>2025-09-30T05:32:46+00:00</updated>
+    <id>t3_1nv4z4z</id>
+    <title>Học ngôn ngữ</title>
+    <updated>2025-10-01T10:53:37+00:00</updated>
     <author>
-      <name>/u/Public_Squirrel_7757</name>
-      <uri>https://old.reddit.com/user/Public_Squirrel_7757</uri>
+      <name>/u/Hour_Knowledge2481</name>
+      <uri>https://old.reddit.com/user/Hour_Knowledge2481</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác, đợt rồi em và bạn trai có cãi nhau về vụ tiền bạc căng quá nên muốn lên đây chia sẻ xem các bác thấy em có đang nhạy cảm quá về chuyện tiền bạc như bạn trai em bảo k?&lt;/p&gt; &lt;p&gt;Em là nữ 23t, đợt rồi em có mua một căn chung cư nho nhỏ tầm 3 tỉ. Hiện tại em có mỗi 200tr thôi nhưng do mẹ em có bảo sẽ cho em vay 2t8 để mua nên em cũng cắn răng chốt do giá khá oke và sợ sau này nhà tăng giá sẽ khó mua hơn.&lt;/p&gt; &lt;p&gt;Hôm trước có đi chơi vs bạn trai (24t làm bộ đội) em lỡ nói vs anh ý là em mới mua nhà. Cứ ngỡ là được khích lệ động viên ai dè anh ny em lại bĩu môi bảo thế nợ bao nhiêu. Rồi anh tràng giang đại hải về việc nhà a ý không baoh dám vay nợ vì mỗi tháng phải trả lãi nhiều thế này thế kia. Em bảo e có vay được mẹ thì a ý bảo &amp;quot;Ừ, thế do em may. Chứ em nghĩ không có mẹ em thì em có mua được k?&amp;quot;&lt;/p&gt; &lt;p&gt;Sau đó a ny hỏi em là tháng e tiêu bao nhiêu tiền, e bảo e chỉ tiêu 2 triệu còn lại sẽ trả nợ cho mẹ thì anh ý lại xì, nói rằng tiêu 2 triệu/ tháng trong khi ở nhà vs bố mẹ là quá nhiều, bình thường a ý ở đơn vị còn k tiêu đồng nào. Điều a ý nói khiến e ngã ngửa vì theo em tháng chỉ tiêu có 2 triệu đã là quá ít, em còn phải cắt toàn bộ khoản quần áo mỹ phẩm trong khi những bạn nữ khác tầm tuổi em, tháng kiếm ít hơn còn tiêu nhiều hơn 2 triệu. Giờ thì e chỉ cần tưởng tượng sau này lỡ lấy về anh ý sẽ bắt em tiêu mỗi tháng 1 triệu quá, trong khi mẹ và em gái a ý vẫn chi tiêu thoải mái mà a ý k nói gì (do mẹ và em gái a ý ăn mặc khá thời trang, nhà em khá giả hơn mà em và mẹ chưa dám mua nhiều quần áo thế baoh). Chưa kể a ý bảo em là lương tháng a ý làm bộ đội tầm 15tr mà k tiêu đồng nào thì không đúng vì tiền ma chay hiếu hỉ, tiền a ý chơi bi-a với bạn chả lẽ là xin bố mẹ. Anh ý vẫn ăn và chơi như thường mà bắt em vén sống 1 tháng chỉ triệu do &amp;quot;em còn đang nợ chứ anh có nợ đâu&amp;quot; càng khiến em tức giận. Quan điểm em vẫn là nâng cao thu nhập chứ 1 triệu/ tháng thật sự k sống nổi kể cả đang nợ.&lt;/p&gt; &lt;p&gt;Em thấy buồn và tủi thân quá mọi người ah, người yêu em thì từ đầu đã xác định không baoh mua nổi nhà nhưng em cứ nghĩ em mua nhà được thì ny phải ủng hộ. Đằng này anh ý lại tỏ thái độ tiêu cực và không ủng hộ khiến em rất chán nản. Em xác định tiền nợ mua nhà này do em trả mà a còn đế thêm vào là đừng kéo a ý vào đống nợ của em (em chưa từng nói để a ý trả nợ hộ). Giờ tuy vẫn còn tình cảm nhưng em thật sự k còn có thể nói chuyện và làm nũng với anh ny thoải mái như trước nữa. Trong đầu em cũng nhen nhóm suy nghĩ sẽ chia tay, mong mọi người tư vấn cho em với ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Public_Squirrel_7757"&gt; /u/Public_Squirrel_7757 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nu4xt3/bạn_trai_bảo_tiêu_2_tr_tháng_là_quá_nhiều/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nu4xt3/bạn_trai_bảo_tiêu_2_tr_tháng_là_quá_nhiều/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nu4xt3/bạn_trai_bảo_tiêu_2_tr_tháng_là_quá_nhiều/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác, cho em hỏi làm biên - phiên dịch hiện tại và tương lai xa nên học về ngôn ngữ nào ạ? về độ cạnh tranh, tiềm năng, độ khó, thu nhập... của ngành nghề này trong ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Hour_Knowledge2481"&gt; /u/Hour_Knowledge2481 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nv4z4z/học_ngôn_ngữ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nv4z4z/học_ngôn_ngữ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nv4z4z/học_ngôn_ngữ/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-30T05:32:46+00:00</published>
+    <published>2025-10-01T10:53:37+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nv50lh</id>
+    <title>khát vọng thỏa mãn ước mơ của những sử gia</title>
+    <updated>2025-10-01T10:56:02+00:00</updated>
+    <author>
+      <name>/u/Plus-Perspective2037</name>
+      <uri>https://old.reddit.com/user/Plus-Perspective2037</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;xin chào ae như ae đã bt thành cát tư hãn và 3 vị đại hãn mông cổ khác mông kha oa khoát đài hốt tất liệt đều chưa tìm thấy lăng mộ ko bt họ hậu táng kiểu j mà các hoàng đế trung hoa thường dựng lên 1 quả đồi giả rồi chôn ở trỏng điều này gây ra sự vừa tò mò vừa hoang mang của rất nhiều sử gia tôi quyết tâm tìm ra lăng mộ của ổng trong tương lai ko bt có ae nào có thiện chí vs cuộc phiêu lưu này ko hãy nhớ chỉ cần tìm ra thì cả đoàn sẽ lưu danh hậu thế làm rạng danh sử việt&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Plus-Perspective2037"&gt; /u/Plus-Perspective2037 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nv50lh/khát_vọng_thỏa_mãn_ước_mơ_của_những_sử_gia/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nv50lh/khát_vọng_thỏa_mãn_ước_mơ_của_những_sử_gia/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nv50lh/khát_vọng_thỏa_mãn_ước_mơ_của_những_sử_gia/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-01T10:56:02+00:00</published>
   </entry>
   <entry>
     <id>t3_1nue30j</id>
@@ -203,19 +203,6 @@
     <published>2025-10-01T03:13:49+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nv0wse</id>
-    <title>Chứng chỉ Anh Văn trang trí</title>
-    <updated>2025-10-01T06:30:39+00:00</updated>
-    <author>
-      <name>/u/NickWildidc</name>
-      <uri>https://old.reddit.com/user/NickWildidc</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Cho tôi hỏi theo mọi người chứng chỉ Anh Văn nào là đẹp nhất để trang trí cho người ta mướn mình dạy kèm (mà trả nhiều tiền nhất). Nếu là người trong nghề đi dạy có thể rộng lượng chỉ cho tôi con đường đại khái tôi rất cảm ơn.&lt;/p&gt; &lt;p&gt;Giờ tôi nghèo quá rồi, công ty hết việc mới thứ 4 đã kêu nghỉ, tôi đang muốn đi dạy kèm tiếng Anh để kiếm thêm. &lt;/p&gt; &lt;p&gt;Tôi không rõ trình độ mình ở đâu. Giờ so sánh tôi hay ví dụ tiếng Anh như tay trái, tiếng Việt như tay phải, tay trái yếu hơn tay phải do tay phải là tay thuận là dễ hiểu nhất.&lt;/p&gt; &lt;p&gt;Tôi thử kiểm tra trình độ lớp IELTS tháng trước, 4 cấp lớp: dự bị, cấp 1, cấp 2, cấp 3. Người ta kêu tôi học lớp cấp 2 cho quen rồi lên cấp 3 để tối đa điểm với 1 lần thi. Kinh phí học cứ cho là dưới 10tr đi.&lt;/p&gt; &lt;p&gt;Tôi chỉ biết IELTS có nghe nói đọc viết thôi chứ không biết chứng chỉ gì khác đâu, chửi tôi ngu cũng được mà.&lt;/p&gt; &lt;p&gt;Điểm mạnh của tôi là viết tiểu luận (tôi nghĩ vậy và điểm kiểm tra thử của tôi cũng cao). Tôi hay viết ở tiếng Anh rồi dịch qua tiếng Việt để luồng tư duy nó bị hạn chế bớt để tránh lan man.&lt;/p&gt; &lt;p&gt;Tôi hiện đang làm kỹ sư sử dụng tiếng Anh giao tiếp hằng ngày, nhưng như đề cập ở trên ấy, công ty tôi đang làm sắp toang rồi, tôi làm việc này 8 năm từ lúc ra trường. Hiện tại tôi không muốn làm gì liên quan đến kỹ thuật nữa, tôi bị mệt môi trường đó rồi. Chủ yếu tôi như thằng thông dịch, nhận việc từ sếp, khách hàng, hợp đồng rồi dịch lại cho ace phòng ban khác. Mọi người hay nói tôi đi dạy cũng được nên giờ tôi tích cực nghĩ đến chuyện đi dạy Anh Văn nghiêm túc.&lt;/p&gt; &lt;p&gt;Mong mọi người giúp đỡ, tôi cảm ơn.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/NickWildidc"&gt; /u/NickWildidc &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nv0wse/chứng_chỉ_anh_văn_trang_trí/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nv0wse/chứng_chỉ_anh_văn_trang_trí/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nv0wse/chứng_chỉ_anh_văn_trang_trí/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-01T06:30:39+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nugv7f</id>
     <title>MUỐN CÓ BẠN TRAI</title>
     <updated>2025-09-30T15:50:49+00:00</updated>
@@ -242,17 +229,17 @@
     <published>2025-10-01T03:37:35+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nv43mj</id>
-    <title>BCA tuyển công an nữ</title>
-    <updated>2025-10-01T10:01:24+00:00</updated>
+    <id>t3_1nv0wse</id>
+    <title>Chứng chỉ Anh Văn trang trí</title>
+    <updated>2025-10-01T06:30:39+00:00</updated>
     <author>
-      <name>/u/ApplicationThis3504</name>
-      <uri>https://old.reddit.com/user/ApplicationThis3504</uri>
+      <name>/u/NickWildidc</name>
+      <uri>https://old.reddit.com/user/NickWildidc</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Trong dòng họ em có ng làm công an rồi thông tin đến gia đình là có tuyển công dân nữ đi nghĩa vụ công an, em nói không nên nhưng ba em không tin, có cách nào cho ba em tin hay không ? &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ApplicationThis3504"&gt; /u/ApplicationThis3504 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nv43mj/bca_tuyển_công_an_nữ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nv43mj/bca_tuyển_công_an_nữ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nv43mj/bca_tuyển_công_an_nữ/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Cho tôi hỏi theo mọi người chứng chỉ Anh Văn nào là đẹp nhất để trang trí cho người ta mướn mình dạy kèm (mà trả nhiều tiền nhất). Nếu là người trong nghề đi dạy có thể rộng lượng chỉ cho tôi con đường đại khái tôi rất cảm ơn.&lt;/p&gt; &lt;p&gt;Giờ tôi nghèo quá rồi, công ty hết việc mới thứ 4 đã kêu nghỉ, tôi đang muốn đi dạy kèm tiếng Anh để kiếm thêm. &lt;/p&gt; &lt;p&gt;Tôi không rõ trình độ mình ở đâu. Giờ so sánh tôi hay ví dụ tiếng Anh như tay trái, tiếng Việt như tay phải, tay trái yếu hơn tay phải do tay phải là tay thuận là dễ hiểu nhất.&lt;/p&gt; &lt;p&gt;Tôi thử kiểm tra trình độ lớp IELTS tháng trước, 4 cấp lớp: dự bị, cấp 1, cấp 2, cấp 3. Người ta kêu tôi học lớp cấp 2 cho quen rồi lên cấp 3 để tối đa điểm với 1 lần thi. Kinh phí học cứ cho là dưới 10tr đi.&lt;/p&gt; &lt;p&gt;Tôi chỉ biết IELTS có nghe nói đọc viết thôi chứ không biết chứng chỉ gì khác đâu, chửi tôi ngu cũng được mà.&lt;/p&gt; &lt;p&gt;Điểm mạnh của tôi là viết tiểu luận (tôi nghĩ vậy và điểm kiểm tra thử của tôi cũng cao). Tôi hay viết ở tiếng Anh rồi dịch qua tiếng Việt để luồng tư duy nó bị hạn chế bớt để tránh lan man.&lt;/p&gt; &lt;p&gt;Tôi hiện đang làm kỹ sư sử dụng tiếng Anh giao tiếp hằng ngày, nhưng như đề cập ở trên ấy, công ty tôi đang làm sắp toang rồi, tôi làm việc này 8 năm từ lúc ra trường. Hiện tại tôi không muốn làm gì liên quan đến kỹ thuật nữa, tôi bị mệt môi trường đó rồi. Chủ yếu tôi như thằng thông dịch, nhận việc từ sếp, khách hàng, hợp đồng rồi dịch lại cho ace phòng ban khác. Mọi người hay nói tôi đi dạy cũng được nên giờ tôi tích cực nghĩ đến chuyện đi dạy Anh Văn nghiêm túc.&lt;/p&gt; &lt;p&gt;Mong mọi người giúp đỡ, tôi cảm ơn.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/NickWildidc"&gt; /u/NickWildidc &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nv0wse/chứng_chỉ_anh_văn_trang_trí/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nv0wse/chứng_chỉ_anh_văn_trang_trí/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nv0wse/chứng_chỉ_anh_văn_trang_trí/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-01T10:01:24+00:00</published>
+    <published>2025-10-01T06:30:39+00:00</published>
   </entry>
   <entry>
     <id>t3_1nuy4j1</id>
@@ -268,6 +255,19 @@
     <published>2025-10-01T03:51:01+00:00</published>
   </entry>
   <entry>
+    <id>t3_1nv43mj</id>
+    <title>BCA tuyển công an nữ</title>
+    <updated>2025-10-01T10:01:24+00:00</updated>
+    <author>
+      <name>/u/ApplicationThis3504</name>
+      <uri>https://old.reddit.com/user/ApplicationThis3504</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Trong dòng họ em có ng làm công an rồi thông tin đến gia đình là có tuyển công dân nữ đi nghĩa vụ công an, em nói không nên nhưng ba em không tin, có cách nào cho ba em tin hay không ? &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ApplicationThis3504"&gt; /u/ApplicationThis3504 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nv43mj/bca_tuyển_công_an_nữ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nv43mj/bca_tuyển_công_an_nữ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nv43mj/bca_tuyển_công_an_nữ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-01T10:01:24+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1nv2z3s</id>
     <title>Xin tip ngưng ngủ ngáy cho nam!!</title>
     <updated>2025-10-01T08:47:58+00:00</updated>
@@ -281,19 +281,6 @@
     <published>2025-10-01T08:47:58+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nuledz</id>
-    <title>Ghét em trai của người yêu</title>
-    <updated>2025-09-30T18:39:52+00:00</updated>
-    <author>
-      <name>/u/LowOrganization4457</name>
-      <uri>https://old.reddit.com/user/LowOrganization4457</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình là nữ sn2k còn người yêu mình sn97 và có thằng em trai sn98. Em của người yêu mình là 1 thằng (xin phép gọi là thằng vì mình thật sự quá ghét) rất phá và báo gia đình. Tụi mình quen nhau được 2 năm và trong khoảng tgian đó thì ny mình luôn kể cho mình nghe về những chuyện của thằng em trai, nó gây chuyện rồi luôn báo ny mình gánh hậu quả cho, lúc thì thay nó trả nợ, lúc thì đứng ra giúp nó đền tiền cho ngta, ... Lần này thì nó làm con khác có bầu rồi báo về nhà kêu nhà lo đám cưới cho nó. Ba mẹ của ny mình thì làm nông nên không khá giả gì, và ny mình phải đứng ra mua vàng cưới để đưa ba mẹ trao cho nó trong đám cưới. Mình ko biết có phải mình ích kỉ quá hay ko nhưng mình thấy thật vô lý và đáng ra nó phải tự mua vàng để đưa ba mẹ trao lại cho nó chứ ny mình tại sao phải gánh cái khoản vàng cưới này. Mình đã có khuyên nhủ ny mình hết mức nhưng anh vẫn lý do vì nó là em anh, nó ko đủ khôn để nhận thức đc nên anh phải gánh thay cho dù anh thật sự rất mệt mỏi. Mình không biết mình suy nghĩ vậy có đúng hay không nhưng càng nghĩ mình càng ko chấp nhận được. Mọi người có thể cho mình ý kiến được ko.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/LowOrganization4457"&gt; /u/LowOrganization4457 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nuledz/ghét_em_trai_của_người_yêu/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nuledz/ghét_em_trai_của_người_yêu/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nuledz/ghét_em_trai_của_người_yêu/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-09-30T18:39:52+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nucxc8</id>
     <title>Vào thẳng vấn đề NVQS</title>
     <updated>2025-09-30T13:16:11+00:00</updated>
@@ -305,6 +292,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nucxc8/vào_thẳng_vấn_đề_nvqs/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-09-30T13:16:11+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nuledz</id>
+    <title>Ghét em trai của người yêu</title>
+    <updated>2025-09-30T18:39:52+00:00</updated>
+    <author>
+      <name>/u/LowOrganization4457</name>
+      <uri>https://old.reddit.com/user/LowOrganization4457</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình là nữ sn2k còn người yêu mình sn97 và có thằng em trai sn98. Em của người yêu mình là 1 thằng (xin phép gọi là thằng vì mình thật sự quá ghét) rất phá và báo gia đình. Tụi mình quen nhau được 2 năm và trong khoảng tgian đó thì ny mình luôn kể cho mình nghe về những chuyện của thằng em trai, nó gây chuyện rồi luôn báo ny mình gánh hậu quả cho, lúc thì thay nó trả nợ, lúc thì đứng ra giúp nó đền tiền cho ngta, ... Lần này thì nó làm con khác có bầu rồi báo về nhà kêu nhà lo đám cưới cho nó. Ba mẹ của ny mình thì làm nông nên không khá giả gì, và ny mình phải đứng ra mua vàng cưới để đưa ba mẹ trao cho nó trong đám cưới. Mình ko biết có phải mình ích kỉ quá hay ko nhưng mình thấy thật vô lý và đáng ra nó phải tự mua vàng để đưa ba mẹ trao lại cho nó chứ ny mình tại sao phải gánh cái khoản vàng cưới này. Mình đã có khuyên nhủ ny mình hết mức nhưng anh vẫn lý do vì nó là em anh, nó ko đủ khôn để nhận thức đc nên anh phải gánh thay cho dù anh thật sự rất mệt mỏi. Mình không biết mình suy nghĩ vậy có đúng hay không nhưng càng nghĩ mình càng ko chấp nhận được. Mọi người có thể cho mình ý kiến được ko.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/LowOrganization4457"&gt; /u/LowOrganization4457 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nuledz/ghét_em_trai_của_người_yêu/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nuledz/ghét_em_trai_của_người_yêu/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nuledz/ghét_em_trai_của_người_yêu/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-09-30T18:39:52+00:00</published>
   </entry>
   <entry>
     <id>t3_1nuxb67</id>
