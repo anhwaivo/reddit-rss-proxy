@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-10-02T10:40:18+00:00</updated>
+  <updated>2025-10-02T10:50:01+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -138,19 +138,6 @@
     <published>2025-10-01T16:53:18+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nvua9d</id>
-    <title>Thắc mắc về zalo</title>
-    <updated>2025-10-02T04:31:18+00:00</updated>
-    <author>
-      <name>/u/lam_vu</name>
-      <uri>https://old.reddit.com/user/lam_vu</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, trong zalo có tính năng chặn tìm kiếm bằng sdt nhưng thực sự nó chưa phải là chặn, nếu ta lưu lại số đó thì vẫn có thể thấy được người đó và gửi kb bình thường, nhưng không biết là có khác biệt gì so với khi tắt chặn không, mong mọi người chia sẻ &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/lam_vu"&gt; /u/lam_vu &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nvua9d/thắc_mắc_về_zalo/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nvua9d/thắc_mắc_về_zalo/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nvua9d/thắc_mắc_về_zalo/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-02T04:31:18+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nvye1p</id>
     <title>Tiếng trung xnk</title>
     <updated>2025-10-02T08:42:19+00:00</updated>
@@ -175,6 +162,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nvrlmi/nuôi_cá_trong_bể_mini_trong_phòng/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-02T02:13:50+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nvua9d</id>
+    <title>Thắc mắc về zalo</title>
+    <updated>2025-10-02T04:31:18+00:00</updated>
+    <author>
+      <name>/u/lam_vu</name>
+      <uri>https://old.reddit.com/user/lam_vu</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, trong zalo có tính năng chặn tìm kiếm bằng sdt nhưng thực sự nó chưa phải là chặn, nếu ta lưu lại số đó thì vẫn có thể thấy được người đó và gửi kb bình thường, nhưng không biết là có khác biệt gì so với khi tắt chặn không, mong mọi người chia sẻ &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/lam_vu"&gt; /u/lam_vu &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nvua9d/thắc_mắc_về_zalo/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nvua9d/thắc_mắc_về_zalo/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nvua9d/thắc_mắc_về_zalo/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-02T04:31:18+00:00</published>
   </entry>
   <entry>
     <id>t3_1nw06v8</id>
@@ -229,19 +229,6 @@
     <published>2025-10-02T08:04:22+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nvz3sw</id>
-    <title>Tư vấn học tiếng anh giao tiếp</title>
-    <updated>2025-10-02T09:28:02+00:00</updated>
-    <author>
-      <name>/u/DayPrudent6710</name>
-      <uri>https://old.reddit.com/user/DayPrudent6710</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác,&lt;br /&gt; Em đang chuẩn bị học tiếng anh giao tiếp để phục vụ công việc, mong được các bác có kinh nghiệm tư vấn giúp em.&lt;/p&gt; &lt;p&gt;Hiện tại em đã có B1 4 kỹ năng từ đại học, nghe hiểu khoảng 80%, từ vựng ổn, từng học hết từ vựng trên app Memrise và khi học em có luyện phát âm từng từ. Tuy nhiên, em rất ít khi giao tiếp, gần như không giao tiếp tiếng anh từ khi thi kỹ năng nói B1, chỉ dùng tiếng Anh trong công việc để đọc tài liệu.&lt;/p&gt; &lt;p&gt;Vậy em nên học từ khóa giao tiếp nào ạ:&lt;br /&gt; + Nền tảng → cơ bản (A1–A2)&lt;br /&gt; + Cơ bản → trung cấp (A1–B1)&lt;br /&gt; + Trung cấp → nâng cao (B1–B2)&lt;/p&gt; &lt;p&gt;Trung tâm tư vấn học từ khóa nền tảng, nhưng sợ em đã vượt mức này học lại sẽ phí tiền, thời gian.&lt;br /&gt; Liệu em có nên học trung tâm tới khi giao tiếp fluency, hay mua app như The Coach, tập với Gemini, sau đó mới đăng ký khóa giao tiếp trung cấp → nâng cao (B1–B2)&lt;br /&gt; Cảm ơn các bác đã tư vấn.&lt;br /&gt; Have a good day ^^&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/DayPrudent6710"&gt; /u/DayPrudent6710 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nvz3sw/tư_vấn_học_tiếng_anh_giao_tiếp/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nvz3sw/tư_vấn_học_tiếng_anh_giao_tiếp/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nvz3sw/tư_vấn_học_tiếng_anh_giao_tiếp/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-02T09:28:02+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nvowkj</id>
     <title>Trận chiến của tôy &amp; Minh Tuyết: tuyển phe đồng minh 🥰❄️</title>
     <updated>2025-10-02T00:07:37+00:00</updated>
@@ -253,6 +240,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nvowkj/trận_chiến_của_tôy_minh_tuyết_tuyển_phe_đồng_minh/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-02T00:07:37+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nvz3sw</id>
+    <title>Tư vấn học tiếng anh giao tiếp</title>
+    <updated>2025-10-02T09:28:02+00:00</updated>
+    <author>
+      <name>/u/DayPrudent6710</name>
+      <uri>https://old.reddit.com/user/DayPrudent6710</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác,&lt;br /&gt; Em đang chuẩn bị học tiếng anh giao tiếp để phục vụ công việc, mong được các bác có kinh nghiệm tư vấn giúp em.&lt;/p&gt; &lt;p&gt;Hiện tại em đã có B1 4 kỹ năng từ đại học, nghe hiểu khoảng 80%, từ vựng ổn, từng học hết từ vựng trên app Memrise và khi học em có luyện phát âm từng từ. Tuy nhiên, em rất ít khi giao tiếp, gần như không giao tiếp tiếng anh từ khi thi kỹ năng nói B1, chỉ dùng tiếng Anh trong công việc để đọc tài liệu.&lt;/p&gt; &lt;p&gt;Vậy em nên học từ khóa giao tiếp nào ạ:&lt;br /&gt; + Nền tảng → cơ bản (A1–A2)&lt;br /&gt; + Cơ bản → trung cấp (A1–B1)&lt;br /&gt; + Trung cấp → nâng cao (B1–B2)&lt;/p&gt; &lt;p&gt;Trung tâm tư vấn học từ khóa nền tảng, nhưng sợ em đã vượt mức này học lại sẽ phí tiền, thời gian.&lt;br /&gt; Liệu em có nên học trung tâm tới khi giao tiếp fluency, hay mua app như The Coach, tập với Gemini, sau đó mới đăng ký khóa giao tiếp trung cấp → nâng cao (B1–B2)&lt;br /&gt; Cảm ơn các bác đã tư vấn.&lt;br /&gt; Have a good day ^^&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/DayPrudent6710"&gt; /u/DayPrudent6710 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nvz3sw/tư_vấn_học_tiếng_anh_giao_tiếp/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nvz3sw/tư_vấn_học_tiếng_anh_giao_tiếp/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nvz3sw/tư_vấn_học_tiếng_anh_giao_tiếp/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-02T09:28:02+00:00</published>
   </entry>
   <entry>
     <id>t3_1nvzgbb</id>
