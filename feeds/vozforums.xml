@@ -2,37 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-10-02T15:50:31+00:00</updated>
+  <updated>2025-10-02T16:21:30+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1nw2pkf</id>
-    <title>Chào mọi người, em hiện đang là sinh viên có mong muốn kiếm việc làm tại nhà hoặc có thể làm off khu vực cổ nhuế ( Mỏ - Tài chính)</title>
-    <updated>2025-10-02T12:42:38+00:00</updated>
-    <author>
-      <name>/u/Pop_C0rn_2710</name>
-      <uri>https://old.reddit.com/user/Pop_C0rn_2710</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em không cần thu nhập quá cao, miễn có có thêm 1 khoản tiền trong thời gian rảnh. Em thường rảnh nửa ngày ( do còn đi học ) không cố định và buổi tối. Ai có việc gì có thể để lại cho em địa chỉ liên hệ hoặc có thể giới thiệu cho em ạ! Em cảm ơn!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Pop_C0rn_2710"&gt; /u/Pop_C0rn_2710 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nw2pkf/chào_mọi_người_em_hiện_đang_là_sinh_viên_có_mong/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nw2pkf/chào_mọi_người_em_hiện_đang_là_sinh_viên_có_mong/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nw2pkf/chào_mọi_người_em_hiện_đang_là_sinh_viên_có_mong/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-02T12:42:38+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1nw32ap</id>
-    <title>Lên đại học lâu lâu trúng mấy gv ố dề thật sự</title>
-    <updated>2025-10-02T12:58:10+00:00</updated>
-    <author>
-      <name>/u/kitchcu</name>
-      <uri>https://old.reddit.com/user/kitchcu</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Cái đồ án này kỳ trước ông này hướng dẫn và đã rớt nên kỳ này đk lại nhưng bị trúng ông thầy này lại. Cái bản vẽ em làm y chang cái kỳ trước ổng hướng dẫn thì lại phàn nàn thiếu này thiếu kia, chỉnh cái này cái kia. Ý là nó không mất nhiều thời gian để sửa nhưng mà cứ khó chịu sao ấy, chẳng lẽ bảo cái này kỳ trước thầy chỉ em làm thế mà :))&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/kitchcu"&gt; /u/kitchcu &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nw32ap/lên_đại_học_lâu_lâu_trúng_mấy_gv_ố_dề_thật_sự/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nw32ap/lên_đại_học_lâu_lâu_trúng_mấy_gv_ố_dề_thật_sự/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nw32ap/lên_đại_học_lâu_lâu_trúng_mấy_gv_ố_dề_thật_sự/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-02T12:58:10+00:00</published>
-  </entry>
   <entry>
     <id>t3_1nw46pu</id>
     <title>Học cao đẳng xong, không liên thông được và phải đi nghĩa vụ ?</title>
@@ -97,6 +71,32 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nw20g0/cao_nhân_cao_kiến/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-02T12:10:29+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nw7y4r</id>
+    <title>Làm cách nào để để hạn chế "bước" sai khi ra đời</title>
+    <updated>2025-10-02T16:06:23+00:00</updated>
+    <author>
+      <name>/u/Adept-Objective-4007</name>
+      <uri>https://old.reddit.com/user/Adept-Objective-4007</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình năm nay 20t đang học tại cao đẳng cao thắng ngành điện điện tử. 2 năm trước do không suy nghĩ tới hoàn cảnh gia đình t đã vội vàng học tiếng đức để dự định đi nước ngoài rồi cũng chắng tới đâu. Hiện tại t đã cố gắng hết sức để giảm bớt gánh năng cho gia đình. Vì thế tôi lên đây nhờ ae có kinh nghiệm sống chia sẽ thêm chi t để giảm bớt đi Sài thêm lần nữa.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Adept-Objective-4007"&gt; /u/Adept-Objective-4007 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nw7y4r/làm_cách_nào_để_để_hạn_chế_bước_sai_khi_ra_đời/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nw7y4r/làm_cách_nào_để_để_hạn_chế_bước_sai_khi_ra_đời/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nw7y4r/làm_cách_nào_để_để_hạn_chế_bước_sai_khi_ra_đời/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-02T16:06:23+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nw7z83</id>
+    <title>Thu nhập thêm</title>
+    <updated>2025-10-02T16:07:32+00:00</updated>
+    <author>
+      <name>/u/xx-engineer</name>
+      <uri>https://old.reddit.com/user/xx-engineer</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hello các bác, năm nay em 25 tuổi hiện đang làm kỹ thuật ô tô ở hãng, chuyện là muốn tăng thu nhập vì vấn đề gia đình. Em thấy mình bị giới hạn khả năng kiếm thêm thu nhập quá vì sau giờ làm về nhà là khá đuối, em có Tiếng Anh tốt Toeic 750 và tiếng Anh chuyên ngành tốt, đang kiếm thêm tiền để học thêm Tiếng Trung để kiếm cơ hội do em ở Bình Dương. Các bác có hướng đi nào vào buổi tối không cho em xin thỉnh giáo ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/xx-engineer"&gt; /u/xx-engineer &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nw7z83/thu_nhập_thêm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nw7z83/thu_nhập_thêm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nw7z83/thu_nhập_thêm/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-02T16:07:32+00:00</published>
   </entry>
   <entry>
     <id>t3_1nw0ikf</id>
