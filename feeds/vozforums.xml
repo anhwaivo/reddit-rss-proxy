@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-10-02T07:36:27+00:00</updated>
+  <updated>2025-10-02T07:50:25+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1nv6bdz</id>
-    <title>NGHĨA VỤ CÔNG AN</title>
-    <updated>2025-10-01T12:04:00+00:00</updated>
-    <author>
-      <name>/u/dhkwang</name>
-      <uri>https://old.reddit.com/user/dhkwang</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình vừa tốt nghiệp đại học bằng Kế toán doanh nghiệp, do là cũng vướng cái NVQS nên mới nghe tới NVCA. Hiện tại mình cũng tiếp cận được cơ hội đi NVCA thì muốn nghe chia sẻ các bác đi trước về triển vọng phát triển trong ngành công an với bản thân mình có nền tảng bên kế toán. Nếu sau 2 năm quyết định không theo ngành CA thì cũng không đến nổi phí phải không? &lt;/p&gt; &lt;p&gt;Thanks mọi người!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/dhkwang"&gt; /u/dhkwang &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nv6bdz/nghĩa_vụ_công_an/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nv6bdz/nghĩa_vụ_công_an/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nv6bdz/nghĩa_vụ_công_an/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-01T12:04:00+00:00</published>
-  </entry>
   <entry>
     <id>t3_1nve3ou</id>
     <title>Tìm đồng đội làm Aff Shopee</title>
@@ -73,19 +60,6 @@
     <published>2025-10-01T16:19:24+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nvdibu</id>
-    <title>Kiến thức, kĩ năng quý giá nhất thời học đại học</title>
-    <updated>2025-10-01T16:48:55+00:00</updated>
-    <author>
-      <name>/u/New_Temporary_9643</name>
-      <uri>https://old.reddit.com/user/New_Temporary_9643</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Theo cá nhân các bác thì kiến thức, kĩ năng nào quý giá giúp các bác nhiều nhất trong thời học đại học.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/New_Temporary_9643"&gt; /u/New_Temporary_9643 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nvdibu/kiến_thức_kĩ_năng_quý_giá_nhất_thời_học_đại_học/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nvdibu/kiến_thức_kĩ_năng_quý_giá_nhất_thời_học_đại_học/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nvdibu/kiến_thức_kĩ_năng_quý_giá_nhất_thời_học_đại_học/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-01T16:48:55+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nuy4j1</id>
     <title>Cho xin vài lời khuyên về gửi usdt trên các sàn để lấy lãi</title>
     <updated>2025-10-01T03:51:01+00:00</updated>
@@ -97,6 +71,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nuy4j1/cho_xin_vài_lời_khuyên_về_gửi_usdt_trên_các_sàn/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-01T03:51:01+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nvdibu</id>
+    <title>Kiến thức, kĩ năng quý giá nhất thời học đại học</title>
+    <updated>2025-10-01T16:48:55+00:00</updated>
+    <author>
+      <name>/u/New_Temporary_9643</name>
+      <uri>https://old.reddit.com/user/New_Temporary_9643</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Theo cá nhân các bác thì kiến thức, kĩ năng nào quý giá giúp các bác nhiều nhất trong thời học đại học.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/New_Temporary_9643"&gt; /u/New_Temporary_9643 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nvdibu/kiến_thức_kĩ_năng_quý_giá_nhất_thời_học_đại_học/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nvdibu/kiến_thức_kĩ_năng_quý_giá_nhất_thời_học_đại_học/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nvdibu/kiến_thức_kĩ_năng_quý_giá_nhất_thời_học_đại_học/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-01T16:48:55+00:00</published>
   </entry>
   <entry>
     <id>t3_1nvvbso</id>
@@ -227,6 +214,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nvxchn/bảo_quản_tiền_nong_khi_nvqs/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-02T07:34:42+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nvxeaw</id>
+    <title>Có nên mua ổ cứng lưu trữ ảnh cá nhân</title>
+    <updated>2025-10-02T07:37:57+00:00</updated>
+    <author>
+      <name>/u/FluffyHeadCat</name>
+      <uri>https://old.reddit.com/user/FluffyHeadCat</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình muốn mua ổ cứng để chứa ảnh, khoảng 1TB vì trả iCloud hàng tháng mắc quá. Mua ổ cứng đầu tư 1 lần thôi về lâu dài sẽ rẻ hơn.&lt;/p&gt; &lt;p&gt;Nhưng mình không rành về công nghệ nên muốn hỏi xem có nên mua không hay có phương pháp lưu trữ thông tin nào khác an toàn hơn và ít rủi ro mất hơn. &lt;/p&gt; &lt;p&gt;Ảnh của mình chủ yếu là kỷ niệm từ 2018 của bản thân và gia đình thôi. Mình mua của WD 1TB cỡ 600k ổn không, dùng chục năm trở lên được không.&lt;/p&gt; &lt;p&gt;Cảm ơn mọi người đã đọc!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/FluffyHeadCat"&gt; /u/FluffyHeadCat &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nvxeaw/có_nên_mua_ổ_cứng_lưu_trữ_ảnh_cá_nhân/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nvxeaw/có_nên_mua_ổ_cứng_lưu_trữ_ảnh_cá_nhân/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nvxeaw/có_nên_mua_ổ_cứng_lưu_trữ_ảnh_cá_nhân/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-02T07:37:57+00:00</published>
   </entry>
   <entry>
     <id>t3_1nvua9d</id>
