@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-10-03T22:15:28+00:00</updated>
+  <updated>2025-10-03T22:37:24+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1nwyw4w</id>
-    <title>Tablet 4-5tr</title>
-    <updated>2025-10-03T13:17:15+00:00</updated>
-    <author>
-      <name>/u/Crazy_Fig6455</name>
-      <uri>https://old.reddit.com/user/Crazy_Fig6455</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em đang phân vân giữa 2 con ipad pro 10.5 và mipad 5 pro bản 11 in, không biết thời điểm hiện tại nên chọn máy nào trong tầm giá 4 đồng, ưu tiên màn hình và loa ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Crazy_Fig6455"&gt; /u/Crazy_Fig6455 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nwyw4w/tablet_45tr/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nwyw4w/tablet_45tr/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nwyw4w/tablet_45tr/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-03T13:17:15+00:00</published>
-  </entry>
   <entry>
     <id>t3_1nx0ury</id>
     <title>Nên thi bằng A hay A1?</title>
@@ -138,19 +125,6 @@
     <published>2025-10-03T16:23:57+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nx47xo</id>
-    <title>Con gái dịu dàng (??)</title>
-    <updated>2025-10-03T16:40:27+00:00</updated>
-    <author>
-      <name>/u/jjessssse</name>
-      <uri>https://old.reddit.com/user/jjessssse</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;t là nữ được 2 người phụ nữ cực kỳ mạnh mẽ nuôi dạy từ bé nên tính cách có đôi phần mạnh mẽ và cứng rắn. &lt;/p&gt; &lt;p&gt;câu hỏi là làm sao để trông dịu dàng dzạ?&lt;/p&gt; &lt;p&gt;các cao nhân với góc nhìn từ đàn ông, có thể cho t biết như là dịu dàng được hong 🤔 &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/jjessssse"&gt; /u/jjessssse &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nx47xo/con_gái_dịu_dàng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nx47xo/con_gái_dịu_dàng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nx47xo/con_gái_dịu_dàng/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-03T16:40:27+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nx50su</id>
     <title>Về việc kiếm job freelance AI</title>
     <updated>2025-10-03T17:09:42+00:00</updated>
@@ -216,6 +190,19 @@
     <published>2025-10-03T19:15:07+00:00</published>
   </entry>
   <entry>
+    <id>t3_1nx47xo</id>
+    <title>Con gái dịu dàng (??)</title>
+    <updated>2025-10-03T16:40:27+00:00</updated>
+    <author>
+      <name>/u/jjessssse</name>
+      <uri>https://old.reddit.com/user/jjessssse</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;t là nữ được 2 người phụ nữ cực kỳ mạnh mẽ nuôi dạy từ bé nên tính cách có đôi phần mạnh mẽ và cứng rắn. &lt;/p&gt; &lt;p&gt;câu hỏi là làm sao để trông dịu dàng dzạ?&lt;/p&gt; &lt;p&gt;các cao nhân với góc nhìn từ đàn ông, có thể cho t biết như là dịu dàng được hong 🤔 &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/jjessssse"&gt; /u/jjessssse &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nx47xo/con_gái_dịu_dàng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nx47xo/con_gái_dịu_dàng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nx47xo/con_gái_dịu_dàng/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-03T16:40:27+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1nwytp2</id>
     <title>Chuyện ổn định cuộc sống</title>
     <updated>2025-10-03T13:14:30+00:00</updated>
@@ -240,6 +227,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nx4uc1/cần_gợi_ý_nguồn_miễn_phí_để_học_và_cập_nhật_thông/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-03T17:03:12+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nxdc0t</id>
+    <title>Tình đầu qua màn hình, làm sao để không nhạt dần?!</title>
+    <updated>2025-10-03T22:34:52+00:00</updated>
+    <author>
+      <name>/u/Hide_on_bush003</name>
+      <uri>https://old.reddit.com/user/Hide_on_bush003</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, em 22 tuổi, sinh viên IT sắp ra trường. Bạn gái em 18 tuổi, đang học lớp 12. Em ở Sài Gòn còn bạn ở Bắc Giang. Ban đầu tụi em quen nhau qua một ứng dụng nhắn tin khác, bạn là người chủ động bắt chuyện. Càng trò chuyện, cả hai càng hiểu nhau hơn, và dù ban đầu em sợ yêu xa, nhưng không tránh được vì em thật sự có tình cảm. Đêm hôm đó, đúng 12 giờ, em ngỏ lời và tụi em chính thức quen nhau. Đây là mối tình đầu của em, còn em là mối tình thứ ba trong chuyện tình cảm của bạn.&lt;/p&gt; &lt;p&gt;Em không phải quen người nhỏ tuổi để dễ kiểm soát, cũng không chọn bạn vì thiếu cơ hội gần gũi với người khác. Thực ra, em từng được vài bạn nữ ở gần để ý nhưng đều từ chối, vì cảm thấy bản thân chưa có gì trong tay. Em đến với bạn vì thương bạn thật sự, bạn cũng bằng tuổi em trai em nên cũng rất thương và xác định gắn bó lâu dài. Từ khi quen nhau, em luôn cố gắng quan tâm, chiều chuộng, học hỏi cách chăm sóc từ những chia sẻ trên mạng.&lt;/p&gt; &lt;p&gt;Thời gian đầu, do chưa hiểu rõ nên nhiều lúc nhắn tin khiến bạn buồn. Nhưng nhờ vậy, em dần nhận ra bạn có nhiều điểm giống em. Qua lời bạn thân, em biết bạn từng bị người cũ vô tâm, bỏ rơi. Bạn lại là người hồn nhiên, chịu thương chịu khó, hay phụ giúp gia đình, nên em càng muốn yêu thương và bảo vệ nhiều hơn.&lt;/p&gt; &lt;p&gt;Lịch sinh hoạt của tụi em khá cố định: bạn đi học buổi sáng từ thứ Hai đến thứ Bảy, chiều nghỉ ngơi. Em thì sáng ở nhà tự học, 11 giờ đi làm thêm đến khoảng 4 giờ chiều. Sau khi chi tiêu, em để dành được khoảng 135k – 250k mỗi ngày, không nhiều nhưng vẫn cố gắng mua quà nhỏ cho bạn. Cả ngày, tụi em chỉ nhắn vào sáng sớm, trưa lúc bạn về, chiều khoảng 5 giờ. Tối thì hai đứa đều bận học, đến 10 giờ mới có thời gian trò chuyện. Thỉnh thoảng cuối tuần tụi em call, cùng xem phim qua màn hình.&lt;/p&gt; &lt;p&gt;Em luôn cố gắng tìm chủ đề để nói, nhưng vì không khéo trêu đùa nên sợ bạn chán. Bạn cũng ít chia sẻ về sở thích hay rủ em làm gì cùng. Cuộc sống cứ lặp lại khiến câu chuyện ngày càng cạn dần. Em vẫn còn thương bạn nhiều, thật sự buồn khi thấy tình cảm phai nhạt. Gần đây, tối nào em ngủ cũng mơ thấy bạn, không chỉ hình ảnh mà cả tin nhắn yêu thương của bạn nữa.&lt;/p&gt; &lt;p&gt;Em mong mọi người cho em lời khuyên để giữ gìn tình cảm này. Em dự định năm sau, khi bạn thi xong THPTQG và lên Hà Nội học, em sẽ ra thăm. Nhưng em cũng lo không biết mối quan hệ có giữ được đến lúc đó hay không.&lt;/p&gt; &lt;p&gt;Cầu xin mọi người.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Hide_on_bush003"&gt; /u/Hide_on_bush003 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nxdc0t/tình_đầu_qua_màn_hình_làm_sao_để_không_nhạt_dần/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nxdc0t/tình_đầu_qua_màn_hình_làm_sao_để_không_nhạt_dần/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nxdc0t/tình_đầu_qua_màn_hình_làm_sao_để_không_nhạt_dần/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-03T22:34:52+00:00</published>
   </entry>
   <entry>
     <id>t3_1nwn4tk</id>
