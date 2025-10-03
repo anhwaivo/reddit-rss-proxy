@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-10-02T23:49:57+00:00</updated>
+  <updated>2025-10-03T01:17:35+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -99,19 +99,6 @@
     <published>2025-10-02T17:08:52+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nw06v8</id>
-    <title>Tại sao siêu ứng dụng bây giờ rất phổ biến và thành công?</title>
-    <updated>2025-10-02T10:34:29+00:00</updated>
-    <author>
-      <name>/u/tnguynz</name>
-      <uri>https://old.reddit.com/user/tnguynz</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tại sao các siêu ứng dụng như Grab, Momo lại rất phổ biến vậy các bác? &lt;/p&gt; &lt;p&gt;Em là một người quan niệm là cái nào mà tích hợp nhiều em sẽ mặc định là không chuyên về dịch vụ đó. &lt;/p&gt; &lt;p&gt;Em sợ rủi ro, ví dụ như kêu em vô Grab mua data điện thoại em sẽ ko oke á. Mà deal ở trên mấy nền tảng này cũng hời, các bác giải thích cho em với?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/tnguynz"&gt; /u/tnguynz &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nw06v8/tại_sao_siêu_ứng_dụng_bây_giờ_rất_phổ_biến_và/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nw06v8/tại_sao_siêu_ứng_dụng_bây_giờ_rất_phổ_biến_và/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nw06v8/tại_sao_siêu_ứng_dụng_bây_giờ_rất_phổ_biến_và/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-02T10:34:29+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nvxeaw</id>
     <title>Có nên mua ổ cứng lưu trữ ảnh cá nhân</title>
     <updated>2025-10-02T07:37:57+00:00</updated>
@@ -136,6 +123,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nve114/tình_yêu_đơn_thuần_có_tồn_tại_không/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-01T17:07:34+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nw06v8</id>
+    <title>Tại sao siêu ứng dụng bây giờ rất phổ biến và thành công?</title>
+    <updated>2025-10-02T10:34:29+00:00</updated>
+    <author>
+      <name>/u/tnguynz</name>
+      <uri>https://old.reddit.com/user/tnguynz</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tại sao các siêu ứng dụng như Grab, Momo lại rất phổ biến vậy các bác? &lt;/p&gt; &lt;p&gt;Em là một người quan niệm là cái nào mà tích hợp nhiều em sẽ mặc định là không chuyên về dịch vụ đó. &lt;/p&gt; &lt;p&gt;Em sợ rủi ro, ví dụ như kêu em vô Grab mua data điện thoại em sẽ ko oke á. Mà deal ở trên mấy nền tảng này cũng hời, các bác giải thích cho em với?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/tnguynz"&gt; /u/tnguynz &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nw06v8/tại_sao_siêu_ứng_dụng_bây_giờ_rất_phổ_biến_và/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nw06v8/tại_sao_siêu_ứng_dụng_bây_giờ_rất_phổ_biến_và/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nw06v8/tại_sao_siêu_ứng_dụng_bây_giờ_rất_phổ_biến_và/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-02T10:34:29+00:00</published>
   </entry>
   <entry>
     <id>t3_1nw1zko</id>
@@ -177,19 +177,6 @@
     <published>2025-10-02T13:27:00+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nwa3s1</id>
-    <title>Con gái mù công nghệ</title>
-    <updated>2025-10-02T17:26:19+00:00</updated>
-    <author>
-      <name>/u/Unlucky_Visit_7468</name>
-      <uri>https://old.reddit.com/user/Unlucky_Visit_7468</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em có chiếc XSM 64gb, bão vừa rồi bị rơi làm hòng đt, cụ thể mặt lưng vỡ nát, Màn hình bị bung nhẹ, có 2 sọc trắng che màn hình, có cả sọc xanh lá ở góc nữa ạ. Ngoài ra thì cảm ứng, cammera vẫn mượt ạ. Giờ cắm sặc thì máy không lên, chỉ hiện được biểu tượng pin yếu, rồi hiện logo táo, xong lại sập đen, rồi lại cứ vòng lặp Pin đỏ-&amp;gt; logo táo -&amp;gt; sập ạ. Em k rành công nghệ nên ra tiệm sợ ngu ngơ bị chém giá nên mong mọi người hỗ trợ giải đáp sương sương để mai em ra tiệm k bị chém giá ạ. Em cảm ơn ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Unlucky_Visit_7468"&gt; /u/Unlucky_Visit_7468 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nwa3s1/con_gái_mù_công_nghệ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nwa3s1/con_gái_mù_công_nghệ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nwa3s1/con_gái_mù_công_nghệ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-02T17:26:19+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nvzgbb</id>
     <title>Làm sao để hòa nhập nhóm mới nhanh</title>
     <updated>2025-10-02T09:50:23+00:00</updated>
@@ -216,17 +203,17 @@
     <published>2025-10-02T05:47:46+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nwjrzw</id>
-    <title>Xin đánh giá về iPhone 16e</title>
-    <updated>2025-10-02T23:41:07+00:00</updated>
+    <id>t3_1nwa3s1</id>
+    <title>Con gái mù công nghệ</title>
+    <updated>2025-10-02T17:26:19+00:00</updated>
     <author>
-      <name>/u/Rlt2024</name>
-      <uri>https://old.reddit.com/user/Rlt2024</uri>
+      <name>/u/Unlucky_Visit_7468</name>
+      <uri>https://old.reddit.com/user/Unlucky_Visit_7468</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác, e đang dùng 11 prm, nhưng dạo này máy bắt đầu có dấu hiệu hụt hơi. Vì ngân sách không nhiều nên e định sắm chiếc 16e để thay thế. E chủ yếu dùng cho việc liên lạc, không game. Xin ý kiến các bác có nên không ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Rlt2024"&gt; /u/Rlt2024 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nwjrzw/xin_đánh_giá_về_iphone_16e/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nwjrzw/xin_đánh_giá_về_iphone_16e/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nwjrzw/xin_đánh_giá_về_iphone_16e/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em có chiếc XSM 64gb, bão vừa rồi bị rơi làm hòng đt, cụ thể mặt lưng vỡ nát, Màn hình bị bung nhẹ, có 2 sọc trắng che màn hình, có cả sọc xanh lá ở góc nữa ạ. Ngoài ra thì cảm ứng, cammera vẫn mượt ạ. Giờ cắm sặc thì máy không lên, chỉ hiện được biểu tượng pin yếu, rồi hiện logo táo, xong lại sập đen, rồi lại cứ vòng lặp Pin đỏ-&amp;gt; logo táo -&amp;gt; sập ạ. Em k rành công nghệ nên ra tiệm sợ ngu ngơ bị chém giá nên mong mọi người hỗ trợ giải đáp sương sương để mai em ra tiệm k bị chém giá ạ. Em cảm ơn ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Unlucky_Visit_7468"&gt; /u/Unlucky_Visit_7468 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nwa3s1/con_gái_mù_công_nghệ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nwa3s1/con_gái_mù_công_nghệ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nwa3s1/con_gái_mù_công_nghệ/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-02T23:41:07+00:00</published>
+    <published>2025-10-02T17:26:19+00:00</published>
   </entry>
   <entry>
     <id>t3_1nvr2o3</id>
@@ -242,6 +229,19 @@
     <published>2025-10-02T01:49:28+00:00</published>
   </entry>
   <entry>
+    <id>t3_1nvtowg</id>
+    <title>Lừa đảo mùa NVQS</title>
+    <updated>2025-10-02T03:58:58+00:00</updated>
+    <author>
+      <name>/u/Reasonableyear2022</name>
+      <uri>https://old.reddit.com/user/Reasonableyear2022</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;năm nay mới sát nhập nên nhiều anh em có tâm lí lo lắng hoảng sợ. Lợi dụng điều này có nhiều người đã đăng lên các bài như kiểu nhận hoãn hoặc nhận chạy khám các thứ. Bài đơn giản nhất là “nhà tôi có thuốc gia truyền này”, “làm từ cây quý bôi lên trông như vẩy nến”. Hoặc là các loại thuốc tăng nhịp tim các thứ, mấy thuốc này ae đặc biệt không nên tin dùng tại nhiều khả năng anh em chuyển khoản xong người ta chặn. Thuốc này kể cả có là thật thì cũng không nên uống tại làm gì có kiểm định gì đâu, uống vào lăn ra co giật ai chịu trách nhiệm(nma hầu như là scam nên anh em không có thuốc). Cái cuối thì cao tay với đắt tiền là bệnh án giả, giá cao ngất ngưởng 25-30tr, thậm chí còn cam kết là bệnh án sẽ hiện lên trong hệ thống bệnh viện. Tuy nhiên anh em nào đi khám bệnh viện lớn rồi sẽ biết điều này khó xảy ra. Vậy thôi, khuyên ae không tin điều trên mạng, có nhắn rồi thì thôi bỏ đi vừa phải đi nvqs vừa mất tiền oan. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Reasonableyear2022"&gt; /u/Reasonableyear2022 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nvtowg/lừa_đảo_mùa_nvqs/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nvtowg/lừa_đảo_mùa_nvqs/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nvtowg/lừa_đảo_mùa_nvqs/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-02T03:58:58+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1nw684h</id>
     <title>Chạy xe công nghệ ổn kh</title>
     <updated>2025-10-02T15:02:31+00:00</updated>
@@ -255,17 +255,17 @@
     <published>2025-10-02T15:02:31+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nvtowg</id>
-    <title>Lừa đảo mùa NVQS</title>
-    <updated>2025-10-02T03:58:58+00:00</updated>
+    <id>t3_1nw4d0j</id>
+    <title>chuyện có nên kiên trì theo đuổi 1 người</title>
+    <updated>2025-10-02T13:51:19+00:00</updated>
     <author>
-      <name>/u/Reasonableyear2022</name>
-      <uri>https://old.reddit.com/user/Reasonableyear2022</uri>
+      <name>/u/FabulousContact7832</name>
+      <uri>https://old.reddit.com/user/FabulousContact7832</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;năm nay mới sát nhập nên nhiều anh em có tâm lí lo lắng hoảng sợ. Lợi dụng điều này có nhiều người đã đăng lên các bài như kiểu nhận hoãn hoặc nhận chạy khám các thứ. Bài đơn giản nhất là “nhà tôi có thuốc gia truyền này”, “làm từ cây quý bôi lên trông như vẩy nến”. Hoặc là các loại thuốc tăng nhịp tim các thứ, mấy thuốc này ae đặc biệt không nên tin dùng tại nhiều khả năng anh em chuyển khoản xong người ta chặn. Thuốc này kể cả có là thật thì cũng không nên uống tại làm gì có kiểm định gì đâu, uống vào lăn ra co giật ai chịu trách nhiệm(nma hầu như là scam nên anh em không có thuốc). Cái cuối thì cao tay với đắt tiền là bệnh án giả, giá cao ngất ngưởng 25-30tr, thậm chí còn cam kết là bệnh án sẽ hiện lên trong hệ thống bệnh viện. Tuy nhiên anh em nào đi khám bệnh viện lớn rồi sẽ biết điều này khó xảy ra. Vậy thôi, khuyên ae không tin điều trên mạng, có nhắn rồi thì thôi bỏ đi vừa phải đi nvqs vừa mất tiền oan. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Reasonableyear2022"&gt; /u/Reasonableyear2022 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nvtowg/lừa_đảo_mùa_nvqs/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nvtowg/lừa_đảo_mùa_nvqs/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nvtowg/lừa_đảo_mùa_nvqs/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;xin chào anh/chị/bạn, mình sinh năm 2k3. mình muốn chia sẻ câu chuyện của mình và xin mọi người tư vấn ạ. 3 năm cấp 3 mình có theo đuổi 1 bạn nữ, và lúc ấy thì khá là trẻ con nên chuyện cũng chưa thành sau nhiều lần. lên đh cả mình và bạn ấy đều trải qua 1 - 2 mối tình đều tính bằng năm. khoảng tháng 4 năm nay mình có tán lại bạn ấy nhưng do khoảng cách, công việc với cả chưa hoàn toàn move on nên cả 2 vẫn chưa đi đâu đến đâu. rồi bắt đầu tháng 9 vừa rồi mình có tán lại bạn ấy 1 lần nữa (lần này chúng mình đều ở gần nhau), nhưng có vẻ tình hình không khả quan lắm, bạn ý nói muốn làm bạn với mình hơn vì cách mình đối xử với bạn bè làm bạn ấy ghen tị, muốn thoải mái đối mặt với mình khi gặp nhau (cả 2 thường đi đánh cầu cùng nhau và cùng chung vòng quan hệ bạn bè ạ) và mình cũng tự tin là thuộc người có đủ 3 tế (kinh tế thì xin phép chưa đủ vì mình mới 22 tuổi, kh nói đến hậu thuẫn gia đình, tài chính với mình tầm này chưa phải là cái quan trọng nhất). bạn ý là mẫu người mình thích và thích lâu đến vậy. mình đang vướng vào vòng suy nghĩ luẩn quẩn là có nên tiếp tục kiên trì mặc dù bạn ý muốn làm bạn hơn hay là cắt đứt mọi thứ vì cứ hễ nhìn bạn ấy là mình lại nảy sinh tình cảm :( cảm ơn mọi người đã đọc ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/FabulousContact7832"&gt; /u/FabulousContact7832 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nw4d0j/chuyện_có_nên_kiên_trì_theo_đuổi_1_người/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nw4d0j/chuyện_có_nên_kiên_trì_theo_đuổi_1_người/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nw4d0j/chuyện_có_nên_kiên_trì_theo_đuổi_1_người/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-02T03:58:58+00:00</published>
+    <published>2025-10-02T13:51:19+00:00</published>
   </entry>
   <entry>
     <id>t3_1nw33hc</id>
@@ -281,17 +281,17 @@
     <published>2025-10-02T12:59:40+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nw4d0j</id>
-    <title>chuyện có nên kiên trì theo đuổi 1 người</title>
-    <updated>2025-10-02T13:51:19+00:00</updated>
+    <id>t3_1nwjrzw</id>
+    <title>Xin đánh giá về iPhone 16e</title>
+    <updated>2025-10-02T23:41:07+00:00</updated>
     <author>
-      <name>/u/FabulousContact7832</name>
-      <uri>https://old.reddit.com/user/FabulousContact7832</uri>
+      <name>/u/Rlt2024</name>
+      <uri>https://old.reddit.com/user/Rlt2024</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;xin chào anh/chị/bạn, mình sinh năm 2k3. mình muốn chia sẻ câu chuyện của mình và xin mọi người tư vấn ạ. 3 năm cấp 3 mình có theo đuổi 1 bạn nữ, và lúc ấy thì khá là trẻ con nên chuyện cũng chưa thành sau nhiều lần. lên đh cả mình và bạn ấy đều trải qua 1 - 2 mối tình đều tính bằng năm. khoảng tháng 4 năm nay mình có tán lại bạn ấy nhưng do khoảng cách, công việc với cả chưa hoàn toàn move on nên cả 2 vẫn chưa đi đâu đến đâu. rồi bắt đầu tháng 9 vừa rồi mình có tán lại bạn ấy 1 lần nữa (lần này chúng mình đều ở gần nhau), nhưng có vẻ tình hình không khả quan lắm, bạn ý nói muốn làm bạn với mình hơn vì cách mình đối xử với bạn bè làm bạn ấy ghen tị, muốn thoải mái đối mặt với mình khi gặp nhau (cả 2 thường đi đánh cầu cùng nhau và cùng chung vòng quan hệ bạn bè ạ) và mình cũng tự tin là thuộc người có đủ 3 tế (kinh tế thì xin phép chưa đủ vì mình mới 22 tuổi, kh nói đến hậu thuẫn gia đình, tài chính với mình tầm này chưa phải là cái quan trọng nhất). bạn ý là mẫu người mình thích và thích lâu đến vậy. mình đang vướng vào vòng suy nghĩ luẩn quẩn là có nên tiếp tục kiên trì mặc dù bạn ý muốn làm bạn hơn hay là cắt đứt mọi thứ vì cứ hễ nhìn bạn ấy là mình lại nảy sinh tình cảm :( cảm ơn mọi người đã đọc ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/FabulousContact7832"&gt; /u/FabulousContact7832 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nw4d0j/chuyện_có_nên_kiên_trì_theo_đuổi_1_người/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nw4d0j/chuyện_có_nên_kiên_trì_theo_đuổi_1_người/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nw4d0j/chuyện_có_nên_kiên_trì_theo_đuổi_1_người/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác, e đang dùng 11 prm, nhưng dạo này máy bắt đầu có dấu hiệu hụt hơi. Vì ngân sách không nhiều nên e định sắm chiếc 16e để thay thế. E chủ yếu dùng cho việc liên lạc, không game. Xin ý kiến các bác có nên không ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Rlt2024"&gt; /u/Rlt2024 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nwjrzw/xin_đánh_giá_về_iphone_16e/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nwjrzw/xin_đánh_giá_về_iphone_16e/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nwjrzw/xin_đánh_giá_về_iphone_16e/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-02T13:51:19+00:00</published>
+    <published>2025-10-02T23:41:07+00:00</published>
   </entry>
   <entry>
     <id>t3_1nw2238</id>
