@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-10-03T05:49:55+00:00</updated>
+  <updated>2025-10-03T06:26:06+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -151,19 +151,6 @@
     <published>2025-10-02T15:02:31+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nw33hc</id>
-    <title>Kênh hay, Edits đỉnh nhưng quá ít lượt xem so với chất lượng của content.</title>
-    <updated>2025-10-02T12:59:40+00:00</updated>
-    <author>
-      <name>/u/Leather_Lime7705</name>
-      <uri>https://old.reddit.com/user/Leather_Lime7705</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1nw33hc/kênh_hay_edits_đỉnh_nhưng_quá_ít_lượt_xem_so_với/"&gt; &lt;img alt="Kênh hay, Edits đỉnh nhưng quá ít lượt xem so với chất lượng của content." src="https://preview.redd.it/a33knsb65psf1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=69df3c9f54483ebbb6b75bf1ead41c35b1b8c3d2" title="Kênh hay, Edits đỉnh nhưng quá ít lượt xem so với chất lượng của content." /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Leather_Lime7705"&gt; /u/Leather_Lime7705 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/a33knsb65psf1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nw33hc/kênh_hay_edits_đỉnh_nhưng_quá_ít_lượt_xem_so_với/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nw33hc/kênh_hay_edits_đỉnh_nhưng_quá_ít_lượt_xem_so_với/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-02T12:59:40+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nwqbil</id>
     <title>Mua thinkpad cũ trên thinkpro</title>
     <updated>2025-10-03T05:08:58+00:00</updated>
@@ -188,6 +175,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nwqeka/mình_có_nên_nhờ_cò_lấy_số_gplx/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-03T05:13:52+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nw33hc</id>
+    <title>Kênh hay, Edits đỉnh nhưng quá ít lượt xem so với chất lượng của content.</title>
+    <updated>2025-10-02T12:59:40+00:00</updated>
+    <author>
+      <name>/u/Leather_Lime7705</name>
+      <uri>https://old.reddit.com/user/Leather_Lime7705</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1nw33hc/kênh_hay_edits_đỉnh_nhưng_quá_ít_lượt_xem_so_với/"&gt; &lt;img alt="Kênh hay, Edits đỉnh nhưng quá ít lượt xem so với chất lượng của content." src="https://preview.redd.it/a33knsb65psf1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=69df3c9f54483ebbb6b75bf1ead41c35b1b8c3d2" title="Kênh hay, Edits đỉnh nhưng quá ít lượt xem so với chất lượng của content." /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Leather_Lime7705"&gt; /u/Leather_Lime7705 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/a33knsb65psf1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nw33hc/kênh_hay_edits_đỉnh_nhưng_quá_ít_lượt_xem_so_với/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nw33hc/kênh_hay_edits_đỉnh_nhưng_quá_ít_lượt_xem_so_với/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-02T12:59:40+00:00</published>
   </entry>
   <entry>
     <id>t3_1nwqx9x</id>
@@ -216,19 +216,6 @@
     <published>2025-10-03T03:08:35+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nwp32l</id>
-    <title>Tài khoản X bị suspended; rate limit exceeded</title>
-    <updated>2025-10-03T04:00:18+00:00</updated>
-    <author>
-      <name>/u/Extreme-Slide2636</name>
-      <uri>https://old.reddit.com/user/Extreme-Slide2636</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1nwp32l/tài_khoản_x_bị_suspended_rate_limit_exceeded/"&gt; &lt;img alt="Tài khoản X bị suspended; rate limit exceeded" src="https://b.thumbs.redditmedia.com/_5r35Qjbp1XQKI_JRE1PgSq2Xq978tc6Pkb9L4y89gE.jpg" title="Tài khoản X bị suspended; rate limit exceeded" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;1 tháng trước, tài khoản X của mình bỗng dưng bị suspended và không thể xem được các nội dung kênh mà mình đã follow, cũng như tìm kiếm các nội dung mới (như trong hình). Mình đã gửi request lên bộ phận phản hồi của X nhưng vẫn không được mở. Tài khoản của mình chỉ để follow xem thông tin tin tức, video nên mình nghĩ không có vi phạm tiêu chuẩn gì cả. Có điều mình đang ở Trung Quốc nên hay đổi VPN khi sử dụng (không biết điều này có ảnh hưởng gì k vì mình lập nick mới cũng bị suspend luôn) Bạn nào gặp trường hợp tương tự chưa ạ và mọi người có lấy lại được tài khoản k ạ, chỉ mình với. Xin cảm ơn mn! &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Extreme-Slide2636"&gt; /u/Extreme-Slide2636 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1nwp32l"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nwp32l/tài_khoản_x_bị_suspended_rate_limit_exceeded/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nwp32l/tài_khoản_x_bị_suspended_rate_limit_exceeded/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-03T04:00:18+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nw2238</id>
     <title>Có phải shark tank đứng sau là những kẻ lừa đảo</title>
     <updated>2025-10-02T12:12:42+00:00</updated>
@@ -255,17 +242,17 @@
     <published>2025-10-03T05:24:08+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nwpjsx</id>
-    <title>Những bác ko thích đi tham vấn tâm lí/tâm lí trị liệu, các b muốn người chuyên viên/therapist ntn thì các b mới có động lực để đi?</title>
-    <updated>2025-10-03T04:25:23+00:00</updated>
+    <id>t3_1nwp32l</id>
+    <title>Tài khoản X bị suspended; rate limit exceeded</title>
+    <updated>2025-10-03T04:00:18+00:00</updated>
     <author>
-      <name>/u/Old-Use-1049</name>
-      <uri>https://old.reddit.com/user/Old-Use-1049</uri>
+      <name>/u/Extreme-Slide2636</name>
+      <uri>https://old.reddit.com/user/Extreme-Slide2636</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Câu hỏi của mình nằm trong tiêu đề. Trong counselling/psychotherapy thì mối quan hệ giữa bạn và người chuyên viên là yếu tố mạnh nhất quyết định độ hiệu quả của counselling/therapy với kĩ năng của người làm đứng thứ 2. Trong trường hợp này b mong muốn người chuyên viên là người có tính cách như thế nào để b có động lực để bắt đầu/tiếp tục đi tham vấn tâm lí/tâm lí trị liệu?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Old-Use-1049"&gt; /u/Old-Use-1049 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nwpjsx/những_bác_ko_thích_đi_tham_vấn_tâm_lítâm_lí_trị/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nwpjsx/những_bác_ko_thích_đi_tham_vấn_tâm_lítâm_lí_trị/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nwpjsx/những_bác_ko_thích_đi_tham_vấn_tâm_lítâm_lí_trị/"/>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1nwp32l/tài_khoản_x_bị_suspended_rate_limit_exceeded/"&gt; &lt;img alt="Tài khoản X bị suspended; rate limit exceeded" src="https://b.thumbs.redditmedia.com/_5r35Qjbp1XQKI_JRE1PgSq2Xq978tc6Pkb9L4y89gE.jpg" title="Tài khoản X bị suspended; rate limit exceeded" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;1 tháng trước, tài khoản X của mình bỗng dưng bị suspended và không thể xem được các nội dung kênh mà mình đã follow, cũng như tìm kiếm các nội dung mới (như trong hình). Mình đã gửi request lên bộ phận phản hồi của X nhưng vẫn không được mở. Tài khoản của mình chỉ để follow xem thông tin tin tức, video nên mình nghĩ không có vi phạm tiêu chuẩn gì cả. Có điều mình đang ở Trung Quốc nên hay đổi VPN khi sử dụng (không biết điều này có ảnh hưởng gì k vì mình lập nick mới cũng bị suspend luôn) Bạn nào gặp trường hợp tương tự chưa ạ và mọi người có lấy lại được tài khoản k ạ, chỉ mình với. Xin cảm ơn mn! &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Extreme-Slide2636"&gt; /u/Extreme-Slide2636 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1nwp32l"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nwp32l/tài_khoản_x_bị_suspended_rate_limit_exceeded/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nwp32l/tài_khoản_x_bị_suspended_rate_limit_exceeded/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-03T04:25:23+00:00</published>
+    <published>2025-10-03T04:00:18+00:00</published>
   </entry>
   <entry>
     <id>t3_1nw39rh</id>
@@ -281,17 +268,17 @@
     <published>2025-10-02T13:06:44+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nwotvb</id>
-    <title>Em xin phép hỏi các tiền bối đi trước, em đang 18 tuổi(nam) độ tuổi vàng thì em nên học những kỹ năng mềm hay bất cứ thứ gì để sau này không hối hận ạ(em cảm giác mình đang phí thời gian).Em cảm ơn ạ</title>
-    <updated>2025-10-03T03:46:36+00:00</updated>
+    <id>t3_1nwpjsx</id>
+    <title>Những bác ko thích đi tham vấn tâm lí/tâm lí trị liệu, các b muốn người chuyên viên/therapist ntn thì các b mới có động lực để đi?</title>
+    <updated>2025-10-03T04:25:23+00:00</updated>
     <author>
-      <name>/u/Affectionate_Day7639</name>
-      <uri>https://old.reddit.com/user/Affectionate_Day7639</uri>
+      <name>/u/Old-Use-1049</name>
+      <uri>https://old.reddit.com/user/Old-Use-1049</uri>
     </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Affectionate_Day7639"&gt; /u/Affectionate_Day7639 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nwotvb/em_xin_phép_hỏi_các_tiền_bối_đi_trước_em_đang_18/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nwotvb/em_xin_phép_hỏi_các_tiền_bối_đi_trước_em_đang_18/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nwotvb/em_xin_phép_hỏi_các_tiền_bối_đi_trước_em_đang_18/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Câu hỏi của mình nằm trong tiêu đề. Trong counselling/psychotherapy thì mối quan hệ giữa bạn và người chuyên viên là yếu tố mạnh nhất quyết định độ hiệu quả của counselling/therapy với kĩ năng của người làm đứng thứ 2. Trong trường hợp này b mong muốn người chuyên viên là người có tính cách như thế nào để b có động lực để bắt đầu/tiếp tục đi tham vấn tâm lí/tâm lí trị liệu?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Old-Use-1049"&gt; /u/Old-Use-1049 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nwpjsx/những_bác_ko_thích_đi_tham_vấn_tâm_lítâm_lí_trị/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nwpjsx/những_bác_ko_thích_đi_tham_vấn_tâm_lítâm_lí_trị/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nwpjsx/những_bác_ko_thích_đi_tham_vấn_tâm_lítâm_lí_trị/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-03T03:46:36+00:00</published>
+    <published>2025-10-03T04:25:23+00:00</published>
   </entry>
   <entry>
     <id>t3_1nwn4tk</id>
@@ -331,5 +318,18 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nw3fv3/các_bác_nghĩ_sao/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-02T13:13:48+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nwotvb</id>
+    <title>Em xin phép hỏi các tiền bối đi trước, em đang 18 tuổi(nam) độ tuổi vàng thì em nên học những kỹ năng mềm hay bất cứ thứ gì để sau này không hối hận ạ(em cảm giác mình đang phí thời gian).Em cảm ơn ạ</title>
+    <updated>2025-10-03T03:46:36+00:00</updated>
+    <author>
+      <name>/u/Affectionate_Day7639</name>
+      <uri>https://old.reddit.com/user/Affectionate_Day7639</uri>
+    </author>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Affectionate_Day7639"&gt; /u/Affectionate_Day7639 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nwotvb/em_xin_phép_hỏi_các_tiền_bối_đi_trước_em_đang_18/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nwotvb/em_xin_phép_hỏi_các_tiền_bối_đi_trước_em_đang_18/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nwotvb/em_xin_phép_hỏi_các_tiền_bối_đi_trước_em_đang_18/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-03T03:46:36+00:00</published>
   </entry>
 </feed>
