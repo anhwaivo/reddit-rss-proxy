@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-10-04T09:15:45+00:00</updated>
+  <updated>2025-10-04T09:35:53+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1nwotvb</id>
-    <title>Em xin phép hỏi các tiền bối đi trước, em đang 18 tuổi(nam) độ tuổi vàng thì em nên học những kỹ năng mềm hay bất cứ thứ gì để sau này không hối hận ạ(em cảm giác mình đang phí thời gian).Em cảm ơn ạ</title>
-    <updated>2025-10-03T03:46:36+00:00</updated>
-    <author>
-      <name>/u/Affectionate_Day7639</name>
-      <uri>https://old.reddit.com/user/Affectionate_Day7639</uri>
-    </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Affectionate_Day7639"&gt; /u/Affectionate_Day7639 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nwotvb/em_xin_phép_hỏi_các_tiền_bối_đi_trước_em_đang_18/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nwotvb/em_xin_phép_hỏi_các_tiền_bối_đi_trước_em_đang_18/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nwotvb/em_xin_phép_hỏi_các_tiền_bối_đi_trước_em_đang_18/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-03T03:46:36+00:00</published>
-  </entry>
   <entry>
     <id>t3_1nxj1eq</id>
     <title>Các bác sẽ cống hiến tận lực cho người sếp ntn? Và các bác đã gặp được người sếp đó?</title>
@@ -190,19 +177,6 @@
     <published>2025-10-04T06:26:19+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nxkexu</id>
-    <title>Tình hình thuốc lá điện tử</title>
-    <updated>2025-10-04T04:21:06+00:00</updated>
-    <author>
-      <name>/u/Aspanu_dpnam</name>
-      <uri>https://old.reddit.com/user/Aspanu_dpnam</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tại sao khi đã có luật cấm mà ở quán cafe hay các nơi tụ tập mình vẫn thấy các bạn trẻ hút vape vậy?&lt;br /&gt; Mình đặt câu hỏi này chỉ vì tò mò. Việc không bỏ được do dùng quen, hoặc hút vape có hại hơn thuốc lá truyền thống hay ko thì mình hoàn toàn không có ý kiến, vì mình cũng là người từng sử dụng trước khi có luật cấm.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Aspanu_dpnam"&gt; /u/Aspanu_dpnam &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nxkexu/tình_hình_thuốc_lá_điện_tử/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nxkexu/tình_hình_thuốc_lá_điện_tử/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nxkexu/tình_hình_thuốc_lá_điện_tử/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-04T04:21:06+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nxo5gk</id>
     <title>Xin tham vấn để mua Laptop cho nữ mù tịt công nghệ 🥹</title>
     <updated>2025-10-04T08:03:51+00:00</updated>
@@ -216,6 +190,19 @@
     <published>2025-10-04T08:03:51+00:00</published>
   </entry>
   <entry>
+    <id>t3_1nxkexu</id>
+    <title>Tình hình thuốc lá điện tử</title>
+    <updated>2025-10-04T04:21:06+00:00</updated>
+    <author>
+      <name>/u/Aspanu_dpnam</name>
+      <uri>https://old.reddit.com/user/Aspanu_dpnam</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tại sao khi đã có luật cấm mà ở quán cafe hay các nơi tụ tập mình vẫn thấy các bạn trẻ hút vape vậy?&lt;br /&gt; Mình đặt câu hỏi này chỉ vì tò mò. Việc không bỏ được do dùng quen, hoặc hút vape có hại hơn thuốc lá truyền thống hay ko thì mình hoàn toàn không có ý kiến, vì mình cũng là người từng sử dụng trước khi có luật cấm.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Aspanu_dpnam"&gt; /u/Aspanu_dpnam &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nxkexu/tình_hình_thuốc_lá_điện_tử/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nxkexu/tình_hình_thuốc_lá_điện_tử/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nxkexu/tình_hình_thuốc_lá_điện_tử/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-04T04:21:06+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1nxoes3</id>
     <title>Tư vấn về mảng BIM xây dựng</title>
     <updated>2025-10-04T08:20:22+00:00</updated>
@@ -227,19 +214,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nxoes3/tư_vấn_về_mảng_bim_xây_dựng/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-04T08:20:22+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1nxogav</id>
-    <title>Tư vấn định hướng tương lai cho 2k9</title>
-    <updated>2025-10-04T08:23:03+00:00</updated>
-    <author>
-      <name>/u/Wooden-Foundation-29</name>
-      <uri>https://old.reddit.com/user/Wooden-Foundation-29</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hiện nay em 2k9, học lớp 11 chuyên tin ở một trường chuyên tỉnh lẻ, nhờ mn tư vấn về định hướng nghề. Ba mẹ thì muốn em theo nghề ba là làm công an, hoặc làm giáo viên như mẹ. Nhưng ước mơ của em thì muốn học công nghệ thông tin .Học lực hiện tại của em cũng tạm ổn, h có nên cố thi vào các trường top theo đuổi IT hay làm viên chức mn.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Wooden-Foundation-29"&gt; /u/Wooden-Foundation-29 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nxogav/tư_vấn_định_hướng_tương_lai_cho_2k9/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nxogav/tư_vấn_định_hướng_tương_lai_cho_2k9/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nxogav/tư_vấn_định_hướng_tương_lai_cho_2k9/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-04T08:23:03+00:00</published>
   </entry>
   <entry>
     <id>t3_1nxkxpg</id>
@@ -268,17 +242,30 @@
     <published>2025-10-03T10:55:05+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nxo8md</id>
-    <title>Xin tip tiết kiệm chi tiêu khi sống ở SG</title>
-    <updated>2025-10-04T08:09:28+00:00</updated>
+    <id>t3_1nxogav</id>
+    <title>Tư vấn định hướng tương lai cho 2k9</title>
+    <updated>2025-10-04T08:23:03+00:00</updated>
     <author>
-      <name>/u/Defiant_Break_9024</name>
-      <uri>https://old.reddit.com/user/Defiant_Break_9024</uri>
+      <name>/u/Wooden-Foundation-29</name>
+      <uri>https://old.reddit.com/user/Wooden-Foundation-29</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;T là nvvp, thu nhập tháng ~ 40, có nhà SG, độc thân.&lt;/p&gt; &lt;p&gt;Dạo này cảm thấy chi tiêu ở SG rất đắt đỏ, như tháng vừa rồi thậm chí k dư ra đc đồng nào. Nhìn 3 quý đầu thì mới nhận ra tiết kiệm k thêm được nhiều. May là đầu năm có xúc ít vàng nên cũng đỡ, chứ nếu chỉ mỗi saving bank thì năm nay có khi còn chết nữa. Hôm nay t ngồi tính lại chi tiêu mới hết hồn:&lt;/p&gt; &lt;p&gt;- House + Utility: 2m5 (điện nước tăng phi mã)&lt;/p&gt; &lt;p&gt;- Lunch: 1m5, làm nvvp thì ăn 1 bữa trưa cỡ 50-70k/ngày; 5 ngày/tuần.&lt;/p&gt; &lt;p&gt;- Grocery: 7m, để mua thực phẩm, đồ dùng cần thiết.&lt;/p&gt; &lt;p&gt;- Biếu phụ huynh: 5m&lt;/p&gt; &lt;p&gt;- Chi tiêu vặt: quần áo, thuốc, tpbs 5m&lt;/p&gt; &lt;p&gt;- Giải trí: 5m (dạo này đi hẹn hò thì cứ phải 1m/ngày) &lt;/p&gt; &lt;p&gt;Nếu tháng nào có chi phí đột biến như hiếu hỉ, du lịch, khám bệnh... thì coi như móm.&lt;/p&gt; &lt;p&gt;Bác nào có mẹo gì tiết kiệm k, nhờ share giúp.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Defiant_Break_9024"&gt; /u/Defiant_Break_9024 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nxo8md/xin_tip_tiết_kiệm_chi_tiêu_khi_sống_ở_sg/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nxo8md/xin_tip_tiết_kiệm_chi_tiêu_khi_sống_ở_sg/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nxo8md/xin_tip_tiết_kiệm_chi_tiêu_khi_sống_ở_sg/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hiện nay em 2k9, học lớp 11 chuyên tin ở một trường chuyên tỉnh lẻ, nhờ mn tư vấn về định hướng nghề. Ba mẹ thì muốn em theo nghề ba là làm công an, hoặc làm giáo viên như mẹ. Nhưng ước mơ của em thì muốn học công nghệ thông tin .Học lực hiện tại của em cũng tạm ổn, h có nên cố thi vào các trường top theo đuổi IT hay làm viên chức mn.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Wooden-Foundation-29"&gt; /u/Wooden-Foundation-29 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nxogav/tư_vấn_định_hướng_tương_lai_cho_2k9/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nxogav/tư_vấn_định_hướng_tương_lai_cho_2k9/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nxogav/tư_vấn_định_hướng_tương_lai_cho_2k9/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-04T08:09:28+00:00</published>
+    <published>2025-10-04T08:23:03+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nxpakz</id>
+    <title>Khám nvqs</title>
+    <updated>2025-10-04T09:16:35+00:00</updated>
+    <author>
+      <name>/u/SignificantBed4153</name>
+      <uri>https://old.reddit.com/user/SignificantBed4153</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1nxpakz/khám_nvqs/"&gt; &lt;img alt="Khám nvqs" src="https://preview.redd.it/o34da647b2tf1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=b4dfebf20fec6635e85d3bd1c21f174d963099b3" title="Khám nvqs" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hôm nay em đi khám nvqs thì phần khám mắt thì chỉ cần phải đọc độ, xong tới bàn kết luận thì ghi như trong hình. Họ có hỏi giấy khám mắt thì may do mang theo nên em có đưa. Tới bàn cuối thì có ông dân quân kia hỏi là có đk tình nguyện đi dân quân ko thì em nói ko rồi họ kêu ra chụp hình rồi về. Cho em hỏi là kiểu này có đi ko? Em nghe nói bây giờ kể cả cận, ko đủ sức khoẻ đi nvqs cũng phải bị bắt đi dân quân hả mấy bác?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/SignificantBed4153"&gt; /u/SignificantBed4153 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/o34da647b2tf1.png"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nxpakz/khám_nvqs/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nxpakz/khám_nvqs/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-04T09:16:35+00:00</published>
   </entry>
   <entry>
     <id>t3_1nxmx7g</id>
@@ -318,6 +305,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nxjgib/bị_mèo_cắn_có_tiêm_dại_không/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-04T03:29:36+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nxo8md</id>
+    <title>Xin tip tiết kiệm chi tiêu khi sống ở SG</title>
+    <updated>2025-10-04T08:09:28+00:00</updated>
+    <author>
+      <name>/u/Defiant_Break_9024</name>
+      <uri>https://old.reddit.com/user/Defiant_Break_9024</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;T là nvvp, thu nhập tháng ~ 40, có nhà SG, độc thân.&lt;/p&gt; &lt;p&gt;Dạo này cảm thấy chi tiêu ở SG rất đắt đỏ, như tháng vừa rồi thậm chí k dư ra đc đồng nào. Nhìn 3 quý đầu thì mới nhận ra tiết kiệm k thêm được nhiều. May là đầu năm có xúc ít vàng nên cũng đỡ, chứ nếu chỉ mỗi saving bank thì năm nay có khi còn chết nữa. Hôm nay t ngồi tính lại chi tiêu mới hết hồn:&lt;/p&gt; &lt;p&gt;- House + Utility: 2m5 (điện nước tăng phi mã)&lt;/p&gt; &lt;p&gt;- Lunch: 1m5, làm nvvp thì ăn 1 bữa trưa cỡ 50-70k/ngày; 5 ngày/tuần.&lt;/p&gt; &lt;p&gt;- Grocery: 7m, để mua thực phẩm, đồ dùng cần thiết.&lt;/p&gt; &lt;p&gt;- Biếu phụ huynh: 5m&lt;/p&gt; &lt;p&gt;- Chi tiêu vặt: quần áo, thuốc, tpbs 5m&lt;/p&gt; &lt;p&gt;- Giải trí: 5m (dạo này đi hẹn hò thì cứ phải 1m/ngày) &lt;/p&gt; &lt;p&gt;Nếu tháng nào có chi phí đột biến như hiếu hỉ, du lịch, khám bệnh... thì coi như móm.&lt;/p&gt; &lt;p&gt;Bác nào có mẹo gì tiết kiệm k, nhờ share giúp.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Defiant_Break_9024"&gt; /u/Defiant_Break_9024 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nxo8md/xin_tip_tiết_kiệm_chi_tiêu_khi_sống_ở_sg/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nxo8md/xin_tip_tiết_kiệm_chi_tiêu_khi_sống_ở_sg/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nxo8md/xin_tip_tiết_kiệm_chi_tiêu_khi_sống_ở_sg/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-04T08:09:28+00:00</published>
   </entry>
   <entry>
     <id>t3_1nxja9h</id>
