@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-10-05T06:44:41+00:00</updated>
+  <updated>2025-10-05T06:54:53+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -281,19 +281,6 @@
     <published>2025-10-04T09:16:35+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nyg1sf</id>
-    <title>IT Bách Khoa năm 4 nên nghỉ học không</title>
-    <updated>2025-10-05T05:40:54+00:00</updated>
-    <author>
-      <name>/u/Neither-Disk-9114</name>
-      <uri>https://old.reddit.com/user/Neither-Disk-9114</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Xin chào mọi người, thật sự em rất bế tắc nên mong mỏi người cho em lời khuyên chân thành ạ. Chuyện là như này: em học IT bách khoa HCM năm 4. Trong 4 năm qua, em không có động lực học + tư duy kém nên em chẳng tích lũy được kiến thức gì cả. Mấy môn tính toán thì em còn học được nhưng động đến code là em lại sợ. Ngoài ra trong 4 năm em ở nhà họ hàng nên không cần phải lo cơm áo gạo tiền, thành ra em cũng chẳng ra ngoài đi làm trải nghiệm. Hè năm nay em may mắn được nhận vào thực tập ở 1 công ty không lương. Khi bắt tay vào làm dự án em không thể code nổi 1 giao diện đơn giản mà chỉ hỏi chatgpt từ A đến Z. Em cảm thấy nếu cứ đi tiếp với tình trạng này thì cũng không thể làm đồ án để ra trường nổi và đã xin bảo lưu (đồng thời em bị chứng rối loạn Tic nên bảo lưu để chữa trị). Vậy em nên học lại trường khác hay chứ bám theo đây mọi người. Em xin cảm ơn ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Neither-Disk-9114"&gt; /u/Neither-Disk-9114 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nyg1sf/it_bách_khoa_năm_4_nên_nghỉ_học_không/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nyg1sf/it_bách_khoa_năm_4_nên_nghỉ_học_không/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nyg1sf/it_bách_khoa_năm_4_nên_nghỉ_học_không/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-05T05:40:54+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nycgo2</id>
     <title>làm sao để mình phát triển hơn.</title>
     <updated>2025-10-05T02:25:04+00:00</updated>
@@ -305,6 +292,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nycgo2/làm_sao_để_mình_phát_triển_hơn/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-05T02:25:04+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nyg1sf</id>
+    <title>IT Bách Khoa năm 4 nên nghỉ học không</title>
+    <updated>2025-10-05T05:40:54+00:00</updated>
+    <author>
+      <name>/u/Neither-Disk-9114</name>
+      <uri>https://old.reddit.com/user/Neither-Disk-9114</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Xin chào mọi người, thật sự em rất bế tắc nên mong mỏi người cho em lời khuyên chân thành ạ. Chuyện là như này: em học IT bách khoa HCM năm 4. Trong 4 năm qua, em không có động lực học + tư duy kém nên em chẳng tích lũy được kiến thức gì cả. Mấy môn tính toán thì em còn học được nhưng động đến code là em lại sợ. Ngoài ra trong 4 năm em ở nhà họ hàng nên không cần phải lo cơm áo gạo tiền, thành ra em cũng chẳng ra ngoài đi làm trải nghiệm. Hè năm nay em may mắn được nhận vào thực tập ở 1 công ty không lương. Khi bắt tay vào làm dự án em không thể code nổi 1 giao diện đơn giản mà chỉ hỏi chatgpt từ A đến Z. Em cảm thấy nếu cứ đi tiếp với tình trạng này thì cũng không thể làm đồ án để ra trường nổi và đã xin bảo lưu (đồng thời em bị chứng rối loạn Tic nên bảo lưu để chữa trị). Vậy em nên học lại trường khác hay chứ bám theo đây mọi người. Em xin cảm ơn ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Neither-Disk-9114"&gt; /u/Neither-Disk-9114 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nyg1sf/it_bách_khoa_năm_4_nên_nghỉ_học_không/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nyg1sf/it_bách_khoa_năm_4_nên_nghỉ_học_không/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nyg1sf/it_bách_khoa_năm_4_nên_nghỉ_học_không/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-05T05:40:54+00:00</published>
   </entry>
   <entry>
     <id>t3_1ny2mcl</id>
