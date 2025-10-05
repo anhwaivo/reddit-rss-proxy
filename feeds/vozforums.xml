@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-10-05T14:51:02+00:00</updated>
+  <updated>2025-10-05T15:15:05+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1nymc52</id>
-    <title>người yêu mình thích nhìn mình khóc vì trông đáng yêu, thì bạn ấy có phần bị" dậm bao" k mọi người</title>
-    <updated>2025-10-05T12:00:19+00:00</updated>
-    <author>
-      <name>/u/Top-Life-2709</name>
-      <uri>https://old.reddit.com/user/Top-Life-2709</uri>
-    </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Top-Life-2709"&gt; /u/Top-Life-2709 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nymc52/người_yêu_mình_thích_nhìn_mình_khóc_vì_trông_đáng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nymc52/người_yêu_mình_thích_nhìn_mình_khóc_vì_trông_đáng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nymc52/người_yêu_mình_thích_nhìn_mình_khóc_vì_trông_đáng/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-05T12:00:19+00:00</published>
-  </entry>
   <entry>
     <id>t3_1nxr1og</id>
     <title>Cần 1 cái ôm an ủi</title>
@@ -132,23 +119,23 @@
       <name>/u/ryuen24</name>
       <uri>https://old.reddit.com/user/ryuen24</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mn, em là sv năm cuối, sắp làm khóa luận về &lt;strong&gt;web tìm &amp;amp; thuê phòng trọ&lt;/strong&gt;. Dự định web sẽ có mấy chức năng cơ bản như:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Người thuê: tìm phòng, xem hợp đồng, thanh toán online, nhận thông báo tiền phòng...&lt;/li&gt; &lt;li&gt;Chủ trọ: đăng tin, quản lý phòng, hợp đồng, thu phí, duyệt yêu cầu thuê, v.v.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Hiện cô hướng dẫn có bảo em khảo sát mấy web hiện có như &lt;em&gt;batdongsan.com.vn, phongtro123.com, chotot.vn&lt;/em&gt;... để xem mấy trang này mạnh yếu chỗ nào, giải quyết được gì và còn thiếu gì.&lt;br /&gt; Mục tiêu là tìm lý do hợp lý để chọn đề tài này cho khóa luận 😅&lt;/p&gt; &lt;p&gt;Anh em nào từng dùng mấy trang trên rồi cho mình xin nhận xét thật nhé, kiểu như:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Có dễ tìm được phòng phù hợp không?&lt;/li&gt; &lt;li&gt;Giao diện, tính năng lọc có ổn không?&lt;/li&gt; &lt;li&gt;Cảm nhận chung khi dùng?,....&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Mình cảm ơn anh em trước 🙏&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ryuen24"&gt; /u/ryuen24 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nyptqt/anh_em_cho_xin_nhận_xét_về_mấy_trang_web_cho_thuê/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nyptqt/anh_em_cho_xin_nhận_xét_về_mấy_trang_web_cho_thuê/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mn, em là sv năm cuối, sắp làm khóa luận về &lt;strong&gt;web tìm &amp;amp; thuê phòng trọ&lt;/strong&gt;. Dự định web sẽ có mấy chức năng cơ bản như:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Người thuê: tìm phòng, xem hợp đồng, thanh toán online, nhận thông báo tiền phòng...&lt;/li&gt; &lt;li&gt;Chủ trọ: đăng tin, quản lý phòng, hợp đồng, thu phí, duyệt yêu cầu thuê, v.v.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Hiện cô hướng dẫn có bảo em khảo sát mấy web hiện có như &lt;em&gt;batdongsan.com.vn, phongtro123.com, chotot.vn&lt;/em&gt;... để xem mấy trang này mạnh yếu chỗ nào, giải quyết được gì và còn thiếu gì.&lt;br /&gt; Mục tiêu là tìm lý do hợp lý để chọn đề tài này cho khóa luận 😅&lt;/p&gt; &lt;p&gt;Anh em nào từng dùng mấy trang trên rồi cho mình xin nhận xét thật nhé, kiểu như:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Có dễ tìm được phòng phù hợp không?&lt;/li&gt; &lt;li&gt;Giao diện, tính năng lọc có ổn không?&lt;/li&gt; &lt;li&gt;Cảm nhận chung khi dùng?,....&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Mình cảm ơn anh em trước 🙏&lt;/p&gt; &lt;p&gt;&lt;strong&gt;P/s : em làm đề tài khóa luận làm ứng dụng web nên sẽ chỉ quan trọng về một số tiêu chí như tính năng, giao diện hay những thứ kiểu đó chứ em k có quan trọng lắm về nhận xét về việc tính chính xác của dữ liệu&lt;/strong&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ryuen24"&gt; /u/ryuen24 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nyptqt/anh_em_cho_xin_nhận_xét_về_mấy_trang_web_cho_thuê/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nyptqt/anh_em_cho_xin_nhận_xét_về_mấy_trang_web_cho_thuê/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
     <link href="https://old.reddit.com/r/vozforums/comments/1nyptqt/anh_em_cho_xin_nhận_xét_về_mấy_trang_web_cho_thuê/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-05T14:34:40+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nypxxo</id>
-    <title>Chia tay vì hết tình cảm chứ không phải vì có người khác</title>
-    <updated>2025-10-05T14:39:17+00:00</updated>
+    <id>t3_1nyqtey</id>
+    <title>Đào lửa online</title>
+    <updated>2025-10-05T15:13:28+00:00</updated>
     <author>
-      <name>/u/Working_Builder_4892</name>
-      <uri>https://old.reddit.com/user/Working_Builder_4892</uri>
+      <name>/u/That_Mastodon_4981</name>
+      <uri>https://old.reddit.com/user/That_Mastodon_4981</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Dạ chào mọi người,&lt;br /&gt; Em là nam, 22 tuổi, sắp ra trường. Hiện em đang quen một bạn nữ 17 tuổi, học lớp 12. Tụi em yêu xa – em ở miền Nam, bạn ấy ở miền Bắc. Đây là mối tình đầu của em, và tụi em đã quen nhau được khoảng 1 tháng rưỡi, chính thức yêu nhau được 1 tháng.&lt;/p&gt; &lt;p&gt;Tụi em quen nhau rất trong sáng, không có bất kỳ ý định xấu nào cả. Cả hai đều hơi hướng nội, cuộc sống lặp lại mỗi ngày. Cuối tuần em thường rủ bạn call để xem phim chung cho đỡ buồn. Lúc đầu rất vui, nhưng theo thời gian, mọi thứ dần trở nên quen thuộc đến mức hơi nhạt.&lt;/p&gt; &lt;p&gt;Gần đây em cảm nhận được sự thay đổi từ bạn. Bạn vẫn nhắn tin, vẫn rất lịch sự, nhưng lời nói đã không còn cảm xúc như trước nữa. Em từng đưa tài khoản mạng xã hội để bạn yên tâm rằng em không lừa dối hay giấu điều gì, nhưng em hiểu rõ điều đó không đủ để giữ được tình cảm khi sự kết nối giữa hai người đang mờ dần.&lt;/p&gt; &lt;p&gt;Thật lòng em vẫn còn thương bạn, em đi đâu, làm gì trong đầu đều nghĩ đến bạn. Bạn bằng tuổi em trai em, sống rất tình cảm, chăm chỉ, biết lo cho gia đình. Em biết bạn từng bị tổn thương bởi người yêu cũ, nên em lại càng không muốn mình là người khiến bạn thêm một lần đau lòng.&lt;/p&gt; &lt;p&gt;Nhưng em cũng tự hỏi: nếu cứ tiếp tục trong khi cả hai đều dần chán, thì liệu có đang làm khổ nhau không? Em đang suy nghĩ đến việc chủ động nói lời chia tay – nhẹ nhàng, êm đẹp – để cả hai có thể giải thoát và giữ lại tình bạn nếu còn duyên.&lt;/p&gt; &lt;p&gt;Mọi người nghĩ sao? Em có đang suy nghĩ quá nhiều không? Có ai từng rơi vào hoàn cảnh giống em chưa?&lt;br /&gt; Rất mong được lắng nghe lời khuyên thật lòng.&lt;br /&gt; Em cảm ơn mọi người đã đọc.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Working_Builder_4892"&gt; /u/Working_Builder_4892 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nypxxo/chia_tay_vì_hết_tình_cảm_chứ_không_phải_vì_có/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nypxxo/chia_tay_vì_hết_tình_cảm_chứ_không_phải_vì_có/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nypxxo/chia_tay_vì_hết_tình_cảm_chứ_không_phải_vì_có/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình F 3x tuổi, single. Dạo gần đây có mấy account nam nhìn toàn trai đẹp thành công, giàu có spam messenger mình. Trước mình hay bỏ qua nhưng lúc check fb thì thấy họ chụp với gđ và có tương tác với các account khác nên cũng thử nói chuyện. Nói 1 hồi thì đòi xin sđt. Mình ko cho thì 1 lát sau đòi gọi messenger tâm sự. Mình nghi đào lửa quá tại dạo gần đây nghe tin quá nhiều ng bị lừa. Mà mình tra google là tụi nó lấy số đt thì có thể dò ra thông tin cá nhân hay lập tài khoản giả mạo. Còn gọi điện thì tụi nó ghi âm giọng nói để giải giọng gọi cho người thân mượn tiền. Ko biết có đúng không? &lt;/p&gt; &lt;p&gt;Mình ở nước ngoài cũng lâu nên mấy cái này mình cũng ko rành lắm. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/That_Mastodon_4981"&gt; /u/That_Mastodon_4981 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nyqtey/đào_lửa_online/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nyqtey/đào_lửa_online/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nyqtey/đào_lửa_online/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-05T14:39:17+00:00</published>
+    <published>2025-10-05T15:13:28+00:00</published>
   </entry>
   <entry>
     <id>t3_1ny2mcl</id>
@@ -177,19 +164,6 @@
     <published>2025-10-05T11:03:22+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nypmgn</id>
-    <title>Sao thời này còn lắm kẻ tiểu nhân vậy?</title>
-    <updated>2025-10-05T14:26:34+00:00</updated>
-    <author>
-      <name>/u/Funny_Benefit_5566</name>
-      <uri>https://old.reddit.com/user/Funny_Benefit_5566</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Đớn hơn là kẻ đó lại là họ hàng trong gia đình, gđ mình còn khó khăn nên phải nương nhờ nhà ông bà, họ có của ăn của để đhs vẫn về sống chung, rồi như sợ nhà mình chiếm đoạt phần của họ, hết lần này đến lần khác bày mưu khích bác nhà mình… Gặp những loại như vậy thì nên xử sự như nào đây (vâng là câu chuyện họ nội và giặc Ngô cô chồng muôn thuở đấy ạ, giờ nhà mình bị dày vò sống ko bằng ch*t hic)&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Funny_Benefit_5566"&gt; /u/Funny_Benefit_5566 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nypmgn/sao_thời_này_còn_lắm_kẻ_tiểu_nhân_vậy/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nypmgn/sao_thời_này_còn_lắm_kẻ_tiểu_nhân_vậy/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nypmgn/sao_thời_này_còn_lắm_kẻ_tiểu_nhân_vậy/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-05T14:26:34+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nyn5e7</id>
     <title>Cảm giác mất định hướng tuổi 20</title>
     <updated>2025-10-05T12:40:29+00:00</updated>
@@ -214,6 +188,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nyndg8/làm_sao_để_phát_triển_bản_thân_khi_xuất_phát_điểm/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-05T12:50:55+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nypmgn</id>
+    <title>Sao thời này còn lắm kẻ tiểu nhân vậy?</title>
+    <updated>2025-10-05T14:26:34+00:00</updated>
+    <author>
+      <name>/u/Funny_Benefit_5566</name>
+      <uri>https://old.reddit.com/user/Funny_Benefit_5566</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Đớn hơn là kẻ đó lại là họ hàng trong gia đình, gđ mình còn khó khăn nên phải nương nhờ nhà ông bà, họ có của ăn của để đhs vẫn về sống chung, rồi như sợ nhà mình chiếm đoạt phần của họ, hết lần này đến lần khác bày mưu khích bác nhà mình… Gặp những loại như vậy thì nên xử sự như nào đây (vâng là câu chuyện họ nội và giặc Ngô cô chồng muôn thuở đấy ạ, giờ nhà mình bị dày vò sống ko bằng ch*t hic)&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Funny_Benefit_5566"&gt; /u/Funny_Benefit_5566 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nypmgn/sao_thời_này_còn_lắm_kẻ_tiểu_nhân_vậy/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nypmgn/sao_thời_này_còn_lắm_kẻ_tiểu_nhân_vậy/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nypmgn/sao_thời_này_còn_lắm_kẻ_tiểu_nhân_vậy/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-05T14:26:34+00:00</published>
   </entry>
   <entry>
     <id>t3_1nyo6d2</id>
@@ -253,6 +240,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nykq97/tự_học_tiếng_nhật/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-05T10:29:59+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nypxxo</id>
+    <title>Chia tay vì hết tình cảm chứ không phải vì có người khác</title>
+    <updated>2025-10-05T14:39:17+00:00</updated>
+    <author>
+      <name>/u/Working_Builder_4892</name>
+      <uri>https://old.reddit.com/user/Working_Builder_4892</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Dạ chào mọi người,&lt;br /&gt; Em là nam, 22 tuổi, sắp ra trường. Hiện em đang quen một bạn nữ 17 tuổi, học lớp 12. Tụi em yêu xa – em ở miền Nam, bạn ấy ở miền Bắc. Đây là mối tình đầu của em, và tụi em đã quen nhau được khoảng 1 tháng rưỡi, chính thức yêu nhau được 1 tháng.&lt;/p&gt; &lt;p&gt;Tụi em quen nhau rất trong sáng, không có bất kỳ ý định xấu nào cả. Cả hai đều hơi hướng nội, cuộc sống lặp lại mỗi ngày. Cuối tuần em thường rủ bạn call để xem phim chung cho đỡ buồn. Lúc đầu rất vui, nhưng theo thời gian, mọi thứ dần trở nên quen thuộc đến mức hơi nhạt.&lt;/p&gt; &lt;p&gt;Gần đây em cảm nhận được sự thay đổi từ bạn. Bạn vẫn nhắn tin, vẫn rất lịch sự, nhưng lời nói đã không còn cảm xúc như trước nữa. Em từng đưa tài khoản mạng xã hội để bạn yên tâm rằng em không lừa dối hay giấu điều gì, nhưng em hiểu rõ điều đó không đủ để giữ được tình cảm khi sự kết nối giữa hai người đang mờ dần.&lt;/p&gt; &lt;p&gt;Thật lòng em vẫn còn thương bạn, em đi đâu, làm gì trong đầu đều nghĩ đến bạn. Bạn bằng tuổi em trai em, sống rất tình cảm, chăm chỉ, biết lo cho gia đình. Em biết bạn từng bị tổn thương bởi người yêu cũ, nên em lại càng không muốn mình là người khiến bạn thêm một lần đau lòng.&lt;/p&gt; &lt;p&gt;Nhưng em cũng tự hỏi: nếu cứ tiếp tục trong khi cả hai đều dần chán, thì liệu có đang làm khổ nhau không? Em đang suy nghĩ đến việc chủ động nói lời chia tay – nhẹ nhàng, êm đẹp – để cả hai có thể giải thoát và giữ lại tình bạn nếu còn duyên.&lt;/p&gt; &lt;p&gt;Mọi người nghĩ sao? Em có đang suy nghĩ quá nhiều không? Có ai từng rơi vào hoàn cảnh giống em chưa?&lt;br /&gt; Rất mong được lắng nghe lời khuyên thật lòng.&lt;br /&gt; Em cảm ơn mọi người đã đọc.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Working_Builder_4892"&gt; /u/Working_Builder_4892 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nypxxo/chia_tay_vì_hết_tình_cảm_chứ_không_phải_vì_có/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nypxxo/chia_tay_vì_hết_tình_cảm_chứ_không_phải_vì_có/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nypxxo/chia_tay_vì_hết_tình_cảm_chứ_không_phải_vì_có/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-05T14:39:17+00:00</published>
   </entry>
   <entry>
     <id>t3_1nymfol</id>
