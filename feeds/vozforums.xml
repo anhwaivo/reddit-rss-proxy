@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-10-06T19:14:06+00:00</updated>
+  <updated>2025-10-06T19:26:50+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -281,19 +281,6 @@
     <published>2025-10-06T07:31:05+00:00</published>
   </entry>
   <entry>
-    <id>t3_1nzp6y0</id>
-    <title>Có nên đi hay không ?</title>
-    <updated>2025-10-06T17:16:58+00:00</updated>
-    <author>
-      <name>/u/Effective_Finish_865</name>
-      <uri>https://old.reddit.com/user/Effective_Finish_865</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là tôi có một cô bạn chơi khá thân hồi C3 nhưng sau khi vào đại học thì không còn gặp nhau nữa chắc cỡ 5 năm rồi. Tối nay tôi không biết sao tôi vào xem tin nhắn lớp thì lớp trưởng có nhắn từ 1/10 vừa rồi ba bạn này mất mà tôi không để ý nên không biết, hôm nay tôi vừa về quê tôi tính tối mai lên nhà bạn này thắp nén nhan cho ba cô bạn này. Mà cứ thấy nó hơi sao sao không liên lạc năm năm với cả lúc có chuyện t cũng không nói tiếng gì giờ đùng cái lên nhà có sao không các ông hay tôi chỉ nên nhắn tin thôi các ông?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Effective_Finish_865"&gt; /u/Effective_Finish_865 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nzp6y0/có_nên_đi_hay_không/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nzp6y0/có_nên_đi_hay_không/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nzp6y0/có_nên_đi_hay_không/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-06T17:16:58+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1nzd71h</id>
     <title>Thích bạn cùng lớp</title>
     <updated>2025-10-06T08:08:25+00:00</updated>
@@ -318,6 +305,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nz8c5o/ban_nãy_lên_phường_đưa_giấy_tạm_hoãn_nghĩa_vụ/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-06T03:20:58+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1nzp6y0</id>
+    <title>Có nên đi hay không ?</title>
+    <updated>2025-10-06T17:16:58+00:00</updated>
+    <author>
+      <name>/u/Effective_Finish_865</name>
+      <uri>https://old.reddit.com/user/Effective_Finish_865</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là tôi có một cô bạn chơi khá thân hồi C3 nhưng sau khi vào đại học thì không còn gặp nhau nữa chắc cỡ 5 năm rồi. Tối nay tôi không biết sao tôi vào xem tin nhắn lớp thì lớp trưởng có nhắn từ 1/10 vừa rồi ba bạn này mất mà tôi không để ý nên không biết, hôm nay tôi vừa về quê tôi tính tối mai lên nhà bạn này thắp nén nhan cho ba cô bạn này. Mà cứ thấy nó hơi sao sao không liên lạc năm năm với cả lúc có chuyện t cũng không nói tiếng gì giờ đùng cái lên nhà có sao không các ông hay tôi chỉ nên nhắn tin thôi các ông?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Effective_Finish_865"&gt; /u/Effective_Finish_865 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nzp6y0/có_nên_đi_hay_không/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nzp6y0/có_nên_đi_hay_không/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nzp6y0/có_nên_đi_hay_không/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-06T17:16:58+00:00</published>
   </entry>
   <entry>
     <id>t3_1nzcer2</id>
