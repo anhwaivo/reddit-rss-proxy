@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-10-06T14:17:44+00:00</updated>
+  <updated>2025-10-06T14:42:44+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -255,6 +255,19 @@
     <published>2025-10-06T08:15:50+00:00</published>
   </entry>
   <entry>
+    <id>t3_1nzcmsi</id>
+    <title>Gợi ý giúp mình tên một bộ phim xem khi thất tình đi các bạn</title>
+    <updated>2025-10-06T07:31:05+00:00</updated>
+    <author>
+      <name>/u/Electrical_Resort933</name>
+      <uri>https://old.reddit.com/user/Electrical_Resort933</uri>
+    </author>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Electrical_Resort933"&gt; /u/Electrical_Resort933 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nzcmsi/gợi_ý_giúp_mình_tên_một_bộ_phim_xem_khi_thất_tình/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nzcmsi/gợi_ý_giúp_mình_tên_một_bộ_phim_xem_khi_thất_tình/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1nzcmsi/gợi_ý_giúp_mình_tên_một_bộ_phim_xem_khi_thất_tình/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-06T07:31:05+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1nzdjsd</id>
     <title>Nhờ bạn nào có ChatGPT xịn bỏ câu hỏi toán/vật lý này vào giúp mình ạ.</title>
     <updated>2025-10-06T08:32:33+00:00</updated>
@@ -292,19 +305,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1nzd71h/thích_bạn_cùng_lớp/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-06T08:08:25+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1nzcmsi</id>
-    <title>Gợi ý giúp mình tên một bộ phim xem khi thất tình đi các bạn</title>
-    <updated>2025-10-06T07:31:05+00:00</updated>
-    <author>
-      <name>/u/Electrical_Resort933</name>
-      <uri>https://old.reddit.com/user/Electrical_Resort933</uri>
-    </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Electrical_Resort933"&gt; /u/Electrical_Resort933 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nzcmsi/gợi_ý_giúp_mình_tên_một_bộ_phim_xem_khi_thất_tình/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1nzcmsi/gợi_ý_giúp_mình_tên_một_bộ_phim_xem_khi_thất_tình/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1nzcmsi/gợi_ý_giúp_mình_tên_một_bộ_phim_xem_khi_thất_tình/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-06T07:31:05+00:00</published>
   </entry>
   <entry>
     <id>t3_1nz8c5o</id>
