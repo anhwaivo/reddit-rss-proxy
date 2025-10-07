@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-10-07T07:17:53+00:00</updated>
+  <updated>2025-10-07T07:37:47+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -151,6 +151,19 @@
     <published>2025-10-06T08:08:25+00:00</published>
   </entry>
   <entry>
+    <id>t3_1o067un</id>
+    <title>Tỉnh thức - Khoa học tâm linh</title>
+    <updated>2025-10-07T05:27:10+00:00</updated>
+    <author>
+      <name>/u/Alone_Following6834</name>
+      <uri>https://old.reddit.com/user/Alone_Following6834</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;*Có thể lướt qua nếu chưa tìm hiểu hoặc k hiểu về lĩnh vực này. &lt;/p&gt; &lt;p&gt;Đây là một lĩnh vực rất khó và rất ít cộng đồng hay người có thể chia sẽ. Tôi đã tìm hiểu 1 năm hơn từ ngày nhận diện nổi đau và cảm thấy mình đang bị mắc lại ở tầng “thoát khổ”. Ai đã hiểu hoặc đang tìm hiểu thì có thể để lại 1 vài câu nói về lĩnh vực này được không ? Tôi biết tôi sẽ không có được trải nghiệm của bạn nhưng tôi sẽ nhận biết chúng đang là. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Alone_Following6834"&gt; /u/Alone_Following6834 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o067un/tỉnh_thức_khoa_học_tâm_linh/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o067un/tỉnh_thức_khoa_học_tâm_linh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o067un/tỉnh_thức_khoa_học_tâm_linh/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-07T05:27:10+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1nzonmw</id>
     <title>dáng chạy của mình rất xấu, xin các bác chỉ ra những thứ mình cần sửa để có dáng chạy đẹp hơn</title>
     <updated>2025-10-06T16:57:04+00:00</updated>
@@ -203,19 +216,6 @@
     <published>2025-10-07T01:15:14+00:00</published>
   </entry>
   <entry>
-    <id>t3_1o067un</id>
-    <title>Tỉnh thức - Khoa học tâm linh</title>
-    <updated>2025-10-07T05:27:10+00:00</updated>
-    <author>
-      <name>/u/Alone_Following6834</name>
-      <uri>https://old.reddit.com/user/Alone_Following6834</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;*Có thể lướt qua nếu chưa tìm hiểu hoặc k hiểu về lĩnh vực này. &lt;/p&gt; &lt;p&gt;Đây là một lĩnh vực rất khó và rất ít cộng đồng hay người có thể chia sẽ. Tôi đã tìm hiểu 1 năm hơn từ ngày nhận diện nổi đau và cảm thấy mình đang bị mắc lại ở tầng “thoát khổ”. Ai đã hiểu hoặc đang tìm hiểu thì có thể để lại 1 vài câu nói về lĩnh vực này được không ? Tôi biết tôi sẽ không có được trải nghiệm của bạn nhưng tôi sẽ nhận biết chúng đang là. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Alone_Following6834"&gt; /u/Alone_Following6834 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o067un/tỉnh_thức_khoa_học_tâm_linh/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o067un/tỉnh_thức_khoa_học_tâm_linh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o067un/tỉnh_thức_khoa_học_tâm_linh/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-07T05:27:10+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1o07tjo</id>
     <title>laptop cũ :v</title>
     <updated>2025-10-07T07:06:07+00:00</updated>
@@ -242,19 +242,6 @@
     <published>2025-10-07T03:31:41+00:00</published>
   </entry>
   <entry>
-    <id>t3_1o06qml</id>
-    <title>tự học</title>
-    <updated>2025-10-07T05:58:52+00:00</updated>
-    <author>
-      <name>/u/Own-Treat8980</name>
-      <uri>https://old.reddit.com/user/Own-Treat8980</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mọi người hay bảo lên đại học là tự học . Thế tự học là học những gì vậy mọi người em phân vân quá huhu. Học ăn học nói học gói học mở hay học cái gì cụ thể mọi người chỉ em phát&lt;/p&gt; &lt;p&gt;Hiện tại em có bằng Hsk5 và ielts b2 r ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Own-Treat8980"&gt; /u/Own-Treat8980 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o06qml/tự_học/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o06qml/tự_học/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o06qml/tự_học/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-07T05:58:52+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1o06r62</id>
     <title>Lớn tuổi có còn học được tiếng Anh không?</title>
     <updated>2025-10-07T05:59:45+00:00</updated>
@@ -266,6 +253,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1o06r62/lớn_tuổi_có_còn_học_được_tiếng_anh_không/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-07T05:59:45+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1o06qml</id>
+    <title>tự học</title>
+    <updated>2025-10-07T05:58:52+00:00</updated>
+    <author>
+      <name>/u/Own-Treat8980</name>
+      <uri>https://old.reddit.com/user/Own-Treat8980</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mọi người hay bảo lên đại học là tự học . Thế tự học là học những gì vậy mọi người em phân vân quá huhu. Học ăn học nói học gói học mở hay học cái gì cụ thể mọi người chỉ em phát&lt;/p&gt; &lt;p&gt;Hiện tại em có bằng Hsk5 và ielts b2 r ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Own-Treat8980"&gt; /u/Own-Treat8980 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o06qml/tự_học/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o06qml/tự_học/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o06qml/tự_học/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-07T05:58:52+00:00</published>
   </entry>
   <entry>
     <id>t3_1o02m18</id>
