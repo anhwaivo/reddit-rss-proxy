@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-10-08T16:22:14+00:00</updated>
+  <updated>2025-10-08T16:45:54+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -138,19 +138,6 @@
     <published>2025-10-08T15:57:51+00:00</published>
   </entry>
   <entry>
-    <id>t3_1o198sk</id>
-    <title>Vụ antex đang nóng</title>
-    <updated>2025-10-08T12:35:38+00:00</updated>
-    <author>
-      <name>/u/lolotika</name>
-      <uri>https://old.reddit.com/user/lolotika</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1o198sk/vụ_antex_đang_nóng/"&gt; &lt;img alt="Vụ antex đang nóng" src="https://preview.redd.it/ch1rdprcuvtf1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=1d3eea5df27f35f7706abdb310dd15f6bdd0829e" title="Vụ antex đang nóng" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Liệu shark bình có bị bế đi không các bác. Nghe nói công ty antex nói shark không tham gia điều hành. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/lolotika"&gt; /u/lolotika &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/ch1rdprcuvtf1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o198sk/vụ_antex_đang_nóng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o198sk/vụ_antex_đang_nóng/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-08T12:35:38+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1o158le</id>
     <title>Cần tìm đồ trị mụn</title>
     <updated>2025-10-08T08:52:00+00:00</updated>
@@ -188,6 +175,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1o0f58q/bắt_trẻ_làm_việc_để_trả_nợ_nó_gây_ra/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-07T13:43:15+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1o198sk</id>
+    <title>Vụ antex đang nóng</title>
+    <updated>2025-10-08T12:35:38+00:00</updated>
+    <author>
+      <name>/u/lolotika</name>
+      <uri>https://old.reddit.com/user/lolotika</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1o198sk/vụ_antex_đang_nóng/"&gt; &lt;img alt="Vụ antex đang nóng" src="https://preview.redd.it/ch1rdprcuvtf1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=1d3eea5df27f35f7706abdb310dd15f6bdd0829e" title="Vụ antex đang nóng" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Liệu shark bình có bị bế đi không các bác. Nghe nói công ty antex nói shark không tham gia điều hành. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/lolotika"&gt; /u/lolotika &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/ch1rdprcuvtf1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o198sk/vụ_antex_đang_nóng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o198sk/vụ_antex_đang_nóng/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-08T12:35:38+00:00</published>
   </entry>
   <entry>
     <id>t3_1o0y7rl</id>
@@ -229,6 +229,19 @@
     <published>2025-10-08T13:34:07+00:00</published>
   </entry>
   <entry>
+    <id>t3_1o1f7u5</id>
+    <title>Đào tạo VB2 ngành Ngôn ngữ Anh tràn lan</title>
+    <updated>2025-10-08T16:24:06+00:00</updated>
+    <author>
+      <name>/u/Few-Leader5324</name>
+      <uri>https://old.reddit.com/user/Few-Leader5324</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hiện tại mình thấy có trường ĐH Trà Vinh chạy ads đào tạo hệ từ xa ngành NNA tràn lan luôn, đồng nghiệp mình nghe nói là có vb2 NNA là có thể đi dạy nên cũng theo học nhiều lắm vì học dễ.&lt;/p&gt; &lt;p&gt;Các bác nghĩ sao về chất lượng đào tạo cũng như hệ quả sau này?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Few-Leader5324"&gt; /u/Few-Leader5324 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o1f7u5/đào_tạo_vb2_ngành_ngôn_ngữ_anh_tràn_lan/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o1f7u5/đào_tạo_vb2_ngành_ngôn_ngữ_anh_tràn_lan/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o1f7u5/đào_tạo_vb2_ngành_ngôn_ngữ_anh_tràn_lan/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-08T16:24:06+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1o10qjq</id>
     <title>Vì sao nhiều người thích Tiên Hiệp?</title>
     <updated>2025-10-08T04:14:40+00:00</updated>
@@ -266,19 +279,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1o0xvd6/người_trẻ_học_lớn/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-08T01:49:27+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1o14wzg</id>
-    <title>Yêu xa với người sắp đi du học với làm sao giữ tâm lý tích cực ạ</title>
-    <updated>2025-10-08T08:30:41+00:00</updated>
-    <author>
-      <name>/u/Ok-Wolf-215</name>
-      <uri>https://old.reddit.com/user/Ok-Wolf-215</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, em 22 tuổi. Em đang quen một cô người yêu rất dễ thương nhưng sắp tới em ấy sẽ đi du học ở Pháp. Em vốn là người hay ghen, có chút tính chiếm hữu và còn hay overthinking nữa nên nhiều khi tự làm mình lo lắng, suy nghĩ tiêu cực🥹.&lt;/p&gt; &lt;p&gt;Em thực sự muốn học cách suy nghĩ tích cực và lạc quan hơn để có thể ủng hộ em ấy theo đuổi ước mơ, đồng thời giữ cho tình cảm của hai đứa bền chặt và không làm người yêu bị áp lực. Mong mọi người chia sẻ kinh nghiệm hoặc lời khuyên giúp em cải thiện tâm lý và kiểm soát cảm xúc tốt hơn ạ❤️‍🩹.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ok-Wolf-215"&gt; /u/Ok-Wolf-215 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o14wzg/yêu_xa_với_người_sắp_đi_du_học_với_làm_sao_giữ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o14wzg/yêu_xa_với_người_sắp_đi_du_học_với_làm_sao_giữ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o14wzg/yêu_xa_với_người_sắp_đi_du_học_với_làm_sao_giữ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-08T08:30:41+00:00</published>
   </entry>
   <entry>
     <id>t3_1o1e7qo</id>
