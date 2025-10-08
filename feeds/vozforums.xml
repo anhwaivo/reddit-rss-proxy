@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-10-08T17:39:28+00:00</updated>
+  <updated>2025-10-08T17:50:23+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -60,19 +60,6 @@
     <published>2025-10-08T15:53:30+00:00</published>
   </entry>
   <entry>
-    <id>t3_1o1ehw4</id>
-    <title>Tư vấn đồ trekking</title>
-    <updated>2025-10-08T15:57:51+00:00</updated>
-    <author>
-      <name>/u/Remote_Paramedic_385</name>
-      <uri>https://old.reddit.com/user/Remote_Paramedic_385</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình newbie đam mê đi khám phá nhưng chưa 1 lần ik trekk, muốn sắm đồ như giày, quần áo, mũ… mà không biết hãng nào ok nhỉ các bác. Giá phải chăng thui ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Remote_Paramedic_385"&gt; /u/Remote_Paramedic_385 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o1ehw4/tư_vấn_đồ_trekking/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o1ehw4/tư_vấn_đồ_trekking/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o1ehw4/tư_vấn_đồ_trekking/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-08T15:57:51+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1o158le</id>
     <title>Cần tìm đồ trị mụn</title>
     <updated>2025-10-08T08:52:00+00:00</updated>
@@ -123,19 +110,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1o1g1fb/data_engineer_bootcamp_cole_center/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-08T16:54:21+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1o1g5jo</id>
-    <title>Đi làm việc tại Đức - có bằng đại học lương 2500Eur/tháng 80 củ</title>
-    <updated>2025-10-08T16:58:32+00:00</updated>
-    <author>
-      <name>/u/Lazy-Split6478</name>
-      <uri>https://old.reddit.com/user/Lazy-Split6478</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình có vài job muốn giới thiệu anh em làm việc ở đức - Yêu cầu duy nhất có bằng đại học và chịu cực khổ được - lương cao, định cư dễ, anh em nào cần mình giới thiệu - dĩ nhiên là có phí nha (nói trước) mà mình giới thiệu nhiều rồi nên anh em yên tâm 💪🏻&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Lazy-Split6478"&gt; /u/Lazy-Split6478 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o1g5jo/đi_làm_việc_tại_đức_có_bằng_đại_học_lương/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o1g5jo/đi_làm_việc_tại_đức_có_bằng_đại_học_lương/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o1g5jo/đi_làm_việc_tại_đức_có_bằng_đại_học_lương/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-08T16:58:32+00:00</published>
   </entry>
   <entry>
     <id>t3_1o1gqyj</id>
@@ -229,6 +203,19 @@
     <published>2025-10-08T13:34:07+00:00</published>
   </entry>
   <entry>
+    <id>t3_1o1ehw4</id>
+    <title>Tư vấn đồ trekking</title>
+    <updated>2025-10-08T15:57:51+00:00</updated>
+    <author>
+      <name>/u/Remote_Paramedic_385</name>
+      <uri>https://old.reddit.com/user/Remote_Paramedic_385</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình newbie đam mê đi khám phá nhưng chưa 1 lần ik trekk, muốn sắm đồ như giày, quần áo, mũ… mà không biết hãng nào ok nhỉ các bác. Giá phải chăng thui ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Remote_Paramedic_385"&gt; /u/Remote_Paramedic_385 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o1ehw4/tư_vấn_đồ_trekking/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o1ehw4/tư_vấn_đồ_trekking/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o1ehw4/tư_vấn_đồ_trekking/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-08T15:57:51+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1o10qjq</id>
     <title>Vì sao nhiều người thích Tiên Hiệp?</title>
     <updated>2025-10-08T04:14:40+00:00</updated>
@@ -253,6 +240,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1o11fuh/đang_chán_đời_thì_xem_phim_gì_đây_các_bác/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-08T04:53:11+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1o1g5jo</id>
+    <title>Đi làm việc tại Đức - có bằng đại học lương 2500Eur/tháng 80 củ</title>
+    <updated>2025-10-08T16:58:32+00:00</updated>
+    <author>
+      <name>/u/Lazy-Split6478</name>
+      <uri>https://old.reddit.com/user/Lazy-Split6478</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình có vài job muốn giới thiệu anh em làm việc ở đức - Yêu cầu duy nhất có bằng đại học và chịu cực khổ được - lương cao, định cư dễ, anh em nào cần mình giới thiệu - dĩ nhiên là có phí nha (nói trước) mà mình giới thiệu nhiều rồi nên anh em yên tâm 💪🏻&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Lazy-Split6478"&gt; /u/Lazy-Split6478 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o1g5jo/đi_làm_việc_tại_đức_có_bằng_đại_học_lương/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o1g5jo/đi_làm_việc_tại_đức_có_bằng_đại_học_lương/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o1g5jo/đi_làm_việc_tại_đức_có_bằng_đại_học_lương/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-08T16:58:32+00:00</published>
   </entry>
   <entry>
     <id>t3_1o1gfz4</id>
@@ -281,19 +281,6 @@
     <published>2025-10-08T01:49:27+00:00</published>
   </entry>
   <entry>
-    <id>t3_1o1e7qo</id>
-    <title>Xin lời khuyên cho sinh viên IT</title>
-    <updated>2025-10-08T15:47:41+00:00</updated>
-    <author>
-      <name>/u/Necessary-Bobcat1267</name>
-      <uri>https://old.reddit.com/user/Necessary-Bobcat1267</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em là sinh viên năm 4 ngành an toàn thông tin, chẳng là chiều nay giảng viên lớp e có nhắn tin trong nhóm là bạn nào quan tâm đến AI muốn thực tập nhắn tin với cô cô giới thiệu cho. Nhma nghe nói bên viettel phải bằng giỏi mới được mà e gpa kh được giỏi với AI e cũng chỉ làm được 1 project đơn giản thì có nên apply không ạ, nếu được thì nhét thêm gì vô cv thì tốt hơn ạ. Em cảm ơn ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Necessary-Bobcat1267"&gt; /u/Necessary-Bobcat1267 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o1e7qo/xin_lời_khuyên_cho_sinh_viên_it/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o1e7qo/xin_lời_khuyên_cho_sinh_viên_it/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o1e7qo/xin_lời_khuyên_cho_sinh_viên_it/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-08T15:47:41+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1o19fn9</id>
     <title>Gu bạn gái</title>
     <updated>2025-10-08T12:43:53+00:00</updated>
@@ -305,6 +292,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1o19fn9/gu_bạn_gái/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-08T12:43:53+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1o1e7qo</id>
+    <title>Xin lời khuyên cho sinh viên IT</title>
+    <updated>2025-10-08T15:47:41+00:00</updated>
+    <author>
+      <name>/u/Necessary-Bobcat1267</name>
+      <uri>https://old.reddit.com/user/Necessary-Bobcat1267</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em là sinh viên năm 4 ngành an toàn thông tin, chẳng là chiều nay giảng viên lớp e có nhắn tin trong nhóm là bạn nào quan tâm đến AI muốn thực tập nhắn tin với cô cô giới thiệu cho. Nhma nghe nói bên viettel phải bằng giỏi mới được mà e gpa kh được giỏi với AI e cũng chỉ làm được 1 project đơn giản thì có nên apply không ạ, nếu được thì nhét thêm gì vô cv thì tốt hơn ạ. Em cảm ơn ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Necessary-Bobcat1267"&gt; /u/Necessary-Bobcat1267 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o1e7qo/xin_lời_khuyên_cho_sinh_viên_it/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o1e7qo/xin_lời_khuyên_cho_sinh_viên_it/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o1e7qo/xin_lời_khuyên_cho_sinh_viên_it/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-08T15:47:41+00:00</published>
   </entry>
   <entry>
     <id>t3_1o1b744</id>
