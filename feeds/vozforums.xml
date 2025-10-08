@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-10-08T13:54:59+00:00</updated>
+  <updated>2025-10-08T14:18:18+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1o15kbo</id>
-    <title>Lại bị fb chặn tin nhắn</title>
-    <updated>2025-10-08T09:13:37+00:00</updated>
-    <author>
-      <name>/u/Harryluong</name>
-      <uri>https://old.reddit.com/user/Harryluong</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1o15kbo/lại_bị_fb_chặn_tin_nhắn/"&gt; &lt;img alt="Lại bị fb chặn tin nhắn" src="https://preview.redd.it/fe9lfbcbuutf1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=eada27889a399ae43584e575c0c7572f65dc98db" title="Lại bị fb chặn tin nhắn" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;làm sao cho fb hết chặn tin nhắn mình đây mọi người, thanks mọi ng ạ &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Harryluong"&gt; /u/Harryluong &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/fe9lfbcbuutf1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o15kbo/lại_bị_fb_chặn_tin_nhắn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o15kbo/lại_bị_fb_chặn_tin_nhắn/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-08T09:13:37+00:00</published>
-  </entry>
   <entry>
     <id>t3_1o06bih</id>
     <title>Cần lời khuyên về việc bị layoff.</title>
@@ -138,19 +125,6 @@
     <published>2025-10-08T12:03:29+00:00</published>
   </entry>
   <entry>
-    <id>t3_1o198sk</id>
-    <title>Vụ antex đang nóng</title>
-    <updated>2025-10-08T12:35:38+00:00</updated>
-    <author>
-      <name>/u/lolotika</name>
-      <uri>https://old.reddit.com/user/lolotika</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1o198sk/vụ_antex_đang_nóng/"&gt; &lt;img alt="Vụ antex đang nóng" src="https://preview.redd.it/ch1rdprcuvtf1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=1d3eea5df27f35f7706abdb310dd15f6bdd0829e" title="Vụ antex đang nóng" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Liệu shark bình có bị bế đi không các bác. Nghe nói công ty antex nói shark không tham gia điều hành. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/lolotika"&gt; /u/lolotika &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/ch1rdprcuvtf1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o198sk/vụ_antex_đang_nóng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o198sk/vụ_antex_đang_nóng/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-08T12:35:38+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1o1af75</id>
     <title>Mình nhậu được 7-8 lon xong nôn ra màu đỏ thì bị gì vậy ae</title>
     <updated>2025-10-08T13:24:35+00:00</updated>
@@ -175,19 +149,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1o1afvq/hanni_phạm/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-08T13:25:21+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1o1anez</id>
-    <title>Nvqs</title>
-    <updated>2025-10-08T13:34:07+00:00</updated>
-    <author>
-      <name>/u/Q_GoldenFarm</name>
-      <uri>https://old.reddit.com/user/Q_GoldenFarm</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác, cho em hỏi: hiện tại em đang ở nội thành, vừa ra trường và đang gọi đi nvqs. E hiện tại đang nhận dc deal trăm rưỡi củ lạc và sẽ kph đi đến hết 27. Các bác cho e xin ý kiến, e rất cảm ơn.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Q_GoldenFarm"&gt; /u/Q_GoldenFarm &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o1anez/nvqs/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o1anez/nvqs/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o1anez/nvqs/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-08T13:34:07+00:00</published>
   </entry>
   <entry>
     <id>t3_1o158le</id>
@@ -229,17 +190,17 @@
     <published>2025-10-08T11:49:13+00:00</published>
   </entry>
   <entry>
-    <id>t3_1o19fn9</id>
-    <title>Gu bạn gái</title>
-    <updated>2025-10-08T12:43:53+00:00</updated>
+    <id>t3_1o198sk</id>
+    <title>Vụ antex đang nóng</title>
+    <updated>2025-10-08T12:35:38+00:00</updated>
     <author>
-      <name>/u/Annual_Drink4300</name>
-      <uri>https://old.reddit.com/user/Annual_Drink4300</uri>
+      <name>/u/lolotika</name>
+      <uri>https://old.reddit.com/user/lolotika</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các bác miêu tả thử gu bạn gái trong mơ đi tui sẽ đánh giá ( ngoại hình + tính cách nhé )&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Annual_Drink4300"&gt; /u/Annual_Drink4300 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o19fn9/gu_bạn_gái/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o19fn9/gu_bạn_gái/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o19fn9/gu_bạn_gái/"/>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1o198sk/vụ_antex_đang_nóng/"&gt; &lt;img alt="Vụ antex đang nóng" src="https://preview.redd.it/ch1rdprcuvtf1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=1d3eea5df27f35f7706abdb310dd15f6bdd0829e" title="Vụ antex đang nóng" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Liệu shark bình có bị bế đi không các bác. Nghe nói công ty antex nói shark không tham gia điều hành. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/lolotika"&gt; /u/lolotika &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/ch1rdprcuvtf1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o198sk/vụ_antex_đang_nóng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o198sk/vụ_antex_đang_nóng/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-08T12:43:53+00:00</published>
+    <published>2025-10-08T12:35:38+00:00</published>
   </entry>
   <entry>
     <id>t3_1o0f58q</id>
@@ -255,6 +216,19 @@
     <published>2025-10-07T13:43:15+00:00</published>
   </entry>
   <entry>
+    <id>t3_1o1anez</id>
+    <title>Nvqs</title>
+    <updated>2025-10-08T13:34:07+00:00</updated>
+    <author>
+      <name>/u/Q_GoldenFarm</name>
+      <uri>https://old.reddit.com/user/Q_GoldenFarm</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác, cho em hỏi: hiện tại em đang ở nội thành, vừa ra trường và đang gọi đi nvqs. E hiện tại đang nhận dc deal trăm rưỡi củ lạc và sẽ kph đi đến hết 27. Các bác cho e xin ý kiến, e rất cảm ơn.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Q_GoldenFarm"&gt; /u/Q_GoldenFarm &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o1anez/nvqs/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o1anez/nvqs/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o1anez/nvqs/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-08T13:34:07+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1o0y7rl</id>
     <title>Cần xin lời khuyên và góc nhìn về vị trí sale cho công ty it</title>
     <updated>2025-10-08T02:05:53+00:00</updated>
@@ -266,6 +240,32 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1o0y7rl/cần_xin_lời_khuyên_và_góc_nhìn_về_vị_trí_sale_cho/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-08T02:05:53+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1o19fn9</id>
+    <title>Gu bạn gái</title>
+    <updated>2025-10-08T12:43:53+00:00</updated>
+    <author>
+      <name>/u/Annual_Drink4300</name>
+      <uri>https://old.reddit.com/user/Annual_Drink4300</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các bác miêu tả thử gu bạn gái trong mơ đi tui sẽ đánh giá ( ngoại hình + tính cách nhé )&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Annual_Drink4300"&gt; /u/Annual_Drink4300 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o19fn9/gu_bạn_gái/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o19fn9/gu_bạn_gái/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o19fn9/gu_bạn_gái/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-08T12:43:53+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1o1b744</id>
+    <title>Burn out vì vừa học vừa làm</title>
+    <updated>2025-10-08T13:56:29+00:00</updated>
+    <author>
+      <name>/u/MilkyWayS10</name>
+      <uri>https://old.reddit.com/user/MilkyWayS10</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em lên đây xin lời khuyên dùm bạn. Như tiêu đề thì bạn em 23F, vừa học thạc vừa làm IT full time. Tốt nghiệp ĐH vào năm ngoái khi thị trường IT đã bão hoà nên nó quyết định học lên thạc để đi theo hướng giảng dạy. Nó là đứa rất chăm chỉ, học giỏi, thậm chí tốt nghiệp thủ khoa ngành nhưng cũng chật vật khi xin việc. &lt;/p&gt; &lt;p&gt;Hiện tại thì nó cũng mới đc nhận làm chính thức trong một cty nhỏ, sau 6 tháng thử việc với mức trợ cấp 3tr/tháng, lương chính thức thì em k hỏi. Dạo này việc nghiên cứu r đề án, lại thêm gánh nặng công việc nên nó stress đến rụng tóc, mệt mà k ngủ đc, nhiều khi nằm ì một chỗ k muốn làm gì nữa. Em thấy tội nó lắm cũng bảo nó nghỉ việc đi, kiếm việc part time làm thôi nma nó k dám nghỉ. Lý do 1 phần là học phí nhưng chủ yếu là nó sợ bố mẹ lại chê trách nó làm lương thấp. &lt;/p&gt; &lt;p&gt;Nói sơ qua về bố mẹ nó thì họ từng mai mối nó cho 1 ng Đài 40t khi nó mới vừa tốt nghiệp. Họ thậm chí đã nhận tiền sính lễ và định ngày cưới. May s mà sau khi tìm hiểu đc hoàn cảnh nghèo khó của gã bên Đài Loan họ mới từ bỏ giấc mộng đó. Nhưng thỉnh thoảng vẫn bảo nó lấy chồng nc ngoài vẫn hơn. Nó vẫn sống chung với gia đình, bth thì chẳng có chuyện gì, nhưng sau sự kiện đó thì em thật sự đánh giá khác về 2 ng họ.&lt;/p&gt; &lt;p&gt;Tóm lại thì em k biết làm gì để giúp nó nữa nên viết ra đây xin lời khuyên của các anh chị ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/MilkyWayS10"&gt; /u/MilkyWayS10 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o1b744/burn_out_vì_vừa_học_vừa_làm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o1b744/burn_out_vì_vừa_học_vừa_làm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o1b744/burn_out_vì_vừa_học_vừa_làm/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-08T13:56:29+00:00</published>
   </entry>
   <entry>
     <id>t3_1o10qjq</id>
