@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-10-08T09:40:42+00:00</updated>
+  <updated>2025-10-08T09:50:55+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -110,6 +110,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1o09108/định_hướng_tương_lai_việc_làm_cntt/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-07T08:25:04+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1o158le</id>
+    <title>Cần tìm đồ trị mụn</title>
+    <updated>2025-10-08T08:52:00+00:00</updated>
+    <author>
+      <name>/u/Friendly_Ad_5529</name>
+      <uri>https://old.reddit.com/user/Friendly_Ad_5529</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác,em da dầu bị mụn cũng khá nặng thì nên sài loại gì ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Friendly_Ad_5529"&gt; /u/Friendly_Ad_5529 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o158le/cần_tìm_đồ_trị_mụn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o158le/cần_tìm_đồ_trị_mụn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o158le/cần_tìm_đồ_trị_mụn/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-08T08:52:00+00:00</published>
   </entry>
   <entry>
     <id>t3_1o159i9</id>
@@ -227,19 +240,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1o14nem/tìm_nơi_cung_cấp_bán_sỉ_áo_bóng_đá_rep_11/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-08T08:13:16+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1o158le</id>
-    <title>Cần tìm đồ trị mụn</title>
-    <updated>2025-10-08T08:52:00+00:00</updated>
-    <author>
-      <name>/u/Friendly_Ad_5529</name>
-      <uri>https://old.reddit.com/user/Friendly_Ad_5529</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác,em da dầu bị mụn cũng khá nặng thì nên sài loại gì ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Friendly_Ad_5529"&gt; /u/Friendly_Ad_5529 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o158le/cần_tìm_đồ_trị_mụn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o158le/cần_tìm_đồ_trị_mụn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o158le/cần_tìm_đồ_trị_mụn/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-08T08:52:00+00:00</published>
   </entry>
   <entry>
     <id>t3_1o15pad</id>
