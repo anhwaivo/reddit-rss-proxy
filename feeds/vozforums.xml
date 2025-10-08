@@ -2,50 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-10-08T03:20:34+00:00</updated>
+  <updated>2025-10-08T03:46:29+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1o0lrdz</id>
-    <title>Window file bị Duplicate do OneDrive</title>
-    <updated>2025-10-07T17:45:55+00:00</updated>
-    <author>
-      <name>/u/Renonyanz</name>
-      <uri>https://old.reddit.com/user/Renonyanz</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1o0lrdz/window_file_bị_duplicate_do_onedrive/"&gt; &lt;img alt="Window file bị Duplicate do OneDrive" src="https://a.thumbs.redditmedia.com/840uXXCghBK1K2O8mAwhbQ2_EBuvwehVn1FFYJiAUi8.jpg" title="Window file bị Duplicate do OneDrive" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Sau khi nghịch thử OneDrive để optimize workflow thì máy mình bị như này. Nhìn qua thì có vẻ là Bug Sync .&lt;/p&gt; &lt;p&gt;Thì sau khi cài OneDrive, nhưng khi cài không chọn sync file của window (document, picture, music, videos, desktop) (đơn giản là k muốn file local bay lên cloud, với cả với 5GB cloud thì còn lâu mới chứa hết đc file render trên máy tính của mình) . Sau bước đó thì lại nghĩ là có khi file Pictures mình có thể dùng để sync (trường hợp như screenshot -&amp;gt; tự lưu vào Pictures thì dùng Sync sẽ giúp workflow giữa các máy nhanh hơn). &lt;/p&gt; &lt;p&gt;Nói chung là khi nghĩ tới đó thì thay vì cài lại onedrive theo thứ tự và để nó sync đúng cách (Ảnh 4) thì mình cóp nguyên folder Pictures của window vào folder OneDrive. Sau đó Sync thì folder nó lên cloud luôn, khi screen shot tự lưu vào Pictures -&amp;gt; Sync luôn. &lt;/p&gt; &lt;p&gt;Nhưng ncl nghịc dc 1 lúc thì thấy OneDrive nó lằng nhằng định xóa đi. khi cóp lại Pictures ra ngoài OneDrive, rồi uninstall thì nó bị Duplicate như vậy (Ảnh 1), rồi propertise của nó mất luôn Propertise của folder Gốc (như ảnh 3 propertise của music sẽ có thêm location). &lt;/p&gt; &lt;p&gt;Dường như 2 file Pictures bị duplicate nó hành xử như nhau như linked vậy. (screenshot thì cả 2 file nhận ảnh screen shot, sửa tên folder con thì folder con đó ở file kia cũng bị sửa tên, xóa file thì file kia cũng mất luôn, ) -&amp;gt; có vẻ như bị link, file Pictures gốc mất tiêu.&lt;/p&gt; &lt;p&gt;Tình trạng này ai bị chưa ạ, nó k ảnh hưởng nhưng khá khó chịu ;(, với cả mình cx ko muốn reinstall window (vì mệt vkl) nếu có cách nhanh hơn thì giúp mình với&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Renonyanz"&gt; /u/Renonyanz &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1o0lrdz"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o0lrdz/window_file_bị_duplicate_do_onedrive/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o0lrdz/window_file_bị_duplicate_do_onedrive/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-07T17:45:55+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1o0flou</id>
-    <title>Đi date</title>
-    <updated>2025-10-07T14:01:22+00:00</updated>
-    <author>
-      <name>/u/Much_Thanks_1864</name>
-      <uri>https://old.reddit.com/user/Much_Thanks_1864</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tôi bị bí ideas trong việc đi date. Bro nào có thế cho tôi vài gợi ý khi đi date cả ngày được không&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Much_Thanks_1864"&gt; /u/Much_Thanks_1864 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o0flou/đi_date/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o0flou/đi_date/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o0flou/đi_date/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-07T14:01:22+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1o0crei</id>
-    <title>Tránh rắc rối trên môi trường học đường</title>
-    <updated>2025-10-07T12:00:30+00:00</updated>
-    <author>
-      <name>/u/Comfortable_Deer4351</name>
-      <uri>https://old.reddit.com/user/Comfortable_Deer4351</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào anh chị ạ, e là học sinh lớp 10, vừa mới nhập học cách đây k lâu. E hiện tại muốn xin lời khuyên của anh chị về vấn đề này ạ:&lt;/p&gt; &lt;p&gt;E có quen hai bạn, tạm gọi là A và B. A và B tương đối thân thiết với nhau. Tính A hơi cợt nhả, nghĩ gì nói đó, tính B thì lại hơi nhạy cảm và dễ cáu. &lt;/p&gt; &lt;p&gt;Cho đến một hôm bạn A đùa nhỡ lời B, khiến cho B bực mình, giọt nước tràn ly thế là B đi kể chuyện của A cho nhiều người. (Tất nhiên là vì tính cách nghĩ sao nói đó nên ng k đồng tình với A chỉ có mỗi B). A tính vốn đã cợt nhả nên k nhận thức được chuyện sẽ đi xa đến mức này. A bị mọi người cô lập và mỗi khi nói về A, những câu bóng gió khiến A thấy tổn thương.&lt;/p&gt; &lt;p&gt;Vấn đề ở đây là, e biết tính của cả 2 bạn nên k theo phe ai cả. Chỉ là e từng gặp phải nhiều chuyện k mấy vui vẻ ở cấp 2 nên e k thích lắm chuyện để ai đó bị cô lập dù họ làm sai. Chưa kể nếu có ng để A tâm sự thì việc sửa sai cx sẽ dễ hơn. A đợt này vì bị mọi người cô lập nên cũng gần e nhiều hơn trước. Thành ra em cảm giác mọi người thay đổi thái độ với em rất nhiều.&lt;/p&gt; &lt;p&gt;Vì trải qua nhiều chuyện k vui nên tính e cũng nhạy cảm sẵn. Việc đi thanh minh, kể cả khi mình k sai cũng rất khó khăn với em. Em sợ phải tiếp xúc với ánh mắt của mọi người, sợ lúc trả lời các câu hỏi của mọi ng, e sẽ ấp úng và khóc. &lt;/p&gt; &lt;p&gt;E k làm điều gì sai cả nên gặp phải chuyện này, e thấy rất mệt mỏi. Hiện tại thì A đã xin lỗi, mọi ng dù k giữ thái độ thân thiện với A như trước nhưng cũng đã bớt căng thẳng hơn. Còn e thì k dám làm gì cả, một ánh mắt quét qua thôi cũng làm e thấy ngại, mỗi lần đến lớp e chỉ dám ngồi im, k tiếp xúc hay đi đi lại lại trong lớp bắt chuyện như trước.&lt;/p&gt; &lt;p&gt;Đáng nói hơn, A là ng khác lớp nên có khi về sau cũng k ảnh hưởng nhiều đến A. E thì khác, vì học TN nên lớp e rất ít bạn nữ. E k ngại gì việc cô độc, nhưng đến lúc làm việc nhóm, khổ sở đi tìm ng làm cùng. Hoặc cứ ngồi im phớt lờ những lúc các bạn vui đùa với nhau, e rất mệt mỏi.&lt;/p&gt; &lt;p&gt;Có thể với mọi người đây chỉ là chuyện nhỏ, nhưng vì đã gặp phải chuyện gần như tương tự, e thấy rất khó xử. &lt;/p&gt; &lt;p&gt;Theo anh chị e nên làm thế nào ạ? &lt;/p&gt; &lt;p&gt;Bài viết hơi dài, vì tâm trạng đang rối bời nên e viết hơi lủng củng, mong anh chị bỏ qua. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Comfortable_Deer4351"&gt; /u/Comfortable_Deer4351 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o0crei/tránh_rắc_rối_trên_môi_trường_học_đường/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o0crei/tránh_rắc_rối_trên_môi_trường_học_đường/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o0crei/tránh_rắc_rối_trên_môi_trường_học_đường/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-07T12:00:30+00:00</published>
-  </entry>
   <entry>
     <id>t3_1o021a9</id>
     <title>Có thể vượt qua trầm cảm một mình được không.</title>
@@ -134,6 +95,19 @@
     <published>2025-10-07T05:59:45+00:00</published>
   </entry>
   <entry>
+    <id>t3_1o0jr70</id>
+    <title>Tip nuôi chó</title>
+    <updated>2025-10-07T16:34:55+00:00</updated>
+    <author>
+      <name>/u/Due-Stretch6784</name>
+      <uri>https://old.reddit.com/user/Due-Stretch6784</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mọi người ơi cho e hỏi e mới mua 1 bé cún về nhưng đêm bé cứ hay bị dậy giữa chừng 2 3 lần ko ngủ được nguyên giấc là bé nhớ mẹ hả mọi người làm sao để bé thích nghi nhanh hơn ạ. Với cả ai đang nuôi chó con cho e xin cách chăm bé tốt hơn trông bé cứ buồn buồn k chơi mà không biết làm gì thương lắm ý ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Due-Stretch6784"&gt; /u/Due-Stretch6784 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o0jr70/tip_nuôi_chó/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o0jr70/tip_nuôi_chó/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o0jr70/tip_nuôi_chó/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-07T16:34:55+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1o08xgx</id>
     <title>Chuyện tình cảm: Tôi nên đẩy láo hay dừng lại.</title>
     <updated>2025-10-07T08:18:29+00:00</updated>
@@ -186,6 +160,19 @@
     <published>2025-10-07T13:25:58+00:00</published>
   </entry>
   <entry>
+    <id>t3_1o0zr8v</id>
+    <title>Săn sale vé máy bay ✈️</title>
+    <updated>2025-10-08T03:22:49+00:00</updated>
+    <author>
+      <name>/u/Cold_Sandwich8829</name>
+      <uri>https://old.reddit.com/user/Cold_Sandwich8829</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mọi người ơi mấy vụ săn sale vé máy bay 0 đồng là có thật và legit ko mn, em dự định tháng 1 từ Hà nội bay vào HCM 5 ngày thì mua vé khứ hồi như nào cho rẻ và hãng nào cho tốt ạ, em cảm ơn ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Cold_Sandwich8829"&gt; /u/Cold_Sandwich8829 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o0zr8v/săn_sale_vé_máy_bay/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o0zr8v/săn_sale_vé_máy_bay/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o0zr8v/săn_sale_vé_máy_bay/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-08T03:22:49+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1o0aah5</id>
     <title>Tại sao đám cưới châu âu con trai hay khóc ?</title>
     <updated>2025-10-07T09:46:17+00:00</updated>
@@ -197,6 +184,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1o0aah5/tại_sao_đám_cưới_châu_âu_con_trai_hay_khóc/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-07T09:46:17+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1o105oc</id>
+    <title>Có cách nào nhận lương từ malay về VN phí rẻ không anh em</title>
+    <updated>2025-10-08T03:43:53+00:00</updated>
+    <author>
+      <name>/u/EqualEffective3528</name>
+      <uri>https://old.reddit.com/user/EqualEffective3528</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tình hình là t đang làm remote cho cty ở malay, mỗi lần chuyển lương về vietinbank bị trừ phí gần cả triệu, có giải pháp nào để bị trừ ít hơn không nhỉ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/EqualEffective3528"&gt; /u/EqualEffective3528 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o105oc/có_cách_nào_nhận_lương_từ_malay_về_vn_phí_rẻ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o105oc/có_cách_nào_nhận_lương_từ_malay_về_vn_phí_rẻ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o105oc/có_cách_nào_nhận_lương_từ_malay_về_vn_phí_rẻ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-08T03:43:53+00:00</published>
   </entry>
   <entry>
     <id>t3_1o0td77</id>
@@ -290,19 +290,6 @@
     <published>2025-10-07T05:33:17+00:00</published>
   </entry>
   <entry>
-    <id>t3_1o0xvd6</id>
-    <title>Người trẻ học lớn</title>
-    <updated>2025-10-08T01:49:27+00:00</updated>
-    <author>
-      <name>/u/Illustrious-Top-1800</name>
-      <uri>https://old.reddit.com/user/Illustrious-Top-1800</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mng ạ, em 22 FM. Tuổi này thì chỉ loanh quanh vài chuyện tcam với ra trường tìm việc thui. Em cũng thế 😌 Nói qua thì em quen nyc 22 M học cùng lớp c3 năm tụi em l12 và đều là first love của nhau. Sau đó tụi em thi vào cùng 1 trường ĐH ở HN, nhà tụi em HN luôn. Quá trình quen thì khá ổn, cùng nhau học tập, cùng nhau cố gắng. Quen đc 4 năm, bạn bất ngờ nói ctay em vì chán, hết yêu, nói là còn áp lực tương lai các thứ bỏ qua hết những lời hứa và hẹn ước trc đây. Kh còn yêu nhưng bạn vẫn muốn làm bạn với em cơ 😀:))), ban đầu thì em còn cấn cấn nhưng sau đó vài tháng em biết bạn đã mập mờ với ng mới, em block liền luôn. Phải nói tgian đó là khoảng thời gian tệ nhất em từng trải qua vì tcam em dành cho bạn rất nhiều, em kh nghĩ bạn có thể làm em tổn thương tới cỡ đó. Chuyện qua cũng được gần 1 năm rồi, gần đây em có stalk lại fb nyc và nym của bạn đó. Em có cảm giác bị tự ti và so sánh bản thân với những con ng đó. Kiểu, bạn nym kia học tốt ngoại ngữ ấy, nên dạy lại cho nyc em thi IE, xong 2 ng đó thích nhau và lúc em block thì họ qdinh vào mqh chính thức. Nyc em học cũng giỏi lắm, đạt được nhiều hobo, cầu tiến chăm chỉ, lúc yêu thì chăm em lắm nên em cứ bị tiếc. Haizzzz Giờ nyc em đi tỉnh làm rồi cbi đi du học, em cũng mới đậu job em thích ở HN. Em biết kh có gì mà em phải buồn hay tự mình so sánh vậy, nhưng mà cảm giác n cứ buồn buồn sao á. Sau ctay, em khá kín tiếng và tự xoa dịu tổn thương chứ kh up MXH hay cố gắng quen thêm ai khác cả. Cảm giác csong em giờ n thả trôi mà n mất định hướng á. Mấy bạn, mấy ac từng trải cho em xin thêm lời khuyên để tgian tới em bứt phá hơn được kh ạ. Em cũm muốn mình trưởng thành hơn, phát triển hơn nhưng chưa tìm được động lực rõ ràng. Cảm ơn mng đã đọc bài viết dài ơi là dài của iem. 🫶🏻&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Illustrious-Top-1800"&gt; /u/Illustrious-Top-1800 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o0xvd6/người_trẻ_học_lớn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o0xvd6/người_trẻ_học_lớn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o0xvd6/người_trẻ_học_lớn/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-08T01:49:27+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1o0y7rl</id>
     <title>Cần xin lời khuyên và góc nhìn về vị trí sale cho công ty it</title>
     <updated>2025-10-08T02:05:53+00:00</updated>
@@ -314,6 +301,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1o0y7rl/cần_xin_lời_khuyên_và_góc_nhìn_về_vị_trí_sale_cho/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-08T02:05:53+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1o0xvd6</id>
+    <title>Người trẻ học lớn</title>
+    <updated>2025-10-08T01:49:27+00:00</updated>
+    <author>
+      <name>/u/Illustrious-Top-1800</name>
+      <uri>https://old.reddit.com/user/Illustrious-Top-1800</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mng ạ, em 22 FM. Tuổi này thì chỉ loanh quanh vài chuyện tcam với ra trường tìm việc thui. Em cũng thế 😌 Nói qua thì em quen nyc 22 M học cùng lớp c3 năm tụi em l12 và đều là first love của nhau. Sau đó tụi em thi vào cùng 1 trường ĐH ở HN, nhà tụi em HN luôn. Quá trình quen thì khá ổn, cùng nhau học tập, cùng nhau cố gắng. Quen đc 4 năm, bạn bất ngờ nói ctay em vì chán, hết yêu, nói là còn áp lực tương lai các thứ bỏ qua hết những lời hứa và hẹn ước trc đây. Kh còn yêu nhưng bạn vẫn muốn làm bạn với em cơ 😀:))), ban đầu thì em còn cấn cấn nhưng sau đó vài tháng em biết bạn đã mập mờ với ng mới, em block liền luôn. Phải nói tgian đó là khoảng thời gian tệ nhất em từng trải qua vì tcam em dành cho bạn rất nhiều, em kh nghĩ bạn có thể làm em tổn thương tới cỡ đó. Chuyện qua cũng được gần 1 năm rồi, gần đây em có stalk lại fb nyc và nym của bạn đó. Em có cảm giác bị tự ti và so sánh bản thân với những con ng đó. Kiểu, bạn nym kia học tốt ngoại ngữ ấy, nên dạy lại cho nyc em thi IE, xong 2 ng đó thích nhau và lúc em block thì họ qdinh vào mqh chính thức. Nyc em học cũng giỏi lắm, đạt được nhiều hobo, cầu tiến chăm chỉ, lúc yêu thì chăm em lắm nên em cứ bị tiếc. Haizzzz Giờ nyc em đi tỉnh làm rồi cbi đi du học, em cũng mới đậu job em thích ở HN. Em biết kh có gì mà em phải buồn hay tự mình so sánh vậy, nhưng mà cảm giác n cứ buồn buồn sao á. Sau ctay, em khá kín tiếng và tự xoa dịu tổn thương chứ kh up MXH hay cố gắng quen thêm ai khác cả. Cảm giác csong em giờ n thả trôi mà n mất định hướng á. Mấy bạn, mấy ac từng trải cho em xin thêm lời khuyên để tgian tới em bứt phá hơn được kh ạ. Em cũm muốn mình trưởng thành hơn, phát triển hơn nhưng chưa tìm được động lực rõ ràng. Cảm ơn mng đã đọc bài viết dài ơi là dài của iem. 🫶🏻&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Illustrious-Top-1800"&gt; /u/Illustrious-Top-1800 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o0xvd6/người_trẻ_học_lớn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o0xvd6/người_trẻ_học_lớn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o0xvd6/người_trẻ_học_lớn/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-08T01:49:27+00:00</published>
   </entry>
   <entry>
     <id>t3_1o0f58q</id>
