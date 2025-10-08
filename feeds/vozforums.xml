@@ -2,37 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-10-08T01:18:33+00:00</updated>
+  <updated>2025-10-08T02:42:38+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1o09cwj</id>
-    <title>Nên dùng A.I nào?</title>
-    <updated>2025-10-07T08:46:33+00:00</updated>
-    <author>
-      <name>/u/tunghg789kt3</name>
-      <uri>https://old.reddit.com/user/tunghg789kt3</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mn, em đang muốn bỏ tiền ra để đăng ký sử dụng A.I, công việc chính của em hiện là quản trị hệ thống, nhưng tới này em muốn làm dev fullstack web và làm game với sự hỗ trợ của A.I, mn giới thiệu con A.I nào mà phù hợp với nhu cầu của em với ạ. Trong đầu em đang có ChatGPT, Gemini và Copilot ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/tunghg789kt3"&gt; /u/tunghg789kt3 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o09cwj/nên_dùng_ai_nào/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o09cwj/nên_dùng_ai_nào/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o09cwj/nên_dùng_ai_nào/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-07T08:46:33+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1o0lrdz</id>
-    <title>Window file bị Duplicate do OneDrive</title>
-    <updated>2025-10-07T17:45:55+00:00</updated>
-    <author>
-      <name>/u/Renonyanz</name>
-      <uri>https://old.reddit.com/user/Renonyanz</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1o0lrdz/window_file_bị_duplicate_do_onedrive/"&gt; &lt;img alt="Window file bị Duplicate do OneDrive" src="https://a.thumbs.redditmedia.com/840uXXCghBK1K2O8mAwhbQ2_EBuvwehVn1FFYJiAUi8.jpg" title="Window file bị Duplicate do OneDrive" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Sau khi nghịch thử OneDrive để optimize workflow thì máy mình bị như này. Nhìn qua thì có vẻ là Bug Sync .&lt;/p&gt; &lt;p&gt;Thì sau khi cài OneDrive, nhưng khi cài không chọn sync file của window (document, picture, music, videos, desktop) (đơn giản là k muốn file local bay lên cloud, với cả với 5GB cloud thì còn lâu mới chứa hết đc file render trên máy tính của mình) . Sau bước đó thì lại nghĩ là có khi file Pictures mình có thể dùng để sync (trường hợp như screenshot -&amp;gt; tự lưu vào Pictures thì dùng Sync sẽ giúp workflow giữa các máy nhanh hơn). &lt;/p&gt; &lt;p&gt;Nói chung là khi nghĩ tới đó thì thay vì cài lại onedrive theo thứ tự và để nó sync đúng cách (Ảnh 4) thì mình cóp nguyên folder Pictures của window vào folder OneDrive. Sau đó Sync thì folder nó lên cloud luôn, khi screen shot tự lưu vào Pictures -&amp;gt; Sync luôn. &lt;/p&gt; &lt;p&gt;Nhưng ncl nghịc dc 1 lúc thì thấy OneDrive nó lằng nhằng định xóa đi. khi cóp lại Pictures ra ngoài OneDrive, rồi uninstall thì nó bị Duplicate như vậy (Ảnh 1), rồi propertise của nó mất luôn Propertise của folder Gốc (như ảnh 3 propertise của music sẽ có thêm location). &lt;/p&gt; &lt;p&gt;Dường như 2 file Pictures bị duplicate nó hành xử như nhau như linked vậy. (screenshot thì cả 2 file nhận ảnh screen shot, sửa tên folder con thì folder con đó ở file kia cũng bị sửa tên, xóa file thì file kia cũng mất luôn, ) -&amp;gt; có vẻ như bị link, file Pictures gốc mất tiêu.&lt;/p&gt; &lt;p&gt;Tình trạng này ai bị chưa ạ, nó k ảnh hưởng nhưng khá khó chịu ;(, với cả mình cx ko muốn reinstall window (vì mệt vkl) nếu có cách nhanh hơn thì giúp mình với&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Renonyanz"&gt; /u/Renonyanz &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1o0lrdz"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o0lrdz/window_file_bị_duplicate_do_onedrive/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o0lrdz/window_file_bị_duplicate_do_onedrive/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-07T17:45:55+00:00</published>
-  </entry>
   <entry>
     <id>t3_1o0flou</id>
     <title>Đi date</title>
@@ -147,19 +121,6 @@
     <published>2025-10-07T05:59:45+00:00</published>
   </entry>
   <entry>
-    <id>t3_1o0ive8</id>
-    <title>Cho em xin lời khuyên với ạ.</title>
-    <updated>2025-10-07T16:02:02+00:00</updated>
-    <author>
-      <name>/u/Ntt-27</name>
-      <uri>https://old.reddit.com/user/Ntt-27</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em chào mọi người. Em hiện là sinh viên năm cuối ngành An Ninh Mạng của 1 trường đại học trên Hà Nội. Hiện tại thì em có đi thực tập part-time tại 1 công ty với vị trí là Intern Security Consultant. Em đã đi thực tập cũng được hơn 3 tháng nay rồi ạ. Nhìn chung thì công ty khá tốt, có mentor dạy bảo đàng hoàng và không sai việc vặt (mỗi tội không lương :&amp;lt;). Tuy nhiên. em lại cảm thấy hơi chán và không tìm thấy định hướng rõ ràng của mảng Consultant này. &lt;/p&gt; &lt;p&gt;Cho các anh chị nào không rõ thì nhìn chung, Consultant sẽ phải đọc rất nhiều tài liệu, chưa kể là phải tìm và bổ sung thêm kiến thức trên mạng để có thể hiểu hết được đống tài liệu đấy. Lúc mới được nhận thì em cũng chăm đọc lắm, có thể đọc tài liệu cả buổi luôn. Nhưng đọc mãi cũng chán, tất nhiên anh mentor có cho làm một số bài thực hành nhưng tất nhiên vẫn phải đọc tài liệu thì mới làm được :)). Và tầm 2 tuần đổ lại đây, em thấy chán việc đọc đống tài liệu này khủng khiếp rồi, có khi dành cả 1 buổi để ngồi ngẫm 1 đoạn luôn, cảm giác như não bị mất điện vậy, không hiểu nhanh như trước nữa, dẫn đến làm gì cũng chậm nên trễ deadline anh mentor giao mấy lần. Có anh chị nào đi làm (nói chung) có gặp tình trạng như này không ạ? Em không rõ là do làm việc không đúng sở thích, công việc nhàm chán hay tình trạng bình thường nữa. Nếu do là không đúng sở thích thì chắc em sẽ đi tìm việc mới ở mảng khác. &lt;/p&gt; &lt;p&gt;Thêm nữa thì em thấy rất ít nơi chia sẻ về mảng Security Consultant này, dù là tài liệu tiếng việt hay tiếng anh, thông tin em kiếm được khá hạn chế, nên em không rõ lộ trình phát triển, mức lương trung bình, các hướng khác có thể rẽ (kiểu nếu không muốn làm mảng consultant thì có thể rẽ sang hướng nào khác),...&lt;/p&gt; &lt;p&gt;Không biết trong đây có anh chị nào cũng làm vị trí này hoặc tương tự có thể giải đáp thắc mắc của em, cũng như chia sẻ thêm về kinh nghiệm cá nhân của mình được không ạ. Em xin cảm ơn!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ntt-27"&gt; /u/Ntt-27 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o0ive8/cho_em_xin_lời_khuyên_với_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o0ive8/cho_em_xin_lời_khuyên_với_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o0ive8/cho_em_xin_lời_khuyên_với_ạ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-07T16:02:02+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1o08xgx</id>
     <title>Chuyện tình cảm: Tôi nên đẩy láo hay dừng lại.</title>
     <updated>2025-10-07T08:18:29+00:00</updated>
@@ -186,19 +147,6 @@
     <published>2025-10-07T23:37:41+00:00</published>
   </entry>
   <entry>
-    <id>t3_1o0gh4u</id>
-    <title>Điện Ảnh</title>
-    <updated>2025-10-07T14:33:55+00:00</updated>
-    <author>
-      <name>/u/Square_Access3107</name>
-      <uri>https://old.reddit.com/user/Square_Access3107</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Nay rảnh rỗi mik có xem 1 bộ phim mà định xem từ lâu và nó thực sự đáng với thời gian mik bỏ ra(phim tên whiplash cho ai cần).Phim rất nghệ xem xong nổi da gà vì quá thực và khốc liệt ,ko chỉ riêng lĩnh vực âm nhạc mà trong mọi mặt cs. Phim phù hợp nhất cho thế hệ genz , có thể phim hơi chán với nhiều người nhưng ai xem đc sẽ thấy phim rất hay .Rất rcm cho mn.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Square_Access3107"&gt; /u/Square_Access3107 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o0gh4u/điện_ảnh/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o0gh4u/điện_ảnh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o0gh4u/điện_ảnh/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-07T14:33:55+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1o0lmba</id>
     <title>Gái chưa yêu ai bao giờ, cầm cưa thế nào đây các bác?</title>
     <updated>2025-10-07T17:40:49+00:00</updated>
@@ -212,43 +160,43 @@
     <published>2025-10-07T17:40:49+00:00</published>
   </entry>
   <entry>
-    <id>t3_1o0x4h1</id>
-    <title>Có nên theo đuổi nghề mà mình tìm được niềm vui hay nghề bình thường</title>
-    <updated>2025-10-08T01:14:01+00:00</updated>
+    <id>t3_1o0gh4u</id>
+    <title>Điện Ảnh</title>
+    <updated>2025-10-07T14:33:55+00:00</updated>
     <author>
-      <name>/u/SonTung2103</name>
-      <uri>https://old.reddit.com/user/SonTung2103</uri>
+      <name>/u/Square_Access3107</name>
+      <uri>https://old.reddit.com/user/Square_Access3107</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hiện tại mình đang phải đứng trước lựa chọn việc làm, mình đã tìm được 1 công việc mà mình tìm thấy niềm vui, thời gian linh hoạt, động lực để mỗi ngày dậy đến làm, để phát triển kỹ năng mới, tuy việc đó khác ngành đại học. Nhưng ba mẹ mình là kiểu thế hệ cũ vẫn coi việc làm từ 8h sáng đến 5h chiều mới là công việc thực sự, và phải là ngành liên quan đến việc học nhưng mình lại cảm thấy gò bó, không có động lực để đi làm. Xin lời khuyên của mọi người có nên theo đuổi việc tìm thấy niềm vui hay nghe theo bme làm việc kia.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/SonTung2103"&gt; /u/SonTung2103 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o0x4h1/có_nên_theo_đuổi_nghề_mà_mình_tìm_được_niềm_vui/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o0x4h1/có_nên_theo_đuổi_nghề_mà_mình_tìm_được_niềm_vui/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o0x4h1/có_nên_theo_đuổi_nghề_mà_mình_tìm_được_niềm_vui/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Nay rảnh rỗi mik có xem 1 bộ phim mà định xem từ lâu và nó thực sự đáng với thời gian mik bỏ ra(phim tên whiplash cho ai cần).Phim rất nghệ xem xong nổi da gà vì quá thực và khốc liệt ,ko chỉ riêng lĩnh vực âm nhạc mà trong mọi mặt cs. Phim phù hợp nhất cho thế hệ genz , có thể phim hơi chán với nhiều người nhưng ai xem đc sẽ thấy phim rất hay .Rất rcm cho mn.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Square_Access3107"&gt; /u/Square_Access3107 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o0gh4u/điện_ảnh/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o0gh4u/điện_ảnh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o0gh4u/điện_ảnh/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-08T01:14:01+00:00</published>
+    <published>2025-10-07T14:33:55+00:00</published>
   </entry>
   <entry>
-    <id>t3_1o0td77</id>
-    <title>Tính năng mới youtube</title>
-    <updated>2025-10-07T22:27:40+00:00</updated>
+    <id>t3_1o0ytp0</id>
+    <title>Công ty không cấp chứng nhận thời gian làm việc</title>
+    <updated>2025-10-08T02:35:58+00:00</updated>
     <author>
-      <name>/u/Forward-Divide8898</name>
-      <uri>https://old.reddit.com/user/Forward-Divide8898</uri>
+      <name>/u/Own-Sherbet-216</name>
+      <uri>https://old.reddit.com/user/Own-Sherbet-216</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hôm nay lên youtube coi video thì thấy một video mà có hai kênh một lúc, lên trên mạng tra thì mới biết là youtube ra tính năng mới. Cho phép chủ kênh youtube được thêm kênh youtube khác cùng một video.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Forward-Divide8898"&gt; /u/Forward-Divide8898 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o0td77/tính_năng_mới_youtube/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o0td77/tính_năng_mới_youtube/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o0td77/tính_năng_mới_youtube/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Như tiêu đề ạ. Mình làm bên mảng dược hơn 2 năm rồi, giờ đang chuẩn bị thủ tục cấp chứng chỉ hành nghề dược thì công ty lại cứ câu giờ không chịu ký giấy xác nhận thời gian làm việc (chắc sợ ký rồi thì mình nghỉ việc). Giờ bực mình vãi mà không biết nên quậy để đòi hay im im nộp đơn xin nghỉ nữa. Các bác nào từng gặp tình trạng như trên thì cho mình xin ít kinh nghiệm với ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Own-Sherbet-216"&gt; /u/Own-Sherbet-216 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o0ytp0/công_ty_không_cấp_chứng_nhận_thời_gian_làm_việc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o0ytp0/công_ty_không_cấp_chứng_nhận_thời_gian_làm_việc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o0ytp0/công_ty_không_cấp_chứng_nhận_thời_gian_làm_việc/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-07T22:27:40+00:00</published>
+    <published>2025-10-08T02:35:58+00:00</published>
   </entry>
   <entry>
-    <id>t3_1o0c7c4</id>
-    <title>câu hỏi hơi nhạy cảm nhma mong ce giải đáp</title>
-    <updated>2025-10-07T11:32:53+00:00</updated>
+    <id>t3_1o0epzu</id>
+    <title>Người xuất chúng là người như thế nào ?</title>
+    <updated>2025-10-07T13:25:58+00:00</updated>
     <author>
-      <name>/u/AmphibianCheap2017</name>
-      <uri>https://old.reddit.com/user/AmphibianCheap2017</uri>
+      <name>/u/Unlucky-Bluebird-443</name>
+      <uri>https://old.reddit.com/user/Unlucky-Bluebird-443</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;em có nyc hồi trc đó khi yêu đã từng chạm được vào đũng quần em r nhma hồi đó em nhát nên gạt tay ra k cho tiến thêm. sau 1 thời gian dài, em quen thêm 1 bạn mới , cũng có biết về quá khứ của em và cũng biết nyc em từng sờ được đến đũng quần em r, mọi khi skinship thì th con trai nào cũng thế thôi,thằng em trong quần đều ngoi lên cả nên hồi sáng ny em mới gác chân lên em vô tình chạm vào, không biết có để ý hay không. đến chiều nay thì ẻm đòi sờ nhma em giữ giá nên k cho:))mọi chuyện đối với mọi người cũng chẳng có gì nhma quan trọng bọn em đến với nhau nhanh và skinship cũng nhanh( chắc chắn em là người chủ động). Nên em lên đây hỏi mng có lo ngy em nghĩ em ấm dâu , dê xồm hay cgi đại loại v không chứ hỏi ẻm có yêu nhiều không là kiểu gì cũng có&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/AmphibianCheap2017"&gt; /u/AmphibianCheap2017 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o0c7c4/câu_hỏi_hơi_nhạy_cảm_nhma_mong_ce_giải_đáp/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o0c7c4/câu_hỏi_hơi_nhạy_cảm_nhma_mong_ce_giải_đáp/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o0c7c4/câu_hỏi_hơi_nhạy_cảm_nhma_mong_ce_giải_đáp/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em luôn tò mò về những người như thế và e chưa tưng gặp người nào như vậy ngoài đời. Em muốn biết họ là người như thế nào.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Unlucky-Bluebird-443"&gt; /u/Unlucky-Bluebird-443 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o0epzu/người_xuất_chúng_là_người_như_thế_nào/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o0epzu/người_xuất_chúng_là_người_như_thế_nào/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o0epzu/người_xuất_chúng_là_người_như_thế_nào/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-07T11:32:53+00:00</published>
+    <published>2025-10-07T13:25:58+00:00</published>
   </entry>
   <entry>
     <id>t3_1o0aah5</id>
@@ -264,17 +212,30 @@
     <published>2025-10-07T09:46:17+00:00</published>
   </entry>
   <entry>
-    <id>t3_1o0epzu</id>
-    <title>Người xuất chúng là người như thế nào ?</title>
-    <updated>2025-10-07T13:25:58+00:00</updated>
+    <id>t3_1o0c7c4</id>
+    <title>câu hỏi hơi nhạy cảm nhma mong ce giải đáp</title>
+    <updated>2025-10-07T11:32:53+00:00</updated>
     <author>
-      <name>/u/Unlucky-Bluebird-443</name>
-      <uri>https://old.reddit.com/user/Unlucky-Bluebird-443</uri>
+      <name>/u/AmphibianCheap2017</name>
+      <uri>https://old.reddit.com/user/AmphibianCheap2017</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em luôn tò mò về những người như thế và e chưa tưng gặp người nào như vậy ngoài đời. Em muốn biết họ là người như thế nào.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Unlucky-Bluebird-443"&gt; /u/Unlucky-Bluebird-443 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o0epzu/người_xuất_chúng_là_người_như_thế_nào/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o0epzu/người_xuất_chúng_là_người_như_thế_nào/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o0epzu/người_xuất_chúng_là_người_như_thế_nào/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;em có nyc hồi trc đó khi yêu đã từng chạm được vào đũng quần em r nhma hồi đó em nhát nên gạt tay ra k cho tiến thêm. sau 1 thời gian dài, em quen thêm 1 bạn mới , cũng có biết về quá khứ của em và cũng biết nyc em từng sờ được đến đũng quần em r, mọi khi skinship thì th con trai nào cũng thế thôi,thằng em trong quần đều ngoi lên cả nên hồi sáng ny em mới gác chân lên em vô tình chạm vào, không biết có để ý hay không. đến chiều nay thì ẻm đòi sờ nhma em giữ giá nên k cho:))mọi chuyện đối với mọi người cũng chẳng có gì nhma quan trọng bọn em đến với nhau nhanh và skinship cũng nhanh( chắc chắn em là người chủ động). Nên em lên đây hỏi mng có lo ngy em nghĩ em ấm dâu , dê xồm hay cgi đại loại v không chứ hỏi ẻm có yêu nhiều không là kiểu gì cũng có&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/AmphibianCheap2017"&gt; /u/AmphibianCheap2017 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o0c7c4/câu_hỏi_hơi_nhạy_cảm_nhma_mong_ce_giải_đáp/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o0c7c4/câu_hỏi_hơi_nhạy_cảm_nhma_mong_ce_giải_đáp/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o0c7c4/câu_hỏi_hơi_nhạy_cảm_nhma_mong_ce_giải_đáp/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-07T13:25:58+00:00</published>
+    <published>2025-10-07T11:32:53+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1o0td77</id>
+    <title>Tính năng mới youtube</title>
+    <updated>2025-10-07T22:27:40+00:00</updated>
+    <author>
+      <name>/u/Forward-Divide8898</name>
+      <uri>https://old.reddit.com/user/Forward-Divide8898</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hôm nay lên youtube coi video thì thấy một video mà có hai kênh một lúc, lên trên mạng tra thì mới biết là youtube ra tính năng mới. Cho phép chủ kênh youtube được thêm kênh youtube khác cùng một video.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Forward-Divide8898"&gt; /u/Forward-Divide8898 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o0td77/tính_năng_mới_youtube/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o0td77/tính_năng_mới_youtube/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o0td77/tính_năng_mới_youtube/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-07T22:27:40+00:00</published>
   </entry>
   <entry>
     <id>t3_1nzwhgq</id>
@@ -303,6 +264,19 @@
     <published>2025-10-07T08:25:04+00:00</published>
   </entry>
   <entry>
+    <id>t3_1o0x4h1</id>
+    <title>Có nên theo đuổi nghề mà mình tìm được niềm vui hay nghề bình thường</title>
+    <updated>2025-10-08T01:14:01+00:00</updated>
+    <author>
+      <name>/u/SonTung2103</name>
+      <uri>https://old.reddit.com/user/SonTung2103</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hiện tại mình đang phải đứng trước lựa chọn việc làm, mình đã tìm được 1 công việc mà mình tìm thấy niềm vui, thời gian linh hoạt, động lực để mỗi ngày dậy đến làm, để phát triển kỹ năng mới, tuy việc đó khác ngành đại học. Nhưng ba mẹ mình là kiểu thế hệ cũ vẫn coi việc làm từ 8h sáng đến 5h chiều mới là công việc thực sự, và phải là ngành liên quan đến việc học nhưng mình lại cảm thấy gò bó, không có động lực để đi làm. Xin lời khuyên của mọi người có nên theo đuổi việc tìm thấy niềm vui hay nghe theo bme làm việc kia.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/SonTung2103"&gt; /u/SonTung2103 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o0x4h1/có_nên_theo_đuổi_nghề_mà_mình_tìm_được_niềm_vui/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o0x4h1/có_nên_theo_đuổi_nghề_mà_mình_tìm_được_niềm_vui/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o0x4h1/có_nên_theo_đuổi_nghề_mà_mình_tìm_được_niềm_vui/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-08T01:14:01+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1o06bih</id>
     <title>Cần lời khuyên về việc bị layoff.</title>
     <updated>2025-10-07T05:33:17+00:00</updated>
@@ -314,6 +288,32 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1o06bih/cần_lời_khuyên_về_việc_bị_layoff/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-07T05:33:17+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1o0y7rl</id>
+    <title>Cần xin lời khuyên và góc nhìn về vị trí sale cho công ty it</title>
+    <updated>2025-10-08T02:05:53+00:00</updated>
+    <author>
+      <name>/u/Embarrassed_Target91</name>
+      <uri>https://old.reddit.com/user/Embarrassed_Target91</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1o0y7rl/cần_xin_lời_khuyên_và_góc_nhìn_về_vị_trí_sale_cho/"&gt; &lt;img alt="Cần xin lời khuyên và góc nhìn về vị trí sale cho công ty it" src="https://preview.redd.it/6rwrfw50qstf1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=6e88ea37c87e2897fe4b4526c95ba08808123f2e" title="Cần xin lời khuyên và góc nhìn về vị trí sale cho công ty it" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em chào mn&lt;/p&gt; &lt;p&gt;Hiện em đang là 1 sale cho công ty it (khá có tiếng) ở vn, chuyên bán product cho kh việt và hiện đang đc đẩy thêm yêu cầu bán dự án cho nước ngoài (chủ yếu nhật)&lt;/p&gt; &lt;p&gt;Em làm ngành nay được 2 năm rồi, và công nhận là nó rất khó khăn khi mà lúc nào e cũng bị warning và stress vì áp lực từ các sếp. Đuoc cái, sản phẩm thì cũng ko quá khó bán nên vẫn trộm vía trụ được&lt;/p&gt; &lt;p&gt;Em muốn hỏi liệu công việc này có thể làm lâu dài ko ạ, vì em cũng đã làm 1 thời gian tưởng đối ở 1 vài cty nhưng lại không thấy các nhân sự nhiều tuổi/thâm niên cao ở trong cty mà chủ yếu là tuyển genz mới vào (hiện đội sale có 3 lead 9x và 1 manager là 8x)&lt;/p&gt; &lt;p&gt;Nếu công việc này ko thể đi lâu dài thì có hướng chuyển nào em có thể cân nhắc không ạ? Em hiện có tiếng Nhật và tiếng Anh và base non-tech&lt;/p&gt; &lt;p&gt;Em xin cảm ơn&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Embarrassed_Target91"&gt; /u/Embarrassed_Target91 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/6rwrfw50qstf1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o0y7rl/cần_xin_lời_khuyên_và_góc_nhìn_về_vị_trí_sale_cho/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o0y7rl/cần_xin_lời_khuyên_và_góc_nhìn_về_vị_trí_sale_cho/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-08T02:05:53+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1o0xvd6</id>
+    <title>Người trẻ học lớn</title>
+    <updated>2025-10-08T01:49:27+00:00</updated>
+    <author>
+      <name>/u/Illustrious-Top-1800</name>
+      <uri>https://old.reddit.com/user/Illustrious-Top-1800</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mng ạ, em 22 FM. Tuổi này thì chỉ loanh quanh vài chuyện tcam với ra trường tìm việc thui. Em cũng thế 😌 Nói qua thì em quen nyc 22 M học cùng lớp c3 năm tụi em l12 và đều là first love của nhau. Sau đó tụi em thi vào cùng 1 trường ĐH ở HN, nhà tụi em HN luôn. Quá trình quen thì khá ổn, cùng nhau học tập, cùng nhau cố gắng. Quen đc 4 năm, bạn bất ngờ nói ctay em vì chán, hết yêu, nói là còn áp lực tương lai các thứ bỏ qua hết những lời hứa và hẹn ước trc đây. Kh còn yêu nhưng bạn vẫn muốn làm bạn với em cơ 😀:))), ban đầu thì em còn cấn cấn nhưng sau đó vài tháng em biết bạn đã mập mờ với ng mới, em block liền luôn. Phải nói tgian đó là khoảng thời gian tệ nhất em từng trải qua vì tcam em dành cho bạn rất nhiều, em kh nghĩ bạn có thể làm em tổn thương tới cỡ đó. Chuyện qua cũng được gần 1 năm rồi, gần đây em có stalk lại fb nyc và nym của bạn đó. Em có cảm giác bị tự ti và so sánh bản thân với những con ng đó. Kiểu, bạn nym kia học tốt ngoại ngữ ấy, nên dạy lại cho nyc em thi IE, xong 2 ng đó thích nhau và lúc em block thì họ qdinh vào mqh chính thức. Nyc em học cũng giỏi lắm, đạt được nhiều hobo, cầu tiến chăm chỉ, lúc yêu thì chăm em lắm nên em cứ bị tiếc. Haizzzz Giờ nyc em đi tỉnh làm rồi cbi đi du học, em cũng mới đậu job em thích ở HN. Em biết kh có gì mà em phải buồn hay tự mình so sánh vậy, nhưng mà cảm giác n cứ buồn buồn sao á. Sau ctay, em khá kín tiếng và tự xoa dịu tổn thương chứ kh up MXH hay cố gắng quen thêm ai khác cả. Cảm giác csong em giờ n thả trôi mà n mất định hướng á. Mấy bạn, mấy ac từng trải cho em xin thêm lời khuyên để tgian tới em bứt phá hơn được kh ạ. Em cũm muốn mình trưởng thành hơn, phát triển hơn nhưng chưa tìm được động lực rõ ràng. Cảm ơn mng đã đọc bài viết dài ơi là dài của iem. 🫶🏻&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Illustrious-Top-1800"&gt; /u/Illustrious-Top-1800 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o0xvd6/người_trẻ_học_lớn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o0xvd6/người_trẻ_học_lớn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o0xvd6/người_trẻ_học_lớn/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-08T01:49:27+00:00</published>
   </entry>
   <entry>
     <id>t3_1o0f58q</id>
