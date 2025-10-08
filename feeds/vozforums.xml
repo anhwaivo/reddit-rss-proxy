@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-10-08T04:20:42+00:00</updated>
+  <updated>2025-10-08T04:42:11+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1o0o2p3</id>
-    <title>Thư mời về việc bổ túc hồ sơ nghĩa vụ quân sự là gì?</title>
-    <updated>2025-10-07T19:07:40+00:00</updated>
-    <author>
-      <name>/u/No_Narwhal_713</name>
-      <uri>https://old.reddit.com/user/No_Narwhal_713</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;chào mọi người, chiều nay em vừa nhận được tờ giấy thư mời về việc bổ túc hồ sơ nghĩa vụ quân sự trước khi khám sức khoẻ luôn ạ, cho em hỏi giấy này là gì và khi lên phường có cần ký giấy tờ hay gì ko ạ, em cảm ơn.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/No_Narwhal_713"&gt; /u/No_Narwhal_713 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o0o2p3/thư_mời_về_việc_bổ_túc_hồ_sơ_nghĩa_vụ_quân_sự_là/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o0o2p3/thư_mời_về_việc_bổ_túc_hồ_sơ_nghĩa_vụ_quân_sự_là/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o0o2p3/thư_mời_về_việc_bổ_túc_hồ_sơ_nghĩa_vụ_quân_sự_là/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-07T19:07:40+00:00</published>
-  </entry>
   <entry>
     <id>t3_1o0egy1</id>
     <title>Học nghề xây dựng ở Đức</title>
@@ -147,19 +134,6 @@
     <published>2025-10-08T03:22:49+00:00</published>
   </entry>
   <entry>
-    <id>t3_1o0aah5</id>
-    <title>Tại sao đám cưới châu âu con trai hay khóc ?</title>
-    <updated>2025-10-07T09:46:17+00:00</updated>
-    <author>
-      <name>/u/Alone_Following6834</name>
-      <uri>https://old.reddit.com/user/Alone_Following6834</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình thấy khoảnh khắc đón bạn gái bước ra từ lễ đường con trai thường khóc bên Âu. VN mình từ nhỏ đến giờ k thấy ma nào khóc :)))&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Alone_Following6834"&gt; /u/Alone_Following6834 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o0aah5/tại_sao_đám_cưới_châu_âu_con_trai_hay_khóc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o0aah5/tại_sao_đám_cưới_châu_âu_con_trai_hay_khóc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o0aah5/tại_sao_đám_cưới_châu_âu_con_trai_hay_khóc/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-07T09:46:17+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1o105oc</id>
     <title>Có cách nào nhận lương từ malay về VN phí rẻ không anh em</title>
     <updated>2025-10-08T03:43:53+00:00</updated>
@@ -173,6 +147,19 @@
     <published>2025-10-08T03:43:53+00:00</published>
   </entry>
   <entry>
+    <id>t3_1o0aah5</id>
+    <title>Tại sao đám cưới châu âu con trai hay khóc ?</title>
+    <updated>2025-10-07T09:46:17+00:00</updated>
+    <author>
+      <name>/u/Alone_Following6834</name>
+      <uri>https://old.reddit.com/user/Alone_Following6834</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình thấy khoảnh khắc đón bạn gái bước ra từ lễ đường con trai thường khóc bên Âu. VN mình từ nhỏ đến giờ k thấy ma nào khóc :)))&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Alone_Following6834"&gt; /u/Alone_Following6834 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o0aah5/tại_sao_đám_cưới_châu_âu_con_trai_hay_khóc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o0aah5/tại_sao_đám_cưới_châu_âu_con_trai_hay_khóc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o0aah5/tại_sao_đám_cưới_châu_âu_con_trai_hay_khóc/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-07T09:46:17+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1o0td77</id>
     <title>Tính năng mới youtube</title>
     <updated>2025-10-07T22:27:40+00:00</updated>
@@ -184,6 +171,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1o0td77/tính_năng_mới_youtube/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-07T22:27:40+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1o1132q</id>
+    <title>[TÌM CÁCH FIX LỖI]</title>
+    <updated>2025-10-08T04:33:38+00:00</updated>
+    <author>
+      <name>/u/Kind-Switch3970</name>
+      <uri>https://old.reddit.com/user/Kind-Switch3970</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1o1132q/tìm_cách_fix_lỗi/"&gt; &lt;img alt="[TÌM CÁCH FIX LỖI]" src="https://preview.redd.it/w63bt03dgttf1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=76fd236d3798150fd702608231f9430a78d32143" title="[TÌM CÁCH FIX LỖI]" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;mọi người ơi, cho em hỏi lỗi này là gì vậy ạ? Làm sao để fix, em mới xài cygwin lần đầu &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Kind-Switch3970"&gt; /u/Kind-Switch3970 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/w63bt03dgttf1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o1132q/tìm_cách_fix_lỗi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o1132q/tìm_cách_fix_lỗi/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-08T04:33:38+00:00</published>
   </entry>
   <entry>
     <id>t3_1nzwhgq</id>
@@ -251,17 +251,17 @@
     <published>2025-10-08T03:48:36+00:00</published>
   </entry>
   <entry>
-    <id>t3_1o10qjq</id>
-    <title>Vì sao nhiều người thích Tiên Hiệp?</title>
-    <updated>2025-10-08T04:14:40+00:00</updated>
+    <id>t3_1o06bih</id>
+    <title>Cần lời khuyên về việc bị layoff.</title>
+    <updated>2025-10-07T05:33:17+00:00</updated>
     <author>
-      <name>/u/mrmonz79</name>
-      <uri>https://old.reddit.com/user/mrmonz79</uri>
+      <name>/u/Spanersm</name>
+      <uri>https://old.reddit.com/user/Spanersm</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Đọc thử chục chương thấy khá khó thẩm nhưng nhiều anh em đặc biệt thấy trên vozforum khá ưng thể loại này. &lt;/p&gt; &lt;p&gt;Anh em nghiện tiên hiệp cho xin tí góc nhìn xem có nên lên thuyền tiếp k nhỉ haha&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/mrmonz79"&gt; /u/mrmonz79 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o10qjq/vì_sao_nhiều_người_thích_tiên_hiệp/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o10qjq/vì_sao_nhiều_người_thích_tiên_hiệp/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o10qjq/vì_sao_nhiều_người_thích_tiên_hiệp/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Xin chào mọi người, mình 26M, và như tiêu đề thì mình mới nhận được tin sẽ bị layoff vào tháng 11.&lt;/p&gt; &lt;p&gt;Về context thì leaders có họp riêng với mình và báo dự án đang trong bước hoàn thành và sẽ không phát triển thêm gì nữa vào tương lai, do đó mình sẽ bị layoff. Mình được cho 1 tháng (tháng 10 này) để hoàn thành công việc, bàn giao và cũng như có thời gian để rải CV.&lt;br /&gt; Nhưng có 1 điều mình đang thắc mắc là đầu năm nay mình mới ký 1 hợp đồng 3 năm với công ty. Và họ lại bảo mình chủ động viết đơn xin nghỉ làm.&lt;/p&gt; &lt;p&gt;Vậy trong trường hợp này mình cần biết những thông tin gì? Nên làm gì? Và cần chuẩn bị cho tương lai như thế nào ạ?&lt;/p&gt; &lt;p&gt;Xin cảm ơn tất cả mọi người!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Spanersm"&gt; /u/Spanersm &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o06bih/cần_lời_khuyên_về_việc_bị_layoff/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o06bih/cần_lời_khuyên_về_việc_bị_layoff/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o06bih/cần_lời_khuyên_về_việc_bị_layoff/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-08T04:14:40+00:00</published>
+    <published>2025-10-07T05:33:17+00:00</published>
   </entry>
   <entry>
     <id>t3_1o0x4h1</id>
@@ -277,17 +277,17 @@
     <published>2025-10-08T01:14:01+00:00</published>
   </entry>
   <entry>
-    <id>t3_1o06bih</id>
-    <title>Cần lời khuyên về việc bị layoff.</title>
-    <updated>2025-10-07T05:33:17+00:00</updated>
+    <id>t3_1o10qjq</id>
+    <title>Vì sao nhiều người thích Tiên Hiệp?</title>
+    <updated>2025-10-08T04:14:40+00:00</updated>
     <author>
-      <name>/u/Spanersm</name>
-      <uri>https://old.reddit.com/user/Spanersm</uri>
+      <name>/u/mrmonz79</name>
+      <uri>https://old.reddit.com/user/mrmonz79</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Xin chào mọi người, mình 26M, và như tiêu đề thì mình mới nhận được tin sẽ bị layoff vào tháng 11.&lt;/p&gt; &lt;p&gt;Về context thì leaders có họp riêng với mình và báo dự án đang trong bước hoàn thành và sẽ không phát triển thêm gì nữa vào tương lai, do đó mình sẽ bị layoff. Mình được cho 1 tháng (tháng 10 này) để hoàn thành công việc, bàn giao và cũng như có thời gian để rải CV.&lt;br /&gt; Nhưng có 1 điều mình đang thắc mắc là đầu năm nay mình mới ký 1 hợp đồng 3 năm với công ty. Và họ lại bảo mình chủ động viết đơn xin nghỉ làm.&lt;/p&gt; &lt;p&gt;Vậy trong trường hợp này mình cần biết những thông tin gì? Nên làm gì? Và cần chuẩn bị cho tương lai như thế nào ạ?&lt;/p&gt; &lt;p&gt;Xin cảm ơn tất cả mọi người!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Spanersm"&gt; /u/Spanersm &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o06bih/cần_lời_khuyên_về_việc_bị_layoff/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o06bih/cần_lời_khuyên_về_việc_bị_layoff/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o06bih/cần_lời_khuyên_về_việc_bị_layoff/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Đọc thử chục chương thấy khá khó thẩm nhưng nhiều anh em đặc biệt thấy trên vozforum khá ưng thể loại này. &lt;/p&gt; &lt;p&gt;Anh em nghiện tiên hiệp cho xin tí góc nhìn xem có nên lên thuyền tiếp k nhỉ haha&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/mrmonz79"&gt; /u/mrmonz79 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o10qjq/vì_sao_nhiều_người_thích_tiên_hiệp/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o10qjq/vì_sao_nhiều_người_thích_tiên_hiệp/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o10qjq/vì_sao_nhiều_người_thích_tiên_hiệp/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-07T05:33:17+00:00</published>
+    <published>2025-10-08T04:14:40+00:00</published>
   </entry>
   <entry>
     <id>t3_1o0y7rl</id>
