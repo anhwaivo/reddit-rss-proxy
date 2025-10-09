@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-10-09T07:17:38+00:00</updated>
+  <updated>2025-10-09T07:37:56+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -73,19 +73,6 @@
     <published>2025-10-09T01:34:48+00:00</published>
   </entry>
   <entry>
-    <id>t3_1o1g5jo</id>
-    <title>Đi làm việc tại Đức - có bằng đại học lương 2500Eur/tháng 80 củ</title>
-    <updated>2025-10-08T16:58:32+00:00</updated>
-    <author>
-      <name>/u/Lazy-Split6478</name>
-      <uri>https://old.reddit.com/user/Lazy-Split6478</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình có vài job muốn giới thiệu anh em làm việc ở đức - Yêu cầu duy nhất có bằng đại học và chịu cực khổ được - lương cao, định cư dễ, anh em nào cần mình giới thiệu - dĩ nhiên là có phí nha (nói trước) mà mình giới thiệu nhiều rồi nên anh em yên tâm 💪🏻&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Lazy-Split6478"&gt; /u/Lazy-Split6478 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o1g5jo/đi_làm_việc_tại_đức_có_bằng_đại_học_lương/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o1g5jo/đi_làm_việc_tại_đức_có_bằng_đại_học_lương/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o1g5jo/đi_làm_việc_tại_đức_có_bằng_đại_học_lương/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-08T16:58:32+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1o1x6tp</id>
     <title>Chăm mèo giảm bạch cầu</title>
     <updated>2025-10-09T04:55:03+00:00</updated>
@@ -97,6 +84,32 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1o1x6tp/chăm_mèo_giảm_bạch_cầu/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-09T04:55:03+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1o1xa57</id>
+    <title>Cổng AI api mới cho anh em dev</title>
+    <updated>2025-10-09T05:00:24+00:00</updated>
+    <author>
+      <name>/u/Effective-Letter5771</name>
+      <uri>https://old.reddit.com/user/Effective-Letter5771</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="https://agentrouter.org/register?aff=EXuI"&gt;https://agentrouter.org/register?aff=EXuI&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Mình vừa được thử AgentRouter và phải nói là khá ấn tượng. Một sản phầm gần giống OpenRouter nhưng đang có chương trình Free Credit nên share với anh em.&lt;/p&gt; &lt;p&gt;Dành cho ae chưa biết thì nó dạng gateway API AI – kiểu “trạm trung gian” giúp kết nối nhiều mô hình AI khác nhau chỉ qua một endpoint duy nhất.&lt;/p&gt; &lt;p&gt;AgentRouter hiện hỗ trợ nhiều model mạnh: Claude Sonnet 4.5, Claude Opus 4.1, GPT-5, DeepSeek-V3, GLM-4.6, Qwen, Zhipu ...&lt;/p&gt; &lt;p&gt;Rất tiện nếu anh em đang dùng mấy công cụ như RooCode, ClaudeCode, CodeX, hay KiloCode, hoặc dùng test các model xịn như Claude 4.5, GPT-5 &lt;/p&gt; &lt;p&gt;Nếu anh em đăng ký bình thường qua GitHub, hệ thống chỉ cho $100 tín dụng miễn phí.&lt;/p&gt; &lt;p&gt;Nhưng nếu đăng ký qua link referral, sẽ nhận ngay $200 miễn phí để test Claude, GPT, DeepSeek... Link referral (nhận $200): &lt;a href="https://agentrouter.org/register?aff=EXuI"&gt;https://agentrouter.org/register?aff=EXuI&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Hiện AgentRouter chỉ cho đăng nhập bằng tài khoản GitHub. Nếu vào trang mà không thấy nút “Continue with GitHub”, cứ F5 vài lần là hiện ra nhé:&lt;/p&gt; &lt;p&gt;Sau khi đăng nhập, anh em chỉ cần: Lấy API key trong dashboard Dán vào công cụ như RooCode hoặc ClaudeCode Chọn model (Claude, GPT, DeepSeek, GLM...) và bắt đầu xài ngay&lt;/p&gt; &lt;p&gt;Ae tranh thủ đăng ký trước khi hết khuyến mãi nha&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Effective-Letter5771"&gt; /u/Effective-Letter5771 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o1xa57/cổng_ai_api_mới_cho_anh_em_dev/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o1xa57/cổng_ai_api_mới_cho_anh_em_dev/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o1xa57/cổng_ai_api_mới_cho_anh_em_dev/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-09T05:00:24+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1o1g5jo</id>
+    <title>Đi làm việc tại Đức - có bằng đại học lương 2500Eur/tháng 80 củ</title>
+    <updated>2025-10-08T16:58:32+00:00</updated>
+    <author>
+      <name>/u/Lazy-Split6478</name>
+      <uri>https://old.reddit.com/user/Lazy-Split6478</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình có vài job muốn giới thiệu anh em làm việc ở đức - Yêu cầu duy nhất có bằng đại học và chịu cực khổ được - lương cao, định cư dễ, anh em nào cần mình giới thiệu - dĩ nhiên là có phí nha (nói trước) mà mình giới thiệu nhiều rồi nên anh em yên tâm 💪🏻&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Lazy-Split6478"&gt; /u/Lazy-Split6478 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o1g5jo/đi_làm_việc_tại_đức_có_bằng_đại_học_lương/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o1g5jo/đi_làm_việc_tại_đức_có_bằng_đại_học_lương/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o1g5jo/đi_làm_việc_tại_đức_có_bằng_đại_học_lương/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-08T16:58:32+00:00</published>
   </entry>
   <entry>
     <id>t3_1o1udx6</id>
@@ -112,19 +125,6 @@
     <published>2025-10-09T02:23:36+00:00</published>
   </entry>
   <entry>
-    <id>t3_1o1v39t</id>
-    <title>iu xa 🫩</title>
-    <updated>2025-10-09T02:58:51+00:00</updated>
-    <author>
-      <name>/u/adenineC5H5N5</name>
-      <uri>https://old.reddit.com/user/adenineC5H5N5</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mng, em là nữ 2k5 quen bf Filipino 2k3 được 2 năm. Em học y ở VN còn bf học electrical engineering ở Philippines. Bọn em quen qua 1 hội thảo online của trường y. Gia đình bf đã có thẻ xanh, bf dự định học masters ở Mỹ rồi qua VN sống với em. Bf đã qua VN chơi 2 lần, mỗi lần khoảng 20 ngày và cũng đã gặp ba mẹ em. Ba mẹ em chắc chắn k đồng ý cho em đi theo bf vì em là con 1, bf lại chưa có nhà cửa, xe cộ, công ăn việc làm bên kia. Bản thân em cũng không muốn đi xa, đã bàn với bf và bạn ấy cũng đồng ý xong masters sẽ qua VN kiếm việc và ở với em. Nhưng dì của bf (người bảo lãnh cả gia đình bf qua Mỹ) lại k thích, cổ muốn bf sống ở Mỹ luôn vì tương lai tốt hơn. Bf confirm chắc nụi với em là sẽ k nghe lời dì, mà sẽ nghe lời em qua VN sống. Vì em tuổi còn trẻ, còn non nớt chưa có kinh nghiệm nên lên đây hỏi mng là liệu người nước ngoài qua VN kiếm việc làm ổn định có dễ dàng hay ko? Và ai rành văn hóa Filipino cho em hỏi luôn là liệu bf em có cãi được gia đình b ấy mà qua ở với em được không? Mng còn lời khuyên gì cho em xin với ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/adenineC5H5N5"&gt; /u/adenineC5H5N5 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o1v39t/iu_xa/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o1v39t/iu_xa/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o1v39t/iu_xa/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-09T02:58:51+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1o1zash</id>
     <title>Du học Malaysia trường Nottingham và mức sống</title>
     <updated>2025-10-09T07:06:34+00:00</updated>
@@ -136,19 +136,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1o1zash/du_học_malaysia_trường_nottingham_và_mức_sống/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-09T07:06:34+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1o1zgh7</id>
-    <title>Tốt trong tình bạn khốn trong tình yêu :))))</title>
-    <updated>2025-10-09T07:16:49+00:00</updated>
-    <author>
-      <name>/u/Brief-Plantain7310</name>
-      <uri>https://old.reddit.com/user/Brief-Plantain7310</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1o1zgh7/tốt_trong_tình_bạn_khốn_trong_tình_yêu/"&gt; &lt;img alt="Tốt trong tình bạn khốn trong tình yêu :))))" src="https://preview.redd.it/f3qkk1fpb1uf1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=626d11193b3e3a3d045c7741384a583df81b156f" title="Tốt trong tình bạn khốn trong tình yêu :))))" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;ừ, đây là đoạn chat của con bạn t gửi t :))) uh ye nói thêm thì bạn t nó cũng biết ơn các anh phết, trước khi nó cút nó còn chào tạm biệt chúc các anh sức khoẻ đàng hoàng. Đọc thì nghe nó khốn thật ý, nhưng mà thật ra nó đáng thương vãi, nó lớn lên mang trong mình family issue, trust issue với 1 tỷ thể loại trauma khác. Nó nhận thức được nó không cần chứng minh với ai hết nó chỉ cần là nó làm nhữnbg gì nó vui và nuôi sống được nó là được, nma nó k thể, nó luôn làm để được công nhận để được chứng minh...Suy cho cùng đó chỉ là coping mechanism (cơ chế đối phó với tổn thương) của nó. Hồi đêm tâm sự bóc tách vấn đề thì nó bảo là, nó chưa solve được những vấn đề của nó thì nó k dám yêu ai, nhắn tin vui vui thì được, chứ để get in relationship thì nó k dám. Viết bài này, mong là anh trai nào đó đi qua cuộc đời con bạn t và lỡ bị nó &amp;quot;trap&amp;quot; thì mong anh hiểu cho nó, các anh chả có lỗi gì cả, lỗi ở con bạn em ẩm ương :((( &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Brief-Plantain7310"&gt; /u/Brief-Plantain7310 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/f3qkk1fpb1uf1.png"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o1zgh7/tốt_trong_tình_bạn_khốn_trong_tình_yêu/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o1zgh7/tốt_trong_tình_bạn_khốn_trong_tình_yêu/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-09T07:16:49+00:00</published>
   </entry>
   <entry>
     <id>t3_1o1b744</id>
@@ -175,19 +162,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1o1x1e2/ít_tóc_ở_đỉnh_đầu/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-09T04:46:24+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1o1xa57</id>
-    <title>Cổng AI api mới cho anh em dev</title>
-    <updated>2025-10-09T05:00:24+00:00</updated>
-    <author>
-      <name>/u/Effective-Letter5771</name>
-      <uri>https://old.reddit.com/user/Effective-Letter5771</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="https://agentrouter.org/register?aff=EXuI"&gt;https://agentrouter.org/register?aff=EXuI&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Mình vừa được thử AgentRouter và phải nói là khá ấn tượng. Một sản phầm gần giống OpenRouter nhưng đang có chương trình Free Credit nên share với anh em.&lt;/p&gt; &lt;p&gt;Dành cho ae chưa biết thì nó dạng gateway API AI – kiểu “trạm trung gian” giúp kết nối nhiều mô hình AI khác nhau chỉ qua một endpoint duy nhất.&lt;/p&gt; &lt;p&gt;AgentRouter hiện hỗ trợ nhiều model mạnh: Claude Sonnet 4.5, Claude Opus 4.1, GPT-5, DeepSeek-V3, GLM-4.6, Qwen, Zhipu ...&lt;/p&gt; &lt;p&gt;Rất tiện nếu anh em đang dùng mấy công cụ như RooCode, ClaudeCode, CodeX, hay KiloCode, hoặc dùng test các model xịn như Claude 4.5, GPT-5 &lt;/p&gt; &lt;p&gt;Nếu anh em đăng ký bình thường qua GitHub, hệ thống chỉ cho $100 tín dụng miễn phí.&lt;/p&gt; &lt;p&gt;Nhưng nếu đăng ký qua link referral, sẽ nhận ngay $200 miễn phí để test Claude, GPT, DeepSeek... Link referral (nhận $200): &lt;a href="https://agentrouter.org/register?aff=EXuI"&gt;https://agentrouter.org/register?aff=EXuI&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Hiện AgentRouter chỉ cho đăng nhập bằng tài khoản GitHub. Nếu vào trang mà không thấy nút “Continue with GitHub”, cứ F5 vài lần là hiện ra nhé:&lt;/p&gt; &lt;p&gt;Sau khi đăng nhập, anh em chỉ cần: Lấy API key trong dashboard Dán vào công cụ như RooCode hoặc ClaudeCode Chọn model (Claude, GPT, DeepSeek, GLM...) và bắt đầu xài ngay&lt;/p&gt; &lt;p&gt;Ae tranh thủ đăng ký trước khi hết khuyến mãi nha&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Effective-Letter5771"&gt; /u/Effective-Letter5771 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o1xa57/cổng_ai_api_mới_cho_anh_em_dev/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o1xa57/cổng_ai_api_mới_cho_anh_em_dev/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o1xa57/cổng_ai_api_mới_cho_anh_em_dev/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-09T05:00:24+00:00</published>
   </entry>
   <entry>
     <id>t3_1o1hr65</id>
@@ -255,30 +229,17 @@
     <published>2025-10-09T04:31:27+00:00</published>
   </entry>
   <entry>
-    <id>t3_1o1wzi0</id>
-    <title>Điện thoại bị sọc</title>
-    <updated>2025-10-09T04:43:24+00:00</updated>
+    <id>t3_1o1v39t</id>
+    <title>iu xa 🫩</title>
+    <updated>2025-10-09T02:58:51+00:00</updated>
     <author>
-      <name>/u/Sufficient-Dirt-2998</name>
-      <uri>https://old.reddit.com/user/Sufficient-Dirt-2998</uri>
+      <name>/u/adenineC5H5N5</name>
+      <uri>https://old.reddit.com/user/adenineC5H5N5</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Máy mình bị dính cái sọc nhỏ bên màn hình, có cần phải đi sửa ko mấy bác :((&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Sufficient-Dirt-2998"&gt; /u/Sufficient-Dirt-2998 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o1wzi0/điện_thoại_bị_sọc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o1wzi0/điện_thoại_bị_sọc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o1wzi0/điện_thoại_bị_sọc/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mng, em là nữ 2k5 quen bf Filipino 2k3 được 2 năm. Em học y ở VN còn bf học electrical engineering ở Philippines. Bọn em quen qua 1 hội thảo online của trường y. Gia đình bf đã có thẻ xanh, bf dự định học masters ở Mỹ rồi qua VN sống với em. Bf đã qua VN chơi 2 lần, mỗi lần khoảng 20 ngày và cũng đã gặp ba mẹ em. Ba mẹ em chắc chắn k đồng ý cho em đi theo bf vì em là con 1, bf lại chưa có nhà cửa, xe cộ, công ăn việc làm bên kia. Bản thân em cũng không muốn đi xa, đã bàn với bf và bạn ấy cũng đồng ý xong masters sẽ qua VN kiếm việc và ở với em. Nhưng dì của bf (người bảo lãnh cả gia đình bf qua Mỹ) lại k thích, cổ muốn bf sống ở Mỹ luôn vì tương lai tốt hơn. Bf confirm chắc nụi với em là sẽ k nghe lời dì, mà sẽ nghe lời em qua VN sống. Vì em tuổi còn trẻ, còn non nớt chưa có kinh nghiệm nên lên đây hỏi mng là liệu người nước ngoài qua VN kiếm việc làm ổn định có dễ dàng hay ko? Và ai rành văn hóa Filipino cho em hỏi luôn là liệu bf em có cãi được gia đình b ấy mà qua ở với em được không? Mng còn lời khuyên gì cho em xin với ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/adenineC5H5N5"&gt; /u/adenineC5H5N5 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o1v39t/iu_xa/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o1v39t/iu_xa/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o1v39t/iu_xa/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-09T04:43:24+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1o1uha1</id>
-    <title>Em trai mới lớn</title>
-    <updated>2025-10-09T02:28:11+00:00</updated>
-    <author>
-      <name>/u/taipyn</name>
-      <uri>https://old.reddit.com/user/taipyn</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em trai mình năm nay mới lên cấp 3. Do nhà xa nên phải ở trọ gần trường. Gia đình mình tuy không khá giả, nhưng ba mẹ vẫn cố gắng lo cho em đầy đủ: cho tiền sinh hoạt dư hơn bạn bè, mua xe điện mới để đi học thêm, sắp tới còn định mua laptop cho tiện học online. Từ ngày lên huyện học, em thay đổi hẳn. Ít gọi về, nhiều khi mẹ hoặc chị gọi còn tỏ ra khó chịu hoặc không nghe máy. Mỗi tuần chỉ về sáng Chủ nhật để lấy tiền rồi đi ngay, nói là “bận học thêm”. Hôm qua mẹ mình gọi mãi không được, lo quá nên nhờ bạn cùng trọ đi tìm. Mấy bạn tìm từ chiều tới tối không thấy, tới 9h khu trọ đóng cửa mà vẫn chưa về. Tận 9h20 mới có người gọi được cho em thì em nói đi qua nhà bạn ngủ — mà nhà bạn đó khá xa, đường toàn xe lớn nguy hiểm, sóng yếu, bạn này lại từng quậy phá, gia cảnh phức tạp, cấp 2 từng ăn chơi ngỗ nghịch nhưng từ lúc ba bạn bỏ đi bạn đã hối cải ( mình chỉ nghe dm kể lại nên cũng không nhận xét hay đánh giá bạn này). Em không báo ai, để mọi người lo cả đêm.&lt;/p&gt; &lt;p&gt;Gần đây em lạnh nhạt, ít nói, dường như coi mọi thứ gia đình làm là điều hiển nhiên. Mình và chị đi làm xa, chỉ biết gọi điện hỏi thăm, nên thật sự rất lo. Không biết nên làm sao để em hiểu và trân trọng hơn tình cảm, sự lo lắng của gia đình nữa 😞 Ai từng rơi vào hoàn cảnh giống mình cho xin lời khuyên với ạ 🙏&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/taipyn"&gt; /u/taipyn &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o1uha1/em_trai_mới_lớn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o1uha1/em_trai_mới_lớn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o1uha1/em_trai_mới_lớn/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-09T02:28:11+00:00</published>
+    <published>2025-10-09T02:58:51+00:00</published>
   </entry>
   <entry>
     <id>t3_1o1oytt</id>
@@ -294,6 +255,32 @@
     <published>2025-10-08T22:11:53+00:00</published>
   </entry>
   <entry>
+    <id>t3_1o1uha1</id>
+    <title>Em trai mới lớn</title>
+    <updated>2025-10-09T02:28:11+00:00</updated>
+    <author>
+      <name>/u/taipyn</name>
+      <uri>https://old.reddit.com/user/taipyn</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em trai mình năm nay mới lên cấp 3. Do nhà xa nên phải ở trọ gần trường. Gia đình mình tuy không khá giả, nhưng ba mẹ vẫn cố gắng lo cho em đầy đủ: cho tiền sinh hoạt dư hơn bạn bè, mua xe điện mới để đi học thêm, sắp tới còn định mua laptop cho tiện học online. Từ ngày lên huyện học, em thay đổi hẳn. Ít gọi về, nhiều khi mẹ hoặc chị gọi còn tỏ ra khó chịu hoặc không nghe máy. Mỗi tuần chỉ về sáng Chủ nhật để lấy tiền rồi đi ngay, nói là “bận học thêm”. Hôm qua mẹ mình gọi mãi không được, lo quá nên nhờ bạn cùng trọ đi tìm. Mấy bạn tìm từ chiều tới tối không thấy, tới 9h khu trọ đóng cửa mà vẫn chưa về. Tận 9h20 mới có người gọi được cho em thì em nói đi qua nhà bạn ngủ — mà nhà bạn đó khá xa, đường toàn xe lớn nguy hiểm, sóng yếu, bạn này lại từng quậy phá, gia cảnh phức tạp, cấp 2 từng ăn chơi ngỗ nghịch nhưng từ lúc ba bạn bỏ đi bạn đã hối cải ( mình chỉ nghe dm kể lại nên cũng không nhận xét hay đánh giá bạn này). Em không báo ai, để mọi người lo cả đêm.&lt;/p&gt; &lt;p&gt;Gần đây em lạnh nhạt, ít nói, dường như coi mọi thứ gia đình làm là điều hiển nhiên. Mình và chị đi làm xa, chỉ biết gọi điện hỏi thăm, nên thật sự rất lo. Không biết nên làm sao để em hiểu và trân trọng hơn tình cảm, sự lo lắng của gia đình nữa 😞 Ai từng rơi vào hoàn cảnh giống mình cho xin lời khuyên với ạ 🙏&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/taipyn"&gt; /u/taipyn &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o1uha1/em_trai_mới_lớn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o1uha1/em_trai_mới_lớn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o1uha1/em_trai_mới_lớn/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-09T02:28:11+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1o1wzi0</id>
+    <title>Điện thoại bị sọc</title>
+    <updated>2025-10-09T04:43:24+00:00</updated>
+    <author>
+      <name>/u/Sufficient-Dirt-2998</name>
+      <uri>https://old.reddit.com/user/Sufficient-Dirt-2998</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Máy mình bị dính cái sọc nhỏ bên màn hình, có cần phải đi sửa ko mấy bác :((&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Sufficient-Dirt-2998"&gt; /u/Sufficient-Dirt-2998 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o1wzi0/điện_thoại_bị_sọc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o1wzi0/điện_thoại_bị_sọc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o1wzi0/điện_thoại_bị_sọc/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-09T04:43:24+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1o1nfkg</id>
     <title>22 tuổi, thất nghiệp 5 tháng…</title>
     <updated>2025-10-08T21:08:55+00:00</updated>
@@ -305,6 +292,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1o1nfkg/22_tuổi_thất_nghiệp_5_tháng/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-08T21:08:55+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1o1zgh7</id>
+    <title>Tốt trong tình bạn khốn trong tình yêu :))))</title>
+    <updated>2025-10-09T07:16:49+00:00</updated>
+    <author>
+      <name>/u/Brief-Plantain7310</name>
+      <uri>https://old.reddit.com/user/Brief-Plantain7310</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1o1zgh7/tốt_trong_tình_bạn_khốn_trong_tình_yêu/"&gt; &lt;img alt="Tốt trong tình bạn khốn trong tình yêu :))))" src="https://preview.redd.it/f3qkk1fpb1uf1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=626d11193b3e3a3d045c7741384a583df81b156f" title="Tốt trong tình bạn khốn trong tình yêu :))))" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;ừ, đây là đoạn chat của con bạn t gửi t :))) uh ye nói thêm thì bạn t nó cũng biết ơn các anh phết, trước khi nó cút nó còn chào tạm biệt chúc các anh sức khoẻ đàng hoàng. Đọc thì nghe nó khốn thật ý, nhưng mà thật ra nó đáng thương vãi, nó lớn lên mang trong mình family issue, trust issue với 1 tỷ thể loại trauma khác. Nó nhận thức được nó không cần chứng minh với ai hết nó chỉ cần là nó làm nhữnbg gì nó vui và nuôi sống được nó là được, nma nó k thể, nó luôn làm để được công nhận để được chứng minh...Suy cho cùng đó chỉ là coping mechanism (cơ chế đối phó với tổn thương) của nó. Hồi đêm tâm sự bóc tách vấn đề thì nó bảo là, nó chưa solve được những vấn đề của nó thì nó k dám yêu ai, nhắn tin vui vui thì được, chứ để get in relationship thì nó k dám. Viết bài này, mong là anh trai nào đó đi qua cuộc đời con bạn t và lỡ bị nó &amp;quot;trap&amp;quot; thì mong anh hiểu cho nó, các anh chả có lỗi gì cả, lỗi ở con bạn em ẩm ương :((( &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Brief-Plantain7310"&gt; /u/Brief-Plantain7310 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/f3qkk1fpb1uf1.png"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o1zgh7/tốt_trong_tình_bạn_khốn_trong_tình_yêu/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o1zgh7/tốt_trong_tình_bạn_khốn_trong_tình_yêu/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-09T07:16:49+00:00</published>
   </entry>
   <entry>
     <id>t3_1o1qrmz</id>
