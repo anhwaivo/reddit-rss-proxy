@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-10-09T03:52:58+00:00</updated>
+  <updated>2025-10-09T04:21:29+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
+  <entry>
+    <id>t3_1o1anez</id>
+    <title>Nvqs</title>
+    <updated>2025-10-08T13:34:07+00:00</updated>
+    <author>
+      <name>/u/Q_GoldenFarm</name>
+      <uri>https://old.reddit.com/user/Q_GoldenFarm</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác, cho em hỏi: hiện tại em đang ở nội thành, vừa ra trường và đang gọi đi nvqs. E hiện tại đang nhận dc deal trăm rưỡi củ lạc và sẽ kph đi đến hết 27. Các bác cho e xin ý kiến, e rất cảm ơn.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Q_GoldenFarm"&gt; /u/Q_GoldenFarm &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o1anez/nvqs/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o1anez/nvqs/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o1anez/nvqs/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-08T13:34:07+00:00</published>
+  </entry>
   <entry>
     <id>t3_1o1edj7</id>
     <title>Chị của bồ mình là người tâm thần bạo lực và cả nhà bồ mình bao che cho bả</title>
@@ -32,19 +45,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1o1ehw4/tư_vấn_đồ_trekking/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-08T15:57:51+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1o198sk</id>
-    <title>Vụ antex đang nóng</title>
-    <updated>2025-10-08T12:35:38+00:00</updated>
-    <author>
-      <name>/u/lolotika</name>
-      <uri>https://old.reddit.com/user/lolotika</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1o198sk/vụ_antex_đang_nóng/"&gt; &lt;img alt="Vụ antex đang nóng" src="https://preview.redd.it/ch1rdprcuvtf1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=1d3eea5df27f35f7706abdb310dd15f6bdd0829e" title="Vụ antex đang nóng" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Liệu shark bình có bị bế đi không các bác. Nghe nói công ty antex nói shark không tham gia điều hành. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/lolotika"&gt; /u/lolotika &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/ch1rdprcuvtf1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o198sk/vụ_antex_đang_nóng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o198sk/vụ_antex_đang_nóng/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-08T12:35:38+00:00</published>
   </entry>
   <entry>
     <id>t3_1o1g1aw</id>
@@ -97,6 +97,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1o0xvd6/người_trẻ_học_lớn/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-08T01:49:27+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1o198sk</id>
+    <title>Vụ antex đang nóng</title>
+    <updated>2025-10-08T12:35:38+00:00</updated>
+    <author>
+      <name>/u/lolotika</name>
+      <uri>https://old.reddit.com/user/lolotika</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1o198sk/vụ_antex_đang_nóng/"&gt; &lt;img alt="Vụ antex đang nóng" src="https://preview.redd.it/ch1rdprcuvtf1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=1d3eea5df27f35f7706abdb310dd15f6bdd0829e" title="Vụ antex đang nóng" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Liệu shark bình có bị bế đi không các bác. Nghe nói công ty antex nói shark không tham gia điều hành. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/lolotika"&gt; /u/lolotika &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/ch1rdprcuvtf1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o198sk/vụ_antex_đang_nóng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o198sk/vụ_antex_đang_nóng/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-08T12:35:38+00:00</published>
   </entry>
   <entry>
     <id>t3_1o11fuh</id>
@@ -203,19 +216,6 @@
     <published>2025-10-09T02:58:51+00:00</published>
   </entry>
   <entry>
-    <id>t3_1o1voih</id>
-    <title>Về việc đi NVQS</title>
-    <updated>2025-10-09T03:29:24+00:00</updated>
-    <author>
-      <name>/u/Historical_Hope_5579</name>
-      <uri>https://old.reddit.com/user/Historical_Hope_5579</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;em năm nay 23t , công việc đang phất 1 chút cảm giác phát triển được trong cuộc sống thì nhận tin 21 này khám nghĩa vụ các bác ạ.&lt;/p&gt; &lt;p&gt;E thì là con 1 mà giờ bố e thì yếu, mẹ e cũng buôn bán bthg e đang là thu nhập chính nên cũng không hề muốn đi chút nào Các bác nào đã từng chạy nvqs cho e xin ít lời khuyên với ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Historical_Hope_5579"&gt; /u/Historical_Hope_5579 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o1voih/về_việc_đi_nvqs/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o1voih/về_việc_đi_nvqs/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o1voih/về_việc_đi_nvqs/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-09T03:29:24+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1o1g5jo</id>
     <title>Đi làm việc tại Đức - có bằng đại học lương 2500Eur/tháng 80 củ</title>
     <updated>2025-10-08T16:58:32+00:00</updated>
@@ -281,19 +281,6 @@
     <published>2025-10-08T17:56:35+00:00</published>
   </entry>
   <entry>
-    <id>t3_1o1oytt</id>
-    <title>Mấy bác thấy sao về việc sinh viên đh quen học sinh cấp 3</title>
-    <updated>2025-10-08T22:11:53+00:00</updated>
-    <author>
-      <name>/u/DeaconArthur</name>
-      <uri>https://old.reddit.com/user/DeaconArthur</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tui có đứa bạn năm 2 19t quen học sinh lớp 11 16t chắc cũng đc vài tháng mà tui thấy hơi cấn cấn, bạn tui nói ko có làm gì bậy bạ chủ yếu là yêu nhau vì nhau thôi. Nên mấy bác thấy sao nói riêng chuyện này, nói chung việc sv đh quen học sinh cấp 3?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/DeaconArthur"&gt; /u/DeaconArthur &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o1oytt/mấy_bác_thấy_sao_về_việc_sinh_viên_đh_quen_học/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o1oytt/mấy_bác_thấy_sao_về_việc_sinh_viên_đh_quen_học/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o1oytt/mấy_bác_thấy_sao_về_việc_sinh_viên_đh_quen_học/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-08T22:11:53+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1o14ude</id>
     <title>Chia sẻ về lương ngành IT</title>
     <updated>2025-10-08T08:25:52+00:00</updated>
@@ -305,6 +292,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1o14ude/chia_sẻ_về_lương_ngành_it/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-08T08:25:52+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1o1oytt</id>
+    <title>Mấy bác thấy sao về việc sinh viên đh quen học sinh cấp 3</title>
+    <updated>2025-10-08T22:11:53+00:00</updated>
+    <author>
+      <name>/u/DeaconArthur</name>
+      <uri>https://old.reddit.com/user/DeaconArthur</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tui có đứa bạn năm 2 19t quen học sinh lớp 11 16t chắc cũng đc vài tháng mà tui thấy hơi cấn cấn, bạn tui nói ko có làm gì bậy bạ chủ yếu là yêu nhau vì nhau thôi. Nên mấy bác thấy sao nói riêng chuyện này, nói chung việc sv đh quen học sinh cấp 3?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/DeaconArthur"&gt; /u/DeaconArthur &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o1oytt/mấy_bác_thấy_sao_về_việc_sinh_viên_đh_quen_học/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o1oytt/mấy_bác_thấy_sao_về_việc_sinh_viên_đh_quen_học/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o1oytt/mấy_bác_thấy_sao_về_việc_sinh_viên_đh_quen_học/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-08T22:11:53+00:00</published>
   </entry>
   <entry>
     <id>t3_1o1nfkg</id>
