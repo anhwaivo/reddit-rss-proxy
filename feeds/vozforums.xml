@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-10-09T12:37:34+00:00</updated>
+  <updated>2025-10-09T13:18:47+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1o2153v</id>
-    <title>Nhờ tư vấn tìm thuê chung cư / căn hộ / phòng trọ ở xung quanh Quận 1</title>
-    <updated>2025-10-09T09:12:04+00:00</updated>
-    <author>
-      <name>/u/ReplacementOk7344</name>
-      <uri>https://old.reddit.com/user/ReplacementOk7344</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Cần tư vấn tìm thuê chung cư / căn hộ / phòng trọ cho 1 người xung quanh khu vực Quận 1 (công ty ở gần Cầu Ba Son)&lt;br /&gt; Nhu cầu: An ninh, nếu xa thì thuận tiện di chuyển ạ&lt;br /&gt; Tầm giá khoảng 5-7 triệu / tháng&lt;br /&gt; Cảm ơn mọi người&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ReplacementOk7344"&gt; /u/ReplacementOk7344 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o2153v/nhờ_tư_vấn_tìm_thuê_chung_cư_căn_hộ_phòng_trọ_ở/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o2153v/nhờ_tư_vấn_tìm_thuê_chung_cư_căn_hộ_phòng_trọ_ở/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o2153v/nhờ_tư_vấn_tìm_thuê_chung_cư_căn_hộ_phòng_trọ_ở/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-09T09:12:04+00:00</published>
-  </entry>
   <entry>
     <id>t3_1o21o8i</id>
     <title>Giúp mình với</title>
@@ -34,19 +21,6 @@
     <published>2025-10-09T09:47:27+00:00</published>
   </entry>
   <entry>
-    <id>t3_1o14ude</id>
-    <title>Chia sẻ về lương ngành IT</title>
-    <updated>2025-10-08T08:25:52+00:00</updated>
-    <author>
-      <name>/u/users_84</name>
-      <uri>https://old.reddit.com/user/users_84</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác, em 25 M. Hiện đang là kỹ sư IT nhưng không phải mảng Dev. Hiện tại lương net của em 11M. Em mong mọi người chia sẻ về mức lương và mặt bằng chung về lương của ngành IT hiện tại để mình có nhiều góc nhìn về ngành này với ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/users_84"&gt; /u/users_84 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o14ude/chia_sẻ_về_lương_ngành_it/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o14ude/chia_sẻ_về_lương_ngành_it/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o14ude/chia_sẻ_về_lương_ngành_it/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-08T08:25:52+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1o1ymbh</id>
     <title>Tìm mua tăm nước</title>
     <updated>2025-10-09T06:22:26+00:00</updated>
@@ -58,6 +32,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1o1ymbh/tìm_mua_tăm_nước/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-09T06:22:26+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1o14ude</id>
+    <title>Chia sẻ về lương ngành IT</title>
+    <updated>2025-10-08T08:25:52+00:00</updated>
+    <author>
+      <name>/u/users_84</name>
+      <uri>https://old.reddit.com/user/users_84</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác, em 25 M. Hiện đang là kỹ sư IT nhưng không phải mảng Dev. Hiện tại lương net của em 11M. Em mong mọi người chia sẻ về mức lương và mặt bằng chung về lương của ngành IT hiện tại để mình có nhiều góc nhìn về ngành này với ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/users_84"&gt; /u/users_84 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o14ude/chia_sẻ_về_lương_ngành_it/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o14ude/chia_sẻ_về_lương_ngành_it/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o14ude/chia_sẻ_về_lương_ngành_it/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-08T08:25:52+00:00</published>
   </entry>
   <entry>
     <id>t3_1o1hr65</id>
@@ -151,6 +138,19 @@
     <published>2025-10-09T04:43:24+00:00</published>
   </entry>
   <entry>
+    <id>t3_1o24u0q</id>
+    <title>Kiếm thêm thu nhập khi học năm nhất</title>
+    <updated>2025-10-09T12:40:23+00:00</updated>
+    <author>
+      <name>/u/Impressive-Jaguar196</name>
+      <uri>https://old.reddit.com/user/Impressive-Jaguar196</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em là một sinh viên (cuối) năm nhất ngành thiết kế ở TPHCM. Trước giờ thì em phụ thuộc vào tiền chu cấp của gia đình để chi trả các khoảng tiền học phí và sinh hoạt phí nhưng do bản thân em muốn tự lập tài chính hoặc ít nhất là phụ giúp gia đình phần nào hay phần đó nên em muốn đi làm thêm part-time ạ. &lt;/p&gt; &lt;p&gt;Em có nhiều kĩ năng mềm như kĩ năng giao tiếp, lãnh đạo, xử lý tình huống, teamwork.. ở mức tốt và em có IELTS 7.0, giao tiếp tiếng anh thành thạo. Em muốn tìm những công việc có thể cho em học hỏi thêm về ngành học của mình để tiếp tục build portfolio hoặc có thêm kiến thức về những kĩ năng, lĩnh vực khác cũng được ạ. &lt;strong&gt;Em mong nhận được lời khuyên từ các anh chị về những công việc phù hợp với newbie và nên tìm việc ở đâu uy tín ạ.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;Đây là lần đầu em đăng bài lên diễn đàn để hỏi nên có gì sai sót mong anh chị bỏ qua ạ&lt;/em&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Impressive-Jaguar196"&gt; /u/Impressive-Jaguar196 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o24u0q/kiếm_thêm_thu_nhập_khi_học_năm_nhất/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o24u0q/kiếm_thêm_thu_nhập_khi_học_năm_nhất/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o24u0q/kiếm_thêm_thu_nhập_khi_học_năm_nhất/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-09T12:40:23+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1o1uha1</id>
     <title>Em trai mới lớn</title>
     <updated>2025-10-09T02:28:11+00:00</updated>
@@ -216,19 +216,6 @@
     <published>2025-10-09T11:47:26+00:00</published>
   </entry>
   <entry>
-    <id>t3_1o24a8f</id>
-    <title>Cần mọi người giúp về môn phân tích thống kê nhiều chiều - Methods of Multivariate Analysis</title>
-    <updated>2025-10-09T12:14:05+00:00</updated>
-    <author>
-      <name>/u/tokenpheee</name>
-      <uri>https://old.reddit.com/user/tokenpheee</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1o24a8f/cần_mọi_người_giúp_về_môn_phân_tích_thống_kê/"&gt; &lt;img alt="Cần mọi người giúp về môn phân tích thống kê nhiều chiều - Methods of Multivariate Analysis" src="https://b.thumbs.redditmedia.com/bHAtakPb1m4VhXZ6EQVHCCdFcBomYBE9NJZtO4Wb3Wc.jpg" title="Cần mọi người giúp về môn phân tích thống kê nhiều chiều - Methods of Multivariate Analysis" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="https://preview.redd.it/adom1khgu2uf1.png?width=662&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=dd033b6327049671a54edf367104ebab1cc29e19"&gt;Đề bài 4.12 và 4.13&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Có thể hơi lạc đề xíu nhưng bác nào giỏi giúp e hiểu cách làm câu 4.13 với, và em hỏi thêm là câu 4.12 em giải khác đáp án của sách mà không biết sao sai này sách sai đúng không các bác, e học k giỏi lắm mong các bác nhẹ nhàng, em cảm ơn mn!&lt;/p&gt; &lt;p&gt;&lt;a href="https://preview.redd.it/yzndons2v2uf1.png?width=702&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=dfcdfc8d4b36c5cbf0b31b0c2da3fc7a0972c11f"&gt;Đáp án 4.12 theo sách&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;a href="https://preview.redd.it/urxz3c66v2uf1.png?width=725&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=829be2e825dc9aa6080154b2341e664c174f242e"&gt;Đáp án 4.13 theo sách&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/tokenpheee"&gt; /u/tokenpheee &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o24a8f/cần_mọi_người_giúp_về_môn_phân_tích_thống_kê/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o24a8f/cần_mọi_người_giúp_về_môn_phân_tích_thống_kê/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o24a8f/cần_mọi_người_giúp_về_môn_phân_tích_thống_kê/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-09T12:14:05+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1o20jdi</id>
     <title>Quá cảnh Tân Sơn Nhất</title>
     <updated>2025-10-09T08:30:47+00:00</updated>
@@ -242,19 +229,6 @@
     <published>2025-10-09T08:30:47+00:00</published>
   </entry>
   <entry>
-    <id>t3_1o20nrw</id>
-    <title>Xung quanh bạn có ai giỏi tự thân không?</title>
-    <updated>2025-10-09T08:39:36+00:00</updated>
-    <author>
-      <name>/u/Secret-Swimming132</name>
-      <uri>https://old.reddit.com/user/Secret-Swimming132</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Nói đến giỏi thì mấy bạn định nghĩa thế nào là giỏi? (học giỏi, kiếm tiền giỏi) &lt;/p&gt; &lt;p&gt;Xung quanh các bạn có ai giỏi khiến bạn phải nể hay ghen tị chưa?&lt;/p&gt; &lt;p&gt;Các bạn có suy nghĩ những người cùng tuổi mình họ giỏi là vì họ bắt đầu rất sớm? &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Secret-Swimming132"&gt; /u/Secret-Swimming132 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o20nrw/xung_quanh_bạn_có_ai_giỏi_tự_thân_không/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o20nrw/xung_quanh_bạn_có_ai_giỏi_tự_thân_không/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o20nrw/xung_quanh_bạn_có_ai_giỏi_tự_thân_không/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-09T08:39:36+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1o1qrmz</id>
     <title>Đứa trẻ 30 tuổi</title>
     <updated>2025-10-08T23:30:38+00:00</updated>
@@ -266,6 +240,32 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1o1qrmz/đứa_trẻ_30_tuổi/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-08T23:30:38+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1o24a8f</id>
+    <title>Cần mọi người giúp về môn phân tích thống kê nhiều chiều - Methods of Multivariate Analysis</title>
+    <updated>2025-10-09T12:14:05+00:00</updated>
+    <author>
+      <name>/u/tokenpheee</name>
+      <uri>https://old.reddit.com/user/tokenpheee</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1o24a8f/cần_mọi_người_giúp_về_môn_phân_tích_thống_kê/"&gt; &lt;img alt="Cần mọi người giúp về môn phân tích thống kê nhiều chiều - Methods of Multivariate Analysis" src="https://b.thumbs.redditmedia.com/bHAtakPb1m4VhXZ6EQVHCCdFcBomYBE9NJZtO4Wb3Wc.jpg" title="Cần mọi người giúp về môn phân tích thống kê nhiều chiều - Methods of Multivariate Analysis" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="https://preview.redd.it/adom1khgu2uf1.png?width=662&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=dd033b6327049671a54edf367104ebab1cc29e19"&gt;Đề bài 4.12 và 4.13&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Có thể hơi lạc đề xíu nhưng bác nào giỏi giúp e hiểu cách làm câu 4.13 với, và em hỏi thêm là câu 4.12 em giải khác đáp án của sách mà không biết sao sai này sách sai đúng không các bác, e học k giỏi lắm mong các bác nhẹ nhàng, em cảm ơn mn!&lt;/p&gt; &lt;p&gt;&lt;a href="https://preview.redd.it/yzndons2v2uf1.png?width=702&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=dfcdfc8d4b36c5cbf0b31b0c2da3fc7a0972c11f"&gt;Đáp án 4.12 theo sách&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;a href="https://preview.redd.it/urxz3c66v2uf1.png?width=725&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=829be2e825dc9aa6080154b2341e664c174f242e"&gt;Đáp án 4.13 theo sách&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/tokenpheee"&gt; /u/tokenpheee &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o24a8f/cần_mọi_người_giúp_về_môn_phân_tích_thống_kê/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o24a8f/cần_mọi_người_giúp_về_môn_phân_tích_thống_kê/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o24a8f/cần_mọi_người_giúp_về_môn_phân_tích_thống_kê/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-09T12:14:05+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1o20nrw</id>
+    <title>Xung quanh bạn có ai giỏi tự thân không?</title>
+    <updated>2025-10-09T08:39:36+00:00</updated>
+    <author>
+      <name>/u/Secret-Swimming132</name>
+      <uri>https://old.reddit.com/user/Secret-Swimming132</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Nói đến giỏi thì mấy bạn định nghĩa thế nào là giỏi? (học giỏi, kiếm tiền giỏi) &lt;/p&gt; &lt;p&gt;Xung quanh các bạn có ai giỏi khiến bạn phải nể hay ghen tị chưa?&lt;/p&gt; &lt;p&gt;Các bạn có suy nghĩ những người cùng tuổi mình họ giỏi là vì họ bắt đầu rất sớm? &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Secret-Swimming132"&gt; /u/Secret-Swimming132 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o20nrw/xung_quanh_bạn_có_ai_giỏi_tự_thân_không/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o20nrw/xung_quanh_bạn_có_ai_giỏi_tự_thân_không/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o20nrw/xung_quanh_bạn_có_ai_giỏi_tự_thân_không/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-09T08:39:36+00:00</published>
   </entry>
   <entry>
     <id>t3_1o21nl0</id>
