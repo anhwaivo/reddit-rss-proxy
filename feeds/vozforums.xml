@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-10-09T11:28:34+00:00</updated>
+  <updated>2025-10-09T11:40:59+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -151,19 +151,6 @@
     <published>2025-10-09T07:06:34+00:00</published>
   </entry>
   <entry>
-    <id>t3_1o1oytt</id>
-    <title>Mấy bác thấy sao về việc sinh viên đh quen học sinh cấp 3</title>
-    <updated>2025-10-08T22:11:53+00:00</updated>
-    <author>
-      <name>/u/DeaconArthur</name>
-      <uri>https://old.reddit.com/user/DeaconArthur</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tui có đứa bạn năm 2 19t quen học sinh lớp 11 16t chắc cũng đc vài tháng mà tui thấy hơi cấn cấn, bạn tui nói ko có làm gì bậy bạ chủ yếu là yêu nhau vì nhau thôi. Nên mấy bác thấy sao nói riêng chuyện này, nói chung việc sv đh quen học sinh cấp 3?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/DeaconArthur"&gt; /u/DeaconArthur &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o1oytt/mấy_bác_thấy_sao_về_việc_sinh_viên_đh_quen_học/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o1oytt/mấy_bác_thấy_sao_về_việc_sinh_viên_đh_quen_học/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o1oytt/mấy_bác_thấy_sao_về_việc_sinh_viên_đh_quen_học/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-08T22:11:53+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1o1ztb7</id>
     <title>Tìm son dưỡng</title>
     <updated>2025-10-09T07:40:44+00:00</updated>
@@ -175,6 +162,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1o1ztb7/tìm_son_dưỡng/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-09T07:40:44+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1o1oytt</id>
+    <title>Mấy bác thấy sao về việc sinh viên đh quen học sinh cấp 3</title>
+    <updated>2025-10-08T22:11:53+00:00</updated>
+    <author>
+      <name>/u/DeaconArthur</name>
+      <uri>https://old.reddit.com/user/DeaconArthur</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tui có đứa bạn năm 2 19t quen học sinh lớp 11 16t chắc cũng đc vài tháng mà tui thấy hơi cấn cấn, bạn tui nói ko có làm gì bậy bạ chủ yếu là yêu nhau vì nhau thôi. Nên mấy bác thấy sao nói riêng chuyện này, nói chung việc sv đh quen học sinh cấp 3?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/DeaconArthur"&gt; /u/DeaconArthur &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o1oytt/mấy_bác_thấy_sao_về_việc_sinh_viên_đh_quen_học/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o1oytt/mấy_bác_thấy_sao_về_việc_sinh_viên_đh_quen_học/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o1oytt/mấy_bác_thấy_sao_về_việc_sinh_viên_đh_quen_học/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-08T22:11:53+00:00</published>
   </entry>
   <entry>
     <id>t3_1o1uha1</id>
