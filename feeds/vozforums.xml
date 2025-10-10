@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-10-10T08:23:44+00:00</updated>
+  <updated>2025-10-10T08:45:54+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1o2nagn</id>
-    <title>Mất danh sách Đang theo dõi trên facebook</title>
-    <updated>2025-10-10T01:03:21+00:00</updated>
-    <author>
-      <name>/u/MyNameIsKain</name>
-      <uri>https://old.reddit.com/user/MyNameIsKain</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1o2nagn/mất_danh_sách_đang_theo_dõi_trên_facebook/"&gt; &lt;img alt="Mất danh sách Đang theo dõi trên facebook" src="https://preview.redd.it/jds9803oo6uf1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=835e740fef1672f1fb0d3bd10285d124f60ce090" title="Mất danh sách Đang theo dõi trên facebook" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tài khoản facebook bị khoá 180 ngày, mở lại 1 tiếng sau đó. Truy cập thì mất hết Danh sách theo dõi (Tự bỏ theo dõi người, fanpage vẫn like nhưng chuyển sang Bỏ theo dõi). Có bác nào biết khôi phục lại hoặc tìm lại danh sách theo dõi cũ không ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/MyNameIsKain"&gt; /u/MyNameIsKain &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/jds9803oo6uf1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o2nagn/mất_danh_sách_đang_theo_dõi_trên_facebook/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o2nagn/mất_danh_sách_đang_theo_dõi_trên_facebook/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-10T01:03:21+00:00</published>
-  </entry>
   <entry>
     <id>t3_1o2ny32</id>
     <title>Pin laptop bị chai</title>
@@ -164,19 +151,6 @@
     <published>2025-10-09T15:09:17+00:00</published>
   </entry>
   <entry>
-    <id>t3_1o2uxpy</id>
-    <title>Các bác mua áo thun trơn ở đâu? (Trừ Uniqlo)</title>
-    <updated>2025-10-10T08:03:20+00:00</updated>
-    <author>
-      <name>/u/anh4pro</name>
-      <uri>https://old.reddit.com/user/anh4pro</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Budget tầm 250k Tiêu chí: Giặt máy được&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/anh4pro"&gt; /u/anh4pro &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o2uxpy/các_bác_mua_áo_thun_trơn_ở_đâu_trừ_uniqlo/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o2uxpy/các_bác_mua_áo_thun_trơn_ở_đâu_trừ_uniqlo/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o2uxpy/các_bác_mua_áo_thun_trơn_ở_đâu_trừ_uniqlo/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-10T08:03:20+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1o2rlkq</id>
     <title>Mình có đang làm quá không?</title>
     <updated>2025-10-10T04:38:30+00:00</updated>
@@ -242,6 +216,19 @@
     <published>2025-10-10T05:10:34+00:00</published>
   </entry>
   <entry>
+    <id>t3_1o2uxpy</id>
+    <title>Các bác mua áo thun trơn ở đâu? (Trừ Uniqlo)</title>
+    <updated>2025-10-10T08:03:20+00:00</updated>
+    <author>
+      <name>/u/anh4pro</name>
+      <uri>https://old.reddit.com/user/anh4pro</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Budget tầm 250k Tiêu chí: Giặt máy được&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/anh4pro"&gt; /u/anh4pro &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o2uxpy/các_bác_mua_áo_thun_trơn_ở_đâu_trừ_uniqlo/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o2uxpy/các_bác_mua_áo_thun_trơn_ở_đâu_trừ_uniqlo/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o2uxpy/các_bác_mua_áo_thun_trơn_ở_đâu_trừ_uniqlo/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-10T08:03:20+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1o1zgh7</id>
     <title>Tốt trong tình bạn khốn trong tình yêu :))))</title>
     <updated>2025-10-09T07:16:49+00:00</updated>
@@ -255,17 +242,17 @@
     <published>2025-10-09T07:16:49+00:00</published>
   </entry>
   <entry>
-    <id>t3_1o2u5cy</id>
-    <title>Liệu em có lựa chọn sai?</title>
-    <updated>2025-10-10T07:10:39+00:00</updated>
+    <id>t3_1o2vh9e</id>
+    <title>Ai vào chửi tôi đi...</title>
+    <updated>2025-10-10T08:39:47+00:00</updated>
     <author>
-      <name>/u/ConnectWall</name>
-      <uri>https://old.reddit.com/user/ConnectWall</uri>
+      <name>/u/Defiant_Break_9024</name>
+      <uri>https://old.reddit.com/user/Defiant_Break_9024</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em là nam 2k7 mới vừa tốt nghiệp năm nay, em đậu ĐH nhưng em bỏ và chọn đi xkld Nhật (a trai e đã đi xkld Nhật dc 5 năm), vì thực sự 4 năm học ĐH khá là đắt đỏ, hiện tại gd em cũng vì kinh tế mà hay xảy ra chuyện, em không biết lựa chọn của em có đúng ko... các anh chị ai đã đi trước cho e xin lời khuyên với ạ chứ em mông lung quá, e cảm ơn ạ!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ConnectWall"&gt; /u/ConnectWall &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o2u5cy/liệu_em_có_lựa_chọn_sai/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o2u5cy/liệu_em_có_lựa_chọn_sai/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o2u5cy/liệu_em_có_lựa_chọn_sai/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;strong&gt;Tính sơ tình phí tháng rồi:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Lần 1: đi ăn 700&lt;/p&gt; &lt;p&gt;Lần 2: gala tranh 360, đi ăn 700&lt;/p&gt; &lt;p&gt;Lần 3: đi ăn 550, xem phim 240&lt;/p&gt; &lt;p&gt;Mua quà SN 1400&lt;/p&gt; &lt;p&gt;Lần 4: tặng quà trung thu 950, đi ăn 350&lt;/p&gt; &lt;p&gt;Lần 5: xem kịch 500, đi ăn 200&lt;/p&gt; &lt;p&gt;Lần 6 (sắp tới): concert 2000 đã mua vé.&lt;/p&gt; &lt;p&gt;Chi phí di chuyển cỡ 1000 nữa&lt;/p&gt; &lt;p&gt;Gần 9000...&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Defiant_Break_9024"&gt; /u/Defiant_Break_9024 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o2vh9e/ai_vào_chửi_tôi_đi/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o2vh9e/ai_vào_chửi_tôi_đi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o2vh9e/ai_vào_chửi_tôi_đi/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-10T07:10:39+00:00</published>
+    <published>2025-10-10T08:39:47+00:00</published>
   </entry>
   <entry>
     <id>t3_1o2qpvt</id>
@@ -305,6 +292,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1o2srp2/đầu_tư_dài_hạn_vàngbạc/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-10T05:45:53+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1o2u5cy</id>
+    <title>Liệu em có lựa chọn sai?</title>
+    <updated>2025-10-10T07:10:39+00:00</updated>
+    <author>
+      <name>/u/ConnectWall</name>
+      <uri>https://old.reddit.com/user/ConnectWall</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em là nam 2k7 mới vừa tốt nghiệp năm nay, em đậu ĐH nhưng em bỏ và chọn đi xkld Nhật (a trai e đã đi xkld Nhật dc 5 năm), vì thực sự 4 năm học ĐH khá là đắt đỏ, hiện tại gd em cũng vì kinh tế mà hay xảy ra chuyện, em không biết lựa chọn của em có đúng ko... các anh chị ai đã đi trước cho e xin lời khuyên với ạ chứ em mông lung quá, e cảm ơn ạ!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ConnectWall"&gt; /u/ConnectWall &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o2u5cy/liệu_em_có_lựa_chọn_sai/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o2u5cy/liệu_em_có_lựa_chọn_sai/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o2u5cy/liệu_em_có_lựa_chọn_sai/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-10T07:10:39+00:00</published>
   </entry>
   <entry>
     <id>t3_1o2q5g8</id>
