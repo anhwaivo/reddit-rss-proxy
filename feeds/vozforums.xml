@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-10-10T07:49:53+00:00</updated>
+  <updated>2025-10-10T08:23:44+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1o20sfu</id>
-    <title>Cảm thấy mất phương hướng sau 2 năm đi làm — đang nghĩ đến việc thay đổi hướng đi, rất mong nhận được lời khuyên</title>
-    <updated>2025-10-09T08:48:46+00:00</updated>
-    <author>
-      <name>/u/nhokthanh99mc</name>
-      <uri>https://old.reddit.com/user/nhokthanh99mc</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người,&lt;/p&gt; &lt;p&gt;Em đã từng làm dev phần mềm cho công ty được 2 năm thì trong đợt kí lại hợp đồng bị sếp từ chối nên giờ đang thất nghiệp. Nói là 2 năm kinh nghiệm nhưng theo em thấy đúng hơn là 1 năm x 2. Công việc phần lớn là xử lý yêu cầu của khách hàng và chỉnh sửa phần mềm. &lt;/p&gt; &lt;p&gt;Trong một năm đầu em tập trung học nghiệp vụ và cách làm việc nhưng cũng không được nhiều do team toàn người trẻ như nhau. Sang năm tiếp theo em có xin phép được học thêm về hạ tầng (mảng em muốn làm và công ty có và cần người) nhưng đó không phải nhiệm vụ chính của team nên vị từ chối rồi còn bị dụ ôm thêm việc. Vì thấy không có gì để học thêm em quyết định đi học thạc sĩ do bạn thân của em cũng đang dự tính học, đi học 2 đứa cho tiện làm project. &lt;/p&gt; &lt;p&gt;Cùng thời gian đó khối lượng công việc tăng rất nhiều một cách vô lý do team bán hàng hứa quá nhiều với khách và team BA thì không có background tech, không biết làm gì, vô được nhờ quen biết. Cả team dev của em phải OT tối mỗi ngày, cuối tuần, cả ngày lễ, có hôm em OT 24h cuối tuần để kịp deadline chỉ để chức năng em làm bị dời deadline sau đó do khách hàng đòi thêm. Ở đây tụi em OT free, trách nhiệm của mỗi người trong team, được xét là tự cá nhân làm chứ công ty không tính.&lt;/p&gt; &lt;p&gt;Thì trước đó em cũng OT với mọi người thôi, nhưng khi tới mùa cuối kì, các môn trong trường dồn dealine và phải ôn thi, em dùng hết ngày nghỉ để ở nhà làm bài với ôn thi. Sếp không thích, thấy em không còn đống góp nhiều nữa công thêm việc trước đó em có nói về việc muốn đổi qua team làm về hạ tầng nên sếp nói team đang rấy thiếu người hứa nếu kiếm được người thế thì sẽ cho em đi. Sai lầm của em là tin lời hứa đó và làm tiếp cho công ty nửa năm, tới khi kí lại hợp đồng thì bị nói là không làm gì nhiều với đặt biệt nên không kí lại.&lt;/p&gt; &lt;p&gt;Sau khi biết thông tin không kí lại, em có 2 tuần tới khi có văn bản chính thức, lúc đó em mới lôi CV ra và chỉnh sửa lại thì thấy trong 2 năm đi làm, số lượng công việc em làm thì nhiều, nhưng nó rất bình thường, không có gì nổi bật, công nghệ cũng cũ, không có quy trình bài bản, toàn là tự chế cho chạy được thì thôi. Em cũng thử nộp vài chục công ty và vẫn không được buổi phỏng vấn nào. &lt;/p&gt; &lt;p&gt;Sau một thời gian suy nghĩ thì em không muốn ngồi lì trong văn phòng viết code cả ngày nữa. Em muốn một công việc thực tế hơn — có thể là làm việc trong nhà máy, trung tâm dữ liệu hoặc môi trường cơ sở hạ tầng, thiết lập mạng, kết nối cáp, làm việc với máy móc, hoặc thậm chí gặp gỡ khách hàng tại chỗ.&lt;/p&gt; &lt;p&gt;Cho em hỏi ai đã từng làm những công việc này (kỹ thuật viên trung tâm dữ liệu, DevOps trong môi trường công nghiệp hoặc phần cứng, v.v.) hay có thông tin: Anh/chị đã làm thế nào để vào được vị trí này? Kỹ năng hoặc chứng chỉ nào nên có? Anh/chị có nghĩ việc chuyển hướng từ phát triển phần mềm sang một công việc tương tự là khả thi không? Bất kỳ lời khuyên hoặc kinh nghiệm nào cũng sẽ rất có giá trị. Em cảm ơn mọi người đã đọc bài viết dài này.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/nhokthanh99mc"&gt; /u/nhokthanh99mc &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o20sfu/cảm_thấy_mất_phương_hướng_sau_2_năm_đi_làm_đang/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o20sfu/cảm_thấy_mất_phương_hướng_sau_2_năm_đi_làm_đang/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o20sfu/cảm_thấy_mất_phương_hướng_sau_2_năm_đi_làm_đang/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-09T08:48:46+00:00</published>
-  </entry>
   <entry>
     <id>t3_1o2nagn</id>
     <title>Mất danh sách Đang theo dõi trên facebook</title>
@@ -164,19 +151,6 @@
     <published>2025-10-10T06:24:34+00:00</published>
   </entry>
   <entry>
-    <id>t3_1o2tm8u</id>
-    <title>SMM Panel - Đẩy like đẩy view</title>
-    <updated>2025-10-10T06:37:55+00:00</updated>
-    <author>
-      <name>/u/Thomas-Nguyen-9x</name>
-      <uri>https://old.reddit.com/user/Thomas-Nguyen-9x</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi các bác, em muốn tìm mấy cái dịch vụ đẩy like đẩy view. Các bác có rcm nào ko&lt;/p&gt; &lt;p&gt;Với lại đâu là tiêu chí mà các bác lựa chọn 1 bên like view tốt. E hỏi 1 vài bên thì họ mơ hồ quá à.&lt;/p&gt; &lt;p&gt;Hỏi đẩy like theo ngày ko thì ko. Like Việt thì tk toàn tên gì gì đâu. E tìm đẩy fl page Facebook và Insta ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Thomas-Nguyen-9x"&gt; /u/Thomas-Nguyen-9x &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o2tm8u/smm_panel_đẩy_like_đẩy_view/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o2tm8u/smm_panel_đẩy_like_đẩy_view/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o2tm8u/smm_panel_đẩy_like_đẩy_view/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-10T06:37:55+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1o28haj</id>
     <title>Mình có bình thường khi mà 5 năm rồi mình không nhắn tin hay tán tỉnh một cô gái nào</title>
     <updated>2025-10-09T15:09:17+00:00</updated>
@@ -188,6 +162,32 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1o28haj/mình_có_bình_thường_khi_mà_5_năm_rồi_mình_không/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-09T15:09:17+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1o2uxpy</id>
+    <title>Các bác mua áo thun trơn ở đâu? (Trừ Uniqlo)</title>
+    <updated>2025-10-10T08:03:20+00:00</updated>
+    <author>
+      <name>/u/anh4pro</name>
+      <uri>https://old.reddit.com/user/anh4pro</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Budget tầm 250k Tiêu chí: Giặt máy được&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/anh4pro"&gt; /u/anh4pro &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o2uxpy/các_bác_mua_áo_thun_trơn_ở_đâu_trừ_uniqlo/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o2uxpy/các_bác_mua_áo_thun_trơn_ở_đâu_trừ_uniqlo/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o2uxpy/các_bác_mua_áo_thun_trơn_ở_đâu_trừ_uniqlo/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-10T08:03:20+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1o2rlkq</id>
+    <title>Mình có đang làm quá không?</title>
+    <updated>2025-10-10T04:38:30+00:00</updated>
+    <author>
+      <name>/u/Not_my_1st_language</name>
+      <uri>https://old.reddit.com/user/Not_my_1st_language</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là ba mẹ chồng(35m) mình(26f) lên chơi gần hai tháng, chuyện cũng không có gì ngoại trừ việc mẹ chồng hay hôn chồng mình kiểu mẹ hôn em bé ấy.. với cả mỗi lần đi đâu về thì chồng và mẹ chồng sẽ hôn má nhau, nhưng chồng mình ngại tiếp xúc với mình trước mặt họ.&lt;/p&gt; &lt;p&gt;Lúc đầu mình khá bất ngờ nhưng riết thấy cũng quen, nhưng tự nhiên dạo gần đây mình thấy nó ấy ấy sao í. &lt;/p&gt; &lt;p&gt;Mình đang làm quá lên đúng không? Tại mẹ nào mà chẳng thương con.&lt;/p&gt; &lt;p&gt;Hoặc là do mình không có thiện cảm với mẹ chồng? Lúc trước mỗi lần gặp nhau, mình thường tặng trang sức vàng, bạc, ngoạc trai cho mẹ chồng và mình vui với điều đó. Tuy nhiên mới đây thì em chồng mình bỏ vợ bị tiểu đường mới cưới một năm và mới sẩy thai mấy tháng, mình không nghe gì ngoài việc mẹ chồng phàn nàn việc con dâu không phụ chuyện nhà cửa, kiểu bị bỏ cũng đáng í. &lt;/p&gt; &lt;p&gt;Quả thực mình muốn lờ đi cho vui nhà vui cửa mà mình bị sao ấy?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Not_my_1st_language"&gt; /u/Not_my_1st_language &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o2rlkq/mình_có_đang_làm_quá_không/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o2rlkq/mình_có_đang_làm_quá_không/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o2rlkq/mình_có_đang_làm_quá_không/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-10T04:38:30+00:00</published>
   </entry>
   <entry>
     <id>t3_1o2dyiq</id>
@@ -203,17 +203,17 @@
     <published>2025-10-09T18:34:48+00:00</published>
   </entry>
   <entry>
-    <id>t3_1o2s6c2</id>
-    <title>Bác nào đã từng mua đôi Anta này chưa</title>
-    <updated>2025-10-10T05:10:34+00:00</updated>
+    <id>t3_1o2tm8u</id>
+    <title>SMM Panel - Đẩy like đẩy view</title>
+    <updated>2025-10-10T06:37:55+00:00</updated>
     <author>
-      <name>/u/Logan_fiftyst</name>
-      <uri>https://old.reddit.com/user/Logan_fiftyst</uri>
+      <name>/u/Thomas-Nguyen-9x</name>
+      <uri>https://old.reddit.com/user/Thomas-Nguyen-9x</uri>
     </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1o2s6c2/bác_nào_đã_từng_mua_đôi_anta_này_chưa/"&gt; &lt;img alt="Bác nào đã từng mua đôi Anta này chưa" src="https://b.thumbs.redditmedia.com/s0F94KET1DGSYGaBOucFCNZi3gnUvsz2Dli72xP-ZEg.jpg" title="Bác nào đã từng mua đôi Anta này chưa" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;em dạo này ngồi nhà nhiều quá nên nay muốn sắm đôi về chạy nhẹ nhàng. tuần ra công viên chạy tầm 3-4 buổi, mỗi buổi tầm tiếng đổ lại. &lt;/p&gt; &lt;p&gt;mới săn sale được đôi Anta này &lt;strong&gt;728k&lt;/strong&gt; ổn ko các bác, trước em có mua đôi 2nd mà chạy hỏng vứt rồi.&lt;br /&gt; bác nào từng mang Anta rồi hay có đôi này cho em xin cảm nhận về độ êm, độ bền với ạ. cảm ơn các bác nhiều.&lt;/p&gt; &lt;p&gt;&lt;a href="https://preview.redd.it/mu3stu7nw7uf1.png?width=1099&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=71ff96fb73edcfb8e8285b8949d5e42ffb222f11"&gt;https://preview.redd.it/mu3stu7nw7uf1.png?width=1099&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=71ff96fb73edcfb8e8285b8949d5e42ffb222f11&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;a href="https://preview.redd.it/dco3ro4pw7uf1.png?width=1295&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=c0658866872ede6dffe62abe50e47e1aeed354b6"&gt;https://preview.redd.it/dco3ro4pw7uf1.png?width=1295&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=c0658866872ede6dffe62abe50e47e1aeed354b6&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Logan_fiftyst"&gt; /u/Logan_fiftyst &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o2s6c2/bác_nào_đã_từng_mua_đôi_anta_này_chưa/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o2s6c2/bác_nào_đã_từng_mua_đôi_anta_này_chưa/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o2s6c2/bác_nào_đã_từng_mua_đôi_anta_này_chưa/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi các bác, em muốn tìm mấy cái dịch vụ đẩy like đẩy view. Các bác có rcm nào ko&lt;/p&gt; &lt;p&gt;Với lại đâu là tiêu chí mà các bác lựa chọn 1 bên like view tốt. E hỏi 1 vài bên thì họ mơ hồ quá à.&lt;/p&gt; &lt;p&gt;Hỏi đẩy like theo ngày ko thì ko. Like Việt thì tk toàn tên gì gì đâu. E tìm đẩy fl page Facebook và Insta ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Thomas-Nguyen-9x"&gt; /u/Thomas-Nguyen-9x &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o2tm8u/smm_panel_đẩy_like_đẩy_view/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o2tm8u/smm_panel_đẩy_like_đẩy_view/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o2tm8u/smm_panel_đẩy_like_đẩy_view/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-10T05:10:34+00:00</published>
+    <published>2025-10-10T06:37:55+00:00</published>
   </entry>
   <entry>
     <id>t3_1o2tu3l</id>
@@ -229,17 +229,17 @@
     <published>2025-10-10T06:51:38+00:00</published>
   </entry>
   <entry>
-    <id>t3_1o2rlkq</id>
-    <title>Mình có đang làm quá không?</title>
-    <updated>2025-10-10T04:38:30+00:00</updated>
+    <id>t3_1o2s6c2</id>
+    <title>Bác nào đã từng mua đôi Anta này chưa</title>
+    <updated>2025-10-10T05:10:34+00:00</updated>
     <author>
-      <name>/u/Not_my_1st_language</name>
-      <uri>https://old.reddit.com/user/Not_my_1st_language</uri>
+      <name>/u/Logan_fiftyst</name>
+      <uri>https://old.reddit.com/user/Logan_fiftyst</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là ba mẹ chồng(35m) mình(26f) lên chơi gần hai tháng, chuyện cũng không có gì ngoại trừ việc mẹ chồng hay hôn chồng mình kiểu mẹ hôn em bé ấy.. với cả mỗi lần đi đâu về thì chồng và mẹ chồng sẽ hôn má nhau, nhưng chồng mình ngại tiếp xúc với mình trước mặt họ.&lt;/p&gt; &lt;p&gt;Lúc đầu mình khá bất ngờ nhưng riết thấy cũng quen, nhưng tự nhiên dạo gần đây mình thấy nó ấy ấy sao í. &lt;/p&gt; &lt;p&gt;Mình đang làm quá lên đúng không? Tại mẹ nào mà chẳng thương con.&lt;/p&gt; &lt;p&gt;Hoặc là do mình không có thiện cảm với mẹ chồng? Lúc trước mỗi lần gặp nhau, mình thường tặng trang sức vàng, bạc, ngoạc trai cho mẹ chồng và mình vui với điều đó. Tuy nhiên mới đây thì em chồng mình bỏ vợ bị tiểu đường mới cưới một năm và mới sẩy thai mấy tháng, mình không nghe gì ngoài việc mẹ chồng phàn nàn việc con dâu không phụ chuyện nhà cửa, kiểu bị bỏ cũng đáng í. &lt;/p&gt; &lt;p&gt;Quả thực mình muốn lờ đi cho vui nhà vui cửa mà mình bị sao ấy?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Not_my_1st_language"&gt; /u/Not_my_1st_language &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o2rlkq/mình_có_đang_làm_quá_không/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o2rlkq/mình_có_đang_làm_quá_không/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o2rlkq/mình_có_đang_làm_quá_không/"/>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1o2s6c2/bác_nào_đã_từng_mua_đôi_anta_này_chưa/"&gt; &lt;img alt="Bác nào đã từng mua đôi Anta này chưa" src="https://b.thumbs.redditmedia.com/s0F94KET1DGSYGaBOucFCNZi3gnUvsz2Dli72xP-ZEg.jpg" title="Bác nào đã từng mua đôi Anta này chưa" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;em dạo này ngồi nhà nhiều quá nên nay muốn sắm đôi về chạy nhẹ nhàng. tuần ra công viên chạy tầm 3-4 buổi, mỗi buổi tầm tiếng đổ lại. &lt;/p&gt; &lt;p&gt;mới săn sale được đôi Anta này &lt;strong&gt;728k&lt;/strong&gt; ổn ko các bác, trước em có mua đôi 2nd mà chạy hỏng vứt rồi.&lt;br /&gt; bác nào từng mang Anta rồi hay có đôi này cho em xin cảm nhận về độ êm, độ bền với ạ. cảm ơn các bác nhiều.&lt;/p&gt; &lt;p&gt;&lt;a href="https://preview.redd.it/mu3stu7nw7uf1.png?width=1099&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=71ff96fb73edcfb8e8285b8949d5e42ffb222f11"&gt;https://preview.redd.it/mu3stu7nw7uf1.png?width=1099&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=71ff96fb73edcfb8e8285b8949d5e42ffb222f11&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;a href="https://preview.redd.it/dco3ro4pw7uf1.png?width=1295&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=c0658866872ede6dffe62abe50e47e1aeed354b6"&gt;https://preview.redd.it/dco3ro4pw7uf1.png?width=1295&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=c0658866872ede6dffe62abe50e47e1aeed354b6&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Logan_fiftyst"&gt; /u/Logan_fiftyst &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o2s6c2/bác_nào_đã_từng_mua_đôi_anta_này_chưa/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o2s6c2/bác_nào_đã_từng_mua_đôi_anta_này_chưa/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o2s6c2/bác_nào_đã_từng_mua_đôi_anta_này_chưa/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-10T04:38:30+00:00</published>
+    <published>2025-10-10T05:10:34+00:00</published>
   </entry>
   <entry>
     <id>t3_1o1zgh7</id>
