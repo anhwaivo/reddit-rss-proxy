@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-10-10T05:40:15+00:00</updated>
+  <updated>2025-10-10T05:49:58+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1o262an</id>
-    <title>Xin cách deal lương</title>
-    <updated>2025-10-09T13:33:26+00:00</updated>
-    <author>
-      <name>/u/kitchcu</name>
-      <uri>https://old.reddit.com/user/kitchcu</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hiện tại em đã gần thử việc xong 1 tháng và em cảm thấy bản thân mình làm khá ổn dù lần đầu thử ở ngách này. Cty em đang làm là 1 cty làm outsource cho bên Nhật, mảng em làm thì em có tìm hiểu thì khoảng 10-15tr dành cho người có kinh nghiệm 1 năm, lương thử việc hiện tại là 8.5tr. Với sự tự tin này thì liệu em có thể deal luôn 15tr không nhỉ mọi người hay chỉ khoảng giữa tầm 12tr thôi. Mong anh chị cho em xin kinh nghiệm deal với ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/kitchcu"&gt; /u/kitchcu &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o262an/xin_cách_deal_lương/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o262an/xin_cách_deal_lương/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o262an/xin_cách_deal_lương/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-09T13:33:26+00:00</published>
-  </entry>
   <entry>
     <id>t3_1o24a8f</id>
     <title>Cần mọi người giúp về môn phân tích thống kê nhiều chiều - Methods of Multivariate Analysis</title>
@@ -125,19 +112,6 @@
     <published>2025-10-10T01:35:17+00:00</published>
   </entry>
   <entry>
-    <id>t3_1o2audn</id>
-    <title>Khắc phục tình trạng mất động lực của sinh viên</title>
-    <updated>2025-10-09T16:36:59+00:00</updated>
-    <author>
-      <name>/u/AAn105</name>
-      <uri>https://old.reddit.com/user/AAn105</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là em cản thấy xung quanh mình có khá nhiều sinh viên mất động lực học khi đi học trên lớp, vậy làm sao để cải thiện tình trạng này ạ, mn cho e xin lời khuyên. Và sẽ thật hay nếu có 1 vài giải pháp giả thuyết vừa có thể cải thiện tình trạng và cừa có thể kinh doanh, kiếm được tiền từ trường hợp trên. Cảm ơn mọi người đã quan tâm, chú ý&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/AAn105"&gt; /u/AAn105 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o2audn/khắc_phục_tình_trạng_mất_động_lực_của_sinh_viên/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o2audn/khắc_phục_tình_trạng_mất_động_lực_của_sinh_viên/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o2audn/khắc_phục_tình_trạng_mất_động_lực_của_sinh_viên/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-09T16:36:59+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1o2p9vb</id>
     <title>Cách xin nghỉ việc part time ở PL</title>
     <updated>2025-10-10T02:39:09+00:00</updated>
@@ -162,6 +136,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1o2pg8p/kể_cho_tôi_về_rebound_relationship_của_mấy_bồ_đi/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-10T02:48:00+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1o2audn</id>
+    <title>Khắc phục tình trạng mất động lực của sinh viên</title>
+    <updated>2025-10-09T16:36:59+00:00</updated>
+    <author>
+      <name>/u/AAn105</name>
+      <uri>https://old.reddit.com/user/AAn105</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là em cản thấy xung quanh mình có khá nhiều sinh viên mất động lực học khi đi học trên lớp, vậy làm sao để cải thiện tình trạng này ạ, mn cho e xin lời khuyên. Và sẽ thật hay nếu có 1 vài giải pháp giả thuyết vừa có thể cải thiện tình trạng và cừa có thể kinh doanh, kiếm được tiền từ trường hợp trên. Cảm ơn mọi người đã quan tâm, chú ý&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/AAn105"&gt; /u/AAn105 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o2audn/khắc_phục_tình_trạng_mất_động_lực_của_sinh_viên/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o2audn/khắc_phục_tình_trạng_mất_động_lực_của_sinh_viên/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o2audn/khắc_phục_tình_trạng_mất_động_lực_của_sinh_viên/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-09T16:36:59+00:00</published>
   </entry>
   <entry>
     <id>t3_1o2qd4r</id>
@@ -240,6 +227,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1o2se1w/tư_vấn_dầu_dưỡng_tóc_cho_nam/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-10T05:23:12+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1o2srp2</id>
+    <title>Đầu tư dài hạn vàng/bạc</title>
+    <updated>2025-10-10T05:45:53+00:00</updated>
+    <author>
+      <name>/u/plus8percent</name>
+      <uri>https://old.reddit.com/user/plus8percent</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hello các bác, em đang có dư ra tầm 200tr để tk (ko gửi tiết kiệm) nên định mua vàng hoặc bạc để cầm trung, dài hạn chống lạm phát. Bác nào tham gia 2 thị trường này thì cho em hỏi:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Nên mua loại nào / qua các kênh nào để giá mua, bán ko quá chênh lệch?&lt;/li&gt; &lt;li&gt;Lúc bán thì có bao giờ gặp vấn đề thanh khoản không?&lt;/li&gt; &lt;li&gt;Các bác nào mua qua app hoặc ngân hàng thì có gợi ý nên dùng bên nào ko ạ?&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Cảm ơn mn 🙏&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/plus8percent"&gt; /u/plus8percent &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o2srp2/đầu_tư_dài_hạn_vàngbạc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o2srp2/đầu_tư_dài_hạn_vàngbạc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o2srp2/đầu_tư_dài_hạn_vàngbạc/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-10T05:45:53+00:00</published>
   </entry>
   <entry>
     <id>t3_1o28haj</id>
