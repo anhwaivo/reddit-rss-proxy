@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-10-10T04:42:10+00:00</updated>
+  <updated>2025-10-10T04:52:20+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -281,19 +281,6 @@
     <published>2025-10-09T15:09:17+00:00</published>
   </entry>
   <entry>
-    <id>t3_1o2q5g8</id>
-    <title>Cách cai đường</title>
-    <updated>2025-10-10T03:22:29+00:00</updated>
-    <author>
-      <name>/u/PackageNo4956</name>
-      <uri>https://old.reddit.com/user/PackageNo4956</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mn, mình là 1 người nghiện đường từ nhỏ, thấy bánh kẹo là thèm, đến bây giờ 22t vẫn vậy. Có thử uống cold brew nhưng vẫn ko hết thèm. Mn có cách nào ko chỉ mình với, đường hại sức khỏe quá hic :(&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/PackageNo4956"&gt; /u/PackageNo4956 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o2q5g8/cách_cai_đường/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o2q5g8/cách_cai_đường/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o2q5g8/cách_cai_đường/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-10T03:22:29+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1o2dyiq</id>
     <title>Mình chán cuộc đời này vãi</title>
     <updated>2025-10-09T18:34:48+00:00</updated>
@@ -305,6 +292,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1o2dyiq/mình_chán_cuộc_đời_này_vãi/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-09T18:34:48+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1o2q5g8</id>
+    <title>Cách cai đường</title>
+    <updated>2025-10-10T03:22:29+00:00</updated>
+    <author>
+      <name>/u/PackageNo4956</name>
+      <uri>https://old.reddit.com/user/PackageNo4956</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mn, mình là 1 người nghiện đường từ nhỏ, thấy bánh kẹo là thèm, đến bây giờ 22t vẫn vậy. Có thử uống cold brew nhưng vẫn ko hết thèm. Mn có cách nào ko chỉ mình với, đường hại sức khỏe quá hic :(&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/PackageNo4956"&gt; /u/PackageNo4956 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o2q5g8/cách_cai_đường/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o2q5g8/cách_cai_đường/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o2q5g8/cách_cai_đường/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-10T03:22:29+00:00</published>
   </entry>
   <entry>
     <id>t3_1o1zgh7</id>
