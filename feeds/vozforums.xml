@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-10-11T04:19:48+00:00</updated>
+  <updated>2025-10-11T04:40:07+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1o33ko4</id>
-    <title>Có thể quên tất cả mọi thứ, nhưng không được quên ước mơ của mình</title>
-    <updated>2025-10-10T15:10:48+00:00</updated>
-    <author>
-      <name>/u/joeanime122</name>
-      <uri>https://old.reddit.com/user/joeanime122</uri>
-    </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/joeanime122"&gt; /u/joeanime122 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o33ko4/có_thể_quên_tất_cả_mọi_thứ_nhưng_không_được_quên/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o33ko4/có_thể_quên_tất_cả_mọi_thứ_nhưng_không_được_quên/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o33ko4/có_thể_quên_tất_cả_mọi_thứ_nhưng_không_được_quên/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-10T15:10:48+00:00</published>
-  </entry>
   <entry>
     <id>t3_1o39z3z</id>
     <title>Em nên đi du học nước nào bây giờ?</title>
@@ -45,6 +32,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1o3a51y/ét_o_ét_các_cao_nhân_đi_qua_giúp_elm_với_ạ/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-10T19:15:02+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1o2srp2</id>
+    <title>Đầu tư dài hạn vàng/bạc</title>
+    <updated>2025-10-10T05:45:53+00:00</updated>
+    <author>
+      <name>/u/plus8percent</name>
+      <uri>https://old.reddit.com/user/plus8percent</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hello các bác, em đang có dư ra tầm 200tr để tk (ko gửi tiết kiệm) nên định mua vàng hoặc bạc để cầm trung, dài hạn chống lạm phát. Bác nào tham gia 2 thị trường này thì cho em hỏi:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Nên mua loại nào / qua các kênh nào để giá mua, bán ko quá chênh lệch?&lt;/li&gt; &lt;li&gt;Lúc bán thì có bao giờ gặp vấn đề thanh khoản không?&lt;/li&gt; &lt;li&gt;Các bác nào mua qua app hoặc ngân hàng thì có gợi ý nên dùng bên nào ko ạ?&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Cảm ơn mn 🙏&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/plus8percent"&gt; /u/plus8percent &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o2srp2/đầu_tư_dài_hạn_vàngbạc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o2srp2/đầu_tư_dài_hạn_vàngbạc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o2srp2/đầu_tư_dài_hạn_vàngbạc/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-10T05:45:53+00:00</published>
   </entry>
   <entry>
     <id>t3_1o3azfo</id>
@@ -229,19 +229,6 @@
     <published>2025-10-11T01:17:09+00:00</published>
   </entry>
   <entry>
-    <id>t3_1o3jaob</id>
-    <title>Hỏi về ổ sạc USB</title>
-    <updated>2025-10-11T01:47:42+00:00</updated>
-    <author>
-      <name>/u/SpiritualRelation774</name>
-      <uri>https://old.reddit.com/user/SpiritualRelation774</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Dear các bác, hiện tại e đang setup lại bàn làm việc, thì mình có nhiều thiết bị nhỏ như đèn màn hình, loa,... cần cấp nguồn dạng USB 5V-5W hoặc 5V-3.5W, 5V-17W... Cho e hỏi có kiểu thiết bị mà lấy điện từ nguồn xong đầu ra &lt;strong&gt;nhiều cổng USB&lt;/strong&gt; có thể sử dụng cho tất cả các thiết bị của em không. Nếu có thì search từ khoá là gì? Em tìm kiếm nhưng nó toàn ra đầu mở rộng từ 1 USB ra nhiều USB thôi. Cái em cần là dạng cục sạc để cắm các nguồn USB vào cơ ạ.&lt;/p&gt; &lt;p&gt;Cảm ơn các bác&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/SpiritualRelation774"&gt; /u/SpiritualRelation774 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o3jaob/hỏi_về_ổ_sạc_usb/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o3jaob/hỏi_về_ổ_sạc_usb/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o3jaob/hỏi_về_ổ_sạc_usb/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-11T01:47:42+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1o3kkob</id>
     <title>Tư vấn góp vốn mở quán</title>
     <updated>2025-10-11T02:52:34+00:00</updated>
@@ -268,17 +255,17 @@
     <published>2025-10-11T03:06:40+00:00</published>
   </entry>
   <entry>
-    <id>t3_1o3kxkx</id>
-    <title>Phong cách ăn mặc</title>
-    <updated>2025-10-11T03:11:28+00:00</updated>
+    <id>t3_1o3jaob</id>
+    <title>Hỏi về ổ sạc USB</title>
+    <updated>2025-10-11T01:47:42+00:00</updated>
     <author>
-      <name>/u/PackageNo4956</name>
-      <uri>https://old.reddit.com/user/PackageNo4956</uri>
+      <name>/u/SpiritualRelation774</name>
+      <uri>https://old.reddit.com/user/SpiritualRelation774</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hello mn, chuyện là mình muốn hỏi làm thế nào để định hình phong cách của bản thân nên mặc theo style nào á. Mình là nữ, 22t, chiều cao có hạn, mua đồ cũng khó nên mình toàn thấy cái nào đẹp là mua đại rồi mặc thôi chứ không biết style của bản thân là gì. Bác nào rành về vấn đề này có thể tư vấn giúp mình ko, hoặc giới thiệu những kênh giúp phối đồ và định hình phong cách ăn mặc cho mình với. Mình cảm ơn. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/PackageNo4956"&gt; /u/PackageNo4956 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o3kxkx/phong_cách_ăn_mặc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o3kxkx/phong_cách_ăn_mặc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o3kxkx/phong_cách_ăn_mặc/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Dear các bác, hiện tại e đang setup lại bàn làm việc, thì mình có nhiều thiết bị nhỏ như đèn màn hình, loa,... cần cấp nguồn dạng USB 5V-5W hoặc 5V-3.5W, 5V-17W... Cho e hỏi có kiểu thiết bị mà lấy điện từ nguồn xong đầu ra &lt;strong&gt;nhiều cổng USB&lt;/strong&gt; có thể sử dụng cho tất cả các thiết bị của em không. Nếu có thì search từ khoá là gì? Em tìm kiếm nhưng nó toàn ra đầu mở rộng từ 1 USB ra nhiều USB thôi. Cái em cần là dạng cục sạc để cắm các nguồn USB vào cơ ạ.&lt;/p&gt; &lt;p&gt;Cảm ơn các bác&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/SpiritualRelation774"&gt; /u/SpiritualRelation774 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o3jaob/hỏi_về_ổ_sạc_usb/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o3jaob/hỏi_về_ổ_sạc_usb/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o3jaob/hỏi_về_ổ_sạc_usb/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-11T03:11:28+00:00</published>
+    <published>2025-10-11T01:47:42+00:00</published>
   </entry>
   <entry>
     <id>t3_1o34hhg</id>
@@ -305,6 +292,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1o2yfin/lụt_ở_thái_nguyên_ai_chịu_trách_nhiệm/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-10T11:34:47+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1o3kxkx</id>
+    <title>Phong cách ăn mặc</title>
+    <updated>2025-10-11T03:11:28+00:00</updated>
+    <author>
+      <name>/u/PackageNo4956</name>
+      <uri>https://old.reddit.com/user/PackageNo4956</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hello mn, chuyện là mình muốn hỏi làm thế nào để định hình phong cách của bản thân nên mặc theo style nào á. Mình là nữ, 22t, chiều cao có hạn, mua đồ cũng khó nên mình toàn thấy cái nào đẹp là mua đại rồi mặc thôi chứ không biết style của bản thân là gì. Bác nào rành về vấn đề này có thể tư vấn giúp mình ko, hoặc giới thiệu những kênh giúp phối đồ và định hình phong cách ăn mặc cho mình với. Mình cảm ơn. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/PackageNo4956"&gt; /u/PackageNo4956 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o3kxkx/phong_cách_ăn_mặc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o3kxkx/phong_cách_ăn_mặc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o3kxkx/phong_cách_ăn_mặc/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-11T03:11:28+00:00</published>
   </entry>
   <entry>
     <id>t3_1o32adt</id>
