@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-10-11T14:28:42+00:00</updated>
+  <updated>2025-10-11T14:39:08+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1o3jaob</id>
-    <title>Hỏi về ổ sạc USB</title>
-    <updated>2025-10-11T01:47:42+00:00</updated>
-    <author>
-      <name>/u/SpiritualRelation774</name>
-      <uri>https://old.reddit.com/user/SpiritualRelation774</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Dear các bác, hiện tại e đang setup lại bàn làm việc, thì mình có nhiều thiết bị nhỏ như đèn màn hình, loa,... cần cấp nguồn dạng USB 5V-5W hoặc 5V-3.5W, 5V-17W... Cho e hỏi có kiểu thiết bị mà lấy điện từ nguồn xong đầu ra &lt;strong&gt;nhiều cổng USB&lt;/strong&gt; có thể sử dụng cho tất cả các thiết bị của em không. Nếu có thì search từ khoá là gì? Em tìm kiếm nhưng nó toàn ra đầu mở rộng từ 1 USB ra nhiều USB thôi. Cái em cần là dạng cục sạc để cắm các nguồn USB vào cơ ạ.&lt;/p&gt; &lt;p&gt;Cảm ơn các bác&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/SpiritualRelation774"&gt; /u/SpiritualRelation774 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o3jaob/hỏi_về_ổ_sạc_usb/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o3jaob/hỏi_về_ổ_sạc_usb/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o3jaob/hỏi_về_ổ_sạc_usb/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-11T01:47:42+00:00</published>
-  </entry>
   <entry>
     <id>t3_1o3kuao</id>
     <title>Tình hình tuyển nhân sự F&amp;B ở Đà Nẵng</title>
@@ -203,6 +190,19 @@
     <published>2025-10-11T14:13:03+00:00</published>
   </entry>
   <entry>
+    <id>t3_1o3s671</id>
+    <title>Về nghĩa vụ quân sự</title>
+    <updated>2025-10-11T10:27:54+00:00</updated>
+    <author>
+      <name>/u/No_Ambassador5373</name>
+      <uri>https://old.reddit.com/user/No_Ambassador5373</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em học đại học năm nhất , trước em có đi học cao đẳng liên thông từ trung cấp mà nay ra xin không được hoãn. A chị nào hiểu luật giải thích cho e hiểu e hiểu đúng hay sai ạ ( cao đẳng không theo chính quy ạ)&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/No_Ambassador5373"&gt; /u/No_Ambassador5373 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o3s671/về_nghĩa_vụ_quân_sự/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o3s671/về_nghĩa_vụ_quân_sự/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o3s671/về_nghĩa_vụ_quân_sự/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-11T10:27:54+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1o34hhg</id>
     <title>Việc không sinh con</title>
     <updated>2025-10-10T15:44:13+00:00</updated>
@@ -216,17 +216,17 @@
     <published>2025-10-10T15:44:13+00:00</published>
   </entry>
   <entry>
-    <id>t3_1o3s671</id>
-    <title>Về nghĩa vụ quân sự</title>
-    <updated>2025-10-11T10:27:54+00:00</updated>
+    <id>t3_1o3x5sk</id>
+    <title>Trung tâm học phần mềm đồ hoạ</title>
+    <updated>2025-10-11T14:33:53+00:00</updated>
     <author>
-      <name>/u/No_Ambassador5373</name>
-      <uri>https://old.reddit.com/user/No_Ambassador5373</uri>
+      <name>/u/Funny_Effective_1088</name>
+      <uri>https://old.reddit.com/user/Funny_Effective_1088</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em học đại học năm nhất , trước em có đi học cao đẳng liên thông từ trung cấp mà nay ra xin không được hoãn. A chị nào hiểu luật giải thích cho e hiểu e hiểu đúng hay sai ạ ( cao đẳng không theo chính quy ạ)&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/No_Ambassador5373"&gt; /u/No_Ambassador5373 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o3s671/về_nghĩa_vụ_quân_sự/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o3s671/về_nghĩa_vụ_quân_sự/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o3s671/về_nghĩa_vụ_quân_sự/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em là sinh viên thiết kế đồ hoạ năm 2, đang chập chững dùng các phần mềm thiết kế (AI,PTS,..), muốn tìm trung tâm ổn ổn để học kĩ nma trên mxh có quá nhiều, kbt đã có ai học ở đâu thấy ổn có thể giới thiệu dc k ạ 😭😭&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Funny_Effective_1088"&gt; /u/Funny_Effective_1088 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o3x5sk/trung_tâm_học_phần_mềm_đồ_hoạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o3x5sk/trung_tâm_học_phần_mềm_đồ_hoạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o3x5sk/trung_tâm_học_phần_mềm_đồ_hoạ/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-11T10:27:54+00:00</published>
+    <published>2025-10-11T14:33:53+00:00</published>
   </entry>
   <entry>
     <id>t3_1o3ip5o</id>
@@ -255,6 +255,19 @@
     <published>2025-10-11T13:20:53+00:00</published>
   </entry>
   <entry>
+    <id>t3_1o3w1xl</id>
+    <title>Định hướng tương lai</title>
+    <updated>2025-10-11T13:46:08+00:00</updated>
+    <author>
+      <name>/u/Ok-Yellow6768</name>
+      <uri>https://old.reddit.com/user/Ok-Yellow6768</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào anh chị ạ, em hiện tại đang 18 tuổi thuộc năm 2 học điện tử viễn thông UET sau này muốn sang Nhật theo ngành nhúng, nhưng mẹ em thì lại không đồng tình bảo ở lại trong nước mà làm, nghành này theo em tìm hiểu thì ra trường xin thực tập rất khó ,mà muốn sang nhật thì ít nhất em phải làm ở việt nam 1 năm, em không biết liệu mình nên đi theo hướng như thế nào? Rốt cuộc có nên theo nghành này rồi sang nhật không ? Mong anh chị giải đáp&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ok-Yellow6768"&gt; /u/Ok-Yellow6768 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o3w1xl/định_hướng_tương_lai/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o3w1xl/định_hướng_tương_lai/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o3w1xl/định_hướng_tương_lai/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-11T13:46:08+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1o32adt</id>
     <title>[mùa từ thiện - mùa đớp cắn]</title>
     <updated>2025-10-10T14:22:30+00:00</updated>
@@ -279,19 +292,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1o3re5r/những_bác_làm_việc_với_hs_nam_cấp_3_trong_lớp_học/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-11T09:39:03+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1o3w1xl</id>
-    <title>Định hướng tương lai</title>
-    <updated>2025-10-11T13:46:08+00:00</updated>
-    <author>
-      <name>/u/Ok-Yellow6768</name>
-      <uri>https://old.reddit.com/user/Ok-Yellow6768</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào anh chị ạ, em hiện tại đang 18 tuổi thuộc năm 2 học điện tử viễn thông UET sau này muốn sang Nhật theo ngành nhúng, nhưng mẹ em thì lại không đồng tình bảo ở lại trong nước mà làm, nghành này theo em tìm hiểu thì ra trường xin thực tập rất khó ,mà muốn sang nhật thì ít nhất em phải làm ở việt nam 1 năm, em không biết liệu mình nên đi theo hướng như thế nào? Rốt cuộc có nên theo nghành này rồi sang nhật không ? Mong anh chị giải đáp&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ok-Yellow6768"&gt; /u/Ok-Yellow6768 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o3w1xl/định_hướng_tương_lai/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o3w1xl/định_hướng_tương_lai/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o3w1xl/định_hướng_tương_lai/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-11T13:46:08+00:00</published>
   </entry>
   <entry>
     <id>t3_1o3tewe</id>
