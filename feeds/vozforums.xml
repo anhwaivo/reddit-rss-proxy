@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-10-11T11:24:38+00:00</updated>
+  <updated>2025-10-11T11:37:01+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -112,6 +112,19 @@
     <published>2025-10-11T06:37:34+00:00</published>
   </entry>
   <entry>
+    <id>t3_1o3p90b</id>
+    <title>Tư vấn chuyện tình cảm</title>
+    <updated>2025-10-11T07:20:52+00:00</updated>
+    <author>
+      <name>/u/huynhan842</name>
+      <uri>https://old.reddit.com/user/huynhan842</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình là nam và gần như không có tý kinh nghiệm gì về chuyện tình cảm (nam 31 nữ 29). Bạn nữ kia thì mình đã hỏi vài lần thì bạn bảo đã có người yêu rồi, mình cũng dứt khoát bảo rằng cả 2 nên làm bạn vì mình không có ý định chen vào. Nhưng bạn nữ kia cũng nói thẳng là thích mình và cứ thả thính dù mình đã có phần né tránh. Liệu giờ mình nên làm gì, có nên tiếp tục không hay kiên quyết từ bỏ luôn?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/huynhan842"&gt; /u/huynhan842 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o3p90b/tư_vấn_chuyện_tình_cảm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o3p90b/tư_vấn_chuyện_tình_cảm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o3p90b/tư_vấn_chuyện_tình_cảm/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-11T07:20:52+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1o3j5sh</id>
     <title>Tìm đồng đội luyện tập lại bóng rổ</title>
     <updated>2025-10-11T01:40:56+00:00</updated>
@@ -203,19 +216,6 @@
     <published>2025-10-11T02:52:34+00:00</published>
   </entry>
   <entry>
-    <id>t3_1o3p90b</id>
-    <title>Tư vấn chuyện tình cảm</title>
-    <updated>2025-10-11T07:20:52+00:00</updated>
-    <author>
-      <name>/u/huynhan842</name>
-      <uri>https://old.reddit.com/user/huynhan842</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình là nam và gần như không có tý kinh nghiệm gì về chuyện tình cảm (nam 31 nữ 29). Bạn nữ kia thì mình đã hỏi vài lần thì bạn bảo đã có người yêu rồi, mình cũng dứt khoát bảo rằng cả 2 nên làm bạn vì mình không có ý định chen vào. Nhưng bạn nữ kia cũng nói thẳng là thích mình và cứ thả thính dù mình đã có phần né tránh. Liệu giờ mình nên làm gì, có nên tiếp tục không hay kiên quyết từ bỏ luôn?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/huynhan842"&gt; /u/huynhan842 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o3p90b/tư_vấn_chuyện_tình_cảm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o3p90b/tư_vấn_chuyện_tình_cảm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o3p90b/tư_vấn_chuyện_tình_cảm/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-11T07:20:52+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1o3kxkx</id>
     <title>Phong cách ăn mặc</title>
     <updated>2025-10-11T03:11:28+00:00</updated>
@@ -227,19 +227,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1o3kxkx/phong_cách_ăn_mặc/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-11T03:11:28+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1o3lhi7</id>
-    <title>Mang gun ra đường</title>
-    <updated>2025-10-11T03:41:50+00:00</updated>
-    <author>
-      <name>/u/Dung_FPV_08</name>
-      <uri>https://old.reddit.com/user/Dung_FPV_08</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1o3lhi7/mang_gun_ra_đường/"&gt; &lt;img alt="Mang gun ra đường" src="https://b.thumbs.redditmedia.com/ii-fazCbMb3xyPiaSRn1RPhzsyGtln7AG2YdVA2jQzs.jpg" title="Mang gun ra đường" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="https://preview.redd.it/vrafif9qleuf1.png?width=866&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=3b3a2cd15c971a3f70e660a6afca3ae951fba879"&gt;https://preview.redd.it/vrafif9qleuf1.png?width=866&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=3b3a2cd15c971a3f70e660a6afca3ae951fba879&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Nữa à ae, mới hết vụ kia xong giờ thêm vụ này:)) VN mà cứ ngỡ là mỹ:D&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Dung_FPV_08"&gt; /u/Dung_FPV_08 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o3lhi7/mang_gun_ra_đường/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o3lhi7/mang_gun_ra_đường/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o3lhi7/mang_gun_ra_đường/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-11T03:41:50+00:00</published>
   </entry>
   <entry>
     <id>t3_1o3ip5o</id>
@@ -279,6 +266,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1o3re5r/những_bác_làm_việc_với_hs_nam_cấp_3_trong_lớp_học/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-11T09:39:03+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1o3lhi7</id>
+    <title>Mang gun ra đường</title>
+    <updated>2025-10-11T03:41:50+00:00</updated>
+    <author>
+      <name>/u/Dung_FPV_08</name>
+      <uri>https://old.reddit.com/user/Dung_FPV_08</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1o3lhi7/mang_gun_ra_đường/"&gt; &lt;img alt="Mang gun ra đường" src="https://b.thumbs.redditmedia.com/ii-fazCbMb3xyPiaSRn1RPhzsyGtln7AG2YdVA2jQzs.jpg" title="Mang gun ra đường" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="https://preview.redd.it/vrafif9qleuf1.png?width=866&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=3b3a2cd15c971a3f70e660a6afca3ae951fba879"&gt;https://preview.redd.it/vrafif9qleuf1.png?width=866&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=3b3a2cd15c971a3f70e660a6afca3ae951fba879&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Nữa à ae, mới hết vụ kia xong giờ thêm vụ này:)) VN mà cứ ngỡ là mỹ:D&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Dung_FPV_08"&gt; /u/Dung_FPV_08 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o3lhi7/mang_gun_ra_đường/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o3lhi7/mang_gun_ra_đường/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o3lhi7/mang_gun_ra_đường/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-11T03:41:50+00:00</published>
   </entry>
   <entry>
     <id>t3_1o3s671</id>
