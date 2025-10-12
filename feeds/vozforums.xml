@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-10-12T23:36:34+00:00</updated>
+  <updated>2025-10-12T23:49:55+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -32,19 +32,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1o4t7vc/4_bước_chuẩn_hóa_đào_tạo_trong_1_tháng_cho_doanh/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-12T16:15:43+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1o4t8uv</id>
-    <title>Mn ơi có ai biết công ty này không ạ. Sắp tới em có đi pv cho em xin rv với ạ .</title>
-    <updated>2025-10-12T16:16:46+00:00</updated>
-    <author>
-      <name>/u/GeologistNo1441</name>
-      <uri>https://old.reddit.com/user/GeologistNo1441</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1o4t8uv/mn_ơi_có_ai_biết_công_ty_này_không_ạ_sắp_tới_em/"&gt; &lt;img alt="Mn ơi có ai biết công ty này không ạ. Sắp tới em có đi pv cho em xin rv với ạ ." src="https://preview.redd.it/ycde3zzfhpuf1.jpeg?width=320&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ee8193f653f0d148333f7d1ce07f141cdc97de94" title="Mn ơi có ai biết công ty này không ạ. Sắp tới em có đi pv cho em xin rv với ạ ." /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/GeologistNo1441"&gt; /u/GeologistNo1441 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/ycde3zzfhpuf1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o4t8uv/mn_ơi_có_ai_biết_công_ty_này_không_ạ_sắp_tới_em/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o4t8uv/mn_ơi_có_ai_biết_công_ty_này_không_ạ_sắp_tới_em/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-12T16:16:46+00:00</published>
   </entry>
   <entry>
     <id>t3_1o4ocqp</id>
@@ -164,6 +151,19 @@
     <published>2025-10-12T12:03:23+00:00</published>
   </entry>
   <entry>
+    <id>t3_1o4t8uv</id>
+    <title>Mn ơi có ai biết công ty này không ạ. Sắp tới em có đi pv cho em xin rv với ạ .</title>
+    <updated>2025-10-12T16:16:46+00:00</updated>
+    <author>
+      <name>/u/GeologistNo1441</name>
+      <uri>https://old.reddit.com/user/GeologistNo1441</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1o4t8uv/mn_ơi_có_ai_biết_công_ty_này_không_ạ_sắp_tới_em/"&gt; &lt;img alt="Mn ơi có ai biết công ty này không ạ. Sắp tới em có đi pv cho em xin rv với ạ ." src="https://preview.redd.it/ycde3zzfhpuf1.jpeg?width=320&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ee8193f653f0d148333f7d1ce07f141cdc97de94" title="Mn ơi có ai biết công ty này không ạ. Sắp tới em có đi pv cho em xin rv với ạ ." /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/GeologistNo1441"&gt; /u/GeologistNo1441 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/ycde3zzfhpuf1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o4t8uv/mn_ơi_có_ai_biết_công_ty_này_không_ạ_sắp_tới_em/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o4t8uv/mn_ơi_có_ai_biết_công_ty_này_không_ạ_sắp_tới_em/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-12T16:16:46+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1o4zx33</id>
     <title>Đi mỹ có thật sự tốt không?</title>
     <updated>2025-10-12T20:32:44+00:00</updated>
@@ -255,19 +255,6 @@
     <published>2025-10-12T06:51:58+00:00</published>
   </entry>
   <entry>
-    <id>t3_1o50mrp</id>
-    <title>Không có bạn có phải vấn đề?</title>
-    <updated>2025-10-12T21:00:35+00:00</updated>
-    <author>
-      <name>/u/PuzzleheadedPlant239</name>
-      <uri>https://old.reddit.com/user/PuzzleheadedPlant239</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Nửa đêm mất ngủ mình nằm suy nghĩ lại về những mối quan hệ xung quanh của bản thân. Giới thiệu sơ về tình trạng hiện tại của mình. Mình là nam, sinh viên năm 4 một trường trên Hà Nội. Hiện tại mình cảm thấy những mối quan hệ của bản thân khá hẹp, bạn bè để mà chia sẻ câu chuyện với nhau chỉ đếm trên đầu ngón tay. Mình tạm chia ra thành 2 nhóm: &lt;/p&gt; &lt;p&gt;Nhóm 1 là những người chơi cùng từ c2 đến giờ, tầm 6-7 người chủ yếu ở quê, cơ hội gặp mặt nhau 1 năm chỉ có 1-2 lần do khoảng cách xa, mỗi người có một con đường riêng nữa nên khó mà trò chuyện được.&lt;/p&gt; &lt;p&gt;Nhóm 2 là những người chơi cũng trên đại học. Nhóm này đông hơn nhóm trên nhưng lại khá hời hợt, chỉ có gặp mặt trên lớp cùng lắm là có hỏi bài tập và đồ án. Kiểu như ra ngoài giảng đường là không quen biết nhau nữa ấy. Với nhóm 1 thì mình thấy sự gắn bó ngày càng mờ nhạt còn nhóm 2 thì lại khó gắn bó với nhau lâu. Nhiều khi muốn chia sẻ, nói chuyện với ai đó nhưng khi nghĩ đến ai thì lại nghĩ &amp;quot; không biết người đó có lắng nghe được không nhỉ!?&amp;quot; &lt;/p&gt; &lt;p&gt;Vậy nên mọi người cho mình hỏi việc có ít bạn bè như vậy có phải vấn đề không? Nếu có thì làm sao để khắc phục? Trước đây(cấp 3) mình thoải mái, vô tư, có nhiều bạn bè hơn nhưng càng ngày vòng tròn quan hệ đó càng thu hẹp lại dần. &lt;/p&gt; &lt;p&gt;À thêm nữa nếu ai hỏi sao không đi làm thêm để mở rộng mối quan hệ thì từ khi lên đại học đến giờ mình làm mmo, không tiếp xúc nhiều, năm cuối hiện tại đang tập trung làm đồ án nên càng không có nhiều cơ hội ra ngoài. &lt;/p&gt; &lt;p&gt;Mình cảm ơn mọi người đã đọc đến đây!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/PuzzleheadedPlant239"&gt; /u/PuzzleheadedPlant239 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o50mrp/không_có_bạn_có_phải_vấn_đề/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o50mrp/không_có_bạn_có_phải_vấn_đề/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o50mrp/không_có_bạn_có_phải_vấn_đề/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-12T21:00:35+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1o4rl09</id>
     <title>Nói gì cho ngầu 🙃</title>
     <updated>2025-10-12T15:12:08+00:00</updated>
@@ -292,6 +279,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1o4oycx/vấn_đề_về_tâm_lý/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-12T13:22:42+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1o50mrp</id>
+    <title>Không có bạn có phải vấn đề?</title>
+    <updated>2025-10-12T21:00:35+00:00</updated>
+    <author>
+      <name>/u/PuzzleheadedPlant239</name>
+      <uri>https://old.reddit.com/user/PuzzleheadedPlant239</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Nửa đêm mất ngủ mình nằm suy nghĩ lại về những mối quan hệ xung quanh của bản thân. Giới thiệu sơ về tình trạng hiện tại của mình. Mình là nam, sinh viên năm 4 một trường trên Hà Nội. Hiện tại mình cảm thấy những mối quan hệ của bản thân khá hẹp, bạn bè để mà chia sẻ câu chuyện với nhau chỉ đếm trên đầu ngón tay. Mình tạm chia ra thành 2 nhóm: &lt;/p&gt; &lt;p&gt;Nhóm 1 là những người chơi cùng từ c2 đến giờ, tầm 6-7 người chủ yếu ở quê, cơ hội gặp mặt nhau 1 năm chỉ có 1-2 lần do khoảng cách xa, mỗi người có một con đường riêng nữa nên khó mà trò chuyện được.&lt;/p&gt; &lt;p&gt;Nhóm 2 là những người chơi cũng trên đại học. Nhóm này đông hơn nhóm trên nhưng lại khá hời hợt, chỉ có gặp mặt trên lớp cùng lắm là có hỏi bài tập và đồ án. Kiểu như ra ngoài giảng đường là không quen biết nhau nữa ấy. Với nhóm 1 thì mình thấy sự gắn bó ngày càng mờ nhạt còn nhóm 2 thì lại khó gắn bó với nhau lâu. Nhiều khi muốn chia sẻ, nói chuyện với ai đó nhưng khi nghĩ đến ai thì lại nghĩ &amp;quot; không biết người đó có lắng nghe được không nhỉ!?&amp;quot; &lt;/p&gt; &lt;p&gt;Vậy nên mọi người cho mình hỏi việc có ít bạn bè như vậy có phải vấn đề không? Nếu có thì làm sao để khắc phục? Trước đây(cấp 3) mình thoải mái, vô tư, có nhiều bạn bè hơn nhưng càng ngày vòng tròn quan hệ đó càng thu hẹp lại dần. &lt;/p&gt; &lt;p&gt;À thêm nữa nếu ai hỏi sao không đi làm thêm để mở rộng mối quan hệ thì từ khi lên đại học đến giờ mình làm mmo, không tiếp xúc nhiều, năm cuối hiện tại đang tập trung làm đồ án nên càng không có nhiều cơ hội ra ngoài. &lt;/p&gt; &lt;p&gt;Mình cảm ơn mọi người đã đọc đến đây!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/PuzzleheadedPlant239"&gt; /u/PuzzleheadedPlant239 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o50mrp/không_có_bạn_có_phải_vấn_đề/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o50mrp/không_có_bạn_có_phải_vấn_đề/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o50mrp/không_có_bạn_có_phải_vấn_đề/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-12T21:00:35+00:00</published>
   </entry>
   <entry>
     <id>t3_1o4q8r1</id>
