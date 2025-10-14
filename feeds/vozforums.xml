@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-10-14T19:27:17+00:00</updated>
+  <updated>2025-10-14T19:38:41+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -203,19 +203,6 @@
     <published>2025-10-14T08:02:28+00:00</published>
   </entry>
   <entry>
-    <id>t3_1o6gcgw</id>
-    <title>giá vàng và bds tăng điên đảo</title>
-    <updated>2025-10-14T14:01:32+00:00</updated>
-    <author>
-      <name>/u/Flat-Entry-8735</name>
-      <uri>https://old.reddit.com/user/Flat-Entry-8735</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;sg ,hn giờ chắc 1 căn trung bình nhà đất 10 tỏi , mấy tp khác thì cũng 4,5 tỏi rồi , kinh dị quá , vàng thì chợ đen quá 150 rồi , chợ trắng thì sắp 150&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Flat-Entry-8735"&gt; /u/Flat-Entry-8735 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o6gcgw/giá_vàng_và_bds_tăng_điên_đảo/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o6gcgw/giá_vàng_và_bds_tăng_điên_đảo/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o6gcgw/giá_vàng_và_bds_tăng_điên_đảo/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-14T14:01:32+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1o6ggxq</id>
     <title>Mình lạc lối quá, muốn xin lời khuyên</title>
     <updated>2025-10-14T14:06:32+00:00</updated>
@@ -240,6 +227,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1o641jv/giờ_có_nhà_1_tỷ_mấy_để_mua_không_ạ/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-14T02:48:38+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1o6gcgw</id>
+    <title>giá vàng và bds tăng điên đảo</title>
+    <updated>2025-10-14T14:01:32+00:00</updated>
+    <author>
+      <name>/u/Flat-Entry-8735</name>
+      <uri>https://old.reddit.com/user/Flat-Entry-8735</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;sg ,hn giờ chắc 1 căn trung bình nhà đất 10 tỏi , mấy tp khác thì cũng 4,5 tỏi rồi , kinh dị quá , vàng thì chợ đen quá 150 rồi , chợ trắng thì sắp 150&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Flat-Entry-8735"&gt; /u/Flat-Entry-8735 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o6gcgw/giá_vàng_và_bds_tăng_điên_đảo/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o6gcgw/giá_vàng_và_bds_tăng_điên_đảo/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o6gcgw/giá_vàng_và_bds_tăng_điên_đảo/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-14T14:01:32+00:00</published>
   </entry>
   <entry>
     <id>t3_1o6h5td</id>
