@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-10-15T10:44:42+00:00</updated>
+  <updated>2025-10-15T10:55:06+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -216,19 +216,6 @@
     <published>2025-10-15T10:15:30+00:00</published>
   </entry>
   <entry>
-    <id>t3_1o6e06s</id>
-    <title>VN có đúng thế không?</title>
-    <updated>2025-10-14T12:22:36+00:00</updated>
-    <author>
-      <name>/u/IllustriousPea9931</name>
-      <uri>https://old.reddit.com/user/IllustriousPea9931</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1o6e06s/vn_có_đúng_thế_không/"&gt; &lt;img alt="VN có đúng thế không?" src="https://preview.redd.it/3t14gr0il2vf1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=749bddd8e884b1656e774ff0270fb29758650cd8" title="VN có đúng thế không?" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;cũng tự hào lắm đấy &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/IllustriousPea9931"&gt; /u/IllustriousPea9931 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/3t14gr0il2vf1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o6e06s/vn_có_đúng_thế_không/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o6e06s/vn_có_đúng_thế_không/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-14T12:22:36+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1o75n2x</id>
     <title>Hôn nhân gia đình</title>
     <updated>2025-10-15T08:42:33+00:00</updated>
@@ -240,6 +227,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1o75n2x/hôn_nhân_gia_đình/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-15T08:42:33+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1o6e06s</id>
+    <title>VN có đúng thế không?</title>
+    <updated>2025-10-14T12:22:36+00:00</updated>
+    <author>
+      <name>/u/IllustriousPea9931</name>
+      <uri>https://old.reddit.com/user/IllustriousPea9931</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1o6e06s/vn_có_đúng_thế_không/"&gt; &lt;img alt="VN có đúng thế không?" src="https://preview.redd.it/3t14gr0il2vf1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=749bddd8e884b1656e774ff0270fb29758650cd8" title="VN có đúng thế không?" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;cũng tự hào lắm đấy &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/IllustriousPea9931"&gt; /u/IllustriousPea9931 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/3t14gr0il2vf1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o6e06s/vn_có_đúng_thế_không/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o6e06s/vn_có_đúng_thế_không/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-14T12:22:36+00:00</published>
   </entry>
   <entry>
     <id>t3_1o71t96</id>
