@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-10-15T11:15:24+00:00</updated>
+  <updated>2025-10-15T11:36:51+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -203,19 +203,6 @@
     <published>2025-10-15T10:15:30+00:00</published>
   </entry>
   <entry>
-    <id>t3_1o75n2x</id>
-    <title>Hôn nhân gia đình</title>
-    <updated>2025-10-15T08:42:33+00:00</updated>
-    <author>
-      <name>/u/Secret-Swimming132</name>
-      <uri>https://old.reddit.com/user/Secret-Swimming132</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;tôi muốn hỏi các bác là con trai (bắc trung nam 1 nhà đều có thể trả lời, khuyến khích lướt trúng thì trả lời) &lt;/p&gt; &lt;p&gt;Khi yêu 1 người con gái bạn có chắc chắn có khả năng cưới thì mới quen hay không? Nếu như vậy trong quá trình yêu đương bạn sẽ có biểu hiện ra sao?&lt;/p&gt; &lt;p&gt;Khi yêu 1 người con gái mà không chắc chắn cưới, vì 1 lý do nào đó không thấy tương lai nhưng thấy phù hợp để yêu thì mấy ông sẽ có biểu hiện như thế nào?? &lt;/p&gt; &lt;p&gt;Khi muốn cưới thì các ông tự chuẩn bị tất cả hay mong muốn ny/vợ tương lai mình làm những gì?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Secret-Swimming132"&gt; /u/Secret-Swimming132 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o75n2x/hôn_nhân_gia_đình/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o75n2x/hôn_nhân_gia_đình/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o75n2x/hôn_nhân_gia_đình/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-15T08:42:33+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1o6e06s</id>
     <title>VN có đúng thế không?</title>
     <updated>2025-10-14T12:22:36+00:00</updated>
@@ -242,19 +229,6 @@
     <published>2025-10-15T04:43:07+00:00</published>
   </entry>
   <entry>
-    <id>t3_1o77bgx</id>
-    <title>Trải nghiệm lần đầu đi tập gym</title>
-    <updated>2025-10-15T10:27:49+00:00</updated>
-    <author>
-      <name>/u/hajin84679</name>
-      <uri>https://old.reddit.com/user/hajin84679</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chà tiêu đề thế thôi chứ tui chưa đi tập gym bảo giờ, muốn đi để giảm cân mà lần đầu đi một mình cảm giác khá ngại. Mn chia sẽ trải nghiệm lần đầu đi tập gym với.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/hajin84679"&gt; /u/hajin84679 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o77bgx/trải_nghiệm_lần_đầu_đi_tập_gym/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o77bgx/trải_nghiệm_lần_đầu_đi_tập_gym/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o77bgx/trải_nghiệm_lần_đầu_đi_tập_gym/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-15T10:27:49+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1o6k0hr</id>
     <title>Bạn đại học</title>
     <updated>2025-10-14T16:19:19+00:00</updated>
@@ -266,6 +240,32 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1o6k0hr/bạn_đại_học/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-14T16:19:19+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1o75n2x</id>
+    <title>Hôn nhân gia đình</title>
+    <updated>2025-10-15T08:42:33+00:00</updated>
+    <author>
+      <name>/u/Secret-Swimming132</name>
+      <uri>https://old.reddit.com/user/Secret-Swimming132</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;tôi muốn hỏi các bác là con trai (bắc trung nam 1 nhà đều có thể trả lời, khuyến khích lướt trúng thì trả lời) &lt;/p&gt; &lt;p&gt;Khi yêu 1 người con gái bạn có chắc chắn có khả năng cưới thì mới quen hay không? Nếu như vậy trong quá trình yêu đương bạn sẽ có biểu hiện ra sao?&lt;/p&gt; &lt;p&gt;Khi yêu 1 người con gái mà không chắc chắn cưới, vì 1 lý do nào đó không thấy tương lai nhưng thấy phù hợp để yêu thì mấy ông sẽ có biểu hiện như thế nào?? &lt;/p&gt; &lt;p&gt;Khi muốn cưới thì các ông tự chuẩn bị tất cả hay mong muốn ny/vợ tương lai mình làm những gì?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Secret-Swimming132"&gt; /u/Secret-Swimming132 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o75n2x/hôn_nhân_gia_đình/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o75n2x/hôn_nhân_gia_đình/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o75n2x/hôn_nhân_gia_đình/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-15T08:42:33+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1o77bgx</id>
+    <title>Trải nghiệm lần đầu đi tập gym</title>
+    <updated>2025-10-15T10:27:49+00:00</updated>
+    <author>
+      <name>/u/hajin84679</name>
+      <uri>https://old.reddit.com/user/hajin84679</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chà tiêu đề thế thôi chứ tui chưa đi tập gym bảo giờ, muốn đi để giảm cân mà lần đầu đi một mình cảm giác khá ngại. Mn chia sẽ trải nghiệm lần đầu đi tập gym với.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/hajin84679"&gt; /u/hajin84679 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o77bgx/trải_nghiệm_lần_đầu_đi_tập_gym/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o77bgx/trải_nghiệm_lần_đầu_đi_tập_gym/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o77bgx/trải_nghiệm_lần_đầu_đi_tập_gym/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-15T10:27:49+00:00</published>
   </entry>
   <entry>
     <id>t3_1o72lbi</id>
