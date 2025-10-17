@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-10-17T15:40:18+00:00</updated>
+  <updated>2025-10-17T15:50:35+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -19,19 +19,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1o8tqgn/em_muốn_hỏi_về_triệt_lông/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-17T06:15:50+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1o8rsev</id>
-    <title>Bây giờ ko biết còn cái kiểu so sánh giữa Anh Mỹ và Anh Anh ko?</title>
-    <updated>2025-10-17T04:23:13+00:00</updated>
-    <author>
-      <name>/u/Foreign-Molasses-461</name>
-      <uri>https://old.reddit.com/user/Foreign-Molasses-461</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hồi trước mấy trung tâm Tiếng Anh lôi cái này ra cực nhiều, rồi kêu dạy cái nào chuẩn hơn cái nào. Kiểu dìm Anh Anh xuống nâng Anh Mỹ kiểu như vậy. Mình có hỏi 1 số đứa bạn Mỹ thì tụi nó nói 2 cái đều hiểu, mặc dù Anh Anh có 1 số từ riêng hơn nhưng phần phát âm (ng Việt mình lại lấy cái này ra nhiều nhất) thì Anh hay Mỹ cũng đa số đều hiểu nhau&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Foreign-Molasses-461"&gt; /u/Foreign-Molasses-461 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o8rsev/bây_giờ_ko_biết_còn_cái_kiểu_so_sánh_giữa_anh_mỹ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o8rsev/bây_giờ_ko_biết_còn_cái_kiểu_so_sánh_giữa_anh_mỹ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o8rsev/bây_giờ_ko_biết_còn_cái_kiểu_so_sánh_giữa_anh_mỹ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-17T04:23:13+00:00</published>
   </entry>
   <entry>
     <id>t3_1o8rz1h</id>
@@ -58,6 +45,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1o8qtas/cách_mình_tìm_sản_phẩm_hot_trend_và_quảng_cáo/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-17T03:32:10+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1o8rsev</id>
+    <title>Bây giờ ko biết còn cái kiểu so sánh giữa Anh Mỹ và Anh Anh ko?</title>
+    <updated>2025-10-17T04:23:13+00:00</updated>
+    <author>
+      <name>/u/Foreign-Molasses-461</name>
+      <uri>https://old.reddit.com/user/Foreign-Molasses-461</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hồi trước mấy trung tâm Tiếng Anh lôi cái này ra cực nhiều, rồi kêu dạy cái nào chuẩn hơn cái nào. Kiểu dìm Anh Anh xuống nâng Anh Mỹ kiểu như vậy. Mình có hỏi 1 số đứa bạn Mỹ thì tụi nó nói 2 cái đều hiểu, mặc dù Anh Anh có 1 số từ riêng hơn nhưng phần phát âm (ng Việt mình lại lấy cái này ra nhiều nhất) thì Anh hay Mỹ cũng đa số đều hiểu nhau&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Foreign-Molasses-461"&gt; /u/Foreign-Molasses-461 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o8rsev/bây_giờ_ko_biết_còn_cái_kiểu_so_sánh_giữa_anh_mỹ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o8rsev/bây_giờ_ko_biết_còn_cái_kiểu_so_sánh_giữa_anh_mỹ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o8rsev/bây_giờ_ko_biết_còn_cái_kiểu_so_sánh_giữa_anh_mỹ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-17T04:23:13+00:00</published>
   </entry>
   <entry>
     <id>t3_1o8s33l</id>
