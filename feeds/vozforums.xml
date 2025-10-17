@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-10-17T11:14:59+00:00</updated>
+  <updated>2025-10-17T11:28:11+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -151,19 +151,6 @@
     <published>2025-10-16T20:42:33+00:00</published>
   </entry>
   <entry>
-    <id>t3_1o8xxeg</id>
-    <title>[Tâm sự + xin lời khuyên] Trì hoãn buổi tối, khó dậy buổi sáng, không dành thời gian thể dục được.</title>
-    <updated>2025-10-17T10:43:23+00:00</updated>
-    <author>
-      <name>/u/Lucifertheoneandonly</name>
-      <uri>https://old.reddit.com/user/Lucifertheoneandonly</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, mình là dân văn phòng mới đi làm, dạo này gặp vấn đề khá nặng với thói quen sinh hoạt:&lt;/p&gt; &lt;p&gt;Buổi tối: hay trì hoãn việc đi ngủ, toàn lướt linh tinh hoặc làm gì đó (việc nhà, dọn dẹp) tới 1h–2h sáng mới ngủ.&lt;/p&gt; &lt;p&gt;Buổi sáng: snooze liên tục, có hôm không nghe thấy báo thức luôn. Dậy thì uể oải, mệt mỏi.&lt;/p&gt; &lt;p&gt;Thể dục: gần như bỏ hẳn vì tối về trễ (kẹt xe, việc, hoặc đơn giản là lười). Ở công ty ngồi máy lạnh 2 màn hình sướng hơn về nhà)&lt;/p&gt; &lt;p&gt;Ăn uống: do về muộn nên toàn ăn đồ nhanh, bánh kẹo, mì gói, đồ ăn sẵn. Đồ healthy thì lười nấu (nấu thì lâu, mà về tới nhà đã đói meo) &lt;/p&gt; &lt;p&gt;Cảm giác đang mất kiểm soát hoàn toàn, biết rõ là không tốt mà vẫn lặp lại. Anh em nào từng bị như vậy cho mình hỏi:&lt;br /&gt; Làm sao để reset lại nhịp sinh hoạt, ngủ sớm – dậy đúng giờ – lấy lại động lực tập thể dục được không?&lt;br /&gt; Ai có kinh nghiệm thực tế chia sẻ giúp mình với.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Lucifertheoneandonly"&gt; /u/Lucifertheoneandonly &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o8xxeg/tâm_sự_xin_lời_khuyên_trì_hoãn_buổi_tối_khó_dậy/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o8xxeg/tâm_sự_xin_lời_khuyên_trì_hoãn_buổi_tối_khó_dậy/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o8xxeg/tâm_sự_xin_lời_khuyên_trì_hoãn_buổi_tối_khó_dậy/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-17T10:43:23+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1o8skaq</id>
     <title>Tình huống ẩu đả của gia đình mình là Đúng hay Sai? Nên giải quyết như thế nào? Mong mọi người giải đáp giúp mình</title>
     <updated>2025-10-17T05:06:09+00:00</updated>
@@ -201,6 +188,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1o8qtas/cách_mình_tìm_sản_phẩm_hot_trend_và_quảng_cáo/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-17T03:32:10+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1o8xxeg</id>
+    <title>[Tâm sự + xin lời khuyên] Trì hoãn buổi tối, khó dậy buổi sáng, không dành thời gian thể dục được.</title>
+    <updated>2025-10-17T10:43:23+00:00</updated>
+    <author>
+      <name>/u/Lucifertheoneandonly</name>
+      <uri>https://old.reddit.com/user/Lucifertheoneandonly</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, mình là dân văn phòng mới đi làm, dạo này gặp vấn đề khá nặng với thói quen sinh hoạt:&lt;/p&gt; &lt;p&gt;Buổi tối: hay trì hoãn việc đi ngủ, toàn lướt linh tinh hoặc làm gì đó (việc nhà, dọn dẹp) tới 1h–2h sáng mới ngủ.&lt;/p&gt; &lt;p&gt;Buổi sáng: snooze liên tục, có hôm không nghe thấy báo thức luôn. Dậy thì uể oải, mệt mỏi.&lt;/p&gt; &lt;p&gt;Thể dục: gần như bỏ hẳn vì tối về trễ (kẹt xe, việc, hoặc đơn giản là lười). Ở công ty ngồi máy lạnh 2 màn hình sướng hơn về nhà)&lt;/p&gt; &lt;p&gt;Ăn uống: do về muộn nên toàn ăn đồ nhanh, bánh kẹo, mì gói, đồ ăn sẵn. Đồ healthy thì lười nấu (nấu thì lâu, mà về tới nhà đã đói meo) &lt;/p&gt; &lt;p&gt;Cảm giác đang mất kiểm soát hoàn toàn, biết rõ là không tốt mà vẫn lặp lại. Anh em nào từng bị như vậy cho mình hỏi:&lt;br /&gt; Làm sao để reset lại nhịp sinh hoạt, ngủ sớm – dậy đúng giờ – lấy lại động lực tập thể dục được không?&lt;br /&gt; Ai có kinh nghiệm thực tế chia sẻ giúp mình với.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Lucifertheoneandonly"&gt; /u/Lucifertheoneandonly &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o8xxeg/tâm_sự_xin_lời_khuyên_trì_hoãn_buổi_tối_khó_dậy/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o8xxeg/tâm_sự_xin_lời_khuyên_trì_hoãn_buổi_tối_khó_dậy/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o8xxeg/tâm_sự_xin_lời_khuyên_trì_hoãn_buổi_tối_khó_dậy/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-17T10:43:23+00:00</published>
   </entry>
   <entry>
     <id>t3_1o8wg85</id>
