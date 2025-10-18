@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-10-18T07:15:45+00:00</updated>
+  <updated>2025-10-18T07:36:18+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1o9auwe</id>
-    <title>Tiếng pháp</title>
-    <updated>2025-10-17T19:32:48+00:00</updated>
-    <author>
-      <name>/u/Jovaniac</name>
-      <uri>https://old.reddit.com/user/Jovaniac</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chỉ mình cách học tiếng pháp b1 mau đậu với ạ mình nản quá, mình có thi 1 lần rồi nhưng trượt, thiếu 10đ (40/50)&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Jovaniac"&gt; /u/Jovaniac &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o9auwe/tiếng_pháp/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o9auwe/tiếng_pháp/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o9auwe/tiếng_pháp/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-17T19:32:48+00:00</published>
-  </entry>
   <entry>
     <id>t3_1o9gutp</id>
     <title>Giáo lý Tin Lành ở VN và nước ngoài không giống nhau</title>
@@ -225,6 +212,19 @@
     <published>2025-10-18T03:10:07+00:00</published>
   </entry>
   <entry>
+    <id>t3_1o9p9oy</id>
+    <title>Công Cụ Sao Chép Markdown Từ ChatGPT Cho Giáo Viên và Nhà Nghiên Cứu Việt Nam</title>
+    <updated>2025-10-18T07:15:45+00:00</updated>
+    <author>
+      <name>/u/SystemMobile7830</name>
+      <uri>https://old.reddit.com/user/SystemMobile7830</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Nút sao chép tích hợp của ChatGPT không còn cung cấp markdown thực sự nữa - nó sao chép rich text, khiến các công thức toán học, ký hiệu khoa học và nhiều nội dung khác không thể hiển thị được trên hầu hết các trình phân tích markdown.&lt;/p&gt; &lt;p&gt;Vấn đề này đặc biệt nghiêm trọng với công thức toán học. Trước đây, khi sao chép công thức từ ChatGPT, chúng được bao quanh bởi \( và \) cho công thức inline hoặc \[ và \] cho công thức block. Khi dán vào Obsidian hoặc các trình soạn thảo markdown khác, bạn có thể chuyển đổi \( và \) thành $ và , còn \[ và \] thành $ và $$.&lt;/p&gt; &lt;p&gt;Nhưng gần đây, ChatGPT đã thay đổi cách sao chép. Bây giờ ( và ) bị thay thế bằng ( và ), còn [ và ] bị thay thế bằng [ và ]. Điều này làm hỏng hoàn toàn công thức toán học vì:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Dấu ngoặc đơn ( và ) cũng xuất hiện trong văn bản thông thường, không phải chỉ trong công thức&lt;/li&gt; &lt;li&gt;Không thể phân biệt được đâu là công thức toán học, đâu là dấu ngoặc bình thường&lt;/li&gt; &lt;li&gt;Các script tự động chuyển đổi không còn hoạt động&lt;/li&gt; &lt;li&gt;Phải kiểm tra và sửa thủ công từng công thức&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;Giải Pháp&lt;/h1&gt; &lt;p&gt;Markdown Capturer của BibCit là tiện ích mở rộng Chrome giúp khôi phục tính năng sao chép markdown hoàn hảo từ ChatGPT.&lt;/p&gt; &lt;p&gt;Sau khi cài đặt, một nút sao chép màu đỏ sẽ xuất hiện dưới mỗi câu trả lời của ChatGPT. Nhấn vào nút đó và bạn sẽ nhận được markdown chuẩn với:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Công thức toán học được định dạng đúng với $ và $$ (không phải dấu ngoặc đơn)&lt;/li&gt; &lt;li&gt;Code blocks với syntax highlighting&lt;/li&gt; &lt;li&gt;Bảng với cấu trúc đúng&lt;/li&gt; &lt;li&gt;Danh sách lồng nhau và định dạng&lt;/li&gt; &lt;li&gt;Liên kết và hình ảnh&lt;/li&gt; &lt;li&gt;Tiêu đề và nhấn mạnh&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;Cài Đặt&lt;/h1&gt; &lt;p&gt;Cài đặt nhanh và miễn phí từ Chrome Web Store: &lt;a href="https://chromewebstore.google.com/detail/markdown-capturer-bibcit/bbglkcgbhkhchpbbbcgpocnhplhdhnmc"&gt;https://chromewebstore.google.com/detail/markdown-capturer-bibcit/bbglkcgbhkhchpbbbcgpocnhplhdhnmc&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Sau khi cài đặt:&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Truy cập ChatGPT&lt;/li&gt; &lt;li&gt;Bạn sẽ thấy nút sao chép màu đỏ dưới mỗi câu trả lời&lt;/li&gt; &lt;li&gt;Nhấn nút đỏ để sao chép markdown chuẩn&lt;/li&gt; &lt;li&gt;Dán vào bất kỳ đâu: Notion, Obsidian, VS Code, MassiveMark&lt;/li&gt; &lt;/ol&gt; &lt;h1&gt;Tính Năng Tự Động Lưu&lt;/h1&gt; &lt;p&gt;Mọi câu trả lời của ChatGPT được tự động lưu vào trung tâm tin nhắn cục bộ của bạn:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Xem tất cả tin nhắn đã lưu&lt;/li&gt; &lt;li&gt;Chọn từng tin nhắn hoặc tất cả&lt;/li&gt; &lt;li&gt;Xuất thành file .md&lt;/li&gt; &lt;li&gt;Lưu trữ 100% trên thiết bị của bạn (không đồng bộ đám mây)&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;Đặc Biệt Dành Cho Giáo Viên và Nhà Nghiên Cứu&lt;/h1&gt; &lt;p&gt;Công cụ này đặc biệt hữu ích cho:&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Giáo viên toán học và khoa học:&lt;/strong&gt; Sao chép công thức, phương trình, ký hiệu hóa học từ ChatGPT và sử dụng trực tiếp trong tài liệu giảng dạy. Không cần chuyển đổi thủ công nữa.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Nhà nghiên cứu:&lt;/strong&gt; Lưu trữ các phân tích dữ liệu, công thức phức tạp, code mẫu từ ChatGPT với định dạng hoàn hảo. Tích hợp trực tiếp vào Jupyter Notebooks, LaTeX documents, hay các nền tảng markdown khác.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Sinh viên:&lt;/strong&gt; Ghi chú bài giảng, lưu lại lời giải bài tập toán, tạo tài liệu học tập từ ChatGPT với công thức được định dạng đúng.&lt;/p&gt; &lt;h1&gt;Hỗ Trợ Đa Ngôn Ngữ&lt;/h1&gt; &lt;p&gt;Hoạt động với TẤT CẢ các ngôn ngữ mà ChatGPT hỗ trợ, bao gồm Tiếng Việt và English.&lt;/p&gt; &lt;h1&gt;Bảo Mật và Quyền Riêng Tư&lt;/h1&gt; &lt;p&gt;Tất cả dữ liệu được lưu trữ cục bộ trên thiết bị của bạn. Không có đồng bộ đám mây, không theo dõi, không thu thập dữ liệu.&lt;/p&gt; &lt;p&gt;Hiện tại hoạt động trên tất cả các trình duyệt dựa trên Chromium (Chrome, Brave, Edge, Arc, Vivaldi).&lt;/p&gt; &lt;p&gt;Cài đặt ngay: &lt;a href="https://chromewebstore.google.com/detail/markdown-capturer-bibcit/bbglkcgbhkhchpbbbcgpocnhplhdhnmc"&gt;https://chromewebstore.google.com/detail/markdown-capturer-bibcit/bbglkcgbhkhchpbbbcgpocnhplhdhnmc&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/SystemMobile7830"&gt; /u/SystemMobile7830 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o9p9oy/công_cụ_sao_chép_markdown_từ_chatgpt_cho_giáo/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o9p9oy/công_cụ_sao_chép_markdown_từ_chatgpt_cho_giáo/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o9p9oy/công_cụ_sao_chép_markdown_từ_chatgpt_cho_giáo/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-18T07:15:45+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1o8su27</id>
     <title>Tâm sự người hèn</title>
     <updated>2025-10-17T05:21:40+00:00</updated>
@@ -264,19 +264,6 @@
     <published>2025-10-17T09:19:49+00:00</published>
   </entry>
   <entry>
-    <id>t3_1o9lpcf</id>
-    <title>Liệu em có suy nghĩ trẻ con quá không?</title>
-    <updated>2025-10-18T03:47:01+00:00</updated>
-    <author>
-      <name>/u/Apollon_xx</name>
-      <uri>https://old.reddit.com/user/Apollon_xx</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em 16 tuổi ạ, vẫn đang vật lộn Lý Hoá Toán 11, ngày dậy sớm tối ngủ 9 giờ. Em đã và đang lên kế hoạch cho cuộc đời của mình dù nếu mọi ngừoi đọc nó sẽ không chi tiết lắm, đều là những kĩ năng, kiến thức em nghĩ em cần có để đạt được (trong bao nhiêu tháng, năm và các bước thực hiện) một mục tiêu: Không phải theo quy luật học đại học, làm việc cho ngừoi khác, luôn phải phụ thuộc vào tiền - Đây là những gì em nghĩ mình có thể chia sẻ được với mọi ngừoi, em luôn tự vấn &amp;quot;Liệu suy nghĩ này có quá trẻ con không? Làm sao có thể chắc chắn được bản thân sẽ không như những ngừoi khác, rốt cuộc vẫn bị vướng vào việc học đại học, làm việc, những mối quan hệ ràng buộc và vân vân?&amp;quot; &lt;/p&gt; &lt;p&gt;Nếu mọi ngừoi hỏi về khả năng thực hiện đọc kế hoạch hay khả năng tự học thì em đánh giá em vẫn đang làm tốt chuyện này, em học (và thực hành) được kha khá kiến thức như tâm lý học (đám đông), các cơ bản của kinh tế, an ninh mạng (một chút về các phần mềm lập trình). &lt;/p&gt; &lt;p&gt;Em muốn đọc những gì mọi ngừoi viết dứoi post. Dù kế hoạch được vạch ra nhưng em giống như kẻ mù vậy, có mắt kính hỗ trợ 5 độ cận nhưng vẫn không chắc bản thân đang làm gì. &lt;/p&gt; &lt;p&gt;Em đã luôn nghĩ cách suy nghĩ của em quá trẻ con từ lâu rồi, như việc &amp;quot;cố gắng thoát khỏi hệ thống? Suy nghĩ thực tế đi.&amp;quot; Với bài post này như thể em muốn sự xác nhận từ ngừoi khác, liệu em có suy nghĩ đúng chưa hay cần chỉnh sửa gì hay không. &lt;/p&gt; &lt;p&gt;Em cảm ơn mọi ngừoi đã dành cho em những thì giờ quý báu.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Apollon_xx"&gt; /u/Apollon_xx &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o9lpcf/liệu_em_có_suy_nghĩ_trẻ_con_quá_không/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o9lpcf/liệu_em_có_suy_nghĩ_trẻ_con_quá_không/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o9lpcf/liệu_em_có_suy_nghĩ_trẻ_con_quá_không/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-18T03:47:01+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1o9olbi</id>
     <title>Làm công ty mẹ nhưng ký HĐLĐ ở công ty con, có nên không?</title>
     <updated>2025-10-18T06:34:20+00:00</updated>
@@ -288,6 +275,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1o9olbi/làm_công_ty_mẹ_nhưng_ký_hđlđ_ở_công_ty_con_có_nên/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-18T06:34:20+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1o9lpcf</id>
+    <title>Liệu em có suy nghĩ trẻ con quá không?</title>
+    <updated>2025-10-18T03:47:01+00:00</updated>
+    <author>
+      <name>/u/Apollon_xx</name>
+      <uri>https://old.reddit.com/user/Apollon_xx</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em 16 tuổi ạ, vẫn đang vật lộn Lý Hoá Toán 11, ngày dậy sớm tối ngủ 9 giờ. Em đã và đang lên kế hoạch cho cuộc đời của mình dù nếu mọi ngừoi đọc nó sẽ không chi tiết lắm, đều là những kĩ năng, kiến thức em nghĩ em cần có để đạt được (trong bao nhiêu tháng, năm và các bước thực hiện) một mục tiêu: Không phải theo quy luật học đại học, làm việc cho ngừoi khác, luôn phải phụ thuộc vào tiền - Đây là những gì em nghĩ mình có thể chia sẻ được với mọi ngừoi, em luôn tự vấn &amp;quot;Liệu suy nghĩ này có quá trẻ con không? Làm sao có thể chắc chắn được bản thân sẽ không như những ngừoi khác, rốt cuộc vẫn bị vướng vào việc học đại học, làm việc, những mối quan hệ ràng buộc và vân vân?&amp;quot; &lt;/p&gt; &lt;p&gt;Nếu mọi ngừoi hỏi về khả năng thực hiện đọc kế hoạch hay khả năng tự học thì em đánh giá em vẫn đang làm tốt chuyện này, em học (và thực hành) được kha khá kiến thức như tâm lý học (đám đông), các cơ bản của kinh tế, an ninh mạng (một chút về các phần mềm lập trình). &lt;/p&gt; &lt;p&gt;Em muốn đọc những gì mọi ngừoi viết dứoi post. Dù kế hoạch được vạch ra nhưng em giống như kẻ mù vậy, có mắt kính hỗ trợ 5 độ cận nhưng vẫn không chắc bản thân đang làm gì. &lt;/p&gt; &lt;p&gt;Em đã luôn nghĩ cách suy nghĩ của em quá trẻ con từ lâu rồi, như việc &amp;quot;cố gắng thoát khỏi hệ thống? Suy nghĩ thực tế đi.&amp;quot; Với bài post này như thể em muốn sự xác nhận từ ngừoi khác, liệu em có suy nghĩ đúng chưa hay cần chỉnh sửa gì hay không. &lt;/p&gt; &lt;p&gt;Em cảm ơn mọi ngừoi đã dành cho em những thì giờ quý báu.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Apollon_xx"&gt; /u/Apollon_xx &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o9lpcf/liệu_em_có_suy_nghĩ_trẻ_con_quá_không/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o9lpcf/liệu_em_có_suy_nghĩ_trẻ_con_quá_không/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o9lpcf/liệu_em_có_suy_nghĩ_trẻ_con_quá_không/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-18T03:47:01+00:00</published>
   </entry>
   <entry>
     <id>t3_1o9naeq</id>
