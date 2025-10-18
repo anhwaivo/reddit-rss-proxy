@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-10-18T20:37:40+00:00</updated>
+  <updated>2025-10-18T20:50:24+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -164,19 +164,6 @@
     <published>2025-10-18T18:41:40+00:00</published>
   </entry>
   <entry>
-    <id>t3_1o9ye9o</id>
-    <title>Chọn art workout creative hay digiart academy</title>
-    <updated>2025-10-18T15:12:59+00:00</updated>
-    <author>
-      <name>/u/Old-Application-3285</name>
-      <uri>https://old.reddit.com/user/Old-Application-3285</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các bác cho e biết vs ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Old-Application-3285"&gt; /u/Old-Application-3285 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o9ye9o/chọn_art_workout_creative_hay_digiart_academy/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o9ye9o/chọn_art_workout_creative_hay_digiart_academy/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o9ye9o/chọn_art_workout_creative_hay_digiart_academy/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-18T15:12:59+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1o9zxfy</id>
     <title>Xin tư vấn tai nghe.</title>
     <updated>2025-10-18T16:14:13+00:00</updated>
@@ -188,6 +175,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1o9zxfy/xin_tư_vấn_tai_nghe/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-18T16:14:13+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1o9ye9o</id>
+    <title>Chọn art workout creative hay digiart academy</title>
+    <updated>2025-10-18T15:12:59+00:00</updated>
+    <author>
+      <name>/u/Old-Application-3285</name>
+      <uri>https://old.reddit.com/user/Old-Application-3285</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các bác cho e biết vs ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Old-Application-3285"&gt; /u/Old-Application-3285 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o9ye9o/chọn_art_workout_creative_hay_digiart_academy/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o9ye9o/chọn_art_workout_creative_hay_digiart_academy/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o9ye9o/chọn_art_workout_creative_hay_digiart_academy/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-18T15:12:59+00:00</published>
   </entry>
   <entry>
     <id>t3_1o9l5xn</id>
