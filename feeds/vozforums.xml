@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-10-18T10:50:32+00:00</updated>
+  <updated>2025-10-18T11:13:25+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1o9p9oy</id>
-    <title>Công Cụ Sao Chép Markdown Từ ChatGPT Cho Giáo Viên và Nhà Nghiên Cứu Việt Nam</title>
-    <updated>2025-10-18T07:15:45+00:00</updated>
-    <author>
-      <name>/u/SystemMobile7830</name>
-      <uri>https://old.reddit.com/user/SystemMobile7830</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Nút sao chép tích hợp của ChatGPT không còn cung cấp markdown thực sự nữa - nó sao chép rich text, khiến các công thức toán học, ký hiệu khoa học và nhiều nội dung khác không thể hiển thị được trên hầu hết các trình phân tích markdown.&lt;/p&gt; &lt;p&gt;Vấn đề này đặc biệt nghiêm trọng với công thức toán học. Trước đây, khi sao chép công thức từ ChatGPT, chúng được bao quanh bởi \( và \) cho công thức inline hoặc \[ và \] cho công thức block. Khi dán vào Obsidian hoặc các trình soạn thảo markdown khác, bạn có thể chuyển đổi \( và \) thành $ và , còn \[ và \] thành $ và $$.&lt;/p&gt; &lt;p&gt;Nhưng gần đây, ChatGPT đã thay đổi cách sao chép. Bây giờ ( và ) bị thay thế bằng ( và ), còn [ và ] bị thay thế bằng [ và ]. Điều này làm hỏng hoàn toàn công thức toán học vì:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Dấu ngoặc đơn ( và ) cũng xuất hiện trong văn bản thông thường, không phải chỉ trong công thức&lt;/li&gt; &lt;li&gt;Không thể phân biệt được đâu là công thức toán học, đâu là dấu ngoặc bình thường&lt;/li&gt; &lt;li&gt;Các script tự động chuyển đổi không còn hoạt động&lt;/li&gt; &lt;li&gt;Phải kiểm tra và sửa thủ công từng công thức&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;Giải Pháp&lt;/h1&gt; &lt;p&gt;Markdown Capturer của BibCit là tiện ích mở rộng Chrome giúp khôi phục tính năng sao chép markdown hoàn hảo từ ChatGPT.&lt;/p&gt; &lt;p&gt;Sau khi cài đặt, một nút sao chép màu đỏ sẽ xuất hiện dưới mỗi câu trả lời của ChatGPT. Nhấn vào nút đó và bạn sẽ nhận được markdown chuẩn với:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Công thức toán học được định dạng đúng với $ và $$ (không phải dấu ngoặc đơn)&lt;/li&gt; &lt;li&gt;Code blocks với syntax highlighting&lt;/li&gt; &lt;li&gt;Bảng với cấu trúc đúng&lt;/li&gt; &lt;li&gt;Danh sách lồng nhau và định dạng&lt;/li&gt; &lt;li&gt;Liên kết và hình ảnh&lt;/li&gt; &lt;li&gt;Tiêu đề và nhấn mạnh&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;Cài Đặt&lt;/h1&gt; &lt;p&gt;Cài đặt nhanh và miễn phí từ Chrome Web Store: &lt;a href="https://chromewebstore.google.com/detail/markdown-capturer-bibcit/bbglkcgbhkhchpbbbcgpocnhplhdhnmc"&gt;https://chromewebstore.google.com/detail/markdown-capturer-bibcit/bbglkcgbhkhchpbbbcgpocnhplhdhnmc&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Sau khi cài đặt:&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Truy cập ChatGPT&lt;/li&gt; &lt;li&gt;Bạn sẽ thấy nút sao chép màu đỏ dưới mỗi câu trả lời&lt;/li&gt; &lt;li&gt;Nhấn nút đỏ để sao chép markdown chuẩn&lt;/li&gt; &lt;li&gt;Dán vào bất kỳ đâu: Notion, Obsidian, VS Code, MassiveMark&lt;/li&gt; &lt;/ol&gt; &lt;h1&gt;Tính Năng Tự Động Lưu&lt;/h1&gt; &lt;p&gt;Mọi câu trả lời của ChatGPT được tự động lưu vào trung tâm tin nhắn cục bộ của bạn:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Xem tất cả tin nhắn đã lưu&lt;/li&gt; &lt;li&gt;Chọn từng tin nhắn hoặc tất cả&lt;/li&gt; &lt;li&gt;Xuất thành file .md&lt;/li&gt; &lt;li&gt;Lưu trữ 100% trên thiết bị của bạn (không đồng bộ đám mây)&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;Đặc Biệt Dành Cho Giáo Viên và Nhà Nghiên Cứu&lt;/h1&gt; &lt;p&gt;Công cụ này đặc biệt hữu ích cho:&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Giáo viên toán học và khoa học:&lt;/strong&gt; Sao chép công thức, phương trình, ký hiệu hóa học từ ChatGPT và sử dụng trực tiếp trong tài liệu giảng dạy. Không cần chuyển đổi thủ công nữa.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Nhà nghiên cứu:&lt;/strong&gt; Lưu trữ các phân tích dữ liệu, công thức phức tạp, code mẫu từ ChatGPT với định dạng hoàn hảo. Tích hợp trực tiếp vào Jupyter Notebooks, LaTeX documents, hay các nền tảng markdown khác.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Sinh viên:&lt;/strong&gt; Ghi chú bài giảng, lưu lại lời giải bài tập toán, tạo tài liệu học tập từ ChatGPT với công thức được định dạng đúng.&lt;/p&gt; &lt;h1&gt;Hỗ Trợ Đa Ngôn Ngữ&lt;/h1&gt; &lt;p&gt;Hoạt động với TẤT CẢ các ngôn ngữ mà ChatGPT hỗ trợ, bao gồm Tiếng Việt và English.&lt;/p&gt; &lt;h1&gt;Bảo Mật và Quyền Riêng Tư&lt;/h1&gt; &lt;p&gt;Tất cả dữ liệu được lưu trữ cục bộ trên thiết bị của bạn. Không có đồng bộ đám mây, không theo dõi, không thu thập dữ liệu.&lt;/p&gt; &lt;p&gt;Hiện tại hoạt động trên tất cả các trình duyệt dựa trên Chromium (Chrome, Brave, Edge, Arc, Vivaldi).&lt;/p&gt; &lt;p&gt;Cài đặt ngay: &lt;a href="https://chromewebstore.google.com/detail/markdown-capturer-bibcit/bbglkcgbhkhchpbbbcgpocnhplhdhnmc"&gt;https://chromewebstore.google.com/detail/markdown-capturer-bibcit/bbglkcgbhkhchpbbbcgpocnhplhdhnmc&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/SystemMobile7830"&gt; /u/SystemMobile7830 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o9p9oy/công_cụ_sao_chép_markdown_từ_chatgpt_cho_giáo/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o9p9oy/công_cụ_sao_chép_markdown_từ_chatgpt_cho_giáo/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o9p9oy/công_cụ_sao_chép_markdown_từ_chatgpt_cho_giáo/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-18T07:15:45+00:00</published>
-  </entry>
   <entry>
     <id>t3_1o8xk7m</id>
     <title>Vàng chính thức trở thành tài sản đầu tiên trong lịch sử đạt 30 NGHÌN TỶ USD về vốn hóa thị trường</title>
@@ -177,6 +164,19 @@
     <published>2025-10-18T08:58:57+00:00</published>
   </entry>
   <entry>
+    <id>t3_1o9r2p8</id>
+    <title>từ bỏ future</title>
+    <updated>2025-10-18T09:11:32+00:00</updated>
+    <author>
+      <name>/u/daviddlaid</name>
+      <uri>https://old.reddit.com/user/daviddlaid</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;mình sn 2000 ở đà nẵng. công việc chính của mình là kiến trúc tối thì mình có 1 Business model là bán các key codes của các ứng dụng AI và Social network. Cũng chả hiểu được thế đ nào đang yên lành tự nhiên 1 ngày mình rút toàn bộ tiền từ chứng khoáng ra sau khi chốt lời một số mã vì mình thấy nó có dấu hiệu phân phối úp bô, mình có thói quen là k bao giờ để tiền ở tk ngân hàng vì môi trường làm vc mình toàn là link trên telegram nên rất sợ bị hack bank vậy là mình nạp hết tiền vào binance để trữ usdt tạm. rồi cũng ngứa ngứa tay vào long đúng 2 lệnh và trong thâm tâm mình nghĩ long chơi thôi vol k to xuống xíu thì dca thêm là đc nên mình chủ quan k chuyển tiền sang spot mà để full future và thế là đợt ngày 11 vừa rồi coin nó dump 1 cây cháy hết tài khoản mình trong vòng1 tiếng buổi sáng. mình ngủ dậy đi làm thì mở đth xem thì ôi thôi đớ mẹ người xin nghỉ làm luôn 1 tuần đến giờ mình mới nghĩ thông đc. cũng có cai may là tiền đó là tiền mình k vay mượn nợ nần. thôi thì coi như bài học cho những bạn trẻ muốn giàu nhanh như mình &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/daviddlaid"&gt; /u/daviddlaid &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o9r2p8/từ_bỏ_future/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o9r2p8/từ_bỏ_future/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o9r2p8/từ_bỏ_future/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-18T09:11:32+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1o8wkt4</id>
     <title>Liêm chính !??</title>
     <updated>2025-10-17T09:19:49+00:00</updated>
@@ -229,19 +229,6 @@
     <published>2025-10-18T10:49:03+00:00</published>
   </entry>
   <entry>
-    <id>t3_1o9r2p8</id>
-    <title>từ bỏ future</title>
-    <updated>2025-10-18T09:11:32+00:00</updated>
-    <author>
-      <name>/u/daviddlaid</name>
-      <uri>https://old.reddit.com/user/daviddlaid</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;mình sn 2000 ở đà nẵng. công việc chính của mình là kiến trúc tối thì mình có 1 Business model là bán các key codes của các ứng dụng AI và Social network. Cũng chả hiểu được thế đ nào đang yên lành tự nhiên 1 ngày mình rút toàn bộ tiền từ chứng khoáng ra sau khi chốt lời một số mã vì mình thấy nó có dấu hiệu phân phối úp bô, mình có thói quen là k bao giờ để tiền ở tk ngân hàng vì môi trường làm vc mình toàn là link trên telegram nên rất sợ bị hack bank vậy là mình nạp hết tiền vào binance để trữ usdt tạm. rồi cũng ngứa ngứa tay vào long đúng 2 lệnh và trong thâm tâm mình nghĩ long chơi thôi vol k to xuống xíu thì dca thêm là đc nên mình chủ quan k chuyển tiền sang spot mà để full future và thế là đợt ngày 11 vừa rồi coin nó dump 1 cây cháy hết tài khoản mình trong vòng1 tiếng buổi sáng. mình ngủ dậy đi làm thì mở đth xem thì ôi thôi đớ mẹ người xin nghỉ làm luôn 1 tuần đến giờ mình mới nghĩ thông đc. cũng có cai may là tiền đó là tiền mình k vay mượn nợ nần. thôi thì coi như bài học cho những bạn trẻ muốn giàu nhanh như mình &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/daviddlaid"&gt; /u/daviddlaid &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o9r2p8/từ_bỏ_future/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o9r2p8/từ_bỏ_future/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o9r2p8/từ_bỏ_future/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-18T09:11:32+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1o9lpcf</id>
     <title>Liệu em có suy nghĩ trẻ con quá không?</title>
     <updated>2025-10-18T03:47:01+00:00</updated>
@@ -281,6 +268,19 @@
     <published>2025-10-18T06:34:20+00:00</published>
   </entry>
   <entry>
+    <id>t3_1o9swgc</id>
+    <title>Cô bán nước cúi người gật đầu mạnh sau khi mình mua — mình có đang nghĩ nhiều quá không?</title>
+    <updated>2025-10-18T11:05:33+00:00</updated>
+    <author>
+      <name>/u/Safe-Lynx-6467</name>
+      <uri>https://old.reddit.com/user/Safe-Lynx-6467</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tôi học cấp 3. Trưa ra về, tôi có mua nước của cô bán nước ở cổng trường. Mua xong, cô gật đầu mạnh, còn cúi người xuống nữa. Tôi ngại quá nên cũng đi luôn.&lt;/p&gt; &lt;p&gt;Nhưng về nhà, tôi cứ nghĩ mãi — sao cô lại làm vậy nhỉ? Cảm giác như cô đang chấp nhận thấp kém hơn mình vậy... Hay là tôi đang nghĩ nhiều quá?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Safe-Lynx-6467"&gt; /u/Safe-Lynx-6467 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o9swgc/cô_bán_nước_cúi_người_gật_đầu_mạnh_sau_khi_mình/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o9swgc/cô_bán_nước_cúi_người_gật_đầu_mạnh_sau_khi_mình/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o9swgc/cô_bán_nước_cúi_người_gật_đầu_mạnh_sau_khi_mình/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-18T11:05:33+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1o9naeq</id>
     <title>Tư vấn mua điện thoại mục đích chỉ để chơi game</title>
     <updated>2025-10-18T05:16:05+00:00</updated>
@@ -307,19 +307,6 @@
     <published>2025-10-18T03:18:03+00:00</published>
   </entry>
   <entry>
-    <id>t3_1o9ihug</id>
-    <title>Có tiền mua xe ko có tiền thuê chổ giữ xe</title>
-    <updated>2025-10-18T01:02:26+00:00</updated>
-    <author>
-      <name>/u/Lopsided-Effective-1</name>
-      <uri>https://old.reddit.com/user/Lopsided-Effective-1</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1o9ihug/có_tiền_mua_xe_ko_có_tiền_thuê_chổ_giữ_xe/"&gt; &lt;img alt="Có tiền mua xe ko có tiền thuê chổ giữ xe" src="https://preview.redd.it/lo9997nsrrvf1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=922edf556d8056bcabf8cc4040d2bd6de956c20f" title="Có tiền mua xe ko có tiền thuê chổ giữ xe" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Đậu chắn cả cái cửa nhà người ta ko ra vô đc mà gặp nói lại bảo đường nhà nước đâu ko vi phạm pháp luật chán thật luôn &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Lopsided-Effective-1"&gt; /u/Lopsided-Effective-1 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/lo9997nsrrvf1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o9ihug/có_tiền_mua_xe_ko_có_tiền_thuê_chổ_giữ_xe/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o9ihug/có_tiền_mua_xe_ko_có_tiền_thuê_chổ_giữ_xe/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-18T01:02:26+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1o9qfff</id>
     <title>HỌC CÁCH YÊU</title>
     <updated>2025-10-18T08:29:56+00:00</updated>
@@ -331,5 +318,18 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1o9qfff/học_cách_yêu/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-18T08:29:56+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1o9ihug</id>
+    <title>Có tiền mua xe ko có tiền thuê chổ giữ xe</title>
+    <updated>2025-10-18T01:02:26+00:00</updated>
+    <author>
+      <name>/u/Lopsided-Effective-1</name>
+      <uri>https://old.reddit.com/user/Lopsided-Effective-1</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1o9ihug/có_tiền_mua_xe_ko_có_tiền_thuê_chổ_giữ_xe/"&gt; &lt;img alt="Có tiền mua xe ko có tiền thuê chổ giữ xe" src="https://preview.redd.it/lo9997nsrrvf1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=922edf556d8056bcabf8cc4040d2bd6de956c20f" title="Có tiền mua xe ko có tiền thuê chổ giữ xe" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Đậu chắn cả cái cửa nhà người ta ko ra vô đc mà gặp nói lại bảo đường nhà nước đâu ko vi phạm pháp luật chán thật luôn &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Lopsided-Effective-1"&gt; /u/Lopsided-Effective-1 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/lo9997nsrrvf1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o9ihug/có_tiền_mua_xe_ko_có_tiền_thuê_chổ_giữ_xe/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o9ihug/có_tiền_mua_xe_ko_có_tiền_thuê_chổ_giữ_xe/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-18T01:02:26+00:00</published>
   </entry>
 </feed>
