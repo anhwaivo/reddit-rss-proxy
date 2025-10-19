@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-10-19T06:25:43+00:00</updated>
+  <updated>2025-10-19T06:46:14+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -112,19 +112,6 @@
     <published>2025-10-18T09:11:32+00:00</published>
   </entry>
   <entry>
-    <id>t3_1oahl8i</id>
-    <title>Nghĩa vụ quân sự</title>
-    <updated>2025-10-19T05:31:00+00:00</updated>
-    <author>
-      <name>/u/Luongvanquan0276</name>
-      <uri>https://old.reddit.com/user/Luongvanquan0276</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em sinh năm 99 có giấy khám về nhà giờ tách hộ khẩu có tránh được không nhỉ ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Luongvanquan0276"&gt; /u/Luongvanquan0276 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oahl8i/nghĩa_vụ_quân_sự/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oahl8i/nghĩa_vụ_quân_sự/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1oahl8i/nghĩa_vụ_quân_sự/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-19T05:31:00+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1oahvq4</id>
     <title>Nhờ các bác tư vấn: Màn hình K-Vision 27 inch bị đen, không hiển thị dù vẫn lên nguồn</title>
     <updated>2025-10-19T05:48:48+00:00</updated>
@@ -136,19 +123,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1oahvq4/nhờ_các_bác_tư_vấn_màn_hình_kvision_27_inch_bị/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-19T05:48:48+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1oaibo5</id>
-    <title>Ôn thi thptqg 2026 môn vật lí</title>
-    <updated>2025-10-19T06:16:06+00:00</updated>
-    <author>
-      <name>/u/untochable1504</name>
-      <uri>https://old.reddit.com/user/untochable1504</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;2k8 nên mua những sách nào để ôn vdc ( lí thuyết+ bài tập+ đa dạng) môn vật lí ạ. Mong anh chị đi trước chia sẻ kinh nghiệm &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/untochable1504"&gt; /u/untochable1504 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oaibo5/ôn_thi_thptqg_2026_môn_vật_lí/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oaibo5/ôn_thi_thptqg_2026_môn_vật_lí/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1oaibo5/ôn_thi_thptqg_2026_môn_vật_lí/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-19T06:16:06+00:00</published>
   </entry>
   <entry>
     <id>t3_1oaiegu</id>
@@ -216,6 +190,19 @@
     <published>2025-10-19T03:25:30+00:00</published>
   </entry>
   <entry>
+    <id>t3_1oahl8i</id>
+    <title>Nghĩa vụ quân sự</title>
+    <updated>2025-10-19T05:31:00+00:00</updated>
+    <author>
+      <name>/u/Luongvanquan0276</name>
+      <uri>https://old.reddit.com/user/Luongvanquan0276</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em sinh năm 99 có giấy khám về nhà giờ tách hộ khẩu có tránh được không nhỉ ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Luongvanquan0276"&gt; /u/Luongvanquan0276 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oahl8i/nghĩa_vụ_quân_sự/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oahl8i/nghĩa_vụ_quân_sự/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1oahl8i/nghĩa_vụ_quân_sự/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-19T05:31:00+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1o9v8wf</id>
     <title>Con trai có chịu làm quen bạn gái tập trung cho sự nghiệp</title>
     <updated>2025-10-18T13:03:50+00:00</updated>
@@ -242,6 +229,19 @@
     <published>2025-10-19T02:18:53+00:00</published>
   </entry>
   <entry>
+    <id>t3_1oaibo5</id>
+    <title>Ôn thi thptqg 2026 môn vật lí</title>
+    <updated>2025-10-19T06:16:06+00:00</updated>
+    <author>
+      <name>/u/untochable1504</name>
+      <uri>https://old.reddit.com/user/untochable1504</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;2k8 nên mua những sách nào để ôn vdc ( lí thuyết+ bài tập+ đa dạng) môn vật lí ạ. Mong anh chị đi trước chia sẻ kinh nghiệm &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/untochable1504"&gt; /u/untochable1504 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oaibo5/ôn_thi_thptqg_2026_môn_vật_lí/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oaibo5/ôn_thi_thptqg_2026_môn_vật_lí/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1oaibo5/ôn_thi_thptqg_2026_môn_vật_lí/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-19T06:16:06+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1oaelyp</id>
     <title>Làm sao để track project hiệu quả hơn</title>
     <updated>2025-10-19T02:43:42+00:00</updated>
@@ -253,6 +253,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1oaelyp/làm_sao_để_track_project_hiệu_quả_hơn/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-19T02:43:42+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1o9w6nk</id>
+    <title>Người yêu lén đặt cái này ở góc làm việc của mình khi sang nhà chơi</title>
+    <updated>2025-10-18T13:43:21+00:00</updated>
+    <author>
+      <name>/u/benforreall</name>
+      <uri>https://old.reddit.com/user/benforreall</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1o9w6nk/người_yêu_lén_đặt_cái_này_ở_góc_làm_việc_của_mình/"&gt; &lt;img alt="Người yêu lén đặt cái này ở góc làm việc của mình khi sang nhà chơi" src="https://preview.redd.it/yijjdwgijvvf1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=bfc7a52df8bb08205d30421e3eefc42af6ffb3c3" title="Người yêu lén đặt cái này ở góc làm việc của mình khi sang nhà chơi" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mọi người cho em hỏi cái này là cái bùa gì vậy ạ? Tình hình em mới phát hiện người yêu em lén để cái này dưới bàn làm việc của em khi qua nhà chơi (để đây tầm 1 tháng rồi giờ em mới phát hiện)&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/benforreall"&gt; /u/benforreall &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/yijjdwgijvvf1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o9w6nk/người_yêu_lén_đặt_cái_này_ở_góc_làm_việc_của_mình/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1o9w6nk/người_yêu_lén_đặt_cái_này_ở_góc_làm_việc_của_mình/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-18T13:43:21+00:00</published>
   </entry>
   <entry>
     <id>t3_1oadr3n</id>
@@ -279,19 +292,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1oafz4t/có_nên_nhắn_tin_crush_mỗi_ngày/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-19T03:58:20+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1o9w6nk</id>
-    <title>Người yêu lén đặt cái này ở góc làm việc của mình khi sang nhà chơi</title>
-    <updated>2025-10-18T13:43:21+00:00</updated>
-    <author>
-      <name>/u/benforreall</name>
-      <uri>https://old.reddit.com/user/benforreall</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1o9w6nk/người_yêu_lén_đặt_cái_này_ở_góc_làm_việc_của_mình/"&gt; &lt;img alt="Người yêu lén đặt cái này ở góc làm việc của mình khi sang nhà chơi" src="https://preview.redd.it/yijjdwgijvvf1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=bfc7a52df8bb08205d30421e3eefc42af6ffb3c3" title="Người yêu lén đặt cái này ở góc làm việc của mình khi sang nhà chơi" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mọi người cho em hỏi cái này là cái bùa gì vậy ạ? Tình hình em mới phát hiện người yêu em lén để cái này dưới bàn làm việc của em khi qua nhà chơi (để đây tầm 1 tháng rồi giờ em mới phát hiện)&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/benforreall"&gt; /u/benforreall &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/yijjdwgijvvf1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1o9w6nk/người_yêu_lén_đặt_cái_này_ở_góc_làm_việc_của_mình/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1o9w6nk/người_yêu_lén_đặt_cái_này_ở_góc_làm_việc_của_mình/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-18T13:43:21+00:00</published>
   </entry>
   <entry>
     <id>t3_1oa1ze2</id>
