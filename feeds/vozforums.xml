@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-10-20T04:44:21+00:00</updated>
+  <updated>2025-10-20T04:54:39+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -177,19 +177,6 @@
     <published>2025-10-19T17:01:00+00:00</published>
   </entry>
   <entry>
-    <id>t3_1obacek</id>
-    <title>Viêm mũi dị ứng</title>
-    <updated>2025-10-20T04:15:47+00:00</updated>
-    <author>
-      <name>/u/Infinite-Passage-851</name>
-      <uri>https://old.reddit.com/user/Infinite-Passage-851</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình 28t, dính cái này từ lúc hết đại học đến giờ. Nghe bảo ko chữa thì thành xoang. Cứ sáng đến chiều tối là nó củ hành mình miết. Trị dứt điểm như thế nào ai chỉ mình với. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Infinite-Passage-851"&gt; /u/Infinite-Passage-851 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1obacek/viêm_mũi_dị_ứng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1obacek/viêm_mũi_dị_ứng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1obacek/viêm_mũi_dị_ứng/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-20T04:15:47+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1obas7m</id>
     <title>Thắc mắc về giao dịch trên ví telegram</title>
     <updated>2025-10-20T04:37:16+00:00</updated>
@@ -253,6 +240,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ob8l26/mqh_không_tốt_với_mẹ_p2/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-20T02:45:11+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1obacek</id>
+    <title>Viêm mũi dị ứng</title>
+    <updated>2025-10-20T04:15:47+00:00</updated>
+    <author>
+      <name>/u/Infinite-Passage-851</name>
+      <uri>https://old.reddit.com/user/Infinite-Passage-851</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình 28t, dính cái này từ lúc hết đại học đến giờ. Nghe bảo ko chữa thì thành xoang. Cứ sáng đến chiều tối là nó củ hành mình miết. Trị dứt điểm như thế nào ai chỉ mình với. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Infinite-Passage-851"&gt; /u/Infinite-Passage-851 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1obacek/viêm_mũi_dị_ứng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1obacek/viêm_mũi_dị_ứng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1obacek/viêm_mũi_dị_ứng/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-20T04:15:47+00:00</published>
   </entry>
   <entry>
     <id>t3_1oaump4</id>
