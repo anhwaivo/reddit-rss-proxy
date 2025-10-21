@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-10-21T15:51:22+00:00</updated>
+  <updated>2025-10-21T16:24:28+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1oc8xxz</id>
-    <title>Xin visa Nhật đi du lịch</title>
-    <updated>2025-10-21T10:05:52+00:00</updated>
-    <author>
-      <name>/u/Temporary-Square-964</name>
-      <uri>https://old.reddit.com/user/Temporary-Square-964</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Có bác nào đi Nhật r cho em hỏi về cái vụ xin Visa với ạ, đại loại thì em cũng hiểu quy trình như nào rồi nhưng mà đến cái mục chứng minh tài chính thì như thế nào ạ? Em hỏi nhiều người thì có người bảo 150tr người bảo 80tr người bảo k cần nên là em kbt có mốc cụ thể nào k ạ hay là tùy background từng người ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Temporary-Square-964"&gt; /u/Temporary-Square-964 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oc8xxz/xin_visa_nhật_đi_du_lịch/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oc8xxz/xin_visa_nhật_đi_du_lịch/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1oc8xxz/xin_visa_nhật_đi_du_lịch/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-21T10:05:52+00:00</published>
-  </entry>
   <entry>
     <id>t3_1ocaa2x</id>
     <title>CÓ PHẢI TÔI ĐANG BỊ ẢNH HƯỞNG BỞI TÂM LINH</title>
@@ -125,6 +112,19 @@
     <published>2025-10-21T15:30:56+00:00</published>
   </entry>
   <entry>
+    <id>t3_1oc77ks</id>
+    <title>Thắc mắc về việc hỏi xin đề</title>
+    <updated>2025-10-21T08:14:06+00:00</updated>
+    <author>
+      <name>/u/Huyen-212</name>
+      <uri>https://old.reddit.com/user/Huyen-212</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em đang là sv mới vào năm 2. Em cảm thấy đề thi một số môn của khóa trước rất hữu ích để học, ôn luyện. Nhưng mà em không có quen/thân anh chị nào ở khóa trên, bạn bè trong lớp thì cũng ít để hỏi xin đề thi. Cho em hỏi việc mình chủ động inbox 1 người a/c khóa trước không quen rồi hỏi xin đề thi có kì không ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Huyen-212"&gt; /u/Huyen-212 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oc77ks/thắc_mắc_về_việc_hỏi_xin_đề/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oc77ks/thắc_mắc_về_việc_hỏi_xin_đề/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1oc77ks/thắc_mắc_về_việc_hỏi_xin_đề/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-21T08:14:06+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1obnhe0</id>
     <title>[Tâm sự] Có nên về Việt Nam sống? Cuộc sống ở Mỹ rất ổn nhưng thấy không còn hợp</title>
     <updated>2025-10-20T16:52:11+00:00</updated>
@@ -138,17 +138,17 @@
     <published>2025-10-20T16:52:11+00:00</published>
   </entry>
   <entry>
-    <id>t3_1oc77ks</id>
-    <title>Thắc mắc về việc hỏi xin đề</title>
-    <updated>2025-10-21T08:14:06+00:00</updated>
+    <id>t3_1ocguvu</id>
+    <title>Tặng quà nhân kỉ niệm 6 tháng</title>
+    <updated>2025-10-21T16:00:20+00:00</updated>
     <author>
-      <name>/u/Huyen-212</name>
-      <uri>https://old.reddit.com/user/Huyen-212</uri>
+      <name>/u/Physical_Quiet_2404</name>
+      <uri>https://old.reddit.com/user/Physical_Quiet_2404</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em đang là sv mới vào năm 2. Em cảm thấy đề thi một số môn của khóa trước rất hữu ích để học, ôn luyện. Nhưng mà em không có quen/thân anh chị nào ở khóa trên, bạn bè trong lớp thì cũng ít để hỏi xin đề thi. Cho em hỏi việc mình chủ động inbox 1 người a/c khóa trước không quen rồi hỏi xin đề thi có kì không ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Huyen-212"&gt; /u/Huyen-212 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oc77ks/thắc_mắc_về_việc_hỏi_xin_đề/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oc77ks/thắc_mắc_về_việc_hỏi_xin_đề/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1oc77ks/thắc_mắc_về_việc_hỏi_xin_đề/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tôi 24M, ny 24F, chuẩn bị đến dịp kỉ niệm 6 tháng yêu nhau thì nên tặng quà gì các bác nhỉ ?&lt;/p&gt; &lt;p&gt;Tôi tính hôm đó tổng chi phí ăn uống + quà ~ 1tr.&lt;/p&gt; &lt;p&gt;Dây chuyền, lắc tay tặng hết rồi, chăng thấy thiếu thứ gì cả, mong các bác tư vấn ạ!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Physical_Quiet_2404"&gt; /u/Physical_Quiet_2404 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ocguvu/tặng_quà_nhân_kỉ_niệm_6_tháng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ocguvu/tặng_quà_nhân_kỉ_niệm_6_tháng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ocguvu/tặng_quà_nhân_kỉ_niệm_6_tháng/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-21T08:14:06+00:00</published>
+    <published>2025-10-21T16:00:20+00:00</published>
   </entry>
   <entry>
     <id>t3_1oc5ict</id>
@@ -255,19 +255,6 @@
     <published>2025-10-21T09:41:02+00:00</published>
   </entry>
   <entry>
-    <id>t3_1oc3ln7</id>
-    <title>Chuyện chó ta, chó tây. Với cả em có vài câu hỏi về việc dắt chó</title>
-    <updated>2025-10-21T04:32:01+00:00</updated>
-    <author>
-      <name>/u/KaleInternational490</name>
-      <uri>https://old.reddit.com/user/KaleInternational490</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Nhà em có nuôi một con chó cỏ, chó ta với một con chó cảnh tây. Mẹ em với người nhà em quấn con chó tây kia lắm. Con chó cỏ nhà em thì toàn bị bỏ rơi không ai chơi cùng. Nhà em toàn người lớn nuôi chó theo kiểu xưa, phân riêng chó cỏ nuôi để giữ nhà ấy còn con cảnh nuôi để nựng. Con chó cỏ nhà em cưng lắm, khổ mỗi nó không biết sủa, người lạ người xấu gì vào nhà cũng bám hết, nó không sủa thật em chưa nghe nó sủa một lần nào luôn. Bởi vậy nên nhà em hờ hững với ghét nó bảo nó vô dụng, không ai chơi với nó cả.&lt;/p&gt; &lt;p&gt;Khổ mỗi không hiểu sao nó bám em nhất. Cứ nhìn thấy em là nó tới thôi, trong khi cả nhà em thì em không thích chó hay thú cưng. Cơ mà chắc biết chọn mặt gửi vàng, em thấy cả nhà cứ cưng con kia mà con này thế này em thấy tội, nhà đứa cưng đứa ghét. Em thấy thương thằng nhỏ nên có mỗi em ngày nào cũng ôm cưng nựng. Em tính dắt nó đi chạy bộ cùng em mỗi ngày ngoài công viên. Em thích đi chạy bộ mà cậu này thích chạy nhảy phết. Nó bị nhốt trong nhà cả đời rồi, cho ra ngoài chạy nhảy cho thoải mái.&lt;/p&gt; &lt;p&gt;Em tính hỏi:&lt;/p&gt; &lt;p&gt;1, Giá rọ mõm với dây xích tầm bao nhiêu nhỉ? Có phân hạng chất lượng không? Em tra thấy shoppee có 3-4 chục em thấy không an tâm. Cậu này nhà em to con lắm đứt xích hay mõm sao em sợ chịu trách nhiệm.&lt;/p&gt; &lt;p&gt;2, Nó vệ sinh ngoài đường thì em phải làm sao? Em phải dọn không? Nó ị thì chắc em mang găng tay với túi bóng, nó tè thì em phải làm sao?&lt;/p&gt; &lt;p&gt;3, Cậu này nhà em đực còn bi, em có phải thiến hay gì không? Thấy mọi người với văn hoá bên nước ngoài là mặc định đi thiến, em cũng không biết tại sao hay cần thiến không&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/KaleInternational490"&gt; /u/KaleInternational490 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oc3ln7/chuyện_chó_ta_chó_tây_với_cả_em_có_vài_câu_hỏi_về/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oc3ln7/chuyện_chó_ta_chó_tây_với_cả_em_có_vài_câu_hỏi_về/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1oc3ln7/chuyện_chó_ta_chó_tây_với_cả_em_có_vài_câu_hỏi_về/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-21T04:32:01+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1obwav2</id>
     <title>Trải lòng đầu tuần...</title>
     <updated>2025-10-20T22:45:36+00:00</updated>
@@ -279,6 +266,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1obwav2/trải_lòng_đầu_tuần/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-20T22:45:36+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1oc3ln7</id>
+    <title>Chuyện chó ta, chó tây. Với cả em có vài câu hỏi về việc dắt chó</title>
+    <updated>2025-10-21T04:32:01+00:00</updated>
+    <author>
+      <name>/u/KaleInternational490</name>
+      <uri>https://old.reddit.com/user/KaleInternational490</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Nhà em có nuôi một con chó cỏ, chó ta với một con chó cảnh tây. Mẹ em với người nhà em quấn con chó tây kia lắm. Con chó cỏ nhà em thì toàn bị bỏ rơi không ai chơi cùng. Nhà em toàn người lớn nuôi chó theo kiểu xưa, phân riêng chó cỏ nuôi để giữ nhà ấy còn con cảnh nuôi để nựng. Con chó cỏ nhà em cưng lắm, khổ mỗi nó không biết sủa, người lạ người xấu gì vào nhà cũng bám hết, nó không sủa thật em chưa nghe nó sủa một lần nào luôn. Bởi vậy nên nhà em hờ hững với ghét nó bảo nó vô dụng, không ai chơi với nó cả.&lt;/p&gt; &lt;p&gt;Khổ mỗi không hiểu sao nó bám em nhất. Cứ nhìn thấy em là nó tới thôi, trong khi cả nhà em thì em không thích chó hay thú cưng. Cơ mà chắc biết chọn mặt gửi vàng, em thấy cả nhà cứ cưng con kia mà con này thế này em thấy tội, nhà đứa cưng đứa ghét. Em thấy thương thằng nhỏ nên có mỗi em ngày nào cũng ôm cưng nựng. Em tính dắt nó đi chạy bộ cùng em mỗi ngày ngoài công viên. Em thích đi chạy bộ mà cậu này thích chạy nhảy phết. Nó bị nhốt trong nhà cả đời rồi, cho ra ngoài chạy nhảy cho thoải mái.&lt;/p&gt; &lt;p&gt;Em tính hỏi:&lt;/p&gt; &lt;p&gt;1, Giá rọ mõm với dây xích tầm bao nhiêu nhỉ? Có phân hạng chất lượng không? Em tra thấy shoppee có 3-4 chục em thấy không an tâm. Cậu này nhà em to con lắm đứt xích hay mõm sao em sợ chịu trách nhiệm.&lt;/p&gt; &lt;p&gt;2, Nó vệ sinh ngoài đường thì em phải làm sao? Em phải dọn không? Nó ị thì chắc em mang găng tay với túi bóng, nó tè thì em phải làm sao?&lt;/p&gt; &lt;p&gt;3, Cậu này nhà em đực còn bi, em có phải thiến hay gì không? Thấy mọi người với văn hoá bên nước ngoài là mặc định đi thiến, em cũng không biết tại sao hay cần thiến không&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/KaleInternational490"&gt; /u/KaleInternational490 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oc3ln7/chuyện_chó_ta_chó_tây_với_cả_em_có_vài_câu_hỏi_về/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oc3ln7/chuyện_chó_ta_chó_tây_với_cả_em_có_vài_câu_hỏi_về/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1oc3ln7/chuyện_chó_ta_chó_tây_với_cả_em_có_vài_câu_hỏi_về/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-21T04:32:01+00:00</published>
   </entry>
   <entry>
     <id>t3_1ocdfa8</id>
