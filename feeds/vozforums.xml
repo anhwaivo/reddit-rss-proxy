@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-10-21T23:50:00+00:00</updated>
+  <updated>2025-10-22T01:24:30+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1ocg38k</id>
-    <title>Nên chọn cổng thanh toán nào cho web app SaaS quốc tế?</title>
-    <updated>2025-10-21T15:30:56+00:00</updated>
-    <author>
-      <name>/u/lyphats</name>
-      <uri>https://old.reddit.com/user/lyphats</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, em đang phát triển một ứng dụng SaaS hướng đến thị trường quốc tế. Tuy nhiên, hiện tại em vẫn đang băn khoăn không biết nên tích hợp cổng thanh toán nào. Ban đầu em dự định dùng Stripe, nhưng đáng tiếc là Stripe chưa hỗ trợ Việt Nam. Mong mọi người có kinh nghiệm chia sẻ giúp em với ạ!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/lyphats"&gt; /u/lyphats &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ocg38k/nên_chọn_cổng_thanh_toán_nào_cho_web_app_saas/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ocg38k/nên_chọn_cổng_thanh_toán_nào_cho_web_app_saas/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ocg38k/nên_chọn_cổng_thanh_toán_nào_cho_web_app_saas/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-21T15:30:56+00:00</published>
-  </entry>
   <entry>
     <id>t3_1oc77ks</id>
     <title>Thắc mắc về việc hỏi xin đề</title>
@@ -60,32 +47,6 @@
     <published>2025-10-20T16:52:11+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ocr8i5</id>
-    <title>Cá bơi trong bể cá</title>
-    <updated>2025-10-21T22:32:42+00:00</updated>
-    <author>
-      <name>/u/TXKhoi_official</name>
-      <uri>https://old.reddit.com/user/TXKhoi_official</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1ocr8i5/cá_bơi_trong_bể_cá/"&gt; &lt;img alt="Cá bơi trong bể cá" src="https://preview.redd.it/73q39q7qkjwf1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=29d47eb510c3d54c3071ea6039c6668c1a93df93" title="Cá bơi trong bể cá" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Có một con cá sống trong bể. Từ khi còn nhỏ, nó đã quen với dòng nước trong, với thức ăn được rải đều mỗi ngày, và ánh sáng từ ngọn đèn của chủ nhà. Với nó, bể cá là cả thế giới rộng lớn, an toàn và đủ đầy. Nó chẳng bao giờ nghĩ bên ngoài còn gì khác, bởi đối với loài cá, thật khó mà hiểu được chính cái môi trường mình đang sống. Mỗi ngày, nó vẫn được cho ăn, được ngắm nhìn, được sống yên ổn. Rồi một hôm, chủ nhà thả thêm vài con cá khác vào bể. Từ đó, nơi vốn yên bình bỗng chật chội và cạnh tranh. Thức ăn chẳng còn chia đều có con được nhiều, có con phải đói. Những con khéo nịnh chủ, biết bơi lại gần tay người, thường được thưởng thêm. Và con cá nhận ra rằng, trong thế giới này, quan trọng nhất không phải là nỗ lực… mà là quan hệ và xuất thân. Thời gian trôi, nó lớn lên và rút ra thêm bài học khác: Muốn tồn tại, phải thông minh và bản lĩnh. Nó bắt đầu quan sát thế giới quanh mình, so sánh từng con cá khác, rồi tự cho rằng nó là kẻ hiểu biết nhất. Nó đánh giá những con cá ngoài ao nơi nước đục và khắc nghiệt cho rằng chúng chỉ biết tranh giành. Nó nghĩ mình cao hơn, bởi mình biết “lý lẽ của sự sống”. Nhưng nó không nhận ra rằng, quan trọng nhất vẫn là khả năng thích nghi thứ mà nó chưa từng học được trong chiếc bể an toàn ấy. Rồi một ngày, nó có con. Những đứa con lần lượt bị chủ nhà bắt đi bán. Nó chỉ biết nhìn, không thể làm gì. Thời gian qua đi, thân thể nó già đi, vây xơ xác. Chủ nhà vớt nó lên khỏi bể, thay bằng một con cá trẻ, đẹp hơn. Nó vùng vẫy, cố xin ở lại, cố lấy lòng, cố chứng minh rằng mình vẫn còn có ích. Nhưng cuối cùng, nó bị vứt xuống ao không thương tiếc. Lần đầu tiên, nó biết thế nào là tự do pha lẫn sợ hãi. Nước trong ao đục, lạnh, và đầy những con cá to hơn, khôn hơn. Nó phải vật vã kiếm ăn, phải trốn lũ cá lớn, phải tự học cách sống sót. Nó xây một cái tổ nhỏ nơi bờ ao vừa để trú, vừa để tồn tại. Ở đây, chỉ cần một chút tham lam, một miếng ăn sai thời điểm, là bị ông chủ vớt lên làm thịt. Cá càng giỏi kiếm mồi, càng phải sống dè chừng. Có con cá nào dám ăn no đâu, vì ăn no là chết. Chỉ những con biết điều, biết giả ngu, mới được yên. Còn những con nói thật, sống thật, thì bị xem là phản chủ. Rồi hạn hán đến. Dịch bệnh lan ra, nước trong ao đục ngầu. Chủ nhà đứng trên bờ, giả vờ thương xót, nói những lời an ủi, hứa hẹn chăm sóc. Đêm đến, ông vẫn ngủ yên trong nhà, ăn ngon mặc đẹp, đi du lịch đều đều. Dưới ao, cá chết, cá đói, cá kêu gào. Ấy vậy mà nhiều con cá khác vẫn tin ông ta thật lòng vẫn gọi ông là “người tốt”. Bởi chúng thiếu tầm nhìn, và tin vào những gì mình muốn tin. Còn những con cá giỏi kiếm mồi, hiểu chuyện… chỉ biết thở dài. Thời gian lại trôi. Cuộc sống vẫn thế vẫn là ao, là bể, là người chủ. Vẫn có những con tin rằng chỉ cần đổi chủ là mọi thứ sẽ khác. Một ông chủ mới đi lên, giả vờ trừng phạt ông cũ, chỉ để lấy lòng những con cá trong ao. Rồi ông ta lại ăn no, ngủ yên, như mọi ông chủ trước. Và những con cá lại tiếp tục tin. Thế giới vẫn xoay, bể và ao vẫn đục trong tùy mùa. Những con cá giỏi thích nghi vẫn bị kiềm hãm, những con cá thật thà vẫn bị xem là ngu dại, và những con cá khéo nịnh vẫn bơi trên mặt nước, đớp từng hạt thức ăn rơi từ tay người. Cuối cùng, con cá năm xưa ,nay đã già lặng lẽ bơi dưới đáy ao. Nó chẳng còn ảo tưởng, chẳng còn phán xét . Nó hiểu ra rằng: Trong một cái ao mà chủ còn ở trên bờ, thì dù có bơi giỏi đến đâu, cá cũng chỉ là cá mà thôi.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/TXKhoi_official"&gt; /u/TXKhoi_official &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/73q39q7qkjwf1.png"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ocr8i5/cá_bơi_trong_bể_cá/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ocr8i5/cá_bơi_trong_bể_cá/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-21T22:32:42+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1obpj3h</id>
-    <title>Không còn mong muốn lập gia đình</title>
-    <updated>2025-10-20T18:24:49+00:00</updated>
-    <author>
-      <name>/u/_bacxiu_</name>
-      <uri>https://old.reddit.com/user/_bacxiu_</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi mn, mình là nữ năm nay 29 tuổi rồi. Mình đã trải qua 3 mối tình mà toàn bị lừa dối và phản bội. Tới giờ mình đã độc thân được 3 năm rồi. Bạn bè cũng lần lượt đi lấy chồng hết. Gia đình thì suốt ngày thúc dục mình phải mau kiếm đại anh nào để kết hôn. Nhưng k biết sao càng ngày mình càng thích ở một mình, ai nt làm quen thì mình cũng chỉ nc được vài ba câu là mình chán chả muốn nói nữa. Mình đi làm xong cũng chỉ thích về nhà nghỉ ngơi, dọn dẹp nhà cửa. Càng ngày mình càng yêu thích sự độc thân này. Mình ở nhà học thêm ngoại ngữ, mình cũng mới mua cây đàn guitar để học và còn ti tỉ thứ muốn học. Nhưng lâu lâu mình cũng tự hỏi liệu mình có nên sống độc thân như thế này suốt đời không chứ nhìn vào yêu đương mình thấy nó vô thường và toàn màu đen. Có ai như mình k ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/_bacxiu_"&gt; /u/_bacxiu_ &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1obpj3h/không_còn_mong_muốn_lập_gia_đình/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1obpj3h/không_còn_mong_muốn_lập_gia_đình/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1obpj3h/không_còn_mong_muốn_lập_gia_đình/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-20T18:24:49+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1oc89bn</id>
     <title>tò mò về chuyên văn</title>
     <updated>2025-10-21T09:23:30+00:00</updated>
@@ -112,17 +73,17 @@
     <published>2025-10-21T17:02:34+00:00</published>
   </entry>
   <entry>
-    <id>t3_1occx2p</id>
-    <title>Có nên công khai người yêu không?</title>
-    <updated>2025-10-21T13:26:21+00:00</updated>
+    <id>t3_1obpj3h</id>
+    <title>Không còn mong muốn lập gia đình</title>
+    <updated>2025-10-20T18:24:49+00:00</updated>
     <author>
-      <name>/u/Efficient-Guava2505</name>
-      <uri>https://old.reddit.com/user/Efficient-Guava2505</uri>
+      <name>/u/_bacxiu_</name>
+      <uri>https://old.reddit.com/user/_bacxiu_</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình và anh ấy chia tay 3 lần, lần 1,2 là do dịch covid anh ấy phải trở về nước và tụi mình cảm thấy ko có kết nối. Lần 3 do tụi mình hay cãi nhau vì thói quen (mình thấy anh ấy rất bừa bộn). Sau 2 năm, cả hai đều ko quen ai và thấy đối phương là người hợp với mình nên tụi mình quay lại. Mình thấy chia tay nhiều lần rồi lại quay lại chưa biết có đi đến đâu không nên không muốn cho ai biết về mqh của tụi mình. Còn anh ấy thì mỗi tháng đều nhắc khi nào công khai, và anh ấy nói những khó khăn khi không công khai (phải lén lút nhắn tin, ko dám nhắn tin vì mn biết, qua VN thăm mình cũng ko dám nói đi gặp bạn gái...). Mới gần đây tụi mình giận nhau vì anh ấy cài hình nền điện thoại là hình của hai đứa mình nhưng hay gặp bạn bè nên nhiều lần ko thể mở điện thoại ra nhắn tin cho mình. Rồi anh ấy nói là anh ấy không muốn giữ bí mật nữa, muốn kể cho gia đình và bạn bè anh ấy. Mình lên đây xin lời khuyên vì mình đang phân vân. Mình cũng lớn tuổi rồi, cũng thích sống lặng lẽ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Efficient-Guava2505"&gt; /u/Efficient-Guava2505 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1occx2p/có_nên_công_khai_người_yêu_không/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1occx2p/có_nên_công_khai_người_yêu_không/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1occx2p/có_nên_công_khai_người_yêu_không/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi mn, mình là nữ năm nay 29 tuổi rồi. Mình đã trải qua 3 mối tình mà toàn bị lừa dối và phản bội. Tới giờ mình đã độc thân được 3 năm rồi. Bạn bè cũng lần lượt đi lấy chồng hết. Gia đình thì suốt ngày thúc dục mình phải mau kiếm đại anh nào để kết hôn. Nhưng k biết sao càng ngày mình càng thích ở một mình, ai nt làm quen thì mình cũng chỉ nc được vài ba câu là mình chán chả muốn nói nữa. Mình đi làm xong cũng chỉ thích về nhà nghỉ ngơi, dọn dẹp nhà cửa. Càng ngày mình càng yêu thích sự độc thân này. Mình ở nhà học thêm ngoại ngữ, mình cũng mới mua cây đàn guitar để học và còn ti tỉ thứ muốn học. Nhưng lâu lâu mình cũng tự hỏi liệu mình có nên sống độc thân như thế này suốt đời không chứ nhìn vào yêu đương mình thấy nó vô thường và toàn màu đen. Có ai như mình k ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/_bacxiu_"&gt; /u/_bacxiu_ &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1obpj3h/không_còn_mong_muốn_lập_gia_đình/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1obpj3h/không_còn_mong_muốn_lập_gia_đình/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1obpj3h/không_còn_mong_muốn_lập_gia_đình/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-21T13:26:21+00:00</published>
+    <published>2025-10-20T18:24:49+00:00</published>
   </entry>
   <entry>
     <id>t3_1ociv95</id>
@@ -177,6 +138,19 @@
     <published>2025-10-21T05:15:31+00:00</published>
   </entry>
   <entry>
+    <id>t3_1occx2p</id>
+    <title>Có nên công khai người yêu không?</title>
+    <updated>2025-10-21T13:26:21+00:00</updated>
+    <author>
+      <name>/u/Efficient-Guava2505</name>
+      <uri>https://old.reddit.com/user/Efficient-Guava2505</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình và anh ấy chia tay 3 lần, lần 1,2 là do dịch covid anh ấy phải trở về nước và tụi mình cảm thấy ko có kết nối. Lần 3 do tụi mình hay cãi nhau vì thói quen (mình thấy anh ấy rất bừa bộn). Sau 2 năm, cả hai đều ko quen ai và thấy đối phương là người hợp với mình nên tụi mình quay lại. Mình thấy chia tay nhiều lần rồi lại quay lại chưa biết có đi đến đâu không nên không muốn cho ai biết về mqh của tụi mình. Còn anh ấy thì mỗi tháng đều nhắc khi nào công khai, và anh ấy nói những khó khăn khi không công khai (phải lén lút nhắn tin, ko dám nhắn tin vì mn biết, qua VN thăm mình cũng ko dám nói đi gặp bạn gái...). Mới gần đây tụi mình giận nhau vì anh ấy cài hình nền điện thoại là hình của hai đứa mình nhưng hay gặp bạn bè nên nhiều lần ko thể mở điện thoại ra nhắn tin cho mình. Rồi anh ấy nói là anh ấy không muốn giữ bí mật nữa, muốn kể cho gia đình và bạn bè anh ấy. Mình lên đây xin lời khuyên vì mình đang phân vân. Mình cũng lớn tuổi rồi, cũng thích sống lặng lẽ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Efficient-Guava2505"&gt; /u/Efficient-Guava2505 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1occx2p/có_nên_công_khai_người_yêu_không/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1occx2p/có_nên_công_khai_người_yêu_không/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1occx2p/có_nên_công_khai_người_yêu_không/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-21T13:26:21+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1ocnibr</id>
     <title>Offer tốt ở công ty thuốc lá - có nên làm không?</title>
     <updated>2025-10-21T20:07:24+00:00</updated>
@@ -203,19 +177,6 @@
     <published>2025-10-21T03:44:41+00:00</published>
   </entry>
   <entry>
-    <id>t3_1oc9mot</id>
-    <title>Mới khám sơ tuyển NVQS</title>
-    <updated>2025-10-21T10:46:25+00:00</updated>
-    <author>
-      <name>/u/Fit_Lemon_4621</name>
-      <uri>https://old.reddit.com/user/Fit_Lemon_4621</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;chỗ em mới khám xong vòng sơ tuyển, hình như bây giờ nó tuyển chọn lọc thật hay sao mà vòng đầu đã khám chim cò rồi :))&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Fit_Lemon_4621"&gt; /u/Fit_Lemon_4621 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oc9mot/mới_khám_sơ_tuyển_nvqs/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oc9mot/mới_khám_sơ_tuyển_nvqs/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1oc9mot/mới_khám_sơ_tuyển_nvqs/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-21T10:46:25+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1oc3oya</id>
     <title>Việt Nam hiện tại có đang bị tình trạng đình lạm thực sự không ??</title>
     <updated>2025-10-21T04:37:15+00:00</updated>
@@ -227,6 +188,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1oc3oya/việt_nam_hiện_tại_có_đang_bị_tình_trạng_đình_lạm/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-21T04:37:15+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1oc9mot</id>
+    <title>Mới khám sơ tuyển NVQS</title>
+    <updated>2025-10-21T10:46:25+00:00</updated>
+    <author>
+      <name>/u/Fit_Lemon_4621</name>
+      <uri>https://old.reddit.com/user/Fit_Lemon_4621</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;chỗ em mới khám xong vòng sơ tuyển, hình như bây giờ nó tuyển chọn lọc thật hay sao mà vòng đầu đã khám chim cò rồi :))&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Fit_Lemon_4621"&gt; /u/Fit_Lemon_4621 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oc9mot/mới_khám_sơ_tuyển_nvqs/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oc9mot/mới_khám_sơ_tuyển_nvqs/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1oc9mot/mới_khám_sơ_tuyển_nvqs/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-21T10:46:25+00:00</published>
   </entry>
   <entry>
     <id>t3_1oc8j6g</id>
@@ -294,6 +268,19 @@
     <published>2025-10-21T09:44:22+00:00</published>
   </entry>
   <entry>
+    <id>t3_1ocdfa8</id>
+    <title>Nhà có ông cậu báo</title>
+    <updated>2025-10-21T13:47:04+00:00</updated>
+    <author>
+      <name>/u/MoeO17</name>
+      <uri>https://old.reddit.com/user/MoeO17</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Ông ngoại em có 3 con, mẹ mình và 2 cậu.&lt;/p&gt; &lt;p&gt;Cậu út thì đã có vợ + 2 con, con lớn tiểu học, con nhỏ mới được 2 tuổi. Thế mà đã báo nhà 3 lần trong 2 năm gần đây. Lần đầu tiên vỡ vì lý do gì thì em không nhớ, nhưng đã vay bố + cậu hai để trả. Từ lúc đó đến đầu năm nay cũng chây ì trả chậm các thứ. Thời gian đầu thì vẫn trả lại mỗi tháng, nhưng sau đấy cũng chây ì dần. Cho đến đầu năm nay thì vẫn còn nợ chưa trả hết.&lt;/p&gt; &lt;p&gt;Đùng cái đầu năm cậu lại báo vỡ nợ do chơi crypto, bay 800 củ, trong đấy có 400 củ vay ngân hàng và 400 củ dùng tiền khách gửi. Btw cậu với mợ hình như độc lập tài chính, nên vụ này thì mợ em cũng không đỡ cho cậu em chút nào. Thế là lần này ông ngoại, cậu hai và bố mẹ em đã cứu 400 củ lấy của khách, vẫn còn 400 củ vay ngân hàng. Nợ cũ chưa hết đã thêm nợ mới. Cậu út lúc này hứa không bao giờ động vào crypto nữa và sẽ làm ăn hẳn hoi để trả hết nợ. &lt;/p&gt; &lt;p&gt;Nhưng lời hứa của con bạc thì đúng là khó tin, hôm qua mợ út gọi mẹ bảo cậu mở két lấy giấy tờ xe (1 ô tô + 1 xe máy) đi cắm chơi crypto tiếp, và lại tiếp tục vỡ 400 củ nữa. Giờ bố em đang bảo hết cứu nổi, bán nhà + xe đi mà trả chứ cứu sao, cứu rồi hứa rồi lại chơi. Mẹ thì bảo giờ bán xe đi được bao nhiêu thì bán, còn lại bố mẹ cố cứu chứ không bán nhà của cậu, tại bán xong thì chả bao giờ mua lại được.&lt;/p&gt; &lt;p&gt;Em thì nghĩ giống bố, lần 1 thì có thể cứu được, chứ cứu lần 2 thì sẽ còn báo lần nữa. Cho cậu mợ tự thống nhất bán nhà + xe như thế nào mà giải quyết, cần thì ra tòa luôn. Khổ cái là em trai mẹ nên mẹ cũng tâm lý là em mình, mình không cứu thì ai cứu. Các bác giúp em xem thuyết phục mẹ như thế nào với.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/MoeO17"&gt; /u/MoeO17 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ocdfa8/nhà_có_ông_cậu_báo/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ocdfa8/nhà_có_ông_cậu_báo/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ocdfa8/nhà_có_ông_cậu_báo/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-21T13:47:04+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1oc75mh</id>
     <title>Tình yêu</title>
     <updated>2025-10-21T08:10:26+00:00</updated>
@@ -307,17 +294,30 @@
     <published>2025-10-21T08:10:26+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ocdfa8</id>
-    <title>Nhà có ông cậu báo</title>
-    <updated>2025-10-21T13:47:04+00:00</updated>
+    <id>t3_1ocuu8y</id>
+    <title>Chọn mua áo gió</title>
+    <updated>2025-10-22T01:14:08+00:00</updated>
     <author>
-      <name>/u/MoeO17</name>
-      <uri>https://old.reddit.com/user/MoeO17</uri>
+      <name>/u/Hairy-Iron2826</name>
+      <uri>https://old.reddit.com/user/Hairy-Iron2826</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Ông ngoại em có 3 con, mẹ mình và 2 cậu.&lt;/p&gt; &lt;p&gt;Cậu út thì đã có vợ + 2 con, con lớn tiểu học, con nhỏ mới được 2 tuổi. Thế mà đã báo nhà 3 lần trong 2 năm gần đây. Lần đầu tiên vỡ vì lý do gì thì em không nhớ, nhưng đã vay bố + cậu hai để trả. Từ lúc đó đến đầu năm nay cũng chây ì trả chậm các thứ. Thời gian đầu thì vẫn trả lại mỗi tháng, nhưng sau đấy cũng chây ì dần. Cho đến đầu năm nay thì vẫn còn nợ chưa trả hết.&lt;/p&gt; &lt;p&gt;Đùng cái đầu năm cậu lại báo vỡ nợ do chơi crypto, bay 800 củ, trong đấy có 400 củ vay ngân hàng và 400 củ dùng tiền khách gửi. Btw cậu với mợ hình như độc lập tài chính, nên vụ này thì mợ em cũng không đỡ cho cậu em chút nào. Thế là lần này ông ngoại, cậu hai và bố mẹ em đã cứu 400 củ lấy của khách, vẫn còn 400 củ vay ngân hàng. Nợ cũ chưa hết đã thêm nợ mới. Cậu út lúc này hứa không bao giờ động vào crypto nữa và sẽ làm ăn hẳn hoi để trả hết nợ. &lt;/p&gt; &lt;p&gt;Nhưng lời hứa của con bạc thì đúng là khó tin, hôm qua mợ út gọi mẹ bảo cậu mở két lấy giấy tờ xe (1 ô tô + 1 xe máy) đi cắm chơi crypto tiếp, và lại tiếp tục vỡ 400 củ nữa. Giờ bố em đang bảo hết cứu nổi, bán nhà + xe đi mà trả chứ cứu sao, cứu rồi hứa rồi lại chơi. Mẹ thì bảo giờ bán xe đi được bao nhiêu thì bán, còn lại bố mẹ cố cứu chứ không bán nhà của cậu, tại bán xong thì chả bao giờ mua lại được.&lt;/p&gt; &lt;p&gt;Em thì nghĩ giống bố, lần 1 thì có thể cứu được, chứ cứu lần 2 thì sẽ còn báo lần nữa. Cho cậu mợ tự thống nhất bán nhà + xe như thế nào mà giải quyết, cần thì ra tòa luôn. Khổ cái là em trai mẹ nên mẹ cũng tâm lý là em mình, mình không cứu thì ai cứu. Các bác giúp em xem thuyết phục mẹ như thế nào với.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/MoeO17"&gt; /u/MoeO17 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ocdfa8/nhà_có_ông_cậu_báo/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ocdfa8/nhà_có_ông_cậu_báo/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ocdfa8/nhà_có_ông_cậu_báo/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;E đang tính mua áo khoác gió bên yody sale còn 399k 1 áo, nhưng vẫn muốn tham khảo thêm xem còn hãng nào chất ngon giá tốt hơn ko? Mn có gợi ý mẫu nào khc ko ạ? E cảm ơn =))&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Hairy-Iron2826"&gt; /u/Hairy-Iron2826 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ocuu8y/chọn_mua_áo_gió/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ocuu8y/chọn_mua_áo_gió/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ocuu8y/chọn_mua_áo_gió/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-21T13:47:04+00:00</published>
+    <published>2025-10-22T01:14:08+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1oct9jw</id>
+    <title>Xin hoi cach su dung tieng viet tren MX_Linux?</title>
+    <updated>2025-10-22T00:01:29+00:00</updated>
+    <author>
+      <name>/u/shibadogranmaru</name>
+      <uri>https://old.reddit.com/user/shibadogranmaru</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chao cac thim. Tinh hinh la con may di theo em ca quang doi sinh vien chuc nam truoc gio cung den tuoi roi, nen em quyet dinh cho con nay doi qua Linux. Em co cai thu cai MX Linux nay ma loay hoay mai khong su dung tieng Viet tren do duoc. Nho cac thim huong dan cho. &lt;/p&gt; &lt;p&gt;Xin cam on&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/shibadogranmaru"&gt; /u/shibadogranmaru &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oct9jw/xin_hoi_cach_su_dung_tieng_viet_tren_mx_linux/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oct9jw/xin_hoi_cach_su_dung_tieng_viet_tren_mx_linux/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1oct9jw/xin_hoi_cach_su_dung_tieng_viet_tren_mx_linux/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-22T00:01:29+00:00</published>
   </entry>
   <entry>
     <id>t3_1occr8w</id>
