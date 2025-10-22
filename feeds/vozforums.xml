@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-10-22T02:54:46+00:00</updated>
+  <updated>2025-10-22T03:43:03+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -34,19 +34,6 @@
     <published>2025-10-21T08:22:36+00:00</published>
   </entry>
   <entry>
-    <id>t3_1oc89bn</id>
-    <title>tò mò về chuyên văn</title>
-    <updated>2025-10-21T09:23:30+00:00</updated>
-    <author>
-      <name>/u/Flashy-Ad-5653</name>
-      <uri>https://old.reddit.com/user/Flashy-Ad-5653</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1oc89bn/tò_mò_về_chuyên_văn/"&gt; &lt;img alt="tò mò về chuyên văn" src="https://preview.redd.it/hohjm7ixnfwf1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=0852dbacee6ff658bf044613d2ea097c5f736e69" title="tò mò về chuyên văn" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;em năm nay mới vào cấp 3 vốn là một đứa thích đọc sách từ nhỏ (hầu hết là tiểu thuyết) nên em luôn nghĩ mình là một đứa học khá-giỏi môn văn, tuy nhiên mọi thứ lại không như em tưởng tượng em gần như chả hứng thú chút nào với những tác phẩm được học ở trường rồi thì cả cách dạy học của tất cả giáo viên mà em từng học qua mỗi khi ôn thi là cô lại in cho một tập đề dày đầy đủ dàn ý bài, cách trình bày các câu hỏi lặp đi lặp lại một cách cứng nhắc cảm nhận văn chương rồi thì đến văn phong, lối viết của học sinh thì mười người như một, thậm chí những bài văn nghị luận phân tích tác phẩm văn học thì đều là giáo viên tự viết rồi cho học sinh học thuộc, đã không biết bao nhiêu lần kiểm tra mà việc cả lớp trình bày y hệt nhau rồi (lúc đó em học chương trình cũ) sau khi lên cấp 3 em thực sự đã mong chờ vào sự đổi mới trong cách dạy văn từ giáo viên hơn nhưng kì thực đến lúc này em vẫn chả thấy điểm khác biệt nào cả, có chăng thì là bây giờ giáo viên chỉ cho dàn ý (cực chi tiết, khoảng 4 mặt giấy cho một cái dàn ý) chứ không viết rồi đọc cho học sinh chép nữa. đến giờ em chỉ có một thắc mắc là với những anh, chị đang hoặc đã từng là học sinh giỏi/chuyên môn văn thì các anh chị cảm thấy như thế nào về môn học này?, liệu cách học của anh chị đồng thời bài giảng của giáo viên cho học sinh giỏi văn liệu có sự khác biệt? và vì sao/làm thế nào mà anh chị lại bén duyên với môn học này. và câu hỏi cuối cùng là thời học sinh anh chị có sở thích đọc sách không(câu này chỉ để thể hiện sự cô đơn của em thôi, tầm tuổi này khó tìm được người có sở thích này quá 😅)&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Flashy-Ad-5653"&gt; /u/Flashy-Ad-5653 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/hohjm7ixnfwf1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oc89bn/tò_mò_về_chuyên_văn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1oc89bn/tò_mò_về_chuyên_văn/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-21T09:23:30+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1ockbo3</id>
     <title>Xin cách chữa rụng tóc ?</title>
     <updated>2025-10-21T18:09:44+00:00</updated>
@@ -58,6 +45,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ockbo3/xin_cách_chữa_rụng_tóc/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-21T18:09:44+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1oc89bn</id>
+    <title>tò mò về chuyên văn</title>
+    <updated>2025-10-21T09:23:30+00:00</updated>
+    <author>
+      <name>/u/Flashy-Ad-5653</name>
+      <uri>https://old.reddit.com/user/Flashy-Ad-5653</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1oc89bn/tò_mò_về_chuyên_văn/"&gt; &lt;img alt="tò mò về chuyên văn" src="https://preview.redd.it/hohjm7ixnfwf1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=0852dbacee6ff658bf044613d2ea097c5f736e69" title="tò mò về chuyên văn" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;em năm nay mới vào cấp 3 vốn là một đứa thích đọc sách từ nhỏ (hầu hết là tiểu thuyết) nên em luôn nghĩ mình là một đứa học khá-giỏi môn văn, tuy nhiên mọi thứ lại không như em tưởng tượng em gần như chả hứng thú chút nào với những tác phẩm được học ở trường rồi thì cả cách dạy học của tất cả giáo viên mà em từng học qua mỗi khi ôn thi là cô lại in cho một tập đề dày đầy đủ dàn ý bài, cách trình bày các câu hỏi lặp đi lặp lại một cách cứng nhắc cảm nhận văn chương rồi thì đến văn phong, lối viết của học sinh thì mười người như một, thậm chí những bài văn nghị luận phân tích tác phẩm văn học thì đều là giáo viên tự viết rồi cho học sinh học thuộc, đã không biết bao nhiêu lần kiểm tra mà việc cả lớp trình bày y hệt nhau rồi (lúc đó em học chương trình cũ) sau khi lên cấp 3 em thực sự đã mong chờ vào sự đổi mới trong cách dạy văn từ giáo viên hơn nhưng kì thực đến lúc này em vẫn chả thấy điểm khác biệt nào cả, có chăng thì là bây giờ giáo viên chỉ cho dàn ý (cực chi tiết, khoảng 4 mặt giấy cho một cái dàn ý) chứ không viết rồi đọc cho học sinh chép nữa. đến giờ em chỉ có một thắc mắc là với những anh, chị đang hoặc đã từng là học sinh giỏi/chuyên môn văn thì các anh chị cảm thấy như thế nào về môn học này?, liệu cách học của anh chị đồng thời bài giảng của giáo viên cho học sinh giỏi văn liệu có sự khác biệt? và vì sao/làm thế nào mà anh chị lại bén duyên với môn học này. và câu hỏi cuối cùng là thời học sinh anh chị có sở thích đọc sách không(câu này chỉ để thể hiện sự cô đơn của em thôi, tầm tuổi này khó tìm được người có sở thích này quá 😅)&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Flashy-Ad-5653"&gt; /u/Flashy-Ad-5653 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/hohjm7ixnfwf1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oc89bn/tò_mò_về_chuyên_văn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1oc89bn/tò_mò_về_chuyên_văn/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-21T09:23:30+00:00</published>
   </entry>
   <entry>
     <id>t3_1oc4dah</id>
@@ -112,19 +112,6 @@
     <published>2025-10-21T03:44:41+00:00</published>
   </entry>
   <entry>
-    <id>t3_1oc8j6g</id>
-    <title>Gia đình có người cờ bạc</title>
-    <updated>2025-10-21T09:41:02+00:00</updated>
-    <author>
-      <name>/u/Fancy-Language2786</name>
-      <uri>https://old.reddit.com/user/Fancy-Language2786</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, em năm nay 23t đã ra trường có công việc tuy lương không cao nhưng ổn định và có thể nuôi sống bản thân ở HN&lt;/p&gt; &lt;p&gt;Dù đã lớn nhưng em không thể nào thoát ra được cảm xúc dè dặt, nhút nhát, tự ti và xấu hổ với mọi người về gia đình. Em có anh trai và bố mẹ, bố thì lô đề chơi bời nợ nần cách đây rất lâu rồi. Mẹ em là người đứng ra lo liệu cho bố từ trước tới giờ tới mức bán đã 2 căn nhà. Nhưng bố em không chừa, ông vẫn lao đầu vào đỏ đen. Lừa gạt họ hàng, mẹ em thì rất hiền lành chịu khó nhưng đổi lại bà nhu nhược dù cả em và bên ngoại khuyên nhủ rất nhiều, mẹ vẫn không chịu bỏ bố em&lt;/p&gt; &lt;p&gt;Anh trai em thì tước giờ là đứa lạnh lùng, không quan tâm tới chuyện gai đình. Tưởng nó sẽ là đứa biết nghĩ qua những chuyện của bố và những gì mẹ em trải qua nó sẽ thương mẹ hơn. Nhưng không, đầu năm nay nó báo nhà hơn 200tr mẹ em đứng ra lo liệu 1 lần và tới tháng 6 vừa rồi nó lại báo thêm một lần nữa. Sau đó nó bỏ nhà đi tới giờ. &lt;/p&gt; &lt;p&gt;Cuộc sống của gia đình em lại thêm một lần nữa bị đảo lộn, em muốn dứt khỏi gia đình nhưng em rất thương mẹ. Cũng rất sợ cảm giác tự ti ngày càng nhiều, em không dám nói chuyện giao lưu với bất kì ai. Bởi em bị ám ảnh với ánh mặt mọi người dè bỉu, họ hàng xa lánh vì nhà em nợ quá nhiều. Em rất rối không biết phải làm thế nào&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Fancy-Language2786"&gt; /u/Fancy-Language2786 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oc8j6g/gia_đình_có_người_cờ_bạc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oc8j6g/gia_đình_có_người_cờ_bạc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1oc8j6g/gia_đình_có_người_cờ_bạc/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-21T09:41:02+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1oc9mot</id>
     <title>Mới khám sơ tuyển NVQS</title>
     <updated>2025-10-21T10:46:25+00:00</updated>
@@ -149,6 +136,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1oc3oya/việt_nam_hiện_tại_có_đang_bị_tình_trạng_đình_lạm/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-21T04:37:15+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1oc8j6g</id>
+    <title>Gia đình có người cờ bạc</title>
+    <updated>2025-10-21T09:41:02+00:00</updated>
+    <author>
+      <name>/u/Fancy-Language2786</name>
+      <uri>https://old.reddit.com/user/Fancy-Language2786</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, em năm nay 23t đã ra trường có công việc tuy lương không cao nhưng ổn định và có thể nuôi sống bản thân ở HN&lt;/p&gt; &lt;p&gt;Dù đã lớn nhưng em không thể nào thoát ra được cảm xúc dè dặt, nhút nhát, tự ti và xấu hổ với mọi người về gia đình. Em có anh trai và bố mẹ, bố thì lô đề chơi bời nợ nần cách đây rất lâu rồi. Mẹ em là người đứng ra lo liệu cho bố từ trước tới giờ tới mức bán đã 2 căn nhà. Nhưng bố em không chừa, ông vẫn lao đầu vào đỏ đen. Lừa gạt họ hàng, mẹ em thì rất hiền lành chịu khó nhưng đổi lại bà nhu nhược dù cả em và bên ngoại khuyên nhủ rất nhiều, mẹ vẫn không chịu bỏ bố em&lt;/p&gt; &lt;p&gt;Anh trai em thì tước giờ là đứa lạnh lùng, không quan tâm tới chuyện gai đình. Tưởng nó sẽ là đứa biết nghĩ qua những chuyện của bố và những gì mẹ em trải qua nó sẽ thương mẹ hơn. Nhưng không, đầu năm nay nó báo nhà hơn 200tr mẹ em đứng ra lo liệu 1 lần và tới tháng 6 vừa rồi nó lại báo thêm một lần nữa. Sau đó nó bỏ nhà đi tới giờ. &lt;/p&gt; &lt;p&gt;Cuộc sống của gia đình em lại thêm một lần nữa bị đảo lộn, em muốn dứt khỏi gia đình nhưng em rất thương mẹ. Cũng rất sợ cảm giác tự ti ngày càng nhiều, em không dám nói chuyện giao lưu với bất kì ai. Bởi em bị ám ảnh với ánh mặt mọi người dè bỉu, họ hàng xa lánh vì nhà em nợ quá nhiều. Em rất rối không biết phải làm thế nào&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Fancy-Language2786"&gt; /u/Fancy-Language2786 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oc8j6g/gia_đình_có_người_cờ_bạc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oc8j6g/gia_đình_có_người_cờ_bạc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1oc8j6g/gia_đình_có_người_cờ_bạc/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-21T09:41:02+00:00</published>
   </entry>
   <entry>
     <id>t3_1obwav2</id>
@@ -255,19 +255,6 @@
     <published>2025-10-21T08:10:26+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ocwsqx</id>
-    <title>Hỏi nghiêm túc: 25 - 30 tuổi, thu nhập bao nhiêu được coi là "ổn" ở HN, TP HCM?</title>
-    <updated>2025-10-22T02:48:43+00:00</updated>
-    <author>
-      <name>/u/Oizoioitoimetqua</name>
-      <uri>https://old.reddit.com/user/Oizoioitoimetqua</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mn, mình muốn hỏi là lương 25-30 tuổi, mức thu nhập nên là bao nhiêu để thấy &amp;quot;ổn&amp;quot; ở HN - TP HCM? - Đủ thuê nhà, đủ ăn, đủ sống và dư ra 1 khoản để tiết kiệm đầu tư?&lt;/p&gt; &lt;p&gt;Với người độc thân, người có người yêu (chưa cưới) và đã có gia đình?&lt;/p&gt; &lt;p&gt;Thanks mn nhìu&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Oizoioitoimetqua"&gt; /u/Oizoioitoimetqua &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ocwsqx/hỏi_nghiêm_túc_25_30_tuổi_thu_nhập_bao_nhiêu_được/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ocwsqx/hỏi_nghiêm_túc_25_30_tuổi_thu_nhập_bao_nhiêu_được/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ocwsqx/hỏi_nghiêm_túc_25_30_tuổi_thu_nhập_bao_nhiêu_được/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-22T02:48:43+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1ocwldr</id>
     <title>Tổng hợp các nguồn nhạc không bản quyền chất lượng cao mà các editor chuyên nghiệp thường dùng</title>
     <updated>2025-10-22T02:38:44+00:00</updated>
@@ -281,30 +268,17 @@
     <published>2025-10-22T02:38:44+00:00</published>
   </entry>
   <entry>
-    <id>t3_1oct9jw</id>
-    <title>Xin hoi cach su dung tieng viet tren MX_Linux?</title>
-    <updated>2025-10-22T00:01:29+00:00</updated>
+    <id>t3_1ocwsqx</id>
+    <title>Hỏi nghiêm túc: 25 - 30 tuổi, thu nhập bao nhiêu được coi là "ổn" ở HN, TP HCM?</title>
+    <updated>2025-10-22T02:48:43+00:00</updated>
     <author>
-      <name>/u/shibadogranmaru</name>
-      <uri>https://old.reddit.com/user/shibadogranmaru</uri>
+      <name>/u/Oizoioitoimetqua</name>
+      <uri>https://old.reddit.com/user/Oizoioitoimetqua</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chao cac thim. Tinh hinh la con may di theo em ca quang doi sinh vien chuc nam truoc gio cung den tuoi roi, nen em quyet dinh cho con nay doi qua Linux. Em co cai thu cai MX Linux nay ma loay hoay mai khong su dung tieng Viet tren do duoc. Nho cac thim huong dan cho. &lt;/p&gt; &lt;p&gt;Xin cam on&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/shibadogranmaru"&gt; /u/shibadogranmaru &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oct9jw/xin_hoi_cach_su_dung_tieng_viet_tren_mx_linux/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oct9jw/xin_hoi_cach_su_dung_tieng_viet_tren_mx_linux/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1oct9jw/xin_hoi_cach_su_dung_tieng_viet_tren_mx_linux/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mn, mình muốn hỏi là lương 25-30 tuổi, mức thu nhập nên là bao nhiêu để thấy &amp;quot;ổn&amp;quot; ở HN - TP HCM? - Đủ thuê nhà, đủ ăn, đủ sống và dư ra 1 khoản để tiết kiệm đầu tư?&lt;/p&gt; &lt;p&gt;Với người độc thân, người có người yêu (chưa cưới) và đã có gia đình?&lt;/p&gt; &lt;p&gt;Thanks mn nhìu&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Oizoioitoimetqua"&gt; /u/Oizoioitoimetqua &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ocwsqx/hỏi_nghiêm_túc_25_30_tuổi_thu_nhập_bao_nhiêu_được/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ocwsqx/hỏi_nghiêm_túc_25_30_tuổi_thu_nhập_bao_nhiêu_được/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ocwsqx/hỏi_nghiêm_túc_25_30_tuổi_thu_nhập_bao_nhiêu_được/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-22T00:01:29+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1ocviqw</id>
-    <title>Có phải chúng ta đã đến thời đại mà không thể tin được 1 video thú vị trên mxh là thật không?</title>
-    <updated>2025-10-22T01:46:33+00:00</updated>
-    <author>
-      <name>/u/only-huma</name>
-      <uri>https://old.reddit.com/user/only-huma</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Thời gian gần đây mình thấy rất nhiều video từ cảm động rồi quay xe, thú cưng cứu người, người nỗi tiếng phát biểu khó tin, những hiện tượng kỳ lạ, tai nạn hài hước, thoát chết hy hữu... Gần như mọi bình luận điều sẽ nói do AI tạo ra.&lt;/p&gt; &lt;p&gt;Nếu là bạn thì bạn có phân biệt được thật giả không? Hay đã không còn tin nỗi nữa có 1 video thú vị là thật.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/only-huma"&gt; /u/only-huma &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ocviqw/co_phai_chung_ta_đa_đên_thơi_đai_ma_không_thê_tin/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ocviqw/co_phai_chung_ta_đa_đên_thơi_đai_ma_không_thê_tin/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ocviqw/co_phai_chung_ta_đa_đên_thơi_đai_ma_không_thê_tin/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-22T01:46:33+00:00</published>
+    <published>2025-10-22T02:48:43+00:00</published>
   </entry>
   <entry>
     <id>t3_1occr8w</id>
@@ -331,5 +305,31 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ocuu8y/chọn_mua_áo_gió/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-22T01:14:08+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ocx6q8</id>
+    <title>kết luận rút ra sau mối tình đổ vỡ.</title>
+    <updated>2025-10-22T03:07:50+00:00</updated>
+    <author>
+      <name>/u/AgreeableTea6755</name>
+      <uri>https://old.reddit.com/user/AgreeableTea6755</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Khi mới quen biết, mọi người thường dễ dàng đáp ứng nhu cầu của nhau nhờ sự tò mò và hấp dẫn tự nhiên, chưa bị ràng buộc bởi kỳ vọng cao, khiến việc lắng nghe hay hỗ trợ trở nên nhẹ nhàng và bản năng. Tuy nhiên, khi mối quan hệ thực sự gắn bó sâu sắc với cảm xúc chân thành, không phải họ chán nhau mà chính là họ vẫn khao khát xây dựng và yêu thương, song sự khác biệt cố hữu giữa đàn ông và phụ nữ lại khiến những nỗ lực ấy trở nên đối lập: đàn ông thường thể hiện tình yêu bằng cách hữu ích, lao vào giải quyết vấn đề của người phụ nữ để giúp cô ấy cảm thấy tốt hơn, từ đó khẳng định giá trị bản thân và xứng đáng với tình yêu ấy qua khả năng hỗ trợ logic và hành động cụ thể; ngược lại, phụ nữ chủ yếu cần sự lắng nghe, thấu hiểu cùng đồng cảm sâu sắc với cảm xúc hiện tại của họ, coi đó là bằng chứng thực sự của sự quan tâm. Chính sự lệch pha trong ý niệm tình yêu này. nơi phụ nữ xem việc được ôm ấp cảm xúc mới là yêu thương đích thực, còn đàn ông tin rằng giải quyết vấn đề mới là cách yêu chân thành. Sinh ra những mâu thuẫn điển hình, như cô ấy cảm thấy thất vọng khi không được lắng nghe, khiến anh ấy bối rối và tổn thương vì công sức nỗ lực bị phủ nhận, dẫn đến vòng lặp phòng thủ, cãi vã và dần xa cách, dù cả hai đều xuất phát từ ý định tốt đẹp.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/AgreeableTea6755"&gt; /u/AgreeableTea6755 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ocx6q8/kết_luận_rút_ra_sau_mối_tình_đổ_vỡ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ocx6q8/kết_luận_rút_ra_sau_mối_tình_đổ_vỡ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ocx6q8/kết_luận_rút_ra_sau_mối_tình_đổ_vỡ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-22T03:07:50+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ocviqw</id>
+    <title>Có phải chúng ta đã đến thời đại mà không thể tin được 1 video thú vị trên mxh là thật không?</title>
+    <updated>2025-10-22T01:46:33+00:00</updated>
+    <author>
+      <name>/u/only-huma</name>
+      <uri>https://old.reddit.com/user/only-huma</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Thời gian gần đây mình thấy rất nhiều video từ cảm động rồi quay xe, thú cưng cứu người, người nỗi tiếng phát biểu khó tin, những hiện tượng kỳ lạ, tai nạn hài hước, thoát chết hy hữu... Gần như mọi bình luận điều sẽ nói do AI tạo ra.&lt;/p&gt; &lt;p&gt;Nếu là bạn thì bạn có phân biệt được thật giả không? Hay đã không còn tin nỗi nữa có 1 video thú vị là thật.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/only-huma"&gt; /u/only-huma &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ocviqw/co_phai_chung_ta_đa_đên_thơi_đai_ma_không_thê_tin/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ocviqw/co_phai_chung_ta_đa_đên_thơi_đai_ma_không_thê_tin/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ocviqw/co_phai_chung_ta_đa_đên_thơi_đai_ma_không_thê_tin/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-22T01:46:33+00:00</published>
   </entry>
 </feed>
