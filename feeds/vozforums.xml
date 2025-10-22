@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-10-22T06:28:20+00:00</updated>
+  <updated>2025-10-22T06:52:09+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -47,19 +47,6 @@
     <published>2025-10-21T10:46:25+00:00</published>
   </entry>
   <entry>
-    <id>t3_1oc3oya</id>
-    <title>Việt Nam hiện tại có đang bị tình trạng đình lạm thực sự không ??</title>
-    <updated>2025-10-21T04:37:15+00:00</updated>
-    <author>
-      <name>/u/Competitive_Luck5477</name>
-      <uri>https://old.reddit.com/user/Competitive_Luck5477</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi các OP , nay đang có một số vấn đề muốn trao đổi với các OP trên tinh thần cầu thị .&lt;br /&gt; Theo các OP hiện tại lạm phát thực tế của việt nam đang rơi vào khoảng bao nhiêu % ( có số liệu đối chứng cụ thể ) và tỉ lệ thất nghiệp và GDP . Em cảm giác như Việt Nam đang rơi vào tình trạng đình lạm ( Staginflation ) như Mỹ năm 1970s nhưng em chưa tìm được số liệu đối chứng cụ thể . Hi vọng có thể tham khảo góc nhìn của các OP trên tinh thần tích cực không ba que xỏ lá nha.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Competitive_Luck5477"&gt; /u/Competitive_Luck5477 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oc3oya/việt_nam_hiện_tại_có_đang_bị_tình_trạng_đình_lạm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oc3oya/việt_nam_hiện_tại_có_đang_bị_tình_trạng_đình_lạm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1oc3oya/việt_nam_hiện_tại_có_đang_bị_tình_trạng_đình_lạm/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-21T04:37:15+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1oc8j6g</id>
     <title>Gia đình có người cờ bạc</title>
     <updated>2025-10-21T09:41:02+00:00</updated>
@@ -71,6 +58,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1oc8j6g/gia_đình_có_người_cờ_bạc/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-21T09:41:02+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1oc3oya</id>
+    <title>Việt Nam hiện tại có đang bị tình trạng đình lạm thực sự không ??</title>
+    <updated>2025-10-21T04:37:15+00:00</updated>
+    <author>
+      <name>/u/Competitive_Luck5477</name>
+      <uri>https://old.reddit.com/user/Competitive_Luck5477</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi các OP , nay đang có một số vấn đề muốn trao đổi với các OP trên tinh thần cầu thị .&lt;br /&gt; Theo các OP hiện tại lạm phát thực tế của việt nam đang rơi vào khoảng bao nhiêu % ( có số liệu đối chứng cụ thể ) và tỉ lệ thất nghiệp và GDP . Em cảm giác như Việt Nam đang rơi vào tình trạng đình lạm ( Staginflation ) như Mỹ năm 1970s nhưng em chưa tìm được số liệu đối chứng cụ thể . Hi vọng có thể tham khảo góc nhìn của các OP trên tinh thần tích cực không ba que xỏ lá nha.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Competitive_Luck5477"&gt; /u/Competitive_Luck5477 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oc3oya/việt_nam_hiện_tại_có_đang_bị_tình_trạng_đình_lạm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oc3oya/việt_nam_hiện_tại_có_đang_bị_tình_trạng_đình_lạm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1oc3oya/việt_nam_hiện_tại_có_đang_bị_tình_trạng_đình_lạm/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-21T04:37:15+00:00</published>
   </entry>
   <entry>
     <id>t3_1oc3ln7</id>
@@ -93,7 +93,7 @@
       <name>/u/pinkpoppingpenis</name>
       <uri>https://old.reddit.com/user/pinkpoppingpenis</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Nam 28 tuổi, định cư ở Mỹ hơn 10 năm.&lt;/p&gt; &lt;p&gt;Lần đầu mình đủ can đảm chia sẻ chuyện đời lên mạng. Ai góp ý, khen chê gì cũng xin đón nhận.&lt;/p&gt; &lt;p&gt;Mình sống ở một tiểu bang ít người Việt. Nhà không khá giả. Qua đây học lại cấp 3, vào đại học được một năm thì gia đình gặp chuyện, mình nghỉ học ra làm. Làm được thời gian thì có cơ hội ở tiểu bang lớn, chuyển qua đó làm được khoảng hai năm thì gia đình lại gặp vấn đề, mình phải quay về để lo.&lt;/p&gt; &lt;p&gt;Lúc đó coi như mất trắng, bắt đầu lại từ con số 0. Không còn gì ngoài lựa chọn học tiếp, nên mình quay lại trường, học full time. Giờ còn một năm nữa là xong thạc sĩ.&lt;/p&gt; &lt;p&gt;Năm nay thì dồn dập: gia đình căng, học nặng, chia tay người yêu, công việc cũ ở tiểu bang lớn nói quay lại lục đục. Mình đang cố tìm hiểu xem họ làm gì để còn biết đường phòng thân mà cũng tìm không ra. Cộng thêm giá cả leo thang, muốn đi làm thêm phụ giúp ba mẹ mà chưa biết xoay kiểu gì.&lt;/p&gt; &lt;p&gt;Khoảng một tháng nay, đầu óc lúc nào cũng nặng. Có thời gian rảnh mà không làm được gì. Cứ cầm điện thoại lướt reels, Reddit cả ngày. Biết là đang trốn tránh, nhưng đầu trống rỗng, chẳng còn sức tập trung.&lt;/p&gt; &lt;p&gt;Giờ thấy tự ti và nặng trong người. Người cùng trang lứa ổn định cả rồi, còn mình loay hoay, vừa học vừa gồng. Đôi lúc tự hỏi mình sai ở đâu mà cố bao nhiêu cũng không thấy kết quả dài lâu.&lt;/p&gt; &lt;p&gt;Đàn ông 28 tuổi, sự nghiệp chưa đâu, tiền không có, mối quan hệ chẳng còn. Nghe yếu nhưng nói thật, sao sống lúc nào cũng phải gồng đầu, gồng mình chỉ để được tạm yên?&lt;/p&gt; &lt;p&gt;Viết bài này không để kể khổ. Chỉ là không còn ai để nói. Ba mẹ đã quá mệt mỏi, mình không muốn làm họ lo thêm. Bạn bè giờ cũng chẳng còn ai thân để chia sẻ.&lt;/p&gt; &lt;p&gt;Mong ai đọc được, chỉ ra giúp, mình nên làm cái gì bây giờ, khi cứ cố mà vẫn chưa tìm ra đường đi.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/pinkpoppingpenis"&gt; /u/pinkpoppingpenis &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1obwav2/trải_lòng_đầu_tuần/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1obwav2/trải_lòng_đầu_tuần/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Nam 28 tuổi, định cư ở Mỹ hơn 10 năm.&lt;/p&gt; &lt;p&gt;Lần đầu mình đủ can đảm chia sẻ chuyện đời lên mạng. Ai góp ý, khen chê gì cũng xin đón nhận.&lt;/p&gt; &lt;p&gt;Mình sống ở một tiểu bang ít người Việt. Nhà không khá giả. Qua đây học lại cấp 3, vào đại học được một năm thì gia đình gặp chuyện, mình nghỉ học ra làm. Làm được thời gian thì có cơ hội ở tiểu bang lớn, chuyển qua đó làm được khoảng hai năm thì gia đình lại gặp vấn đề, mình phải quay về để lo.&lt;/p&gt; &lt;p&gt;Lúc đó coi như mất trắng, bắt đầu lại từ con số 0. Không còn gì ngoài lựa chọn học tiếp, nên mình quay lại trường, học full time. Giờ còn một năm nữa là xong thạc sĩ.&lt;/p&gt; &lt;p&gt;Năm nay thì dồn dập: gia đình căng, học nặng, chia tay người yêu, công việc cũ ở tiểu bang lớn nói quay lại lục đục. Mình đang cố tìm hiểu xem họ làm gì để còn biết đường phòng thân mà cũng tìm không ra. Cộng thêm giá cả leo thang, muốn đi làm thêm phụ giúp ba mẹ mà chưa biết xoay kiểu gì.&lt;/p&gt; &lt;p&gt;Khoảng một tháng nay, đầu óc lúc nào cũng nặng. Có thời gian rảnh mà không làm được gì. Cứ cầm điện thoại lướt reels, Reddit cả ngày. Biết là đang trốn tránh, nhưng đầu trống rỗng, chẳng còn sức tập trung.&lt;/p&gt; &lt;p&gt;Giờ thấy tự ti và nặng trong người. Người cùng trang lứa ổn định cả rồi, còn mình loay hoay, vừa học vừa gồng. Đôi lúc tự hỏi mình sai ở đâu mà cố bao nhiêu cũng không thấy kết quả dài lâu.&lt;/p&gt; &lt;p&gt;Đàn ông 28 tuổi, sự nghiệp chưa đâu, tiền không có, mối quan hệ chẳng còn. Nghe yếu nhưng nói thật, sao sống lúc nào cũng phải gồng đầu, gồng mình chỉ để được tạm yên?&lt;/p&gt; &lt;p&gt;Viết bài này không để kể khổ. Chỉ là không còn ai để nói. Ba mẹ đã quá mệt mỏi, mình không muốn làm họ lo thêm. Bạn bè giờ cũng chẳng còn ai thân để chia sẻ.&lt;/p&gt; &lt;p&gt;Mong ai đọc được, chỉ ra giúp, mình nên làm cái gì bây giờ, khi cứ cố mà vẫn chưa tìm ra đường đi.&lt;/p&gt; &lt;p&gt;EDIT: Nói thật là khá xúc động khi nhận được nhiều lời động viên và chia sẻ từ mọi người. Lần cuối mình lên voz là hồi còn dùng web forum, lúc đó mới học lớp 11 ở Việt Nam. Hôm qua tình cờ thấy có sub nên đăng bài.&lt;/p&gt; &lt;p&gt;Mình không dùng tiếng Việt ngoài khi nói chuyện với gia đình, nên khi đọc từng dòng bình luận bằng tiếng mẹ đẻ thấy rất cảm xúc lắm. Mấy năm nay mình không ở trong cộng đồng người Việt nào cả, nên thật sự biết ơn và trân trọng những gì mọi người đã dành cho mình.&lt;/p&gt; &lt;p&gt;Các bạn không biết được chỉ vài lời nhắn bằng tiếng Việt thôi cũng đã giúp mình thấy tốt hơn rất nhiều như thế nào đâu.&lt;/p&gt; &lt;p&gt;Bây giờ bên này là 1h30 sáng, mình vừa về nhà sau một ngày đi xuyên bang cùng mẹ cho khuây khoả. Mình không mở reels hay reddit hôm nay và làm điều này vì nhiều bạn đã khuyên nên đánh lạc hướng bản thân làm việc khác.&lt;/p&gt; &lt;p&gt;Một ngày nào đó trong tương lai, mình mong sẽ có thể đăng bài chia sẻ rằng mình đã mang theo tất cả lời khuyên và động viên ở đây, và trở thành một người tốt hơn.&lt;/p&gt; &lt;p&gt;Thật sự cảm ơn mọi người lần nữa.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/pinkpoppingpenis"&gt; /u/pinkpoppingpenis &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1obwav2/trải_lòng_đầu_tuần/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1obwav2/trải_lòng_đầu_tuần/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
     <link href="https://old.reddit.com/r/vozforums/comments/1obwav2/trải_lòng_đầu_tuần/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-20T22:45:36+00:00</published>
@@ -123,32 +123,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1oc8l57/sinh_viên_năm_1_nên_làm_gì_với_10tr_trong_tay/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-21T09:44:22+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1od0cz1</id>
-    <title>Avoidant attachment vs Anxious attachment</title>
-    <updated>2025-10-22T06:01:53+00:00</updated>
-    <author>
-      <name>/u/GudakoTheSecond</name>
-      <uri>https://old.reddit.com/user/GudakoTheSecond</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Dạo này e thấy việc hẹn hò thời nay khó khăn lắm hay sao ý. E thuộc loại người anxious attachment còn ex e là avoidant attachment. Đúng combo hủy diệt. Lúc đầu thì 2 đứa tình cảm lắm, càng về sau càng mờ nhạt. Nhiều lúc e thấy mình như 1 con mèo vờn laze ấy. Bạn ấy hay bơ tin nhắn e, mất 2 3 ngày mới rep. Phải cầu xin sự quan tâm của ny mà sau khi e tỉnh ngộ rồi nên chia tay. Mà nếu được thì có cách nào mà khiến mqh hiện đại nó ổn định và lâu dài đc ko? &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/GudakoTheSecond"&gt; /u/GudakoTheSecond &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1od0cz1/avoidant_attachment_vs_anxious_attachment/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1od0cz1/avoidant_attachment_vs_anxious_attachment/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1od0cz1/avoidant_attachment_vs_anxious_attachment/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-22T06:01:53+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1ocwldr</id>
-    <title>Tổng hợp các nguồn nhạc không bản quyền chất lượng cao mà các editor chuyên nghiệp thường dùng</title>
-    <updated>2025-10-22T02:38:44+00:00</updated>
-    <author>
-      <name>/u/Expensive-Note-9288</name>
-      <uri>https://old.reddit.com/user/Expensive-Note-9288</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, mình muốn chia sẻ một số nguồn nhạc không bản quyền mà mình và nhiều editor khác thường sử dụng để làm video trên TikTok, YouTube hay các dự án cá nhân. Mình nghĩ nó sẽ giúp ích cho những ai đang tìm nhạc chất lượng mà không lo vấn đề bản quyền.&lt;/p&gt; &lt;p&gt;Một số nền tảng phổ biến:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Musicbed&lt;/strong&gt; – nhạc chuyên nghiệp, nhiều thể loại cinematic.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Epidemic Sound&lt;/strong&gt; – thư viện lớn, dễ tìm theo mood, thể loại.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Motion Array Music&lt;/strong&gt; – phù hợp cho video ngắn, intro/outro.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Artlist&lt;/strong&gt; – nhạc chất lượng cao, license rõ ràng.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Envato Music&lt;/strong&gt; – nhiều track trending, cập nhật liên tục.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Video này mình đã tổng hợp và thử trải nghiệm các nguồn trên, bạn có thể tham khảo cách chọn nhạc phù hợp cho từng loại video: &lt;/p&gt; &lt;p&gt;&lt;a href="https://reddit.com/link/1ocwldr/video/zzyt96wjskwf1/player"&gt;https://reddit.com/link/1ocwldr/video/zzyt96wjskwf1/player&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Hi vọng chia sẻ này sẽ hữu ích cho cộng đồng các creator!&lt;/p&gt; &lt;p&gt;Các bạn có nguồn nhạc nào hay mà muốn giới thiệu không? Mình rất muốn biết thêm!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Expensive-Note-9288"&gt; /u/Expensive-Note-9288 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ocwldr/tổng_hợp_các_nguồn_nhạc_không_bản_quyền_chất/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ocwldr/tổng_hợp_các_nguồn_nhạc_không_bản_quyền_chất/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ocwldr/tổng_hợp_các_nguồn_nhạc_không_bản_quyền_chất/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-22T02:38:44+00:00</published>
   </entry>
   <entry>
     <id>t3_1ocwq0o</id>
@@ -188,6 +162,32 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1oc75mh/tình_yêu/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-21T08:10:26+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1od0cz1</id>
+    <title>Avoidant attachment vs Anxious attachment</title>
+    <updated>2025-10-22T06:01:53+00:00</updated>
+    <author>
+      <name>/u/GudakoTheSecond</name>
+      <uri>https://old.reddit.com/user/GudakoTheSecond</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Dạo này e thấy việc hẹn hò thời nay khó khăn lắm hay sao ý. E thuộc loại người anxious attachment còn ex e là avoidant attachment. Đúng combo hủy diệt. Lúc đầu thì 2 đứa tình cảm lắm, càng về sau càng mờ nhạt. Nhiều lúc e thấy mình như 1 con mèo vờn laze ấy. Bạn ấy hay bơ tin nhắn e, mất 2 3 ngày mới rep. Phải cầu xin sự quan tâm của ny mà sau khi e tỉnh ngộ rồi nên chia tay. Mà nếu được thì có cách nào mà khiến mqh hiện đại nó ổn định và lâu dài đc ko? &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/GudakoTheSecond"&gt; /u/GudakoTheSecond &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1od0cz1/avoidant_attachment_vs_anxious_attachment/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1od0cz1/avoidant_attachment_vs_anxious_attachment/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1od0cz1/avoidant_attachment_vs_anxious_attachment/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-22T06:01:53+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ocwldr</id>
+    <title>Tổng hợp các nguồn nhạc không bản quyền chất lượng cao mà các editor chuyên nghiệp thường dùng</title>
+    <updated>2025-10-22T02:38:44+00:00</updated>
+    <author>
+      <name>/u/Expensive-Note-9288</name>
+      <uri>https://old.reddit.com/user/Expensive-Note-9288</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, mình muốn chia sẻ một số nguồn nhạc không bản quyền mà mình và nhiều editor khác thường sử dụng để làm video trên TikTok, YouTube hay các dự án cá nhân. Mình nghĩ nó sẽ giúp ích cho những ai đang tìm nhạc chất lượng mà không lo vấn đề bản quyền.&lt;/p&gt; &lt;p&gt;Một số nền tảng phổ biến:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Musicbed&lt;/strong&gt; – nhạc chuyên nghiệp, nhiều thể loại cinematic.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Epidemic Sound&lt;/strong&gt; – thư viện lớn, dễ tìm theo mood, thể loại.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Motion Array Music&lt;/strong&gt; – phù hợp cho video ngắn, intro/outro.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Artlist&lt;/strong&gt; – nhạc chất lượng cao, license rõ ràng.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Envato Music&lt;/strong&gt; – nhiều track trending, cập nhật liên tục.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Video này mình đã tổng hợp và thử trải nghiệm các nguồn trên, bạn có thể tham khảo cách chọn nhạc phù hợp cho từng loại video: &lt;/p&gt; &lt;p&gt;&lt;a href="https://reddit.com/link/1ocwldr/video/zzyt96wjskwf1/player"&gt;https://reddit.com/link/1ocwldr/video/zzyt96wjskwf1/player&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Hi vọng chia sẻ này sẽ hữu ích cho cộng đồng các creator!&lt;/p&gt; &lt;p&gt;Các bạn có nguồn nhạc nào hay mà muốn giới thiệu không? Mình rất muốn biết thêm!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Expensive-Note-9288"&gt; /u/Expensive-Note-9288 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ocwldr/tổng_hợp_các_nguồn_nhạc_không_bản_quyền_chất/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ocwldr/tổng_hợp_các_nguồn_nhạc_không_bản_quyền_chất/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ocwldr/tổng_hợp_các_nguồn_nhạc_không_bản_quyền_chất/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-22T02:38:44+00:00</published>
   </entry>
   <entry>
     <id>t3_1od0rkx</id>
