@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-10-22T09:53:33+00:00</updated>
+  <updated>2025-10-22T10:20:38+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -32,6 +32,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1oc3ln7/chuyện_chó_ta_chó_tây_với_cả_em_có_vài_câu_hỏi_về/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-21T04:32:01+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1od390y</id>
+    <title>Nvqs</title>
+    <updated>2025-10-22T09:07:19+00:00</updated>
+    <author>
+      <name>/u/DuongTienNguyen</name>
+      <uri>https://old.reddit.com/user/DuongTienNguyen</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em chào mọi người, nếu giả sử mình là top / bot ( thụ - công ) đi nghĩa vụ quân sự đi lính đi bộ thì vào trong lính cũ các anh thanh niên có cưng chiều kính trọng mình không? Mọi người cho em xin ít lời khuyên phải làm thế nào ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/DuongTienNguyen"&gt; /u/DuongTienNguyen &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1od390y/nvqs/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1od390y/nvqs/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1od390y/nvqs/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-22T09:07:19+00:00</published>
   </entry>
   <entry>
     <id>t3_1obwav2</id>
@@ -97,19 +110,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ocwq0o/một_câu_hỏi_về_nvqs/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-22T02:44:59+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1od390y</id>
-    <title>Nvqs</title>
-    <updated>2025-10-22T09:07:19+00:00</updated>
-    <author>
-      <name>/u/DuongTienNguyen</name>
-      <uri>https://old.reddit.com/user/DuongTienNguyen</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em chào mọi người, nếu giả sử mình là top / bot ( thụ - công ) đi nghĩa vụ quân sự đi lính đi bộ thì vào trong lính cũ các anh thanh niên có cưng chiều kính trọng mình không? Mọi người cho em xin ít lời khuyên phải làm thế nào ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/DuongTienNguyen"&gt; /u/DuongTienNguyen &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1od390y/nvqs/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1od390y/nvqs/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1od390y/nvqs/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-22T09:07:19+00:00</published>
   </entry>
   <entry>
     <id>t3_1oc75mh</id>
@@ -281,19 +281,6 @@
     <published>2025-10-22T04:36:12+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ocviqw</id>
-    <title>Có phải chúng ta đã đến thời đại mà không thể tin được 1 video thú vị trên mxh là thật không?</title>
-    <updated>2025-10-22T01:46:33+00:00</updated>
-    <author>
-      <name>/u/only-huma</name>
-      <uri>https://old.reddit.com/user/only-huma</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Thời gian gần đây mình thấy rất nhiều video từ cảm động rồi quay xe, thú cưng cứu người, người nỗi tiếng phát biểu khó tin, những hiện tượng kỳ lạ, tai nạn hài hước, thoát chết hy hữu... Gần như mọi bình luận điều sẽ nói do AI tạo ra.&lt;/p&gt; &lt;p&gt;Nếu là bạn thì bạn có phân biệt được thật giả không? Hay đã không còn tin nỗi nữa có 1 video thú vị là thật.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/only-huma"&gt; /u/only-huma &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ocviqw/co_phai_chung_ta_đa_đên_thơi_đai_ma_không_thê_tin/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ocviqw/co_phai_chung_ta_đa_đên_thơi_đai_ma_không_thê_tin/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ocviqw/co_phai_chung_ta_đa_đên_thơi_đai_ma_không_thê_tin/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-22T01:46:33+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1ocwsqx</id>
     <title>Hỏi nghiêm túc: 25 - 30 tuổi, thu nhập bao nhiêu được coi là "ổn" ở HN, TP HCM?</title>
     <updated>2025-10-22T02:48:43+00:00</updated>
@@ -305,6 +292,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ocwsqx/hỏi_nghiêm_túc_25_30_tuổi_thu_nhập_bao_nhiêu_được/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-22T02:48:43+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ocviqw</id>
+    <title>Có phải chúng ta đã đến thời đại mà không thể tin được 1 video thú vị trên mxh là thật không?</title>
+    <updated>2025-10-22T01:46:33+00:00</updated>
+    <author>
+      <name>/u/only-huma</name>
+      <uri>https://old.reddit.com/user/only-huma</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Thời gian gần đây mình thấy rất nhiều video từ cảm động rồi quay xe, thú cưng cứu người, người nỗi tiếng phát biểu khó tin, những hiện tượng kỳ lạ, tai nạn hài hước, thoát chết hy hữu... Gần như mọi bình luận điều sẽ nói do AI tạo ra.&lt;/p&gt; &lt;p&gt;Nếu là bạn thì bạn có phân biệt được thật giả không? Hay đã không còn tin nỗi nữa có 1 video thú vị là thật.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/only-huma"&gt; /u/only-huma &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ocviqw/co_phai_chung_ta_đa_đên_thơi_đai_ma_không_thê_tin/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ocviqw/co_phai_chung_ta_đa_đên_thơi_đai_ma_không_thê_tin/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ocviqw/co_phai_chung_ta_đa_đên_thơi_đai_ma_không_thê_tin/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-22T01:46:33+00:00</published>
   </entry>
   <entry>
     <id>t3_1ocx6q8</id>
