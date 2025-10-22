@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-10-22T08:50:50+00:00</updated>
+  <updated>2025-10-22T09:20:46+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1oc9mot</id>
-    <title>Mới khám sơ tuyển NVQS</title>
-    <updated>2025-10-21T10:46:25+00:00</updated>
-    <author>
-      <name>/u/Fit_Lemon_4621</name>
-      <uri>https://old.reddit.com/user/Fit_Lemon_4621</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;chỗ em mới khám xong vòng sơ tuyển, hình như bây giờ nó tuyển chọn lọc thật hay sao mà vòng đầu đã khám chim cò rồi :))&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Fit_Lemon_4621"&gt; /u/Fit_Lemon_4621 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oc9mot/mới_khám_sơ_tuyển_nvqs/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oc9mot/mới_khám_sơ_tuyển_nvqs/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1oc9mot/mới_khám_sơ_tuyển_nvqs/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-21T10:46:25+00:00</published>
-  </entry>
   <entry>
     <id>t3_1oc8j6g</id>
     <title>Gia đình có người cờ bạc</title>
@@ -47,19 +34,6 @@
     <published>2025-10-21T04:32:01+00:00</published>
   </entry>
   <entry>
-    <id>t3_1oc3oya</id>
-    <title>Việt Nam hiện tại có đang bị tình trạng đình lạm thực sự không ??</title>
-    <updated>2025-10-21T04:37:15+00:00</updated>
-    <author>
-      <name>/u/Competitive_Luck5477</name>
-      <uri>https://old.reddit.com/user/Competitive_Luck5477</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi các OP , nay đang có một số vấn đề muốn trao đổi với các OP trên tinh thần cầu thị .&lt;br /&gt; Theo các OP hiện tại lạm phát thực tế của việt nam đang rơi vào khoảng bao nhiêu % ( có số liệu đối chứng cụ thể ) và tỉ lệ thất nghiệp và GDP . Em cảm giác như Việt Nam đang rơi vào tình trạng đình lạm ( Staginflation ) như Mỹ năm 1970s nhưng em chưa tìm được số liệu đối chứng cụ thể . Hi vọng có thể tham khảo góc nhìn của các OP trên tinh thần tích cực không ba que xỏ lá nha.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Competitive_Luck5477"&gt; /u/Competitive_Luck5477 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oc3oya/việt_nam_hiện_tại_có_đang_bị_tình_trạng_đình_lạm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oc3oya/việt_nam_hiện_tại_có_đang_bị_tình_trạng_đình_lạm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1oc3oya/việt_nam_hiện_tại_có_đang_bị_tình_trạng_đình_lạm/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-21T04:37:15+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1obwav2</id>
     <title>Trải lòng đầu tuần...</title>
     <updated>2025-10-20T22:45:36+00:00</updated>
@@ -73,17 +47,17 @@
     <published>2025-10-20T22:45:36+00:00</published>
   </entry>
   <entry>
-    <id>t3_1od17jl</id>
-    <title>Chuyển đổi số trong Doanh nghiệp - Bắt đầu từ đâu</title>
-    <updated>2025-10-22T06:55:11+00:00</updated>
+    <id>t3_1oc3oya</id>
+    <title>Việt Nam hiện tại có đang bị tình trạng đình lạm thực sự không ??</title>
+    <updated>2025-10-21T04:37:15+00:00</updated>
     <author>
-      <name>/u/VisibleLocksmith4905</name>
-      <uri>https://old.reddit.com/user/VisibleLocksmith4905</uri>
+      <name>/u/Competitive_Luck5477</name>
+      <uri>https://old.reddit.com/user/Competitive_Luck5477</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hơn 70% doanh nghiệp Việt vẫn loay hoay với chuyển đổi số: đầu tư công nghệ hàng tỷ đồng, nhưng dự án nhanh chóng “chết yểu” vì thiếu chiến lược và con người.&lt;/p&gt; &lt;p&gt;Chuyển đổi số &lt;strong&gt;không phải là mua phần mềm&lt;/strong&gt;, mà là &lt;strong&gt;tái cấu trúc cách vận hành, ra quyết định và tạo giá trị&lt;/strong&gt;.&lt;/p&gt; &lt;p&gt;Muốn đi đúng hướng, doanh nghiệp cần bắt đầu từ 5 bước:&lt;/p&gt; &lt;p&gt;1️⃣ Xác định mục tiêu chiến lược rõ ràng.&lt;/p&gt; &lt;p&gt;2️⃣ Đánh giá hiện trạng con người – quy trình – công nghệ.&lt;/p&gt; &lt;p&gt;3️⃣ Xây dựng lộ trình tổng thể 1–3–5 năm.&lt;/p&gt; &lt;p&gt;4️⃣ Chọn công nghệ &amp;amp; đối tác phù hợp (CRM, &lt;a href="https://cls.vn/vi/blog/5-yeu-cau-co-ban-cua-mot-he-thong-quan-ly-hoc-tap-lms.html"&gt;LMS&lt;/a&gt;, Data Dashboard…).&lt;/p&gt; &lt;p&gt;5️⃣ Xây dựng văn hóa số và cơ chế đo lường ROI.&lt;/p&gt; &lt;p&gt;Ba trụ cột thành công: &lt;strong&gt;Công nghệ – Quy trình – Con người.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Chuyển đổi số không phải cuộc đua “ai mua phần mềm nhanh hơn”, mà là hành trình của những &lt;strong&gt;nhà lãnh đạo biết đi đúng hướng và bền vững về chiến lược.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Xem thêm:&lt;/strong&gt; &lt;a href="https://cls.vn/vi/blog/chuyen-doi-so-trong-doanh-nghiep-bat-dau-tu-dau.html"&gt;Chuyển đổi số trong Doanh nghiệp – Bắt đầu từ đâu?&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Khám phá 5 bước chi tiết liên hệ ngay: &lt;a href="https://cls.vn/vi"&gt;cls.vn&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/VisibleLocksmith4905"&gt; /u/VisibleLocksmith4905 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1od17jl/chuyển_đổi_số_trong_doanh_nghiệp_bắt_đầu_từ_đâu/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1od17jl/chuyển_đổi_số_trong_doanh_nghiệp_bắt_đầu_từ_đâu/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1od17jl/chuyển_đổi_số_trong_doanh_nghiệp_bắt_đầu_từ_đâu/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi các OP , nay đang có một số vấn đề muốn trao đổi với các OP trên tinh thần cầu thị .&lt;br /&gt; Theo các OP hiện tại lạm phát thực tế của việt nam đang rơi vào khoảng bao nhiêu % ( có số liệu đối chứng cụ thể ) và tỉ lệ thất nghiệp và GDP . Em cảm giác như Việt Nam đang rơi vào tình trạng đình lạm ( Staginflation ) như Mỹ năm 1970s nhưng em chưa tìm được số liệu đối chứng cụ thể . Hi vọng có thể tham khảo góc nhìn của các OP trên tinh thần tích cực không ba que xỏ lá nha.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Competitive_Luck5477"&gt; /u/Competitive_Luck5477 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oc3oya/việt_nam_hiện_tại_có_đang_bị_tình_trạng_đình_lạm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oc3oya/việt_nam_hiện_tại_có_đang_bị_tình_trạng_đình_lạm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1oc3oya/việt_nam_hiện_tại_có_đang_bị_tình_trạng_đình_lạm/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-22T06:55:11+00:00</published>
+    <published>2025-10-21T04:37:15+00:00</published>
   </entry>
   <entry>
     <id>t3_1ocguvu</id>
@@ -190,6 +164,32 @@
     <published>2025-10-22T06:27:13+00:00</published>
   </entry>
   <entry>
+    <id>t3_1od37ub</id>
+    <title>Cíu với: tôy thấy chú chó trắng bị bỏ rơi</title>
+    <updated>2025-10-22T09:05:20+00:00</updated>
+    <author>
+      <name>/u/Simple_Violinist_932</name>
+      <uri>https://old.reddit.com/user/Simple_Violinist_932</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1od37ub/cíu_với_tôy_thấy_chú_chó_trắng_bị_bỏ_rơi/"&gt; &lt;img alt="Cíu với: tôy thấy chú chó trắng bị bỏ rơi" src="https://external-preview.redd.it/aavBRjapZryBb19I_cLK_syOk5OpoS3Hx6Evkvk_EsY.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=289043b9628ea017ee2520902659d4f28b3aa735" title="Cíu với: tôy thấy chú chó trắng bị bỏ rơi" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em thấy bé ở CV Thống Nhất (hiện bé đang quanh bãi cỏ gần quán The Sipping Bar - vệ hồ gần cổng Xã Đàn) Bé đi vệ sinh rất nhiều (em thấy bé đánh dấu mấy lần rồi dù đi có một đoạn nửa cv) Bé rụng rất nhiều lông - chắc là do thiếu dinh dưỡng:(( Hiện tại em đi bộ một mình nên không có phương tiện hay dây xích hay gì để chở bé đi đây được ah huhuhu 😭 Em nên làm gì chứ cv đông người mà emcho cứ lủi thủi e sợ em ý bị bắt giềng xả / bỏ đói tới c.h.e.t wwa 😭&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Simple_Violinist_932"&gt; /u/Simple_Violinist_932 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://v.redd.it/end5hxpepmwf1"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1od37ub/cíu_với_tôy_thấy_chú_chó_trắng_bị_bỏ_rơi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1od37ub/cíu_với_tôy_thấy_chú_chó_trắng_bị_bỏ_rơi/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-22T09:05:20+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1od390y</id>
+    <title>Nvqs</title>
+    <updated>2025-10-22T09:07:19+00:00</updated>
+    <author>
+      <name>/u/DuongTienNguyen</name>
+      <uri>https://old.reddit.com/user/DuongTienNguyen</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em chào mọi người, nếu giả sử mình là top / bot ( thụ - công ) đi nghĩa vụ quân sự đi lính đi bộ thì vào trong lính cũ các anh thanh niên có cưng chiều kính trọng mình không? Mọi người cho em xin ít lời khuyên phải làm thế nào ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/DuongTienNguyen"&gt; /u/DuongTienNguyen &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1od390y/nvqs/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1od390y/nvqs/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1od390y/nvqs/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-22T09:07:19+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1ocvj9s</id>
     <title>Good at reading and writing English, but freeze up when speaking – any tips?</title>
     <updated>2025-10-22T01:47:15+00:00</updated>
@@ -216,19 +216,6 @@
     <published>2025-10-22T05:10:10+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ocyuke</id>
-    <title>Mình vừa đọc được bài post này. Liệu có công lý nào cho dì mình?</title>
-    <updated>2025-10-22T04:33:20+00:00</updated>
-    <author>
-      <name>/u/Real-Jackfruit-6214</name>
-      <uri>https://old.reddit.com/user/Real-Jackfruit-6214</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1ocyuke/mình_vừa_đọc_được_bài_post_này_liệu_có_công_lý/"&gt; &lt;img alt="Mình vừa đọc được bài post này. Liệu có công lý nào cho dì mình?" src="https://b.thumbs.redditmedia.com/iB4ZM4Rc02nqOHhESycvuvEmd8b89ES47-wkuba4EGU.jpg" title="Mình vừa đọc được bài post này. Liệu có công lý nào cho dì mình?" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="https://preview.redd.it/78l40g2dclwf1.png?width=1359&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=083dee75b497a7693a5e35c010aef7e9d17990cc"&gt;https://preview.redd.it/78l40g2dclwf1.png?width=1359&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=083dee75b497a7693a5e35c010aef7e9d17990cc&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Mình vừa lướt được cái bài viết này, và mình muốn chia sẻ về câu chuyện của dì mình.&lt;/p&gt; &lt;p&gt;Dì mình từ Mỹ về VN chơi vào năm 2019, và có bị lục mất 1000$ trong hành lí. Niêm phong bị xé rách ra luôn. Tuy nhiên khi phản ánh lên sân bay TSN thì chỉ nhận được câu trả lời là để bên em kiểm tra, xong rồi im bặc luôn. Gửi mail lên cho họ cũng không có phản hồi. Dì mình lên sân bay 3-4 lần để hỏi lại thì họ nói là không biết mất ở Mỹ hay VN, và dì mình khẳng định bên Mỹ không có chuyện lục hành lí. Có anh em nào làm trong sân bay cho mình hỏi quy trình khai báo mất tài sản trong hành lí khi đi sân bay quốc tế có được xử lí hay không?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Real-Jackfruit-6214"&gt; /u/Real-Jackfruit-6214 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ocyuke/mình_vừa_đọc_được_bài_post_này_liệu_có_công_lý/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ocyuke/mình_vừa_đọc_được_bài_post_này_liệu_có_công_lý/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ocyuke/mình_vừa_đọc_được_bài_post_này_liệu_có_công_lý/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-22T04:33:20+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1ocuu8y</id>
     <title>Chọn mua áo gió</title>
     <updated>2025-10-22T01:14:08+00:00</updated>
@@ -240,6 +227,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ocuu8y/chọn_mua_áo_gió/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-22T01:14:08+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ocyuke</id>
+    <title>Mình vừa đọc được bài post này. Liệu có công lý nào cho dì mình?</title>
+    <updated>2025-10-22T04:33:20+00:00</updated>
+    <author>
+      <name>/u/Real-Jackfruit-6214</name>
+      <uri>https://old.reddit.com/user/Real-Jackfruit-6214</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1ocyuke/mình_vừa_đọc_được_bài_post_này_liệu_có_công_lý/"&gt; &lt;img alt="Mình vừa đọc được bài post này. Liệu có công lý nào cho dì mình?" src="https://b.thumbs.redditmedia.com/iB4ZM4Rc02nqOHhESycvuvEmd8b89ES47-wkuba4EGU.jpg" title="Mình vừa đọc được bài post này. Liệu có công lý nào cho dì mình?" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="https://preview.redd.it/78l40g2dclwf1.png?width=1359&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=083dee75b497a7693a5e35c010aef7e9d17990cc"&gt;https://preview.redd.it/78l40g2dclwf1.png?width=1359&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=083dee75b497a7693a5e35c010aef7e9d17990cc&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Mình vừa lướt được cái bài viết này, và mình muốn chia sẻ về câu chuyện của dì mình.&lt;/p&gt; &lt;p&gt;Dì mình từ Mỹ về VN chơi vào năm 2019, và có bị lục mất 1000$ trong hành lí. Niêm phong bị xé rách ra luôn. Tuy nhiên khi phản ánh lên sân bay TSN thì chỉ nhận được câu trả lời là để bên em kiểm tra, xong rồi im bặc luôn. Gửi mail lên cho họ cũng không có phản hồi. Dì mình lên sân bay 3-4 lần để hỏi lại thì họ nói là không biết mất ở Mỹ hay VN, và dì mình khẳng định bên Mỹ không có chuyện lục hành lí. Có anh em nào làm trong sân bay cho mình hỏi quy trình khai báo mất tài sản trong hành lí khi đi sân bay quốc tế có được xử lí hay không?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Real-Jackfruit-6214"&gt; /u/Real-Jackfruit-6214 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ocyuke/mình_vừa_đọc_được_bài_post_này_liệu_có_công_lý/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ocyuke/mình_vừa_đọc_được_bài_post_này_liệu_có_công_lý/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ocyuke/mình_vừa_đọc_được_bài_post_này_liệu_có_công_lý/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-22T04:33:20+00:00</published>
   </entry>
   <entry>
     <id>t3_1ocyxrz</id>
@@ -268,19 +268,6 @@
     <published>2025-10-21T13:19:43+00:00</published>
   </entry>
   <entry>
-    <id>t3_1od2i2z</id>
-    <title>33t(M) và những dự định</title>
-    <updated>2025-10-22T08:18:54+00:00</updated>
-    <author>
-      <name>/u/pyVaTi_2509</name>
-      <uri>https://old.reddit.com/user/pyVaTi_2509</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hiện tại như mọi người cũng biết là giá nhà tăng quá mạnh, lương không theo kịp với giá nhà.&lt;/p&gt; &lt;p&gt;Mình cũng lớn tuổi rồi, nên mình và vợ dự định sẽ có bé trong năm nay. Hiện tại mình vừa mong chờ vừa lo lắng cho tương lai. Mong sớm có bé vì mình và vợ đã thấy đến lúc rồi. Lo thì vì không chắc có mình có lo được không thôi, vì thấy kinh tế sợ không lo chu toàn được cho hai mẹ con.&lt;/p&gt; &lt;p&gt;Mình vừa on job mới, thu nhập cũng tầm trung (gross 50, net ~42). Vợ mình thì làm online, thu nhập cũng đều đều 20 thôi. Mình thì đi làm xa nhà nên vợ chồng mình thuê nhà, mà thật ra cũng ko hợp ở chung ba mẹ nên làm gần cũng đi thuê thôi. &lt;/p&gt; &lt;p&gt;Hiện tại thì hai vợ chồng cũng không có bận tâm quá về tiền bạc. Nhưng bản thân mình thì cảm thấy không vững lắm. Khi nghĩ tới những dự định sau khi có con ( để vợ nghỉ ngơi nhiều hơn, mua nhà, chuẩn bị tài chính cho con,v.v) thì mình thấy áp lực.&lt;/p&gt; &lt;p&gt;Dạo này đi làm mình cứ loay hoay tìm thêm second job. Không biết mấy bạn nam có bị như mình khi có những dự đinh này không.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/pyVaTi_2509"&gt; /u/pyVaTi_2509 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1od2i2z/33tm_và_những_dự_định/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1od2i2z/33tm_và_những_dự_định/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1od2i2z/33tm_và_những_dự_định/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-22T08:18:54+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1ocywbo</id>
     <title>Bún thịt nướng 30k đây ư</title>
     <updated>2025-10-22T04:36:12+00:00</updated>
@@ -294,17 +281,17 @@
     <published>2025-10-22T04:36:12+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ocviqw</id>
-    <title>Có phải chúng ta đã đến thời đại mà không thể tin được 1 video thú vị trên mxh là thật không?</title>
-    <updated>2025-10-22T01:46:33+00:00</updated>
+    <id>t3_1od2i2z</id>
+    <title>33t(M) và những dự định</title>
+    <updated>2025-10-22T08:18:54+00:00</updated>
     <author>
-      <name>/u/only-huma</name>
-      <uri>https://old.reddit.com/user/only-huma</uri>
+      <name>/u/pyVaTi_2509</name>
+      <uri>https://old.reddit.com/user/pyVaTi_2509</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Thời gian gần đây mình thấy rất nhiều video từ cảm động rồi quay xe, thú cưng cứu người, người nỗi tiếng phát biểu khó tin, những hiện tượng kỳ lạ, tai nạn hài hước, thoát chết hy hữu... Gần như mọi bình luận điều sẽ nói do AI tạo ra.&lt;/p&gt; &lt;p&gt;Nếu là bạn thì bạn có phân biệt được thật giả không? Hay đã không còn tin nỗi nữa có 1 video thú vị là thật.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/only-huma"&gt; /u/only-huma &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ocviqw/co_phai_chung_ta_đa_đên_thơi_đai_ma_không_thê_tin/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ocviqw/co_phai_chung_ta_đa_đên_thơi_đai_ma_không_thê_tin/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ocviqw/co_phai_chung_ta_đa_đên_thơi_đai_ma_không_thê_tin/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hiện tại như mọi người cũng biết là giá nhà tăng quá mạnh, lương không theo kịp với giá nhà.&lt;/p&gt; &lt;p&gt;Mình cũng lớn tuổi rồi, nên mình và vợ dự định sẽ có bé trong năm nay. Hiện tại mình vừa mong chờ vừa lo lắng cho tương lai. Mong sớm có bé vì mình và vợ đã thấy đến lúc rồi. Lo thì vì không chắc có mình có lo được không thôi, vì thấy kinh tế sợ không lo chu toàn được cho hai mẹ con.&lt;/p&gt; &lt;p&gt;Mình vừa on job mới, thu nhập cũng tầm trung (gross 50, net ~42). Vợ mình thì làm online, thu nhập cũng đều đều 20 thôi. Mình thì đi làm xa nhà nên vợ chồng mình thuê nhà, mà thật ra cũng ko hợp ở chung ba mẹ nên làm gần cũng đi thuê thôi. &lt;/p&gt; &lt;p&gt;Hiện tại thì hai vợ chồng cũng không có bận tâm quá về tiền bạc. Nhưng bản thân mình thì cảm thấy không vững lắm. Khi nghĩ tới những dự định sau khi có con ( để vợ nghỉ ngơi nhiều hơn, mua nhà, chuẩn bị tài chính cho con,v.v) thì mình thấy áp lực.&lt;/p&gt; &lt;p&gt;Dạo này đi làm mình cứ loay hoay tìm thêm second job. Không biết mấy bạn nam có bị như mình khi có những dự đinh này không.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/pyVaTi_2509"&gt; /u/pyVaTi_2509 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1od2i2z/33tm_và_những_dự_định/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1od2i2z/33tm_và_những_dự_định/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1od2i2z/33tm_và_những_dự_định/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-22T01:46:33+00:00</published>
+    <published>2025-10-22T08:18:54+00:00</published>
   </entry>
   <entry>
     <id>t3_1ocwsqx</id>
@@ -318,6 +305,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ocwsqx/hỏi_nghiêm_túc_25_30_tuổi_thu_nhập_bao_nhiêu_được/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-22T02:48:43+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ocviqw</id>
+    <title>Có phải chúng ta đã đến thời đại mà không thể tin được 1 video thú vị trên mxh là thật không?</title>
+    <updated>2025-10-22T01:46:33+00:00</updated>
+    <author>
+      <name>/u/only-huma</name>
+      <uri>https://old.reddit.com/user/only-huma</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Thời gian gần đây mình thấy rất nhiều video từ cảm động rồi quay xe, thú cưng cứu người, người nỗi tiếng phát biểu khó tin, những hiện tượng kỳ lạ, tai nạn hài hước, thoát chết hy hữu... Gần như mọi bình luận điều sẽ nói do AI tạo ra.&lt;/p&gt; &lt;p&gt;Nếu là bạn thì bạn có phân biệt được thật giả không? Hay đã không còn tin nỗi nữa có 1 video thú vị là thật.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/only-huma"&gt; /u/only-huma &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ocviqw/co_phai_chung_ta_đa_đên_thơi_đai_ma_không_thê_tin/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ocviqw/co_phai_chung_ta_đa_đên_thơi_đai_ma_không_thê_tin/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ocviqw/co_phai_chung_ta_đa_đên_thơi_đai_ma_không_thê_tin/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-22T01:46:33+00:00</published>
   </entry>
   <entry>
     <id>t3_1ocx6q8</id>
