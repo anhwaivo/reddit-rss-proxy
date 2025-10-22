@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-10-22T15:51:12+00:00</updated>
+  <updated>2025-10-22T16:24:44+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1oc75mh</id>
-    <title>Tình yêu</title>
-    <updated>2025-10-21T08:10:26+00:00</updated>
-    <author>
-      <name>/u/navu6799</name>
-      <uri>https://old.reddit.com/user/navu6799</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Không biết mọi người có tin vào tình yêu không ạ, tin vào việc 2 người đến với nhau chỉ vì tình cảm sự rung động chứ không phải vì những tiêu chuẩn được gọi là “tốt” của xã hội hiện tại. Hãy nói với em là em không cô đơn khi tin vào tình yêu thuần tuý đi ạ 🥹🥹&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/navu6799"&gt; /u/navu6799 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oc75mh/tình_yêu/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oc75mh/tình_yêu/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1oc75mh/tình_yêu/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-21T08:10:26+00:00</published>
-  </entry>
   <entry>
     <id>t3_1ocdfa8</id>
     <title>Nhà có ông cậu báo</title>
@@ -164,19 +151,6 @@
     <published>2025-10-21T13:19:43+00:00</published>
   </entry>
   <entry>
-    <id>t3_1odaz5q</id>
-    <title>THI TUYỂN VÀO TRUNG TÂM DỮ LIỆU QUỐC GIA</title>
-    <updated>2025-10-22T15:11:58+00:00</updated>
-    <author>
-      <name>/u/Lazy_Tax_5389</name>
-      <uri>https://old.reddit.com/user/Lazy_Tax_5389</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;E thấy bài đăng tuyển dụng của trung tâm dữ liệu quốc gia trên báo CAND, e học CNTT mới ra trường có nguyện vọng tham gia llvt như gia đình. Bác nào đã từng ứng tuyển vào rồi cho e xin lời khuyên với mẹo với ạ. Ngoài ra e cũng phân vân khi nên làm bên an ninh hay cảnh sát, e cũng dự tính thi vb2 an ninh ạ. E cảm ơn các bác trước ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Lazy_Tax_5389"&gt; /u/Lazy_Tax_5389 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1odaz5q/thi_tuyển_vào_trung_tâm_dữ_liệu_quốc_gia/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1odaz5q/thi_tuyển_vào_trung_tâm_dữ_liệu_quốc_gia/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1odaz5q/thi_tuyển_vào_trung_tâm_dữ_liệu_quốc_gia/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-22T15:11:58+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1od5nst</id>
     <title>Nhờ mn tư vấn công việc và CV</title>
     <updated>2025-10-22T11:29:00+00:00</updated>
@@ -201,6 +175,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1od8yer/build_pc/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-22T13:55:22+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1odaz5q</id>
+    <title>THI TUYỂN VÀO TRUNG TÂM DỮ LIỆU QUỐC GIA</title>
+    <updated>2025-10-22T15:11:58+00:00</updated>
+    <author>
+      <name>/u/Lazy_Tax_5389</name>
+      <uri>https://old.reddit.com/user/Lazy_Tax_5389</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;E thấy bài đăng tuyển dụng của trung tâm dữ liệu quốc gia trên báo CAND, e học CNTT mới ra trường có nguyện vọng tham gia llvt như gia đình. Bác nào đã từng ứng tuyển vào rồi cho e xin lời khuyên với kinh nghiệm với ạ. Ngoài ra e cũng phân vân khi nên làm bên an ninh hay cảnh sát, e cũng dự tính thi vb2 an ninh ạ. E cảm ơn các bác trước ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Lazy_Tax_5389"&gt; /u/Lazy_Tax_5389 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1odaz5q/thi_tuyển_vào_trung_tâm_dữ_liệu_quốc_gia/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1odaz5q/thi_tuyển_vào_trung_tâm_dữ_liệu_quốc_gia/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1odaz5q/thi_tuyển_vào_trung_tâm_dữ_liệu_quốc_gia/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-22T15:11:58+00:00</published>
   </entry>
   <entry>
     <id>t3_1od9098</id>
@@ -229,19 +216,6 @@
     <published>2025-10-22T04:36:12+00:00</published>
   </entry>
   <entry>
-    <id>t3_1od7jzw</id>
-    <title>Ông bô ở nhà như thằng thần kinh</title>
-    <updated>2025-10-22T12:57:48+00:00</updated>
-    <author>
-      <name>/u/Valerie-2077</name>
-      <uri>https://old.reddit.com/user/Valerie-2077</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mn chuyện là nhà em đang lom om xòm quá nên e lên đây xin tý lời khuyên. Chuyện là bố e đêm hôm tự nhiên mở hòm sắt ra để kiểm tra thì thấy mất mấy cái vòng vàng vs bông tai của bà nội( cả mấy cái nhẫn riêng của mẹ e nữa) , thế là 1h đêm khùng điên lên chửi mẹ em ăn cắp ăn trộm, xong đòi sáng gọi công an tới nhà, trong khi lão còn ko có một cái chứng cứ hay bằng chứng nào mẹ em động vào cái hộp sắt đấy =)) (Lol trong khi đó mẹ em thì đi làm cả ngày, em thì cũng đi học nguyên ngày, anh em thì đã dọn ra ở riêng, cả nhà có đúng lão đấy ở nhà cả ngày ko làm j cả). Sáng hôm sau như ý ổng muốn thì mẹ xin nghỉ làm để lão đấy cho công an tới nhà và rất bất ngờ là ngồi cả ngày thì ko thấy bóng dáng anh ca nào đến cả. Lúc hỏi ca đâu thì ổng bảo là mấy bác trong nhà bảo ko báo ca nữa (mẹ em có gọi cho mấy bác trong nhà để mách chuyện trong nhà). Nhưng thay vì tìm lại, xem lý do tại sao nó mất hoặc ít nhất là họp gia đình lại để bàn chuyện bla,bla,... thì lão lại chọn tối ngày ngồi chửi, nguyền rủa cả giả đình mẹ em quả báo, chết chóc, xe đâm (nói chung có j xấu hoặc nguyền đc ổng nói hết). Thế là em cũng khùng lên chửi lại ổng bảo ổng có bằng chứng j mà chửi mẹ , e hỏi cũng phải cả chục lần nhưng như kiểu đàn gảy tai trâu vậy, lão chẳng trả lời mà cứ chửi mẹ e thôi, xong còn ra cả ngoài ngõ oang oang cái mồm lên chửi vs nguyền rủa mẹ e, hàng xóm cũng ra hỏi chuyện,khuyên ngăn vs phân tích lý do mất có thể là do lý do khác nữa nhưng lão cứ khăng khăng rằng mẹ e làm rồi bảo chuyện nhà tôi các thứ. Mấy hôm nay lão cứ chửi mẹ e, 1h đêm cũng gào mồm lên chửi. Thế là cứ mấy lần đấy em cũng phải gào mồm lên nói lại vs lão nên là nhà cửa lại um lên. Mẹ e cũng gọi công an đến nhà để khuyên ngăn rồi rồi nhưng họ bảo chuyện gia đình cãi nhau ko xử lý&lt;br /&gt; Mọi người có cách nào để giúp gđ e ko ạ T-T &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Valerie-2077"&gt; /u/Valerie-2077 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1od7jzw/ông_bô_ở_nhà_như_thằng_thần_kinh/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1od7jzw/ông_bô_ở_nhà_như_thằng_thần_kinh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1od7jzw/ông_bô_ở_nhà_như_thằng_thần_kinh/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-22T12:57:48+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1ocviqw</id>
     <title>Có phải chúng ta đã đến thời đại mà không thể tin được 1 video thú vị trên mxh là thật không?</title>
     <updated>2025-10-22T01:46:33+00:00</updated>
@@ -268,6 +242,19 @@
     <published>2025-10-22T04:33:20+00:00</published>
   </entry>
   <entry>
+    <id>t3_1odck5t</id>
+    <title>Mấy bác nghĩ sao về chuyện này</title>
+    <updated>2025-10-22T16:09:55+00:00</updated>
+    <author>
+      <name>/u/kitchcu</name>
+      <uri>https://old.reddit.com/user/kitchcu</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình có thằng em nay năm 3 nó đi làm thêm bên phục vụ nhà hàng tiệc cưới các kiểu gì đó, làm từ sáng tới tối khuya mới về mà kiếm được có 400k/ngày à. Mình thì có nói nó làm ba cái này phí thời gian mà làm cái gì, năm 3 rồi thì tập trung học tiếng anh để lấy bằng hay tìm việc thực tập nào đó liên quan đến chuyên ngành làm đi nhưng nó bỏ ngoài tai. Gia đình mình thì bình thường thôi nhưng vẫn có thể chu cấp tiền ăn hàng tháng hay tiền học cho nó được, mình thì cũng chỉ mới đi làm đây thôi và lo được tiền phòng và ăn cho 2 thằng nên mình nghĩ chả việc gì phải phí thời gian vô ba cái làm thêm vô bổ đó, mà giờ nó nhiêu đó tuổi rồi chả lẽ cứ nói hoài hay là vì bản thân mình chưa đi làm thêm bao giờ nên không hiểu gì đó ? &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/kitchcu"&gt; /u/kitchcu &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1odck5t/mấy_bác_nghĩ_sao_về_chuyện_này/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1odck5t/mấy_bác_nghĩ_sao_về_chuyện_này/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1odck5t/mấy_bác_nghĩ_sao_về_chuyện_này/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-22T16:09:55+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1ocx6q8</id>
     <title>kết luận rút ra sau mối tình đổ vỡ.</title>
     <updated>2025-10-22T03:07:50+00:00</updated>
@@ -292,6 +279,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ocwsqx/hỏi_nghiêm_túc_25_30_tuổi_thu_nhập_bao_nhiêu_được/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-22T02:48:43+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1od7jzw</id>
+    <title>Ông bô ở nhà như thằng thần kinh</title>
+    <updated>2025-10-22T12:57:48+00:00</updated>
+    <author>
+      <name>/u/Valerie-2077</name>
+      <uri>https://old.reddit.com/user/Valerie-2077</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mn chuyện là nhà em đang lom om xòm quá nên e lên đây xin tý lời khuyên. Chuyện là bố e đêm hôm tự nhiên mở hòm sắt ra để kiểm tra thì thấy mất mấy cái vòng vàng vs bông tai của bà nội( cả mấy cái nhẫn riêng của mẹ e nữa) , thế là 1h đêm khùng điên lên chửi mẹ em ăn cắp ăn trộm, xong đòi sáng gọi công an tới nhà, trong khi lão còn ko có một cái chứng cứ hay bằng chứng nào mẹ em động vào cái hộp sắt đấy =)) (Lol trong khi đó mẹ em thì đi làm cả ngày, em thì cũng đi học nguyên ngày, anh em thì đã dọn ra ở riêng, cả nhà có đúng lão đấy ở nhà cả ngày ko làm j cả). Sáng hôm sau như ý ổng muốn thì mẹ xin nghỉ làm để lão đấy cho công an tới nhà và rất bất ngờ là ngồi cả ngày thì ko thấy bóng dáng anh ca nào đến cả. Lúc hỏi ca đâu thì ổng bảo là mấy bác trong nhà bảo ko báo ca nữa (mẹ em có gọi cho mấy bác trong nhà để mách chuyện trong nhà). Nhưng thay vì tìm lại, xem lý do tại sao nó mất hoặc ít nhất là họp gia đình lại để bàn chuyện bla,bla,... thì lão lại chọn tối ngày ngồi chửi, nguyền rủa cả giả đình mẹ em quả báo, chết chóc, xe đâm (nói chung có j xấu hoặc nguyền đc ổng nói hết). Thế là em cũng khùng lên chửi lại ổng bảo ổng có bằng chứng j mà chửi mẹ , e hỏi cũng phải cả chục lần nhưng như kiểu đàn gảy tai trâu vậy, lão chẳng trả lời mà cứ chửi mẹ e thôi, xong còn ra cả ngoài ngõ oang oang cái mồm lên chửi vs nguyền rủa mẹ e, hàng xóm cũng ra hỏi chuyện,khuyên ngăn vs phân tích lý do mất có thể là do lý do khác nữa nhưng lão cứ khăng khăng rằng mẹ e làm rồi bảo chuyện nhà tôi các thứ. Mấy hôm nay lão cứ chửi mẹ e, 1h đêm cũng gào mồm lên chửi. Thế là cứ mấy lần đấy em cũng phải gào mồm lên nói lại vs lão nên là nhà cửa lại um lên. Mẹ e cũng gọi công an đến nhà để khuyên ngăn rồi rồi nhưng họ bảo chuyện gia đình cãi nhau ko xử lý&lt;br /&gt; Mọi người có cách nào để giúp gđ e ko ạ T-T &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Valerie-2077"&gt; /u/Valerie-2077 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1od7jzw/ông_bô_ở_nhà_như_thằng_thần_kinh/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1od7jzw/ông_bô_ở_nhà_như_thằng_thần_kinh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1od7jzw/ông_bô_ở_nhà_như_thằng_thần_kinh/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-22T12:57:48+00:00</published>
   </entry>
   <entry>
     <id>t3_1od5jnz</id>
