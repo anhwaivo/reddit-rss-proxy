@@ -2,37 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-10-23T04:42:46+00:00</updated>
+  <updated>2025-10-23T04:53:04+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1ocvj9s</id>
-    <title>Good at reading and writing English, but freeze up when speaking – any tips?</title>
-    <updated>2025-10-22T01:47:15+00:00</updated>
-    <author>
-      <name>/u/FreedomRegular4311</name>
-      <uri>https://old.reddit.com/user/FreedomRegular4311</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi everyone,&lt;/p&gt; &lt;p&gt;I’ve been working on my English because I’m hoping to study or work abroad. I can read books and write essays fairly well, but whenever I have to speak out loud—on a call, in an interview, or even just in casual conversation—I freeze. My sentences don’t flow, my tone sounds flat, and I lose confidence.&lt;/p&gt; &lt;p&gt;Here are some things I’ve tried:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Reading aloud and shadowing videos/podcasts&lt;/strong&gt; – helps with pronunciation, but doesn’t feel like real interaction.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Talking to myself in the mirror&lt;/strong&gt; – feels a bit awkward and doesn’t recreate the pressure of a real exchange.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Voice chats with friends&lt;/strong&gt; – fun, but friends rarely correct my pace or tone, and we can’t talk every day.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Despite all that, I still feel a big gap between understanding and speaking naturally.&lt;/p&gt; &lt;p&gt;For anyone who’s been in my shoes—especially other Vietnamese students or expats—what helped you build spoken fluency? Are there any conversation clubs or online groups you’d recommend? Did any daily exercises or routines make a difference?&lt;/p&gt; &lt;p&gt;Thanks for any advice you’re willing to share!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/FreedomRegular4311"&gt; /u/FreedomRegular4311 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ocvj9s/good_at_reading_and_writing_english_but_freeze_up/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ocvj9s/good_at_reading_and_writing_english_but_freeze_up/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ocvj9s/good_at_reading_and_writing_english_but_freeze_up/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-22T01:47:15+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1od6022</id>
-    <title>Có quán cơm Tấm nào ở Sài Gòn có giá dưới 25k không mọi người chứ quán cạnh nhà mình giá tăng lên 30k rồi ( Thật ra là tìm hiểu cho vui thôi).</title>
-    <updated>2025-10-22T11:46:48+00:00</updated>
-    <author>
-      <name>/u/pakaron</name>
-      <uri>https://old.reddit.com/user/pakaron</uri>
-    </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/pakaron"&gt; /u/pakaron &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1od6022/có_quán_cơm_tấm_nào_ở_sài_gòn_có_giá_dưới_25k/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1od6022/có_quán_cơm_tấm_nào_ở_sài_gòn_có_giá_dưới_25k/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1od6022/có_quán_cơm_tấm_nào_ở_sài_gòn_có_giá_dưới_25k/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-22T11:46:48+00:00</published>
-  </entry>
   <entry>
     <id>t3_1ocuu8y</id>
     <title>Chọn mua áo gió</title>
@@ -279,6 +253,32 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1od5jnz/cận_thị_đeo_kính_vẫn_phải_đi_nvqs/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-22T11:22:52+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1odu8h6</id>
+    <title>Code review</title>
+    <updated>2025-10-23T04:42:56+00:00</updated>
+    <author>
+      <name>/u/vandunxg</name>
+      <uri>https://old.reddit.com/user/vandunxg</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em chào các bác, em có đang build 1 project money tracking bằng Spring Boot. Project đang trong quá trình build. Các bác có thể xem qua code base của em cho em tí lời khuyên cải thiện cách code, optimize code nâng skill tí được không ạ. Em tính làm pet project để làm đồ án với thêm vào cv cho nổi bật đi xin việc. Link project : github.com/vandunxg/budgee Project đang trong quá trình build có 1 số phần em chưa push. Hiện tại các bác đọc branch dev nhé 😍&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/vandunxg"&gt; /u/vandunxg &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1odu8h6/code_review/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1odu8h6/code_review/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1odu8h6/code_review/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-23T04:42:56+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1odubzv</id>
+    <title>Đeo tai nghe open ear khi chạy xe máy?</title>
+    <updated>2025-10-23T04:48:38+00:00</updated>
+    <author>
+      <name>/u/TraditionalSun4117</name>
+      <uri>https://old.reddit.com/user/TraditionalSun4117</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Có ai đang sử dụng tai nghe open ear khi chạy xe máy không ạ? Hiện tại mình chạy xe chiều đi và chiều về tầm 2 tiếng nên muốn nghe nhạc hoặc podcast cho đỡ chán. Chọn Open ear cho an toàn vì nghe được âm thanh xung quanh. &lt;/p&gt; &lt;p&gt;Bác nào có kinh nghiệm rồi có thể recommend cho mình tai nghe nào phù hợp với ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/TraditionalSun4117"&gt; /u/TraditionalSun4117 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1odubzv/đeo_tai_nghe_open_ear_khi_chạy_xe_máy/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1odubzv/đeo_tai_nghe_open_ear_khi_chạy_xe_máy/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1odubzv/đeo_tai_nghe_open_ear_khi_chạy_xe_máy/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-23T04:48:38+00:00</published>
   </entry>
   <entry>
     <id>t3_1od2i2z</id>
