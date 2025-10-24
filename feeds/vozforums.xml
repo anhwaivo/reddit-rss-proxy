@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-10-24T06:26:46+00:00</updated>
+  <updated>2025-10-24T06:49:15+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
+  <entry>
+    <id>t3_1odxnsm</id>
+    <title>Làm UI/UX đôi khi không chỉ là “đẹp” hay “xấu</title>
+    <updated>2025-10-23T08:17:52+00:00</updated>
+    <author>
+      <name>/u/hangnguyen-bd</name>
+      <uri>https://old.reddit.com/user/hangnguyen-bd</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Có những ngày mình cảm thấy nghề UI/UX thật “mờ ảo” — không ai ngoài team thực sự hiểu mình đang làm gì 😅. Người thì nghĩ mình chỉ ngồi chọn màu, căn layout. Người khác lại bảo “UI/UX là vẽ app thôi mà, cần gì nghiên cứu dữ liệu Thực ra, thứ khiến mình yêu nghề này chính là cái cảm giác người dùng thấy dễ chịu khi sử dụng sản phẩm mình thiết kế. Đó là khoảnh khắc khi mình test prototype, thấy user mỉm cười vì tìm được thứ họ cần — không cần hướng dẫn, không cần hỏi ai. Nhưng cũng có lúc mệt mỏi: feedback vòng lặp, client đổi ý phút chót, hay những lần phải “chứng minh” vì sao button kia nên cách nhau đúng 8px 😅.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/hangnguyen-bd"&gt; /u/hangnguyen-bd &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1odxnsm/làm_uiux_đôi_khi_không_chỉ_là_đẹp_hay_xấu/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1odxnsm/làm_uiux_đôi_khi_không_chỉ_là_đẹp_hay_xấu/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1odxnsm/làm_uiux_đôi_khi_không_chỉ_là_đẹp_hay_xấu/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-23T08:17:52+00:00</published>
+  </entry>
   <entry>
     <id>t3_1odryb5</id>
     <title>Từ thiện</title>
@@ -45,19 +58,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1odxn2e/bệnh_thận/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-23T08:16:35+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1oenayr</id>
-    <title>Hỏi về kết nối MBBG trên kênh Telegram</title>
-    <updated>2025-10-24T03:24:30+00:00</updated>
-    <author>
-      <name>/u/badddddddddddddboy</name>
-      <uri>https://old.reddit.com/user/badddddddddddddboy</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình cũng ham lái mấy chị MB mà xem tiktok nó giới thiệu rùi dẫn qua trang Telegram, gửi thông tin xong đóng 900k phí mg. Có ae nào thử dịch vụ này chưa, có scam ko vậy. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/badddddddddddddboy"&gt; /u/badddddddddddddboy &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oenayr/hỏi_về_kết_nối_mbbg_trên_kênh_telegram/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oenayr/hỏi_về_kết_nối_mbbg_trên_kênh_telegram/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1oenayr/hỏi_về_kết_nối_mbbg_trên_kênh_telegram/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-24T03:24:30+00:00</published>
   </entry>
   <entry>
     <id>t3_1oe191l</id>
@@ -138,19 +138,6 @@
     <published>2025-10-23T08:45:34+00:00</published>
   </entry>
   <entry>
-    <id>t3_1odxts2</id>
-    <title>Khảo sát thị trường yêu đương dạo này</title>
-    <updated>2025-10-23T08:29:14+00:00</updated>
-    <author>
-      <name>/u/MammothHat1811</name>
-      <uri>https://old.reddit.com/user/MammothHat1811</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1odxts2/khảo_sát_thị_trường_yêu_đương_dạo_này/"&gt; &lt;img alt="Khảo sát thị trường yêu đương dạo này" src="https://b.thumbs.redditmedia.com/XcEA_N0Mbl_dVE5QhRm8FrN9hrS2J5w4-lKkZos3CDs.jpg" title="Khảo sát thị trường yêu đương dạo này" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;chào các bác, em có bồ cũng 3-4 năm rồi nên 3-4 năm đó cũng ko gia nhập thị trường hẹn hò, không biết bây giờ dating market ra sao, nhìn quanh cũng thấy cả zai lẫn gái vô vọng lắm haha, không khớp lệnh để nên duyên được. em cũng có vẻ như đang trong tình trạng đó.&lt;/p&gt; &lt;p&gt;hi vọng thời gian tới thị trường hẹn hò không +1 người chơi chứ em cũng nản với việc gây dựng thêm 1 mqh nữa để rồi ko chắc sẽ đi về đâu rồi.&lt;/p&gt; &lt;p&gt;các bác chia sẻ thêm nhé, em muốn lắng nghe ạ 🙌&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/MammothHat1811"&gt; /u/MammothHat1811 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1odxts2"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1odxts2/khảo_sát_thị_trường_yêu_đương_dạo_này/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1odxts2/khảo_sát_thị_trường_yêu_đương_dạo_này/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-23T08:29:14+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1odxbqk</id>
     <title>Nay vừa khám sơ tuyển VNQS về , thấy đeo kính, có vẻ vẫn không đủ nặng để trượt sơ tuyển.</title>
     <updated>2025-10-23T07:56:02+00:00</updated>
@@ -162,6 +149,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1odxbqk/nay_vừa_khám_sơ_tuyển_vnqs_về_thấy_đeo_kính_có_vẻ/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-23T07:56:02+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1odxts2</id>
+    <title>Khảo sát thị trường yêu đương dạo này</title>
+    <updated>2025-10-23T08:29:14+00:00</updated>
+    <author>
+      <name>/u/MammothHat1811</name>
+      <uri>https://old.reddit.com/user/MammothHat1811</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1odxts2/khảo_sát_thị_trường_yêu_đương_dạo_này/"&gt; &lt;img alt="Khảo sát thị trường yêu đương dạo này" src="https://b.thumbs.redditmedia.com/XcEA_N0Mbl_dVE5QhRm8FrN9hrS2J5w4-lKkZos3CDs.jpg" title="Khảo sát thị trường yêu đương dạo này" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;chào các bác, em có bồ cũng 3-4 năm rồi nên 3-4 năm đó cũng ko gia nhập thị trường hẹn hò, không biết bây giờ dating market ra sao, nhìn quanh cũng thấy cả zai lẫn gái vô vọng lắm haha, không khớp lệnh để nên duyên được. em cũng có vẻ như đang trong tình trạng đó.&lt;/p&gt; &lt;p&gt;hi vọng thời gian tới thị trường hẹn hò không +1 người chơi chứ em cũng nản với việc gây dựng thêm 1 mqh nữa để rồi ko chắc sẽ đi về đâu rồi.&lt;/p&gt; &lt;p&gt;các bác chia sẻ thêm nhé, em muốn lắng nghe ạ 🙌&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/MammothHat1811"&gt; /u/MammothHat1811 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1odxts2"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1odxts2/khảo_sát_thị_trường_yêu_đương_dạo_này/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1odxts2/khảo_sát_thị_trường_yêu_đương_dạo_này/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-23T08:29:14+00:00</published>
   </entry>
   <entry>
     <id>t3_1oeok8j</id>
@@ -201,19 +201,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1oepq04/có_ai_đây_mua_qua_graphic_card_ko/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-24T05:41:58+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1oeq68p</id>
-    <title>Có cách nào xem được FPT Play trên TV ở nước ngoài không</title>
-    <updated>2025-10-24T06:10:01+00:00</updated>
-    <author>
-      <name>/u/VuLoc1609</name>
-      <uri>https://old.reddit.com/user/VuLoc1609</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người,&lt;/p&gt; &lt;p&gt;Mình đang sống ở Úc, và muốn xem FPT Play (chủ yếu để coi NBA và mấy kênh Việt Nam).&lt;/p&gt; &lt;p&gt;Mình đã thử bật ExpressVPN trên TV và đã check IP ở Việt Nam rồi nhưng khi mở app FPT Play thì vẫn không xem được.&lt;/p&gt; &lt;p&gt;Cho mình hỏi có ai từng gặp trường hợp tương tự chưa và có cách nào fix không ạ. Mình cảm ơn&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/VuLoc1609"&gt; /u/VuLoc1609 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oeq68p/có_cách_nào_xem_được_fpt_play_trên_tv_ở_nước/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oeq68p/có_cách_nào_xem_được_fpt_play_trên_tv_ở_nước/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1oeq68p/có_cách_nào_xem_được_fpt_play_trên_tv_ở_nước/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-24T06:10:01+00:00</published>
   </entry>
   <entry>
     <id>t3_1oe36vm</id>
@@ -292,6 +279,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1oe7qlr/nhờ_tư_vấn_tài_chính/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-23T16:21:33+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1oeq68p</id>
+    <title>Có cách nào xem được FPT Play trên TV ở nước ngoài không</title>
+    <updated>2025-10-24T06:10:01+00:00</updated>
+    <author>
+      <name>/u/VuLoc1609</name>
+      <uri>https://old.reddit.com/user/VuLoc1609</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người,&lt;/p&gt; &lt;p&gt;Mình đang sống ở Úc, và muốn xem FPT Play (chủ yếu để coi NBA và mấy kênh Việt Nam).&lt;/p&gt; &lt;p&gt;Mình đã thử bật ExpressVPN trên TV và đã check IP ở Việt Nam rồi nhưng khi mở app FPT Play thì vẫn không xem được.&lt;/p&gt; &lt;p&gt;Cho mình hỏi có ai từng gặp trường hợp tương tự chưa và có cách nào fix không ạ. Mình cảm ơn&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/VuLoc1609"&gt; /u/VuLoc1609 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oeq68p/có_cách_nào_xem_được_fpt_play_trên_tv_ở_nước/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oeq68p/có_cách_nào_xem_được_fpt_play_trên_tv_ở_nước/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1oeq68p/có_cách_nào_xem_được_fpt_play_trên_tv_ở_nước/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-24T06:10:01+00:00</published>
   </entry>
   <entry>
     <id>t3_1oe3c49</id>
