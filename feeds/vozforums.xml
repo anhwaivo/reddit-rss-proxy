@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-10-25T17:40:39+00:00</updated>
+  <updated>2025-10-25T17:50:49+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1of0ikc</id>
-    <title>Có bác nào yêu công việc hiện tại không?</title>
-    <updated>2025-10-24T15:17:26+00:00</updated>
-    <author>
-      <name>/u/borjiginnergui</name>
-      <uri>https://old.reddit.com/user/borjiginnergui</uri>
-    </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/borjiginnergui"&gt; /u/borjiginnergui &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1of0ikc/có_bác_nào_yêu_công_việc_hiện_tại_không/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1of0ikc/có_bác_nào_yêu_công_việc_hiện_tại_không/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1of0ikc/có_bác_nào_yêu_công_việc_hiện_tại_không/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-24T15:17:26+00:00</published>
-  </entry>
   <entry>
     <id>t3_1ofp4ku</id>
     <title>Web kiwi chấm com có uy tín để mua vé máy bay không ạ?</title>
@@ -190,6 +177,19 @@
     <published>2025-10-25T17:35:39+00:00</published>
   </entry>
   <entry>
+    <id>t3_1ofxsfh</id>
+    <title>Tìm điếu cày ở Sài Gòn</title>
+    <updated>2025-10-25T17:45:25+00:00</updated>
+    <author>
+      <name>/u/sigtrovert</name>
+      <uri>https://old.reddit.com/user/sigtrovert</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;e chào các bác, tình hình là e vừa mới vào sgon mà thèm tlao quá. Em có mang tlao theo rùi nma nghe bảo là trong này hiếm có điếu cày nên em muốn hỏi các bác xem có chỗ nào cf có điếu cày để e qua dịu nhẹ cơn nghiện với ạ. Em cảm ơn các bác nhìu 😘&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/sigtrovert"&gt; /u/sigtrovert &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ofxsfh/tìm_điếu_cày_ở_sài_gòn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ofxsfh/tìm_điếu_cày_ở_sài_gòn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ofxsfh/tìm_điếu_cày_ở_sài_gòn/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-25T17:45:25+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1ofw6xy</id>
     <title>Tò mò tử vi</title>
     <updated>2025-10-25T16:41:57+00:00</updated>
@@ -255,19 +255,6 @@
     <published>2025-10-25T01:53:06+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ofx2q0</id>
-    <title>Các bạn có ai có bố là già dơ ko?</title>
-    <updated>2025-10-25T17:16:59+00:00</updated>
-    <author>
-      <name>/u/Top-Protection-902</name>
-      <uri>https://old.reddit.com/user/Top-Protection-902</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mng, hnay mình muốn chia sẻ chuyện này vs mng, mình cần lời khuyên và lời động viên. &lt;/p&gt; &lt;p&gt;Bố mình là 1 người hèn hạ, tính cách ích kỉ, tham lam và xấu xa, chắc chỉ còn thiếu sự bạo lực là thành combo người xấu toàn diện từ trong ra ngoài (thật ra hồi nhỏ ổng cũng có tát/đánh 2 chị của mình 1 vài lần). Từ khi mình còn nhỏ đã thấy ổng thường xuyên chửi mẹ mình như chó, hay sai khiến, chơi vs bạn bè thì ổng lợi dụng/sai khiến người ta (nên bây h ổng ko còn 1 người bạn, chỉ còn mấy thằng chơi lợi dụng ổng). Mình tự tin khẳng định là ông này có thể bị bệnh narcissistic thật. Để kể thêm tính xấu của ổng thì khá là nhiều nên mình chỉ kể sơ. Đỉnh điểm là ổng ngoại tình vài năm trước, và mới đây mình và mẹ có phát hiện ổng ngoại tình nữa vs người khác. Ông này kiểu già dơ, đã 60t mà ngày nào cũng coi hình gái sexy mông to ngực bự. &lt;/p&gt; &lt;p&gt;Chuyện là dù ổng tính cách xấu như vậy, mẹ mình cũng đã nói mồm nhiều lần là bả &amp;quot;sẽ&amp;quot; ly dị ổng, nói từ thời xưa vài năm trước nhưng chưa bao h thành hiện thực. Mẹ mình từ xưa lúc phát hiện ổng ngoại tình thì như kiểu hóa điên, sụt kí hẳn, nhìn đen hơn, hành xử thì như mấy đứa cấp 2 lúc ghen tuông. Do thời đại mxh, nên đa phần là 3 người này drama trên fb/zalo, thật sự mình nhìn mà thấy thất vọng, hành xử còn tệ hơn 1 số đứa con nít mới lớn. &lt;/p&gt; &lt;p&gt;Mình có 2 chị gái lớn, mình là con út, ổng thương mình nhiều nhất chỉ vì mình nhìn bên ngoài giống ổng nhất (narcissism.....). Mình cảm thấy việc ổng là người chồng, người cha tệ là đã tổn thương con cái rất nhiều. Mình thật sự thất vọng khi mẹ mình miệng luôn nói sẽ ly dị nhưng chưa bao h hành động, và điều này làm mình cảm thấy bà sẽ ko bao h &amp;quot;chọn&amp;quot; con cái của bà. &lt;/p&gt; &lt;p&gt;Mình biết phụ nữ ở vn thời xưa thì hay kiểu dù chồng tệ nhưng vẫn ko bao h bỏ, để mặc con cái cuộc sống tệ hại vẫn ở chung vs thằng chồng đó. Mẹ mình nắm tiền bạc nên ko phải do sợ ly dị thì ko có tiền sống. Thật sự là công mẹ mình làm ra tiền là đa số, nhưng ông này lúc nào cũng bô bô cái miệng lấy credits. &lt;/p&gt; &lt;p&gt;Năm sau mình 29t và có kế hoạch dọn ra, dọn hẳn ko phải ở chung 1 đất nước vs nhà mình luôn ấy. Mình biết thế nào 2 ông bà cũng sẽ ngăn cản mình, cái này nghe hơi creepy nhưng 2 ông bà muốn ở vs mình mãi mãi. Mình kiểu thích sống tự do từ nhỏ, nghe câu này là sợ chết khiếp. Mình có ý định nói vs mẹ là 1 là bà phải ly dị ổng, 2 là mất liên lạc vs mình mãi mãi. Sau khi đi trị tâm lý thì mình cũng đã dần chấp nhận là mẹ mình chắc sẽ ko bao h &amp;quot;chọn&amp;quot; sự yên bình cho con cái của bà. Và nếu bà vẫn chọn ổng thì mình thấy mình cũng chẳng thật sự mất gì.&lt;/p&gt; &lt;p&gt;Cảm ơn các bạn đã lắng nghe mình. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Top-Protection-902"&gt; /u/Top-Protection-902 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ofx2q0/các_bạn_có_ai_có_bố_là_già_dơ_ko/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ofx2q0/các_bạn_có_ai_có_bố_là_già_dơ_ko/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ofx2q0/các_bạn_có_ai_có_bố_là_già_dơ_ko/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-25T17:16:59+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1ofo3wb</id>
     <title>Có cách nào để vượt qua khủng hoảng không</title>
     <updated>2025-10-25T10:21:57+00:00</updated>
@@ -305,6 +292,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ofpgf7/virber_dating/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-25T11:43:39+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ofx2q0</id>
+    <title>Các bạn có ai có bố là già dơ ko?</title>
+    <updated>2025-10-25T17:16:59+00:00</updated>
+    <author>
+      <name>/u/Top-Protection-902</name>
+      <uri>https://old.reddit.com/user/Top-Protection-902</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mng, hnay mình muốn chia sẻ chuyện này vs mng, mình cần lời khuyên và lời động viên. &lt;/p&gt; &lt;p&gt;Bố mình là 1 người hèn hạ, tính cách ích kỉ, tham lam và xấu xa, chắc chỉ còn thiếu sự bạo lực là thành combo người xấu toàn diện từ trong ra ngoài (thật ra hồi nhỏ ổng cũng có tát/đánh 2 chị của mình 1 vài lần). Từ khi mình còn nhỏ đã thấy ổng thường xuyên chửi mẹ mình như chó, hay sai khiến, chơi vs bạn bè thì ổng lợi dụng/sai khiến người ta (nên bây h ổng ko còn 1 người bạn, chỉ còn mấy thằng chơi lợi dụng ổng). Mình tự tin khẳng định là ông này có thể bị bệnh narcissistic thật. Để kể thêm tính xấu của ổng thì khá là nhiều nên mình chỉ kể sơ. Đỉnh điểm là ổng ngoại tình vài năm trước, và mới đây mình và mẹ có phát hiện ổng ngoại tình nữa vs người khác. Ông này kiểu già dơ, đã 60t mà ngày nào cũng coi hình gái sexy mông to ngực bự. &lt;/p&gt; &lt;p&gt;Chuyện là dù ổng tính cách xấu như vậy, mẹ mình cũng đã nói mồm nhiều lần là bả &amp;quot;sẽ&amp;quot; ly dị ổng, nói từ thời xưa vài năm trước nhưng chưa bao h thành hiện thực. Mẹ mình từ xưa lúc phát hiện ổng ngoại tình thì như kiểu hóa điên, sụt kí hẳn, nhìn đen hơn, hành xử thì như mấy đứa cấp 2 lúc ghen tuông. Do thời đại mxh, nên đa phần là 3 người này drama trên fb/zalo, thật sự mình nhìn mà thấy thất vọng, hành xử còn tệ hơn 1 số đứa con nít mới lớn. &lt;/p&gt; &lt;p&gt;Mình có 2 chị gái lớn, mình là con út, ổng thương mình nhiều nhất chỉ vì mình nhìn bên ngoài giống ổng nhất (narcissism.....). Mình cảm thấy việc ổng là người chồng, người cha tệ là đã tổn thương con cái rất nhiều. Mình thật sự thất vọng khi mẹ mình miệng luôn nói sẽ ly dị nhưng chưa bao h hành động, và điều này làm mình cảm thấy bà sẽ ko bao h &amp;quot;chọn&amp;quot; con cái của bà. &lt;/p&gt; &lt;p&gt;Mình biết phụ nữ ở vn thời xưa thì hay kiểu dù chồng tệ nhưng vẫn ko bao h bỏ, để mặc con cái cuộc sống tệ hại vẫn ở chung vs thằng chồng đó. Mẹ mình nắm tiền bạc nên ko phải do sợ ly dị thì ko có tiền sống. Thật sự là công mẹ mình làm ra tiền là đa số, nhưng ông này lúc nào cũng bô bô cái miệng lấy credits. &lt;/p&gt; &lt;p&gt;Năm sau mình 29t và có kế hoạch dọn ra, dọn hẳn ko phải ở chung 1 đất nước vs nhà mình luôn ấy. Mình biết thế nào 2 ông bà cũng sẽ ngăn cản mình, cái này nghe hơi creepy nhưng 2 ông bà muốn ở vs mình mãi mãi. Mình kiểu thích sống tự do từ nhỏ, nghe câu này là sợ chết khiếp. Mình có ý định nói vs mẹ là 1 là bà phải ly dị ổng, 2 là mất liên lạc vs mình mãi mãi. Sau khi đi trị tâm lý thì mình cũng đã dần chấp nhận là mẹ mình chắc sẽ ko bao h &amp;quot;chọn&amp;quot; sự yên bình cho con cái của bà. Và nếu bà vẫn chọn ổng thì mình thấy mình cũng chẳng thật sự mất gì.&lt;/p&gt; &lt;p&gt;Cảm ơn các bạn đã lắng nghe mình. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Top-Protection-902"&gt; /u/Top-Protection-902 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ofx2q0/các_bạn_có_ai_có_bố_là_già_dơ_ko/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ofx2q0/các_bạn_có_ai_có_bố_là_già_dơ_ko/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ofx2q0/các_bạn_có_ai_có_bố_là_già_dơ_ko/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-25T17:16:59+00:00</published>
   </entry>
   <entry>
     <id>t3_1ofkapt</id>
