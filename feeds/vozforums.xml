@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-10-26T05:39:32+00:00</updated>
+  <updated>2025-10-26T05:50:08+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -32,6 +32,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ofxjnj/khám_bệnh_trái_tuyến/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-25T17:35:39+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ofz4y8</id>
+    <title>Xin chút lời khuyên</title>
+    <updated>2025-10-25T18:39:17+00:00</updated>
+    <author>
+      <name>/u/trungphan-155</name>
+      <uri>https://old.reddit.com/user/trungphan-155</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi mn, em là M 23 hiện đã ra trường được 1 năm và cũng đi làm, về căn bản thì hiện tại tình hình bản thân đang ở mức cảm thấy không ổn lắm, sau khi tốt nghiệp kiếm được việc làm thì e nhận ra là mình không có bạn bè mọi người ạ, lúc đầu thì thấy việc này khá bình thường và có vẻ không có j nghiêm trọng nhưng vài tháng gần đây thì e bắt đầu cảm thấy thiếu thốn vcl, đi làm từ sáng tới tối rồi về nhà, cuối tuần thì không có gì làm cứ thế lặp đi lặp lại, bản thân hiện tại thì có vẻ cũng mất dần kỹ năng xã giao ấy, em quên mất lần cuối mà mình cùng một người bạn nói chuyện với nhau là như thế nào rồi, đi làm suốt ngày nghe đồng nghiệp nói về chuyện đi ăn, đi chơi với bạn bè họ thế này thế kia mà e ghen tị, (không ngờ có ngày cái thứ căn bản như vậy mà e cũng thấy ganh tị ), nghĩ đi nghĩ lại thì thấy việc kết bạn sao khi không còn đi học nữa khó vãi ra, một ngày đi làm từ sáng tới tối như vậy thì kiếm đâu ra mqh mới ,lúc lên đại học thì mấy đứa cấp 3 ko còn chung trường , còn đh thì toàn đăng ký khác lớp nên cũng ko có đứa nào quen cố định, tính cách bản thân thì hướng nội đang cố gắng cải thiện lắm rồi nhưng ngặt nổi đéo có ai ngoài luồng để mà xả giao ấy, đồng nghiệp thì toàn nữ nên e cũng không rủ họ đi chơi đc 🙄trong chỗ làm thì toàn nói chuyện cv , gia đình gọi video thì toàn nói mấy cái chuyện drama dưới quê em thì nghe phát ngán nên cũng ko care , thề luôn không ngờ có ngày bản thân lại cảm thấy cô đơn đến mức này mn ạ . E đăng lên muốn xin mn lời khuyên nên giải quyết thế nào ạ, chứ hiện e cảm thấy chán cảnh này lắm r, khó khăn đéo chịu đc. E cảm ơn. &lt;/p&gt; &lt;p&gt;Ps: văn phong lần đầu tiên viết bài nên nó không chỉnh chu mn thông cảm&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/trungphan-155"&gt; /u/trungphan-155 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ofz4y8/xin_chút_lời_khuyên/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ofz4y8/xin_chút_lời_khuyên/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ofz4y8/xin_chút_lời_khuyên/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-25T18:39:17+00:00</published>
   </entry>
   <entry>
     <id>t3_1og0wmc</id>
@@ -71,19 +84,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ofx2oq/cần_vay_thế_chấp_lãi_suất_tốt/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-25T17:16:57+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1ofz4y8</id>
-    <title>Xin chút lời khuyên</title>
-    <updated>2025-10-25T18:39:17+00:00</updated>
-    <author>
-      <name>/u/trungphan-155</name>
-      <uri>https://old.reddit.com/user/trungphan-155</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi mn, em là M 23 hiện đã ra trường được 1 năm và cũng đi làm, về căn bản thì hiện tại tình hình bản thân đang ở mức cảm thấy không ổn lắm, sau khi tốt nghiệp kiếm được việc làm thì e nhận ra là mình không có bạn bè mọi người ạ, lúc đầu thì thấy việc này khá bình thường và có vẻ không có j nghiêm trọng nhưng vài tháng gần đây thì e bắt đầu cảm thấy thiếu thốn vcl, đi làm từ sáng tới tối rồi về nhà, cuối tuần thì không có gì làm cứ thế lặp đi lặp lại, bản thân hiện tại thì có vẻ cũng mất dần kỹ năng xã giao ấy, em quên mất lần cuối mà mình cùng một người bạn nói chuyện với nhau là như thế nào rồi, đi làm suốt ngày nghe đồng nghiệp nói về chuyện đi ăn, đi chơi với bạn bè họ thế này thế kia mà e ghen tị, (không ngờ có ngày cái thứ căn bản như vậy mà e cũng thấy ganh tị ), nghĩ đi nghĩ lại thì thấy việc kết bạn sao khi không còn đi học nữa khó vãi ra, một ngày đi làm từ sáng tới tối như vậy thì kiếm đâu ra mqh mới ,lúc lên đại học thì mấy đứa cấp 3 ko còn chung trường , còn đh thì toàn đăng ký khác lớp nên cũng ko có đứa nào quen cố định, tính cách bản thân thì hướng nội đang cố gắng cải thiện lắm rồi nhưng ngặt nổi đéo có ai ngoài luồng để mà xả giao ấy, đồng nghiệp thì toàn nữ nên e cũng không rủ họ đi chơi đc 🙄trong chỗ làm thì toàn nói chuyện cv , gia đình gọi video thì toàn nói mấy cái chuyện drama dưới quê em thì nghe phát ngán nên cũng ko care , thề luôn không ngờ có ngày bản thân lại cảm thấy cô đơn đến mức này mn ạ . E đăng lên muốn xin mn lời khuyên nên giải quyết thế nào ạ, chứ hiện e cảm thấy chán cảnh này lắm r, khó khăn đéo chịu đc. E cảm ơn. &lt;/p&gt; &lt;p&gt;Ps: văn phong lần đầu tiên viết bài nên nó không chỉnh chu mn thông cảm&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/trungphan-155"&gt; /u/trungphan-155 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ofz4y8/xin_chút_lời_khuyên/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ofz4y8/xin_chút_lời_khuyên/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ofz4y8/xin_chút_lời_khuyên/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-25T18:39:17+00:00</published>
   </entry>
   <entry>
     <id>t3_1offq9t</id>
@@ -151,19 +151,6 @@
     <published>2025-10-26T00:00:38+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ogb0ze</id>
-    <title>xin tư vấn xe</title>
-    <updated>2025-10-26T03:58:02+00:00</updated>
-    <author>
-      <name>/u/Mindless-Location-39</name>
-      <uri>https://old.reddit.com/user/Mindless-Location-39</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;chào mọi người,&lt;/p&gt; &lt;p&gt;mẹ mình có đang chạy chiếc wave rsx. Nhà mình có bậc tam cấp nên việc dắt xe số lên xuống cũng nặng và một phần mẹ cũng lớn tuổi u70 rồi.&lt;/p&gt; &lt;p&gt;mình đang tò mò về xe đạp điện để mẹ chạy trong khoảng cách gần, đi chợ.. nhưng nghe bảo dễ hỏng vặt mình. các bạn cho mình xin lời khuyên nhé và nếu được cho mình gợi ý vài hãng luôn ạ.&lt;/p&gt; &lt;p&gt;cám ơn mọi người nhiều ! &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Mindless-Location-39"&gt; /u/Mindless-Location-39 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ogb0ze/xin_tư_vấn_xe/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ogb0ze/xin_tư_vấn_xe/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ogb0ze/xin_tư_vấn_xe/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-26T03:58:02+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1ofpgf7</id>
     <title>Virber dating</title>
     <updated>2025-10-25T11:43:39+00:00</updated>
@@ -229,17 +216,17 @@
     <published>2025-10-25T06:17:11+00:00</published>
   </entry>
   <entry>
-    <id>t3_1og8u7q</id>
-    <title>Muốn làm Business Analyst thì nên học ngành đại học nào ạ?</title>
-    <updated>2025-10-26T01:59:48+00:00</updated>
+    <id>t3_1ogb0ze</id>
+    <title>xin tư vấn xe</title>
+    <updated>2025-10-26T03:58:02+00:00</updated>
     <author>
-      <name>/u/thisisayumu</name>
-      <uri>https://old.reddit.com/user/thisisayumu</uri>
+      <name>/u/Mindless-Location-39</name>
+      <uri>https://old.reddit.com/user/Mindless-Location-39</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi mọi người, em là 1 học sinh lớp 12, học chuyên Anh và IELTS 7.0&lt;/p&gt; &lt;p&gt;Em chỉ giỏi Toán ở tầm trung (cỡ 8 điểm)&lt;/p&gt; &lt;p&gt;Em có hứng thú với kinh tế, thích tham gia các cuộc thi debate, và thích phân tích, dự đoán xu hướng của thị trường (vàng, xăng dầu...)&lt;/p&gt; &lt;p&gt;Em muốn làm Business Analyst nhưng không biết những kỹ năng thực sự mà 1 BA cần là gì ạ&lt;/p&gt; &lt;p&gt;Em thấy BA vừa cần kỹ năng IT, Marketing, Data Science, và nhiều kỹ năng khác nữa nên em phân vân ngành gì là đầy đủ các kỹ năng nhất ạ&lt;/p&gt; &lt;p&gt;Mong các anh/chị/cô/chú sẽ giải đáp thắc mắc của em ạ, em cảm ơn mọi người nhiều ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/thisisayumu"&gt; /u/thisisayumu &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1og8u7q/muốn_làm_business_analyst_thì_nên_học_ngành_đại/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1og8u7q/muốn_làm_business_analyst_thì_nên_học_ngành_đại/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1og8u7q/muốn_làm_business_analyst_thì_nên_học_ngành_đại/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;chào mọi người,&lt;/p&gt; &lt;p&gt;mẹ mình có đang chạy chiếc wave rsx. Nhà mình có bậc tam cấp nên việc dắt xe số lên xuống cũng nặng và một phần mẹ cũng lớn tuổi u70 rồi.&lt;/p&gt; &lt;p&gt;mình đang tò mò về xe đạp điện để mẹ chạy trong khoảng cách gần, đi chợ.. nhưng nghe bảo dễ hỏng vặt mình. các bạn cho mình xin lời khuyên nhé và nếu được cho mình gợi ý vài hãng luôn ạ.&lt;/p&gt; &lt;p&gt;cám ơn mọi người nhiều ! &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Mindless-Location-39"&gt; /u/Mindless-Location-39 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ogb0ze/xin_tư_vấn_xe/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ogb0ze/xin_tư_vấn_xe/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ogb0ze/xin_tư_vấn_xe/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-26T01:59:48+00:00</published>
+    <published>2025-10-26T03:58:02+00:00</published>
   </entry>
   <entry>
     <id>t3_1og5mnd</id>
@@ -253,19 +240,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1og5mnd/sống_trong_khu_dân_trí_thấp/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-25T23:19:26+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1og1hmi</id>
-    <title>Bầu cử tại VN</title>
-    <updated>2025-10-25T20:16:16+00:00</updated>
-    <author>
-      <name>/u/familyfriendlyvnmese</name>
-      <uri>https://old.reddit.com/user/familyfriendlyvnmese</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Có phải bầu cử ở Việt Nam hoàn toàn chỉ cho có lệ? T thấy mỗi mùa bầu cử dân tình ít bàn tán, thậm chí còn kém xôm hơn bầu cử Mỹ. T biết chủ yếu do Đảng quyết định, cơ mà có phải phiếu bầu tại VN hoàn toàn vô giá trị?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/familyfriendlyvnmese"&gt; /u/familyfriendlyvnmese &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1og1hmi/bầu_cử_tại_vn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1og1hmi/bầu_cử_tại_vn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1og1hmi/bầu_cử_tại_vn/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-25T20:16:16+00:00</published>
   </entry>
   <entry>
     <id>t3_1ogbeps</id>
@@ -292,6 +266,32 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ofl1uo/có_ai_để_ý_kể_từ_sau_cái_hội_nghị_kol_tháng_8_các/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-25T07:03:48+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1og8u7q</id>
+    <title>Muốn làm Business Analyst thì nên học ngành đại học nào ạ?</title>
+    <updated>2025-10-26T01:59:48+00:00</updated>
+    <author>
+      <name>/u/thisisayumu</name>
+      <uri>https://old.reddit.com/user/thisisayumu</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi mọi người, em là 1 học sinh lớp 12, học chuyên Anh và IELTS 7.0&lt;/p&gt; &lt;p&gt;Em chỉ giỏi Toán ở tầm trung (cỡ 8 điểm)&lt;/p&gt; &lt;p&gt;Em có hứng thú với kinh tế, thích tham gia các cuộc thi debate, và thích phân tích, dự đoán xu hướng của thị trường (vàng, xăng dầu...)&lt;/p&gt; &lt;p&gt;Em muốn làm Business Analyst nhưng không biết những kỹ năng thực sự mà 1 BA cần là gì ạ&lt;/p&gt; &lt;p&gt;Em thấy BA vừa cần kỹ năng IT, Marketing, Data Science, và nhiều kỹ năng khác nữa nên em phân vân ngành gì là đầy đủ các kỹ năng nhất ạ&lt;/p&gt; &lt;p&gt;Mong các anh/chị/cô/chú sẽ giải đáp thắc mắc của em ạ, em cảm ơn mọi người nhiều ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/thisisayumu"&gt; /u/thisisayumu &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1og8u7q/muốn_làm_business_analyst_thì_nên_học_ngành_đại/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1og8u7q/muốn_làm_business_analyst_thì_nên_học_ngành_đại/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1og8u7q/muốn_làm_business_analyst_thì_nên_học_ngành_đại/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-26T01:59:48+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1og1hmi</id>
+    <title>Bầu cử tại VN</title>
+    <updated>2025-10-25T20:16:16+00:00</updated>
+    <author>
+      <name>/u/familyfriendlyvnmese</name>
+      <uri>https://old.reddit.com/user/familyfriendlyvnmese</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Có phải bầu cử ở Việt Nam hoàn toàn chỉ cho có lệ? T thấy mỗi mùa bầu cử dân tình ít bàn tán, thậm chí còn kém xôm hơn bầu cử Mỹ. T biết chủ yếu do Đảng quyết định, cơ mà có phải phiếu bầu tại VN hoàn toàn vô giá trị?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/familyfriendlyvnmese"&gt; /u/familyfriendlyvnmese &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1og1hmi/bầu_cử_tại_vn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1og1hmi/bầu_cử_tại_vn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1og1hmi/bầu_cử_tại_vn/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-25T20:16:16+00:00</published>
   </entry>
   <entry>
     <id>t3_1ofx2q0</id>
