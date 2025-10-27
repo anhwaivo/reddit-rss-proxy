@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-10-27T15:39:25+00:00</updated>
+  <updated>2025-10-27T15:50:45+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -119,7 +119,7 @@
       <name>/u/Lost_Still_1306</name>
       <uri>https://old.reddit.com/user/Lost_Still_1306</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là em định dọn ra ở riêng, 1 phòng trọ nhỏ nhỏ ở TPHCM gần khu vực Phú Nhuận, Bình Thạnh...do em muốn gần chỗ làm vs có ko gian riêng ko ảnh hưởng đến sinh hoạt của gia đình. Cũng là lần đầu em thuê nhà nên mấy bác có tips gò cho em xin với, em cảm ơn&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Lost_Still_1306"&gt; /u/Lost_Still_1306 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ohhria/xin_tips_ra_ở_riêng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ohhria/xin_tips_ra_ở_riêng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là em định dọn ra ở riêng, 1 phòng trọ nhỏ nhỏ ở TPHCM gần khu vực Phú Nhuận, Bình Thạnh...do em muốn gần chỗ làm vs có ko gian riêng ko ảnh hưởng đến sinh hoạt của gia đình. Cũng là lần đầu em thuê nhà nên mấy bác có tips gì cho em xin với, em cảm ơn&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Lost_Still_1306"&gt; /u/Lost_Still_1306 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ohhria/xin_tips_ra_ở_riêng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ohhria/xin_tips_ra_ở_riêng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
     <link href="https://old.reddit.com/r/vozforums/comments/1ohhria/xin_tips_ra_ở_riêng/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-27T15:38:59+00:00</published>
@@ -151,19 +151,6 @@
     <published>2025-10-27T10:48:11+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ohflts</id>
-    <title>tân sinh viên cần mn giải đáp</title>
-    <updated>2025-10-27T14:17:12+00:00</updated>
-    <author>
-      <name>/u/nglishere</name>
-      <uri>https://old.reddit.com/user/nglishere</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;em học ngành Khoa học dữ liệu (Data Science) của một trường không quá nổi bật ( có thể nói là rank trung bình ) nhưng em đi thực tập lấy kinh nghiệm từ sớm thì sau này ra trường có cơ hội cạnh tranh không ạ, và nhà tuyển dụng có nhìn vào tên trường dh em tốt nghiệp để đánh giá em không ạ? &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/nglishere"&gt; /u/nglishere &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ohflts/tân_sinh_viên_cần_mn_giải_đáp/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ohflts/tân_sinh_viên_cần_mn_giải_đáp/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ohflts/tân_sinh_viên_cần_mn_giải_đáp/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-27T14:17:12+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1ohdkld</id>
     <title>Xã hội và chim sẻ</title>
     <updated>2025-10-27T12:52:22+00:00</updated>
@@ -188,6 +175,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1oh6tnw/cho_ý_kiến_ạ/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-27T06:01:01+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ohflts</id>
+    <title>tân sinh viên cần mn giải đáp</title>
+    <updated>2025-10-27T14:17:12+00:00</updated>
+    <author>
+      <name>/u/nglishere</name>
+      <uri>https://old.reddit.com/user/nglishere</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;em học ngành Khoa học dữ liệu (Data Science) của một trường không quá nổi bật ( có thể nói là rank trung bình ) nhưng em đi thực tập lấy kinh nghiệm từ sớm thì sau này ra trường có cơ hội cạnh tranh không ạ, và nhà tuyển dụng có nhìn vào tên trường dh em tốt nghiệp để đánh giá em không ạ? &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/nglishere"&gt; /u/nglishere &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ohflts/tân_sinh_viên_cần_mn_giải_đáp/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ohflts/tân_sinh_viên_cần_mn_giải_đáp/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ohflts/tân_sinh_viên_cần_mn_giải_đáp/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-27T14:17:12+00:00</published>
   </entry>
   <entry>
     <id>t3_1ohb47h</id>
