@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-10-27T04:35:32+00:00</updated>
+  <updated>2025-10-27T04:55:15+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -151,19 +151,6 @@
     <published>2025-10-26T12:10:28+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ognenm</id>
-    <title>GHẾ NGỒI LÀM VIỆC</title>
-    <updated>2025-10-26T15:25:42+00:00</updated>
-    <author>
-      <name>/u/Tomuser1998</name>
-      <uri>https://old.reddit.com/user/Tomuser1998</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1ognenm/ghế_ngồi_làm_việc/"&gt; &lt;img alt="GHẾ NGỒI LÀM VIỆC" src="https://preview.redd.it/0j20eet35hxf1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=1f9c6ac4412f6cad2f1a67e123f4c97cc930061d" title="GHẾ NGỒI LÀM VIỆC" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi ae! Mình muốn tham khảo ae cái ghế ngồi làm việc đỡ đau lưng với ạ. Trươc e mua con 500k văn phòng mà ọp ẹp v~~! Tầm 1.5M đổ lại. Không biết con trong hình ổn không ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Tomuser1998"&gt; /u/Tomuser1998 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/0j20eet35hxf1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ognenm/ghế_ngồi_làm_việc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ognenm/ghế_ngồi_làm_việc/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-26T15:25:42+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1ogoo23</id>
     <title>Cảm thấy tương lai mong lung</title>
     <updated>2025-10-26T16:16:13+00:00</updated>
@@ -188,6 +175,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1oh421j/tìm_acc_doujyn_rổ_rá_thế_nào_mấy_bác_nghe_nói_mấy/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-27T03:20:13+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ognenm</id>
+    <title>GHẾ NGỒI LÀM VIỆC</title>
+    <updated>2025-10-26T15:25:42+00:00</updated>
+    <author>
+      <name>/u/Tomuser1998</name>
+      <uri>https://old.reddit.com/user/Tomuser1998</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1ognenm/ghế_ngồi_làm_việc/"&gt; &lt;img alt="GHẾ NGỒI LÀM VIỆC" src="https://preview.redd.it/0j20eet35hxf1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=1f9c6ac4412f6cad2f1a67e123f4c97cc930061d" title="GHẾ NGỒI LÀM VIỆC" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi ae! Mình muốn tham khảo ae cái ghế ngồi làm việc đỡ đau lưng với ạ. Trươc e mua con 500k văn phòng mà ọp ẹp v~~! Tầm 1.5M đổ lại. Không biết con trong hình ổn không ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Tomuser1998"&gt; /u/Tomuser1998 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/0j20eet35hxf1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ognenm/ghế_ngồi_làm_việc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ognenm/ghế_ngồi_làm_việc/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-26T15:25:42+00:00</published>
   </entry>
   <entry>
     <id>t3_1og95wc</id>
