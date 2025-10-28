@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-10-28T10:45:01+00:00</updated>
+  <updated>2025-10-28T10:55:08+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1oi2aen</id>
-    <title>thắc mắc về việc khám nvqs</title>
-    <updated>2025-10-28T06:36:13+00:00</updated>
-    <author>
-      <name>/u/BendGlass148</name>
-      <uri>https://old.reddit.com/user/BendGlass148</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;nếu như khám vòng 1 đứa nào cũng lọt thì mắc lol gì không khám vòng 2 luôn mà phải khám vòng 1, vd ở HCM bay về khám phải tốn gấp đôi tiền vé may bay???&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/BendGlass148"&gt; /u/BendGlass148 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oi2aen/thắc_mắc_về_việc_khám_nvqs/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oi2aen/thắc_mắc_về_việc_khám_nvqs/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1oi2aen/thắc_mắc_về_việc_khám_nvqs/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-28T06:36:13+00:00</published>
-  </entry>
   <entry>
     <id>t3_1oi2twd</id>
     <title>Review môi trường làm việc khối Dữ liệu VPBank (Khối ECO)</title>
@@ -73,6 +60,19 @@
     <published>2025-10-28T06:07:13+00:00</published>
   </entry>
   <entry>
+    <id>t3_1oi2aen</id>
+    <title>thắc mắc về việc khám nvqs</title>
+    <updated>2025-10-28T06:36:13+00:00</updated>
+    <author>
+      <name>/u/BendGlass148</name>
+      <uri>https://old.reddit.com/user/BendGlass148</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;nếu như khám vòng 1 đứa nào cũng lọt thì mắc lol gì không khám vòng 2 luôn mà phải khám vòng 1, vd ở HCM bay về khám phải tốn gấp đôi tiền vé may bay???&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/BendGlass148"&gt; /u/BendGlass148 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oi2aen/thắc_mắc_về_việc_khám_nvqs/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oi2aen/thắc_mắc_về_việc_khám_nvqs/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1oi2aen/thắc_mắc_về_việc_khám_nvqs/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-28T06:36:13+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1oi31f7</id>
     <title>Nhà mạng 4 chữ issue</title>
     <updated>2025-10-28T07:27:49+00:00</updated>
@@ -110,19 +110,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1oi3idl/mình_cần_1_lời_khuyên/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-28T08:01:06+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1oi49wp</id>
-    <title>Hỗ Trợ Giải Toán Thi THPTQG</title>
-    <updated>2025-10-28T08:55:18+00:00</updated>
-    <author>
-      <name>/u/EquivalentDear9224</name>
-      <uri>https://old.reddit.com/user/EquivalentDear9224</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Như tiêu đề, tôi giai đoạn này đang chỉ toán cho em tôi thi ĐH năm tới. Các vozer nào đang cbi thi đại học mà cấn mốn toán cứ thoải mái hỏi tôi nhé. Tôi sẽ chỉ tận tình. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/EquivalentDear9224"&gt; /u/EquivalentDear9224 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oi49wp/hỗ_trợ_giải_toán_thi_thptqg/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oi49wp/hỗ_trợ_giải_toán_thi_thptqg/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1oi49wp/hỗ_trợ_giải_toán_thi_thptqg/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-28T08:55:18+00:00</published>
   </entry>
   <entry>
     <id>t3_1oi2ex0</id>
@@ -164,17 +151,17 @@
     <published>2025-10-28T08:23:54+00:00</published>
   </entry>
   <entry>
-    <id>t3_1oi50bg</id>
-    <title>Tâm sự chiện tình iuuuu</title>
-    <updated>2025-10-28T09:45:03+00:00</updated>
+    <id>t3_1oi49wp</id>
+    <title>Hỗ Trợ Giải Toán Thi THPTQG</title>
+    <updated>2025-10-28T08:55:18+00:00</updated>
     <author>
-      <name>/u/Secret-Swimming132</name>
-      <uri>https://old.reddit.com/user/Secret-Swimming132</uri>
+      <name>/u/EquivalentDear9224</name>
+      <uri>https://old.reddit.com/user/EquivalentDear9224</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Ê mấy bồ cho tôi hỏi, con trai nó có tình cảm với mình, yêu nhau và có úm xi la bum (cho là hợp vía đi) thì khi chia tay người nam có nhớ và lụy con bồ cũ không???&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Secret-Swimming132"&gt; /u/Secret-Swimming132 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oi50bg/tâm_sự_chiện_tình_iuuuu/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oi50bg/tâm_sự_chiện_tình_iuuuu/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1oi50bg/tâm_sự_chiện_tình_iuuuu/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Như tiêu đề, tôi giai đoạn này đang chỉ toán cho em tôi thi ĐH năm tới. Các vozer nào đang cbi thi đại học mà cấn mốn toán cứ thoải mái hỏi tôi nhé. Tôi sẽ chỉ tận tình. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/EquivalentDear9224"&gt; /u/EquivalentDear9224 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oi49wp/hỗ_trợ_giải_toán_thi_thptqg/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oi49wp/hỗ_trợ_giải_toán_thi_thptqg/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1oi49wp/hỗ_trợ_giải_toán_thi_thptqg/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-28T09:45:03+00:00</published>
+    <published>2025-10-28T08:55:18+00:00</published>
   </entry>
   <entry>
     <id>t3_1oi2476</id>
@@ -188,6 +175,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1oi2476/khủng_hoảng_tuổi_40/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-28T06:24:53+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1oi50bg</id>
+    <title>Tâm sự chiện tình iuuuu</title>
+    <updated>2025-10-28T09:45:03+00:00</updated>
+    <author>
+      <name>/u/Secret-Swimming132</name>
+      <uri>https://old.reddit.com/user/Secret-Swimming132</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Ê mấy bồ cho tôi hỏi, con trai nó có tình cảm với mình, yêu nhau và có úm xi la bum (cho là hợp vía đi) thì khi chia tay người nam có nhớ và lụy con bồ cũ không???&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Secret-Swimming132"&gt; /u/Secret-Swimming132 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oi50bg/tâm_sự_chiện_tình_iuuuu/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oi50bg/tâm_sự_chiện_tình_iuuuu/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1oi50bg/tâm_sự_chiện_tình_iuuuu/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-28T09:45:03+00:00</published>
   </entry>
   <entry>
     <id>t3_1oi1lg5</id>
