@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-10-28T04:46:07+00:00</updated>
+  <updated>2025-10-28T05:18:37+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1ohhria</id>
-    <title>Xin tips ra ở riêng</title>
-    <updated>2025-10-27T15:38:59+00:00</updated>
-    <author>
-      <name>/u/Lost_Still_1306</name>
-      <uri>https://old.reddit.com/user/Lost_Still_1306</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là em định dọn ra ở riêng, 1 phòng trọ nhỏ nhỏ ở TPHCM gần khu vực Phú Nhuận, Bình Thạnh...do em muốn gần chỗ làm vs có ko gian riêng ko ảnh hưởng đến sinh hoạt của gia đình. Cũng là lần đầu em thuê nhà nên mấy bác có tips gì cho em xin với, em cảm ơn&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Lost_Still_1306"&gt; /u/Lost_Still_1306 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ohhria/xin_tips_ra_ở_riêng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ohhria/xin_tips_ra_ở_riêng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ohhria/xin_tips_ra_ở_riêng/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-27T15:38:59+00:00</published>
-  </entry>
   <entry>
     <id>t3_1oh654r</id>
     <title>Tiếng anh tốt ngoài đi dạy còn làm công việc nào nữa không mấy bác ?</title>
@@ -242,6 +229,19 @@
     <published>2025-10-27T17:06:47+00:00</published>
   </entry>
   <entry>
+    <id>t3_1oi114n</id>
+    <title>Vấn đề kết nối Wifi của TV và điện thoại</title>
+    <updated>2025-10-28T05:14:24+00:00</updated>
+    <author>
+      <name>/u/Let_me_meet_your_mom</name>
+      <uri>https://old.reddit.com/user/Let_me_meet_your_mom</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1oi114n/vấn_đề_kết_nối_wifi_của_tv_và_điện_thoại/"&gt; &lt;img alt="Vấn đề kết nối Wifi của TV và điện thoại" src="https://b.thumbs.redditmedia.com/U_lXsJDpUNglRV9e0D38FTEwxrNkfe71h3S9LB0aQDQ.jpg" title="Vấn đề kết nối Wifi của TV và điện thoại" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các anh em. Mình có một vấn đề về kết nối wifi cho TV và máy tính, điện thoại muốn hỏi anh em, mong anh em chỉ dạy cho mình 😊&lt;/p&gt; &lt;p&gt;Độ vài tuần trước mình có mua TV LG UA73 55inch. Lúc mới mua về thì TV bắt sóng wifi rất tốt, bắt được cả sóng 2,4g và 5g của wifi, xem video trên Youtube ở độ phân giải 4k rất mượt, load nhanh, không bị giật lag gì. Nhưng tới 2 tuần gần đây, TV không bắt được sóng 5G nữa, video trên Youtube bật độ phân giải 2k, 4k rất lag, không mượt được như trước nữa. TV hiện tại chỉ bắt được sóng 2,4g. &lt;/p&gt; &lt;p&gt;Nhà mình 3 tầng, đang dùng wifi của FPT. Cục wifi FPT đang dùng mình chụp ở ảnh 1, đặt trên nóc tủ quần áo ngoài phòng tầng 2, cách tv ở tầng 2 hơn 6m ( ảnh hơi khó nhìn, anh em thông cảm nhé ). Cục wifi này mình lắp từ đợt 2019. Lúc mới lắp thì dùng khá tốt, bắt được tốt cả sóng 2,4g và 5g, sau một thời gian thì sóng yếu dần, tới mức chỉ tầng 2 bắt được wifi, còn tầng 1,3 thì chịu không bắt được. Mình mới được họ hàng cho cái cục mà anh em nhìn thấy ở hình 2, 3 để phát wifi mạnh hơn ( nếu rút cục ở ảnh 1 ra thì cục ở ảnh 2 cũng mất, không bắt được wifi nữa ). Từ đấy thì nhà mình toàn bắt sóng wifi phát ra từ cục ở ảnh 2 vì cả 3 tầng đều bắt được, dù không mạnh lắm ( cục này chỉ phát được sóng 2,4 ghz ). Từ đấy thì sóng 5g rất khó bắt ở cả 3 tầng, nếu không đứng dưới cục wifi FPT ( hình 1 ) ở tầng 2 thì không bắt được sóng 5g.&lt;/p&gt; &lt;p&gt;Mình muốn hỏi anh em tại sao TV của mình khi mới mua về bắt được sóng 5g, kết nối ổn định, rất tốt nhưng tới hiện tại thì không bắt được nữa dù chỉ cách cục phát có 6m ( TV và cục wifi FPT cùng đặt ở tầng 2 ). Điện thoại phải đứng dưới cục wifi mới bắt được 5g. Nguyên nhân và giải pháp của vấn đề này là gì ạ, làm sao để TV xem được video 4k trên Youtube mượt như trước ? Làm sao để ở tầng 1,3 cũng bắt được sóng 5g ? Mong anh em chỉ dạy cho mình ạ 😊&lt;/p&gt; &lt;p&gt;Cảm ơn anh em đã đọc bài viết nhé 😁 Mình chưa có kiến thức về vấn đề này mong anh em chỉ dạy ạ 😊&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Let_me_meet_your_mom"&gt; /u/Let_me_meet_your_mom &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1oi114n"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oi114n/vấn_đề_kết_nối_wifi_của_tv_và_điện_thoại/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1oi114n/vấn_đề_kết_nối_wifi_của_tv_và_điện_thoại/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-28T05:14:24+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1ohg7ck</id>
     <title>thuốc lá có gì bổ béo à mn?</title>
     <updated>2025-10-27T14:40:45+00:00</updated>
@@ -268,19 +268,6 @@
     <published>2025-10-27T08:15:24+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ohyphz</id>
-    <title>Văn mẫu của mấy con clone scam</title>
-    <updated>2025-10-28T03:04:19+00:00</updated>
-    <author>
-      <name>/u/SouthAd7873</name>
-      <uri>https://old.reddit.com/user/SouthAd7873</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1ohyphz/văn_mẫu_của_mấy_con_clone_scam/"&gt; &lt;img alt="Văn mẫu của mấy con clone scam" src="https://b.thumbs.redditmedia.com/X4YLvdXBTlfzQ8itkLtqIJqPjKo_JrWQErikrJWkMTw.jpg" title="Văn mẫu của mấy con clone scam" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Cứ thấy &amp;quot;gái xinh&amp;quot;, ko quen add friend trước thì khả năng cao tới 96,69% là scam &lt;/p&gt; &lt;p&gt;Nói chuyện 1 hồi là sẽ rủ qua app khác nói chuyện cho tiện hoặc mồi 1 cái phương án kiếm tiền/job làm thêm gì đó. &lt;/p&gt; &lt;p&gt;Mà có 1 cái hay là bọn này giờ tinh vi hơn xưa. &lt;/p&gt; &lt;p&gt;Clone nhưng post bài rất đều, có bạn bè tương tác như đúng rồi. &lt;/p&gt; &lt;p&gt;Có ế quá thì cũng tỉnh táo nhé ae&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/SouthAd7873"&gt; /u/SouthAd7873 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1ohyphz"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ohyphz/văn_mẫu_của_mấy_con_clone_scam/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ohyphz/văn_mẫu_của_mấy_con_clone_scam/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-28T03:04:19+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1ohtlze</id>
     <title>Năm nay ai cứu trợ người dân miền tây</title>
     <updated>2025-10-27T23:09:26+00:00</updated>
@@ -292,6 +279,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ohtlze/năm_nay_ai_cứu_trợ_người_dân_miền_tây/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-27T23:09:26+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ohyphz</id>
+    <title>Văn mẫu của mấy con clone scam</title>
+    <updated>2025-10-28T03:04:19+00:00</updated>
+    <author>
+      <name>/u/SouthAd7873</name>
+      <uri>https://old.reddit.com/user/SouthAd7873</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1ohyphz/văn_mẫu_của_mấy_con_clone_scam/"&gt; &lt;img alt="Văn mẫu của mấy con clone scam" src="https://b.thumbs.redditmedia.com/X4YLvdXBTlfzQ8itkLtqIJqPjKo_JrWQErikrJWkMTw.jpg" title="Văn mẫu của mấy con clone scam" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Cứ thấy &amp;quot;gái xinh&amp;quot;, ko quen add friend trước thì khả năng cao tới 96,69% là scam &lt;/p&gt; &lt;p&gt;Nói chuyện 1 hồi là sẽ rủ qua app khác nói chuyện cho tiện hoặc mồi 1 cái phương án kiếm tiền/job làm thêm gì đó. &lt;/p&gt; &lt;p&gt;Mà có 1 cái hay là bọn này giờ tinh vi hơn xưa. &lt;/p&gt; &lt;p&gt;Clone nhưng post bài rất đều, có bạn bè tương tác như đúng rồi. &lt;/p&gt; &lt;p&gt;Có ế quá thì cũng tỉnh táo nhé ae&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/SouthAd7873"&gt; /u/SouthAd7873 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1ohyphz"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ohyphz/văn_mẫu_của_mấy_con_clone_scam/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ohyphz/văn_mẫu_của_mấy_con_clone_scam/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-28T03:04:19+00:00</published>
   </entry>
   <entry>
     <id>t3_1ohriqm</id>
