@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-10-29T11:37:50+00:00</updated>
+  <updated>2025-10-29T11:50:28+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1oitp29</id>
-    <title>Dấu hiệu bảo trì xe máy điện</title>
-    <updated>2025-10-29T03:03:38+00:00</updated>
-    <author>
-      <name>/u/Ok_Role5924</name>
-      <uri>https://old.reddit.com/user/Ok_Role5924</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1oitp29/dấu_hiệu_bảo_trì_xe_máy_điện/"&gt; &lt;img alt="Dấu hiệu bảo trì xe máy điện" src="https://external-preview.redd.it/kovUEEMihjYYFjJngwQy4N5Aq1EErb01OiM1AOgHotw.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=8e358bc72e5f0465254a61775b3c7089ca5fc1d1" title="Dấu hiệu bảo trì xe máy điện" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Xe máy điện sử dụng lâu không bảo trì dễ gặp lỗi như động cơ kêu lạ, phanh yếu, pin nhanh chai, đèn và hệ thống điện trục trặc. Nếu ắc quy nóng, phồng hoặc mùi khét phải thay ngay để tránh cháy nổ. Nên bảo dưỡng định kỳ 500km hoặc 6 tháng tại địa chỉ uy tín như JVCeco để xe bền và an toàn.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ok_Role5924"&gt; /u/Ok_Role5924 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://xedienvietnhatchinhhang.vn/dau-hieu-can-bao-tri-xe-dien/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oitp29/dấu_hiệu_bảo_trì_xe_máy_điện/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1oitp29/dấu_hiệu_bảo_trì_xe_máy_điện/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-29T03:03:38+00:00</published>
-  </entry>
   <entry>
     <id>t3_1oiablf</id>
     <title>Chuyện học hành của trẻ</title>
@@ -229,6 +216,19 @@
     <published>2025-10-29T11:35:38+00:00</published>
   </entry>
   <entry>
+    <id>t3_1oj294t</id>
+    <title>Ý tưởng Cửa chống lụt DIY bằng tấm Alu &amp; ống PVC</title>
+    <updated>2025-10-29T11:43:31+00:00</updated>
+    <author>
+      <name>/u/erich1441</name>
+      <uri>https://old.reddit.com/user/erich1441</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1oj294t/ý_tưởng_cửa_chống_lụt_diy_bằng_tấm_alu_ống_pvc/"&gt; &lt;img alt="Ý tưởng Cửa chống lụt DIY bằng tấm Alu &amp;amp; ống PVC" src="https://b.thumbs.redditmedia.com/YGQw0M0YwHNLRmZTW_Fxr7zghPLRdxfHWZw9eQ2RH8I.jpg" title="Ý tưởng Cửa chống lụt DIY bằng tấm Alu &amp;amp; ống PVC" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người,&lt;br /&gt; Mình là nữ, không phải dân kỹ thuật, chỉ là dạo này thấy bà con ở vùng ngập khổ quá nên nghĩ thử một cách &lt;strong&gt;chống lụt tạm&lt;/strong&gt;, không biết có khả thi không. Ý tưởng của mình là dùng ba ống nhựa PVC cứng cố định quanh khung cửa (hai bên và phía dưới). Mỗi ống sẽ được rạch một khe nhỏ khoảng 9mm, bên trong lót thêm một lớp cao su cắt từ lốp xe máy để làm ron chống nước. Khi nước dâng, mình chỉ việc trượt tấm Alu composite dày 8mm xuống ba rãnh đó để bịt kín cửa. Mình nghĩ nếu làm khít và chắc, có thể tạm thời ngăn nước tràn vào nhà, nhất là khi mực nước chưa quá cao. Nhưng vì mình không rành kỹ thuật, nên muốn hỏi mọi người xem ý tưởng này có thực tế không, có chịu được áp lực nước và đủ kín để dùng tạm khi ngập không?&lt;/p&gt; &lt;p&gt;&lt;a href="https://preview.redd.it/m8y6war3g1yf1.png?width=1652&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=91d87f3045775e683d354ce89b55e50fecb09c53"&gt;https://preview.redd.it/m8y6war3g1yf1.png?width=1652&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=91d87f3045775e683d354ce89b55e50fecb09c53&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/erich1441"&gt; /u/erich1441 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oj294t/ý_tưởng_cửa_chống_lụt_diy_bằng_tấm_alu_ống_pvc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oj294t/ý_tưởng_cửa_chống_lụt_diy_bằng_tấm_alu_ống_pvc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1oj294t/ý_tưởng_cửa_chống_lụt_diy_bằng_tấm_alu_ống_pvc/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-29T11:43:31+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1oiwsx5</id>
     <title>Thắc mắc size nhẫn cho người yêu</title>
     <updated>2025-10-29T05:59:20+00:00</updated>
@@ -294,19 +294,6 @@
     <published>2025-10-29T09:52:33+00:00</published>
   </entry>
   <entry>
-    <id>t3_1oiyikh</id>
-    <title>Trứng làm món gì ăn cho đỡ ngán</title>
-    <updated>2025-10-29T07:55:34+00:00</updated>
-    <author>
-      <name>/u/piggypresident</name>
-      <uri>https://old.reddit.com/user/piggypresident</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Như tiêu đề ạ,ngày em ăn tầm 8 trứng được khoảng tháng rưỡi rồi mà ăn kiểu trứng khuấy với chiên riết ngán quá nên em xin cách nấu sao cho ngon hoặc 1 món sốt gì đó cũng được ạ,em cảm ơn.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/piggypresident"&gt; /u/piggypresident &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oiyikh/trứng_làm_món_gì_ăn_cho_đỡ_ngán/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oiyikh/trứng_làm_món_gì_ăn_cho_đỡ_ngán/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1oiyikh/trứng_làm_món_gì_ăn_cho_đỡ_ngán/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-29T07:55:34+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1oiybu9</id>
     <title>Có nên học lái xe</title>
     <updated>2025-10-29T07:42:21+00:00</updated>
@@ -318,6 +305,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1oiybu9/có_nên_học_lái_xe/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-29T07:42:21+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1oiyikh</id>
+    <title>Trứng làm món gì ăn cho đỡ ngán</title>
+    <updated>2025-10-29T07:55:34+00:00</updated>
+    <author>
+      <name>/u/piggypresident</name>
+      <uri>https://old.reddit.com/user/piggypresident</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Như tiêu đề ạ,ngày em ăn tầm 8 trứng được khoảng tháng rưỡi rồi mà ăn kiểu trứng khuấy với chiên riết ngán quá nên em xin cách nấu sao cho ngon hoặc 1 món sốt gì đó cũng được ạ,em cảm ơn.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/piggypresident"&gt; /u/piggypresident &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oiyikh/trứng_làm_món_gì_ăn_cho_đỡ_ngán/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oiyikh/trứng_làm_món_gì_ăn_cho_đỡ_ngán/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1oiyikh/trứng_làm_món_gì_ăn_cho_đỡ_ngán/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-29T07:55:34+00:00</published>
   </entry>
   <entry>
     <id>t3_1oiu80p</id>
