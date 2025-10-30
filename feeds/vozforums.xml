@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-10-30T19:27:45+00:00</updated>
+  <updated>2025-10-30T19:39:56+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1ojrmha</id>
-    <title>Làm bài tập lớn ở thời đại AI</title>
-    <updated>2025-10-30T05:39:19+00:00</updated>
-    <author>
-      <name>/u/Dadelous-</name>
-      <uri>https://old.reddit.com/user/Dadelous-</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình là sinh viên năm 3 theo ngành cntt, kỳ này mình phải làm 3 project cho 3 môn. Nhưng môn nào trong team cũng có một đứa toàn dùng AI rồi copy code rồi đưa lên pull request trong khi nó còn chả hiểu cái code đấy viết cái gì. Mình thì không có ý kiến gì về việc dùng AI nhưng mà ít nhất cũng phải hiểu nó viết cái gì. Môn nào mình tham gia làm phần backend thì ít nhất mình còn kiểm soát được một phần, nhưng môn nào mình không làm thì nhìn thấy đến 80% là AI, codebase là một mớ hỗn loạn mà mình cảm thấy nản quá 😮‍💨. Mọi người có lời khuyên nào để vượt qua giai đoạn này ko ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Dadelous-"&gt; /u/Dadelous- &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ojrmha/làm_bài_tập_lớn_ở_thời_đại_ai/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ojrmha/làm_bài_tập_lớn_ở_thời_đại_ai/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ojrmha/làm_bài_tập_lớn_ở_thời_đại_ai/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-30T05:39:19+00:00</published>
-  </entry>
   <entry>
     <id>t3_1ok4lhl</id>
     <title>Vô định</title>
@@ -162,6 +149,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ojrbc5/sau_khi_đi_nhật_về_nước_làm_gì/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-30T05:20:27+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ok99f6</id>
+    <title>Học ngôn ngữ sau ra làm nghề gì</title>
+    <updated>2025-10-30T19:30:17+00:00</updated>
+    <author>
+      <name>/u/Tng-deeptry</name>
+      <uri>https://old.reddit.com/user/Tng-deeptry</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mọi người cho em hỏi hiện tại em đang học ngành ngôn ngữ anh . Cá nhân em khá thích ngành này nhưng đến giờ là năm 2 bản thân em cũng đang không biết là sau này em sẽ làm nghề gì với cái bằng( không tính việc làm trái ngàng ) . Hiện tại em biết là sẽ làm được nghề như giáo viên , hướng dẫn viên , dịch sách, phiên dịch . Em nghe trên mạng baoe ngành này làm được nhiều việc lắm v anh chị nào đã học ngành này có cho em biết về công việc mình có thể làm trừ mấy việc trên không ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Tng-deeptry"&gt; /u/Tng-deeptry &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ok99f6/học_ngôn_ngữ_sau_ra_làm_nghề_gì/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ok99f6/học_ngôn_ngữ_sau_ra_làm_nghề_gì/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ok99f6/học_ngôn_ngữ_sau_ra_làm_nghề_gì/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-30T19:30:17+00:00</published>
   </entry>
   <entry>
     <id>t3_1ojqy43</id>
