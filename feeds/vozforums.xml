@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-10-31T19:26:01+00:00</updated>
+  <updated>2025-10-31T19:38:00+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -229,19 +229,6 @@
     <published>2025-10-31T02:35:45+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ol236h</id>
-    <title>my setup😁</title>
-    <updated>2025-10-31T18:17:10+00:00</updated>
-    <author>
-      <name>/u/Low-Commission-6690</name>
-      <uri>https://old.reddit.com/user/Low-Commission-6690</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1ol236h/my_setup/"&gt; &lt;img alt="my setup😁" src="https://preview.redd.it/7owmrt39ohyf1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=5bf9012d4443322fd6b9948f33bb72b601b5ccc5" title="my setup😁" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Low-Commission-6690"&gt; /u/Low-Commission-6690 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/7owmrt39ohyf1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ol236h/my_setup/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ol236h/my_setup/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-31T18:17:10+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1ol2xcb</id>
     <title>Mẹ và mình khắc khẩu với nhau</title>
     <updated>2025-10-31T18:49:44+00:00</updated>
@@ -279,6 +266,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1okymxd/mọi_người_thấy_cờ_tướng_cờ_vua_cờ_vây_cái_nào/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-31T16:06:02+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ol236h</id>
+    <title>my setup😁</title>
+    <updated>2025-10-31T18:17:10+00:00</updated>
+    <author>
+      <name>/u/Low-Commission-6690</name>
+      <uri>https://old.reddit.com/user/Low-Commission-6690</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1ol236h/my_setup/"&gt; &lt;img alt="my setup😁" src="https://preview.redd.it/7owmrt39ohyf1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=5bf9012d4443322fd6b9948f33bb72b601b5ccc5" title="my setup😁" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Low-Commission-6690"&gt; /u/Low-Commission-6690 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/7owmrt39ohyf1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ol236h/my_setup/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ol236h/my_setup/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-31T18:17:10+00:00</published>
   </entry>
   <entry>
     <id>t3_1okodej</id>
