@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-10-30T23:50:28+00:00</updated>
+  <updated>2025-10-31T01:23:25+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -112,6 +112,19 @@
     <published>2025-10-30T14:46:36+00:00</published>
   </entry>
   <entry>
+    <id>t3_1ojym6y</id>
+    <title>Tiếng đức</title>
+    <updated>2025-10-30T12:41:35+00:00</updated>
+    <author>
+      <name>/u/lilyher3</name>
+      <uri>https://old.reddit.com/user/lilyher3</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em đang có dự định học tiếng Đức nhưng chưa biết nên bắt đầu từ đâu. Mọi người có thể chia sẻ cho em một vài tips học dành cho người mới bắt đầu được không ạ? Em cảm ơn mọi người nhiều &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/lilyher3"&gt; /u/lilyher3 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ojym6y/tiếng_đức/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ojym6y/tiếng_đức/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ojym6y/tiếng_đức/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-30T12:41:35+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1ok7xuf</id>
     <title>Thắc mắc về vấn đề trạng thái "Mối quan hệ" trên facebook.</title>
     <updated>2025-10-30T18:40:19+00:00</updated>
@@ -123,19 +136,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ok7xuf/thắc_mắc_về_vấn_đề_trạng_thái_mối_quan_hệ_trên/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-30T18:40:19+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1ojrbc5</id>
-    <title>Sau khi đi nhật, về nước làm gì?</title>
-    <updated>2025-10-30T05:20:27+00:00</updated>
-    <author>
-      <name>/u/deadspoonn</name>
-      <uri>https://old.reddit.com/user/deadspoonn</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Xin chào các bạn, mình là nam 24 tuổi, tháng 7 năm nay mình bắt đầu sang Nhật dưới visa kỹ sư. Mức lương cũng khá ổn, 1 năm tầm 430man chưa kể tăng ca. Tương lai mình có 2 phương án và mỗi phương án có 1 số điều làm mình trăn trở. Phương án 1, mình sẽ về nước sau 5 năm, lúc đó mình 29 tuổi thì về nước xin việc có bị khó không và thu nhập có ổn khi mà mình có kinh nghiệm làm việc ở Nhật không. Phương án 2, mình làm tầm 7 đến 10 năm, khi đó mình sẽ tầm 32-34 tuổi, mình sẽ vững về kinh tế hơn nhưng tuổi đó chưa vợ con thì mình thấy hơi cấn. Xin mọi người cho mình lời khuyên với ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/deadspoonn"&gt; /u/deadspoonn &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ojrbc5/sau_khi_đi_nhật_về_nước_làm_gì/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ojrbc5/sau_khi_đi_nhật_về_nước_làm_gì/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ojrbc5/sau_khi_đi_nhật_về_nước_làm_gì/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-30T05:20:27+00:00</published>
   </entry>
   <entry>
     <id>t3_1ok99f6</id>
@@ -151,6 +151,19 @@
     <published>2025-10-30T19:30:17+00:00</published>
   </entry>
   <entry>
+    <id>t3_1ojrbc5</id>
+    <title>Sau khi đi nhật, về nước làm gì?</title>
+    <updated>2025-10-30T05:20:27+00:00</updated>
+    <author>
+      <name>/u/deadspoonn</name>
+      <uri>https://old.reddit.com/user/deadspoonn</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Xin chào các bạn, mình là nam 24 tuổi, tháng 7 năm nay mình bắt đầu sang Nhật dưới visa kỹ sư. Mức lương cũng khá ổn, 1 năm tầm 430man chưa kể tăng ca. Tương lai mình có 2 phương án và mỗi phương án có 1 số điều làm mình trăn trở. Phương án 1, mình sẽ về nước sau 5 năm, lúc đó mình 29 tuổi thì về nước xin việc có bị khó không và thu nhập có ổn khi mà mình có kinh nghiệm làm việc ở Nhật không. Phương án 2, mình làm tầm 7 đến 10 năm, khi đó mình sẽ tầm 32-34 tuổi, mình sẽ vững về kinh tế hơn nhưng tuổi đó chưa vợ con thì mình thấy hơi cấn. Xin mọi người cho mình lời khuyên với ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/deadspoonn"&gt; /u/deadspoonn &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ojrbc5/sau_khi_đi_nhật_về_nước_làm_gì/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ojrbc5/sau_khi_đi_nhật_về_nước_làm_gì/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ojrbc5/sau_khi_đi_nhật_về_nước_làm_gì/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-30T05:20:27+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1ojqy43</id>
     <title>Em có khoảng tầm 40 tr tiền tiết kiệm,làm thế nào để giữ tiền không bị mất giá các bác nhỉ .</title>
     <updated>2025-10-30T04:58:35+00:00</updated>
@@ -162,19 +175,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ojqy43/em_có_khoảng_tầm_40_tr_tiền_tiết_kiệmlàm_thế_nào/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-30T04:58:35+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1ojym6y</id>
-    <title>Tiếng đức</title>
-    <updated>2025-10-30T12:41:35+00:00</updated>
-    <author>
-      <name>/u/lilyher3</name>
-      <uri>https://old.reddit.com/user/lilyher3</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em đang có dự định học tiếng Đức nhưng chưa biết nên bắt đầu từ đâu. Mọi người có thể chia sẻ cho em một vài tips học dành cho người mới bắt đầu được không ạ? Em cảm ơn mọi người nhiều &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/lilyher3"&gt; /u/lilyher3 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ojym6y/tiếng_đức/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ojym6y/tiếng_đức/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ojym6y/tiếng_đức/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-30T12:41:35+00:00</published>
   </entry>
   <entry>
     <id>t3_1okasm0</id>
@@ -216,6 +216,19 @@
     <published>2025-10-30T08:17:40+00:00</published>
   </entry>
   <entry>
+    <id>t3_1ojtcv3</id>
+    <title>Nhìn trong gương thấy mình xấu trai quá ae ạ</title>
+    <updated>2025-10-30T07:33:14+00:00</updated>
+    <author>
+      <name>/u/No_Industry_4171</name>
+      <uri>https://old.reddit.com/user/No_Industry_4171</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Nản&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/No_Industry_4171"&gt; /u/No_Industry_4171 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ojtcv3/nhìn_trong_gương_thấy_mình_xấu_trai_quá_ae_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ojtcv3/nhìn_trong_gương_thấy_mình_xấu_trai_quá_ae_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ojtcv3/nhìn_trong_gương_thấy_mình_xấu_trai_quá_ae_ạ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-30T07:33:14+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1ok2jjg</id>
     <title>Góc tâm sự ngành dev</title>
     <updated>2025-10-30T15:19:20+00:00</updated>
@@ -240,19 +253,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ok362p/học_ngoại_ngữ/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-30T15:43:29+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1ojtcv3</id>
-    <title>Nhìn trong gương thấy mình xấu trai quá ae ạ</title>
-    <updated>2025-10-30T07:33:14+00:00</updated>
-    <author>
-      <name>/u/No_Industry_4171</name>
-      <uri>https://old.reddit.com/user/No_Industry_4171</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Nản&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/No_Industry_4171"&gt; /u/No_Industry_4171 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ojtcv3/nhìn_trong_gương_thấy_mình_xấu_trai_quá_ae_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ojtcv3/nhìn_trong_gương_thấy_mình_xấu_trai_quá_ae_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ojtcv3/nhìn_trong_gương_thấy_mình_xấu_trai_quá_ae_ạ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-30T07:33:14+00:00</published>
   </entry>
   <entry>
     <id>t3_1ojsas8</id>
