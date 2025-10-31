@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-10-31T04:33:21+00:00</updated>
+  <updated>2025-10-31T04:52:42+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1ojvndw</id>
-    <title>Làm sao bắt đầu làm quen bạn gái trong lớp học thêm như nào</title>
-    <updated>2025-10-30T10:05:48+00:00</updated>
-    <author>
-      <name>/u/RoughAlternative2232</name>
-      <uri>https://old.reddit.com/user/RoughAlternative2232</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Như mọi người thấy thì e đang đổ bạn nữ trong lớp học thêm mà không biết bắt chuyện làm quen như nào, trong lớp học thêm thì ngồi xa nhau nên cũng không biết bắt chuyện như nào stalk đc FB ngta thấy độc thân nên lên đây xin lời khuyên cao Nhân &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/RoughAlternative2232"&gt; /u/RoughAlternative2232 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ojvndw/làm_sao_bắt_đầu_làm_quen_bạn_gái_trong_lớp_học/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ojvndw/làm_sao_bắt_đầu_làm_quen_bạn_gái_trong_lớp_học/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ojvndw/làm_sao_bắt_đầu_làm_quen_bạn_gái_trong_lớp_học/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-30T10:05:48+00:00</published>
-  </entry>
   <entry>
     <id>t3_1ojrbc5</id>
     <title>Sau khi đi nhật, về nước làm gì?</title>
@@ -73,19 +60,6 @@
     <published>2025-10-30T12:41:35+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ok7q2s</id>
-    <title>Giờ giấc sinh viên</title>
-    <updated>2025-10-30T18:32:17+00:00</updated>
-    <author>
-      <name>/u/Leading_Thanks6054</name>
-      <uri>https://old.reddit.com/user/Leading_Thanks6054</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;E đang là sv năm 4, từ đợt lên đh giờ giấc thoải mái không cố định, chỉ có ăn học chơi. Nay e xin được công việc dậy đều đều hằng ngày 8h đi làm 17h ra về cảm giác rất gò bó về thời gian và tinh thần. Em không biết mọi người lúc ra trường có gặp tình trạng như vậy không và mọi người fix nó như thế nào vậy ạ? Nghĩ tới cảnh ngày nào cũng đều đều như cái máy tới già vậy e hơi nản. E trc đó cũng đi làm 1 2 chỗ rồi nhưng được 1-2 tháng thì e xin nghỉ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Leading_Thanks6054"&gt; /u/Leading_Thanks6054 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ok7q2s/giờ_giấc_sinh_viên/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ok7q2s/giờ_giấc_sinh_viên/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ok7q2s/giờ_giấc_sinh_viên/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-30T18:32:17+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1ok7xuf</id>
     <title>Thắc mắc về vấn đề trạng thái "Mối quan hệ" trên facebook.</title>
     <updated>2025-10-30T18:40:19+00:00</updated>
@@ -123,6 +97,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ojtcv3/nhìn_trong_gương_thấy_mình_xấu_trai_quá_ae_ạ/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-30T07:33:14+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ok7q2s</id>
+    <title>Giờ giấc sinh viên</title>
+    <updated>2025-10-30T18:32:17+00:00</updated>
+    <author>
+      <name>/u/Leading_Thanks6054</name>
+      <uri>https://old.reddit.com/user/Leading_Thanks6054</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;E đang là sv năm 4, từ đợt lên đh giờ giấc thoải mái không cố định, chỉ có ăn học chơi. Nay e xin được công việc dậy đều đều hằng ngày 8h đi làm 17h ra về cảm giác rất gò bó về thời gian và tinh thần. Em không biết mọi người lúc ra trường có gặp tình trạng như vậy không và mọi người fix nó như thế nào vậy ạ? Nghĩ tới cảnh ngày nào cũng đều đều như cái máy tới già vậy e hơi nản. E trc đó cũng đi làm 1 2 chỗ rồi nhưng được 1-2 tháng thì e xin nghỉ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Leading_Thanks6054"&gt; /u/Leading_Thanks6054 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ok7q2s/giờ_giấc_sinh_viên/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ok7q2s/giờ_giấc_sinh_viên/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ok7q2s/giờ_giấc_sinh_viên/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-30T18:32:17+00:00</published>
   </entry>
   <entry>
     <id>t3_1ok362p</id>
@@ -229,6 +216,19 @@
     <published>2025-10-31T04:29:31+00:00</published>
   </entry>
   <entry>
+    <id>t3_1oklnnb</id>
+    <title>Cần tìm trang web hoặc nhà bán lớn : hàng hóa chất</title>
+    <updated>2025-10-31T04:46:03+00:00</updated>
+    <author>
+      <name>/u/theblueskyandme</name>
+      <uri>https://old.reddit.com/user/theblueskyandme</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình đang cần tìm nhiều hàng hóa chất cho công ty , Ưu tiên các hàng không phải Trung Quốc như Ấn Độ, Nam Á..., Nhật , Hàn , Châu Âu. &lt;/p&gt; &lt;p&gt;Mọi người biết trang web hay cách nào có thể tìm được hóa chất quốc tế chỉ mình với ạ , Mình cảm ơn ạ &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/theblueskyandme"&gt; /u/theblueskyandme &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oklnnb/cần_tìm_trang_web_hoặc_nhà_bán_lớn_hàng_hóa_chất/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oklnnb/cần_tìm_trang_web_hoặc_nhà_bán_lớn_hàng_hóa_chất/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1oklnnb/cần_tìm_trang_web_hoặc_nhà_bán_lớn_hàng_hóa_chất/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-31T04:46:03+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1ok5ccb</id>
     <title>Mọi người giờ làm công việc gì??</title>
     <updated>2025-10-30T17:03:32+00:00</updated>
@@ -255,19 +255,6 @@
     <published>2025-10-31T01:25:54+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ok0mja</id>
-    <title>Năm 25 tuổi đầy bất ổn và thất nghiệp vào cuối năm</title>
-    <updated>2025-10-30T14:04:44+00:00</updated>
-    <author>
-      <name>/u/Repulsive-Teach148</name>
-      <uri>https://old.reddit.com/user/Repulsive-Teach148</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người. Em 25 tổi đang là java developer với khoảng 3.5 yoe. Trước đây em làm việc ở HCM tại 1 công ty nọ trong 3 năm, vì làm 1 công ty nên lương cũng không được cao lắm làm 3 năm chỉ ngót ngét 18tr. Đầu năm nay em quyết định nhảy việc để cải thiện thu nhập và mọi chuyện bắt đầu.&lt;/p&gt; &lt;p&gt;Em pass PV vào công ty A với mức lương khá ổn, đi làm đc 2 tháng đến lúc chuẩn bị ký hợp đồng chính thức thì bị lay-off (với lý do không nằm trong kế hoạch phát triển của công ty nữa). Em cũng chấp nhận xem như đen lúc này và khoảng tháng 5 vừa lễ xong. Em về quê nghĩ ngơi lấy lại năng lượng của mình và dự tính sẽ PV công ty khác nhưng không thời điểm đó job cực kỳ than hiếm và tiêu chuẩn cực kỳ cao nên em thất nghiệp đến tháng 7 mới có job tại 1 công ty nhỏ . Làm được 4 tháng thì công ty không nhắc gì về việc ký hđ chính thức cả (chỉ có 1 email thông báo pass probation lúc xong 2 tháng thử việc), nên cách đây tầm 15 ngày em có lên check bhxh và thuế thì không thấy gì cả. em có nhắn tin hỏi bên phía HR. thì đùng em lại bị lay-off lần này không biết vì sao nhưng có lẽ liên quan đến vấn đề hđ =)))&lt;/p&gt; &lt;p&gt;Bây giờ lại là cuối năm nữa việc lay-off khiến em hoang mang quá. Nhiều lúc ngồi suy nghĩ năm nay công việc của em không thuận lợi lại buồn.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Repulsive-Teach148"&gt; /u/Repulsive-Teach148 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ok0mja/năm_25_tuổi_đầy_bất_ổn_và_thất_nghiệp_vào_cuối_năm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ok0mja/năm_25_tuổi_đầy_bất_ổn_và_thất_nghiệp_vào_cuối_năm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ok0mja/năm_25_tuổi_đầy_bất_ổn_và_thất_nghiệp_vào_cuối_năm/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-30T14:04:44+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1ojua3u</id>
     <title>Quyên góp miền Tây</title>
     <updated>2025-10-30T08:37:25+00:00</updated>
@@ -281,17 +268,17 @@
     <published>2025-10-30T08:37:25+00:00</published>
   </entry>
   <entry>
-    <id>t3_1okk3u2</id>
-    <title>có nên quit job này k ạ</title>
-    <updated>2025-10-31T03:22:37+00:00</updated>
+    <id>t3_1ok0mja</id>
+    <title>Năm 25 tuổi đầy bất ổn và thất nghiệp vào cuối năm</title>
+    <updated>2025-10-30T14:04:44+00:00</updated>
     <author>
-      <name>/u/Nerdy_Chick_6868</name>
-      <uri>https://old.reddit.com/user/Nerdy_Chick_6868</uri>
+      <name>/u/Repulsive-Teach148</name>
+      <uri>https://old.reddit.com/user/Repulsive-Teach148</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;em là F, 21, đang intern c&amp;amp;b (đại loại là về giấy tờ, hợp đồng, tính lương thưởng bhxh) cho một big corp. Lúc đầu em háo hức để được vô làm, do em mong chờ sẽ học hỏi được nhiều nghiệp vụ về bhxh, thuế v.v nhưng sau 1 tháng làm thì scope công việc chủ yếu là sắp xếp và lưu hồ sơ nhân viên do số lượng hs tồn khá lớn, chủ yếu là làm manual task như công nhân vp. Em nên ở lại chờ và tự chủ động hỏi thêm về kiến thức hay nên quit ạ huhu, tại làm mấy cái đó em thấy k phát triển được&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Nerdy_Chick_6868"&gt; /u/Nerdy_Chick_6868 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1okk3u2/có_nên_quit_job_này_k_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1okk3u2/có_nên_quit_job_này_k_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1okk3u2/có_nên_quit_job_này_k_ạ/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người. Em 25 tổi đang là java developer với khoảng 3.5 yoe. Trước đây em làm việc ở HCM tại 1 công ty nọ trong 3 năm, vì làm 1 công ty nên lương cũng không được cao lắm làm 3 năm chỉ ngót ngét 18tr. Đầu năm nay em quyết định nhảy việc để cải thiện thu nhập và mọi chuyện bắt đầu.&lt;/p&gt; &lt;p&gt;Em pass PV vào công ty A với mức lương khá ổn, đi làm đc 2 tháng đến lúc chuẩn bị ký hợp đồng chính thức thì bị lay-off (với lý do không nằm trong kế hoạch phát triển của công ty nữa). Em cũng chấp nhận xem như đen lúc này và khoảng tháng 5 vừa lễ xong. Em về quê nghĩ ngơi lấy lại năng lượng của mình và dự tính sẽ PV công ty khác nhưng không thời điểm đó job cực kỳ than hiếm và tiêu chuẩn cực kỳ cao nên em thất nghiệp đến tháng 7 mới có job tại 1 công ty nhỏ . Làm được 4 tháng thì công ty không nhắc gì về việc ký hđ chính thức cả (chỉ có 1 email thông báo pass probation lúc xong 2 tháng thử việc), nên cách đây tầm 15 ngày em có lên check bhxh và thuế thì không thấy gì cả. em có nhắn tin hỏi bên phía HR. thì đùng em lại bị lay-off lần này không biết vì sao nhưng có lẽ liên quan đến vấn đề hđ =)))&lt;/p&gt; &lt;p&gt;Bây giờ lại là cuối năm nữa việc lay-off khiến em hoang mang quá. Nhiều lúc ngồi suy nghĩ năm nay công việc của em không thuận lợi lại buồn.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Repulsive-Teach148"&gt; /u/Repulsive-Teach148 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ok0mja/năm_25_tuổi_đầy_bất_ổn_và_thất_nghiệp_vào_cuối_năm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ok0mja/năm_25_tuổi_đầy_bất_ổn_và_thất_nghiệp_vào_cuối_năm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ok0mja/năm_25_tuổi_đầy_bất_ổn_và_thất_nghiệp_vào_cuối_năm/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-31T03:22:37+00:00</published>
+    <published>2025-10-30T14:04:44+00:00</published>
   </entry>
   <entry>
     <id>t3_1okj5qv</id>
@@ -318,6 +305,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1okiqsm/mong_mọi_người_cho_tôi_lời_khuyên_định_hướng_và/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-31T02:15:12+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1okk3u2</id>
+    <title>có nên quit job này k ạ</title>
+    <updated>2025-10-31T03:22:37+00:00</updated>
+    <author>
+      <name>/u/Nerdy_Chick_6868</name>
+      <uri>https://old.reddit.com/user/Nerdy_Chick_6868</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;em là F, 21, đang intern c&amp;amp;b (đại loại là về giấy tờ, hợp đồng, tính lương thưởng bhxh) cho một big corp. Lúc đầu em háo hức để được vô làm, do em mong chờ sẽ học hỏi được nhiều nghiệp vụ về bhxh, thuế v.v nhưng sau 1 tháng làm thì scope công việc chủ yếu là sắp xếp và lưu hồ sơ nhân viên do số lượng hs tồn khá lớn, chủ yếu là làm manual task như công nhân vp. Em nên ở lại chờ và tự chủ động hỏi thêm về kiến thức hay nên quit ạ huhu, tại làm mấy cái đó em thấy k phát triển được&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Nerdy_Chick_6868"&gt; /u/Nerdy_Chick_6868 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1okk3u2/có_nên_quit_job_này_k_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1okk3u2/có_nên_quit_job_này_k_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1okk3u2/có_nên_quit_job_này_k_ạ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-31T03:22:37+00:00</published>
   </entry>
   <entry>
     <id>t3_1ojxozb</id>
