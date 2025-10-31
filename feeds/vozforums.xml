@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-10-31T15:41:16+00:00</updated>
+  <updated>2025-10-31T15:50:51+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -97,19 +97,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1okv91p/chọn_nhà_mạng/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-31T13:54:43+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1okvxg4</id>
-    <title>Đầu tư máy bán nước tự động</title>
-    <updated>2025-10-31T14:21:43+00:00</updated>
-    <author>
-      <name>/u/Illustrious-Job9749</name>
-      <uri>https://old.reddit.com/user/Illustrious-Job9749</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi mọi người, mình đang làm dev được 3 năm rồi và cũng có 1 ít vốn, cơ bản là cũng muốn đầu tư làm một cái gì đó.&lt;br /&gt; Mình thấy khá thích mô hình kinh doanh máy bán nước tự động. Đơn giản là mình thấy nhu cầu mua nước là nhu cầu thiết yếu, tiện lợi, xã hội mình cũng dần hiện đại hóa lên rồi nên nghĩ rằng kinh doanh mảng này sẽ ổn.&lt;/p&gt; &lt;p&gt;Đương nhiên là đó chỉ đang ở giai đoạn ý tưởng, mình cũng tìm tòi và thiệt là chưa có thảo luận về mảng kinh doanh này nên mình lên đây hỏi thử xem có ai đang làm mảng này thì xin review xem sao. Có vài câu hỏi mình vẫn đang đặt ra:&lt;/p&gt; &lt;ol&gt; &lt;li&gt;&lt;p&gt;Khó khăn của mảng này là gì?&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Tình huống thực tế khi đi xin đặt máy bán ở 1 nơi nào đó sẽ như thế nào, deal ra sao?&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Có mẹo hay yêu cầu gì khi mua các máy bán nước tự động không?&lt;/p&gt;&lt;/li&gt; &lt;/ol&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Illustrious-Job9749"&gt; /u/Illustrious-Job9749 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1okvxg4/đầu_tư_máy_bán_nước_tự_động/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1okvxg4/đầu_tư_máy_bán_nước_tự_động/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1okvxg4/đầu_tư_máy_bán_nước_tự_động/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-31T14:21:43+00:00</published>
   </entry>
   <entry>
     <id>t3_1okwg59</id>
@@ -240,6 +227,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1okiqsm/mong_mọi_người_cho_tôi_lời_khuyên_định_hướng_và/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-31T02:15:12+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1okvxg4</id>
+    <title>Đầu tư máy bán nước tự động</title>
+    <updated>2025-10-31T14:21:43+00:00</updated>
+    <author>
+      <name>/u/Illustrious-Job9749</name>
+      <uri>https://old.reddit.com/user/Illustrious-Job9749</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi mọi người, mình đang làm dev được 3 năm rồi và cũng có 1 ít vốn, cơ bản là cũng muốn đầu tư làm một cái gì đó.&lt;br /&gt; Mình thấy khá thích mô hình kinh doanh máy bán nước tự động. Đơn giản là mình thấy nhu cầu mua nước là nhu cầu thiết yếu, tiện lợi, xã hội mình cũng dần hiện đại hóa lên rồi nên nghĩ rằng kinh doanh mảng này sẽ ổn.&lt;/p&gt; &lt;p&gt;Đương nhiên là đó chỉ đang ở giai đoạn ý tưởng, mình cũng tìm tòi và thiệt là chưa có thảo luận về mảng kinh doanh này nên mình lên đây hỏi thử xem có ai đang làm mảng này thì xin review xem sao. Có vài câu hỏi mình vẫn đang đặt ra:&lt;/p&gt; &lt;ol&gt; &lt;li&gt;&lt;p&gt;Khó khăn của mảng này là gì?&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Tình huống thực tế khi đi xin đặt máy bán ở 1 nơi nào đó sẽ như thế nào, deal ra sao?&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Có mẹo hay yêu cầu gì khi mua các máy bán nước tự động không?&lt;/p&gt;&lt;/li&gt; &lt;/ol&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Illustrious-Job9749"&gt; /u/Illustrious-Job9749 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1okvxg4/đầu_tư_máy_bán_nước_tự_động/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1okvxg4/đầu_tư_máy_bán_nước_tự_động/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1okvxg4/đầu_tư_máy_bán_nước_tự_động/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-31T14:21:43+00:00</published>
   </entry>
   <entry>
     <id>t3_1okuu00</id>
