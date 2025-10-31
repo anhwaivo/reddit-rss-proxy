@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-10-31T07:50:06+00:00</updated>
+  <updated>2025-10-31T08:23:57+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -125,19 +125,6 @@
     <published>2025-10-31T05:30:42+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ok7q2s</id>
-    <title>Giờ giấc sinh viên</title>
-    <updated>2025-10-30T18:32:17+00:00</updated>
-    <author>
-      <name>/u/Leading_Thanks6054</name>
-      <uri>https://old.reddit.com/user/Leading_Thanks6054</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;E đang là sv năm 4, từ đợt lên đh giờ giấc thoải mái không cố định, chỉ có ăn học chơi. Nay e xin được công việc dậy đều đều hằng ngày 8h đi làm 17h ra về cảm giác rất gò bó về thời gian và tinh thần. Em không biết mọi người lúc ra trường có gặp tình trạng như vậy không và mọi người fix nó như thế nào vậy ạ? Nghĩ tới cảnh ngày nào cũng đều đều như cái máy tới già vậy e hơi nản. E trc đó cũng đi làm 1 2 chỗ rồi nhưng được 1-2 tháng thì e xin nghỉ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Leading_Thanks6054"&gt; /u/Leading_Thanks6054 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ok7q2s/giờ_giấc_sinh_viên/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ok7q2s/giờ_giấc_sinh_viên/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ok7q2s/giờ_giấc_sinh_viên/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-30T18:32:17+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1ok99f6</id>
     <title>Học ngôn ngữ sau ra làm nghề gì</title>
     <updated>2025-10-30T19:30:17+00:00</updated>
@@ -177,6 +164,19 @@
     <published>2025-10-31T06:22:56+00:00</published>
   </entry>
   <entry>
+    <id>t3_1ok7q2s</id>
+    <title>Giờ giấc sinh viên</title>
+    <updated>2025-10-30T18:32:17+00:00</updated>
+    <author>
+      <name>/u/Leading_Thanks6054</name>
+      <uri>https://old.reddit.com/user/Leading_Thanks6054</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;E đang là sv năm 4, từ đợt lên đh giờ giấc thoải mái không cố định, chỉ có ăn học chơi. Nay e xin được công việc dậy đều đều hằng ngày 8h đi làm 17h ra về cảm giác rất gò bó về thời gian và tinh thần. Em không biết mọi người lúc ra trường có gặp tình trạng như vậy không và mọi người fix nó như thế nào vậy ạ? Nghĩ tới cảnh ngày nào cũng đều đều như cái máy tới già vậy e hơi nản. E trc đó cũng đi làm 1 2 chỗ rồi nhưng được 1-2 tháng thì e xin nghỉ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Leading_Thanks6054"&gt; /u/Leading_Thanks6054 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ok7q2s/giờ_giấc_sinh_viên/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ok7q2s/giờ_giấc_sinh_viên/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ok7q2s/giờ_giấc_sinh_viên/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-30T18:32:17+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1oko16t</id>
     <title>Share dùng chung utube</title>
     <updated>2025-10-31T07:17:30+00:00</updated>
@@ -188,19 +188,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1oko16t/share_dùng_chung_utube/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-10-31T07:17:30+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1okodej</id>
-    <title>Chuyển nơi sinh sống và làm việc</title>
-    <updated>2025-10-31T07:41:49+00:00</updated>
-    <author>
-      <name>/u/thingneedtochange00</name>
-      <uri>https://old.reddit.com/user/thingneedtochange00</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào anh chị,&lt;/p&gt; &lt;p&gt;Năm nay em 24 tuổi, chuẩn bị di chuyển từ Hà Nội vào HCM để tìm việc và sinh sống. &lt;/p&gt; &lt;p&gt;Vì chuyển sang thành phố mới, mọi người có thể chia sẻ giúp em vài điều cần lưu ý (đi lại, giá nhà ở, chi phí ăn uống sinh hoạt,..) &lt;/p&gt; &lt;p&gt;Hoặc gần đây có anh chị nào cũng mới vào trong đó sống không ạ? Có thể cho em cảm nhận và lời khuyên không ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/thingneedtochange00"&gt; /u/thingneedtochange00 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1okodej/chuyển_nơi_sinh_sống_và_làm_việc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1okodej/chuyển_nơi_sinh_sống_và_làm_việc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1okodej/chuyển_nơi_sinh_sống_và_làm_việc/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-31T07:41:49+00:00</published>
   </entry>
   <entry>
     <id>t3_1oklnnb</id>
@@ -255,6 +242,19 @@
     <published>2025-10-30T08:37:25+00:00</published>
   </entry>
   <entry>
+    <id>t3_1ok0mja</id>
+    <title>Năm 25 tuổi đầy bất ổn và thất nghiệp vào cuối năm</title>
+    <updated>2025-10-30T14:04:44+00:00</updated>
+    <author>
+      <name>/u/Repulsive-Teach148</name>
+      <uri>https://old.reddit.com/user/Repulsive-Teach148</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người. Em 25 tổi đang là java developer với khoảng 3.5 yoe. Trước đây em làm việc ở HCM tại 1 công ty nọ trong 3 năm, vì làm 1 công ty nên lương cũng không được cao lắm làm 3 năm chỉ ngót ngét 18tr. Đầu năm nay em quyết định nhảy việc để cải thiện thu nhập và mọi chuyện bắt đầu.&lt;/p&gt; &lt;p&gt;Em pass PV vào công ty A với mức lương khá ổn, đi làm đc 2 tháng đến lúc chuẩn bị ký hợp đồng chính thức thì bị lay-off (với lý do không nằm trong kế hoạch phát triển của công ty nữa). Em cũng chấp nhận xem như đen lúc này và khoảng tháng 5 vừa lễ xong. Em về quê nghĩ ngơi lấy lại năng lượng của mình và dự tính sẽ PV công ty khác nhưng không thời điểm đó job cực kỳ than hiếm và tiêu chuẩn cực kỳ cao nên em thất nghiệp đến tháng 7 mới có job tại 1 công ty nhỏ . Làm được 4 tháng thì công ty không nhắc gì về việc ký hđ chính thức cả (chỉ có 1 email thông báo pass probation lúc xong 2 tháng thử việc), nên cách đây tầm 15 ngày em có lên check bhxh và thuế thì không thấy gì cả. em có nhắn tin hỏi bên phía HR. thì đùng em lại bị lay-off lần này không biết vì sao nhưng có lẽ liên quan đến vấn đề hđ =)))&lt;/p&gt; &lt;p&gt;Bây giờ lại là cuối năm nữa việc lay-off khiến em hoang mang quá. Nhiều lúc ngồi suy nghĩ năm nay công việc của em không thuận lợi lại buồn.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Repulsive-Teach148"&gt; /u/Repulsive-Teach148 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ok0mja/năm_25_tuổi_đầy_bất_ổn_và_thất_nghiệp_vào_cuối_năm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ok0mja/năm_25_tuổi_đầy_bất_ổn_và_thất_nghiệp_vào_cuối_năm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ok0mja/năm_25_tuổi_đầy_bất_ổn_và_thất_nghiệp_vào_cuối_năm/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-10-30T14:04:44+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1okmzer</id>
     <title>Mua laptop cũ</title>
     <updated>2025-10-31T06:07:42+00:00</updated>
@@ -268,17 +268,17 @@
     <published>2025-10-31T06:07:42+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ok0mja</id>
-    <title>Năm 25 tuổi đầy bất ổn và thất nghiệp vào cuối năm</title>
-    <updated>2025-10-30T14:04:44+00:00</updated>
+    <id>t3_1okodej</id>
+    <title>Chuyển nơi sinh sống và làm việc</title>
+    <updated>2025-10-31T07:41:49+00:00</updated>
     <author>
-      <name>/u/Repulsive-Teach148</name>
-      <uri>https://old.reddit.com/user/Repulsive-Teach148</uri>
+      <name>/u/thingneedtochange00</name>
+      <uri>https://old.reddit.com/user/thingneedtochange00</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người. Em 25 tổi đang là java developer với khoảng 3.5 yoe. Trước đây em làm việc ở HCM tại 1 công ty nọ trong 3 năm, vì làm 1 công ty nên lương cũng không được cao lắm làm 3 năm chỉ ngót ngét 18tr. Đầu năm nay em quyết định nhảy việc để cải thiện thu nhập và mọi chuyện bắt đầu.&lt;/p&gt; &lt;p&gt;Em pass PV vào công ty A với mức lương khá ổn, đi làm đc 2 tháng đến lúc chuẩn bị ký hợp đồng chính thức thì bị lay-off (với lý do không nằm trong kế hoạch phát triển của công ty nữa). Em cũng chấp nhận xem như đen lúc này và khoảng tháng 5 vừa lễ xong. Em về quê nghĩ ngơi lấy lại năng lượng của mình và dự tính sẽ PV công ty khác nhưng không thời điểm đó job cực kỳ than hiếm và tiêu chuẩn cực kỳ cao nên em thất nghiệp đến tháng 7 mới có job tại 1 công ty nhỏ . Làm được 4 tháng thì công ty không nhắc gì về việc ký hđ chính thức cả (chỉ có 1 email thông báo pass probation lúc xong 2 tháng thử việc), nên cách đây tầm 15 ngày em có lên check bhxh và thuế thì không thấy gì cả. em có nhắn tin hỏi bên phía HR. thì đùng em lại bị lay-off lần này không biết vì sao nhưng có lẽ liên quan đến vấn đề hđ =)))&lt;/p&gt; &lt;p&gt;Bây giờ lại là cuối năm nữa việc lay-off khiến em hoang mang quá. Nhiều lúc ngồi suy nghĩ năm nay công việc của em không thuận lợi lại buồn.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Repulsive-Teach148"&gt; /u/Repulsive-Teach148 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ok0mja/năm_25_tuổi_đầy_bất_ổn_và_thất_nghiệp_vào_cuối_năm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ok0mja/năm_25_tuổi_đầy_bất_ổn_và_thất_nghiệp_vào_cuối_năm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ok0mja/năm_25_tuổi_đầy_bất_ổn_và_thất_nghiệp_vào_cuối_năm/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào anh chị,&lt;/p&gt; &lt;p&gt;Năm nay em 24 tuổi, chuẩn bị di chuyển từ Hà Nội vào HCM để tìm việc và sinh sống. &lt;/p&gt; &lt;p&gt;Vì chuyển sang thành phố mới, mọi người có thể chia sẻ giúp em vài điều cần lưu ý (đi lại, giá nhà ở, chi phí ăn uống sinh hoạt,..) &lt;/p&gt; &lt;p&gt;Hoặc gần đây có anh chị nào cũng mới vào trong đó sống không ạ? Có thể cho em cảm nhận và lời khuyên không ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/thingneedtochange00"&gt; /u/thingneedtochange00 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1okodej/chuyển_nơi_sinh_sống_và_làm_việc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1okodej/chuyển_nơi_sinh_sống_và_làm_việc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1okodej/chuyển_nơi_sinh_sống_và_làm_việc/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-10-30T14:04:44+00:00</published>
+    <published>2025-10-31T07:41:49+00:00</published>
   </entry>
   <entry>
     <id>t3_1okiqsm</id>
