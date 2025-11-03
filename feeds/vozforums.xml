@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-11-03T10:46:10+00:00</updated>
+  <updated>2025-11-03T11:15:46+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -34,19 +34,6 @@
     <published>2025-11-02T14:48:18+00:00</published>
   </entry>
   <entry>
-    <id>t3_1omdr5w</id>
-    <title>Tình trạng thất nghiệp đáng báo động hiện nay có phải do AI?</title>
-    <updated>2025-11-02T10:16:59+00:00</updated>
-    <author>
-      <name>/u/Ill_Friendship1700</name>
-      <uri>https://old.reddit.com/user/Ill_Friendship1700</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác, trong lịch sử các cuộc cách mạng công nghiệp (từ hơi nước, điện, máy tính) đều chứng minh rằng một phần các công việc cũ biến mất, nhường chỗ cho các công việc mới mang lại nhiều giá trị hơn:&lt;/p&gt; &lt;p&gt;- &lt;strong&gt;Cách mạng công nghiệp lần 1&lt;/strong&gt; - máy hơi nước (James Watt), cơ khí hóa &lt;strong&gt;(cuối TK 18 – nửa đầu TK 19)&lt;/strong&gt;, các ngành dệt, luyện kim, giao thông (tàu hỏa, tàu thủy hơi nước) bùng nổ, đồng thời các thợ thủ công dệt, thợ rèn nhỏ lẻ… khó cạnh tranh với nhà máy.&lt;/p&gt; &lt;p&gt;- &lt;strong&gt;Cách mạng công nghiệp lần 2&lt;/strong&gt; &lt;strong&gt;(cuối TK 19 – đầu TK 20)&lt;/strong&gt;, các ngành thép, điện lực, ô tô, điện thoại, hóa dầu bùng nổ, nhưng nhiều nghề thủ công gia đình, sản xuất thủ công nhỏ nhường chỗ cho công nghiệp quy mô lớn&lt;/p&gt; &lt;p&gt;- &lt;strong&gt;Cách mạng công nghiệp lần 3 (từ thập niên 1970)&lt;/strong&gt;, các ngành điện tử, CNTT, tự động hóa, máy tính, internet bắt đầu phát triển, dẫn đến nhiều việc văn phòng lặp lại, kế toán tay, đánh máy… bị máy tính thay, nhưng sinh ra nghề lập trình, quản trị mạng, thiết kế chip, dịch vụ phần mềm.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;- Cách mạng công nghiệp lần 4&lt;/strong&gt; &lt;strong&gt;(từ đầu TK 21 đến nay)&lt;/strong&gt;, các ngành AI, dữ liệu lớn, IoT, in 3D, robot thông minh, công nghệ sinh học, tự động hóa cao bùng nổ, khiến cho nhiều việc mang tính thủ tục, nhập liệu, chăm sóc khách hàng đơn giản, lái xe ở một số khâu… sẽ bị tự động hóa dần.&lt;/p&gt; &lt;p&gt;Tuy nhiên thì khi những người làm việc cũ bị mất việc, không có nghĩa họ sẽ có công việc &amp;quot;mới&amp;quot;, ở giữa luôn có độ trễ vì cái cũ luôn biến mất nhanh, người lao động chuyển kỹ năng chậm, việc mới yêu cầu trình độ cao hơn hoặc khác loại nên mới có hiện tượng “công nghệ phát triển mà vẫn có người thất nghiệp”. &lt;/p&gt; &lt;p&gt;Đây là quan điểm cá nhân của em, các bác nghĩ thế nào?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ill_Friendship1700"&gt; /u/Ill_Friendship1700 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1omdr5w/tình_trạng_thất_nghiệp_đáng_báo_động_hiện_nay_có/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1omdr5w/tình_trạng_thất_nghiệp_đáng_báo_động_hiện_nay_có/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1omdr5w/tình_trạng_thất_nghiệp_đáng_báo_động_hiện_nay_có/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-02T10:16:59+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1on1ubg</id>
     <title>r/tamsudemkhuya</title>
     <updated>2025-11-03T03:51:28+00:00</updated>
@@ -58,6 +45,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1on1ubg/rtamsudemkhuya/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-03T03:51:28+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1omdr5w</id>
+    <title>Tình trạng thất nghiệp đáng báo động hiện nay có phải do AI?</title>
+    <updated>2025-11-02T10:16:59+00:00</updated>
+    <author>
+      <name>/u/Ill_Friendship1700</name>
+      <uri>https://old.reddit.com/user/Ill_Friendship1700</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác, trong lịch sử các cuộc cách mạng công nghiệp (từ hơi nước, điện, máy tính) đều chứng minh rằng một phần các công việc cũ biến mất, nhường chỗ cho các công việc mới mang lại nhiều giá trị hơn:&lt;/p&gt; &lt;p&gt;- &lt;strong&gt;Cách mạng công nghiệp lần 1&lt;/strong&gt; - máy hơi nước (James Watt), cơ khí hóa &lt;strong&gt;(cuối TK 18 – nửa đầu TK 19)&lt;/strong&gt;, các ngành dệt, luyện kim, giao thông (tàu hỏa, tàu thủy hơi nước) bùng nổ, đồng thời các thợ thủ công dệt, thợ rèn nhỏ lẻ… khó cạnh tranh với nhà máy.&lt;/p&gt; &lt;p&gt;- &lt;strong&gt;Cách mạng công nghiệp lần 2&lt;/strong&gt; &lt;strong&gt;(cuối TK 19 – đầu TK 20)&lt;/strong&gt;, các ngành thép, điện lực, ô tô, điện thoại, hóa dầu bùng nổ, nhưng nhiều nghề thủ công gia đình, sản xuất thủ công nhỏ nhường chỗ cho công nghiệp quy mô lớn&lt;/p&gt; &lt;p&gt;- &lt;strong&gt;Cách mạng công nghiệp lần 3 (từ thập niên 1970)&lt;/strong&gt;, các ngành điện tử, CNTT, tự động hóa, máy tính, internet bắt đầu phát triển, dẫn đến nhiều việc văn phòng lặp lại, kế toán tay, đánh máy… bị máy tính thay, nhưng sinh ra nghề lập trình, quản trị mạng, thiết kế chip, dịch vụ phần mềm.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;- Cách mạng công nghiệp lần 4&lt;/strong&gt; &lt;strong&gt;(từ đầu TK 21 đến nay)&lt;/strong&gt;, các ngành AI, dữ liệu lớn, IoT, in 3D, robot thông minh, công nghệ sinh học, tự động hóa cao bùng nổ, khiến cho nhiều việc mang tính thủ tục, nhập liệu, chăm sóc khách hàng đơn giản, lái xe ở một số khâu… sẽ bị tự động hóa dần.&lt;/p&gt; &lt;p&gt;Tuy nhiên thì khi những người làm việc cũ bị mất việc, không có nghĩa họ sẽ có công việc &amp;quot;mới&amp;quot;, ở giữa luôn có độ trễ vì cái cũ luôn biến mất nhanh, người lao động chuyển kỹ năng chậm, việc mới yêu cầu trình độ cao hơn hoặc khác loại nên mới có hiện tượng “công nghệ phát triển mà vẫn có người thất nghiệp”. &lt;/p&gt; &lt;p&gt;Đây là quan điểm cá nhân của em, các bác nghĩ thế nào?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ill_Friendship1700"&gt; /u/Ill_Friendship1700 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1omdr5w/tình_trạng_thất_nghiệp_đáng_báo_động_hiện_nay_có/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1omdr5w/tình_trạng_thất_nghiệp_đáng_báo_động_hiện_nay_có/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1omdr5w/tình_trạng_thất_nghiệp_đáng_báo_động_hiện_nay_có/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-02T10:16:59+00:00</published>
   </entry>
   <entry>
     <id>t3_1on34kf</id>
@@ -151,19 +151,6 @@
     <published>2025-11-03T03:35:35+00:00</published>
   </entry>
   <entry>
-    <id>t3_1on21bv</id>
-    <title>Phân tích khá chuẩn, sao không vào lệnh, lại đứng ngoài nhìn cho vui vậy ta?</title>
-    <updated>2025-11-03T04:01:20+00:00</updated>
-    <author>
-      <name>/u/Ambitious-Target-833</name>
-      <uri>https://old.reddit.com/user/Ambitious-Target-833</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1on21bv/phân_tích_khá_chuẩn_sao_không_vào_lệnh_lại_đứng/"&gt; &lt;img alt="Phân tích khá chuẩn, sao không vào lệnh, lại đứng ngoài nhìn cho vui vậy ta?" src="https://b.thumbs.redditmedia.com/9NXvSobV9BLqMy6XF5RPWvVTUfP9BzIfMb0Fw9CiUZs.jpg" title="Phân tích khá chuẩn, sao không vào lệnh, lại đứng ngoài nhìn cho vui vậy ta?" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="https://preview.redd.it/zqd98vn5uyyf1.png?width=644&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=b26676af2665f7edd6ed38c76973abd8226fba9b"&gt;https://preview.redd.it/zqd98vn5uyyf1.png?width=644&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=b26676af2665f7edd6ed38c76973abd8226fba9b&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Mình mới tập chơi ck lẫn tiền ảo và cũng trên này, thấy nhận định hầu hết là chuẩn. Nhiều lần thấy phân tích y như kịch bản thị trường chạy, mà thắc mắc là biết đúng thế sao lại không vào lệnh luôn, lại chọn thời điểm khác. Hay là họ chia sẻ cho vui, quan sát thị trường là chính chứ không “đánh” thật?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ambitious-Target-833"&gt; /u/Ambitious-Target-833 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1on21bv/phân_tích_khá_chuẩn_sao_không_vào_lệnh_lại_đứng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1on21bv/phân_tích_khá_chuẩn_sao_không_vào_lệnh_lại_đứng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1on21bv/phân_tích_khá_chuẩn_sao_không_vào_lệnh_lại_đứng/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-03T04:01:20+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1ommn9x</id>
     <title>Người yêu của mấy ông trong mắt mấy ông</title>
     <updated>2025-11-02T17:02:21+00:00</updated>
@@ -175,6 +162,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ommn9x/người_yêu_của_mấy_ông_trong_mắt_mấy_ông/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-02T17:02:21+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1on21bv</id>
+    <title>Phân tích khá chuẩn, sao không vào lệnh, lại đứng ngoài nhìn cho vui vậy ta?</title>
+    <updated>2025-11-03T04:01:20+00:00</updated>
+    <author>
+      <name>/u/Ambitious-Target-833</name>
+      <uri>https://old.reddit.com/user/Ambitious-Target-833</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1on21bv/phân_tích_khá_chuẩn_sao_không_vào_lệnh_lại_đứng/"&gt; &lt;img alt="Phân tích khá chuẩn, sao không vào lệnh, lại đứng ngoài nhìn cho vui vậy ta?" src="https://b.thumbs.redditmedia.com/9NXvSobV9BLqMy6XF5RPWvVTUfP9BzIfMb0Fw9CiUZs.jpg" title="Phân tích khá chuẩn, sao không vào lệnh, lại đứng ngoài nhìn cho vui vậy ta?" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="https://preview.redd.it/zqd98vn5uyyf1.png?width=644&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=b26676af2665f7edd6ed38c76973abd8226fba9b"&gt;https://preview.redd.it/zqd98vn5uyyf1.png?width=644&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=b26676af2665f7edd6ed38c76973abd8226fba9b&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Mình mới tập chơi ck lẫn tiền ảo và cũng trên này, thấy nhận định hầu hết là chuẩn. Nhiều lần thấy phân tích y như kịch bản thị trường chạy, mà thắc mắc là biết đúng thế sao lại không vào lệnh luôn, lại chọn thời điểm khác. Hay là họ chia sẻ cho vui, quan sát thị trường là chính chứ không “đánh” thật?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ambitious-Target-833"&gt; /u/Ambitious-Target-833 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1on21bv/phân_tích_khá_chuẩn_sao_không_vào_lệnh_lại_đứng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1on21bv/phân_tích_khá_chuẩn_sao_không_vào_lệnh_lại_đứng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1on21bv/phân_tích_khá_chuẩn_sao_không_vào_lệnh_lại_đứng/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-03T04:01:20+00:00</published>
   </entry>
   <entry>
     <id>t3_1omqgrv</id>
@@ -216,19 +216,6 @@
     <published>2025-11-03T08:03:22+00:00</published>
   </entry>
   <entry>
-    <id>t3_1on6no8</id>
-    <title>Tìm kiếm kênh đầu tư lúc này ư?</title>
-    <updated>2025-11-03T08:44:41+00:00</updated>
-    <author>
-      <name>/u/Limp_Magazine_9210</name>
-      <uri>https://old.reddit.com/user/Limp_Magazine_9210</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em mới out khỏi thị trường tiền số và chốt lời với 500tr Mà giờ cầm tiền mặt lại mất giá quá Em xin các bác tư vấn kênh đầu tư an toàn Vàng thì có thể mua nhưng đừng tư vấn em mua vùng 15x chát quá Cần 1 món nào đó trống lạm phát hoặc tỷ xuất sinh lời &amp;gt;= 10%/ năm thôi ạ Em không mong cao &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Limp_Magazine_9210"&gt; /u/Limp_Magazine_9210 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1on6no8/tìm_kiếm_kênh_đầu_tư_lúc_này_ư/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1on6no8/tìm_kiếm_kênh_đầu_tư_lúc_này_ư/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1on6no8/tìm_kiếm_kênh_đầu_tư_lúc_này_ư/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-03T08:44:41+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1on1xn3</id>
     <title>Lo lắng về tương lai.</title>
     <updated>2025-11-03T03:56:14+00:00</updated>
@@ -253,6 +240,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1on6wuo/ảnh_chụp_hàng_ngày_bằng_điện_thoại/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-03T09:01:32+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1on6no8</id>
+    <title>Tìm kiếm kênh đầu tư lúc này ư?</title>
+    <updated>2025-11-03T08:44:41+00:00</updated>
+    <author>
+      <name>/u/Limp_Magazine_9210</name>
+      <uri>https://old.reddit.com/user/Limp_Magazine_9210</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em mới out khỏi thị trường tiền số và chốt lời với 500tr Mà giờ cầm tiền mặt lại mất giá quá Em xin các bác tư vấn kênh đầu tư an toàn Vàng thì có thể mua nhưng đừng tư vấn em mua vùng 15x chát quá Cần 1 món nào đó trống lạm phát hoặc tỷ xuất sinh lời &amp;gt;= 10%/ năm thôi ạ Em không mong cao &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Limp_Magazine_9210"&gt; /u/Limp_Magazine_9210 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1on6no8/tìm_kiếm_kênh_đầu_tư_lúc_này_ư/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1on6no8/tìm_kiếm_kênh_đầu_tư_lúc_này_ư/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1on6no8/tìm_kiếm_kênh_đầu_tư_lúc_này_ư/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-03T08:44:41+00:00</published>
   </entry>
   <entry>
     <id>t3_1on4hcc</id>
