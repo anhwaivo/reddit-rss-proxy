@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-11-05T16:24:44+00:00</updated>
+  <updated>2025-11-05T16:50:21+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -71,19 +71,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1oowxas/chọn_nghĩa_vụ_quân_sự_hay_nghĩa_vụ_công_an/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-05T07:51:34+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1op3lpv</id>
-    <title>Phòng trọ của các bác ntn? :D</title>
-    <updated>2025-11-05T13:59:23+00:00</updated>
-    <author>
-      <name>/u/borjiginnergui</name>
-      <uri>https://old.reddit.com/user/borjiginnergui</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các bác chia sẻ với nhé :D&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/borjiginnergui"&gt; /u/borjiginnergui &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1op3lpv/phòng_trọ_của_các_bác_ntn_d/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1op3lpv/phòng_trọ_của_các_bác_ntn_d/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1op3lpv/phòng_trọ_của_các_bác_ntn_d/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-05T13:59:23+00:00</published>
   </entry>
   <entry>
     <id>t3_1ooy8qg</id>
@@ -164,6 +151,19 @@
     <published>2025-11-05T10:00:43+00:00</published>
   </entry>
   <entry>
+    <id>t3_1op3lpv</id>
+    <title>Phòng trọ của các bác ntn? :D</title>
+    <updated>2025-11-05T13:59:23+00:00</updated>
+    <author>
+      <name>/u/borjiginnergui</name>
+      <uri>https://old.reddit.com/user/borjiginnergui</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các bác chia sẻ với nhé :D&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/borjiginnergui"&gt; /u/borjiginnergui &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1op3lpv/phòng_trọ_của_các_bác_ntn_d/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1op3lpv/phòng_trọ_của_các_bác_ntn_d/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1op3lpv/phòng_trọ_của_các_bác_ntn_d/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-05T13:59:23+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1oouh7f</id>
     <title>7 triệu thì…</title>
     <updated>2025-11-05T05:21:29+00:00</updated>
@@ -229,19 +229,6 @@
     <published>2025-11-05T13:33:06+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ooy1uf</id>
-    <title>Mọi người có thấy sản phẩm ngày nay càng có tuổi thọ ngắn hơn không ?</title>
-    <updated>2025-11-05T09:05:37+00:00</updated>
-    <author>
-      <name>/u/CertainAge9801</name>
-      <uri>https://old.reddit.com/user/CertainAge9801</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hello mọi người, như title vậy, mình sẽ ghi 1 vài điểm theo thời gian (Theo đánh giá cá nhân của mình) để có căn cứ so sánh. Đồng thời giá trị sản phẩm mình tính cũng tương đương nhau (Đã có tính chênh lệch về tiền tại thời điểm)&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Năm 2000&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&lt;em&gt;Hàng tiêu dùng:&lt;/em&gt;&lt;/strong&gt; &lt;/p&gt; &lt;p&gt;+ Phích nước giữ nhiệt&lt;/p&gt; &lt;p&gt;+ Bếp ga&lt;/p&gt; &lt;p&gt;2 cái này nhà mình dùng rất lâu, khoảng tới năm 2015 thì không dùng nữa nhưng gần như ít hỏng hóc&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&lt;em&gt;Phương tiện:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;+ Xe máy: Nhà mình có 1 chiếc dream bố mình mua năm 96 vẫn đi được tới tận bây giờ. Gần như không hỏng hóc mấy, chủ yếu là thay dầu vá xăm&lt;/p&gt; &lt;p&gt;+ Ô tô: Ô tô cũng có 1 chiếc từ 2005 (Nubiza thì phải mình không nhớ tên) đi tới tận năm 2018 bố mình bán, cũng ít hỏng hóc, chủ yếu là thay dầu, lọc nước, thay đèn xe&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Bây giờ&lt;/strong&gt; &lt;/p&gt; &lt;p&gt;&lt;strong&gt;&lt;em&gt;Hàng tiêu dùng:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;+ Bếp điện: Dùng khoảng 1 năm phải sửa 1 lần&lt;/p&gt; &lt;p&gt;+ Phích nước: Dùng 1 năm đổi 1 lần, đa phần do bong tróc bên trong&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&lt;em&gt;Phương tiện&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;+&lt;/em&gt; Mình có 1 chiếc AB đời 2022, đi tới giờ sửa liên tục, nào là lọc gió, côn&lt;/p&gt; &lt;p&gt;+ Ô tô mua hồi 2022 (Sonet) liên tục phải đi sửa linh tinh như giảm sóc, phanh ...&lt;/p&gt; &lt;p&gt;Mình cảm thấy hiện tại các sản phẩm tiêu dùng giờ không còn được &lt;strong&gt;Bền&lt;/strong&gt; như này trước nữa, tuổi thọ cũng giảm đi nhiều. Có phải do năng lực sản xuất đi xuống hay do họ cố tình làm tuổi thọ của sản phẩm bớt đi để bán nhiều hơn ? Mọi người có chia sẻ gì không ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/CertainAge9801"&gt; /u/CertainAge9801 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ooy1uf/mọi_người_có_thấy_sản_phẩm_ngày_nay_càng_có_tuổi/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ooy1uf/mọi_người_có_thấy_sản_phẩm_ngày_nay_càng_có_tuổi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ooy1uf/mọi_người_có_thấy_sản_phẩm_ngày_nay_càng_có_tuổi/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-05T09:05:37+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1op2wrr</id>
     <title>Nhờ chia sẻ kinh nghiệm định hướng</title>
     <updated>2025-11-05T13:30:44+00:00</updated>
@@ -268,30 +255,17 @@
     <published>2025-11-05T14:45:50+00:00</published>
   </entry>
   <entry>
-    <id>t3_1op6qhq</id>
-    <title>Xin chào mọi người, em năm nay 21 tuổi, chưa nắm tay gái bao giờ. Em muốn xin lời khuyên để có người yêu ạ. Em hơi thấp.</title>
-    <updated>2025-11-05T16:00:31+00:00</updated>
+    <id>t3_1ooy1uf</id>
+    <title>Mọi người có thấy sản phẩm ngày nay càng có tuổi thọ ngắn hơn không ?</title>
+    <updated>2025-11-05T09:05:37+00:00</updated>
     <author>
-      <name>/u/Otherwise_Bad_9879</name>
-      <uri>https://old.reddit.com/user/Otherwise_Bad_9879</uri>
+      <name>/u/CertainAge9801</name>
+      <uri>https://old.reddit.com/user/CertainAge9801</uri>
     </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Otherwise_Bad_9879"&gt; /u/Otherwise_Bad_9879 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1op6qhq/xin_chào_mọi_người_em_năm_nay_21_tuổi_chưa_nắm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1op6qhq/xin_chào_mọi_người_em_năm_nay_21_tuổi_chưa_nắm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1op6qhq/xin_chào_mọi_người_em_năm_nay_21_tuổi_chưa_nắm/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hello mọi người, như title vậy, mình sẽ ghi 1 vài điểm theo thời gian (Theo đánh giá cá nhân của mình) để có căn cứ so sánh. Đồng thời giá trị sản phẩm mình tính cũng tương đương nhau (Đã có tính chênh lệch về tiền tại thời điểm)&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Năm 2000&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&lt;em&gt;Hàng tiêu dùng:&lt;/em&gt;&lt;/strong&gt; &lt;/p&gt; &lt;p&gt;+ Phích nước giữ nhiệt&lt;/p&gt; &lt;p&gt;+ Bếp ga&lt;/p&gt; &lt;p&gt;2 cái này nhà mình dùng rất lâu, khoảng tới năm 2015 thì không dùng nữa nhưng gần như ít hỏng hóc&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&lt;em&gt;Phương tiện:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;+ Xe máy: Nhà mình có 1 chiếc dream bố mình mua năm 96 vẫn đi được tới tận bây giờ. Gần như không hỏng hóc mấy, chủ yếu là thay dầu vá xăm&lt;/p&gt; &lt;p&gt;+ Ô tô: Ô tô cũng có 1 chiếc từ 2005 (Nubiza thì phải mình không nhớ tên) đi tới tận năm 2018 bố mình bán, cũng ít hỏng hóc, chủ yếu là thay dầu, lọc nước, thay đèn xe&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Bây giờ&lt;/strong&gt; &lt;/p&gt; &lt;p&gt;&lt;strong&gt;&lt;em&gt;Hàng tiêu dùng:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;+ Bếp điện: Dùng khoảng 1 năm phải sửa 1 lần&lt;/p&gt; &lt;p&gt;+ Phích nước: Dùng 1 năm đổi 1 lần, đa phần do bong tróc bên trong&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&lt;em&gt;Phương tiện&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;+&lt;/em&gt; Mình có 1 chiếc AB đời 2022, đi tới giờ sửa liên tục, nào là lọc gió, côn&lt;/p&gt; &lt;p&gt;+ Ô tô mua hồi 2022 (Sonet) liên tục phải đi sửa linh tinh như giảm sóc, phanh ...&lt;/p&gt; &lt;p&gt;Mình cảm thấy hiện tại các sản phẩm tiêu dùng giờ không còn được &lt;strong&gt;Bền&lt;/strong&gt; như này trước nữa, tuổi thọ cũng giảm đi nhiều. Có phải do năng lực sản xuất đi xuống hay do họ cố tình làm tuổi thọ của sản phẩm bớt đi để bán nhiều hơn ? Mọi người có chia sẻ gì không ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/CertainAge9801"&gt; /u/CertainAge9801 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ooy1uf/mọi_người_có_thấy_sản_phẩm_ngày_nay_càng_có_tuổi/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ooy1uf/mọi_người_có_thấy_sản_phẩm_ngày_nay_càng_có_tuổi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ooy1uf/mọi_người_có_thấy_sản_phẩm_ngày_nay_càng_có_tuổi/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-05T16:00:31+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1op5uc9</id>
-    <title>Chào mừng đến r/TamSuDemKhuya - góc nhỏ để bạn chia sẻ gánh nặng và tìm kiếm sự đồng cảm chân thành</title>
-    <updated>2025-11-05T15:26:37+00:00</updated>
-    <author>
-      <name>/u/minhanhvntb1</name>
-      <uri>https://old.reddit.com/user/minhanhvntb1</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="/r/tamsudemkhuya"&gt;r/tamsudemkhuya&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/minhanhvntb1"&gt; /u/minhanhvntb1 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1op5uc9/chào_mừng_đến_rtamsudemkhuya_góc_nhỏ_để_bạn_chia/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1op5uc9/chào_mừng_đến_rtamsudemkhuya_góc_nhỏ_để_bạn_chia/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1op5uc9/chào_mừng_đến_rtamsudemkhuya_góc_nhỏ_để_bạn_chia/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-05T15:26:37+00:00</published>
+    <published>2025-11-05T09:05:37+00:00</published>
   </entry>
   <entry>
     <id>t3_1op4xvf</id>
@@ -307,6 +281,19 @@
     <published>2025-11-05T14:52:21+00:00</published>
   </entry>
   <entry>
+    <id>t3_1op5uc9</id>
+    <title>Chào mừng đến r/TamSuDemKhuya - góc nhỏ để bạn chia sẻ gánh nặng và tìm kiếm sự đồng cảm chân thành</title>
+    <updated>2025-11-05T15:26:37+00:00</updated>
+    <author>
+      <name>/u/minhanhvntb1</name>
+      <uri>https://old.reddit.com/user/minhanhvntb1</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="/r/tamsudemkhuya"&gt;r/tamsudemkhuya&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/minhanhvntb1"&gt; /u/minhanhvntb1 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1op5uc9/chào_mừng_đến_rtamsudemkhuya_góc_nhỏ_để_bạn_chia/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1op5uc9/chào_mừng_đến_rtamsudemkhuya_góc_nhỏ_để_bạn_chia/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1op5uc9/chào_mừng_đến_rtamsudemkhuya_góc_nhỏ_để_bạn_chia/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-05T15:26:37+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1oowujq</id>
     <title>Công ty cũ</title>
     <updated>2025-11-05T07:46:33+00:00</updated>
@@ -318,6 +305,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1oowujq/công_ty_cũ/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-05T07:46:33+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1op6qhq</id>
+    <title>Xin chào mọi người, em năm nay 21 tuổi, chưa nắm tay gái bao giờ. Em muốn xin lời khuyên để có người yêu ạ. Em hơi thấp.</title>
+    <updated>2025-11-05T16:00:31+00:00</updated>
+    <author>
+      <name>/u/Otherwise_Bad_9879</name>
+      <uri>https://old.reddit.com/user/Otherwise_Bad_9879</uri>
+    </author>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Otherwise_Bad_9879"&gt; /u/Otherwise_Bad_9879 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1op6qhq/xin_chào_mọi_người_em_năm_nay_21_tuổi_chưa_nắm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1op6qhq/xin_chào_mọi_người_em_năm_nay_21_tuổi_chưa_nắm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1op6qhq/xin_chào_mọi_người_em_năm_nay_21_tuổi_chưa_nắm/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-05T16:00:31+00:00</published>
   </entry>
   <entry>
     <id>t3_1op0xgg</id>
