@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-11-06T11:38:08+00:00</updated>
+  <updated>2025-11-06T11:50:41+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1opljsq</id>
-    <title>Tư vấn tablet cho vẽ vời</title>
-    <updated>2025-11-06T01:22:52+00:00</updated>
-    <author>
-      <name>/u/witchyywynor</name>
-      <uri>https://old.reddit.com/user/witchyywynor</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mn, mình ngoi lên để xin vài tên em tablet android nào ổn cho việc vẽ digital. Mình không cần máy mạnh lắm, chỉ cần độ nhạy stylus ổn thôi ạ. Mình muốn mua OS android vì nó cài apk dễ hơn và cá nhân mình thấy IOS xài khá bực mình 🥲&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/witchyywynor"&gt; /u/witchyywynor &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1opljsq/tư_vấn_tablet_cho_vẽ_vời/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1opljsq/tư_vấn_tablet_cho_vẽ_vời/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1opljsq/tư_vấn_tablet_cho_vẽ_vời/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-06T01:22:52+00:00</published>
-  </entry>
   <entry>
     <id>t3_1opmfak</id>
     <title>Laptop lâu ngày không dùng bật không lên nguồn🥲</title>
@@ -197,10 +184,23 @@
       <name>/u/Organic-Initiative96</name>
       <uri>https://old.reddit.com/user/Organic-Initiative96</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tình hình là mình ở trọ, xong nay yên xe máy của mình bị ai để rác lên (sau đó vứt rác vào thùng), nhưng nước rác chảy ra yên xe máy mình mùi hôi thối, ruồi nhặng giòi bâu từa lưa. Xong mình nhắn ban quản lý toà nhà check camera khu để xe giúp mình xem ai để rác đó rồi nhờ họ lau giùm mình, mình ngửi thấy mùi đó là buồn nôn, nên nay đi xe khác đi làm, xe máy của mình ko dùng được.&lt;/p&gt; &lt;p&gt;Xong đến mãi chiều tối mình chưa thấy BQL nhắn lại gì, nên tự mình đi gõ cửa từng phòng hỏi người vứt rác trên cùng, túi rác có mùi đó, hỏi tên người đó qua địa chỉ tên trong túi rác thì biết bạn cùng phòng của một người tầng dưới vứt, xong mình nói có gì lau giúp mình, nay mình ko dùng xe máy cả ngày được mà phải dùng xe máy của chồng đi. Xong bạn đó có xin lỗi và thấy đi xuống lau giúp mình rồi (mình chưa check lại vì lên phòng luôn).&lt;/p&gt; &lt;p&gt;Giờ ngồi nghĩ lại ko biết có vì chuyện mình bảo họ dọn mùi rác trên yên xe mình mà bị trả thù ko nhỉ, làm bẩn xe hoặc trả thù bằng cách phá hoại nhà mình chẳng hạn (sr chắc mình bị hơi overthinking)&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Organic-Initiative96"&gt; /u/Organic-Initiative96 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1opwip6/sợ_bị_trả_thù_ko/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1opwip6/sợ_bị_trả_thù_ko/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tình hình là mình ở trọ, xong nay yên xe máy của mình bị ai để rác lên (sau đó vứt rác vào thùng), nhưng nước rác chảy ra yên xe máy mình mùi hôi thối, ruồi nhặng giòi bâu từa lưa. Xong mình nhắn ban quản lý toà nhà check camera khu để xe giúp mình xem ai để rác đó rồi nhờ họ lau giùm mình, mình ngửi thấy mùi đó là buồn nôn, nên nay đi xe khác đi làm, xe máy của mình ko dùng được.&lt;/p&gt; &lt;p&gt;Xong đến mãi chiều tối mình chưa thấy BQL nhắn lại gì, nên tự mình đi gõ cửa từng phòng hỏi người vứt rác trên cùng, túi rác có mùi đó, hỏi tên người đó qua địa chỉ tên trong túi rác thì biết bạn cùng phòng của một người tầng dưới vứt, xong mình nói có gì lau giúp mình, nay mình ko dùng xe máy cả ngày được mà phải dùng xe máy của chồng đi. Xong bạn đó có xin lỗi và thấy đi xuống lau giúp mình rồi (mình chưa check lại vì lên phòng luôn).&lt;/p&gt; &lt;p&gt;Giờ ngồi nghĩ lại ko biết có vì chuyện mình bảo họ dọn mùi rác trên yên xe mình mà bị trả thù ko nhỉ, làm bẩn xe hoặc trả thù bằng cách phá hoại nhà mình chẳng hạn (sr chắc mình bị hơi overthinking, vói hay gặp trên mạng mấy chuyện con gái trả thù vặt này kia)&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Organic-Initiative96"&gt; /u/Organic-Initiative96 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1opwip6/sợ_bị_trả_thù_ko/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1opwip6/sợ_bị_trả_thù_ko/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
     <link href="https://old.reddit.com/r/vozforums/comments/1opwip6/sợ_bị_trả_thù_ko/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-06T11:32:45+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1opwrdj</id>
+    <title>Career counselor có đáng tiền không?</title>
+    <updated>2025-11-06T11:46:14+00:00</updated>
+    <author>
+      <name>/u/Ilovupusi</name>
+      <uri>https://old.reddit.com/user/Ilovupusi</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình 23, đang không biết phải làm gì trong đường sự nghiệp. Mình chỉ giỏi tiếng anh, nghĩ là sẽ đi làm gv, nhưng làm cái đó chỉ kiếm thêm chứ để ổn định thì hơi khó. Ngoài ra mình không có kỹ năng gì, không biết mình có thiên hướng gì. Mình biết mình thích gì và cái gì làm mình hạnh phúc. Chỉ là mình thích quá nhiều cái, mà lại không biết cái nào thực sự hợp và cũng không biết phải thử thế nào (công việc gì, sự phù hợp với tình hình kinh tế hiện tại). Hiện mình tìm thấy 1 career counselor giá book tầm 1.5tr, bỏ tiền ra như vậy có đáng không ạ? Cái mình cần tìm là thiên hướng của mình, xem mình có thể thành công hoặc trụ lâu ở nghề nào. Các bác thấy sao? &lt;/p&gt; &lt;p&gt;Mình xin cảm ơn trước&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ilovupusi"&gt; /u/Ilovupusi &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1opwrdj/career_counselor_có_đáng_tiền_không/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1opwrdj/career_counselor_có_đáng_tiền_không/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1opwrdj/career_counselor_có_đáng_tiền_không/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-06T11:46:14+00:00</published>
   </entry>
   <entry>
     <id>t3_1optq0d</id>
@@ -214,19 +214,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1optq0d/gắn_lại_biển_số/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-06T08:41:12+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1opso65</id>
-    <title>Suy nghĩ của phái nam</title>
-    <updated>2025-11-06T07:32:24+00:00</updated>
-    <author>
-      <name>/u/Numerous-View5758</name>
-      <uri>https://old.reddit.com/user/Numerous-View5758</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mn. Mình là F(28), mình có ny và bọn mình đã hs. Mấy nay mình xem được các video, nói về việc khi con trai sau được hs vs ng yêu r thì sẽ giảm yêu vì cảm giác chinh phục được rồi. Ny mình thì vẫn bình thường và không có biểu hiện gì lạ. Tuy nhiên sau khi xem xong mình lại bị suy nghĩ lo lắng linh tinh. Mn cho mình hỏi liệu nhìn chung thì con trai có suy nghĩ như vậy không ạ? Cảm ơn mn đã đọc bài.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Numerous-View5758"&gt; /u/Numerous-View5758 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1opso65/suy_nghĩ_của_phái_nam/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1opso65/suy_nghĩ_của_phái_nam/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1opso65/suy_nghĩ_của_phái_nam/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-06T07:32:24+00:00</published>
   </entry>
   <entry>
     <id>t3_1oppvyn</id>
@@ -279,6 +266,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1oppcoy/đi_đám_cưới_xã_giao_bao_nhiêu_tiền/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-06T04:22:32+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1opso65</id>
+    <title>Suy nghĩ của phái nam</title>
+    <updated>2025-11-06T07:32:24+00:00</updated>
+    <author>
+      <name>/u/Numerous-View5758</name>
+      <uri>https://old.reddit.com/user/Numerous-View5758</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mn. Mình là F(28), mình có ny và bọn mình đã hs. Mấy nay mình xem được các video, nói về việc khi con trai sau được hs vs ng yêu r thì sẽ giảm yêu vì cảm giác chinh phục được rồi. Ny mình thì vẫn bình thường và không có biểu hiện gì lạ. Tuy nhiên sau khi xem xong mình lại bị suy nghĩ lo lắng linh tinh. Mn cho mình hỏi liệu nhìn chung thì con trai có suy nghĩ như vậy không ạ? Cảm ơn mn đã đọc bài.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Numerous-View5758"&gt; /u/Numerous-View5758 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1opso65/suy_nghĩ_của_phái_nam/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1opso65/suy_nghĩ_của_phái_nam/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1opso65/suy_nghĩ_của_phái_nam/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-06T07:32:24+00:00</published>
   </entry>
   <entry>
     <id>t3_1opv11r</id>
