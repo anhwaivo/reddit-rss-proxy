@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-11-06T16:24:56+00:00</updated>
+  <updated>2025-11-06T16:51:15+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -164,19 +164,6 @@
     <published>2025-11-06T10:53:37+00:00</published>
   </entry>
   <entry>
-    <id>t3_1opx6hj</id>
-    <title>Xấu tính</title>
-    <updated>2025-11-06T12:08:00+00:00</updated>
-    <author>
-      <name>/u/rqu_aw13</name>
-      <uri>https://old.reddit.com/user/rqu_aw13</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Năm nay mk 22 tuổi tôi cảm thấy mk xấu tính quá như là khi có lợi j tôi sẽ nghĩ đến bản thân đầu tiên , nếu đối phương cho tôi thì tôi mới cho lại . Và gần đây nhất tôi thấy bạn thân của mk đạt được thành tích tốt tôi cảm thấy không vui tôi bị căng thẳng mệt mỏi . Muốn xin cách khắc phục tính này ạ tôi cảm thấy mk tệ quá 😿 &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/rqu_aw13"&gt; /u/rqu_aw13 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1opx6hj/xấu_tính/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1opx6hj/xấu_tính/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1opx6hj/xấu_tính/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-06T12:08:00+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1oq16pr</id>
     <title>Khám nvqs vòng 1 như chơi</title>
     <updated>2025-11-06T15:00:39+00:00</updated>
@@ -201,19 +188,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1opv11r/hoang_mang_sau_khi_tốt_nghiệp_đại_học_y/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-06T10:04:52+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1opy7s9</id>
-    <title>Cho em hỏi, một bạn nữ nào đó thích rờ đầu mình thì sao vậy🥹</title>
-    <updated>2025-11-06T12:58:05+00:00</updated>
-    <author>
-      <name>/u/coisama</name>
-      <uri>https://old.reddit.com/user/coisama</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;D&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/coisama"&gt; /u/coisama &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1opy7s9/cho_em_hỏi_một_bạn_nữ_nào_đó_thích_rờ_đầu_mình/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1opy7s9/cho_em_hỏi_một_bạn_nữ_nào_đó_thích_rờ_đầu_mình/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1opy7s9/cho_em_hỏi_một_bạn_nữ_nào_đó_thích_rờ_đầu_mình/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-06T12:58:05+00:00</published>
   </entry>
   <entry>
     <id>t3_1opyc6t</id>
@@ -242,6 +216,45 @@
     <published>2025-11-06T13:18:21+00:00</published>
   </entry>
   <entry>
+    <id>t3_1opx6hj</id>
+    <title>Xấu tính</title>
+    <updated>2025-11-06T12:08:00+00:00</updated>
+    <author>
+      <name>/u/rqu_aw13</name>
+      <uri>https://old.reddit.com/user/rqu_aw13</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Năm nay mk 22 tuổi tôi cảm thấy mk xấu tính quá như là khi có lợi j tôi sẽ nghĩ đến bản thân đầu tiên , nếu đối phương cho tôi thì tôi mới cho lại . Và gần đây nhất tôi thấy bạn thân của mk đạt được thành tích tốt tôi cảm thấy không vui tôi bị căng thẳng mệt mỏi . Muốn xin cách khắc phục tính này ạ tôi cảm thấy mk tệ quá 😿 &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/rqu_aw13"&gt; /u/rqu_aw13 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1opx6hj/xấu_tính/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1opx6hj/xấu_tính/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1opx6hj/xấu_tính/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-06T12:08:00+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1opy7s9</id>
+    <title>Cho em hỏi, một bạn nữ nào đó thích rờ đầu mình thì sao vậy🥹</title>
+    <updated>2025-11-06T12:58:05+00:00</updated>
+    <author>
+      <name>/u/coisama</name>
+      <uri>https://old.reddit.com/user/coisama</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;D&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/coisama"&gt; /u/coisama &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1opy7s9/cho_em_hỏi_một_bạn_nữ_nào_đó_thích_rờ_đầu_mình/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1opy7s9/cho_em_hỏi_một_bạn_nữ_nào_đó_thích_rờ_đầu_mình/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1opy7s9/cho_em_hỏi_một_bạn_nữ_nào_đó_thích_rờ_đầu_mình/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-06T12:58:05+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1opso65</id>
+    <title>Suy nghĩ của phái nam</title>
+    <updated>2025-11-06T07:32:24+00:00</updated>
+    <author>
+      <name>/u/Numerous-View5758</name>
+      <uri>https://old.reddit.com/user/Numerous-View5758</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mn. Mình là F(28), mình có ny và bọn mình đã hs. Mấy nay mình xem được các video, nói về việc khi con trai sau được hs vs ng yêu r thì sẽ giảm yêu vì cảm giác chinh phục được rồi. Ny mình thì vẫn bình thường và không có biểu hiện gì lạ. Tuy nhiên sau khi xem xong mình lại bị suy nghĩ lo lắng linh tinh. Mn cho mình hỏi liệu nhìn chung thì con trai có suy nghĩ như vậy không ạ? Cảm ơn mn đã đọc bài.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Numerous-View5758"&gt; /u/Numerous-View5758 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1opso65/suy_nghĩ_của_phái_nam/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1opso65/suy_nghĩ_của_phái_nam/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1opso65/suy_nghĩ_của_phái_nam/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-06T07:32:24+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1oq1j7t</id>
     <title>Về tương lai của ngành IT cũng như bản thân</title>
     <updated>2025-11-06T15:14:06+00:00</updated>
@@ -266,19 +279,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1oq1kuw/30_tuổi_tiểu_đường_bệnh_tim_và_nợ_2_tỏi_mất_việc/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-06T15:15:51+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1opso65</id>
-    <title>Suy nghĩ của phái nam</title>
-    <updated>2025-11-06T07:32:24+00:00</updated>
-    <author>
-      <name>/u/Numerous-View5758</name>
-      <uri>https://old.reddit.com/user/Numerous-View5758</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mn. Mình là F(28), mình có ny và bọn mình đã hs. Mấy nay mình xem được các video, nói về việc khi con trai sau được hs vs ng yêu r thì sẽ giảm yêu vì cảm giác chinh phục được rồi. Ny mình thì vẫn bình thường và không có biểu hiện gì lạ. Tuy nhiên sau khi xem xong mình lại bị suy nghĩ lo lắng linh tinh. Mn cho mình hỏi liệu nhìn chung thì con trai có suy nghĩ như vậy không ạ? Cảm ơn mn đã đọc bài.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Numerous-View5758"&gt; /u/Numerous-View5758 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1opso65/suy_nghĩ_của_phái_nam/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1opso65/suy_nghĩ_của_phái_nam/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1opso65/suy_nghĩ_của_phái_nam/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-06T07:32:24+00:00</published>
   </entry>
   <entry>
     <id>t3_1opml5y</id>
