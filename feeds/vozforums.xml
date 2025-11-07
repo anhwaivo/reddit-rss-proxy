@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-11-07T04:51:30+00:00</updated>
+  <updated>2025-11-07T05:18:46+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -242,19 +242,6 @@
     <published>2025-11-06T12:51:22+00:00</published>
   </entry>
   <entry>
-    <id>t3_1oqkb6n</id>
-    <title>Tại sao gia đình/ con trai miền Trung không thích cưới vợ miền Tây</title>
-    <updated>2025-11-07T03:54:34+00:00</updated>
-    <author>
-      <name>/u/Big-Reindeer5403</name>
-      <uri>https://old.reddit.com/user/Big-Reindeer5403</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;như tít ạ, &lt;/p&gt; &lt;p&gt;Tất nhiên ở đâu cũng có người này người kia, nhưng đa số những anh mình tiếp xúc đều có tư tưởng như vậy. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Big-Reindeer5403"&gt; /u/Big-Reindeer5403 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oqkb6n/tại_sao_gia_đình_con_trai_miền_trung_không_thích/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oqkb6n/tại_sao_gia_đình_con_trai_miền_trung_không_thích/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1oqkb6n/tại_sao_gia_đình_con_trai_miền_trung_không_thích/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-07T03:54:34+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1oq1j7t</id>
     <title>Về tương lai của ngành IT cũng như bản thân</title>
     <updated>2025-11-06T15:14:06+00:00</updated>
@@ -305,6 +292,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1oq84i0/con_trai_có_bỏ_thời_gian_đi_chơicà_phêtám_chuyện/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-06T19:18:51+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1oqkb6n</id>
+    <title>Tại sao gia đình/ con trai miền Trung không thích cưới vợ miền Tây</title>
+    <updated>2025-11-07T03:54:34+00:00</updated>
+    <author>
+      <name>/u/Big-Reindeer5403</name>
+      <uri>https://old.reddit.com/user/Big-Reindeer5403</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;như tít ạ, &lt;/p&gt; &lt;p&gt;Tất nhiên ở đâu cũng có người này người kia, nhưng đa số những anh mình tiếp xúc đều có tư tưởng như vậy. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Big-Reindeer5403"&gt; /u/Big-Reindeer5403 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oqkb6n/tại_sao_gia_đình_con_trai_miền_trung_không_thích/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oqkb6n/tại_sao_gia_đình_con_trai_miền_trung_không_thích/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1oqkb6n/tại_sao_gia_đình_con_trai_miền_trung_không_thích/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-07T03:54:34+00:00</published>
   </entry>
   <entry>
     <id>t3_1oql2os</id>
