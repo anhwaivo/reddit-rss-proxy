@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-11-07T09:19:10+00:00</updated>
+  <updated>2025-11-07T09:40:24+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1oq2j9f</id>
-    <title>chia sẻ kinh nghiệm làm demo phần mềm game học từ vựng</title>
-    <updated>2025-11-06T15:52:00+00:00</updated>
-    <author>
-      <name>/u/Unable-Assistance-41</name>
-      <uri>https://old.reddit.com/user/Unable-Assistance-41</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, Em là sinh viên NNA, đang làm dự án tạo ra ứng dụng phần mềm game để học từ vựng có kết hợp AI. Hiện thì đang cần làm bản DEMO trước nhưng em không chuyên về mảng công nghệ với IT cho lắm. Ai từng làm hoặc đang làm dev cho các mẫu game tương tự cho em kinh nghiệm được không ạ? Em cảm ơn ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Unable-Assistance-41"&gt; /u/Unable-Assistance-41 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oq2j9f/chia_sẻ_kinh_nghiệm_làm_demo_phần_mềm_game_học_từ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oq2j9f/chia_sẻ_kinh_nghiệm_làm_demo_phần_mềm_game_học_từ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1oq2j9f/chia_sẻ_kinh_nghiệm_làm_demo_phần_mềm_game_học_từ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-06T15:52:00+00:00</published>
-  </entry>
   <entry>
     <id>t3_1oqfaaw</id>
     <title>Mấy bác ơi. Cho e hỏi góc khuất của nghề Giáo viên là gì vậy ạ?</title>
@@ -60,6 +47,19 @@
     <published>2025-11-06T13:03:24+00:00</published>
   </entry>
   <entry>
+    <id>t3_1oq5m95</id>
+    <title>Chuyện ăn nói</title>
+    <updated>2025-11-06T17:46:04+00:00</updated>
+    <author>
+      <name>/u/vn_meimei</name>
+      <uri>https://old.reddit.com/user/vn_meimei</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Xin chào mọi người. Gần đây em được góp ý là ăn nói lạnh lùng, bỗ bã, như đấm vào tai người nghe. Khi nch thì em hay có mấy từ bậy nữa (Cái này đương nhiên là phải bỏ). Mọi người cho em xin phương pháp, lộ trình, cách thức hay một cái gì đó để cải thiện khả năng giao tiếp của mình với ạ :(((&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/vn_meimei"&gt; /u/vn_meimei &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oq5m95/chuyện_ăn_nói/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oq5m95/chuyện_ăn_nói/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1oq5m95/chuyện_ăn_nói/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-06T17:46:04+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1oq2653</id>
     <title>Hỏi đáp ý kiến</title>
     <updated>2025-11-06T15:38:24+00:00</updated>
@@ -73,19 +73,6 @@
     <published>2025-11-06T15:38:24+00:00</published>
   </entry>
   <entry>
-    <id>t3_1opso65</id>
-    <title>Suy nghĩ của phái nam</title>
-    <updated>2025-11-06T07:32:24+00:00</updated>
-    <author>
-      <name>/u/Numerous-View5758</name>
-      <uri>https://old.reddit.com/user/Numerous-View5758</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mn. Mình là F(28), mình có ny và bọn mình đã hs. Mấy nay mình xem được các video, nói về việc khi con trai sau được hs vs ng yêu r thì sẽ giảm yêu vì cảm giác chinh phục được rồi. Ny mình thì vẫn bình thường và không có biểu hiện gì lạ. Tuy nhiên sau khi xem xong mình lại bị suy nghĩ lo lắng linh tinh. Mn cho mình hỏi liệu nhìn chung thì con trai có suy nghĩ như vậy không ạ? Cảm ơn mn đã đọc bài.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Numerous-View5758"&gt; /u/Numerous-View5758 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1opso65/suy_nghĩ_của_phái_nam/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1opso65/suy_nghĩ_của_phái_nam/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1opso65/suy_nghĩ_của_phái_nam/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-06T07:32:24+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1oqpgbq</id>
     <title>r/tamsudemkhuya</title>
     <updated>2025-11-07T08:57:48+00:00</updated>
@@ -97,6 +84,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1oqpgbq/rtamsudemkhuya/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-07T08:57:48+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1opso65</id>
+    <title>Suy nghĩ của phái nam</title>
+    <updated>2025-11-06T07:32:24+00:00</updated>
+    <author>
+      <name>/u/Numerous-View5758</name>
+      <uri>https://old.reddit.com/user/Numerous-View5758</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mn. Mình là F(28), mình có ny và bọn mình đã hs. Mấy nay mình xem được các video, nói về việc khi con trai sau được hs vs ng yêu r thì sẽ giảm yêu vì cảm giác chinh phục được rồi. Ny mình thì vẫn bình thường và không có biểu hiện gì lạ. Tuy nhiên sau khi xem xong mình lại bị suy nghĩ lo lắng linh tinh. Mn cho mình hỏi liệu nhìn chung thì con trai có suy nghĩ như vậy không ạ? Cảm ơn mn đã đọc bài.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Numerous-View5758"&gt; /u/Numerous-View5758 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1opso65/suy_nghĩ_của_phái_nam/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1opso65/suy_nghĩ_của_phái_nam/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1opso65/suy_nghĩ_của_phái_nam/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-06T07:32:24+00:00</published>
   </entry>
   <entry>
     <id>t3_1opqtxv</id>
@@ -177,19 +177,6 @@
     <published>2025-11-06T15:14:06+00:00</published>
   </entry>
   <entry>
-    <id>t3_1oqd10u</id>
-    <title>Lương ở California bao nhiêu?</title>
-    <updated>2025-11-06T22:27:07+00:00</updated>
-    <author>
-      <name>/u/Pale-War5447</name>
-      <uri>https://old.reddit.com/user/Pale-War5447</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình muốn hỏi về lương trước và sau thuế ở Mỹ. Người thân mình ở bên đó và luôn khoe lương làm ở sân bay cỡ 5000$/tháng, nghỉ hưu sẽ được 1500$. Không biết với mặt bằng chung bên đó, vậy là cao chưa? Ở Việt Nam, mọi người ngưỡng mộ quá nên mình cũng tò mò.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Pale-War5447"&gt; /u/Pale-War5447 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oqd10u/lương_ở_california_bao_nhiêu/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oqd10u/lương_ở_california_bao_nhiêu/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1oqd10u/lương_ở_california_bao_nhiêu/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-06T22:27:07+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1oqps9b</id>
     <title>Hỗ trợ</title>
     <updated>2025-11-07T09:18:30+00:00</updated>
@@ -216,17 +203,17 @@
     <published>2025-11-06T15:15:51+00:00</published>
   </entry>
   <entry>
-    <id>t3_1oqoeab</id>
-    <title>Nên tặng quà gì cho bạn thân khác giới.</title>
-    <updated>2025-11-07T07:48:54+00:00</updated>
+    <id>t3_1oqd10u</id>
+    <title>Lương ở California bao nhiêu?</title>
+    <updated>2025-11-06T22:27:07+00:00</updated>
     <author>
-      <name>/u/taipyn</name>
-      <uri>https://old.reddit.com/user/taipyn</uri>
+      <name>/u/Pale-War5447</name>
+      <uri>https://old.reddit.com/user/Pale-War5447</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em là nam , sắp tới sinh nhật của đứa bạn thân khác giới mà em chưa biết tặng gì, anh chị có cao kiến góp ý em với ạ 🤧&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/taipyn"&gt; /u/taipyn &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oqoeab/nên_tặng_quà_gì_cho_bạn_thân_khác_giới/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oqoeab/nên_tặng_quà_gì_cho_bạn_thân_khác_giới/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1oqoeab/nên_tặng_quà_gì_cho_bạn_thân_khác_giới/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình muốn hỏi về lương trước và sau thuế ở Mỹ. Người thân mình ở bên đó và luôn khoe lương làm ở sân bay cỡ 5000$/tháng, nghỉ hưu sẽ được 1500$. Không biết với mặt bằng chung bên đó, vậy là cao chưa? Ở Việt Nam, mọi người ngưỡng mộ quá nên mình cũng tò mò.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Pale-War5447"&gt; /u/Pale-War5447 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oqd10u/lương_ở_california_bao_nhiêu/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oqd10u/lương_ở_california_bao_nhiêu/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1oqd10u/lương_ở_california_bao_nhiêu/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-07T07:48:54+00:00</published>
+    <published>2025-11-06T22:27:07+00:00</published>
   </entry>
   <entry>
     <id>t3_1oqnrcq</id>
@@ -240,6 +227,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1oqnrcq/e_cần_mn_tư_vấn_ạ/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-07T07:07:32+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1oqoeab</id>
+    <title>Nên tặng quà gì cho bạn thân khác giới.</title>
+    <updated>2025-11-07T07:48:54+00:00</updated>
+    <author>
+      <name>/u/taipyn</name>
+      <uri>https://old.reddit.com/user/taipyn</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em là nam , sắp tới sinh nhật của đứa bạn thân khác giới mà em chưa biết tặng gì, anh chị có cao kiến góp ý em với ạ 🤧&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/taipyn"&gt; /u/taipyn &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oqoeab/nên_tặng_quà_gì_cho_bạn_thân_khác_giới/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oqoeab/nên_tặng_quà_gì_cho_bạn_thân_khác_giới/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1oqoeab/nên_tặng_quà_gì_cho_bạn_thân_khác_giới/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-07T07:48:54+00:00</published>
   </entry>
   <entry>
     <id>t3_1oqm665</id>
