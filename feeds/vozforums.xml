@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-11-07T19:50:27+00:00</updated>
+  <updated>2025-11-07T20:18:33+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -138,19 +138,6 @@
     <published>2025-11-07T17:28:59+00:00</published>
   </entry>
   <entry>
-    <id>t3_1oqx4dr</id>
-    <title>Xin ý kiếm thiết kế mạng wifi,LAN..</title>
-    <updated>2025-11-07T15:18:06+00:00</updated>
-    <author>
-      <name>/u/Objective-Opinion-62</name>
-      <uri>https://old.reddit.com/user/Objective-Opinion-62</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, em đang được người quen nhờ thiết kế 1 hệ thống mạng wifi và cả LAN cho 1 quán cafe làm việc 3 tầng. Thì ngành học của em không phải về mạng nhưng em có chút kiến thức trong môn học mạng không dây như mấy cái ip, subnet, bluetooth,AP,... nhưng chưa bao giờ có kinh nghiệm thiết kế cho 1 hệ thống thật cả. Còn về dự án thì sau khi xem bản vẽ thì em ước lượng rằng quán này sẽ tầm 100-120 người và băng thông cho mỗi người trong trường hợp xấu nhất thì e tính dư ra khoảng 40Mbps/người (zoom, ggmeet, youtube, facebook,.. với độ phân giải và ổn định cao nhất dựa trên bandwidth requirements của từng app), em đang mắc ở việc thiết kế cái modem-router ở chỗ em nên chọn modem-router đã gộp thành 1 khối rồi mở rộng ra hay mua riêng modem, router,...rồi thiết kế thì ổn hơn ạ. Em không có kinh nghiệm trong việc chọn lựa cái này, mong mọi người có thể tư vấn ạ, em cảm ơn.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Objective-Opinion-62"&gt; /u/Objective-Opinion-62 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oqx4dr/xin_ý_kiếm_thiết_kế_mạng_wifilan/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oqx4dr/xin_ý_kiếm_thiết_kế_mạng_wifilan/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1oqx4dr/xin_ý_kiếm_thiết_kế_mạng_wifilan/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-07T15:18:06+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1oqusaf</id>
     <title>Con gái chán yêu khi nào hết</title>
     <updated>2025-11-07T13:44:39+00:00</updated>
@@ -216,6 +203,19 @@
     <published>2025-11-07T04:34:08+00:00</published>
   </entry>
   <entry>
+    <id>t3_1oqx4dr</id>
+    <title>Xin ý kiếm thiết kế mạng wifi,LAN..</title>
+    <updated>2025-11-07T15:18:06+00:00</updated>
+    <author>
+      <name>/u/Objective-Opinion-62</name>
+      <uri>https://old.reddit.com/user/Objective-Opinion-62</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, em đang được người quen nhờ thiết kế 1 hệ thống mạng wifi và cả LAN cho 1 quán cafe làm việc 3 tầng. Thì ngành học của em không phải về mạng nhưng em có chút kiến thức trong môn học mạng không dây như mấy cái ip, subnet, bluetooth,AP,... nhưng chưa bao giờ có kinh nghiệm thiết kế cho 1 hệ thống thật cả. Còn về dự án thì sau khi xem bản vẽ thì em ước lượng rằng quán này sẽ tầm 100-120 người và băng thông cho mỗi người trong trường hợp xấu nhất thì e tính dư ra khoảng 40Mbps/người (zoom, ggmeet, youtube, facebook,.. với độ phân giải và ổn định cao nhất dựa trên bandwidth requirements của từng app), em đang mắc ở việc thiết kế cái modem-router ở chỗ em nên chọn modem-router đã gộp thành 1 khối rồi mở rộng ra hay mua riêng modem, router,...rồi thiết kế thì ổn hơn ạ. Em không có kinh nghiệm trong việc chọn lựa cái này, mong mọi người có thể tư vấn ạ, em cảm ơn.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Objective-Opinion-62"&gt; /u/Objective-Opinion-62 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oqx4dr/xin_ý_kiếm_thiết_kế_mạng_wifilan/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oqx4dr/xin_ý_kiếm_thiết_kế_mạng_wifilan/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1oqx4dr/xin_ý_kiếm_thiết_kế_mạng_wifilan/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-07T15:18:06+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1oqwqbq</id>
     <title>Giải pháp đi LAN</title>
     <updated>2025-11-07T15:03:23+00:00</updated>
@@ -242,19 +242,6 @@
     <published>2025-11-07T12:27:24+00:00</published>
   </entry>
   <entry>
-    <id>t3_1oqsm8c</id>
-    <title>Câu hỏi vui vẻ cho mấy ông con trai: Bạn đã bao giờ 'mất cơ hội' vì không nhận ra tín hiệu tán tỉnh chưa?</title>
-    <updated>2025-11-07T12:05:19+00:00</updated>
-    <author>
-      <name>/u/PlusStatement1294</name>
-      <uri>https://old.reddit.com/user/PlusStatement1294</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các ông đã từng trải qua tình huống kiểu như: có cô bạn nào đó hồi còn đi học hay trêu ghẹo ông, cố ý nắm tay ông, kéo tay ông đi, khoác vai ông, ôm hay thậm chí là giả vờ hôn...vv&lt;/p&gt; &lt;p&gt;Nhưng mà hồi đó các ông quá ngây thơ, nhỏ bé để nhận ra và rồi 10 năm sau vào một buổi tối thứ 5 ông nhớ lại 'à, ra là thế' làm ông mất ngủ đến 3 giờ sáng. Cảm giác của mấy ông thế nào? Tui thì đã từng trải qua và mới nhớ lại gần đây :v cảm giác như khinh thường bản thân thủa đó.&lt;/p&gt; &lt;p&gt;còn các bạn nữ nghĩ sao về trường hợp này?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/PlusStatement1294"&gt; /u/PlusStatement1294 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oqsm8c/câu_hỏi_vui_vẻ_cho_mấy_ông_con_trai_bạn_đã_bao/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oqsm8c/câu_hỏi_vui_vẻ_cho_mấy_ông_con_trai_bạn_đã_bao/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1oqsm8c/câu_hỏi_vui_vẻ_cho_mấy_ông_con_trai_bạn_đã_bao/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-07T12:05:19+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1oqzvx8</id>
     <title>Có nên kết hôn sớm ở tuổi 23 ?</title>
     <updated>2025-11-07T17:02:22+00:00</updated>
@@ -266,6 +253,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1oqzvx8/có_nên_kết_hôn_sớm_ở_tuổi_23/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-07T17:02:22+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1oqsm8c</id>
+    <title>Câu hỏi vui vẻ cho mấy ông con trai: Bạn đã bao giờ 'mất cơ hội' vì không nhận ra tín hiệu tán tỉnh chưa?</title>
+    <updated>2025-11-07T12:05:19+00:00</updated>
+    <author>
+      <name>/u/PlusStatement1294</name>
+      <uri>https://old.reddit.com/user/PlusStatement1294</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các ông đã từng trải qua tình huống kiểu như: có cô bạn nào đó hồi còn đi học hay trêu ghẹo ông, cố ý nắm tay ông, kéo tay ông đi, khoác vai ông, ôm hay thậm chí là giả vờ hôn...vv&lt;/p&gt; &lt;p&gt;Nhưng mà hồi đó các ông quá ngây thơ, nhỏ bé để nhận ra và rồi 10 năm sau vào một buổi tối thứ 5 ông nhớ lại 'à, ra là thế' làm ông mất ngủ đến 3 giờ sáng. Cảm giác của mấy ông thế nào? Tui thì đã từng trải qua và mới nhớ lại gần đây :v cảm giác như khinh thường bản thân thủa đó.&lt;/p&gt; &lt;p&gt;còn các bạn nữ nghĩ sao về trường hợp này?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/PlusStatement1294"&gt; /u/PlusStatement1294 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oqsm8c/câu_hỏi_vui_vẻ_cho_mấy_ông_con_trai_bạn_đã_bao/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oqsm8c/câu_hỏi_vui_vẻ_cho_mấy_ông_con_trai_bạn_đã_bao/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1oqsm8c/câu_hỏi_vui_vẻ_cho_mấy_ông_con_trai_bạn_đã_bao/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-07T12:05:19+00:00</published>
   </entry>
   <entry>
     <id>t3_1oqeu8b</id>
