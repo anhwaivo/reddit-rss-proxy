@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-11-07T09:50:35+00:00</updated>
+  <updated>2025-11-07T10:20:28+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1oqfaaw</id>
-    <title>Mấy bác ơi. Cho e hỏi góc khuất của nghề Giáo viên là gì vậy ạ?</title>
-    <updated>2025-11-07T00:00:30+00:00</updated>
-    <author>
-      <name>/u/Any-Impression3731</name>
-      <uri>https://old.reddit.com/user/Any-Impression3731</uri>
-    </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Any-Impression3731"&gt; /u/Any-Impression3731 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oqfaaw/mấy_bác_ơi_cho_e_hỏi_góc_khuất_của_nghề_giáo_viên/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oqfaaw/mấy_bác_ơi_cho_e_hỏi_góc_khuất_của_nghề_giáo_viên/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1oqfaaw/mấy_bác_ơi_cho_e_hỏi_góc_khuất_của_nghề_giáo_viên/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-07T00:00:30+00:00</published>
-  </entry>
   <entry>
     <id>t3_1opml5y</id>
     <title>Gu của mấy ông con trai như được hình thành sẵn trong gen à ?</title>
@@ -47,19 +34,6 @@
     <published>2025-11-06T13:03:24+00:00</published>
   </entry>
   <entry>
-    <id>t3_1oq5m95</id>
-    <title>Chuyện ăn nói</title>
-    <updated>2025-11-06T17:46:04+00:00</updated>
-    <author>
-      <name>/u/vn_meimei</name>
-      <uri>https://old.reddit.com/user/vn_meimei</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Xin chào mọi người. Gần đây em được góp ý là ăn nói lạnh lùng, bỗ bã, như đấm vào tai người nghe. Khi nch thì em hay có mấy từ bậy nữa (Cái này đương nhiên là phải bỏ). Mọi người cho em xin phương pháp, lộ trình, cách thức hay một cái gì đó để cải thiện khả năng giao tiếp của mình với ạ :(((&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/vn_meimei"&gt; /u/vn_meimei &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oq5m95/chuyện_ăn_nói/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oq5m95/chuyện_ăn_nói/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1oq5m95/chuyện_ăn_nói/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-06T17:46:04+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1oq2653</id>
     <title>Hỏi đáp ý kiến</title>
     <updated>2025-11-06T15:38:24+00:00</updated>
@@ -84,6 +58,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1oqpgbq/rtamsudemkhuya/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-07T08:57:48+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1oq5m95</id>
+    <title>Chuyện ăn nói</title>
+    <updated>2025-11-06T17:46:04+00:00</updated>
+    <author>
+      <name>/u/vn_meimei</name>
+      <uri>https://old.reddit.com/user/vn_meimei</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Xin chào mọi người. Gần đây em được góp ý là ăn nói lạnh lùng, bỗ bã, như đấm vào tai người nghe. Khi nch thì em hay có mấy từ bậy nữa (Cái này đương nhiên là phải bỏ). Mọi người cho em xin phương pháp, lộ trình, cách thức hay một cái gì đó để cải thiện khả năng giao tiếp của mình với ạ :(((&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/vn_meimei"&gt; /u/vn_meimei &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oq5m95/chuyện_ăn_nói/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oq5m95/chuyện_ăn_nói/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1oq5m95/chuyện_ăn_nói/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-06T17:46:04+00:00</published>
   </entry>
   <entry>
     <id>t3_1opso65</id>
@@ -203,6 +190,19 @@
     <published>2025-11-06T15:15:51+00:00</published>
   </entry>
   <entry>
+    <id>t3_1oqqbfw</id>
+    <title>Qua vòng sơ tuyển NVQS</title>
+    <updated>2025-11-07T09:52:20+00:00</updated>
+    <author>
+      <name>/u/External_Flamingo491</name>
+      <uri>https://old.reddit.com/user/External_Flamingo491</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;E mới đi khám về, 1 mắt 1.5, mắt 2.75. Sức khoẻ bình thường. Trường hợp này vào vòng 2 có cơ may thoát ko các bác&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/External_Flamingo491"&gt; /u/External_Flamingo491 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oqqbfw/qua_vòng_sơ_tuyển_nvqs/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oqqbfw/qua_vòng_sơ_tuyển_nvqs/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1oqqbfw/qua_vòng_sơ_tuyển_nvqs/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-07T09:52:20+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1oqd10u</id>
     <title>Lương ở California bao nhiêu?</title>
     <updated>2025-11-06T22:27:07+00:00</updated>
@@ -255,19 +255,6 @@
     <published>2025-11-07T05:34:22+00:00</published>
   </entry>
   <entry>
-    <id>t3_1oqpl46</id>
-    <title>Khoảnh khắc khiến bạn quyết định nghỉ việc</title>
-    <updated>2025-11-07T09:05:55+00:00</updated>
-    <author>
-      <name>/u/Klutzy-Engineering34</name>
-      <uri>https://old.reddit.com/user/Klutzy-Engineering34</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tui trước :))) đợt đó xin nghỉ 1 hôm đi nhổ răng khôn, vừa khỏi viện thấy lead ntin hỏi thăm. Đang hơi xúc động thì thấy thêm tin nhắn giao task 🤣 cũng ngậm ngùi tranh thủ còn thuốc tê r làm thôi, may task đó cx ez. &lt;/p&gt; &lt;p&gt;Cái buồn cười nhất là có thể giao cho nhân sự khác làm cũng dc vì task đó cũng ko quá khó, nhưng phải giao cho đứa nghỉ cơ. Thêm cái do tính chất công việc nên có nghỉ phép thì vẫn phải khư khư cái lap do thi thoảng có vài task cần xử lý nhanh . Nên hầu như mình cũng ko nghỉ mấy, ốm đau lắm hay lâu lâu đi du lịch mới nghỉ (du lịch cũng mang lap 😇) &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Klutzy-Engineering34"&gt; /u/Klutzy-Engineering34 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oqpl46/khoảnh_khắc_khiến_bạn_quyết_định_nghỉ_việc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oqpl46/khoảnh_khắc_khiến_bạn_quyết_định_nghỉ_việc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1oqpl46/khoảnh_khắc_khiến_bạn_quyết_định_nghỉ_việc/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-07T09:05:55+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1oqmag2</id>
     <title>Về mức lương</title>
     <updated>2025-11-07T05:40:52+00:00</updated>
@@ -307,17 +294,17 @@
     <published>2025-11-07T04:34:08+00:00</published>
   </entry>
   <entry>
-    <id>t3_1oqo8vh</id>
-    <title>Lập trình viên thất nghiệp 1 năm rồi, giờ chỉ mong có 1 việc online để giúp mẹ – mọi người chỉ giúp mình cách tìm với ạ</title>
-    <updated>2025-11-07T07:39:22+00:00</updated>
+    <id>t3_1oqpl46</id>
+    <title>Khoảnh khắc khiến bạn quyết định nghỉ việc</title>
+    <updated>2025-11-07T09:05:55+00:00</updated>
     <author>
-      <name>/u/Cool-Tea2642</name>
-      <uri>https://old.reddit.com/user/Cool-Tea2642</uri>
+      <name>/u/Klutzy-Engineering34</name>
+      <uri>https://old.reddit.com/user/Klutzy-Engineering34</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi mọi người,&lt;/p&gt; &lt;p&gt;Mình là 1 Android Dev (4+ năm kn) thất nghiệp chắc cũng được 1 năm rồi. Vừa rồi mình mới có phỏng vấn với 1 cty Hàn Quốc có trụ sở ở VN. Cả 2 vòng (technical và culture fit) mình đều pass nhưng sau đó HR lại báo cho mình là do công ty hiện tại không đủ budget để tuyển thêm nên họ bảo mình đợi ít nhất 1 tháng nữa chờ các sếp đi công tác về sẽ review lại job đó nhưng mình nghĩ không có hy vọng gì đâu. Mình thấy rất thất vọng.&lt;/p&gt; &lt;p&gt;Về hoàn cảnh mình hiện tại: Mình thất nghiệp được 1 năm rồi. Hiện tại đang ở nhà “ăn bám” mẹ vì mãi chưa có cty nào nhận. Tiền trong tài khoản là 0đ vì trước mình bị 1 người anh họ hàng lừa vay tiền nhưng giờ không liên lạc được anh ấy nữa. Mình cũng đang nợ 50tr ngân hàng do trước mình dùng thẻ tín dụng để chi tiêu ở HN (sau khi nghỉ việc mình cố ở HN để phỏng vấn nhưng không pass cty nào, cuối cùng đành về quê với khoản nợ đó). Mẹ mình lương 3tr/tháng vừa phải trả lãi khoản nợ 50tr kia vừa để nuôi 2 mẹ con.&lt;/p&gt; &lt;p&gt;Mình biết là sẽ rất khó để có được công việc đúng chuyên môn là Android Dev ở thời điểm hiện tại (có thể là do kinh tế năm nay khó khăn nên các cty ít tuyển) nên chỉ mong có được 1 công việc online làm ở nhà (việc gì cũng được) để phần nào giúp đỡ mẹ, thời gian rảnh buổi tối thì tiếp tục trau dồi chuyên môn để quay lại với công việc đúng chuyên môn là Android Dev.&lt;/p&gt; &lt;p&gt;Mình đã thử tìm các công việc online ở trên các group facebook, reddit nhưng tất cả đều là scam. Giờ mình không biết làm sao để có 1 công việc online làm ở nhà đây. Mọi người ai có kinh nghiệm tìm việc online giúp mình/em với (công việc nào cũng được ạ, miễn được làm online ạ). Em cảm ơn rất nhiều ạ.&lt;/p&gt; &lt;p&gt;Đây là CV của em, nếu mọi có job, giới thiệu em với ạ: &lt;a href="https://drive.google.com/file/d/1xIAZ3ADUWeN9KuwJkd7r3T2NHxpyPJGT/view?usp=drive_link"&gt;https://drive.google.com/file/d/1xIAZ3ADUWeN9KuwJkd7r3T2NHxpyPJGT/view?usp=drive_link&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Cool-Tea2642"&gt; /u/Cool-Tea2642 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oqo8vh/lập_trình_viên_thất_nghiệp_1_năm_rồi_giờ_chỉ_mong/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oqo8vh/lập_trình_viên_thất_nghiệp_1_năm_rồi_giờ_chỉ_mong/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1oqo8vh/lập_trình_viên_thất_nghiệp_1_năm_rồi_giờ_chỉ_mong/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tui trước :))) đợt đó xin nghỉ 1 hôm đi nhổ răng khôn, vừa khỏi viện thấy lead ntin hỏi thăm. Đang hơi xúc động thì thấy thêm tin nhắn giao task 🤣 cũng ngậm ngùi tranh thủ còn thuốc tê r làm thôi, may task đó cx ez. &lt;/p&gt; &lt;p&gt;Cái buồn cười nhất là có thể giao cho nhân sự khác làm cũng dc vì task đó cũng ko quá khó, nhưng phải giao cho đứa nghỉ cơ. Thêm cái do tính chất công việc nên có nghỉ phép thì vẫn phải khư khư cái lap do thi thoảng có vài task cần xử lý nhanh . Nên hầu như mình cũng ko nghỉ mấy, ốm đau lắm hay lâu lâu đi du lịch mới nghỉ (du lịch cũng mang lap 😇) &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Klutzy-Engineering34"&gt; /u/Klutzy-Engineering34 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oqpl46/khoảnh_khắc_khiến_bạn_quyết_định_nghỉ_việc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oqpl46/khoảnh_khắc_khiến_bạn_quyết_định_nghỉ_việc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1oqpl46/khoảnh_khắc_khiến_bạn_quyết_định_nghỉ_việc/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-07T07:39:22+00:00</published>
+    <published>2025-11-07T09:05:55+00:00</published>
   </entry>
   <entry>
     <id>t3_1oqeu8b</id>
@@ -331,5 +318,18 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1oqeu8b/nvqs_có_đang_làm_hao_tổn_tiền_bạc_công_sức_và/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-06T23:41:49+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1oqo8vh</id>
+    <title>Lập trình viên thất nghiệp 1 năm rồi, giờ chỉ mong có 1 việc online để giúp mẹ – mọi người chỉ giúp mình cách tìm với ạ</title>
+    <updated>2025-11-07T07:39:22+00:00</updated>
+    <author>
+      <name>/u/Cool-Tea2642</name>
+      <uri>https://old.reddit.com/user/Cool-Tea2642</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi mọi người,&lt;/p&gt; &lt;p&gt;Mình là 1 Android Dev (4+ năm kn) thất nghiệp chắc cũng được 1 năm rồi. Vừa rồi mình mới có phỏng vấn với 1 cty Hàn Quốc có trụ sở ở VN. Cả 2 vòng (technical và culture fit) mình đều pass nhưng sau đó HR lại báo cho mình là do công ty hiện tại không đủ budget để tuyển thêm nên họ bảo mình đợi ít nhất 1 tháng nữa chờ các sếp đi công tác về sẽ review lại job đó nhưng mình nghĩ không có hy vọng gì đâu. Mình thấy rất thất vọng.&lt;/p&gt; &lt;p&gt;Về hoàn cảnh mình hiện tại: Mình thất nghiệp được 1 năm rồi. Hiện tại đang ở nhà “ăn bám” mẹ vì mãi chưa có cty nào nhận. Tiền trong tài khoản là 0đ vì trước mình bị 1 người anh họ hàng lừa vay tiền nhưng giờ không liên lạc được anh ấy nữa. Mình cũng đang nợ 50tr ngân hàng do trước mình dùng thẻ tín dụng để chi tiêu ở HN (sau khi nghỉ việc mình cố ở HN để phỏng vấn nhưng không pass cty nào, cuối cùng đành về quê với khoản nợ đó). Mẹ mình lương 3tr/tháng vừa phải trả lãi khoản nợ 50tr kia vừa để nuôi 2 mẹ con.&lt;/p&gt; &lt;p&gt;Mình biết là sẽ rất khó để có được công việc đúng chuyên môn là Android Dev ở thời điểm hiện tại (có thể là do kinh tế năm nay khó khăn nên các cty ít tuyển) nên chỉ mong có được 1 công việc online làm ở nhà (việc gì cũng được) để phần nào giúp đỡ mẹ, thời gian rảnh buổi tối thì tiếp tục trau dồi chuyên môn để quay lại với công việc đúng chuyên môn là Android Dev.&lt;/p&gt; &lt;p&gt;Mình đã thử tìm các công việc online ở trên các group facebook, reddit nhưng tất cả đều là scam. Giờ mình không biết làm sao để có 1 công việc online làm ở nhà đây. Mọi người ai có kinh nghiệm tìm việc online giúp mình/em với (công việc nào cũng được ạ, miễn được làm online ạ). Em cảm ơn rất nhiều ạ.&lt;/p&gt; &lt;p&gt;Đây là CV của em, nếu mọi có job, giới thiệu em với ạ: &lt;a href="https://drive.google.com/file/d/1xIAZ3ADUWeN9KuwJkd7r3T2NHxpyPJGT/view?usp=drive_link"&gt;https://drive.google.com/file/d/1xIAZ3ADUWeN9KuwJkd7r3T2NHxpyPJGT/view?usp=drive_link&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Cool-Tea2642"&gt; /u/Cool-Tea2642 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oqo8vh/lập_trình_viên_thất_nghiệp_1_năm_rồi_giờ_chỉ_mong/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oqo8vh/lập_trình_viên_thất_nghiệp_1_năm_rồi_giờ_chỉ_mong/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1oqo8vh/lập_trình_viên_thất_nghiệp_1_năm_rồi_giờ_chỉ_mong/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-07T07:39:22+00:00</published>
   </entry>
 </feed>
