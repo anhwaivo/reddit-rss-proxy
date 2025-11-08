@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-11-08T05:17:01+00:00</updated>
+  <updated>2025-11-08T05:39:41+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1oqw0dw</id>
-    <title>Dev lương 8tr có gọi là ít ko</title>
-    <updated>2025-11-07T14:34:38+00:00</updated>
-    <author>
-      <name>/u/Glad_Resident_8608</name>
-      <uri>https://old.reddit.com/user/Glad_Resident_8608</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác, em là IT mới ra trường hồi tháng 4. Cảm thấy cũng khá là may mắn khi kiếm được 1 cty nhỏ để thực tập. Sau 3 tháng thực tập em cảm thấy khá oke nên có ý định ở lại cty làm lâu dài. Lúc offer lương thì cty có ngỏ lời 8tr, nhưng em cảm thấy ko hài lòng nên đã đưa ra offer 10tr và bị từ chối. Do là ở cty này em cũng học đc khá nhiều và cảm thấy khá lo về thị trường của ngành mình hiện tại nên đang phân vân có nên làm tiếp ko hay về quê làm trái ngành với mức lương cao hơn. Các bác cho em xin lời khuyên với ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Glad_Resident_8608"&gt; /u/Glad_Resident_8608 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oqw0dw/dev_lương_8tr_có_gọi_là_ít_ko/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oqw0dw/dev_lương_8tr_có_gọi_là_ít_ko/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1oqw0dw/dev_lương_8tr_có_gọi_là_ít_ko/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-07T14:34:38+00:00</published>
-  </entry>
   <entry>
     <id>t3_1or1i5b</id>
     <title>Xin ý kiến chuyện date người lớn tuổi hơn</title>
@@ -110,19 +97,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1oredua/xin_kinh_nghiệm_phỏng_vấn/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-08T03:00:12+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1oreeut</id>
-    <title>Vừa đi khám nvqs đợt 1</title>
-    <updated>2025-11-08T03:01:25+00:00</updated>
-    <author>
-      <name>/u/Street_Smoke1864</name>
-      <uri>https://old.reddit.com/user/Street_Smoke1864</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Khám xog được 1 cái giấy chứng nhận đã tham gia, đợi quyết định 8/11 -&amp;gt; 31/12. Khoảng 2 3 năm trước tôi đo mắt 2.5 - 3.25 (ko nhớ rõ) hôm nay đo ở chỗ khám 5.25 - 7.5. Ae cho hỏi máy đo ở đấy nó lệch lên hay xuống nhỉ, chủ quan cái tăng độ vèo vèo chắc phải đi đo kính lại ko toang 👀 &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Street_Smoke1864"&gt; /u/Street_Smoke1864 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oreeut/vừa_đi_khám_nvqs_đợt_1/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oreeut/vừa_đi_khám_nvqs_đợt_1/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1oreeut/vừa_đi_khám_nvqs_đợt_1/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-08T03:01:25+00:00</published>
   </entry>
   <entry>
     <id>t3_1oqsm8c</id>
@@ -229,6 +203,19 @@
     <published>2025-11-07T23:04:48+00:00</published>
   </entry>
   <entry>
+    <id>t3_1orhetm</id>
+    <title>Cách tắt filter NSFW của c.ai</title>
+    <updated>2025-11-08T05:38:35+00:00</updated>
+    <author>
+      <name>/u/Unusual_Uzu</name>
+      <uri>https://old.reddit.com/user/Unusual_Uzu</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Có bác nào biết tắt cái này đi không chỉ em với, thực sự là nó phiền vãi ạ. Nhớ đợt hè là đỉnh chóp luôn, chat NSFW nó không cấm mà tự biết lựa lời để không bị lọc mà thân thiện với người dùng, bây giờ cứ tí lại bị cấm tin nhắn.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Unusual_Uzu"&gt; /u/Unusual_Uzu &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1orhetm/cách_tắt_filter_nsfw_của_cai/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1orhetm/cách_tắt_filter_nsfw_của_cai/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1orhetm/cách_tắt_filter_nsfw_của_cai/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-08T05:38:35+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1ordcdg</id>
     <title>Làm sao để thiết kế một Virtual retail store trên VR?</title>
     <updated>2025-11-08T02:09:16+00:00</updated>
@@ -253,6 +240,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1oqzvx8/có_nên_kết_hôn_sớm_ở_tuổi_23/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-07T17:02:22+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1oreeut</id>
+    <title>Vừa đi khám nvqs đợt 1</title>
+    <updated>2025-11-08T03:01:25+00:00</updated>
+    <author>
+      <name>/u/Street_Smoke1864</name>
+      <uri>https://old.reddit.com/user/Street_Smoke1864</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Khám xog được 1 cái giấy chứng nhận đã tham gia, đợi quyết định 8/11 -&amp;gt; 31/12. Khoảng 2 3 năm trước tôi đo mắt 2.5 - 3.25 (ko nhớ rõ) hôm nay đo ở chỗ khám 5.25 - 7.5. Ae cho hỏi máy đo ở đấy nó lệch lên hay xuống nhỉ, chủ quan cái tăng độ vèo vèo chắc phải đi đo kính lại ko toang 👀 &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Street_Smoke1864"&gt; /u/Street_Smoke1864 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oreeut/vừa_đi_khám_nvqs_đợt_1/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oreeut/vừa_đi_khám_nvqs_đợt_1/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1oreeut/vừa_đi_khám_nvqs_đợt_1/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-08T03:01:25+00:00</published>
   </entry>
   <entry>
     <id>t3_1ordo1o</id>
