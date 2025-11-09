@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-11-09T08:51:42+00:00</updated>
+  <updated>2025-11-09T09:16:35+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1orumdy</id>
-    <title>Sinh viên nên làm gì để kiếm tiền</title>
-    <updated>2025-11-08T17:05:59+00:00</updated>
-    <author>
-      <name>/u/Upbeat_Garden1751</name>
-      <uri>https://old.reddit.com/user/Upbeat_Garden1751</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em là sinh viên năm nhất đang muốn tìm cách kiếm nguồn thu nhập ạ! Anh chị nào có kinh nghiệm có thể chia sẻ giúp em về công việc , kinh nghiệm và thu nhập của công việc đó được không ạ. Em xin cảm ơn!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Upbeat_Garden1751"&gt; /u/Upbeat_Garden1751 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1orumdy/sinh_viên_nên_làm_gì_để_kiếm_tiền/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1orumdy/sinh_viên_nên_làm_gì_để_kiếm_tiền/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1orumdy/sinh_viên_nên_làm_gì_để_kiếm_tiền/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-08T17:05:59+00:00</published>
-  </entry>
   <entry>
     <id>t3_1os8590</id>
     <title>Kinh nghiệm bán đồ cũ 2handland</title>
@@ -34,19 +21,6 @@
     <published>2025-11-09T02:52:45+00:00</published>
   </entry>
   <entry>
-    <id>t3_1os4xwb</id>
-    <title>Mua xe đạp điện</title>
-    <updated>2025-11-09T00:19:25+00:00</updated>
-    <author>
-      <name>/u/vuwibu2k4</name>
-      <uri>https://old.reddit.com/user/vuwibu2k4</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình tính mua xe đạp điện để đi làm mà trên mạng nhiều loại quá Anh em nào từng chạy xe đạp điện rồi giới thiệu cho mình vài chiếc nhé :))&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/vuwibu2k4"&gt; /u/vuwibu2k4 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1os4xwb/mua_xe_đạp_điện/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1os4xwb/mua_xe_đạp_điện/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1os4xwb/mua_xe_đạp_điện/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-09T00:19:25+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1orwr4f</id>
     <title>LẦN ĐẦU DÙNG FB DATING VÀ BỊ GHOST</title>
     <updated>2025-11-08T18:31:03+00:00</updated>
@@ -58,6 +32,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1orwr4f/lần_đầu_dùng_fb_dating_và_bị_ghost/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-08T18:31:03+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1os4xwb</id>
+    <title>Mua xe đạp điện</title>
+    <updated>2025-11-09T00:19:25+00:00</updated>
+    <author>
+      <name>/u/vuwibu2k4</name>
+      <uri>https://old.reddit.com/user/vuwibu2k4</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình tính mua xe đạp điện để đi làm mà trên mạng nhiều loại quá Anh em nào từng chạy xe đạp điện rồi giới thiệu cho mình vài chiếc nhé :))&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/vuwibu2k4"&gt; /u/vuwibu2k4 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1os4xwb/mua_xe_đạp_điện/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1os4xwb/mua_xe_đạp_điện/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1os4xwb/mua_xe_đạp_điện/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-09T00:19:25+00:00</published>
   </entry>
   <entry>
     <id>t3_1ors86x</id>
@@ -138,19 +125,6 @@
     <published>2025-11-09T07:38:01+00:00</published>
   </entry>
   <entry>
-    <id>t3_1orxfm6</id>
-    <title>Ước gì tôi có đủ dũng khí để bước xuống xe và đấm cái thằng bóp còi</title>
-    <updated>2025-11-08T18:58:13+00:00</updated>
-    <author>
-      <name>/u/kitchcu</name>
-      <uri>https://old.reddit.com/user/kitchcu</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Cứ ra đường là bực cả mình, đường thì ai cũng kẹt như nhau mà cứ bấm còi, nó nghĩ làm thế thì nó sẽ đi nhanh và người ta sẽ tránh cho nó đi ấy. Cứ nghe âm thanh ấy là tôi nghĩ ra viễn cảnh với khuôn mặt đầy máu của mấy người đó :) &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/kitchcu"&gt; /u/kitchcu &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1orxfm6/ước_gì_tôi_có_đủ_dũng_khí_để_bước_xuống_xe_và_đấm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1orxfm6/ước_gì_tôi_có_đủ_dũng_khí_để_bước_xuống_xe_và_đấm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1orxfm6/ước_gì_tôi_có_đủ_dũng_khí_để_bước_xuống_xe_và_đấm/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-08T18:58:13+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1os7sxh</id>
     <title>Nghỉ việc</title>
     <updated>2025-11-09T02:35:43+00:00</updated>
@@ -175,6 +149,32 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1osei8s/từ_game_tester_chuyển_về_làm_webapp_test_liệu_có/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-09T08:50:33+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1osejka</id>
+    <title>Dạo này lên voz dạo chơi toàn thấy hỏi về tình cảm không nhỉ ? Tôi cảm thấy ghen tị với tuổi trẻ của các bạn :((</title>
+    <updated>2025-11-09T08:52:50+00:00</updated>
+    <author>
+      <name>/u/Sensitive-Editor8537</name>
+      <uri>https://old.reddit.com/user/Sensitive-Editor8537</uri>
+    </author>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Sensitive-Editor8537"&gt; /u/Sensitive-Editor8537 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1osejka/dạo_này_lên_voz_dạo_chơi_toàn_thấy_hỏi_về_tình/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1osejka/dạo_này_lên_voz_dạo_chơi_toàn_thấy_hỏi_về_tình/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1osejka/dạo_này_lên_voz_dạo_chơi_toàn_thấy_hỏi_về_tình/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-09T08:52:50+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1orxfm6</id>
+    <title>Ước gì tôi có đủ dũng khí để bước xuống xe và đấm cái thằng bóp còi</title>
+    <updated>2025-11-08T18:58:13+00:00</updated>
+    <author>
+      <name>/u/kitchcu</name>
+      <uri>https://old.reddit.com/user/kitchcu</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Cứ ra đường là bực cả mình, đường thì ai cũng kẹt như nhau mà cứ bấm còi, nó nghĩ làm thế thì nó sẽ đi nhanh và người ta sẽ tránh cho nó đi ấy. Cứ nghe âm thanh ấy là tôi nghĩ ra viễn cảnh với khuôn mặt đầy máu của mấy người đó :) &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/kitchcu"&gt; /u/kitchcu &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1orxfm6/ước_gì_tôi_có_đủ_dũng_khí_để_bước_xuống_xe_và_đấm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1orxfm6/ước_gì_tôi_có_đủ_dũng_khí_để_bước_xuống_xe_và_đấm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1orxfm6/ước_gì_tôi_có_đủ_dũng_khí_để_bước_xuống_xe_và_đấm/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-08T18:58:13+00:00</published>
   </entry>
   <entry>
     <id>t3_1ort8oc</id>
