@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-11-09T17:50:36+00:00</updated>
+  <updated>2025-11-09T18:23:42+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -32,6 +32,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1osff9n/xin_tip_là_quen_vs_gái_ạ/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-09T09:48:54+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1oscppc</id>
+    <title>Thú vui mà chẳng còn vui</title>
+    <updated>2025-11-09T06:59:35+00:00</updated>
+    <author>
+      <name>/u/GudakoTheSecond</name>
+      <uri>https://old.reddit.com/user/GudakoTheSecond</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Không biết có ai bị như em (20M) không chứ em thấy các thú vui như game hay phim không còn hứng thú với em nữa. Hậu quả của việc này là khiến em không được hoà đồng với vài người quen nữa. Hồi xưa, tụi em nói chuyện liên miên giờ thì chỉ hỏi thăm qua lại là hết cuộc trò chuyện. Mấy trang youtube với fb ko còn hiện video phân tích phim hay game, giờ chỉ toàn hiện những video liên quan đến việc học. Thú thật thì em thấy không quá buồn chán nhưng nó lại ảnh hưởng đến các mối quan hệ của em. Thấy bản thân không được năng nổ như trước.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/GudakoTheSecond"&gt; /u/GudakoTheSecond &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oscppc/thú_vui_mà_chẳng_còn_vui/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oscppc/thú_vui_mà_chẳng_còn_vui/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1oscppc/thú_vui_mà_chẳng_còn_vui/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-09T06:59:35+00:00</published>
   </entry>
   <entry>
     <id>t3_1oso4fq</id>
@@ -216,19 +229,6 @@
     <published>2025-11-09T06:33:49+00:00</published>
   </entry>
   <entry>
-    <id>t3_1oskk07</id>
-    <title>kiếm tiền khi còn là học sinh</title>
-    <updated>2025-11-09T14:20:25+00:00</updated>
-    <author>
-      <name>/u/AppointmentNo9303</name>
-      <uri>https://old.reddit.com/user/AppointmentNo9303</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;em mới lên lớp 10 em muốn kiếm thêm thu nhập để có thể tự đi đky học nhưng môn mình muốn hồi lớp 8 em có bán acc game và kiếm được hơn 2 triệu từ việc đấy nhưng giờ thì bán acc không còn khả thi và em có tìm hiểu về mảng làm youtube short nhưng nó khá tốn thời gian và cần đầu tư em có tìm được 1 số trang web có thể bán những bức ảnh mình chụp và kiếm được khá nhưng em chưa thử ai đã làm có thể cho em kinh nghiệm và đánh giá liệu có khả thi với 1 hs lớp 10 không ngoài ra có ai biết 1 số việc có thể làm để kiếm thêm thu nhập không kiếm được ít cũng được&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/AppointmentNo9303"&gt; /u/AppointmentNo9303 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oskk07/kiêm_tiên_khi_con_la_hoc_sinh/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oskk07/kiêm_tiên_khi_con_la_hoc_sinh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1oskk07/kiêm_tiên_khi_con_la_hoc_sinh/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-09T14:20:25+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1osks39</id>
     <title>API ChatGPT</title>
     <updated>2025-11-09T14:30:09+00:00</updated>
@@ -266,6 +266,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1osjflg/mọi_người_thường_khám_tâm_lý_ra_sao/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-09T13:31:04+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1oskk07</id>
+    <title>kiếm tiền khi còn là học sinh</title>
+    <updated>2025-11-09T14:20:25+00:00</updated>
+    <author>
+      <name>/u/AppointmentNo9303</name>
+      <uri>https://old.reddit.com/user/AppointmentNo9303</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;em mới lên lớp 10 em muốn kiếm thêm thu nhập để có thể tự đi đky học nhưng môn mình muốn hồi lớp 8 em có bán acc game và kiếm được hơn 2 triệu từ việc đấy nhưng giờ thì bán acc không còn khả thi và em có tìm hiểu về mảng làm youtube short nhưng nó khá tốn thời gian và cần đầu tư em có tìm được 1 số trang web có thể bán những bức ảnh mình chụp và kiếm được khá nhưng em chưa thử ai đã làm có thể cho em kinh nghiệm và đánh giá liệu có khả thi với 1 hs lớp 10 không ngoài ra có ai biết 1 số việc có thể làm để kiếm thêm thu nhập không kiếm được ít cũng được&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/AppointmentNo9303"&gt; /u/AppointmentNo9303 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oskk07/kiêm_tiên_khi_con_la_hoc_sinh/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oskk07/kiêm_tiên_khi_con_la_hoc_sinh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1oskk07/kiêm_tiên_khi_con_la_hoc_sinh/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-09T14:20:25+00:00</published>
   </entry>
   <entry>
     <id>t3_1osi7dp</id>
@@ -318,18 +331,5 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1oskoev/lần_đầu_tiên_đổ_lệ_khi_lên_sài_gòn/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-09T14:25:44+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1osbted</id>
-    <title>Diễn viên phim mưa đỏ bật khóc😭😭😭</title>
-    <updated>2025-11-09T06:07:27+00:00</updated>
-    <author>
-      <name>/u/Own-Pay-3251</name>
-      <uri>https://old.reddit.com/user/Own-Pay-3251</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1osbted/diễn_viên_phim_mưa_đỏ_bật_khóc/"&gt; &lt;img alt="Diễn viên phim mưa đỏ bật khóc😭😭😭" src="https://preview.redd.it/6tz2y2r9a60g1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=c4d20618685beb0564816966f6d6f2feda5cbac2" title="Diễn viên phim mưa đỏ bật khóc😭😭😭" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Có lẽ sự việc a50,a80 đã qua từ lâu và bây giờ lại là thời điểm nhà nước bắt lính nên tinh thần yêu nước của nhân dân Việt Nam ta bị suy giảm nghiêm trọng nên ế vé là điều không quá khó hiểu😆😆😆&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Own-Pay-3251"&gt; /u/Own-Pay-3251 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/6tz2y2r9a60g1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1osbted/diễn_viên_phim_mưa_đỏ_bật_khóc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1osbted/diễn_viên_phim_mưa_đỏ_bật_khóc/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-09T06:07:27+00:00</published>
   </entry>
 </feed>
