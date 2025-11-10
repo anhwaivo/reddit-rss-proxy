@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-11-10T08:50:10+00:00</updated>
+  <updated>2025-11-10T09:44:29+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1ot45e8</id>
-    <title>Từ vấn với CPU AMD và main</title>
-    <updated>2025-11-10T04:10:06+00:00</updated>
-    <author>
-      <name>/u/Ok_Construction981</name>
-      <uri>https://old.reddit.com/user/Ok_Construction981</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi anh em ! Do giờ mình nhiều nguồn chi mà đc tặng cpu 9800x3D nôn quá Nên giờ mình muốn tìm một main B650 để chạy CPU này . Anh em tư vấn cho mình chạy mã nào ổn . Mình chạy cho vui thôi chứ ko có OC gì hết Cảm ơn anh em đội đỏ nhiều !&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ok_Construction981"&gt; /u/Ok_Construction981 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ot45e8/từ_vấn_với_cpu_amd_và_main/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ot45e8/từ_vấn_với_cpu_amd_và_main/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ot45e8/từ_vấn_với_cpu_amd_và_main/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-10T04:10:06+00:00</published>
-  </entry>
   <entry>
     <id>t3_1ot4825</id>
     <title>Định hướng Dev</title>
@@ -73,19 +60,6 @@
     <published>2025-11-10T05:02:53+00:00</published>
   </entry>
   <entry>
-    <id>t3_1osfet6</id>
-    <title>Sự khác biệt giữa công ty VN và công ty "Tư bản" là gì ?</title>
-    <updated>2025-11-09T09:48:05+00:00</updated>
-    <author>
-      <name>/u/kitchcu</name>
-      <uri>https://old.reddit.com/user/kitchcu</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình từng làm cho 1 công ty VN rồi, tệ thì cũng không hẳn nhưng mấy cái phúc lợi nó không tương xứng với công việc ấy, đã áp lực mà còn làm thứ 7 nữa, thế là mình làm đúng 6 tháng nghỉ. Sang công ty thứ 2 là cty Nhật, mình thì mới đầu cứ nghĩ là làm cho người Nhật thì sẽ áp lực lắm nhưng mà không, phúc lợi tốt, sẵn sàng bỏ tiền hỗ trợ mình học tiếng Nhật, cứ mỗi cuối năm sẽ tự bỏ tiền cho nhân viên qua Nhật chơi, sếp ok, công việc không áp lực miễn hoàn thành tốt là được, có thể về bất cứ lúc nào miễn hoàn thành công việc. Thế là gắn bó được hơn 2 năm rồi.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/kitchcu"&gt; /u/kitchcu &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1osfet6/sự_khác_biệt_giữa_công_ty_vn_và_công_ty_tư_bản_là/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1osfet6/sự_khác_biệt_giữa_công_ty_vn_và_công_ty_tư_bản_là/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1osfet6/sự_khác_biệt_giữa_công_ty_vn_và_công_ty_tư_bản_là/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-09T09:48:05+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1ot202z</id>
     <title>Xin lời khuyên sự nghiệp</title>
     <updated>2025-11-10T02:22:36+00:00</updated>
@@ -97,6 +71,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ot202z/xin_lời_khuyên_sự_nghiệp/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-10T02:22:36+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1osfet6</id>
+    <title>Sự khác biệt giữa công ty VN và công ty "Tư bản" là gì ?</title>
+    <updated>2025-11-09T09:48:05+00:00</updated>
+    <author>
+      <name>/u/kitchcu</name>
+      <uri>https://old.reddit.com/user/kitchcu</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình từng làm cho 1 công ty VN rồi, tệ thì cũng không hẳn nhưng mấy cái phúc lợi nó không tương xứng với công việc ấy, đã áp lực mà còn làm thứ 7 nữa, thế là mình làm đúng 6 tháng nghỉ. Sang công ty thứ 2 là cty Nhật, mình thì mới đầu cứ nghĩ là làm cho người Nhật thì sẽ áp lực lắm nhưng mà không, phúc lợi tốt, sẵn sàng bỏ tiền hỗ trợ mình học tiếng Nhật, cứ mỗi cuối năm sẽ tự bỏ tiền cho nhân viên qua Nhật chơi, sếp ok, công việc không áp lực miễn hoàn thành tốt là được, có thể về bất cứ lúc nào miễn hoàn thành công việc. Thế là gắn bó được hơn 2 năm rồi.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/kitchcu"&gt; /u/kitchcu &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1osfet6/sự_khác_biệt_giữa_công_ty_vn_và_công_ty_tư_bản_là/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1osfet6/sự_khác_biệt_giữa_công_ty_vn_và_công_ty_tư_bản_là/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1osfet6/sự_khác_biệt_giữa_công_ty_vn_và_công_ty_tư_bản_là/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-09T09:48:05+00:00</published>
   </entry>
   <entry>
     <id>t3_1osi0d1</id>
@@ -164,6 +151,19 @@
     <published>2025-11-10T08:39:34+00:00</published>
   </entry>
   <entry>
+    <id>t3_1ot8y7v</id>
+    <title>MURROR APP</title>
+    <updated>2025-11-10T08:59:30+00:00</updated>
+    <author>
+      <name>/u/No_Turnover9440</name>
+      <uri>https://old.reddit.com/user/No_Turnover9440</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Dạo này mình thấy nhiều người xung quanh hay than mệt mỏi, stress, có mấy đứa bạn còn bị trầm cảm nhẹ. Mình cũng từng rơi vào trạng thái kiểu không biết mình đang muốn gì, nên hay tìm mấy app viết nhật ký hay thiền thử cho đỡ nặng đầu.&lt;/p&gt; &lt;p&gt;Lướt đâu đó thấy có cái tên murror, nghe bảo là app viết và nói chuyện với AI để hiểu bản thân hơn. Mình thì chưa xài nên không rõ thực tế thế nào.&lt;br /&gt; Không biết ở đây có bác nào từng thử dùng chưa? Dùng có thấy ổn không hay chỉ kiểu trend nhất thời.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/No_Turnover9440"&gt; /u/No_Turnover9440 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ot8y7v/murror_app/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ot8y7v/murror_app/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ot8y7v/murror_app/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-10T08:59:30+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1oszbep</id>
     <title>Phim viễn tưởng Apple làm chỉ có đỉnh</title>
     <updated>2025-11-10T00:16:03+00:00</updated>
@@ -188,6 +188,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1osuf45/các_bạn_nghĩ_sao_về_robot_hình_người_của_trung/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-09T20:52:19+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1oskoev</id>
+    <title>Lần đầu tiên đổ lệ khi lên sài gòn</title>
+    <updated>2025-11-09T14:25:44+00:00</updated>
+    <author>
+      <name>/u/Character_Rope7383</name>
+      <uri>https://old.reddit.com/user/Character_Rope7383</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Từ lúc mình lên sài gòn tới h. Bị lừa tiền mình không khóc, nhịn đói mình không khóc, không có tiền đi xe buýt mình không khóc. Riêng chỉ có hôm nay sau ca làm 8 tiếng, áp lực vì không theo kịp tiếng độ của anh chị, không biết tính tiền, gọi món. Thế rồi mình phải đền bia do order mà khách huỷ. Xong mình nhắn anh mình tâm sự, và dòng nước mắt cứ thế tuôn trào.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Character_Rope7383"&gt; /u/Character_Rope7383 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oskoev/lần_đầu_tiên_đổ_lệ_khi_lên_sài_gòn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oskoev/lần_đầu_tiên_đổ_lệ_khi_lên_sài_gòn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1oskoev/lần_đầu_tiên_đổ_lệ_khi_lên_sài_gòn/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-09T14:25:44+00:00</published>
   </entry>
   <entry>
     <id>t3_1osrz7l</id>
@@ -216,19 +229,6 @@
     <published>2025-11-10T08:35:27+00:00</published>
   </entry>
   <entry>
-    <id>t3_1oskoev</id>
-    <title>Lần đầu tiên đổ lệ khi lên sài gòn</title>
-    <updated>2025-11-09T14:25:44+00:00</updated>
-    <author>
-      <name>/u/Character_Rope7383</name>
-      <uri>https://old.reddit.com/user/Character_Rope7383</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Từ lúc mình lên sài gòn tới h. Bị lừa tiền mình không khóc, nhịn đói mình không khóc, không có tiền đi xe buýt mình không khóc. Riêng chỉ có hôm nay sau ca làm 8 tiếng, áp lực vì không theo kịp tiếng độ của anh chị, không biết tính tiền, gọi món. Thế rồi mình phải đền bia do order mà khách huỷ. Xong mình nhắn anh mình tâm sự, và dòng nước mắt cứ thế tuôn trào.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Character_Rope7383"&gt; /u/Character_Rope7383 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oskoev/lần_đầu_tiên_đổ_lệ_khi_lên_sài_gòn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oskoev/lần_đầu_tiên_đổ_lệ_khi_lên_sài_gòn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1oskoev/lần_đầu_tiên_đổ_lệ_khi_lên_sài_gòn/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-09T14:25:44+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1ot6ame</id>
     <title>xin cách cai điện thoại</title>
     <updated>2025-11-10T06:09:42+00:00</updated>
@@ -255,19 +255,6 @@
     <published>2025-11-10T06:14:37+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ot8aql</id>
-    <title>Có ai hồi xưa bị ép học</title>
-    <updated>2025-11-10T08:16:27+00:00</updated>
-    <author>
-      <name>/u/kerfsrt</name>
-      <uri>https://old.reddit.com/user/kerfsrt</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Thì mn có ai hồi c2 c3 bị ba mẹ anh chị ép học và giám sát việc học sát sao chưa và cho mình hỏi bây giờ mọi người có cảm nghĩ gì về việc đó không. Với cho mình hỏi ai xưa học tàng tàng gia đình cũng ko ép giờ có cảm thấy sao ko ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/kerfsrt"&gt; /u/kerfsrt &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ot8aql/có_ai_hồi_xưa_bị_ép_học/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ot8aql/có_ai_hồi_xưa_bị_ép_học/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ot8aql/có_ai_hồi_xưa_bị_ép_học/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-10T08:16:27+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1ot3561</id>
     <title>Thủ tục xin phép gia đình người yêu</title>
     <updated>2025-11-10T03:18:35+00:00</updated>
@@ -279,6 +266,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ot3561/thủ_tục_xin_phép_gia_đình_người_yêu/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-10T03:18:35+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ot8aql</id>
+    <title>Có ai hồi xưa bị ép học</title>
+    <updated>2025-11-10T08:16:27+00:00</updated>
+    <author>
+      <name>/u/kerfsrt</name>
+      <uri>https://old.reddit.com/user/kerfsrt</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Thì mn có ai hồi c2 c3 bị ba mẹ anh chị ép học và giám sát việc học sát sao chưa và cho mình hỏi bây giờ mọi người có cảm nghĩ gì về việc đó không. Với cho mình hỏi ai xưa học tàng tàng gia đình cũng ko ép giờ có cảm thấy sao ko ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/kerfsrt"&gt; /u/kerfsrt &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ot8aql/có_ai_hồi_xưa_bị_ép_học/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ot8aql/có_ai_hồi_xưa_bị_ép_học/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ot8aql/có_ai_hồi_xưa_bị_ép_học/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-10T08:16:27+00:00</published>
   </entry>
   <entry>
     <id>t3_1oszyu9</id>
