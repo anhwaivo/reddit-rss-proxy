@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-11-10T14:44:09+00:00</updated>
+  <updated>2025-11-10T14:54:46+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -47,19 +47,6 @@
     <published>2025-11-10T12:54:34+00:00</published>
   </entry>
   <entry>
-    <id>t3_1otdcwf</id>
-    <title>Giúp e với ạ</title>
-    <updated>2025-11-10T13:11:42+00:00</updated>
-    <author>
-      <name>/u/longhairrfj112</name>
-      <uri>https://old.reddit.com/user/longhairrfj112</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;E đag năm 3 đh, theo định hướng bố mẹ là làm IT khoảng độ 5 6 năm sau đó mở doanh nghiệp tự kinh doanh, vậy ngoài thời gian làm 8h 1 ngày thì e nên học thêm cgi để đủ khả năng đc ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/longhairrfj112"&gt; /u/longhairrfj112 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1otdcwf/giúp_e_với_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1otdcwf/giúp_e_với_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1otdcwf/giúp_e_với_ạ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-10T13:11:42+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1oskoev</id>
     <title>Lần đầu tiên đổ lệ khi lên sài gòn</title>
     <updated>2025-11-09T14:25:44+00:00</updated>
@@ -71,6 +58,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1oskoev/lần_đầu_tiên_đổ_lệ_khi_lên_sài_gòn/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-09T14:25:44+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1otdtvr</id>
+    <title>r/tamsudemkhuya</title>
+    <updated>2025-11-10T13:31:49+00:00</updated>
+    <author>
+      <name>/u/minhanhvntb1</name>
+      <uri>https://old.reddit.com/user/minhanhvntb1</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="/r/tamsudemkhuya"&gt;r/tamsudemkhuya&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/minhanhvntb1"&gt; /u/minhanhvntb1 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1otdtvr/rtamsudemkhuya/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1otdtvr/rtamsudemkhuya/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1otdtvr/rtamsudemkhuya/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-10T13:31:49+00:00</published>
   </entry>
   <entry>
     <id>t3_1oteu1h</id>
@@ -164,17 +164,17 @@
     <published>2025-11-09T20:52:19+00:00</published>
   </entry>
   <entry>
-    <id>t3_1otdtvr</id>
-    <title>r/tamsudemkhuya</title>
-    <updated>2025-11-10T13:31:49+00:00</updated>
+    <id>t3_1otdcwf</id>
+    <title>Giúp e với ạ</title>
+    <updated>2025-11-10T13:11:42+00:00</updated>
     <author>
-      <name>/u/minhanhvntb1</name>
-      <uri>https://old.reddit.com/user/minhanhvntb1</uri>
+      <name>/u/longhairrfj112</name>
+      <uri>https://old.reddit.com/user/longhairrfj112</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="/r/tamsudemkhuya"&gt;r/tamsudemkhuya&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/minhanhvntb1"&gt; /u/minhanhvntb1 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1otdtvr/rtamsudemkhuya/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1otdtvr/rtamsudemkhuya/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1otdtvr/rtamsudemkhuya/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;E đag năm 3 đh, theo định hướng bố mẹ là làm IT khoảng độ 5 6 năm sau đó mở doanh nghiệp tự kinh doanh, vậy ngoài thời gian làm 8h 1 ngày thì e nên học thêm cgi để đủ khả năng đc ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/longhairrfj112"&gt; /u/longhairrfj112 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1otdcwf/giúp_e_với_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1otdcwf/giúp_e_với_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1otdcwf/giúp_e_với_ạ/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-10T13:31:49+00:00</published>
+    <published>2025-11-10T13:11:42+00:00</published>
   </entry>
   <entry>
     <id>t3_1otducr</id>
@@ -307,19 +307,6 @@
     <published>2025-11-10T00:07:37+00:00</published>
   </entry>
   <entry>
-    <id>t3_1otchke</id>
-    <title>Mình vừa biết tiền mình bị người nhà "mượn tạm"</title>
-    <updated>2025-11-10T12:30:30+00:00</updated>
-    <author>
-      <name>/u/xerasho</name>
-      <uri>https://old.reddit.com/user/xerasho</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình vừa biết chuyện cuối tuần trước, buồn quá mọi người ạ. Gia đình mình hiện ở Nhật, mình chỉ ở nhà trông con thôi, nhưng hàng tháng được chồng cho một khoản tiêu vặt, cộng với thưởng quý mình đòi chồng chia phần nữa nên hàng năm cũng để ra được một khoản. Số tiền này mấy năm gần đây mình gửi về VN nhờ người nhà mua vàng giữ hộ.&lt;/p&gt; &lt;p&gt;Thời gian đầu thì mọi việc vẫn ổn, cho đến đầu 2024 mình đẻ thêm bé nữa, nhà đông con nhiều trẻ nhỏ nên gần 2 năm mình không về thăm nhà. Đến năm nay đứa út cũng cứng cáp hơn rồi nên mình bàn với chồng tết Dương lịch sắp tới về chơi lâu lâu một chuyến. Lúc ấy chả hiểu sao mình báo tin về thì mọi người ở nhà có vẻ lạ lạ. Đến cuối tuần trước bố mẹ mình mới thú thật là anh trai mình làm ăn thua lỗ nên mấy đợt tiền gần đây bố mẹ lấy tiền mình cho anh &amp;quot;mượn tạm&amp;quot;. Phần đang bị nợ ấy tính ra phải 2~3 cây nếu tính theo giá lúc đấy. Mà mọi người thì đều biết từ giữa 2024 đến giờ giá vàng tăng kinh khủng thế nào. Bây giờ mình mà bắt trả lại tiền mặt thôi chắc mọi người ở nhà cũng không xoay được, còn bắt trả ngang vàng thì chả biết đến mùa nào.&lt;/p&gt; &lt;p&gt;Giờ mình đúng lòng dạ rối bời, vừa tiếc tiền, vừa tức bố mẹ với anh mình. Giá lúc ấy mọi người nói thẳng nhờ giúp thì chắc mình cũng chả tiếc gì, đằng này... Bây giờ vé máy bay cũng mua rồi, còn một tháng nữa là lên đường, mà mình chả còn lòng dạ nào ăn tết.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/xerasho"&gt; /u/xerasho &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1otchke/mình_vừa_biết_tiền_mình_bị_người_nhà_mượn_tạm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1otchke/mình_vừa_biết_tiền_mình_bị_người_nhà_mượn_tạm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1otchke/mình_vừa_biết_tiền_mình_bị_người_nhà_mượn_tạm/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-10T12:30:30+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1ot0mup</id>
     <title>Mắc kẹt tuổi 35</title>
     <updated>2025-11-10T01:17:16+00:00</updated>
@@ -331,5 +318,18 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ot0mup/mắc_kẹt_tuổi_35/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-10T01:17:16+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1otchke</id>
+    <title>Mình vừa biết tiền mình bị người nhà "mượn tạm"</title>
+    <updated>2025-11-10T12:30:30+00:00</updated>
+    <author>
+      <name>/u/xerasho</name>
+      <uri>https://old.reddit.com/user/xerasho</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình vừa biết chuyện cuối tuần trước, buồn quá mọi người ạ. Gia đình mình hiện ở Nhật, mình chỉ ở nhà trông con thôi, nhưng hàng tháng được chồng cho một khoản tiêu vặt, cộng với thưởng quý mình đòi chồng chia phần nữa nên hàng năm cũng để ra được một khoản. Số tiền này mấy năm gần đây mình gửi về VN nhờ người nhà mua vàng giữ hộ.&lt;/p&gt; &lt;p&gt;Thời gian đầu thì mọi việc vẫn ổn, cho đến đầu 2024 mình đẻ thêm bé nữa, nhà đông con nhiều trẻ nhỏ nên gần 2 năm mình không về thăm nhà. Đến năm nay đứa út cũng cứng cáp hơn rồi nên mình bàn với chồng tết Dương lịch sắp tới về chơi lâu lâu một chuyến. Lúc ấy chả hiểu sao mình báo tin về thì mọi người ở nhà có vẻ lạ lạ. Đến cuối tuần trước bố mẹ mình mới thú thật là anh trai mình làm ăn thua lỗ nên mấy đợt tiền gần đây bố mẹ lấy tiền mình cho anh &amp;quot;mượn tạm&amp;quot;. Phần đang bị nợ ấy tính ra phải 2~3 cây nếu tính theo giá lúc đấy. Mà mọi người thì đều biết từ giữa 2024 đến giờ giá vàng tăng kinh khủng thế nào. Bây giờ mình mà bắt trả lại tiền mặt thôi chắc mọi người ở nhà cũng không xoay được, còn bắt trả ngang vàng thì chả biết đến mùa nào.&lt;/p&gt; &lt;p&gt;Giờ mình đúng lòng dạ rối bời, vừa tiếc tiền, vừa tức bố mẹ với anh mình. Giá lúc ấy mọi người nói thẳng nhờ giúp thì chắc mình cũng chả tiếc gì, đằng này... Bây giờ vé máy bay cũng mua rồi, còn một tháng nữa là lên đường, mà mình chả còn lòng dạ nào ăn tết.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/xerasho"&gt; /u/xerasho &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1otchke/mình_vừa_biết_tiền_mình_bị_người_nhà_mượn_tạm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1otchke/mình_vừa_biết_tiền_mình_bị_người_nhà_mượn_tạm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1otchke/mình_vừa_biết_tiền_mình_bị_người_nhà_mượn_tạm/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-10T12:30:30+00:00</published>
   </entry>
 </feed>
