@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-11-11T16:48:29+00:00</updated>
+  <updated>2025-11-11T17:16:58+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1ou7xd7</id>
-    <title>Canh vé máy bay vietjet</title>
-    <updated>2025-11-11T12:16:32+00:00</updated>
-    <author>
-      <name>/u/BalaclavaSyke</name>
-      <uri>https://old.reddit.com/user/BalaclavaSyke</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1ou7xd7/canh_vé_máy_bay_vietjet/"&gt; &lt;img alt="Canh vé máy bay vietjet" src="https://preview.redd.it/aa3espxxdm0g1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=7399877cd880b532ba9445be07bb63c7647ab19c" title="Canh vé máy bay vietjet" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, em canh mua vé sau tết bay nước ngoài cả tháng nay rồi nhưng mà giá vẫn cao quá. Em muốn hỏi giá nó cứ cao vậy luôn hay có giảm không ạ? Tại kinh tế khó khăn mà nhìn giá em nản quá. Canh quài mà giá không giảm, còn mua luôn thì quá mắc. Ở trên là chưa bao gồm hành lý ký gửi. Em cảm ơn mọi người. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/BalaclavaSyke"&gt; /u/BalaclavaSyke &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/aa3espxxdm0g1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ou7xd7/canh_vé_máy_bay_vietjet/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ou7xd7/canh_vé_máy_bay_vietjet/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-11T12:16:32+00:00</published>
-  </entry>
   <entry>
     <id>t3_1ou2s70</id>
     <title>Sợ nuôi con</title>
@@ -138,17 +125,17 @@
     <published>2025-11-11T12:03:54+00:00</published>
   </entry>
   <entry>
-    <id>t3_1oue67d</id>
-    <title>It muốn xuất ngoại có nên học JS hay chuyển sang Java/Python?</title>
-    <updated>2025-11-11T16:36:14+00:00</updated>
+    <id>t3_1oueskc</id>
+    <title>Điện tử viễn thông có thể làm sang điện công nghiệp hay tự động hóa ko?</title>
+    <updated>2025-11-11T16:59:01+00:00</updated>
     <author>
-      <name>/u/WantToStudy777</name>
-      <uri>https://old.reddit.com/user/WantToStudy777</uri>
+      <name>/u/ExplorerFuture3109</name>
+      <uri>https://old.reddit.com/user/ExplorerFuture3109</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người em mới ra trường tốt nghiệp ở mỹ CS major nhưng mà trình độ gà nên không kiếm được việc nên về Việt Nam. Em dự định sẽ làm ở Việt Nam vài năm rồi apply vào những công ty nước ngoài nhưng mà em cũng muốn hỏi thêm kinh nghiệm các tiền bối đi trước. Không biết là mọi người chuẩn bị những gì để tìm kiếm các cơ hội sponsor ạ?&lt;/p&gt; &lt;p&gt;Em thì hứng thú nhất là mảng backend, có kinh nghiệm về nodejs nhiều. Em nghe nói là các big tech thường dùng java hay python nên em cũng đắn đo không biết có nên chuyển sang học sâu về 2 cái đấy. &lt;/p&gt; &lt;p&gt;Em đi 3 cái intern thì mỗi cái dùng một ngôn ngữ (JS, Java, golang) nên giờ em cũng kiểu chả chuyên thằng nào. Mỗi tội personal project thì em hay làm webapp nên dùng JS khá nhiều. Em đang apply các job nodejs backend nhưng mà nếu muốn đổi sang java/python thì em sợ là phỏng vấn trượt tại quên khá nhiều. &lt;/p&gt; &lt;p&gt;Bây giờ thì có 2 hướng là em lại dành ra 1-2 tháng ngồi ôn lại java/python, build project và phỏng vấn. 2 là em đi phỏng vấn nodejs luôn, rồi xem xét nhảy việc. Nhưng mà em lo là giờ apply fresher nodejs, xong làm 1 hồi nhảy sang java thì lại phải apply lại fresher java thì không biết là có phí thời gian không?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/WantToStudy777"&gt; /u/WantToStudy777 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oue67d/it_muốn_xuất_ngoại_có_nên_học_js_hay_chuyển_sang/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oue67d/it_muốn_xuất_ngoại_có_nên_học_js_hay_chuyển_sang/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1oue67d/it_muốn_xuất_ngoại_có_nên_học_js_hay_chuyển_sang/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em học ngành này ở bkhn.​Biết là ko liên quan đến ngành nhưng vì cơ hội việc làm cạnh tranh nên muốn hỏi?​​&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ExplorerFuture3109"&gt; /u/ExplorerFuture3109 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oueskc/điện_tử_viễn_thông_có_thể_làm_sang_điện_công/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oueskc/điện_tử_viễn_thông_có_thể_làm_sang_điện_công/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1oueskc/điện_tử_viễn_thông_có_thể_làm_sang_điện_công/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-11T16:36:14+00:00</published>
+    <published>2025-11-11T16:59:01+00:00</published>
   </entry>
   <entry>
     <id>t3_1ou957r</id>
@@ -216,6 +203,19 @@
     <published>2025-11-11T07:03:38+00:00</published>
   </entry>
   <entry>
+    <id>t3_1oue67d</id>
+    <title>It muốn xuất ngoại có nên học JS hay chuyển sang Java/Python?</title>
+    <updated>2025-11-11T16:36:14+00:00</updated>
+    <author>
+      <name>/u/WantToStudy777</name>
+      <uri>https://old.reddit.com/user/WantToStudy777</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người em mới ra trường tốt nghiệp ở mỹ CS major nhưng mà trình độ gà nên không kiếm được việc nên về Việt Nam. Em dự định sẽ làm ở Việt Nam vài năm rồi apply vào những công ty nước ngoài nhưng mà em cũng muốn hỏi thêm kinh nghiệm các tiền bối đi trước. Không biết là mọi người chuẩn bị những gì để tìm kiếm các cơ hội sponsor ạ?&lt;/p&gt; &lt;p&gt;Em thì hứng thú nhất là mảng backend, có kinh nghiệm về nodejs nhiều. Em nghe nói là các big tech thường dùng java hay python nên em cũng đắn đo không biết có nên chuyển sang học sâu về 2 cái đấy. &lt;/p&gt; &lt;p&gt;Em đi 3 cái intern thì mỗi cái dùng một ngôn ngữ (JS, Java, golang) nên giờ em cũng kiểu chả chuyên thằng nào. Mỗi tội personal project thì em hay làm webapp nên dùng JS khá nhiều. Em đang apply các job nodejs backend nhưng mà nếu muốn đổi sang java/python thì em sợ là phỏng vấn trượt tại quên khá nhiều. &lt;/p&gt; &lt;p&gt;Bây giờ thì có 2 hướng là em lại dành ra 1-2 tháng ngồi ôn lại java/python, build project và phỏng vấn. 2 là em đi phỏng vấn nodejs luôn, rồi xem xét nhảy việc. Nhưng mà em lo là giờ apply fresher nodejs, xong làm 1 hồi nhảy sang java thì lại phải apply lại fresher java thì không biết là có phí thời gian không?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/WantToStudy777"&gt; /u/WantToStudy777 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oue67d/it_muốn_xuất_ngoại_có_nên_học_js_hay_chuyển_sang/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oue67d/it_muốn_xuất_ngoại_có_nên_học_js_hay_chuyển_sang/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1oue67d/it_muốn_xuất_ngoại_có_nên_học_js_hay_chuyển_sang/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-11T16:36:14+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1otxuh3</id>
     <title>Ở tuổi 2x nên đi du học hay mua nhà</title>
     <updated>2025-11-11T02:36:27+00:00</updated>
@@ -281,19 +281,6 @@
     <published>2025-11-11T02:42:23+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ou83jh</id>
-    <title>Hỏi thật mn, sau 5-10 năm làm việc cho cty, cống hiến cho th chủ, thì mn nhận được gì ?</title>
-    <updated>2025-11-11T12:25:28+00:00</updated>
-    <author>
-      <name>/u/Ok_Pollution1769</name>
-      <uri>https://old.reddit.com/user/Ok_Pollution1769</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Kinh nghiệm, vốn, mqh ... ?, có thể tự lực ra làm chủ như nó dc k ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ok_Pollution1769"&gt; /u/Ok_Pollution1769 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ou83jh/hỏi_thật_mn_sau_510_năm_làm_việc_cho_cty_cống/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ou83jh/hỏi_thật_mn_sau_510_năm_làm_việc_cho_cty_cống/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ou83jh/hỏi_thật_mn_sau_510_năm_làm_việc_cho_cty_cống/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-11T12:25:28+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1otvxz2</id>
     <title>Tại sao phải sinh con?</title>
     <updated>2025-11-11T01:08:27+00:00</updated>
@@ -305,6 +292,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1otvxz2/tại_sao_phải_sinh_con/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-11T01:08:27+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ou83jh</id>
+    <title>Hỏi thật mn, sau 5-10 năm làm việc cho cty, cống hiến cho th chủ, thì mn nhận được gì ?</title>
+    <updated>2025-11-11T12:25:28+00:00</updated>
+    <author>
+      <name>/u/Ok_Pollution1769</name>
+      <uri>https://old.reddit.com/user/Ok_Pollution1769</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Kinh nghiệm, vốn, mqh ... ?, có thể tự lực ra làm chủ như nó dc k ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ok_Pollution1769"&gt; /u/Ok_Pollution1769 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ou83jh/hỏi_thật_mn_sau_510_năm_làm_việc_cho_cty_cống/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ou83jh/hỏi_thật_mn_sau_510_năm_làm_việc_cho_cty_cống/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ou83jh/hỏi_thật_mn_sau_510_năm_làm_việc_cho_cty_cống/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-11T12:25:28+00:00</published>
   </entry>
   <entry>
     <id>t3_1ou2ak4</id>
