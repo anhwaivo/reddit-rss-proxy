@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-11-11T19:40:39+00:00</updated>
+  <updated>2025-11-11T19:50:29+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -242,19 +242,6 @@
     <published>2025-11-11T07:59:16+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ouiq4a</id>
-    <title>một chút tâm sự</title>
-    <updated>2025-11-11T19:20:46+00:00</updated>
-    <author>
-      <name>/u/Apart-Yoghurt8577</name>
-      <uri>https://old.reddit.com/user/Apart-Yoghurt8577</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Gần đây mình đã cắt đứt hết mọi mối quan hệ bạn bè cũ, từ cấp 2 đến cấp 3 và đại học. Mỗi một năm mình lại mất đi vài đứa đến khi không còn lại ai. Hồi xưa mình thấy điều này rất kinh khủng, mình không thể sống nỗi nếu không có bạn bè. Nhưng đến bây giờ mình thấy bình yên, mình tận hưởng cuộc sống mỗi ngày, mình cũng không cần chia sẻ cho người khác quá nhiều, tự mình biết và cảm thấy có đang ổn và hạnh phúc hay không.&lt;/p&gt; &lt;p&gt;Mỗi sáng mình lên cty làm, trộm vía chỗ làm của mình vui vẻ, rồi học thêm tiếng anh, tiếng nước khác. Thời gian rảnh của mình trước kia sẽ đi cf hay đi lòng vòng ngoài đường vs bạn thì giờ mình thích ở nhà đọc sách hoặc xem video về chủ đề gì đó mà mình thích. Và không phải là tỏ vẻ bình yên đâu mà mình thật sự yêu khoảng thời gian này. Mình hơi bất ngờ vì không nghĩ rằng mình có thể &amp;quot;ổn&amp;quot; đến thế dù trước kia đối với mình, không có bạn bè thật kinh khủng.&lt;/p&gt; &lt;p&gt;Đây là thời gian mình thấy đủ đầy nhất, mình không còn phải lo chuyện người này giận, người kia dỗi. Hay phải cuống cuồng giải thích bản thân mỗi khi bị trách móc. Mọi giờ, mọi phút, mọi giây của thời gian này đều để dành cho mình, để hiểu mình.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Apart-Yoghurt8577"&gt; /u/Apart-Yoghurt8577 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ouiq4a/một_chút_tâm_sự/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ouiq4a/một_chút_tâm_sự/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ouiq4a/một_chút_tâm_sự/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-11T19:20:46+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1oue67d</id>
     <title>It muốn xuất ngoại có nên học JS hay chuyển sang Java/Python?</title>
     <updated>2025-11-11T16:36:14+00:00</updated>
@@ -279,6 +266,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1otxz1n/topic_con_trai_sẽ_không_thể_yêu_người_mà_họ_không/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-11T02:42:23+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ouiq4a</id>
+    <title>một chút tâm sự</title>
+    <updated>2025-11-11T19:20:46+00:00</updated>
+    <author>
+      <name>/u/Apart-Yoghurt8577</name>
+      <uri>https://old.reddit.com/user/Apart-Yoghurt8577</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Gần đây mình đã cắt đứt hết mọi mối quan hệ bạn bè cũ, từ cấp 2 đến cấp 3 và đại học. Mỗi một năm mình lại mất đi vài đứa đến khi không còn lại ai. Hồi xưa mình thấy điều này rất kinh khủng, mình không thể sống nỗi nếu không có bạn bè. Nhưng đến bây giờ mình thấy bình yên, mình tận hưởng cuộc sống mỗi ngày, mình cũng không cần chia sẻ cho người khác quá nhiều, tự mình biết và cảm thấy có đang ổn và hạnh phúc hay không.&lt;/p&gt; &lt;p&gt;Mỗi sáng mình lên cty làm, trộm vía chỗ làm của mình vui vẻ, rồi học thêm tiếng anh, tiếng nước khác. Thời gian rảnh của mình trước kia sẽ đi cf hay đi lòng vòng ngoài đường vs bạn thì giờ mình thích ở nhà đọc sách hoặc xem video về chủ đề gì đó mà mình thích. Và không phải là tỏ vẻ bình yên đâu mà mình thật sự yêu khoảng thời gian này. Mình hơi bất ngờ vì không nghĩ rằng mình có thể &amp;quot;ổn&amp;quot; đến thế dù trước kia đối với mình, không có bạn bè thật kinh khủng.&lt;/p&gt; &lt;p&gt;Đây là thời gian mình thấy đủ đầy nhất, mình không còn phải lo chuyện người này giận, người kia dỗi. Hay phải cuống cuồng giải thích bản thân mỗi khi bị trách móc. Mọi giờ, mọi phút, mọi giây của thời gian này đều để dành cho mình, để hiểu mình.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Apart-Yoghurt8577"&gt; /u/Apart-Yoghurt8577 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ouiq4a/một_chút_tâm_sự/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ouiq4a/một_chút_tâm_sự/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ouiq4a/một_chút_tâm_sự/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-11T19:20:46+00:00</published>
   </entry>
   <entry>
     <id>t3_1otvxz2</id>
