@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-11-12T21:17:23+00:00</updated>
+  <updated>2025-11-12T21:38:34+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1ou8ibt</id>
-    <title>Cận nhẹ là đi hết nhé</title>
-    <updated>2025-11-11T12:45:53+00:00</updated>
-    <author>
-      <name>/u/Past_Bumblebee9503</name>
-      <uri>https://old.reddit.com/user/Past_Bumblebee9503</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1ou8ibt/cận_nhẹ_là_đi_hết_nhé/"&gt; &lt;img alt="Cận nhẹ là đi hết nhé" src="https://preview.redd.it/8nkckuv5jm0g1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=4edf85d97da3b96d11ee7015ad1051e745ecaf80" title="Cận nhẹ là đi hết nhé" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Past_Bumblebee9503"&gt; /u/Past_Bumblebee9503 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/8nkckuv5jm0g1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ou8ibt/cận_nhẹ_là_đi_hết_nhé/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ou8ibt/cận_nhẹ_là_đi_hết_nhé/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-11T12:45:53+00:00</published>
-  </entry>
   <entry>
     <id>t3_1ouz99h</id>
     <title>Chuyển xe máy từ Đà Nẵng -&gt; Hồ Chí Minh</title>
@@ -45,6 +32,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ouyhh1/xin_review_về_brse_nhật/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-12T07:05:50+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ouzbl4</id>
+    <title>Công ty ra qui định giữ lại 30 , 100% lương khi không hoàn thành cam kết công việc . Vậy đúng luật pháp VN kg</title>
+    <updated>2025-11-12T07:59:15+00:00</updated>
+    <author>
+      <name>/u/Key_Department4635</name>
+      <uri>https://old.reddit.com/user/Key_Department4635</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tôi làm sale ở một cty VN . Công ty ra qui định mới là nếu các hs liên quan đến hợp đồng kg nộp về kịp thì sẽ bị giữ 30 đến 100 % lương của tháng đó . Hoàn thành mới trả lại . Vậy có đúng pháp luật hiện hành của VN kg&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Key_Department4635"&gt; /u/Key_Department4635 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ouzbl4/công_ty_ra_qui_định_giữ_lại_30_100_lương_khi/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ouzbl4/công_ty_ra_qui_định_giữ_lại_30_100_lương_khi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ouzbl4/công_ty_ra_qui_định_giữ_lại_30_100_lương_khi/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-12T07:59:15+00:00</published>
   </entry>
   <entry>
     <id>t3_1ouu7uu</id>
@@ -164,19 +164,6 @@
     <published>2025-11-12T03:19:54+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ov1311</id>
-    <title>Học 4 năm, có một số dự án, tự xây trang web và tự deploy, nhìn lại mình cỏn con so với thị trường, phải làm gì đây?</title>
-    <updated>2025-11-12T09:52:32+00:00</updated>
-    <author>
-      <name>/u/SardoWinter</name>
-      <uri>https://old.reddit.com/user/SardoWinter</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi mọi người, em là sinh viên IT năm cuối theo mảng web, em có thấy tình hình của ngành mình, vẫn là câu chuyện cung cầu, em cần mọi người đi trước cho em lời khuyên về tình hình hiện tại, mình cần trao dồi, nhưng hướng trao dồi là thứ em rất đau đầu, có thể mọi người sẽ nói lên xem yêu cầu tuyển dụng của các công ty, nhưng hầu như không còn công ty nào tuyển intern nữa cả, cái họ cần thật sự là 2,3 năm kinh nghiệm, em muốn hỏi anh chị đi trước, có nguồn nào để em biết thị trường mảng web đang cần gì không ạ, giờ trong tay chỉ có kiến thức để làm một trang web, cũng tự deploy lên aws, nhưng nhìn thị trường thấy mình chả thấm vào đâu. &lt;/p&gt; &lt;p&gt;Trang web em xây bằng Spring và tự Deploy &lt;a href="https://ourstories.space/"&gt;Our stories - Trang chủ&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/SardoWinter"&gt; /u/SardoWinter &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ov1311/học_4_năm_có_một_số_dự_án_tự_xây_trang_web_và_tự/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ov1311/học_4_năm_có_một_số_dự_án_tự_xây_trang_web_và_tự/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ov1311/học_4_năm_có_một_số_dự_án_tự_xây_trang_web_và_tự/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-12T09:52:32+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1ouv0yh</id>
     <title>Xót xa cho chữ dạy</title>
     <updated>2025-11-12T03:54:57+00:00</updated>
@@ -188,6 +175,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ouv0yh/xót_xa_cho_chữ_dạy/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-12T03:54:57+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ov1311</id>
+    <title>Học 4 năm, có một số dự án, tự xây trang web và tự deploy, nhìn lại mình cỏn con so với thị trường, phải làm gì đây?</title>
+    <updated>2025-11-12T09:52:32+00:00</updated>
+    <author>
+      <name>/u/SardoWinter</name>
+      <uri>https://old.reddit.com/user/SardoWinter</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi mọi người, em là sinh viên IT năm cuối theo mảng web, em có thấy tình hình của ngành mình, vẫn là câu chuyện cung cầu, em cần mọi người đi trước cho em lời khuyên về tình hình hiện tại, mình cần trao dồi, nhưng hướng trao dồi là thứ em rất đau đầu, có thể mọi người sẽ nói lên xem yêu cầu tuyển dụng của các công ty, nhưng hầu như không còn công ty nào tuyển intern nữa cả, cái họ cần thật sự là 2,3 năm kinh nghiệm, em muốn hỏi anh chị đi trước, có nguồn nào để em biết thị trường mảng web đang cần gì không ạ, giờ trong tay chỉ có kiến thức để làm một trang web, cũng tự deploy lên aws, nhưng nhìn thị trường thấy mình chả thấm vào đâu. &lt;/p&gt; &lt;p&gt;Trang web em xây bằng Spring và tự Deploy &lt;a href="https://ourstories.space/"&gt;Our stories - Trang chủ&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/SardoWinter"&gt; /u/SardoWinter &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ov1311/học_4_năm_có_một_số_dự_án_tự_xây_trang_web_và_tự/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ov1311/học_4_năm_có_một_số_dự_án_tự_xây_trang_web_và_tự/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ov1311/học_4_năm_có_một_số_dự_án_tự_xây_trang_web_và_tự/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-12T09:52:32+00:00</published>
   </entry>
   <entry>
     <id>t3_1ov8qpn</id>
@@ -242,19 +242,6 @@
     <published>2025-11-12T19:34:15+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ouu9lp</id>
-    <title>Nói chuyện với trai dev</title>
-    <updated>2025-11-12T03:17:52+00:00</updated>
-    <author>
-      <name>/u/KangarooPositive3207</name>
-      <uri>https://old.reddit.com/user/KangarooPositive3207</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi mn, thì mình 20F đang mập mờ với 1 ông anh IT này, thì chuyện là cuộc trò chuyện khá nhạt. Ổng thích em nhưng mà nch 1 hồi cũng khá nhạt, e thì cũng có cảm tình với ổng, cũng gợi mở chuyện để nói này kia. Nhưng e hết chuyện để nói với ổng rồi, còn ổng thì kiểu e hỏi gì ổng đáp nấy nên câu chuyện lại chui vào ngõ cụt. Kiểu nhiều khi trò chuyện cũng sượng trân ko biết nói gì nữa. Giờ có cách nào duy trì cuộc trò chuyện cho nó tự nhiên cũng như là hiểu thêm về đối phương ko ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/KangarooPositive3207"&gt; /u/KangarooPositive3207 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ouu9lp/nói_chuyện_với_trai_dev/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ouu9lp/nói_chuyện_với_trai_dev/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ouu9lp/nói_chuyện_với_trai_dev/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-12T03:17:52+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1ovci60</id>
     <title>quen bao lâu thì tỏ tình</title>
     <updated>2025-11-12T18:04:39+00:00</updated>
@@ -266,6 +253,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ovci60/quen_bao_lâu_thì_tỏ_tình/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-12T18:04:39+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ouu9lp</id>
+    <title>Nói chuyện với trai dev</title>
+    <updated>2025-11-12T03:17:52+00:00</updated>
+    <author>
+      <name>/u/KangarooPositive3207</name>
+      <uri>https://old.reddit.com/user/KangarooPositive3207</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi mn, thì mình 20F đang mập mờ với 1 ông anh IT này, thì chuyện là cuộc trò chuyện khá nhạt. Ổng thích em nhưng mà nch 1 hồi cũng khá nhạt, e thì cũng có cảm tình với ổng, cũng gợi mở chuyện để nói này kia. Nhưng e hết chuyện để nói với ổng rồi, còn ổng thì kiểu e hỏi gì ổng đáp nấy nên câu chuyện lại chui vào ngõ cụt. Kiểu nhiều khi trò chuyện cũng sượng trân ko biết nói gì nữa. Giờ có cách nào duy trì cuộc trò chuyện cho nó tự nhiên cũng như là hiểu thêm về đối phương ko ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/KangarooPositive3207"&gt; /u/KangarooPositive3207 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ouu9lp/nói_chuyện_với_trai_dev/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ouu9lp/nói_chuyện_với_trai_dev/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ouu9lp/nói_chuyện_với_trai_dev/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-12T03:17:52+00:00</published>
   </entry>
   <entry>
     <id>t3_1ovaozu</id>
