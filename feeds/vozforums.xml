@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-11-12T14:19:56+00:00</updated>
+  <updated>2025-11-12T14:45:02+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1ov42zb</id>
-    <title>Có bác nào mê môn Pool ko :D?</title>
-    <updated>2025-11-12T12:41:35+00:00</updated>
-    <author>
-      <name>/u/borjiginnergui</name>
-      <uri>https://old.reddit.com/user/borjiginnergui</uri>
-    </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/borjiginnergui"&gt; /u/borjiginnergui &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ov42zb/có_bác_nào_mê_môn_pool_ko_d/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ov42zb/có_bác_nào_mê_môn_pool_ko_d/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ov42zb/có_bác_nào_mê_môn_pool_ko_d/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-12T12:41:35+00:00</published>
-  </entry>
   <entry>
     <id>t3_1ov4jso</id>
     <title>Chuyện tình cảm</title>
@@ -34,19 +21,6 @@
     <published>2025-11-12T13:02:46+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ov4rlb</id>
-    <title>Có nên làm chủ nhiệm nckh?</title>
-    <updated>2025-11-12T13:12:07+00:00</updated>
-    <author>
-      <name>/u/Square_Heart_6620</name>
-      <uri>https://old.reddit.com/user/Square_Heart_6620</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Dạ mn cho em hỏi em sinh viên Y2 lần đầu tham gia vào làm NCKH thì có nên nhận làm chủ nhiệm đề tài ko ạ? Tình hình là nhóm em trình độ tương đối ngang nhau, ko có ai có kinh nghiệm trong việc này nhma buộc phải chọn ra 1 người. Cho em hỏi nếu mà làm chủ nhiệm thì mình sẽ được những lợi ích gì trong việc học/việc nghiên cứu hay những việc khác nữa như kỹ năng mềm nào đó ạ? Với lại cho em hỏi theo anh chị thì mình cần có kỹ năng/phẩm chất gì để làm tốt việc này ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Square_Heart_6620"&gt; /u/Square_Heart_6620 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ov4rlb/có_nên_làm_chủ_nhiệm_nckh/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ov4rlb/có_nên_làm_chủ_nhiệm_nckh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ov4rlb/có_nên_làm_chủ_nhiệm_nckh/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-12T13:12:07+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1ouiq4a</id>
     <title>một chút tâm sự</title>
     <updated>2025-11-11T19:20:46+00:00</updated>
@@ -58,19 +32,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ouiq4a/một_chút_tâm_sự/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-11T19:20:46+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1ov4ytb</id>
-    <title>Làm Sao Nhảy Việc IT Mà Không Cần Biết Leetcode?</title>
-    <updated>2025-11-12T13:21:05+00:00</updated>
-    <author>
-      <name>/u/Illustrious-Job9749</name>
-      <uri>https://old.reddit.com/user/Illustrious-Job9749</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Như tiêu đề mình là dev 3 năm kinh nghiệm, đang làm cho 1 cty out-source. Về khả năng code thì ko dám nói là pro nhưng cũng không quá tệ, role mình đang là senior đối với phía client, tiếng anh giao tiếp chém gió tranh luận xử lí không thành vấn đề.&lt;/p&gt; &lt;p&gt;Ai cũng biết trong ngành này muốn lên lương thì phải nhảy việc, mà nghĩ tới việc phải đi phỏng vấn giải mấy bài trên Leetcode thì mình biết là mình khó có thể làm được.&lt;br /&gt; Anh em dev ở đây cho mình hỏi có cách nào khác không nhỉ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Illustrious-Job9749"&gt; /u/Illustrious-Job9749 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ov4ytb/làm_sao_nhảy_việc_it_mà_không_cần_biết_leetcode/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ov4ytb/làm_sao_nhảy_việc_it_mà_không_cần_biết_leetcode/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ov4ytb/làm_sao_nhảy_việc_it_mà_không_cần_biết_leetcode/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-12T13:21:05+00:00</published>
   </entry>
   <entry>
     <id>t3_1ov5d38</id>
@@ -151,6 +112,19 @@
     <published>2025-11-12T05:44:42+00:00</published>
   </entry>
   <entry>
+    <id>t3_1ov6sre</id>
+    <title>Mừng cưới từ quá khứ</title>
+    <updated>2025-11-12T14:36:28+00:00</updated>
+    <author>
+      <name>/u/2k1obanhmy</name>
+      <uri>https://old.reddit.com/user/2k1obanhmy</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tôi có chơi với đứa em. Hồi xưa nó lấy chồng thì tôi lại ko làm cùng nhau nữa và chuyển vào nam sống. Ko đi đám đc và cũng ngại hỏi stk để mừng. Mai ae gặp nhau(tôi khá quý bé này, xưa chơi chung tính nó cũng lành) sau hơn chục năm. Nếu tôi đưa phong bì(1m) thì có thô lỗ lắm ko nhỉ ? Cám ơn mọi người !&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/2k1obanhmy"&gt; /u/2k1obanhmy &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ov6sre/mừng_cưới_từ_quá_khứ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ov6sre/mừng_cưới_từ_quá_khứ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ov6sre/mừng_cưới_từ_quá_khứ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-12T14:36:28+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1ouzbl4</id>
     <title>Công ty ra qui định giữ lại 30 , 100% lương khi không hoàn thành cam kết công việc . Vậy đúng luật pháp VN kg</title>
     <updated>2025-11-12T07:59:15+00:00</updated>
@@ -190,19 +164,6 @@
     <published>2025-11-12T07:44:33+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ou8ibt</id>
-    <title>Cận nhẹ là đi hết nhé</title>
-    <updated>2025-11-11T12:45:53+00:00</updated>
-    <author>
-      <name>/u/Past_Bumblebee9503</name>
-      <uri>https://old.reddit.com/user/Past_Bumblebee9503</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1ou8ibt/cận_nhẹ_là_đi_hết_nhé/"&gt; &lt;img alt="Cận nhẹ là đi hết nhé" src="https://preview.redd.it/8nkckuv5jm0g1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=4edf85d97da3b96d11ee7015ad1051e745ecaf80" title="Cận nhẹ là đi hết nhé" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Past_Bumblebee9503"&gt; /u/Past_Bumblebee9503 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/8nkckuv5jm0g1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ou8ibt/cận_nhẹ_là_đi_hết_nhé/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ou8ibt/cận_nhẹ_là_đi_hết_nhé/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-11T12:45:53+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1ouz99h</id>
     <title>Chuyển xe máy từ Đà Nẵng -&gt; Hồ Chí Minh</title>
     <updated>2025-11-12T07:55:09+00:00</updated>
@@ -214,6 +175,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ouz99h/chuyển_xe_máy_từ_đà_nẵng_hồ_chí_minh/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-12T07:55:09+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ou8ibt</id>
+    <title>Cận nhẹ là đi hết nhé</title>
+    <updated>2025-11-11T12:45:53+00:00</updated>
+    <author>
+      <name>/u/Past_Bumblebee9503</name>
+      <uri>https://old.reddit.com/user/Past_Bumblebee9503</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1ou8ibt/cận_nhẹ_là_đi_hết_nhé/"&gt; &lt;img alt="Cận nhẹ là đi hết nhé" src="https://preview.redd.it/8nkckuv5jm0g1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=4edf85d97da3b96d11ee7015ad1051e745ecaf80" title="Cận nhẹ là đi hết nhé" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Past_Bumblebee9503"&gt; /u/Past_Bumblebee9503 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/8nkckuv5jm0g1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ou8ibt/cận_nhẹ_là_đi_hết_nhé/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ou8ibt/cận_nhẹ_là_đi_hết_nhé/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-11T12:45:53+00:00</published>
   </entry>
   <entry>
     <id>t3_1ouyhh1</id>
@@ -229,6 +203,32 @@
     <published>2025-11-12T07:05:50+00:00</published>
   </entry>
   <entry>
+    <id>t3_1ov4rlb</id>
+    <title>Có nên làm chủ nhiệm nckh?</title>
+    <updated>2025-11-12T13:12:07+00:00</updated>
+    <author>
+      <name>/u/Square_Heart_6620</name>
+      <uri>https://old.reddit.com/user/Square_Heart_6620</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Dạ mn cho em hỏi em sinh viên Y2 lần đầu tham gia vào làm NCKH thì có nên nhận làm chủ nhiệm đề tài ko ạ? Tình hình là nhóm em trình độ tương đối ngang nhau, ko có ai có kinh nghiệm trong việc này nhma buộc phải chọn ra 1 người. Cho em hỏi nếu mà làm chủ nhiệm thì mình sẽ được những lợi ích gì trong việc học/việc nghiên cứu hay những việc khác nữa như kỹ năng mềm nào đó ạ? Với lại cho em hỏi theo anh chị thì mình cần có kỹ năng/phẩm chất gì để làm tốt việc này ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Square_Heart_6620"&gt; /u/Square_Heart_6620 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ov4rlb/có_nên_làm_chủ_nhiệm_nckh/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ov4rlb/có_nên_làm_chủ_nhiệm_nckh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ov4rlb/có_nên_làm_chủ_nhiệm_nckh/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-12T13:12:07+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ov4ytb</id>
+    <title>Làm Sao Nhảy Việc IT Mà Không Cần Biết Leetcode?</title>
+    <updated>2025-11-12T13:21:05+00:00</updated>
+    <author>
+      <name>/u/Illustrious-Job9749</name>
+      <uri>https://old.reddit.com/user/Illustrious-Job9749</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Như tiêu đề mình là dev 3 năm kinh nghiệm, đang làm cho 1 cty out-source. Về khả năng code thì ko dám nói là pro nhưng cũng không quá tệ, role mình đang là senior đối với phía client, tiếng anh giao tiếp chém gió tranh luận xử lí không thành vấn đề.&lt;/p&gt; &lt;p&gt;Ai cũng biết trong ngành này muốn lên lương thì phải nhảy việc, mà nghĩ tới việc phải đi phỏng vấn giải mấy bài trên Leetcode thì mình biết là mình khó có thể làm được.&lt;br /&gt; Anh em dev ở đây cho mình hỏi có cách nào khác không nhỉ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Illustrious-Job9749"&gt; /u/Illustrious-Job9749 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ov4ytb/làm_sao_nhảy_việc_it_mà_không_cần_biết_leetcode/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ov4ytb/làm_sao_nhảy_việc_it_mà_không_cần_biết_leetcode/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ov4ytb/làm_sao_nhảy_việc_it_mà_không_cần_biết_leetcode/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-12T13:21:05+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1ouxk1t</id>
     <title>7-8 củ Rx 6800xt trâu hay 5060 thế các bác</title>
     <updated>2025-11-12T06:10:13+00:00</updated>
@@ -242,19 +242,6 @@
     <published>2025-11-12T06:10:13+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ouub4l</id>
-    <title>Làm game muốn kiếm được lợi nhuận đê tạm duy trì cuộc sống nên làm trên pc hay mobile</title>
-    <updated>2025-11-12T03:19:54+00:00</updated>
-    <author>
-      <name>/u/Automatic_Coat1236</name>
-      <uri>https://old.reddit.com/user/Automatic_Coat1236</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác, em tính theo đuổi ước mơ làm indie dev game nhưng để mà làm con game tâm huyết em nghĩ ra thì sẽ mất kha khá thời gian nên em tính làm một số game tạm để kiếm ít lợi nhuận nuôi miệng ăn đã. Vậy thì em nên nhắm đến đối tượng là pc hay mobile là dễ kiếm nhất hả các bác? Em tính làm game dạng kiểu hybrid casual với puzzle các bác nghĩ sao?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Automatic_Coat1236"&gt; /u/Automatic_Coat1236 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ouub4l/làm_game_muốn_kiếm_được_lợi_nhuận_đê_tạm_duy_trì/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ouub4l/làm_game_muốn_kiếm_được_lợi_nhuận_đê_tạm_duy_trì/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ouub4l/làm_game_muốn_kiếm_được_lợi_nhuận_đê_tạm_duy_trì/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-12T03:19:54+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1ov1311</id>
     <title>Học 4 năm, có một số dự án, tự xây trang web và tự deploy, nhìn lại mình cỏn con so với thị trường, phải làm gì đây?</title>
     <updated>2025-11-12T09:52:32+00:00</updated>
@@ -266,6 +253,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ov1311/học_4_năm_có_một_số_dự_án_tự_xây_trang_web_và_tự/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-12T09:52:32+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ouub4l</id>
+    <title>Làm game muốn kiếm được lợi nhuận đê tạm duy trì cuộc sống nên làm trên pc hay mobile</title>
+    <updated>2025-11-12T03:19:54+00:00</updated>
+    <author>
+      <name>/u/Automatic_Coat1236</name>
+      <uri>https://old.reddit.com/user/Automatic_Coat1236</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác, em tính theo đuổi ước mơ làm indie dev game nhưng để mà làm con game tâm huyết em nghĩ ra thì sẽ mất kha khá thời gian nên em tính làm một số game tạm để kiếm ít lợi nhuận nuôi miệng ăn đã. Vậy thì em nên nhắm đến đối tượng là pc hay mobile là dễ kiếm nhất hả các bác? Em tính làm game dạng kiểu hybrid casual với puzzle các bác nghĩ sao?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Automatic_Coat1236"&gt; /u/Automatic_Coat1236 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ouub4l/làm_game_muốn_kiếm_được_lợi_nhuận_đê_tạm_duy_trì/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ouub4l/làm_game_muốn_kiếm_được_lợi_nhuận_đê_tạm_duy_trì/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ouub4l/làm_game_muốn_kiếm_được_lợi_nhuận_đê_tạm_duy_trì/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-12T03:19:54+00:00</published>
   </entry>
   <entry>
     <id>t3_1ougjem</id>
