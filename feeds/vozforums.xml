@@ -2,50 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-11-12T09:52:05+00:00</updated>
+  <updated>2025-11-12T10:21:10+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1ouvtyi</id>
-    <title>Mọi người có thấy con này trong phòng không vậy?</title>
-    <updated>2025-11-12T04:36:10+00:00</updated>
-    <author>
-      <name>/u/Creative_Emotion8856</name>
-      <uri>https://old.reddit.com/user/Creative_Emotion8856</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1ouvtyi/mọi_người_có_thấy_con_này_trong_phòng_không_vậy/"&gt; &lt;img alt="Mọi người có thấy con này trong phòng không vậy?" src="https://a.thumbs.redditmedia.com/GsoUdEwo2TcV5Yr6c7THbvgVYMhdXxxg5-MXQoGWe50.jpg" title="Mọi người có thấy con này trong phòng không vậy?" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="https://preview.redd.it/8rimf3758r0g1.jpg?width=719&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=1dfe4b2e090587f28f9458395fc88462945e6a97"&gt;https://preview.redd.it/8rimf3758r0g1.jpg?width=719&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=1dfe4b2e090587f28f9458395fc88462945e6a97&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Mọi người cho hỏi con này là con gì mà sao dạo này trong phòng mình xuất hiện ngày càng nhiều. Nó có nguy hiểm cho sức khoẻ không vậy mọi người? Nó từ đâu ra và làm sao triệt nó vậy mọi người? Mình lau dọn phòng mình thường xuyên mà ko biết nó từ đâu ra nữa. Tìm ổ nó để triệt mà ko thấy. Chỉ thấy nó mấy tháng gần đây thôi. Chứ đó giờ không có. Thanks mn.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Creative_Emotion8856"&gt; /u/Creative_Emotion8856 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ouvtyi/mọi_người_có_thấy_con_này_trong_phòng_không_vậy/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ouvtyi/mọi_người_có_thấy_con_này_trong_phòng_không_vậy/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ouvtyi/mọi_người_có_thấy_con_này_trong_phòng_không_vậy/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-12T04:36:10+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1oue67d</id>
-    <title>It muốn xuất ngoại có nên học JS hay chuyển sang Java/Python?</title>
-    <updated>2025-11-11T16:36:14+00:00</updated>
-    <author>
-      <name>/u/WantToStudy777</name>
-      <uri>https://old.reddit.com/user/WantToStudy777</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người em mới ra trường tốt nghiệp ở mỹ CS major nhưng mà trình độ gà nên không kiếm được việc nên về Việt Nam. Em dự định sẽ làm ở Việt Nam vài năm rồi apply vào những công ty nước ngoài nhưng mà em cũng muốn hỏi thêm kinh nghiệm các tiền bối đi trước. Không biết là mọi người chuẩn bị những gì để tìm kiếm các cơ hội sponsor ạ?&lt;/p&gt; &lt;p&gt;Em thì hứng thú nhất là mảng backend, có kinh nghiệm về nodejs nhiều. Em nghe nói là các big tech thường dùng java hay python nên em cũng đắn đo không biết có nên chuyển sang học sâu về 2 cái đấy. &lt;/p&gt; &lt;p&gt;Em đi 3 cái intern thì mỗi cái dùng một ngôn ngữ (JS, Java, golang) nên giờ em cũng kiểu chả chuyên thằng nào. Mỗi tội personal project thì em hay làm webapp nên dùng JS khá nhiều. Em đang apply các job nodejs backend nhưng mà nếu muốn đổi sang java/python thì em sợ là phỏng vấn trượt tại quên khá nhiều. &lt;/p&gt; &lt;p&gt;Bây giờ thì có 2 hướng là em lại dành ra 1-2 tháng ngồi ôn lại java/python, build project và phỏng vấn. 2 là em đi phỏng vấn nodejs luôn, rồi xem xét nhảy việc. Nhưng mà em lo là giờ apply fresher nodejs, xong làm 1 hồi nhảy sang java thì lại phải apply lại fresher java thì không biết là có phí thời gian không?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/WantToStudy777"&gt; /u/WantToStudy777 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oue67d/it_muốn_xuất_ngoại_có_nên_học_js_hay_chuyển_sang/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oue67d/it_muốn_xuất_ngoại_có_nên_học_js_hay_chuyển_sang/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1oue67d/it_muốn_xuất_ngoại_có_nên_học_js_hay_chuyển_sang/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-11T16:36:14+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1ouxdcv</id>
-    <title>Cancel Subscription GPT</title>
-    <updated>2025-11-12T05:59:48+00:00</updated>
-    <author>
-      <name>/u/Helpful_Gap_4966</name>
-      <uri>https://old.reddit.com/user/Helpful_Gap_4966</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các bác ơi tài khoản của em vừa được gia hạn, giờ em có cách nào em có thể huỷ subsription hay huỷ tài khoản để được hoàn lại tiền không ạ. Do em quên chưa cancel subscription ấy ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Helpful_Gap_4966"&gt; /u/Helpful_Gap_4966 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ouxdcv/cancel_subscription_gpt/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ouxdcv/cancel_subscription_gpt/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ouxdcv/cancel_subscription_gpt/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-12T05:59:48+00:00</published>
-  </entry>
   <entry>
     <id>t3_1ouy7vy</id>
     <title>Một loại cảm xúc khó hiểu</title>
@@ -151,17 +112,30 @@
     <published>2025-11-12T09:26:12+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ouz99h</id>
-    <title>Chuyển xe máy từ Đà Nẵng -&gt; Hồ Chí Minh</title>
-    <updated>2025-11-12T07:55:09+00:00</updated>
+    <id>t3_1ov1468</id>
+    <title>Tẩy vết sơn</title>
+    <updated>2025-11-12T09:54:32+00:00</updated>
     <author>
-      <name>/u/Repulsive-Teach148</name>
-      <uri>https://old.reddit.com/user/Repulsive-Teach148</uri>
+      <name>/u/Soggy_Vanilla_4087</name>
+      <uri>https://old.reddit.com/user/Soggy_Vanilla_4087</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là em đang cần chuyển xe máy từ Đà Nẵng vào Hồ Chí Minh mà đang không biết chuyển hãng nào ạ, em có tham khảo 2 chỗ là Phương Trang và vantaingocphong.&lt;/p&gt; &lt;p&gt;Mọi người có ai từng chuyển xe máy liên tỉnh xài dịch vụ của 2 nhà xe trên chưa ạ, cho em xin ý kiến ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Repulsive-Teach148"&gt; /u/Repulsive-Teach148 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ouz99h/chuyển_xe_máy_từ_đà_nẵng_hồ_chí_minh/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ouz99h/chuyển_xe_máy_từ_đà_nẵng_hồ_chí_minh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ouz99h/chuyển_xe_máy_từ_đà_nẵng_hồ_chí_minh/"/>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1ov1468/tẩy_vết_sơn/"&gt; &lt;img alt="Tẩy vết sơn" src="https://preview.redd.it/ozju6g6hts0g1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=2de7c11342cc3ce23e1ceb3479560b4a1c6dcc16" title="Tẩy vết sơn" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là áo em bị dính sơn, đã xài acetone rồi mà cũng k đc. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Soggy_Vanilla_4087"&gt; /u/Soggy_Vanilla_4087 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/ozju6g6hts0g1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ov1468/tẩy_vết_sơn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ov1468/tẩy_vết_sơn/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-12T07:55:09+00:00</published>
+    <published>2025-11-12T09:54:32+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ov1ier</id>
+    <title>Xác nhận hạnh kiểm</title>
+    <updated>2025-11-12T10:19:19+00:00</updated>
+    <author>
+      <name>/u/Funny_Benefit_5566</name>
+      <uri>https://old.reddit.com/user/Funny_Benefit_5566</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em đang cần công chứng giấy xnhk để đi làm nhưng bên phường họ nói ko chứng mộc đỏ nữa mà đổi sang làm lý lịch tư pháp trên vneid rồi k hướng dẫn gì thêm, bác nào hiểu biết về mấy vụ này cho e hỏi giờ làm ntn ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Funny_Benefit_5566"&gt; /u/Funny_Benefit_5566 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ov1ier/xác_nhận_hạnh_kiểm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ov1ier/xác_nhận_hạnh_kiểm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ov1ier/xác_nhận_hạnh_kiểm/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-12T10:19:19+00:00</published>
   </entry>
   <entry>
     <id>t3_1ouzbl4</id>
@@ -190,6 +164,58 @@
     <published>2025-11-11T19:20:46+00:00</published>
   </entry>
   <entry>
+    <id>t3_1oux3mc</id>
+    <title>Công ty mới biết đến việc mình nói dối là ko ký tiếp hợp đồng với công ty cũ, nhưng thực tế là mình bị cho trượt thử việc thì có sao ko</title>
+    <updated>2025-11-12T05:44:42+00:00</updated>
+    <author>
+      <name>/u/Organic-Initiative96</name>
+      <uri>https://old.reddit.com/user/Organic-Initiative96</uri>
+    </author>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Organic-Initiative96"&gt; /u/Organic-Initiative96 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oux3mc/công_ty_mới_biết_đến_việc_mình_nói_dối_là_ko_ký/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oux3mc/công_ty_mới_biết_đến_việc_mình_nói_dối_là_ko_ký/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1oux3mc/công_ty_mới_biết_đến_việc_mình_nói_dối_là_ko_ký/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-12T05:44:42+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ov1311</id>
+    <title>Học 4 năm, có một số dự án, tự xây trang web và tự deploy, nhìn lại mình cỏn con so với thị trường, phải làm gì đây?</title>
+    <updated>2025-11-12T09:52:32+00:00</updated>
+    <author>
+      <name>/u/SardoWinter</name>
+      <uri>https://old.reddit.com/user/SardoWinter</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi mọi người, em là sinh viên IT năm cuối theo mảng web, em có thấy tình hình của ngành mình, vẫn là câu chuyện cung cầu, em cần mọi người đi trước cho em lời khuyên về tình hình hiện tại, mình cần trao dồi, nhưng hướng trao dồi là thứ em rất đau đầu, có thể mọi người sẽ nói lên xem yêu cầu tuyển dụng của các công ty, nhưng hầu như không còn công ty nào tuyển intern nữa cả, cái họ cần thật sự là 2,3 năm kinh nghiệm, em muốn hỏi anh chị đi trước, có nguồn nào để em biết thị trường mảng web đang cần gì không ạ, giờ trong tay chỉ có kiến thức để làm một trang web, cũng tự deploy lên aws, nhưng nhìn thị trường thấy mình chả thấm vào đâu. &lt;/p&gt; &lt;p&gt;Trang web em xây bằng Spring và tự Deploy &lt;a href="https://ourstories.space/"&gt;Our stories - Trang chủ&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/SardoWinter"&gt; /u/SardoWinter &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ov1311/học_4_năm_có_một_số_dự_án_tự_xây_trang_web_và_tự/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ov1311/học_4_năm_có_một_số_dự_án_tự_xây_trang_web_và_tự/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ov1311/học_4_năm_có_một_số_dự_án_tự_xây_trang_web_và_tự/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-12T09:52:32+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ouz385</id>
+    <title>Bằng tiếng Anh hết hạn có tác dụng trong xin việc không ạ?</title>
+    <updated>2025-11-12T07:44:33+00:00</updated>
+    <author>
+      <name>/u/gamevui237</name>
+      <uri>https://old.reddit.com/user/gamevui237</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em vẫn đang đi học IT nhưng cảm thấy sẽ không thể áp dụng nhiều sau khi tốt nghiệp do không hiểu và nhớ nhiều về kiến thức đã học. Vậy cho em hỏi là giờ em vẫn còn ổn về mặt tiếng Anh thì có dễ nhận việc hơn không ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/gamevui237"&gt; /u/gamevui237 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ouz385/bằng_tiếng_anh_hết_hạn_có_tác_dụng_trong_xin_việc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ouz385/bằng_tiếng_anh_hết_hạn_có_tác_dụng_trong_xin_việc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ouz385/bằng_tiếng_anh_hết_hạn_có_tác_dụng_trong_xin_việc/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-12T07:44:33+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ouz99h</id>
+    <title>Chuyển xe máy từ Đà Nẵng -&gt; Hồ Chí Minh</title>
+    <updated>2025-11-12T07:55:09+00:00</updated>
+    <author>
+      <name>/u/Repulsive-Teach148</name>
+      <uri>https://old.reddit.com/user/Repulsive-Teach148</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là em đang cần chuyển xe máy từ Đà Nẵng vào Hồ Chí Minh mà đang không biết chuyển hãng nào ạ, em có tham khảo 2 chỗ là Phương Trang và vantaingocphong.&lt;/p&gt; &lt;p&gt;Mọi người có ai từng chuyển xe máy liên tỉnh xài dịch vụ của 2 nhà xe trên chưa ạ, cho em xin ý kiến ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Repulsive-Teach148"&gt; /u/Repulsive-Teach148 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ouz99h/chuyển_xe_máy_từ_đà_nẵng_hồ_chí_minh/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ouz99h/chuyển_xe_máy_từ_đà_nẵng_hồ_chí_minh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ouz99h/chuyển_xe_máy_từ_đà_nẵng_hồ_chí_minh/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-12T07:55:09+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1ouub4l</id>
     <title>Làm game muốn kiếm được lợi nhuận đê tạm duy trì cuộc sống nên làm trên pc hay mobile</title>
     <updated>2025-11-12T03:19:54+00:00</updated>
@@ -214,32 +240,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ouyhh1/xin_review_về_brse_nhật/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-12T07:05:50+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1oux3mc</id>
-    <title>Công ty mới biết đến việc mình nói dối là ko ký tiếp hợp đồng với công ty cũ, nhưng thực tế là mình bị cho trượt thử việc thì có sao ko</title>
-    <updated>2025-11-12T05:44:42+00:00</updated>
-    <author>
-      <name>/u/Organic-Initiative96</name>
-      <uri>https://old.reddit.com/user/Organic-Initiative96</uri>
-    </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Organic-Initiative96"&gt; /u/Organic-Initiative96 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oux3mc/công_ty_mới_biết_đến_việc_mình_nói_dối_là_ko_ký/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oux3mc/công_ty_mới_biết_đến_việc_mình_nói_dối_là_ko_ký/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1oux3mc/công_ty_mới_biết_đến_việc_mình_nói_dối_là_ko_ký/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-12T05:44:42+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1ouz385</id>
-    <title>Bằng tiếng Anh hết hạn có tác dụng trong xin việc không ạ?</title>
-    <updated>2025-11-12T07:44:33+00:00</updated>
-    <author>
-      <name>/u/gamevui237</name>
-      <uri>https://old.reddit.com/user/gamevui237</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em vẫn đang đi học IT nhưng cảm thấy sẽ không thể áp dụng nhiều sau khi tốt nghiệp do không hiểu và nhớ nhiều về kiến thức đã học. Vậy cho em hỏi là giờ em vẫn còn ổn về mặt tiếng Anh thì có dễ nhận việc hơn không ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/gamevui237"&gt; /u/gamevui237 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ouz385/bằng_tiếng_anh_hết_hạn_có_tác_dụng_trong_xin_việc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ouz385/bằng_tiếng_anh_hết_hạn_có_tác_dụng_trong_xin_việc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ouz385/bằng_tiếng_anh_hết_hạn_có_tác_dụng_trong_xin_việc/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-12T07:44:33+00:00</published>
   </entry>
   <entry>
     <id>t3_1ouxk1t</id>
