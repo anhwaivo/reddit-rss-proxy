@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-11-13T07:18:19+00:00</updated>
+  <updated>2025-11-13T07:39:33+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1ov1311</id>
-    <title>Học 4 năm, có một số dự án, tự xây trang web và tự deploy, nhìn lại mình cỏn con so với thị trường, phải làm gì đây?</title>
-    <updated>2025-11-12T09:52:32+00:00</updated>
-    <author>
-      <name>/u/SardoWinter</name>
-      <uri>https://old.reddit.com/user/SardoWinter</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi mọi người, em là sinh viên IT năm cuối theo mảng web, em có thấy tình hình của ngành mình, vẫn là câu chuyện cung cầu, em cần mọi người đi trước cho em lời khuyên về tình hình hiện tại, mình cần trao dồi, nhưng hướng trao dồi là thứ em rất đau đầu, có thể mọi người sẽ nói lên xem yêu cầu tuyển dụng của các công ty, nhưng hầu như không còn công ty nào tuyển intern nữa cả, cái họ cần thật sự là 2,3 năm kinh nghiệm, em muốn hỏi anh chị đi trước, có nguồn nào để em biết thị trường mảng web đang cần gì không ạ, giờ trong tay chỉ có kiến thức để làm một trang web, cũng tự deploy lên aws, nhưng nhìn thị trường thấy mình chả thấm vào đâu. &lt;/p&gt; &lt;p&gt;Trang web em xây bằng Spring và tự Deploy &lt;a href="https://ourstories.space/"&gt;Our stories - Trang chủ&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/SardoWinter"&gt; /u/SardoWinter &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ov1311/học_4_năm_có_một_số_dự_án_tự_xây_trang_web_và_tự/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ov1311/học_4_năm_có_một_số_dự_án_tự_xây_trang_web_và_tự/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ov1311/học_4_năm_có_một_số_dự_án_tự_xây_trang_web_và_tự/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-12T09:52:32+00:00</published>
-  </entry>
   <entry>
     <id>t3_1ouv0yh</id>
     <title>Xót xa cho chữ dạy</title>
@@ -99,6 +86,19 @@
     <published>2025-11-12T18:04:39+00:00</published>
   </entry>
   <entry>
+    <id>t3_1ovjikw</id>
+    <title>Cân nhắc về Việt Nam sống</title>
+    <updated>2025-11-12T22:21:49+00:00</updated>
+    <author>
+      <name>/u/toookoool</name>
+      <uri>https://old.reddit.com/user/toookoool</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Xin chào mọi người! Mình đang sống ở Canada cũng gần 20 năm và hiện đang làm ios dev cho một công ty lớn. Mình đang có ý định về vn sống để gần bm( va gđ) hơn. Bm mình cũng lớn tuổi và ngày một yếu. Mình có theo dõi và thấy thị trường cho ios dev (native) ở vn khá là yếu, không nhiều việc. Bm thì ko muốn mình về vì khó kiếm việc/lương ko cao... Mọi người nghĩ có khả thi ko? Có những gì mà mình nên biết? Xin cho em biết ý kiến. Xin cảm ơn. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/toookoool"&gt; /u/toookoool &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ovjikw/cân_nhắc_về_việt_nam_sống/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ovjikw/cân_nhắc_về_việt_nam_sống/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ovjikw/cân_nhắc_về_việt_nam_sống/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-12T22:21:49+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1ovqzjz</id>
     <title>Xin ý kiến về chọn ngành học 2026</title>
     <updated>2025-11-13T03:49:14+00:00</updated>
@@ -123,19 +123,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ourb0z/it_senior_về_vườn_cho_nhẹ_nợ/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-12T01:02:05+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1ovjikw</id>
-    <title>Cân nhắc về Việt Nam sống</title>
-    <updated>2025-11-12T22:21:49+00:00</updated>
-    <author>
-      <name>/u/toookoool</name>
-      <uri>https://old.reddit.com/user/toookoool</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Xin chào mọi người! Mình đang sống ở Canada cũng gần 20 năm và hiện đang làm ios dev cho một công ty lớn. Mình đang có ý định về vn sống để gần bm( va gđ) hơn. Bm mình cũng lớn tuổi và ngày một yếu. Mình có theo dõi và thấy thị trường cho ios dev (native) ở vn khá là yếu, không nhiều việc. Bm thì ko muốn mình về vì khó kiếm việc/lương ko cao... Mọi người nghĩ có khả thi ko? Có những gì mà mình nên biết? Xin cho em biết ý kiến. Xin cảm ơn. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/toookoool"&gt; /u/toookoool &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ovjikw/cân_nhắc_về_việt_nam_sống/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ovjikw/cân_nhắc_về_việt_nam_sống/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ovjikw/cân_nhắc_về_việt_nam_sống/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-12T22:21:49+00:00</published>
   </entry>
   <entry>
     <id>t3_1ovs9o2</id>
@@ -242,17 +229,17 @@
     <published>2025-11-13T07:00:37+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ovup0d</id>
-    <title>4060Ti, 5060Ti, 5070. Cái bẫy của tư bản và ma trận CPU</title>
-    <updated>2025-11-13T07:15:06+00:00</updated>
+    <id>t3_1ovuslw</id>
+    <title>xin review bản revoltg vĩnh viễn</title>
+    <updated>2025-11-13T07:21:20+00:00</updated>
     <author>
-      <name>/u/Fine_Positive_2972</name>
-      <uri>https://old.reddit.com/user/Fine_Positive_2972</uri>
+      <name>/u/ManagementExtreme671</name>
+      <uri>https://old.reddit.com/user/ManagementExtreme671</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hê hê, tự nhiên nghĩ ra được cái title hay phết nhưng nội dung của post thì chắc dở. Chuyện là mình đang có ý định xúc một chiếc PC để gỡ khỏi cái xiềng xích laptop ngăn mình nghịch 7749 thứ. Ban đầu, mình có ý định dùng 4060ti cho tiết kiệm, nhưng hôm qua giành một chút thời gian để tìm hiểu thêm nhằm build chiếc PC p/p nhất có thể thì mình lại tìm được rất nhiều lời chê bai dành cho 4060ti (thậm chí cả ban 16GB?). Do đó mình lân la lên 5060ti vì 16GB Vram. Cấn ở chỗ, 5060ti có băng thông và Vram y hệt như 4060ti, chỉ khác ở chỗ PCIe và DDR7, nhưng lại không bị chê???. Như có đề cập trước đó, máy tính mình xài không xịn lắm, do đó mình không hình dung được Vram, bản thân khả năng xử lý của GPU và CPU ảnh hưởng như thế nào trong quá trình sử dụng các phần mềm phổ biến nên mình lại bị đẩy lên 5070 và rồi 5070ti. Tới đây là mình biết mình đang rơi vào bẫy tiêu dùng lãng phí rồi. Về nhu cầu của mình, mình sẽ sử dụng PC để nghe nhạc, xem phim, chơi game, dùng các phần mềm Office, Blender, AutoCAD, DaVinciResolve,... Nghe nhạc thì không có gì để nói rồi, xem phim thì mình muốn nâng trải nghiệm lên 2K vì trước giờ chỉ toàn dùng FHD là kịch. Còn về chơi game, mình không chơi quá nhiều, chủ yếu chỉ có DOTA 2, TFT, game indie và cứ cho là mình sẽ chơi khoảng 2-3 game AAA hot ra mắt từng năm (và mình hoàn toàn ổn nếu phải chơi ở low setting, miễn là nó ổn định ~60fps). Với từng đó nhu cầu, mình nên chọn dòng card nào? Về phần CPU, mình có dự định dùng 7950x hoặc 9950x để cày tốt các phần mềm ăn CPU, điều khiến mình phân vân là giá Tray của 2 chiếc này... cũng như GPU luôn, không chênh nhau quá nhiều về giá + hiệu năng, nhưng vẫn chênh. Vậy mình nên chọn CPU nào? liệu tư duy chọn CPU khỏe để cày tẹt ga hay nên hạ xuống những CPU thấp hơn để tránh bị nghẽn cổ chai? và nếu mình giảm thì mình nên lựa CPU nào để kéo GPU nào trong số những lựa chọn mình đang phân vân?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Fine_Positive_2972"&gt; /u/Fine_Positive_2972 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ovup0d/4060ti_5060ti_5070_cái_bẫy_của_tư_bản_và_ma_trận/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ovup0d/4060ti_5060ti_5070_cái_bẫy_của_tư_bản_và_ma_trận/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ovup0d/4060ti_5060ti_5070_cái_bẫy_của_tư_bản_và_ma_trận/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;ae nào mua ròi cho mình xin review bản revoltg vĩnh viễn với ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ManagementExtreme671"&gt; /u/ManagementExtreme671 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ovuslw/xin_review_bản_revoltg_vĩnh_viễn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ovuslw/xin_review_bản_revoltg_vĩnh_viễn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ovuslw/xin_review_bản_revoltg_vĩnh_viễn/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-13T07:15:06+00:00</published>
+    <published>2025-11-13T07:21:20+00:00</published>
   </entry>
   <entry>
     <id>t3_1ovp0x5</id>
@@ -281,6 +268,19 @@
     <published>2025-11-12T23:15:59+00:00</published>
   </entry>
   <entry>
+    <id>t3_1ovbqe5</id>
+    <title>Em xin lời khuyên từ mọi người</title>
+    <updated>2025-11-12T17:37:34+00:00</updated>
+    <author>
+      <name>/u/DuongGiaKiet2005</name>
+      <uri>https://old.reddit.com/user/DuongGiaKiet2005</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em là con nhà nông. Đầu năm 2, khi đang học trong lớp mẹ gọi báo ba mất do tngt và khiến em bị trầm cảm. Sau khi đã chôn cất ba thì em lên lại HCM để học và từ đó điểm số của bắt đầu tệ đi, em không còn quan tâm đến việc học, đi làm mấy công việc tay chân liên tục đến cuối năm 2 và rồi mẹ phát hiện ko lo học mà đi làm nên đã khóc và mắng em rất nhiều :(((. Giờ em muốn bắt đầu lại ngành CNTT mình đã chọn nhưng gpa của 68 tín chỉ có 1.87 em lo sau này ra trường với bằng trung bình không có chỗ nhận. Em muốn xin lời khuyên của các anh ạ, em nên làm gì bây giờ ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/DuongGiaKiet2005"&gt; /u/DuongGiaKiet2005 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ovbqe5/em_xin_lời_khuyên_từ_mọi_người/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ovbqe5/em_xin_lời_khuyên_từ_mọi_người/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ovbqe5/em_xin_lời_khuyên_từ_mọi_người/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-12T17:37:34+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1ovaozu</id>
     <title>Giả sử nếu miền Nam trong tương lai trung bình ngập như dạo này thấy trên MXH, thì tại sao phương án hướng đến hầu hết là tìm cách trị thủy mà không phải là nương theo khai thác "biển mà trước kia từng là đất"?</title>
     <updated>2025-11-12T17:00:50+00:00</updated>
@@ -294,17 +294,17 @@
     <published>2025-11-12T17:00:50+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ovbqe5</id>
-    <title>Em xin lời khuyên từ mọi người</title>
-    <updated>2025-11-12T17:37:34+00:00</updated>
+    <id>t3_1ovup0d</id>
+    <title>4060Ti, 5060Ti, 5070. Cái bẫy của tư bản và ma trận CPU</title>
+    <updated>2025-11-13T07:15:06+00:00</updated>
     <author>
-      <name>/u/DuongGiaKiet2005</name>
-      <uri>https://old.reddit.com/user/DuongGiaKiet2005</uri>
+      <name>/u/Fine_Positive_2972</name>
+      <uri>https://old.reddit.com/user/Fine_Positive_2972</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em là con nhà nông. Đầu năm 2, khi đang học trong lớp mẹ gọi báo ba mất do tngt và khiến em bị trầm cảm. Sau khi đã chôn cất ba thì em lên lại HCM để học và từ đó điểm số của bắt đầu tệ đi, em không còn quan tâm đến việc học, đi làm mấy công việc tay chân liên tục đến cuối năm 2 và rồi mẹ phát hiện ko lo học mà đi làm nên đã khóc và mắng em rất nhiều :(((. Giờ em muốn bắt đầu lại ngành CNTT mình đã chọn nhưng gpa của 68 tín chỉ có 1.87 em lo sau này ra trường với bằng trung bình không có chỗ nhận. Em muốn xin lời khuyên của các anh ạ, em nên làm gì bây giờ ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/DuongGiaKiet2005"&gt; /u/DuongGiaKiet2005 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ovbqe5/em_xin_lời_khuyên_từ_mọi_người/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ovbqe5/em_xin_lời_khuyên_từ_mọi_người/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ovbqe5/em_xin_lời_khuyên_từ_mọi_người/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hê hê, tự nhiên nghĩ ra được cái title hay phết nhưng nội dung của post thì chắc dở. Chuyện là mình đang có ý định xúc một chiếc PC để gỡ khỏi cái xiềng xích laptop ngăn mình nghịch 7749 thứ. Ban đầu, mình có ý định dùng 4060ti cho tiết kiệm, nhưng hôm qua giành một chút thời gian để tìm hiểu thêm nhằm build chiếc PC p/p nhất có thể thì mình lại tìm được rất nhiều lời chê bai dành cho 4060ti (thậm chí cả ban 16GB?). Do đó mình lân la lên 5060ti vì 16GB Vram. Cấn ở chỗ, 5060ti có băng thông và Vram y hệt như 4060ti, chỉ khác ở chỗ PCIe và DDR7, nhưng lại không bị chê???. Như có đề cập trước đó, máy tính mình xài không xịn lắm, do đó mình không hình dung được Vram, bản thân khả năng xử lý của GPU và CPU ảnh hưởng như thế nào trong quá trình sử dụng các phần mềm phổ biến nên mình lại bị đẩy lên 5070 và rồi 5070ti. Tới đây là mình biết mình đang rơi vào bẫy tiêu dùng lãng phí rồi. Về nhu cầu của mình, mình sẽ sử dụng PC để nghe nhạc, xem phim, chơi game, dùng các phần mềm Office, Blender, AutoCAD, DaVinciResolve,... Nghe nhạc thì không có gì để nói rồi, xem phim thì mình muốn nâng trải nghiệm lên 2K vì trước giờ chỉ toàn dùng FHD là kịch. Còn về chơi game, mình không chơi quá nhiều, chủ yếu chỉ có DOTA 2, TFT, game indie và cứ cho là mình sẽ chơi khoảng 2-3 game AAA hot ra mắt từng năm (và mình hoàn toàn ổn nếu phải chơi ở low setting, miễn là nó ổn định ~60fps). Với từng đó nhu cầu, mình nên chọn dòng card nào? Về phần CPU, mình có dự định dùng 7950x hoặc 9950x để cày tốt các phần mềm ăn CPU, điều khiến mình phân vân là giá Tray của 2 chiếc này... cũng như GPU luôn, không chênh nhau quá nhiều về giá + hiệu năng, nhưng vẫn chênh. Vậy mình nên chọn CPU nào? liệu tư duy chọn CPU khỏe để cày tẹt ga hay nên hạ xuống những CPU thấp hơn để tránh bị nghẽn cổ chai? và nếu mình giảm thì mình nên lựa CPU nào để kéo GPU nào trong số những lựa chọn mình đang phân vân?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Fine_Positive_2972"&gt; /u/Fine_Positive_2972 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ovup0d/4060ti_5060ti_5070_cái_bẫy_của_tư_bản_và_ma_trận/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ovup0d/4060ti_5060ti_5070_cái_bẫy_của_tư_bản_và_ma_trận/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ovup0d/4060ti_5060ti_5070_cái_bẫy_của_tư_bản_và_ma_trận/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-12T17:37:34+00:00</published>
+    <published>2025-11-13T07:15:06+00:00</published>
   </entry>
   <entry>
     <id>t3_1ovmgiv</id>
