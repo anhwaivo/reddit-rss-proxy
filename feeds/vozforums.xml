@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-11-13T11:17:23+00:00</updated>
+  <updated>2025-11-13T11:38:18+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -229,19 +229,6 @@
     <published>2025-11-12T17:37:34+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ovtsvf</id>
-    <title>Review sách English Pronunciation in use</title>
-    <updated>2025-11-13T06:20:48+00:00</updated>
-    <author>
-      <name>/u/StopSimple9320</name>
-      <uri>https://old.reddit.com/user/StopSimple9320</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em đang bập bẹ học phát âm tiếng anh, a/c/e nào đã học cho review về sách này với ạ???&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/StopSimple9320"&gt; /u/StopSimple9320 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ovtsvf/review_sách_english_pronunciation_in_use/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ovtsvf/review_sách_english_pronunciation_in_use/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ovtsvf/review_sách_english_pronunciation_in_use/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-13T06:20:48+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1ovaozu</id>
     <title>Giả sử nếu miền Nam trong tương lai trung bình ngập như dạo này thấy trên MXH, thì tại sao phương án hướng đến hầu hết là tìm cách trị thủy mà không phải là nương theo khai thác "biển mà trước kia từng là đất"?</title>
     <updated>2025-11-12T17:00:50+00:00</updated>
@@ -266,6 +253,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ovmgiv/không_ngủ_được/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-13T00:21:53+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ovtsvf</id>
+    <title>Review sách English Pronunciation in use</title>
+    <updated>2025-11-13T06:20:48+00:00</updated>
+    <author>
+      <name>/u/StopSimple9320</name>
+      <uri>https://old.reddit.com/user/StopSimple9320</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em đang bập bẹ học phát âm tiếng anh, a/c/e nào đã học cho review về sách này với ạ???&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/StopSimple9320"&gt; /u/StopSimple9320 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ovtsvf/review_sách_english_pronunciation_in_use/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ovtsvf/review_sách_english_pronunciation_in_use/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ovtsvf/review_sách_english_pronunciation_in_use/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-13T06:20:48+00:00</published>
   </entry>
   <entry>
     <id>t3_1ovxnq9</id>
