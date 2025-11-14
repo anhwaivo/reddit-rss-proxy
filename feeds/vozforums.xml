@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-11-14T16:48:36+00:00</updated>
+  <updated>2025-11-14T17:16:50+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1ownqqq</id>
-    <title>Chi no Wadachi</title>
-    <updated>2025-11-14T05:08:08+00:00</updated>
-    <author>
-      <name>/u/Thin-Setting5785</name>
-      <uri>https://old.reddit.com/user/Thin-Setting5785</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;có ai đọc bộ này chưa, mình không hay đọc truyện, chỉ thi thoảng lướt fb thấy review truyện nào hay hay thì đọc thử.&lt;/p&gt; &lt;p&gt;mà đọc bộ này mới có nửa thấy ngộp thở quá mn ơi, ai đọc r thấy nnao vậy ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Thin-Setting5785"&gt; /u/Thin-Setting5785 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ownqqq/chi_no_wadachi/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ownqqq/chi_no_wadachi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ownqqq/chi_no_wadachi/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-14T05:08:08+00:00</published>
-  </entry>
   <entry>
     <id>t3_1owdvri</id>
     <title>24 tuổi, bỏ học đại học, lương 30-35 triệu/tháng, vẫn cảm thấy mất phương hướng?</title>
@@ -125,19 +112,6 @@
     <published>2025-11-14T11:55:22+00:00</published>
   </entry>
   <entry>
-    <id>t3_1owp9n2</id>
-    <title>Tách thi đh và xét tốt nghiệp ra riêng</title>
-    <updated>2025-11-14T06:35:03+00:00</updated>
-    <author>
-      <name>/u/CaKhongThichChoiDa</name>
-      <uri>https://old.reddit.com/user/CaKhongThichChoiDa</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các bác nghĩ thế nào nếu chúng ta tách kỳ thi đại học ra khỏi thi thptqg, từ giờ xét tốt nghiệp chỉ xét bằng điểm học bạ thôi, ai muốn vào đại học thì tham gia kỳ thi riêng do mỗi trường tổ chức. Như vậy sẽ đảm bảo được chất lượng đầu vào hơn và tiết kiệm chi phí.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/CaKhongThichChoiDa"&gt; /u/CaKhongThichChoiDa &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1owp9n2/tách_thi_đh_và_xét_tốt_nghiệp_ra_riêng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1owp9n2/tách_thi_đh_và_xét_tốt_nghiệp_ra_riêng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1owp9n2/tách_thi_đh_và_xét_tốt_nghiệp_ra_riêng/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-14T06:35:03+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1owpc9n</id>
     <title>Nghỉ việc sau 2 năm: Khi mình muốn hiểu bản thân hơn trước khi bước tiếp</title>
     <updated>2025-11-14T06:39:21+00:00</updated>
@@ -162,6 +136,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1owvlq7/chia_sẽ_kinh_nghiệm_của_mn_về_đầu_tư/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-14T12:48:44+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1owp9n2</id>
+    <title>Tách thi đh và xét tốt nghiệp ra riêng</title>
+    <updated>2025-11-14T06:35:03+00:00</updated>
+    <author>
+      <name>/u/CaKhongThichChoiDa</name>
+      <uri>https://old.reddit.com/user/CaKhongThichChoiDa</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các bác nghĩ thế nào nếu chúng ta tách kỳ thi đại học ra khỏi thi thptqg, từ giờ xét tốt nghiệp chỉ xét bằng điểm học bạ thôi, ai muốn vào đại học thì tham gia kỳ thi riêng do mỗi trường tổ chức. Như vậy sẽ đảm bảo được chất lượng đầu vào hơn và tiết kiệm chi phí.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/CaKhongThichChoiDa"&gt; /u/CaKhongThichChoiDa &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1owp9n2/tách_thi_đh_và_xét_tốt_nghiệp_ra_riêng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1owp9n2/tách_thi_đh_và_xét_tốt_nghiệp_ra_riêng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1owp9n2/tách_thi_đh_và_xét_tốt_nghiệp_ra_riêng/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-14T06:35:03+00:00</published>
   </entry>
   <entry>
     <id>t3_1owxx14</id>
@@ -203,6 +190,19 @@
     <published>2025-11-14T15:50:42+00:00</published>
   </entry>
   <entry>
+    <id>t3_1ox1zh7</id>
+    <title>Mua điện thoại hay để tiền ăn</title>
+    <updated>2025-11-14T16:58:20+00:00</updated>
+    <author>
+      <name>/u/Frosty-Fix-4840</name>
+      <uri>https://old.reddit.com/user/Frosty-Fix-4840</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người em là sinh viên năm 3 và đang có khoảng 10 triệu, hiện tại em đang phân vân giữa mua điện thoại mới tầm 8-9tr vì điện thoại cũ đã nát tương và để tiền đó ăn cho tăng cân vì người em chỉ 50kg. Mọi người cho em xin ý kiến ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Frosty-Fix-4840"&gt; /u/Frosty-Fix-4840 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ox1zh7/mua_điện_thoại_hay_để_tiền_ăn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ox1zh7/mua_điện_thoại_hay_để_tiền_ăn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ox1zh7/mua_điện_thoại_hay_để_tiền_ăn/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-14T16:58:20+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1ow7d47</id>
     <title>Kiếm tiền bây giờ dễ lắm à ?</title>
     <updated>2025-11-13T17:34:28+00:00</updated>
@@ -240,19 +240,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1owjtn9/tìm_1_hướng_đi_phù_hợp_hơn/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-14T01:55:43+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1ox0zhz</id>
-    <title>Liệu chung cư bây giờ mục đích xây lên để cho ai ở ?</title>
-    <updated>2025-11-14T16:22:01+00:00</updated>
-    <author>
-      <name>/u/kitchcu</name>
-      <uri>https://old.reddit.com/user/kitchcu</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Đi khắp Sài Gòn chung cư, biệt thự xây nhiều ơi là nhiều nhưng được mấy căn có người ở đâu, phòng sáng phòng tối. Rồi qua quận khác lại tiếp tục thấy xây tiếp nữa trong khi mấy chung cư khác còn chả lấp đầy hết nữa :)) &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/kitchcu"&gt; /u/kitchcu &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ox0zhz/liệu_chung_cư_bây_giờ_mục_đích_xây_lên_để_cho_ai_ở/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ox0zhz/liệu_chung_cư_bây_giờ_mục_đích_xây_lên_để_cho_ai_ở/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ox0zhz/liệu_chung_cư_bây_giờ_mục_đích_xây_lên_để_cho_ai_ở/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-14T16:22:01+00:00</published>
   </entry>
   <entry>
     <id>t3_1owunrq</id>
@@ -305,6 +292,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1owqrta/mọi_người_nghĩ_điều_này_còn_tồn_tại_không/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-14T08:09:06+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ox0zhz</id>
+    <title>Liệu chung cư bây giờ mục đích xây lên để cho ai ở ?</title>
+    <updated>2025-11-14T16:22:01+00:00</updated>
+    <author>
+      <name>/u/kitchcu</name>
+      <uri>https://old.reddit.com/user/kitchcu</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Đi khắp Sài Gòn chung cư, biệt thự xây nhiều ơi là nhiều nhưng được mấy căn có người ở đâu, phòng sáng phòng tối. Rồi qua quận khác lại tiếp tục thấy xây tiếp nữa trong khi mấy chung cư khác còn chả lấp đầy hết nữa :)) &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/kitchcu"&gt; /u/kitchcu &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ox0zhz/liệu_chung_cư_bây_giờ_mục_đích_xây_lên_để_cho_ai_ở/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ox0zhz/liệu_chung_cư_bây_giờ_mục_đích_xây_lên_để_cho_ai_ở/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ox0zhz/liệu_chung_cư_bây_giờ_mục_đích_xây_lên_để_cho_ai_ở/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-14T16:22:01+00:00</published>
   </entry>
   <entry>
     <id>t3_1owysjx</id>
