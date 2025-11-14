@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-11-14T19:15:08+00:00</updated>
+  <updated>2025-11-14T19:28:25+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -138,19 +138,6 @@
     <published>2025-11-14T06:35:03+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ox1zh7</id>
-    <title>Mua điện thoại hay để tiền ăn</title>
-    <updated>2025-11-14T16:58:20+00:00</updated>
-    <author>
-      <name>/u/Frosty-Fix-4840</name>
-      <uri>https://old.reddit.com/user/Frosty-Fix-4840</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người em là sinh viên năm 3 và đang có khoảng 10 triệu, hiện tại em đang phân vân giữa mua điện thoại mới tầm 8-9tr vì điện thoại cũ đã nát tương và để tiền đó ăn cho tăng cân vì người em chỉ 50kg. Mọi người cho em xin ý kiến ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Frosty-Fix-4840"&gt; /u/Frosty-Fix-4840 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ox1zh7/mua_điện_thoại_hay_để_tiền_ăn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ox1zh7/mua_điện_thoại_hay_để_tiền_ăn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ox1zh7/mua_điện_thoại_hay_để_tiền_ăn/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-14T16:58:20+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1ox2ncl</id>
     <title>Pt 1:1 ở TP HCM khu vực q9 Thủ Đức</title>
     <updated>2025-11-14T17:22:30+00:00</updated>
@@ -240,6 +227,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1owjtn9/tìm_1_hướng_đi_phù_hợp_hơn/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-14T01:55:43+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ox1zh7</id>
+    <title>Mua điện thoại hay để tiền ăn</title>
+    <updated>2025-11-14T16:58:20+00:00</updated>
+    <author>
+      <name>/u/Frosty-Fix-4840</name>
+      <uri>https://old.reddit.com/user/Frosty-Fix-4840</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người em là sinh viên năm 3 và đang có khoảng 10 triệu, hiện tại em đang phân vân giữa mua điện thoại mới tầm 8-9tr vì điện thoại cũ đã nát tương và để tiền đó ăn cho tăng cân vì người em chỉ 50kg. Mọi người cho em xin ý kiến ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Frosty-Fix-4840"&gt; /u/Frosty-Fix-4840 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ox1zh7/mua_điện_thoại_hay_để_tiền_ăn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ox1zh7/mua_điện_thoại_hay_để_tiền_ăn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ox1zh7/mua_điện_thoại_hay_để_tiền_ăn/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-14T16:58:20+00:00</published>
   </entry>
   <entry>
     <id>t3_1ows0wb</id>
