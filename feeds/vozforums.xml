@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-11-14T16:24:40+00:00</updated>
+  <updated>2025-11-14T16:48:36+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -19,6 +19,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ownqqq/chi_no_wadachi/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-14T05:08:08+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1owdvri</id>
+    <title>24 tuổi, bỏ học đại học, lương 30-35 triệu/tháng, vẫn cảm thấy mất phương hướng?</title>
+    <updated>2025-11-13T21:40:19+00:00</updated>
+    <author>
+      <name>/u/tikhung01</name>
+      <uri>https://old.reddit.com/user/tikhung01</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác ạ, như tít. Nghe thì thấy như kiểu humblebrag nhưng thực sự cảm giác mất phương hướng. Em hồi 18 tuổi đỗ vào Nhân Văn nhưng học được 1 năm rồi bỏ vì không hợp với môi trường đại học. Thế là lăn lộn với cuộc sống, nhảy việc, tự tạo dựng CV với hình ảnh của bản thân...nên kiếm được 1 job khá ngon, làm ca đêm, remote, công ty nước ngoài nên lương tầm 1200-1300/tháng. Tiết kiệm mỗi tháng cũng được kha khá, thế nên có thể nói là ổn định tài chính. Có bạn gái, có đam mê sáng tạo riêng (viết lách, quay phim..), gia đình êm ấm chứ cũng không quắ sứt mẻ, mà sao cảm giác vẫn mất phương hướng quá. 1 thời gian lên Đà Lạt sống để thay đổi map nhưng ở 1 thời gian thì thấy chán, nên quay lại Hà Nội. Có khoảng thì vài Sài Gòn, được vài tháng cũng lại về (trong đó cũng có đầy đủ bạn bè, ở Đà Lạt cũng vậy. Không cô đơn để tìm thú vui và anh em mọi tầng lớp).&lt;/p&gt; &lt;p&gt;Nhưng mà sao em cảm giác như dù mình làm được cái gì, đạt thành tựu gì cảm giác cũng vô nghĩa vậy đó. Có lẽ là đã đến quarter-life crisis (khủng hoảng tuổi góc tư?). Rồi để làm cái gì nữa, lúc nào cũng tự hỏi vậy. Cuộc vui nào rồi cũng sẽ tàn. Tiết kiệm đủ rồi chả lẽ lại cuốn vào cái rat race mua nhà, mua xe, sinh con đẻ cái rồi out game? &lt;/p&gt; &lt;p&gt;Làm sao để thoát khỏi cảm giác vô nghĩa ấy...từ cấp 2 đến giờ em đã bị khủng hoảng hiện sinh nặng rồi. Ra ngoài đường kiếm bạn để chơi cũng vơi đi nỗi sầu đó, mà được 1 tgian rồi mọi người cũng rã đám. Cuối cùng ta làm mọi thứ để làm gì?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/tikhung01"&gt; /u/tikhung01 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1owdvri/24_tuổi_bỏ_học_đại_học_lương_3035_triệutháng_vẫn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1owdvri/24_tuổi_bỏ_học_đại_học_lương_3035_triệutháng_vẫn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1owdvri/24_tuổi_bỏ_học_đại_học_lương_3035_triệutháng_vẫn/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-13T21:40:19+00:00</published>
   </entry>
   <entry>
     <id>t3_1ovwhuu</id>
@@ -125,19 +138,6 @@
     <published>2025-11-14T06:35:03+00:00</published>
   </entry>
   <entry>
-    <id>t3_1owvccc</id>
-    <title>Kinh doanh thương mại với ngôn ngữ anh</title>
-    <updated>2025-11-14T12:36:17+00:00</updated>
-    <author>
-      <name>/u/lindenwadford</name>
-      <uri>https://old.reddit.com/user/lindenwadford</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các bác cho e hỏi cơ hội việc làm ngành kinh doanh thương mại hiện tại và tương lai. Có nên học cao đẳng, đại học ngành này không ạ? E đã 30 tuổi. Trước bỏ ngang năm 7 ngành quản trị kinh doanh, do trường cho học chậm dẫn đến chán nên bỏ. Hồi đấy e chưa biết bằng đại học quan trọng khi xin việc nên không cố học tiếp. Rồi tuổi 29 e học lại bằng cao đẳng kinh doanh thương mại được 1 năm nhưng trên trường mới chương trình lại nặng e không cố theo được. E định chuyển sang học đại học từ xa ngôn ngữ anh do e học môn anh tốt nhất. Các bác cho e lời khuyên với. Nếu e bỏ thì lại bỏ lần 2 mất, e vẫn đắn đo. Tài chính bố mẹ không quá nhiều nhưng vẫn đủ để lo cho e đi học.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/lindenwadford"&gt; /u/lindenwadford &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1owvccc/kinh_doanh_thương_mại_với_ngôn_ngữ_anh/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1owvccc/kinh_doanh_thương_mại_với_ngôn_ngữ_anh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1owvccc/kinh_doanh_thương_mại_với_ngôn_ngữ_anh/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-14T12:36:17+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1owpc9n</id>
     <title>Nghỉ việc sau 2 năm: Khi mình muốn hiểu bản thân hơn trước khi bước tiếp</title>
     <updated>2025-11-14T06:39:21+00:00</updated>
@@ -203,19 +203,6 @@
     <published>2025-11-14T15:50:42+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ox0zhz</id>
-    <title>Liệu chung cư bây giờ mục đích xây lên để cho ai ở ?</title>
-    <updated>2025-11-14T16:22:01+00:00</updated>
-    <author>
-      <name>/u/kitchcu</name>
-      <uri>https://old.reddit.com/user/kitchcu</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Đi khắp Sài Gòn chung cư, biệt thự xây nhiều ơi là nhiều nhưng được mấy căn có người ở đâu, phòng sáng phòng tối. Rồi qua quận khác lại tiếp tục thấy xây tiếp nữa trong khi mấy chung cư khác còn chả lấp đầy hết nữa :)) &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/kitchcu"&gt; /u/kitchcu &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ox0zhz/liệu_chung_cư_bây_giờ_mục_đích_xây_lên_để_cho_ai_ở/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ox0zhz/liệu_chung_cư_bây_giờ_mục_đích_xây_lên_để_cho_ai_ở/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ox0zhz/liệu_chung_cư_bây_giờ_mục_đích_xây_lên_để_cho_ai_ở/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-14T16:22:01+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1ow7d47</id>
     <title>Kiếm tiền bây giờ dễ lắm à ?</title>
     <updated>2025-11-13T17:34:28+00:00</updated>
@@ -242,19 +229,6 @@
     <published>2025-11-14T15:21:17+00:00</published>
   </entry>
   <entry>
-    <id>t3_1owunrq</id>
-    <title>Bạn nữ mới quen hay rủ mình đi chơi chung với 1 nhóm con trai mà không báo trước</title>
-    <updated>2025-11-14T12:03:03+00:00</updated>
-    <author>
-      <name>/u/Jealous-Honeydew8132</name>
-      <uri>https://old.reddit.com/user/Jealous-Honeydew8132</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình mới quen 1 bạn nữ (Mình cũng là nữ). Bạn nữ này thì chơi thân với 1 nhóm bạn nam mình cũng quen do bọn mình chung CLB. Mình không hiểu lí sao tại sao bạn ấy hay mời mình đi chơi, đi cafe để rồi lúc mình đến mới biết ngoài bạn đó ra thì còn có nhóm này nữa. Cái vấn đề là bạn này không bao giờ chủ động nhắn với mình trước là có cả những người này, và dường như những lời mời luôn là last minute plan. Ban đầu mình cũng muốn thân hơn với bạn nữ ấy nhưng dần dà mình cũng bắt đầu nghi ngờ không biết bạn ấy có thật lòng với mình hay không vì bạn ấy không hề có ý muốn nói chuyện với mình khi có mặt nhóm bạn nam của bạn ấy. Đến mức 1 bạn nam trong nhóm còn hỏi riêng mình về mức độ thân thiết với bạn nữ này và tại sao bạn ấy lại rủ mình đi. Điều đó cũng chứng tỏ là nhóm bạn này có thể cũng không biết mình cũng được rủ đi. Hi vọng các bạn nữ có thể đọc được và cho mình lời khuyên vì đây là lần đầu tiên có người làm vậy với mình 😥&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Jealous-Honeydew8132"&gt; /u/Jealous-Honeydew8132 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1owunrq/bạn_nữ_mới_quen_hay_rủ_mình_đi_chơi_chung_với_1/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1owunrq/bạn_nữ_mới_quen_hay_rủ_mình_đi_chơi_chung_với_1/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1owunrq/bạn_nữ_mới_quen_hay_rủ_mình_đi_chơi_chung_với_1/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-14T12:03:03+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1owjtn9</id>
     <title>Tìm 1 hướng đi phù hợp hơn</title>
     <updated>2025-11-14T01:55:43+00:00</updated>
@@ -266,6 +240,32 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1owjtn9/tìm_1_hướng_đi_phù_hợp_hơn/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-14T01:55:43+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ox0zhz</id>
+    <title>Liệu chung cư bây giờ mục đích xây lên để cho ai ở ?</title>
+    <updated>2025-11-14T16:22:01+00:00</updated>
+    <author>
+      <name>/u/kitchcu</name>
+      <uri>https://old.reddit.com/user/kitchcu</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Đi khắp Sài Gòn chung cư, biệt thự xây nhiều ơi là nhiều nhưng được mấy căn có người ở đâu, phòng sáng phòng tối. Rồi qua quận khác lại tiếp tục thấy xây tiếp nữa trong khi mấy chung cư khác còn chả lấp đầy hết nữa :)) &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/kitchcu"&gt; /u/kitchcu &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ox0zhz/liệu_chung_cư_bây_giờ_mục_đích_xây_lên_để_cho_ai_ở/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ox0zhz/liệu_chung_cư_bây_giờ_mục_đích_xây_lên_để_cho_ai_ở/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ox0zhz/liệu_chung_cư_bây_giờ_mục_đích_xây_lên_để_cho_ai_ở/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-14T16:22:01+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1owunrq</id>
+    <title>Bạn nữ mới quen hay rủ mình đi chơi chung với 1 nhóm con trai mà không báo trước</title>
+    <updated>2025-11-14T12:03:03+00:00</updated>
+    <author>
+      <name>/u/Jealous-Honeydew8132</name>
+      <uri>https://old.reddit.com/user/Jealous-Honeydew8132</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình mới quen 1 bạn nữ (Mình cũng là nữ). Bạn nữ này thì chơi thân với 1 nhóm bạn nam mình cũng quen do bọn mình chung CLB. Mình không hiểu lí sao tại sao bạn ấy hay mời mình đi chơi, đi cafe để rồi lúc mình đến mới biết ngoài bạn đó ra thì còn có nhóm này nữa. Cái vấn đề là bạn này không bao giờ chủ động nhắn với mình trước là có cả những người này, và dường như những lời mời luôn là last minute plan. Ban đầu mình cũng muốn thân hơn với bạn nữ ấy nhưng dần dà mình cũng bắt đầu nghi ngờ không biết bạn ấy có thật lòng với mình hay không vì bạn ấy không hề có ý muốn nói chuyện với mình khi có mặt nhóm bạn nam của bạn ấy. Đến mức 1 bạn nam trong nhóm còn hỏi riêng mình về mức độ thân thiết với bạn nữ này và tại sao bạn ấy lại rủ mình đi. Điều đó cũng chứng tỏ là nhóm bạn này có thể cũng không biết mình cũng được rủ đi. Hi vọng các bạn nữ có thể đọc được và cho mình lời khuyên vì đây là lần đầu tiên có người làm vậy với mình 😥&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Jealous-Honeydew8132"&gt; /u/Jealous-Honeydew8132 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1owunrq/bạn_nữ_mới_quen_hay_rủ_mình_đi_chơi_chung_với_1/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1owunrq/bạn_nữ_mới_quen_hay_rủ_mình_đi_chơi_chung_với_1/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1owunrq/bạn_nữ_mới_quen_hay_rủ_mình_đi_chơi_chung_với_1/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-14T12:03:03+00:00</published>
   </entry>
   <entry>
     <id>t3_1ows0wb</id>
