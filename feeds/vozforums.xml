@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-11-15T17:40:02+00:00</updated>
+  <updated>2025-11-15T17:50:11+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1oxpqc4</id>
-    <title>tư vấn chuyện gia đình</title>
-    <updated>2025-11-15T11:47:36+00:00</updated>
-    <author>
-      <name>/u/drtritm</name>
-      <uri>https://old.reddit.com/user/drtritm</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các bác cho em hỏi em làm như này là đúng hay sai các bác: em đang tính mua bảo hiểm cho ba mẹ ruột, và vợ. Tuy nhiên không mua cho ba mẹ vợ. Lí do thì bên nhà vợ có ông anh vợ cũng ngang tuổi em, nhưng làm kinh doanh cũng dư dả, có nhà có đất, cũng đã 2 con. Gia đình em thì chưa có con, cũng chỉ mới tích góp mua được mảnh đất, vẫn còn đang trả nợ tiền đất. Quan điểm của em là bên ba mẹ vợ thì ông anh vợ phải mua chứ 1 mình em không thể ôm hết được. Vì bảo hiểm thì phải đóng hàng năm nên em không thể lo nổi. Các bác tư vấn giúp em với.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/drtritm"&gt; /u/drtritm &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oxpqc4/tư_vấn_chuyện_gia_đình/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oxpqc4/tư_vấn_chuyện_gia_đình/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1oxpqc4/tư_vấn_chuyện_gia_đình/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-15T11:47:36+00:00</published>
-  </entry>
   <entry>
     <id>t3_1oxjkkg</id>
     <title>Gpt 5.1 hút máu kinh dị thật</title>
@@ -84,6 +71,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1oxhylg/có_nên_vào_làm_nhà_nước_không_ạ/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-15T04:04:46+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1oxy068</id>
+    <title>Chuyện thực tập trường cao đẳng đại học</title>
+    <updated>2025-11-15T17:47:57+00:00</updated>
+    <author>
+      <name>/u/YENIIZZ</name>
+      <uri>https://old.reddit.com/user/YENIIZZ</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mn, k biết là ae ở trong này có gặp trường hợp đi thực tập các doanh nghiệp ở trường cao đẳng đại học nhưng họ thường lợi dụng cái mác sinh viên thực tập k có kinh nghiệm để sai vặt,chạy việc, làm k đúng chuyên môn còn bị ép sản lượng nữa. Việc công nhân chính thức nhưng lương thực tập ,nhiều nơi còn không lương. Không biết trong đây có nhiều ae rơi vào trường hợp giống mình không tại vì mình thấy cũng khá phổ biến và ae làm sao có thể khắc phục đc.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/YENIIZZ"&gt; /u/YENIIZZ &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oxy068/chuyện_thực_tập_trường_cao_đẳng_đại_học/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oxy068/chuyện_thực_tập_trường_cao_đẳng_đại_học/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1oxy068/chuyện_thực_tập_trường_cao_đẳng_đại_học/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-15T17:47:57+00:00</published>
   </entry>
   <entry>
     <id>t3_1oxq5gy</id>
@@ -229,19 +229,6 @@
     <published>2025-11-15T02:31:00+00:00</published>
   </entry>
   <entry>
-    <id>t3_1oxx4kf</id>
-    <title>xin tips quên nic 🗿</title>
-    <updated>2025-11-15T17:12:31+00:00</updated>
-    <author>
-      <name>/u/nhonic</name>
-      <uri>https://old.reddit.com/user/nhonic</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;tụi mình ct dc 1 tuần r , hnay có nt hỏi thăm mà ảnh nhắn kiểu hắc hủi:)),đã cố gắng níu kéo chân anh nm anh đá em qua 1 bên hơn Tuần r mà t vẫn chưa quên mn ạ🗿, mặc dù bn bè khuyên hết mức.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/nhonic"&gt; /u/nhonic &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oxx4kf/xin_tips_quên_nic/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oxx4kf/xin_tips_quên_nic/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1oxx4kf/xin_tips_quên_nic/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-15T17:12:31+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1oxvu4a</id>
     <title>Drama Huy Forum</title>
     <updated>2025-11-15T16:22:37+00:00</updated>
@@ -292,6 +279,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1oxkuch/xin_hỏi_mấy_bạn_nam_chạy_ship/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-15T06:44:43+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1oxx4kf</id>
+    <title>xin tips quên nic 🗿</title>
+    <updated>2025-11-15T17:12:31+00:00</updated>
+    <author>
+      <name>/u/nhonic</name>
+      <uri>https://old.reddit.com/user/nhonic</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;tụi mình ct dc 1 tuần r , hnay có nt hỏi thăm mà ảnh nhắn kiểu hắc hủi:)),đã cố gắng níu kéo chân anh nm anh đá em qua 1 bên hơn Tuần r mà t vẫn chưa quên mn ạ🗿, mặc dù bn bè khuyên hết mức.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/nhonic"&gt; /u/nhonic &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oxx4kf/xin_tips_quên_nic/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oxx4kf/xin_tips_quên_nic/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1oxx4kf/xin_tips_quên_nic/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-15T17:12:31+00:00</published>
   </entry>
   <entry>
     <id>t3_1oxq9ag</id>
