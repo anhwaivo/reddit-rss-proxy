@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-11-15T08:21:29+00:00</updated>
+  <updated>2025-11-15T08:43:16+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -177,19 +177,6 @@
     <published>2025-11-15T08:02:08+00:00</published>
   </entry>
   <entry>
-    <id>t3_1oxmeck</id>
-    <title>Chi phí ở trường ngày càng tăng?</title>
-    <updated>2025-11-15T08:20:26+00:00</updated>
-    <author>
-      <name>/u/SuyNhieuLan</name>
-      <uri>https://old.reddit.com/user/SuyNhieuLan</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Như tiêu đề, em là nam đang học cuối cấp 2 ạ. Tuy đầu năm nay nhà nước có hỗ trợ giảm 40% tiền bảo hiểm( 880k xuống 630k chưa tính bảo hiểm thân thể 90k) nhưng em vẫn không thấy đỡ tiền hơn mọi năm ạ. Tiền vệ sinh vẫn như cũ, theo em thấy thì có tiền giấy thi( nam ngoái 25k giờ 27k) với mua tăm tre nhân đạo tăng giá gấp đôi 10k ạ, học ở ngoài thì trung tâm cũng tăng đáng kể ( 16%) với đóng mấy cái linh tinh ở lớp thôi cũng vài ba trăm ạ. Em thắc mắc tại sao có nhà nước hỗ trợ nhưng các chi phí ấy lại tăng lên mà không giảm ạ? cho dù nhà nước khong có hỗ trợ tiền bảo hiểm thì chi phí năm nay thật sự mắc hơn gần 30% so với năm ngoái luôn ấy. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/SuyNhieuLan"&gt; /u/SuyNhieuLan &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oxmeck/chi_phí_ở_trường_ngày_càng_tăng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oxmeck/chi_phí_ở_trường_ngày_càng_tăng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1oxmeck/chi_phí_ở_trường_ngày_càng_tăng/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-15T08:20:26+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1owu4ri</id>
     <title>Conan nó tìm người chơi đánh bạc online như thế nào?</title>
     <updated>2025-11-14T11:35:10+00:00</updated>
@@ -229,6 +216,19 @@
     <published>2025-11-15T04:58:31+00:00</published>
   </entry>
   <entry>
+    <id>t3_1oxi11u</id>
+    <title>vui ghê:D</title>
+    <updated>2025-11-15T04:08:19+00:00</updated>
+    <author>
+      <name>/u/One_Dish_3652</name>
+      <uri>https://old.reddit.com/user/One_Dish_3652</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;được hsg nhất phường&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/One_Dish_3652"&gt; /u/One_Dish_3652 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oxi11u/vui_ghêd/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oxi11u/vui_ghêd/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1oxi11u/vui_ghêd/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-15T04:08:19+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1oxkvd2</id>
     <title>Trả trọ nhưng bị giữ cọc</title>
     <updated>2025-11-15T06:46:26+00:00</updated>
@@ -242,17 +242,17 @@
     <published>2025-11-15T06:46:26+00:00</published>
   </entry>
   <entry>
-    <id>t3_1oxi11u</id>
-    <title>vui ghê:D</title>
-    <updated>2025-11-15T04:08:19+00:00</updated>
+    <id>t3_1oxmeck</id>
+    <title>Chi phí ở trường ngày càng tăng?</title>
+    <updated>2025-11-15T08:20:26+00:00</updated>
     <author>
-      <name>/u/One_Dish_3652</name>
-      <uri>https://old.reddit.com/user/One_Dish_3652</uri>
+      <name>/u/SuyNhieuLan</name>
+      <uri>https://old.reddit.com/user/SuyNhieuLan</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;được hsg nhất phường&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/One_Dish_3652"&gt; /u/One_Dish_3652 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oxi11u/vui_ghêd/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oxi11u/vui_ghêd/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1oxi11u/vui_ghêd/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Như tiêu đề, em là nam đang học cuối cấp 2 ạ. Tuy đầu năm nay nhà nước có hỗ trợ giảm 40% tiền bảo hiểm( 880k xuống 630k chưa tính bảo hiểm thân thể 90k) nhưng em vẫn không thấy đỡ tiền hơn mọi năm ạ. Tiền vệ sinh vẫn như cũ, theo em thấy thì có tiền giấy thi( nam ngoái 25k giờ 27k) với mua tăm tre nhân đạo tăng giá gấp đôi 10k ạ, học ở ngoài thì trung tâm cũng tăng đáng kể ( 16%) với đóng mấy cái linh tinh ở lớp thôi cũng vài ba trăm ạ. Em thắc mắc tại sao có nhà nước hỗ trợ nhưng các chi phí ấy lại tăng lên mà không giảm ạ? cho dù nhà nước khong có hỗ trợ tiền bảo hiểm thì chi phí năm nay thật sự mắc hơn gần 30% so với năm ngoái luôn ấy. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/SuyNhieuLan"&gt; /u/SuyNhieuLan &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oxmeck/chi_phí_ở_trường_ngày_càng_tăng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oxmeck/chi_phí_ở_trường_ngày_càng_tăng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1oxmeck/chi_phí_ở_trường_ngày_càng_tăng/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-15T04:08:19+00:00</published>
+    <published>2025-11-15T08:20:26+00:00</published>
   </entry>
   <entry>
     <id>t3_1oxjxzj</id>
@@ -268,19 +268,6 @@
     <published>2025-11-15T05:53:04+00:00</published>
   </entry>
   <entry>
-    <id>t3_1oxhylg</id>
-    <title>Có nên vào làm nhà nước không ạ?</title>
-    <updated>2025-11-15T04:04:46+00:00</updated>
-    <author>
-      <name>/u/ThyDidWhatNow</name>
-      <uri>https://old.reddit.com/user/ThyDidWhatNow</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào anh chị,&lt;/p&gt; &lt;p&gt;Em sinh năm 2000, có khoảng 2 năm kinh nghiệm làm BA. Hiện tại em đang thất nghiệp được 1 năm do nhiều nơi yêu cầu kinh nghiệm cao, cộng thêm em có 1 năm gap nên việc tìm job càng khó.&lt;/p&gt; &lt;p&gt;Ba mẹ thì đang hướng em vào làm nhà nước vì nghĩ công việc sẽ nhẹ hơn, ổn định và gần như không lo thất nghiệp. Nhưng em vẫn băn khoăn không biết có nên theo hay cố gắng tiếp tục theo BA/IT vì IT hiện tại cũng khó khăn.&lt;/p&gt; &lt;p&gt;Anh chị đi trước cho em xin lời khuyên với ạ.&lt;/p&gt; &lt;p&gt;Em cảm ơn anh chị nhiều ạ.&lt;/p&gt; &lt;p&gt;P/s: Dạ em bổ sung thêm là làm nhà nước là làm giáo viên tiếng anh ạ. Và nếu chọn làm NN thì bây giờ em phải học thêm văn bằng 2 và NVSP tổng cộng cỡ 3 năm nữa mới làm được ạ. Em không ngại học mà chỉ sợ học xong rồi ra làm lại thấy không phù hợp. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ThyDidWhatNow"&gt; /u/ThyDidWhatNow &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oxhylg/có_nên_vào_làm_nhà_nước_không_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oxhylg/có_nên_vào_làm_nhà_nước_không_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1oxhylg/có_nên_vào_làm_nhà_nước_không_ạ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-15T04:04:46+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1oxjkkg</id>
     <title>Gpt 5.1 hút máu kinh dị thật</title>
     <updated>2025-11-15T05:31:41+00:00</updated>
@@ -292,6 +279,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1oxjkkg/gpt_51_hút_máu_kinh_dị_thật/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-15T05:31:41+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1oxhylg</id>
+    <title>Có nên vào làm nhà nước không ạ?</title>
+    <updated>2025-11-15T04:04:46+00:00</updated>
+    <author>
+      <name>/u/ThyDidWhatNow</name>
+      <uri>https://old.reddit.com/user/ThyDidWhatNow</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào anh chị,&lt;/p&gt; &lt;p&gt;Em sinh năm 2000, có khoảng 2 năm kinh nghiệm làm BA. Hiện tại em đang thất nghiệp được 1 năm do nhiều nơi yêu cầu kinh nghiệm cao, cộng thêm em có 1 năm gap nên việc tìm job càng khó.&lt;/p&gt; &lt;p&gt;Ba mẹ thì đang hướng em vào làm nhà nước vì nghĩ công việc sẽ nhẹ hơn, ổn định và gần như không lo thất nghiệp. Nhưng em vẫn băn khoăn không biết có nên theo hay cố gắng tiếp tục theo BA/IT vì IT hiện tại cũng khó khăn.&lt;/p&gt; &lt;p&gt;Anh chị đi trước cho em xin lời khuyên với ạ.&lt;/p&gt; &lt;p&gt;Em cảm ơn anh chị nhiều ạ.&lt;/p&gt; &lt;p&gt;P/s: Dạ em bổ sung thêm là làm nhà nước là làm giáo viên tiếng anh ạ. Và nếu chọn làm NN thì bây giờ em phải học thêm văn bằng 2 và NVSP tổng cộng cỡ 3 năm nữa mới làm được ạ. Em không ngại học mà chỉ sợ học xong rồi ra làm lại thấy không phù hợp. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ThyDidWhatNow"&gt; /u/ThyDidWhatNow &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oxhylg/có_nên_vào_làm_nhà_nước_không_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oxhylg/có_nên_vào_làm_nhà_nước_không_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1oxhylg/có_nên_vào_làm_nhà_nước_không_ạ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-15T04:04:46+00:00</published>
   </entry>
   <entry>
     <id>t3_1oxg2d7</id>
