@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-11-16T20:19:22+00:00</updated>
+  <updated>2025-11-16T20:39:50+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -203,19 +203,6 @@
     <published>2025-11-16T13:50:08+00:00</published>
   </entry>
   <entry>
-    <id>t3_1oyos6n</id>
-    <title>Phỏng vấn dạo</title>
-    <updated>2025-11-16T15:38:16+00:00</updated>
-    <author>
-      <name>/u/baro_zz</name>
-      <uri>https://old.reddit.com/user/baro_zz</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mn, như cái tiêu đề thì hôm nay mình muốn hỏi một chủ đề cũng khá lạ mà quen đó là phỏng vấn dạo. Thường thì đôi khi không có ý định nghỉ việc nhưng vẫn đi phỏng vấn để biết yêu cầu của thị trường cũng như đánh giá năng lực bản thân. Mọi người có tips hay kinh nghiệm nào hay ho để phỏng vấn một cách tự nhiên nhất không ạ? 🥲🥲🥲 Hoặc chia sẻ một số case ấn tượng từng gặp ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/baro_zz"&gt; /u/baro_zz &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oyos6n/phỏng_vấn_dạo/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oyos6n/phỏng_vấn_dạo/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1oyos6n/phỏng_vấn_dạo/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-16T15:38:16+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1oyjyju</id>
     <title>Trượt dài</title>
     <updated>2025-11-16T11:59:29+00:00</updated>
@@ -227,6 +214,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1oyjyju/trượt_dài/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-16T11:59:29+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1oyos6n</id>
+    <title>Phỏng vấn dạo</title>
+    <updated>2025-11-16T15:38:16+00:00</updated>
+    <author>
+      <name>/u/baro_zz</name>
+      <uri>https://old.reddit.com/user/baro_zz</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mn, như cái tiêu đề thì hôm nay mình muốn hỏi một chủ đề cũng khá lạ mà quen đó là phỏng vấn dạo. Thường thì đôi khi không có ý định nghỉ việc nhưng vẫn đi phỏng vấn để biết yêu cầu của thị trường cũng như đánh giá năng lực bản thân. Mọi người có tips hay kinh nghiệm nào hay ho để phỏng vấn một cách tự nhiên nhất không ạ? 🥲🥲🥲 Hoặc chia sẻ một số case ấn tượng từng gặp ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/baro_zz"&gt; /u/baro_zz &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oyos6n/phỏng_vấn_dạo/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oyos6n/phỏng_vấn_dạo/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1oyos6n/phỏng_vấn_dạo/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-16T15:38:16+00:00</published>
   </entry>
   <entry>
     <id>t3_1oyfibb</id>
