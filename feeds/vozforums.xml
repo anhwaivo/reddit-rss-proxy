@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-11-16T10:40:33+00:00</updated>
+  <updated>2025-11-16T10:50:24+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -73,6 +73,19 @@
     <published>2025-11-15T23:42:16+00:00</published>
   </entry>
   <entry>
+    <id>t3_1oyhfaf</id>
+    <title>Phải tôi thì tôi đập chết ở cây xăng</title>
+    <updated>2025-11-16T09:27:54+00:00</updated>
+    <author>
+      <name>/u/joeanime122</name>
+      <uri>https://old.reddit.com/user/joeanime122</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1oyhfaf/phải_tôi_thì_tôi_đập_chết_ở_cây_xăng/"&gt; &lt;img alt="Phải tôi thì tôi đập chết ở cây xăng" src="https://preview.redd.it/ad0zlbve8l1g1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=2ab8c8744f35a626f583f8f355bf42ba0ec1e5dd" title="Phải tôi thì tôi đập chết ở cây xăng" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/joeanime122"&gt; /u/joeanime122 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/ad0zlbve8l1g1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oyhfaf/phải_tôi_thì_tôi_đập_chết_ở_cây_xăng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1oyhfaf/phải_tôi_thì_tôi_đập_chết_ở_cây_xăng/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-16T09:27:54+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1oyf7hc</id>
     <title>XIN KINH NGHIỆM ĐI KHÁM SỨC KHỎE TÂM LÝ Ở TP.HCM</title>
     <updated>2025-11-16T07:09:17+00:00</updated>
@@ -123,19 +136,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1oydibs/muốn_đi_nghĩa_vụ_dân_quân_thì_đăng_ký_kiểu_gì/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-16T05:29:21+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1oyhfaf</id>
-    <title>Phải tôi thì tôi đập chết ở cây xăng</title>
-    <updated>2025-11-16T09:27:54+00:00</updated>
-    <author>
-      <name>/u/joeanime122</name>
-      <uri>https://old.reddit.com/user/joeanime122</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1oyhfaf/phải_tôi_thì_tôi_đập_chết_ở_cây_xăng/"&gt; &lt;img alt="Phải tôi thì tôi đập chết ở cây xăng" src="https://preview.redd.it/ad0zlbve8l1g1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=2ab8c8744f35a626f583f8f355bf42ba0ec1e5dd" title="Phải tôi thì tôi đập chết ở cây xăng" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/joeanime122"&gt; /u/joeanime122 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/ad0zlbve8l1g1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oyhfaf/phải_tôi_thì_tôi_đập_chết_ở_cây_xăng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1oyhfaf/phải_tôi_thì_tôi_đập_chết_ở_cây_xăng/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-16T09:27:54+00:00</published>
   </entry>
   <entry>
     <id>t3_1oyih02</id>
@@ -190,19 +190,6 @@
     <published>2025-11-16T07:55:36+00:00</published>
   </entry>
   <entry>
-    <id>t3_1oxvu4a</id>
-    <title>Drama Huy Forum</title>
-    <updated>2025-11-15T16:22:37+00:00</updated>
-    <author>
-      <name>/u/OutrageousDrag2867</name>
-      <uri>https://old.reddit.com/user/OutrageousDrag2867</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi vozers,&lt;/p&gt; &lt;p&gt;Tuần vừa rồi đúng nghĩa là một cơn ác mộng với nhân vật Huy Forum (người tự nhận đang là NCS Tiến sĩ Luật ở Mỹ và NCS Tiến sĩ Kinh tế ở NTU).&lt;/p&gt; &lt;p&gt;Bắt đầu từ việc bị bóc trên thread city về chuyện trung tâm vận hành lôm côm, dạy hời hợt, thiếu tính sư phạm, giáo trình chắp vá và thậm chí soạn bài bằng ChatGPT, kèm luôn cả prompt copy-paste. (Cũng dễ hiểu phần nào vì Huy xuất thân KHTN, nhảy ngang sang dạy, không kinh nghiệm quản lý hay biên soạn giáo trình.)&lt;/p&gt; &lt;p&gt;Tiếp theo là phốt phát âm và ngữ pháp ở mức khó tin là của một người có Speaking 8.5. Ai học IELTS đều biết để đạt 8.5 Speaking thì độ thuần thục phải rất cao, lỗi chỉ được phép rất nhỏ và không kéo dài xuyên suốt. Phản xạ nói là thứ xây dựng qua nhiều năm nghe nói liên tục. Vậy nên việc đổ lỗi “do áp lực đám đông nên phát âm lỗi hàng loạt” nghe cực kỳ vô lý, phản xạ ngôn ngữ làm sao mất đi một cách trầm trọng như vậy được. Cá nhân mình, cũng học tiếng Anh lâu năm và cũng đạt speaking 8.5 3-4 lần, thấy kiểu sai đó ở level 8.5 là không tưởng. Đây là lúc mình bắt đầu nghi ngờ trình độ thật.&lt;/p&gt; &lt;p&gt;Và gần đây nhất là phốt &lt;em&gt;giả dạng chức danh học thuật&lt;/em&gt;, vi phạm liêm chính khoa học và thậm chí có thể xem là hành vi lừa đảo. Trong group về liêm chính khoa học, đã có ít nhất 3 bài phân tích kỹ profile học thuật của Huy Forum, chỉ ra việc Huy cố tình lợi dụng chữ “doctor” trong chương trình &lt;em&gt;Juris Doctor (JD)&lt;/em&gt; để tự nhận mình là “Nghiên cứu sinh tiến sĩ (PhD research student)” hay thậm chí “Tiến sĩ Luật (PhD)” nhằm buff danh tiếng. Cách dùng ngôn ngữ lập lờ này tạo ra khoảng mờ để sau này có thể đổ cho báo chí, hoặc nói rằng “tôi cũng là doctor mà…”. Đây chính là giọt nước tràn ly đối với mình, một người mém hâm mộ Huy Forum.&lt;/p&gt; &lt;p&gt;Anh em vozer nào quan tâm thì vào bàn thêm cho vui.&lt;/p&gt; &lt;p&gt;P.S.: Mình &lt;em&gt;không ưa khá tiếng anh&lt;/em&gt;, nên đừng gán mình là fan hay clone, tội mình&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/OutrageousDrag2867"&gt; /u/OutrageousDrag2867 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oxvu4a/drama_huy_forum/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oxvu4a/drama_huy_forum/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1oxvu4a/drama_huy_forum/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-15T16:22:37+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1oyehuf</id>
     <title>Còn ít tiền lẻ múc crypto</title>
     <updated>2025-11-16T06:26:25+00:00</updated>
@@ -214,6 +201,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1oyehuf/còn_ít_tiền_lẻ_múc_crypto/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-16T06:26:25+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1oxvu4a</id>
+    <title>Drama Huy Forum</title>
+    <updated>2025-11-15T16:22:37+00:00</updated>
+    <author>
+      <name>/u/OutrageousDrag2867</name>
+      <uri>https://old.reddit.com/user/OutrageousDrag2867</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi vozers,&lt;/p&gt; &lt;p&gt;Tuần vừa rồi đúng nghĩa là một cơn ác mộng với nhân vật Huy Forum (người tự nhận đang là NCS Tiến sĩ Luật ở Mỹ và NCS Tiến sĩ Kinh tế ở NTU).&lt;/p&gt; &lt;p&gt;Bắt đầu từ việc bị bóc trên thread city về chuyện trung tâm vận hành lôm côm, dạy hời hợt, thiếu tính sư phạm, giáo trình chắp vá và thậm chí soạn bài bằng ChatGPT, kèm luôn cả prompt copy-paste. (Cũng dễ hiểu phần nào vì Huy xuất thân KHTN, nhảy ngang sang dạy, không kinh nghiệm quản lý hay biên soạn giáo trình.)&lt;/p&gt; &lt;p&gt;Tiếp theo là phốt phát âm và ngữ pháp ở mức khó tin là của một người có Speaking 8.5. Ai học IELTS đều biết để đạt 8.5 Speaking thì độ thuần thục phải rất cao, lỗi chỉ được phép rất nhỏ và không kéo dài xuyên suốt. Phản xạ nói là thứ xây dựng qua nhiều năm nghe nói liên tục. Vậy nên việc đổ lỗi “do áp lực đám đông nên phát âm lỗi hàng loạt” nghe cực kỳ vô lý, phản xạ ngôn ngữ làm sao mất đi một cách trầm trọng như vậy được. Cá nhân mình, cũng học tiếng Anh lâu năm và cũng đạt speaking 8.5 3-4 lần, thấy kiểu sai đó ở level 8.5 là không tưởng. Đây là lúc mình bắt đầu nghi ngờ trình độ thật.&lt;/p&gt; &lt;p&gt;Và gần đây nhất là phốt &lt;em&gt;giả dạng chức danh học thuật&lt;/em&gt;, vi phạm liêm chính khoa học và thậm chí có thể xem là hành vi lừa đảo. Trong group về liêm chính khoa học, đã có ít nhất 3 bài phân tích kỹ profile học thuật của Huy Forum, chỉ ra việc Huy cố tình lợi dụng chữ “doctor” trong chương trình &lt;em&gt;Juris Doctor (JD)&lt;/em&gt; để tự nhận mình là “Nghiên cứu sinh tiến sĩ (PhD research student)” hay thậm chí “Tiến sĩ Luật (PhD)” nhằm buff danh tiếng. Cách dùng ngôn ngữ lập lờ này tạo ra khoảng mờ để sau này có thể đổ cho báo chí, hoặc nói rằng “tôi cũng là doctor mà…”. Đây chính là giọt nước tràn ly đối với mình, một người mém hâm mộ Huy Forum.&lt;/p&gt; &lt;p&gt;Anh em vozer nào quan tâm thì vào bàn thêm cho vui.&lt;/p&gt; &lt;p&gt;P.S.: Mình &lt;em&gt;không ưa khá tiếng anh&lt;/em&gt;, nên đừng gán mình là fan hay clone, tội mình&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/OutrageousDrag2867"&gt; /u/OutrageousDrag2867 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oxvu4a/drama_huy_forum/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oxvu4a/drama_huy_forum/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1oxvu4a/drama_huy_forum/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-15T16:22:37+00:00</published>
   </entry>
   <entry>
     <id>t3_1oxqd2u</id>
