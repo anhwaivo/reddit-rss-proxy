@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-11-17T09:44:45+00:00</updated>
+  <updated>2025-11-17T09:54:53+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -229,19 +229,6 @@
     <published>2025-11-17T04:55:11+00:00</published>
   </entry>
   <entry>
-    <id>t3_1oz9l9f</id>
-    <title>Tiếp tục hay nghỉ</title>
-    <updated>2025-11-17T06:57:02+00:00</updated>
-    <author>
-      <name>/u/KeCuonq71</name>
-      <uri>https://old.reddit.com/user/KeCuonq71</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, hiện em đang làm trái ngành cho 1 công ty nước ngoài. Ở đây mọi thứ từ lương đến phúc lợi đều ổn cho 1 đứa mới ra trường như em, nhưng nhược điểm duy nhất là không tích luỹ được 1 tí kinh nghiệm gì cho tương lai. Sắp tới em phải kí hợp đồng chính thức cam kết làm 1 năm, nhưng em lại phân vân giữa nghỉ việc để tìm việc mới có thể tích luỹ kinh cho tương lai hoặc kí hợp đồng ở đây để kiếm tiền.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/KeCuonq71"&gt; /u/KeCuonq71 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oz9l9f/tiếp_tục_hay_nghỉ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oz9l9f/tiếp_tục_hay_nghỉ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1oz9l9f/tiếp_tục_hay_nghỉ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-17T06:57:02+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1ozbozo</id>
     <title>Râu mọc nhanh, chân râu to</title>
     <updated>2025-11-17T09:14:18+00:00</updated>
@@ -279,6 +266,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ozawqa/học_sửa_chữa_điện_thoại/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-17T08:21:44+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1oz9l9f</id>
+    <title>Tiếp tục hay nghỉ</title>
+    <updated>2025-11-17T06:57:02+00:00</updated>
+    <author>
+      <name>/u/KeCuonq71</name>
+      <uri>https://old.reddit.com/user/KeCuonq71</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, hiện em đang làm trái ngành cho 1 công ty nước ngoài. Ở đây mọi thứ từ lương đến phúc lợi đều ổn cho 1 đứa mới ra trường như em, nhưng nhược điểm duy nhất là không tích luỹ được 1 tí kinh nghiệm gì cho tương lai. Sắp tới em phải kí hợp đồng chính thức cam kết làm 1 năm, nhưng em lại phân vân giữa nghỉ việc để tìm việc mới có thể tích luỹ kinh cho tương lai hoặc kí hợp đồng ở đây để kiếm tiền.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/KeCuonq71"&gt; /u/KeCuonq71 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oz9l9f/tiếp_tục_hay_nghỉ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oz9l9f/tiếp_tục_hay_nghỉ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1oz9l9f/tiếp_tục_hay_nghỉ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-17T06:57:02+00:00</published>
   </entry>
   <entry>
     <id>t3_1oz433f</id>
