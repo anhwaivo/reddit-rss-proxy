@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-11-17T17:17:56+00:00</updated>
+  <updated>2025-11-17T17:41:39+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -151,19 +151,6 @@
     <published>2025-11-17T16:50:35+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ozdm2d</id>
-    <title>Work-life balance</title>
-    <updated>2025-11-17T11:14:07+00:00</updated>
-    <author>
-      <name>/u/71-noixdecoco</name>
-      <uri>https://old.reddit.com/user/71-noixdecoco</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các bạn có sự cân bằng giữa công việc và cuộc sống không? Mình đi làm 8 tiếng, hết giờ làm về tập thể dục thể thao, đọc sách, học thêm một cái gì đó. Hôm nào công việc “cản trở” mình về đi tập thì mình khá khó chịu, kiểu đã quen với việc vận động hằng ngày, tự dưng một ngày không thực hiện được vì lý do không mong muốn thì ảnh hưởng đến tâm trạng.&lt;/p&gt; &lt;p&gt;Mình muốn hỏi thêm, các bạn làm việc trễ, thì cân bằng cuộc sống như thế nào? (Đối với mình, việc tập thể dục quá trễ ảnh hưởng đến giấc ngủ nên mình không tập trễ).&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/71-noixdecoco"&gt; /u/71-noixdecoco &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ozdm2d/worklife_balance/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ozdm2d/worklife_balance/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ozdm2d/worklife_balance/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-17T11:14:07+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1ozm2g8</id>
     <title>Tại sao con trai lại xem bạn khác giới là "em gái"?</title>
     <updated>2025-11-17T17:15:08+00:00</updated>
@@ -201,6 +188,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1oz433f/giáo_viên_tiếng_nhật_ở_sài_gòn/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-17T02:07:12+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ozdm2d</id>
+    <title>Work-life balance</title>
+    <updated>2025-11-17T11:14:07+00:00</updated>
+    <author>
+      <name>/u/71-noixdecoco</name>
+      <uri>https://old.reddit.com/user/71-noixdecoco</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các bạn có sự cân bằng giữa công việc và cuộc sống không? Mình đi làm 8 tiếng, hết giờ làm về tập thể dục thể thao, đọc sách, học thêm một cái gì đó. Hôm nào công việc “cản trở” mình về đi tập thì mình khá khó chịu, kiểu đã quen với việc vận động hằng ngày, tự dưng một ngày không thực hiện được vì lý do không mong muốn thì ảnh hưởng đến tâm trạng.&lt;/p&gt; &lt;p&gt;Mình muốn hỏi thêm, các bạn làm việc trễ, thì cân bằng cuộc sống như thế nào? (Đối với mình, việc tập thể dục quá trễ ảnh hưởng đến giấc ngủ nên mình không tập trễ).&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/71-noixdecoco"&gt; /u/71-noixdecoco &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ozdm2d/worklife_balance/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ozdm2d/worklife_balance/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ozdm2d/worklife_balance/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-17T11:14:07+00:00</published>
   </entry>
   <entry>
     <id>t3_1ozkv2o</id>
@@ -294,19 +294,6 @@
     <published>2025-11-17T03:49:28+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ozahnj</id>
-    <title>Chuyện thầm kín</title>
-    <updated>2025-11-17T07:54:35+00:00</updated>
-    <author>
-      <name>/u/ContributionWorth252</name>
-      <uri>https://old.reddit.com/user/ContributionWorth252</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Thường nta nói là đàn ông không như phụ nữ, phụ nữ có thể ngủ chay được nhưng đàn ông thì không. Luôn muốn xả không giữ được. Tôi muốn hỏi những ông con trai thường xử lý nhu cầu thế nào? Các ông chưa ny và có ny. Mấy ông có ny thì sao? Khi đã có commitment với một mối quan hệ thì tần suất gặp không được nhiều lắm/ yêu xa thì xác ông thường có mindset thế nào? &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ContributionWorth252"&gt; /u/ContributionWorth252 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ozahnj/chuyện_thầm_kín/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ozahnj/chuyện_thầm_kín/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ozahnj/chuyện_thầm_kín/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-17T07:54:35+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1ozigi7</id>
     <title>Dân quân cơ động 4 năm</title>
     <updated>2025-11-17T14:58:25+00:00</updated>
@@ -318,6 +305,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ozigi7/dân_quân_cơ_động_4_năm/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-17T14:58:25+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ozahnj</id>
+    <title>Chuyện thầm kín</title>
+    <updated>2025-11-17T07:54:35+00:00</updated>
+    <author>
+      <name>/u/ContributionWorth252</name>
+      <uri>https://old.reddit.com/user/ContributionWorth252</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Thường nta nói là đàn ông không như phụ nữ, phụ nữ có thể ngủ chay được nhưng đàn ông thì không. Luôn muốn xả không giữ được. Tôi muốn hỏi những ông con trai thường xử lý nhu cầu thế nào? Các ông chưa ny và có ny. Mấy ông có ny thì sao? Khi đã có commitment với một mối quan hệ thì tần suất gặp không được nhiều lắm/ yêu xa thì xác ông thường có mindset thế nào? &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ContributionWorth252"&gt; /u/ContributionWorth252 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ozahnj/chuyện_thầm_kín/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ozahnj/chuyện_thầm_kín/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ozahnj/chuyện_thầm_kín/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-17T07:54:35+00:00</published>
   </entry>
   <entry>
     <id>t3_1ozcnwh</id>
