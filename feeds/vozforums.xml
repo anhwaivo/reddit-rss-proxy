@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-11-17T21:50:17+00:00</updated>
+  <updated>2025-11-17T22:17:57+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1ozawqa</id>
-    <title>Học sửa chữa điện thoại</title>
-    <updated>2025-11-17T08:21:44+00:00</updated>
-    <author>
-      <name>/u/South-Lake-4038</name>
-      <uri>https://old.reddit.com/user/South-Lake-4038</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình ở TPHCM đang mong muốn tìm kiếm các trung tâm đào tạo sửa chữa điện thoại&lt;br /&gt; Hỏi thăm các anh/chi đã và đang làm việc liên quan đến sửa chữa điện thoại&lt;br /&gt; + Nơi có thể học từ phần cứng tới phần mềm&lt;br /&gt; + Trong vòng 6 tháng ( mỗi tuần 2 buổi ) có thể ra làm được không ?&lt;br /&gt; =&amp;gt; trong trường hợp tiếp thu nhanh và chịu khó&lt;br /&gt; + Ngữ cảnh đang làm coder quèn &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/South-Lake-4038"&gt; /u/South-Lake-4038 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ozawqa/học_sửa_chữa_điện_thoại/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ozawqa/học_sửa_chữa_điện_thoại/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ozawqa/học_sửa_chữa_điện_thoại/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-17T08:21:44+00:00</published>
-  </entry>
   <entry>
     <id>t3_1ozimf2</id>
     <title>Cần tìm bạn học Toán để thi tốt nghiệp</title>
@@ -84,6 +71,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1oz9l9f/tiếp_tục_hay_nghỉ/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-17T06:57:02+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ozawqa</id>
+    <title>Học sửa chữa điện thoại</title>
+    <updated>2025-11-17T08:21:44+00:00</updated>
+    <author>
+      <name>/u/South-Lake-4038</name>
+      <uri>https://old.reddit.com/user/South-Lake-4038</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình ở TPHCM đang mong muốn tìm kiếm các trung tâm đào tạo sửa chữa điện thoại&lt;br /&gt; Hỏi thăm các anh/chi đã và đang làm việc liên quan đến sửa chữa điện thoại&lt;br /&gt; + Nơi có thể học từ phần cứng tới phần mềm&lt;br /&gt; + Trong vòng 6 tháng ( mỗi tuần 2 buổi ) có thể ra làm được không ?&lt;br /&gt; =&amp;gt; trong trường hợp tiếp thu nhanh và chịu khó&lt;br /&gt; + Ngữ cảnh đang làm coder quèn &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/South-Lake-4038"&gt; /u/South-Lake-4038 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ozawqa/học_sửa_chữa_điện_thoại/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ozawqa/học_sửa_chữa_điện_thoại/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ozawqa/học_sửa_chữa_điện_thoại/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-17T08:21:44+00:00</published>
   </entry>
   <entry>
     <id>t3_1ozbozo</id>
@@ -164,19 +164,6 @@
     <published>2025-11-17T19:16:23+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ozdm2d</id>
-    <title>Work-life balance</title>
-    <updated>2025-11-17T11:14:07+00:00</updated>
-    <author>
-      <name>/u/71-noixdecoco</name>
-      <uri>https://old.reddit.com/user/71-noixdecoco</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các bạn có sự cân bằng giữa công việc và cuộc sống không? Mình đi làm 8 tiếng, hết giờ làm về tập thể dục thể thao, đọc sách, học thêm một cái gì đó. Hôm nào công việc “cản trở” mình về đi tập thì mình khá khó chịu, kiểu đã quen với việc vận động hằng ngày, tự dưng một ngày không thực hiện được vì lý do không mong muốn thì ảnh hưởng đến tâm trạng.&lt;/p&gt; &lt;p&gt;Mình muốn hỏi thêm, các bạn làm việc trễ, thì cân bằng cuộc sống như thế nào? (Đối với mình, việc tập thể dục quá trễ ảnh hưởng đến giấc ngủ nên mình không tập trễ).&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/71-noixdecoco"&gt; /u/71-noixdecoco &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ozdm2d/worklife_balance/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ozdm2d/worklife_balance/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ozdm2d/worklife_balance/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-17T11:14:07+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1ozkv2o</id>
     <title>Đi học quân sự</title>
     <updated>2025-11-17T16:30:31+00:00</updated>
@@ -188,6 +175,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ozkv2o/đi_học_quân_sự/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-17T16:30:31+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ozdm2d</id>
+    <title>Work-life balance</title>
+    <updated>2025-11-17T11:14:07+00:00</updated>
+    <author>
+      <name>/u/71-noixdecoco</name>
+      <uri>https://old.reddit.com/user/71-noixdecoco</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các bạn có sự cân bằng giữa công việc và cuộc sống không? Mình đi làm 8 tiếng, hết giờ làm về tập thể dục thể thao, đọc sách, học thêm một cái gì đó. Hôm nào công việc “cản trở” mình về đi tập thì mình khá khó chịu, kiểu đã quen với việc vận động hằng ngày, tự dưng một ngày không thực hiện được vì lý do không mong muốn thì ảnh hưởng đến tâm trạng.&lt;/p&gt; &lt;p&gt;Mình muốn hỏi thêm, các bạn làm việc trễ, thì cân bằng cuộc sống như thế nào? (Đối với mình, việc tập thể dục quá trễ ảnh hưởng đến giấc ngủ nên mình không tập trễ).&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/71-noixdecoco"&gt; /u/71-noixdecoco &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ozdm2d/worklife_balance/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ozdm2d/worklife_balance/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ozdm2d/worklife_balance/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-17T11:14:07+00:00</published>
   </entry>
   <entry>
     <id>t3_1ozsm0p</id>
