@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-11-17T01:25:48+00:00</updated>
+  <updated>2025-11-17T03:00:25+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1oybgkx</id>
-    <title>Những khó khăn trong ngành Actuary ở Việt Nam</title>
-    <updated>2025-11-16T03:39:58+00:00</updated>
-    <author>
-      <name>/u/Striking_Setting_412</name>
-      <uri>https://old.reddit.com/user/Striking_Setting_412</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hello mọi người, &lt;/p&gt; &lt;p&gt;Mình đang tìm hiểu về ngành Actuary ở Việt Nam, mọi người có thể cho mình thêm thông tin, những khó khăn, áp lực, cũng như những vấn đề “khó nói” khi học hoặc làm Actuary được không ạ? &lt;/p&gt; &lt;p&gt;Mình ở đây để lắng nghe, mọi người có thể inbox mình hoặc comment phía bên dưới rồi mình sẽ trực tiếp liên hệ nhé.&lt;/p&gt; &lt;p&gt;Xin cảm ơn mọi người nhiều 😊&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Striking_Setting_412"&gt; /u/Striking_Setting_412 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oybgkx/những_khó_khăn_trong_ngành_actuary_ở_việt_nam/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oybgkx/những_khó_khăn_trong_ngành_actuary_ở_việt_nam/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1oybgkx/những_khó_khăn_trong_ngành_actuary_ở_việt_nam/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-16T03:39:58+00:00</published>
-  </entry>
   <entry>
     <id>t3_1oydibs</id>
     <title>Muốn đi nghĩa vụ dân quân thì đăng ký kiểu gì?</title>
@@ -34,19 +21,6 @@
     <published>2025-11-16T05:29:21+00:00</published>
   </entry>
   <entry>
-    <id>t3_1oxqd2u</id>
-    <title>Các bác nghĩ sao?</title>
-    <updated>2025-11-15T12:21:23+00:00</updated>
-    <author>
-      <name>/u/bachngo61</name>
-      <uri>https://old.reddit.com/user/bachngo61</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1oxqd2u/các_bác_nghĩ_sao/"&gt; &lt;img alt="Các bác nghĩ sao?" src="https://preview.redd.it/o4jztmigye1g1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=9a0c74a08f6452f9e06d5a4c589ed2a6033c2bb8" title="Các bác nghĩ sao?" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/bachngo61"&gt; /u/bachngo61 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/o4jztmigye1g1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oxqd2u/các_bác_nghĩ_sao/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1oxqd2u/các_bác_nghĩ_sao/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-15T12:21:23+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1oyfy68</id>
     <title>Xin ý kiến về dàn PC cũ</title>
     <updated>2025-11-16T07:55:36+00:00</updated>
@@ -58,6 +32,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1oyfy68/xin_ý_kiến_về_dàn_pc_cũ/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-16T07:55:36+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1oxqd2u</id>
+    <title>Các bác nghĩ sao?</title>
+    <updated>2025-11-15T12:21:23+00:00</updated>
+    <author>
+      <name>/u/bachngo61</name>
+      <uri>https://old.reddit.com/user/bachngo61</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1oxqd2u/các_bác_nghĩ_sao/"&gt; &lt;img alt="Các bác nghĩ sao?" src="https://preview.redd.it/o4jztmigye1g1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=9a0c74a08f6452f9e06d5a4c589ed2a6033c2bb8" title="Các bác nghĩ sao?" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/bachngo61"&gt; /u/bachngo61 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/o4jztmigye1g1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oxqd2u/các_bác_nghĩ_sao/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1oxqd2u/các_bác_nghĩ_sao/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-15T12:21:23+00:00</published>
   </entry>
   <entry>
     <id>t3_1oxvu4a</id>
@@ -86,17 +73,17 @@
     <published>2025-11-16T14:14:01+00:00</published>
   </entry>
   <entry>
-    <id>t3_1oyf33t</id>
-    <title>Làm cách nào để luôn sống vui vẻ thoải mái,giải quyết vấn đề ôn hòa trước những người cực kì xấu tính,toxic,ghét mình,tìm cách nói xấu hại mình,khiến mọi người xung quanh hiểu lầm mình</title>
-    <updated>2025-11-16T07:02:04+00:00</updated>
+    <id>t3_1oynyzw</id>
+    <title>Tư vấn máy giặt đứng inverter hay thường</title>
+    <updated>2025-11-16T15:05:05+00:00</updated>
     <author>
-      <name>/u/Plus_Blacksmith9905</name>
-      <uri>https://old.reddit.com/user/Plus_Blacksmith9905</uri>
+      <name>/u/EconomyCurrent2844</name>
+      <uri>https://old.reddit.com/user/EconomyCurrent2844</uri>
     </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Plus_Blacksmith9905"&gt; /u/Plus_Blacksmith9905 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oyf33t/làm_cách_nào_để_luôn_sống_vui_vẻ_thoải_máigiải/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oyf33t/làm_cách_nào_để_luôn_sống_vui_vẻ_thoải_máigiải/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1oyf33t/làm_cách_nào_để_luôn_sống_vui_vẻ_thoải_máigiải/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Như tiêu đề mà t đang phân vân về khoản sửa chữa của mấy máy inverter các bác à.&lt;br /&gt; Ko biết xài inverter có như quảng cáo ít hỏng hay mỗi lần thay/sửa chữa linh kiện thì đắt hơn máy giặt thường nhiều ko.&lt;/p&gt; &lt;p&gt;Cám ơn các bác.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/EconomyCurrent2844"&gt; /u/EconomyCurrent2844 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oynyzw/tư_vấn_máy_giặt_đứng_inverter_hay_thường/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oynyzw/tư_vấn_máy_giặt_đứng_inverter_hay_thường/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1oynyzw/tư_vấn_máy_giặt_đứng_inverter_hay_thường/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-16T07:02:04+00:00</published>
+    <published>2025-11-16T15:05:05+00:00</published>
   </entry>
   <entry>
     <id>t3_1oyf7hc</id>
@@ -112,19 +99,6 @@
     <published>2025-11-16T07:09:17+00:00</published>
   </entry>
   <entry>
-    <id>t3_1oynyzw</id>
-    <title>Tư vấn máy giặt đứng inverter hay thường</title>
-    <updated>2025-11-16T15:05:05+00:00</updated>
-    <author>
-      <name>/u/EconomyCurrent2844</name>
-      <uri>https://old.reddit.com/user/EconomyCurrent2844</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Như tiêu đề mà t đang phân vân về khoản sửa chữa của mấy máy inverter các bác à.&lt;br /&gt; Ko biết xài inverter có như quảng cáo ít hỏng hay mỗi lần thay/sửa chữa linh kiện thì đắt hơn máy giặt thường nhiều ko.&lt;/p&gt; &lt;p&gt;Cám ơn các bác.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/EconomyCurrent2844"&gt; /u/EconomyCurrent2844 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oynyzw/tư_vấn_máy_giặt_đứng_inverter_hay_thường/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oynyzw/tư_vấn_máy_giặt_đứng_inverter_hay_thường/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1oynyzw/tư_vấn_máy_giặt_đứng_inverter_hay_thường/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-16T15:05:05+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1oye7oy</id>
     <title>Có 2 con nhỏ thì hiện nay có những cách gì tích luỹ tiền để 18 tuổi tụi nhỏ có tiền đi học cao đẳng/đại học.</title>
     <updated>2025-11-16T06:09:59+00:00</updated>
@@ -136,58 +110,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1oye7oy/có_2_con_nhỏ_thì_hiện_nay_có_những_cách_gì_tích/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-16T06:09:59+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1oy9k2n</id>
-    <title>Tiền bạc trong tình yêu</title>
-    <updated>2025-11-16T02:04:16+00:00</updated>
-    <author>
-      <name>/u/Distinct-Mistake-746</name>
-      <uri>https://old.reddit.com/user/Distinct-Mistake-746</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Như tiêu đề, tôi (27M) dạo này cứ lấn cấn chuyện yêu đương. Lương hàng tháng hơn 10 củ, thiết chả dám yêu ai vì lỡ có gì thì có lo nổi cho ngta đâu.&lt;br /&gt; Thôi cắn răng chấp nhận cho tăng thu nhập rồi tính tiếp các bác nhỉ.&lt;br /&gt; Nhìn cô em kia định lại làm quen mà ngoảnh lại thấy khả năng chu cấp của mình kém nên lại thôi :) &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Distinct-Mistake-746"&gt; /u/Distinct-Mistake-746 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oy9k2n/tiền_bạc_trong_tình_yêu/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oy9k2n/tiền_bạc_trong_tình_yêu/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1oy9k2n/tiền_bạc_trong_tình_yêu/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-16T02:04:16+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1oyjwr9</id>
-    <title>Tìm đường định cư Đức!</title>
-    <updated>2025-11-16T11:56:43+00:00</updated>
-    <author>
-      <name>/u/Mundane_Commercial69</name>
-      <uri>https://old.reddit.com/user/Mundane_Commercial69</uri>
-    </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Mundane_Commercial69"&gt; /u/Mundane_Commercial69 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oyjwr9/tìm_đường_định_cư_đức/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oyjwr9/tìm_đường_định_cư_đức/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1oyjwr9/tìm_đường_định_cư_đức/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-16T11:56:43+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1oy1ft4</id>
-    <title>Tâm sự đêm khuya</title>
-    <updated>2025-11-15T20:04:10+00:00</updated>
-    <author>
-      <name>/u/Tough-Ad6688</name>
-      <uri>https://old.reddit.com/user/Tough-Ad6688</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mk là nữ 25t. Suốt gần 3 tháng qua gần như mk không đi đâu cả, thỉnh thoảng chỉ ra ngoài để mua đồ ăn hoặc vài thứ lặt vặt. Cuối tháng này mk mới nộp hồ sơ xin việc, mk đã dành 3 tháng để tập trung cho việc học, phòng luôn đóng kín và mk chỉ làm bạn với máy tính. Ban đầu mk cảm thấy rất ổn nhưng trong khoảng 1 tháng gần đây mk thường xuyên thức tới 5h sáng. Mặc dù mk tắt đèn, tắt điện thoại lúc 23h và lên giường nhưng mắt mk chỉ nhắm mà không ngủ được và cứ thế 2 tiếng, 3 tiếng trôi qua cho tới sáng hôm sau. Trước kia trí nhớ của mk rất tốt, chỉ cần đọc 2 lần là có thể chép lại bài văn dài 2 trang giấy, thậm trí là cả 1 cuốn sách. Bạn bè trong lớp luôn coi mk là phao cứu sinh và đặt biệt danh cho mk là thánh học thuộc, ấy vậy mà giờ đây mk không thể nhớ nổi dù chỉ là 4,5 dòng chữ. Thỉnh thoảng mk còn có hiện tượng bị ảo giác về chữ, mk nhìn thấy những chữ hoặc hình ảnh không có trên giấy. Buổi sáng cảm xúc của mk khá kì quái, đại loại mọi người nhìn vào sẽ cảm thấy mk khá lấc cấc, bất cần và ngang ngược, buổi tối cảm xúc ổn hơn. Bây giờ gần 3h sáng rồi, mk không ngủ dc và cũng ko học được. Mk rất lo lắng vì kỳ thi sắp tới rồi. Nước mắt cứ thế bất lực rơi xuống. Trước kia mk từng có tiền sử bị trầm cảm nhưng mk đã khỏi rồi hoặc ít nhất bây giờ mk tạm thời không bị, mk cũng ko dùng chất kích thích, coffee hay nghiện game. Ngoài ra mk cũng ko bị áp lực gia đình hay công việc, có lẽ chỉ áp lực học và kỳ vọng của cha mẹ thôi và mk cũng tự tạo áp lực cho mk. Có anh em nào bị giống mk ko? Mk lên đây nói chỉ để nhẹ lòng hơn thôi, mk ko bỏ cuộc đâu :3&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Tough-Ad6688"&gt; /u/Tough-Ad6688 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oy1ft4/tâm_sự_đêm_khuya/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oy1ft4/tâm_sự_đêm_khuya/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1oy1ft4/tâm_sự_đêm_khuya/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-15T20:04:10+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1oyos6n</id>
-    <title>Phỏng vấn dạo</title>
-    <updated>2025-11-16T15:38:16+00:00</updated>
-    <author>
-      <name>/u/baro_zz</name>
-      <uri>https://old.reddit.com/user/baro_zz</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mn, như cái tiêu đề thì hôm nay mình muốn hỏi một chủ đề cũng khá lạ mà quen đó là phỏng vấn dạo. Thường thì đôi khi không có ý định nghỉ việc nhưng vẫn đi phỏng vấn để biết yêu cầu của thị trường cũng như đánh giá năng lực bản thân. Mọi người có tips hay kinh nghiệm nào hay ho để phỏng vấn một cách tự nhiên nhất không ạ? 🥲🥲🥲 Hoặc chia sẻ một số case ấn tượng từng gặp ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/baro_zz"&gt; /u/baro_zz &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oyos6n/phỏng_vấn_dạo/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oyos6n/phỏng_vấn_dạo/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1oyos6n/phỏng_vấn_dạo/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-16T15:38:16+00:00</published>
   </entry>
   <entry>
     <id>t3_1oym7q8</id>
@@ -203,6 +125,45 @@
     <published>2025-11-16T13:50:08+00:00</published>
   </entry>
   <entry>
+    <id>t3_1oy9k2n</id>
+    <title>Tiền bạc trong tình yêu</title>
+    <updated>2025-11-16T02:04:16+00:00</updated>
+    <author>
+      <name>/u/Distinct-Mistake-746</name>
+      <uri>https://old.reddit.com/user/Distinct-Mistake-746</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Như tiêu đề, tôi (27M) dạo này cứ lấn cấn chuyện yêu đương. Lương hàng tháng hơn 10 củ, thiết chả dám yêu ai vì lỡ có gì thì có lo nổi cho ngta đâu.&lt;br /&gt; Thôi cắn răng chấp nhận cho tăng thu nhập rồi tính tiếp các bác nhỉ.&lt;br /&gt; Nhìn cô em kia định lại làm quen mà ngoảnh lại thấy khả năng chu cấp của mình kém nên lại thôi :) &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Distinct-Mistake-746"&gt; /u/Distinct-Mistake-746 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oy9k2n/tiền_bạc_trong_tình_yêu/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oy9k2n/tiền_bạc_trong_tình_yêu/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1oy9k2n/tiền_bạc_trong_tình_yêu/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-16T02:04:16+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1oy1ft4</id>
+    <title>Tâm sự đêm khuya</title>
+    <updated>2025-11-15T20:04:10+00:00</updated>
+    <author>
+      <name>/u/Tough-Ad6688</name>
+      <uri>https://old.reddit.com/user/Tough-Ad6688</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mk là nữ 25t. Suốt gần 3 tháng qua gần như mk không đi đâu cả, thỉnh thoảng chỉ ra ngoài để mua đồ ăn hoặc vài thứ lặt vặt. Cuối tháng này mk mới nộp hồ sơ xin việc, mk đã dành 3 tháng để tập trung cho việc học, phòng luôn đóng kín và mk chỉ làm bạn với máy tính. Ban đầu mk cảm thấy rất ổn nhưng trong khoảng 1 tháng gần đây mk thường xuyên thức tới 5h sáng. Mặc dù mk tắt đèn, tắt điện thoại lúc 23h và lên giường nhưng mắt mk chỉ nhắm mà không ngủ được và cứ thế 2 tiếng, 3 tiếng trôi qua cho tới sáng hôm sau. Trước kia trí nhớ của mk rất tốt, chỉ cần đọc 2 lần là có thể chép lại bài văn dài 2 trang giấy, thậm trí là cả 1 cuốn sách. Bạn bè trong lớp luôn coi mk là phao cứu sinh và đặt biệt danh cho mk là thánh học thuộc, ấy vậy mà giờ đây mk không thể nhớ nổi dù chỉ là 4,5 dòng chữ. Thỉnh thoảng mk còn có hiện tượng bị ảo giác về chữ, mk nhìn thấy những chữ hoặc hình ảnh không có trên giấy. Buổi sáng cảm xúc của mk khá kì quái, đại loại mọi người nhìn vào sẽ cảm thấy mk khá lấc cấc, bất cần và ngang ngược, buổi tối cảm xúc ổn hơn. Bây giờ gần 3h sáng rồi, mk không ngủ dc và cũng ko học được. Mk rất lo lắng vì kỳ thi sắp tới rồi. Nước mắt cứ thế bất lực rơi xuống. Trước kia mk từng có tiền sử bị trầm cảm nhưng mk đã khỏi rồi hoặc ít nhất bây giờ mk tạm thời không bị, mk cũng ko dùng chất kích thích, coffee hay nghiện game. Ngoài ra mk cũng ko bị áp lực gia đình hay công việc, có lẽ chỉ áp lực học và kỳ vọng của cha mẹ thôi và mk cũng tự tạo áp lực cho mk. Có anh em nào bị giống mk ko? Mk lên đây nói chỉ để nhẹ lòng hơn thôi, mk ko bỏ cuộc đâu :3&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Tough-Ad6688"&gt; /u/Tough-Ad6688 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oy1ft4/tâm_sự_đêm_khuya/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oy1ft4/tâm_sự_đêm_khuya/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1oy1ft4/tâm_sự_đêm_khuya/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-15T20:04:10+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1oyjwr9</id>
+    <title>Tìm đường định cư Đức!</title>
+    <updated>2025-11-16T11:56:43+00:00</updated>
+    <author>
+      <name>/u/Mundane_Commercial69</name>
+      <uri>https://old.reddit.com/user/Mundane_Commercial69</uri>
+    </author>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Mundane_Commercial69"&gt; /u/Mundane_Commercial69 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oyjwr9/tìm_đường_định_cư_đức/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oyjwr9/tìm_đường_định_cư_đức/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1oyjwr9/tìm_đường_định_cư_đức/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-16T11:56:43+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1oyb8jb</id>
     <title>Mục đích của sự tồn tại là gì ?</title>
     <updated>2025-11-16T03:28:21+00:00</updated>
@@ -216,17 +177,17 @@
     <published>2025-11-16T03:28:21+00:00</published>
   </entry>
   <entry>
-    <id>t3_1oyjyju</id>
-    <title>Trượt dài</title>
-    <updated>2025-11-16T11:59:29+00:00</updated>
+    <id>t3_1oyos6n</id>
+    <title>Phỏng vấn dạo</title>
+    <updated>2025-11-16T15:38:16+00:00</updated>
     <author>
-      <name>/u/AdvancedExternal4329</name>
-      <uri>https://old.reddit.com/user/AdvancedExternal4329</uri>
+      <name>/u/baro_zz</name>
+      <uri>https://old.reddit.com/user/baro_zz</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em là sinh viên năm 2 ngành kĩ thuật. Năm nhất em học khá ổn, kì 1 còn được học bổng và cả năm cũng xếp loại giỏi. Vậy mà tới kì 1 năm 2, em đang trượt dài, học hành thảm hại, lên lớp gần như điểm danh cho có, suốt ngày dùng đt, chẳng thế tập trung nổi. Em từng sắp xếp lại kế hoạch nhưng xong đâu lại vào đấy, chẳng làm được gì trọn vẹn, toàn làm nửa vời. Và sắp thi kết thúc học phần nhưng đầu em trống rộng. Em còn làm lớp trưởng nữa hic, cảm thấy mình rất tệ. Em cũng vừa phải xin thầy nộp bài tập lớn muộn. Có lẽ thầy rất thất vọng,&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/AdvancedExternal4329"&gt; /u/AdvancedExternal4329 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oyjyju/trượt_dài/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oyjyju/trượt_dài/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1oyjyju/trượt_dài/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mn, như cái tiêu đề thì hôm nay mình muốn hỏi một chủ đề cũng khá lạ mà quen đó là phỏng vấn dạo. Thường thì đôi khi không có ý định nghỉ việc nhưng vẫn đi phỏng vấn để biết yêu cầu của thị trường cũng như đánh giá năng lực bản thân. Mọi người có tips hay kinh nghiệm nào hay ho để phỏng vấn một cách tự nhiên nhất không ạ? 🥲🥲🥲 Hoặc chia sẻ một số case ấn tượng từng gặp ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/baro_zz"&gt; /u/baro_zz &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oyos6n/phỏng_vấn_dạo/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oyos6n/phỏng_vấn_dạo/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1oyos6n/phỏng_vấn_dạo/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-16T11:59:29+00:00</published>
+    <published>2025-11-16T15:38:16+00:00</published>
   </entry>
   <entry>
     <id>t3_1oyjxsx</id>
@@ -242,6 +203,19 @@
     <published>2025-11-16T11:58:20+00:00</published>
   </entry>
   <entry>
+    <id>t3_1oyjyju</id>
+    <title>Trượt dài</title>
+    <updated>2025-11-16T11:59:29+00:00</updated>
+    <author>
+      <name>/u/AdvancedExternal4329</name>
+      <uri>https://old.reddit.com/user/AdvancedExternal4329</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em là sinh viên năm 2 ngành kĩ thuật. Năm nhất em học khá ổn, kì 1 còn được học bổng và cả năm cũng xếp loại giỏi. Vậy mà tới kì 1 năm 2, em đang trượt dài, học hành thảm hại, lên lớp gần như điểm danh cho có, suốt ngày dùng đt, chẳng thế tập trung nổi. Em từng sắp xếp lại kế hoạch nhưng xong đâu lại vào đấy, chẳng làm được gì trọn vẹn, toàn làm nửa vời. Và sắp thi kết thúc học phần nhưng đầu em trống rộng. Em còn làm lớp trưởng nữa hic, cảm thấy mình rất tệ. Em cũng vừa phải xin thầy nộp bài tập lớn muộn. Có lẽ thầy rất thất vọng,&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/AdvancedExternal4329"&gt; /u/AdvancedExternal4329 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oyjyju/trượt_dài/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oyjyju/trượt_dài/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1oyjyju/trượt_dài/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-16T11:59:29+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1oyq639</id>
     <title>Không liên lạc với bạn bè</title>
     <updated>2025-11-16T16:33:01+00:00</updated>
@@ -253,19 +227,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1oyq639/không_liên_lạc_với_bạn_bè/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-16T16:33:01+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1oyfibb</id>
-    <title>Fake thời gian làm việc trên CV</title>
-    <updated>2025-11-16T07:27:39+00:00</updated>
-    <author>
-      <name>/u/No_Principle5471</name>
-      <uri>https://old.reddit.com/user/No_Principle5471</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác, chuyện là em làm ở 1 cty 2 năm, sau đó em nghỉ đi xklđ 1 năm rưỡi rồi về làm lại cty cũ thêm 2 năm rồi burn out quá lại nghỉ tiếp. Giờ CV em nát bét cứ 2 năm lại nhảy việc 1 lần, rải CV không chỗ nào gọi nên em đánh liều bỏ đoạn đi nước ngoài ra khỏi CV luôn, kéo thgian làm việc ở cty cũ thành 5.5 năm liên tiếp ko ngắt quãng. Giờ em có offer rồi mà cắn rứt quá ko biết nên làm thế nào mấy bác tư vấn cho em với ạ. Đi làm mà nơm nớp sợ gặp người quen biết chuyện của e, mà thất nghiệp ở nhà thì càng trầm uất…&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/No_Principle5471"&gt; /u/No_Principle5471 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oyfibb/fake_thời_gian_làm_việc_trên_cv/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oyfibb/fake_thời_gian_làm_việc_trên_cv/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1oyfibb/fake_thời_gian_làm_việc_trên_cv/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-16T07:27:39+00:00</published>
   </entry>
   <entry>
     <id>t3_1oyorns</id>
@@ -294,6 +255,19 @@
     <published>2025-11-16T12:55:19+00:00</published>
   </entry>
   <entry>
+    <id>t3_1oyfibb</id>
+    <title>Fake thời gian làm việc trên CV</title>
+    <updated>2025-11-16T07:27:39+00:00</updated>
+    <author>
+      <name>/u/No_Principle5471</name>
+      <uri>https://old.reddit.com/user/No_Principle5471</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác, chuyện là em làm ở 1 cty 2 năm, sau đó em nghỉ đi xklđ 1 năm rưỡi rồi về làm lại cty cũ thêm 2 năm rồi burn out quá lại nghỉ tiếp. Giờ CV em nát bét cứ 2 năm lại nhảy việc 1 lần, rải CV không chỗ nào gọi nên em đánh liều bỏ đoạn đi nước ngoài ra khỏi CV luôn, kéo thgian làm việc ở cty cũ thành 5.5 năm liên tiếp ko ngắt quãng. Giờ em có offer rồi mà cắn rứt quá ko biết nên làm thế nào mấy bác tư vấn cho em với ạ. Đi làm mà nơm nớp sợ gặp người quen biết chuyện của e, mà thất nghiệp ở nhà thì càng trầm uất…&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/No_Principle5471"&gt; /u/No_Principle5471 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oyfibb/fake_thời_gian_làm_việc_trên_cv/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oyfibb/fake_thời_gian_làm_việc_trên_cv/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1oyfibb/fake_thời_gian_làm_việc_trên_cv/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-16T07:27:39+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1oyqomd</id>
     <title>Mình đang bối rối về cảm xúc với nam và nữ, mong mọi người cho lời khuyên.</title>
     <updated>2025-11-16T16:53:24+00:00</updated>
@@ -305,6 +279,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1oyqomd/mình_đang_bối_rối_về_cảm_xúc_với_nam_và_nữ_mong/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-16T16:53:24+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1oz4yto</id>
+    <title>Mất định hướng</title>
+    <updated>2025-11-17T02:48:41+00:00</updated>
+    <author>
+      <name>/u/Flat_Shame_7764</name>
+      <uri>https://old.reddit.com/user/Flat_Shame_7764</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hello cả nhà e 22 tuổi, mới ra trường và đang làm IT(BE) ở sg với mức lương 8tr. Là người con tỉnh lẻ lên đây học rồi ở lại làm, không người thân, không bạn bè thân thiết… đôi khi e thấy bản thân lạc lõng giữa thành phố đông đúc này. Nhiều đêm nằm suy nghĩ, tự hỏi: Mình đang làm gì ở đây vậy? Lương thì không đủ để tiết kiệm, còn tương lai thì mơ hồ. E biết phải cố gắng thêm 2–3 năm nữa để tích lũy kinh nghiệm, để sau này có thể deal mức lương tốt hơn. Nhưng cuộc sống cứ lặp đi lặp lại: sáng đi làm, tối 6h30 về tới nhà, cơm nước xong là đã 8h. Mỗi ngày như một cái vòng lặp đều đều, đến mức e bắt đầu thấy chán nản. Chuyện tình cảm thì cũng mông lung. Muốn tìm người yêu mà không biết bắt đầu từ đâu. Còn mấy đứa bạn ở chung trọ thì tối nào cũng cày game tới 2–3h sáng, chẳng ai chia sẻ gì với ai. Không biết có ai từng rơi vào trạng thái giống e chưa? Chỉ là… đôi lúc mình thấy mất định hướng thật sự.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Flat_Shame_7764"&gt; /u/Flat_Shame_7764 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oz4yto/mất_định_hướng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oz4yto/mất_định_hướng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1oz4yto/mất_định_hướng/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-17T02:48:41+00:00</published>
   </entry>
   <entry>
     <id>t3_1oyih02</id>
@@ -331,5 +318,18 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1oygt1b/nghề_đổi_ngoại_tệ_hoặc_usdt_kiếm_lời_bằng_cách_nào/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-16T08:49:29+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1oz433f</id>
+    <title>Giáo viên tiếng Nhật ở Sài Gòn</title>
+    <updated>2025-11-17T02:07:12+00:00</updated>
+    <author>
+      <name>/u/biradio2000</name>
+      <uri>https://old.reddit.com/user/biradio2000</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình đăng bài này mong được ai đã/đang trong ngành giáo viên tiếng Nhật (đặc biệt ở Sài Gòn) có thể tư vấn mình ạ 🙇&lt;/p&gt; &lt;p&gt;Mình định năm sau chuyển tới Sài Gòn, apply đi dạy tiếng Nhật ở các trung tâm tiếng Nhật để tích lũy kinh nghiệm trong 6 tháng-1 năm, và sau đó về quê để mở lớp dạy ạ. &lt;/p&gt; &lt;p&gt;Mình mong được tư vấn về mức lương mình có thể kỳ vọng ở Sài Gòn ạ. &lt;/p&gt; &lt;p&gt;Profile mình như sau:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Mình đã sống ở Nhật gần 6 năm, có kinh nghiệm đi làm công ty Nhật 2,5 năm (vị trí: sales và customer support cho 1 công ty quản lý nhà ở của Tokyo)&lt;/li&gt; &lt;li&gt;Mình không có kinh nghiệm giảng dạy tiếng Nhật&lt;/li&gt; &lt;li&gt;Bằng cấp: mình có JLPT N1 (178/180, thi đợt t7/2020), bằng đại học hệ tiếng Nhật (ngành Quản trị Kinh doanh của 1 trường tư lập ở Tokyo) (còn các bằng cấp ko liên quan tới việc dạy tiếng Nhật như: BJT J1+, EJU 340/400, TOEIC 900 đã hết hạn 2 năm)&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Mong được mọi người giúp đỡ ạ 🥰🙏 Mình xin cảm ơn ạ.￼&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/biradio2000"&gt; /u/biradio2000 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oz433f/giáo_viên_tiếng_nhật_ở_sài_gòn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oz433f/giáo_viên_tiếng_nhật_ở_sài_gòn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1oz433f/giáo_viên_tiếng_nhật_ở_sài_gòn/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-17T02:07:12+00:00</published>
   </entry>
 </feed>
