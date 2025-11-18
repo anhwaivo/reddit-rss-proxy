@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-11-18T07:18:30+00:00</updated>
+  <updated>2025-11-18T07:39:46+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1ozdm2d</id>
-    <title>Work-life balance</title>
-    <updated>2025-11-17T11:14:07+00:00</updated>
-    <author>
-      <name>/u/71-noixdecoco</name>
-      <uri>https://old.reddit.com/user/71-noixdecoco</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các bạn có sự cân bằng giữa công việc và cuộc sống không? Mình đi làm 8 tiếng, hết giờ làm về tập thể dục thể thao, đọc sách, học thêm một cái gì đó. Hôm nào công việc “cản trở” mình về đi tập thì mình khá khó chịu, kiểu đã quen với việc vận động hằng ngày, tự dưng một ngày không thực hiện được vì lý do không mong muốn thì ảnh hưởng đến tâm trạng.&lt;/p&gt; &lt;p&gt;Mình muốn hỏi thêm, các bạn làm việc trễ, thì cân bằng cuộc sống như thế nào? (Đối với mình, việc tập thể dục quá trễ ảnh hưởng đến giấc ngủ nên mình không tập trễ).&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/71-noixdecoco"&gt; /u/71-noixdecoco &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ozdm2d/worklife_balance/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ozdm2d/worklife_balance/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ozdm2d/worklife_balance/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-17T11:14:07+00:00</published>
-  </entry>
   <entry>
     <id>t3_1p020ej</id>
     <title>Coach</title>
@@ -45,6 +32,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ozfkon/kiếp_nạn_kiếm_job_intern_khi_là_sinh_viên_năm_2/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-17T12:57:42+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ozdm2d</id>
+    <title>Work-life balance</title>
+    <updated>2025-11-17T11:14:07+00:00</updated>
+    <author>
+      <name>/u/71-noixdecoco</name>
+      <uri>https://old.reddit.com/user/71-noixdecoco</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các bạn có sự cân bằng giữa công việc và cuộc sống không? Mình đi làm 8 tiếng, hết giờ làm về tập thể dục thể thao, đọc sách, học thêm một cái gì đó. Hôm nào công việc “cản trở” mình về đi tập thì mình khá khó chịu, kiểu đã quen với việc vận động hằng ngày, tự dưng một ngày không thực hiện được vì lý do không mong muốn thì ảnh hưởng đến tâm trạng.&lt;/p&gt; &lt;p&gt;Mình muốn hỏi thêm, các bạn làm việc trễ, thì cân bằng cuộc sống như thế nào? (Đối với mình, việc tập thể dục quá trễ ảnh hưởng đến giấc ngủ nên mình không tập trễ).&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/71-noixdecoco"&gt; /u/71-noixdecoco &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ozdm2d/worklife_balance/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ozdm2d/worklife_balance/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ozdm2d/worklife_balance/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-17T11:14:07+00:00</published>
   </entry>
   <entry>
     <id>t3_1ozxz36</id>
@@ -136,19 +136,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ozpf7i/xin_hỏi_về_ổ_cắm_thông_minh/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-17T19:16:23+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1p02noj</id>
-    <title>học bằng Lái xe và Mù màu - có ae nào gặp vấn đề này chưa</title>
-    <updated>2025-11-18T04:32:47+00:00</updated>
-    <author>
-      <name>/u/BestCarpenter327</name>
-      <uri>https://old.reddit.com/user/BestCarpenter327</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Người mù màu &lt;strong&gt;không được học và thi bằng lái xe&lt;/strong&gt; nếu họ rối loạn nhận biết cả ba màu cơ bản là đỏ, vàng, xanh lá cây. Tuy nhiên, nếu chỉ bị mù màu một phần (ví dụ khó phân biệt đỏ-xanh), họ có thể đủ điều kiện thi bằng lái xe máy, nhưng có thể bị hạn chế với bằng lái ô tô. &lt;/p&gt; &lt;p&gt;Điều kiện chi tiết&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Không đủ điều kiện thi:&lt;/strong&gt; Người bị rối loạn nhận biết cả ba màu đỏ, vàng, xanh lá cây sẽ không được phép thi cấp bằng lái xe ở tất cả các hạng.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Có thể đủ điều kiện thi (với một số hạn chế):&lt;/strong&gt; Người chỉ bị mù màu một phần (ví dụ khó phân biệt đỏ và xanh) vẫn có thể thi bằng lái xe máy (hạng A1, A2). Tuy nhiên, việc thi bằng lái xe ô tô có thể bị hạn chế, tùy thuộc vào kết luận của bác sĩ chuyên khoa sau khi khám sức khỏe và làm bài kiểm tra mù màu. &lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Lưu ý&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Khám sức khỏe bắt buộc:&lt;/strong&gt; Khi đăng ký học lái xe, bạn bắt buộc phải đi khám sức khỏe. Việc kiểm tra mù màu sẽ được thực hiện trong quá trình này để đánh giá mức độ đủ điều kiện lái xe của bạn.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Mức độ ảnh hưởng:&lt;/strong&gt; Việc có được thi hay không phụ thuộc vào mức độ rối loạn nhận biết màu sắc.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Không có quy định mới thay đổi:&lt;/strong&gt; Quy định này được áp dụng theo các Thông tư hiện hành. Dự kiến, Thông tư 36/2024/TT-BYT sẽ có hiệu lực từ năm 2025, củng cố quy định này. &lt;/li&gt; &lt;/ul&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/BestCarpenter327"&gt; /u/BestCarpenter327 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p02noj/học_bằng_lái_xe_và_mù_màu_có_ae_nào_gặp_vấn_đề/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p02noj/học_bằng_lái_xe_và_mù_màu_có_ae_nào_gặp_vấn_đề/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p02noj/học_bằng_lái_xe_và_mù_màu_có_ae_nào_gặp_vấn_đề/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-18T04:32:47+00:00</published>
   </entry>
   <entry>
     <id>t3_1ozsehb</id>
@@ -268,6 +255,19 @@
     <published>2025-11-18T04:21:36+00:00</published>
   </entry>
   <entry>
+    <id>t3_1p02noj</id>
+    <title>học bằng Lái xe và Mù màu - có ae nào gặp vấn đề này chưa</title>
+    <updated>2025-11-18T04:32:47+00:00</updated>
+    <author>
+      <name>/u/BestCarpenter327</name>
+      <uri>https://old.reddit.com/user/BestCarpenter327</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Người mù màu &lt;strong&gt;không được học và thi bằng lái xe&lt;/strong&gt; nếu họ rối loạn nhận biết cả ba màu cơ bản là đỏ, vàng, xanh lá cây. Tuy nhiên, nếu chỉ bị mù màu một phần (ví dụ khó phân biệt đỏ-xanh), họ có thể đủ điều kiện thi bằng lái xe máy, nhưng có thể bị hạn chế với bằng lái ô tô. &lt;/p&gt; &lt;p&gt;Điều kiện chi tiết&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Không đủ điều kiện thi:&lt;/strong&gt; Người bị rối loạn nhận biết cả ba màu đỏ, vàng, xanh lá cây sẽ không được phép thi cấp bằng lái xe ở tất cả các hạng.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Có thể đủ điều kiện thi (với một số hạn chế):&lt;/strong&gt; Người chỉ bị mù màu một phần (ví dụ khó phân biệt đỏ và xanh) vẫn có thể thi bằng lái xe máy (hạng A1, A2). Tuy nhiên, việc thi bằng lái xe ô tô có thể bị hạn chế, tùy thuộc vào kết luận của bác sĩ chuyên khoa sau khi khám sức khỏe và làm bài kiểm tra mù màu. &lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Lưu ý&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Khám sức khỏe bắt buộc:&lt;/strong&gt; Khi đăng ký học lái xe, bạn bắt buộc phải đi khám sức khỏe. Việc kiểm tra mù màu sẽ được thực hiện trong quá trình này để đánh giá mức độ đủ điều kiện lái xe của bạn.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Mức độ ảnh hưởng:&lt;/strong&gt; Việc có được thi hay không phụ thuộc vào mức độ rối loạn nhận biết màu sắc.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Không có quy định mới thay đổi:&lt;/strong&gt; Quy định này được áp dụng theo các Thông tư hiện hành. Dự kiến, Thông tư 36/2024/TT-BYT sẽ có hiệu lực từ năm 2025, củng cố quy định này. &lt;/li&gt; &lt;/ul&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/BestCarpenter327"&gt; /u/BestCarpenter327 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p02noj/học_bằng_lái_xe_và_mù_màu_có_ae_nào_gặp_vấn_đề/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p02noj/học_bằng_lái_xe_và_mù_màu_có_ae_nào_gặp_vấn_đề/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p02noj/học_bằng_lái_xe_và_mù_màu_có_ae_nào_gặp_vấn_đề/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-18T04:32:47+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1p02kku</id>
     <title>Giá trị xe Dream cổ</title>
     <updated>2025-11-18T04:28:12+00:00</updated>
@@ -294,19 +294,6 @@
     <published>2025-11-17T10:17:37+00:00</published>
   </entry>
   <entry>
-    <id>t3_1p03stb</id>
-    <title>Xin kinh nghiệm</title>
-    <updated>2025-11-18T05:34:04+00:00</updated>
-    <author>
-      <name>/u/bee_ptl03</name>
-      <uri>https://old.reddit.com/user/bee_ptl03</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình muốn tập gym nhưng không biết bắt đầu như nào, mình cũng chưa đủ khả năng thuê PT, xem trên mạng có quá nhiều thông tin. Mọi người có kinh nghiệm có thể cho mình xin: - Trước khi tập nên khởi động như nào - Chia các buổi tập như nào - Làm sao để cảm nhận cơ, và biết mình có tập đúng hay không&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/bee_ptl03"&gt; /u/bee_ptl03 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p03stb/xin_kinh_nghiệm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p03stb/xin_kinh_nghiệm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p03stb/xin_kinh_nghiệm/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-18T05:34:04+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1ozvwip</id>
     <title>Thức khuya</title>
     <updated>2025-11-17T23:23:33+00:00</updated>
@@ -318,6 +305,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ozvwip/thức_khuya/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-17T23:23:33+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1p03stb</id>
+    <title>Xin kinh nghiệm</title>
+    <updated>2025-11-18T05:34:04+00:00</updated>
+    <author>
+      <name>/u/bee_ptl03</name>
+      <uri>https://old.reddit.com/user/bee_ptl03</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình muốn tập gym nhưng không biết bắt đầu như nào, mình cũng chưa đủ khả năng thuê PT, xem trên mạng có quá nhiều thông tin. Mọi người có kinh nghiệm có thể cho mình xin: - Trước khi tập nên khởi động như nào - Chia các buổi tập như nào - Làm sao để cảm nhận cơ, và biết mình có tập đúng hay không&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/bee_ptl03"&gt; /u/bee_ptl03 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p03stb/xin_kinh_nghiệm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p03stb/xin_kinh_nghiệm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p03stb/xin_kinh_nghiệm/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-18T05:34:04+00:00</published>
   </entry>
   <entry>
     <id>t3_1p00s4w</id>
