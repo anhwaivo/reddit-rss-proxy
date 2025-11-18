@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-11-18T01:24:55+00:00</updated>
+  <updated>2025-11-18T02:55:40+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -34,19 +34,6 @@
     <published>2025-11-17T07:08:56+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ozawqa</id>
-    <title>Học sửa chữa điện thoại</title>
-    <updated>2025-11-17T08:21:44+00:00</updated>
-    <author>
-      <name>/u/South-Lake-4038</name>
-      <uri>https://old.reddit.com/user/South-Lake-4038</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình ở TPHCM đang mong muốn tìm kiếm các trung tâm đào tạo sửa chữa điện thoại&lt;br /&gt; Hỏi thăm các anh/chi đã và đang làm việc liên quan đến sửa chữa điện thoại&lt;br /&gt; + Nơi có thể học từ phần cứng tới phần mềm&lt;br /&gt; + Trong vòng 6 tháng ( mỗi tuần 2 buổi ) có thể ra làm được không ?&lt;br /&gt; =&amp;gt; trong trường hợp tiếp thu nhanh và chịu khó&lt;br /&gt; + Ngữ cảnh đang làm coder quèn &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/South-Lake-4038"&gt; /u/South-Lake-4038 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ozawqa/học_sửa_chữa_điện_thoại/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ozawqa/học_sửa_chữa_điện_thoại/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ozawqa/học_sửa_chữa_điện_thoại/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-17T08:21:44+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1ozkv2o</id>
     <title>Đi học quân sự</title>
     <updated>2025-11-17T16:30:31+00:00</updated>
@@ -73,6 +60,19 @@
     <published>2025-11-17T09:14:18+00:00</published>
   </entry>
   <entry>
+    <id>t3_1ozawqa</id>
+    <title>Học sửa chữa điện thoại</title>
+    <updated>2025-11-17T08:21:44+00:00</updated>
+    <author>
+      <name>/u/South-Lake-4038</name>
+      <uri>https://old.reddit.com/user/South-Lake-4038</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình ở TPHCM đang mong muốn tìm kiếm các trung tâm đào tạo sửa chữa điện thoại&lt;br /&gt; Hỏi thăm các anh/chi đã và đang làm việc liên quan đến sửa chữa điện thoại&lt;br /&gt; + Nơi có thể học từ phần cứng tới phần mềm&lt;br /&gt; + Trong vòng 6 tháng ( mỗi tuần 2 buổi ) có thể ra làm được không ?&lt;br /&gt; =&amp;gt; trong trường hợp tiếp thu nhanh và chịu khó&lt;br /&gt; + Ngữ cảnh đang làm coder quèn &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/South-Lake-4038"&gt; /u/South-Lake-4038 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ozawqa/học_sửa_chữa_điện_thoại/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ozawqa/học_sửa_chữa_điện_thoại/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ozawqa/học_sửa_chữa_điện_thoại/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-17T08:21:44+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1oz433f</id>
     <title>Giáo viên tiếng Nhật ở Sài Gòn</title>
     <updated>2025-11-17T02:07:12+00:00</updated>
@@ -84,58 +84,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1oz433f/giáo_viên_tiếng_nhật_ở_sài_gòn/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-17T02:07:12+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1oze189</id>
-    <title>Em định học ngành khác sau khi học hết ngành em học tại cao đẳng.</title>
-    <updated>2025-11-17T11:38:41+00:00</updated>
-    <author>
-      <name>/u/LoDai-Thanh-2005</name>
-      <uri>https://old.reddit.com/user/LoDai-Thanh-2005</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác, em hiện tại 20 tuổi, sang năm tháng 2 là em 21 tuổi. Em đang là sinh viên gần kỳ cuối của cao đẳng, em đang học ngành CNKT cơ khí tại Cao đẳng FPT. Đến tháng 5 (nếu không có gì thay đổi) thì em mới tốt nghiệp. Sau hai năm em học ở đây, em nhận ra là mình học không hợp ngành này và mấy ngành kỹ thuật khác. Em nhận ra là em ban đầu em thích học mấy môn xã hội. &lt;/p&gt; &lt;p&gt;Cái năm 18 tuổi, tuy điểm không đủ vào mấy môn xã hội ở các trường đại học ở Hà Nội, nhưng đủ điểm để học mấy ngành xã hội ở trường trong tỉnh. Em lúc đó cũng hay tự ti, không tự tin vào bản thân mình, thay vì thi lại hoặc chấp nhận học trường đại học ở trong tỉnh thì em dự định sẽ đi làm thuê. Gia đình phản đối và bảo em phải đi học tiếp, lúc đó em cũng khá mông lung vì không biết chọn ngành gì. Lúc đó có lướt mạng thì em có xem qua cái quảng cáo trường Cao đẳng FPT Polytechnic. Em lúc đó cũng chả biết lựa chọn ngành học gì và cũng không tìm hiểu kỹ nghề cộng thêm cái quảng cáo ý khiến em bị lùa gà mà vào đăng ký luôn. Em chọn đại ngành cntt ở trường này mà không suy nghĩ kĩ và không hỏi những người học đã từng học ngành này. Khi em xuống học. Em ban đầu khá thích thú, nhưng sang tuần thứ hai thì bài càng khó. Em lúc đó vẫn còn cái gì đó là thiếu tự tin và không dám hỏi, thế là sang tuần tiếp theo em dường như không còn động lực học nữa. Sau khi kết thúc môn học, em chuyển sang học ngành khác là CNKT cơ khí. Ban đầu em cứ nghĩ là học ở đây sẽ nhàn hơn vì lúc đó em vẫn tin là trường sẽ ít lý thuyết và chỉ thực hành và chỉ học cách dùng máy thôi. Đến khi em chuyển ngành học thì em mới nhận ra là ngành học ở đây thì ít người theo, máy móc phục vụ thì hạn chế. Đã thế vì ít người nên em phải đợi từ tháng 1 năm 2024 (kỳ thứ 2) cho đến tháng 6 năm 2024 thì em mới được học. Em cứ nghĩ mọi thứ vẫn ổn nhưng không. Và em cứ thế tiếp tục học, học một cách nhàm chán, không có động lực gì, dù vẫn học ổn, chưa nợ môn và thầy cô có chấm vất vát cho qua môn nhưng em thì không thấy thoải mái khi học cả. Rồi thời gian cứ thế trôi qua cho đến hiện tại.&lt;/p&gt; &lt;p&gt;Em dự định học xong em sẽ học ngành khác, em cũng có xem qua các trường đại học khác ở Hà Nội và cũng như mấy cái như học văn bằng hai, liên thông trái ngành hoặc thi HSA ( đánh giá năng lực)... &lt;/p&gt; &lt;p&gt;Các bác nào đã từng học qua học lên đại học qua hình thức như văn bằng hai, liên thông trái ngành hoặc thi lại .v.v. rồi thì cho em review về mấy hình thức học lên đại học kiểu này. Hoặc có lời khuyên gì khác không ạ. Em dự định học ngành như ngôn ngữ anh, sư phạm. &lt;/p&gt; &lt;p&gt;Cảm ơn đã đọc&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/LoDai-Thanh-2005"&gt; /u/LoDai-Thanh-2005 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oze189/em_định_học_ngành_khác_sau_khi_học_hết_ngành_em/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oze189/em_định_học_ngành_khác_sau_khi_học_hết_ngành_em/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1oze189/em_định_học_ngành_khác_sau_khi_học_hết_ngành_em/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-17T11:38:41+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1ozbgy0</id>
-    <title>Nghề nạp game kiếm tiền bằng cách nào</title>
-    <updated>2025-11-17T08:59:42+00:00</updated>
-    <author>
-      <name>/u/AdditionNice1928</name>
-      <uri>https://old.reddit.com/user/AdditionNice1928</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em thấy mấy ông có dịch vụ nạp game rẻ hơn từ 10% đổ lên thì người ta làm cách để nạp rẻ vậy nhỉ. Em tìm hiểu có cả vụ nạp lậu bằng thẻ ăn cắp trên chợ đen online. Các bác biết về mấy cái này kể e nghe với&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/AdditionNice1928"&gt; /u/AdditionNice1928 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ozbgy0/nghề_nạp_game_kiếm_tiền_bằng_cách_nào/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ozbgy0/nghề_nạp_game_kiếm_tiền_bằng_cách_nào/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ozbgy0/nghề_nạp_game_kiếm_tiền_bằng_cách_nào/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-17T08:59:42+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1ozlejj</id>
-    <title>Nhu cầu bản thân</title>
-    <updated>2025-11-17T16:50:35+00:00</updated>
-    <author>
-      <name>/u/ConfusionNo6401</name>
-      <uri>https://old.reddit.com/user/ConfusionNo6401</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình là nam, sau khi đi tập gym/đi thể thao, mình thường có nhu cầu cao và phải thoả mãi nhu cầu của mình ít nhất 1 tuần 1 lần. Điều này có bình thường ko???&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ConfusionNo6401"&gt; /u/ConfusionNo6401 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ozlejj/nhu_cầu_bản_thân/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ozlejj/nhu_cầu_bản_thân/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ozlejj/nhu_cầu_bản_thân/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-17T16:50:35+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1ozdm2d</id>
-    <title>Work-life balance</title>
-    <updated>2025-11-17T11:14:07+00:00</updated>
-    <author>
-      <name>/u/71-noixdecoco</name>
-      <uri>https://old.reddit.com/user/71-noixdecoco</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các bạn có sự cân bằng giữa công việc và cuộc sống không? Mình đi làm 8 tiếng, hết giờ làm về tập thể dục thể thao, đọc sách, học thêm một cái gì đó. Hôm nào công việc “cản trở” mình về đi tập thì mình khá khó chịu, kiểu đã quen với việc vận động hằng ngày, tự dưng một ngày không thực hiện được vì lý do không mong muốn thì ảnh hưởng đến tâm trạng.&lt;/p&gt; &lt;p&gt;Mình muốn hỏi thêm, các bạn làm việc trễ, thì cân bằng cuộc sống như thế nào? (Đối với mình, việc tập thể dục quá trễ ảnh hưởng đến giấc ngủ nên mình không tập trễ).&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/71-noixdecoco"&gt; /u/71-noixdecoco &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ozdm2d/worklife_balance/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ozdm2d/worklife_balance/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ozdm2d/worklife_balance/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-17T11:14:07+00:00</published>
   </entry>
   <entry>
     <id>t3_1ozvf8i</id>
@@ -151,6 +99,45 @@
     <published>2025-11-17T23:03:59+00:00</published>
   </entry>
   <entry>
+    <id>t3_1ozbgy0</id>
+    <title>Nghề nạp game kiếm tiền bằng cách nào</title>
+    <updated>2025-11-17T08:59:42+00:00</updated>
+    <author>
+      <name>/u/AdditionNice1928</name>
+      <uri>https://old.reddit.com/user/AdditionNice1928</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em thấy mấy ông có dịch vụ nạp game rẻ hơn từ 10% đổ lên thì người ta làm cách để nạp rẻ vậy nhỉ. Em tìm hiểu có cả vụ nạp lậu bằng thẻ ăn cắp trên chợ đen online. Các bác biết về mấy cái này kể e nghe với&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/AdditionNice1928"&gt; /u/AdditionNice1928 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ozbgy0/nghề_nạp_game_kiếm_tiền_bằng_cách_nào/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ozbgy0/nghề_nạp_game_kiếm_tiền_bằng_cách_nào/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ozbgy0/nghề_nạp_game_kiếm_tiền_bằng_cách_nào/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-17T08:59:42+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1oze189</id>
+    <title>Em định học ngành khác sau khi học hết ngành em học tại cao đẳng.</title>
+    <updated>2025-11-17T11:38:41+00:00</updated>
+    <author>
+      <name>/u/LoDai-Thanh-2005</name>
+      <uri>https://old.reddit.com/user/LoDai-Thanh-2005</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác, em hiện tại 20 tuổi, sang năm tháng 2 là em 21 tuổi. Em đang là sinh viên gần kỳ cuối của cao đẳng, em đang học ngành CNKT cơ khí tại Cao đẳng FPT. Đến tháng 5 (nếu không có gì thay đổi) thì em mới tốt nghiệp. Sau hai năm em học ở đây, em nhận ra là mình học không hợp ngành này và mấy ngành kỹ thuật khác. Em nhận ra là em ban đầu em thích học mấy môn xã hội. &lt;/p&gt; &lt;p&gt;Cái năm 18 tuổi, tuy điểm không đủ vào mấy môn xã hội ở các trường đại học ở Hà Nội, nhưng đủ điểm để học mấy ngành xã hội ở trường trong tỉnh. Em lúc đó cũng hay tự ti, không tự tin vào bản thân mình, thay vì thi lại hoặc chấp nhận học trường đại học ở trong tỉnh thì em dự định sẽ đi làm thuê. Gia đình phản đối và bảo em phải đi học tiếp, lúc đó em cũng khá mông lung vì không biết chọn ngành gì. Lúc đó có lướt mạng thì em có xem qua cái quảng cáo trường Cao đẳng FPT Polytechnic. Em lúc đó cũng chả biết lựa chọn ngành học gì và cũng không tìm hiểu kỹ nghề cộng thêm cái quảng cáo ý khiến em bị lùa gà mà vào đăng ký luôn. Em chọn đại ngành cntt ở trường này mà không suy nghĩ kĩ và không hỏi những người học đã từng học ngành này. Khi em xuống học. Em ban đầu khá thích thú, nhưng sang tuần thứ hai thì bài càng khó. Em lúc đó vẫn còn cái gì đó là thiếu tự tin và không dám hỏi, thế là sang tuần tiếp theo em dường như không còn động lực học nữa. Sau khi kết thúc môn học, em chuyển sang học ngành khác là CNKT cơ khí. Ban đầu em cứ nghĩ là học ở đây sẽ nhàn hơn vì lúc đó em vẫn tin là trường sẽ ít lý thuyết và chỉ thực hành và chỉ học cách dùng máy thôi. Đến khi em chuyển ngành học thì em mới nhận ra là ngành học ở đây thì ít người theo, máy móc phục vụ thì hạn chế. Đã thế vì ít người nên em phải đợi từ tháng 1 năm 2024 (kỳ thứ 2) cho đến tháng 6 năm 2024 thì em mới được học. Em cứ nghĩ mọi thứ vẫn ổn nhưng không. Và em cứ thế tiếp tục học, học một cách nhàm chán, không có động lực gì, dù vẫn học ổn, chưa nợ môn và thầy cô có chấm vất vát cho qua môn nhưng em thì không thấy thoải mái khi học cả. Rồi thời gian cứ thế trôi qua cho đến hiện tại.&lt;/p&gt; &lt;p&gt;Em dự định học xong em sẽ học ngành khác, em cũng có xem qua các trường đại học khác ở Hà Nội và cũng như mấy cái như học văn bằng hai, liên thông trái ngành hoặc thi HSA ( đánh giá năng lực)... &lt;/p&gt; &lt;p&gt;Các bác nào đã từng học qua học lên đại học qua hình thức như văn bằng hai, liên thông trái ngành hoặc thi lại .v.v. rồi thì cho em review về mấy hình thức học lên đại học kiểu này. Hoặc có lời khuyên gì khác không ạ. Em dự định học ngành như ngôn ngữ anh, sư phạm. &lt;/p&gt; &lt;p&gt;Cảm ơn đã đọc&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/LoDai-Thanh-2005"&gt; /u/LoDai-Thanh-2005 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oze189/em_định_học_ngành_khác_sau_khi_học_hết_ngành_em/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oze189/em_định_học_ngành_khác_sau_khi_học_hết_ngành_em/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1oze189/em_định_học_ngành_khác_sau_khi_học_hết_ngành_em/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-17T11:38:41+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ozdm2d</id>
+    <title>Work-life balance</title>
+    <updated>2025-11-17T11:14:07+00:00</updated>
+    <author>
+      <name>/u/71-noixdecoco</name>
+      <uri>https://old.reddit.com/user/71-noixdecoco</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các bạn có sự cân bằng giữa công việc và cuộc sống không? Mình đi làm 8 tiếng, hết giờ làm về tập thể dục thể thao, đọc sách, học thêm một cái gì đó. Hôm nào công việc “cản trở” mình về đi tập thì mình khá khó chịu, kiểu đã quen với việc vận động hằng ngày, tự dưng một ngày không thực hiện được vì lý do không mong muốn thì ảnh hưởng đến tâm trạng.&lt;/p&gt; &lt;p&gt;Mình muốn hỏi thêm, các bạn làm việc trễ, thì cân bằng cuộc sống như thế nào? (Đối với mình, việc tập thể dục quá trễ ảnh hưởng đến giấc ngủ nên mình không tập trễ).&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/71-noixdecoco"&gt; /u/71-noixdecoco &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ozdm2d/worklife_balance/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ozdm2d/worklife_balance/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ozdm2d/worklife_balance/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-17T11:14:07+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1ozvxau</id>
     <title>Cờ tướng</title>
     <updated>2025-11-17T23:24:27+00:00</updated>
@@ -162,6 +149,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ozvxau/cờ_tướng/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-17T23:24:27+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ozkyip</id>
+    <title>Chuyện nvqs</title>
+    <updated>2025-11-17T16:34:04+00:00</updated>
+    <author>
+      <name>/u/Kooky_Chest_3810</name>
+      <uri>https://old.reddit.com/user/Kooky_Chest_3810</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tình hình là tôi đã bị gọi đi khám nvqs nhưng vấn đề là tôi k muốn đi vì đã học xong chương trình đại học thấy nếu đi lính cũng phí vì tôi hiện đang làm ngoài rồi khá oke, giờ cũng khá khó chạy tiền nó dồn tôi đến 1 suy nghĩ là làm giấy tờ giả làm sv trường mình đã học tôi vừa ra trường 1 năm Nên tôi lên đây hỏi xem làm như vậy có dễ bị phát hiện hay nếu có thì mình sẽ bị phạt gì không hay có ai đã làm rồi không&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Kooky_Chest_3810"&gt; /u/Kooky_Chest_3810 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ozkyip/chuyện_nvqs/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ozkyip/chuyện_nvqs/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ozkyip/chuyện_nvqs/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-17T16:34:04+00:00</published>
   </entry>
   <entry>
     <id>t3_1ozfkon</id>
@@ -177,17 +177,17 @@
     <published>2025-11-17T12:57:42+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ozkyip</id>
-    <title>Chuyện nvqs</title>
-    <updated>2025-11-17T16:34:04+00:00</updated>
+    <id>t3_1ozlejj</id>
+    <title>Nhu cầu bản thân</title>
+    <updated>2025-11-17T16:50:35+00:00</updated>
     <author>
-      <name>/u/Kooky_Chest_3810</name>
-      <uri>https://old.reddit.com/user/Kooky_Chest_3810</uri>
+      <name>/u/ConfusionNo6401</name>
+      <uri>https://old.reddit.com/user/ConfusionNo6401</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tình hình là tôi đã bị gọi đi khám nvqs nhưng vấn đề là tôi k muốn đi vì đã học xong chương trình đại học thấy nếu đi lính cũng phí vì tôi hiện đang làm ngoài rồi khá oke, giờ cũng khá khó chạy tiền nó dồn tôi đến 1 suy nghĩ là làm giấy tờ giả làm sv trường mình đã học tôi vừa ra trường 1 năm Nên tôi lên đây hỏi xem làm như vậy có dễ bị phát hiện hay nếu có thì mình sẽ bị phạt gì không hay có ai đã làm rồi không&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Kooky_Chest_3810"&gt; /u/Kooky_Chest_3810 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ozkyip/chuyện_nvqs/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ozkyip/chuyện_nvqs/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ozkyip/chuyện_nvqs/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình là nam, sau khi đi tập gym/đi thể thao, mình thường có nhu cầu cao và phải thoả mãi nhu cầu của mình ít nhất 1 tuần 1 lần. Điều này có bình thường ko???&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ConfusionNo6401"&gt; /u/ConfusionNo6401 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ozlejj/nhu_cầu_bản_thân/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ozlejj/nhu_cầu_bản_thân/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ozlejj/nhu_cầu_bản_thân/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-17T16:34:04+00:00</published>
+    <published>2025-11-17T16:50:35+00:00</published>
   </entry>
   <entry>
     <id>t3_1ozxz36</id>
@@ -242,17 +242,17 @@
     <published>2025-11-17T15:58:42+00:00</published>
   </entry>
   <entry>
-    <id>t3_1oz67vi</id>
-    <title>Biết thế không theo ngành IT</title>
-    <updated>2025-11-17T03:49:28+00:00</updated>
+    <id>t3_1ozzj40</id>
+    <title>Chỉnh tư thế ngủ</title>
+    <updated>2025-11-18T02:03:12+00:00</updated>
     <author>
-      <name>/u/Alone-Breadfruit-994</name>
-      <uri>https://old.reddit.com/user/Alone-Breadfruit-994</uri>
+      <name>/u/Rollin_in_oldstuff</name>
+      <uri>https://old.reddit.com/user/Rollin_in_oldstuff</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình 24 tuổi, đang làm dev php quèn. Đi làm được 8 tháng (2 tháng thực tập) ở công ty outsource. Hiện tại mức lương 7 triệu. Trình đồ kỹ năng làng nhàng, làm việc toàn dùng AI code. Tiếng anh thì không biết. AI thì càng ngày càng phát triển, không biết tương lai như nào.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Alone-Breadfruit-994"&gt; /u/Alone-Breadfruit-994 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oz67vi/biết_thế_không_theo_ngành_it/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1oz67vi/biết_thế_không_theo_ngành_it/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1oz67vi/biết_thế_không_theo_ngành_it/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người ạ! Như tiêu đề trên thì em muốn xin mn cách để sửa tư thế ngủ. Em có tư thế ngủ khá xấu, thường là cứ khi nào xoay người nằm nghiêng sang một bên thì em cũng sẽ cúi gập đầu sâu xuống luôn, kiểu người cong như con tôm ấy. Em có cố nằm ngay ngắn thế nào khi ngủ thì sáng ra cũng về như cũ. Cứ tiếp tục em sợ mình sẽ bị gù mất vì ban ngày em phải ngồi máy tính cũng nhiều. Trước đây còn không sao nên em cũng không để ý nhưng dạo gần đây cứ ngủ dậy là em bị căng cơ ngực, ngửa đầu lên ngực sẽ hơi đau chút, phải tầm 5-10' mới hết nên em cũng lo. Anh chị em nào biết thì chỉ em với ạ, em cảm ơn!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Rollin_in_oldstuff"&gt; /u/Rollin_in_oldstuff &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ozzj40/chỉnh_tư_thế_ngủ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ozzj40/chỉnh_tư_thế_ngủ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ozzj40/chỉnh_tư_thế_ngủ/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-17T03:49:28+00:00</published>
+    <published>2025-11-18T02:03:12+00:00</published>
   </entry>
   <entry>
     <id>t3_1ozsehb</id>
