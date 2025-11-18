@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-11-18T07:50:13+00:00</updated>
+  <updated>2025-11-18T08:25:56+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -99,19 +99,6 @@
     <published>2025-11-17T15:58:42+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ozggap</id>
-    <title>Tầm này IT theo fullstack thì có cần phải đá thêm cả AI không nhỉ?</title>
-    <updated>2025-11-17T13:36:05+00:00</updated>
-    <author>
-      <name>/u/Alone-Breadfruit-994</name>
-      <uri>https://old.reddit.com/user/Alone-Breadfruit-994</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tầm này làm fullstack web thì có cần phải đá thêm qua AI không các bác? học nhiều mà tiền chả bao nhiêu&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Alone-Breadfruit-994"&gt; /u/Alone-Breadfruit-994 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ozggap/tầm_này_it_theo_fullstack_thì_có_cần_phải_đá_thêm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ozggap/tầm_này_it_theo_fullstack_thì_có_cần_phải_đá_thêm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ozggap/tầm_này_it_theo_fullstack_thì_có_cần_phải_đá_thêm/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-17T13:36:05+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1ozpf7i</id>
     <title>Xin hỏi về ổ cắm thông minh</title>
     <updated>2025-11-17T19:16:23+00:00</updated>
@@ -123,6 +110,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ozpf7i/xin_hỏi_về_ổ_cắm_thông_minh/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-17T19:16:23+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ozggap</id>
+    <title>Tầm này IT theo fullstack thì có cần phải đá thêm cả AI không nhỉ?</title>
+    <updated>2025-11-17T13:36:05+00:00</updated>
+    <author>
+      <name>/u/Alone-Breadfruit-994</name>
+      <uri>https://old.reddit.com/user/Alone-Breadfruit-994</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tầm này làm fullstack web thì có cần phải đá thêm qua AI không các bác? học nhiều mà tiền chả bao nhiêu&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Alone-Breadfruit-994"&gt; /u/Alone-Breadfruit-994 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ozggap/tầm_này_it_theo_fullstack_thì_có_cần_phải_đá_thêm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ozggap/tầm_này_it_theo_fullstack_thì_có_cần_phải_đá_thêm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ozggap/tầm_này_it_theo_fullstack_thì_có_cần_phải_đá_thêm/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-17T13:36:05+00:00</published>
   </entry>
   <entry>
     <id>t3_1p031w1</id>
