@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-11-19T17:18:20+00:00</updated>
+  <updated>2025-11-19T17:38:30+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1p0diof</id>
-    <title>Khi 1 lỗi lầm nhỏ tốn cty nhiều tiền</title>
-    <updated>2025-11-18T14:34:52+00:00</updated>
-    <author>
-      <name>/u/withaining</name>
-      <uri>https://old.reddit.com/user/withaining</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Sáng này vừa mở mắt ngủ dậy thì sếp nhắn tin mình vì hơn 10+ khách hàng phàn nàn rằng họ không trả tiền trên website được. Hoá ra là 1 line code mình viết làm hỏng tất cả checkout process. Mình stress quá mọi người ơi. Thường nếu mình phạm lỗi nhỏ nhỏ như là UI / UX thì không sao nhưng lần này làm cty mất tiền. Buồn quá. Mà mình ko phải là fresher. Đã có hơn 5 năm kinh nghiệm mà vẫn phạm những lỗi cơ bản và test code không chuẩn. Giờ sáng ko tập trung làm việc đc nữa. Nếu bạn đã tửng trải qua chuyện này thì chia sẻ với mình đi 😭 &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/withaining"&gt; /u/withaining &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p0diof/khi_1_lỗi_lầm_nhỏ_tốn_cty_nhiều_tiền/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p0diof/khi_1_lỗi_lầm_nhỏ_tốn_cty_nhiều_tiền/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p0diof/khi_1_lỗi_lầm_nhỏ_tốn_cty_nhiều_tiền/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-18T14:34:52+00:00</published>
-  </entry>
   <entry>
     <id>t3_1p19on1</id>
     <title>Vấn nạn độ xe (đèn) ở Việt Nam</title>
@@ -97,6 +84,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1p1d23f/đi_khám_nvqs_thị_lực_410_đo_khúc_xạ_1111_vẫn_bị/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-19T16:57:16+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1p1dtms</id>
+    <title>Mn cho em hỏi</title>
+    <updated>2025-11-19T17:25:08+00:00</updated>
+    <author>
+      <name>/u/Little-Baker-4143</name>
+      <uri>https://old.reddit.com/user/Little-Baker-4143</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em được tặng cái lắc vàng 18k, 33tr mua ở bảo tín minh châu. Mà ko có thích thì giờ có nên bán đi không ạ, hay nên để tích trữ ạ. Em cảm ơn mn ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Little-Baker-4143"&gt; /u/Little-Baker-4143 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p1dtms/mn_cho_em_hỏi/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p1dtms/mn_cho_em_hỏi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p1dtms/mn_cho_em_hỏi/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-19T17:25:08+00:00</published>
   </entry>
   <entry>
     <id>t3_1p15qsp</id>
@@ -255,19 +255,6 @@
     <published>2025-11-19T11:11:48+00:00</published>
   </entry>
   <entry>
-    <id>t3_1p136mr</id>
-    <title>Sếp đi giao hành</title>
-    <updated>2025-11-19T09:34:34+00:00</updated>
-    <author>
-      <name>/u/NickWildidc</name>
-      <uri>https://old.reddit.com/user/NickWildidc</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hôm nay Sếp lựa đơn gọn nhẹ gần xưởng đi giao để nghe ý kiến khách hàng.&lt;/p&gt; &lt;p&gt;Đơn hàng: 100 cái hộp gỗ có đèn LED để trang trí. Tổng giá trị trên dưới 10 triệu.&lt;/p&gt; &lt;p&gt;Tôi với Sếp tới nơi là cái chung cư, tìm được chỗ đậu con xe đã thấy hơi có mùi.&lt;/p&gt; &lt;p&gt;Khách hàng nói là mang lên căn hộ kiểm hàng luôn.&lt;/p&gt; &lt;p&gt;Muốn lên thì phải có thẻ mới lên thang được. Họ kêu là tới thang gọi điện lên rồi họ bấm, rồi mình vô thang, rồi thang sẽ lên tầng của họ. Hườm, Sếp à đợt này xui rồi.&lt;/p&gt; &lt;p&gt;Chờ mãi thang mới xuống, bước vô chờ mãi thang không lên, bấm gọi zalo cho khách thì ở trong thang sóng yếu, bước ra thì thang đóng cửa chạy lên. Lên thì khách gọi, ừ chờ tí ạ, lỗi tại em, em không quen giao hàng kiểu này, vâng ạ, anh thông cảm, dạ vâng ạ.&lt;/p&gt; &lt;p&gt;&amp;quot;Non thế! Chưa bao giờ đi thang máy à?&amp;quot; said khách.&lt;/p&gt; &lt;p&gt;Lên tới nơi thì không thấy ai, khách đã đi xuống rước 2 đứa ăn hại bọn tôi.&lt;/p&gt; &lt;p&gt;Cuối cùng chúng tôi cũng gặp nhau. Bước vào căn hộ thì thấy cả lô lốc máy ảnh. À họ mua hộp gỗ để đóng khung mấy cái máy Nhật bãi ve chai này.&lt;/p&gt; &lt;p&gt;“Em à! Mấy cái hộp này dính nước là hỏng ngay! Thiết kế quá kém!” said khách.&lt;/p&gt; &lt;p&gt;“Dạ vâng ạ, em xin ghi nhận.” said Sếp.&lt;/p&gt; &lt;p&gt;“Màu này nhìn kém thẩm mỹ! Anh bảo này, cuộc sống có những cái gọi là không lường trước được, màu thế này rồi nắng gió sơn tróc ra hết!” said khách.&lt;/p&gt; &lt;p&gt;Chết rồi Sếp ơi đợt này Sếp không kịp về ăn cơm trưa đâu. Tôi vừa nghĩ vừa nhìn ông Sếp.&lt;/p&gt; &lt;p&gt;Khách bốc điện thoại lên gọi 7749 người anh em, quay video call, có người anh em nọ nói là hộp kiểu này không đóng hàng chuyển phát nhanh được, lại có người anh em kia nói hộp này bé quá.&lt;/p&gt; &lt;p&gt;Gặp tôi là tôi đi về, nhưng Sếp đang muốn thể hiện cho tôi sự lì đòn hay còn gọi là kiên nhẫn.&lt;/p&gt; &lt;p&gt;À đó là chưa kể đến chuyện có người anh em nói rằng cái hộp này sẽ làm ảnh hưởng đến chống rung của máy ảnh, làm máy bị mốc. Tôi chịu, kiến thức quá chuyên sâu.&lt;/p&gt; &lt;p&gt;Bọn tôi hạ cánh chung cư lúc 9 giờ sáng, bước ra khỏi chung cư lúc 3 giờ kém buổi chiều. Khách với Sếp đã làm việc thông tầm, kết quả chúng tôi xách về xưởng gần 3 chục cái hộp không vừa với máy ảnh của khách, vẫn còn may chán vì hầu như chả cái nào vừa ý khách cả, khách lấy vì thương cảm ủng hộ thôi.&lt;/p&gt; &lt;p&gt;Buổi kiểm hàng diễn ra khá vui vẻ, có kha khá nhiều người anh em ở nước ngoài nước trong của khách gọi đến gọi đi, hầu như khách hàng là tệp khó tính. Kết thúc buổi sale đáng nhớ cùng Sếp, tôi cũng học được nhiều điều. Sếp thì ra đến xe đóng cửa lại sếp mới lên cơn, tôi lên cơn từ lúc đi thang máy rồi. Nể Sếp!&lt;/p&gt; &lt;p&gt; &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/NickWildidc"&gt; /u/NickWildidc &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p136mr/sếp_đi_giao_hành/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p136mr/sếp_đi_giao_hành/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p136mr/sếp_đi_giao_hành/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-19T09:34:34+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1p0jqwq</id>
     <title>Hcm đang bị cái quái j thế...?</title>
     <updated>2025-11-18T18:28:42+00:00</updated>
@@ -279,6 +266,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1p0jqwq/hcm_đang_bị_cái_quái_j_thế/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-18T18:28:42+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1p136mr</id>
+    <title>Sếp đi giao hành</title>
+    <updated>2025-11-19T09:34:34+00:00</updated>
+    <author>
+      <name>/u/NickWildidc</name>
+      <uri>https://old.reddit.com/user/NickWildidc</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hôm nay Sếp lựa đơn gọn nhẹ gần xưởng đi giao để nghe ý kiến khách hàng.&lt;/p&gt; &lt;p&gt;Đơn hàng: 100 cái hộp gỗ có đèn LED để trang trí. Tổng giá trị trên dưới 10 triệu.&lt;/p&gt; &lt;p&gt;Tôi với Sếp tới nơi là cái chung cư, tìm được chỗ đậu con xe đã thấy hơi có mùi.&lt;/p&gt; &lt;p&gt;Khách hàng nói là mang lên căn hộ kiểm hàng luôn.&lt;/p&gt; &lt;p&gt;Muốn lên thì phải có thẻ mới lên thang được. Họ kêu là tới thang gọi điện lên rồi họ bấm, rồi mình vô thang, rồi thang sẽ lên tầng của họ. Hườm, Sếp à đợt này xui rồi.&lt;/p&gt; &lt;p&gt;Chờ mãi thang mới xuống, bước vô chờ mãi thang không lên, bấm gọi zalo cho khách thì ở trong thang sóng yếu, bước ra thì thang đóng cửa chạy lên. Lên thì khách gọi, ừ chờ tí ạ, lỗi tại em, em không quen giao hàng kiểu này, vâng ạ, anh thông cảm, dạ vâng ạ.&lt;/p&gt; &lt;p&gt;&amp;quot;Non thế! Chưa bao giờ đi thang máy à?&amp;quot; said khách.&lt;/p&gt; &lt;p&gt;Lên tới nơi thì không thấy ai, khách đã đi xuống rước 2 đứa ăn hại bọn tôi.&lt;/p&gt; &lt;p&gt;Cuối cùng chúng tôi cũng gặp nhau. Bước vào căn hộ thì thấy cả lô lốc máy ảnh. À họ mua hộp gỗ để đóng khung mấy cái máy Nhật bãi ve chai này.&lt;/p&gt; &lt;p&gt;“Em à! Mấy cái hộp này dính nước là hỏng ngay! Thiết kế quá kém!” said khách.&lt;/p&gt; &lt;p&gt;“Dạ vâng ạ, em xin ghi nhận.” said Sếp.&lt;/p&gt; &lt;p&gt;“Màu này nhìn kém thẩm mỹ! Anh bảo này, cuộc sống có những cái gọi là không lường trước được, màu thế này rồi nắng gió sơn tróc ra hết!” said khách.&lt;/p&gt; &lt;p&gt;Chết rồi Sếp ơi đợt này Sếp không kịp về ăn cơm trưa đâu. Tôi vừa nghĩ vừa nhìn ông Sếp.&lt;/p&gt; &lt;p&gt;Khách bốc điện thoại lên gọi 7749 người anh em, quay video call, có người anh em nọ nói là hộp kiểu này không đóng hàng chuyển phát nhanh được, lại có người anh em kia nói hộp này bé quá.&lt;/p&gt; &lt;p&gt;Gặp tôi là tôi đi về, nhưng Sếp đang muốn thể hiện cho tôi sự lì đòn hay còn gọi là kiên nhẫn.&lt;/p&gt; &lt;p&gt;À đó là chưa kể đến chuyện có người anh em nói rằng cái hộp này sẽ làm ảnh hưởng đến chống rung của máy ảnh, làm máy bị mốc. Tôi chịu, kiến thức quá chuyên sâu.&lt;/p&gt; &lt;p&gt;Bọn tôi hạ cánh chung cư lúc 9 giờ sáng, bước ra khỏi chung cư lúc 3 giờ kém buổi chiều. Khách với Sếp đã làm việc thông tầm, kết quả chúng tôi xách về xưởng gần 3 chục cái hộp không vừa với máy ảnh của khách, vẫn còn may chán vì hầu như chả cái nào vừa ý khách cả, khách lấy vì thương cảm ủng hộ thôi.&lt;/p&gt; &lt;p&gt;Buổi kiểm hàng diễn ra khá vui vẻ, có kha khá nhiều người anh em ở nước ngoài nước trong của khách gọi đến gọi đi, hầu như khách hàng là tệp khó tính. Kết thúc buổi sale đáng nhớ cùng Sếp, tôi cũng học được nhiều điều. Sếp thì ra đến xe đóng cửa lại sếp mới lên cơn, tôi lên cơn từ lúc đi thang máy rồi. Nể Sếp!&lt;/p&gt; &lt;p&gt; &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/NickWildidc"&gt; /u/NickWildidc &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p136mr/sếp_đi_giao_hành/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p136mr/sếp_đi_giao_hành/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p136mr/sếp_đi_giao_hành/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-19T09:34:34+00:00</published>
   </entry>
   <entry>
     <id>t3_1p10wt7</id>
