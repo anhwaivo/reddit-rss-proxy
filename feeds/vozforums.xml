@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-11-19T11:16:37+00:00</updated>
+  <updated>2025-11-19T11:37:55+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -177,19 +177,6 @@
     <published>2025-11-19T10:01:40+00:00</published>
   </entry>
   <entry>
-    <id>t3_1p0diof</id>
-    <title>Khi 1 lỗi lầm nhỏ tốn cty nhiều tiền</title>
-    <updated>2025-11-18T14:34:52+00:00</updated>
-    <author>
-      <name>/u/withaining</name>
-      <uri>https://old.reddit.com/user/withaining</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Sáng này vừa mở mắt ngủ dậy thì sếp nhắn tin mình vì hơn 10+ khách hàng phàn nàn rằng họ không trả tiền trên website được. Hoá ra là 1 line code mình viết làm hỏng tất cả checkout process. Mình stress quá mọi người ơi. Thường nếu mình phạm lỗi nhỏ nhỏ như là UI / UX thì không sao nhưng lần này làm cty mất tiền. Buồn quá. Mà mình ko phải là fresher. Đã có hơn 5 năm kinh nghiệm mà vẫn phạm những lỗi cơ bản và test code không chuẩn. Giờ sáng ko tập trung làm việc đc nữa. Nếu bạn đã tửng trải qua chuyện này thì chia sẻ với mình đi 😭 &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/withaining"&gt; /u/withaining &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p0diof/khi_1_lỗi_lầm_nhỏ_tốn_cty_nhiều_tiền/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p0diof/khi_1_lỗi_lầm_nhỏ_tốn_cty_nhiều_tiền/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p0diof/khi_1_lỗi_lầm_nhỏ_tốn_cty_nhiều_tiền/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-18T14:34:52+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1p0xbw8</id>
     <title>Đau cổ vai gáy</title>
     <updated>2025-11-19T03:52:57+00:00</updated>
@@ -201,6 +188,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1p0xbw8/đau_cổ_vai_gáy/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-19T03:52:57+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1p0diof</id>
+    <title>Khi 1 lỗi lầm nhỏ tốn cty nhiều tiền</title>
+    <updated>2025-11-18T14:34:52+00:00</updated>
+    <author>
+      <name>/u/withaining</name>
+      <uri>https://old.reddit.com/user/withaining</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Sáng này vừa mở mắt ngủ dậy thì sếp nhắn tin mình vì hơn 10+ khách hàng phàn nàn rằng họ không trả tiền trên website được. Hoá ra là 1 line code mình viết làm hỏng tất cả checkout process. Mình stress quá mọi người ơi. Thường nếu mình phạm lỗi nhỏ nhỏ như là UI / UX thì không sao nhưng lần này làm cty mất tiền. Buồn quá. Mà mình ko phải là fresher. Đã có hơn 5 năm kinh nghiệm mà vẫn phạm những lỗi cơ bản và test code không chuẩn. Giờ sáng ko tập trung làm việc đc nữa. Nếu bạn đã tửng trải qua chuyện này thì chia sẻ với mình đi 😭 &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/withaining"&gt; /u/withaining &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p0diof/khi_1_lỗi_lầm_nhỏ_tốn_cty_nhiều_tiền/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p0diof/khi_1_lỗi_lầm_nhỏ_tốn_cty_nhiều_tiền/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p0diof/khi_1_lỗi_lầm_nhỏ_tốn_cty_nhiều_tiền/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-18T14:34:52+00:00</published>
   </entry>
   <entry>
     <id>t3_1p14vki</id>
