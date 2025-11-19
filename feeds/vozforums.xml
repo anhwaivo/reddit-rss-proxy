@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-11-19T19:37:11+00:00</updated>
+  <updated>2025-11-19T19:50:20+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -216,19 +216,6 @@
     <published>2025-11-19T05:19:45+00:00</published>
   </entry>
   <entry>
-    <id>t3_1p15i68</id>
-    <title>Xem mà nước mắt cứ rơi 😭</title>
-    <updated>2025-11-19T11:44:45+00:00</updated>
-    <author>
-      <name>/u/lkhcm</name>
-      <uri>https://old.reddit.com/user/lkhcm</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1p15i68/xem_mà_nước_mắt_cứ_rơi/"&gt; &lt;img alt="Xem mà nước mắt cứ rơi 😭" src="https://external-preview.redd.it/NTZuNXA2YmtiNzJnMU9v0UyjClTHl1_7vrLFl5RJ1GBzXXuz9i-hlZGMlurJ.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=d0aea91364abc601953276fe2092abb81443ea4a" title="Xem mà nước mắt cứ rơi 😭" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/lkhcm"&gt; /u/lkhcm &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://v.redd.it/gt152c9kb72g1"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p15i68/xem_mà_nước_mắt_cứ_rơi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p15i68/xem_mà_nước_mắt_cứ_rơi/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-19T11:44:45+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1p1e955</id>
     <title>Đau bụng tới tháng</title>
     <updated>2025-11-19T17:40:52+00:00</updated>
@@ -240,6 +227,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1p1e955/đau_bụng_tới_tháng/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-19T17:40:52+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1p15i68</id>
+    <title>Xem mà nước mắt cứ rơi 😭</title>
+    <updated>2025-11-19T11:44:45+00:00</updated>
+    <author>
+      <name>/u/lkhcm</name>
+      <uri>https://old.reddit.com/user/lkhcm</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1p15i68/xem_mà_nước_mắt_cứ_rơi/"&gt; &lt;img alt="Xem mà nước mắt cứ rơi 😭" src="https://external-preview.redd.it/NTZuNXA2YmtiNzJnMU9v0UyjClTHl1_7vrLFl5RJ1GBzXXuz9i-hlZGMlurJ.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=d0aea91364abc601953276fe2092abb81443ea4a" title="Xem mà nước mắt cứ rơi 😭" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/lkhcm"&gt; /u/lkhcm &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://v.redd.it/gt152c9kb72g1"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p15i68/xem_mà_nước_mắt_cứ_rơi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p15i68/xem_mà_nước_mắt_cứ_rơi/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-19T11:44:45+00:00</published>
   </entry>
   <entry>
     <id>t3_1p136mr</id>
