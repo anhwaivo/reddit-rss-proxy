@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-11-19T16:25:41+00:00</updated>
+  <updated>2025-11-19T16:53:20+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1p0diof</id>
-    <title>Khi 1 lỗi lầm nhỏ tốn cty nhiều tiền</title>
-    <updated>2025-11-18T14:34:52+00:00</updated>
-    <author>
-      <name>/u/withaining</name>
-      <uri>https://old.reddit.com/user/withaining</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Sáng này vừa mở mắt ngủ dậy thì sếp nhắn tin mình vì hơn 10+ khách hàng phàn nàn rằng họ không trả tiền trên website được. Hoá ra là 1 line code mình viết làm hỏng tất cả checkout process. Mình stress quá mọi người ơi. Thường nếu mình phạm lỗi nhỏ nhỏ như là UI / UX thì không sao nhưng lần này làm cty mất tiền. Buồn quá. Mà mình ko phải là fresher. Đã có hơn 5 năm kinh nghiệm mà vẫn phạm những lỗi cơ bản và test code không chuẩn. Giờ sáng ko tập trung làm việc đc nữa. Nếu bạn đã tửng trải qua chuyện này thì chia sẻ với mình đi 😭 &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/withaining"&gt; /u/withaining &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p0diof/khi_1_lỗi_lầm_nhỏ_tốn_cty_nhiều_tiền/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p0diof/khi_1_lỗi_lầm_nhỏ_tốn_cty_nhiều_tiền/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p0diof/khi_1_lỗi_lầm_nhỏ_tốn_cty_nhiều_tiền/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-18T14:34:52+00:00</published>
-  </entry>
   <entry>
     <id>t3_1p19f2p</id>
     <title>Cách để quên 1 người</title>
@@ -32,6 +19,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1p19f2p/cách_để_quên_1_người/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-19T14:40:36+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1p0diof</id>
+    <title>Khi 1 lỗi lầm nhỏ tốn cty nhiều tiền</title>
+    <updated>2025-11-18T14:34:52+00:00</updated>
+    <author>
+      <name>/u/withaining</name>
+      <uri>https://old.reddit.com/user/withaining</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Sáng này vừa mở mắt ngủ dậy thì sếp nhắn tin mình vì hơn 10+ khách hàng phàn nàn rằng họ không trả tiền trên website được. Hoá ra là 1 line code mình viết làm hỏng tất cả checkout process. Mình stress quá mọi người ơi. Thường nếu mình phạm lỗi nhỏ nhỏ như là UI / UX thì không sao nhưng lần này làm cty mất tiền. Buồn quá. Mà mình ko phải là fresher. Đã có hơn 5 năm kinh nghiệm mà vẫn phạm những lỗi cơ bản và test code không chuẩn. Giờ sáng ko tập trung làm việc đc nữa. Nếu bạn đã tửng trải qua chuyện này thì chia sẻ với mình đi 😭 &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/withaining"&gt; /u/withaining &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p0diof/khi_1_lỗi_lầm_nhỏ_tốn_cty_nhiều_tiền/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p0diof/khi_1_lỗi_lầm_nhỏ_tốn_cty_nhiều_tiền/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p0diof/khi_1_lỗi_lầm_nhỏ_tốn_cty_nhiều_tiền/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-18T14:34:52+00:00</published>
   </entry>
   <entry>
     <id>t3_1p19on1</id>
@@ -71,19 +71,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1p0xbw8/đau_cổ_vai_gáy/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-19T03:52:57+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1p1c696</id>
-    <title>Hi vọng tất cả mọi người sẽ vượt qua giai đoạn khó khăn này</title>
-    <updated>2025-11-19T16:24:51+00:00</updated>
-    <author>
-      <name>/u/KmrSj</name>
-      <uri>https://old.reddit.com/user/KmrSj</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Dạo gần đây thấy ai cũng stress, mình mới ra trường lương 4tr5 ráng lê lết sống qua ngày nhưng có việc là may rồi, tình hình mấy người bạn làm nghề khác cũng khó khăn nốt. Ngay cả việc kinh doanh của nhà mình cũng bị ảnh hưởng do nhà nước tận thu thuế, bhxh, bị tụi nó ép lên doanh nghiệp, lạm phát nên giá nhập hàng tăng, khách thắt chặt chi tiêu ít mua lại…. Mình nói mẹ mình là thôi ráng đi, chừng nào thấy bán ko đc nữa thì nghỉ. Hên là trước giờ nhà mình sống tiết kiệm quen r nên sẽ vượt qua được.&lt;/p&gt; &lt;p&gt;Mình nghĩ năm sau đảng ép tăng trưởng GDP &amp;gt;10% thì tình hình còn thê thảm hơn giờ nhiều. Lời khuyên của mình cho mọi người là: cố giữ nguồn thu nhập, tiết kiệm tối đa, có dư tiền tích luỹ thì hãy mua tài sản gì đó như ccq, vàng, ngoại tệ, bitcoin (để VND gửi tiết kiệm thì tiền của mn sẽ mất giá, thành giấy lộn hết)&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/KmrSj"&gt; /u/KmrSj &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p1c696/hi_vọng_tất_cả_mọi_người_sẽ_vượt_qua_giai_đoạn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p1c696/hi_vọng_tất_cả_mọi_người_sẽ_vượt_qua_giai_đoạn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p1c696/hi_vọng_tất_cả_mọi_người_sẽ_vượt_qua_giai_đoạn/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-19T16:24:51+00:00</published>
   </entry>
   <entry>
     <id>t3_1p12mph</id>
@@ -164,6 +151,19 @@
     <published>2025-11-19T06:39:33+00:00</published>
   </entry>
   <entry>
+    <id>t3_1p188m9</id>
+    <title>Tuổi 24 chơi vơi, cần bị chửi để tỉnh ngộ</title>
+    <updated>2025-11-19T13:52:21+00:00</updated>
+    <author>
+      <name>/u/hien_em</name>
+      <uri>https://old.reddit.com/user/hien_em</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào cộng đồng, e xin chúc tất cả những ng đọc dc post của e 1 ngày làm việc hiệu quả! Bài của em hơi dài nhưng em thực sự cần sự giúp đỡ nên mong mọi người bỏ chút thời gian quý giá để đọc và đặt cho em thật nhiều câu hỏi để em có thể đưa ra quyết định sáng suốt nhất.&lt;/p&gt; &lt;p&gt;Em 24t, là nữ và sống ở Hà Nội. Em đang gặp vấn đề lớn với sự nghiệp của mình. Hiện em đang làm việc ở vị trí Tester kiêm Game Designer với mức lương 10,5tr/tháng. Sau đây, giải thích lí do vì sao e lại làm 2 việc mà lương chỉ có vậy. Em đã gắn bó với công ty từ năm 2020 cho tới giờ, em bắt đầu với vị trí GD. Nhưng trong thời gian 2 năm em không có nhiều dự án cũng như dự án có kết quả nổi bật. Sang năm thứ 3 sếp đã quyết định chuyển em từ GD sang vị trí Game tester để e có thời gian học hỏi nhiều hơn. Trong thời gian này có nghiên cứu và đề xuất với sếp 1 số idea nhưng sếp không tin tưởng. Sau đó em bắt đầu trở nên lười biếng và chán nản không tiếp tục nghiên cứu nghiêm túc nữa. Nhưng vào tháng 9 năm nay, vì thiêú ng nên sếp có giao cho e 1 dự án với vai trò GD. Hiện tại, em vẫn đang làm dự án đó và e tự đánh giá performance của e chỉ ở mức trung bình. &lt;/p&gt; &lt;p&gt;Sau trải nghiệm trên, em có đặt ra câu hỏi liệu vấn đề là ở kỹ năng của mình, dù có cố gắng thì cũng không làm được vì không hợp với nghề hay mình vẫn đang quá lười biếng nên không nâng cao được kĩ năng. &lt;/p&gt; &lt;p&gt;Nhận thức được vấn đề, em thấy mình cần thay đổi cách làm việc để thực sự xây dựng 1 sự nghiệp hoàn chỉnh. Em đang nghĩ ra 2 lối đi, 1 là đăng kí 1 khoá học để học hành thực sự nghiêm túc và tiếp tục theo đuổi nghề GD; 2 là học 1 và làm 1 nghề khác. Mục tiêu của em là mức lương 20tr/ tháng và có vốn để mở 1 kế hoạch kinh doanh nhỏ. &lt;/p&gt; &lt;p&gt;Em cảm ơn các tiền bối đã đọc post của em. Em xin tiếp thu tất cả những tư vấn và chỉ dạy của mọi người ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/hien_em"&gt; /u/hien_em &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p188m9/tuổi_24_chơi_vơi_cần_bị_chửi_để_tỉnh_ngộ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p188m9/tuổi_24_chơi_vơi_cần_bị_chửi_để_tỉnh_ngộ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p188m9/tuổi_24_chơi_vơi_cần_bị_chửi_để_tỉnh_ngộ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-19T13:52:21+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1p188ua</id>
     <title>Có bạn gái nào trong đây cho mình hỏi</title>
     <updated>2025-11-19T13:52:37+00:00</updated>
@@ -177,19 +177,6 @@
     <published>2025-11-19T13:52:37+00:00</published>
   </entry>
   <entry>
-    <id>t3_1p1c0w3</id>
-    <title>Mình sắp đổi từ trọ qua chung cư</title>
-    <updated>2025-11-19T16:19:29+00:00</updated>
-    <author>
-      <name>/u/Kurouku</name>
-      <uri>https://old.reddit.com/user/Kurouku</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hiện tại mình 3x, lương cũng tầm 3x (x lớn), đang ở trọ 4tr tháng (2 người). Phòng bí bách quá nên cũng muốn đổi chỗ ở.&lt;/p&gt; &lt;p&gt;Mình vừa chốt căn 8tr tháng. Thấy thì nó cũng thoải mái. Cơ mà tiền trọ tăng từ 2tr lên 8tr thì cũng nhiều thật (mình chuyển sang ở một mình).&lt;/p&gt; &lt;p&gt;Không biết anh em trong này tiền thuê nhà thì bằng bao nhiêu % lương, với lại thuê chung cư thì có đáng hơn không?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Kurouku"&gt; /u/Kurouku &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p1c0w3/mình_sắp_đổi_từ_trọ_qua_chung_cư/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p1c0w3/mình_sắp_đổi_từ_trọ_qua_chung_cư/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p1c0w3/mình_sắp_đổi_từ_trọ_qua_chung_cư/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-19T16:19:29+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1p18sus</id>
     <title>xin lời khuyên</title>
     <updated>2025-11-19T14:15:24+00:00</updated>
@@ -201,19 +188,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1p18sus/xin_lời_khuyên/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-19T14:15:24+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1p188m9</id>
-    <title>Tuổi 24 chơi vơi, cần bị chửi để tỉnh ngộ</title>
-    <updated>2025-11-19T13:52:21+00:00</updated>
-    <author>
-      <name>/u/hien_em</name>
-      <uri>https://old.reddit.com/user/hien_em</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào cộng đồng, e xin chúc tất cả những ng đọc dc post của e 1 ngày làm việc hiệu quả! Bài của em hơi dài nhưng em thực sự cần sự giúp đỡ nên mong mọi người bỏ chút thời gian quý giá để đọc và đặt cho em thật nhiều câu hỏi để em có thể đưa ra quyết định sáng suốt nhất.&lt;/p&gt; &lt;p&gt;Em 24t, là nữ và sống ở Hà Nội. Em đang gặp vấn đề lớn với sự nghiệp của mình. Hiện em đang làm việc ở vị trí Tester kiêm Game Designer với mức lương 10,5tr/tháng. Sau đây, giải thích lí do vì sao e lại làm 2 việc mà lương chỉ có vậy. Em đã gắn bó với công ty từ năm 2020 cho tới giờ, em bắt đầu với vị trí GD. Nhưng trong thời gian 2 năm em không có nhiều dự án cũng như dự án có kết quả nổi bật. Sang năm thứ 3 sếp đã quyết định chuyển em từ GD sang vị trí Game tester để e có thời gian học hỏi nhiều hơn. Trong thời gian này có nghiên cứu và đề xuất với sếp 1 số idea nhưng sếp không tin tưởng. Sau đó em bắt đầu trở nên lười biếng và chán nản không tiếp tục nghiên cứu nghiêm túc nữa. Nhưng vào tháng 9 năm nay, vì thiêú ng nên sếp có giao cho e 1 dự án với vai trò GD. Hiện tại, em vẫn đang làm dự án đó và e tự đánh giá performance của e chỉ ở mức trung bình. &lt;/p&gt; &lt;p&gt;Sau trải nghiệm trên, em có đặt ra câu hỏi liệu vấn đề là ở kỹ năng của mình, dù có cố gắng thì cũng không làm được vì không hợp với nghề hay mình vẫn đang quá lười biếng nên không nâng cao được kĩ năng. &lt;/p&gt; &lt;p&gt;Nhận thức được vấn đề, em thấy mình cần thay đổi cách làm việc để thực sự xây dựng 1 sự nghiệp hoàn chỉnh. Em đang nghĩ ra 2 lối đi, 1 là đăng kí 1 khoá học để học hành thực sự nghiêm túc và tiếp tục theo đuổi nghề GD; 2 là học 1 và làm 1 nghề khác. Mục tiêu của em là mức lương 20tr/ tháng và có vốn để mở 1 kế hoạch kinh doanh nhỏ. &lt;/p&gt; &lt;p&gt;Em cảm ơn các tiền bối đã đọc post của em. Em xin tiếp thu tất cả những tư vấn và chỉ dạy của mọi người ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/hien_em"&gt; /u/hien_em &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p188m9/tuổi_24_chơi_vơi_cần_bị_chửi_để_tỉnh_ngộ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p188m9/tuổi_24_chơi_vơi_cần_bị_chửi_để_tỉnh_ngộ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p188m9/tuổi_24_chơi_vơi_cần_bị_chửi_để_tỉnh_ngộ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-19T13:52:21+00:00</published>
   </entry>
   <entry>
     <id>t3_1p0yrhn</id>
@@ -242,17 +216,17 @@
     <published>2025-11-19T05:19:45+00:00</published>
   </entry>
   <entry>
-    <id>t3_1p14vki</id>
-    <title>Kiếm bạn trò chuyện linh tinh</title>
-    <updated>2025-11-19T11:11:48+00:00</updated>
+    <id>t3_1p1c0w3</id>
+    <title>Mình sắp đổi từ trọ qua chung cư</title>
+    <updated>2025-11-19T16:19:29+00:00</updated>
     <author>
-      <name>/u/PanicOk290</name>
-      <uri>https://old.reddit.com/user/PanicOk290</uri>
+      <name>/u/Kurouku</name>
+      <uri>https://old.reddit.com/user/Kurouku</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình F25 hiện tại đang ở hanoi, hơi hướng nội lên ít mqh bạn bè , mxh hầu hết chỉ dùng để liên lạc với người thân và gđ . Hôm nay trời lạnh muốn ra ngoài chơi nhưng mà chợt nhận ra không biết rủ ai. Có bác nào trên đây muốn kiếm ngừoi nói chuyện cho bớt buồn không ạ, nếu rảnh tối nay có thể đi cafe hoặc đi chơi cũng được ạ. Hoặc bác nào có nhóm nói chuyện hay cộng đồng nào vui vui cho tui chơi ké với ( à tui không biết chơi game nha ). Thế thôi , chúc các bác một ngày tốt lành &lt;/p&gt; &lt;p&gt;Edit 20h : tôi tìm được đối tác nữ đi cafe rồi nha , bác nào yolo hay down for a coffe có thể dm tôi gửi địa chỉ nhé&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/PanicOk290"&gt; /u/PanicOk290 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p14vki/kiếm_bạn_trò_chuyện_linh_tinh/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p14vki/kiếm_bạn_trò_chuyện_linh_tinh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p14vki/kiếm_bạn_trò_chuyện_linh_tinh/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hiện tại mình 3x, lương cũng tầm 3x (x lớn), đang ở trọ 4tr tháng (2 người). Phòng bí bách quá nên cũng muốn đổi chỗ ở.&lt;/p&gt; &lt;p&gt;Mình vừa chốt căn 8tr tháng. Thấy thì nó cũng thoải mái. Cơ mà tiền trọ tăng từ 2tr lên 8tr thì cũng nhiều thật (mình chuyển sang ở một mình).&lt;/p&gt; &lt;p&gt;Không biết anh em trong này tiền thuê nhà thì bằng bao nhiêu % lương, với lại thuê chung cư thì có đáng hơn không?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Kurouku"&gt; /u/Kurouku &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p1c0w3/mình_sắp_đổi_từ_trọ_qua_chung_cư/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p1c0w3/mình_sắp_đổi_từ_trọ_qua_chung_cư/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p1c0w3/mình_sắp_đổi_từ_trọ_qua_chung_cư/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-19T11:11:48+00:00</published>
+    <published>2025-11-19T16:19:29+00:00</published>
   </entry>
   <entry>
     <id>t3_1p15i68</id>
@@ -266,6 +240,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1p15i68/xem_mà_nước_mắt_cứ_rơi/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-19T11:44:45+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1p14vki</id>
+    <title>Kiếm bạn trò chuyện linh tinh</title>
+    <updated>2025-11-19T11:11:48+00:00</updated>
+    <author>
+      <name>/u/PanicOk290</name>
+      <uri>https://old.reddit.com/user/PanicOk290</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình F25 hiện tại đang ở hanoi, hơi hướng nội lên ít mqh bạn bè , mxh hầu hết chỉ dùng để liên lạc với người thân và gđ . Hôm nay trời lạnh muốn ra ngoài chơi nhưng mà chợt nhận ra không biết rủ ai. Có bác nào trên đây muốn kiếm ngừoi nói chuyện cho bớt buồn không ạ, nếu rảnh tối nay có thể đi cafe hoặc đi chơi cũng được ạ. Hoặc bác nào có nhóm nói chuyện hay cộng đồng nào vui vui cho tui chơi ké với ( à tui không biết chơi game nha ). Thế thôi , chúc các bác một ngày tốt lành &lt;/p&gt; &lt;p&gt;Edit 20h : tôi tìm được đối tác nữ đi cafe rồi nha , bác nào yolo hay down for a coffe có thể dm tôi gửi địa chỉ nhé&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/PanicOk290"&gt; /u/PanicOk290 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p14vki/kiếm_bạn_trò_chuyện_linh_tinh/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p14vki/kiếm_bạn_trò_chuyện_linh_tinh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p14vki/kiếm_bạn_trò_chuyện_linh_tinh/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-19T11:11:48+00:00</published>
   </entry>
   <entry>
     <id>t3_1p0jqwq</id>
@@ -307,19 +294,6 @@
     <published>2025-11-19T07:11:35+00:00</published>
   </entry>
   <entry>
-    <id>t3_1p1b8b7</id>
-    <title>[Góc Cảnh Giác] Cẩn thận lừa đảo tại đây</title>
-    <updated>2025-11-19T15:49:54+00:00</updated>
-    <author>
-      <name>/u/Valuable-Explorer899</name>
-      <uri>https://old.reddit.com/user/Valuable-Explorer899</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Đây là subreddit cũng khá lớn với vài trăm nghìn người theo dõi, trong đó số lượng người trẻ khá đông nên mình nghĩ khả năng cao là bọn đào lửa đã hoặc sẽ nhắm đến, nên mình viết bài này để cảnh giác mọi người.&lt;/p&gt; &lt;p&gt;Nếu mình là một đứa chuyên đào lửa mình sẽ làm như sau:&lt;/p&gt; &lt;p&gt;- Thứ nhất là mình sẽ làm một cái tool để theo dõi subreddit này, để mình luôn nắm những bài đăng hot, bài đăng sầu thảm bi thương, v.v. Mình sẽ lưu hết tất cả những bình luận của từng bài đăng như vậy vào cơ sở dữ liệu, sau đó lọc ra những profile dễ tổn thương.&lt;/p&gt; &lt;p&gt;Reddit API cho phép truy vấn khá thoải mái mà không tốn tiền nên có thể dễ dàng tạo ra một tool như thế. (Mình đã từng làm rồi)&lt;/p&gt; &lt;p&gt;- Tiếp theo là làm một cái tool cào lịch sử bình luận của tài khoản của bạn. Reddit API cũng cho phép làm điều này một cách dễ dàng. Sau khi cào lịch sử bình luận mình sẽ dùng LLM để trích xuất những thông tin cá nhân và nhất là điểm yếu của bạn.&lt;/p&gt; &lt;p&gt;Có thể bạn đang cô đơn? Đang sống một mình xa nhà? Đang thất tình? v.v và mây mây, sau đó mình sẽ chọn chiến lược để tiếp cận bạn.&lt;/p&gt; &lt;p&gt;- Sau khi xác định con mồi thì mình sẽ làm thêm một tool để theo dõi hồ sơ của bạn. Mỗi khi bạn bình luận, mình sẽ nhận thông báo, và mình sẽ chờ thời cơ để tiếp cận sao cho tự nhiên nhất có thể.&lt;/p&gt; &lt;p&gt;- Mình sẽ xây dựng hoặc mua lại những tài khoản Reddit có lịch sử bình luận để tạo niềm tin. &lt;/p&gt; &lt;p&gt;Reddit API cũng cho phép mình đi còm dạo một cách hoàn toàn tự động nên mình sẽ có thể xây dựng một nhóm tài khoản Reddit trông uy tín một cách dễ dàng.&lt;/p&gt; &lt;p&gt;- Mình sẽ gửi tin nhắn trực tiếp cho một số con mồi để kể lể, tâm sự, tỉ tê để xây dựng sự tin tưởng. &lt;/p&gt; &lt;p&gt;- Sau một thời gian mình sẽ chốt hạ bằng cách rủ bạn đi gặp gỡ, nhờ bạn gửi tiền giúp đỡ v.v. &lt;/p&gt; &lt;p&gt;Xin lưu ý là mình không phải dân chuyên lừa đảo nên mình chỉ nghĩ được tới đây thôi. Bọn đào lửa hẳn sẽ có kinh nghiệm hơn và tinh vi hơn.&lt;/p&gt; &lt;p&gt;Hãy cẩn thận và trong trường hợp đáng ngờ hãy báo cáo cho mọi người biết.&lt;/p&gt; &lt;p&gt;Cảm nang tránh lừa đảo:&lt;/p&gt; &lt;p&gt;- Không tin bố con thằng nào trên đây, kể cả admin.&lt;/p&gt; &lt;p&gt;- Cộng đồng là lá chắn của bạn. Trong trường hợp nghi ngờ, hãy đăng lên cho mọi người biết. Tụi nó có thể viết bot để dụ bạn, nhưng số lượng người tốt sẽ đủ nhiều để downvote và hỗ trợ bạn.&lt;/p&gt; &lt;p&gt;- Không chuyển tiền, không đi xa để gặp gỡ người lạ, không gửi hình ảnh CCCD, không gửi thông tin cá nhân.&lt;/p&gt; &lt;p&gt;- Hạn chế đăng bình luận chứa thông tin cá nhân.&lt;/p&gt; &lt;p&gt;- Cực kỳ nhạy cảm khi có thằng nào con nào pm mình.&lt;/p&gt; &lt;p&gt;Vậy nhé. &lt;/p&gt; &lt;p&gt;Be safe. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Valuable-Explorer899"&gt; /u/Valuable-Explorer899 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p1b8b7/góc_cảnh_giác_cẩn_thận_lừa_đảo_tại_đây/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p1b8b7/góc_cảnh_giác_cẩn_thận_lừa_đảo_tại_đây/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p1b8b7/góc_cảnh_giác_cẩn_thận_lừa_đảo_tại_đây/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-19T15:49:54+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1p10hjt</id>
     <title>Thăng trầm cuộc sống mưu sinh</title>
     <updated>2025-11-19T06:45:26+00:00</updated>
@@ -331,5 +305,31 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1p10hjt/thăng_trầm_cuộc_sống_mưu_sinh/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-19T06:45:26+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1p1c696</id>
+    <title>Hi vọng tất cả mọi người sẽ vượt qua giai đoạn khó khăn này</title>
+    <updated>2025-11-19T16:24:51+00:00</updated>
+    <author>
+      <name>/u/KmrSj</name>
+      <uri>https://old.reddit.com/user/KmrSj</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Dạo gần đây thấy ai cũng stress, mình mới ra trường lương 4tr5 ráng lê lết sống qua ngày nhưng có việc là may rồi, tình hình mấy người bạn làm nghề khác cũng khó khăn nốt. Ngay cả việc kinh doanh của nhà mình cũng bị ảnh hưởng do nhà nước tận thu thuế, bhxh, bị tụi nó ép lên doanh nghiệp, lạm phát nên giá nhập hàng tăng, khách thắt chặt chi tiêu ít mua lại…. Mình nói mẹ mình là thôi ráng đi, chừng nào thấy bán ko đc nữa thì nghỉ. Hên là trước giờ nhà mình sống tiết kiệm quen r nên sẽ vượt qua được.&lt;/p&gt; &lt;p&gt;Mình nghĩ năm sau đảng ép tăng trưởng GDP &amp;gt;10% thì tình hình còn thê thảm hơn giờ nhiều. Lời khuyên của mình cho mọi người là: cố giữ nguồn thu nhập, tiết kiệm tối đa, có dư tiền tích luỹ thì hãy mua tài sản gì đó như ccq, vàng, ngoại tệ, bitcoin (để VND gửi tiết kiệm thì tiền của mn sẽ mất giá, thành giấy lộn hết)&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/KmrSj"&gt; /u/KmrSj &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p1c696/hi_vọng_tất_cả_mọi_người_sẽ_vượt_qua_giai_đoạn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p1c696/hi_vọng_tất_cả_mọi_người_sẽ_vượt_qua_giai_đoạn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p1c696/hi_vọng_tất_cả_mọi_người_sẽ_vượt_qua_giai_đoạn/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-19T16:24:51+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1p1b8b7</id>
+    <title>[Góc Cảnh Giác] Cẩn thận lừa đảo tại đây</title>
+    <updated>2025-11-19T15:49:54+00:00</updated>
+    <author>
+      <name>/u/Valuable-Explorer899</name>
+      <uri>https://old.reddit.com/user/Valuable-Explorer899</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Đây là subreddit cũng khá lớn với vài trăm nghìn người theo dõi, trong đó số lượng người trẻ khá đông nên mình nghĩ khả năng cao là bọn đào lửa đã hoặc sẽ nhắm đến, nên mình viết bài này để cảnh giác mọi người.&lt;/p&gt; &lt;p&gt;Nếu mình là một đứa chuyên đào lửa mình sẽ làm như sau:&lt;/p&gt; &lt;p&gt;- Thứ nhất là mình sẽ làm một cái tool để theo dõi subreddit này, để mình luôn nắm những bài đăng hot, bài đăng sầu thảm bi thương, v.v. Mình sẽ lưu hết tất cả những bình luận của từng bài đăng như vậy vào cơ sở dữ liệu, sau đó lọc ra những profile dễ tổn thương.&lt;/p&gt; &lt;p&gt;Reddit API cho phép truy vấn khá thoải mái mà không tốn tiền nên có thể dễ dàng tạo ra một tool như thế. (Mình đã từng làm rồi)&lt;/p&gt; &lt;p&gt;- Tiếp theo là làm một cái tool cào lịch sử bình luận của tài khoản của bạn. Reddit API cũng cho phép làm điều này một cách dễ dàng. Sau khi cào lịch sử bình luận mình sẽ dùng LLM để trích xuất những thông tin cá nhân và nhất là điểm yếu của bạn.&lt;/p&gt; &lt;p&gt;Có thể bạn đang cô đơn? Đang sống một mình xa nhà? Đang thất tình? v.v và mây mây, sau đó mình sẽ chọn chiến lược để tiếp cận bạn.&lt;/p&gt; &lt;p&gt;- Sau khi xác định con mồi thì mình sẽ làm thêm một tool để theo dõi hồ sơ của bạn. Mỗi khi bạn bình luận, mình sẽ nhận thông báo, và mình sẽ chờ thời cơ để tiếp cận sao cho tự nhiên nhất có thể.&lt;/p&gt; &lt;p&gt;- Mình sẽ xây dựng hoặc mua lại những tài khoản Reddit có lịch sử bình luận để tạo niềm tin. &lt;/p&gt; &lt;p&gt;Reddit API cũng cho phép mình đi còm dạo một cách hoàn toàn tự động nên mình sẽ có thể xây dựng một nhóm tài khoản Reddit trông uy tín một cách dễ dàng.&lt;/p&gt; &lt;p&gt;- Mình sẽ gửi tin nhắn trực tiếp cho một số con mồi để kể lể, tâm sự, tỉ tê để xây dựng sự tin tưởng. &lt;/p&gt; &lt;p&gt;- Sau một thời gian mình sẽ chốt hạ bằng cách rủ bạn đi gặp gỡ, nhờ bạn gửi tiền giúp đỡ v.v. &lt;/p&gt; &lt;p&gt;Xin lưu ý là mình không phải dân chuyên lừa đảo nên mình chỉ nghĩ được tới đây thôi. Bọn đào lửa hẳn sẽ có kinh nghiệm hơn và tinh vi hơn.&lt;/p&gt; &lt;p&gt;Hãy cẩn thận và trong trường hợp đáng ngờ hãy báo cáo cho mọi người biết.&lt;/p&gt; &lt;p&gt;Cảm nang tránh lừa đảo:&lt;/p&gt; &lt;p&gt;- Không tin bố con thằng nào trên đây, kể cả admin.&lt;/p&gt; &lt;p&gt;- Cộng đồng là lá chắn của bạn. Trong trường hợp nghi ngờ, hãy đăng lên cho mọi người biết. Tụi nó có thể viết bot để dụ bạn, nhưng số lượng người tốt sẽ đủ nhiều để downvote và hỗ trợ bạn.&lt;/p&gt; &lt;p&gt;- Không chuyển tiền, không đi xa để gặp gỡ người lạ, không gửi hình ảnh CCCD, không gửi thông tin cá nhân.&lt;/p&gt; &lt;p&gt;- Hạn chế đăng bình luận chứa thông tin cá nhân.&lt;/p&gt; &lt;p&gt;- Cực kỳ nhạy cảm khi có thằng nào con nào pm mình.&lt;/p&gt; &lt;p&gt;Vậy nhé. &lt;/p&gt; &lt;p&gt;Be safe. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Valuable-Explorer899"&gt; /u/Valuable-Explorer899 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p1b8b7/góc_cảnh_giác_cẩn_thận_lừa_đảo_tại_đây/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p1b8b7/góc_cảnh_giác_cẩn_thận_lừa_đảo_tại_đây/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p1b8b7/góc_cảnh_giác_cẩn_thận_lừa_đảo_tại_đây/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-19T15:49:54+00:00</published>
   </entry>
 </feed>
