@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-11-20T07:18:35+00:00</updated>
+  <updated>2025-11-20T07:38:58+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -164,19 +164,6 @@
     <published>2025-11-20T07:04:24+00:00</published>
   </entry>
   <entry>
-    <id>t3_1p1wqjd</id>
-    <title>Có 2 offer sau, các bác nghĩ e nên lấy offer nào?</title>
-    <updated>2025-11-20T07:09:53+00:00</updated>
-    <author>
-      <name>/u/Oizoioitoimetqua</name>
-      <uri>https://old.reddit.com/user/Oizoioitoimetqua</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác, e (25M) đang làm dev cho công ty bảo hiểm với mức lương 18M gross. Theo mặt bằng chung thì mức lương này e nghĩ khả thấp với dev 2 năm kinh nghiệm. &lt;/p&gt; &lt;p&gt;Đổi tại thì công ty có 1 số phụ cấp như:&lt;/p&gt; &lt;p&gt;• Đóng bảo hiểm full lương&lt;/p&gt; &lt;p&gt;• Bao ăn sáng ăn trưa&lt;/p&gt; &lt;p&gt;• Công ty có phòng tập gym riêng.&lt;/p&gt; &lt;p&gt;• Hưởng 14 tháng lương minimum (năm nào kinh doanh tốt có thể lên 15 tháng)&lt;/p&gt; &lt;p&gt;• Có quà / bonus trung thu, sinh nhật, lễ tết,... (cho dù không nhiều lắm)&lt;/p&gt; &lt;p&gt;Gần đây, e có nhận đc 1 offer trong công ty phần mềm khác, lương 25M gross nhưng đổi lại chỉ bao ăn trưa, công ty đóng BH không full lương và có lương tháng 13.&lt;/p&gt; &lt;p&gt;E không bị quá eo hẹp về tài chính. Theo các bác offer nào tốt hơn? Cảm ơn các bác nhiều.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Oizoioitoimetqua"&gt; /u/Oizoioitoimetqua &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p1wqjd/có_2_offer_sau_các_bác_nghĩ_e_nên_lấy_offer_nào/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p1wqjd/có_2_offer_sau_các_bác_nghĩ_e_nên_lấy_offer_nào/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p1wqjd/có_2_offer_sau_các_bác_nghĩ_e_nên_lấy_offer_nào/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-20T07:09:53+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1p1c0w3</id>
     <title>Mình sắp đổi từ trọ qua chung cư</title>
     <updated>2025-11-19T16:19:29+00:00</updated>
@@ -214,6 +201,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1p1vash/khám_tâm_lý/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-20T05:43:55+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1p1wqjd</id>
+    <title>Có 2 offer sau, các bác nghĩ e nên lấy offer nào?</title>
+    <updated>2025-11-20T07:09:53+00:00</updated>
+    <author>
+      <name>/u/Oizoioitoimetqua</name>
+      <uri>https://old.reddit.com/user/Oizoioitoimetqua</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác, e (25M) đang làm dev cho công ty bảo hiểm với mức lương 18M gross. Theo mặt bằng chung thì mức lương này e nghĩ khả thấp với dev 2 năm kinh nghiệm. &lt;/p&gt; &lt;p&gt;Đổi tại thì công ty có 1 số phụ cấp như:&lt;/p&gt; &lt;p&gt;• Đóng bảo hiểm full lương&lt;/p&gt; &lt;p&gt;• Bao ăn sáng ăn trưa&lt;/p&gt; &lt;p&gt;• Công ty có phòng tập gym riêng.&lt;/p&gt; &lt;p&gt;• Hưởng 14 tháng lương minimum (năm nào kinh doanh tốt có thể lên 15 tháng)&lt;/p&gt; &lt;p&gt;• Có quà / bonus trung thu, sinh nhật, lễ tết,... (cho dù không nhiều lắm)&lt;/p&gt; &lt;p&gt;Gần đây, e có nhận đc 1 offer trong công ty phần mềm khác, lương 25M gross nhưng đổi lại chỉ bao ăn trưa, công ty đóng BH không full lương và có lương tháng 13.&lt;/p&gt; &lt;p&gt;E không bị quá eo hẹp về tài chính. Theo các bác offer nào tốt hơn? Cảm ơn các bác nhiều.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Oizoioitoimetqua"&gt; /u/Oizoioitoimetqua &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p1wqjd/có_2_offer_sau_các_bác_nghĩ_e_nên_lấy_offer_nào/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p1wqjd/có_2_offer_sau_các_bác_nghĩ_e_nên_lấy_offer_nào/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p1wqjd/có_2_offer_sau_các_bác_nghĩ_e_nên_lấy_offer_nào/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-20T07:09:53+00:00</published>
   </entry>
   <entry>
     <id>t3_1p1quop</id>
@@ -281,6 +281,19 @@
     <published>2025-11-19T15:49:54+00:00</published>
   </entry>
   <entry>
+    <id>t3_1p1c696</id>
+    <title>Hi vọng tất cả mọi người sẽ vượt qua giai đoạn khó khăn này</title>
+    <updated>2025-11-19T16:24:51+00:00</updated>
+    <author>
+      <name>/u/KmrSj</name>
+      <uri>https://old.reddit.com/user/KmrSj</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Dạo gần đây thấy ai cũng stress, mình mới ra trường lương 4tr5 ráng lê lết sống qua ngày nhưng có việc là may rồi, tình hình mấy người bạn làm nghề khác cũng khó khăn nốt. Ngay cả việc kinh doanh của nhà mình cũng bị ảnh hưởng do nhà nước tận thu thuế, bhxh, bị tụi nó ép lên doanh nghiệp, lạm phát nên giá nhập hàng tăng, khách thắt chặt chi tiêu ít mua lại…. Mình nói mẹ mình là thôi ráng đi, chừng nào thấy bán ko đc nữa thì nghỉ. Hên là trước giờ nhà mình sống tiết kiệm quen r nên sẽ vượt qua được.&lt;/p&gt; &lt;p&gt;Mình nghĩ năm sau đảng ép tăng trưởng GDP &amp;gt;10% thì tình hình còn thê thảm hơn giờ nhiều. Lời khuyên của mình cho mọi người là: cố giữ nguồn thu nhập, tiết kiệm tối đa, có dư tiền tích luỹ thì hãy mua tài sản gì đó như ccq, vàng, ngoại tệ, bitcoin (để VND gửi tiết kiệm thì tiền của mn sẽ mất giá, thành giấy lộn hết)&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/KmrSj"&gt; /u/KmrSj &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p1c696/hi_vọng_tất_cả_mọi_người_sẽ_vượt_qua_giai_đoạn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p1c696/hi_vọng_tất_cả_mọi_người_sẽ_vượt_qua_giai_đoạn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p1c696/hi_vọng_tất_cả_mọi_người_sẽ_vượt_qua_giai_đoạn/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-19T16:24:51+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1p1sp0q</id>
     <title>[Hỏi ý kiến] Có nên đầu tư chứng chỉ quỹ với số tiền khoảng 100 triệu VND không?</title>
     <updated>2025-11-20T03:27:02+00:00</updated>
@@ -305,19 +318,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1p1v7zs/những_người_đối_xử_tệ_với_người_khác_tại_sao_họ/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-20T05:39:49+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1p1c696</id>
-    <title>Hi vọng tất cả mọi người sẽ vượt qua giai đoạn khó khăn này</title>
-    <updated>2025-11-19T16:24:51+00:00</updated>
-    <author>
-      <name>/u/KmrSj</name>
-      <uri>https://old.reddit.com/user/KmrSj</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Dạo gần đây thấy ai cũng stress, mình mới ra trường lương 4tr5 ráng lê lết sống qua ngày nhưng có việc là may rồi, tình hình mấy người bạn làm nghề khác cũng khó khăn nốt. Ngay cả việc kinh doanh của nhà mình cũng bị ảnh hưởng do nhà nước tận thu thuế, bhxh, bị tụi nó ép lên doanh nghiệp, lạm phát nên giá nhập hàng tăng, khách thắt chặt chi tiêu ít mua lại…. Mình nói mẹ mình là thôi ráng đi, chừng nào thấy bán ko đc nữa thì nghỉ. Hên là trước giờ nhà mình sống tiết kiệm quen r nên sẽ vượt qua được.&lt;/p&gt; &lt;p&gt;Mình nghĩ năm sau đảng ép tăng trưởng GDP &amp;gt;10% thì tình hình còn thê thảm hơn giờ nhiều. Lời khuyên của mình cho mọi người là: cố giữ nguồn thu nhập, tiết kiệm tối đa, có dư tiền tích luỹ thì hãy mua tài sản gì đó như ccq, vàng, ngoại tệ, bitcoin (để VND gửi tiết kiệm thì tiền của mn sẽ mất giá, thành giấy lộn hết)&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/KmrSj"&gt; /u/KmrSj &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p1c696/hi_vọng_tất_cả_mọi_người_sẽ_vượt_qua_giai_đoạn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p1c696/hi_vọng_tất_cả_mọi_người_sẽ_vượt_qua_giai_đoạn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p1c696/hi_vọng_tất_cả_mọi_người_sẽ_vượt_qua_giai_đoạn/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-19T16:24:51+00:00</published>
   </entry>
   <entry>
     <id>t3_1p1ru87</id>
