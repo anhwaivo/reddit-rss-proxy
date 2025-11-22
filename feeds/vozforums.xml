@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-11-22T09:37:46+00:00</updated>
+  <updated>2025-11-22T09:50:10+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -60,19 +60,6 @@
     <published>2025-11-21T12:44:51+00:00</published>
   </entry>
   <entry>
-    <id>t3_1p33ncn</id>
-    <title>Mình cần tìm mentor dạy mình học lập trình web Fullstack</title>
-    <updated>2025-11-21T16:47:50+00:00</updated>
-    <author>
-      <name>/u/ablacknail</name>
-      <uri>https://old.reddit.com/user/ablacknail</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Xin chào mọi người! Mình hiện tại sinh năm 1992, sinh sống ở HCM, 1 vợ 2 con, có công việc ổn định (bán hàng trên shopee), thu nhập chỉ loanh quoanh dưới 20 triệu. Hiện tại chính sách của Shopee rất ép người bán + cạnh tranh khá khốc liệt + khách hàng ngày càng lợi dụng lỗ hổng của Shopee để lấy hàng của shop nên mình khá là chán nản và mình cảm thấy tương lai khá mờ mịt. Thu nhập chỉ vừa đủ để lo cho gia đình, làm hoài không có dư. Nên hiện tại mình muốn tìm 1 mentor dạy mình học Lập trình WEB Fullstack, mình không cần mentor phải bỏ nhiều thời gian, đại khái là ra bài tập và sửa bài tập và trả lời thắc mắc của mình, có thể hướng dẫn online chứ không cần gặp mặt. Tiền thì mình có thể trả tối đa khoảng 50k - 60k/15 phút, nếu dài hơn thì cứ thế nhân lên. (Các bạn có thể bỏ qua nhiều câu hỏi như học IT khó kiếm việc, già rồi không theo kịp mấy đứa nhỏ, IT phải tự học, IT phải có tiếng Anh.. vì mình có tìm hiểu kĩ rồi mới viết bài này). Trước kia mình có học lập trình ở cao đẳng và có học lắc nhắc lại vài năm 1 khóa nên có nền tảng sơ. Nhưng thật sự không có 1 người hướng dẫn thì mình không thể làm nổi 1 dự án và khá mông lung khi học vì quá nhiều lỗi vặt khiến mình không tập trung được. Mong tìm được 1 mentor hay 1 người bạn để tâm sự chia sẽ kinh nghiệm cũng được. Các bạn có thể comment mình sẽ đọc hết&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ablacknail"&gt; /u/ablacknail &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p33ncn/mình_cần_tìm_mentor_dạy_mình_học_lập_trình_web/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p33ncn/mình_cần_tìm_mentor_dạy_mình_học_lập_trình_web/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p33ncn/mình_cần_tìm_mentor_dạy_mình_học_lập_trình_web/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-21T16:47:50+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1p32bfa</id>
     <title>Cách để hoà nhập với lớp học</title>
     <updated>2025-11-21T15:57:18+00:00</updated>
@@ -84,6 +71,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1p32bfa/cách_để_hoà_nhập_với_lớp_học/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-21T15:57:18+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1p33ncn</id>
+    <title>Mình cần tìm mentor dạy mình học lập trình web Fullstack</title>
+    <updated>2025-11-21T16:47:50+00:00</updated>
+    <author>
+      <name>/u/ablacknail</name>
+      <uri>https://old.reddit.com/user/ablacknail</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Xin chào mọi người! Mình hiện tại sinh năm 1992, sinh sống ở HCM, 1 vợ 2 con, có công việc ổn định (bán hàng trên shopee), thu nhập chỉ loanh quoanh dưới 20 triệu. Hiện tại chính sách của Shopee rất ép người bán + cạnh tranh khá khốc liệt + khách hàng ngày càng lợi dụng lỗ hổng của Shopee để lấy hàng của shop nên mình khá là chán nản và mình cảm thấy tương lai khá mờ mịt. Thu nhập chỉ vừa đủ để lo cho gia đình, làm hoài không có dư. Nên hiện tại mình muốn tìm 1 mentor dạy mình học Lập trình WEB Fullstack, mình không cần mentor phải bỏ nhiều thời gian, đại khái là ra bài tập và sửa bài tập và trả lời thắc mắc của mình, có thể hướng dẫn online chứ không cần gặp mặt. Tiền thì mình có thể trả tối đa khoảng 50k - 60k/15 phút, nếu dài hơn thì cứ thế nhân lên. (Các bạn có thể bỏ qua nhiều câu hỏi như học IT khó kiếm việc, già rồi không theo kịp mấy đứa nhỏ, IT phải tự học, IT phải có tiếng Anh.. vì mình có tìm hiểu kĩ rồi mới viết bài này). Trước kia mình có học lập trình ở cao đẳng và có học lắc nhắc lại vài năm 1 khóa nên có nền tảng sơ. Nhưng thật sự không có 1 người hướng dẫn thì mình không thể làm nổi 1 dự án và khá mông lung khi học vì quá nhiều lỗi vặt khiến mình không tập trung được. Mong tìm được 1 mentor hay 1 người bạn để tâm sự chia sẽ kinh nghiệm cũng được. Các bạn có thể comment mình sẽ đọc hết&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ablacknail"&gt; /u/ablacknail &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p33ncn/mình_cần_tìm_mentor_dạy_mình_học_lập_trình_web/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p33ncn/mình_cần_tìm_mentor_dạy_mình_học_lập_trình_web/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p33ncn/mình_cần_tìm_mentor_dạy_mình_học_lập_trình_web/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-21T16:47:50+00:00</published>
   </entry>
   <entry>
     <id>t3_1p3k5vy</id>
@@ -99,19 +99,6 @@
     <published>2025-11-22T04:30:40+00:00</published>
   </entry>
   <entry>
-    <id>t3_1p2y9j2</id>
-    <title>Kẻ tiểu nhân muốn học cách làm người</title>
-    <updated>2025-11-21T13:13:11+00:00</updated>
-    <author>
-      <name>/u/Artistic-Draft9288</name>
-      <uri>https://old.reddit.com/user/Artistic-Draft9288</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em là một kẻ tiểu nhân điển hình, có tất cả mọi tính cách, suy nghĩ của một kẻ tiểu nhân. Đối xử với mọi người xung quanh, em chỉ nhìn đến lợi ích mà không màng đến tình nghĩa hay bất cứ đạo đức nào. Tam quan lệch lạc, suy nghĩ ấu trĩ. &lt;/p&gt; &lt;p&gt;Em mong muốn tìm vài đầu sách để thay đổi bản thân, hoặc bất cứ điều gì em có thể cải thiện. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Artistic-Draft9288"&gt; /u/Artistic-Draft9288 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p2y9j2/kẻ_tiểu_nhân_muốn_học_cách_làm_người/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p2y9j2/kẻ_tiểu_nhân_muốn_học_cách_làm_người/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p2y9j2/kẻ_tiểu_nhân_muốn_học_cách_làm_người/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-21T13:13:11+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1p2tkw9</id>
     <title>Chi phí hẹn hò?</title>
     <updated>2025-11-21T08:45:39+00:00</updated>
@@ -123,6 +110,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1p2tkw9/chi_phí_hẹn_hò/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-21T08:45:39+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1p2y9j2</id>
+    <title>Kẻ tiểu nhân muốn học cách làm người</title>
+    <updated>2025-11-21T13:13:11+00:00</updated>
+    <author>
+      <name>/u/Artistic-Draft9288</name>
+      <uri>https://old.reddit.com/user/Artistic-Draft9288</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em là một kẻ tiểu nhân điển hình, có tất cả mọi tính cách, suy nghĩ của một kẻ tiểu nhân. Đối xử với mọi người xung quanh, em chỉ nhìn đến lợi ích mà không màng đến tình nghĩa hay bất cứ đạo đức nào. Tam quan lệch lạc, suy nghĩ ấu trĩ. &lt;/p&gt; &lt;p&gt;Em mong muốn tìm vài đầu sách để thay đổi bản thân, hoặc bất cứ điều gì em có thể cải thiện. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Artistic-Draft9288"&gt; /u/Artistic-Draft9288 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p2y9j2/kẻ_tiểu_nhân_muốn_học_cách_làm_người/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p2y9j2/kẻ_tiểu_nhân_muốn_học_cách_làm_người/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p2y9j2/kẻ_tiểu_nhân_muốn_học_cách_làm_người/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-21T13:13:11+00:00</published>
   </entry>
   <entry>
     <id>t3_1p3mxqt</id>
@@ -177,19 +177,6 @@
     <published>2025-11-22T04:57:57+00:00</published>
   </entry>
   <entry>
-    <id>t3_1p3p4ra</id>
-    <title>Học dở trên trường lớp</title>
-    <updated>2025-11-22T09:32:35+00:00</updated>
-    <author>
-      <name>/u/kerfsrt</name>
-      <uri>https://old.reddit.com/user/kerfsrt</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Dạ có phải mỗi ng sẽ có sức học khá nhau không ạ. Em có kèm em trai học mà thấy nó ko có tư duy logic cho lắm. Và cũng ko suy luận tốt lắm. Em đang học cách chấp nhận sức học của nó không tốt. Nhưng mà em vẫn thắc mắc thực sự là do học không nổi hay do lười vs ko tự giác ạ. Em đang nghĩ kèm nó làm tốt các bài tập bth thôi còn gì khó quá như hình chắc cho làm nhma cũng ko bắt ép nh. Mỗi mình em ép em muốn thì ko thể đc nếu em trai ko có nội lực học tập. Em đã chấp nhận nó ko vô nổi và ko học đc đại học r ạ. Đi làm công nhán hay lái xe gì chắc cũng đc. Còn nếu biến cố gì đấy khiến nó nhận ra và cố học thì may quá. Haiz em trai em lớp 8 học sinh khá ạ &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/kerfsrt"&gt; /u/kerfsrt &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p3p4ra/học_dở_trên_trường_lớp/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p3p4ra/học_dở_trên_trường_lớp/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p3p4ra/học_dở_trên_trường_lớp/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-22T09:32:35+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1p343zb</id>
     <title>Bạn gái 25f vẫn sợ ba má dù đã có công việc và thu nhập ổn định.</title>
     <updated>2025-11-21T17:05:00+00:00</updated>
@@ -240,6 +227,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1p3il2o/tỏ_tình_bằng_google_form/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-22T03:08:56+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1p3p4ra</id>
+    <title>Học dở trên trường lớp</title>
+    <updated>2025-11-22T09:32:35+00:00</updated>
+    <author>
+      <name>/u/kerfsrt</name>
+      <uri>https://old.reddit.com/user/kerfsrt</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Dạ có phải mỗi ng sẽ có sức học khá nhau không ạ. Em có kèm em trai học mà thấy nó ko có tư duy logic cho lắm. Và cũng ko suy luận tốt lắm. Em đang học cách chấp nhận sức học của nó không tốt. Nhưng mà em vẫn thắc mắc thực sự là do học không nổi hay do lười vs ko tự giác ạ. Em đang nghĩ kèm nó làm tốt các bài tập bth thôi còn gì khó quá như hình chắc cho làm nhma cũng ko bắt ép nh. Mỗi mình em ép em muốn thì ko thể đc nếu em trai ko có nội lực học tập. Em đã chấp nhận nó ko vô nổi và ko học đc đại học r ạ. Đi làm công nhán hay lái xe gì chắc cũng đc. Còn nếu biến cố gì đấy khiến nó nhận ra và cố học thì may quá. Haiz em trai em lớp 8 học sinh khá ạ &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/kerfsrt"&gt; /u/kerfsrt &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p3p4ra/học_dở_trên_trường_lớp/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p3p4ra/học_dở_trên_trường_lớp/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p3p4ra/học_dở_trên_trường_lớp/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-22T09:32:35+00:00</published>
   </entry>
   <entry>
     <id>t3_1p3o0n1</id>
