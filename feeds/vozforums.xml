@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-11-22T07:16:31+00:00</updated>
+  <updated>2025-11-22T07:36:36+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -60,19 +60,6 @@
     <published>2025-11-22T01:13:01+00:00</published>
   </entry>
   <entry>
-    <id>t3_1p33ncn</id>
-    <title>Mình cần tìm mentor dạy mình học lập trình web Fullstack</title>
-    <updated>2025-11-21T16:47:50+00:00</updated>
-    <author>
-      <name>/u/ablacknail</name>
-      <uri>https://old.reddit.com/user/ablacknail</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Xin chào mọi người! Mình hiện tại sinh năm 1992, sinh sống ở HCM, 1 vợ 2 con, có công việc ổn định (bán hàng trên shopee), thu nhập chỉ loanh quoanh dưới 20 triệu. Hiện tại chính sách của Shopee rất ép người bán + cạnh tranh khá khốc liệt + khách hàng ngày càng lợi dụng lỗ hổng của Shopee để lấy hàng của shop nên mình khá là chán nản và mình cảm thấy tương lai khá mờ mịt. Thu nhập chỉ vừa đủ để lo cho gia đình, làm hoài không có dư. Nên hiện tại mình muốn tìm 1 mentor dạy mình học Lập trình WEB Fullstack, mình không cần mentor phải bỏ nhiều thời gian, đại khái là ra bài tập và sửa bài tập và trả lời thắc mắc của mình, có thể hướng dẫn online chứ không cần gặp mặt. Tiền thì mình có thể trả tối đa khoảng 50k - 60k/15 phút, nếu dài hơn thì cứ thế nhân lên. (Các bạn có thể bỏ qua nhiều câu hỏi như học IT khó kiếm việc, già rồi không theo kịp mấy đứa nhỏ, IT phải tự học, IT phải có tiếng Anh.. vì mình có tìm hiểu kĩ rồi mới viết bài này). Trước kia mình có học lập trình ở cao đẳng và có học lắc nhắc lại vài năm 1 khóa nên có nền tảng sơ. Nhưng thật sự không có 1 người hướng dẫn thì mình không thể làm nổi 1 dự án và khá mông lung khi học vì quá nhiều lỗi vặt khiến mình không tập trung được. Mong tìm được 1 mentor hay 1 người bạn để tâm sự chia sẽ kinh nghiệm cũng được. Các bạn có thể comment mình sẽ đọc hết&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ablacknail"&gt; /u/ablacknail &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p33ncn/mình_cần_tìm_mentor_dạy_mình_học_lập_trình_web/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p33ncn/mình_cần_tìm_mentor_dạy_mình_học_lập_trình_web/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p33ncn/mình_cần_tìm_mentor_dạy_mình_học_lập_trình_web/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-21T16:47:50+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1p2m0dt</id>
     <title>IT bỏ phố về quê và chuyện nhà vợ</title>
     <updated>2025-11-21T01:54:51+00:00</updated>
@@ -97,6 +84,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1p2u998/đây_có_phải_muỗi_sxh_ko_mn/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-21T09:29:26+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1p33ncn</id>
+    <title>Mình cần tìm mentor dạy mình học lập trình web Fullstack</title>
+    <updated>2025-11-21T16:47:50+00:00</updated>
+    <author>
+      <name>/u/ablacknail</name>
+      <uri>https://old.reddit.com/user/ablacknail</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Xin chào mọi người! Mình hiện tại sinh năm 1992, sinh sống ở HCM, 1 vợ 2 con, có công việc ổn định (bán hàng trên shopee), thu nhập chỉ loanh quoanh dưới 20 triệu. Hiện tại chính sách của Shopee rất ép người bán + cạnh tranh khá khốc liệt + khách hàng ngày càng lợi dụng lỗ hổng của Shopee để lấy hàng của shop nên mình khá là chán nản và mình cảm thấy tương lai khá mờ mịt. Thu nhập chỉ vừa đủ để lo cho gia đình, làm hoài không có dư. Nên hiện tại mình muốn tìm 1 mentor dạy mình học Lập trình WEB Fullstack, mình không cần mentor phải bỏ nhiều thời gian, đại khái là ra bài tập và sửa bài tập và trả lời thắc mắc của mình, có thể hướng dẫn online chứ không cần gặp mặt. Tiền thì mình có thể trả tối đa khoảng 50k - 60k/15 phút, nếu dài hơn thì cứ thế nhân lên. (Các bạn có thể bỏ qua nhiều câu hỏi như học IT khó kiếm việc, già rồi không theo kịp mấy đứa nhỏ, IT phải tự học, IT phải có tiếng Anh.. vì mình có tìm hiểu kĩ rồi mới viết bài này). Trước kia mình có học lập trình ở cao đẳng và có học lắc nhắc lại vài năm 1 khóa nên có nền tảng sơ. Nhưng thật sự không có 1 người hướng dẫn thì mình không thể làm nổi 1 dự án và khá mông lung khi học vì quá nhiều lỗi vặt khiến mình không tập trung được. Mong tìm được 1 mentor hay 1 người bạn để tâm sự chia sẽ kinh nghiệm cũng được. Các bạn có thể comment mình sẽ đọc hết&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ablacknail"&gt; /u/ablacknail &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p33ncn/mình_cần_tìm_mentor_dạy_mình_học_lập_trình_web/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p33ncn/mình_cần_tìm_mentor_dạy_mình_học_lập_trình_web/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p33ncn/mình_cần_tìm_mentor_dạy_mình_học_lập_trình_web/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-21T16:47:50+00:00</published>
   </entry>
   <entry>
     <id>t3_1p2xnvn</id>
@@ -255,19 +255,6 @@
     <published>2025-11-22T01:54:33+00:00</published>
   </entry>
   <entry>
-    <id>t3_1p3il2o</id>
-    <title>Tỏ tình bằng Google Form</title>
-    <updated>2025-11-22T03:08:56+00:00</updated>
-    <author>
-      <name>/u/Acrobatic-Hearing476</name>
-      <uri>https://old.reddit.com/user/Acrobatic-Hearing476</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tình hình là cô bạn em thích có nhờ em điền giúp mấy cái form. Em với bạn đó có nhắn tin qua lại khá nhiều nhưng mà mới thân hơn gần đây thôi nên chưa biết cổ có ny chưa!&lt;/p&gt; &lt;p&gt;Trong lúc điền form cho bạn thì em nảy ra ý tưởng làm một cái form “ẩn danh” “khảo sát lời tỏ tình mong muốn” bao gồm các mục thông tin&lt;/p&gt; &lt;p&gt;Giới tính&lt;/p&gt; &lt;p&gt;Xu hướng tính dục &lt;/p&gt; &lt;p&gt;Tình trạng mối quan hệ&lt;/p&gt; &lt;p&gt;Kiểu tỏ tình mong muốn, loài hoa yêu thích…&lt;/p&gt; &lt;p&gt;Em sẽ bảo cô ấy là có thằng bạn bên Nhân Văn nhờ làm giùm! Mọi người nghĩ cách này như thế nào nhỉ? Em chỉ sợ bạn ấy nghĩ em thiếu coi trọng mối quan hệ của cả hai. Em cảm ơn mọi người vì đã đọc!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Acrobatic-Hearing476"&gt; /u/Acrobatic-Hearing476 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p3il2o/tỏ_tình_bằng_google_form/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p3il2o/tỏ_tình_bằng_google_form/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p3il2o/tỏ_tình_bằng_google_form/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-22T03:08:56+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1p3lb7j</id>
     <title>Cứu vãn hạnh phúc gia đình</title>
     <updated>2025-11-22T05:33:29+00:00</updated>
@@ -279,6 +266,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1p3lb7j/cứu_vãn_hạnh_phúc_gia_đình/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-22T05:33:29+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1p3il2o</id>
+    <title>Tỏ tình bằng Google Form</title>
+    <updated>2025-11-22T03:08:56+00:00</updated>
+    <author>
+      <name>/u/Acrobatic-Hearing476</name>
+      <uri>https://old.reddit.com/user/Acrobatic-Hearing476</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tình hình là cô bạn em thích có nhờ em điền giúp mấy cái form. Em với bạn đó có nhắn tin qua lại khá nhiều nhưng mà mới thân hơn gần đây thôi nên chưa biết cổ có ny chưa!&lt;/p&gt; &lt;p&gt;Trong lúc điền form cho bạn thì em nảy ra ý tưởng làm một cái form “ẩn danh” “khảo sát lời tỏ tình mong muốn” bao gồm các mục thông tin&lt;/p&gt; &lt;p&gt;Giới tính&lt;/p&gt; &lt;p&gt;Xu hướng tính dục &lt;/p&gt; &lt;p&gt;Tình trạng mối quan hệ&lt;/p&gt; &lt;p&gt;Kiểu tỏ tình mong muốn, loài hoa yêu thích…&lt;/p&gt; &lt;p&gt;Em sẽ bảo cô ấy là có thằng bạn bên Nhân Văn nhờ làm giùm! Mọi người nghĩ cách này như thế nào nhỉ? Em chỉ sợ bạn ấy nghĩ em thiếu coi trọng mối quan hệ của cả hai. Em cảm ơn mọi người vì đã đọc!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Acrobatic-Hearing476"&gt; /u/Acrobatic-Hearing476 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p3il2o/tỏ_tình_bằng_google_form/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p3il2o/tỏ_tình_bằng_google_form/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p3il2o/tỏ_tình_bằng_google_form/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-22T03:08:56+00:00</published>
   </entry>
   <entry>
     <id>t3_1p3drxi</id>
