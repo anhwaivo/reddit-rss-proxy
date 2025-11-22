@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-11-22T14:50:22+00:00</updated>
+  <updated>2025-11-22T15:16:35+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -99,19 +99,6 @@
     <published>2025-11-22T05:33:29+00:00</published>
   </entry>
   <entry>
-    <id>t3_1p3h248</id>
-    <title>Cứu Đồng Bào Miền Trung</title>
-    <updated>2025-11-22T01:54:33+00:00</updated>
-    <author>
-      <name>/u/badboiVN96</name>
-      <uri>https://old.reddit.com/user/badboiVN96</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;cho mình hỏi, mình ở Hà Nội muốn tìm nơi gửi tiếp tế cho đồng bào lũ lụt miền Trung (Hoà Thịnh Phú Hoà- Phú Yên). Có bạn nào có thông tin không ạ? mình cảm ơn&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/badboiVN96"&gt; /u/badboiVN96 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p3h248/cứu_đồng_bào_miền_trung/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p3h248/cứu_đồng_bào_miền_trung/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p3h248/cứu_đồng_bào_miền_trung/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-22T01:54:33+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1p3ukuw</id>
     <title>Gemini pro tự xóa nội dung tin nhắn</title>
     <updated>2025-11-22T14:28:56+00:00</updated>
@@ -138,19 +125,6 @@
     <published>2025-11-22T14:37:30+00:00</published>
   </entry>
   <entry>
-    <id>t3_1p3uxi7</id>
-    <title>Làm sao để phát triển nghề may</title>
-    <updated>2025-11-22T14:44:13+00:00</updated>
-    <author>
-      <name>/u/Ashamed-Square5093</name>
-      <uri>https://old.reddit.com/user/Ashamed-Square5093</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình 25 tuổi rồi, liệu có nên làm công nhân may không Lúc trước mình tốt nghiệp ngành thiết kế, ngành yêu cầu biết may là chính. Nhưng chủ yếu chỉ được học trên giấy, còn lại phải tự học, mình không có điều kiện để học may nên giờ ra chỉ có thể làm công nhân. Có muộn quá không? Bản thân mình thấy muộn lắm, vì mọi người nghĩ mình còn nhiều thời gian, nhưng khác với mấy học sinh học cấp 3 ra, mình 25 tuổi rồi lại còn học may từ đầu, chưa có kinh nghiệm gì sẽ đến 28 tuổi, học gerber, opitex thì cũng khó vì phải biết may thì mới làm được, chưa kể là lương không đủ học thêm(⁠´⁠-⁠﹏⁠-⁠`⁠；⁠) À lí do mình làm may vì chỗ mình là quê, nhiều khu công nghiệp, yêu cầu kĩ thuật rất cao&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ashamed-Square5093"&gt; /u/Ashamed-Square5093 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p3uxi7/làm_sao_để_phát_triển_nghề_may/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p3uxi7/làm_sao_để_phát_triển_nghề_may/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p3uxi7/làm_sao_để_phát_triển_nghề_may/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-22T14:44:13+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1p3v153</id>
     <title>Thằng đạt lọ</title>
     <updated>2025-11-22T14:48:40+00:00</updated>
@@ -171,10 +145,23 @@
       <name>/u/TienPhat54</name>
       <uri>https://old.reddit.com/user/TienPhat54</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em đang là sinh viên năm 2 ngành khoa học dữ liệu ở hcmus, em định theo hướng AI. Khả năng thực tập của em ở năm 2 không có, em có người thân senior bên ngước ngoài dạy em thêm web và blockchain để dự phòng SE (fullstack dev/blockchain/web3 dev). Mọi người thấy cơ hội công việc sau này ổn không ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/TienPhat54"&gt; /u/TienPhat54 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p3v1mb/các_anh_có_kinh_nghiệm_trong_thị_trường_it_cho_em/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p3v1mb/các_anh_có_kinh_nghiệm_trong_thị_trường_it_cho_em/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em đang là sinh viên năm 2 ngành khoa học dữ liệu ở hcmus, em định theo hướng AI. Khả năng thực tập của em ở năm 2 không có, em có người thân senior bên ngước ngoài dạy em thêm web và blockchain để dự phòng SE (fullstack dev/blockchain/web3 dev). Mọi người thấy cơ hội công việc sau này ổn không ạ? 2 hướng này có phù hợp để kết hợp với nhau không ạ, còn việc học 2 cái thì em vẫn thích hơn.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/TienPhat54"&gt; /u/TienPhat54 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p3v1mb/các_anh_có_kinh_nghiệm_trong_thị_trường_it_cho_em/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p3v1mb/các_anh_có_kinh_nghiệm_trong_thị_trường_it_cho_em/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
     <link href="https://old.reddit.com/r/vozforums/comments/1p3v1mb/các_anh_có_kinh_nghiệm_trong_thị_trường_it_cho_em/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-22T14:49:15+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1p3h248</id>
+    <title>Cứu Đồng Bào Miền Trung</title>
+    <updated>2025-11-22T01:54:33+00:00</updated>
+    <author>
+      <name>/u/badboiVN96</name>
+      <uri>https://old.reddit.com/user/badboiVN96</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;cho mình hỏi, mình ở Hà Nội muốn tìm nơi gửi tiếp tế cho đồng bào lũ lụt miền Trung (Hoà Thịnh Phú Hoà- Phú Yên). Có bạn nào có thông tin không ạ? mình cảm ơn&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/badboiVN96"&gt; /u/badboiVN96 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p3h248/cứu_đồng_bào_miền_trung/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p3h248/cứu_đồng_bào_miền_trung/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p3h248/cứu_đồng_bào_miền_trung/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-22T01:54:33+00:00</published>
   </entry>
   <entry>
     <id>t3_1p3p4ra</id>
@@ -216,19 +203,6 @@
     <published>2025-11-22T06:12:28+00:00</published>
   </entry>
   <entry>
-    <id>t3_1p3t143</id>
-    <title>Có nên lao vào ngành marketing?</title>
-    <updated>2025-11-22T13:18:37+00:00</updated>
-    <author>
-      <name>/u/Specific_Arachnid_71</name>
-      <uri>https://old.reddit.com/user/Specific_Arachnid_71</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em dự định học content marketing, mà nghe ngành này giờ đang bão hoà, lay-off nhiều nên cũng hơi phân vân? Liệu có nên lao vào không ạ? Và nếu có lao vào thì làm sao để đạt mức lương vài chục đến trăm một tháng ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Specific_Arachnid_71"&gt; /u/Specific_Arachnid_71 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p3t143/có_nên_lao_vào_ngành_marketing/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p3t143/có_nên_lao_vào_ngành_marketing/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p3t143/có_nên_lao_vào_ngành_marketing/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-22T13:18:37+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1p3drxi</id>
     <title>Không phải chemistry: Điều thực sự quyết định một mối quan hệ có bền hay không.</title>
     <updated>2025-11-21T23:25:28+00:00</updated>
@@ -240,6 +214,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1p3drxi/không_phải_chemistry_điều_thực_sự_quyết_định_một/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-21T23:25:28+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1p3uxi7</id>
+    <title>Làm sao để phát triển nghề may</title>
+    <updated>2025-11-22T14:44:13+00:00</updated>
+    <author>
+      <name>/u/Ashamed-Square5093</name>
+      <uri>https://old.reddit.com/user/Ashamed-Square5093</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình 25 tuổi rồi, liệu có nên làm công nhân may không Lúc trước mình tốt nghiệp ngành thiết kế, ngành yêu cầu biết may là chính. Nhưng chủ yếu chỉ được học trên giấy, còn lại phải tự học, mình không có điều kiện để học may nên giờ ra chỉ có thể làm công nhân. Có muộn quá không? Bản thân mình thấy muộn lắm, vì mọi người nghĩ mình còn nhiều thời gian, nhưng khác với mấy học sinh học cấp 3 ra, mình 25 tuổi rồi lại còn học may từ đầu, chưa có kinh nghiệm gì sẽ đến 28 tuổi, học gerber, opitex thì cũng khó vì phải biết may thì mới làm được, chưa kể là lương không đủ học thêm(⁠´⁠-⁠﹏⁠-⁠`⁠；⁠) À lí do mình làm may vì chỗ mình là quê, nhiều khu công nghiệp, yêu cầu kĩ thuật rất cao&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ashamed-Square5093"&gt; /u/Ashamed-Square5093 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p3uxi7/làm_sao_để_phát_triển_nghề_may/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p3uxi7/làm_sao_để_phát_triển_nghề_may/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p3uxi7/làm_sao_để_phát_triển_nghề_may/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-22T14:44:13+00:00</published>
   </entry>
   <entry>
     <id>t3_1p38c7y</id>
@@ -281,6 +268,19 @@
     <published>2025-11-22T09:50:48+00:00</published>
   </entry>
   <entry>
+    <id>t3_1p3t143</id>
+    <title>Có nên lao vào ngành marketing?</title>
+    <updated>2025-11-22T13:18:37+00:00</updated>
+    <author>
+      <name>/u/Specific_Arachnid_71</name>
+      <uri>https://old.reddit.com/user/Specific_Arachnid_71</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em dự định học content marketing, mà nghe ngành này giờ đang bão hoà, lay-off nhiều nên cũng hơi phân vân? Liệu có nên lao vào không ạ? Và nếu có lao vào thì làm sao để đạt mức lương vài chục đến trăm một tháng ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Specific_Arachnid_71"&gt; /u/Specific_Arachnid_71 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p3t143/có_nên_lao_vào_ngành_marketing/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p3t143/có_nên_lao_vào_ngành_marketing/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p3t143/có_nên_lao_vào_ngành_marketing/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-22T13:18:37+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1p3rwm3</id>
     <title>IT 5 năm đang thất nghiệp</title>
     <updated>2025-11-22T12:20:20+00:00</updated>
@@ -294,19 +294,6 @@
     <published>2025-11-22T12:20:20+00:00</published>
   </entry>
   <entry>
-    <id>t3_1p3u666</id>
-    <title>Lũ lụt và con số thương vong.</title>
-    <updated>2025-11-22T14:11:07+00:00</updated>
-    <author>
-      <name>/u/lengtro</name>
-      <uri>https://old.reddit.com/user/lengtro</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Trên mxh ầm ỉ vụ số lượng người tử vong giữa báo chí và mxh đang lệch nhau rất nhiều. Hãy lấy mốc 2-3 ngày bị cách ly hoàn toàn, nước chảy mạnh, các đoàn cứu trợ không tiếp cận được, để làm cơ sở nhận định. Nước ngập gần nóc, chảy mạnh&amp;gt; mất điện, điện thoại hết pin&amp;gt; đa phần sẽ không có đồ ăn dự trữ (vùng quê k có bánh mỳ dự trữ, may ra là mỳ tôm), mất điện, điện thoại hết pin, không có sóng (các trạm BTS cũng có thể k chạy nổi máy phát)&amp;gt; leo lên nóng nhà hoặc kê cao ván tận nóng (nhà cấp 4). Vs các điều kiện như vậy thì khi mưa lớn tiếp tục &amp;gt; lạnh, đói &amp;gt; kiệt sức. Thì nhóm người già, người không biết bơi, trẻ nhỏ, người đang bệnh là có nguy cơ tử vong cao nhất. Nếu các bạn nhìn vào bức ảnh và quy mô ngập. Một số chia sẻ của a Huy Nguyễn chia sẻ việc 1 số nhóm, cano tiếp cận cứu hộ bị mất sóng, mãi mới liên lạc đc. Thì thấy rằng diện tích rộng, có nhiều vùng ngập nặng. Và tôi tin là số người thiệt mạng ở Phú Yên do lụt hơn nhiều so với báo chí đưa. Hi vọng điều đó không xảy ra như vậy, tuy nhiên k nên lấp liếp nếu điều đó xảy ra, để tránh sai phạm lần sau.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/lengtro"&gt; /u/lengtro &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p3u666/lũ_lụt_và_con_số_thương_vong/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p3u666/lũ_lụt_và_con_số_thương_vong/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p3u666/lũ_lụt_và_con_số_thương_vong/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-22T14:11:07+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1p3kx4f</id>
     <title>Con này nó thích cái gì v mấy bác</title>
     <updated>2025-11-22T05:11:38+00:00</updated>
@@ -318,6 +305,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1p3kx4f/con_này_nó_thích_cái_gì_v_mấy_bác/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-22T05:11:38+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1p3u666</id>
+    <title>Lũ lụt và con số thương vong.</title>
+    <updated>2025-11-22T14:11:07+00:00</updated>
+    <author>
+      <name>/u/lengtro</name>
+      <uri>https://old.reddit.com/user/lengtro</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Trên mxh ầm ỉ vụ số lượng người tử vong giữa báo chí và mxh đang lệch nhau rất nhiều. Hãy lấy mốc 2-3 ngày bị cách ly hoàn toàn, nước chảy mạnh, các đoàn cứu trợ không tiếp cận được, để làm cơ sở nhận định. Nước ngập gần nóc, chảy mạnh&amp;gt; mất điện, điện thoại hết pin&amp;gt; đa phần sẽ không có đồ ăn dự trữ (vùng quê k có bánh mỳ dự trữ, may ra là mỳ tôm), mất điện, điện thoại hết pin, không có sóng (các trạm BTS cũng có thể k chạy nổi máy phát)&amp;gt; leo lên nóng nhà hoặc kê cao ván tận nóng (nhà cấp 4). Vs các điều kiện như vậy thì khi mưa lớn tiếp tục &amp;gt; lạnh, đói &amp;gt; kiệt sức. Thì nhóm người già, người không biết bơi, trẻ nhỏ, người đang bệnh là có nguy cơ tử vong cao nhất. Nếu các bạn nhìn vào bức ảnh và quy mô ngập. Một số chia sẻ của a Huy Nguyễn chia sẻ việc 1 số nhóm, cano tiếp cận cứu hộ bị mất sóng, mãi mới liên lạc đc. Thì thấy rằng diện tích rộng, có nhiều vùng ngập nặng. Và tôi tin là số người thiệt mạng ở Phú Yên do lụt hơn nhiều so với báo chí đưa. Hi vọng điều đó không xảy ra như vậy, tuy nhiên k nên lấp liếp nếu điều đó xảy ra, để tránh sai phạm lần sau.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/lengtro"&gt; /u/lengtro &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p3u666/lũ_lụt_và_con_số_thương_vong/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p3u666/lũ_lụt_và_con_số_thương_vong/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p3u666/lũ_lụt_và_con_số_thương_vong/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-22T14:11:07+00:00</published>
   </entry>
   <entry>
     <id>t3_1p3oopr</id>
