@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-11-22T03:54:59+00:00</updated>
+  <updated>2025-11-22T04:21:02+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1p2pu6f</id>
-    <title>Gửi tiết kiệm nên chọn USDT hay USDC?</title>
-    <updated>2025-11-21T04:58:44+00:00</updated>
-    <author>
-      <name>/u/austinn2603</name>
-      <uri>https://old.reddit.com/user/austinn2603</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình là sinh viên đang có khoảng 30 triệu đồng tiết kiệm, để trong ngân hàng thì xót quá. Mình không cần sinh lời nhiều, chỉ cần không bị trượt giá như vnđ là được. Thi thoảng mình cần rút $10 - $20 để trả chi phí hosting, v.v các thứ. Vậy mình nên mua USDT hay là USDC ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/austinn2603"&gt; /u/austinn2603 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p2pu6f/gửi_tiết_kiệm_nên_chọn_usdt_hay_usdc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p2pu6f/gửi_tiết_kiệm_nên_chọn_usdt_hay_usdc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p2pu6f/gửi_tiết_kiệm_nên_chọn_usdt_hay_usdc/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-21T04:58:44+00:00</published>
-  </entry>
   <entry>
     <id>t3_1p2rtg3</id>
     <title>mn cho e hỏi e muốn lắp 1 mạch tạo sóng cầu wien như này mà khi lắp thì đầu ra bị chết k có dao động. là mạch e bị sai j, mn có thể chỉ thêm cho e k.</title>
@@ -216,6 +203,19 @@
     <published>2025-11-22T03:08:56+00:00</published>
   </entry>
   <entry>
+    <id>t3_1p3ju6t</id>
+    <title>Có cách nào để chơi solo 1 mình mà kiếm đồ nhanh trong diablo 4 ?</title>
+    <updated>2025-11-22T04:13:36+00:00</updated>
+    <author>
+      <name>/u/thanos-9</name>
+      <uri>https://old.reddit.com/user/thanos-9</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình là người đi làm và đã có gia đình nhưng có đam mê chơi diablo 4 có cách nào chơi đơn mà fam nhanh được không nhỉ? Hay có nhóm nào mình có thể chơi chung xin các bác tư vấn&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/thanos-9"&gt; /u/thanos-9 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p3ju6t/có_cách_nào_để_chơi_solo_1_mình_mà_kiếm_đồ_nhanh/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p3ju6t/có_cách_nào_để_chơi_solo_1_mình_mà_kiếm_đồ_nhanh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p3ju6t/có_cách_nào_để_chơi_solo_1_mình_mà_kiếm_đồ_nhanh/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-22T04:13:36+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1p327am</id>
     <title>Lương IT và cân nhắc học nghề.</title>
     <updated>2025-11-21T15:52:58+00:00</updated>
@@ -255,19 +255,6 @@
     <published>2025-11-21T08:45:39+00:00</published>
   </entry>
   <entry>
-    <id>t3_1p343zb</id>
-    <title>Bạn gái 25f vẫn sợ ba má dù đã có công việc và thu nhập ổn định.</title>
-    <updated>2025-11-21T17:05:00+00:00</updated>
-    <author>
-      <name>/u/Under-age-</name>
-      <uri>https://old.reddit.com/user/Under-age-</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình 25M có đang yêu xa bạn gái mình 25F. Hai năm trước mình có đi du học và chúng mình yêu xa từ đó. Suốt khoản thời gian yêu xa, chúng mình có dự định là khi mình về nước, cả hai sẽ cùng đi du lịch và dành thời gian bù đắp cho nhau. Năm nay mình về nước và trước khi về mình có báo trước cho bạn ấy. Như dự định đã ấp ủ bao lâu nay, mình quyết định lên kế hoạch đi du lịch 1 tuần xa nhà cùng nhau. Bạn ấy đồng ý, thu xếp lịch làm và khẳng định sẽ đi được. Mọi thứ đã được lên kế hoạch, vé máy bay đến khách sạn được đặt hết thì bạn ấy báo gia đình không cho đi. Lý do là ba má bạn ấy khó, má bạn ấy không cho bạn ấy đi qua đêm nếu không có sự đồng ý của ba bạn ấy; ba bạn ấy còn chẳng biết 2 đứa chúng mình quen nhau. Mình đã thuyết phục đủ lời, khuyên bạn ấy nói chuyện với phụ huynh để xin phép nhưng bạn ấy có nỗi sợ sâu thẩm về việc đối mặt với phụ huynh, đặc biệt là với ba vì có vẻ ba bạn ấy rất khó. Giờ mình cũng ngậm ngùi huỷ vé, huỷ lịch mất tiền cọc chuyến đi chứ không thể làm gì hơn. Còn vài ngày nữa mình về nhưng bạn ấy sẽ không ra đón mình ở sân bay vì mình đáp chuyến bay khá muộn lúc 23pm và bạn ấy sợ má la. Mình cũng hết lời diễn tả rồi. Mình đã nói với bạn ấy mình cảm giác rất thất vọng, rằng mình cảm thấy mqh này tồn tại là từ chi phí của mình chứ bạn ấy không cần phải lo gì cả. Chuyến này mình về nước là do mình nhớ bạn ấy quá nhiều mới quyết định về chứ phía mình cũng gặp khó khăn nhiều thứ từ giấy tờ đến tài chính. Mình phải làm sao để kéo bạn ấy ra khỏi nổi sợ phụ huynh châu á này đây? Liệu mình có nên chia tay nếu không thể khiến cậu ấy dứt khỏi nổi sợ này không?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Under-age-"&gt; /u/Under-age- &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p343zb/bạn_gái_25f_vẫn_sợ_ba_má_dù_đã_có_công_việc_và/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p343zb/bạn_gái_25f_vẫn_sợ_ba_má_dù_đã_có_công_việc_và/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p343zb/bạn_gái_25f_vẫn_sợ_ba_má_dù_đã_có_công_việc_và/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-21T17:05:00+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1p3h248</id>
     <title>Cứu Đồng Bào Miền Trung</title>
     <updated>2025-11-22T01:54:33+00:00</updated>
@@ -279,6 +266,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1p3h248/cứu_đồng_bào_miền_trung/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-22T01:54:33+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1p343zb</id>
+    <title>Bạn gái 25f vẫn sợ ba má dù đã có công việc và thu nhập ổn định.</title>
+    <updated>2025-11-21T17:05:00+00:00</updated>
+    <author>
+      <name>/u/Under-age-</name>
+      <uri>https://old.reddit.com/user/Under-age-</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình 25M có đang yêu xa bạn gái mình 25F. Hai năm trước mình có đi du học và chúng mình yêu xa từ đó. Suốt khoản thời gian yêu xa, chúng mình có dự định là khi mình về nước, cả hai sẽ cùng đi du lịch và dành thời gian bù đắp cho nhau. Năm nay mình về nước và trước khi về mình có báo trước cho bạn ấy. Như dự định đã ấp ủ bao lâu nay, mình quyết định lên kế hoạch đi du lịch 1 tuần xa nhà cùng nhau. Bạn ấy đồng ý, thu xếp lịch làm và khẳng định sẽ đi được. Mọi thứ đã được lên kế hoạch, vé máy bay đến khách sạn được đặt hết thì bạn ấy báo gia đình không cho đi. Lý do là ba má bạn ấy khó, má bạn ấy không cho bạn ấy đi qua đêm nếu không có sự đồng ý của ba bạn ấy; ba bạn ấy còn chẳng biết 2 đứa chúng mình quen nhau. Mình đã thuyết phục đủ lời, khuyên bạn ấy nói chuyện với phụ huynh để xin phép nhưng bạn ấy có nỗi sợ sâu thẩm về việc đối mặt với phụ huynh, đặc biệt là với ba vì có vẻ ba bạn ấy rất khó. Giờ mình cũng ngậm ngùi huỷ vé, huỷ lịch mất tiền cọc chuyến đi chứ không thể làm gì hơn. Còn vài ngày nữa mình về nhưng bạn ấy sẽ không ra đón mình ở sân bay vì mình đáp chuyến bay khá muộn lúc 23pm và bạn ấy sợ má la. Mình cũng hết lời diễn tả rồi. Mình đã nói với bạn ấy mình cảm giác rất thất vọng, rằng mình cảm thấy mqh này tồn tại là từ chi phí của mình chứ bạn ấy không cần phải lo gì cả. Chuyến này mình về nước là do mình nhớ bạn ấy quá nhiều mới quyết định về chứ phía mình cũng gặp khó khăn nhiều thứ từ giấy tờ đến tài chính. Mình phải làm sao để kéo bạn ấy ra khỏi nổi sợ phụ huynh châu á này đây? Liệu mình có nên chia tay nếu không thể khiến cậu ấy dứt khỏi nổi sợ này không?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Under-age-"&gt; /u/Under-age- &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p343zb/bạn_gái_25f_vẫn_sợ_ba_má_dù_đã_có_công_việc_và/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p343zb/bạn_gái_25f_vẫn_sợ_ba_má_dù_đã_có_công_việc_và/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p343zb/bạn_gái_25f_vẫn_sợ_ba_má_dù_đã_có_công_việc_và/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-21T17:05:00+00:00</published>
   </entry>
   <entry>
     <id>t3_1p3g2hw</id>
