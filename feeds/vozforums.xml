@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-11-23T22:50:47+00:00</updated>
+  <updated>2025-11-23T23:16:55+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1p4i0ta</id>
-    <title>Màn hình bị xanh ở các góc DELL</title>
-    <updated>2025-11-23T08:56:30+00:00</updated>
-    <author>
-      <name>/u/gi4huy99</name>
-      <uri>https://old.reddit.com/user/gi4huy99</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1p4i0ta/màn_hình_bị_xanh_ở_các_góc_dell/"&gt; &lt;img alt="Màn hình bị xanh ở các góc DELL" src="https://preview.redd.it/kt5leyv61z2g1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=e5a2dfc1c9912699fcd5bcce39348db6dd2118d1" title="Màn hình bị xanh ở các góc DELL" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Màn hình mình tự dưng xuất hiện vết xanh lá ở các góc màn, mình rút hdmi ra nó vẫn có, nãy mình tắt 1 hồi bật lại thì mất nhưng xài 1 hồi nó lại xuất hiện trở lại nhưng nhẹ hơn, mấy bác rành giúp mình fix với, cảm ơn ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/gi4huy99"&gt; /u/gi4huy99 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/kt5leyv61z2g1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p4i0ta/màn_hình_bị_xanh_ở_các_góc_dell/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p4i0ta/màn_hình_bị_xanh_ở_các_góc_dell/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-23T08:56:30+00:00</published>
-  </entry>
   <entry>
     <id>t3_1p4czki</id>
     <title>Cuối tuần cô đơn</title>
@@ -242,19 +229,6 @@
     <published>2025-11-23T18:31:14+00:00</published>
   </entry>
   <entry>
-    <id>t3_1p4ucvo</id>
-    <title>Tỏ tình</title>
-    <updated>2025-11-23T18:41:13+00:00</updated>
-    <author>
-      <name>/u/kaneotran</name>
-      <uri>https://old.reddit.com/user/kaneotran</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Theo mọi người, ở thời bây giờ thì khi để tỏ tình hay làm quen thì nên lân la câu chuyện, vòng vo hay là vào thẳng vấn đề nhỉ, con gái sẽ thích kiểu nào hơn &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/kaneotran"&gt; /u/kaneotran &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p4ucvo/tỏ_tình/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p4ucvo/tỏ_tình/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p4ucvo/tỏ_tình/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-23T18:41:13+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1p4iqdv</id>
     <title>Mạng internet từ Việt Nam truy cập mấy trang quốc tế mấy hôm nay sao nó lag thế các bác.</title>
     <updated>2025-11-23T09:41:48+00:00</updated>
@@ -266,6 +240,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1p4iqdv/mạng_internet_từ_việt_nam_truy_cập_mấy_trang_quốc/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-23T09:41:48+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1p4ucvo</id>
+    <title>Tỏ tình</title>
+    <updated>2025-11-23T18:41:13+00:00</updated>
+    <author>
+      <name>/u/kaneotran</name>
+      <uri>https://old.reddit.com/user/kaneotran</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Theo mọi người, ở thời bây giờ thì khi để tỏ tình hay làm quen thì nên lân la câu chuyện, vòng vo hay là vào thẳng vấn đề nhỉ, con gái sẽ thích kiểu nào hơn &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/kaneotran"&gt; /u/kaneotran &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p4ucvo/tỏ_tình/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p4ucvo/tỏ_tình/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p4ucvo/tỏ_tình/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-23T18:41:13+00:00</published>
   </entry>
   <entry>
     <id>t3_1p4ogm6</id>
@@ -318,6 +305,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1p4kvsn/làm_sao_để_cuộc_sống_bớt_nhạt/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-23T11:52:21+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1p50l35</id>
+    <title>Người yêu rung động với người khác</title>
+    <updated>2025-11-23T22:54:15+00:00</updated>
+    <author>
+      <name>/u/Hanistomborn</name>
+      <uri>https://old.reddit.com/user/Hanistomborn</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người mình có tâm sự nhỏ muốn xin lời khuyên ạ.&lt;/p&gt; &lt;p&gt;Mình có bạn trai đã yêu được 2 năm, trước đây có lần cãi vã chia tay và bạn trai đó tìm người mới nhưng chỉ sau mấy ngày bọn mình quay lại, người mới đó bạn trai mập mờ được mấy hôm là khách trên phòng tập gym của bạn trai, bạn trai mình bán thẻ tập, sau đợt quay lại thì bạn trai không tán tỉnh hay gì nữa mà chỉ thỉnh thoảng nhắn tin với nhau theo kiểu khách hàng, nhưng từ lúc đó đến bây giờ đã được nửa năm mình nhận thấy hay vào xem trang cá nhân với tần suất rất thường xuyên và thả tim 1 lần hôm qua mình phát hiện,mình có nói chuyện với bạn trai sau hôm đó mình thấy bạn trai xoá lịch sử tìm kiếm người đó, mình nhận ra bạn trai đã cảm nắng với người đó, bạn trai vẫn rất yêu mình nhưng mình rất bực, theo các bạn mình nên làm gì&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Hanistomborn"&gt; /u/Hanistomborn &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p50l35/người_yêu_rung_động_với_người_khác/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p50l35/người_yêu_rung_động_với_người_khác/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p50l35/người_yêu_rung_động_với_người_khác/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-23T22:54:15+00:00</published>
   </entry>
   <entry>
     <id>t3_1p4o84o</id>
