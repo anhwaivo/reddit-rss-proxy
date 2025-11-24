@@ -2,63 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-11-24T05:20:08+00:00</updated>
+  <updated>2025-11-24T05:43:58+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1p3w5os</id>
-    <title>Trải nghiệm lần đầu tiên tự build bộ PC 70 triệu giữa mùa bão giá</title>
-    <updated>2025-11-22T15:36:22+00:00</updated>
-    <author>
-      <name>/u/austinn2603</name>
-      <uri>https://old.reddit.com/user/austinn2603</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1p3w5os/trải_nghiệm_lần_đầu_tiên_tự_build_bộ_pc_70_triệu/"&gt; &lt;img alt="Trải nghiệm lần đầu tiên tự build bộ PC 70 triệu giữa mùa bão giá" src="https://b.thumbs.redditmedia.com/pzHSQcYpoawuJCT_Ala-4h1pV7fOlkDGQ_Fmi-K5WqE.jpg" title="Trải nghiệm lần đầu tiên tự build bộ PC 70 triệu giữa mùa bão giá" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Bài viết này mình xin kể về bộ PC mà lần đầu tiên trong đời mình tự tay build từ A-Z (tự lên cấu hình, tự tìm mua linh kiện, tự lắp ráp, tự cài đặt và tối ưu). Tổng trị giá bộ máy tính là khoảng 70 triệu đồng (bảng kê trên ảnh).&lt;/p&gt; &lt;p&gt;Đầu tiên, về CPU thì mình chọn Ultra 7 265K vì trước giờ mình quen dùng Intel rồi. Lúc đầu mình tính lấy i7 14700K vì mọi người chê Core Ultra socket có 1 đời mua làm gì phí tiền thay main nhưng sau khi cân nhắc mình vẫn quyết định lấy Core Ultra vì mình dùng 5 năm mới nâng cấp thì lúc đấy thay main cũng được rồi, thêm nữa là chip Ultra mới này thì chạy ổn định và ăn ít điện hơn không nóng như chip đời 13,14.&lt;/p&gt; &lt;p&gt;Tiếp theo, tản nhiệt thì mình chọn Deepcool AK620. Thực ra mình mua dùng tạm thôi chứ mã này quạt hơi ồn và hiệu năng cũng không thật ngon. Đợi sau này hãng Deepcool ra mẫu mới VC Elite thì mình nâng cấp, hiện bên TQ mới có mẫu này chứ VN chưa có hàng.&lt;/p&gt; &lt;p&gt;Kế tiếp, RAM thì mình lấy 64GB để làm việc đa tác vụ và edit video. Mình mua của hãng Micron, hãng này thì quá nổi tiếng rồi vì là một trong 3 ông sản xuất chip nhớ lớn nhất trên thế giới bên cạnh Samsung và SK Hynix. Cặp RAM này của mình thì tuy rằng thông số hơi cùi bắp (5600MT/s - C46) nhưng được cái là RAM Micron rất lành, chả bao giờ lo lỗi. Mua hàng xách tay nên chọn loại này cho yên tâm. Mình mua chỗ ông anh hàng xóm ngay đầu ngõ thôi, giá cũng mềm so với giá thị trường.&lt;/p&gt; &lt;p&gt;Về phần ổ cứng thì mình lấy 3 ổ SSD: Ổ Samsung 990 Pro 2TB để cài Win và phần mềm, ổ Samsung 990 Evo Plus 2TB để lưu project và game, ổ WD SN850x 1TB để làm cache, còn ổ Gigabyte 1TB mình bóc máy cũ, dùng để lưu file ghi chú, nhạc MP3, khóa học online, mấy thứ lặt vặt v.v. Ổ nào cần đọc ghi liên tục thì mình chọn loại có DRAM, còn nếu ghi ít chủ yếu là đọc thì chọn loại DRAM-less là đủ rồi.&lt;/p&gt; &lt;p&gt;Về phần main và card đồ họa thì mình đều chọn hàng của MSI vì mình khá thích hãng này. Con main Z890 TOMAHAWK mà mình chọn có chất lượng build cực tốt, vừa đầm mà chắc nịch lắm. Card thì mình lấy con RTX 5070 Ti GAMING TRIO OC, phù hợp làm đồ họa và chơi game 2K. 5070 Ti được đúc từ cùng một khuân mẫu với RTX 5080 nên rất mạnh, hiệu năng thuần hơn 3090 Ti hẳn 15%. Thấy AE trong mấy group máy tính ở Voz và Reddit ca ngợi 5070 Ti hết nấc vì nó P/P nhất dòng 5000 series của Nvidia nên mình tự tin múc luôn. Main và card mình mua cùng ở TNC, cứ alo shop check xem còn hàng không rồi cọc tiền rung đùi chờ qua lấy thôi.&lt;/p&gt; &lt;p&gt;Nguồn thì mình chọn Corsair RM850x bản mới nhất 2024 chuẩn ATX 3.1. Corsair có dòng RMe thì dùng tụ TQ chỉ bảo hành 8 năm thôi còn dòng RMx full tụ Nhật bảo hành tận 10 năm. Ban đầu mình tìm khắp HN không chỗ nào bán phiên bản này, toàn là bản RMe, có bản RMx thì lại là ver cũ hoặc là bản RMx Shift. Ver cũ thì không có cổng 16 pin để tương thích với card Nvidia đời mới, bản Shift thì chân cắm nó lại ở mặt bên nên kén case. Mình tình cờ lướt Shopee thì thấy có shop ở tít trong tỉnh Tây Ninh bán đúng phiên bản mình cần, đọc reviews của khách hàng thấy OK nên mình đặt mua luôn. Đặt tối thứ 6 thì đến chiều thứ 3 hàng về. Nhận hàng đóng gói nguyên vẹn, check tem đúng chuẩn chính hãng phân phối bởi SPC Vĩnh Xuân bảo hành 10 năm.&lt;/p&gt; &lt;p&gt;Cuối cùng là vỏ case thì nhu cầu mình đơn giản thôi, vì PC của mình toàn để dưới gầm bàn dưới đất nên không cần vỏ nhiều tiền cầu kỳ làm gì, miễn là to tát rộng rãi thoáng mát là được. Mình lấy con Xigmatek Osiris Pro, con này thì siêu to rộng, hỗ trợ tản khí cao 180, card dài 400 và nguồn dài 220, gắn sẵn 4 fan ARGB 140 mà giá cũng rẻ. Mình mua ở cửa hàng máy tính An Phát ngay gần nhà, đi bộ ra rồi ôm về thôi.&lt;/p&gt; &lt;p&gt;Nói chung thì mọi thứ linh kiện mình chọn mua đều là thương hiệu uy tín, model top tier. Tất cả, trừ RAM ra, đều là hàng chính hãng bảo hành dài. Cơ bản là tại giá RAM trên thị trường cao khủng khiếp quá nên mình cũng không có nhiều lựa chọn khả dĩ về RAM.&lt;/p&gt; &lt;p&gt;Sau khi mua xong toàn bộ linh kiện thì đến công đoạn lắp ráp. Vì là lần đầu lắp máy nên mình không tránh khỏi cảm giác lo lắng và hồi hộp. Mình đã xem đi xem lại rất nhiều video hướng dẫn trên Youtube cũng như nghiền ngẫm rất kỹ tài liệu hướng dẫn. Thử thách đầu tiên là đặt CPU vào socket main, mình đã chứng kiến nhiều trường hợp tự build PC không may làm cong chân socket đi tong cả main nên mình rất run. Nhưng hóa ra thực tế lại dễ hơn mình nghĩ nhiều. Trên con CPU Intel nó sẽ có 2 cái mấu, thì mình chỉ việc khớp một mấu vào socket rồi từ từ đặt mấu còn lại vào thôi. OK vậy là xong công đoạn khó khăn nhất rồi. Quá trình còn lại thì mọi thứ diễn ra khá suôn sẻ: từ việc lắp RAM, lắp ổ SSD, lắp nguồn, đi dây, v.v. Có cái dây cấp nguồn 24-pin cho main là cắm hơi khó vào nhưng mình cứ nhích nhích tí là vào được khít. Nguồn thì mình dùng nguồn full-modular tức là cần dây nào thì cắm dây đấy vào, không cần phải cắm hết. Với bộ PC này thì mình cần cắm 2 dây 8-pin cấp nguồn cho CPU, 1 dây 16-pin cho card đồ họa và một dây PATA 4-pin cho hệ thống fan ARGB của case. Tiếp đến là mấy cái dây tín hiệu, cổng kết nối, dây power từ vỏ case cắm sang main là xong. &lt;/p&gt; &lt;p&gt;Lắp ráp xong xuôi thì mình nhấn nút bật máy. Cảm giác hồi hộp được giải phóng bằng niềm vui sướng khi dàn fan Led sáng lên và máy bắt đầu khởi động. Vậy là mình đã lắp máy thành công rồi. Tiếp theo mình chuẩn bị sẵn 2 chiếc USB: một để update BIOS và một để cài Windows. Vào BIOS thì mình thấy main đã được cài sẵn bản BIOS mới nhất rồi nên thôi mình khỏi up nữa. Tiếp theo mình boot vào USB để cài Windows, mà không hiểu sao nó toàn báo lỗi mặc dù mình đã tạo bộ cài Win bằng công cụ MediaCreationTool trên trang chủ Microsoft rồi. Đang nghi hay là USB của mình bị lỗi, tính ra tiệm đổi chiếc USB khác thì phát hiện nguyên nhân là do như này: công cụ MediaCreationTool nó sẽ tự động định dạng USB của mình dưới format FAT32, tức là mỗi file không được quá 4GB, mà cái bản Windows 11 Pro 25H2 mới nhất nó lại vô tình chứa một file nặng quá 4GB nên gây ra lỗi. Sau đó mình không dùng MediaCreationTool nữa mà tải thẳng bản ISO rồi dùng Rufus để burn vào USB dưới dạng NFTS để không bị giới hạn 4GB nữa. Và thế là mình cũng cài xong Windows, tiếp theo là cài mấy cái driver cơ bản như chipset, wifi, audio, v.v. &lt;/p&gt; &lt;p&gt;Tiếp đến là mình vào BIOS để tối ưu lại điện năng vì dù Core Ultra có tốt hơn các đời trước thật nhưng mình vẫn nên tối ưu thêm cho nó hiệu quả hơn. Mình thì không phải dân kỹ thuật nên mình cũng chỉ tinh chỉnh cơ bản thôi, ví dụ như core voltage offset, vcc core voltage offset, p-core voltage limit, power limit, current limit. Xong sau đó, mình mở Cinebench R23 chạy test vài lần thì được kết quả gần 36k điểm với core voltage 1.209V, xung 5.5ghz, ăn 209W điện. Tức là với số điểm, số xung và mức độ tiêu hao điện năng kia chứng tỏ là con chip Core Ultra này có hiệu năng/điện năng quả thực là tốt hơn nhiều so với đời 13,14. Tuy nhiên nhiệt độ ở mức 88°C gần 90 độ thì con tản AK620 này chưa ngon lắm, tất nhiên để dùng tạm qua mấy tháng mùa đông ở HN thì vẫn ổn, còn đến mấy tháng hè trời nóng thì mình phải nâng cấp lên con VC Elite thì mới cân được. Đến phần test game thì hầu hết các tựa game Triple A hot nhất hiện nay khi chơi max settings ở độ phân giải 2K thì con RTX 5070 Ti đều cho ra trên 100 FPS, con này lẽ ra phải là 5080 phiên bản lite mới đúng. Nói chung AE cứ lấy con 5070 Ti này là không phải lo nghĩ nhé.&lt;/p&gt; &lt;p&gt;Kết lại trên đây là tất cả hành trình build PC của mình. Dù tốn nhiều công sức và thời gian nhưng đây thực sự là một trải nghiệm đáng nhớ mình khó có thể quên được. Rất cảm ơn mọi người đã theo dõi và đọc đến đây ạ!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/austinn2603"&gt; /u/austinn2603 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1p3w5os"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p3w5os/trải_nghiệm_lần_đầu_tiên_tự_build_bộ_pc_70_triệu/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p3w5os/trải_nghiệm_lần_đầu_tiên_tự_build_bộ_pc_70_triệu/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-22T15:36:22+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1p4hsta</id>
-    <title>Học lệch phải chọn ngành như nào?</title>
-    <updated>2025-11-23T08:41:54+00:00</updated>
-    <author>
-      <name>/u/Comfortable-Basis211</name>
-      <uri>https://old.reddit.com/user/Comfortable-Basis211</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1p4hsta/học_lệch_phải_chọn_ngành_như_nào/"&gt; &lt;img alt="Học lệch phải chọn ngành như nào?" src="https://preview.redd.it/ck3v0b7lyy2g1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=c097b2eedc1959e28336ea2062bad91587d8f789" title="Học lệch phải chọn ngành như nào?" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em chào mọi người, em năm nay là học sinh cuối cấp. Em tự nhận là mình chỉ học được chứ không quá giỏi, em học được nhất là các môn xã hội như văn, anh,... Và cực kỳ tệ ở môn toán, em đã cố gắng mọi cách để học toán nhưng đều như nước đổ đầu vịt. Em dự định sau này chọn ngành du lịch hoặc ngôn ngữ anh, nhưng em không chắc mình chọn đúng không vì em cứ thấy không ổn nếu mình chọn hai ngành đó. Các anh chị đi trước cho em xin lời khuyên với ạ😭😭.&lt;/p&gt; &lt;p&gt;(Ảnh chống trôi)&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Comfortable-Basis211"&gt; /u/Comfortable-Basis211 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/ck3v0b7lyy2g1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p4hsta/học_lệch_phải_chọn_ngành_như_nào/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p4hsta/học_lệch_phải_chọn_ngành_như_nào/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-23T08:41:54+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1p4iiys</id>
-    <title>Tư vấn tình cảm</title>
-    <updated>2025-11-23T09:28:33+00:00</updated>
-    <author>
-      <name>/u/vn_meimei</name>
-      <uri>https://old.reddit.com/user/vn_meimei</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các bạn nữ cho mình hỏi muốn làm người con gái của mình trở nên vui vẻ hơn thì có những cách nào? Mình muốn nghe các bạn chia sẻ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/vn_meimei"&gt; /u/vn_meimei &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p4iiys/tư_vấn_tình_cảm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p4iiys/tư_vấn_tình_cảm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p4iiys/tư_vấn_tình_cảm/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-23T09:28:33+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1p4dkv0</id>
-    <title>Vấn đề về bộ ấm chén</title>
-    <updated>2025-11-23T04:31:07+00:00</updated>
-    <author>
-      <name>/u/Comfortable_Hall7671</name>
-      <uri>https://old.reddit.com/user/Comfortable_Hall7671</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Dạo gần đây em cứ đi vệ sinh xong, vẩy cái ấy rồi chờ khoảng 30s để cho khô hẳn nhưng cứ bỏ lại vào quần thì nó lại tiết ra thêm nc tiểu thì chữa kiểu gì vậy các bác?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Comfortable_Hall7671"&gt; /u/Comfortable_Hall7671 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p4dkv0/vấn_đề_về_bộ_ấm_chén/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p4dkv0/vấn_đề_về_bộ_ấm_chén/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p4dkv0/vấn_đề_về_bộ_ấm_chén/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-23T04:31:07+00:00</published>
-  </entry>
   <entry>
     <id>t3_1p4q1wt</id>
     <title>Tư vấn quần áo</title>
@@ -125,6 +73,19 @@
     <published>2025-11-23T23:41:21+00:00</published>
   </entry>
   <entry>
+    <id>t3_1p584u4</id>
+    <title>Spam email dịch vụ công:))</title>
+    <updated>2025-11-24T04:53:17+00:00</updated>
+    <author>
+      <name>/u/Ninh_pinkchicken23</name>
+      <uri>https://old.reddit.com/user/Ninh_pinkchicken23</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1p584u4/spam_email_dịch_vụ_công/"&gt; &lt;img alt="Spam email dịch vụ công:))" src="https://preview.redd.it/wk1rn7jpy43g1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=1b50289fe9d75d534fa06e6180ebd8ea1e89e728" title="Spam email dịch vụ công:))" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Dạo gần đây như mọi người đã biết tình hình lũ lụt rất nghiêm trọng.&lt;/p&gt; &lt;p&gt;Câu hỏi là tại sao mọi người không làm các cách phòng chống thiên nga đen như: có công suất trữ nước lớn hơn để phòng mưa lũ lớn? Hay trước khi xả lũ gửi thông báo sms/zalo đến người dân cuối nguồn để kịp chạy...&lt;/p&gt; &lt;p&gt;Vậy là mình mới nghĩ có lẽ mình nên gửi email đến cổng dịch vụ công của quốc gia và của các tỉnh đề xuất một số giải pháp theo tinh thần kháng nghịch cảnh của Nassim N. Taleb.&lt;/p&gt; &lt;p&gt;Có ai có ý kiến như mình không ? Góc nhìn của mọi người là gì hãy comment ở bên dưới cho mình biết nhé. Theo tinh thần đóng góp không chỉ trích nhen.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ninh_pinkchicken23"&gt; /u/Ninh_pinkchicken23 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/wk1rn7jpy43g1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p584u4/spam_email_dịch_vụ_công/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p584u4/spam_email_dịch_vụ_công/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-24T04:53:17+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1p55zxf</id>
     <title>Nguồn nhạc không bản quyền khi làm YouTube/TikTok – Các bạn sử dụng từ kho nào?</title>
     <updated>2025-11-24T03:04:27+00:00</updated>
@@ -177,19 +138,6 @@
     <published>2025-11-24T04:38:09+00:00</published>
   </entry>
   <entry>
-    <id>t3_1p584u4</id>
-    <title>Spam email dịch vụ công:))</title>
-    <updated>2025-11-24T04:53:17+00:00</updated>
-    <author>
-      <name>/u/Ninh_pinkchicken23</name>
-      <uri>https://old.reddit.com/user/Ninh_pinkchicken23</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1p584u4/spam_email_dịch_vụ_công/"&gt; &lt;img alt="Spam email dịch vụ công:))" src="https://preview.redd.it/wk1rn7jpy43g1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=1b50289fe9d75d534fa06e6180ebd8ea1e89e728" title="Spam email dịch vụ công:))" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Dạo gần đây như mọi người đã biết tình hình lũ lụt rất nghiêm trọng.&lt;/p&gt; &lt;p&gt;Câu hỏi là tại sao mọi người không làm các cách phòng chống thiên nga đen như: có công suất trữ nước lớn hơn để phòng mưa lũ lớn? Hay trước khi xả lũ gửi thông báo sms/zalo đến người dân cuối nguồn để kịp chạy...&lt;/p&gt; &lt;p&gt;Vậy là mình mới nghĩ có lẽ mình nên gửi email đến cổng dịch vụ công của quốc gia và của các tỉnh đề xuất một số giải pháp theo tinh thần kháng nghịch cảnh của Nassim N. Taleb.&lt;/p&gt; &lt;p&gt;Có ai có ý kiến như mình không ? Góc nhìn của mọi người là gì hãy comment ở bên dưới cho mình biết nhé. Theo tinh thần đóng góp không chỉ trích nhen.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ninh_pinkchicken23"&gt; /u/Ninh_pinkchicken23 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/wk1rn7jpy43g1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p584u4/spam_email_dịch_vụ_công/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p584u4/spam_email_dịch_vụ_công/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-24T04:53:17+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1p4ogm6</id>
     <title>Vừa tốt nghiệp IT Bách Khoa có nên vào Sài Gòn</title>
     <updated>2025-11-23T14:46:51+00:00</updated>
@@ -201,6 +149,45 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1p4ogm6/vừa_tốt_nghiệp_it_bách_khoa_có_nên_vào_sài_gòn/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-23T14:46:51+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1p58wje</id>
+    <title>Anh chị em ta có ai đang dạy con/ học theo hình thức homeschooling không?</title>
+    <updated>2025-11-24T05:35:38+00:00</updated>
+    <author>
+      <name>/u/Piesl</name>
+      <uri>https://old.reddit.com/user/Piesl</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tình hình là mình đang có ý định cho thằng nhỏ ở nhà học hình thức này. Chứ kiểu học hiện tại ở trường mình thấy khó chịu và gò bó quá, kiến thứ thì nhồi nhét, học từ sáng tới chiều, tối về cày bài tập các kiểu. Thành ra muốn dạy con một số kĩ năng khác cũng chả biết làm sao.&lt;/p&gt; &lt;p&gt;Thực ra mình cũng chưa có khái niệm gì rõ nét lắm về hình thức homeschool và cũng chưa biết nên tìm hiểu từ đâu. Anh chị em hay bạn trẻ nào ở đây có kinh nghiệm vui lòng chia sẻ giúp nhé.&lt;/p&gt; &lt;p&gt;Tại hạ vạn phần cảm kích :))))&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Piesl"&gt; /u/Piesl &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p58wje/anh_chị_em_ta_có_ai_đang_dạy_con_học_theo_hình/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p58wje/anh_chị_em_ta_có_ai_đang_dạy_con_học_theo_hình/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p58wje/anh_chị_em_ta_có_ai_đang_dạy_con_học_theo_hình/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-24T05:35:38+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1p58woz</id>
+    <title>Tìm người nói chuyện</title>
+    <updated>2025-11-24T05:35:53+00:00</updated>
+    <author>
+      <name>/u/Nice_Passenger9446</name>
+      <uri>https://old.reddit.com/user/Nice_Passenger9446</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;hôm nay mình ngoi lên đây với mong muốn tìm 1 bạn nữ để nói chuyện linh tinh về cs, cviec bla bla bla… do mình đang cảm thấy khá cô đơn khi mình đang trong độ tuổi khó khăn trong việc chia sẻ cho ng quen về những điều mình đang làm và mong muốn làm. Mình giới thiệu sơ qua 1 chút về mình để các bạn nữ chấm trước nhé: - 2005, học NEU, ở Hà Nội - 1m68 nặng 58kg. - đời sống ko có quá nhiều gia vị ngoài đi học, đi làm và nghe nhạc, podcast self help và xem influencer ( nghe hơi già nhỉ ). - ngoại ngữ 6.5 IELTS và vẫn đang học. - ngoại hình được đánh giá là sáng. - hiện ko xin tiền gđ mà tự lo chi phí cá nhân trừ tiền học. Mình ko có yêu cầu gì ở bạn nữ, chỉ cần bạn nói chuyện hợp và có thể lắng nghe, mình tự biết giới hạn nên mình sẽ cố gắng giữ cho bạn cảm giác an toàn( à mình thích con gái gầy chứ ko cx ksao ạ). Mong nhân duyên kết nối hihi &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Nice_Passenger9446"&gt; /u/Nice_Passenger9446 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p58woz/tìm_người_nói_chuyện/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p58woz/tìm_người_nói_chuyện/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p58woz/tìm_người_nói_chuyện/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-24T05:35:53+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1p58ybl</id>
+    <title>HCMUS 2026</title>
+    <updated>2025-11-24T05:38:29+00:00</updated>
+    <author>
+      <name>/u/untochable1504</name>
+      <uri>https://old.reddit.com/user/untochable1504</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình thi A01 định hướng những ngành cntt trong HCMUS, mình muốn tìm một vài người bạn cùng chí hướng, hỗ trợ và khích lệ nhau trong học tập ạ. Và tư duy của mình có vài chỗ không vững nên mình muốn được khắc phục 🫠&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/untochable1504"&gt; /u/untochable1504 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p58ybl/hcmus_2026/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p58ybl/hcmus_2026/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p58ybl/hcmus_2026/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-24T05:38:29+00:00</published>
   </entry>
   <entry>
     <id>t3_1p4ct3g</id>
@@ -255,19 +242,6 @@
     <published>2025-11-23T11:52:21+00:00</published>
   </entry>
   <entry>
-    <id>t3_1p4oq7w</id>
-    <title>Có vấn đề lắm không khi không có bạn bè ạ</title>
-    <updated>2025-11-23T14:58:37+00:00</updated>
-    <author>
-      <name>/u/New_Ask3907</name>
-      <uri>https://old.reddit.com/user/New_Ask3907</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;chào mọi người, em 21 tuổi và đang học năm cuối ở 1 trường đại học được coi là trường top. Chuẩn bị bước vào đời và em nhận ra rằng tuy rằng em học 1 trường khá tốt nhưng khi nhìn lại trong 4 năm học tại đây, em tuy BIẾT, có thể nói chuyện và từng kết bạn với nhiều người nhưng lại không giữ được mối quan hệ thân thiết với ai ( thực ra là có được 1 người bạn tính là thân ở đh nhưng em nhìn nhận được bản chất mối quan hệ này là mối quan hệ mang lại lợi ích cho cả 2 bên kiểu và bạn ấy hiện tại đang có bạn gái nên em cũng không thường xuyên liên lạc) đa phần các mối quan hệ của em đều là xã giao, kiểu gặp thì nói mấy câu, không gặp thì là người lạ luôn.Chuẩn bị tốt nghiệp nhưng em nhận ra là mình chẳng đủ thân với ai để có thể mời họ tham dự lễ tốt nghiệp và càng bất ổn hơn khi không tạo ra được networking nào ổn cho bản thân sau này mặc dù đang trong 1 môi trường rất tốt và nhiều người giỏi.Em có từng kể chuyện em ít bạn cho chị gái em nhưng chị ấy nhìn nhận rất tiêu cực và bảo rằng em có vấn đề chứ mọi ngừoi ai cũng có bạn bè mà sao em lại không có. Em cũng từng thấy có ngừoi nói rằng do em mang lại giá trị quá thấp hoặc chả có giá trị gì nên mới không ai chơi cùng. Em biết việc kết bạn này là do tính cách của em, em cũng đang rất cố gắng trong các mối quan hệ mới sau này nhưng em nhận ra là do họ có các mối quan hệ khác gắn bó hơn nên xem mối quan hệ với em chỉ là xã giao thôi. Em nhìn nhận được rằng trong tình huống tệ nhất thì tình trạng “không thân thiết với ai” sẽ đi với em đến cuối đời. Không biết anh/chị có thể cho em vài lời khuyên hoặc góc nhìn khác về chuyện này không ạ vì hiện tại em đang khá hoang mang :(((&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/New_Ask3907"&gt; /u/New_Ask3907 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p4oq7w/có_vấn_đề_lắm_không_khi_không_có_bạn_bè_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p4oq7w/có_vấn_đề_lắm_không_khi_không_có_bạn_bè_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p4oq7w/có_vấn_đề_lắm_không_khi_không_có_bạn_bè_ạ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-23T14:58:37+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1p55ahp</id>
     <title>Review/Tư vấn build PC.</title>
     <updated>2025-11-24T02:31:10+00:00</updated>
@@ -279,6 +253,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1p55ahp/reviewtư_vấn_build_pc/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-24T02:31:10+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1p4oq7w</id>
+    <title>Có vấn đề lắm không khi không có bạn bè ạ</title>
+    <updated>2025-11-23T14:58:37+00:00</updated>
+    <author>
+      <name>/u/New_Ask3907</name>
+      <uri>https://old.reddit.com/user/New_Ask3907</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;chào mọi người, em 21 tuổi và đang học năm cuối ở 1 trường đại học được coi là trường top. Chuẩn bị bước vào đời và em nhận ra rằng tuy rằng em học 1 trường khá tốt nhưng khi nhìn lại trong 4 năm học tại đây, em tuy BIẾT, có thể nói chuyện và từng kết bạn với nhiều người nhưng lại không giữ được mối quan hệ thân thiết với ai ( thực ra là có được 1 người bạn tính là thân ở đh nhưng em nhìn nhận được bản chất mối quan hệ này là mối quan hệ mang lại lợi ích cho cả 2 bên kiểu và bạn ấy hiện tại đang có bạn gái nên em cũng không thường xuyên liên lạc) đa phần các mối quan hệ của em đều là xã giao, kiểu gặp thì nói mấy câu, không gặp thì là người lạ luôn.Chuẩn bị tốt nghiệp nhưng em nhận ra là mình chẳng đủ thân với ai để có thể mời họ tham dự lễ tốt nghiệp và càng bất ổn hơn khi không tạo ra được networking nào ổn cho bản thân sau này mặc dù đang trong 1 môi trường rất tốt và nhiều người giỏi.Em có từng kể chuyện em ít bạn cho chị gái em nhưng chị ấy nhìn nhận rất tiêu cực và bảo rằng em có vấn đề chứ mọi ngừoi ai cũng có bạn bè mà sao em lại không có. Em cũng từng thấy có ngừoi nói rằng do em mang lại giá trị quá thấp hoặc chả có giá trị gì nên mới không ai chơi cùng. Em biết việc kết bạn này là do tính cách của em, em cũng đang rất cố gắng trong các mối quan hệ mới sau này nhưng em nhận ra là do họ có các mối quan hệ khác gắn bó hơn nên xem mối quan hệ với em chỉ là xã giao thôi. Em nhìn nhận được rằng trong tình huống tệ nhất thì tình trạng “không thân thiết với ai” sẽ đi với em đến cuối đời. Không biết anh/chị có thể cho em vài lời khuyên hoặc góc nhìn khác về chuyện này không ạ vì hiện tại em đang khá hoang mang :(((&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/New_Ask3907"&gt; /u/New_Ask3907 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p4oq7w/có_vấn_đề_lắm_không_khi_không_có_bạn_bè_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p4oq7w/có_vấn_đề_lắm_không_khi_không_có_bạn_bè_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p4oq7w/có_vấn_đề_lắm_không_khi_không_có_bạn_bè_ạ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-23T14:58:37+00:00</published>
   </entry>
   <entry>
     <id>t3_1p57jzm</id>
@@ -318,6 +305,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1p565la/5_kỹ_năng_giúp_kiếm_nhiều_tiền/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-24T03:12:05+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1p58nob</id>
+    <title>Hướng đi nào cho sinh viên ngành kĩ thuật ở Việt Nam</title>
+    <updated>2025-11-24T05:21:24+00:00</updated>
+    <author>
+      <name>/u/Potential_Muffin_729</name>
+      <uri>https://old.reddit.com/user/Potential_Muffin_729</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em chào các bác anh chị trong group, em hiện tại đang là sinh viên năm 2 ngành điện tử viễn thông có định hướng theo embedded. Gần đây, em có nghiên cứu thông tin trên internet, đồng thời học hỏi kinh nghiệm của những anh chị đi trước thì nhận ra rằng việc ra trường kiếm được việc đúng chuyên ngành cũng như được thực hành làm việc nâng cao chuyên môn là rất khó. Vậy nên em có quyết định sẽ đi sang nhật dạng kỹ sư ngay sau khi tốt nghiệp( tất nhiên em sẽ cố achieve skill thị trường yêu cầu ngay trong những năm học đại học kết hợp học tiếng N3). Điều này đối với em là khá tham vọng nhưng hiện tại nhìn vào thực trạng tại Việt Nam thì đây có phải là hướng đi tốt không ạ? &lt;/p&gt; &lt;p&gt;Em cảm ơn&lt;/p&gt; &lt;p&gt;P/s: bạn bè em chưa thấy đứa nào có nhu cầu như em cả.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Potential_Muffin_729"&gt; /u/Potential_Muffin_729 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p58nob/hướng_đi_nào_cho_sinh_viên_ngành_kĩ_thuật_ở_việt/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p58nob/hướng_đi_nào_cho_sinh_viên_ngành_kĩ_thuật_ở_việt/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p58nob/hướng_đi_nào_cho_sinh_viên_ngành_kĩ_thuật_ở_việt/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-24T05:21:24+00:00</published>
   </entry>
   <entry>
     <id>t3_1p4o84o</id>
