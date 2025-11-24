@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-11-24T23:17:26+00:00</updated>
+  <updated>2025-11-24T23:38:45+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -47,19 +47,6 @@
     <published>2025-11-24T13:31:45+00:00</published>
   </entry>
   <entry>
-    <id>t3_1p5qs4v</id>
-    <title>Thơ of the day #1</title>
-    <updated>2025-11-24T19:36:26+00:00</updated>
-    <author>
-      <name>/u/C-man-177013</name>
-      <uri>https://old.reddit.com/user/C-man-177013</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Thắng bất vi vương,&lt;/p&gt; &lt;p&gt;Bại tất cầu nạn. &lt;/p&gt; &lt;p&gt;Thịnh nhược tòng phận, &lt;/p&gt; &lt;p&gt;Suy lai hoài oán.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/C-man-177013"&gt; /u/C-man-177013 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p5qs4v/thơ_of_the_day_1/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p5qs4v/thơ_of_the_day_1/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p5qs4v/thơ_of_the_day_1/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-24T19:36:26+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1p5946d</id>
     <title>Mọi người đang làm job phụ gì để có thêm thu nhập vậy ạ?</title>
     <updated>2025-11-24T05:48:10+00:00</updated>
@@ -97,19 +84,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1p5s3zt/lọ_vương/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-24T20:25:49+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1p5sa5d</id>
-    <title>Tự học code mong các cao nhân vô chỉ e với ạ</title>
-    <updated>2025-11-24T20:32:18+00:00</updated>
-    <author>
-      <name>/u/2xJK</name>
-      <uri>https://old.reddit.com/user/2xJK</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là e có tự học java thì mần được cái app nó bị làm dối như này thì làm sao để dịch ngược nó lại ạ. E cảm ơn&lt;/p&gt; &lt;p&gt;package IIllIIlIllIIlIlllIIllIIIllIIIllIlIIlIIIllIIlllIIllIllIlIIlllIIlllIlIlIIlllIIlllIIIllIIllIIlIIIllIIIlllIIIllIllIIIlllIIllIllIlllIIIllIIIllIIlIlIIllIIlIIIlllIIllIIllIllIlllIIIlIIlIIIlIIllIlIIllIlllIlIIIllIIIlIIIllIIIlIlIllIIllIlIll; import java.util.ArrayList; import java.util.Arrays; import java.util.HashMap; final class IIIlIIIllIIIlIllIIlIIllIIlllIIllIlllIIllIllIIllIIIlIIIlllIlllIlllIIllIllIlIIlllIIlllIIllIIlllIIlIlllIIllIIIllIIIlIIlIIllIIlllIIIllIIIlllIIIlIIIlIIIllIIllIIllIIlIIllIIIlIlllIIIllIIlllIIllIIIlllIIllIIlllIIIlllIIllIlllIIIlIlllIIllIIIllIIIllIlllIlIIlllIIIl extends HashMap { IIIlIIIllIIIlIllIIlIIllIIlllIIllIlllIIllIllIIllIIIlIIIlllIlllIlllIIllIllIlIIlllIIlllIIllIIlllIIlIlllIIllIIIllIIIlIIlIIllIIlllIIIllIIIlllIIIlIIIlIIIllIIllIIllIIlIIllIIIlIlllIIIllIIlllIIllIIIlllIIllIIlllIIIlllIIllIlllIIIlIlllIIllIIIllIIIllIlllIlIIlllIIIl() { } }&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/2xJK"&gt; /u/2xJK &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p5sa5d/tự_học_code_mong_các_cao_nhân_vô_chỉ_e_với_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p5sa5d/tự_học_code_mong_các_cao_nhân_vô_chỉ_e_với_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p5sa5d/tự_học_code_mong_các_cao_nhân_vô_chỉ_e_với_ạ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-24T20:32:18+00:00</published>
   </entry>
   <entry>
     <id>t3_1p58nob</id>
@@ -216,6 +190,32 @@
     <published>2025-11-24T11:57:58+00:00</published>
   </entry>
   <entry>
+    <id>t3_1p5qs4v</id>
+    <title>Thơ of the day #1</title>
+    <updated>2025-11-24T19:36:26+00:00</updated>
+    <author>
+      <name>/u/C-man-177013</name>
+      <uri>https://old.reddit.com/user/C-man-177013</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Thắng bất vi vương,&lt;/p&gt; &lt;p&gt;Bại tất cầu nạn. &lt;/p&gt; &lt;p&gt;Thịnh nhược tòng phận, &lt;/p&gt; &lt;p&gt;Suy lai hoài oán.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/C-man-177013"&gt; /u/C-man-177013 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p5qs4v/thơ_of_the_day_1/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p5qs4v/thơ_of_the_day_1/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p5qs4v/thơ_of_the_day_1/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-24T19:36:26+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1p5sa5d</id>
+    <title>Tự học code mong các cao nhân vô chỉ e với ạ</title>
+    <updated>2025-11-24T20:32:18+00:00</updated>
+    <author>
+      <name>/u/2xJK</name>
+      <uri>https://old.reddit.com/user/2xJK</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là e có tự học java thì mần được cái app nó bị làm dối như này thì làm sao để dịch ngược nó lại ạ. E cảm ơn&lt;/p&gt; &lt;p&gt;package IIllIIlIllIIlIlllIIllIIIllIIIllIlIIlIIIllIIlllIIllIllIlIIlllIIlllIlIlIIlllIIlllIIIllIIllIIlIIIllIIIlllIIIllIllIIIlllIIllIllIlllIIIllIIIllIIlIlIIllIIlIIIlllIIllIIllIllIlllIIIlIIlIIIlIIllIlIIllIlllIlIIIllIIIlIIIllIIIlIlIllIIllIlIll; import java.util.ArrayList; import java.util.Arrays; import java.util.HashMap; final class IIIlIIIllIIIlIllIIlIIllIIlllIIllIlllIIllIllIIllIIIlIIIlllIlllIlllIIllIllIlIIlllIIlllIIllIIlllIIlIlllIIllIIIllIIIlIIlIIllIIlllIIIllIIIlllIIIlIIIlIIIllIIllIIllIIlIIllIIIlIlllIIIllIIlllIIllIIIlllIIllIIlllIIIlllIIllIlllIIIlIlllIIllIIIllIIIllIlllIlIIlllIIIl extends HashMap { IIIlIIIllIIIlIllIIlIIllIIlllIIllIlllIIllIllIIllIIIlIIIlllIlllIlllIIllIllIlIIlllIIlllIIllIIlllIIlIlllIIllIIIllIIIlIIlIIllIIlllIIIllIIIlllIIIlIIIlIIIllIIllIIllIIlIIllIIIlIlllIIIllIIlllIIllIIIlllIIllIIlllIIIlllIIllIlllIIIlIlllIIllIIIllIIIllIlllIlIIlllIIIl() { } }&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/2xJK"&gt; /u/2xJK &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p5sa5d/tự_học_code_mong_các_cao_nhân_vô_chỉ_e_với_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p5sa5d/tự_học_code_mong_các_cao_nhân_vô_chỉ_e_với_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p5sa5d/tự_học_code_mong_các_cao_nhân_vô_chỉ_e_với_ạ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-24T20:32:18+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1p5j4dc</id>
     <title>Em trai hư</title>
     <updated>2025-11-24T14:54:53+00:00</updated>
@@ -227,19 +227,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1p5j4dc/em_trai_hư/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-24T14:54:53+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1p5pwe6</id>
-    <title>Tâm sự của người đã cắm sừng</title>
-    <updated>2025-11-24T19:03:42+00:00</updated>
-    <author>
-      <name>/u/Own_Government5043</name>
-      <uri>https://old.reddit.com/user/Own_Government5043</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Đêm nay đau đầu quá nhưng muốn viết ra những điều đã nặng lòng suốt bấy lâu nay. Mình vừa chúc người yêu hiện tại ngủ ngon, thật sự muốn anh có một giấc ngủ thật ấm áp&lt;/p&gt; &lt;p&gt;Trước kia mình thích người yêu hiện tại nhưng nghĩ anh không thích mình nên buồn quá. Anh kia trong nhóm chung thấy mình buồn nên có an ủi và nói đùa rằng anh ghen tị. Trong lúc buồn, mình hỏi vu vơ “thế anh có muốn làm quen em không”. Anh nói anh không muốn làm người thay thế, còn mình thì lại nghĩ &amp;quot;muốn thích một người cũng thích mình&amp;quot;.&lt;/p&gt; &lt;p&gt;Mình cố gắng mở lòng với anh ấy, nhưng mỗi khi nhìn lại người mình thật sự thích, trong lòng nhói lên. Muốn quên nhưng không thể. Mình cũng vô tâm khiến anh bị tổn thương, rồi lại dùng những lời hứa để an ủi.&lt;/p&gt; &lt;p&gt;Đêm đấy không chịu nổi nữa mình nhắn hỏi người mình thích rằng anh có từng thích mình không. Anh bảo có, nhưng giờ hết rồi. Mình cũng thú thật rằng mình không còn cảm xúc với người đang quen. Anh chỉ trách nhẹ thôi chứ biết nói gì giờ&lt;/p&gt; &lt;p&gt;Sau đêm đấy mình lại day dứt hơn. Giá như lúc đầu tỏ tình bị từ chối cho rồi, còn hơn làm tổn thương một người thật lòng với mình. &lt;/p&gt; &lt;p&gt;Được vài ngày mình lại làm người yêu buồn, ổng đăng vài story lên mạng, người kia tưởng mình đã chia tay nên đã bắt chuyện lại. Mình cũng chỉ đáp lại vài câu đùa, rồi lún sâu, tâm sự. Bản thân nói dối rằng đã chia tay. Nhưng đồng thời mình lại thương xót người yêu và xin lỗi, làm lành với ảnh.&lt;/p&gt; &lt;p&gt;Hai ngày đó mình dây dưa giữa hai người, cảm giác tội lỗi đến mức không chịu nổi. Cuối cùng mình chia tay người yêu và quen người kia là người yêu hiện tại của mình. &lt;/p&gt; &lt;p&gt;Sau này mình cũng thú nhận rằng lúc mới tìm hiểu mình chưa dứt khoát với người cũ. Anh ấy khó xử nhưng cũng bỏ qua.&lt;/p&gt; &lt;p&gt;Mình mang cảm giác tội lỗi đó rất lâu. Rồi mình chia tay vì thấy không xứng đáng được yêu, coi đó như quả báo. Sáu tháng sau, tụi mình quay lại và yêu nhau đến giờ được hơn một năm. Trước khi thích nhau, chuyện tình của chúng mình từng rất đẹp nhưng chỉ vì một đoạn hiểu lầm mà lại đi quen người khác.. Mỗi khi nhớ lại, tội lỗi vẫn còn nguyên, mỗi khi hạnh phúc bên người yêu lại tự hỏi không biết người cũ còn hận mình không ?&lt;/p&gt; &lt;p&gt;Nhớ lại những lúc người yêu cũ nôn nao chuẩn bị quà bất ngờ, hay sắp xếp với anh hai để gặp mình bất ngờ vì chúng mình quen xa. Lòng mình lại nhói, thấy buồn cười chính bản thân rẻ rách này&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Own_Government5043"&gt; /u/Own_Government5043 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p5pwe6/tâm_sự_của_người_đã_cắm_sừng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p5pwe6/tâm_sự_của_người_đã_cắm_sừng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p5pwe6/tâm_sự_của_người_đã_cắm_sừng/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-24T19:03:42+00:00</published>
   </entry>
   <entry>
     <id>t3_1p565la</id>
@@ -279,6 +266,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1p5cq2n/mọi_người_thấy_loại_trái_cây_nào_ăn_ngon_nhất/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-24T09:33:01+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1p5pwe6</id>
+    <title>Tâm sự của người đã cắm sừng</title>
+    <updated>2025-11-24T19:03:42+00:00</updated>
+    <author>
+      <name>/u/Own_Government5043</name>
+      <uri>https://old.reddit.com/user/Own_Government5043</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Đêm nay đau đầu quá nhưng muốn viết ra những điều đã nặng lòng suốt bấy lâu nay. Mình vừa chúc người yêu hiện tại ngủ ngon, thật sự muốn anh có một giấc ngủ thật ấm áp&lt;/p&gt; &lt;p&gt;Trước kia mình thích người yêu hiện tại nhưng nghĩ anh không thích mình nên buồn quá. Anh kia trong nhóm chung thấy mình buồn nên có an ủi và nói đùa rằng anh ghen tị. Trong lúc buồn, mình hỏi vu vơ “thế anh có muốn làm quen em không”. Anh nói anh không muốn làm người thay thế, còn mình thì lại nghĩ &amp;quot;muốn thích một người cũng thích mình&amp;quot;.&lt;/p&gt; &lt;p&gt;Mình cố gắng mở lòng với anh ấy, nhưng mỗi khi nhìn lại người mình thật sự thích, trong lòng nhói lên. Muốn quên nhưng không thể. Mình cũng vô tâm khiến anh bị tổn thương, rồi lại dùng những lời hứa để an ủi.&lt;/p&gt; &lt;p&gt;Đêm đấy không chịu nổi nữa mình nhắn hỏi người mình thích rằng anh có từng thích mình không. Anh bảo có, nhưng giờ hết rồi. Mình cũng thú thật rằng mình không còn cảm xúc với người đang quen. Anh chỉ trách nhẹ thôi chứ biết nói gì giờ&lt;/p&gt; &lt;p&gt;Sau đêm đấy mình lại day dứt hơn. Giá như lúc đầu tỏ tình bị từ chối cho rồi, còn hơn làm tổn thương một người thật lòng với mình. &lt;/p&gt; &lt;p&gt;Được vài ngày mình lại làm người yêu buồn, ổng đăng vài story lên mạng, người kia tưởng mình đã chia tay nên đã bắt chuyện lại. Mình cũng chỉ đáp lại vài câu đùa, rồi lún sâu, tâm sự. Bản thân nói dối rằng đã chia tay. Nhưng đồng thời mình lại thương xót người yêu và xin lỗi, làm lành với ảnh.&lt;/p&gt; &lt;p&gt;Hai ngày đó mình dây dưa giữa hai người, cảm giác tội lỗi đến mức không chịu nổi. Cuối cùng mình chia tay người yêu và quen người kia là người yêu hiện tại của mình. &lt;/p&gt; &lt;p&gt;Sau này mình cũng thú nhận rằng lúc mới tìm hiểu mình chưa dứt khoát với người cũ. Anh ấy khó xử nhưng cũng bỏ qua.&lt;/p&gt; &lt;p&gt;Mình mang cảm giác tội lỗi đó rất lâu. Rồi mình chia tay vì thấy không xứng đáng được yêu, coi đó như quả báo. Sáu tháng sau, tụi mình quay lại và yêu nhau đến giờ được hơn một năm. Trước khi thích nhau, chuyện tình của chúng mình từng rất đẹp nhưng chỉ vì một đoạn hiểu lầm mà lại đi quen người khác.. Mỗi khi nhớ lại, tội lỗi vẫn còn nguyên, mỗi khi hạnh phúc bên người yêu lại tự hỏi không biết người cũ còn hận mình không ?&lt;/p&gt; &lt;p&gt;Nhớ lại những lúc người yêu cũ nôn nao chuẩn bị quà bất ngờ, hay sắp xếp với anh hai để gặp mình bất ngờ vì chúng mình quen xa. Lòng mình lại nhói, thấy buồn cười chính bản thân rẻ rách này&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Own_Government5043"&gt; /u/Own_Government5043 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p5pwe6/tâm_sự_của_người_đã_cắm_sừng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p5pwe6/tâm_sự_của_người_đã_cắm_sừng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p5pwe6/tâm_sự_của_người_đã_cắm_sừng/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-24T19:03:42+00:00</published>
   </entry>
   <entry>
     <id>t3_1p5lrun</id>
