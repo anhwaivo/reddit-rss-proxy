@@ -2,37 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-11-25T15:44:29+00:00</updated>
+  <updated>2025-11-25T15:55:59+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1p676f4</id>
-    <title>giúp em chỉ ra lỗi sai và chỉnh sửa lại đoạn mã trong R-Studio vói ạ</title>
-    <updated>2025-11-25T08:24:44+00:00</updated>
-    <author>
-      <name>/u/Individual_Cow_4850</name>
-      <uri>https://old.reddit.com/user/Individual_Cow_4850</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1p676f4/giúp_em_chỉ_ra_lỗi_sai_và_chỉnh_sửa_lại_đoạn_mã/"&gt; &lt;img alt="giúp em chỉ ra lỗi sai và chỉnh sửa lại đoạn mã trong R-Studio vói ạ" src="https://b.thumbs.redditmedia.com/W2t3AFzY1SiHLNWE4XcdxzltmBG_Gq653VtXop2Sa3Y.jpg" title="giúp em chỉ ra lỗi sai và chỉnh sửa lại đoạn mã trong R-Studio vói ạ" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em đang làm đoạn mã trong R-Studio mà vẫn chưa biết phần trên đoạn so sánh AIC &amp;amp; BIC sai chỗ nào mà chạy mãi không ra. &lt;/p&gt; &lt;p&gt;Với các yêu cầu như sau:&lt;strong&gt;Mô hình chu kỳ (Lãi suất vay)&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;- Kiểm định tính dừng, xác định các chỉ số ACF và PACF.&lt;/p&gt; &lt;p&gt;- Chọn mô hình phù hợp để dự báo AR(p), MA(q) hoặc ARMA(p;q).&lt;/p&gt; &lt;p&gt;- Dự báo cho giai đoạn 2026 – 2034.&lt;/p&gt; &lt;p&gt;Và dưới đây là toàn bộ, đoạn mã và phần báo lỗi ạ. Em cũng không chắc chắn toàn bộ phần trên của em đều đúng cả đâu ạ. mong mọi người chỉ ra lỗi sai và hướng dẫn em chình sửa với ạ&lt;/p&gt; &lt;p&gt;&lt;a href="https://preview.redd.it/jtvyfvf7xc3g1.png?width=1256&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=c01c089a103980f314ae47de34947a19d0cd65da"&gt;https://preview.redd.it/jtvyfvf7xc3g1.png?width=1256&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=c01c089a103980f314ae47de34947a19d0cd65da&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;a href="https://preview.redd.it/kf2fbajixc3g1.png?width=892&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=4175b4b2698abb2dcd9ce91290afdea5ee0cd7d4"&gt;https://preview.redd.it/kf2fbajixc3g1.png?width=892&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=4175b4b2698abb2dcd9ce91290afdea5ee0cd7d4&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;a href="https://preview.redd.it/gtwh1apjxc3g1.png?width=1332&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=3baff29c55798fbde7b11f1802dd7c953a55f601"&gt;https://preview.redd.it/gtwh1apjxc3g1.png?width=1332&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=3baff29c55798fbde7b11f1802dd7c953a55f601&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Individual_Cow_4850"&gt; /u/Individual_Cow_4850 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p676f4/giúp_em_chỉ_ra_lỗi_sai_và_chỉnh_sửa_lại_đoạn_mã/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p676f4/giúp_em_chỉ_ra_lỗi_sai_và_chỉnh_sửa_lại_đoạn_mã/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p676f4/giúp_em_chỉ_ra_lỗi_sai_và_chỉnh_sửa_lại_đoạn_mã/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-25T08:24:44+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1p6b2z5</id>
-    <title>Emotional Wellbeing workshop in Hanoi! Starting 22nd of November last for 5 consecutive weeks.</title>
-    <updated>2025-11-25T12:23:34+00:00</updated>
-    <author>
-      <name>/u/Parking-Leek-2568</name>
-      <uri>https://old.reddit.com/user/Parking-Leek-2568</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi everyone,&lt;br /&gt; We’re CapacityVietnam, an mental-health organization based in Hanoi. We’re preparing a small in-person emotional workshop with a psychotherapist from Australia who will be joining us specifically for this program.&lt;/p&gt; &lt;p&gt;There isn’t much in Hanoi offering community-based emotional health workshops led by trained psychotherapists, so we’re curious:&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Would you (locals or travellers) be interested in something like this?&lt;/strong&gt;&lt;br /&gt; We’re just trying to gauge interest from the community to spread it to those who need it.&lt;/p&gt; &lt;p&gt;Happy to share more details if anyone wants to know more!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Parking-Leek-2568"&gt; /u/Parking-Leek-2568 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p6b2z5/emotional_wellbeing_workshop_in_hanoi_starting/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p6b2z5/emotional_wellbeing_workshop_in_hanoi_starting/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p6b2z5/emotional_wellbeing_workshop_in_hanoi_starting/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-25T12:23:34+00:00</published>
-  </entry>
   <entry>
     <id>t3_1p66d66</id>
     <title>Nghề tài xế</title>
@@ -58,19 +32,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1p65b97/hẹn_người_hay_hỏi_cảm_xúc/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-25T06:27:38+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1p6doxf</id>
-    <title>Nên kinh doanh gì đây</title>
-    <updated>2025-11-25T14:22:51+00:00</updated>
-    <author>
-      <name>/u/Temporary-Sink8124</name>
-      <uri>https://old.reddit.com/user/Temporary-Sink8124</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Bây giờ hầu như tất cả mọi mặt hàng đều đã bán , tôi thật sự muốn bán một thứ gì đó,tôi có ít nguồn giày dép , quần áo từ Trung Quốc nhưng giá khá cao không thể cạnh tranh. Các bác nghĩ giúp tôi giờ mình có thể bán mặt hàng gì ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Temporary-Sink8124"&gt; /u/Temporary-Sink8124 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p6doxf/nên_kinh_doanh_gì_đây/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p6doxf/nên_kinh_doanh_gì_đây/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p6doxf/nên_kinh_doanh_gì_đây/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-25T14:22:51+00:00</published>
   </entry>
   <entry>
     <id>t3_1p69bju</id>
@@ -99,19 +60,6 @@
     <published>2025-11-25T01:03:42+00:00</published>
   </entry>
   <entry>
-    <id>t3_1p613sd</id>
-    <title>Xin kinh nghiệm làm nhà phân phối sữa Vinamilk, TH và thực phẩm khô</title>
-    <updated>2025-11-25T02:45:19+00:00</updated>
-    <author>
-      <name>/u/Tungnguoilao</name>
-      <uri>https://old.reddit.com/user/Tungnguoilao</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình hiện tại đang làm mảng KHDN tại ngân hàng có vốn nhà nước mà stress quá nên dự tính sang năm nghỉ việc về quê vợ để làm nhà phân phối các nhãn hàng sữa, thực phẩm khô, bia rược nước giải khát. Hiện tại mình có vốn tầm 1 tỷ và chưa có kinh nghiệm kinh doanh bao giờ. Mọi người cho mình xin chút lời khuyên và kinh nghiệm trong ngành này với. 🥳&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Tungnguoilao"&gt; /u/Tungnguoilao &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p613sd/xin_kinh_nghiệm_làm_nhà_phân_phối_sữa_vinamilk_th/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p613sd/xin_kinh_nghiệm_làm_nhà_phân_phối_sữa_vinamilk_th/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p613sd/xin_kinh_nghiệm_làm_nhà_phân_phối_sữa_vinamilk_th/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-25T02:45:19+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1p6e63n</id>
     <title>V/v kê khai nhầm số tiền doanh thu CNKD-TMĐT</title>
     <updated>2025-11-25T14:42:25+00:00</updated>
@@ -136,19 +84,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1p6enxz/không_đi_đám_cưới_đồng_nghiệp_có_sao_không_các_bác/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-25T15:01:54+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1p61mva</id>
-    <title>Những điều hiểu sai về người hướng nội</title>
-    <updated>2025-11-25T03:10:21+00:00</updated>
-    <author>
-      <name>/u/Interesting_Cash_783</name>
-      <uri>https://old.reddit.com/user/Interesting_Cash_783</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="https://www.blogger.com/blog/post/edit/7178874957399321252/4969295299409199670#"&gt;&lt;/a&gt;Rụt rè, ít nói, lầm lỳ, không năng nổ, trầm tính &lt;/p&gt; &lt;p&gt;Luôn đưa phiếu bầu là không đi khi tổ chức các cuộc đi chơi nhóm&lt;/p&gt; &lt;p&gt;Nếu bảo người hướng nội lên thuyết trình không khác gì là một cuộc tra tấn tinh thần mà không tốn sức&lt;/p&gt; &lt;p&gt;Lên thuyết trình tim đập như bom dội, thiếu điều muốn lòi ra khỏi lồng ngực, cảm giác lồng ngực không kiềm lại được &lt;strong&gt;tim đập bịch bịch&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Và họ rất ít bạn&lt;/p&gt; &lt;p&gt;Đối với họ chữ bạn là &lt;strong&gt;bạn thân&lt;/strong&gt;, &lt;strong&gt;bạn yêu thương nhau&lt;/strong&gt; chứ không phải là bạn xã giao, mối quan hệ rộng&lt;/p&gt; &lt;p&gt;Dễ hiểu bạn của họ ít lại càng ít hơn theo năm tháng,&lt;/p&gt; &lt;p&gt;Người hướng nội họ luôn đặt ý nghĩa trong mọi việc &lt;/p&gt; &lt;p&gt;Nếu không ý nghĩa, thấy xàm xàm, vô nghĩa nên họ sẽ không tham gia hoặc không hứng thú&lt;/p&gt; &lt;p&gt;Và đó chính là tui một người hướng nội&lt;/p&gt; &lt;p&gt;Một số người thân nói tui không phải hướng nội vì tui nói nhiều&lt;/p&gt; &lt;p&gt;Vì sao lại có chuyện này?&lt;/p&gt; &lt;p&gt;Thật ra người hướng nội không phải là nói ít, họ chỉ nói nhiều với những người mà họ thân và quý, &lt;/p&gt; &lt;p&gt;Chỉ nói những điều mà bản thân họ thấy đúng, họ tâm đắc&lt;/p&gt; &lt;p&gt;Nhất là tui chỉ thích nói về những gì bản thân đã làm được, đã trải qua, vì có như vậy không bị bảo là nổ hay chém gió&lt;/p&gt; &lt;p&gt;Qua những ý trên chắc hẳn bạn cũng hiểu &lt;strong&gt;người hướng nội là gì?&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Tui không biết mình hướng nội cho đến khi đi làm, nơi bắt bản thân phải thể hiện và tiếp xúc nhiều hơn với bên ngoài&lt;/p&gt; &lt;p&gt;Đến một lúc thấy mình có vẻ khác với mọi người&lt;/p&gt; &lt;p&gt;Tìm hiểu thì mới nhận ra bản thân là người &lt;strong&gt;hướng nội&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Cũng đọc sách người hướng nội xem có gì hay ho không và tìm hiểu thêm về bản thân mình thì lại thấy sách viết cũng chung chung không giải thích cặn kẽ&lt;/p&gt; &lt;p&gt;Sách cũng ghi và một số nơi cũng ghi là những người này có những điểm mạnh riêng&lt;/p&gt; &lt;p&gt;Nhưng lạ nỗi họ chỉ chăm chăm vào nhược điểm, những điểm hạn chế mà tính cách này mang lại&lt;/p&gt; &lt;p&gt;Họ cũng muốn thay đổi, muốn hoà nhập&lt;/p&gt; &lt;p&gt;Nhưng không được vì nếu làm vậy vô hình đang mang cho mình những lớp mặt nạ, ép bản thân phải làm điều mà họ không muốn, là cực hình&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Thế giới của người hướng nội có gì?&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Nhiều người nhìn vào thì sẽ chán ngắt thấy không có gì thú vị&lt;/p&gt; &lt;p&gt;Đại đa số thế giới của họ toàn là những hoạt động một mình&lt;/p&gt; &lt;p&gt;Những hoạt động một mình&lt;/p&gt; &lt;p&gt;Điều đó dẫn đến &lt;strong&gt;sở thích của người hướng nội&lt;/strong&gt; cũng chỉ một mình&lt;/p&gt; &lt;p&gt;Tập gym, chơi thể thao ưu tiên ít người, mà lạ nỗi tui lại mê môn bóng chuyền :))&lt;/p&gt; &lt;p&gt;Đọc sách&lt;/p&gt; &lt;p&gt;Thích những nơi yên tĩnh và không ồn ào&lt;/p&gt; &lt;p&gt;...&lt;/p&gt; &lt;p&gt;Nếu có khả năng họ muốn bản thân là người làm việc độc lập&lt;/p&gt; &lt;p&gt;Có làm việc nhóm thì đó là những người mà họ yêu quý, hoặc chí ít là mọi người thật sự vì mục tiêu chung chứ không phải là đùn đẩy. Nếu bạn nào đã từng làm việc nhóm sẽ hiểu nỗi đau khổ này, nói là làm việc nhóm nhưng thật chất một đứa ôm Xô hết, còn lại cũng làm nhưng làm cho có, làm như không làm. Chả hiểu chuyện này lại rất nhiều người gặp phải&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Có rất nhiều loại hướng nội&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Nhưng nội gì thì nội cũng phải ghé ngoại, không thể nào mà cứ mãi một mình hoài&lt;/p&gt; &lt;p&gt;Cũng phải gặp gỡ và kết nối với bên ngoài&lt;/p&gt; &lt;p&gt;Chứ cứ một mình hoài sẽ không ổn và ảnh hưởng đến tinh thần&lt;/p&gt; &lt;p&gt;Hướng nội nạp năng lượng bằng cách ở một mình, nhưng khi đầy rồi cũng phải xả ra&lt;/p&gt; &lt;p&gt;Chứ ứ năng lượng bị béo phì thì sao :))&lt;/p&gt; &lt;p&gt;Nhưng họ rất nhanh tụt năng lượng ở nơi đông người hay nơi mà họ không thích. Y như bị chai pin :))&lt;/p&gt; &lt;p&gt;Làm sao để &lt;strong&gt;hoá giải lời nguyền&lt;/strong&gt; bởi tính cách này mang lại?&lt;/p&gt; &lt;p&gt;Không cần phải nói, thời gian đầu chưa quen cảm giác tại sao mình lại là &lt;strong&gt;người như rứa nữa&lt;/strong&gt; (đây là giọng Huế, nghĩa là người như vậy nữa)&lt;/p&gt; &lt;p&gt;Tính cách không muốn nói là toàn là những điều hạn chế&lt;/p&gt; &lt;p&gt;Nơi làm việc nào cũng muốn một người hoạt ngôn, năng nổ, bùng nổ&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Vậy phải làm sao?&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Hãy dùng chính nhược điểm thích một mình để hoá giải lời nguyền&lt;/p&gt; &lt;p&gt;Bằng cách nào?&lt;/p&gt; &lt;p&gt;Sự tự ti đến từ không tự tin, mà không tự tin thì đến từ sự không hài lòng về bản thân&lt;/p&gt; &lt;p&gt;Hãy đi tập gym, &lt;/p&gt; &lt;p&gt;Đây lại là điểm mạnh, vì điều đầu tiên để thành công ở bộ môn này là sự kỷ luật&lt;/p&gt; &lt;p&gt;Chính vì ít bạn, ít mối quan hệ mà mềnh có thể đi tập một cách có kỷ luật mà không lo ảnh hưởng đến các mối quan hệ&lt;/p&gt; &lt;p&gt;Có một số bạn thất bại trong việc đi tập, nguyên nhân cũng là vì các mối quan hệ rủ đi chơi, rủ gặp mặt vào đúng giờ đi tập, không đi thì sợ mất bạn, mất mối quan hệ nên bỏ tập&lt;/p&gt; &lt;p&gt;3 năm sau: khi bản thân tăng cân tăng cơ rồi, mặc đồ bắt đầu đẹp rồi thì tự tin đến lúc nào không hay&lt;/p&gt; &lt;p&gt;Từ việc chán ghét đi thử đồ vì mặc không đẹp&lt;/p&gt; &lt;p&gt;Thì nay lại thích mặc đồ ba lỗ, và cũng muốn đi biển&lt;/p&gt; &lt;p&gt;Và vậy là giải quyết được tự ti và có tự tin&lt;/p&gt; &lt;p&gt;Thế còn ít nói, và không hoạt ngôn thì sao?&lt;/p&gt; &lt;p&gt;Không còn cách nào khác ngoài việc phải bắt bản thân phải nói chuyện&lt;/p&gt; &lt;p&gt;Vì có muốn hay không cuộc sống cũng phải nói chuyện và giao tiếp với mọi người xung quanh&lt;/p&gt; &lt;p&gt;Đi làm bán hàng rồi cũng sẽ quen&lt;/p&gt; &lt;p&gt;Đọc sách về một vấn đề mà bản thân quan tâm&lt;/p&gt; &lt;p&gt;Hay một chuyện mà bản thân muốn giải quyết&lt;/p&gt; &lt;p&gt;Đọc chỉ vài cuốn thôi tự nhiên cứ miệng giựt giựt muốn tìm người để chém gió những điều mà bản thân biết&lt;/p&gt; &lt;p&gt;Như tui thấy việc nói chuyện với mọi người hạn chế quá, nên lập hẳn cái blog để viết ra,&lt;/p&gt; &lt;p&gt;Ôi trời không biết nói cái quần gì mà cũng viết được 84 bài rồi&lt;/p&gt; &lt;p&gt;Không biết là có hữu ích hay không hay lại xàm xàm&lt;/p&gt; &lt;p&gt;Hướng nội có một điều là họ mang trong mình nhiều nỗi sợ to lớn&lt;/p&gt; &lt;p&gt;Không thể nào trốn tránh được, phải đối mặt và vượt qua&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Interesting_Cash_783"&gt; /u/Interesting_Cash_783 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p61mva/những_điều_hiểu_sai_về_người_hướng_nội/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p61mva/những_điều_hiểu_sai_về_người_hướng_nội/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p61mva/những_điều_hiểu_sai_về_người_hướng_nội/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-25T03:10:21+00:00</published>
   </entry>
   <entry>
     <id>t3_1p6esvf</id>
@@ -177,6 +112,19 @@
     <published>2025-11-25T15:09:00+00:00</published>
   </entry>
   <entry>
+    <id>t3_1p613sd</id>
+    <title>Xin kinh nghiệm làm nhà phân phối sữa Vinamilk, TH và thực phẩm khô</title>
+    <updated>2025-11-25T02:45:19+00:00</updated>
+    <author>
+      <name>/u/Tungnguoilao</name>
+      <uri>https://old.reddit.com/user/Tungnguoilao</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình hiện tại đang làm mảng KHDN tại ngân hàng có vốn nhà nước mà stress quá nên dự tính sang năm nghỉ việc về quê vợ để làm nhà phân phối các nhãn hàng sữa, thực phẩm khô, bia rược nước giải khát. Hiện tại mình có vốn tầm 1 tỷ và chưa có kinh nghiệm kinh doanh bao giờ. Mọi người cho mình xin chút lời khuyên và kinh nghiệm trong ngành này với. 🥳&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Tungnguoilao"&gt; /u/Tungnguoilao &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p613sd/xin_kinh_nghiệm_làm_nhà_phân_phối_sữa_vinamilk_th/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p613sd/xin_kinh_nghiệm_làm_nhà_phân_phối_sữa_vinamilk_th/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p613sd/xin_kinh_nghiệm_làm_nhà_phân_phối_sữa_vinamilk_th/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-25T02:45:19+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1p6fnmk</id>
     <title>Máy ảnh đầu tiên nên chọn gì tài chính dưới 7tr</title>
     <updated>2025-11-25T15:39:59+00:00</updated>
@@ -188,6 +136,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1p6fnmk/máy_ảnh_đầu_tiên_nên_chọn_gì_tài_chính_dưới_7tr/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-25T15:39:59+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1p61mva</id>
+    <title>Những điều hiểu sai về người hướng nội</title>
+    <updated>2025-11-25T03:10:21+00:00</updated>
+    <author>
+      <name>/u/Interesting_Cash_783</name>
+      <uri>https://old.reddit.com/user/Interesting_Cash_783</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="https://www.blogger.com/blog/post/edit/7178874957399321252/4969295299409199670#"&gt;&lt;/a&gt;Rụt rè, ít nói, lầm lỳ, không năng nổ, trầm tính &lt;/p&gt; &lt;p&gt;Luôn đưa phiếu bầu là không đi khi tổ chức các cuộc đi chơi nhóm&lt;/p&gt; &lt;p&gt;Nếu bảo người hướng nội lên thuyết trình không khác gì là một cuộc tra tấn tinh thần mà không tốn sức&lt;/p&gt; &lt;p&gt;Lên thuyết trình tim đập như bom dội, thiếu điều muốn lòi ra khỏi lồng ngực, cảm giác lồng ngực không kiềm lại được &lt;strong&gt;tim đập bịch bịch&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Và họ rất ít bạn&lt;/p&gt; &lt;p&gt;Đối với họ chữ bạn là &lt;strong&gt;bạn thân&lt;/strong&gt;, &lt;strong&gt;bạn yêu thương nhau&lt;/strong&gt; chứ không phải là bạn xã giao, mối quan hệ rộng&lt;/p&gt; &lt;p&gt;Dễ hiểu bạn của họ ít lại càng ít hơn theo năm tháng,&lt;/p&gt; &lt;p&gt;Người hướng nội họ luôn đặt ý nghĩa trong mọi việc &lt;/p&gt; &lt;p&gt;Nếu không ý nghĩa, thấy xàm xàm, vô nghĩa nên họ sẽ không tham gia hoặc không hứng thú&lt;/p&gt; &lt;p&gt;Và đó chính là tui một người hướng nội&lt;/p&gt; &lt;p&gt;Một số người thân nói tui không phải hướng nội vì tui nói nhiều&lt;/p&gt; &lt;p&gt;Vì sao lại có chuyện này?&lt;/p&gt; &lt;p&gt;Thật ra người hướng nội không phải là nói ít, họ chỉ nói nhiều với những người mà họ thân và quý, &lt;/p&gt; &lt;p&gt;Chỉ nói những điều mà bản thân họ thấy đúng, họ tâm đắc&lt;/p&gt; &lt;p&gt;Nhất là tui chỉ thích nói về những gì bản thân đã làm được, đã trải qua, vì có như vậy không bị bảo là nổ hay chém gió&lt;/p&gt; &lt;p&gt;Qua những ý trên chắc hẳn bạn cũng hiểu &lt;strong&gt;người hướng nội là gì?&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Tui không biết mình hướng nội cho đến khi đi làm, nơi bắt bản thân phải thể hiện và tiếp xúc nhiều hơn với bên ngoài&lt;/p&gt; &lt;p&gt;Đến một lúc thấy mình có vẻ khác với mọi người&lt;/p&gt; &lt;p&gt;Tìm hiểu thì mới nhận ra bản thân là người &lt;strong&gt;hướng nội&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Cũng đọc sách người hướng nội xem có gì hay ho không và tìm hiểu thêm về bản thân mình thì lại thấy sách viết cũng chung chung không giải thích cặn kẽ&lt;/p&gt; &lt;p&gt;Sách cũng ghi và một số nơi cũng ghi là những người này có những điểm mạnh riêng&lt;/p&gt; &lt;p&gt;Nhưng lạ nỗi họ chỉ chăm chăm vào nhược điểm, những điểm hạn chế mà tính cách này mang lại&lt;/p&gt; &lt;p&gt;Họ cũng muốn thay đổi, muốn hoà nhập&lt;/p&gt; &lt;p&gt;Nhưng không được vì nếu làm vậy vô hình đang mang cho mình những lớp mặt nạ, ép bản thân phải làm điều mà họ không muốn, là cực hình&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Thế giới của người hướng nội có gì?&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Nhiều người nhìn vào thì sẽ chán ngắt thấy không có gì thú vị&lt;/p&gt; &lt;p&gt;Đại đa số thế giới của họ toàn là những hoạt động một mình&lt;/p&gt; &lt;p&gt;Những hoạt động một mình&lt;/p&gt; &lt;p&gt;Điều đó dẫn đến &lt;strong&gt;sở thích của người hướng nội&lt;/strong&gt; cũng chỉ một mình&lt;/p&gt; &lt;p&gt;Tập gym, chơi thể thao ưu tiên ít người, mà lạ nỗi tui lại mê môn bóng chuyền :))&lt;/p&gt; &lt;p&gt;Đọc sách&lt;/p&gt; &lt;p&gt;Thích những nơi yên tĩnh và không ồn ào&lt;/p&gt; &lt;p&gt;...&lt;/p&gt; &lt;p&gt;Nếu có khả năng họ muốn bản thân là người làm việc độc lập&lt;/p&gt; &lt;p&gt;Có làm việc nhóm thì đó là những người mà họ yêu quý, hoặc chí ít là mọi người thật sự vì mục tiêu chung chứ không phải là đùn đẩy. Nếu bạn nào đã từng làm việc nhóm sẽ hiểu nỗi đau khổ này, nói là làm việc nhóm nhưng thật chất một đứa ôm Xô hết, còn lại cũng làm nhưng làm cho có, làm như không làm. Chả hiểu chuyện này lại rất nhiều người gặp phải&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Có rất nhiều loại hướng nội&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Nhưng nội gì thì nội cũng phải ghé ngoại, không thể nào mà cứ mãi một mình hoài&lt;/p&gt; &lt;p&gt;Cũng phải gặp gỡ và kết nối với bên ngoài&lt;/p&gt; &lt;p&gt;Chứ cứ một mình hoài sẽ không ổn và ảnh hưởng đến tinh thần&lt;/p&gt; &lt;p&gt;Hướng nội nạp năng lượng bằng cách ở một mình, nhưng khi đầy rồi cũng phải xả ra&lt;/p&gt; &lt;p&gt;Chứ ứ năng lượng bị béo phì thì sao :))&lt;/p&gt; &lt;p&gt;Nhưng họ rất nhanh tụt năng lượng ở nơi đông người hay nơi mà họ không thích. Y như bị chai pin :))&lt;/p&gt; &lt;p&gt;Làm sao để &lt;strong&gt;hoá giải lời nguyền&lt;/strong&gt; bởi tính cách này mang lại?&lt;/p&gt; &lt;p&gt;Không cần phải nói, thời gian đầu chưa quen cảm giác tại sao mình lại là &lt;strong&gt;người như rứa nữa&lt;/strong&gt; (đây là giọng Huế, nghĩa là người như vậy nữa)&lt;/p&gt; &lt;p&gt;Tính cách không muốn nói là toàn là những điều hạn chế&lt;/p&gt; &lt;p&gt;Nơi làm việc nào cũng muốn một người hoạt ngôn, năng nổ, bùng nổ&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Vậy phải làm sao?&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Hãy dùng chính nhược điểm thích một mình để hoá giải lời nguyền&lt;/p&gt; &lt;p&gt;Bằng cách nào?&lt;/p&gt; &lt;p&gt;Sự tự ti đến từ không tự tin, mà không tự tin thì đến từ sự không hài lòng về bản thân&lt;/p&gt; &lt;p&gt;Hãy đi tập gym, &lt;/p&gt; &lt;p&gt;Đây lại là điểm mạnh, vì điều đầu tiên để thành công ở bộ môn này là sự kỷ luật&lt;/p&gt; &lt;p&gt;Chính vì ít bạn, ít mối quan hệ mà mềnh có thể đi tập một cách có kỷ luật mà không lo ảnh hưởng đến các mối quan hệ&lt;/p&gt; &lt;p&gt;Có một số bạn thất bại trong việc đi tập, nguyên nhân cũng là vì các mối quan hệ rủ đi chơi, rủ gặp mặt vào đúng giờ đi tập, không đi thì sợ mất bạn, mất mối quan hệ nên bỏ tập&lt;/p&gt; &lt;p&gt;3 năm sau: khi bản thân tăng cân tăng cơ rồi, mặc đồ bắt đầu đẹp rồi thì tự tin đến lúc nào không hay&lt;/p&gt; &lt;p&gt;Từ việc chán ghét đi thử đồ vì mặc không đẹp&lt;/p&gt; &lt;p&gt;Thì nay lại thích mặc đồ ba lỗ, và cũng muốn đi biển&lt;/p&gt; &lt;p&gt;Và vậy là giải quyết được tự ti và có tự tin&lt;/p&gt; &lt;p&gt;Thế còn ít nói, và không hoạt ngôn thì sao?&lt;/p&gt; &lt;p&gt;Không còn cách nào khác ngoài việc phải bắt bản thân phải nói chuyện&lt;/p&gt; &lt;p&gt;Vì có muốn hay không cuộc sống cũng phải nói chuyện và giao tiếp với mọi người xung quanh&lt;/p&gt; &lt;p&gt;Đi làm bán hàng rồi cũng sẽ quen&lt;/p&gt; &lt;p&gt;Đọc sách về một vấn đề mà bản thân quan tâm&lt;/p&gt; &lt;p&gt;Hay một chuyện mà bản thân muốn giải quyết&lt;/p&gt; &lt;p&gt;Đọc chỉ vài cuốn thôi tự nhiên cứ miệng giựt giựt muốn tìm người để chém gió những điều mà bản thân biết&lt;/p&gt; &lt;p&gt;Như tui thấy việc nói chuyện với mọi người hạn chế quá, nên lập hẳn cái blog để viết ra,&lt;/p&gt; &lt;p&gt;Ôi trời không biết nói cái quần gì mà cũng viết được 84 bài rồi&lt;/p&gt; &lt;p&gt;Không biết là có hữu ích hay không hay lại xàm xàm&lt;/p&gt; &lt;p&gt;Hướng nội có một điều là họ mang trong mình nhiều nỗi sợ to lớn&lt;/p&gt; &lt;p&gt;Không thể nào trốn tránh được, phải đối mặt và vượt qua&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Interesting_Cash_783"&gt; /u/Interesting_Cash_783 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p61mva/những_điều_hiểu_sai_về_người_hướng_nội/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p61mva/những_điều_hiểu_sai_về_người_hướng_nội/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p61mva/những_điều_hiểu_sai_về_người_hướng_nội/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-25T03:10:21+00:00</published>
   </entry>
   <entry>
     <id>t3_1p6ao2p</id>
@@ -203,17 +164,30 @@
     <published>2025-11-25T12:02:05+00:00</published>
   </entry>
   <entry>
-    <id>t3_1p6ayof</id>
-    <title>Tăng lực bấm cho ngón tay</title>
-    <updated>2025-11-25T12:17:15+00:00</updated>
+    <id>t3_1p6g28h</id>
+    <title>Kinh tế sắp tới ?</title>
+    <updated>2025-11-25T15:55:17+00:00</updated>
     <author>
-      <name>/u/YogurtChuoiBo</name>
-      <uri>https://old.reddit.com/user/YogurtChuoiBo</uri>
+      <name>/u/thinhtan</name>
+      <uri>https://old.reddit.com/user/thinhtan</uri>
     </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1p6ayof/tăng_lực_bấm_cho_ngón_tay/"&gt; &lt;img alt="Tăng lực bấm cho ngón tay" src="https://b.thumbs.redditmedia.com/1vcggRo-hx64wMPIuYOnzXdE92KJkupeGm9jkKKtzus.jpg" title="Tăng lực bấm cho ngón tay" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em tập đàn thấy lực bấm mình khá yếu nên tính mua cái này về tập,cho em hỏi là hai cái này nó có gì khác nhau hông ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/YogurtChuoiBo"&gt; /u/YogurtChuoiBo &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1p6ayof"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p6ayof/tăng_lực_bấm_cho_ngón_tay/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p6ayof/tăng_lực_bấm_cho_ngón_tay/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mấy nay vàng xuống lên thất thường mn ạ, sắp có tin đổi tiền nữa, có cả mẫu tiền 1Đ mới nữa, mình cảm nhận sao có mùi đáng nghi quá 🥲 nếu đổi thì có phải thông qua luật lệ quốc hội gì ko chứ lấy ý kiến quần chúng nhân dân là ko có rồi đó…&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/thinhtan"&gt; /u/thinhtan &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p6g28h/kinh_tế_sắp_tới/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p6g28h/kinh_tế_sắp_tới/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p6g28h/kinh_tế_sắp_tới/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-25T12:17:15+00:00</published>
+    <published>2025-11-25T15:55:17+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1p6g2h7</id>
+    <title>Tâm sự cuộc sống của tester</title>
+    <updated>2025-11-25T15:55:32+00:00</updated>
+    <author>
+      <name>/u/Gold_Ad1976</name>
+      <uri>https://old.reddit.com/user/Gold_Ad1976</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Có thể các bác nghe nhiều về cuộc sống dev rồi nhưng ít nghe về tester đúng k ạ . E là một manual tester , tầng đáy của xã hội IT . Chuyện là e thấy con bé leader của e nó hãm mà e biết xử lí như nào lên đây tâm sự, có thể xin các bác chút lời khuyên gọi là có nên tiếp tục công việc được k ạ ?&lt;/p&gt; &lt;p&gt;Chuyện là đợt vừa rồi trong cuộc họp , bé đó có nhắc tới e là đứa nhận được fb k tốt từ các project leader , kêu test gì mà để KH raise lên nhiều lần. Nói chung lúc đó e muối mặt lắm vì thực sự e cũng tự nhận mình amateur trong cái công việc này ( e trái ngành , nhảy việc từ con số 0 về IT, học lớp ngắn hạn và vào dc công ty nhờ có bằng ngoại ngữ ) NHƯNG có một điều là e khá bất ngờ rằng trong 2 dự án e làm thì có 1 dự án dù team size nhỏ, chỉ có 3 người, dù hầu như bug KH đều là update logic chứ k phải là bắt lỗi cụ thể thì e vẫn nhận được cái đánh giá k tốt như này. Vì cảm thấy bất công nên sau khi họp thì e có chủ động nhắn tin cho PL để hỏi khuyết điểm, cũng như rõ vấn đề chuyện KH raise lên cái gì mà e cũng k biết, PL cũng chỉ nói rằng à cái đó a thấy e hay verify bug OK hết nên cần tự tạo thêm test case để tìm thêm bug . á à Hoá ra bé Leader e tự phím them câu chuyện đó vào . PL cũng có xin lỗi e nếu có gì fb k đúng ( mà e thì cũng chả có quyền gì nói k đúng cả ) thì tự nhiên 1 lúc sau leader quay sang chửi e các bác ạ . Hoá ra là PL nói leader về chuyện feedback này kia.Thế là e phải đi xin lỗi cả leader 🫦&lt;/p&gt; &lt;p&gt;Ok. Chưa hết. Tới đoạn con bé này nó bắt đầu đóng vai nạn nhân&lt;/p&gt; &lt;p&gt;Nó vẫn khăng khăng bắt e nhận cái lỗi dự án của bọn e rất tệ và e/tester là nguyên nhân cho cái tệ đó, rồi còn nói a làm gì để khách raise lên nhiều lần. ( thậm chí KH chưa ai gửi fb kiểu như tệ quá này kia ??? ) Khi mà e vẫn chưa đồng ý cái chuyện KH raise lên cái gì mà nhiều lần, e có chia sẻ cho dev chính thì dev chính cũng giải thích đỡ giúp e là thấy có vấn đề gì với test đâu và khách và dev cũng chưa có update logic thì tester sao mà check được. Nhưng con bé vẫn k chịu và nhắn tin e những dòng cuối thế này.&lt;/p&gt; &lt;p&gt;( chuyện là ngày thường e k đặt cơm bên nhóm của nó , và thường mỗi khi bọn e đặt cơm thì nó hay đi ngang qua nói ai đặt cơm của e thì sau này k được đặt đồ ăn bên nó này kia @@ e nghĩ nó có bầu nên e k combat ạ , quán cơm cả công ty ăn cũng là do e giới thiệu ạ). Chưa kể nó như ông nội e , đũa e cất để e xài sau, tự động tới vừa lấy vừa xin. Nhiều khi mua đồ ăn cho nhóm, cũng chêm thêm câu , &amp;quot;a k mua cho e đúng k &amp;quot;&lt;/p&gt; &lt;p&gt;Là sao ? &lt;/p&gt; &lt;p&gt;E chưa thấy nó nói xin lỗi e trong câu chuyện này mà toàn là bọn tester bọn e phải xin lỗi cung phụng nó. E cảm thấy bị chèn ép thế này khó thở quá ạ. Gặp leader hãm lz đếu chịu được&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Gold_Ad1976"&gt; /u/Gold_Ad1976 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/mfs0cb1sdf3g1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p6g2h7/tâm_sự_cuộc_sống_của_tester/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p6g2h7/tâm_sự_cuộc_sống_của_tester/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-25T15:55:32+00:00</published>
   </entry>
   <entry>
     <id>t3_1p67ool</id>
@@ -242,6 +216,19 @@
     <published>2025-11-25T14:00:29+00:00</published>
   </entry>
   <entry>
+    <id>t3_1p6doxf</id>
+    <title>Nên kinh doanh gì đây</title>
+    <updated>2025-11-25T14:22:51+00:00</updated>
+    <author>
+      <name>/u/Temporary-Sink8124</name>
+      <uri>https://old.reddit.com/user/Temporary-Sink8124</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Bây giờ hầu như tất cả mọi mặt hàng đều đã bán , tôi thật sự muốn bán một thứ gì đó,tôi có ít nguồn giày dép , quần áo từ Trung Quốc nhưng giá khá cao không thể cạnh tranh. Các bác nghĩ giúp tôi giờ mình có thể bán mặt hàng gì ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Temporary-Sink8124"&gt; /u/Temporary-Sink8124 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p6doxf/nên_kinh_doanh_gì_đây/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p6doxf/nên_kinh_doanh_gì_đây/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p6doxf/nên_kinh_doanh_gì_đây/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-25T14:22:51+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1p66q4t</id>
     <title>Xin tư vấn địa điểm first date</title>
     <updated>2025-11-25T07:55:57+00:00</updated>
@@ -268,6 +255,19 @@
     <published>2025-11-25T07:56:43+00:00</published>
   </entry>
   <entry>
+    <id>t3_1p6ayof</id>
+    <title>Tăng lực bấm cho ngón tay</title>
+    <updated>2025-11-25T12:17:15+00:00</updated>
+    <author>
+      <name>/u/YogurtChuoiBo</name>
+      <uri>https://old.reddit.com/user/YogurtChuoiBo</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1p6ayof/tăng_lực_bấm_cho_ngón_tay/"&gt; &lt;img alt="Tăng lực bấm cho ngón tay" src="https://b.thumbs.redditmedia.com/1vcggRo-hx64wMPIuYOnzXdE92KJkupeGm9jkKKtzus.jpg" title="Tăng lực bấm cho ngón tay" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em tập đàn thấy lực bấm mình khá yếu nên tính mua cái này về tập,cho em hỏi là hai cái này nó có gì khác nhau hông ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/YogurtChuoiBo"&gt; /u/YogurtChuoiBo &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1p6ayof"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p6ayof/tăng_lực_bấm_cho_ngón_tay/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p6ayof/tăng_lực_bấm_cho_ngón_tay/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-25T12:17:15+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1p65x3y</id>
     <title>Cách giữ phong độ</title>
     <updated>2025-11-25T07:04:15+00:00</updated>
@@ -281,19 +281,6 @@
     <published>2025-11-25T07:04:15+00:00</published>
   </entry>
   <entry>
-    <id>t3_1p6d01c</id>
-    <title>Mặc áo polo 👕 đi phỏng vấn</title>
-    <updated>2025-11-25T13:53:32+00:00</updated>
-    <author>
-      <name>/u/Agile_Psychology_484</name>
-      <uri>https://old.reddit.com/user/Agile_Psychology_484</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1p6d01c/mặc_áo_polo_đi_phỏng_vấn/"&gt; &lt;img alt="Mặc áo polo 👕 đi phỏng vấn" src="https://preview.redd.it/mgzb4ja0se3g1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=8a0e41ad1b8bf9d63af4c04e7500f15ce09b7ce7" title="Mặc áo polo 👕 đi phỏng vấn" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mn cho mình hỏi lúc đi pv có đc mặc áo này và ko đóng thùng đc ko ạ. Mình apply mảng văn phòng ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Agile_Psychology_484"&gt; /u/Agile_Psychology_484 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/mgzb4ja0se3g1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p6d01c/mặc_áo_polo_đi_phỏng_vấn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p6d01c/mặc_áo_polo_đi_phỏng_vấn/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-25T13:53:32+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1p62j5n</id>
     <title>Ai hiểu phần này chỉ cho em với</title>
     <updated>2025-11-25T03:54:48+00:00</updated>
@@ -305,6 +292,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1p62j5n/ai_hiểu_phần_này_chỉ_cho_em_với/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-25T03:54:48+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1p6d01c</id>
+    <title>Mặc áo polo 👕 đi phỏng vấn</title>
+    <updated>2025-11-25T13:53:32+00:00</updated>
+    <author>
+      <name>/u/Agile_Psychology_484</name>
+      <uri>https://old.reddit.com/user/Agile_Psychology_484</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1p6d01c/mặc_áo_polo_đi_phỏng_vấn/"&gt; &lt;img alt="Mặc áo polo 👕 đi phỏng vấn" src="https://preview.redd.it/mgzb4ja0se3g1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=8a0e41ad1b8bf9d63af4c04e7500f15ce09b7ce7" title="Mặc áo polo 👕 đi phỏng vấn" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mn cho mình hỏi lúc đi pv có đc mặc áo này và ko đóng thùng đc ko ạ. Mình apply mảng văn phòng ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Agile_Psychology_484"&gt; /u/Agile_Psychology_484 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/mgzb4ja0se3g1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p6d01c/mặc_áo_polo_đi_phỏng_vấn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p6d01c/mặc_áo_polo_đi_phỏng_vấn/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-25T13:53:32+00:00</published>
   </entry>
   <entry>
     <id>t3_1p69h56</id>
