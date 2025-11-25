@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-11-25T16:29:00+00:00</updated>
+  <updated>2025-11-25T16:54:01+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1p69bju</id>
-    <title>Ở đây có ai có Job remote không nhỉ?</title>
-    <updated>2025-11-25T10:43:40+00:00</updated>
-    <author>
-      <name>/u/Kaleos158</name>
-      <uri>https://old.reddit.com/user/Kaleos158</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tôi là một Designer/editor có công ăn việc làm rồi nhưng mà muốn kiếm thêm một chút thu nhập coi như là để dành. Không biết là trên đây có ai có biết chỗ để tìm hoặc có việc để tôi xin làm.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Kaleos158"&gt; /u/Kaleos158 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p69bju/ở_đây_có_ai_có_job_remote_không_nhỉ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p69bju/ở_đây_có_ai_có_job_remote_không_nhỉ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p69bju/ở_đây_có_ai_có_job_remote_không_nhỉ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-25T10:43:40+00:00</published>
-  </entry>
   <entry>
     <id>t3_1p5yy2d</id>
     <title>Góp ý về kiếm việc làm thêm</title>
@@ -151,19 +138,6 @@
     <published>2025-11-25T14:42:25+00:00</published>
   </entry>
   <entry>
-    <id>t3_1p66q4t</id>
-    <title>Xin tư vấn địa điểm first date</title>
-    <updated>2025-11-25T07:55:57+00:00</updated>
-    <author>
-      <name>/u/Due-Canary-4316</name>
-      <uri>https://old.reddit.com/user/Due-Canary-4316</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chả là tối thứ 5 đang có hẹn với e 2k4 thực tập đi ăn tối sau khi tan làm. Các fen cho xin một vài địa điểm khu vực cầu giấy, mỹ đình, trần duy hưng. budget tầm 2 củ đổ lại. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Due-Canary-4316"&gt; /u/Due-Canary-4316 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p66q4t/xin_tư_vấn_địa_điểm_first_date/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p66q4t/xin_tư_vấn_địa_điểm_first_date/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p66q4t/xin_tư_vấn_địa_điểm_first_date/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-25T07:55:57+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1p66qkd</id>
     <title>Khó khăn đến mức nào để 1 người có thể tuyệt vọng về khả năng của mình</title>
     <updated>2025-11-25T07:56:43+00:00</updated>
@@ -175,6 +149,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1p66qkd/khó_khăn_đến_mức_nào_để_1_người_có_thể_tuyệt_vọng/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-25T07:56:43+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1p66q4t</id>
+    <title>Xin tư vấn địa điểm first date</title>
+    <updated>2025-11-25T07:55:57+00:00</updated>
+    <author>
+      <name>/u/Due-Canary-4316</name>
+      <uri>https://old.reddit.com/user/Due-Canary-4316</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chả là tối thứ 5 đang có hẹn với e 2k4 thực tập đi ăn tối sau khi tan làm. Các fen cho xin một vài địa điểm khu vực cầu giấy, mỹ đình, trần duy hưng. budget tầm 2 củ đổ lại. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Due-Canary-4316"&gt; /u/Due-Canary-4316 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p66q4t/xin_tư_vấn_địa_điểm_first_date/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p66q4t/xin_tư_vấn_địa_điểm_first_date/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p66q4t/xin_tư_vấn_địa_điểm_first_date/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-25T07:55:57+00:00</published>
   </entry>
   <entry>
     <id>t3_1p6fnmk</id>
@@ -203,19 +190,6 @@
     <published>2025-11-25T15:55:17+00:00</published>
   </entry>
   <entry>
-    <id>t3_1p6g2h7</id>
-    <title>Tâm sự cuộc sống của tester</title>
-    <updated>2025-11-25T15:55:32+00:00</updated>
-    <author>
-      <name>/u/Gold_Ad1976</name>
-      <uri>https://old.reddit.com/user/Gold_Ad1976</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1p6g2h7/tâm_sự_cuộc_sống_của_tester/"&gt; &lt;img alt="Tâm sự cuộc sống của tester" src="https://preview.redd.it/mfs0cb1sdf3g1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=59915d13786822e29c71433c434b37b389f56c66" title="Tâm sự cuộc sống của tester" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Có thể các bác nghe nhiều về cuộc sống dev rồi nhưng ít nghe về tester đúng k ạ . E là một manual tester , tầng đáy của xã hội IT . Chuyện là e thấy con bé leader của e nó hãm mà e biết xử lí như nào lên đây tâm sự, có thể xin các bác chút lời khuyên gọi là có nên tiếp tục công việc được k ạ ?&lt;/p&gt; &lt;p&gt;Chuyện là đợt vừa rồi trong cuộc họp , bé đó có nhắc tới e là đứa nhận được fb k tốt từ các project leader , kêu test gì mà để KH raise lên nhiều lần. Nói chung lúc đó e muối mặt lắm vì thực sự e cũng tự nhận mình amateur trong cái công việc này ( e trái ngành , nhảy việc từ con số 0 về IT, học lớp ngắn hạn và vào dc công ty nhờ có bằng ngoại ngữ ) NHƯNG có một điều là e khá bất ngờ rằng trong 2 dự án e làm thì có 1 dự án dù team size nhỏ, chỉ có 3 người, dù hầu như bug KH đều là update logic chứ k phải là bắt lỗi cụ thể thì e vẫn nhận được cái đánh giá k tốt như này. Vì cảm thấy bất công nên sau khi họp thì e có chủ động nhắn tin cho PL để hỏi khuyết điểm, cũng như rõ vấn đề chuyện KH raise lên cái gì mà e cũng k biết, PL cũng chỉ nói rằng à cái đó a thấy e hay verify bug OK hết nên cần tự tạo thêm test case để tìm thêm bug . á à Hoá ra bé Leader e tự phím them câu chuyện đó vào . PL cũng có xin lỗi e nếu có gì fb k đúng ( mà e thì cũng chả có quyền gì nói k đúng cả ) thì tự nhiên 1 lúc sau leader quay sang chửi e các bác ạ . Hoá ra là PL nói leader về chuyện feedback này kia.Thế là e phải đi xin lỗi cả leader 🫦&lt;/p&gt; &lt;p&gt;Ok. Chưa hết. Tới đoạn con bé này nó bắt đầu đóng vai nạn nhân&lt;/p&gt; &lt;p&gt;Nó vẫn khăng khăng bắt e nhận cái lỗi dự án của bọn e rất tệ và e/tester là nguyên nhân cho cái tệ đó, rồi còn nói a làm gì để khách raise lên nhiều lần. ( thậm chí KH chưa ai gửi fb kiểu như tệ quá này kia ??? ) Khi mà e vẫn chưa đồng ý cái chuyện KH raise lên cái gì mà nhiều lần, e có chia sẻ cho dev chính thì dev chính cũng giải thích đỡ giúp e là thấy có vấn đề gì với test đâu và khách và dev cũng chưa có update logic thì tester sao mà check được. Nhưng con bé vẫn k chịu và nhắn tin e những dòng cuối thế này.&lt;/p&gt; &lt;p&gt;( chuyện là ngày thường e k đặt cơm bên nhóm của nó , và thường mỗi khi bọn e đặt cơm thì nó hay đi ngang qua nói ai đặt cơm của e thì sau này k được đặt đồ ăn bên nó này kia @@ e nghĩ nó có bầu nên e k combat ạ , quán cơm cả công ty ăn cũng là do e giới thiệu ạ). Chưa kể nó như ông nội e , đũa e cất để e xài sau, tự động tới vừa lấy vừa xin. Nhiều khi mua đồ ăn cho nhóm, cũng chêm thêm câu , &amp;quot;a k mua cho e đúng k &amp;quot;&lt;/p&gt; &lt;p&gt;Là sao ? &lt;/p&gt; &lt;p&gt;E chưa thấy nó nói xin lỗi e trong câu chuyện này mà toàn là bọn tester bọn e phải xin lỗi cung phụng nó. E cảm thấy bị chèn ép thế này khó thở quá ạ. Gặp leader hãm lz đếu chịu được&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Gold_Ad1976"&gt; /u/Gold_Ad1976 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/mfs0cb1sdf3g1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p6g2h7/tâm_sự_cuộc_sống_của_tester/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p6g2h7/tâm_sự_cuộc_sống_của_tester/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-25T15:55:32+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1p6ayof</id>
     <title>Tăng lực bấm cho ngón tay</title>
     <updated>2025-11-25T12:17:15+00:00</updated>
@@ -242,6 +216,19 @@
     <published>2025-11-25T14:22:51+00:00</published>
   </entry>
   <entry>
+    <id>t3_1p6h981</id>
+    <title>Nên tích bao nhiêu trước khi vay mua nhà</title>
+    <updated>2025-11-25T16:39:18+00:00</updated>
+    <author>
+      <name>/u/Ok_Association9967</name>
+      <uri>https://old.reddit.com/user/Ok_Association9967</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Nay 30t rồi mà còn ở trọ và áp lực gia đình quá. Bây giờ nên tích bao nhiêu trước khi vay bank mua nhà các bác nhi. SG thì giá nhà tăng mãi nhìn con số mà không biết bao giờ mới tích được. Lương mình thì khoảng 50tr tháng, làm mãi mà chưa tích được 1 tỏi nữa. Ốm đau tốn nhiều tiền nữa.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ok_Association9967"&gt; /u/Ok_Association9967 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p6h981/nên_tích_bao_nhiêu_trước_khi_vay_mua_nhà/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p6h981/nên_tích_bao_nhiêu_trước_khi_vay_mua_nhà/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p6h981/nên_tích_bao_nhiêu_trước_khi_vay_mua_nhà/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-25T16:39:18+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1p65x3y</id>
     <title>Cách giữ phong độ</title>
     <updated>2025-11-25T07:04:15+00:00</updated>
@@ -253,6 +240,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1p65x3y/cách_giữ_phong_độ/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-25T07:04:15+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1p6g2h7</id>
+    <title>Tâm sự cuộc sống của tester</title>
+    <updated>2025-11-25T15:55:32+00:00</updated>
+    <author>
+      <name>/u/Gold_Ad1976</name>
+      <uri>https://old.reddit.com/user/Gold_Ad1976</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1p6g2h7/tâm_sự_cuộc_sống_của_tester/"&gt; &lt;img alt="Tâm sự cuộc sống của tester" src="https://preview.redd.it/mfs0cb1sdf3g1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=59915d13786822e29c71433c434b37b389f56c66" title="Tâm sự cuộc sống của tester" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Có thể các bác nghe nhiều về cuộc sống dev rồi nhưng ít nghe về tester đúng k ạ . E là một manual tester , tầng đáy của xã hội IT . Chuyện là e thấy con bé leader của e nó hãm mà e biết xử lí như nào lên đây tâm sự, có thể xin các bác chút lời khuyên gọi là có nên tiếp tục công việc được k ạ ?&lt;/p&gt; &lt;p&gt;Chuyện là đợt vừa rồi trong cuộc họp , bé đó có nhắc tới e là đứa nhận được fb k tốt từ các project leader , kêu test gì mà để KH raise lên nhiều lần. Nói chung lúc đó e muối mặt lắm vì thực sự e cũng tự nhận mình amateur trong cái công việc này ( e trái ngành , nhảy việc từ con số 0 về IT, học lớp ngắn hạn và vào dc công ty nhờ có bằng ngoại ngữ ) NHƯNG có một điều là e khá bất ngờ rằng trong 2 dự án e làm thì có 1 dự án dù team size nhỏ, chỉ có 3 người, dù hầu như bug KH đều là update logic chứ k phải là bắt lỗi cụ thể thì e vẫn nhận được cái đánh giá k tốt như này. Vì cảm thấy bất công nên sau khi họp thì e có chủ động nhắn tin cho PL để hỏi khuyết điểm, cũng như rõ vấn đề chuyện KH raise lên cái gì mà e cũng k biết, PL cũng chỉ nói rằng à cái đó a thấy e hay verify bug OK hết nên cần tự tạo thêm test case để tìm thêm bug . á à Hoá ra bé Leader e tự phím them câu chuyện đó vào . PL cũng có xin lỗi e nếu có gì fb k đúng ( mà e thì cũng chả có quyền gì nói k đúng cả ) thì tự nhiên 1 lúc sau leader quay sang chửi e các bác ạ . Hoá ra là PL nói leader về chuyện feedback này kia.Thế là e phải đi xin lỗi cả leader 🫦&lt;/p&gt; &lt;p&gt;Ok. Chưa hết. Tới đoạn con bé này nó bắt đầu đóng vai nạn nhân&lt;/p&gt; &lt;p&gt;Nó vẫn khăng khăng bắt e nhận cái lỗi dự án của bọn e rất tệ và e/tester là nguyên nhân cho cái tệ đó, rồi còn nói a làm gì để khách raise lên nhiều lần. ( thậm chí KH chưa ai gửi fb kiểu như tệ quá này kia ??? ) Khi mà e vẫn chưa đồng ý cái chuyện KH raise lên cái gì mà nhiều lần, e có chia sẻ cho dev chính thì dev chính cũng giải thích đỡ giúp e là thấy có vấn đề gì với test đâu và khách và dev cũng chưa có update logic thì tester sao mà check được. Nhưng con bé vẫn k chịu và nhắn tin e những dòng cuối thế này.&lt;/p&gt; &lt;p&gt;( chuyện là ngày thường e k đặt cơm bên nhóm của nó , và thường mỗi khi bọn e đặt cơm thì nó hay đi ngang qua nói ai đặt cơm của e thì sau này k được đặt đồ ăn bên nó này kia @@ e nghĩ nó có bầu nên e k combat ạ , quán cơm cả công ty ăn cũng là do e giới thiệu ạ). Chưa kể nó như ông nội e , đũa e cất để e xài sau, tự động tới vừa lấy vừa xin. Nhiều khi mua đồ ăn cho nhóm, cũng chêm thêm câu , &amp;quot;a k mua cho e đúng k &amp;quot;&lt;/p&gt; &lt;p&gt;Là sao ? &lt;/p&gt; &lt;p&gt;E chưa thấy nó nói xin lỗi e trong câu chuyện này mà toàn là bọn tester bọn e phải xin lỗi cung phụng nó. E cảm thấy bị chèn ép thế này khó thở quá ạ. Gặp leader hãm lz đếu chịu được&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Gold_Ad1976"&gt; /u/Gold_Ad1976 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/mfs0cb1sdf3g1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p6g2h7/tâm_sự_cuộc_sống_của_tester/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p6g2h7/tâm_sự_cuộc_sống_của_tester/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-25T15:55:32+00:00</published>
   </entry>
   <entry>
     <id>t3_1p6g6kn</id>
