@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-11-27T04:37:53+00:00</updated>
+  <updated>2025-11-27T04:53:54+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -125,6 +125,19 @@
     <published>2025-11-26T16:26:30+00:00</published>
   </entry>
   <entry>
+    <id>t3_1p7qpv3</id>
+    <title>Chia sẻ cách mình dùng Tool phân tích quảng cáo Facebook &amp; TikTok Shop hiệu quả hơn</title>
+    <updated>2025-11-27T02:31:49+00:00</updated>
+    <author>
+      <name>/u/Forsaken-Sugar-4675</name>
+      <uri>https://old.reddit.com/user/Forsaken-Sugar-4675</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình làm về mảng e-commerce và luôn đau đầu khi phải tự nghĩ ý tưởng quảng cáo từ con số 0. Gần đây mình thử một cách khác: thay vì bắt đầu từ “giả thuyết”, mình đi tìm những quảng cáo đang chạy &lt;em&gt;thực tế&lt;/em&gt; ngoài kia, xem họ đang làm gì tốt và mô phỏng cấu trúc để test lại.&lt;/p&gt; &lt;p&gt;Hiện tại mình dùng kết hợp &lt;strong&gt;hai công cụ&lt;/strong&gt;:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Một công cụ để xem quảng cáo TikTok Shop ở thị trường Việt Nam (lọc theo ngành hàng, thời gian chạy, hiệu suất… khá trực quan).&lt;/li&gt; &lt;li&gt;Một công cụ khác có thể tìm quảng cáo từ nhiều quốc gia và nhiều nền tảng (facebook / tiktok / instagram). Mình dùng để săn sản phẩm hoặc idea từ nước ngoài, xem thị trường nào đang nóng.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;a href="https://reddit.com/link/1p7qpv3/video/ccxqhyesnp3g1/player"&gt;https://reddit.com/link/1p7qpv3/video/ccxqhyesnp3g1/player&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Điểm mình rút ra:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Không nhất thiết phải copy quảng cáo người khác, nhưng có thể học cấu trúc video + cách họ đưa CTA.&lt;/li&gt; &lt;li&gt;Nếu thấy một sản phẩm đã “nổ” ở nước ngoài nhưng chưa xuất hiện nhiều tại Việt Nam → có thể là cơ hội tốt để test.&lt;/li&gt; &lt;li&gt;Spy đúng cách giúp tiết kiệm khá nhiều tiền test ads.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Mình viết bài này chỉ để chia sẻ góc nhìn và cách tiếp cận dữ liệu trước khi chạy quảng cáo. Nếu ai cũng đang làm mảng này và có phương pháp khác hay hơn thì mình rất muốn học hỏi thêm.&lt;/p&gt; &lt;p&gt;Cảm ơn mọi người!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Forsaken-Sugar-4675"&gt; /u/Forsaken-Sugar-4675 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p7qpv3/chia_sẻ_cách_mình_dùng_tool_phân_tích_quảng_cáo/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p7qpv3/chia_sẻ_cách_mình_dùng_tool_phân_tích_quảng_cáo/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p7qpv3/chia_sẻ_cách_mình_dùng_tool_phân_tích_quảng_cáo/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-27T02:31:49+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1p79wbj</id>
     <title>Về giá Iphone 17 thường 256gb 99%</title>
     <updated>2025-11-26T15:00:33+00:00</updated>
@@ -162,19 +175,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1p73mjd/thực_sự_xin_mọi_người_hãy_giúp_mình/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-26T09:40:32+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1p7qpv3</id>
-    <title>Chia sẻ cách mình dùng Tool phân tích quảng cáo Facebook &amp; TikTok Shop hiệu quả hơn</title>
-    <updated>2025-11-27T02:31:49+00:00</updated>
-    <author>
-      <name>/u/Forsaken-Sugar-4675</name>
-      <uri>https://old.reddit.com/user/Forsaken-Sugar-4675</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình làm về mảng e-commerce và luôn đau đầu khi phải tự nghĩ ý tưởng quảng cáo từ con số 0. Gần đây mình thử một cách khác: thay vì bắt đầu từ “giả thuyết”, mình đi tìm những quảng cáo đang chạy &lt;em&gt;thực tế&lt;/em&gt; ngoài kia, xem họ đang làm gì tốt và mô phỏng cấu trúc để test lại.&lt;/p&gt; &lt;p&gt;Hiện tại mình dùng kết hợp &lt;strong&gt;hai công cụ&lt;/strong&gt;:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Một công cụ để xem quảng cáo TikTok Shop ở thị trường Việt Nam (lọc theo ngành hàng, thời gian chạy, hiệu suất… khá trực quan).&lt;/li&gt; &lt;li&gt;Một công cụ khác có thể tìm quảng cáo từ nhiều quốc gia và nhiều nền tảng (facebook / tiktok / instagram). Mình dùng để săn sản phẩm hoặc idea từ nước ngoài, xem thị trường nào đang nóng.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;a href="https://reddit.com/link/1p7qpv3/video/ccxqhyesnp3g1/player"&gt;https://reddit.com/link/1p7qpv3/video/ccxqhyesnp3g1/player&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Điểm mình rút ra:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Không nhất thiết phải copy quảng cáo người khác, nhưng có thể học cấu trúc video + cách họ đưa CTA.&lt;/li&gt; &lt;li&gt;Nếu thấy một sản phẩm đã “nổ” ở nước ngoài nhưng chưa xuất hiện nhiều tại Việt Nam → có thể là cơ hội tốt để test.&lt;/li&gt; &lt;li&gt;Spy đúng cách giúp tiết kiệm khá nhiều tiền test ads.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Mình viết bài này chỉ để chia sẻ góc nhìn và cách tiếp cận dữ liệu trước khi chạy quảng cáo. Nếu ai cũng đang làm mảng này và có phương pháp khác hay hơn thì mình rất muốn học hỏi thêm.&lt;/p&gt; &lt;p&gt;Cảm ơn mọi người!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Forsaken-Sugar-4675"&gt; /u/Forsaken-Sugar-4675 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p7qpv3/chia_sẻ_cách_mình_dùng_tool_phân_tích_quảng_cáo/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p7qpv3/chia_sẻ_cách_mình_dùng_tool_phân_tích_quảng_cáo/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p7qpv3/chia_sẻ_cách_mình_dùng_tool_phân_tích_quảng_cáo/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-27T02:31:49+00:00</published>
   </entry>
   <entry>
     <id>t3_1p7r6ws</id>
@@ -268,17 +268,17 @@
     <published>2025-11-26T09:45:46+00:00</published>
   </entry>
   <entry>
-    <id>t3_1p7sskh</id>
-    <title>Mọi người có lời khuyên gì cho một người muốn sống nhưng hiện không thấy hy vọng ở cuộc sống hay tương lai?</title>
-    <updated>2025-11-27T04:20:40+00:00</updated>
+    <id>t3_1p7n3um</id>
+    <title>Chăm sóc người nhà</title>
+    <updated>2025-11-26T23:35:40+00:00</updated>
     <author>
-      <name>/u/Unique-Tomatillo-530</name>
-      <uri>https://old.reddit.com/user/Unique-Tomatillo-530</uri>
+      <name>/u/xukaduck</name>
+      <uri>https://old.reddit.com/user/xukaduck</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình chỉ không muốn nghe câu nhiều người khổ hơn hay rất muốn sống. Mình sẵn sàng hơn ai hết cho họ thể xác với cuộc sống này nếu mình có thể&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Unique-Tomatillo-530"&gt; /u/Unique-Tomatillo-530 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p7sskh/mọi_người_có_lời_khuyên_gì_cho_một_người_muốn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p7sskh/mọi_người_có_lời_khuyên_gì_cho_một_người_muốn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p7sskh/mọi_người_có_lời_khuyên_gì_cho_một_người_muốn/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em hiện tại đang chăm sóc ông 89 tuổi. Ông có đủ thứ bệnh tuổi già và có bệnh về tim mạch nữa. Ông ở viện nhiều hơn ở nhà, em thật sự ko còn đủ năng lượng và tinh thần để phục vụ nữa. Em mới ra trường 24 tuổi, có mấy lần tìm việc làm mà toàn phải về quê đỡ bố mẹ chăm sóc ông. Mọi người có kinh nghiệm trong việc cân bằng cuộc sống với chăm lo người nhà chia sẻ cho em với. Có bố với em thay nhau chăm ông trong bệnh viện thôi, khó nhờ được ai khác. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/xukaduck"&gt; /u/xukaduck &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p7n3um/chăm_sóc_người_nhà/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p7n3um/chăm_sóc_người_nhà/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p7n3um/chăm_sóc_người_nhà/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-27T04:20:40+00:00</published>
+    <published>2025-11-26T23:35:40+00:00</published>
   </entry>
   <entry>
     <id>t3_1p7r9pg</id>
@@ -294,17 +294,17 @@
     <published>2025-11-27T03:00:22+00:00</published>
   </entry>
   <entry>
-    <id>t3_1p7n3um</id>
-    <title>Chăm sóc người nhà</title>
-    <updated>2025-11-26T23:35:40+00:00</updated>
+    <id>t3_1p7sskh</id>
+    <title>Mọi người có lời khuyên gì cho một người muốn sống nhưng hiện không thấy hy vọng ở cuộc sống hay tương lai?</title>
+    <updated>2025-11-27T04:20:40+00:00</updated>
     <author>
-      <name>/u/xukaduck</name>
-      <uri>https://old.reddit.com/user/xukaduck</uri>
+      <name>/u/Unique-Tomatillo-530</name>
+      <uri>https://old.reddit.com/user/Unique-Tomatillo-530</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em hiện tại đang chăm sóc ông 89 tuổi. Ông có đủ thứ bệnh tuổi già và có bệnh về tim mạch nữa. Ông ở viện nhiều hơn ở nhà, em thật sự ko còn đủ năng lượng và tinh thần để phục vụ nữa. Em mới ra trường 24 tuổi, có mấy lần tìm việc làm mà toàn phải về quê đỡ bố mẹ chăm sóc ông. Mọi người có kinh nghiệm trong việc cân bằng cuộc sống với chăm lo người nhà chia sẻ cho em với. Có bố với em thay nhau chăm ông trong bệnh viện thôi, khó nhờ được ai khác. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/xukaduck"&gt; /u/xukaduck &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p7n3um/chăm_sóc_người_nhà/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p7n3um/chăm_sóc_người_nhà/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p7n3um/chăm_sóc_người_nhà/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình chỉ không muốn nghe câu nhiều người khổ hơn hay rất muốn sống. Mình sẵn sàng hơn ai hết cho họ thể xác với cuộc sống này nếu mình có thể&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Unique-Tomatillo-530"&gt; /u/Unique-Tomatillo-530 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p7sskh/mọi_người_có_lời_khuyên_gì_cho_một_người_muốn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p7sskh/mọi_người_có_lời_khuyên_gì_cho_một_người_muốn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p7sskh/mọi_người_có_lời_khuyên_gì_cho_một_người_muốn/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-26T23:35:40+00:00</published>
+    <published>2025-11-27T04:20:40+00:00</published>
   </entry>
   <entry>
     <id>t3_1p7psxw</id>
