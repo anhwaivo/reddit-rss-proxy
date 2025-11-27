@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-11-27T18:49:10+00:00</updated>
+  <updated>2025-11-27T19:14:52+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -255,19 +255,6 @@
     <published>2025-11-27T07:10:02+00:00</published>
   </entry>
   <entry>
-    <id>t3_1p80sls</id>
-    <title>Reddit có an toàn cho những phát ngôn chánh chụy</title>
-    <updated>2025-11-27T12:16:42+00:00</updated>
-    <author>
-      <name>/u/Key_Department4635</name>
-      <uri>https://old.reddit.com/user/Key_Department4635</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình tham gia được 8 tháng rồi . Thấy anh em hoạt động trên này ầm ầm . Không biết có an toàn không . Chánh quyền có quản lý được không . Xin giải đáp giúp .&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Key_Department4635"&gt; /u/Key_Department4635 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p80sls/reddit_có_an_toàn_cho_những_phát_ngôn_chánh_chụy/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p80sls/reddit_có_an_toàn_cho_những_phát_ngôn_chánh_chụy/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p80sls/reddit_có_an_toàn_cho_những_phát_ngôn_chánh_chụy/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-27T12:16:42+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1p83srs</id>
     <title>Con ơi mẹ bảo câu này: cướp đêm là tặc, cướp ngày là...</title>
     <updated>2025-11-27T14:39:35+00:00</updated>
@@ -279,6 +266,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1p83srs/con_ơi_mẹ_bảo_câu_này_cướp_đêm_là_tặc_cướp_ngày_là/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-27T14:39:35+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1p80sls</id>
+    <title>Reddit có an toàn cho những phát ngôn chánh chụy</title>
+    <updated>2025-11-27T12:16:42+00:00</updated>
+    <author>
+      <name>/u/Key_Department4635</name>
+      <uri>https://old.reddit.com/user/Key_Department4635</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình tham gia được 8 tháng rồi . Thấy anh em hoạt động trên này ầm ầm . Không biết có an toàn không . Chánh quyền có quản lý được không . Xin giải đáp giúp .&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Key_Department4635"&gt; /u/Key_Department4635 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p80sls/reddit_có_an_toàn_cho_những_phát_ngôn_chánh_chụy/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p80sls/reddit_có_an_toàn_cho_những_phát_ngôn_chánh_chụy/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p80sls/reddit_có_an_toàn_cho_những_phát_ngôn_chánh_chụy/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-27T12:16:42+00:00</published>
   </entry>
   <entry>
     <id>t3_1p7y15t</id>
