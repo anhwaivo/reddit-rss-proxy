@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-11-27T17:50:25+00:00</updated>
+  <updated>2025-11-27T18:26:36+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1p84xtd</id>
-    <title>Cho em hỏi khi cr của mình bị mệt hay ốm đau gì ở trên lớp thì mình nên làm gì</title>
-    <updated>2025-11-27T15:27:22+00:00</updated>
-    <author>
-      <name>/u/coisama</name>
-      <uri>https://old.reddit.com/user/coisama</uri>
-    </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/coisama"&gt; /u/coisama &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p84xtd/cho_em_hỏi_khi_cr_của_mình_bị_mệt_hay_ốm_đau_gì_ở/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p84xtd/cho_em_hỏi_khi_cr_của_mình_bị_mệt_hay_ốm_đau_gì_ở/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p84xtd/cho_em_hỏi_khi_cr_của_mình_bị_mệt_hay_ốm_đau_gì_ở/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-27T15:27:22+00:00</published>
-  </entry>
   <entry>
     <id>t3_1p85192</id>
     <title>cho mình hỏi đây có phải false positive không ạ</title>
@@ -99,19 +86,6 @@
     <published>2025-11-27T16:36:47+00:00</published>
   </entry>
   <entry>
-    <id>t3_1p86vh5</id>
-    <title>Các bác giúp em với</title>
-    <updated>2025-11-27T16:45:24+00:00</updated>
-    <author>
-      <name>/u/The-Quan-1010</name>
-      <uri>https://old.reddit.com/user/The-Quan-1010</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là mình và ny mình có thai ngoài ý muốn, mà cả 2 đứa đều đang là sv nên muốn giải quyết. Các bác có phòng khám nào uy tín mà giá hợp lý tư vấn giúp em với! Mình ở HN ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/The-Quan-1010"&gt; /u/The-Quan-1010 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p86vh5/các_bác_giúp_em_với/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p86vh5/các_bác_giúp_em_với/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p86vh5/các_bác_giúp_em_với/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-27T16:45:24+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1p86x27</id>
     <title>Tư vấn cửa hàng mua điện thoại xách tay uy tín</title>
     <updated>2025-11-27T16:47:06+00:00</updated>
@@ -177,6 +151,19 @@
     <published>2025-11-27T17:13:00+00:00</published>
   </entry>
   <entry>
+    <id>t3_1p88ufu</id>
+    <title>Hi mn, mình làm cái tool tự động dịch truyện bằng AI</title>
+    <updated>2025-11-27T18:04:45+00:00</updated>
+    <author>
+      <name>/u/hung_manh</name>
+      <uri>https://old.reddit.com/user/hung_manh</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi mn, mình làm cái tool tự động dịch truyện bằng AI&lt;/p&gt; &lt;p&gt;Hỗ trợ file text , docx, epub, tự động phân chương.&lt;/p&gt; &lt;p&gt;Tích hợp xuất epub.&lt;/p&gt; &lt;p&gt;Tích hợp từ điển cố định tên nhân vật.&lt;/p&gt; &lt;p&gt;Tích hợp tự động phân tích tên nhân vật. &lt;/p&gt; &lt;p&gt;Chạy trên nền tảng web không cần cài đặt&lt;/p&gt; &lt;p&gt;Cơ bản đều miễn phí. &lt;/p&gt; &lt;p&gt;Cho phép tùy biến prompt, lưu prompt và lưu file về drive cá nhân.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/hung_manh"&gt; /u/hung_manh &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p88ufu/hi_mn_mình_làm_cái_tool_tự_động_dịch_truyện_bằng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p88ufu/hi_mn_mình_làm_cái_tool_tự_động_dịch_truyện_bằng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p88ufu/hi_mn_mình_làm_cái_tool_tự_động_dịch_truyện_bằng/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-27T18:04:45+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1p83odq</id>
     <title>Bị trĩ nhét tay vào lỗ đít có cục sần nhỏ</title>
     <updated>2025-11-27T14:34:16+00:00</updated>
@@ -201,6 +188,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1p7utug/có_tips_nào_trong_chuyện_hẹn_hò_yêu_đương_k_ae/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-27T06:12:19+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1p86vh5</id>
+    <title>Các bác giúp em với</title>
+    <updated>2025-11-27T16:45:24+00:00</updated>
+    <author>
+      <name>/u/The-Quan-1010</name>
+      <uri>https://old.reddit.com/user/The-Quan-1010</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là mình và ny mình có thai ngoài ý muốn, mà cả 2 đứa đều đang là sv nên muốn giải quyết. Các bác có phòng khám nào uy tín mà giá hợp lý tư vấn giúp em với! Mình ở HN ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/The-Quan-1010"&gt; /u/The-Quan-1010 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p86vh5/các_bác_giúp_em_với/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p86vh5/các_bác_giúp_em_với/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p86vh5/các_bác_giúp_em_với/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-27T16:45:24+00:00</published>
   </entry>
   <entry>
     <id>t3_1p7w8am</id>
@@ -281,19 +281,6 @@
     <published>2025-11-27T14:39:35+00:00</published>
   </entry>
   <entry>
-    <id>t3_1p82jts</id>
-    <title>Năm 22 tuổi lương mn là bao nhiêu vậy ạ</title>
-    <updated>2025-11-27T13:44:34+00:00</updated>
-    <author>
-      <name>/u/notgifaf</name>
-      <uri>https://old.reddit.com/user/notgifaf</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Post này không để toxic, là em khảo sát vmấy bác. Em năm nay 22 tuổi, mới ra trường năm nay. Làm việc fresher cho một startup lương bèo nhèo. Nhìn xung quanh các bạn đồng trang lứa ai cũng đi nhanh hơn em? Em thấy các bạn nhàn hơn mà lương cao hơn. Năng lực em thì không yếu, GPA cao, ra từ trường top, tiếng anh ổn, cũng thuộc type vui vẻ năng nổ chứ k ù lì, cân được nhiều scope. Gần tết rồi mà được nghe đồn cty còn chả có lương tháng 13, làm việc thì bục mặt mà chả có dư dả gì. Làm việc start up nhưng k có ai guide nên cũng chưa học được gì mấy. Em buồn quá mn ạ. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/notgifaf"&gt; /u/notgifaf &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p82jts/năm_22_tuổi_lương_mn_là_bao_nhiêu_vậy_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p82jts/năm_22_tuổi_lương_mn_là_bao_nhiêu_vậy_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p82jts/năm_22_tuổi_lương_mn_là_bao_nhiêu_vậy_ạ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-27T13:44:34+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1p7y15t</id>
     <title>Không phải tình đầu?</title>
     <updated>2025-11-27T09:29:13+00:00</updated>
@@ -305,6 +292,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1p7y15t/không_phải_tình_đầu/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-27T09:29:13+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1p82jts</id>
+    <title>Năm 22 tuổi lương mn là bao nhiêu vậy ạ</title>
+    <updated>2025-11-27T13:44:34+00:00</updated>
+    <author>
+      <name>/u/notgifaf</name>
+      <uri>https://old.reddit.com/user/notgifaf</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Post này không để toxic, là em khảo sát vmấy bác. Em năm nay 22 tuổi, mới ra trường năm nay. Làm việc fresher cho một startup lương bèo nhèo. Nhìn xung quanh các bạn đồng trang lứa ai cũng đi nhanh hơn em? Em thấy các bạn nhàn hơn mà lương cao hơn. Năng lực em thì không yếu, GPA cao, ra từ trường top, tiếng anh ổn, cũng thuộc type vui vẻ năng nổ chứ k ù lì, cân được nhiều scope. Gần tết rồi mà được nghe đồn cty còn chả có lương tháng 13, làm việc thì bục mặt mà chả có dư dả gì. Làm việc start up nhưng k có ai guide nên cũng chưa học được gì mấy. Em buồn quá mn ạ. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/notgifaf"&gt; /u/notgifaf &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p82jts/năm_22_tuổi_lương_mn_là_bao_nhiêu_vậy_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p82jts/năm_22_tuổi_lương_mn_là_bao_nhiêu_vậy_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p82jts/năm_22_tuổi_lương_mn_là_bao_nhiêu_vậy_ạ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-27T13:44:34+00:00</published>
   </entry>
   <entry>
     <id>t3_1p7qmwu</id>
