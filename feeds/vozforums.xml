@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-11-27T13:20:41+00:00</updated>
+  <updated>2025-11-27T13:48:39+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1p7z88u</id>
-    <title>Đủ wao</title>
-    <updated>2025-11-27T10:45:05+00:00</updated>
-    <author>
-      <name>/u/No_Start_480</name>
-      <uri>https://old.reddit.com/user/No_Start_480</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Ê má ý là thí dụ có chỗ nào không có sân si nói xấu đồ ko z má. T cgai mà t thề t kh thích như vậy. Cái lớp 12 học 3 năm cấp 3 đáng ra phải có kỷ niệm các thứ nhưng ko, nó nói xấu bè phái đủ kiểu 🙂&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/No_Start_480"&gt; /u/No_Start_480 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p7z88u/đủ_wao/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p7z88u/đủ_wao/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p7z88u/đủ_wao/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-27T10:45:05+00:00</published>
-  </entry>
   <entry>
     <id>t3_1p7zar1</id>
     <title>Chất liệu vải ae ưa chuộng khi mua áo.</title>
@@ -45,19 +32,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1p7zwk6/pin_máy_dell_không_vào_sau_khi_bị/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-27T11:25:45+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1p7u92a</id>
-    <title>Mình là sinh viên, nên mua vàng để dành lúc này không ?</title>
-    <updated>2025-11-27T05:40:17+00:00</updated>
-    <author>
-      <name>/u/SardoWinter</name>
-      <uri>https://old.reddit.com/user/SardoWinter</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi, mình là sinh viên năm cuối, sắp tới mình tích đủ tầm 15tr, mình không lo chuyện học phí, gia đình không cần mình lo, với số tiền này, mình có suy nghĩ sẽ mua vàng trong năm nay như một chổ để mình tích lũy cho năm sau nếu tiền có mất giá mình cũng không lỗ, mình cũng cần lời khuyên, nữa, theo các bác mình có nên mua vàng ( 1 chỉ ) và nên đợi tới tết hay bay giờ mua, hoặc là không nên mua ? Cảm ơn các bác, mong được dạy.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/SardoWinter"&gt; /u/SardoWinter &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p7u92a/mình_là_sinh_viên_nên_mua_vàng_để_dành_lúc_này/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p7u92a/mình_là_sinh_viên_nên_mua_vàng_để_dành_lúc_này/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p7u92a/mình_là_sinh_viên_nên_mua_vàng_để_dành_lúc_này/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-27T05:40:17+00:00</published>
   </entry>
   <entry>
     <id>t3_1p8144h</id>
@@ -112,17 +86,17 @@
     <published>2025-11-27T13:06:57+00:00</published>
   </entry>
   <entry>
-    <id>t3_1p821ia</id>
-    <title>Cảm giác ai cũng đã từng</title>
-    <updated>2025-11-27T13:20:25+00:00</updated>
+    <id>t3_1p7u92a</id>
+    <title>Mình là sinh viên, nên mua vàng để dành lúc này không ?</title>
+    <updated>2025-11-27T05:40:17+00:00</updated>
     <author>
-      <name>/u/Few-Singer6475</name>
-      <uri>https://old.reddit.com/user/Few-Singer6475</uri>
+      <name>/u/SardoWinter</name>
+      <uri>https://old.reddit.com/user/SardoWinter</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi có lẽ mik là ng trẻ tuổi nhất trong đây vì hầu hết nhóm này toàn sinh viên có khi giống mik (xin lỗi vì bài đăng khiếm nhã) mình ở đây muốn hỏi sống 1 mik như thế nào từ trọ đến ống điện ống nước đến bữa ăn mik muốn làm điều đó 1 mik muốn sống 1 mik mà giờ vơ phải lạc lõng độc thân mất hứng game chán mà nhắn trên mạng thì vài ngày là bỏ ít có tương tác sở thích thì mất mà meme thì ngày càng nhảm lại còn thêm không mqh ít có tâm sự mik cảm giác trống rỗng thật ko lẽ mik cứ làm đến già chuyện gia đình cứ vơ tiền là xong hễ cứ gặp ai là mik im né tránh ko bt phải bệnh hay do thời thơ ấu thật lòng vấn đề của mik mik còn ko trình bày hết đc&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Few-Singer6475"&gt; /u/Few-Singer6475 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p821ia/cảm_giác_ai_cũng_đã_từng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p821ia/cảm_giác_ai_cũng_đã_từng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p821ia/cảm_giác_ai_cũng_đã_từng/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi, mình là sinh viên năm cuối, sắp tới mình tích đủ tầm 15tr, mình không lo chuyện học phí, gia đình không cần mình lo, với số tiền này, mình có suy nghĩ sẽ mua vàng trong năm nay như một chổ để mình tích lũy cho năm sau nếu tiền có mất giá mình cũng không lỗ, mình cũng cần lời khuyên, nữa, theo các bác mình có nên mua vàng ( 1 chỉ ) và nên đợi tới tết hay bay giờ mua, hoặc là không nên mua ? Cảm ơn các bác, mong được dạy.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/SardoWinter"&gt; /u/SardoWinter &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p7u92a/mình_là_sinh_viên_nên_mua_vàng_để_dành_lúc_này/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p7u92a/mình_là_sinh_viên_nên_mua_vàng_để_dành_lúc_này/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p7u92a/mình_là_sinh_viên_nên_mua_vàng_để_dành_lúc_này/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-27T13:20:25+00:00</published>
+    <published>2025-11-27T05:40:17+00:00</published>
   </entry>
   <entry>
     <id>t3_1p7y4h8</id>
@@ -149,6 +123,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1p7w9al/khủng_hoảng_hiện_sinh/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-27T07:36:29+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1p82jts</id>
+    <title>Năm 22 tuổi lương mn là bao nhiêu vậy ạ</title>
+    <updated>2025-11-27T13:44:34+00:00</updated>
+    <author>
+      <name>/u/notgifaf</name>
+      <uri>https://old.reddit.com/user/notgifaf</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Post này không để toxic, là em khảo sát vmấy bác. Em năm nay 22 tuổi, mới ra trường năm nay. Làm việc fresher cho một startup lương bèo nhèo. Nhìn xung quanh các bạn đồng trang lứa ai cũng đi nhanh hơn em? Em thấy các bạn nhàn hơn mà lương cao hơn. Năng lực em thì không yếu, GPA cao, ra từ trường top, tiếng anh ổn, cũng thuộc type vui vẻ năng nổ chứ k ù lì, cân được nhiều scope. Gần tết rồi mà được nghe đồn cty còn chả có lương tháng 13, làm việc thì bục mặt mà chả có dư dả gì. Làm việc start up nhưng k có ai guide nên cũng chưa học được gì mấy. Em buồn quá mn ạ. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/notgifaf"&gt; /u/notgifaf &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p82jts/năm_22_tuổi_lương_mn_là_bao_nhiêu_vậy_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p82jts/năm_22_tuổi_lương_mn_là_bao_nhiêu_vậy_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p82jts/năm_22_tuổi_lương_mn_là_bao_nhiêu_vậy_ạ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-27T13:44:34+00:00</published>
   </entry>
   <entry>
     <id>t3_1p7n3um</id>
@@ -216,19 +203,6 @@
     <published>2025-11-27T05:24:44+00:00</published>
   </entry>
   <entry>
-    <id>t3_1p80sls</id>
-    <title>Reddit có an toàn cho những phát ngôn chánh chụy</title>
-    <updated>2025-11-27T12:16:42+00:00</updated>
-    <author>
-      <name>/u/Key_Department4635</name>
-      <uri>https://old.reddit.com/user/Key_Department4635</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình tham gia được 8 tháng rồi . Thấy anh em hoạt động trên này ầm ầm . Không biết có an toàn không . Chánh quyền có quản lý được không . Xin giải đáp giúp .&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Key_Department4635"&gt; /u/Key_Department4635 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p80sls/reddit_có_an_toàn_cho_những_phát_ngôn_chánh_chụy/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p80sls/reddit_có_an_toàn_cho_những_phát_ngôn_chánh_chụy/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p80sls/reddit_có_an_toàn_cho_những_phát_ngôn_chánh_chụy/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-27T12:16:42+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1p7psxw</id>
     <title>Chia sẻ cuốn sách hay: "A Study of History" của nhà triết học lịch sử Arnold J. Toynbee</title>
     <updated>2025-11-27T01:44:57+00:00</updated>
@@ -255,6 +229,19 @@
     <published>2025-11-27T07:34:45+00:00</published>
   </entry>
   <entry>
+    <id>t3_1p82d6t</id>
+    <title>Check background trước khi nhận việc</title>
+    <updated>2025-11-27T13:35:45+00:00</updated>
+    <author>
+      <name>/u/Miaphuong</name>
+      <uri>https://old.reddit.com/user/Miaphuong</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mn, e có apply CV vào ngân hàng nước ngoài. Pv với cả HR và Quản lý oke hết r. Nh mà bên đó h check bhxh của e rồi so sánh trên CV xem có match hông. E có 1 khoản time làm 2 công việc cùng 1 lúc mà lúc làm CV e chọn cv ko đóng bhxh để điền vào, liệu có khi nào trên bhxh với CV ko match e bị cancel offer ko mn? Rầu quá mn ơi&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Miaphuong"&gt; /u/Miaphuong &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p82d6t/check_background_trước_khi_nhận_việc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p82d6t/check_background_trước_khi_nhận_việc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p82d6t/check_background_trước_khi_nhận_việc/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-27T13:35:45+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1p7utug</id>
     <title>Có tips nào trong chuyện hẹn hò yêu đương k ae</title>
     <updated>2025-11-27T06:12:19+00:00</updated>
@@ -268,17 +255,17 @@
     <published>2025-11-27T06:12:19+00:00</published>
   </entry>
   <entry>
-    <id>t3_1p81k9a</id>
-    <title>Dating advice</title>
-    <updated>2025-11-27T12:57:14+00:00</updated>
+    <id>t3_1p821ia</id>
+    <title>Cảm giác ai cũng đã từng</title>
+    <updated>2025-11-27T13:20:25+00:00</updated>
     <author>
-      <name>/u/applecrumble_vanilla</name>
-      <uri>https://old.reddit.com/user/applecrumble_vanilla</uri>
+      <name>/u/Few-Singer6475</name>
+      <uri>https://old.reddit.com/user/Few-Singer6475</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi cả nhà, mình nữ 24 tuổi, ngày trước khi chưa đi làm tư tưởng về tình yêu của mình rất lệch lạc do mình có ngoại hình, body cao ráo cân đối nên nhiều đàn ông tiếp cận mục đích xấu, xong mình cứ bị ấn tượng và suy nghĩ giá trị của mình chỉ nằm ở mỗi vẻ ngoài, nhờ trải qua nhiều biến cố nên mình cũng trưởng thành và khép kín hơn, gọi là biết tránh xa đàn ông lợi dụng, các mối quan hệ toxic, mình tốt nghiệp trường kinh tế top ở HN, giờ công việc cũng tốt, có tài lẻ, đam mê nhưng môi trường khép kín nên không quen ai, thi thoảng có đi du lịch 1 mình nhưng mục đích là có thêm trải nghiệm chứ không nghĩ tìm người yêu (thực ra muốn yêu gần :( )&lt;/p&gt; &lt;p&gt;Trong nhà không nói quá nhưng mình là đứa cháu học giỏi nhất, các anh chị em còn lại đa phần không học đại học, đi xuất khẩu lao động, hoặc học cao đẳng, thi thoảng các anh chị cũng giới thiệu nhưng thực sự là năng lực không tương xứng nên khó nói chuyện, mình không cần đại gia hay thạc sĩ, tiến sĩ gì vì biết hoàn cảnh gia đình không đòi hỏi được nhiều, chỉ yêu cầu là học hành, công việc nhỉnh hơn mình chút, có trách nhiệm với gia đình&lt;/p&gt; &lt;p&gt;Không biết cả nhà quen ny, vợ chồng thì quen qua đâu ổn, chứ có lần bạn mình xem bát tự bảo mình sau 40 mới lấy chồng mình hơi khiếp @@ bố mẹ cũng sốt ruột tại mãi không thấy yêu ai :( &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/applecrumble_vanilla"&gt; /u/applecrumble_vanilla &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p81k9a/dating_advice/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p81k9a/dating_advice/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p81k9a/dating_advice/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi có lẽ mik là ng trẻ tuổi nhất trong đây vì hầu hết nhóm này toàn sinh viên có khi giống mik (xin lỗi vì bài đăng khiếm nhã) mình ở đây muốn hỏi sống 1 mik như thế nào từ trọ đến ống điện ống nước đến bữa ăn mik muốn làm điều đó 1 mik muốn sống 1 mik mà giờ vơ phải lạc lõng độc thân mất hứng game chán mà nhắn trên mạng thì vài ngày là bỏ ít có tương tác sở thích thì mất mà meme thì ngày càng nhảm lại còn thêm không mqh ít có tâm sự mik cảm giác trống rỗng thật ko lẽ mik cứ làm đến già chuyện gia đình cứ vơ tiền là xong hễ cứ gặp ai là mik im né tránh ko bt phải bệnh hay do thời thơ ấu thật lòng vấn đề của mik mik còn ko trình bày hết đc&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Few-Singer6475"&gt; /u/Few-Singer6475 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p821ia/cảm_giác_ai_cũng_đã_từng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p821ia/cảm_giác_ai_cũng_đã_từng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p821ia/cảm_giác_ai_cũng_đã_từng/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-27T12:57:14+00:00</published>
+    <published>2025-11-27T13:20:25+00:00</published>
   </entry>
   <entry>
     <id>t3_1p7r6ws</id>
@@ -292,6 +279,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1p7r6ws/cố_đấm_ăn_xôi_vào_hcmus/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-27T02:56:20+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1p80sls</id>
+    <title>Reddit có an toàn cho những phát ngôn chánh chụy</title>
+    <updated>2025-11-27T12:16:42+00:00</updated>
+    <author>
+      <name>/u/Key_Department4635</name>
+      <uri>https://old.reddit.com/user/Key_Department4635</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình tham gia được 8 tháng rồi . Thấy anh em hoạt động trên này ầm ầm . Không biết có an toàn không . Chánh quyền có quản lý được không . Xin giải đáp giúp .&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Key_Department4635"&gt; /u/Key_Department4635 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p80sls/reddit_có_an_toàn_cho_những_phát_ngôn_chánh_chụy/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p80sls/reddit_có_an_toàn_cho_những_phát_ngôn_chánh_chụy/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p80sls/reddit_có_an_toàn_cho_những_phát_ngôn_chánh_chụy/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-27T12:16:42+00:00</published>
   </entry>
   <entry>
     <id>t3_1p7vtxm</id>
