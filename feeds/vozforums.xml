@@ -2,37 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-11-26T23:50:23+00:00</updated>
+  <updated>2025-11-27T01:24:18+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1p6g2h7</id>
-    <title>Tâm sự cuộc sống của tester</title>
-    <updated>2025-11-25T15:55:32+00:00</updated>
-    <author>
-      <name>/u/Gold_Ad1976</name>
-      <uri>https://old.reddit.com/user/Gold_Ad1976</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1p6g2h7/tâm_sự_cuộc_sống_của_tester/"&gt; &lt;img alt="Tâm sự cuộc sống của tester" src="https://preview.redd.it/mfs0cb1sdf3g1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=59915d13786822e29c71433c434b37b389f56c66" title="Tâm sự cuộc sống của tester" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Có thể các bác nghe nhiều về cuộc sống dev rồi nhưng ít nghe về tester đúng k ạ . E là một manual tester , tầng đáy của xã hội IT . Chuyện là e thấy con bé leader của e nó hãm mà e biết xử lí như nào lên đây tâm sự, có thể xin các bác chút lời khuyên gọi là có nên tiếp tục công việc được k ạ ?&lt;/p&gt; &lt;p&gt;Chuyện là đợt vừa rồi trong cuộc họp , bé đó có nhắc tới e là đứa nhận được fb k tốt từ các project leader , kêu test gì mà để KH raise lên nhiều lần. Nói chung lúc đó e muối mặt lắm vì thực sự e cũng tự nhận mình amateur trong cái công việc này ( e trái ngành , nhảy việc từ con số 0 về IT, học lớp ngắn hạn và vào dc công ty nhờ có bằng ngoại ngữ ) NHƯNG có một điều là e khá bất ngờ rằng trong 2 dự án e làm thì có 1 dự án dù team size nhỏ, chỉ có 3 người, dù hầu như bug KH đều là update logic chứ k phải là bắt lỗi cụ thể thì e vẫn nhận được cái đánh giá k tốt như này. Vì cảm thấy bất công nên sau khi họp thì e có chủ động nhắn tin cho PL để hỏi khuyết điểm, cũng như rõ vấn đề chuyện KH raise lên cái gì mà e cũng k biết, PL cũng chỉ nói rằng à cái đó a thấy e hay verify bug OK hết nên cần tự tạo thêm test case để tìm thêm bug . á à Hoá ra bé Leader e tự phím them câu chuyện đó vào . PL cũng có xin lỗi e nếu có gì fb k đúng ( mà e thì cũng chả có quyền gì nói k đúng cả ) thì tự nhiên 1 lúc sau leader quay sang chửi e các bác ạ . Hoá ra là PL nói leader về chuyện feedback này kia.Thế là e phải đi xin lỗi cả leader 🫦&lt;/p&gt; &lt;p&gt;Ok. Chưa hết. Tới đoạn con bé này nó bắt đầu đóng vai nạn nhân&lt;/p&gt; &lt;p&gt;Nó vẫn khăng khăng bắt e nhận cái lỗi dự án của bọn e rất tệ và e/tester là nguyên nhân cho cái tệ đó, rồi còn nói a làm gì để khách raise lên nhiều lần. ( thậm chí KH chưa ai gửi fb kiểu như tệ quá này kia ??? ) Khi mà e vẫn chưa đồng ý cái chuyện KH raise lên cái gì mà nhiều lần, e có chia sẻ cho dev chính thì dev chính cũng giải thích đỡ giúp e là thấy có vấn đề gì với test đâu và khách và dev cũng chưa có update logic thì tester sao mà check được. Nhưng con bé vẫn k chịu và nhắn tin e những dòng cuối thế này.&lt;/p&gt; &lt;p&gt;( chuyện là ngày thường e k đặt cơm bên nhóm của nó , và thường mỗi khi bọn e đặt cơm thì nó hay đi ngang qua nói ai đặt cơm của e thì sau này k được đặt đồ ăn bên nó này kia @@ e nghĩ nó có bầu nên e k combat ạ , quán cơm cả công ty ăn cũng là do e giới thiệu ạ). Chưa kể nó như ông nội e , đũa e cất để e xài sau, tự động tới vừa lấy vừa xin. Nhiều khi mua đồ ăn cho nhóm, cũng chêm thêm câu , &amp;quot;a k mua cho e đúng k &amp;quot;&lt;/p&gt; &lt;p&gt;Là sao ? &lt;/p&gt; &lt;p&gt;E chưa thấy nó nói xin lỗi e trong câu chuyện này mà toàn là bọn tester bọn e phải xin lỗi cung phụng nó. E cảm thấy bị chèn ép thế này khó thở quá ạ. Gặp leader hãm lz đếu chịu được&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Gold_Ad1976"&gt; /u/Gold_Ad1976 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/mfs0cb1sdf3g1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p6g2h7/tâm_sự_cuộc_sống_của_tester/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p6g2h7/tâm_sự_cuộc_sống_của_tester/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-25T15:55:32+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1p7asmw</id>
-    <title>Xin hỏi một chút về kinh nghiệm dealer- nhân viên chia bài</title>
-    <updated>2025-11-26T15:35:26+00:00</updated>
-    <author>
-      <name>/u/marlburoh_</name>
-      <uri>https://old.reddit.com/user/marlburoh_</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình năm nay 28t, đang làm dealer ở một casino tại viêtnam (gan 6năm), mình đang muốn apply đi tàu du lịch ở châu âu, mà không biết bên agency nào tuyển dụng, xin phép được nghe kinh nghiệm của các bạn đã có kinh nghiệm về công việc này và cách apply hồ sơ đăng ký. Xin cám ơn &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/marlburoh_"&gt; /u/marlburoh_ &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p7asmw/xin_hỏi_một_chút_về_kinh_nghiệm_dealer_nhân_viên/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p7asmw/xin_hỏi_một_chút_về_kinh_nghiệm_dealer_nhân_viên/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p7asmw/xin_hỏi_một_chút_về_kinh_nghiệm_dealer_nhân_viên/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-26T15:35:26+00:00</published>
-  </entry>
   <entry>
     <id>t3_1p6urta</id>
     <title>Golden Retriever</title>
@@ -97,6 +71,15 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1p77hyg/cho_tôi_xin_câu_chuyện_của_mọi_người/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-26T13:17:39+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1p7mlbp</id>
+    <title>Đi du học có ngon không ạ?</title>
+    <updated>2025-11-26T23:12:32+00:00</updated>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Bản thân mình đang là du học sinh ở trời Âu, mình khi đi du học đã dùng thẻ tín dụng để mua vé máy bay, đồ dùng,... cũng đang học ở trời Âu, tiền trong ngân hàng vẫn còn đủ trả 1 tháng tiền tín dụng. Nhưng mà mình thấy cuộc sống bên này có vẽ khó khăn hơn ở VN nhiều. Mình không biết các anh chị du học sinh cảm nhận như thế nào ạ ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p7mlbp/đi_du_học_có_ngon_không_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p7mlbp/đi_du_học_có_ngon_không_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p7mlbp/đi_du_học_có_ngon_không_ạ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-26T23:12:32+00:00</published>
   </entry>
   <entry>
     <id>t3_1p7dtom</id>
@@ -177,19 +160,6 @@
     <published>2025-11-26T09:49:50+00:00</published>
   </entry>
   <entry>
-    <id>t3_1p79wbj</id>
-    <title>Về giá Iphone 17 thường 256gb 99%</title>
-    <updated>2025-11-26T15:00:33+00:00</updated>
-    <author>
-      <name>/u/Effective_Play_563</name>
-      <uri>https://old.reddit.com/user/Effective_Play_563</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tóm tắt: mình mới mua, mua xong mới thấy camera nó khá chán, ko có camera tele, còn mình lại thích chụp zoom.&lt;/p&gt; &lt;p&gt;Đây hoàn toàn là lỗi tui, tui thiếu kiến thức + chưa tìm hiểu kỹ.&lt;/p&gt; &lt;p&gt;Giá chưa củ sạc, chưa kính cường lực là 24.900k. Nếu mình tìm được người bán lại thì giá bao nhiêu thì hợp lí ạ? &lt;/p&gt; &lt;p&gt;Ví dụ giá dt vừa rời cửa hàng,còn chưa log in icloud thì tụt bao nhiêu % thì hợp lí?&lt;/p&gt; &lt;p&gt;Cám ơn mọi người.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Effective_Play_563"&gt; /u/Effective_Play_563 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p79wbj/về_giá_iphone_17_thường_256gb_99/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p79wbj/về_giá_iphone_17_thường_256gb_99/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p79wbj/về_giá_iphone_17_thường_256gb_99/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-26T15:00:33+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1p755pu</id>
     <title>Ở lại Đức hay về VN?</title>
     <updated>2025-11-26T11:15:15+00:00</updated>
@@ -229,26 +199,30 @@
     <published>2025-11-26T16:26:30+00:00</published>
   </entry>
   <entry>
-    <id>t3_1p7mlbp</id>
-    <title>Đi du học có ngon không ạ?</title>
-    <updated>2025-11-26T23:12:32+00:00</updated>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Bản thân mình đang là du học sinh ở trời Âu, mình khi đi du học đã dùng thẻ tín dụng để mua vé máy bay, đồ dùng,... cũng đang học ở trời Âu, tiền trong ngân hàng vẫn còn đủ trả 1 tháng tiền tín dụng. Nhưng mà mình thấy cuộc sống bên này có vẽ khó khăn hơn ở VN nhiều. Mình không biết các anh chị du học sinh cảm nhận như thế nào ạ ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p7mlbp/đi_du_học_có_ngon_không_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p7mlbp/đi_du_học_có_ngon_không_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p7mlbp/đi_du_học_có_ngon_không_ạ/"/>
+    <id>t3_1p79wbj</id>
+    <title>Về giá Iphone 17 thường 256gb 99%</title>
+    <updated>2025-11-26T15:00:33+00:00</updated>
+    <author>
+      <name>/u/Effective_Play_563</name>
+      <uri>https://old.reddit.com/user/Effective_Play_563</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tóm tắt: mình mới mua, mua xong mới thấy camera nó khá chán, ko có camera tele, còn mình lại thích chụp zoom.&lt;/p&gt; &lt;p&gt;Đây hoàn toàn là lỗi tui, tui thiếu kiến thức + chưa tìm hiểu kỹ.&lt;/p&gt; &lt;p&gt;Giá chưa củ sạc, chưa kính cường lực là 24.900k. Nếu mình tìm được người bán lại thì giá bao nhiêu thì hợp lí ạ? &lt;/p&gt; &lt;p&gt;Ví dụ giá dt vừa rời cửa hàng,còn chưa log in icloud thì tụt bao nhiêu % thì hợp lí?&lt;/p&gt; &lt;p&gt;Cám ơn mọi người.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Effective_Play_563"&gt; /u/Effective_Play_563 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p79wbj/về_giá_iphone_17_thường_256gb_99/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p79wbj/về_giá_iphone_17_thường_256gb_99/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p79wbj/về_giá_iphone_17_thường_256gb_99/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-26T23:12:32+00:00</published>
+    <published>2025-11-26T15:00:33+00:00</published>
   </entry>
   <entry>
-    <id>t3_1p7n3um</id>
-    <title>Chăm sóc người nhà</title>
-    <updated>2025-11-26T23:35:40+00:00</updated>
+    <id>t3_1p74ggd</id>
+    <title>khi bạn chọn rời đi</title>
+    <updated>2025-11-26T10:32:41+00:00</updated>
     <author>
-      <name>/u/xukaduck</name>
-      <uri>https://old.reddit.com/user/xukaduck</uri>
+      <name>/u/Valuable-Explorer899</name>
+      <uri>https://old.reddit.com/user/Valuable-Explorer899</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em hiện tại đang chăm sóc ông 89 tuổi. Ông có đủ thứ bệnh tuổi già và có bệnh về tim mạch nữa. Ông ở viện nhiều hơn ở nhà, em thật sự ko còn đủ năng lượng và tinh thần để phục vụ nữa. Em mới ra trường 24 tuổi, có mấy lần tìm việc làm mà toàn phải về quê đỡ bố mẹ chăm sóc ông. Mọi người có kinh nghiệm trong việc cân bằng cuộc sống với chăm lo người nhà chia sẻ cho em với. Có bố với em thay nhau chăm ông trong bệnh viện thôi, khó nhờ được ai khác. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/xukaduck"&gt; /u/xukaduck &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p7n3um/chăm_sóc_người_nhà/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p7n3um/chăm_sóc_người_nhà/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p7n3um/chăm_sóc_người_nhà/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;khi bạn sinh ra trong một gia đình tô xịch&lt;/p&gt; &lt;p&gt;-những người trong mái ấm đó không còn cách nào khác là phải phụ thuộc lẫn nhau. họ ít học, ít đọc, họ không có kỹ năng quản lý tài chính, không có kỹ năng giải quyết xung đột, họ nghèo, họ không còn lựa chọn nào khác là phải ở cùng nhau và phải chịu đựng lẫn nhau&lt;/p&gt; &lt;p&gt;- bạn sẽ quen thuộc với hình ảnh họ cãi nhau chí chóe, vác đồ phang nhau nhưng qua ngày mai vẫn ở cùng nhau&lt;/p&gt; &lt;p&gt;- họ sống bản năng, lệ thuộc, và hoàn toàn thiếu kỹ năng sống. họ dựa vào những niềm tin đã lỗi thời (anh chị em thì PHẢI đùm bọc lẫn nhau (dù có ra sao), con cái phải yêu thương cha mẹ, v.v), họ không hiểu cách cuộc sống vận hành&lt;/p&gt; &lt;p&gt;- họ thể hiện một bộ mặt khác khi gặp người ngoài, nhưng sau lưng là những lời nói xấu, chỉ trích, chê bai&lt;/p&gt; &lt;p&gt;- họ chả có cái mẹ gì để theo đuổi, không đam mê, sở thích, v.v nên thời gian rảnh chỉ có thể dùng để bàn chuyện thiên hạ&lt;/p&gt; &lt;p&gt;- vì không có khả năng gì đặc biệt nên họ thường chọn bạo lực như một cách để khẳng định mình&lt;/p&gt; &lt;p&gt;- họ thao túng (mà có khi cũng chả biết là mình đang thao túng), lạm dụng, dối trá, lừa lọc&lt;/p&gt; &lt;p&gt;và là người con sinh ra và trưởng thành trong gia đình đó, tất nhiên bạn được thừa hưởng 100% những 'giá trị' này. &lt;/p&gt; &lt;p&gt;nhưng may mắn là bạn được đi học, được tiếp xúc với những người bình thường và với tri thức.&lt;/p&gt; &lt;p&gt;và bạn nhận ra rằng&lt;/p&gt; &lt;p&gt;đây không phải là nơi bạn thuộc về&lt;/p&gt; &lt;p&gt;và bạn chọn rời đi&lt;/p&gt; &lt;p&gt;một người không còn gia đình, nhưng độc lập, tự do và bình yên.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Valuable-Explorer899"&gt; /u/Valuable-Explorer899 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p74ggd/khi_bạn_chọn_rời_đi/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p74ggd/khi_bạn_chọn_rời_đi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p74ggd/khi_bạn_chọn_rời_đi/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-26T23:35:40+00:00</published>
+    <published>2025-11-26T10:32:41+00:00</published>
   </entry>
   <entry>
     <id>t3_1p73mjd</id>
@@ -264,17 +238,30 @@
     <published>2025-11-26T09:40:32+00:00</published>
   </entry>
   <entry>
-    <id>t3_1p74ggd</id>
-    <title>khi bạn chọn rời đi</title>
-    <updated>2025-11-26T10:32:41+00:00</updated>
+    <id>t3_1p7pb2r</id>
+    <title>Làm tí nhạc buổi sáng nào các ae</title>
+    <updated>2025-11-27T01:19:42+00:00</updated>
     <author>
-      <name>/u/Valuable-Explorer899</name>
-      <uri>https://old.reddit.com/user/Valuable-Explorer899</uri>
+      <name>/u/One-Cap-2670</name>
+      <uri>https://old.reddit.com/user/One-Cap-2670</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;khi bạn sinh ra trong một gia đình tô xịch&lt;/p&gt; &lt;p&gt;-những người trong mái ấm đó không còn cách nào khác là phải phụ thuộc lẫn nhau. họ ít học, ít đọc, họ không có kỹ năng quản lý tài chính, không có kỹ năng giải quyết xung đột, họ nghèo, họ không còn lựa chọn nào khác là phải ở cùng nhau và phải chịu đựng lẫn nhau&lt;/p&gt; &lt;p&gt;- bạn sẽ quen thuộc với hình ảnh họ cãi nhau chí chóe, vác đồ phang nhau nhưng qua ngày mai vẫn ở cùng nhau&lt;/p&gt; &lt;p&gt;- họ sống bản năng, lệ thuộc, và hoàn toàn thiếu kỹ năng sống. họ dựa vào những niềm tin đã lỗi thời (anh chị em thì PHẢI đùm bọc lẫn nhau (dù có ra sao), con cái phải yêu thương cha mẹ, v.v), họ không hiểu cách cuộc sống vận hành&lt;/p&gt; &lt;p&gt;- họ thể hiện một bộ mặt khác khi gặp người ngoài, nhưng sau lưng là những lời nói xấu, chỉ trích, chê bai&lt;/p&gt; &lt;p&gt;- họ chả có cái mẹ gì để theo đuổi, không đam mê, sở thích, v.v nên thời gian rảnh chỉ có thể dùng để bàn chuyện thiên hạ&lt;/p&gt; &lt;p&gt;- vì không có khả năng gì đặc biệt nên họ thường chọn bạo lực như một cách để khẳng định mình&lt;/p&gt; &lt;p&gt;- họ thao túng (mà có khi cũng chả biết là mình đang thao túng), lạm dụng, dối trá, lừa lọc&lt;/p&gt; &lt;p&gt;và là người con sinh ra và trưởng thành trong gia đình đó, tất nhiên bạn được thừa hưởng 100% những 'giá trị' này. &lt;/p&gt; &lt;p&gt;nhưng may mắn là bạn được đi học, được tiếp xúc với những người bình thường và với tri thức.&lt;/p&gt; &lt;p&gt;và bạn nhận ra rằng&lt;/p&gt; &lt;p&gt;đây không phải là nơi bạn thuộc về&lt;/p&gt; &lt;p&gt;và bạn chọn rời đi&lt;/p&gt; &lt;p&gt;một người không còn gia đình, nhưng độc lập, tự do và bình yên.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Valuable-Explorer899"&gt; /u/Valuable-Explorer899 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p74ggd/khi_bạn_chọn_rời_đi/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p74ggd/khi_bạn_chọn_rời_đi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p74ggd/khi_bạn_chọn_rời_đi/"/>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1p7pb2r/làm_tí_nhạc_buổi_sáng_nào_các_ae/"&gt; &lt;img alt="Làm tí nhạc buổi sáng nào các ae" src="https://external-preview.redd.it/cTA1MWprZjlicDNnMSLQkfBRScO-sncUXZRhWGTIgllbb0FudcSfnKMRCuhh.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=7d2a045a1cedae80dc1c5cda1cb303cad31dd30a" title="Làm tí nhạc buổi sáng nào các ae" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;nó cứ gọi là nắc nư nắc nư &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/One-Cap-2670"&gt; /u/One-Cap-2670 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://v.redd.it/i5wr80m9bp3g1"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p7pb2r/làm_tí_nhạc_buổi_sáng_nào_các_ae/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p7pb2r/làm_tí_nhạc_buổi_sáng_nào_các_ae/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-26T10:32:41+00:00</published>
+    <published>2025-11-27T01:19:42+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1p7n3um</id>
+    <title>Chăm sóc người nhà</title>
+    <updated>2025-11-26T23:35:40+00:00</updated>
+    <author>
+      <name>/u/xukaduck</name>
+      <uri>https://old.reddit.com/user/xukaduck</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em hiện tại đang chăm sóc ông 89 tuổi. Ông có đủ thứ bệnh tuổi già và có bệnh về tim mạch nữa. Ông ở viện nhiều hơn ở nhà, em thật sự ko còn đủ năng lượng và tinh thần để phục vụ nữa. Em mới ra trường 24 tuổi, có mấy lần tìm việc làm mà toàn phải về quê đỡ bố mẹ chăm sóc ông. Mọi người có kinh nghiệm trong việc cân bằng cuộc sống với chăm lo người nhà chia sẻ cho em với. Có bố với em thay nhau chăm ông trong bệnh viện thôi, khó nhờ được ai khác. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/xukaduck"&gt; /u/xukaduck &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p7n3um/chăm_sóc_người_nhà/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p7n3um/chăm_sóc_người_nhà/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p7n3um/chăm_sóc_người_nhà/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-26T23:35:40+00:00</published>
   </entry>
   <entry>
     <id>t3_1p76m5k</id>
@@ -314,6 +301,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1p73pe5/giảng_viên_thiếu_nghiêm_túc/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-26T09:45:46+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1p7p5km</id>
+    <title>Nên làm công ty lớn hay công ty nhỏ</title>
+    <updated>2025-11-27T01:12:09+00:00</updated>
+    <author>
+      <name>/u/Interesting_Cash_783</name>
+      <uri>https://old.reddit.com/user/Interesting_Cash_783</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chắc hẳn có không ít bạn vẫn đang lăn tăn và còn mơ hồ về việc mình nên làm &lt;strong&gt;công ty lớn hay công ty nhỏ&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Nên làm công ty danh tiếng hay công ty bình thường&lt;/p&gt; &lt;p&gt;Hay nên làm &lt;strong&gt;công ty đã ổn định&lt;/strong&gt; rồi hay &lt;strong&gt;công ty mới khởi nghiệp &amp;quot;starup&amp;quot;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Thật lòng mà nói làm ở đâu cũng được cả vì &lt;strong&gt;mục đích đều là đi kiếm tiền&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Nhưng cuộc sống chỉ có mỗi kiếm tiền thôi thì nhạt nhẽo lắm và không có gì gọi là thú vị nữa&lt;/p&gt; &lt;p&gt;Để trả lời được câu hỏi &lt;strong&gt;nên làm công ty lớn hay công ty nhỏ&lt;/strong&gt; &lt;/p&gt; &lt;p&gt;Trước hết bạn phải trả lời được câu hỏi:&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Bạn muốn trở thành ai trong cuộc sống này?&lt;/strong&gt;&lt;/p&gt; &lt;ol&gt; &lt;li&gt;&lt;p&gt;Bạn muốn trở thành chuyên gia, master về chuyên môn bạn đang làm: có thể là Bác sĩ, marketing, sale, công nghệ thông tin, kỹ thuật, ...&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Bạn muốn mình làm kinh doanh hay còn gọi là làm chủ&lt;/p&gt;&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Bạn đã trả lời được bạn muốn trở thành ai chưa?&lt;/p&gt; &lt;p&gt;Câu hỏi tuy đơn giản nhưng không phải ai cũng dễ dàng để trả lời được, vì họ bị ảnh hưởng quá nhiều bởi những lời nói xung quanh&lt;/p&gt; &lt;p&gt;Để họ có thể thoải mải lựa chọn theo chính mình thì mọi chuyện đã quá dễ dàng&lt;/p&gt; &lt;p&gt;Ở bài viết này tui chỉ nói về trường hợp &lt;strong&gt;bạn dám lựa chọn theo suy nghĩ của bản thân&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;2 câu hỏi trên tuy là đơn giản nhưng lại là &lt;strong&gt;kim chỉ nam của cuộc đời của bạn&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Nếu ví cuộc đời là một tấm bản đồ, bạn sẽ muốn đến nơi nào trong tấm bản đồ?&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Và &lt;em&gt;một công cụ không thể thiếu&lt;/em&gt; khi đi đó chính là &lt;strong&gt;la bàn hay còn gọi là kim chỉ nam&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Khi trả lời được rồi bạn sẽ &lt;strong&gt;không bị lạc đường&lt;/strong&gt;, bạn không còn &lt;strong&gt;đi lòng vòng&lt;/strong&gt; để rồi lại &lt;strong&gt;về nơi ban đầu&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;2 con đường trên hoàn toàn khác nhau nên bạn cần xác định rõ để bản thân đi đúng đường&lt;/p&gt; &lt;p&gt;Nếu bạn muốn mình làm công ăn lương ổn định và trở thành chuyên gia trong lĩnh vực bạn nên vào làm công ty lớn, nơi có phòng ban rõ ràng. Ở đây bạn sẽ được làm chuyên môn hoá, chuyên sâu vào một lĩnh vực và bạn sẽ hiểu rất rõ về nó. Đương nhiên là bạn sẽ ổn định&lt;/p&gt; &lt;p&gt;Nếu bạn muốn mình muốn có cơ hội làm chủ và sau này có thể kinh doanh riêng thì công ty nhỏ, starup sẽ phù hợp với bạn. Vì sao?&lt;/p&gt; &lt;p&gt;Vì làm công ty nhỏ bạn sẽ phải làm rất nhiều việc, người ta gọi là &lt;strong&gt;đa zi năng, đa nhiệm&lt;/strong&gt;. Việc gì cũng tới tay bạn từ nhỏ cho đến lớn&lt;/p&gt; &lt;p&gt;Một người kiêm nhiệm nhiều công việc khác nhau là chuyện bình thường&lt;/p&gt; &lt;p&gt;Nên là một số bạn mới ra trường khi vào làm đúng công ty này thì than là bị bắt làm nhiều việc quá trong khi trường đào tạo mình một chuyên môn&lt;/p&gt; &lt;p&gt;Đương nhiên cơ hội cũng đi đôi với rủi ro khi làm công ty nhỏ và starup đó là &lt;strong&gt;công ty có thể phá sản&lt;/strong&gt; bất cứ lúc nào&lt;/p&gt; &lt;p&gt;Lẽ dĩ nhiên bạn không ổn định, cuộc sống luôn không ổn định&lt;/p&gt; &lt;p&gt;Nhưng thật ra mà nói tố chất của một người làm kinh doanh đó là &lt;strong&gt;không ngại thử thách và tập làm quen với sự không ổn định&lt;/strong&gt;, &lt;/p&gt; &lt;p&gt;Nếu như bắt những người này làm ổn định, công việc lặp đi lặp lại chắc chắn họ sẽ &lt;strong&gt;chán và tụt năng lượng&lt;/strong&gt; khi làm việc&lt;/p&gt; &lt;p&gt;Để trả lời được câu hỏi trên bạn cần hiểu rõ về bản thân mình muốn trở thành ai trong cuộc sống này&lt;/p&gt; &lt;p&gt;Và khi trả lời được rồi, Anubaz chúc bạn &lt;strong&gt;quyết liệt và kiên định&lt;/strong&gt; với lựa chọn của bản thân!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Interesting_Cash_783"&gt; /u/Interesting_Cash_783 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p7p5km/nên_làm_công_ty_lớn_hay_công_ty_nhỏ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p7p5km/nên_làm_công_ty_lớn_hay_công_ty_nhỏ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p7p5km/nên_làm_công_ty_lớn_hay_công_ty_nhỏ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-27T01:12:09+00:00</published>
   </entry>
   <entry>
     <id>t3_1p74e6g</id>
