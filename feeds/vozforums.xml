@@ -2,50 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-11-28T08:27:01+00:00</updated>
+  <updated>2025-11-28T08:50:47+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1p7vtxm</id>
-    <title>Làm thế nào để mua cổ phiếu nước ngoài?</title>
-    <updated>2025-11-27T07:10:02+00:00</updated>
-    <author>
-      <name>/u/ClassJolly2695</name>
-      <uri>https://old.reddit.com/user/ClassJolly2695</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình làm sale, mới được thưởng hợp đồng một khoản khá lớn và muốn đầu tư nửa vào cổ phiếu nước ngoài (cụ thể là Mỹ). Mình có tìm hiểu qua thì phải ở Mỹ mới mua được cổ phiếu Mỹ, hoặc thông qua một số sàn như XTB để mua. Tuy nhiên mình không biết thế nào là liệu có uy tín hay không.&lt;/p&gt; &lt;p&gt;Ai có kinh nghiệm cổ phiếu nước cho mình xin lời khuyên với. Cảm ơn mọi người.&lt;/p&gt; &lt;p&gt;Edit: Mình đầu tư dài hạn 5-10-20 năm chứ không đầu tư ngắn hạn&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ClassJolly2695"&gt; /u/ClassJolly2695 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p7vtxm/làm_thế_nào_để_mua_cổ_phiếu_nước_ngoài/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p7vtxm/làm_thế_nào_để_mua_cổ_phiếu_nước_ngoài/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p7vtxm/làm_thế_nào_để_mua_cổ_phiếu_nước_ngoài/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-27T07:10:02+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1p8l32m</id>
-    <title>GaiaOS – Runtime tối giản, chịu tải cho AI, Fintech &amp; Security</title>
-    <updated>2025-11-28T03:53:17+00:00</updated>
-    <author>
-      <name>/u/Lucius-SC</name>
-      <uri>https://old.reddit.com/user/Lucius-SC</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1p8l32m/gaiaos_runtime_tối_giản_chịu_tải_cho_ai_fintech/"&gt; &lt;img alt="GaiaOS – Runtime tối giản, chịu tải cho AI, Fintech &amp;amp; Security" src="https://b.thumbs.redditmedia.com/XLpKAZ798NaFtKNk6KyoH3ZjjVxYXSxUtbUHSMEjkNE.jpg" title="GaiaOS – Runtime tối giản, chịu tải cho AI, Fintech &amp;amp; Security" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người,&lt;/p&gt; &lt;p&gt;Mình đang thử nghiệm một runtime tối giản được thiết kế để chịu tải nặng trong môi trường AI + tài chính + bảo mật.&lt;/p&gt; &lt;p&gt;Sau nhiều tuần debug, mình nhận ra một số vấn đề khá đau đầu:&lt;/p&gt; &lt;p&gt;• Hệ thống tài chính vẫn gặp deadlock khi giao dịch lên cao điểm. • Một số module AI inference bị kẹt trong vòng lặp bottleneck, khiến tiến trình treo. • Một số nền tảng bảo mật bị rò rỉ tài nguyên, dẫn đến downtime mà không rõ nguyên nhân.&lt;/p&gt; &lt;p&gt;Vì tò mò, mình đã tự xây một runtime nhỏ để test các kịch bản này. Đây không phải OS, không phải sản phẩm thương mại — chỉ là một thử nghiệm cá nhân.&lt;/p&gt; &lt;p&gt;Mình không public code, chỉ chia sẻ log test và benchmark:&lt;/p&gt; &lt;p&gt;• Không bị lockup khi chạy vòng lặp cực nặng • Scheduler không bị đứng khi gặp spike tải đột ngột • Bộ nhớ ổn định trong thời gian dài • Độ trễ (latency) nằm trong mức dao động chấp nhận được&lt;/p&gt; &lt;p&gt;Ảnh dưới là log từ lần test mới nhất (S7). Không chỉnh sửa, không ghép, không “demo cho vui”. Mình chạy trực tiếp trên máy thật để kiểm tra khả năng chịu tải.&lt;/p&gt; &lt;p&gt;Câu hỏi mình muốn đặt ra cho cộng đồng: Nếu một runtime có thể vượt qua deadlock, bottleneck trong pipeline AI, và các bug nhỏ nhưng gây crash hệ thống… liệu nó có ứng dụng thực tế trong fintech / bảo mật / AI không?&lt;/p&gt; &lt;p&gt;Mình không bán gì, không quảng cáo gì. Chỉ muốn nghe góc nhìn từ anh em đang làm hệ thống lớn.&lt;/p&gt; &lt;p&gt;Cảm ơn mọi người!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Lucius-SC"&gt; /u/Lucius-SC &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1p8l32m"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p8l32m/gaiaos_runtime_tối_giản_chịu_tải_cho_ai_fintech/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p8l32m/gaiaos_runtime_tối_giản_chịu_tải_cho_ai_fintech/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-28T03:53:17+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1p8lt74</id>
-    <title>Anyone interested in starting a Song Circle in Chiang Mai?</title>
-    <updated>2025-11-28T04:32:54+00:00</updated>
-    <author>
-      <name>/u/ericdavidellman</name>
-      <uri>https://old.reddit.com/user/ericdavidellman</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;A song circle is basically a structured jam session — not a free-for-all. We sit in a circle, and everyone takes turns leading a familiar song that others can play along with and sing the chorus. With about 10 people, we usually get around the circle about 3 times in a 2-hour session.&lt;/p&gt; &lt;p&gt;It’s a fun, supportive space for musicians of all levels. You can lead something simple (3–4 chords), or just play rhythm and sing along with others.&lt;/p&gt; &lt;p&gt;I’ve got a venue great venue — a restaurant that would happily welcome a bit of extra traffic— near Taphae Gate. I’m very happy to host and organize. What we really need is a stronger musician than me — someone who either knows a lot of songs or is good at following along with basic chord patterns — just to help anchor the circle.&lt;/p&gt; &lt;p&gt;If this sounds like your thing, drop a comment. Let’s get something going.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ericdavidellman"&gt; /u/ericdavidellman &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p8lt74/anyone_interested_in_starting_a_song_circle_in/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p8lt74/anyone_interested_in_starting_a_song_circle_in/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p8lt74/anyone_interested_in_starting_a_song_circle_in/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-28T04:32:54+00:00</published>
-  </entry>
   <entry>
     <id>t3_1p8hzvo</id>
     <title>Tài trợ</title>
@@ -73,19 +34,6 @@
     <published>2025-11-28T05:04:50+00:00</published>
   </entry>
   <entry>
-    <id>t3_1p83srs</id>
-    <title>Con ơi mẹ bảo câu này: cướp đêm là tặc, cướp ngày là...</title>
-    <updated>2025-11-27T14:39:35+00:00</updated>
-    <author>
-      <name>/u/SoloLivingstorm</name>
-      <uri>https://old.reddit.com/user/SoloLivingstorm</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1p83srs/con_ơi_mẹ_bảo_câu_này_cướp_đêm_là_tặc_cướp_ngày_là/"&gt; &lt;img alt="Con ơi mẹ bảo câu này: cướp đêm là tặc, cướp ngày là..." src="https://b.thumbs.redditmedia.com/vBHHEjnqw9vpL8u4hVNKirjQya3jMMtacACMGU_kVGc.jpg" title="Con ơi mẹ bảo câu này: cướp đêm là tặc, cướp ngày là..." /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="https://preview.redd.it/70ep238v9t3g1.png?width=888&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=7987eb032a60dbd7a5440213d5a26ecee93ab8c6"&gt;https://preview.redd.it/70ep238v9t3g1.png?width=888&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=7987eb032a60dbd7a5440213d5a26ecee93ab8c6&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Cay... mà không thể làm gì khác...&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/SoloLivingstorm"&gt; /u/SoloLivingstorm &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p83srs/con_ơi_mẹ_bảo_câu_này_cướp_đêm_là_tặc_cướp_ngày_là/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p83srs/con_ơi_mẹ_bảo_câu_này_cướp_đêm_là_tặc_cướp_ngày_là/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p83srs/con_ơi_mẹ_bảo_câu_này_cướp_đêm_là_tặc_cướp_ngày_là/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-27T14:39:35+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1p80sls</id>
     <title>Reddit có an toàn cho những phát ngôn chánh chụy</title>
     <updated>2025-11-27T12:16:42+00:00</updated>
@@ -97,6 +45,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1p80sls/reddit_có_an_toàn_cho_những_phát_ngôn_chánh_chụy/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-27T12:16:42+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1p83srs</id>
+    <title>Con ơi mẹ bảo câu này: cướp đêm là tặc, cướp ngày là...</title>
+    <updated>2025-11-27T14:39:35+00:00</updated>
+    <author>
+      <name>/u/SoloLivingstorm</name>
+      <uri>https://old.reddit.com/user/SoloLivingstorm</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1p83srs/con_ơi_mẹ_bảo_câu_này_cướp_đêm_là_tặc_cướp_ngày_là/"&gt; &lt;img alt="Con ơi mẹ bảo câu này: cướp đêm là tặc, cướp ngày là..." src="https://b.thumbs.redditmedia.com/vBHHEjnqw9vpL8u4hVNKirjQya3jMMtacACMGU_kVGc.jpg" title="Con ơi mẹ bảo câu này: cướp đêm là tặc, cướp ngày là..." /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="https://preview.redd.it/70ep238v9t3g1.png?width=888&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=7987eb032a60dbd7a5440213d5a26ecee93ab8c6"&gt;https://preview.redd.it/70ep238v9t3g1.png?width=888&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=7987eb032a60dbd7a5440213d5a26ecee93ab8c6&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Cay... mà không thể làm gì khác...&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/SoloLivingstorm"&gt; /u/SoloLivingstorm &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p83srs/con_ơi_mẹ_bảo_câu_này_cướp_đêm_là_tặc_cướp_ngày_là/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p83srs/con_ơi_mẹ_bảo_câu_này_cướp_đêm_là_tặc_cướp_ngày_là/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p83srs/con_ơi_mẹ_bảo_câu_này_cướp_đêm_là_tặc_cướp_ngày_là/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-27T14:39:35+00:00</published>
   </entry>
   <entry>
     <id>t3_1p8o32h</id>
@@ -125,19 +86,6 @@
     <published>2025-11-28T01:36:31+00:00</published>
   </entry>
   <entry>
-    <id>t3_1p8p33z</id>
-    <title>Bóc secret trên app hẹn hò</title>
-    <updated>2025-11-28T07:45:08+00:00</updated>
-    <author>
-      <name>/u/Key-Possibility-3192</name>
-      <uri>https://old.reddit.com/user/Key-Possibility-3192</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hello mọi người, mình thấy tò mò tại sao nhiều ng lên app hẹn hò k để ảnh. Nhiều khi muốn bóc secret nói chuyện cho vui mà khóbắt đầu quá. &lt;/p&gt; &lt;p&gt;Nếu ảnh có gì để nói thì còn dễ, k có gì để nói thì biết làm gì nhỉ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Key-Possibility-3192"&gt; /u/Key-Possibility-3192 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p8p33z/bóc_secret_trên_app_hẹn_hò/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p8p33z/bóc_secret_trên_app_hẹn_hò/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p8p33z/bóc_secret_trên_app_hẹn_hò/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-28T07:45:08+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1p8laut</id>
     <title>tìm sách</title>
     <updated>2025-11-28T04:05:10+00:00</updated>
@@ -151,17 +99,30 @@
     <published>2025-11-28T04:05:10+00:00</published>
   </entry>
   <entry>
-    <id>t3_1p8ppxg</id>
-    <title>2026 có nên mua Freego S ko ?</title>
-    <updated>2025-11-28T08:25:56+00:00</updated>
+    <id>t3_1p8q2l6</id>
+    <title>Các anh các chú bác cho e, cháu giải pháp với ạ 🥲🥲</title>
+    <updated>2025-11-28T08:49:04+00:00</updated>
     <author>
-      <name>/u/Old-Substance5193</name>
-      <uri>https://old.reddit.com/user/Old-Substance5193</uri>
+      <name>/u/Evening-Awareness-36</name>
+      <uri>https://old.reddit.com/user/Evening-Awareness-36</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em đang tìm hiểu và đang quan tâm đến Freego S, thấy khá ưng. Đang thắc mắc nếu thay đồ để khắc phục điểm yếu của nó thì giá có bị đôn lên bằng mấy con lead vario ko. Và mấy con trên ngon ko nhỉ. Với nên mua trước Tết hay sau Tết cho giá rẻ nhỉ mn. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Old-Substance5193"&gt; /u/Old-Substance5193 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p8ppxg/2026_có_nên_mua_freego_s_ko/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p8ppxg/2026_có_nên_mua_freego_s_ko/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p8ppxg/2026_có_nên_mua_freego_s_ko/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Nhà em có dãy trọ thuê khá đông mặt đường, đối diện là 1 nhà tạp hoá họ cũng có trọ ở cách nhà em tầm 2,3 cây . Khách thuê nhà em thì kiểu j họ cũng mua bán vs nhà tạp hoá đó vì gần, tiện tuy nhiên bà tạp hoá cực hay chèo kéo khách để sang nhà bà ý thuê. 1,2 lần k ns nhưng phải 10,12 lần khách nhà em đag thuê họ bỏ . Các bác cho e xin giải pháp hợp lý ạ. E cảm ơn các bác ạ P/s: phòng ốc nhà em ok, tệp khách thuê là công nhân xây dựng nên cũng k thể quá căng trong chuyện cọc nhiều tiền hơp đồng &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Evening-Awareness-36"&gt; /u/Evening-Awareness-36 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p8q2l6/các_anh_các_chú_bác_cho_e_cháu_giải_pháp_với_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p8q2l6/các_anh_các_chú_bác_cho_e_cháu_giải_pháp_với_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p8q2l6/các_anh_các_chú_bác_cho_e_cháu_giải_pháp_với_ạ/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-28T08:25:56+00:00</published>
+    <published>2025-11-28T08:49:04+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1p8q2tj</id>
+    <title>33 tuổi và những thứ bạn đã có trong tay là gì?</title>
+    <updated>2025-11-28T08:49:30+00:00</updated>
+    <author>
+      <name>/u/Legitimate-Meet-2662</name>
+      <uri>https://old.reddit.com/user/Legitimate-Meet-2662</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chia sẻ lấy động lực để tôi không cảm thấy 1 mình được không!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Legitimate-Meet-2662"&gt; /u/Legitimate-Meet-2662 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p8q2tj/33_tuổi_và_những_thứ_bạn_đã_có_trong_tay_là_gì/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p8q2tj/33_tuổi_và_những_thứ_bạn_đã_có_trong_tay_là_gì/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p8q2tj/33_tuổi_và_những_thứ_bạn_đã_có_trong_tay_là_gì/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-28T08:49:30+00:00</published>
   </entry>
   <entry>
     <id>t3_1p7qmwu</id>
@@ -190,19 +151,6 @@
     <published>2025-11-28T04:10:32+00:00</published>
   </entry>
   <entry>
-    <id>t3_1p8mton</id>
-    <title>Xin lời khuyên về công việc</title>
-    <updated>2025-11-28T05:29:04+00:00</updated>
-    <author>
-      <name>/u/False_Opportunity_33</name>
-      <uri>https://old.reddit.com/user/False_Opportunity_33</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em chào các bác, post này em đăng để xin lời khuyên liên quan đến công việc Em năm nay sinh viên mới ra trường, hiện đang thử việc tại 1 công ty với vị trí khá là khác so với chuyên ngành của bản thân đã theo học, và giờ em đang cảm thấy chán nản, kiểu chỉ biết ngày đi làm theo task được a/c quản lí giao, làm những công việc không liên quan, dần dần lâu ngày cảm thấy mình đang không biết bản thân đi làm vì cái gì, kiểu nó lạc lõng lắm luôn ạ. Em cũng đã tính đến chuyện xin nghỉ việc, ở nhà 1 thời gian để suy nghĩ cũng như nghỉ ngơi, mà giờ nói đến chuyện này đi hỏi người trong nhà ai cũng bảo &amp;quot;cố mà đi làm, làm dần rồi quen&amp;quot;. Các bác hơn tuổi em đi trước có thể cho em xin lời khuyên chân thành được không ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/False_Opportunity_33"&gt; /u/False_Opportunity_33 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p8mton/xin_lời_khuyên_về_công_việc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p8mton/xin_lời_khuyên_về_công_việc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p8mton/xin_lời_khuyên_về_công_việc/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-28T05:29:04+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1p8jowk</id>
     <title>Việt Nam có báo in giấy bằng tiếng Anh không?</title>
     <updated>2025-11-28T02:37:51+00:00</updated>
@@ -214,6 +162,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1p8jowk/việt_nam_có_báo_in_giấy_bằng_tiếng_anh_không/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-28T02:37:51+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1p8p33z</id>
+    <title>Bóc secret trên app hẹn hò</title>
+    <updated>2025-11-28T07:45:08+00:00</updated>
+    <author>
+      <name>/u/Key-Possibility-3192</name>
+      <uri>https://old.reddit.com/user/Key-Possibility-3192</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hello mọi người, mình thấy tò mò tại sao nhiều ng lên app hẹn hò k để ảnh. Nhiều khi muốn bóc secret nói chuyện cho vui mà khóbắt đầu quá. &lt;/p&gt; &lt;p&gt;Nếu ảnh có gì để nói thì còn dễ, k có gì để nói thì biết làm gì nhỉ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Key-Possibility-3192"&gt; /u/Key-Possibility-3192 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p8p33z/bóc_secret_trên_app_hẹn_hò/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p8p33z/bóc_secret_trên_app_hẹn_hò/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p8p33z/bóc_secret_trên_app_hẹn_hò/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-28T07:45:08+00:00</published>
   </entry>
   <entry>
     <id>t3_1p82jts</id>
@@ -229,30 +190,30 @@
     <published>2025-11-27T13:44:34+00:00</published>
   </entry>
   <entry>
-    <id>t3_1p8ozhc</id>
-    <title>Tầm này kinh doanh trên Esty hay shoptify còn ngon không nhỉ mọi người ?</title>
-    <updated>2025-11-28T07:38:30+00:00</updated>
+    <id>t3_1p8mton</id>
+    <title>Xin lời khuyên về công việc</title>
+    <updated>2025-11-28T05:29:04+00:00</updated>
     <author>
-      <name>/u/Only-Conclusion5238</name>
-      <uri>https://old.reddit.com/user/Only-Conclusion5238</uri>
+      <name>/u/False_Opportunity_33</name>
+      <uri>https://old.reddit.com/user/False_Opportunity_33</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chả hiểu sao mấy cái nền tảng này kị sever Việt quá cứ lặp tài khoản là bị chặn thôi, với lại mấy cái sản phẩm trên này bảo hòa quá, nói thật không có AI thì mình cũng chẳng biết làm gì để cạnh tranh với người ta luôn&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Only-Conclusion5238"&gt; /u/Only-Conclusion5238 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p8ozhc/tầm_này_kinh_doanh_trên_esty_hay_shoptify_còn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p8ozhc/tầm_này_kinh_doanh_trên_esty_hay_shoptify_còn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p8ozhc/tầm_này_kinh_doanh_trên_esty_hay_shoptify_còn/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em chào các bác, post này em đăng để xin lời khuyên liên quan đến công việc Em năm nay sinh viên mới ra trường, hiện đang thử việc tại 1 công ty với vị trí khá là khác so với chuyên ngành của bản thân đã theo học, và giờ em đang cảm thấy chán nản, kiểu chỉ biết ngày đi làm theo task được a/c quản lí giao, làm những công việc không liên quan, dần dần lâu ngày cảm thấy mình đang không biết bản thân đi làm vì cái gì, kiểu nó lạc lõng lắm luôn ạ. Em cũng đã tính đến chuyện xin nghỉ việc, ở nhà 1 thời gian để suy nghĩ cũng như nghỉ ngơi, mà giờ nói đến chuyện này đi hỏi người trong nhà ai cũng bảo &amp;quot;cố mà đi làm, làm dần rồi quen&amp;quot;. Các bác hơn tuổi em đi trước có thể cho em xin lời khuyên chân thành được không ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/False_Opportunity_33"&gt; /u/False_Opportunity_33 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p8mton/xin_lời_khuyên_về_công_việc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p8mton/xin_lời_khuyên_về_công_việc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p8mton/xin_lời_khuyên_về_công_việc/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-28T07:38:30+00:00</published>
+    <published>2025-11-28T05:29:04+00:00</published>
   </entry>
   <entry>
-    <id>t3_1p8iwqj</id>
-    <title>Cho mình hỏi Doanh nghiệp mới mở ra giải thể luôn được không? (+ phốt Techcombank x Cenvi)</title>
-    <updated>2025-11-28T01:57:25+00:00</updated>
+    <id>t3_1p8ppxg</id>
+    <title>2026 có nên mua Freego S ko ?</title>
+    <updated>2025-11-28T08:25:56+00:00</updated>
     <author>
-      <name>/u/h2k1dev</name>
-      <uri>https://old.reddit.com/user/h2k1dev</uri>
+      <name>/u/Old-Substance5193</name>
+      <uri>https://old.reddit.com/user/Old-Substance5193</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tình hình là mình mới dùng dịch vụ thành lập công ty của bọn Techcombank x Cenvi&lt;/p&gt; &lt;p&gt;Làm ăn với tụi nó từ tháng 10 tới giờ, có mã số thuế từ cuối tháng 10 rồi mà bây giờ vẫn chưa dám hoạt động được.&lt;/p&gt; &lt;p&gt;Nó khai thuế ban đầu bị reject mấy tuần nay mà không báo mình. Mình check mới phát hiện ra. Đã thế còn cấp MST nhầm tỉnh nữa =)) Bữa nó còn gửi mình sai con dấu pháp nhân rồi sau đó mới gửi lại mất thêm đống thời gian mới nhận được.&lt;/p&gt; &lt;p&gt;Mấy vụ Techcombank đem con bỏ chợ không lạ. Nhưng giờ cuối năm rồi sợ sang năm bên thuế nó dí mất thêm đống tiền nữa. Mà đang MST khác tỉnh nên sợ phải đi chuyến du lịch thì cực.&lt;/p&gt; &lt;p&gt;Vậy ae cho mình hỏi thủ tục giải thể công ty như thế nào ạ?&lt;/p&gt; &lt;p&gt;Hiện tại mình đã có:&lt;/p&gt; &lt;p&gt;- Mã số thuế CHƯA khai thuế ban đầu (vì bị reject)&lt;/p&gt; &lt;p&gt;- Dấu pháp dân do tụi Techcombamk x Cenvi cấp (check trên cổng thông tin chưa thấy đăng kí mẫu :) )&lt;/p&gt; &lt;p&gt;- USB Token ký số -&amp;gt; test thử thì dùng được rồi, đăng nhập trang thuế điện tử &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/h2k1dev"&gt; /u/h2k1dev &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p8iwqj/cho_mình_hỏi_doanh_nghiệp_mới_mở_ra_giải_thể_luôn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p8iwqj/cho_mình_hỏi_doanh_nghiệp_mới_mở_ra_giải_thể_luôn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p8iwqj/cho_mình_hỏi_doanh_nghiệp_mới_mở_ra_giải_thể_luôn/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em đang tìm hiểu và đang quan tâm đến Freego S, thấy khá ưng. Đang thắc mắc nếu thay đồ để khắc phục điểm yếu của nó thì giá có bị đôn lên bằng mấy con lead vario ko. Và mấy con trên ngon ko nhỉ. Với nên mua trước Tết hay sau Tết cho giá rẻ nhỉ mn. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Old-Substance5193"&gt; /u/Old-Substance5193 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p8ppxg/2026_có_nên_mua_freego_s_ko/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p8ppxg/2026_có_nên_mua_freego_s_ko/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p8ppxg/2026_có_nên_mua_freego_s_ko/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-28T01:57:25+00:00</published>
+    <published>2025-11-28T08:25:56+00:00</published>
   </entry>
   <entry>
     <id>t3_1p8e6od</id>
@@ -268,6 +229,19 @@
     <published>2025-11-27T21:58:52+00:00</published>
   </entry>
   <entry>
+    <id>t3_1p8iwqj</id>
+    <title>Cho mình hỏi Doanh nghiệp mới mở ra giải thể luôn được không? (+ phốt Techcombank x Cenvi)</title>
+    <updated>2025-11-28T01:57:25+00:00</updated>
+    <author>
+      <name>/u/h2k1dev</name>
+      <uri>https://old.reddit.com/user/h2k1dev</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tình hình là mình mới dùng dịch vụ thành lập công ty của bọn Techcombank x Cenvi&lt;/p&gt; &lt;p&gt;Làm ăn với tụi nó từ tháng 10 tới giờ, có mã số thuế từ cuối tháng 10 rồi mà bây giờ vẫn chưa dám hoạt động được.&lt;/p&gt; &lt;p&gt;Nó khai thuế ban đầu bị reject mấy tuần nay mà không báo mình. Mình check mới phát hiện ra. Đã thế còn cấp MST nhầm tỉnh nữa =)) Bữa nó còn gửi mình sai con dấu pháp nhân rồi sau đó mới gửi lại mất thêm đống thời gian mới nhận được.&lt;/p&gt; &lt;p&gt;Mấy vụ Techcombank đem con bỏ chợ không lạ. Nhưng giờ cuối năm rồi sợ sang năm bên thuế nó dí mất thêm đống tiền nữa. Mà đang MST khác tỉnh nên sợ phải đi chuyến du lịch thì cực.&lt;/p&gt; &lt;p&gt;Vậy ae cho mình hỏi thủ tục giải thể công ty như thế nào ạ?&lt;/p&gt; &lt;p&gt;Hiện tại mình đã có:&lt;/p&gt; &lt;p&gt;- Mã số thuế CHƯA khai thuế ban đầu (vì bị reject)&lt;/p&gt; &lt;p&gt;- Dấu pháp dân do tụi Techcombamk x Cenvi cấp (check trên cổng thông tin chưa thấy đăng kí mẫu :) )&lt;/p&gt; &lt;p&gt;- USB Token ký số -&amp;gt; test thử thì dùng được rồi, đăng nhập trang thuế điện tử &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/h2k1dev"&gt; /u/h2k1dev &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p8iwqj/cho_mình_hỏi_doanh_nghiệp_mới_mở_ra_giải_thể_luôn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p8iwqj/cho_mình_hỏi_doanh_nghiệp_mới_mở_ra_giải_thể_luôn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p8iwqj/cho_mình_hỏi_doanh_nghiệp_mới_mở_ra_giải_thể_luôn/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-28T01:57:25+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1p8nxmk</id>
     <title>Có ai dùng internet Viettel truy cập các trang của Microsoft bị lỗi quá tải không?</title>
     <updated>2025-11-28T06:33:18+00:00</updated>
@@ -279,19 +253,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1p8nxmk/có_ai_dùng_internet_viettel_truy_cập_các_trang/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-28T06:33:18+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1p8o3up</id>
-    <title>bạn cùng phòng bẩn tính</title>
-    <updated>2025-11-28T06:43:57+00:00</updated>
-    <author>
-      <name>/u/Square_Access3107</name>
-      <uri>https://old.reddit.com/user/Square_Access3107</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;mình đang là sinh viên nên đang ở chung với 1 nữa, vì ở chung nên nhiều điều bất cập ko hay sẽ xảy ra nhưng nếu nó ko quá đáng hay chỉ vô tình thì đều cho qua đc.Bạn này thì khá vô tư và ko để ý đến người khác ,thường xuyên chơi game hay gây tiếng động lúc đêm ,đi dép trong nhà thì loet xoẹt rất ồn .Đỉnh điểm là đi chơi đêm và về vào lúc 2h ,đã có lúc mik khoá cửa ko cho bạn ý vào ,mùa đông thì vừa bật quạt vừa đắp chăn bông điện nước sài cũng rất phóng tay .Mik đã gop ý nhiều rồi mà ko cải thiện .ai gặp kiểu người này rồi cho mik xin biện pháp chứ mik ko nghĩ trên đời có người như vậy á.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Square_Access3107"&gt; /u/Square_Access3107 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p8o3up/bạn_cùng_phòng_bẩn_tính/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p8o3up/bạn_cùng_phòng_bẩn_tính/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p8o3up/bạn_cùng_phòng_bẩn_tính/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-28T06:43:57+00:00</published>
   </entry>
   <entry>
     <id>t3_1p8mswc</id>
@@ -307,17 +268,30 @@
     <published>2025-11-28T05:27:49+00:00</published>
   </entry>
   <entry>
-    <id>t3_1p8ksbl</id>
-    <title>Không biết bản thân sống không thực tế hay người bạn thân nhất trải qua quá nhiều sự tiêu cực</title>
-    <updated>2025-11-28T03:37:05+00:00</updated>
+    <id>t3_1p8ozhc</id>
+    <title>Tầm này kinh doanh trên Esty hay shoptify còn ngon không nhỉ mọi người ?</title>
+    <updated>2025-11-28T07:38:30+00:00</updated>
     <author>
-      <name>/u/SignificantDig5291</name>
-      <uri>https://old.reddit.com/user/SignificantDig5291</uri>
+      <name>/u/Only-Conclusion5238</name>
+      <uri>https://old.reddit.com/user/Only-Conclusion5238</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chả là gần đây em có hẹn hò với bạn trai người Đài Loan hơn em 13 tuổi, a làm kĩ sư cùng công ty em nên hàng ngày a đều chuẩn bị hoa quả bỏ tủ lạnh để em ăn, ngoài ra anh là người rất ấm áp và chiều chuộng em, đi với anh em cảm giác như mình con ảnh luôn á. Bạn thân em làm cùng công ty em luôn thì hàng ngày bạn có chứng kiến và có hỏi em đi hẹn hò với anh chú như nào, e cũng chia sẻ qua cho bạn mình. Bạn em thì lập gia đình sớm hơn em, và sinh con từ lúc sắp tốt nghiệp đại học cũng trải qua nhiều chuyện không mấy vui vẻ với gia đình chồng, chồng bạn em cũng là một người khá gia trưởng, tình cờ em qua chỗ bạn em chơi và thấy bạn em đang nói chuyện với chồng là bạn em dị ứng nhất kiểu người như em ý là làm nũng với người yêu rồi hành động người yêu em thích xúc đồ ăn cho em khi 2 người đi ăn với nhau làm bạn em k thích, r bảo em mơ mộng này kia, bạn em sống thực tế quen rồi. Vậy mọi người cho em hỏi việc em yêu đương với một người hơn em 13 tuổi r chiều chuộng em là vẫn còn quá mơ mộng và chưa thực tế ạ ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/SignificantDig5291"&gt; /u/SignificantDig5291 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p8ksbl/không_biết_bản_thân_sống_không_thực_tế_hay_người/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p8ksbl/không_biết_bản_thân_sống_không_thực_tế_hay_người/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p8ksbl/không_biết_bản_thân_sống_không_thực_tế_hay_người/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chả hiểu sao mấy cái nền tảng này kị sever Việt quá cứ lặp tài khoản là bị chặn thôi, với lại mấy cái sản phẩm trên này bảo hòa quá, nói thật không có AI thì mình cũng chẳng biết làm gì để cạnh tranh với người ta luôn&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Only-Conclusion5238"&gt; /u/Only-Conclusion5238 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p8ozhc/tầm_này_kinh_doanh_trên_esty_hay_shoptify_còn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p8ozhc/tầm_này_kinh_doanh_trên_esty_hay_shoptify_còn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p8ozhc/tầm_này_kinh_doanh_trên_esty_hay_shoptify_còn/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-28T03:37:05+00:00</published>
+    <published>2025-11-28T07:38:30+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1p8o3up</id>
+    <title>bạn cùng phòng bẩn tính</title>
+    <updated>2025-11-28T06:43:57+00:00</updated>
+    <author>
+      <name>/u/Square_Access3107</name>
+      <uri>https://old.reddit.com/user/Square_Access3107</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;mình đang là sinh viên nên đang ở chung với 1 nữa, vì ở chung nên nhiều điều bất cập ko hay sẽ xảy ra nhưng nếu nó ko quá đáng hay chỉ vô tình thì đều cho qua đc.Bạn này thì khá vô tư và ko để ý đến người khác ,thường xuyên chơi game hay gây tiếng động lúc đêm ,đi dép trong nhà thì loet xoẹt rất ồn .Đỉnh điểm là đi chơi đêm và về vào lúc 2h ,đã có lúc mik khoá cửa ko cho bạn ý vào ,mùa đông thì vừa bật quạt vừa đắp chăn bông điện nước sài cũng rất phóng tay .Mik đã gop ý nhiều rồi mà ko cải thiện .ai gặp kiểu người này rồi cho mik xin biện pháp chứ mik ko nghĩ trên đời có người như vậy á.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Square_Access3107"&gt; /u/Square_Access3107 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p8o3up/bạn_cùng_phòng_bẩn_tính/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p8o3up/bạn_cùng_phòng_bẩn_tính/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p8o3up/bạn_cùng_phòng_bẩn_tính/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-28T06:43:57+00:00</published>
   </entry>
   <entry>
     <id>t3_1p85l61</id>
@@ -331,5 +305,31 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1p85l61/đôi_khi_thấy_mxh_quá_toxic/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-27T15:53:41+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1p8ptsm</id>
+    <title>Mấy bạn mà định mua chứng khoán nước ngoài, hãy nghe tôi</title>
+    <updated>2025-11-28T08:33:02+00:00</updated>
+    <author>
+      <name>/u/TableWallWatch</name>
+      <uri>https://old.reddit.com/user/TableWallWatch</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tôi thấy trên này cứ vài bữa là có một bài hỏi cách mua ck nước ngoài.&lt;/p&gt; &lt;p&gt;Vấn đề này bản thân tôi đã nghiên cứu nhiều nên để tôi nói tóm gọn một câu nhé: Không có cách nào hợp pháp cho cá nhân ở VN để mua ck nước ngoài.&lt;/p&gt; &lt;p&gt;Còn mua qua mấy cái trang nước ngoài thì tôi tóm gọn thế này:&lt;/p&gt; &lt;p&gt;- Không được pháp luật VN bảo vệ. Tụi nó làm sai thì mất trắng nhé.&lt;/p&gt; &lt;p&gt;- Tất cả là mua hợp đồng CFD. Cái này tự google thêm chứ tôi không tiện nói chi tiết. Nói chung là 100% là bạn không được sở hữu chứng khoán của Apple, Tesla,... đâu. Cty môi giới nó phá sản là mất trắng. Ví dụ bằng CFD vàng cho dễ hiểu: khi bạn mua CFD vàng là bạn đang cá cược với tôi về giá vàng. Mai giá vàng tăng thì tôi trả tiền cho bạn. Giá vàng giảm bạn trả tiền cho tôi. Bạn không hề sở hữu một gram vàng nào. Tôi bị gì là bạn mất trắng.&lt;/p&gt; &lt;p&gt;- Phí nạp rút tiền cao đến mức lợi nhuận của bạn có thể vô nghĩa.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/TableWallWatch"&gt; /u/TableWallWatch &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p8ptsm/mấy_bạn_mà_định_mua_chứng_khoán_nước_ngoài_hãy/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p8ptsm/mấy_bạn_mà_định_mua_chứng_khoán_nước_ngoài_hãy/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p8ptsm/mấy_bạn_mà_định_mua_chứng_khoán_nước_ngoài_hãy/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-28T08:33:02+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1p8ksbl</id>
+    <title>Không biết bản thân sống không thực tế hay người bạn thân nhất trải qua quá nhiều sự tiêu cực</title>
+    <updated>2025-11-28T03:37:05+00:00</updated>
+    <author>
+      <name>/u/SignificantDig5291</name>
+      <uri>https://old.reddit.com/user/SignificantDig5291</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chả là gần đây em có hẹn hò với bạn trai người Đài Loan hơn em 13 tuổi, a làm kĩ sư cùng công ty em nên hàng ngày a đều chuẩn bị hoa quả bỏ tủ lạnh để em ăn, ngoài ra anh là người rất ấm áp và chiều chuộng em, đi với anh em cảm giác như mình con ảnh luôn á. Bạn thân em làm cùng công ty em luôn thì hàng ngày bạn có chứng kiến và có hỏi em đi hẹn hò với anh chú như nào, e cũng chia sẻ qua cho bạn mình. Bạn em thì lập gia đình sớm hơn em, và sinh con từ lúc sắp tốt nghiệp đại học cũng trải qua nhiều chuyện không mấy vui vẻ với gia đình chồng, chồng bạn em cũng là một người khá gia trưởng, tình cờ em qua chỗ bạn em chơi và thấy bạn em đang nói chuyện với chồng là bạn em dị ứng nhất kiểu người như em ý là làm nũng với người yêu rồi hành động người yêu em thích xúc đồ ăn cho em khi 2 người đi ăn với nhau làm bạn em k thích, r bảo em mơ mộng này kia, bạn em sống thực tế quen rồi. Vậy mọi người cho em hỏi việc em yêu đương với một người hơn em 13 tuổi r chiều chuộng em là vẫn còn quá mơ mộng và chưa thực tế ạ ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/SignificantDig5291"&gt; /u/SignificantDig5291 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p8ksbl/không_biết_bản_thân_sống_không_thực_tế_hay_người/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p8ksbl/không_biết_bản_thân_sống_không_thực_tế_hay_người/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p8ksbl/không_biết_bản_thân_sống_không_thực_tế_hay_người/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-28T03:37:05+00:00</published>
   </entry>
 </feed>
