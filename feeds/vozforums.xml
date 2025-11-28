@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-11-28T05:19:44+00:00</updated>
+  <updated>2025-11-28T05:43:09+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1p872qa</id>
-    <title>Làm sao để bán xe cho người giàu ?</title>
-    <updated>2025-11-27T16:53:20+00:00</updated>
-    <author>
-      <name>/u/Learner-gigachad2209</name>
-      <uri>https://old.reddit.com/user/Learner-gigachad2209</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình hiện tại mới là cộng tác viên đăng bán các dòng xe phân khúc tầm trung đến hạng sang nhưng vấn đề mình gặp phải là rất khó trong việc tìm kiếm và gây chú ý đến các khách hàng của mình. Có ai làm trong ngành này lâu có thể chia sẻ kinh nghiệm cho mình mở mang với ạ 🧐&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Learner-gigachad2209"&gt; /u/Learner-gigachad2209 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p872qa/làm_sao_để_bán_xe_cho_người_giàu/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p872qa/làm_sao_để_bán_xe_cho_người_giàu/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p872qa/làm_sao_để_bán_xe_cho_người_giàu/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-27T16:53:20+00:00</published>
-  </entry>
   <entry>
     <id>t3_1p86nu0</id>
     <title>Xin tips làm freelance</title>
@@ -164,19 +151,6 @@
     <published>2025-11-28T01:09:58+00:00</published>
   </entry>
   <entry>
-    <id>t3_1p8me2k</id>
-    <title>tư vấn mua ipad cũ</title>
-    <updated>2025-11-28T05:04:50+00:00</updated>
-    <author>
-      <name>/u/Ok-Praline1660</name>
-      <uri>https://old.reddit.com/user/Ok-Praline1660</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;mình cần mua ipad cũ tầm 3tr đổ xuống thì mua được loại nào vậy mn? mua về dùng để test app nên ipadOS càng cao càng tốt.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ok-Praline1660"&gt; /u/Ok-Praline1660 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p8me2k/tư_vấn_mua_ipad_cũ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p8me2k/tư_vấn_mua_ipad_cũ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p8me2k/tư_vấn_mua_ipad_cũ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-28T05:04:50+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1p83srs</id>
     <title>Con ơi mẹ bảo câu này: cướp đêm là tặc, cướp ngày là...</title>
     <updated>2025-11-27T14:39:35+00:00</updated>
@@ -188,6 +162,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1p83srs/con_ơi_mẹ_bảo_câu_này_cướp_đêm_là_tặc_cướp_ngày_là/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-27T14:39:35+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1p8me2k</id>
+    <title>tư vấn mua ipad cũ</title>
+    <updated>2025-11-28T05:04:50+00:00</updated>
+    <author>
+      <name>/u/Ok-Praline1660</name>
+      <uri>https://old.reddit.com/user/Ok-Praline1660</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;mình cần mua ipad cũ tầm 3tr đổ xuống thì mua được loại nào vậy mn? mua về dùng để test app nên ipadOS càng cao càng tốt.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ok-Praline1660"&gt; /u/Ok-Praline1660 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p8me2k/tư_vấn_mua_ipad_cũ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p8me2k/tư_vấn_mua_ipad_cũ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p8me2k/tư_vấn_mua_ipad_cũ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-28T05:04:50+00:00</published>
   </entry>
   <entry>
     <id>t3_1p8ii5q</id>
@@ -203,6 +190,19 @@
     <published>2025-11-28T01:36:31+00:00</published>
   </entry>
   <entry>
+    <id>t3_1p8mton</id>
+    <title>Xin lời khuyên về công việc</title>
+    <updated>2025-11-28T05:29:04+00:00</updated>
+    <author>
+      <name>/u/False_Opportunity_33</name>
+      <uri>https://old.reddit.com/user/False_Opportunity_33</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em chào các bác, post này em đăng để xin lời khuyên liên quan đến công việc Em năm nay sinh viên mới ra trường, hiện đang thử việc tại 1 công ty với vị trí khá là khác so với chuyên ngành của bản thân đã theo học, và giờ em đang cảm thấy chán nản, kiểu chỉ biết ngày đi làm theo task được a/c quản lí giao, làm những công việc không liên quan, dần dần lâu ngày cảm thấy mình đang không biết bản thân đi làm vì cái gì, kiểu nó lạc lõng lắm luôn ạ. Em cũng đã tính đến chuyện xin nghỉ việc, ở nhà 1 thời gian để suy nghĩ cũng như nghỉ ngơi, mà giờ nói đến chuyện này đi hỏi người trong nhà ai cũng bảo &amp;quot;cố mà đi làm, làm dần rồi quen&amp;quot;. Các bác hơn tuổi em đi trước có thể cho em xin lời khuyên chân thành được không ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/False_Opportunity_33"&gt; /u/False_Opportunity_33 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p8mton/xin_lời_khuyên_về_công_việc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p8mton/xin_lời_khuyên_về_công_việc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p8mton/xin_lời_khuyên_về_công_việc/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-28T05:29:04+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1p80sls</id>
     <title>Reddit có an toàn cho những phát ngôn chánh chụy</title>
     <updated>2025-11-27T12:16:42+00:00</updated>
@@ -214,19 +214,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1p80sls/reddit_có_an_toàn_cho_những_phát_ngôn_chánh_chụy/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-27T12:16:42+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1p7y15t</id>
-    <title>Không phải tình đầu?</title>
-    <updated>2025-11-27T09:29:13+00:00</updated>
-    <author>
-      <name>/u/Apart-Yoghurt8577</name>
-      <uri>https://old.reddit.com/user/Apart-Yoghurt8577</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hôm nay mình nhận ra bạn trai mình đang cảm nắng một người khác, mà còn tệ hơn nữa khi tình cảm đó không được nói ra cho mình biết, mà cứ âm thầm lặng lẽ cho đến khi mình phát hiện ra. Mình không muốn tin vào linh cảm, vì một chút công việc của mình ít cho phép tin vào cảm giác, hay cảm xúc, dần mình cũng hình thành thói quen đó trong cuộc sống. Mọi thứ đều cần có dữ liệu.&lt;/p&gt; &lt;p&gt;Nhưng khi cô bé đó vừa xuất hiện, mình linh cảm có ngày này. Khi nó thực sự đến thì mình cũng bình tĩnh chấp nhận và mong anh thừa nhận. Mình nghĩ mình trải qua vài mối tình nên việc thất tình không còn quá xa lạ, mình có chút giận, nhưng không bật khóc. Mình nói chia tay. Anh xin lỗi, đúng anh có tư tưởng, nhưng chưa đến mức gọi là mập mờ. Mình nói không trách anh.&lt;/p&gt; &lt;p&gt;Mãi đến hôm nay mình nhìn mây chiều sau khi hoàn thành hết cviec ở cty thì mình lại bật khóc. Dù bên ngoài mình tỏ ra đã rất tỏ tường sự đời, bên trong mình lại đau một chút.&lt;/p&gt; &lt;p&gt;Hoá ra mình đã cuốn vào tình yêu nhưng mình không cho phép mình thể hiện cảm xúc ra nhiều thôi. Cảm ơn vì đã yêu đến lúc không yêu được nữa.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Apart-Yoghurt8577"&gt; /u/Apart-Yoghurt8577 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p7y15t/không_phải_tình_đầu/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p7y15t/không_phải_tình_đầu/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p7y15t/không_phải_tình_đầu/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-27T09:29:13+00:00</published>
   </entry>
   <entry>
     <id>t3_1p7qmwu</id>
@@ -255,19 +242,6 @@
     <published>2025-11-28T04:10:32+00:00</published>
   </entry>
   <entry>
-    <id>t3_1p8jowk</id>
-    <title>Việt Nam có báo in giấy bằng tiếng Anh không?</title>
-    <updated>2025-11-28T02:37:51+00:00</updated>
-    <author>
-      <name>/u/Puzzled-Buddy7212</name>
-      <uri>https://old.reddit.com/user/Puzzled-Buddy7212</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em đang học tiếng Anh nên muốn mua báo giấy vừa đọc vừa học tiếng Anh. E thích đọc báo giấy&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Puzzled-Buddy7212"&gt; /u/Puzzled-Buddy7212 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p8jowk/việt_nam_có_báo_in_giấy_bằng_tiếng_anh_không/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p8jowk/việt_nam_có_báo_in_giấy_bằng_tiếng_anh_không/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p8jowk/việt_nam_có_báo_in_giấy_bằng_tiếng_anh_không/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-28T02:37:51+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1p82jts</id>
     <title>Năm 22 tuổi lương mn là bao nhiêu vậy ạ</title>
     <updated>2025-11-27T13:44:34+00:00</updated>
@@ -281,6 +255,19 @@
     <published>2025-11-27T13:44:34+00:00</published>
   </entry>
   <entry>
+    <id>t3_1p8mswc</id>
+    <title>Bạn thân khác giới thường kể với nhau về những chuyện gì?</title>
+    <updated>2025-11-28T05:27:49+00:00</updated>
+    <author>
+      <name>/u/Personal-Animal-3333</name>
+      <uri>https://old.reddit.com/user/Personal-Animal-3333</uri>
+    </author>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Personal-Animal-3333"&gt; /u/Personal-Animal-3333 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p8mswc/bạn_thân_khác_giới_thường_kể_với_nhau_về_những/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p8mswc/bạn_thân_khác_giới_thường_kể_với_nhau_về_những/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p8mswc/bạn_thân_khác_giới_thường_kể_với_nhau_về_những/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-28T05:27:49+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1p8e6od</id>
     <title>Chồng không xoá ảnh kỉ niệm với nyc</title>
     <updated>2025-11-27T21:58:52+00:00</updated>
@@ -292,6 +279,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1p8e6od/chồng_không_xoá_ảnh_kỉ_niệm_với_nyc/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-27T21:58:52+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1p8jowk</id>
+    <title>Việt Nam có báo in giấy bằng tiếng Anh không?</title>
+    <updated>2025-11-28T02:37:51+00:00</updated>
+    <author>
+      <name>/u/Puzzled-Buddy7212</name>
+      <uri>https://old.reddit.com/user/Puzzled-Buddy7212</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em đang học tiếng Anh nên muốn mua báo giấy vừa đọc vừa học tiếng Anh. E thích đọc báo giấy&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Puzzled-Buddy7212"&gt; /u/Puzzled-Buddy7212 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p8jowk/việt_nam_có_báo_in_giấy_bằng_tiếng_anh_không/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p8jowk/việt_nam_có_báo_in_giấy_bằng_tiếng_anh_không/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p8jowk/việt_nam_có_báo_in_giấy_bằng_tiếng_anh_không/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-28T02:37:51+00:00</published>
   </entry>
   <entry>
     <id>t3_1p8iwqj</id>
