@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-11-28T17:50:29+00:00</updated>
+  <updated>2025-11-28T18:27:00+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -86,19 +86,6 @@
     <published>2025-11-28T08:25:56+00:00</published>
   </entry>
   <entry>
-    <id>t3_1p90eof</id>
-    <title>Bóng cười</title>
-    <updated>2025-11-28T17:17:27+00:00</updated>
-    <author>
-      <name>/u/Lazy_Subject_5310</name>
-      <uri>https://old.reddit.com/user/Lazy_Subject_5310</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Ê có đứa nào hút bóng nhiều tới mức phát điên chưa, chứ dạo này t hút nhiều t bị sợ tiếng ồn, sợ gặp và tiếp xúc với người khác vãi :)))) &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Lazy_Subject_5310"&gt; /u/Lazy_Subject_5310 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p90eof/bóng_cười/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p90eof/bóng_cười/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p90eof/bóng_cười/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-28T17:17:27+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1p90ra0</id>
     <title>Mình có thể nhờ mọi người một chuyện nhỏ nhưng quan trọng với mình được không?</title>
     <updated>2025-11-28T17:31:17+00:00</updated>
@@ -136,6 +123,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1p8syyd/nhà_có_ông_chú_chí_phèo/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-28T11:51:29+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1p91oao</id>
+    <title>xin góp giúp đỡ</title>
+    <updated>2025-11-28T18:06:40+00:00</updated>
+    <author>
+      <name>/u/Lucius-SC</name>
+      <uri>https://old.reddit.com/user/Lucius-SC</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1p91oao/xin_góp_giúp_đỡ/"&gt; &lt;img alt="xin góp giúp đỡ" src="https://external-preview.redd.it/anlhZDRjZXdmMTRnMbTQEc6GLEe9q7lQUKh5cJtkSobm18uUcFL6zDiOnhSR.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=43afddc2255e60614b7126378b93fe3b98cd0f29" title="xin góp giúp đỡ" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Đã hoàn thành các bài test đầu tiên cho V7 Inferno Runtime. Kết quả runtime đang được đính kèm (Code/Log).&lt;/p&gt; &lt;p&gt;Rất mong nhận được đánh giá chuyên môn và góp ý thẳng thắn từ anh/chị/em để tối ưu hóa hiệu năng, đưa sản phẩm này đạt chuẩn quốc tế. Ủng hộ và đồng hành cùng khát vọng 'Made in Vietnam'!&lt;/p&gt; &lt;h1&gt;InfernoRuntime #PerformanceTest #GopYCode #TriTueViet&lt;/h1&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Lucius-SC"&gt; /u/Lucius-SC &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://v.redd.it/fjj9pwkwf14g1"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p91oao/xin_góp_giúp_đỡ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p91oao/xin_góp_giúp_đỡ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-28T18:06:40+00:00</published>
   </entry>
   <entry>
     <id>t3_1p8xkot</id>
@@ -203,19 +203,6 @@
     <published>2025-11-28T08:53:59+00:00</published>
   </entry>
   <entry>
-    <id>t3_1p85l61</id>
-    <title>Đôi khi thấy MXH quá toxic</title>
-    <updated>2025-11-27T15:53:41+00:00</updated>
-    <author>
-      <name>/u/Vietcong777</name>
-      <uri>https://old.reddit.com/user/Vietcong777</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1p85l61/đôi_khi_thấy_mxh_quá_toxic/"&gt; &lt;img alt="Đôi khi thấy MXH quá toxic" src="https://preview.redd.it/qn3je4n9nt3g1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=cfcdadc3ee97db5dbaaf4317b400cbec477dbbb7" title="Đôi khi thấy MXH quá toxic" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Cho những ai chưa biết hoặc quên thì bạn này đi cổ vũ đội bóng Thái Lan hồi đầu năm, ko làm j sai hết cũng bị chỉ trích nặng nề dẫn tới khoá page. Lâu lâu mình cx thấy ảnh bạn này bị đem lên phốt cx tội cho bạn. &lt;/p&gt; &lt;p&gt;Cổ vũ cho mấy đội bóng anh, brazil, đức, pháp,.... thì ko ai nói. Nhưng bảo rằng ko cỗ vũ cho đội nc nhà là ko yêu nước, có người còn bảo bán nước t cũng ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Vietcong777"&gt; /u/Vietcong777 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/qn3je4n9nt3g1.png"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p85l61/đôi_khi_thấy_mxh_quá_toxic/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p85l61/đôi_khi_thấy_mxh_quá_toxic/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-27T15:53:41+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1p911oq</id>
     <title>Góc thắc mắc??</title>
     <updated>2025-11-28T17:42:32+00:00</updated>
@@ -227,6 +214,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1p911oq/góc_thắc_mắc/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-28T17:42:32+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1p85l61</id>
+    <title>Đôi khi thấy MXH quá toxic</title>
+    <updated>2025-11-27T15:53:41+00:00</updated>
+    <author>
+      <name>/u/Vietcong777</name>
+      <uri>https://old.reddit.com/user/Vietcong777</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1p85l61/đôi_khi_thấy_mxh_quá_toxic/"&gt; &lt;img alt="Đôi khi thấy MXH quá toxic" src="https://preview.redd.it/qn3je4n9nt3g1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=cfcdadc3ee97db5dbaaf4317b400cbec477dbbb7" title="Đôi khi thấy MXH quá toxic" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Cho những ai chưa biết hoặc quên thì bạn này đi cổ vũ đội bóng Thái Lan hồi đầu năm, ko làm j sai hết cũng bị chỉ trích nặng nề dẫn tới khoá page. Lâu lâu mình cx thấy ảnh bạn này bị đem lên phốt cx tội cho bạn. &lt;/p&gt; &lt;p&gt;Cổ vũ cho mấy đội bóng anh, brazil, đức, pháp,.... thì ko ai nói. Nhưng bảo rằng ko cỗ vũ cho đội nc nhà là ko yêu nước, có người còn bảo bán nước t cũng ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Vietcong777"&gt; /u/Vietcong777 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/qn3je4n9nt3g1.png"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p85l61/đôi_khi_thấy_mxh_quá_toxic/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p85l61/đôi_khi_thấy_mxh_quá_toxic/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-27T15:53:41+00:00</published>
   </entry>
   <entry>
     <id>t3_1p8ksbl</id>
@@ -255,19 +255,6 @@
     <published>2025-11-28T14:31:23+00:00</published>
   </entry>
   <entry>
-    <id>t3_1p8q2tj</id>
-    <title>33 tuổi và những thứ bạn đã có trong tay là gì?</title>
-    <updated>2025-11-28T08:49:30+00:00</updated>
-    <author>
-      <name>/u/Legitimate-Meet-2662</name>
-      <uri>https://old.reddit.com/user/Legitimate-Meet-2662</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chia sẻ lấy động lực để tôi không cảm thấy 1 mình được không!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Legitimate-Meet-2662"&gt; /u/Legitimate-Meet-2662 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p8q2tj/33_tuổi_và_những_thứ_bạn_đã_có_trong_tay_là_gì/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p8q2tj/33_tuổi_và_những_thứ_bạn_đã_có_trong_tay_là_gì/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p8q2tj/33_tuổi_và_những_thứ_bạn_đã_có_trong_tay_là_gì/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-28T08:49:30+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1p8o3up</id>
     <title>bạn cùng phòng bẩn tính</title>
     <updated>2025-11-28T06:43:57+00:00</updated>
@@ -279,6 +266,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1p8o3up/bạn_cùng_phòng_bẩn_tính/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-28T06:43:57+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1p8q2tj</id>
+    <title>33 tuổi và những thứ bạn đã có trong tay là gì?</title>
+    <updated>2025-11-28T08:49:30+00:00</updated>
+    <author>
+      <name>/u/Legitimate-Meet-2662</name>
+      <uri>https://old.reddit.com/user/Legitimate-Meet-2662</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chia sẻ lấy động lực để tôi không cảm thấy 1 mình được không!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Legitimate-Meet-2662"&gt; /u/Legitimate-Meet-2662 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p8q2tj/33_tuổi_và_những_thứ_bạn_đã_có_trong_tay_là_gì/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p8q2tj/33_tuổi_và_những_thứ_bạn_đã_có_trong_tay_là_gì/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p8q2tj/33_tuổi_và_những_thứ_bạn_đã_có_trong_tay_là_gì/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-28T08:49:30+00:00</published>
   </entry>
   <entry>
     <id>t3_1p8xsp1</id>
