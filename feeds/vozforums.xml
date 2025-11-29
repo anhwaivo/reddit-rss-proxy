@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-11-29T16:55:02+00:00</updated>
+  <updated>2025-11-29T17:15:52+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -138,19 +138,6 @@
     <published>2025-11-29T16:43:31+00:00</published>
   </entry>
   <entry>
-    <id>t3_1p9tgru</id>
-    <title>Mình muốn xóa Facebook nhưng sợ bỏ lỡ thông tin nên làm gì?</title>
-    <updated>2025-11-29T16:43:46+00:00</updated>
-    <author>
-      <name>/u/Alert-Base-7134</name>
-      <uri>https://old.reddit.com/user/Alert-Base-7134</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Facebook cho mình chủ yếu sự tiêu cực. Những lời nói của mọi người trên đó rất cay nghiệt. Nó làm tâm lý mình rất mỏng manh và tinh thần mình tiêu cực. Mình thích Reddit hơn mình có thể chọn cộng đồng mình muốn tham gia. Mình chưa dám bỏ Facebook, người Việt chủ yếu dùng Facebook chứ không dùng Reddit. Facebook cũng là một nguồn tin tức. Mình sợ mình bỏ lỡ hay không biết được một tin tức nào đó quan trọng mà mình cần phải biết.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Alert-Base-7134"&gt; /u/Alert-Base-7134 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p9tgru/mình_muốn_xóa_facebook_nhưng_sợ_bỏ_lỡ_thông_tin/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p9tgru/mình_muốn_xóa_facebook_nhưng_sợ_bỏ_lỡ_thông_tin/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p9tgru/mình_muốn_xóa_facebook_nhưng_sợ_bỏ_lỡ_thông_tin/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-29T16:43:46+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1p9mifx</id>
     <title>Backend Dev - Chia sẻ suy nghĩ của những người anh, em trong nghề</title>
     <updated>2025-11-29T11:15:26+00:00</updated>
@@ -227,6 +214,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1p9gtqx/cuộc_sống_tương_lai/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-29T05:31:12+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1p9tgru</id>
+    <title>Mình muốn xóa Facebook nhưng sợ bỏ lỡ thông tin nên làm gì?</title>
+    <updated>2025-11-29T16:43:46+00:00</updated>
+    <author>
+      <name>/u/Alert-Base-7134</name>
+      <uri>https://old.reddit.com/user/Alert-Base-7134</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Facebook cho mình chủ yếu sự tiêu cực. Những lời nói của mọi người trên đó rất cay nghiệt. Nó làm tâm lý mình rất mỏng manh và tinh thần mình tiêu cực. Mình thích Reddit hơn mình có thể chọn cộng đồng mình muốn tham gia. Mình chưa dám bỏ Facebook, người Việt chủ yếu dùng Facebook chứ không dùng Reddit. Facebook cũng là một nguồn tin tức. Mình sợ mình bỏ lỡ hay không biết được một tin tức nào đó quan trọng mà mình cần phải biết.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Alert-Base-7134"&gt; /u/Alert-Base-7134 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p9tgru/mình_muốn_xóa_facebook_nhưng_sợ_bỏ_lỡ_thông_tin/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p9tgru/mình_muốn_xóa_facebook_nhưng_sợ_bỏ_lỡ_thông_tin/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p9tgru/mình_muốn_xóa_facebook_nhưng_sợ_bỏ_lỡ_thông_tin/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-29T16:43:46+00:00</published>
   </entry>
   <entry>
     <id>t3_1p9n2q9</id>
