@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-11-29T08:45:52+00:00</updated>
+  <updated>2025-11-29T09:18:33+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1p8w94f</id>
-    <title>Tắt cái thông báo " bạn có tin nhắn mới" như đầu b của zalo</title>
-    <updated>2025-11-28T14:31:23+00:00</updated>
-    <author>
-      <name>/u/Extreme_Document_959</name>
-      <uri>https://old.reddit.com/user/Extreme_Document_959</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Như trên, làm ơn cứu tôi với&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Extreme_Document_959"&gt; /u/Extreme_Document_959 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p8w94f/tắt_cái_thông_báo_bạn_có_tin_nhắn_mới_như_đầu_b/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p8w94f/tắt_cái_thông_báo_bạn_có_tin_nhắn_mới_như_đầu_b/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p8w94f/tắt_cái_thông_báo_bạn_có_tin_nhắn_mới_như_đầu_b/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-28T14:31:23+00:00</published>
-  </entry>
   <entry>
     <id>t3_1p8mswc</id>
     <title>Bạn thân khác giới thường kể với nhau về những chuyện gì?</title>
@@ -253,6 +240,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1p99jew/gợi_ý_kênh_youtube/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-28T23:33:16+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1p9k4mv</id>
+    <title>Dịch tiếng Anh với AI feedback thông minh theo từng câu</title>
+    <updated>2025-11-29T08:47:25+00:00</updated>
+    <author>
+      <name>/u/Defiant-Novel7961</name>
+      <uri>https://old.reddit.com/user/Defiant-Novel7961</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1p9k4mv/dịch_tiếng_anh_với_ai_feedback_thông_minh_theo/"&gt; &lt;img alt="Dịch tiếng Anh với AI feedback thông minh theo từng câu" src="https://a.thumbs.redditmedia.com/YGbye0OR65pSQ57ezXSrNmAXTQK_dEIS8XiH1a5Th84.jpg" title="Dịch tiếng Anh với AI feedback thông minh theo từng câu" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Defiant-Novel7961"&gt; /u/Defiant-Novel7961 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1p9k4mv"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p9k4mv/dịch_tiếng_anh_với_ai_feedback_thông_minh_theo/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p9k4mv/dịch_tiếng_anh_với_ai_feedback_thông_minh_theo/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-29T08:47:25+00:00</published>
   </entry>
   <entry>
     <id>t3_1p8ptsm</id>
