@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-11-29T11:14:30+00:00</updated>
+  <updated>2025-11-29T11:28:16+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1p99hdy</id>
-    <title>Mua laptop</title>
-    <updated>2025-11-28T23:30:32+00:00</updated>
-    <author>
-      <name>/u/Key-Knowledge-1701</name>
-      <uri>https://old.reddit.com/user/Key-Knowledge-1701</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hellu cả nhà, lap htai của e quá cũ ko bật đc illustrator nữa rồi nên em muốn đổi máy mới. Nhu cầu em ko game chỉ dùng adobe nên đang để ý mac air m3 16/512gb. Nma anh em đang gợi ý mua loq rtx4050 ryzen5 mà em thấy con này hay bị chết main 🥲 em mang sang nc ngoài nên em cũng sợ lỗi lắm ạ. Mong mn góp ý cho em ạ. Em cảm ơn cả nhà. Đa số em dùng 2D đôi khi 3D 1 chút bên illustrator.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Key-Knowledge-1701"&gt; /u/Key-Knowledge-1701 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p99hdy/mua_laptop/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p99hdy/mua_laptop/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p99hdy/mua_laptop/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-28T23:30:32+00:00</published>
-  </entry>
   <entry>
     <id>t3_1p8q5cm</id>
     <title>Tại sao người ta cứ mãi luẩn quẩn trong vòng lặp của họ?</title>
@@ -229,6 +216,19 @@
     <published>2025-11-29T11:09:00+00:00</published>
   </entry>
   <entry>
+    <id>t3_1p9mifx</id>
+    <title>Backend Dev - Chia sẻ suy nghĩ của những người anh, em trong nghề</title>
+    <updated>2025-11-29T11:15:26+00:00</updated>
+    <author>
+      <name>/u/Icy-Will-3281</name>
+      <uri>https://old.reddit.com/user/Icy-Will-3281</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hello ae, ae nghĩ như thế nào về Dev 3+ years Javascript là chính apply job golang mà chưa làm dự án thực tế(triển khai dạng project cá nhân)&lt;/p&gt; &lt;p&gt;Về các khía cạnh như: góc nhìn,yêu cầu phía HR/doanh nghiệp, lương bổng.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Icy-Will-3281"&gt; /u/Icy-Will-3281 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p9mifx/backend_dev_chia_sẻ_suy_nghĩ_của_những_người_anh/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p9mifx/backend_dev_chia_sẻ_suy_nghĩ_của_những_người_anh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p9mifx/backend_dev_chia_sẻ_suy_nghĩ_của_những_người_anh/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-29T11:15:26+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1p9im7r</id>
     <title>Xuyên Việt trăng mật</title>
     <updated>2025-11-29T07:14:45+00:00</updated>
@@ -281,19 +281,6 @@
     <published>2025-11-29T10:17:22+00:00</published>
   </entry>
   <entry>
-    <id>t3_1p9kyou</id>
-    <title>Trong lòng người dân Miền Nam Vua Gia Long là bậc chính nhân ? Vậy tại sao chánh quyền lại cố nhồi nhét .</title>
-    <updated>2025-11-29T09:39:57+00:00</updated>
-    <author>
-      <name>/u/Key_Department4635</name>
-      <uri>https://old.reddit.com/user/Key_Department4635</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tôi thế hệ sinh ra sau chiến tranh . Lúc đất nước bắt đầu mở cửa . Từ lúc nhỏ được học lịch sử đã được thầy cô dạy Ng Ánh dẫn giặc vào nhà ..... . Sau này lớn được đi nhiều nơi được tiếp xúc với nhiều người nghe nhiều luồn ý kiến khác nhau tôi mới thấy đó là sai . Vậy tại sao vn 🇻🇳 không có tên đường nào tên Nguyễn Ánh , Gia Long ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Key_Department4635"&gt; /u/Key_Department4635 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p9kyou/trong_lòng_người_dân_miền_nam_vua_gia_long_là_bậc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p9kyou/trong_lòng_người_dân_miền_nam_vua_gia_long_là_bậc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p9kyou/trong_lòng_người_dân_miền_nam_vua_gia_long_là_bậc/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-29T09:39:57+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1p9gtqx</id>
     <title>Cuộc sống tương lai</title>
     <updated>2025-11-29T05:31:12+00:00</updated>
@@ -305,6 +292,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1p9gtqx/cuộc_sống_tương_lai/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-29T05:31:12+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1p9kyou</id>
+    <title>Trong lòng người dân Miền Nam Vua Gia Long là bậc chính nhân ? Vậy tại sao chánh quyền lại cố nhồi nhét .</title>
+    <updated>2025-11-29T09:39:57+00:00</updated>
+    <author>
+      <name>/u/Key_Department4635</name>
+      <uri>https://old.reddit.com/user/Key_Department4635</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tôi thế hệ sinh ra sau chiến tranh . Lúc đất nước bắt đầu mở cửa . Từ lúc nhỏ được học lịch sử đã được thầy cô dạy Ng Ánh dẫn giặc vào nhà ..... . Sau này lớn được đi nhiều nơi được tiếp xúc với nhiều người nghe nhiều luồn ý kiến khác nhau tôi mới thấy đó là sai . Vậy tại sao vn 🇻🇳 không có tên đường nào tên Nguyễn Ánh , Gia Long ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Key_Department4635"&gt; /u/Key_Department4635 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p9kyou/trong_lòng_người_dân_miền_nam_vua_gia_long_là_bậc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p9kyou/trong_lòng_người_dân_miền_nam_vua_gia_long_là_bậc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p9kyou/trong_lòng_người_dân_miền_nam_vua_gia_long_là_bậc/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-29T09:39:57+00:00</published>
   </entry>
   <entry>
     <id>t3_1p9jl5l</id>
