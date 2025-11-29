@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-11-29T03:43:45+00:00</updated>
+  <updated>2025-11-29T04:00:09+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
+  <entry>
+    <id>t3_1p91oao</id>
+    <title>xin góp giúp đỡ</title>
+    <updated>2025-11-28T18:06:40+00:00</updated>
+    <author>
+      <name>/u/Lucius-SC</name>
+      <uri>https://old.reddit.com/user/Lucius-SC</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1p91oao/xin_góp_giúp_đỡ/"&gt; &lt;img alt="xin góp giúp đỡ" src="https://external-preview.redd.it/anlhZDRjZXdmMTRnMbTQEc6GLEe9q7lQUKh5cJtkSobm18uUcFL6zDiOnhSR.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=43afddc2255e60614b7126378b93fe3b98cd0f29" title="xin góp giúp đỡ" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Đã hoàn thành các bài test đầu tiên cho V7 Inferno Runtime. Kết quả runtime đang được đính kèm (Code/Log).&lt;/p&gt; &lt;p&gt;Rất mong nhận được đánh giá chuyên môn và góp ý thẳng thắn từ anh/chị/em để tối ưu hóa hiệu năng, đưa sản phẩm này đạt chuẩn quốc tế. Ủng hộ và đồng hành cùng khát vọng 'Made in Vietnam'!&lt;/p&gt; &lt;h1&gt;InfernoRuntime #PerformanceTest #GopYCode #TriTueViet&lt;/h1&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Lucius-SC"&gt; /u/Lucius-SC &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://v.redd.it/fjj9pwkwf14g1"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p91oao/xin_góp_giúp_đỡ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p91oao/xin_góp_giúp_đỡ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-28T18:06:40+00:00</published>
+  </entry>
   <entry>
     <id>t3_1p92flb</id>
     <title>cộng đồng bóng rổ người việt tại Đức 🏀</title>
@@ -110,19 +123,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1p90wcw/tư_vấn_tình_cảm/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-28T17:36:41+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1p911oq</id>
-    <title>Góc thắc mắc??</title>
-    <updated>2025-11-28T17:42:32+00:00</updated>
-    <author>
-      <name>/u/Van_Ann_</name>
-      <uri>https://old.reddit.com/user/Van_Ann_</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mọi người cho mình hỏi sao các cặp đôi khác quốc tịch làm quen nhau, yêu nhau kiểu gì vậy ạ? Khác sever bắt sóng nhau kiểu gì hay vậy😀&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Van_Ann_"&gt; /u/Van_Ann_ &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p911oq/góc_thắc_mắc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p911oq/góc_thắc_mắc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p911oq/góc_thắc_mắc/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-28T17:42:32+00:00</published>
   </entry>
   <entry>
     <id>t3_1p8syyd</id>
@@ -281,19 +281,6 @@
     <published>2025-11-28T13:04:11+00:00</published>
   </entry>
   <entry>
-    <id>t3_1p9efsx</id>
-    <title>Mập mờ với chị gái cty</title>
-    <updated>2025-11-29T03:27:09+00:00</updated>
-    <author>
-      <name>/u/tiny-x</name>
-      <uri>https://old.reddit.com/user/tiny-x</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mn, em 23M.&lt;/p&gt; &lt;p&gt;Chuyện là cty e có bà chị mới vô 27t độc thân, gặp mặt nhau hàng ngày. sau khoảng 2 tháng nhắn tin qua lại thì bả với e mập mờ nhau (kiểu 2 đứa thả thính qua lại nhưng k xác nhận)&lt;/p&gt; &lt;p&gt;Rồi hôm qua cty tổ chức tiệc, bả lên đồ xinh lung linh, nhậu xong chẳng hiểu sao về 2 đứa nhắn qua nhắn lại thả thính nhau tầm gần 3 tiếng (1h30p sáng mới ngủ).&lt;/p&gt; &lt;p&gt;Em đánh liều nhắn “chị ơi anh iu em”. Nhắn qua nhắn lại ghẹo nhau 1 hồi bả nói ẩn ý kiểu:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;e nhỏ tuổi quá (23M vs 27F)&lt;/li&gt; &lt;li&gt;e cần suy nghĩ thêm, thời gian tiếp xúc quá ngắn&lt;/li&gt; &lt;li&gt;mọi thứ chỉ màu hồng lúc đầu&lt;/li&gt; &lt;li&gt;e chỉ đang chơi đùa với bả. bả tìm người nghiêm túc&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Tới lúc e hỏi &lt;strong&gt;“e có cơ hội ko” thì bả kêu có&lt;/strong&gt;. (E hỏi 1 cách hài hước). Giờ ngủ dậy mới thấy tối qua thổ lộ hơi quá đà 😢. Bh e chỉ muốn thành bạn với bả, kiểu hội chị em, thì có cách nào để từ từ rút lui không ạ?&lt;/p&gt; &lt;p&gt;Ban đầu e chỉ tính mập mờ chọc bả. Sau 1 hồi tiếp xúc cũng khá thích bả, 2 đứa nch rất hợp nhau, gần như đọc đc suy nghĩ nhau z, bả tâm sự với e cũng kha khá chuyện trong cty rồi. Nhưng e thấy tuổi k hợp nên k tiến xa. Bả hướng ngoại cũng có nét nên đoán nhiều anh thích.&lt;/p&gt; &lt;p&gt;Những thứ bả nói cũng giống với suy nghĩ của e, nhưng e kệ cứ thả thính bả. &lt;strong&gt;Em biết em tệ&lt;/strong&gt; nên tính giảm dần chuyện này đi ạ. Mong mn đừng buông lời cay đắng. Cảm ơn mn và mong đc tư vấn ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/tiny-x"&gt; /u/tiny-x &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p9efsx/mập_mờ_với_chị_gái_cty/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p9efsx/mập_mờ_với_chị_gái_cty/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p9efsx/mập_mờ_với_chị_gái_cty/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-29T03:27:09+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1p8ptsm</id>
     <title>Mấy bạn mà định mua chứng khoán nước ngoài, hãy nghe tôi</title>
     <updated>2025-11-28T08:33:02+00:00</updated>
@@ -305,6 +292,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1p8ptsm/mấy_bạn_mà_định_mua_chứng_khoán_nước_ngoài_hãy/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-28T08:33:02+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1p9efsx</id>
+    <title>Mập mờ với chị gái cty</title>
+    <updated>2025-11-29T03:27:09+00:00</updated>
+    <author>
+      <name>/u/tiny-x</name>
+      <uri>https://old.reddit.com/user/tiny-x</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mn, em 23M.&lt;/p&gt; &lt;p&gt;Chuyện là cty e có bà chị mới vô &lt;strong&gt;27t độc thân&lt;/strong&gt;, gặp mặt nhau hàng ngày. sau khoảng 2 tháng nhắn tin qua lại thì &lt;strong&gt;bả với e mập mờ nhau&lt;/strong&gt; (kiểu 2 đứa thả thính qua lại nhưng k xác nhận)&lt;/p&gt; &lt;p&gt;Rồi hôm cty tổ chức tiệc, bả lên đồ xinh lung linh, nhậu xong chẳng hiểu sao về 2 đứa nhắn qua nhắn lại thả thính nhau tầm &lt;strong&gt;gần 3 tiếng (1h30p sáng mới ngủ)&lt;/strong&gt;.&lt;/p&gt; &lt;p&gt;Em đánh liều nhắn “chị ơi anh iu em”. Nhắn qua nhắn lại ghẹo nhau 1 hồi bả nói ẩn ý kiểu:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;e nhỏ tuổi quá (23M vs 27F)&lt;/li&gt; &lt;li&gt;e cần suy nghĩ thêm, thời gian tiếp xúc quá ngắn&lt;/li&gt; &lt;li&gt;mọi thứ chỉ màu hồng lúc đầu&lt;/li&gt; &lt;li&gt;e chỉ đang chơi đùa với bả. bả tìm người nghiêm túc&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Tới lúc e hỏi &lt;strong&gt;“e có cơ hội ko” thì bả kêu có&lt;/strong&gt;. (E hỏi 1 cách hài hước). Giờ ngủ dậy mới thấy tối qua thổ lộ hơi quá đà 😢. Bh e chỉ muốn thành bạn với bả, kiểu hội chị em, thì có cách nào để từ từ rút lui không ạ?&lt;/p&gt; &lt;p&gt;Ban đầu e chỉ tính mập mờ chọc bả. Sau 1 hồi tiếp xúc cũng khá thích bả, 2 đứa nch rất hợp nhau, gần như đọc đc suy nghĩ nhau z, bả tâm sự với e cũng kha khá chuyện trong cty rồi. Nhưng e thấy &lt;strong&gt;lệch tuổi&lt;/strong&gt; nên k tiến xa. Bả hướng ngoại cũng có nét nên đoán nhiều anh thích.&lt;/p&gt; &lt;p&gt;Những thứ bả nói cũng giống với suy nghĩ của e, nhưng e kệ cứ thả thính bả. &lt;strong&gt;Em biết em tệ&lt;/strong&gt; nên tính giảm dần chuyện này đi ạ. Mong mn đừng buông lời cay đắng. Cảm ơn mn và mong đc tư vấn ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/tiny-x"&gt; /u/tiny-x &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p9efsx/mập_mờ_với_chị_gái_cty/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p9efsx/mập_mờ_với_chị_gái_cty/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p9efsx/mập_mờ_với_chị_gái_cty/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-29T03:27:09+00:00</published>
   </entry>
   <entry>
     <id>t3_1p9dcf2</id>
