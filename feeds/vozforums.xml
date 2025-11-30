@@ -2,50 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-11-30T03:17:18+00:00</updated>
+  <updated>2025-11-30T04:09:14+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1p9m2ul</id>
-    <title>Điều kì lạ mà bạn từng gặp?</title>
-    <updated>2025-11-29T10:49:05+00:00</updated>
-    <author>
-      <name>/u/nhucdau</name>
-      <uri>https://old.reddit.com/user/nhucdau</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;ai đó kì quặc hoặc stuff&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/nhucdau"&gt; /u/nhucdau &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p9m2ul/điều_kì_lạ_mà_bạn_từng_gặp/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p9m2ul/điều_kì_lạ_mà_bạn_từng_gặp/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p9m2ul/điều_kì_lạ_mà_bạn_từng_gặp/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-29T10:49:05+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1pa6vrf</id>
-    <title>Dung ChatGPT hiệu quả</title>
-    <updated>2025-11-30T02:31:31+00:00</updated>
-    <author>
-      <name>/u/penguine2025</name>
-      <uri>https://old.reddit.com/user/penguine2025</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1pa6vrf/dung_chatgpt_hiệu_quả/"&gt; &lt;img alt="Dung ChatGPT hiệu quả" src="https://preview.redd.it/3bjbr70w2b4g1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=625e0b0c97f210fb8b8344bffed388ebc4470566" title="Dung ChatGPT hiệu quả" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Dạo này mình có xây dựng 1 công ty mới dựa nào dùng AI và ChatGPT làm sản phẩm bán global. Ngày hôm qua vừa kiếm được $1500 doanh thu một ngay. Cũng thấy vui vì không cam thấy bị tụt hậu&lt;/p&gt; &lt;p&gt;Ví dụ trên screenshot là mình hỏi ChatGPT với thu nhập và tổng tài sản thì mình xếp hạng bao nhiêu ở HCM&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/penguine2025"&gt; /u/penguine2025 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/3bjbr70w2b4g1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pa6vrf/dung_chatgpt_hiệu_quả/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pa6vrf/dung_chatgpt_hiệu_quả/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-30T02:31:31+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1p9mifx</id>
-    <title>Backend Dev - Chia sẻ suy nghĩ của những người anh, em trong nghề</title>
-    <updated>2025-11-29T11:15:26+00:00</updated>
-    <author>
-      <name>/u/Icy-Will-3281</name>
-      <uri>https://old.reddit.com/user/Icy-Will-3281</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hello ae, ae nghĩ như thế nào về Dev 3+ years Javascript là chính apply job golang mà chưa làm dự án thực tế(triển khai dạng project cá nhân)&lt;/p&gt; &lt;p&gt;Về các khía cạnh như: góc nhìn,yêu cầu phía HR/doanh nghiệp, lương bổng.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Icy-Will-3281"&gt; /u/Icy-Will-3281 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p9mifx/backend_dev_chia_sẻ_suy_nghĩ_của_những_người_anh/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p9mifx/backend_dev_chia_sẻ_suy_nghĩ_của_những_người_anh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p9mifx/backend_dev_chia_sẻ_suy_nghĩ_của_những_người_anh/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-29T11:15:26+00:00</published>
-  </entry>
   <entry>
     <id>t3_1p9qiwn</id>
     <title>Cải thiện bản thân</title>
@@ -190,19 +151,6 @@
     <published>2025-11-29T09:39:21+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pa77xl</id>
-    <title>Tiktok for pc</title>
-    <updated>2025-11-30T02:48:51+00:00</updated>
-    <author>
-      <name>/u/lam_vu</name>
-      <uri>https://old.reddit.com/user/lam_vu</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chả là e muốn cài giả lập để live cho tiện nhưng khi đăng nhập báo lỗi bạn đã sử dụng dịch vụ quá thường xuyên nên không thể làm gì được, vậy còn cách nào khác không ạ, ai biết hỗ trợ e với &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/lam_vu"&gt; /u/lam_vu &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pa77xl/tiktok_for_pc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pa77xl/tiktok_for_pc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pa77xl/tiktok_for_pc/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-30T02:48:51+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1p9tgru</id>
     <title>Mình muốn xóa Facebook nhưng sợ bỏ lỡ thông tin nên làm gì?</title>
     <updated>2025-11-29T16:43:46+00:00</updated>
@@ -216,17 +164,30 @@
     <published>2025-11-29T16:43:46+00:00</published>
   </entry>
   <entry>
-    <id>t3_1p9v9a8</id>
-    <title>1 ngày mới rep là sao ạ</title>
-    <updated>2025-11-29T17:57:28+00:00</updated>
+    <id>t3_1pa7sss</id>
+    <title>Luận văn thạc sĩ</title>
+    <updated>2025-11-30T03:17:38+00:00</updated>
     <author>
-      <name>/u/dungprooo123</name>
-      <uri>https://old.reddit.com/user/dungprooo123</uri>
+      <name>/u/Tough-Ad6688</name>
+      <uri>https://old.reddit.com/user/Tough-Ad6688</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Giới thiệu qua mình M21,hiện đang học ở 1 trường đại học ở Việt Nam, mình gần đây có để ý 1 bạn trong lớp, bạn là lớp trưởng nên bận khá nhiều việc, hôm qua thấy bạn đăng story muốn xem phim gì đó thì em có rep story nội dung đại loại như này:&lt;br /&gt; &lt;strong&gt;A:&lt;/strong&gt; bọn m cũng đi xem phim này à. (mình dùng từ &amp;quot;bọn m&amp;quot; để xem đi vs ai nữa không&amp;quot;&lt;br /&gt; &lt;strong&gt;B:&lt;/strong&gt; ừ, nhưng mà chắc t thôi haha(rep sau 1 ngày)&lt;br /&gt; &lt;strong&gt;A:&lt;/strong&gt; vậy t2 này đi chung không, đi cùng t vs 1 bạn nữa cùng lớp luôn&lt;br /&gt; &lt;strong&gt;B:&lt;/strong&gt; (chưa rep sau 5h)&lt;/p&gt; &lt;p&gt;...&lt;br /&gt; Đây là lần đầu mình rủ ai đó đi chơi hay hẹn hò nên chưa có kinh nghiệm nhờ mọi người tư vấn các bước với ạ.&lt;br /&gt; Nghĩa của câu trả lời &amp;quot;chắc t thôi&amp;quot; là không đi hay là đi 1 mình vậy ạ ?&lt;/p&gt; &lt;p&gt;(đây là post đầu của mình nếu có sai sót hay hành văn lủng củng nên ac thông cảm và góp ý mình sẽ tiếp thu hết ạ)&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/dungprooo123"&gt; /u/dungprooo123 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p9v9a8/1_ngày_mới_rep_là_sao_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p9v9a8/1_ngày_mới_rep_là_sao_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p9v9a8/1_ngày_mới_rep_là_sao_ạ/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người! Em đang bắt đầu theo học thạc ngành Công nghệ thông tin (chương trình đào tạo định hướng nghiên cứu, PT2: bao gồm kiến thức chung, kiến thức chuyên ngành, chuyên đề nghiên cứu và luận văn tốt nghiệp 15 tín chỉ) tại một trường thuộc đại học quốc gia. Các anh chị đã hoặc đang làm luận văn thạc sĩ cho em hỏi em nên bắt đầu làm luận văn từ năm nhất hay năm 2 ạ và trong quá trình học cũng như làm luận văn em nên lưu ý những điều gì. Cảm ơn sự góp ý của mọi người.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Tough-Ad6688"&gt; /u/Tough-Ad6688 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pa7sss/luận_văn_thạc_sĩ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pa7sss/luận_văn_thạc_sĩ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pa7sss/luận_văn_thạc_sĩ/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-29T17:57:28+00:00</published>
+    <published>2025-11-30T03:17:38+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pa7uo5</id>
+    <title>Tạm biệt cảnh chờ đợi render 3D cả tuần!</title>
+    <updated>2025-11-30T03:20:17+00:00</updated>
+    <author>
+      <name>/u/lkhcm</name>
+      <uri>https://old.reddit.com/user/lkhcm</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1pa7uo5/tạm_biệt_cảnh_chờ_đợi_render_3d_cả_tuần/"&gt; &lt;img alt="Tạm biệt cảnh chờ đợi render 3D cả tuần!" src="https://b.thumbs.redditmedia.com/FL22cBlqZJsZ1C-wfXOO0yKU2ebuaK5iut_ZSPpa08A.jpg" title="Tạm biệt cảnh chờ đợi render 3D cả tuần!" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tạm biệt cảnh chờ đợi render 3D cả tuần! ⏳➡️🚀&lt;/p&gt; &lt;p&gt;Trước đây: Thuê designer, dựng model, chỉnh sửa tới lui... tốn kém và mất thời gian. Bây giờ: Mở Banana Pro, gõ vài dòng prompt tiếng Việt là có ngay ảnh 3D &amp;quot;bóc tách cấu tạo&amp;quot; (exploded view) cực nét.&lt;/p&gt; &lt;p&gt;Ai làm Product Design hay Marketing mà cần ảnh concept nhanh - gọn - lẹ thì nên thử ngay. &lt;/p&gt; &lt;p&gt;Tham khảo thêm sản phẩm 3D bên dưới&lt;/p&gt; &lt;p&gt;Prompt 👇 Tạo cho tôi tấm hình 3D chuyên nghiệp nói rõ chi tiết và cấu tạo của chai mật ong này có chú thích từng chi tiết&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/lkhcm"&gt; /u/lkhcm &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1pa7uo5"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pa7uo5/tạm_biệt_cảnh_chờ_đợi_render_3d_cả_tuần/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pa7uo5/tạm_biệt_cảnh_chờ_đợi_render_3d_cả_tuần/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-30T03:20:17+00:00</published>
   </entry>
   <entry>
     <id>t3_1pa5t66</id>
@@ -255,19 +216,6 @@
     <published>2025-11-29T09:39:57+00:00</published>
   </entry>
   <entry>
-    <id>t3_1p9jl5l</id>
-    <title>Mình là con người sinh ra để sống một mình ... chắc vậy</title>
-    <updated>2025-11-29T08:13:13+00:00</updated>
-    <author>
-      <name>/u/ElectronicWaltz849</name>
-      <uri>https://old.reddit.com/user/ElectronicWaltz849</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tránh tư tưởng truyền bá lệch chuẩn, mình xin đính chính là mình rất quan ngại đến vấn đề tỷ lệ sinh giảm, già hóa dân số. Mình cũng rất muốn góp phần cải thiện việc này nhưng một cánh én thì không làm nên mùa xuân, và thành thật mà nói thì đó không phải là việc của mình. Hơn nữa, đây rất có thể là một bài viết kể lể nhằm biện minh xD.&lt;/p&gt; &lt;p&gt;Chỉ tầm tháng nữa thôi là mình bước sang tuổi 27, một độ tuổi chắc chắn không còn trẻ nữa, nhưng cũng chưa già lắm. Gia cảnh mình không khá giả, mình là một kỹ sư, công việc cũng ổn và nhàn, chí ít cũng giúp nhà trả xong nợ gần đây, mình cũng chu cấp được cho mẹ và em gái ở nhà. À, mình là nam, nên gia cảnh này rất là “gia cảnh” luôn, nếu các anh em ở đây hiểu mình đang nói gì. Chắc chắn không phải là một điểm cộng khi mình giới thiệu với mấy chị em.&lt;/p&gt; &lt;p&gt;Mình là một kiểu người thực dụng, rõ ràng. Trước giờ mình vẫn nuôi suy nghĩ là an cư rồi mới lập gia đình. Mẹ với em mình khổ chung với mình hồi trước là đã đủ rồi, mình không muốn thêm một người mà mình yêu thương phải chịu khổ với mình nữa. Xây cái nhà thật to cho mẹ và em rồi tính sau. Ấy là lý do mà mình chưa từng có một mối quan hệ nào, dù là mập mờ.&lt;/p&gt; &lt;p&gt;Nhưng rồi khi cái “step 1” của mình gần xong thì mình lại nhận ra là mình quen với cái vòng tròn sinh hoạt, vòng tròn an toàn của mình rồi. Trước giờ cuộc đời mình xoay quanh: ăn – ngủ – tập – học – đi làm – chơi game – tập đàn. Không bia bọt, thuốc lá gì trong 6–7 năm qua. Nó nhàm chán, nhưng lại đúng là thứ mình cần, và tất nhiên không ai nói nó không tốt được.&lt;/p&gt; &lt;p&gt;Mình khá là cây hài, google sống khi học tập, khi ở công ty, nhưng là kiểu người nếu được thì mình muốn ở một mình. Khổ cái là nói không ai tin, do kiểu một đứa để tóc dài, chăm chút, 3–4 cái khuyên tai, lúc nào cũng tía lia hoạt bát thì làm sao là loại người thích ở một mình được. Nhưng thật thì mình chỉ hướng ngoại part-time thôi.&lt;/p&gt; &lt;p&gt;Do cũng có luyện tập nên mình khá tự tin về ngoại hình. Ngoại hình thôi nha, chứ mặt thì chắc chắn không được như mấy tài tử, idol giới trẻ. Cũng có khi mình nghĩ là thử mở lòng một tí, kiểu vơ bừa một bạn để lấp đầy nửa đang thiếu kia. Về khoản muốn được sẻ chia, muốn được che chở, đứng về phía mình của mấy chị em thì mình nghĩ là mình làm được, và vì mình khá giỏi miệng lưỡi. Nhưng rồi thì sao nữa, mình nghĩ sớm muộn gì người ta cũng rời đi thôi, vì mình cũng đâu thể nào giả vờ mãi. Mình chán vãi ò luôn.&lt;/p&gt; &lt;p&gt;Mà cho là có người đồng điệu với mình đi, thì chắc chắn người đó cũng đang rút vào một góc nào đó ở nhà rồi. Không phải “quốc bảo” nhưng mình khá chắc nếu là động vật, thì những người như mình chắc hẳn là mấy con gấu trúc, sớm muộn cũng tuyệt chủng do chọn lọc tự nhiên.&lt;/p&gt; &lt;p&gt;Bước A hơi khó nhưng hiện tại mình luôn nghĩ tới bước B. Nhìn đồng nghiệp mình có em bé mà mình cũng muốn có một đứa bé để sau này mình còn tự dạy học cho nó, để nó biết ngày xưa ông già nó chăm học cỡ nào và cũng để nó không va vấp phải những gì mà ông già nó đã chọn. Cơ mà mình thấy cuộc sống là luôn cho đi, nhận con nuôi cũng là một lựa chọn không mới hiện tại.&lt;/p&gt; &lt;p&gt;Bản thân mình là con ngoài giá thú, từng sống ở nhà nội rồi bị bỏ bê, rồi lưu lạc về với mẹ. Cá nhân mình thấy công sinh không bao giờ bằng công dưỡng dục. Nên có thể nếu cuộc đời trong vài năm nữa không khác mấy với mình, thì hy vọng tình yêu và sự may mắn của mình sẽ đến được với một nhóc kém may mắn nào đó ngoài kia.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ElectronicWaltz849"&gt; /u/ElectronicWaltz849 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p9jl5l/mình_là_con_người_sinh_ra_để_sống_một_mình_chắc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p9jl5l/mình_là_con_người_sinh_ra_để_sống_một_mình_chắc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1p9jl5l/mình_là_con_người_sinh_ra_để_sống_một_mình_chắc/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-29T08:13:13+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1p9whlx</id>
     <title>Mong mọi người giải đáp về NVQS giúp em</title>
     <updated>2025-11-29T18:47:18+00:00</updated>
@@ -281,17 +229,43 @@
     <published>2025-11-29T18:47:18+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pa6vej</id>
-    <title>Một năm khó khăn, tìm chỗ xem tử vi năm mới cho chút hi vọng</title>
-    <updated>2025-11-30T02:31:03+00:00</updated>
+    <id>t3_1p9jl5l</id>
+    <title>Mình là con người sinh ra để sống một mình ... chắc vậy</title>
+    <updated>2025-11-29T08:13:13+00:00</updated>
     <author>
-      <name>/u/Positive_Plantain_72</name>
-      <uri>https://old.reddit.com/user/Positive_Plantain_72</uri>
+      <name>/u/ElectronicWaltz849</name>
+      <uri>https://old.reddit.com/user/ElectronicWaltz849</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi mấy fen,&lt;/p&gt; &lt;p&gt;Năm vừa rồi mình bết bát quá mấy fen ơi. Thất nghiệp kéo dài, gia đình lục đục, kinh doanh buôn bán cũng có rồi mất. Giờ chả có gì nghĩ thoáng được nên tính tìm chỗ nào xem tử vi uy tín một chút để coi giúp mình thử cái Mệnh của mình ra sao. Nghe nói trên voz nhiều cao thủ, ai biết người nào uy tín chỉ mình với&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Positive_Plantain_72"&gt; /u/Positive_Plantain_72 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pa6vej/một_năm_khó_khăn_tìm_chỗ_xem_tử_vi_năm_mới_cho/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pa6vej/một_năm_khó_khăn_tìm_chỗ_xem_tử_vi_năm_mới_cho/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pa6vej/một_năm_khó_khăn_tìm_chỗ_xem_tử_vi_năm_mới_cho/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tránh tư tưởng truyền bá lệch chuẩn, mình xin đính chính là mình rất quan ngại đến vấn đề tỷ lệ sinh giảm, già hóa dân số. Mình cũng rất muốn góp phần cải thiện việc này nhưng một cánh én thì không làm nên mùa xuân, và thành thật mà nói thì đó không phải là việc của mình. Hơn nữa, đây rất có thể là một bài viết kể lể nhằm biện minh xD.&lt;/p&gt; &lt;p&gt;Chỉ tầm tháng nữa thôi là mình bước sang tuổi 27, một độ tuổi chắc chắn không còn trẻ nữa, nhưng cũng chưa già lắm. Gia cảnh mình không khá giả, mình là một kỹ sư, công việc cũng ổn và nhàn, chí ít cũng giúp nhà trả xong nợ gần đây, mình cũng chu cấp được cho mẹ và em gái ở nhà. À, mình là nam, nên gia cảnh này rất là “gia cảnh” luôn, nếu các anh em ở đây hiểu mình đang nói gì. Chắc chắn không phải là một điểm cộng khi mình giới thiệu với mấy chị em.&lt;/p&gt; &lt;p&gt;Mình là một kiểu người thực dụng, rõ ràng. Trước giờ mình vẫn nuôi suy nghĩ là an cư rồi mới lập gia đình. Mẹ với em mình khổ chung với mình hồi trước là đã đủ rồi, mình không muốn thêm một người mà mình yêu thương phải chịu khổ với mình nữa. Xây cái nhà thật to cho mẹ và em rồi tính sau. Ấy là lý do mà mình chưa từng có một mối quan hệ nào, dù là mập mờ.&lt;/p&gt; &lt;p&gt;Nhưng rồi khi cái “step 1” của mình gần xong thì mình lại nhận ra là mình quen với cái vòng tròn sinh hoạt, vòng tròn an toàn của mình rồi. Trước giờ cuộc đời mình xoay quanh: ăn – ngủ – tập – học – đi làm – chơi game – tập đàn. Không bia bọt, thuốc lá gì trong 6–7 năm qua. Nó nhàm chán, nhưng lại đúng là thứ mình cần, và tất nhiên không ai nói nó không tốt được.&lt;/p&gt; &lt;p&gt;Mình khá là cây hài, google sống khi học tập, khi ở công ty, nhưng là kiểu người nếu được thì mình muốn ở một mình. Khổ cái là nói không ai tin, do kiểu một đứa để tóc dài, chăm chút, 3–4 cái khuyên tai, lúc nào cũng tía lia hoạt bát thì làm sao là loại người thích ở một mình được. Nhưng thật thì mình chỉ hướng ngoại part-time thôi.&lt;/p&gt; &lt;p&gt;Do cũng có luyện tập nên mình khá tự tin về ngoại hình. Ngoại hình thôi nha, chứ mặt thì chắc chắn không được như mấy tài tử, idol giới trẻ. Cũng có khi mình nghĩ là thử mở lòng một tí, kiểu vơ bừa một bạn để lấp đầy nửa đang thiếu kia. Về khoản muốn được sẻ chia, muốn được che chở, đứng về phía mình của mấy chị em thì mình nghĩ là mình làm được, và vì mình khá giỏi miệng lưỡi. Nhưng rồi thì sao nữa, mình nghĩ sớm muộn gì người ta cũng rời đi thôi, vì mình cũng đâu thể nào giả vờ mãi. Mình chán vãi ò luôn.&lt;/p&gt; &lt;p&gt;Mà cho là có người đồng điệu với mình đi, thì chắc chắn người đó cũng đang rút vào một góc nào đó ở nhà rồi. Không phải “quốc bảo” nhưng mình khá chắc nếu là động vật, thì những người như mình chắc hẳn là mấy con gấu trúc, sớm muộn cũng tuyệt chủng do chọn lọc tự nhiên.&lt;/p&gt; &lt;p&gt;Bước A hơi khó nhưng hiện tại mình luôn nghĩ tới bước B. Nhìn đồng nghiệp mình có em bé mà mình cũng muốn có một đứa bé để sau này mình còn tự dạy học cho nó, để nó biết ngày xưa ông già nó chăm học cỡ nào và cũng để nó không va vấp phải những gì mà ông già nó đã chọn. Cơ mà mình thấy cuộc sống là luôn cho đi, nhận con nuôi cũng là một lựa chọn không mới hiện tại.&lt;/p&gt; &lt;p&gt;Bản thân mình là con ngoài giá thú, từng sống ở nhà nội rồi bị bỏ bê, rồi lưu lạc về với mẹ. Cá nhân mình thấy công sinh không bao giờ bằng công dưỡng dục. Nên có thể nếu cuộc đời trong vài năm nữa không khác mấy với mình, thì hy vọng tình yêu và sự may mắn của mình sẽ đến được với một nhóc kém may mắn nào đó ngoài kia.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ElectronicWaltz849"&gt; /u/ElectronicWaltz849 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p9jl5l/mình_là_con_người_sinh_ra_để_sống_một_mình_chắc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p9jl5l/mình_là_con_người_sinh_ra_để_sống_một_mình_chắc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p9jl5l/mình_là_con_người_sinh_ra_để_sống_một_mình_chắc/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-30T02:31:03+00:00</published>
+    <published>2025-11-29T08:13:13+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1p9v9a8</id>
+    <title>1 ngày mới rep là sao ạ</title>
+    <updated>2025-11-29T17:57:28+00:00</updated>
+    <author>
+      <name>/u/dungprooo123</name>
+      <uri>https://old.reddit.com/user/dungprooo123</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Giới thiệu qua mình M21,hiện đang học ở 1 trường đại học ở Việt Nam, mình gần đây có để ý 1 bạn trong lớp, bạn là lớp trưởng nên bận khá nhiều việc, hôm qua thấy bạn đăng story muốn xem phim gì đó thì em có rep story nội dung đại loại như này:&lt;br /&gt; &lt;strong&gt;A:&lt;/strong&gt; bọn m cũng đi xem phim này à. (mình dùng từ &amp;quot;bọn m&amp;quot; để xem đi vs ai nữa không&amp;quot;&lt;br /&gt; &lt;strong&gt;B:&lt;/strong&gt; ừ, nhưng mà chắc t thôi haha(rep sau 1 ngày)&lt;br /&gt; &lt;strong&gt;A:&lt;/strong&gt; vậy t2 này đi chung không, đi cùng t vs 1 bạn nữa cùng lớp luôn&lt;br /&gt; &lt;strong&gt;B:&lt;/strong&gt; (chưa rep sau 5h)&lt;/p&gt; &lt;p&gt;...&lt;br /&gt; Đây là lần đầu mình rủ ai đó đi chơi hay hẹn hò nên chưa có kinh nghiệm nhờ mọi người tư vấn các bước với ạ.&lt;br /&gt; Nghĩa của câu trả lời &amp;quot;chắc t thôi&amp;quot; là không đi hay là đi 1 mình vậy ạ ?&lt;/p&gt; &lt;p&gt;(đây là post đầu của mình nếu có sai sót hay hành văn lủng củng nên ac thông cảm và góp ý mình sẽ tiếp thu hết ạ)&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/dungprooo123"&gt; /u/dungprooo123 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p9v9a8/1_ngày_mới_rep_là_sao_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1p9v9a8/1_ngày_mới_rep_là_sao_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1p9v9a8/1_ngày_mới_rep_là_sao_ạ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-29T17:57:28+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pa77xl</id>
+    <title>Tiktok for pc</title>
+    <updated>2025-11-30T02:48:51+00:00</updated>
+    <author>
+      <name>/u/lam_vu</name>
+      <uri>https://old.reddit.com/user/lam_vu</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chả là e muốn cài giả lập để live cho tiện nhưng khi đăng nhập báo lỗi bạn đã sử dụng dịch vụ quá thường xuyên nên không thể làm gì được, vậy còn cách nào khác không ạ, ai biết hỗ trợ e với &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/lam_vu"&gt; /u/lam_vu &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pa77xl/tiktok_for_pc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pa77xl/tiktok_for_pc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pa77xl/tiktok_for_pc/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-30T02:48:51+00:00</published>
   </entry>
   <entry>
     <id>t3_1p9ahwp</id>
@@ -305,6 +279,32 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1p9ahwp/từ_khi_nào_việc_nhân_viên_vp_làm_k_đủ_ăn_đc_cổ/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-29T00:16:19+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pa7y1t</id>
+    <title>Quà tặng bạn gái</title>
+    <updated>2025-11-30T03:25:04+00:00</updated>
+    <author>
+      <name>/u/Solzinll</name>
+      <uri>https://old.reddit.com/user/Solzinll</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi các bác. Em là nam 26. Cũng đi làm kinh tế ổn rồi. Hiện tại lương em cũng đầu 3, vẫn thuê nhà Xì Gòn. Chuyện là cứ mỗi vài tháng bồ em lại muốn mua quà, nên em đều cắt ngân sách khoảng 5 củ ra để chi khoảng này. Gần đây em thấy mình bị ngợp khi phải lậm vào tiền tiết kiệm mỗi tháng (40% lương là tiết kiệm). Giờ em bị vào thế cắt quà cũng khó. Tháng này ko được là phải tháng sau. Tiền ăn tối 2 đứa thì em trả hết rồi. Mà không cắt thì chả tiết kiệm được gì. Chỉ nhờ các bác xem, thấy khoảng quà cáp thế nào cho phải phép.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Solzinll"&gt; /u/Solzinll &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pa7y1t/quà_tặng_bạn_gái/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pa7y1t/quà_tặng_bạn_gái/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pa7y1t/quà_tặng_bạn_gái/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-30T03:25:04+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pa6vej</id>
+    <title>Một năm khó khăn, tìm chỗ xem tử vi năm mới cho chút hi vọng</title>
+    <updated>2025-11-30T02:31:03+00:00</updated>
+    <author>
+      <name>/u/Positive_Plantain_72</name>
+      <uri>https://old.reddit.com/user/Positive_Plantain_72</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi mấy fen,&lt;/p&gt; &lt;p&gt;Năm vừa rồi mình bết bát quá mấy fen ơi. Thất nghiệp kéo dài, gia đình lục đục, kinh doanh buôn bán cũng có rồi mất. Giờ chả có gì nghĩ thoáng được nên tính tìm chỗ nào xem tử vi uy tín một chút để coi giúp mình thử cái Mệnh của mình ra sao. Nghe nói trên voz nhiều cao thủ, ai biết người nào uy tín chỉ mình với&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Positive_Plantain_72"&gt; /u/Positive_Plantain_72 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pa6vej/một_năm_khó_khăn_tìm_chỗ_xem_tử_vi_năm_mới_cho/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pa6vej/một_năm_khó_khăn_tìm_chỗ_xem_tử_vi_năm_mới_cho/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pa6vej/một_năm_khó_khăn_tìm_chỗ_xem_tử_vi_năm_mới_cho/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-30T02:31:03+00:00</published>
   </entry>
   <entry>
     <id>t3_1pa60iw</id>
