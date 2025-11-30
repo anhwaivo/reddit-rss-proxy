@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-11-30T15:17:05+00:00</updated>
+  <updated>2025-11-30T15:38:07+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -242,19 +242,6 @@
     <published>2025-11-30T07:31:09+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pak7hf</id>
-    <title>Hình như mình đang bị nghiêm trọng hóa vấn đề tiền bạc khi muốn có người yêu nhỉ ?</title>
-    <updated>2025-11-30T14:56:16+00:00</updated>
-    <author>
-      <name>/u/Sensitive-Editor8537</name>
-      <uri>https://old.reddit.com/user/Sensitive-Editor8537</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Kiểu mình làm tháng dư có vài triệu rồi nghĩ nhiêu đây thì sao mà dẫn người ta đi chơi hay ăn uống các kiểu, tự thấy tự ti bản thân xong nhìn qua mấy thằng bạn mình lương nó còn thấp hơn mình mà vẫn có ghệ bình thường.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Sensitive-Editor8537"&gt; /u/Sensitive-Editor8537 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pak7hf/hình_như_mình_đang_bị_nghiêm_trọng_hóa_vấn_đề/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pak7hf/hình_như_mình_đang_bị_nghiêm_trọng_hóa_vấn_đề/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pak7hf/hình_như_mình_đang_bị_nghiêm_trọng_hóa_vấn_đề/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-11-30T14:56:16+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1p9uz0z</id>
     <title>Vừa phát hiện camera trong nhà bị hack, tự nhiên thấy bất an</title>
     <updated>2025-11-29T17:45:33+00:00</updated>
@@ -266,6 +253,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1p9uz0z/vừa_phát_hiện_camera_trong_nhà_bị_hack_tự_nhiên/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-11-29T17:45:33+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pak7hf</id>
+    <title>Hình như mình đang bị nghiêm trọng hóa vấn đề tiền bạc khi muốn có người yêu nhỉ ?</title>
+    <updated>2025-11-30T14:56:16+00:00</updated>
+    <author>
+      <name>/u/Sensitive-Editor8537</name>
+      <uri>https://old.reddit.com/user/Sensitive-Editor8537</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Kiểu mình làm tháng dư có vài triệu rồi nghĩ nhiêu đây thì sao mà dẫn người ta đi chơi hay ăn uống các kiểu, tự thấy tự ti bản thân xong nhìn qua mấy thằng bạn mình lương nó còn thấp hơn mình mà vẫn có ghệ bình thường.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Sensitive-Editor8537"&gt; /u/Sensitive-Editor8537 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pak7hf/hình_như_mình_đang_bị_nghiêm_trọng_hóa_vấn_đề/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pak7hf/hình_như_mình_đang_bị_nghiêm_trọng_hóa_vấn_đề/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pak7hf/hình_như_mình_đang_bị_nghiêm_trọng_hóa_vấn_đề/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-11-30T14:56:16+00:00</published>
   </entry>
   <entry>
     <id>t3_1paeovi</id>
