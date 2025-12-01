@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-12-01T17:49:50+00:00</updated>
+  <updated>2025-12-01T18:32:07+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -177,19 +177,6 @@
     <published>2025-12-01T11:34:49+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pbbm15</id>
-    <title>Hỏi đáp nhỏ</title>
-    <updated>2025-12-01T12:34:20+00:00</updated>
-    <author>
-      <name>/u/Huyen-212</name>
-      <uri>https://old.reddit.com/user/Huyen-212</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Sau những khoảng thời gian tập trung làm việc hoặc học hành thì các bác thường làm gì để đầu óc thư giãn, minh mẫn hơn ạ? &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Huyen-212"&gt; /u/Huyen-212 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pbbm15/hỏi_đáp_nhỏ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pbbm15/hỏi_đáp_nhỏ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pbbm15/hỏi_đáp_nhỏ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-01T12:34:20+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1pb9fb5</id>
     <title>Mua vàng lời như thế nào?</title>
     <updated>2025-12-01T10:31:02+00:00</updated>
@@ -216,6 +203,19 @@
     <published>2025-12-01T12:54:21+00:00</published>
   </entry>
   <entry>
+    <id>t3_1pbbm15</id>
+    <title>Hỏi đáp nhỏ</title>
+    <updated>2025-12-01T12:34:20+00:00</updated>
+    <author>
+      <name>/u/Huyen-212</name>
+      <uri>https://old.reddit.com/user/Huyen-212</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Sau những khoảng thời gian tập trung làm việc hoặc học hành thì các bác thường làm gì để đầu óc thư giãn, minh mẫn hơn ạ? &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Huyen-212"&gt; /u/Huyen-212 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pbbm15/hỏi_đáp_nhỏ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pbbm15/hỏi_đáp_nhỏ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pbbm15/hỏi_đáp_nhỏ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-01T12:34:20+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1pb0xst</id>
     <title>Ở việt nam thì cần bao nhiêu tiền để tồn tại 1 năm không đi làm vậy???</title>
     <updated>2025-12-01T02:32:57+00:00</updated>
@@ -227,19 +227,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pb0xst/ở_việt_nam_thì_cần_bao_nhiêu_tiền_để_tồn_tại_1/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-01T02:32:57+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1pbiq02</id>
-    <title>Chuyển trường</title>
-    <updated>2025-12-01T17:21:13+00:00</updated>
-    <author>
-      <name>/u/Vegetable_Orchid_292</name>
-      <uri>https://old.reddit.com/user/Vegetable_Orchid_292</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hôm nay e muốn lên đây để tâm sự về cuộc sống học đường của e ạ. E là 1 học sinh lớp 9. Trc đây e học hai năm rưỡi ở một ngôi trường - nơi mà e rất hoà đồng với mọi người và mọi người trong lớp cũng rất quý e, hầu như ko ai ghét e cả. Thế nhưng vào kì 2 năm lớp 8, nhà e chuyển nhà đi xa nên e phải chuyển trường. Trc khi đến tập thể lớp mới, e còn đang mang trong mình hi vọng hão huyền rằng lớp mới sẽ tốt như lớp cũ của e vậy. Thế nhưng sự thật đã vả cho e tỉnh. Sau khi vào lớp mới, con ng ở đây hoàn toàn ko như lớp cũ. Họ ko chào đón e, ko ai ra bắt chuyện với e cả. Trong khoảng 3 tháng đầu tiên học ở trường mới e thật sự rất cô đơn, ko có ai để chơi cùng, mà có ra bắt chuyện thì mọi người né tránh e. Sau 3 tháng cố gắng ấy thì e đã làm quen và chơi với vài người bạn. Thế như câu chuyện kinh khủng hơn vẫn đang chờ e ở phía sau. Bọn con trai trong lớp KO HỀ tôn trọng con gái, chúng lấy những khuyết điểm của con gái ra làm trò cười. E là một học sinh ko thích làm đẹp nhiều nên cũng thường ko ngắm vuốt, đi học chỉ buộc tóc chứ ko son phấn, trang điểm như mấy đứa con gái cùng lớp. Có lẽ chính sự ko chau chuốt này đã bị bọn con trai để ý. Khoảng thời gian ấy có lẽ là địa ngục đối với e, bọn nó đặt những biệt danh e ko thích, xúc phạm e và cả đám hùa nhau cười. Tại sao con trai ở đây lại vô liêm sỉ thế... Em đã rất buồn và ko hiểu nổi tại s e ko làm gì mà bọn nó lại nhu vậy. Bọn nó ko tôn trọng học sinh mới và cho rằng e là đứa lập dị ko nói chuyện đc và cô lập, nói xấu e. Thực sự lớp mới này như địa ngục vậy. Sau 1 thời gian, cô chủ nhiệm biết được thì chỉ xử lí qua qua mắng mỏ cái thằng cầm đầu ấy, mà nó vẫn gan lì trêu e. Đọc đến đây có lẽ mọi người sẽ thắc mắc tại s e ko nói vs bố mẹ thì câu trả lời là e có kể lại với bố mẹ r, họ có đến nói chuyện nhắc nhở nhưng mấy thằng đó ko nghe, đặt thêm cho e biệt danh là mách bố, mách mẹ. Nói đến lớp thì cũng phải nói đến chủ nhiệm. Có lẽ một phần do cô chủ nhiệm quá vô tâm và ko nhiệt tình với lớp nên lớp mới mất đoàn kết như vậy. Bởi vì trong lớp e đã chứng kiến bọn nó ko tôn trọng thầy cô, nói những lời xúc phạm, miệt thị cô giáo ( e bt tuổi này thường như vậy nhưng ko đến mức dùng những lời lẽ quá nặng nề như vậy). Vì chúng nó đàn áp e nhiều quá nên có khoảng thời gian e ko muốn đến trường. Sau khi lên lớp 9 thì có lẽ bọn nó đã trưởng thành hơn và đỡ trêu như trước nhưng vẫn KO HOÀN TOÀN HẾT. Có mấy thằng cứng đầu vẫn cố chấp trêu e, e chửi cx ko có tác dụng. Lớp e có luật là 2 tháng bốc thăm đổi chỗ ngồi 1 lần. Tháng trc e xui xẻo bốc vào một trong những thằng hay trêu e hồi lớp 8 nhiều nhất. Thằng đó ko những cư xử thô lỗ mà suốt ngày kiếm chuyện và nói những câu nặng nề với e. Thực sự là lên lớp 9 r e ko muốn để tâm nhiều mà lơ là việc học nhưng nhiều lúc nó nói những lời như vậy khiến e chạnh lòng lắm... Chưa kể tổ e ngồi ko coi e là thành viên trong tổ, nói chung là chúng nó ko coi e ra gì. Haiz, e thực sự rất nhớ lớp cũ, lớp mới ko đoàn kết và e cx ko thể hoà đồng với mọi người, có lẽ do 1 phần e chuyển vào và chỉ học 1 năm rưỡi, ko thể thân thiết và hoà đồng như học cùng nhau 4 năm được. Nhiều lúc chạnh lòng và buồn thật nhưng e vẫn phải tự nhủ dù s cx lớp 9, cuối cấp rồi, e phải cố gắng học hành để thi vào trường cấp 3 tốt nhất và thoát khỏi cái lớp đấy, hi vọng gặp 1 tập thể lớp tốt hơn vào cấp 3 (hoặc ko nhưng đc vào một môi trường xa lạ ko ai quen bt ai thì làm quen dần dần vẫn dễ). Đó là toàn bộ trải nghiệm của e, có ai cũng từng có trải nghiệm chuyển trg như e ko ạ, có gì chia sẻ cho e với 🥹&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Vegetable_Orchid_292"&gt; /u/Vegetable_Orchid_292 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pbiq02/chuyển_trường/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pbiq02/chuyển_trường/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pbiq02/chuyển_trường/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-01T17:21:13+00:00</published>
   </entry>
   <entry>
     <id>t3_1pazwsj</id>
@@ -255,19 +242,6 @@
     <published>2025-12-01T01:44:22+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pb7r4o</id>
-    <title>Đàn ông U40, tìm thú vui giải trí nhẹ nhàng</title>
-    <updated>2025-12-01T08:44:11+00:00</updated>
-    <author>
-      <name>/u/SoloLivingstorm</name>
-      <uri>https://old.reddit.com/user/SoloLivingstorm</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1pb7r4o/đàn_ông_u40_tìm_thú_vui_giải_trí_nhẹ_nhàng/"&gt; &lt;img alt="Đàn ông U40, tìm thú vui giải trí nhẹ nhàng" src="https://b.thumbs.redditmedia.com/zI9CzMZ1jqsv26jxov64H7-6YTE8E1DdXgR1b7IzzWY.jpg" title="Đàn ông U40, tìm thú vui giải trí nhẹ nhàng" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Gym, phượt, thư pháp, chơi nhạc...&lt;/p&gt; &lt;p&gt;E từng thử môn câu cá mà khá ngốn thời gian và hành xác.&lt;/p&gt; &lt;p&gt;Các bác cho em ý kiến ạ. Em độc thân nên rảnh, tìm thú vui nào lành mạnh, ngon bổ rẻ, chứ lỡ bập vào món PKL mà tốn kém quá.&lt;/p&gt; &lt;p&gt;&lt;a href="https://preview.redd.it/vb91vfrr2k4g1.png?width=782&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=99702f7774b46c0f7f41b086f35ba4192a65fabc"&gt;https://preview.redd.it/vb91vfrr2k4g1.png?width=782&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=99702f7774b46c0f7f41b086f35ba4192a65fabc&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/SoloLivingstorm"&gt; /u/SoloLivingstorm &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pb7r4o/đàn_ông_u40_tìm_thú_vui_giải_trí_nhẹ_nhàng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pb7r4o/đàn_ông_u40_tìm_thú_vui_giải_trí_nhẹ_nhàng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pb7r4o/đàn_ông_u40_tìm_thú_vui_giải_trí_nhẹ_nhàng/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-01T08:44:11+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1pb5un2</id>
     <title>Nữ muốn đi học đại học hoặc học nghề ở tuổi 24</title>
     <updated>2025-12-01T06:44:48+00:00</updated>
@@ -281,6 +255,19 @@
     <published>2025-12-01T06:44:48+00:00</published>
   </entry>
   <entry>
+    <id>t3_1pb7r4o</id>
+    <title>Đàn ông U40, tìm thú vui giải trí nhẹ nhàng</title>
+    <updated>2025-12-01T08:44:11+00:00</updated>
+    <author>
+      <name>/u/SoloLivingstorm</name>
+      <uri>https://old.reddit.com/user/SoloLivingstorm</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1pb7r4o/đàn_ông_u40_tìm_thú_vui_giải_trí_nhẹ_nhàng/"&gt; &lt;img alt="Đàn ông U40, tìm thú vui giải trí nhẹ nhàng" src="https://b.thumbs.redditmedia.com/zI9CzMZ1jqsv26jxov64H7-6YTE8E1DdXgR1b7IzzWY.jpg" title="Đàn ông U40, tìm thú vui giải trí nhẹ nhàng" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Gym, phượt, thư pháp, chơi nhạc...&lt;/p&gt; &lt;p&gt;E từng thử môn câu cá mà khá ngốn thời gian và hành xác.&lt;/p&gt; &lt;p&gt;Các bác cho em ý kiến ạ. Em độc thân nên rảnh, tìm thú vui nào lành mạnh, ngon bổ rẻ, chứ lỡ bập vào món PKL mà tốn kém quá.&lt;/p&gt; &lt;p&gt;&lt;a href="https://preview.redd.it/vb91vfrr2k4g1.png?width=782&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=99702f7774b46c0f7f41b086f35ba4192a65fabc"&gt;https://preview.redd.it/vb91vfrr2k4g1.png?width=782&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=99702f7774b46c0f7f41b086f35ba4192a65fabc&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/SoloLivingstorm"&gt; /u/SoloLivingstorm &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pb7r4o/đàn_ông_u40_tìm_thú_vui_giải_trí_nhẹ_nhàng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pb7r4o/đàn_ông_u40_tìm_thú_vui_giải_trí_nhẹ_nhàng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pb7r4o/đàn_ông_u40_tìm_thú_vui_giải_trí_nhẹ_nhàng/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-01T08:44:11+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1pbff9g</id>
     <title>Xin hướng dẫn cách trữ tài sản cho người mới bắt đầu</title>
     <updated>2025-12-01T15:18:52+00:00</updated>
@@ -292,6 +279,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pbff9g/xin_hướng_dẫn_cách_trữ_tài_sản_cho_người_mới_bắt/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-01T15:18:52+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pbiq02</id>
+    <title>Chuyển trường</title>
+    <updated>2025-12-01T17:21:13+00:00</updated>
+    <author>
+      <name>/u/Vegetable_Orchid_292</name>
+      <uri>https://old.reddit.com/user/Vegetable_Orchid_292</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hôm nay e muốn lên đây để tâm sự về cuộc sống học đường của e ạ. E là 1 học sinh lớp 9. Trc đây e học hai năm rưỡi ở một ngôi trường - nơi mà e rất hoà đồng với mọi người và mọi người trong lớp cũng rất quý e, hầu như ko ai ghét e cả. Thế nhưng vào kì 2 năm lớp 8, nhà e chuyển nhà đi xa nên e phải chuyển trường. Trc khi đến tập thể lớp mới, e còn đang mang trong mình hi vọng hão huyền rằng lớp mới sẽ tốt như lớp cũ của e vậy. Thế nhưng sự thật đã vả cho e tỉnh. Sau khi vào lớp mới, con ng ở đây hoàn toàn ko như lớp cũ. Họ ko chào đón e, ko ai ra bắt chuyện với e cả. Trong khoảng 3 tháng đầu tiên học ở trường mới e thật sự rất cô đơn, ko có ai để chơi cùng, mà có ra bắt chuyện thì mọi người né tránh e. Sau 3 tháng cố gắng ấy thì e đã làm quen và chơi với vài người bạn. Thế như câu chuyện kinh khủng hơn vẫn đang chờ e ở phía sau. Bọn con trai trong lớp KO HỀ tôn trọng con gái, chúng lấy những khuyết điểm của con gái ra làm trò cười. E là một học sinh ko thích làm đẹp nhiều nên cũng thường ko ngắm vuốt, đi học chỉ buộc tóc chứ ko son phấn, trang điểm như mấy đứa con gái cùng lớp. Có lẽ chính sự ko chau chuốt này đã bị bọn con trai để ý. Khoảng thời gian ấy có lẽ là địa ngục đối với e, bọn nó đặt những biệt danh e ko thích, xúc phạm e và cả đám hùa nhau cười. Tại sao con trai ở đây lại vô liêm sỉ thế... Em đã rất buồn và ko hiểu nổi tại s e ko làm gì mà bọn nó lại nhu vậy. Bọn nó ko tôn trọng học sinh mới và cho rằng e là đứa lập dị ko nói chuyện đc và cô lập, nói xấu e. Thực sự lớp mới này như địa ngục vậy. Sau 1 thời gian, cô chủ nhiệm biết được thì chỉ xử lí qua qua mắng mỏ cái thằng cầm đầu ấy, mà nó vẫn gan lì trêu e. Đọc đến đây có lẽ mọi người sẽ thắc mắc tại s e ko nói vs bố mẹ thì câu trả lời là e có kể lại với bố mẹ r, họ có đến nói chuyện nhắc nhở nhưng mấy thằng đó ko nghe, đặt thêm cho e biệt danh là mách bố, mách mẹ. Nói đến lớp thì cũng phải nói đến chủ nhiệm. Có lẽ một phần do cô chủ nhiệm quá vô tâm và ko nhiệt tình với lớp nên lớp mới mất đoàn kết như vậy. Bởi vì trong lớp e đã chứng kiến bọn nó ko tôn trọng thầy cô, nói những lời xúc phạm, miệt thị cô giáo ( e bt tuổi này thường như vậy nhưng ko đến mức dùng những lời lẽ quá nặng nề như vậy). Vì chúng nó đàn áp e nhiều quá nên có khoảng thời gian e ko muốn đến trường. Sau khi lên lớp 9 thì có lẽ bọn nó đã trưởng thành hơn và đỡ trêu như trước nhưng vẫn KO HOÀN TOÀN HẾT. Có mấy thằng cứng đầu vẫn cố chấp trêu e, e chửi cx ko có tác dụng. Lớp e có luật là 2 tháng bốc thăm đổi chỗ ngồi 1 lần. Tháng trc e xui xẻo bốc vào một trong những thằng hay trêu e hồi lớp 8 nhiều nhất. Thằng đó ko những cư xử thô lỗ mà suốt ngày kiếm chuyện và nói những câu nặng nề với e. Thực sự là lên lớp 9 r e ko muốn để tâm nhiều mà lơ là việc học nhưng nhiều lúc nó nói những lời như vậy khiến e chạnh lòng lắm... Chưa kể tổ e ngồi ko coi e là thành viên trong tổ, nói chung là chúng nó ko coi e ra gì. Haiz, e thực sự rất nhớ lớp cũ, lớp mới ko đoàn kết và e cx ko thể hoà đồng với mọi người, có lẽ do 1 phần e chuyển vào và chỉ học 1 năm rưỡi, ko thể thân thiết và hoà đồng như học cùng nhau 4 năm được. Nhiều lúc chạnh lòng và buồn thật nhưng e vẫn phải tự nhủ dù s cx lớp 9, cuối cấp rồi, e phải cố gắng học hành để thi vào trường cấp 3 tốt nhất và thoát khỏi cái lớp đấy, hi vọng gặp 1 tập thể lớp tốt hơn vào cấp 3 (hoặc ko nhưng đc vào một môi trường xa lạ ko ai quen bt ai thì làm quen dần dần vẫn dễ). Đó là toàn bộ trải nghiệm của e, có ai cũng từng có trải nghiệm chuyển trg như e ko ạ, có gì chia sẻ cho e với 🥹&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Vegetable_Orchid_292"&gt; /u/Vegetable_Orchid_292 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pbiq02/chuyển_trường/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pbiq02/chuyển_trường/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pbiq02/chuyển_trường/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-01T17:21:13+00:00</published>
   </entry>
   <entry>
     <id>t3_1pb2uxd</id>
