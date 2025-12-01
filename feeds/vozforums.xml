@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-12-01T15:56:29+00:00</updated>
+  <updated>2025-12-01T16:31:05+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1pbg937</id>
-    <title>Tự nhiên có mã Cloud OTP và Super Fast OTP gửi về Zalo dù ko làm gì</title>
-    <updated>2025-12-01T15:49:55+00:00</updated>
-    <author>
-      <name>/u/10thofdec</name>
-      <uri>https://old.reddit.com/user/10thofdec</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là giữa đêm e nhận dc mấy thông báo Zalo liên tục gửi về mã OTP từ 2 tài khoản trên tiêu đề và 1 tin nhắn SMS từ Song_Long :( &lt;/p&gt; &lt;p&gt;Có bác nào biết gì về chiêu này ko ạ? E tìm thông tin đào lửa về tình huống này mà ko ra, cao nhân nào cứu e với!!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/10thofdec"&gt; /u/10thofdec &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pbg937/tự_nhiên_có_mã_cloud_otp_và_super_fast_otp_gửi_về/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pbg937/tự_nhiên_có_mã_cloud_otp_và_super_fast_otp_gửi_về/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pbg937/tự_nhiên_có_mã_cloud_otp_và_super_fast_otp_gửi_về/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-01T15:49:55+00:00</published>
-  </entry>
   <entry>
     <id>t3_1pb2qlb</id>
     <title>Giữa một người nồng nhiệt yêu thương mình nhưng gia đình không ủng hộ do là người nước ngoài và một người chỉ muốn tìm người vợ phù hợp nhất nhưng có điều kiện thì nên chọn ai ạ</title>
@@ -45,19 +32,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pb2ue3/lazada/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-01T04:03:42+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1pbbxk5</id>
-    <title>Lí do làm việc tại chỗ mới</title>
-    <updated>2025-12-01T12:50:00+00:00</updated>
-    <author>
-      <name>/u/Enmi15022003</name>
-      <uri>https://old.reddit.com/user/Enmi15022003</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mn giúp đỡ e: Tình hình là e đã có lời mời pv từ HR ở chỗ làm mới. Vđ ở đây là e nên trả lời sao khi HR hỏi vì sao e nghỉ làm ở chỗ cũ. Chỗ trước e làm đc 2 tháng r e xin off vì lí do môi trường toxic. Chẳng lẽ mình lại nói chỗ làm cũ workplace toxic ? Mn giúp đỡ e 🙏🙏. Many tks &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Enmi15022003"&gt; /u/Enmi15022003 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pbbxk5/lí_do_làm_việc_tại_chỗ_mới/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pbbxk5/lí_do_làm_việc_tại_chỗ_mới/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pbbxk5/lí_do_làm_việc_tại_chỗ_mới/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-01T12:50:00+00:00</published>
   </entry>
   <entry>
     <id>t3_1pb2wwl</id>
@@ -125,6 +99,19 @@
     <published>2025-12-01T06:16:28+00:00</published>
   </entry>
   <entry>
+    <id>t3_1pbbxk5</id>
+    <title>Lí do làm việc tại chỗ mới</title>
+    <updated>2025-12-01T12:50:00+00:00</updated>
+    <author>
+      <name>/u/Enmi15022003</name>
+      <uri>https://old.reddit.com/user/Enmi15022003</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mn giúp đỡ e: Tình hình là e đã có lời mời pv từ HR ở chỗ làm mới. Vđ ở đây là e nên trả lời sao khi HR hỏi vì sao e nghỉ làm ở chỗ cũ. Chỗ trước e làm đc 2 tháng r e xin off vì lí do môi trường toxic. Chẳng lẽ mình lại nói chỗ làm cũ workplace toxic ? Mn giúp đỡ e 🙏🙏. Many tks &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Enmi15022003"&gt; /u/Enmi15022003 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pbbxk5/lí_do_làm_việc_tại_chỗ_mới/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pbbxk5/lí_do_làm_việc_tại_chỗ_mới/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pbbxk5/lí_do_làm_việc_tại_chỗ_mới/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-01T12:50:00+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1pb7eo9</id>
     <title>Tìm màn hình máy tính pc làm văn phòng xem youtube cơ bản</title>
     <updated>2025-12-01T08:21:26+00:00</updated>
@@ -138,17 +125,17 @@
     <published>2025-12-01T08:21:26+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pbff9g</id>
-    <title>Xin hướng dẫn cách trữ tài sản cho người mới bắt đầu</title>
-    <updated>2025-12-01T15:18:52+00:00</updated>
+    <id>t3_1pbfv8f</id>
+    <title>Chuyện tình cảm</title>
+    <updated>2025-12-01T15:35:26+00:00</updated>
     <author>
-      <name>/u/Extension_Room_9256</name>
-      <uri>https://old.reddit.com/user/Extension_Room_9256</uri>
+      <name>/u/itvert_guys</name>
+      <uri>https://old.reddit.com/user/itvert_guys</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Như trên, em sinh viên mới ra trường vừa nhận được 12 triệu tháng lương đầu tiên. Mong các tiền bối chỉ dạy cách trữ tiền cho tương lai để không bị mất giá&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Extension_Room_9256"&gt; /u/Extension_Room_9256 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pbff9g/xin_hướng_dẫn_cách_trữ_tài_sản_cho_người_mới_bắt/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pbff9g/xin_hướng_dẫn_cách_trữ_tài_sản_cho_người_mới_bắt/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pbff9g/xin_hướng_dẫn_cách_trữ_tài_sản_cho_người_mới_bắt/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;ul&gt; &lt;li&gt;Tình hình là nay em có hẹn được một bạn ra ngoài ăn đồ ăn, mn cho hỏi em phải làm gì trong lúc đi chơi để cho mọi thứ diễn ra thoải mái, không gượng gạo ạ.&lt;/li&gt; &lt;li&gt;Em là nam, cả 2 đang là sinh viên ạ.&lt;/li&gt; &lt;/ul&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/itvert_guys"&gt; /u/itvert_guys &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pbfv8f/chuyện_tình_cảm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pbfv8f/chuyện_tình_cảm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pbfv8f/chuyện_tình_cảm/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-01T15:18:52+00:00</published>
+    <published>2025-12-01T15:35:26+00:00</published>
   </entry>
   <entry>
     <id>t3_1pbbcfw</id>
@@ -242,6 +229,19 @@
     <published>2025-12-01T02:32:57+00:00</published>
   </entry>
   <entry>
+    <id>t3_1pbff9g</id>
+    <title>Xin hướng dẫn cách trữ tài sản cho người mới bắt đầu</title>
+    <updated>2025-12-01T15:18:52+00:00</updated>
+    <author>
+      <name>/u/Extension_Room_9256</name>
+      <uri>https://old.reddit.com/user/Extension_Room_9256</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Như trên, em sinh viên mới ra trường vừa nhận được 12 triệu tháng lương đầu tiên. Mong các tiền bối chỉ dạy cách trữ tiền cho tương lai để không bị mất giá&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Extension_Room_9256"&gt; /u/Extension_Room_9256 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pbff9g/xin_hướng_dẫn_cách_trữ_tài_sản_cho_người_mới_bắt/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pbff9g/xin_hướng_dẫn_cách_trữ_tài_sản_cho_người_mới_bắt/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pbff9g/xin_hướng_dẫn_cách_trữ_tài_sản_cho_người_mới_bắt/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-01T15:18:52+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1pbc0yx</id>
     <title>Cần tìm chỗ mua điện thoại cũ uy tín giá rẻ ở HCM</title>
     <updated>2025-12-01T12:54:21+00:00</updated>
@@ -268,19 +268,6 @@
     <published>2025-12-01T08:44:11+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pb5un2</id>
-    <title>Nữ muốn đi học đại học hoặc học nghề ở tuổi 24</title>
-    <updated>2025-12-01T06:44:48+00:00</updated>
-    <author>
-      <name>/u/thichansushi</name>
-      <uri>https://old.reddit.com/user/thichansushi</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;E là nữ đã bỏ học đi lao động (làm nails, làm phụ bếp bưng bê quán ăn, làm thợ bánh) từ 17 đến giờ là 24 tuổi. Giữa tháng 1 này e sẽ phải về Việt Nam vì hết visa, khó có cơ hội đi tiếp. Em đã trả xong nợ cho gia đình và mua đc căn nhà riêng ở rìa Hải Phòng. Bây giờ em mông lung, nghĩ đi nghĩ lại em cũng chẳng có tay nghề hay trình độ gì đặc biệt. Mọi người khuyên em nên mở tiệm nails và nối mi nhưng nói thật là em biết trình độ mình ở đâu, em là người ít nói không biết networking chỉ cắm đầu vào làm, lại không quen thuộc môi trường làm việc ở Việt Nam, mở shop chỉ có lỗ. &lt;/p&gt; &lt;p&gt;Em muốn đi học lại cái gì đó nhưng nữ ở tuổi 24 còn bắt đầu lại đc không? Em ko có ý định lập gia đình ạ. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/thichansushi"&gt; /u/thichansushi &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pb5un2/nữ_muốn_đi_học_đại_học_hoặc_học_nghề_ở_tuổi_24/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pb5un2/nữ_muốn_đi_học_đại_học_hoặc_học_nghề_ở_tuổi_24/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pb5un2/nữ_muốn_đi_học_đại_học_hoặc_học_nghề_ở_tuổi_24/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-01T06:44:48+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1pazwsj</id>
     <title>Chill</title>
     <updated>2025-12-01T01:44:22+00:00</updated>
@@ -292,6 +279,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pazwsj/chill/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-01T01:44:22+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pb5un2</id>
+    <title>Nữ muốn đi học đại học hoặc học nghề ở tuổi 24</title>
+    <updated>2025-12-01T06:44:48+00:00</updated>
+    <author>
+      <name>/u/thichansushi</name>
+      <uri>https://old.reddit.com/user/thichansushi</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;E là nữ đã bỏ học đi lao động (làm nails, làm phụ bếp bưng bê quán ăn, làm thợ bánh) từ 17 đến giờ là 24 tuổi. Giữa tháng 1 này e sẽ phải về Việt Nam vì hết visa, khó có cơ hội đi tiếp. Em đã trả xong nợ cho gia đình và mua đc căn nhà riêng ở rìa Hải Phòng. Bây giờ em mông lung, nghĩ đi nghĩ lại em cũng chẳng có tay nghề hay trình độ gì đặc biệt. Mọi người khuyên em nên mở tiệm nails và nối mi nhưng nói thật là em biết trình độ mình ở đâu, em là người ít nói không biết networking chỉ cắm đầu vào làm, lại không quen thuộc môi trường làm việc ở Việt Nam, mở shop chỉ có lỗ. &lt;/p&gt; &lt;p&gt;Em muốn đi học lại cái gì đó nhưng nữ ở tuổi 24 còn bắt đầu lại đc không? Em ko có ý định lập gia đình ạ. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/thichansushi"&gt; /u/thichansushi &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pb5un2/nữ_muốn_đi_học_đại_học_hoặc_học_nghề_ở_tuổi_24/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pb5un2/nữ_muốn_đi_học_đại_học_hoặc_học_nghề_ở_tuổi_24/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pb5un2/nữ_muốn_đi_học_đại_học_hoặc_học_nghề_ở_tuổi_24/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-01T06:44:48+00:00</published>
   </entry>
   <entry>
     <id>t3_1pbb3hr</id>
