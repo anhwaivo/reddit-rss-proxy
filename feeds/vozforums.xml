@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-12-02T03:06:21+00:00</updated>
+  <updated>2025-12-02T03:58:59+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1pbbcfw</id>
-    <title>Học ngoại ngữ nào cho ngành IT khi đã có tiếng anh ?</title>
-    <updated>2025-12-01T12:20:46+00:00</updated>
-    <author>
-      <name>/u/Sea-Payment948</name>
-      <uri>https://old.reddit.com/user/Sea-Payment948</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Dạ em mới năm nhất IT thôi nhưng em muốn hỏi và xin lời khuyên ạ. Em hiện học IT HCMUS, có IELTS 7.5, hiện tại em đang HSK3. Em muốn hỏi về việc có nên stop tiếng trung để qua học tiếng nhật hơn hay không ạ hay cứ cày tiếng trung lên HSK5 HSK6 ? Em muốn làm về mảng BA DA ạ. Dạ em cảm ơn nhiều.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Sea-Payment948"&gt; /u/Sea-Payment948 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pbbcfw/học_ngoại_ngữ_nào_cho_ngành_it_khi_đã_có_tiếng_anh/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pbbcfw/học_ngoại_ngữ_nào_cho_ngành_it_khi_đã_có_tiếng_anh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pbbcfw/học_ngoại_ngữ_nào_cho_ngành_it_khi_đã_có_tiếng_anh/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-01T12:20:46+00:00</published>
-  </entry>
   <entry>
     <id>t3_1pb7eo9</id>
     <title>Tìm màn hình máy tính pc làm văn phòng xem youtube cơ bản</title>
@@ -125,19 +112,6 @@
     <published>2025-12-01T02:32:57+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pbbm15</id>
-    <title>Hỏi đáp nhỏ</title>
-    <updated>2025-12-01T12:34:20+00:00</updated>
-    <author>
-      <name>/u/Huyen-212</name>
-      <uri>https://old.reddit.com/user/Huyen-212</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Sau những khoảng thời gian tập trung làm việc hoặc học hành thì các bác thường làm gì để đầu óc thư giãn, minh mẫn hơn ạ? &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Huyen-212"&gt; /u/Huyen-212 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pbbm15/hỏi_đáp_nhỏ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pbbm15/hỏi_đáp_nhỏ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pbbm15/hỏi_đáp_nhỏ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-01T12:34:20+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1pbc0yx</id>
     <title>Cần tìm chỗ mua điện thoại cũ uy tín giá rẻ ở HCM</title>
     <updated>2025-12-01T12:54:21+00:00</updated>
@@ -162,6 +136,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pbai6n/gian_nan_hỏi_giá_dịch_vụ_cưới/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-01T11:34:49+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pbbm15</id>
+    <title>Hỏi đáp nhỏ</title>
+    <updated>2025-12-01T12:34:20+00:00</updated>
+    <author>
+      <name>/u/Huyen-212</name>
+      <uri>https://old.reddit.com/user/Huyen-212</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Sau những khoảng thời gian tập trung làm việc hoặc học hành thì các bác thường làm gì để đầu óc thư giãn, minh mẫn hơn ạ? &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Huyen-212"&gt; /u/Huyen-212 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pbbm15/hỏi_đáp_nhỏ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pbbm15/hỏi_đáp_nhỏ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pbbm15/hỏi_đáp_nhỏ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-01T12:34:20+00:00</published>
   </entry>
   <entry>
     <id>t3_1pazwsj</id>
@@ -190,17 +177,17 @@
     <published>2025-12-01T06:44:48+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pbx7wn</id>
-    <title>Nâng trình Quản trị hệ thống</title>
-    <updated>2025-12-02T02:58:47+00:00</updated>
+    <id>t3_1pbxw4r</id>
+    <title>Hoàn tiền shoppee</title>
+    <updated>2025-12-02T03:30:03+00:00</updated>
     <author>
-      <name>/u/tunghg789kt3</name>
-      <uri>https://old.reddit.com/user/tunghg789kt3</uri>
+      <name>/u/One-Cap-2670</name>
+      <uri>https://old.reddit.com/user/One-Cap-2670</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hiện cơ quan mình có quản lý một hệ thống trung tâm Tích hợp dữ liệu của tỉnh, mình là cán bộ chuyên trách chính hệ thống này, hệ thống là được nhà thầu đầu tư và hỗ trợ vận hành ban đầu. Hệ thống gồm: FW, IPS, IDS, Hệ thống mạng(Core SW), Server chạy hệ thống Vcenter -&amp;gt; ESXi -&amp;gt; Máy ảo. Mình chưa từng học chuyên ngành Quản trị hệ thống, kiến thức là tự nghiên cứu cũng như là có sự chia sẻ đào tạo qua từ vài chuyên gia được cơ quan mời để hướng dẫn mấy ae kỹ thuật ở cơ quan. Mình thì mới tiếp nhận được 2 năm nay và biết gì làm nấy, thi thoảng mò thêm nếu cần. Mn có gợi ý khoá học hay sách nào về kiến thức liên quan không ạ, tiếng anh không phải là vấn đề nhé.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/tunghg789kt3"&gt; /u/tunghg789kt3 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pbx7wn/nâng_trình_quản_trị_hệ_thống/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pbx7wn/nâng_trình_quản_trị_hệ_thống/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pbx7wn/nâng_trình_quản_trị_hệ_thống/"/>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1pbxw4r/hoàn_tiền_shoppee/"&gt; &lt;img alt="Hoàn tiền shoppee" src="https://b.thumbs.redditmedia.com/fLGXM0X3LcQbSsp08kw3CN1gZ6yL-cdZvUXq0D6Z47M.jpg" title="Hoàn tiền shoppee" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;đợt vừa rồi có đặt nhầm mấy đơn rồi huỷ thì thấy tiền đã hoàn về thẻ,nhưng cái cashback thì không thấy ngân hàng nó thu lại,hay có làm phát mua đt rồi huỷ ăn tiền cashback ko nhỉ =))))))&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/One-Cap-2670"&gt; /u/One-Cap-2670 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1pbxw4r"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pbxw4r/hoàn_tiền_shoppee/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pbxw4r/hoàn_tiền_shoppee/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-02T02:58:47+00:00</published>
+    <published>2025-12-02T03:30:03+00:00</published>
   </entry>
   <entry>
     <id>t3_1pb7r4o</id>
@@ -255,17 +242,17 @@
     <published>2025-12-01T17:21:13+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pbb3hr</id>
-    <title>Bắt cóc ở Thanh Nghệ Tĩnh</title>
-    <updated>2025-12-01T12:07:39+00:00</updated>
+    <id>t3_1pbx7wn</id>
+    <title>Nâng trình Quản trị hệ thống</title>
+    <updated>2025-12-02T02:58:47+00:00</updated>
     <author>
-      <name>/u/Easy-Chemistry697</name>
-      <uri>https://old.reddit.com/user/Easy-Chemistry697</uri>
+      <name>/u/tunghg789kt3</name>
+      <uri>https://old.reddit.com/user/tunghg789kt3</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Xin chào mng, mình làm phiên dịch viên Anh Việt và mình đã nhận được rất nhiều cuộc gọi từ cảnh sát ở Anh và người nói tiếng Việt thường là ng miền Trung giọng Thanh Nghệ Tĩnh.&lt;/p&gt; &lt;p&gt;Những người này thường có cùng một câu chuyện: bị bắt cóc/đưa đi từ Việt Nam, bị bịt mắt cho vào xe thùng và không biết bằng cách nào được đưa đến Anh. Hỏi gì họ cũng bảo không biết. Mình thấy lạ là tất cả, có cả trẻ vị thành niên, đều có cùng 1 câu chuyện này. &lt;/p&gt; &lt;p&gt;Mình hỏi ở đây để xem có đúng là nạn bắt cóc ở miền trung có thực sự nghiêm trọng đến vậy không hay đây là chiêu trò để đưa người trốn sang Anh tị nạn và ở lại Anh.&lt;/p&gt; &lt;p&gt;Mình không phân biệt gì cả nhưng mình thực sự tò mò. Cảm ơn mọi người!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Easy-Chemistry697"&gt; /u/Easy-Chemistry697 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pbb3hr/bắt_cóc_ở_thanh_nghệ_tĩnh/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pbb3hr/bắt_cóc_ở_thanh_nghệ_tĩnh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pbb3hr/bắt_cóc_ở_thanh_nghệ_tĩnh/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hiện cơ quan mình có quản lý một hệ thống trung tâm Tích hợp dữ liệu của tỉnh, mình là cán bộ chuyên trách chính hệ thống này, hệ thống là được nhà thầu đầu tư và hỗ trợ vận hành ban đầu. Hệ thống gồm: FW, IPS, IDS, Hệ thống mạng(Core SW), Server chạy hệ thống Vcenter -&amp;gt; ESXi -&amp;gt; Máy ảo. Mình chưa từng học chuyên ngành Quản trị hệ thống, kiến thức là tự nghiên cứu cũng như là có sự chia sẻ đào tạo qua từ vài chuyên gia được cơ quan mời để hướng dẫn mấy ae kỹ thuật ở cơ quan. Mình thì mới tiếp nhận được 2 năm nay và biết gì làm nấy, thi thoảng mò thêm nếu cần. Mn có gợi ý khoá học hay sách nào về kiến thức liên quan không ạ, tiếng anh không phải là vấn đề nhé.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/tunghg789kt3"&gt; /u/tunghg789kt3 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pbx7wn/nâng_trình_quản_trị_hệ_thống/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pbx7wn/nâng_trình_quản_trị_hệ_thống/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pbx7wn/nâng_trình_quản_trị_hệ_thống/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-01T12:07:39+00:00</published>
+    <published>2025-12-02T02:58:47+00:00</published>
   </entry>
   <entry>
     <id>t3_1pb99b1</id>
@@ -279,6 +266,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pb99b1/cái_phòng_trọ_kế_bên_phòng_em_nó_sus_quá_mấy_bác/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-01T10:20:43+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pbb3hr</id>
+    <title>Bắt cóc ở Thanh Nghệ Tĩnh</title>
+    <updated>2025-12-01T12:07:39+00:00</updated>
+    <author>
+      <name>/u/Easy-Chemistry697</name>
+      <uri>https://old.reddit.com/user/Easy-Chemistry697</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Xin chào mng, mình làm phiên dịch viên Anh Việt và mình đã nhận được rất nhiều cuộc gọi từ cảnh sát ở Anh và người nói tiếng Việt thường là ng miền Trung giọng Thanh Nghệ Tĩnh.&lt;/p&gt; &lt;p&gt;Những người này thường có cùng một câu chuyện: bị bắt cóc/đưa đi từ Việt Nam, bị bịt mắt cho vào xe thùng và không biết bằng cách nào được đưa đến Anh. Hỏi gì họ cũng bảo không biết. Mình thấy lạ là tất cả, có cả trẻ vị thành niên, đều có cùng 1 câu chuyện này. &lt;/p&gt; &lt;p&gt;Mình hỏi ở đây để xem có đúng là nạn bắt cóc ở miền trung có thực sự nghiêm trọng đến vậy không hay đây là chiêu trò để đưa người trốn sang Anh tị nạn và ở lại Anh.&lt;/p&gt; &lt;p&gt;Mình không phân biệt gì cả nhưng mình thực sự tò mò. Cảm ơn mọi người!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Easy-Chemistry697"&gt; /u/Easy-Chemistry697 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pbb3hr/bắt_cóc_ở_thanh_nghệ_tĩnh/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pbb3hr/bắt_cóc_ở_thanh_nghệ_tĩnh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pbb3hr/bắt_cóc_ở_thanh_nghệ_tĩnh/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-01T12:07:39+00:00</published>
   </entry>
   <entry>
     <id>t3_1pbws7x</id>
