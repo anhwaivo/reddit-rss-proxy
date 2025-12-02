@@ -2,50 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-12-02T15:46:12+00:00</updated>
+  <updated>2025-12-02T16:27:46+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1pbx7wn</id>
-    <title>Nâng trình Quản trị hệ thống</title>
-    <updated>2025-12-02T02:58:47+00:00</updated>
-    <author>
-      <name>/u/tunghg789kt3</name>
-      <uri>https://old.reddit.com/user/tunghg789kt3</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hiện cơ quan mình có quản lý một hệ thống trung tâm Tích hợp dữ liệu của tỉnh, mình là cán bộ chuyên trách chính hệ thống này, hệ thống là được nhà thầu đầu tư và hỗ trợ vận hành ban đầu. Hệ thống gồm: FW, IPS, IDS, Hệ thống mạng(Core SW), Server chạy hệ thống Vcenter -&amp;gt; ESXi -&amp;gt; Máy ảo. Mình chưa từng học chuyên ngành Quản trị hệ thống, kiến thức là tự nghiên cứu cũng như là có sự chia sẻ đào tạo qua từ vài chuyên gia được cơ quan mời để hướng dẫn mấy ae kỹ thuật ở cơ quan. Mình thì mới tiếp nhận được 2 năm nay và biết gì làm nấy, thi thoảng mò thêm nếu cần. Mn có gợi ý khoá học hay sách nào về kiến thức liên quan không ạ, tiếng anh không phải là vấn đề nhé.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/tunghg789kt3"&gt; /u/tunghg789kt3 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pbx7wn/nâng_trình_quản_trị_hệ_thống/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pbx7wn/nâng_trình_quản_trị_hệ_thống/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pbx7wn/nâng_trình_quản_trị_hệ_thống/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-02T02:58:47+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1pc1tl3</id>
-    <title>Mobifone được cấp phép chuyển mạch</title>
-    <updated>2025-12-02T06:57:03+00:00</updated>
-    <author>
-      <name>/u/Substantial-Pin-1679</name>
-      <uri>https://old.reddit.com/user/Substantial-Pin-1679</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Ae nghĩ sao về việc mobifone được cấp phép chuyển mạch tài chính, đứng sau là bộ ca thì MDP thời gian tới sẽ phát triển ntn? &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Substantial-Pin-1679"&gt; /u/Substantial-Pin-1679 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pc1tl3/mobifone_được_cấp_phép_chuyển_mạch/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pc1tl3/mobifone_được_cấp_phép_chuyển_mạch/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pc1tl3/mobifone_được_cấp_phép_chuyển_mạch/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-02T06:57:03+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1pc6cc0</id>
-    <title>Xin ý tưởng ứng dụng AI vào câu lạc bộ võ thuật 🥋</title>
-    <updated>2025-12-02T11:43:00+00:00</updated>
-    <author>
-      <name>/u/SardoWinter</name>
-      <uri>https://old.reddit.com/user/SardoWinter</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi, mình hiện đang làm đồ án mảng phần mềm, cụ thể là quản lý câu lạc bộ võ thuật, tuy nhiên để được điểm cao, mình đang tìm ý tưởng cho việc tích hợp AI vào để tài trên (quản lý clb Taekwondo), bác nào có ý tưởng hay hay cho em xin với ạ. 😙&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/SardoWinter"&gt; /u/SardoWinter &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pc6cc0/xin_ý_tưởng_ứng_dụng_ai_vào_câu_lạc_bộ_võ_thuật/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pc6cc0/xin_ý_tưởng_ứng_dụng_ai_vào_câu_lạc_bộ_võ_thuật/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pc6cc0/xin_ý_tưởng_ứng_dụng_ai_vào_câu_lạc_bộ_võ_thuật/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-02T11:43:00+00:00</published>
-  </entry>
   <entry>
     <id>t3_1pbyvfq</id>
     <title>Cổ phiếu Việt Nam có nên đầu tư dài hạn hay không?</title>
@@ -73,6 +34,19 @@
     <published>2025-12-02T08:56:41+00:00</published>
   </entry>
   <entry>
+    <id>t3_1pc1tl3</id>
+    <title>Mobifone được cấp phép chuyển mạch</title>
+    <updated>2025-12-02T06:57:03+00:00</updated>
+    <author>
+      <name>/u/Substantial-Pin-1679</name>
+      <uri>https://old.reddit.com/user/Substantial-Pin-1679</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Ae nghĩ sao về việc mobifone được cấp phép chuyển mạch tài chính, đứng sau là bộ ca thì MDP thời gian tới sẽ phát triển ntn? &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Substantial-Pin-1679"&gt; /u/Substantial-Pin-1679 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pc1tl3/mobifone_được_cấp_phép_chuyển_mạch/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pc1tl3/mobifone_được_cấp_phép_chuyển_mạch/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pc1tl3/mobifone_được_cấp_phép_chuyển_mạch/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-02T06:57:03+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1pc7vxo</id>
     <title>Cho em xin lời khuyên với ạ</title>
     <updated>2025-12-02T13:03:43+00:00</updated>
@@ -86,19 +60,6 @@
     <published>2025-12-02T13:03:43+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pc9o09</id>
-    <title>Không học đại học do không có điều kiện thì nên làm gì ạ?</title>
-    <updated>2025-12-02T14:21:18+00:00</updated>
-    <author>
-      <name>/u/Specialist-Pie3358</name>
-      <uri>https://old.reddit.com/user/Specialist-Pie3358</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hiện tại em đang lớp 11,và có định hướng đi du học,nếu xin được học bổng bán phần /toàn phần thì đi,còn việc đi học tại Việt Nam phải gác lại vì em không có chi phí ôn thi đại học và không có tiền đi học luôn ạ,mọi người cho em lời khuyên :nếu không đỗ học bổng thì nên làm gì sau cấp 3 ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Specialist-Pie3358"&gt; /u/Specialist-Pie3358 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pc9o09/không_học_đại_học_do_không_có_điều_kiện_thì_nên/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pc9o09/không_học_đại_học_do_không_có_điều_kiện_thì_nên/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pc9o09/không_học_đại_học_do_không_có_điều_kiện_thì_nên/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-02T14:21:18+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1pc9wkj</id>
     <title>Phỏng vấn Fresher Web tại Misa (IT)</title>
     <updated>2025-12-02T14:30:52+00:00</updated>
@@ -110,19 +71,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pc9wkj/phỏng_vấn_fresher_web_tại_misa_it/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-02T14:30:52+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1pca93k</id>
-    <title>Tư vấn tiết kiệm tiền</title>
-    <updated>2025-12-02T14:44:58+00:00</updated>
-    <author>
-      <name>/u/Lost_Still_1306</name>
-      <uri>https://old.reddit.com/user/Lost_Still_1306</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;chào các bác, em sv vừa ra trường lương đâu đó 15tr, em ở nhà vs bố mẹ (nhà thuê), mỗi tháng biếu bố mẹ 5tr trả nợ thì còn 10, chi tiêu cá nhân căng nhất là 1tr tháng , còn lại em vẫn để trong tk, các bác cho em hỏi để tiền nhàn rỗi ở đâu để sinh lãi nhỉ, lãi nhỏ cũng đc do em muốn tiết kiệm thôi, sau này tăng lương mới tính đến chuyện đầu tư. Cảm ơn các bác.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Lost_Still_1306"&gt; /u/Lost_Still_1306 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pca93k/tư_vấn_tiết_kiệm_tiền/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pca93k/tư_vấn_tiết_kiệm_tiền/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pca93k/tư_vấn_tiết_kiệm_tiền/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-02T14:44:58+00:00</published>
   </entry>
   <entry>
     <id>t3_1pcasdl</id>
@@ -190,6 +138,19 @@
     <published>2025-12-02T10:12:57+00:00</published>
   </entry>
   <entry>
+    <id>t3_1pcciji</id>
+    <title>Acc FB Auto like page</title>
+    <updated>2025-12-02T16:12:43+00:00</updated>
+    <author>
+      <name>/u/Aleph57</name>
+      <uri>https://old.reddit.com/user/Aleph57</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Cho mình hỏi là acc FB của mình cứ auto like, theo dõi các acc Ấn Độ, Trung Đông gì í. Mn cho mình xin cách giải quyết với ạ &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Aleph57"&gt; /u/Aleph57 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pcciji/acc_fb_auto_like_page/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pcciji/acc_fb_auto_like_page/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pcciji/acc_fb_auto_like_page/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-02T16:12:43+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1pc0plp</id>
     <title>nuôi chó hay mèo dễ hơn ạ? cho em xin chút lời khuyên cho người mới ạ.</title>
     <updated>2025-12-02T05:52:51+00:00</updated>
@@ -203,6 +164,19 @@
     <published>2025-12-02T05:52:51+00:00</published>
   </entry>
   <entry>
+    <id>t3_1pca93k</id>
+    <title>Tư vấn tiết kiệm tiền</title>
+    <updated>2025-12-02T14:44:58+00:00</updated>
+    <author>
+      <name>/u/Lost_Still_1306</name>
+      <uri>https://old.reddit.com/user/Lost_Still_1306</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;chào các bác, em sv vừa ra trường lương đâu đó 15tr, em ở nhà vs bố mẹ (nhà thuê), mỗi tháng biếu bố mẹ 5tr trả nợ thì còn 10, chi tiêu cá nhân căng nhất là 1tr tháng , còn lại em vẫn để trong tk, các bác cho em hỏi để tiền nhàn rỗi ở đâu để sinh lãi nhỉ, lãi nhỏ cũng đc do em muốn tiết kiệm thôi, sau này tăng lương mới tính đến chuyện đầu tư. Cảm ơn các bác.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Lost_Still_1306"&gt; /u/Lost_Still_1306 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pca93k/tư_vấn_tiết_kiệm_tiền/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pca93k/tư_vấn_tiết_kiệm_tiền/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pca93k/tư_vấn_tiết_kiệm_tiền/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-02T14:44:58+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1pbws7x</id>
     <title>Dating trên thread</title>
     <updated>2025-12-02T02:38:29+00:00</updated>
@@ -214,19 +188,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pbws7x/dating_trên_thread/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-02T02:38:29+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1pcb1oy</id>
-    <title>Mình muốn thử thăm dò ý kiến của số đông để đặt tên cho con gái</title>
-    <updated>2025-12-02T15:16:50+00:00</updated>
-    <author>
-      <name>/u/Dhm20997</name>
-      <uri>https://old.reddit.com/user/Dhm20997</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, mình sắp có bé gái đầu lòng. Mình đang phân vân giữa 2 tên Bảo Châu và Minh Châu để đặt cho bé. Vợ mình thì nói Bảo Châu nghe không hay bằng Minh Châu. Nhờ cộng đồng mạng vote thử xem ý kiến của số đông ra sao ạ. Mình xin cảm ơn ! Chỉ là vote vui vẻ thui ạ, mọi người đừng toxic nha !&lt;/p&gt; &lt;p&gt;&lt;a href="https://www.reddit.com/poll/1pcb1oy"&gt;View Poll&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Dhm20997"&gt; /u/Dhm20997 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pcb1oy/mình_muốn_thử_thăm_dò_ý_kiến_của_số_đông_để_đặt/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pcb1oy/mình_muốn_thử_thăm_dò_ý_kiến_của_số_đông_để_đặt/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pcb1oy/mình_muốn_thử_thăm_dò_ý_kiến_của_số_đông_để_đặt/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-02T15:16:50+00:00</published>
   </entry>
   <entry>
     <id>t3_1pc66x3</id>
@@ -255,6 +216,19 @@
     <published>2025-12-02T07:12:24+00:00</published>
   </entry>
   <entry>
+    <id>t3_1pccelm</id>
+    <title>Trãi lòng - NVQS</title>
+    <updated>2025-12-02T16:08:33+00:00</updated>
+    <author>
+      <name>/u/DayPrudent6710</name>
+      <uri>https://old.reddit.com/user/DayPrudent6710</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi mọi người, chúc mọi người có một buổi tối vui vẻ. &lt;/p&gt; &lt;p&gt;Hôm qua mình có giấy gọi khám vòng 2 sau khi bị loại từ vòng 1. Dạo này mình có quá nhiều chuyện phải suy nghĩ, cũng ngại chia sẻ với người quen nên viết lên đây để trút bớt, hy vọng mọi thứ rồi sẽ tốt hơn. &lt;/p&gt; &lt;p&gt;Về một chút bản thân mình, mình sinh năm 2002 đã ra trường và làm dev hơn 2 năm. Năm đầu chỉ đủ nuôi sống bản thân hiện tại thì có dư ra một ít để gửi về nhà. &lt;/p&gt; &lt;p&gt;Nhà mình rất nghèo. Mẹ làm một mình nuôi cả nhà và lo cho mình và em trai (vẫn còn học ạ) ăn học từ khi ba mình bị tâm thần lúc mình mới 2 tuổi. Mình biết mẹ khổ nhiều nên từ cấp 2, cấp 3 đến đại học mình luôn cố gắng hết sức, vừa học vừa làm thêm: chạy bàn, mua bán điện thoại rồi làm dev. &lt;/p&gt; &lt;p&gt;Cuối năm 2 đại học, mình đi thực tập do quá nhiều áp lực cũng như stress tính tụ khi sống với người cha bị điên mình bị trầm cảm. Năm cuối mình từng thất nghiệp 2 tháng vì không tìm được việc, bệnh càng nặng tới mức mình phải đi điều trị.&lt;br /&gt; Thời gian này mình điều trị khoảng 7 tháng sau đó bỏ điều trị do tác dụng phụ của thuốc ảnh hưởng đến công việc khá nhiều. Mình nghỉ điều trị đến hiện tại cũng khoảng 1,5 năm rồi. Thỉnh thoảng vẫn tái phát lại như đợt bị layoff tháng 5 vừa rồi và join vào dự án rất phức tạp tháng trước hay là những lần rãnh rồi không có gì làm. &lt;/p&gt; &lt;p&gt;Lần trước khám vòng 1 mình có báo là bị mề day choli nặng, khi phát nặng khiến mắt mờ tay chân run (lúc đó cũng đang nổi mề đay đầy người, bệnh này theo mình từ nhỏ đến giờ) họ vẫn khám tiếp, mình khai thêm là mình đang bị trầm cảm và đưa lịch sử khám trên VssID. Bác sĩ xem xong thì cho về và nói không gọi nữa. Nhưng hôm qua lại có giấy gọi cho vòng 2 ( ở một bệnh viện không uy tín), tổ dân phố mình khám vòng 2 lấy 6 trên 11 người. &lt;/p&gt; &lt;p&gt;Cũng không biết vì sao họ lại gọi mình. Bây giờ mình rất suy sụp và trầm cảm bắt đầu trở nặng lại, liệu có cơ hội nào cho mình k. Nghèo suốt 22 năm nay mới thoát nghèo nó lại dìm mình chết. Năm nào nó cũng phát giấy gọi mình dù có rất nhiều thằng ăn k ngồi rồi trong xóm. Có cơ hội nào cho mình k, mình tuyệt vọng quá&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/DayPrudent6710"&gt; /u/DayPrudent6710 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pccelm/trãi_lòng_nvqs/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pccelm/trãi_lòng_nvqs/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pccelm/trãi_lòng_nvqs/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-02T16:08:33+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1pc2jy6</id>
     <title>Có con game mobile nhờ các bro chơi thử cho feedback</title>
     <updated>2025-12-02T07:42:54+00:00</updated>
@@ -266,6 +240,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pc2jy6/có_con_game_mobile_nhờ_các_bro_chơi_thử_cho/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-02T07:42:54+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pcb1oy</id>
+    <title>Mình muốn thử thăm dò ý kiến của số đông để đặt tên cho con gái</title>
+    <updated>2025-12-02T15:16:50+00:00</updated>
+    <author>
+      <name>/u/Dhm20997</name>
+      <uri>https://old.reddit.com/user/Dhm20997</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, mình sắp có bé gái đầu lòng. Mình đang phân vân giữa 2 tên Bảo Châu và Minh Châu để đặt cho bé. Vợ mình thì nói Bảo Châu nghe không hay bằng Minh Châu. Nhờ cộng đồng mạng vote thử xem ý kiến của số đông ra sao ạ. Mình xin cảm ơn ! Chỉ là vote vui vẻ thui ạ, mọi người đừng toxic nha !&lt;/p&gt; &lt;p&gt;&lt;a href="https://www.reddit.com/poll/1pcb1oy"&gt;View Poll&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Dhm20997"&gt; /u/Dhm20997 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pcb1oy/mình_muốn_thử_thăm_dò_ý_kiến_của_số_đông_để_đặt/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pcb1oy/mình_muốn_thử_thăm_dò_ý_kiến_của_số_đông_để_đặt/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pcb1oy/mình_muốn_thử_thăm_dò_ý_kiến_của_số_đông_để_đặt/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-02T15:16:50+00:00</published>
   </entry>
   <entry>
     <id>t3_1pc15oi</id>
@@ -292,6 +279,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pbnm8k/đi_nvqs_coi_như_mất_hết/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-01T20:19:33+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pc9o09</id>
+    <title>Không học đại học do không có điều kiện thì nên làm gì ạ?</title>
+    <updated>2025-12-02T14:21:18+00:00</updated>
+    <author>
+      <name>/u/Specialist-Pie3358</name>
+      <uri>https://old.reddit.com/user/Specialist-Pie3358</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hiện tại em đang lớp 11,và có định hướng đi du học,nếu xin được học bổng bán phần /toàn phần thì đi,còn việc đi học tại Việt Nam phải gác lại vì em không có chi phí ôn thi đại học và không có tiền đi học luôn ạ,mọi người cho em lời khuyên :nếu không đỗ học bổng thì nên làm gì sau cấp 3 ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Specialist-Pie3358"&gt; /u/Specialist-Pie3358 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pc9o09/không_học_đại_học_do_không_có_điều_kiện_thì_nên/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pc9o09/không_học_đại_học_do_không_có_điều_kiện_thì_nên/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pc9o09/không_học_đại_học_do_không_có_điều_kiện_thì_nên/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-02T14:21:18+00:00</published>
   </entry>
   <entry>
     <id>t3_1pc1hdb</id>
