@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-12-02T19:30:09+00:00</updated>
+  <updated>2025-12-02T19:43:07+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -99,6 +99,19 @@
     <published>2025-12-02T16:12:43+00:00</published>
   </entry>
   <entry>
+    <id>t3_1pcejdd</id>
+    <title>Vay homecredit đc ko các bác ?!?</title>
+    <updated>2025-12-02T17:26:48+00:00</updated>
+    <author>
+      <name>/u/ducanhttgl</name>
+      <uri>https://old.reddit.com/user/ducanhttgl</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tình hình là em đang hụt tiền xíu mà đang cần gấp khoảng 10tr mua laptop. Bác nào đã từng vay homecredit cho em hỏi lãi ok ko ạ? Chỉ cần cccd là được và có những khoản phí ẩn nào không ạ. Em cảm ơn nhé&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ducanhttgl"&gt; /u/ducanhttgl &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pcejdd/vay_homecredit_đc_ko_các_bác/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pcejdd/vay_homecredit_đc_ko_các_bác/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pcejdd/vay_homecredit_đc_ko_các_bác/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-02T17:26:48+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1pceolf</id>
     <title>How to bounce back after fucked up</title>
     <updated>2025-12-02T17:32:02+00:00</updated>
@@ -123,19 +136,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pc0plp/nuôi_chó_hay_mèo_dễ_hơn_ạ_cho_em_xin_chút_lời/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-02T05:52:51+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1pcfvvr</id>
-    <title>Thư giới thiệu</title>
-    <updated>2025-12-02T18:14:53+00:00</updated>
-    <author>
-      <name>/u/Yaoincloud</name>
-      <uri>https://old.reddit.com/user/Yaoincloud</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mn ơi cho em hỏi với, e đang trong quá trình apply học bổng và cần thư giởi thiệu. Tuy nhiên e gapyear 1 năm nên kh còn liên lạc thân với thầy cô c3, trong thời gian này thì e có học thêm tiếng trung từ 1 cô bên đại học đài, và học bên trung tâm ielts. E xin thư của cô và thầy bên trung tâm đc kh ạ.😔🥺 nhờ mn giúp&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Yaoincloud"&gt; /u/Yaoincloud &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pcfvvr/thư_giới_thiệu/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pcfvvr/thư_giới_thiệu/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pcfvvr/thư_giới_thiệu/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-02T18:14:53+00:00</published>
   </entry>
   <entry>
     <id>t3_1pc9wkj</id>
@@ -216,17 +216,17 @@
     <published>2025-12-02T07:42:54+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pcejdd</id>
-    <title>Vay homecredit đc ko các bác ?!?</title>
-    <updated>2025-12-02T17:26:48+00:00</updated>
+    <id>t3_1pcfvvr</id>
+    <title>Thư giới thiệu</title>
+    <updated>2025-12-02T18:14:53+00:00</updated>
     <author>
-      <name>/u/ducanhttgl</name>
-      <uri>https://old.reddit.com/user/ducanhttgl</uri>
+      <name>/u/Yaoincloud</name>
+      <uri>https://old.reddit.com/user/Yaoincloud</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tình hình là em đang hụt tiền xíu mà đang cần gấp khoảng 10tr mua laptop. Bác nào đã từng vay homecredit cho em hỏi lãi ok ko ạ? Chỉ cần cccd là được và có những khoản phí ẩn nào không ạ. Em cảm ơn nhé&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ducanhttgl"&gt; /u/ducanhttgl &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pcejdd/vay_homecredit_đc_ko_các_bác/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pcejdd/vay_homecredit_đc_ko_các_bác/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pcejdd/vay_homecredit_đc_ko_các_bác/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mn ơi cho em hỏi với, e đang trong quá trình apply học bổng và cần thư giởi thiệu. Tuy nhiên e gapyear 1 năm nên kh còn liên lạc thân với thầy cô c3, trong thời gian này thì e có học thêm tiếng trung từ 1 cô bên đại học đài, và học bên trung tâm ielts. E xin thư của cô và thầy bên trung tâm đc kh ạ.😔🥺 nhờ mn giúp&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Yaoincloud"&gt; /u/Yaoincloud &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pcfvvr/thư_giới_thiệu/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pcfvvr/thư_giới_thiệu/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pcfvvr/thư_giới_thiệu/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-02T17:26:48+00:00</published>
+    <published>2025-12-02T18:14:53+00:00</published>
   </entry>
   <entry>
     <id>t3_1pcb1oy</id>
