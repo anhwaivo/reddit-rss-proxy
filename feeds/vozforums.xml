@@ -2,11 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-12-02T15:22:06+00:00</updated>
+  <updated>2025-12-02T15:46:12+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
+  <entry>
+    <id>t3_1pbx7wn</id>
+    <title>Nâng trình Quản trị hệ thống</title>
+    <updated>2025-12-02T02:58:47+00:00</updated>
+    <author>
+      <name>/u/tunghg789kt3</name>
+      <uri>https://old.reddit.com/user/tunghg789kt3</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hiện cơ quan mình có quản lý một hệ thống trung tâm Tích hợp dữ liệu của tỉnh, mình là cán bộ chuyên trách chính hệ thống này, hệ thống là được nhà thầu đầu tư và hỗ trợ vận hành ban đầu. Hệ thống gồm: FW, IPS, IDS, Hệ thống mạng(Core SW), Server chạy hệ thống Vcenter -&amp;gt; ESXi -&amp;gt; Máy ảo. Mình chưa từng học chuyên ngành Quản trị hệ thống, kiến thức là tự nghiên cứu cũng như là có sự chia sẻ đào tạo qua từ vài chuyên gia được cơ quan mời để hướng dẫn mấy ae kỹ thuật ở cơ quan. Mình thì mới tiếp nhận được 2 năm nay và biết gì làm nấy, thi thoảng mò thêm nếu cần. Mn có gợi ý khoá học hay sách nào về kiến thức liên quan không ạ, tiếng anh không phải là vấn đề nhé.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/tunghg789kt3"&gt; /u/tunghg789kt3 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pbx7wn/nâng_trình_quản_trị_hệ_thống/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pbx7wn/nâng_trình_quản_trị_hệ_thống/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pbx7wn/nâng_trình_quản_trị_hệ_thống/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-02T02:58:47+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pc1tl3</id>
+    <title>Mobifone được cấp phép chuyển mạch</title>
+    <updated>2025-12-02T06:57:03+00:00</updated>
+    <author>
+      <name>/u/Substantial-Pin-1679</name>
+      <uri>https://old.reddit.com/user/Substantial-Pin-1679</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Ae nghĩ sao về việc mobifone được cấp phép chuyển mạch tài chính, đứng sau là bộ ca thì MDP thời gian tới sẽ phát triển ntn? &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Substantial-Pin-1679"&gt; /u/Substantial-Pin-1679 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pc1tl3/mobifone_được_cấp_phép_chuyển_mạch/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pc1tl3/mobifone_được_cấp_phép_chuyển_mạch/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pc1tl3/mobifone_được_cấp_phép_chuyển_mạch/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-02T06:57:03+00:00</published>
+  </entry>
   <entry>
     <id>t3_1pc6cc0</id>
     <title>Xin ý tưởng ứng dụng AI vào câu lạc bộ võ thuật 🥋</title>
@@ -58,32 +84,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pc7vxo/cho_em_xin_lời_khuyên_với_ạ/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-02T13:03:43+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1pc8207</id>
-    <title>NotebookLM: 3 Bước Tạo "Bộ Não AI" Riêng Cho Doanh Nghiệp</title>
-    <updated>2025-12-02T13:11:33+00:00</updated>
-    <author>
-      <name>/u/lkhcm</name>
-      <uri>https://old.reddit.com/user/lkhcm</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1pc8207/notebooklm_3_bước_tạo_bộ_não_ai_riêng_cho_doanh/"&gt; &lt;img alt="NotebookLM: 3 Bước Tạo &amp;quot;Bộ Não AI&amp;quot; Riêng Cho Doanh Nghiệp" src="https://external-preview.redd.it/RejV3FYmlbPPMzN3O-jYH_6vmkAO9o1D21s345XfuZU.jpeg?width=320&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=1efa3619e64317d10c8e4560fbd8cb7aba681676" title="NotebookLM: 3 Bước Tạo &amp;quot;Bộ Não AI&amp;quot; Riêng Cho Doanh Nghiệp" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;NotebookLM: 3 Bước Tạo &amp;quot;Bộ Não AI&amp;quot; Riêng Cho Doanh Nghiệp&lt;/p&gt; &lt;p&gt;Tìm lại cái báo giá cũ mất cả tiếng? Nhân viên tư vấn sai vì đọc nhầm chính sách lỗi thời? 🤯&lt;/p&gt; &lt;p&gt;Đó là &amp;quot;Sự hỗn loạn dữ liệu&amp;quot; đang giết chết năng suất team bạn.&lt;/p&gt; &lt;p&gt;❌ Đừng bắt nhân viên &amp;quot;ngụp lặn&amp;quot; trong Google Drive nữa. ✅ Hãy biến file Excel, PDF thành &amp;quot;Bộ Não AI&amp;quot; trả lời tức thì với NotebookLM.&lt;/p&gt; &lt;p&gt;Chỉ 3 bước thiết lập đơn giản, không cần biết code.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/lkhcm"&gt; /u/lkhcm &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.youtube.com/watch?v=ILlv-CRWUDc"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pc8207/notebooklm_3_bước_tạo_bộ_não_ai_riêng_cho_doanh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pc8207/notebooklm_3_bước_tạo_bộ_não_ai_riêng_cho_doanh/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-02T13:11:33+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1pc88pw</id>
-    <title>Các bác lý giải cho em hiện tượng này với</title>
-    <updated>2025-12-02T13:19:58+00:00</updated>
-    <author>
-      <name>/u/Delicious_Society735</name>
-      <uri>https://old.reddit.com/user/Delicious_Society735</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em gái em lúc trước học đh trong sg. Tốt nghiệp bằng tb. Thuê trọ ở ghép với đứa kia, tiền phòng mỗi đứa 1 triệu. Nó làm nhảy việc lung tung. Kiểu vài bữa là nghỉ. Nó làm quán ăn, linh tinh chứ ko làm việc theo ngành học. Thỉnh thoảng vẫn gọi đt kêu mẹ gửi tiền ăn uống đóng tiền phòng. Nó ko có năng lực nhưng mơ tưởng làm mấy nghề bàn giấy, cao sang, nhưng nó ko làm đc chứ ko nó đã làm và có cv ổn định rồi. Nó ở sg vật vờ 1 năm Xong nó bỏ phố về quê. Phòng trọ ở sg nó vẫn thuê, nó vẫn để đồ trong đó, 2 năm trước đứa ở cùng phòng nó chuyển đi, phòng đó tiền phòng giờ thành 2 triệu. Phòng trọ nó vẫn thuê đó 5 năm nay. Từ lúc nó về nhà 5 năm nó ở nhà ko đi làm. Ngủ đến trưa dậy ăn xong buôn dưa lê với mẹ. Tối đêm cũng ko làm gì gọi là làm việc kiếm tiền cả. Nó ko đi làm ko kiếm ra tiền, ko học hành gì. Cũng ko có kiếm tiền online gì đâu. Mà nó vẫn bình tĩnh sống. Ko biết nó lấy tiền đâu để trả tiền phòng 5 năm qua ai lý giải em với? Mẹ e ko cho nó tiền đóng tiền phòng. 1 năm mẹ e có việc vào sg vài ngày vẫn ở phòng đó đc bt. Vẫn thấy đồ của nó trong phòng. Mà thường thì thuê trọ là phải đóng tiền đầy đủ chứ ko sao mà ở đc đến giờ. Ít nó cũng phải trả 60 70 triệu từ 5 năm trước đến giờ. Mà ở nhà cả 5 năm nó ko đi làm kiếm tiền. Tiền đâu ra mà trả tiền trọ? Nó ko có yêu đương người yêu gì nhé. Em nghĩ chắc nó vay mượn tiền có khi nào nó cầm giấy tờ nhà đi vay mượn số tiền lớn ko cũng ko biết mà nhà e ko lý giải đc. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Delicious_Society735"&gt; /u/Delicious_Society735 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pc88pw/các_bác_lý_giải_cho_em_hiện_tượng_này_với/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pc88pw/các_bác_lý_giải_cho_em_hiện_tượng_này_với/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pc88pw/các_bác_lý_giải_cho_em_hiện_tượng_này_với/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-02T13:19:58+00:00</published>
   </entry>
   <entry>
     <id>t3_1pc9o09</id>
@@ -151,19 +151,6 @@
     <published>2025-12-02T15:16:28+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pcb1oy</id>
-    <title>Mình muốn thử thăm dò ý kiến của số đông để đặt tên cho con gái</title>
-    <updated>2025-12-02T15:16:50+00:00</updated>
-    <author>
-      <name>/u/Dhm20997</name>
-      <uri>https://old.reddit.com/user/Dhm20997</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, mình sắp có bé gái đầu lòng. Mình đang phân vân giữa 2 tên Bảo Châu và Minh Châu để đặt cho bé. Vợ mình thì nói Bảo Châu nghe không hay bằng Minh Châu. Nhờ cộng đồng mạng vote thử xem ý kiến của số đông ra sao ạ. Mình xin cảm ơn ! Chỉ là vote vui vẻ thui ạ, mọi người đừng toxic nha !&lt;/p&gt; &lt;p&gt;&lt;a href="https://www.reddit.com/poll/1pcb1oy"&gt;View Poll&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Dhm20997"&gt; /u/Dhm20997 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pcb1oy/mình_muốn_thử_thăm_dò_ý_kiến_của_số_đông_để_đặt/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pcb1oy/mình_muốn_thử_thăm_dò_ý_kiến_của_số_đông_để_đặt/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pcb1oy/mình_muốn_thử_thăm_dò_ý_kiến_của_số_đông_để_đặt/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-02T15:16:50+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1pc48xq</id>
     <title>xin ý kiến</title>
     <updated>2025-12-02T09:34:15+00:00</updated>
@@ -227,6 +214,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pbws7x/dating_trên_thread/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-02T02:38:29+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pcb1oy</id>
+    <title>Mình muốn thử thăm dò ý kiến của số đông để đặt tên cho con gái</title>
+    <updated>2025-12-02T15:16:50+00:00</updated>
+    <author>
+      <name>/u/Dhm20997</name>
+      <uri>https://old.reddit.com/user/Dhm20997</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, mình sắp có bé gái đầu lòng. Mình đang phân vân giữa 2 tên Bảo Châu và Minh Châu để đặt cho bé. Vợ mình thì nói Bảo Châu nghe không hay bằng Minh Châu. Nhờ cộng đồng mạng vote thử xem ý kiến của số đông ra sao ạ. Mình xin cảm ơn ! Chỉ là vote vui vẻ thui ạ, mọi người đừng toxic nha !&lt;/p&gt; &lt;p&gt;&lt;a href="https://www.reddit.com/poll/1pcb1oy"&gt;View Poll&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Dhm20997"&gt; /u/Dhm20997 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pcb1oy/mình_muốn_thử_thăm_dò_ý_kiến_của_số_đông_để_đặt/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pcb1oy/mình_muốn_thử_thăm_dò_ý_kiến_của_số_đông_để_đặt/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pcb1oy/mình_muốn_thử_thăm_dò_ý_kiến_của_số_đông_để_đặt/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-02T15:16:50+00:00</published>
   </entry>
   <entry>
     <id>t3_1pc66x3</id>
