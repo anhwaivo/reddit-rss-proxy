@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-12-03T16:28:09+00:00</updated>
+  <updated>2025-12-03T16:55:15+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1pcyxkr</id>
-    <title>Xin lời khuyên mua laptop</title>
-    <updated>2025-12-03T08:34:27+00:00</updated>
-    <author>
-      <name>/u/Fionanguyenk</name>
-      <uri>https://old.reddit.com/user/Fionanguyenk</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Anh chị cho em hỏi, em muốn mua laptop để phục vụ cho việc làm Freelancer sắp tới . Bạn em có job bên wed designer, bạn ấy có thể gửi task cho em tập làm quen dần vì em chỉ học cấp 3 ạ, trước giờ không có điều kiện để tiếp cận máy tính thì giờ em nên mua loại nào ạ, mua mới trả góp hay mua cũ ạ. Vì tài chính em cũng eo hẹp nên cũng đắn đo nhiều. Em muốn định hướng theo ngành này lâu dài về sau luôn, sau dư dả có thể đổi máy tốt hơn ạ. Trước giờ em chỉ làm phục vụ ạ, tài chính có hơi đắn đo và eo hẹp, tầm 12 hoặc ráng thì mượn bạn nếu phân khúc dưới 18. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Fionanguyenk"&gt; /u/Fionanguyenk &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pcyxkr/xin_lời_khuyên_mua_laptop/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pcyxkr/xin_lời_khuyên_mua_laptop/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pcyxkr/xin_lời_khuyên_mua_laptop/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-03T08:34:27+00:00</published>
-  </entry>
   <entry>
     <id>t3_1pcz14e</id>
     <title>Thời tiết Sg 3 ngày nay</title>
@@ -34,19 +21,6 @@
     <published>2025-12-03T08:41:02+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pd3c4o</id>
-    <title>Hỏi về socola Việt</title>
-    <updated>2025-12-03T12:52:48+00:00</updated>
-    <author>
-      <name>/u/Bin2Dcm</name>
-      <uri>https://old.reddit.com/user/Bin2Dcm</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác, một mùa giáng sinh tới và tự dưng thòm thèm socola. Thị trường thì vô kể, được giới thiệu cho mấy hãng kiểu như Marou, mà vãi chưởng giới thiệu hàng Việt các thứ mà 1 thanh tầm trung của nó đá được mấy bát phở, hơn cả mấy thanh Fuji nhật khẩu bán siêu thị. Các bác có biết hãng nào ok không?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Bin2Dcm"&gt; /u/Bin2Dcm &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pd3c4o/hỏi_về_socola_việt/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pd3c4o/hỏi_về_socola_việt/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pd3c4o/hỏi_về_socola_việt/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-03T12:52:48+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1pczqdh</id>
     <title>Màn hình liên tục báo chuyển đổi cổng vga or hdmi (đã thử thay dây hdmi qua vga vẫn dính lỗi trên). Nhờ cao nhân chỉ giáo</title>
     <updated>2025-12-03T09:26:21+00:00</updated>
@@ -54,6 +28,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pczqdh/màn_hình_liên_tục_báo_chuyển_đổi_cổng_vga_or_hdmi/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-03T09:26:21+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pctk38</id>
+    <title>có mạng xã hội nào mới ?</title>
+    <updated>2025-12-03T03:33:29+00:00</updated>
+    <author>
+      <name>/u/West_Kaviiz</name>
+      <uri>https://old.reddit.com/user/West_Kaviiz</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;ngoài các mạng xã hội mà mọi người hay dùng như:&lt;br /&gt; facebook,&lt;br /&gt; Instagram,&lt;br /&gt; Thread,&lt;br /&gt; TikTok,&lt;br /&gt; YouTube,&lt;br /&gt; X,&lt;br /&gt; Reddit,&lt;br /&gt; LinkedIn&lt;br /&gt; thì mấy bác còn dùng cái nào khác nữa không , cho em xin vài nền tảng dạo chơi cho mới lạ đi mọi người&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/West_Kaviiz"&gt; /u/West_Kaviiz &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pctk38/có_mạng_xã_hội_nào_mới/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pctk38/có_mạng_xã_hội_nào_mới/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pctk38/có_mạng_xã_hội_nào_mới/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-03T03:33:29+00:00</published>
   </entry>
   <entry>
     <id>t3_1pd49h3</id>
@@ -134,6 +121,19 @@
     <published>2025-12-03T14:34:10+00:00</published>
   </entry>
   <entry>
+    <id>t3_1pd6pud</id>
+    <title>mmo</title>
+    <updated>2025-12-03T15:09:19+00:00</updated>
+    <author>
+      <name>/u/Crafty_Law707</name>
+      <uri>https://old.reddit.com/user/Crafty_Law707</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;t nhận dạy bào km ngày 1m trực tiếp hn dạy từ a đến á . tk nào làm ib t&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Crafty_Law707"&gt; /u/Crafty_Law707 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pd6pud/mmo/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pd6pud/mmo/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pd6pud/mmo/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-03T15:09:19+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1pd7g17</id>
     <title>Phỏng vấn 2 tiếng cho vị trí intern ?</title>
     <updated>2025-12-03T15:36:28+00:00</updated>
@@ -145,19 +145,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pd7g17/phỏng_vấn_2_tiếng_cho_vị_trí_intern/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-03T15:36:28+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1pctkd9</id>
-    <title>Newbie mới tập tành crypto mà khó cash out quá</title>
-    <updated>2025-12-03T03:33:50+00:00</updated>
-    <author>
-      <name>/u/austinn2603</name>
-      <uri>https://old.reddit.com/user/austinn2603</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình có khoảng 30 triệu đồng tiền USDC để trong Binance, hiện mình đang cần rút 5 triệu thì gặp phải vấn đề này:&lt;/p&gt; &lt;p&gt;Thứ nhất, tài khoản mình mới lập, lèo tèo vài giao dịch. Trong khi đó tài khoản của người khác thì toàn mấy nghìn giao dịch, nhìn chuyên nghiệp lắm, nào thì &amp;quot;AutoTrade247&amp;quot;, &amp;quot;Thần Tài Team&amp;quot;, v.v các thứ, có ông còn chạy cả ads nữa. Tài khoản của mình không đủ uy tín, đăng bán cũng chả ai giao dịch.&lt;/p&gt; &lt;p&gt;Thứ hai, lúc nào mình cũng phải canh me check bank để nếu người ta chuyển khoản thì mình release coin cho họ. Nhưng mà mình đi làm bận không trực chờ suốt như vậy được.&lt;/p&gt; &lt;p&gt;May mắn là nhờ có bạn bè người quen mua hộ nên mình cũng bán được rồi. Nhưng nhìn chung thì, mua crypto nhanh tiện thật đấy nhưng đến lúc cần bán thì rất khó. Vàng, đô la mua tốn thời gian hơn nhưng thanh khoản dễ hơn crypto nhiều, thích bán lúc nào và bán ở đâu cũng được. Coi như bài học rút kinh nghiệm lần sau của mình.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/austinn2603"&gt; /u/austinn2603 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pctkd9/newbie_mới_tập_tành_crypto_mà_khó_cash_out_quá/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pctkd9/newbie_mới_tập_tành_crypto_mà_khó_cash_out_quá/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pctkd9/newbie_mới_tập_tành_crypto_mà_khó_cash_out_quá/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-03T03:33:50+00:00</published>
   </entry>
   <entry>
     <id>t3_1pd8rio</id>
@@ -173,6 +160,32 @@
     <published>2025-12-03T16:25:11+00:00</published>
   </entry>
   <entry>
+    <id>t3_1pd3c4o</id>
+    <title>Hỏi về socola Việt</title>
+    <updated>2025-12-03T12:52:48+00:00</updated>
+    <author>
+      <name>/u/Bin2Dcm</name>
+      <uri>https://old.reddit.com/user/Bin2Dcm</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác, một mùa giáng sinh tới và tự dưng thòm thèm socola. Thị trường thì vô kể, được giới thiệu cho mấy hãng kiểu như Marou, mà vãi chưởng giới thiệu hàng Việt các thứ mà 1 thanh tầm trung của nó đá được mấy bát phở, hơn cả mấy thanh Fuji nhật khẩu bán siêu thị. Các bác có biết hãng nào ok không?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Bin2Dcm"&gt; /u/Bin2Dcm &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pd3c4o/hỏi_về_socola_việt/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pd3c4o/hỏi_về_socola_việt/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pd3c4o/hỏi_về_socola_việt/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-03T12:52:48+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pctkd9</id>
+    <title>Newbie mới tập tành crypto mà khó cash out quá</title>
+    <updated>2025-12-03T03:33:50+00:00</updated>
+    <author>
+      <name>/u/austinn2603</name>
+      <uri>https://old.reddit.com/user/austinn2603</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình có khoảng 30 triệu đồng tiền USDC để trong Binance, hiện mình đang cần rút 5 triệu thì gặp phải vấn đề này:&lt;/p&gt; &lt;p&gt;Thứ nhất, tài khoản mình mới lập, lèo tèo vài giao dịch. Trong khi đó tài khoản của người khác thì toàn mấy nghìn giao dịch, nhìn chuyên nghiệp lắm, nào thì &amp;quot;AutoTrade247&amp;quot;, &amp;quot;Thần Tài Team&amp;quot;, v.v các thứ, có ông còn chạy cả ads nữa. Tài khoản của mình không đủ uy tín, đăng bán cũng chả ai giao dịch.&lt;/p&gt; &lt;p&gt;Thứ hai, lúc nào mình cũng phải canh me check bank để nếu người ta chuyển khoản thì mình release coin cho họ. Nhưng mà mình đi làm bận không trực chờ suốt như vậy được.&lt;/p&gt; &lt;p&gt;May mắn là nhờ có bạn bè người quen mua hộ nên mình cũng bán được rồi. Nhưng nhìn chung thì, mua crypto nhanh tiện thật đấy nhưng đến lúc cần bán thì rất khó. Vàng, đô la mua tốn thời gian hơn nhưng thanh khoản dễ hơn crypto nhiều, thích bán lúc nào và bán ở đâu cũng được. Coi như bài học rút kinh nghiệm lần sau của mình.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/austinn2603"&gt; /u/austinn2603 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pctkd9/newbie_mới_tập_tành_crypto_mà_khó_cash_out_quá/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pctkd9/newbie_mới_tập_tành_crypto_mà_khó_cash_out_quá/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pctkd9/newbie_mới_tập_tành_crypto_mà_khó_cash_out_quá/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-03T03:33:50+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1pcyb3z</id>
     <title>Tỏ tình ở đâu</title>
     <updated>2025-12-03T07:54:01+00:00</updated>
@@ -184,19 +197,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pcyb3z/tỏ_tình_ở_đâu/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-03T07:54:01+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1pcpfdl</id>
-    <title>Kiếm tiền thụ động</title>
-    <updated>2025-12-03T00:24:31+00:00</updated>
-    <author>
-      <name>/u/Interesting_Cash_783</name>
-      <uri>https://old.reddit.com/user/Interesting_Cash_783</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Bất kể là bạn đang làm công việc gì, dù là bạn đang làm thuê hay làm chủ bạn cũng phải nghĩ cách mình có 2 - 3 nguồn thu nhập thì bạn tạm gọi là an toàn trong cuộc sống&lt;/p&gt; &lt;p&gt;Khi có 2 - 3 nguồn thu bạn sẽ an toàn hơn, chẳng may bị mất việc như thời Covid vừa rồi, bạn sẽ khó khăn cỡ nào khi mà bị mất công việc đang làm&lt;/p&gt; &lt;p&gt;Trước khi nghĩ đến nguồn thu thứ 2, thì nguồn thu thứ nhất của bạn phải ổn định trước tiên&lt;/p&gt; &lt;p&gt;Nguồn thu nhập thứ 2, thứ 3 này thường được gọi là &lt;strong&gt;kiếm tiền thụ động&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Có một câu nói rất hay:&lt;/p&gt; &lt;p&gt;Warren Buffett:&amp;quot; Nếu không tìm cách kiếm tiền trong lúc ngủ, bạn sẽ phải làm việc cho đến chết&amp;quot;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Vậy làm sao để tạo dựng nguồn thu nhập thứ 2?&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Bạn có thể tạo cho mình Blog viết bài về kiến thức mà bạn có, kiến thức bạn có bạn nghĩ là bình thường nhưng đối với người không biết đó lại là tri thức có giá trị&lt;/p&gt; &lt;p&gt;Bạn có thể thuê đơn vị thiết kế web nếu bạn có tiền, hoặc bạn muốn tự tay làm cho mình một Blog bạn có thể lên YouTube: hiện tại có rất nhiều người hướng dẫn&lt;/p&gt; &lt;p&gt;Tự làm thì bạn tiết kiệm được rất nhiều tiền và giúp cho bản thân có thêm kiến thức về Content và Marketing&lt;/p&gt; &lt;p&gt;Vậy cách bạn có thể kiếm tiền thông qua Blog như thế nào, bạn có thể làm tiếp thị liên kết cho Tiki, Shopee,... Hoặc bạn có thể nhận quảng cáo. &lt;/p&gt; &lt;p&gt;&lt;strong&gt;Nếu bạn giỏi mà sếp không công nhận hay công ty không công nhận bạn,&lt;/strong&gt; &lt;strong&gt;Blog sẽ là công cụ giúp bạn toả sáng&lt;/strong&gt; &lt;strong&gt;cho thế giới biết bạn là ai?&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Ba mẹ bạn có sản phẩm hoặc đang làm nông có tạo ra hàng nông sản, bạn có thể giúp ba mẹ bằng cách viết những bài viết giới thiệu sản phẩm. Bạn làm giỏi có khi thành CEO đấy!&lt;/p&gt; &lt;p&gt;&lt;strong&gt;2. Bạn có thể làm cho mình một trang web bán hàng hoặc mở cho mình sàn thương mại điện tử&lt;/strong&gt; bán sản phẩm mà bản thân bạn yêu thích.&lt;/p&gt; &lt;p&gt;Cá nhân mình cũng đã thành công trong việc &lt;strong&gt;kiếm tiền thụ động&lt;/strong&gt; lúc ngủ rồi, khách hàng đặt hàng qua trang web lúc 12h tối, và giờ này mình đã đi ngủ, sáng dậy mình chỉ kiểm tra, xác nhận lại đơn hàng và giao cho khách thôi&lt;/p&gt; &lt;p&gt;&lt;strong&gt;3. Đầu tư:&lt;/strong&gt; &lt;/p&gt; &lt;p&gt;Bạn có thể học thêm kiến thức về đầu tư để dùng tiền nhãn rỗi của mình đầu tư&lt;/p&gt; &lt;p&gt;Bạn lưu ý nha, &lt;strong&gt;TIỀN NHÀN RỖI&lt;/strong&gt;, &lt;/p&gt; &lt;p&gt;&lt;strong&gt;Tiền nhàn rỗi&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Là tiền bạn không cần đụng đến trong thời gian dài&lt;/p&gt; &lt;p&gt;Chứ không phải là tiền sinh hoạt&lt;/p&gt; &lt;p&gt;Và mình nói luôn nó không đơn giản, và cần rất nhiều thời gian. Và đừng mong là mình kiếm được tiền nhanh&lt;/p&gt; &lt;p&gt;Bài viết này bạn có thể chỉ đọc vài phút là xong. Nhưng để thực hiện và bạn hiểu được đầu tư là gì &lt;strong&gt;bạn phải kiên trì và tính bằng năm&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Tui không tô hồng mọi thứ như bao người kia đó là: giàu nhanh, chắc chắn&lt;/p&gt; &lt;p&gt;Bạn phải học làm sao mà khi bạn quyết định nhập hàng gì, mua gì để đầu tư là do chính bạn đưa ra quyết định chứ không phải là mua theo sự giới thiệu của chuyên gia nào.&lt;/p&gt; &lt;p&gt;Nôm na là: &lt;strong&gt;bạn phải học cách làm sao để mình tự câu được cá&lt;/strong&gt; chứ &lt;em&gt;không được phụ thuộc vào con cá mà người khác đưa cho&lt;/em&gt;&lt;/p&gt; &lt;p&gt;Bạn muốn tìm hiểu về đầu tư: hãy bắt đầu bằng một quyển sách tìm hiểu về các định nghĩa tài chính, và đầu tư. Ở nhà sách rất nhiều bạn đọc thử và xem quyển nào dễ hiểu mua về đọc&lt;/p&gt; &lt;p&gt;Sách do chính người thành công viết nên khi bạn tiếp cận được tri thức đúng bạn đã thành công trong bước đầu rồi&lt;/p&gt; &lt;p&gt;Bài này nếu mà đi sâu thì có rất nhiều thứ để nói, nhưng mình chỉ giới thiệu cho bạn một cách dễ hiểu nhất gọi là con đường và cho bạn hướng đi&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Bế tắc thật ra do bạn không biết mình sẽ đi đâu và đi đường nào&lt;/strong&gt;. Khi được giới thiệu đường đi rồi bạn chỉ việc chọn con đường mà mình muốn đi&lt;/p&gt; &lt;p&gt;Việc tiếp theo đó là bạn phải cho bản thân mình có thời gian để học, học và học. Rồi làm thử nghiệm không được vội vàng&lt;/p&gt; &lt;p&gt;Bạn có nhiều thời gian mà, không được gấp&lt;/p&gt; &lt;p&gt;Bạn học 16 năm ra đi làm chưa chắc đã kiếm được tiền vậy tại sao nhảy vào cái mới, lại kì vọng kiếm tiền nhanh mà không muốn bỏ mồ hôi công sức vào để tìm hiểu&lt;/p&gt; &lt;p&gt;Bạn đọc bài này xong nghiền ngẫm và chọn cho mình một hướng &lt;strong&gt;kiếm tiền thụ động&lt;/strong&gt; và chuẩn bị tương lai cho mình&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&lt;em&gt;Biến cố sẽ không đáng sợ khi bạn dành thời gian rảnh của mình để chuẩn bị!&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Interesting_Cash_783"&gt; /u/Interesting_Cash_783 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pcpfdl/kiếm_tiền_thụ_động/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pcpfdl/kiếm_tiền_thụ_động/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pcpfdl/kiếm_tiền_thụ_động/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-03T00:24:31+00:00</published>
   </entry>
   <entry>
     <id>t3_1pd683q</id>
@@ -212,17 +212,17 @@
     <published>2025-12-03T14:50:37+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pd6pud</id>
-    <title>mmo</title>
-    <updated>2025-12-03T15:09:19+00:00</updated>
+    <id>t3_1pcpfdl</id>
+    <title>Kiếm tiền thụ động</title>
+    <updated>2025-12-03T00:24:31+00:00</updated>
     <author>
-      <name>/u/Crafty_Law707</name>
-      <uri>https://old.reddit.com/user/Crafty_Law707</uri>
+      <name>/u/Interesting_Cash_783</name>
+      <uri>https://old.reddit.com/user/Interesting_Cash_783</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;t nhận dạy bào km ngày 1m trực tiếp hn dạy từ a đến á . tk nào làm ib t&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Crafty_Law707"&gt; /u/Crafty_Law707 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pd6pud/mmo/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pd6pud/mmo/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pd6pud/mmo/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Bất kể là bạn đang làm công việc gì, dù là bạn đang làm thuê hay làm chủ bạn cũng phải nghĩ cách mình có 2 - 3 nguồn thu nhập thì bạn tạm gọi là an toàn trong cuộc sống&lt;/p&gt; &lt;p&gt;Khi có 2 - 3 nguồn thu bạn sẽ an toàn hơn, chẳng may bị mất việc như thời Covid vừa rồi, bạn sẽ khó khăn cỡ nào khi mà bị mất công việc đang làm&lt;/p&gt; &lt;p&gt;Trước khi nghĩ đến nguồn thu thứ 2, thì nguồn thu thứ nhất của bạn phải ổn định trước tiên&lt;/p&gt; &lt;p&gt;Nguồn thu nhập thứ 2, thứ 3 này thường được gọi là &lt;strong&gt;kiếm tiền thụ động&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Có một câu nói rất hay:&lt;/p&gt; &lt;p&gt;Warren Buffett:&amp;quot; Nếu không tìm cách kiếm tiền trong lúc ngủ, bạn sẽ phải làm việc cho đến chết&amp;quot;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Vậy làm sao để tạo dựng nguồn thu nhập thứ 2?&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Bạn có thể tạo cho mình Blog viết bài về kiến thức mà bạn có, kiến thức bạn có bạn nghĩ là bình thường nhưng đối với người không biết đó lại là tri thức có giá trị&lt;/p&gt; &lt;p&gt;Bạn có thể thuê đơn vị thiết kế web nếu bạn có tiền, hoặc bạn muốn tự tay làm cho mình một Blog bạn có thể lên YouTube: hiện tại có rất nhiều người hướng dẫn&lt;/p&gt; &lt;p&gt;Tự làm thì bạn tiết kiệm được rất nhiều tiền và giúp cho bản thân có thêm kiến thức về Content và Marketing&lt;/p&gt; &lt;p&gt;Vậy cách bạn có thể kiếm tiền thông qua Blog như thế nào, bạn có thể làm tiếp thị liên kết cho Tiki, Shopee,... Hoặc bạn có thể nhận quảng cáo. &lt;/p&gt; &lt;p&gt;&lt;strong&gt;Nếu bạn giỏi mà sếp không công nhận hay công ty không công nhận bạn,&lt;/strong&gt; &lt;strong&gt;Blog sẽ là công cụ giúp bạn toả sáng&lt;/strong&gt; &lt;strong&gt;cho thế giới biết bạn là ai?&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Ba mẹ bạn có sản phẩm hoặc đang làm nông có tạo ra hàng nông sản, bạn có thể giúp ba mẹ bằng cách viết những bài viết giới thiệu sản phẩm. Bạn làm giỏi có khi thành CEO đấy!&lt;/p&gt; &lt;p&gt;&lt;strong&gt;2. Bạn có thể làm cho mình một trang web bán hàng hoặc mở cho mình sàn thương mại điện tử&lt;/strong&gt; bán sản phẩm mà bản thân bạn yêu thích.&lt;/p&gt; &lt;p&gt;Cá nhân mình cũng đã thành công trong việc &lt;strong&gt;kiếm tiền thụ động&lt;/strong&gt; lúc ngủ rồi, khách hàng đặt hàng qua trang web lúc 12h tối, và giờ này mình đã đi ngủ, sáng dậy mình chỉ kiểm tra, xác nhận lại đơn hàng và giao cho khách thôi&lt;/p&gt; &lt;p&gt;&lt;strong&gt;3. Đầu tư:&lt;/strong&gt; &lt;/p&gt; &lt;p&gt;Bạn có thể học thêm kiến thức về đầu tư để dùng tiền nhãn rỗi của mình đầu tư&lt;/p&gt; &lt;p&gt;Bạn lưu ý nha, &lt;strong&gt;TIỀN NHÀN RỖI&lt;/strong&gt;, &lt;/p&gt; &lt;p&gt;&lt;strong&gt;Tiền nhàn rỗi&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Là tiền bạn không cần đụng đến trong thời gian dài&lt;/p&gt; &lt;p&gt;Chứ không phải là tiền sinh hoạt&lt;/p&gt; &lt;p&gt;Và mình nói luôn nó không đơn giản, và cần rất nhiều thời gian. Và đừng mong là mình kiếm được tiền nhanh&lt;/p&gt; &lt;p&gt;Bài viết này bạn có thể chỉ đọc vài phút là xong. Nhưng để thực hiện và bạn hiểu được đầu tư là gì &lt;strong&gt;bạn phải kiên trì và tính bằng năm&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Tui không tô hồng mọi thứ như bao người kia đó là: giàu nhanh, chắc chắn&lt;/p&gt; &lt;p&gt;Bạn phải học làm sao mà khi bạn quyết định nhập hàng gì, mua gì để đầu tư là do chính bạn đưa ra quyết định chứ không phải là mua theo sự giới thiệu của chuyên gia nào.&lt;/p&gt; &lt;p&gt;Nôm na là: &lt;strong&gt;bạn phải học cách làm sao để mình tự câu được cá&lt;/strong&gt; chứ &lt;em&gt;không được phụ thuộc vào con cá mà người khác đưa cho&lt;/em&gt;&lt;/p&gt; &lt;p&gt;Bạn muốn tìm hiểu về đầu tư: hãy bắt đầu bằng một quyển sách tìm hiểu về các định nghĩa tài chính, và đầu tư. Ở nhà sách rất nhiều bạn đọc thử và xem quyển nào dễ hiểu mua về đọc&lt;/p&gt; &lt;p&gt;Sách do chính người thành công viết nên khi bạn tiếp cận được tri thức đúng bạn đã thành công trong bước đầu rồi&lt;/p&gt; &lt;p&gt;Bài này nếu mà đi sâu thì có rất nhiều thứ để nói, nhưng mình chỉ giới thiệu cho bạn một cách dễ hiểu nhất gọi là con đường và cho bạn hướng đi&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Bế tắc thật ra do bạn không biết mình sẽ đi đâu và đi đường nào&lt;/strong&gt;. Khi được giới thiệu đường đi rồi bạn chỉ việc chọn con đường mà mình muốn đi&lt;/p&gt; &lt;p&gt;Việc tiếp theo đó là bạn phải cho bản thân mình có thời gian để học, học và học. Rồi làm thử nghiệm không được vội vàng&lt;/p&gt; &lt;p&gt;Bạn có nhiều thời gian mà, không được gấp&lt;/p&gt; &lt;p&gt;Bạn học 16 năm ra đi làm chưa chắc đã kiếm được tiền vậy tại sao nhảy vào cái mới, lại kì vọng kiếm tiền nhanh mà không muốn bỏ mồ hôi công sức vào để tìm hiểu&lt;/p&gt; &lt;p&gt;Bạn đọc bài này xong nghiền ngẫm và chọn cho mình một hướng &lt;strong&gt;kiếm tiền thụ động&lt;/strong&gt; và chuẩn bị tương lai cho mình&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&lt;em&gt;Biến cố sẽ không đáng sợ khi bạn dành thời gian rảnh của mình để chuẩn bị!&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Interesting_Cash_783"&gt; /u/Interesting_Cash_783 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pcpfdl/kiếm_tiền_thụ_động/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pcpfdl/kiếm_tiền_thụ_động/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pcpfdl/kiếm_tiền_thụ_động/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-03T15:09:19+00:00</published>
+    <published>2025-12-03T00:24:31+00:00</published>
   </entry>
   <entry>
     <id>t3_1pcs3vn</id>
