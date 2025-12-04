@@ -2,37 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-12-04T09:23:50+00:00</updated>
+  <updated>2025-12-04T09:45:23+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1pdq778</id>
-    <title>ChatGpt Teacher K-12</title>
-    <updated>2025-12-04T04:06:43+00:00</updated>
-    <author>
-      <name>/u/Evening_Lie_499</name>
-      <uri>https://old.reddit.com/user/Evening_Lie_499</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Verified as a K-12 teacher on ChatGPT!&lt;/p&gt; &lt;p&gt;The ChatGPT for Teachers plan is free until June 2027&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Evening_Lie_499"&gt; /u/Evening_Lie_499 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pdq778/chatgpt_teacher_k12/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pdq778/chatgpt_teacher_k12/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pdq778/chatgpt_teacher_k12/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-04T04:06:43+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1pdly70</id>
-    <title>Thưởng cuối năm</title>
-    <updated>2025-12-04T00:48:49+00:00</updated>
-    <author>
-      <name>/u/Tvomt</name>
-      <uri>https://old.reddit.com/user/Tvomt</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Liệu hết tháng 12 này nghỉ thì có được lương tháng 13 không mn?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Tvomt"&gt; /u/Tvomt &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pdly70/thưởng_cuối_năm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pdly70/thưởng_cuối_năm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pdly70/thưởng_cuối_năm/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-04T00:48:49+00:00</published>
-  </entry>
   <entry>
     <id>t3_1pdqrt5</id>
     <title>Nhờ cộng đồng tư vấn</title>
@@ -112,6 +86,19 @@
     <published>2025-12-04T06:38:08+00:00</published>
   </entry>
   <entry>
+    <id>t3_1pdly70</id>
+    <title>Thưởng cuối năm</title>
+    <updated>2025-12-04T00:48:49+00:00</updated>
+    <author>
+      <name>/u/Tvomt</name>
+      <uri>https://old.reddit.com/user/Tvomt</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Liệu hết tháng 12 này nghỉ thì có được lương tháng 13 không mn?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Tvomt"&gt; /u/Tvomt &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pdly70/thưởng_cuối_năm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pdly70/thưởng_cuối_năm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pdly70/thưởng_cuối_năm/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-04T00:48:49+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1pcx998</id>
     <title>Điều gì khiến văn hóa không gian mạng của người dùng Việt Nam kém đến thế?</title>
     <updated>2025-12-03T06:49:15+00:00</updated>
@@ -162,6 +149,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pdvjpe/coder_xoá_chương_trình_công_ty/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-04T09:17:47+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pdvwtg</id>
+    <title>Ra đời luôn có những con người thảm hại chực chờ để ăn cắp tiền của bạn</title>
+    <updated>2025-12-04T09:41:59+00:00</updated>
+    <author>
+      <name>/u/AdministrativeArm955</name>
+      <uri>https://old.reddit.com/user/AdministrativeArm955</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Ra đời thì bạn sẽ nhận ra luôn có những con người thảm hại chực chờ để ăn cắp tiền của bạn, làm bạn thấy tồi tệ, bóc lột thể xác và tinh thần của bạn, họ chẳng bao giờ thấy hối hận hay khó ngủ khi làm những điều đó, họ không có một sự đồng cảm hay cảm xúc nào cho những người xung quanh ngoài chính bản thân họ. Dù có nhân quả hay không thì bạn vẫn là người bị thiệt hại và tổn thương, dù họ là bất cứ ai, họ có từng là người tốt, thân thiết hay gì thì mình cũng phải cảnh giác và thận trọng, để giữ được sự bình an cho bản thân.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/AdministrativeArm955"&gt; /u/AdministrativeArm955 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pdvwtg/ra_đời_luôn_có_những_con_người_thảm_hại_chực_chờ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pdvwtg/ra_đời_luôn_có_những_con_người_thảm_hại_chực_chờ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pdvwtg/ra_đời_luôn_có_những_con_người_thảm_hại_chực_chờ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-04T09:41:59+00:00</published>
   </entry>
   <entry>
     <id>t3_1pdqeaf</id>
@@ -236,7 +236,7 @@
       <name>/u/GreenSky1290</name>
       <uri>https://old.reddit.com/user/GreenSky1290</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Khi nói: &amp;quot;tôi cảm nhận có sự xa cách trong mối quan hệ, tôi nghĩ chúng mình cần chia sẻ về đời sống, cảm xúc, suy nghĩ nhiều hơn&amp;quot;. Mọi người đang diễn giải yêu cầu này có nghĩa là gì? Mọi người cảm thấy gì khi đây là yêu cầu của người yêu? Mong mọi người thẳng thắn.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/GreenSky1290"&gt; /u/GreenSky1290 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pdvju2/xin_ý_kiến_đánh_giá/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pdvju2/xin_ý_kiến_đánh_giá/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Khi nói: &amp;quot;tôi cảm nhận có sự xa cách trong mối quan hệ, tôi nghĩ chúng mình cần chia sẻ về đời sống, cảm xúc, suy nghĩ nhiều hơn&amp;quot;. Mọi người đang diễn giải yêu cầu này có nghĩa là gì? Mọi người nhận ra cảm xúc gì nổi lên trong bản thân khi đây là yêu cầu từ người yêu của chính mình? Mong mọi người thẳng thắn.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/GreenSky1290"&gt; /u/GreenSky1290 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pdvju2/xin_ý_kiến_đánh_giá/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pdvju2/xin_ý_kiến_đánh_giá/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
     <link href="https://old.reddit.com/r/vozforums/comments/1pdvju2/xin_ý_kiến_đánh_giá/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-04T09:18:03+00:00</published>
