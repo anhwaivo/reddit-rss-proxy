@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-12-04T23:18:43+00:00</updated>
+  <updated>2025-12-04T23:39:20+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1pe1kp0</id>
-    <title>Rạp chiếu phim tốt nhất ở Hà Nội ?</title>
-    <updated>2025-12-04T14:35:59+00:00</updated>
-    <author>
-      <name>/u/Duong-Kali</name>
-      <uri>https://old.reddit.com/user/Duong-Kali</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Sắp tới có Avatar 3, mình tính đi xem, chơi hẳn xem 3D mà chưa biết xem ở đâu tốt nhất. Mình từng xem ở rạp Mipec Long Biên nhưng ghế rạp cảm giác hơi cứng ngồi lâu dễ oải quá. Quanh Hà Nội có rạp nào xem ổn nhất thì mn tư vấn cho mình với &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Duong-Kali"&gt; /u/Duong-Kali &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pe1kp0/rạp_chiếu_phim_tốt_nhất_ở_hà_nội/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pe1kp0/rạp_chiếu_phim_tốt_nhất_ở_hà_nội/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pe1kp0/rạp_chiếu_phim_tốt_nhất_ở_hà_nội/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-04T14:35:59+00:00</published>
-  </entry>
   <entry>
     <id>t3_1pe2aee</id>
     <title>Cách để cảm ơn?</title>
@@ -203,6 +190,19 @@
     <published>2025-12-04T19:27:03+00:00</published>
   </entry>
   <entry>
+    <id>t3_1pefi32</id>
+    <title>Tư vấn mua Macbook 14” cho lập trình</title>
+    <updated>2025-12-04T23:36:08+00:00</updated>
+    <author>
+      <name>/u/jkerdog</name>
+      <uri>https://old.reddit.com/user/jkerdog</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình đang tính chuyển qua dùng macbook để trải nghiệm và mang đi mang lại được, công việc chính là dev BE sau chuyển dần sang devops đang tính mua mac pro M1 pro bản 32GB 1TB SSD giá đáng thấy trào là 27.5tr pin 100% có ổn không mọi người. Cũng tính lên M2 pro nhưng thấy bảo ssd &amp;lt; 512 bị hạn chế đọc ghi so với M1 và m cũng ít có hàng trên chợ với bản 32GB. Ai có kinh nghiệm mua máy cũ qua sử dụng cho m xin kinh nghiệm ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/jkerdog"&gt; /u/jkerdog &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pefi32/tư_vấn_mua_macbook_14_cho_lập_trình/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pefi32/tư_vấn_mua_macbook_14_cho_lập_trình/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pefi32/tư_vấn_mua_macbook_14_cho_lập_trình/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-04T23:36:08+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1pdv7t2</id>
     <title>Xem phim The Company Men</title>
     <updated>2025-12-04T08:56:05+00:00</updated>
@@ -242,19 +242,6 @@
     <published>2025-12-04T19:17:19+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pdz4k8</id>
-    <title>Tại sao các hành vi đạo đức giả thường xuất hiện ở những người trẻ.</title>
-    <updated>2025-12-04T12:47:12+00:00</updated>
-    <author>
-      <name>/u/Chunghiacanhanvidai</name>
-      <uri>https://old.reddit.com/user/Chunghiacanhanvidai</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tại sao các hành vi đạo đức giả thường xuất hiện ở những người dưới 20 tuổi.&lt;/p&gt; &lt;p&gt;Các hành vi thể hiện đạo đức giả chẳng hạn như là phán xét đạo đức người khác một cách cực đoan và thậm tệ chỉ vì trang Facebook riêng của người này thường xuyên chia sẻ ảnh người mẫu nữ sexy.&lt;/p&gt; &lt;p&gt;Kêu gọi tập thể tẩy chay và cô lập một người nào đó đến mức cực đoan chỉ vì người này kém kỹ năng giao tiếp, ngoại hình không đạt chuẩn soái ca, mỹ nữ và thậm chí chỉ vì người này ko chi tiêu hào phóng với tập thể.&lt;/p&gt; &lt;p&gt;Gọi người khác là ở dơ không chịu gội đầu.................... ... trong khi..... thực tế thì người này bị viêm da đầu tiết bã tới mức mà người này phải cạo trọc đầu.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Chunghiacanhanvidai"&gt; /u/Chunghiacanhanvidai &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pdz4k8/tại_sao_các_hành_vi_đạo_đức_giả_thường_xuất_hiện/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pdz4k8/tại_sao_các_hành_vi_đạo_đức_giả_thường_xuất_hiện/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pdz4k8/tại_sao_các_hành_vi_đạo_đức_giả_thường_xuất_hiện/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-04T12:47:12+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1pdw0uz</id>
     <title>kiểu tóc có quan trọng ?</title>
     <updated>2025-12-04T09:49:26+00:00</updated>
@@ -266,6 +253,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pdw0uz/kiểu_tóc_có_quan_trọng/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-04T09:49:26+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pdz4k8</id>
+    <title>Tại sao các hành vi đạo đức giả thường xuất hiện ở những người trẻ.</title>
+    <updated>2025-12-04T12:47:12+00:00</updated>
+    <author>
+      <name>/u/Chunghiacanhanvidai</name>
+      <uri>https://old.reddit.com/user/Chunghiacanhanvidai</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tại sao các hành vi đạo đức giả thường xuất hiện ở những người dưới 20 tuổi.&lt;/p&gt; &lt;p&gt;Các hành vi thể hiện đạo đức giả chẳng hạn như là phán xét đạo đức người khác một cách cực đoan và thậm tệ chỉ vì trang Facebook riêng của người này thường xuyên chia sẻ ảnh người mẫu nữ sexy.&lt;/p&gt; &lt;p&gt;Kêu gọi tập thể tẩy chay và cô lập một người nào đó đến mức cực đoan chỉ vì người này kém kỹ năng giao tiếp, ngoại hình không đạt chuẩn soái ca, mỹ nữ và thậm chí chỉ vì người này ko chi tiêu hào phóng với tập thể.&lt;/p&gt; &lt;p&gt;Gọi người khác là ở dơ không chịu gội đầu.................... ... trong khi..... thực tế thì người này bị viêm da đầu tiết bã tới mức mà người này phải cạo trọc đầu.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Chunghiacanhanvidai"&gt; /u/Chunghiacanhanvidai &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pdz4k8/tại_sao_các_hành_vi_đạo_đức_giả_thường_xuất_hiện/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pdz4k8/tại_sao_các_hành_vi_đạo_đức_giả_thường_xuất_hiện/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pdz4k8/tại_sao_các_hành_vi_đạo_đức_giả_thường_xuất_hiện/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-04T12:47:12+00:00</published>
   </entry>
   <entry>
     <id>t3_1pdvwtg</id>
