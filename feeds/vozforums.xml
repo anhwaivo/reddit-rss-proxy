@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-12-06T21:16:13+00:00</updated>
+  <updated>2025-12-06T21:37:20+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -268,19 +268,6 @@
     <published>2025-12-06T07:55:33+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pfo563</id>
-    <title>Tư vấn - Đèn đỏ hay đèn xanh?</title>
-    <updated>2025-12-06T12:27:25+00:00</updated>
-    <author>
-      <name>/u/JustANormalDev</name>
-      <uri>https://old.reddit.com/user/JustANormalDev</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là có một chị gái trong công ty em đang để ý.&lt;br /&gt; Nên em có gợi chuyện để xem chị ý có đang available và có đang có ý bật đèn xanh cho em không. Nhưng lại gặp câu trl như đoạn dưới, với trình độ của em thì em đang không hiểu ý của chị ấy lắm.&lt;br /&gt; Em không muốn push mạnh hơn vì là đồng nghiệp. Mấy ac tư vấn giúp em với ạ. &lt;/p&gt; &lt;p&gt;Em thì hiểu đây là cách chị ấy từ chối khéo. Haizz&lt;/p&gt; &lt;p&gt;Trích đoạn chat khi nói về chuyện các anh trong team đang gán ghép em với chị ấy. &lt;/p&gt; &lt;p&gt;&lt;strong&gt;Em:&lt;/strong&gt;&lt;br /&gt; “chị thả bom thế này chết em rồi&lt;br /&gt; mấy anh kia trêu ác” &lt;/p&gt; &lt;p&gt;&amp;lt;Ảnh đính kèm] [&amp;quot;nhờ anh nhắn &amp;lt;Tên em&amp;gt;, ngại là mất lượt đấy =))” [Cái này là 1 anh trong team screenshot gửi cho em, em gửi lại cho chị ý ]&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Chị đồng nghiệp:&lt;/strong&gt;&lt;br /&gt; “ơ ơ ơ sao mà chết được =))”&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Em:&lt;/strong&gt;&lt;br /&gt; “Chắc mấy anh sợ em mất lượt =)))”&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Chị đồng nghiệp:&lt;/strong&gt;&lt;br /&gt; “=))))&lt;br /&gt; mấy anh cũng đều muốn tốt cho chị em mình thôi :v”&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Em:&lt;/strong&gt;&lt;br /&gt; “Thế em có nên nghe lời các anh không chị 👀”&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Chị đồng nghiệp:&lt;/strong&gt;&lt;br /&gt; “sao em lại hỏi chị :v”&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Em:&lt;/strong&gt;&lt;br /&gt; “Ờ, muốn xếp hàng thì phải hỏi chủ shop có mở cửa không chớ chị 😆”&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Chị đồng nghiệp:&lt;/strong&gt;&lt;br /&gt; “Ơ bình thường chị thấy shop chưa mở cửa đã có khách tớp camp hàng mà :vv”&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/JustANormalDev"&gt; /u/JustANormalDev &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pfo563/tư_vấn_đèn_đỏ_hay_đèn_xanh/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pfo563/tư_vấn_đèn_đỏ_hay_đèn_xanh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pfo563/tư_vấn_đèn_đỏ_hay_đèn_xanh/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-06T12:27:25+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1pfdp6k</id>
     <title>Linh tinh</title>
     <updated>2025-12-06T02:15:58+00:00</updated>
@@ -292,6 +279,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pfdp6k/linh_tinh/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-06T02:15:58+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pfo563</id>
+    <title>Tư vấn - Đèn đỏ hay đèn xanh?</title>
+    <updated>2025-12-06T12:27:25+00:00</updated>
+    <author>
+      <name>/u/JustANormalDev</name>
+      <uri>https://old.reddit.com/user/JustANormalDev</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là có một chị gái trong công ty em đang để ý.&lt;br /&gt; Nên em có gợi chuyện để xem chị ý có đang available và có đang có ý bật đèn xanh cho em không. Nhưng lại gặp câu trl như đoạn dưới, với trình độ của em thì em đang không hiểu ý của chị ấy lắm.&lt;br /&gt; Em không muốn push mạnh hơn vì là đồng nghiệp. Mấy ac tư vấn giúp em với ạ. &lt;/p&gt; &lt;p&gt;Em thì hiểu đây là cách chị ấy từ chối khéo. Haizz&lt;/p&gt; &lt;p&gt;Trích đoạn chat khi nói về chuyện các anh trong team đang gán ghép em với chị ấy. &lt;/p&gt; &lt;p&gt;&lt;strong&gt;Em:&lt;/strong&gt;&lt;br /&gt; “chị thả bom thế này chết em rồi&lt;br /&gt; mấy anh kia trêu ác” &lt;/p&gt; &lt;p&gt;&amp;lt;Ảnh đính kèm] [&amp;quot;nhờ anh nhắn &amp;lt;Tên em&amp;gt;, ngại là mất lượt đấy =))” [Cái này là 1 anh trong team screenshot gửi cho em, em gửi lại cho chị ý ]&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Chị đồng nghiệp:&lt;/strong&gt;&lt;br /&gt; “ơ ơ ơ sao mà chết được =))”&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Em:&lt;/strong&gt;&lt;br /&gt; “Chắc mấy anh sợ em mất lượt =)))”&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Chị đồng nghiệp:&lt;/strong&gt;&lt;br /&gt; “=))))&lt;br /&gt; mấy anh cũng đều muốn tốt cho chị em mình thôi :v”&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Em:&lt;/strong&gt;&lt;br /&gt; “Thế em có nên nghe lời các anh không chị 👀”&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Chị đồng nghiệp:&lt;/strong&gt;&lt;br /&gt; “sao em lại hỏi chị :v”&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Em:&lt;/strong&gt;&lt;br /&gt; “Ờ, muốn xếp hàng thì phải hỏi chủ shop có mở cửa không chớ chị 😆”&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Chị đồng nghiệp:&lt;/strong&gt;&lt;br /&gt; “Ơ bình thường chị thấy shop chưa mở cửa đã có khách tớp camp hàng mà :vv”&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/JustANormalDev"&gt; /u/JustANormalDev &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pfo563/tư_vấn_đèn_đỏ_hay_đèn_xanh/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pfo563/tư_vấn_đèn_đỏ_hay_đèn_xanh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pfo563/tư_vấn_đèn_đỏ_hay_đèn_xanh/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-06T12:27:25+00:00</published>
   </entry>
   <entry>
     <id>t3_1pfe1qs</id>
