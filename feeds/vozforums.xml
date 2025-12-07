@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-12-07T20:19:49+00:00</updated>
+  <updated>2025-12-07T20:40:20+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -99,19 +99,6 @@
     <published>2025-12-07T06:51:46+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pgnby8</id>
-    <title>Tìm Hiểu Về Ngành Data Analysis</title>
-    <updated>2025-12-07T17:00:27+00:00</updated>
-    <author>
-      <name>/u/Character_Rope7383</name>
-      <uri>https://old.reddit.com/user/Character_Rope7383</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1pgnby8/tìm_hiểu_về_ngành_data_analysis/"&gt; &lt;img alt="Tìm Hiểu Về Ngành Data Analysis" src="https://preview.redd.it/4emfzzmact5g1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=e8f8baaa0de51db0e6eb5c4152a4f2abc8e1af83" title="Tìm Hiểu Về Ngành Data Analysis" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình thấy ngành này khá là thú vị. Ai đã và đang làm ngành này cho xin review với ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Character_Rope7383"&gt; /u/Character_Rope7383 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/4emfzzmact5g1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pgnby8/tìm_hiểu_về_ngành_data_analysis/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pgnby8/tìm_hiểu_về_ngành_data_analysis/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-07T17:00:27+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1pft4ez</id>
     <title>Giờ đến chotot cũng có người Tây gốc Cam luôn mng ạ</title>
     <updated>2025-12-06T16:20:31+00:00</updated>
@@ -177,6 +164,19 @@
     <published>2025-12-07T19:23:19+00:00</published>
   </entry>
   <entry>
+    <id>t3_1pgnby8</id>
+    <title>Tìm Hiểu Về Ngành Data Analysis</title>
+    <updated>2025-12-07T17:00:27+00:00</updated>
+    <author>
+      <name>/u/Character_Rope7383</name>
+      <uri>https://old.reddit.com/user/Character_Rope7383</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1pgnby8/tìm_hiểu_về_ngành_data_analysis/"&gt; &lt;img alt="Tìm Hiểu Về Ngành Data Analysis" src="https://preview.redd.it/4emfzzmact5g1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=e8f8baaa0de51db0e6eb5c4152a4f2abc8e1af83" title="Tìm Hiểu Về Ngành Data Analysis" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình thấy ngành này khá là thú vị. Ai đã và đang làm ngành này cho xin review với ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Character_Rope7383"&gt; /u/Character_Rope7383 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/4emfzzmact5g1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pgnby8/tìm_hiểu_về_ngành_data_analysis/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pgnby8/tìm_hiểu_về_ngành_data_analysis/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-07T17:00:27+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1pgbuju</id>
     <title>Trong thời gian thử việc thấy dấu hiệu nào thì nên chạy mn nhỉ</title>
     <updated>2025-12-07T06:51:38+00:00</updated>
@@ -201,19 +201,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pgo23w/em_18_tuổi_tháng_thu_nhập_7tr_từ_đi_làm_và_bố_mẹ/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-07T17:29:14+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1pgonnk</id>
-    <title>Tiêu chuẩn con gái</title>
-    <updated>2025-12-07T17:53:06+00:00</updated>
-    <author>
-      <name>/u/Nice_Passenger9446</name>
-      <uri>https://old.reddit.com/user/Nice_Passenger9446</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác, em là M, em có ngoại hình bình thường, hơi lùn (1m68), ko béo cx ko gầy, biết chăm sóc bản thân, làm 3 cviec 1 lúc nên khá là kh có time ( 24t). Tiêu chí chọn ny của em là k quan trọng nhan sắc nma p gầy (k đến mức body đẹp nhưng nhìn trắng trẻo) thì có bị coi là kén chọn ko ạ &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Nice_Passenger9446"&gt; /u/Nice_Passenger9446 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pgonnk/tiêu_chuẩn_con_gái/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pgonnk/tiêu_chuẩn_con_gái/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pgonnk/tiêu_chuẩn_con_gái/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-07T17:53:06+00:00</published>
   </entry>
   <entry>
     <id>t3_1pgb3pn</id>
@@ -255,6 +242,19 @@
     <published>2025-12-07T03:16:49+00:00</published>
   </entry>
   <entry>
+    <id>t3_1pgonnk</id>
+    <title>Tiêu chuẩn con gái</title>
+    <updated>2025-12-07T17:53:06+00:00</updated>
+    <author>
+      <name>/u/Nice_Passenger9446</name>
+      <uri>https://old.reddit.com/user/Nice_Passenger9446</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác, em là M, em có ngoại hình bình thường, hơi lùn (1m68), ko béo cx ko gầy, biết chăm sóc bản thân, làm 3 cviec 1 lúc nên khá là kh có time ( 24t). Tiêu chí chọn ny của em là k quan trọng nhan sắc nma p gầy (k đến mức body đẹp nhưng nhìn trắng trẻo) thì có bị coi là kén chọn ko ạ &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Nice_Passenger9446"&gt; /u/Nice_Passenger9446 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pgonnk/tiêu_chuẩn_con_gái/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pgonnk/tiêu_chuẩn_con_gái/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pgonnk/tiêu_chuẩn_con_gái/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-07T17:53:06+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1pgibjp</id>
     <title>Xin lời khuyên để cải thiện tình trạng buồn ngủ ban ngày</title>
     <updated>2025-12-07T13:26:09+00:00</updated>
@@ -268,19 +268,6 @@
     <published>2025-12-07T13:26:09+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pghaba</id>
-    <title>Tổng kết 2025</title>
-    <updated>2025-12-07T12:32:41+00:00</updated>
-    <author>
-      <name>/u/nghxson</name>
-      <uri>https://old.reddit.com/user/nghxson</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Năm 2025 sắp hết rồi, nhìn lại hành trình vừa qua chắc hẳn mỗi người trong cta đều có niềm tự hào riêng và cả những điều chưa kịp hoàn thành. Mình muốn hỏi mọi ng một chút: đâu là thành tựu khiến bạn cảm thấy xứng đáng với nỗ lực của mình trong năm nay? Ngược lại, vấp ngã hay thất bại nào khiến bạn ghi nhớ và học đc nhiều nhất? Hãy chia sẻ để chúng ta cùng nhìn lại, cùng trưởng thành và truyền cảm hứng cho nhau trong chặng đường tiếp theo.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/nghxson"&gt; /u/nghxson &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pghaba/tổng_kết_2025/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pghaba/tổng_kết_2025/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pghaba/tổng_kết_2025/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-07T12:32:41+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1pglp44</id>
     <title>Bạn bè</title>
     <updated>2025-12-07T15:54:08+00:00</updated>
@@ -292,6 +279,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pglp44/bạn_bè/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-07T15:54:08+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pghaba</id>
+    <title>Tổng kết 2025</title>
+    <updated>2025-12-07T12:32:41+00:00</updated>
+    <author>
+      <name>/u/nghxson</name>
+      <uri>https://old.reddit.com/user/nghxson</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Năm 2025 sắp hết rồi, nhìn lại hành trình vừa qua chắc hẳn mỗi người trong cta đều có niềm tự hào riêng và cả những điều chưa kịp hoàn thành. Mình muốn hỏi mọi ng một chút: đâu là thành tựu khiến bạn cảm thấy xứng đáng với nỗ lực của mình trong năm nay? Ngược lại, vấp ngã hay thất bại nào khiến bạn ghi nhớ và học đc nhiều nhất? Hãy chia sẻ để chúng ta cùng nhìn lại, cùng trưởng thành và truyền cảm hứng cho nhau trong chặng đường tiếp theo.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/nghxson"&gt; /u/nghxson &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pghaba/tổng_kết_2025/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pghaba/tổng_kết_2025/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pghaba/tổng_kết_2025/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-07T12:32:41+00:00</published>
   </entry>
   <entry>
     <id>t3_1pgfjft</id>
