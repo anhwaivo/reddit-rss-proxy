@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-12-07T11:27:34+00:00</updated>
+  <updated>2025-12-07T11:38:57+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -138,6 +138,19 @@
     <published>2025-12-07T04:42:34+00:00</published>
   </entry>
   <entry>
+    <id>t3_1pgfgsj</id>
+    <title>1.1.1.1 bị lỗi</title>
+    <updated>2025-12-07T10:42:12+00:00</updated>
+    <author>
+      <name>/u/Vegetable-Rule-7345</name>
+      <uri>https://old.reddit.com/user/Vegetable-Rule-7345</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1pgfgsj/1111_bị_lỗi/"&gt; &lt;img alt="1.1.1.1 bị lỗi" src="https://preview.redd.it/xspptk8tgr5g1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=49e5c827dbd94b72bcb25029a5887b573b24c7d2" title="1.1.1.1 bị lỗi" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hello các bác, mình bị lỗi không kết nối được.Hôm qua thì mình vẫn còn dùng được nhưng đến chiều hôm nay bị lỗi không dùng được. Mình đã thử xoá đi tải lại, tắt nguồn điện thoại vẫn không được, làm theo hướng dẫn trong hình thì không thấy mục preferences để sửa. Bác nào biết cách khắc phục thì giúp mình với.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Vegetable-Rule-7345"&gt; /u/Vegetable-Rule-7345 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/xspptk8tgr5g1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pgfgsj/1111_bị_lỗi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pgfgsj/1111_bị_lỗi/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-07T10:42:12+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1pg3kqi</id>
     <title>Mông lông hướng đi tiếp theo.</title>
     <updated>2025-12-06T23:43:43+00:00</updated>
@@ -214,19 +227,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pgbw2x/từ_thiện_qua_drama_nuoi_em_bị_tố/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-07T06:53:58+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1pgfgsj</id>
-    <title>1.1.1.1 bị lỗi</title>
-    <updated>2025-12-07T10:42:12+00:00</updated>
-    <author>
-      <name>/u/Vegetable-Rule-7345</name>
-      <uri>https://old.reddit.com/user/Vegetable-Rule-7345</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1pgfgsj/1111_bị_lỗi/"&gt; &lt;img alt="1.1.1.1 bị lỗi" src="https://preview.redd.it/xspptk8tgr5g1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=49e5c827dbd94b72bcb25029a5887b573b24c7d2" title="1.1.1.1 bị lỗi" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hello các bác, mình bị lỗi không kết nối được.Hôm qua thì mình vẫn còn dùng được nhưng đến chiều hôm nay bị lỗi không dùng được. Mình đã thử xoá đi tải lại, tắt nguồn điện thoại vẫn không được, làm theo hướng dẫn trong hình thì không thấy mục preferences để sửa. Bác nào biết cách khắc phục thì giúp mình với.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Vegetable-Rule-7345"&gt; /u/Vegetable-Rule-7345 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/xspptk8tgr5g1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pgfgsj/1111_bị_lỗi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pgfgsj/1111_bị_lỗi/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-07T10:42:12+00:00</published>
   </entry>
   <entry>
     <id>t3_1pft4ez</id>
