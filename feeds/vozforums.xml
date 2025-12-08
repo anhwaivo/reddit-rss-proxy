@@ -2,37 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-12-08T13:23:25+00:00</updated>
+  <updated>2025-12-08T13:51:25+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1ph92m5</id>
-    <title>Xe máy hay xe điện</title>
-    <updated>2025-12-08T10:28:00+00:00</updated>
-    <author>
-      <name>/u/Noname2025i</name>
-      <uri>https://old.reddit.com/user/Noname2025i</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mọi người ơi nhà em đang phân vân không biết mua xe máy hay xe điện. Nhà em cũng dự định đợt vừa rồi sẽ mua xe mới nhưng lại nghe tin HN sẽ cấm xe máy 🥲. Cũng dự mua cho mẹ em để đi lại linh tinh và đi làm. Tại do ngày xưa có dùng xe điện 1 lần và hay hỏng nên nhà em mới lo lắng không biết nếu mua xe điện thì có bền không, vì giờ nếu mua vf thì cũng không phải rẻ. Nếu chỉ để đi lại xung quanh nhà thì xe máy có thể vẫn ổn vì vùng đấy nhà em chưa bị cấm xe máy, phải đi thêm 4,5km nữa mới tới mạn HBT hay VĐ3, mng giúp em với ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Noname2025i"&gt; /u/Noname2025i &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ph92m5/xe_máy_hay_xe_điện/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ph92m5/xe_máy_hay_xe_điện/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ph92m5/xe_máy_hay_xe_điện/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-08T10:28:00+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1ph9jgs</id>
-    <title>Tính năng cần thiết cho extension tra cứu tiếng Nhật</title>
-    <updated>2025-12-08T10:56:57+00:00</updated>
-    <author>
-      <name>/u/nil_404</name>
-      <uri>https://old.reddit.com/user/nil_404</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Xin phép admin ạ,&lt;/p&gt; &lt;p&gt;Mình có phát triển 1 extension đơn giản trên trình duyệt để tra cứu nhanh Kanji tiếng Nhật bằng cách bôi đen văn bản, mình thấy cũng có một vài bên (Mazii, Từ điển JP) đã phát triển phiên bản đầy đủ hơn, tra được cả từ vựng, dịch nghĩa, vàvà cả OCR, mình thì mới chỉ tập trung được phần Kanji vì thực ra mình không kiếm được dữ liệu cho từ vựng đầy đủ, Kanji cũng là mình crawl từ một vài nguồn trên mạng, mong các bác cho mình xin 1 ít góp ý là nên phát triển thêm những tính năng nào ạ, nếu các bác đang học tiếng Nhật thì các bác sẽ muốn có tính năng nào…ngoại trừ các tính năng mà các extension khác đã có sẵn ra. Mình đang hướng đến việc người dùng có thể làm mọi thứ bên trong extension thay vì phải mở 1 trang web khác lên để thao tác.&lt;/p&gt; &lt;p&gt;Hiện tại mình đang tính phát triển thêm OCR để trích xuất text từ ảnh, và chức năng tra các Kanji liên quan thông qua các bộ thủ mà Kanji hiện tại có chứa. Mình cũng đang cố gắng tìm nguồn từ vựng đầy đủ mà khó tìm quá, hiện tại dữ liệu của từng Kanji cũng có chứa các ví dụ rồi nhưng vẫn còn thiếu khá là nhiều nên mình chưa sử dụng đến 🥲. &lt;/p&gt; &lt;p&gt;Các bác có thể cài đặt và sử dụng thử ở đây ạ:&lt;/p&gt; &lt;p&gt;&lt;a href="https://chromewebstore.google.com/detail/kanji-go/balnjanfefnfngjjkgpafeelgmbahikf"&gt;https://chromewebstore.google.com/detail/kanji-go/balnjanfefnfngjjkgpafeelgmbahikf&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/nil_404"&gt; /u/nil_404 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ph9jgs/tính_năng_cần_thiết_cho_extension_tra_cứu_tiếng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ph9jgs/tính_năng_cần_thiết_cho_extension_tra_cứu_tiếng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ph9jgs/tính_năng_cần_thiết_cho_extension_tra_cứu_tiếng/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-08T10:56:57+00:00</published>
-  </entry>
   <entry>
     <id>t3_1ph9qd6</id>
     <title>Còn 180 ngày nữa tới thi đại học mà em cảm thấy hơi toang</title>
@@ -164,6 +138,19 @@
     <published>2025-12-08T09:52:51+00:00</published>
   </entry>
   <entry>
+    <id>t3_1phcqpa</id>
+    <title>Ae biết web nào tải game lậu ít bị lỗi ko</title>
+    <updated>2025-12-08T13:44:34+00:00</updated>
+    <author>
+      <name>/u/Successful_Monk_463</name>
+      <uri>https://old.reddit.com/user/Successful_Monk_463</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Trc thì mình có hay tải ở cái steamunlocked nhưng thấy lỗi nhiều quá nên hỏi mấy bác nào hay tải lậu chỉ em 1 vài web tải phổ biến ( web nào có game dragon ball z kakalot nhé)&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Successful_Monk_463"&gt; /u/Successful_Monk_463 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1phcqpa/ae_biết_web_nào_tải_game_lậu_ít_bị_lỗi_ko/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1phcqpa/ae_biết_web_nào_tải_game_lậu_ít_bị_lỗi_ko/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1phcqpa/ae_biết_web_nào_tải_game_lậu_ít_bị_lỗi_ko/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-08T13:44:34+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1ph8mbz</id>
     <title>Người yêu</title>
     <updated>2025-12-08T09:59:39+00:00</updated>
@@ -229,17 +216,17 @@
     <published>2025-12-08T02:48:27+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ph8tuy</id>
-    <title>Điều gì tệ hơn: chia tay hay crush một người nhưng không bao giờ được đáp lại?</title>
-    <updated>2025-12-08T10:12:39+00:00</updated>
+    <id>t3_1ph404s</id>
+    <title>Muốn làm một website học ngoại ngữ + học nhóm — các bạn thấy thế nào</title>
+    <updated>2025-12-08T05:10:00+00:00</updated>
     <author>
-      <name>/u/SeveneNight</name>
-      <uri>https://old.reddit.com/user/SeveneNight</uri>
+      <name>/u/No_Product5670</name>
+      <uri>https://old.reddit.com/user/No_Product5670</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình đã crush một cô gái, cô ấy biết điều đó và đã block, 6 năm rồi nhưng thật lòng mà nói, trong lòng mình vẫn không ngừng thích cô ấy mặc dù mình đang có người yêu khác rồi. Mọi người nghĩ sao: yêu nhau rồi chia tay có phải vẫn đỡ hơn việc đơn phương ai đó suốt nhiều năm nhưng không bao giờ được đáp lại? Ít nhất trong tình yêu, ta đã từng có được điều mình muốn, còn đơn phương thì dù họ biết tình cảm của mình, ta vẫn chẳng bao giờ có được họ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/SeveneNight"&gt; /u/SeveneNight &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ph8tuy/điều_gì_tệ_hơn_chia_tay_hay_crush_một_người_nhưng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ph8tuy/điều_gì_tệ_hơn_chia_tay_hay_crush_một_người_nhưng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ph8tuy/điều_gì_tệ_hơn_chia_tay_hay_crush_một_người_nhưng/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào cả nhà,&lt;br /&gt; Mình đang ấp ủ một ý tưởng: xây một “mạng xã hội học ngoại ngữ” — nơi người học có thể:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;tạo study-room, học cùng nhau, trao đổi, share note, flashcard, quiz nhẹ;&lt;/li&gt; &lt;li&gt;follow nhau, post tiến độ học, hỏi bài, chia sẻ mẹo;&lt;/li&gt; &lt;li&gt;phù hợp cho người Việt học tiếng Anh (và nếu được, mở rộng sang các ngoại ngữ khác).&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Mình chỉ mới đang thử nghiệm — chưa quảng cáo, chưa làm lớn — đơn giản muốn thử xem &lt;strong&gt;có ai thật sự quan tâm&lt;/strong&gt; không.&lt;/p&gt; &lt;p&gt;👉 Bạn có sẵn sàng tham gia một trang như vậy không? Bạn mong muốn tính năng gì nhất (study-room, flashcard cộng đồng, chat nhóm, nhắc nhở học, v.v)?&lt;br /&gt; 👉 Nếu bạn đã từng học ngoại ngữ một mình thấy khó, trang như vậy có giúp bạn không?&lt;/p&gt; &lt;p&gt;Mọi ý kiến thực lòng đều quý — vote, phản biện, gạch đá đều được 😄&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/No_Product5670"&gt; /u/No_Product5670 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ph404s/muốn_làm_một_website_học_ngoại_ngữ_học_nhóm_các/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ph404s/muốn_làm_một_website_học_ngoại_ngữ_học_nhóm_các/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ph404s/muốn_làm_một_website_học_ngoại_ngữ_học_nhóm_các/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-08T10:12:39+00:00</published>
+    <published>2025-12-08T05:10:00+00:00</published>
   </entry>
   <entry>
     <id>t3_1ph87qd</id>
@@ -255,30 +242,17 @@
     <published>2025-12-08T09:32:52+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ph404s</id>
-    <title>Muốn làm một website học ngoại ngữ + học nhóm — các bạn thấy thế nào</title>
-    <updated>2025-12-08T05:10:00+00:00</updated>
+    <id>t3_1ph8tuy</id>
+    <title>Điều gì tệ hơn: chia tay hay crush một người nhưng không bao giờ được đáp lại?</title>
+    <updated>2025-12-08T10:12:39+00:00</updated>
     <author>
-      <name>/u/No_Product5670</name>
-      <uri>https://old.reddit.com/user/No_Product5670</uri>
+      <name>/u/SeveneNight</name>
+      <uri>https://old.reddit.com/user/SeveneNight</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào cả nhà,&lt;br /&gt; Mình đang ấp ủ một ý tưởng: xây một “mạng xã hội học ngoại ngữ” — nơi người học có thể:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;tạo study-room, học cùng nhau, trao đổi, share note, flashcard, quiz nhẹ;&lt;/li&gt; &lt;li&gt;follow nhau, post tiến độ học, hỏi bài, chia sẻ mẹo;&lt;/li&gt; &lt;li&gt;phù hợp cho người Việt học tiếng Anh (và nếu được, mở rộng sang các ngoại ngữ khác).&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Mình chỉ mới đang thử nghiệm — chưa quảng cáo, chưa làm lớn — đơn giản muốn thử xem &lt;strong&gt;có ai thật sự quan tâm&lt;/strong&gt; không.&lt;/p&gt; &lt;p&gt;👉 Bạn có sẵn sàng tham gia một trang như vậy không? Bạn mong muốn tính năng gì nhất (study-room, flashcard cộng đồng, chat nhóm, nhắc nhở học, v.v)?&lt;br /&gt; 👉 Nếu bạn đã từng học ngoại ngữ một mình thấy khó, trang như vậy có giúp bạn không?&lt;/p&gt; &lt;p&gt;Mọi ý kiến thực lòng đều quý — vote, phản biện, gạch đá đều được 😄&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/No_Product5670"&gt; /u/No_Product5670 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ph404s/muốn_làm_một_website_học_ngoại_ngữ_học_nhóm_các/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ph404s/muốn_làm_một_website_học_ngoại_ngữ_học_nhóm_các/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ph404s/muốn_làm_một_website_học_ngoại_ngữ_học_nhóm_các/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình đã crush một cô gái, cô ấy biết điều đó và đã block, 6 năm rồi nhưng thật lòng mà nói, trong lòng mình vẫn không ngừng thích cô ấy mặc dù mình đang có người yêu khác rồi. Mọi người nghĩ sao: yêu nhau rồi chia tay có phải vẫn đỡ hơn việc đơn phương ai đó suốt nhiều năm nhưng không bao giờ được đáp lại? Ít nhất trong tình yêu, ta đã từng có được điều mình muốn, còn đơn phương thì dù họ biết tình cảm của mình, ta vẫn chẳng bao giờ có được họ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/SeveneNight"&gt; /u/SeveneNight &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ph8tuy/điều_gì_tệ_hơn_chia_tay_hay_crush_một_người_nhưng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ph8tuy/điều_gì_tệ_hơn_chia_tay_hay_crush_một_người_nhưng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ph8tuy/điều_gì_tệ_hơn_chia_tay_hay_crush_một_người_nhưng/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-08T05:10:00+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1pha9y9</id>
-    <title>🤪</title>
-    <updated>2025-12-08T11:40:25+00:00</updated>
-    <author>
-      <name>/u/One-Cap-2670</name>
-      <uri>https://old.reddit.com/user/One-Cap-2670</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1pha9y9/_/"&gt; &lt;img alt="🤪" src="https://preview.redd.it/xaq726y3wy5g1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=49ca9a435c75a9cecaab1d8e933dd00d968d5a95" title="🤪" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;anh em nào có vợ sắp đẻ tham khảo nhé,cọc 18,có thanh toán bằng thẻ,có bảo hiểm,sử dụng gần full dịch vụ,mổ lần đầu chọn bác sĩ chọn giờ,dịch vụ cơ sở vật chất oke,không đông, Bv Bưu Điện,cầm về 3,6 =&amp;gt; hết 14,4 đồng,quá oke&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/One-Cap-2670"&gt; /u/One-Cap-2670 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/xaq726y3wy5g1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pha9y9/_/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pha9y9/_/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-08T11:40:25+00:00</published>
+    <published>2025-12-08T10:12:39+00:00</published>
   </entry>
   <entry>
     <id>t3_1ph918b</id>
@@ -318,6 +292,32 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ph3f2q/thủy_sinh_cái_thứ_này_gọi_là_gì_vậy_mấy_bác/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-08T04:39:53+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1phce0x</id>
+    <title>Mới bước chân ra đời</title>
+    <updated>2025-12-08T13:28:28+00:00</updated>
+    <author>
+      <name>/u/lonelymeemeee</name>
+      <uri>https://old.reddit.com/user/lonelymeemeee</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em viết bài này để tâm sự xíu, khi mà em bỏ dở hàng tá công việc cần làm, em đang viết những dòng này với cơn buồn ngủ dữ dội mà em không dám ngủ vì không muốn mở mắt ra lại là một ngày mới.&lt;/p&gt; &lt;p&gt;Em 22F, em mới ra trường hồi tháng 4 năm nay. Em vừa lên làm nhân viên marketing chính thức với mức lương 14 triệu và làm thêm ở ngoài với mức lương 6 triệu, tổng 1 tháng hiện tại em sẽ kiếm được 20 triệu.&lt;/p&gt; &lt;p&gt;Em biết kiếm được 20 triệu/tháng ở tuổi này không phải gọi là cao (so với bây giờ, hoặc mấy bạn trên threads) nhưng cá nhân em tự cảm thấy, 20 triệu này khiến em nghẹt thở.&lt;/p&gt; &lt;p&gt;Em bắt đầu làm trong mảng crypto/web3 từ năm 3 đại học với vị trí part time, ra trường em được lên full-time với mức lương 10 triệu (remote, không bảo hiểm, hợp đồng), em thấy công việc ở đó quá chán, chỉ quanh quẩn ở việc viết content nên em có đi tìm việc mới. Công ty mới offer em 14tr, có hợp đồng, bảo hiểm đầy đủ nhưng làm full time on site.&lt;/p&gt; &lt;p&gt;Trong 2 tháng thử việc em rất muốn out vì môi trường toxic và phức tạp. Nhưng bạn trai em nói đó là điều ai cũng phải trải qua và khuyên em hãy cố gắng giữ công việc này. Em đã nói với người hướng dẫn là em muốn out, và họ khuyên em ở lại, nói là em làm việc tốt, giao tiếp rất ổn, dù em có từ chối nhưng họ vẫn luôn bảo em ở lại, em cũng có động lòng, nên em chọn ở lại.&lt;/p&gt; &lt;p&gt;Trong phòng ban em có 5 người, có 1 người em không bao giờ muốn nói chuyện và em thật sự rất khó chịu với cách nói chuyện của họ nhưng họ lại cứ tìm cách nói chuyện với em. Nhờ vả em thì cướp công &amp;quot;cái đó 1 mình t làm hết&amp;quot;, nhờ chỉ cái này cái kia thì nói &amp;quot;sợ trí tuệ của em không tiếp thu nổi&amp;quot;, nói chuyện bình thường thì đưa em vào thế bí, kiểu làm mọi người nghĩ em xấu tính ấy.&lt;/p&gt; &lt;p&gt;Em cũng hay bị nhân viên phòng khác quấy rối bằng lời nói, kiểu hỏi em có hay đi khách sạn với bạn trai không, rồi nắm tay em dù em chống đối, rồi hỏi em có quay phim với bạn trai không (quay gì chắc mn cũng hiểu) hoặc thường trêu em phải làm hài lòng họ nếu không họ sẽ mách trưởng phòng và không cho em pass thử việc và hàng tá chuyện khác.&lt;/p&gt; &lt;p&gt;Em kiệt sức vô cùng.&lt;/p&gt; &lt;p&gt;6h30 sáng dậy nấu cơm, 7h30 tắm rửa, sửa soạn, 8h chạy xe đến công ty, 9h làm đến 18h, 18h về tới 19h, 19h ăn vội, làm việc rồi 21 hoặc 22h tắm, bấm điện thoại xíu rồi ngủ.&lt;/p&gt; &lt;p&gt;Cái giá của 20 triệu/tháng là em không được chơi.&lt;/p&gt; &lt;p&gt;Em thích chơi cầu lông, có vài hôm em tranh thủ được thì 19h về em ăn vội rồi 19h30 chạy qua sân. 20h đánh đến 22h, nói thật thì em cũng không còn sức để đánh hết mình nữa, có khi bị xếp vô mấy người lệch trình không biết di chuyển em cũng mệt lắm, cũng có khi em bị mấy người đó vả vợt vào đầu nữa. Nên cũng chẳng vui vẻ gì cả.&lt;/p&gt; &lt;p&gt;Em cũng muốn có thời gian để chơi game, em mua cả bundle mystbloom 2.0 ở game V nhưng mấy hôm nay em chỉ chơi được 1 trận.&lt;/p&gt; &lt;p&gt;Trước đây em mua nguyên liệu về để làm handmade kiếm thêm (em thích làm) nên em mua rất nhiều, giờ lại bỏ xó vì không có thời gian để cắt giấy nói gì là tô vẽ rồi đổ resin hơ đèn..&lt;/p&gt; &lt;p&gt;Em thật sự thấy rất mệt, hiện tại là vậy.&lt;/p&gt; &lt;p&gt;Nhưng em cũng rất cần tiền, vì em muốn học thêm nữa. &lt;/p&gt; &lt;p&gt;Giờ em chỉ muốn khóc thôi, em bí bách quá đi.&lt;/p&gt; &lt;p&gt;Cảm ơn anh chị em đã đọc mấy câu này của em, chúc mọi người buổi tối vui vẻ và hạnh phúc.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/lonelymeemeee"&gt; /u/lonelymeemeee &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1phce0x/mới_bước_chân_ra_đời/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1phce0x/mới_bước_chân_ra_đời/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1phce0x/mới_bước_chân_ra_đời/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-08T13:28:28+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pha9y9</id>
+    <title>🤪</title>
+    <updated>2025-12-08T11:40:25+00:00</updated>
+    <author>
+      <name>/u/One-Cap-2670</name>
+      <uri>https://old.reddit.com/user/One-Cap-2670</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1pha9y9/_/"&gt; &lt;img alt="🤪" src="https://preview.redd.it/xaq726y3wy5g1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=49ca9a435c75a9cecaab1d8e933dd00d968d5a95" title="🤪" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;anh em nào có vợ sắp đẻ tham khảo nhé,cọc 18,có thanh toán bằng thẻ,có bảo hiểm,sử dụng gần full dịch vụ,mổ lần đầu chọn bác sĩ chọn giờ,dịch vụ cơ sở vật chất oke,không đông, Bv Bưu Điện,cầm về 3,6 =&amp;gt; hết 14,4 đồng,quá oke&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/One-Cap-2670"&gt; /u/One-Cap-2670 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/xaq726y3wy5g1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pha9y9/_/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pha9y9/_/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-08T11:40:25+00:00</published>
   </entry>
   <entry>
     <id>t3_1ph3pey</id>
