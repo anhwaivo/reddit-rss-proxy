@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-12-09T15:23:24+00:00</updated>
+  <updated>2025-12-09T15:44:02+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -242,19 +242,6 @@
     <published>2025-12-09T08:53:28+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pi9h1y</id>
-    <title>Chỉnh sửa ảnh😅</title>
-    <updated>2025-12-09T14:55:46+00:00</updated>
-    <author>
-      <name>/u/Afraid_Ship_5940</name>
-      <uri>https://old.reddit.com/user/Afraid_Ship_5940</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1pi9h1y/chỉnh_sửa_ảnh/"&gt; &lt;img alt="Chỉnh sửa ảnh😅" src="https://b.thumbs.redditmedia.com/U0rrH5A4Ny4-Q7TQ5e41NJUE7MrNc1FGTMxHxH5SbOk.jpg" title="Chỉnh sửa ảnh😅" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mấy babe giúp cho tôi nhận xét về hình ảnh chụp tốt nghiệp được AI tạo ra và hình ảnh được chụp nét mặt có giống nhau không? Tôi cần tạo hình ảnh để làm quà cho em tôi. Nếu k giống nhờ ông nào giỏi PTS giúp tôi hộ phát nhé!!😙.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Afraid_Ship_5940"&gt; /u/Afraid_Ship_5940 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1pi9h1y"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pi9h1y/chỉnh_sửa_ảnh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pi9h1y/chỉnh_sửa_ảnh/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-09T14:55:46+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1phvrfc</id>
     <title>Làm việc ở nhà tại sao không?</title>
     <updated>2025-12-09T02:21:52+00:00</updated>
@@ -305,6 +292,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pi3i8g/ẩn_tin_nhắn_có_phải_cheating/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-09T09:50:46+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pi9h1y</id>
+    <title>Chỉnh sửa ảnh😅</title>
+    <updated>2025-12-09T14:55:46+00:00</updated>
+    <author>
+      <name>/u/Afraid_Ship_5940</name>
+      <uri>https://old.reddit.com/user/Afraid_Ship_5940</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1pi9h1y/chỉnh_sửa_ảnh/"&gt; &lt;img alt="Chỉnh sửa ảnh😅" src="https://b.thumbs.redditmedia.com/U0rrH5A4Ny4-Q7TQ5e41NJUE7MrNc1FGTMxHxH5SbOk.jpg" title="Chỉnh sửa ảnh😅" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mấy babe giúp cho tôi nhận xét về hình ảnh chụp tốt nghiệp được AI tạo ra và hình ảnh được chụp nét mặt có giống nhau không? Tôi cần tạo hình ảnh để làm quà cho em tôi. Nếu k giống nhờ ông nào giỏi PTS giúp tôi hộ phát nhé!!😙.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Afraid_Ship_5940"&gt; /u/Afraid_Ship_5940 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1pi9h1y"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pi9h1y/chỉnh_sửa_ảnh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pi9h1y/chỉnh_sửa_ảnh/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-09T14:55:46+00:00</published>
   </entry>
   <entry>
     <id>t3_1pi3lb9</id>
