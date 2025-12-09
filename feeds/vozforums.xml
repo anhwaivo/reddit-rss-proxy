@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-12-09T18:51:30+00:00</updated>
+  <updated>2025-12-09T19:14:29+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1phyxoa</id>
-    <title>Tham khảo các ngành nghề phù hợp</title>
-    <updated>2025-12-09T05:01:37+00:00</updated>
-    <author>
-      <name>/u/Bulky-Fix9738</name>
-      <uri>https://old.reddit.com/user/Bulky-Fix9738</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi ngừoi, em 22 tuổi đang làm điều vận logistics ở 1 công ty Nhật. Công việc thật sự là em đang rất chán vì loanh quanh chỉ có xử lý giấy tờ với điều cont hàng hoá. Quy trình công ty đã có hết và không cần sáng tạo gì cả. Em muốn làm công việc gì mà em học được kĩ năng cứng để tự tin đi sang công ty khác làm. Còn công việc hiện tại thì các kiến thức khá đặc thù và chỉ áp dụng được ở 1 mình công ty ấy. Mọi người có vị trí nào hoặc ngành nào trong kinh tế mà em có thể tham khảo không ạ (liên quan đến logistics càng tốt ạ) &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Bulky-Fix9738"&gt; /u/Bulky-Fix9738 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1phyxoa/tham_khảo_các_ngành_nghề_phù_hợp/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1phyxoa/tham_khảo_các_ngành_nghề_phù_hợp/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1phyxoa/tham_khảo_các_ngành_nghề_phù_hợp/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-09T05:01:37+00:00</published>
-  </entry>
   <entry>
     <id>t3_1phwom7</id>
     <title>Sinh viên kĩ thuật năm nhất có nên đi làm thêm?</title>
@@ -47,19 +34,6 @@
     <published>2025-12-09T07:25:03+00:00</published>
   </entry>
   <entry>
-    <id>t3_1phto9r</id>
-    <title>Khó tập trung trong việc học tập</title>
-    <updated>2025-12-09T00:46:10+00:00</updated>
-    <author>
-      <name>/u/Ancient_Map_9924</name>
-      <uri>https://old.reddit.com/user/Ancient_Map_9924</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Dạo này mình không còn tập trung như trước, đầu óc cứ lơ mơ uể ỏi, học gì cũng không vào nỗi, mình cũng đã thử nhiều cách nhưng không có hiệu quả, không biết có ai có cách nào giúp mình với.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ancient_Map_9924"&gt; /u/Ancient_Map_9924 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1phto9r/khó_tập_trung_trong_việc_học_tập/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1phto9r/khó_tập_trung_trong_việc_học_tập/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1phto9r/khó_tập_trung_trong_việc_học_tập/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-09T00:46:10+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1phw3uk</id>
     <title>cây vườn lá nhà</title>
     <updated>2025-12-09T02:37:43+00:00</updated>
@@ -71,6 +45,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1phw3uk/cây_vườn_lá_nhà/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-09T02:37:43+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1phto9r</id>
+    <title>Khó tập trung trong việc học tập</title>
+    <updated>2025-12-09T00:46:10+00:00</updated>
+    <author>
+      <name>/u/Ancient_Map_9924</name>
+      <uri>https://old.reddit.com/user/Ancient_Map_9924</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Dạo này mình không còn tập trung như trước, đầu óc cứ lơ mơ uể ỏi, học gì cũng không vào nỗi, mình cũng đã thử nhiều cách nhưng không có hiệu quả, không biết có ai có cách nào giúp mình với.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ancient_Map_9924"&gt; /u/Ancient_Map_9924 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1phto9r/khó_tập_trung_trong_việc_học_tập/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1phto9r/khó_tập_trung_trong_việc_học_tập/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1phto9r/khó_tập_trung_trong_việc_học_tập/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-09T00:46:10+00:00</published>
   </entry>
   <entry>
     <id>t3_1pi0wi8</id>
@@ -190,6 +177,19 @@
     <published>2025-12-09T14:50:01+00:00</published>
   </entry>
   <entry>
+    <id>t3_1pig3m5</id>
+    <title>Cho mình hỏi có thiết bị gì giúp 2 người nghe nhạc (tai nghe dây) trên cùng một máy k ạ</title>
+    <updated>2025-12-09T19:07:01+00:00</updated>
+    <author>
+      <name>/u/Expensive_Cow_9092</name>
+      <uri>https://old.reddit.com/user/Expensive_Cow_9092</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình muốn tất cả type c tại mình đang dùng ip với có 2 cái tai nghe dây của apple nhưng thấy trên shopee toàn split 1 cổng sạc-1 cổng nghe chứ k thấy 2 cổng nghe 🥲🥲🥲&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Expensive_Cow_9092"&gt; /u/Expensive_Cow_9092 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pig3m5/cho_mình_hỏi_có_thiết_bị_gì_giúp_2_người_nghe/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pig3m5/cho_mình_hỏi_có_thiết_bị_gì_giúp_2_người_nghe/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pig3m5/cho_mình_hỏi_có_thiết_bị_gì_giúp_2_người_nghe/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-09T19:07:01+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1pi2n72</id>
     <title>Tiếp xúc mxh nhiều quá khiến mình dễ suy nghĩ nhiều thật</title>
     <updated>2025-12-09T08:53:28+00:00</updated>
@@ -201,19 +201,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pi2n72/tiếp_xúc_mxh_nhiều_quá_khiến_mình_dễ_suy_nghĩ/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-09T08:53:28+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1pidsps</id>
-    <title>Lời khuyên về an ninh trật tự trong hẻm.</title>
-    <updated>2025-12-09T17:38:35+00:00</updated>
-    <author>
-      <name>/u/SnooMarzipans735</name>
-      <uri>https://old.reddit.com/user/SnooMarzipans735</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Dạ em chào mng, nhà em em ở trong con hẻm Bình Thạnh, dạo nay có một nhóm người tầm 25-30t đẩy xe bán cá viên chiên vào buổi chiều đối diện nhà em tầm 2,3 căn nhà. Vấn đề là họ bán đến khuya rồi rủ một vài người quen đến nhậu rồi phóng uế ngay thùng rác trước nhà hàng xóm (nhà bà em). Mẹ em thấy trực tiếp và cũng nhắc nhở 1 lần nhưng họ còn cười giỡn và đá xéo mẹ em sau đó. Chuyện mẹ em nói cũng cả tháng rồi, hôm nay thì họ vẫn làm vậy và phóng uế ngay trước chậu cây kiểng nhà em luôn. Em thức khuya, nghe được mùi nên mới chạy ra xem thì đám đó trơ mắt nhìn em, cãi qua cãi lại một hồi thì mẹ em ra cản lôi em vô nhà. Mẹ bảo em những người đó không có ăn học nên họ mới làm vậy, nếu mẹ không ra cản thì đôi khi 1 người trong đám đó đã đánh em rồi. Nhưng thật sự là em cảm thấy bực lắm ạ. Đám người đó cũng sống trong hẻm nhà em, nhưng đa phần không có công việc đàng hoàng, tụi nó làm gì mình không đoán trước được. Mà thực sự em vẫn thấy rất là bực, không biết phải làm thế nào để đuổi đám người đó đi nữa, em chỉ biết số nhà, con ai thôi, cũng không báo lên VNEID được. Mọi người cho em hỏi có ai gặp trường hợp như em không và theo mọi người thì em nên làm gì ạ? &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/SnooMarzipans735"&gt; /u/SnooMarzipans735 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pidsps/lời_khuyên_về_an_ninh_trật_tự_trong_hẻm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pidsps/lời_khuyên_về_an_ninh_trật_tự_trong_hẻm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pidsps/lời_khuyên_về_an_ninh_trật_tự_trong_hẻm/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-09T17:38:35+00:00</published>
   </entry>
   <entry>
     <id>t3_1phxajk</id>
@@ -268,17 +255,17 @@
     <published>2025-12-09T09:50:46+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pieuer</id>
-    <title>Múc được em lap 2 củ</title>
-    <updated>2025-12-09T18:17:51+00:00</updated>
+    <id>t3_1pidsps</id>
+    <title>Lời khuyên về an ninh trật tự trong hẻm.</title>
+    <updated>2025-12-09T17:38:35+00:00</updated>
     <author>
-      <name>/u/slaxerz</name>
-      <uri>https://old.reddit.com/user/slaxerz</uri>
+      <name>/u/SnooMarzipans735</name>
+      <uri>https://old.reddit.com/user/SnooMarzipans735</uri>
     </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1pieuer/múc_được_em_lap_2_củ/"&gt; &lt;img alt="Múc được em lap 2 củ" src="https://a.thumbs.redditmedia.com/Ik935CsGCsQ6WUEXgDFJgmBkO6Q-f2kHFiuu161qPA4.jpg" title="Múc được em lap 2 củ" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mỗi tội vỏ dính đầy keo sticker, nào chắc msng đi tổng vệ sinh&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/slaxerz"&gt; /u/slaxerz &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1pieuer"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pieuer/múc_được_em_lap_2_củ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pieuer/múc_được_em_lap_2_củ/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Dạ em chào mng, nhà em em ở trong con hẻm Bình Thạnh, dạo nay có một nhóm người tầm 25-30t đẩy xe bán cá viên chiên vào buổi chiều đối diện nhà em tầm 2,3 căn nhà. Vấn đề là họ bán đến khuya rồi rủ một vài người quen đến nhậu rồi phóng uế ngay thùng rác trước nhà hàng xóm (nhà bà em). Mẹ em thấy trực tiếp và cũng nhắc nhở 1 lần nhưng họ còn cười giỡn và đá xéo mẹ em sau đó. Chuyện mẹ em nói cũng cả tháng rồi, hôm nay thì họ vẫn làm vậy và phóng uế ngay trước chậu cây kiểng nhà em luôn. Em thức khuya, nghe được mùi nên mới chạy ra xem thì đám đó trơ mắt nhìn em, cãi qua cãi lại một hồi thì mẹ em ra cản lôi em vô nhà. Mẹ bảo em những người đó không có ăn học nên họ mới làm vậy, nếu mẹ không ra cản thì đôi khi 1 người trong đám đó đã đánh em rồi. Nhưng thật sự là em cảm thấy bực lắm ạ. Đám người đó cũng sống trong hẻm nhà em, nhưng đa phần không có công việc đàng hoàng, tụi nó làm gì mình không đoán trước được. Mà thực sự em vẫn thấy rất là bực, không biết phải làm thế nào để đuổi đám người đó đi nữa, em chỉ biết số nhà, con ai thôi, cũng không báo lên VNEID được. Mọi người cho em hỏi có ai gặp trường hợp như em không và theo mọi người thì em nên làm gì ạ? &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/SnooMarzipans735"&gt; /u/SnooMarzipans735 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pidsps/lời_khuyên_về_an_ninh_trật_tự_trong_hẻm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pidsps/lời_khuyên_về_an_ninh_trật_tự_trong_hẻm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pidsps/lời_khuyên_về_an_ninh_trật_tự_trong_hẻm/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-09T18:17:51+00:00</published>
+    <published>2025-12-09T17:38:35+00:00</published>
   </entry>
   <entry>
     <id>t3_1picxp3</id>
@@ -305,6 +292,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pi9h1y/chỉnh_sửa_ảnh/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-09T14:55:46+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pieuer</id>
+    <title>Múc được em lap 2 củ</title>
+    <updated>2025-12-09T18:17:51+00:00</updated>
+    <author>
+      <name>/u/slaxerz</name>
+      <uri>https://old.reddit.com/user/slaxerz</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1pieuer/múc_được_em_lap_2_củ/"&gt; &lt;img alt="Múc được em lap 2 củ" src="https://a.thumbs.redditmedia.com/Ik935CsGCsQ6WUEXgDFJgmBkO6Q-f2kHFiuu161qPA4.jpg" title="Múc được em lap 2 củ" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mỗi tội vỏ dính đầy keo sticker, nào chắc msng đi tổng vệ sinh&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/slaxerz"&gt; /u/slaxerz &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1pieuer"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pieuer/múc_được_em_lap_2_củ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pieuer/múc_được_em_lap_2_củ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-09T18:17:51+00:00</published>
   </entry>
   <entry>
     <id>t3_1pi3lb9</id>
