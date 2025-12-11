@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-12-11T07:34:16+00:00</updated>
+  <updated>2025-12-11T07:50:45+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -268,19 +268,6 @@
     <published>2025-12-11T01:28:42+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pjq2wr</id>
-    <title>Cali giàu mà. Tôi muốn sang california</title>
-    <updated>2025-12-11T05:58:26+00:00</updated>
-    <author>
-      <name>/u/IllustriousPea9931</name>
-      <uri>https://old.reddit.com/user/IllustriousPea9931</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1pjq2wr/cali_giàu_mà_tôi_muốn_sang_california/"&gt; &lt;img alt="Cali giàu mà. Tôi muốn sang california" src="https://preview.redd.it/ssqmhbytli6g1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=5b7fc948a2c819834f4e9e17a66c61357a64d17e" title="Cali giàu mà. Tôi muốn sang california" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;đùa thôi &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/IllustriousPea9931"&gt; /u/IllustriousPea9931 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/ssqmhbytli6g1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pjq2wr/cali_giàu_mà_tôi_muốn_sang_california/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pjq2wr/cali_giàu_mà_tôi_muốn_sang_california/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-11T05:58:26+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1pjnyo8</id>
     <title>ê mấy bà cho tui hỏi, sao mấy ông con trai từ bỏ 1 người dễ dàng và nhẹ nhõm quá z:)))</title>
     <updated>2025-12-11T04:03:18+00:00</updated>
@@ -305,6 +292,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pjpo6j/thất_bại_thật_rồi/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-11T05:34:36+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pjq2wr</id>
+    <title>Cali giàu mà. Tôi muốn sang california</title>
+    <updated>2025-12-11T05:58:26+00:00</updated>
+    <author>
+      <name>/u/IllustriousPea9931</name>
+      <uri>https://old.reddit.com/user/IllustriousPea9931</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1pjq2wr/cali_giàu_mà_tôi_muốn_sang_california/"&gt; &lt;img alt="Cali giàu mà. Tôi muốn sang california" src="https://preview.redd.it/ssqmhbytli6g1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=5b7fc948a2c819834f4e9e17a66c61357a64d17e" title="Cali giàu mà. Tôi muốn sang california" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;đùa thôi &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/IllustriousPea9931"&gt; /u/IllustriousPea9931 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/ssqmhbytli6g1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pjq2wr/cali_giàu_mà_tôi_muốn_sang_california/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pjq2wr/cali_giàu_mà_tôi_muốn_sang_california/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-11T05:58:26+00:00</published>
   </entry>
   <entry>
     <id>t3_1pjpf10</id>
