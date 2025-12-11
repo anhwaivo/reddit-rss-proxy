@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-12-11T19:51:51+00:00</updated>
+  <updated>2025-12-11T20:22:25+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -138,19 +138,6 @@
     <published>2025-12-11T17:57:57+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pjueyz</id>
-    <title>Nghèo</title>
-    <updated>2025-12-11T10:37:35+00:00</updated>
-    <author>
-      <name>/u/lonelymeemeee</name>
-      <uri>https://old.reddit.com/user/lonelymeemeee</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tui vừa lãnh lương. Nhưng bù vào tiền tiêu tháng trước và để tiền tiết kiệm, giờ tui chỉ còn chưa đến 1 triệu để xài đến hết tháng.&lt;/p&gt; &lt;p&gt;Trưa nay vào circle k, thấy 1 cái kẹo hình con hưu phong cách giáng sinh dễ thương, đã chạm vào rồi, thích lắm, muốn mua lắm nhưng nghĩ lại việc mình không có tiền đành buông ra&lt;/p&gt; &lt;p&gt;Thấy buồn lắm. Tháng sau thì tài chính rộng rãi hơn, nhưng giáng sinh thì hết rồi..&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/lonelymeemeee"&gt; /u/lonelymeemeee &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pjueyz/nghèo/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pjueyz/nghèo/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pjueyz/nghèo/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-11T10:37:35+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1pjkr10</id>
     <title>Ngày mới chúc anh em chân cứng đá mềm</title>
     <updated>2025-12-11T01:28:42+00:00</updated>
@@ -188,6 +175,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pjwu3z/đã_quyết_không_không_được_một_ngày/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-11T12:56:29+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pjueyz</id>
+    <title>Nghèo</title>
+    <updated>2025-12-11T10:37:35+00:00</updated>
+    <author>
+      <name>/u/lonelymeemeee</name>
+      <uri>https://old.reddit.com/user/lonelymeemeee</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tui vừa lãnh lương. Nhưng bù vào tiền tiêu tháng trước và để tiền tiết kiệm, giờ tui chỉ còn chưa đến 1 triệu để xài đến hết tháng.&lt;/p&gt; &lt;p&gt;Trưa nay vào circle k, thấy 1 cái kẹo hình con hưu phong cách giáng sinh dễ thương, đã chạm vào rồi, thích lắm, muốn mua lắm nhưng nghĩ lại việc mình không có tiền đành buông ra&lt;/p&gt; &lt;p&gt;Thấy buồn lắm. Tháng sau thì tài chính rộng rãi hơn, nhưng giáng sinh thì hết rồi..&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/lonelymeemeee"&gt; /u/lonelymeemeee &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pjueyz/nghèo/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pjueyz/nghèo/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pjueyz/nghèo/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-11T10:37:35+00:00</published>
   </entry>
   <entry>
     <id>t3_1pjvodg</id>
