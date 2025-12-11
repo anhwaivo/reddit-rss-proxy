@@ -2,37 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-12-11T15:29:52+00:00</updated>
+  <updated>2025-12-11T15:50:47+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1pjq0ls</id>
-    <title>Trắc trở chuyện tình cảm</title>
-    <updated>2025-12-11T05:54:37+00:00</updated>
-    <author>
-      <name>/u/mrp431</name>
-      <uri>https://old.reddit.com/user/mrp431</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mấy anh đi trước có kinh nghiệm cho em hỏi năm nay em sắp 23 tuổi sự nghiệp đang xây dựng, em có bạn gái hơn em 3 tuổi bị u sơ tử cung nhưng lại rất thích trẻ em, em từng hứa hẹn là 2 năm nữa em sẽ cưới bạn nhưng vừa rồi mẹ của bạn gái em bảo không đợi được nữa, mà em không biết phải làm gì hết, ba mẹ em kết hôn cũng rất sớm từ 20 tuổi giờ đã ly dị. Mấy anh cho em xin lời khuyên được không ạ &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/mrp431"&gt; /u/mrp431 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pjq0ls/trắc_trở_chuyện_tình_cảm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pjq0ls/trắc_trở_chuyện_tình_cảm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pjq0ls/trắc_trở_chuyện_tình_cảm/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-11T05:54:37+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1pjwtua</id>
-    <title>Có lên làm ntn để lấy kinh nghiệm yêu đương</title>
-    <updated>2025-12-11T12:56:05+00:00</updated>
-    <author>
-      <name>/u/Routine-Cable-1498</name>
-      <uri>https://old.reddit.com/user/Routine-Cable-1498</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;E 2k4 đi học hay đi làm cx khó khá nhiều người để ý, có cả gái tán cx có khá nhiều. Nhưng chưa bh thích 1 ai. Nhưng em lại chưa yêu bh toàn cắm đầu vào học vs kiếm tiền. Dao gần đây e có suy nghĩ tới việc nếu gặp 1 người mình yêu thật sự liệu có giữ đc mối tình đó hay lại ngơ ngác như con lai vàng Vậy thì có lên lựa bừa 1 người yêu chơi chơi cho có kinh nghiệm không ạ. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Routine-Cable-1498"&gt; /u/Routine-Cable-1498 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pjwtua/có_lên_làm_ntn_để_lấy_kinh_nghiệm_yêu_đương/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pjwtua/có_lên_làm_ntn_để_lấy_kinh_nghiệm_yêu_đương/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pjwtua/có_lên_làm_ntn_để_lấy_kinh_nghiệm_yêu_đương/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-11T12:56:05+00:00</published>
-  </entry>
   <entry>
     <id>t3_1pjwz6h</id>
     <title>Học về AI</title>
@@ -45,6 +19,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pjwz6h/học_về_ai/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-11T13:03:03+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pjq0ls</id>
+    <title>Trắc trở chuyện tình cảm</title>
+    <updated>2025-12-11T05:54:37+00:00</updated>
+    <author>
+      <name>/u/mrp431</name>
+      <uri>https://old.reddit.com/user/mrp431</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mấy anh đi trước có kinh nghiệm cho em hỏi năm nay em sắp 23 tuổi sự nghiệp đang xây dựng, em có bạn gái hơn em 3 tuổi bị u sơ tử cung nhưng lại rất thích trẻ em, em từng hứa hẹn là 2 năm nữa em sẽ cưới bạn nhưng vừa rồi mẹ của bạn gái em bảo không đợi được nữa, mà em không biết phải làm gì hết, ba mẹ em kết hôn cũng rất sớm từ 20 tuổi giờ đã ly dị. Mấy anh cho em xin lời khuyên được không ạ &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/mrp431"&gt; /u/mrp431 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pjq0ls/trắc_trở_chuyện_tình_cảm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pjq0ls/trắc_trở_chuyện_tình_cảm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pjq0ls/trắc_trở_chuyện_tình_cảm/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-11T05:54:37+00:00</published>
   </entry>
   <entry>
     <id>t3_1pjag0i</id>
@@ -73,19 +60,6 @@
     <published>2025-12-11T10:37:35+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pjunun</id>
-    <title>Xin review về ngành tài chính ngân hàng</title>
-    <updated>2025-12-11T10:53:44+00:00</updated>
-    <author>
-      <name>/u/EbeLinahihi</name>
-      <uri>https://old.reddit.com/user/EbeLinahihi</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em là nữ 17t muốn xin review về ngành này ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/EbeLinahihi"&gt; /u/EbeLinahihi &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pjunun/xin_review_về_ngành_tài_chính_ngân_hàng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pjunun/xin_review_về_ngành_tài_chính_ngân_hàng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pjunun/xin_review_về_ngành_tài_chính_ngân_hàng/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-11T10:53:44+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1pjzt0h</id>
     <title>Xin tư vấn về tình trạng gia đình(kinh tế - mối quan hệ)</title>
     <updated>2025-12-11T15:07:22+00:00</updated>
@@ -99,19 +73,6 @@
     <published>2025-12-11T15:07:22+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pk018v</id>
-    <title>Nên đi Đức hay Nhật với mong muốn định cư lâu dài?</title>
-    <updated>2025-12-11T15:17:04+00:00</updated>
-    <author>
-      <name>/u/thereisnogods</name>
-      <uri>https://old.reddit.com/user/thereisnogods</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, em năm nay 22 tuổi vừa để dành được một khoảng tiền để mở đường cho tương lai sắp tới (600 triệu). Các anh chị đi trước tư vấn giúp em là em đi nước nào ạ. &lt;/p&gt; &lt;p&gt;Nếu là Nhật, xin giới thiệu giúp em vài trung tâm giới thiệu việc làm xkld trong HCM, còn Đức thì em đã tìm được một trung tâm du học nghề rồi ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/thereisnogods"&gt; /u/thereisnogods &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pk018v/nên_đi_đức_hay_nhật_với_mong_muốn_định_cư_lâu_dài/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pk018v/nên_đi_đức_hay_nhật_với_mong_muốn_định_cư_lâu_dài/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pk018v/nên_đi_đức_hay_nhật_với_mong_muốn_định_cư_lâu_dài/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-11T15:17:04+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1pk0c34</id>
     <title>Tối tối đọc được câu nói hay, chia sẻ chút với mọi người</title>
     <updated>2025-12-11T15:29:13+00:00</updated>
@@ -119,10 +80,23 @@
       <name>/u/Candid-Entrance-1926</name>
       <uri>https://old.reddit.com/user/Candid-Entrance-1926</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;em&gt;Processing img ocp6x9skfl6g1...&lt;/em&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Candid-Entrance-1926"&gt; /u/Candid-Entrance-1926 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pk0c34/tối_tối_đọc_được_câu_nói_hay_chia_sẻ_chút_với_mọi/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pk0c34/tối_tối_đọc_được_câu_nói_hay_chia_sẻ_chút_với_mọi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1pk0c34/tối_tối_đọc_được_câu_nói_hay_chia_sẻ_chút_với_mọi/"&gt; &lt;img alt="Tối tối đọc được câu nói hay, chia sẻ chút với mọi người" src="https://a.thumbs.redditmedia.com/OXrvTMJz9WfNKEyXzNnK4sJSZnd0oqGhbM-sNC2gB-8.jpg" title="Tối tối đọc được câu nói hay, chia sẻ chút với mọi người" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="https://preview.redd.it/ocp6x9skfl6g1.jpg?width=800&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=f114619ebac911795cc27e90c85a978543ede134"&gt;https://preview.redd.it/ocp6x9skfl6g1.jpg?width=800&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=f114619ebac911795cc27e90c85a978543ede134&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Candid-Entrance-1926"&gt; /u/Candid-Entrance-1926 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pk0c34/tối_tối_đọc_được_câu_nói_hay_chia_sẻ_chút_với_mọi/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pk0c34/tối_tối_đọc_được_câu_nói_hay_chia_sẻ_chút_với_mọi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
     <link href="https://old.reddit.com/r/vozforums/comments/1pk0c34/tối_tối_đọc_được_câu_nói_hay_chia_sẻ_chút_với_mọi/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-11T15:29:13+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pk0p8b</id>
+    <title>Tâm trạng ghê</title>
+    <updated>2025-12-11T15:43:49+00:00</updated>
+    <author>
+      <name>/u/AdAway8004</name>
+      <uri>https://old.reddit.com/user/AdAway8004</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Cũng 6 tháng nữa là đến đám cưới mình, nhưng lâu lâu nói chuyện vs ck sắp cưới về kế hoạch cưới thì có vẻ anh kh thích bàn đến cho lắm. Mình có hỏi quá sớm kg mọi người??? Mình kg biết phải làm sao nữa?? Mình bị hụt hẫn 😭&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/AdAway8004"&gt; /u/AdAway8004 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pk0p8b/tâm_trạng_ghê/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pk0p8b/tâm_trạng_ghê/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pk0p8b/tâm_trạng_ghê/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-11T15:43:49+00:00</published>
   </entry>
   <entry>
     <id>t3_1pj3u4t</id>
@@ -177,6 +151,19 @@
     <published>2025-12-11T13:00:21+00:00</published>
   </entry>
   <entry>
+    <id>t3_1pjunun</id>
+    <title>Xin review về ngành tài chính ngân hàng</title>
+    <updated>2025-12-11T10:53:44+00:00</updated>
+    <author>
+      <name>/u/EbeLinahihi</name>
+      <uri>https://old.reddit.com/user/EbeLinahihi</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em là nữ 17t muốn xin review về ngành này ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/EbeLinahihi"&gt; /u/EbeLinahihi &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pjunun/xin_review_về_ngành_tài_chính_ngân_hàng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pjunun/xin_review_về_ngành_tài_chính_ngân_hàng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pjunun/xin_review_về_ngành_tài_chính_ngân_hàng/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-11T10:53:44+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1pjkr10</id>
     <title>Ngày mới chúc anh em chân cứng đá mềm</title>
     <updated>2025-12-11T01:28:42+00:00</updated>
@@ -214,6 +201,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pjvodg/mời_anh_em_thưởng_thức/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-11T11:54:25+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pk018v</id>
+    <title>Nên đi Đức hay Nhật với mong muốn định cư lâu dài?</title>
+    <updated>2025-12-11T15:17:04+00:00</updated>
+    <author>
+      <name>/u/thereisnogods</name>
+      <uri>https://old.reddit.com/user/thereisnogods</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, em năm nay 22 tuổi vừa để dành được một khoảng tiền để mở đường cho tương lai sắp tới (600 triệu). Các anh chị đi trước tư vấn giúp em là em đi nước nào ạ. &lt;/p&gt; &lt;p&gt;Nếu là Nhật, xin giới thiệu giúp em vài trung tâm giới thiệu việc làm xkld trong HCM, còn Đức thì em đã tìm được một trung tâm du học nghề rồi ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/thereisnogods"&gt; /u/thereisnogods &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pk018v/nên_đi_đức_hay_nhật_với_mong_muốn_định_cư_lâu_dài/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pk018v/nên_đi_đức_hay_nhật_với_mong_muốn_định_cư_lâu_dài/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pk018v/nên_đi_đức_hay_nhật_với_mong_muốn_định_cư_lâu_dài/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-11T15:17:04+00:00</published>
   </entry>
   <entry>
     <id>t3_1pjyq0l</id>
@@ -268,19 +268,6 @@
     <published>2025-12-11T14:01:29+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pjs79f</id>
-    <title>Tuổi 30 có quá muộn để đi du học và tìm kiếm cơ hội việc làm ở nước ngoài?</title>
-    <updated>2025-12-11T08:10:04+00:00</updated>
-    <author>
-      <name>/u/Curious_Brilliant645</name>
-      <uri>https://old.reddit.com/user/Curious_Brilliant645</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, mình sinh năm 96, năm sau là chạm ngưỡng 30 tuổi rồi. Hiện tại mình đang làm trong một ngách nhỏ của ngành Tài chính tại TP.HCM. Về chuyên môn, mình đã hoàn thành cả ACCA và CFA. Tuy nhiên, thu nhập net hiện chỉ quanh quẩn 20 triệu/tháng. Công việc tuy nhàn hạ nhưng mình cảm thấy nhàm chán, chưa kể với mức thu nhập này thì giấc mơ mua nhà dường như quá xa vời. Mình cũng hơi lo lắng về việc tới tuổi lập gia đình.&lt;/p&gt; &lt;p&gt;Mình đang nung nấu ý định sang năm sẽ đi Úc xin học bổng Master ngành Business Analytics tại 1 trường top tier ở Sydney, lấy visa 485 rồi tìm đường vào Big4 bên đó làm việc. Ở đây có bác nào 30 tuổi mới quyết tâm dứt áo ra đi du học và bắt đầu cuộc sống hoàn toàn mới chưa? Cho mình xin ít động lực và kinh nghiệm với ạ!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Curious_Brilliant645"&gt; /u/Curious_Brilliant645 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pjs79f/tuổi_30_có_quá_muộn_để_đi_du_học_và_tìm_kiếm_cơ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pjs79f/tuổi_30_có_quá_muộn_để_đi_du_học_và_tìm_kiếm_cơ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pjs79f/tuổi_30_có_quá_muộn_để_đi_du_học_và_tìm_kiếm_cơ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-11T08:10:04+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1pjpf10</id>
     <title>Tâm sự dev ghẻ</title>
     <updated>2025-12-11T05:20:11+00:00</updated>
@@ -292,6 +279,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pjpf10/tâm_sự_dev_ghẻ/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-11T05:20:11+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pjs79f</id>
+    <title>Tuổi 30 có quá muộn để đi du học và tìm kiếm cơ hội việc làm ở nước ngoài?</title>
+    <updated>2025-12-11T08:10:04+00:00</updated>
+    <author>
+      <name>/u/Curious_Brilliant645</name>
+      <uri>https://old.reddit.com/user/Curious_Brilliant645</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, mình sinh năm 96, năm sau là chạm ngưỡng 30 tuổi rồi. Hiện tại mình đang làm trong một ngách nhỏ của ngành Tài chính tại TP.HCM. Về chuyên môn, mình đã hoàn thành cả ACCA và CFA. Tuy nhiên, thu nhập net hiện chỉ quanh quẩn 20 triệu/tháng. Công việc tuy nhàn hạ nhưng mình cảm thấy nhàm chán, chưa kể với mức thu nhập này thì giấc mơ mua nhà dường như quá xa vời. Mình cũng hơi lo lắng về việc tới tuổi lập gia đình.&lt;/p&gt; &lt;p&gt;Mình đang nung nấu ý định sang năm sẽ đi Úc xin học bổng Master ngành Business Analytics tại 1 trường top tier ở Sydney, lấy visa 485 rồi tìm đường vào Big4 bên đó làm việc. Ở đây có bác nào 30 tuổi mới quyết tâm dứt áo ra đi du học và bắt đầu cuộc sống hoàn toàn mới chưa? Cho mình xin ít động lực và kinh nghiệm với ạ!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Curious_Brilliant645"&gt; /u/Curious_Brilliant645 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pjs79f/tuổi_30_có_quá_muộn_để_đi_du_học_và_tìm_kiếm_cơ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pjs79f/tuổi_30_có_quá_muộn_để_đi_du_học_và_tìm_kiếm_cơ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pjs79f/tuổi_30_có_quá_muộn_để_đi_du_học_và_tìm_kiếm_cơ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-11T08:10:04+00:00</published>
   </entry>
   <entry>
     <id>t3_1pjlnz3</id>
