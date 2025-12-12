@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-12-12T08:28:30+00:00</updated>
+  <updated>2025-12-12T08:55:19+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1pkj0dc</id>
-    <title>Sau 1 tg đi làm mn sẽ khởi nghiệp lại món của cty cũ hay làm 1 thứ mới do mh tự nghĩ ra ?</title>
-    <updated>2025-12-12T04:40:18+00:00</updated>
-    <author>
-      <name>/u/Ok_Pollution1769</name>
-      <uri>https://old.reddit.com/user/Ok_Pollution1769</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Khá thắc mắc ...&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ok_Pollution1769"&gt; /u/Ok_Pollution1769 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pkj0dc/sau_1_tg_đi_làm_mn_sẽ_khởi_nghiệp_lại_món_của_cty/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pkj0dc/sau_1_tg_đi_làm_mn_sẽ_khởi_nghiệp_lại_món_của_cty/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pkj0dc/sau_1_tg_đi_làm_mn_sẽ_khởi_nghiệp_lại_món_của_cty/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-12T04:40:18+00:00</published>
-  </entry>
   <entry>
     <id>t3_1pkj75x</id>
     <title>CHIA SẺ VỀ SÁCH</title>
@@ -60,19 +47,6 @@
     <published>2025-12-12T05:38:38+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pjy8i6</id>
-    <title>Điều gì níu kéo bạn ở lại Hà Nội?</title>
-    <updated>2025-12-11T14:01:29+00:00</updated>
-    <author>
-      <name>/u/bugsmakervnbn</name>
-      <uri>https://old.reddit.com/user/bugsmakervnbn</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Không khí tại thủ đô Hà Nội ngày càng ô nhiễm (hiện đang top 2 server và khả năng sẽ giữ vững ngôi vị này trong một thời gian dài), chi phi sinh hoạt đắt đỏ, giao thông thường xuyên ách tắc, ... Mình tự hỏi, điều gì níu kéo các bạn ở lại Hà Nội? Trừ những trường hợp có nhà cửa, chung cư hay công việc với đồng lương cao &amp;amp; ổn định, thì số còn lại (những bạn trẻ làm F&amp;amp;B, shipper, hành chính, lễ tân, cùng các mảng lao động phổ thông khác, ... ) nếu đã ra trường, tại sao các bạn vẫn chọn ở lại Hà Nội?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/bugsmakervnbn"&gt; /u/bugsmakervnbn &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pjy8i6/điều_gì_níu_kéo_bạn_ở_lại_hà_nội/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pjy8i6/điều_gì_níu_kéo_bạn_ở_lại_hà_nội/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pjy8i6/điều_gì_níu_kéo_bạn_ở_lại_hà_nội/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-11T14:01:29+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1pjs79f</id>
     <title>Tuổi 30 có quá muộn để đi du học và tìm kiếm cơ hội việc làm ở nước ngoài?</title>
     <updated>2025-12-11T08:10:04+00:00</updated>
@@ -86,6 +60,19 @@
     <published>2025-12-11T08:10:04+00:00</published>
   </entry>
   <entry>
+    <id>t3_1pjy8i6</id>
+    <title>Điều gì níu kéo bạn ở lại Hà Nội?</title>
+    <updated>2025-12-11T14:01:29+00:00</updated>
+    <author>
+      <name>/u/bugsmakervnbn</name>
+      <uri>https://old.reddit.com/user/bugsmakervnbn</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Không khí tại thủ đô Hà Nội ngày càng ô nhiễm (hiện đang top 2 server và khả năng sẽ giữ vững ngôi vị này trong một thời gian dài), chi phi sinh hoạt đắt đỏ, giao thông thường xuyên ách tắc, ... Mình tự hỏi, điều gì níu kéo các bạn ở lại Hà Nội? Trừ những trường hợp có nhà cửa, chung cư hay công việc với đồng lương cao &amp;amp; ổn định, thì số còn lại (những bạn trẻ làm F&amp;amp;B, shipper, hành chính, lễ tân, cùng các mảng lao động phổ thông khác, ... ) nếu đã ra trường, tại sao các bạn vẫn chọn ở lại Hà Nội?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/bugsmakervnbn"&gt; /u/bugsmakervnbn &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pjy8i6/điều_gì_níu_kéo_bạn_ở_lại_hà_nội/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pjy8i6/điều_gì_níu_kéo_bạn_ở_lại_hà_nội/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pjy8i6/điều_gì_níu_kéo_bạn_ở_lại_hà_nội/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-11T14:01:29+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1pjpo6j</id>
     <title>Thất bại thật rồi</title>
     <updated>2025-12-11T05:34:36+00:00</updated>
@@ -97,19 +84,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pjpo6j/thất_bại_thật_rồi/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-11T05:34:36+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1pklqfa</id>
-    <title>Sắc dục là nguồn cơn của hầu hết đau khổ?</title>
-    <updated>2025-12-12T07:14:56+00:00</updated>
-    <author>
-      <name>/u/SoloLivingstorm</name>
-      <uri>https://old.reddit.com/user/SoloLivingstorm</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Không phải ngẫu nhiên mà các tôn giáo đều chủ trương tiết dục, đoạn dục. Tu sĩ của Phật giáo, Cơ đốc còn hoàn toàn tuyệt dục.&lt;/p&gt; &lt;p&gt;Phải chăng sắc dục là nguồn cơn đau khổ, nên các bậc giác ngộ đều yêu cầu môn đồ phải diệt trừ nó từ gốc?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/SoloLivingstorm"&gt; /u/SoloLivingstorm &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pklqfa/sắc_dục_là_nguồn_cơn_của_hầu_hết_đau_khổ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pklqfa/sắc_dục_là_nguồn_cơn_của_hầu_hết_đau_khổ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pklqfa/sắc_dục_là_nguồn_cơn_của_hầu_hết_đau_khổ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-12T07:14:56+00:00</published>
   </entry>
   <entry>
     <id>t3_1pkluzw</id>
@@ -149,6 +123,32 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pjq2wr/cali_giàu_mà_tôi_muốn_sang_california/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-11T05:58:26+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pkn3nk</id>
+    <title>Những chung cư bỏ hoang có thể khám phá tại HCM</title>
+    <updated>2025-12-12T08:46:38+00:00</updated>
+    <author>
+      <name>/u/XergintZ</name>
+      <uri>https://old.reddit.com/user/XergintZ</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Như tiêu đề mình muốn thử cảm giác mạnh và muốn đi đến chỗ khác thường mà mn không hay đến . Mọi người có ai biết địa điểm các khu chung cư bỏ hoang có thể đi vào được ở hcm khônng? Hoặc ngoại thành đều được :)))&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/XergintZ"&gt; /u/XergintZ &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pkn3nk/những_chung_cư_bỏ_hoang_có_thể_khám_phá_tại_hcm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pkn3nk/những_chung_cư_bỏ_hoang_có_thể_khám_phá_tại_hcm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pkn3nk/những_chung_cư_bỏ_hoang_có_thể_khám_phá_tại_hcm/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-12T08:46:38+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pkn4cn</id>
+    <title>Đàn ông không nhắn tin cho mình là do họ có mối quan hệ khác hay do họ không có tình cảm với mình hay do họ mệt mỏi như họ nói</title>
+    <updated>2025-12-12T08:48:03+00:00</updated>
+    <author>
+      <name>/u/Enough_Split_6429</name>
+      <uri>https://old.reddit.com/user/Enough_Split_6429</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi cả nhà, hiện tại em 25 tuổi và em có đang tìm hiểu một anh hơn em 8 tuổi do hai mẹ mai mối, bọn em tìm hiểu để xem có thể đi tới hôn nhân được không, anh này thì giỏi giang nhưng nói chuyện không được khéo léo và ga lăng lắm, kiểu có gì nói ý nên ban đầu nhắn tin e không ưa anh này lắm, nhưng sau có gặp nhau và 2 người đều có thấy rung động với nhau r chính thức tìm hiểu, qua đi chơi ở ngoài thì em thấy tuy a này k ga lăng nhưng được cái khá thật thà, nhẹ nhàn, bên cạnh anh em cũng thoải mái vì a bảo e cứ thoải mái đi đừng nghĩ nhiều,bọn em cũng có skinship kiểu nắm tay và hôn rồi.e với anh này đều k thích nhắn tin quá nhiều vì còn p tập trung vào công việc,...nhưng ít nhất e muốn khi tìm hiểu nhau thì a thỉnh thoảng cũng nên nhắn mấy câu hỏi han nhau chút. Cả ngày hôm qua a ý có k nhắn cho em và nay e có nói thẳng thắn với a là nếu a bận hay k ổn cứ nhắn e 1 tiếng để e yên tâm đỡ lo chứ a im lặng vậy e sẽ lo lắng kb a có đang làm sao k, a ý chỉ trả lời là a hơi mệt vì dạo này ngày nào a cx đi chơi cầu lông, cả nhà thấy lý do này chấp nhận đc k ạ, a cũng nói a k có thời gian để yêu 2 người rồi k có mối nào ngoài e cả nhưng e vẫn thấy nghi ngờ lắm ạ &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Enough_Split_6429"&gt; /u/Enough_Split_6429 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pkn4cn/đàn_ông_không_nhắn_tin_cho_mình_là_do_họ_có_mối/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pkn4cn/đàn_ông_không_nhắn_tin_cho_mình_là_do_họ_có_mối/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pkn4cn/đàn_ông_không_nhắn_tin_cho_mình_là_do_họ_có_mối/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-12T08:48:03+00:00</published>
   </entry>
   <entry>
     <id>t3_1pkk6g5</id>
@@ -203,19 +203,6 @@
     <published>2025-12-12T03:20:17+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pkmfwh</id>
-    <title>Câu trả lời cho câu hỏi: "Tại sao anh yêu em?"</title>
-    <updated>2025-12-12T08:01:44+00:00</updated>
-    <author>
-      <name>/u/Reasonable-One-5853</name>
-      <uri>https://old.reddit.com/user/Reasonable-One-5853</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;strong&gt;“Anh yêu em nào có liên quan gì đến em.” – Goethe&lt;/strong&gt;&lt;br /&gt; Một câu nói thoạt nghe tưởng như nghịch lý, nhưng lại mở ra một trong những chân lý tinh tế nhất về tình yêu và bản chất của cảm xúc con người.&lt;/p&gt; &lt;p&gt;Bởi tình yêu, nếu cần phải dựa vào lý do, thì những lý do ấy – theo thời gian – đều có thể thay đổi.&lt;br /&gt; Sắc đẹp phai tàn.&lt;br /&gt; Tính cách biến chuyển.&lt;br /&gt; Điều kiện sống đổi dời.&lt;br /&gt; Và nếu tình yêu tồn tại nhờ những thứ có thể đổi dời, thì tình yêu ấy cũng sẽ đổi dời theo.&lt;/p&gt; &lt;p&gt;Nhưng tình yêu chân thật không vận hành bằng logic của sự đổi thay.&lt;br /&gt; Nó nảy sinh từ một vùng sâu hơn trong con người – nơi lý trí không chạm tới, nơi những đánh giá, tiêu chí, hay danh sách ưu điểm… hoàn toàn không có ý nghĩa.&lt;br /&gt; Ta yêu một người không phải vì họ hội tụ điều gì, mà vì &lt;strong&gt;tâm hồn ta, một cách vô thức, đã chọn họ&lt;/strong&gt;.&lt;br /&gt; Tình yêu, ở dạng thuần khiết nhất, là một quyết định của trái tim trước cả khi trí óc kịp lý giải.&lt;/p&gt; &lt;p&gt;Vì thế, khi một chàng trai nói:&lt;br /&gt; &lt;strong&gt;“Anh không biết vì sao anh yêu em… Anh chỉ yêu em thôi.”&lt;/strong&gt;&lt;br /&gt; Đó không phải là sự hời hợt, cũng không phải sự vô tâm.&lt;br /&gt; Đó là lúc cảm xúc vượt khỏi vùng ngôn từ.&lt;br /&gt; Là khi tình yêu đã trở thành một sự “hiện hữu”, chứ không còn là một “lý do”.&lt;/p&gt; &lt;p&gt;Khi tâm trí một người tràn ngập bởi hình bóng của ai đó,&lt;br /&gt; họ không còn phân loại, không còn phân tích, không còn lý giải.&lt;br /&gt; Họ chỉ… cảm nhận.&lt;br /&gt; Và đôi khi, cảm nhận lại là thứ thật nhất trong con người.&lt;/p&gt; &lt;p&gt;Vậy nên, nếu bạn cũng yêu anh ấy, hãy tôn trọng tình yêu đó.&lt;br /&gt; Bởi một tình yêu không dựa trên điều kiện, không cần sự biện hộ, không được dựng bằng lý lẽ,&lt;br /&gt; là một tình yêu không sợ gãy đổ trước những đổi thay của cuộc đời.&lt;/p&gt; &lt;p&gt;Và đôi khi,&lt;br /&gt; tình yêu sâu sắc nhất&lt;br /&gt; chính là tình yêu &lt;strong&gt;không cần lý do để tồn tại&lt;/strong&gt;,&lt;br /&gt; nhưng vẫn tồn tại – dù không có lý do nào giữ nó lại.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Reasonable-One-5853"&gt; /u/Reasonable-One-5853 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pkmfwh/câu_trả_lời_cho_câu_hỏi_tại_sao_anh_yêu_em/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pkmfwh/câu_trả_lời_cho_câu_hỏi_tại_sao_anh_yêu_em/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pkmfwh/câu_trả_lời_cho_câu_hỏi_tại_sao_anh_yêu_em/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-12T08:01:44+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1pkk6hd</id>
     <title>Có lên mua EV không</title>
     <updated>2025-12-12T05:43:55+00:00</updated>
@@ -253,6 +240,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pkkmrf/cấp_2_xài_điện_thoại/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-12T06:08:57+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pkmfwh</id>
+    <title>Câu trả lời cho câu hỏi: "Tại sao anh yêu em?"</title>
+    <updated>2025-12-12T08:01:44+00:00</updated>
+    <author>
+      <name>/u/Reasonable-One-5853</name>
+      <uri>https://old.reddit.com/user/Reasonable-One-5853</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;strong&gt;“Anh yêu em nào có liên quan gì đến em.” – Goethe&lt;/strong&gt;&lt;br /&gt; Một câu nói thoạt nghe tưởng như nghịch lý, nhưng lại mở ra một trong những chân lý tinh tế nhất về tình yêu và bản chất của cảm xúc con người.&lt;/p&gt; &lt;p&gt;Bởi tình yêu, nếu cần phải dựa vào lý do, thì những lý do ấy – theo thời gian – đều có thể thay đổi.&lt;br /&gt; Sắc đẹp phai tàn.&lt;br /&gt; Tính cách biến chuyển.&lt;br /&gt; Điều kiện sống đổi dời.&lt;br /&gt; Và nếu tình yêu tồn tại nhờ những thứ có thể đổi dời, thì tình yêu ấy cũng sẽ đổi dời theo.&lt;/p&gt; &lt;p&gt;Nhưng tình yêu chân thật không vận hành bằng logic của sự đổi thay.&lt;br /&gt; Nó nảy sinh từ một vùng sâu hơn trong con người – nơi lý trí không chạm tới, nơi những đánh giá, tiêu chí, hay danh sách ưu điểm… hoàn toàn không có ý nghĩa.&lt;br /&gt; Ta yêu một người không phải vì họ hội tụ điều gì, mà vì &lt;strong&gt;tâm hồn ta, một cách vô thức, đã chọn họ&lt;/strong&gt;.&lt;br /&gt; Tình yêu, ở dạng thuần khiết nhất, là một quyết định của trái tim trước cả khi trí óc kịp lý giải.&lt;/p&gt; &lt;p&gt;Vì thế, khi một chàng trai nói:&lt;br /&gt; &lt;strong&gt;“Anh không biết vì sao anh yêu em… Anh chỉ yêu em thôi.”&lt;/strong&gt;&lt;br /&gt; Đó không phải là sự hời hợt, cũng không phải sự vô tâm.&lt;br /&gt; Đó là lúc cảm xúc vượt khỏi vùng ngôn từ.&lt;br /&gt; Là khi tình yêu đã trở thành một sự “hiện hữu”, chứ không còn là một “lý do”.&lt;/p&gt; &lt;p&gt;Khi tâm trí một người tràn ngập bởi hình bóng của ai đó,&lt;br /&gt; họ không còn phân loại, không còn phân tích, không còn lý giải.&lt;br /&gt; Họ chỉ… cảm nhận.&lt;br /&gt; Và đôi khi, cảm nhận lại là thứ thật nhất trong con người.&lt;/p&gt; &lt;p&gt;Vậy nên, nếu bạn cũng yêu anh ấy, hãy tôn trọng tình yêu đó.&lt;br /&gt; Bởi một tình yêu không dựa trên điều kiện, không cần sự biện hộ, không được dựng bằng lý lẽ,&lt;br /&gt; là một tình yêu không sợ gãy đổ trước những đổi thay của cuộc đời.&lt;/p&gt; &lt;p&gt;Và đôi khi,&lt;br /&gt; tình yêu sâu sắc nhất&lt;br /&gt; chính là tình yêu &lt;strong&gt;không cần lý do để tồn tại&lt;/strong&gt;,&lt;br /&gt; nhưng vẫn tồn tại – dù không có lý do nào giữ nó lại.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Reasonable-One-5853"&gt; /u/Reasonable-One-5853 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pkmfwh/câu_trả_lời_cho_câu_hỏi_tại_sao_anh_yêu_em/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pkmfwh/câu_trả_lời_cho_câu_hỏi_tại_sao_anh_yêu_em/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pkmfwh/câu_trả_lời_cho_câu_hỏi_tại_sao_anh_yêu_em/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-12T08:01:44+00:00</published>
   </entry>
   <entry>
     <id>t3_1pkk4m1</id>
