@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-12-12T14:18:55+00:00</updated>
+  <updated>2025-12-12T14:40:53+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1pkl8mv</id>
-    <title>Kinh nghiệm quá cảnh Malay</title>
-    <updated>2025-12-12T06:44:44+00:00</updated>
-    <author>
-      <name>/u/Icy_Object8000</name>
-      <uri>https://old.reddit.com/user/Icy_Object8000</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi mọi người, mình định book vé máy bay đi bali nhưng quá cảnh ở kuala lumpur tầm 12 tiếng để đi tham quan. Không biết có ra khỏi sân bay kuala lumpur được không ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Icy_Object8000"&gt; /u/Icy_Object8000 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pkl8mv/kinh_nghiệm_quá_cảnh_malay/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pkl8mv/kinh_nghiệm_quá_cảnh_malay/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pkl8mv/kinh_nghiệm_quá_cảnh_malay/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-12T06:44:44+00:00</published>
-  </entry>
   <entry>
     <id>t3_1pkrsg6</id>
     <title>Tinder</title>
@@ -71,6 +58,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pkskso/tư_vấn_mua_macbook/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-12T14:00:03+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pkt9z9</id>
+    <title>Tìm phòng gym ở khu vực Gò Vấp – Tân Bình (người mới tập)</title>
+    <updated>2025-12-12T14:29:39+00:00</updated>
+    <author>
+      <name>/u/Imalice_145</name>
+      <uri>https://old.reddit.com/user/Imalice_145</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi everyone,&lt;/p&gt; &lt;p&gt;Mình đang muốn bắt đầu đi tập gym (trước đó mình chỉ tự tập ở nhà) và đang tìm một phòng tập phù hợp ở khu vực &lt;strong&gt;Gò Vấp - Tân Bình&lt;/strong&gt;.&lt;/p&gt; &lt;p&gt;Expectation của mình:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Phòng tập sạch sẽ, máy móc đầy đủ&lt;/li&gt; &lt;li&gt;Không quá đông vào giờ chiều/tối (nếu được)&lt;/li&gt; &lt;li&gt;Có PT hỗ trợ cho người mới thì càng tốt&lt;/li&gt; &lt;li&gt;Giá ổn định, không chèn ép bán gói&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Bạn nào đang tập ở khu này hoặc có chỗ nào uy tín thì recommend mình với nhen. Thanks all!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Imalice_145"&gt; /u/Imalice_145 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pkt9z9/tìm_phòng_gym_ở_khu_vực_gò_vấp_tân_bình_người_mới/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pkt9z9/tìm_phòng_gym_ở_khu_vực_gò_vấp_tân_bình_người_mới/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pkt9z9/tìm_phòng_gym_ở_khu_vực_gò_vấp_tân_bình_người_mới/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-12T14:29:39+00:00</published>
   </entry>
   <entry>
     <id>t3_1pkow0q</id>
@@ -125,17 +125,17 @@
     <published>2025-12-12T05:41:01+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pkn4cn</id>
-    <title>Đàn ông không nhắn tin cho mình là do họ có mối quan hệ khác hay do họ không có tình cảm với mình hay do họ mệt mỏi như họ nói</title>
-    <updated>2025-12-12T08:48:03+00:00</updated>
+    <id>t3_1pkqql5</id>
+    <title>thẻ vàng của trump</title>
+    <updated>2025-12-12T12:32:31+00:00</updated>
     <author>
-      <name>/u/Enough_Split_6429</name>
-      <uri>https://old.reddit.com/user/Enough_Split_6429</uri>
+      <name>/u/Extreme_Breakfast759</name>
+      <uri>https://old.reddit.com/user/Extreme_Breakfast759</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi cả nhà, hiện tại em 25 tuổi và em có đang tìm hiểu một anh hơn em 8 tuổi do hai mẹ mai mối, bọn em tìm hiểu để xem có thể đi tới hôn nhân được không, anh này thì giỏi giang nhưng nói chuyện không được khéo léo và ga lăng lắm, kiểu có gì nói ý nên ban đầu nhắn tin e không ưa anh này lắm, nhưng sau có gặp nhau và 2 người đều có thấy rung động với nhau r chính thức tìm hiểu, qua đi chơi ở ngoài thì em thấy tuy a này k ga lăng nhưng được cái khá thật thà, nhẹ nhàn, bên cạnh anh em cũng thoải mái vì a bảo e cứ thoải mái đi đừng nghĩ nhiều,bọn em cũng có skinship kiểu nắm tay và hôn rồi.e với anh này đều k thích nhắn tin quá nhiều vì còn p tập trung vào công việc,...nhưng ít nhất e muốn khi tìm hiểu nhau thì a thỉnh thoảng cũng nên nhắn mấy câu hỏi han nhau chút. Cả ngày hôm qua a ý có k nhắn cho em và nay e có nói thẳng thắn với a là nếu a bận hay k ổn cứ nhắn e 1 tiếng để e yên tâm đỡ lo chứ a im lặng vậy e sẽ lo lắng kb a có đang làm sao k, a ý chỉ trả lời là a hơi mệt vì dạo này ngày nào a cx đi chơi cầu lông, cả nhà thấy lý do này chấp nhận đc k ạ, a cũng nói a k có thời gian để yêu 2 người rồi k có mối nào ngoài e cả nhưng e vẫn thấy nghi ngờ lắm ạ &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Enough_Split_6429"&gt; /u/Enough_Split_6429 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pkn4cn/đàn_ông_không_nhắn_tin_cho_mình_là_do_họ_có_mối/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pkn4cn/đàn_ông_không_nhắn_tin_cho_mình_là_do_họ_có_mối/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pkn4cn/đàn_ông_không_nhắn_tin_cho_mình_là_do_họ_có_mối/"/>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1pkqql5/thẻ_vàng_của_trump/"&gt; &lt;img alt="thẻ vàng của trump" src="https://b.thumbs.redditmedia.com/fGC6A7zd6aVD4IOskyVfm7fjFwAr-qf9W13fEgj17Rg.jpg" title="thẻ vàng của trump" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="https://preview.redd.it/fylxo69yor6g1.png?width=1859&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=a3fa31378d3441d03acaf0c37c9de741376ae607"&gt;https://preview.redd.it/fylxo69yor6g1.png?width=1859&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=a3fa31378d3441d03acaf0c37c9de741376ae607&lt;/a&gt;&lt;/p&gt; &lt;p&gt;nếu mà mấy ông có 23 tỷ mấy ông có đầu tư vào cái thẻ vàng này của trump k ? nếu mà có thì tại sao ? &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Extreme_Breakfast759"&gt; /u/Extreme_Breakfast759 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pkqql5/thẻ_vàng_của_trump/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pkqql5/thẻ_vàng_của_trump/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pkqql5/thẻ_vàng_của_trump/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-12T08:48:03+00:00</published>
+    <published>2025-12-12T12:32:31+00:00</published>
   </entry>
   <entry>
     <id>t3_1pks1bj</id>
@@ -164,17 +164,17 @@
     <published>2025-12-12T11:28:03+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pks716</id>
-    <title>Ok, cho mình kể câu chuyện này như một cú plot twist đúng nghĩa.</title>
-    <updated>2025-12-12T13:42:56+00:00</updated>
+    <id>t3_1pkn4cn</id>
+    <title>Đàn ông không nhắn tin cho mình là do họ có mối quan hệ khác hay do họ không có tình cảm với mình hay do họ mệt mỏi như họ nói</title>
+    <updated>2025-12-12T08:48:03+00:00</updated>
     <author>
-      <name>/u/EqualManagement9728</name>
-      <uri>https://old.reddit.com/user/EqualManagement9728</uri>
+      <name>/u/Enough_Split_6429</name>
+      <uri>https://old.reddit.com/user/Enough_Split_6429</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình quen một người qua mạng gần 4 tháng. Hai đứa nói chuyện mỗi ngày, từ việc nhỏ nhất như ăn sáng gì cho đến những chuyện sâu hơn như gia đình, ước mơ, nỗi sợ.&lt;br /&gt; Cứ tưởng như cuối cùng cũng gặp được “đúng người, đúng thời điểm”.&lt;br /&gt; Mình còn từng nghĩ: “Không ngờ trên mạng cũng có người tử tế và hợp mình đến vậy.”&lt;/p&gt; &lt;p&gt;Và rồi một hôm, trong lúc call video (mà họ luôn nói camera hỏng), mình lỡ buột miệng hỏi một câu rất bình thường:&lt;br /&gt; &lt;strong&gt;“Sao mình chưa bao giờ thấy mặt nhau vậy?”&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Họ im lặng khoảng 10 giây.&lt;br /&gt; Rồi kể ra sự thật:&lt;br /&gt; &lt;strong&gt;Họ là con trai. Thật ra là con trai ngay từ đầu.&lt;/strong&gt;&lt;br /&gt; Tất cả những lời họ nói, mọi thứ họ mô tả về bản thân, đều được “tối giản” lại… trừ giới tính, thứ quan trọng nhất.&lt;/p&gt; &lt;p&gt;Cảm giác lúc đó vừa sốc, vừa buồn cười… kiểu như bị tát một cái tỉnh người vậy.&lt;br /&gt; 4 tháng tin tưởng, 4 tháng kể chuyện đời mình cho một người… mà mình hoàn toàn tưởng tượng sai về họ.&lt;/p&gt; &lt;p&gt;Và điều làm mình rối hơn là:&lt;br /&gt; Mình không hề ghét họ.&lt;br /&gt; Chỉ là cái cảm giác &lt;strong&gt;bị lừa&lt;/strong&gt; nó ăn vào tim theo cách rất khó tả.&lt;/p&gt; &lt;p&gt;Nên câu hỏi của mình là:&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Nếu một ngày bạn phát hiện người yêu online của mình hoá ra là con trai, bạn sẽ làm gì?&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Chặn luôn cho nhanh?&lt;/li&gt; &lt;li&gt;Ngồi xuống hỏi xem họ giấu vì sợ điều gì?&lt;/li&gt; &lt;li&gt;Hay bạn sẽ cảm thấy thất vọng đến mức không muốn tin ai qua mạng nữa?&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Chứ riêng mình, cảm giác như vừa xem xong một bộ phim romance chuyển thành thriller trong vòng 5 phút.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/EqualManagement9728"&gt; /u/EqualManagement9728 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pks716/ok_cho_mình_kể_câu_chuyện_này_như_một_cú_plot/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pks716/ok_cho_mình_kể_câu_chuyện_này_như_một_cú_plot/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pks716/ok_cho_mình_kể_câu_chuyện_này_như_một_cú_plot/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi cả nhà, hiện tại em 25 tuổi và em có đang tìm hiểu một anh hơn em 8 tuổi do hai mẹ mai mối, bọn em tìm hiểu để xem có thể đi tới hôn nhân được không, anh này thì giỏi giang nhưng nói chuyện không được khéo léo và ga lăng lắm, kiểu có gì nói ý nên ban đầu nhắn tin e không ưa anh này lắm, nhưng sau có gặp nhau và 2 người đều có thấy rung động với nhau r chính thức tìm hiểu, qua đi chơi ở ngoài thì em thấy tuy a này k ga lăng nhưng được cái khá thật thà, nhẹ nhàn, bên cạnh anh em cũng thoải mái vì a bảo e cứ thoải mái đi đừng nghĩ nhiều,bọn em cũng có skinship kiểu nắm tay và hôn rồi.e với anh này đều k thích nhắn tin quá nhiều vì còn p tập trung vào công việc,...nhưng ít nhất e muốn khi tìm hiểu nhau thì a thỉnh thoảng cũng nên nhắn mấy câu hỏi han nhau chút. Cả ngày hôm qua a ý có k nhắn cho em và nay e có nói thẳng thắn với a là nếu a bận hay k ổn cứ nhắn e 1 tiếng để e yên tâm đỡ lo chứ a im lặng vậy e sẽ lo lắng kb a có đang làm sao k, a ý chỉ trả lời là a hơi mệt vì dạo này ngày nào a cx đi chơi cầu lông, cả nhà thấy lý do này chấp nhận đc k ạ, a cũng nói a k có thời gian để yêu 2 người rồi k có mối nào ngoài e cả nhưng e vẫn thấy nghi ngờ lắm ạ &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Enough_Split_6429"&gt; /u/Enough_Split_6429 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pkn4cn/đàn_ông_không_nhắn_tin_cho_mình_là_do_họ_có_mối/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pkn4cn/đàn_ông_không_nhắn_tin_cho_mình_là_do_họ_có_mối/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pkn4cn/đàn_ông_không_nhắn_tin_cho_mình_là_do_họ_có_mối/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-12T13:42:56+00:00</published>
+    <published>2025-12-12T08:48:03+00:00</published>
   </entry>
   <entry>
     <id>t3_1pksm1w</id>
@@ -188,19 +188,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pksm1w/vấn_đề_gym/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-12T14:01:18+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1pkqql5</id>
-    <title>thẻ vàng của trump</title>
-    <updated>2025-12-12T12:32:31+00:00</updated>
-    <author>
-      <name>/u/Extreme_Breakfast759</name>
-      <uri>https://old.reddit.com/user/Extreme_Breakfast759</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1pkqql5/thẻ_vàng_của_trump/"&gt; &lt;img alt="thẻ vàng của trump" src="https://b.thumbs.redditmedia.com/fGC6A7zd6aVD4IOskyVfm7fjFwAr-qf9W13fEgj17Rg.jpg" title="thẻ vàng của trump" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="https://preview.redd.it/fylxo69yor6g1.png?width=1859&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=a3fa31378d3441d03acaf0c37c9de741376ae607"&gt;https://preview.redd.it/fylxo69yor6g1.png?width=1859&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=a3fa31378d3441d03acaf0c37c9de741376ae607&lt;/a&gt;&lt;/p&gt; &lt;p&gt;nếu mà mấy ông có 23 tỷ mấy ông có đầu tư vào cái thẻ vàng này của trump k ? nếu mà có thì tại sao ? &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Extreme_Breakfast759"&gt; /u/Extreme_Breakfast759 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pkqql5/thẻ_vàng_của_trump/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pkqql5/thẻ_vàng_của_trump/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pkqql5/thẻ_vàng_của_trump/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-12T12:32:31+00:00</published>
   </entry>
   <entry>
     <id>t3_1pkdpwc</id>
@@ -229,19 +216,6 @@
     <published>2025-12-12T00:24:58+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pkroq3</id>
-    <title>Phạt nguội HN</title>
-    <updated>2025-12-12T13:19:33+00:00</updated>
-    <author>
-      <name>/u/One-Cap-2670</name>
-      <uri>https://old.reddit.com/user/One-Cap-2670</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1pkroq3/phạt_nguội_hn/"&gt; &lt;img alt="Phạt nguội HN" src="https://b.thumbs.redditmedia.com/nMgSL7eF9M-qWnOXSWNvTYTUZDJaf8nJjzqZ1VGhCfU.jpg" title="Phạt nguội HN" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;không đội mũ này,vượt đèn này,không thắt dây an toàn này,nét luôn&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/One-Cap-2670"&gt; /u/One-Cap-2670 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1pkroq3"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pkroq3/phạt_nguội_hn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pkroq3/phạt_nguội_hn/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-12T13:19:33+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1pkf832</id>
     <title>Mọi người sống vì điều gì theo đuổi một điều gì đó không?</title>
     <updated>2025-12-12T01:38:44+00:00</updated>
@@ -255,17 +229,30 @@
     <published>2025-12-12T01:38:44+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pknqht</id>
-    <title>Mấy hôm nay thở đau họng quá</title>
-    <updated>2025-12-12T09:30:07+00:00</updated>
+    <id>t3_1pks716</id>
+    <title>Ok, cho mình kể câu chuyện này như một cú plot twist đúng nghĩa.</title>
+    <updated>2025-12-12T13:42:56+00:00</updated>
     <author>
-      <name>/u/Alarming_Gap313</name>
-      <uri>https://old.reddit.com/user/Alarming_Gap313</uri>
+      <name>/u/EqualManagement9728</name>
+      <uri>https://old.reddit.com/user/EqualManagement9728</uri>
     </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1pknqht/mấy_hôm_nay_thở_đau_họng_quá/"&gt; &lt;img alt="Mấy hôm nay thở đau họng quá" src="https://preview.redd.it/uv38zs3isq6g1.gif?width=320&amp;amp;crop=smart&amp;amp;s=11e16a11f168c069a51d1ab9004d26bb1009e08a" title="Mấy hôm nay thở đau họng quá" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Alarming_Gap313"&gt; /u/Alarming_Gap313 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/uv38zs3isq6g1.gif"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pknqht/mấy_hôm_nay_thở_đau_họng_quá/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pknqht/mấy_hôm_nay_thở_đau_họng_quá/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình quen một người qua mạng gần 4 tháng. Hai đứa nói chuyện mỗi ngày, từ việc nhỏ nhất như ăn sáng gì cho đến những chuyện sâu hơn như gia đình, ước mơ, nỗi sợ.&lt;br /&gt; Cứ tưởng như cuối cùng cũng gặp được “đúng người, đúng thời điểm”.&lt;br /&gt; Mình còn từng nghĩ: “Không ngờ trên mạng cũng có người tử tế và hợp mình đến vậy.”&lt;/p&gt; &lt;p&gt;Và rồi một hôm, trong lúc call video (mà họ luôn nói camera hỏng), mình lỡ buột miệng hỏi một câu rất bình thường:&lt;br /&gt; &lt;strong&gt;“Sao mình chưa bao giờ thấy mặt nhau vậy?”&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Họ im lặng khoảng 10 giây.&lt;br /&gt; Rồi kể ra sự thật:&lt;br /&gt; &lt;strong&gt;Họ là con trai. Thật ra là con trai ngay từ đầu.&lt;/strong&gt;&lt;br /&gt; Tất cả những lời họ nói, mọi thứ họ mô tả về bản thân, đều được “tối giản” lại… trừ giới tính, thứ quan trọng nhất.&lt;/p&gt; &lt;p&gt;Cảm giác lúc đó vừa sốc, vừa buồn cười… kiểu như bị tát một cái tỉnh người vậy.&lt;br /&gt; 4 tháng tin tưởng, 4 tháng kể chuyện đời mình cho một người… mà mình hoàn toàn tưởng tượng sai về họ.&lt;/p&gt; &lt;p&gt;Và điều làm mình rối hơn là:&lt;br /&gt; Mình không hề ghét họ.&lt;br /&gt; Chỉ là cái cảm giác &lt;strong&gt;bị lừa&lt;/strong&gt; nó ăn vào tim theo cách rất khó tả.&lt;/p&gt; &lt;p&gt;Nên câu hỏi của mình là:&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Nếu một ngày bạn phát hiện người yêu online của mình hoá ra là con trai, bạn sẽ làm gì?&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Chặn luôn cho nhanh?&lt;/li&gt; &lt;li&gt;Ngồi xuống hỏi xem họ giấu vì sợ điều gì?&lt;/li&gt; &lt;li&gt;Hay bạn sẽ cảm thấy thất vọng đến mức không muốn tin ai qua mạng nữa?&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Chứ riêng mình, cảm giác như vừa xem xong một bộ phim romance chuyển thành thriller trong vòng 5 phút.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/EqualManagement9728"&gt; /u/EqualManagement9728 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pks716/ok_cho_mình_kể_câu_chuyện_này_như_một_cú_plot/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pks716/ok_cho_mình_kể_câu_chuyện_này_như_một_cú_plot/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pks716/ok_cho_mình_kể_câu_chuyện_này_như_một_cú_plot/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-12T09:30:07+00:00</published>
+    <published>2025-12-12T13:42:56+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pkroq3</id>
+    <title>Phạt nguội HN</title>
+    <updated>2025-12-12T13:19:33+00:00</updated>
+    <author>
+      <name>/u/One-Cap-2670</name>
+      <uri>https://old.reddit.com/user/One-Cap-2670</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1pkroq3/phạt_nguội_hn/"&gt; &lt;img alt="Phạt nguội HN" src="https://b.thumbs.redditmedia.com/nMgSL7eF9M-qWnOXSWNvTYTUZDJaf8nJjzqZ1VGhCfU.jpg" title="Phạt nguội HN" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;không đội mũ này,vượt đèn này,không thắt dây an toàn này,nét luôn&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/One-Cap-2670"&gt; /u/One-Cap-2670 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1pkroq3"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pkroq3/phạt_nguội_hn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pkroq3/phạt_nguội_hn/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-12T13:19:33+00:00</published>
   </entry>
   <entry>
     <id>t3_1pkmfwh</id>
@@ -279,6 +266,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pkmfwh/câu_trả_lời_cho_câu_hỏi_tại_sao_anh_yêu_em/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-12T08:01:44+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pknqht</id>
+    <title>Mấy hôm nay thở đau họng quá</title>
+    <updated>2025-12-12T09:30:07+00:00</updated>
+    <author>
+      <name>/u/Alarming_Gap313</name>
+      <uri>https://old.reddit.com/user/Alarming_Gap313</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1pknqht/mấy_hôm_nay_thở_đau_họng_quá/"&gt; &lt;img alt="Mấy hôm nay thở đau họng quá" src="https://preview.redd.it/uv38zs3isq6g1.gif?width=320&amp;amp;crop=smart&amp;amp;s=11e16a11f168c069a51d1ab9004d26bb1009e08a" title="Mấy hôm nay thở đau họng quá" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Alarming_Gap313"&gt; /u/Alarming_Gap313 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/uv38zs3isq6g1.gif"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pknqht/mấy_hôm_nay_thở_đau_họng_quá/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pknqht/mấy_hôm_nay_thở_đau_họng_quá/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-12T09:30:07+00:00</published>
   </entry>
   <entry>
     <id>t3_1pkrmjc</id>
