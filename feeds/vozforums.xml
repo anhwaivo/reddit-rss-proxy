@@ -2,37 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-12-12T12:41:18+00:00</updated>
+  <updated>2025-12-12T13:23:09+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1pknafc</id>
-    <title>[HIRING][HCM] Tìm GIS Specialist (từ 2 năm KN) – Full-time</title>
-    <updated>2025-12-12T08:59:55+00:00</updated>
-    <author>
-      <name>/u/Entire_Insurance7797</name>
-      <uri>https://old.reddit.com/user/Entire_Insurance7797</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Bên mình cần tìm &lt;strong&gt;1 GIS Specialist&lt;/strong&gt; làm full-time tại &lt;strong&gt;TP.HCM – Q2&lt;/strong&gt;.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Yêu cầu chính:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Dùng tốt &lt;strong&gt;QGIS / ArcGIS&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;Có kinh nghiệm &lt;strong&gt;PostgreSQL / PostGIS&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;Tư duy không gian ổn&lt;/li&gt; &lt;li&gt;Cẩn thận, làm việc với dữ liệu nghiêm túc&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Công việc:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Xử lý &amp;amp; chuẩn hóa dữ liệu không gian phục vụ bản đồ / định giá&lt;/li&gt; &lt;li&gt;Làm việc với PostGIS và các chuẩn dữ liệu GIS&lt;/li&gt; &lt;li&gt;Hỗ trợ phân tích không gian, quy trình GIS nội bộ&lt;/li&gt; &lt;li&gt;Có cơ hội tiếp cận WebGIS, phân tích nâng cao (tùy dự án)&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Thông tin chung:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Địa điểm: TP.HCM (Q2)&lt;/li&gt; &lt;li&gt;Hình thức: Full-time&lt;/li&gt; &lt;li&gt;Kinh nghiệm: từ ~2 năm&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Quan tâm thì &lt;strong&gt;inbox mình&lt;/strong&gt; để trao đổi chi tiết.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Entire_Insurance7797"&gt; /u/Entire_Insurance7797 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pknafc/hiringhcm_tìm_gis_specialist_từ_2_năm_kn_fulltime/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pknafc/hiringhcm_tìm_gis_specialist_từ_2_năm_kn_fulltime/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pknafc/hiringhcm_tìm_gis_specialist_từ_2_năm_kn_fulltime/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-12T08:59:55+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1pkk6g5</id>
-    <title>Nên chọn học DS hay IS ở HCMUS</title>
-    <updated>2025-12-12T05:43:52+00:00</updated>
-    <author>
-      <name>/u/One-Camp-5484</name>
-      <uri>https://old.reddit.com/user/One-Camp-5484</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em đang là sv năm 2 cntt ở hcmus cuối năm sẽ chọn chuyên ngành. Em đang phân vân giữa hai chuyên ngành là Khoa học Dữ liệu (Data Science) và Hệ thống Thông tin (Information Systems). Em rất thích hướng phân tích, dự đoán và mô hình hoá dữ liệu, muốn theo dài hạn các vị trí như Data Scientist hoặc ML Engineer, nên em thấy chuyên ngành DS hợp sở thích hơn. Tuy nhiên, em cũng biết rằng IS có nhiều cơ hội thực tập và việc làm hơn, còn DS thì slot intern khá ít và cạnh tranh cao, chỉ tuyển junior /senior . Vì vậy em đang băn khoăn: nên chọn đúng sở thích (DS) hay chọn IS để an toàn và dễ có cơ hội hơn rồi sau này tự học thêm DS/AI? Mong mọi người chia sẻ giúp em ạ. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/One-Camp-5484"&gt; /u/One-Camp-5484 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pkk6g5/nên_chọn_học_ds_hay_is_ở_hcmus/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pkk6g5/nên_chọn_học_ds_hay_is_ở_hcmus/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pkk6g5/nên_chọn_học_ds_hay_is_ở_hcmus/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-12T05:43:52+00:00</published>
-  </entry>
   <entry>
     <id>t3_1pknr3s</id>
     <title>Gặp đồng nghiệp/bạn của bạn/stalker trên Bumble</title>
@@ -125,19 +99,6 @@
     <published>2025-12-12T12:06:34+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pkqql5</id>
-    <title>thẻ vàng của trump</title>
-    <updated>2025-12-12T12:32:31+00:00</updated>
-    <author>
-      <name>/u/Extreme_Breakfast759</name>
-      <uri>https://old.reddit.com/user/Extreme_Breakfast759</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1pkqql5/thẻ_vàng_của_trump/"&gt; &lt;img alt="thẻ vàng của trump" src="https://b.thumbs.redditmedia.com/fGC6A7zd6aVD4IOskyVfm7fjFwAr-qf9W13fEgj17Rg.jpg" title="thẻ vàng của trump" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="https://preview.redd.it/fylxo69yor6g1.png?width=1859&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=a3fa31378d3441d03acaf0c37c9de741376ae607"&gt;https://preview.redd.it/fylxo69yor6g1.png?width=1859&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=a3fa31378d3441d03acaf0c37c9de741376ae607&lt;/a&gt;&lt;/p&gt; &lt;p&gt;nếu mà mấy ông có 23 tỷ mấy ông có đầu tư vào cái thẻ vàng này của trump k ? nếu mà có thì tại sao ? &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Extreme_Breakfast759"&gt; /u/Extreme_Breakfast759 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pkqql5/thẻ_vàng_của_trump/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pkqql5/thẻ_vàng_của_trump/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pkqql5/thẻ_vàng_của_trump/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-12T12:32:31+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1pkl8mv</id>
     <title>Kinh nghiệm quá cảnh Malay</title>
     <updated>2025-12-12T06:44:44+00:00</updated>
@@ -151,6 +112,19 @@
     <published>2025-12-12T06:44:44+00:00</published>
   </entry>
   <entry>
+    <id>t3_1pkroq3</id>
+    <title>Phạt nguội HN</title>
+    <updated>2025-12-12T13:19:33+00:00</updated>
+    <author>
+      <name>/u/One-Cap-2670</name>
+      <uri>https://old.reddit.com/user/One-Cap-2670</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1pkroq3/phạt_nguội_hn/"&gt; &lt;img alt="Phạt nguội HN" src="https://b.thumbs.redditmedia.com/nMgSL7eF9M-qWnOXSWNvTYTUZDJaf8nJjzqZ1VGhCfU.jpg" title="Phạt nguội HN" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;không đội mũ này,vượt đèn này,không thắt dây an toàn này,nét luôn&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/One-Cap-2670"&gt; /u/One-Cap-2670 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1pkroq3"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pkroq3/phạt_nguội_hn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pkroq3/phạt_nguội_hn/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-12T13:19:33+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1pkkmrf</id>
     <title>Cấp 2 xài điện thoại</title>
     <updated>2025-12-12T06:08:57+00:00</updated>
@@ -162,19 +136,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pkkmrf/cấp_2_xài_điện_thoại/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-12T06:08:57+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1pkk4m1</id>
-    <title>Đèn giao thông HN thay đổi?</title>
-    <updated>2025-12-12T05:41:01+00:00</updated>
-    <author>
-      <name>/u/AdInteresting257</name>
-      <uri>https://old.reddit.com/user/AdInteresting257</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các sếp, dạo gần đây đi đường Nguyễn Hoàng, thấy đèn giao thông có sự thay đổi. Thay vì có một bộ đếm ngược tự đầu đến cuối thì nó lại chỉ hiện đếm ngược khi còn 8s thôi. Nên k biết là sẽ chờ đèn trong bao lâu? (VD: Trước kia, đèn 50s thì đếm từ 50 -&amp;gt; 0. Bây giờ, phải còn 8s cuối thì mới bắt đầu hiện đếm ngược)&lt;/p&gt; &lt;p&gt;Các sếp có lý giải tại sao không? Nó có lợi hơn?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/AdInteresting257"&gt; /u/AdInteresting257 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pkk4m1/đèn_giao_thông_hn_thay_đổi/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pkk4m1/đèn_giao_thông_hn_thay_đổi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pkk4m1/đèn_giao_thông_hn_thay_đổi/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-12T05:41:01+00:00</published>
   </entry>
   <entry>
     <id>t3_1pkn4cn</id>
@@ -229,6 +190,45 @@
     <published>2025-12-12T11:28:03+00:00</published>
   </entry>
   <entry>
+    <id>t3_1pkk4m1</id>
+    <title>Đèn giao thông HN thay đổi?</title>
+    <updated>2025-12-12T05:41:01+00:00</updated>
+    <author>
+      <name>/u/AdInteresting257</name>
+      <uri>https://old.reddit.com/user/AdInteresting257</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các sếp, dạo gần đây đi đường Nguyễn Hoàng, thấy đèn giao thông có sự thay đổi. Thay vì có một bộ đếm ngược tự đầu đến cuối thì nó lại chỉ hiện đếm ngược khi còn 8s thôi. Nên k biết là sẽ chờ đèn trong bao lâu? (VD: Trước kia, đèn 50s thì đếm từ 50 -&amp;gt; 0. Bây giờ, phải còn 8s cuối thì mới bắt đầu hiện đếm ngược)&lt;/p&gt; &lt;p&gt;Các sếp có lý giải tại sao không? Nó có lợi hơn?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/AdInteresting257"&gt; /u/AdInteresting257 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pkk4m1/đèn_giao_thông_hn_thay_đổi/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pkk4m1/đèn_giao_thông_hn_thay_đổi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pkk4m1/đèn_giao_thông_hn_thay_đổi/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-12T05:41:01+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pkqql5</id>
+    <title>thẻ vàng của trump</title>
+    <updated>2025-12-12T12:32:31+00:00</updated>
+    <author>
+      <name>/u/Extreme_Breakfast759</name>
+      <uri>https://old.reddit.com/user/Extreme_Breakfast759</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1pkqql5/thẻ_vàng_của_trump/"&gt; &lt;img alt="thẻ vàng của trump" src="https://b.thumbs.redditmedia.com/fGC6A7zd6aVD4IOskyVfm7fjFwAr-qf9W13fEgj17Rg.jpg" title="thẻ vàng của trump" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="https://preview.redd.it/fylxo69yor6g1.png?width=1859&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=a3fa31378d3441d03acaf0c37c9de741376ae607"&gt;https://preview.redd.it/fylxo69yor6g1.png?width=1859&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=a3fa31378d3441d03acaf0c37c9de741376ae607&lt;/a&gt;&lt;/p&gt; &lt;p&gt;nếu mà mấy ông có 23 tỷ mấy ông có đầu tư vào cái thẻ vàng này của trump k ? nếu mà có thì tại sao ? &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Extreme_Breakfast759"&gt; /u/Extreme_Breakfast759 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pkqql5/thẻ_vàng_của_trump/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pkqql5/thẻ_vàng_của_trump/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pkqql5/thẻ_vàng_của_trump/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-12T12:32:31+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pkrmjc</id>
+    <title>Với tình hình không khí Hà Nội hiện tại</title>
+    <updated>2025-12-12T13:16:39+00:00</updated>
+    <author>
+      <name>/u/EvilChick537</name>
+      <uri>https://old.reddit.com/user/EvilChick537</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1pkrmjc/với_tình_hình_không_khí_hà_nội_hiện_tại/"&gt; &lt;img alt="Với tình hình không khí Hà Nội hiện tại" src="https://external-preview.redd.it/eWUwd3BtOXh3cjZnMVnDHHfBQnIukFeOMk0YqTsyLFPz9u5vfIcAM_KChwio.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=4eb9603e4b4f376ac1c18d2a17449a57a7b55ffd" title="Với tình hình không khí Hà Nội hiện tại" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;tôi cần thứ nàyyyy&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/EvilChick537"&gt; /u/EvilChick537 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://v.redd.it/eqryed7xwr6g1"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pkrmjc/với_tình_hình_không_khí_hà_nội_hiện_tại/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pkrmjc/với_tình_hình_không_khí_hà_nội_hiện_tại/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-12T13:16:39+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1pkdmuj</id>
     <title>Cuộc sống</title>
     <updated>2025-12-12T00:24:58+00:00</updated>
@@ -255,19 +255,6 @@
     <published>2025-12-12T00:28:56+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pknqht</id>
-    <title>Mấy hôm nay thở đau họng quá</title>
-    <updated>2025-12-12T09:30:07+00:00</updated>
-    <author>
-      <name>/u/Alarming_Gap313</name>
-      <uri>https://old.reddit.com/user/Alarming_Gap313</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1pknqht/mấy_hôm_nay_thở_đau_họng_quá/"&gt; &lt;img alt="Mấy hôm nay thở đau họng quá" src="https://preview.redd.it/uv38zs3isq6g1.gif?width=320&amp;amp;crop=smart&amp;amp;s=11e16a11f168c069a51d1ab9004d26bb1009e08a" title="Mấy hôm nay thở đau họng quá" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Alarming_Gap313"&gt; /u/Alarming_Gap313 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/uv38zs3isq6g1.gif"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pknqht/mấy_hôm_nay_thở_đau_họng_quá/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pknqht/mấy_hôm_nay_thở_đau_họng_quá/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-12T09:30:07+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1pkf832</id>
     <title>Mọi người sống vì điều gì theo đuổi một điều gì đó không?</title>
     <updated>2025-12-12T01:38:44+00:00</updated>
@@ -279,6 +266,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pkf832/mọi_người_sống_vì_điều_gì_theo_đuổi_một_điều_gì/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-12T01:38:44+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pknqht</id>
+    <title>Mấy hôm nay thở đau họng quá</title>
+    <updated>2025-12-12T09:30:07+00:00</updated>
+    <author>
+      <name>/u/Alarming_Gap313</name>
+      <uri>https://old.reddit.com/user/Alarming_Gap313</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1pknqht/mấy_hôm_nay_thở_đau_họng_quá/"&gt; &lt;img alt="Mấy hôm nay thở đau họng quá" src="https://preview.redd.it/uv38zs3isq6g1.gif?width=320&amp;amp;crop=smart&amp;amp;s=11e16a11f168c069a51d1ab9004d26bb1009e08a" title="Mấy hôm nay thở đau họng quá" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Alarming_Gap313"&gt; /u/Alarming_Gap313 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/uv38zs3isq6g1.gif"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pknqht/mấy_hôm_nay_thở_đau_họng_quá/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pknqht/mấy_hôm_nay_thở_đau_họng_quá/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-12T09:30:07+00:00</published>
   </entry>
   <entry>
     <id>t3_1pkmfwh</id>
