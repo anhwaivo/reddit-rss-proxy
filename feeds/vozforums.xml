@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-12-15T09:01:43+00:00</updated>
+  <updated>2025-12-15T09:46:22+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1pn1mgb</id>
-    <title>Có phải đàn ông chỉ yêu 1 người duy nhất trong đời</title>
-    <updated>2025-12-15T07:36:47+00:00</updated>
-    <author>
-      <name>/u/Routine_Street_7383</name>
-      <uri>https://old.reddit.com/user/Routine_Street_7383</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tôi năm nay 33 tuổi rồi đã trải qua một số mối tình nhưng không thể nào có thể có lại cái cảm xúc ở tuổi 19 - 20 cảm xúc yêu một người ngày nhớ đêm mong, gặp phát là yêu luôn còn gọi là tiếng sét ái tình, khi chia tay cảm giác thế giới này sụp đổ, đi làm chỉ cần nghe 1 bài hát buồn là nước mắt rơi, hay chỉ cần ngồi một mình đôi lúc nhớ đến phát khóc, nhớ người ta đến điên cuồng nhưng lại chẳng dám mở lời quay lại bởi vì tôi biết người ta không còn yêu mình nữa chỉ là nơi tạm vui, viết đến đây nước mắt tôi lại rưng rưng. Nhớ nhất câu em từng nói với tôi &amp;quot;Mình không có tương lai đâu&amp;quot; khi nói câu này, tôi biết chắc hẳn em ấy đã có lựa chọn con đường mới cho mình. Lúc đó chỉ có hai bàn tay trắng, câu sinh viên nghèo, từ lúc đó tôi biết mình phải có sự nghiệp, nên tôi lao đầu vào học và tìm cách kiếm tiền, và tôi cũng có một chút thành tựu nhỏ là có nhà, có xe nhưng không có em. Tôi cũng đã yêu thêm một vài người nhưng nó chỉ là cảm xúc thích thích, chứ không thể nào có cảm xúc yêu. Các bác ở đây cho em hỏi có phải là đàn ông chúng mình thường chỉ yêu duy nhất 1 người sâu đậm không?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Routine_Street_7383"&gt; /u/Routine_Street_7383 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pn1mgb/có_phải_đàn_ông_chỉ_yêu_1_người_duy_nhất_trong_đời/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pn1mgb/có_phải_đàn_ông_chỉ_yêu_1_người_duy_nhất_trong_đời/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pn1mgb/có_phải_đàn_ông_chỉ_yêu_1_người_duy_nhất_trong_đời/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-15T07:36:47+00:00</published>
-  </entry>
   <entry>
     <id>t3_1pn25sl</id>
     <title>Cà phê pha phin loại nào ngon</title>
@@ -60,6 +47,19 @@
     <published>2025-12-14T08:01:12+00:00</published>
   </entry>
   <entry>
+    <id>t3_1pn3241</id>
+    <title>Xin Review bên hoctest.com</title>
+    <updated>2025-12-15T09:15:25+00:00</updated>
+    <author>
+      <name>/u/truongvanhoc0236</name>
+      <uri>https://old.reddit.com/user/truongvanhoc0236</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tình hình là kinh tế khó khăn, KH bị cty khác mua lại, giờ sắp layoff bên mình nên mình tính đi học thêm khóa auto QA phòng thân. &lt;/p&gt; &lt;p&gt;Mình hiện đang làm manual QA. Từng có 1 năm làm performance QA rồi mà toàn làm mấy cái lặt vặt ở phần ngọn thôi như report so sánh ver mới và ver cũ, hay update script Jmeter chút chút cũng chán + không phải dân dev qua nên cũng khá chật, cuối cùng lại nhảy về manual. Cũng từng có thời gian 2 tháng vừa học vừa làm auto Playwright với typescript nhưng KH sau đó cũng bị mua lại rồi... layoff và mình qua làm manual QA cho dự án hiện tại. Đợt làm Playwright thì cũng như thời performance, giao task ở MH nào thì cứ mò đến khi nó chạy đúng yêu cầu thì thôi. Xong đưa leader review logic và coding convention. Sau này cũng có mua khóa học auto Selenium trên Udemy mà tự học nhác quá. Cũng có lúc tự mò Playwright vào check giá vé máy bay Vietjet. Mà nó đổi quảng cáo phát là script chạy không được, nản quá nên thôi luôn. &lt;/p&gt; &lt;p&gt;Giờ tới phần câu hỏi. Có bác nào học Playwright ở &lt;a href="http://hoctest.com"&gt;hoctest.com&lt;/a&gt; chưa? Mình thấy đang tuyển học viên mở khóa mới ở nhóm Playwright Việt Nam. Mình tính đăng ký học. Chắc tương tác với người và có cảm giác bị dí deadline sẽ nghiêm túc học hơn nhỉ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/truongvanhoc0236"&gt; /u/truongvanhoc0236 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pn3241/xin_review_bên_hoctestcom/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pn3241/xin_review_bên_hoctestcom/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pn3241/xin_review_bên_hoctestcom/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-15T09:15:25+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1pmcovg</id>
     <title>Gặp người giỏi, tự tin, mình tự ti</title>
     <updated>2025-12-14T12:14:18+00:00</updated>
@@ -86,19 +86,6 @@
     <published>2025-12-15T06:18:10+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pmga40</id>
-    <title>sửa điện thoại</title>
-    <updated>2025-12-14T15:09:52+00:00</updated>
-    <author>
-      <name>/u/Party-Parfait5443</name>
-      <uri>https://old.reddit.com/user/Party-Parfait5443</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;- mình chỉ muốn nhắc các bạn (đặc biệt các bạn nữ) có bị hư thiết bị điện tử gì như laptop, đt khi đi sửa nhớ tham khảo ít nhất 3-5 tiệm để so sánh giá &amp;amp; không bị lừa! =))&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;- mình từng nhiều lần bị báo giá gấp đôi thậm chí gấp 3 (chắc chỉ vì mình là con gái?!, trông có vẻ ko rành công nghệ 🫠) &lt;/p&gt; &lt;p&gt;- đỉnh điểm, tuần trước máy mình bị treo táo cả ngày xong đem ra tiệm ông ý hét giá 800k :) lúc mình bảo thôi ko sửa đâu cái ổng nhăn nhó ko muốn trả máy cho mình luôn :)) còn bảo em đi chỗ khác nó báo giá còn cao hơn chỗ anh :)) &lt;/p&gt; &lt;p&gt;- mình xin lại máy thì ổng cọc ổng đòi phí kiểm tra máy ạ =)) mình cũng trả luôn chứ nhìn thằng già tóc dài nhăn nhó trợn mắt với mình trông phát sợ! &lt;/p&gt; &lt;p&gt;- xong mình đem qua chỗ khác thì ngta fix lỗi cho mình rồi còn bảo lỗi nhỏ thôi ko lấy phí nữa!! 🥹&lt;/p&gt; &lt;p&gt;- bữa giờ mình cứ suy nghĩ ko biết thằng già tóc dài kia nó nạt được bao nhiêu người yếu vía sửa máy chỗ nó giá cắt cổ rồi nữa! 😓&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Party-Parfait5443"&gt; /u/Party-Parfait5443 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pmga40/sửa_điện_thoại/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pmga40/sửa_điện_thoại/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pmga40/sửa_điện_thoại/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-14T15:09:52+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1pmz6hq</id>
     <title>Gia hạn bảo hiểm y tế.</title>
     <updated>2025-12-15T05:08:38+00:00</updated>
@@ -110,6 +97,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pmz6hq/gia_hạn_bảo_hiểm_y_tế/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-15T05:08:38+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pmga40</id>
+    <title>sửa điện thoại</title>
+    <updated>2025-12-14T15:09:52+00:00</updated>
+    <author>
+      <name>/u/Party-Parfait5443</name>
+      <uri>https://old.reddit.com/user/Party-Parfait5443</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;- mình chỉ muốn nhắc các bạn (đặc biệt các bạn nữ) có bị hư thiết bị điện tử gì như laptop, đt khi đi sửa nhớ tham khảo ít nhất 3-5 tiệm để so sánh giá &amp;amp; không bị lừa! =))&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;- mình từng nhiều lần bị báo giá gấp đôi thậm chí gấp 3 (chắc chỉ vì mình là con gái?!, trông có vẻ ko rành công nghệ 🫠) &lt;/p&gt; &lt;p&gt;- đỉnh điểm, tuần trước máy mình bị treo táo cả ngày xong đem ra tiệm ông ý hét giá 800k :) lúc mình bảo thôi ko sửa đâu cái ổng nhăn nhó ko muốn trả máy cho mình luôn :)) còn bảo em đi chỗ khác nó báo giá còn cao hơn chỗ anh :)) &lt;/p&gt; &lt;p&gt;- mình xin lại máy thì ổng cọc ổng đòi phí kiểm tra máy ạ =)) mình cũng trả luôn chứ nhìn thằng già tóc dài nhăn nhó trợn mắt với mình trông phát sợ! &lt;/p&gt; &lt;p&gt;- xong mình đem qua chỗ khác thì ngta fix lỗi cho mình rồi còn bảo lỗi nhỏ thôi ko lấy phí nữa!! 🥹&lt;/p&gt; &lt;p&gt;- bữa giờ mình cứ suy nghĩ ko biết thằng già tóc dài kia nó nạt được bao nhiêu người yếu vía sửa máy chỗ nó giá cắt cổ rồi nữa! 😓&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Party-Parfait5443"&gt; /u/Party-Parfait5443 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pmga40/sửa_điện_thoại/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pmga40/sửa_điện_thoại/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pmga40/sửa_điện_thoại/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-14T15:09:52+00:00</published>
   </entry>
   <entry>
     <id>t3_1pmyp4e</id>
@@ -138,19 +138,6 @@
     <published>2025-12-15T06:37:08+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pmhfyi</id>
-    <title>Mọi người nghĩ sao về Gen Alpha</title>
-    <updated>2025-12-14T15:59:57+00:00</updated>
-    <author>
-      <name>/u/Candid-Entrance-1926</name>
-      <uri>https://old.reddit.com/user/Candid-Entrance-1926</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em là thế hệ đầu của Gen Alpha tức sinh năm 2k11 nhưng em vẫn thấy Gen Alpha khá không ổn.&lt;/p&gt; &lt;p&gt;Có lẽ do thế hệ này tiếp xúc với công nghệ, mạng xã hội quá sớm nên mới sinh ra nhiều vấn đề.&lt;/p&gt; &lt;p&gt;Đầu tiên em muốn kể đến về vấn đề ngôn ngữ.&lt;/p&gt; &lt;p&gt;Cái này chắc không ai lạ nhỉ, em thấy bọn trẻ con bây giờ mở miệng ra là ngôn ngữ mạng, chắc mọi người không lạ cái câu &amp;quot;Ai hỏi?&amp;quot; nhỉ. Rồi cái trend &amp;quot;thối não&amp;quot; đợt trước nữa khiến vấn đề ngôn ngữ bị ảnh hưởng một cách nghiêm trọng.&lt;/p&gt; &lt;p&gt;Thứ hai là về mặt đạo đức.&lt;/p&gt; &lt;p&gt;Em cảm giác bọn trẻ bây giờ hơi vô lễ, ăn nói thiếu tôn trọng với người lớn, còn gọi thầy cô là &amp;quot;ông&amp;quot; này &amp;quot;bà&amp;quot; nọ.&lt;/p&gt; &lt;p&gt;Một điều làm em rất buồn là khi thấy những vụ tại nạn, không những bọn nó không giúp đỡ mà còn cười cợt, quay phim chụp ảnh.&lt;/p&gt; &lt;p&gt;Tóm lại em thấy Gen Alpha cứ sao sao ấy.&lt;/p&gt; &lt;p&gt;Đây lá ý kiến của em, mọi người nghĩ sao ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Candid-Entrance-1926"&gt; /u/Candid-Entrance-1926 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pmhfyi/mọi_người_nghĩ_sao_về_gen_alpha/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pmhfyi/mọi_người_nghĩ_sao_về_gen_alpha/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pmhfyi/mọi_người_nghĩ_sao_về_gen_alpha/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-14T15:59:57+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1pmw1tf</id>
     <title>Đà Nẵng sao khó sống quá</title>
     <updated>2025-12-15T02:26:22+00:00</updated>
@@ -164,56 +151,30 @@
     <published>2025-12-15T02:26:22+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pn11ia</id>
-    <title>Luật bảo vệ người lao động ở Việt Nam có không ?</title>
-    <updated>2025-12-15T06:59:00+00:00</updated>
+    <id>t3_1pn33ur</id>
+    <title>nhắn tin với người khác giới</title>
+    <updated>2025-12-15T09:18:49+00:00</updated>
     <author>
-      <name>/u/Fit_Improvement_516</name>
-      <uri>https://old.reddit.com/user/Fit_Improvement_516</uri>
+      <name>/u/Fantastic-Future-935</name>
+      <uri>https://old.reddit.com/user/Fantastic-Future-935</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình khi đi làm một công ty BĐS ở Việt NAM, khi có sự kiện mời khách đến tham gia cuối tuần, Giám đốc bảo có khách thì ko phạt, còn ai ko khách thì phạt 200k là đúng hay sai nhỉ, mình thấy sao nhiều công ty ưng là phạt tiền nhân viên, ưng thì cho nghỉ ngang xương, ko có chút nào là quyền bảo vệ người lao động hã trời&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Fit_Improvement_516"&gt; /u/Fit_Improvement_516 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pn11ia/luật_bảo_vệ_người_lao_động_ở_việt_nam_có_không/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pn11ia/luật_bảo_vệ_người_lao_động_ở_việt_nam_có_không/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pn11ia/luật_bảo_vệ_người_lao_động_ở_việt_nam_có_không/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi mọi người, trước hết em là ng hướng nội, ít mqh và cũng không có nhiều kinh nghiệm yêu đương nên muốn hỏi: nhắn tin với người khác giới với tần suất cũng kha khá khi có người yêu thì có bình thường không ạ? (có thể nhắn với người yêu ít hơn họ) vì cái anh em từng tìm hiểu (bây giờ đã thôi) có nói rằng anh ấy cũng có những mối quan hệ xã giao khác, quan trọng là nghĩ đến nhau là đủ. em cũng để ý anh ấy hay che màn hình dt mỗi khi nhắn tin nữa .Nếu chỉ là những nội dung công việc hay xã giao thì em không có ý kiến gì. Nhưng thật sự em cảm thấy nếu ny của mình mà chăm chăm nhắn cho họ mà hờ hững trong việc nhắn tin/ nói chuyện với mình thì em cũng thấy hơi tủi thân ạ. Em cx đã dừng mối kia do 2 bên không hợp vì nhiều điểm khác biệt trong suy nghĩ và anh này có tính ái kỉ nữa. Không biết có phải em đang nghĩ nhiều không khi sợ mình là lốp dự phòng? vì em cũng nghĩ đúng là nhắn tin không có vấn đề gì cả nhưng ng đó khiến e cảm giác thiếu an toàn và đa nghi. Mong mọi người cho lời khuyên và kinh nghiệm trong việc yêu đương va hôn nhân (nếu có) ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Fantastic-Future-935"&gt; /u/Fantastic-Future-935 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pn33ur/nhắn_tin_với_người_khác_giới/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pn33ur/nhắn_tin_với_người_khác_giới/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pn33ur/nhắn_tin_với_người_khác_giới/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-15T06:59:00+00:00</published>
+    <published>2025-12-15T09:18:49+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pn2lq4</id>
-    <title>Chích vaccine mà bé bị vầy sợ quá</title>
-    <updated>2025-12-15T08:43:59+00:00</updated>
+    <id>t3_1pmhfyi</id>
+    <title>Mọi người nghĩ sao về Gen Alpha</title>
+    <updated>2025-12-14T15:59:57+00:00</updated>
     <author>
-      <name>/u/leminhthuy</name>
-      <uri>https://old.reddit.com/user/leminhthuy</uri>
+      <name>/u/Candid-Entrance-1926</name>
+      <uri>https://old.reddit.com/user/Candid-Entrance-1926</uri>
     </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1pn2lq4/chích_vaccine_mà_bé_bị_vầy_sợ_quá/"&gt; &lt;img alt="Chích vaccine mà bé bị vầy sợ quá" src="https://preview.redd.it/sidwuwh0zb7g1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=914deb2c48c1066491d5f412917efbf78bf93f81" title="Chích vaccine mà bé bị vầy sợ quá" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hồi thế hệ của mình ai cũng phải chích ngừa, mà giờ nhiều mom sợ cho con chích ngừa quá. Mà thấy kiểu càng chích càng dễ bệnh á mn! Ai cho ý kiến mình với huhu&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/leminhthuy"&gt; /u/leminhthuy &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/sidwuwh0zb7g1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pn2lq4/chích_vaccine_mà_bé_bị_vầy_sợ_quá/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pn2lq4/chích_vaccine_mà_bé_bị_vầy_sợ_quá/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em là thế hệ đầu của Gen Alpha tức sinh năm 2k11 nhưng em vẫn thấy Gen Alpha khá không ổn.&lt;/p&gt; &lt;p&gt;Có lẽ do thế hệ này tiếp xúc với công nghệ, mạng xã hội quá sớm nên mới sinh ra nhiều vấn đề.&lt;/p&gt; &lt;p&gt;Đầu tiên em muốn kể đến về vấn đề ngôn ngữ.&lt;/p&gt; &lt;p&gt;Cái này chắc không ai lạ nhỉ, em thấy bọn trẻ con bây giờ mở miệng ra là ngôn ngữ mạng, chắc mọi người không lạ cái câu &amp;quot;Ai hỏi?&amp;quot; nhỉ. Rồi cái trend &amp;quot;thối não&amp;quot; đợt trước nữa khiến vấn đề ngôn ngữ bị ảnh hưởng một cách nghiêm trọng.&lt;/p&gt; &lt;p&gt;Thứ hai là về mặt đạo đức.&lt;/p&gt; &lt;p&gt;Em cảm giác bọn trẻ bây giờ hơi vô lễ, ăn nói thiếu tôn trọng với người lớn, còn gọi thầy cô là &amp;quot;ông&amp;quot; này &amp;quot;bà&amp;quot; nọ.&lt;/p&gt; &lt;p&gt;Một điều làm em rất buồn là khi thấy những vụ tại nạn, không những bọn nó không giúp đỡ mà còn cười cợt, quay phim chụp ảnh.&lt;/p&gt; &lt;p&gt;Tóm lại em thấy Gen Alpha cứ sao sao ấy.&lt;/p&gt; &lt;p&gt;Đây lá ý kiến của em, mọi người nghĩ sao ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Candid-Entrance-1926"&gt; /u/Candid-Entrance-1926 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pmhfyi/mọi_người_nghĩ_sao_về_gen_alpha/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pmhfyi/mọi_người_nghĩ_sao_về_gen_alpha/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pmhfyi/mọi_người_nghĩ_sao_về_gen_alpha/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-15T08:43:59+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1pn1kd2</id>
-    <title>Đi làm hay đi dạyyy</title>
-    <updated>2025-12-15T07:32:45+00:00</updated>
-    <author>
-      <name>/u/Illustrious-Top-1800</name>
-      <uri>https://old.reddit.com/user/Illustrious-Top-1800</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mng ơi, em là 1 đứa khó đưa ra quyết định và thấy bản thân kh có nhiều hiểu biết nên em up bài mong mng chia sẻ quan điểm để em lựa chọn đúng đắn hơn. &lt;/p&gt; &lt;p&gt;Em là nữ, 22 tủi đã TN CN bằng Giỏi BKHN. Bên HUST trước có ctrinh KSCQ nhưng giờ đã tách ra CN và KS riêng rồi. Từ khi vào trường, em tính học KS để thuận lợi hơn khi đi làm nhưng trong qtrinh học, GVHD của em đặt vấn đề muốn em theo học thạc sĩ tiếp tại HUST, làm trợ giảng, NCKH cùng cô rồi học PhD bên Đài xong về thay vị trí của cô lại cho em 1 định hướng mới ( cô còn khoảng 8 năm nữa là nghỉ hưu ạ, nên cô đang tìm ứng viên phù hợp ). Cô là người đầu tiên em gặp ở trường mà ghi nhận khả năng của em và truyền cho em rất nhiều động lực cố gắng trong học tập, cô bảo cô chỉ đặt vde nthe với SV nào cô thấy có tiềm năng thôi. &lt;/p&gt; &lt;p&gt;Về phía em thì TN xong em có đi làm trải nghiệm 1 cty nhưng vừa nghỉ việc do định hướng làm việc của em còn chưa rõ ràng. Từ cviec và môi trg đó em đã học được nhiều thứ và hiểu rằng đi học chỉ là 1 phần nhỏ, đi làm mình mở rộng và nhanh nhẹn hơn. Em cũng thích đi làm, cơ mà để xét lâu dài thì đi dạy lại ổn định hơn. &lt;/p&gt; &lt;p&gt;Em đang rơi vào trạng thái kh biếc đi hướng nào mới đúng vì cgi em cũng thích em cũng muốn thử xem mình có năng lực ở cái nào nhất. Em nghỉ việc 1 phần là sếp nhìn thấy sự mông lung của em, em không chắc chắn mình có thích cái đang theo không nên khuyên em suy nghĩ thật kĩ để chọn con đường sự nghiệp. Sếp nói sau em nghĩ kĩ muốn quay lại, sếp vẫn sẽ hướng dẫn cho em. &lt;/p&gt; &lt;p&gt;Giờ mà học 1,5 năm thạc + 4 năm tiến sĩ thì cũng khá mất tgian. Vừa học vừa làm là chắc chắn nhưng em sợ mình kham không nổi mà bỏ cuộc mất, tại khoảng tgian đi làm vừa rồi em vẫn duy trì việc học thêm cuối tuần và đi dạy thêm gia sư nữa, siêu mệtt không cân bằng được csong ( 1 fact lquan đến đi dạy là em đã gắn bó với cviec gia sư 5 năm rùi, thích mấy đứa nhỏ nên kh nỡ nghỉ ) Mà nó cũng khá rủi ro vì em sợ em theo hướng cô nói nhưng sau này cô không còn giữ vị trí đó cho em thì sao 🥲. &lt;/p&gt; &lt;p&gt;Nãy cô gọi hỏi thăm em sau nghỉ việc, cô cũng nhắc em phải nhanh chóng quyết định không nên để lâu quá lỡ mất tgian và cơ hội, em hong biết làm gì tiếp nữa mng oii 😕 Chuyện này em nghĩ rất lâu rồi nhưng vẫn chưa quyết được á, con đường nào thấy cũng gian nan hết. Đi dạy có ổn hơn đi làm không ??? Giờ cuối năm rồi, tìm việc mới khó nữa nên cứ dành tgian tìm hiểu rồi quyết định ạ.&lt;/p&gt; &lt;p&gt;Cảm ơn mng đã đọc bài ạ 🫶🏻&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Illustrious-Top-1800"&gt; /u/Illustrious-Top-1800 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pn1kd2/đi_làm_hay_đi_dạyyy/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pn1kd2/đi_làm_hay_đi_dạyyy/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pn1kd2/đi_làm_hay_đi_dạyyy/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-15T07:32:45+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1pn1ngc</id>
-    <title>Vừa lạ mà cũng vừa quen</title>
-    <updated>2025-12-15T07:38:46+00:00</updated>
-    <author>
-      <name>/u/Only-Conclusion5238</name>
-      <uri>https://old.reddit.com/user/Only-Conclusion5238</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1pn1ngc/vừa_lạ_mà_cũng_vừa_quen/"&gt; &lt;img alt="Vừa lạ mà cũng vừa quen" src="https://b.thumbs.redditmedia.com/Mhn9hMB_K1IDS0lOodwfW_-hM1prZGm_aqKSLKxc8fo.jpg" title="Vừa lạ mà cũng vừa quen" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="https://preview.redd.it/iemrqmw8nb7g1.jpg?width=1440&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=ecef78b3fbb8b077365396a875269c46155f9603"&gt;https://preview.redd.it/iemrqmw8nb7g1.jpg?width=1440&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=ecef78b3fbb8b077365396a875269c46155f9603&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Không nhầm đâu đây chính là view Hồ Tây sau cơn mưa&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Only-Conclusion5238"&gt; /u/Only-Conclusion5238 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pn1ngc/vừa_lạ_mà_cũng_vừa_quen/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pn1ngc/vừa_lạ_mà_cũng_vừa_quen/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pn1ngc/vừa_lạ_mà_cũng_vừa_quen/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-15T07:38:46+00:00</published>
+    <published>2025-12-14T15:59:57+00:00</published>
   </entry>
   <entry>
     <id>t3_1pn0unt</id>
@@ -229,43 +190,17 @@
     <published>2025-12-15T06:47:00+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pn1cc8</id>
-    <title>Nên mua xe ô tô gì?</title>
-    <updated>2025-12-15T07:18:14+00:00</updated>
+    <id>t3_1pn11ia</id>
+    <title>Luật bảo vệ người lao động ở Việt Nam có không ?</title>
+    <updated>2025-12-15T06:59:00+00:00</updated>
     <author>
-      <name>/u/Unique_Bowl_4173</name>
-      <uri>https://old.reddit.com/user/Unique_Bowl_4173</uri>
+      <name>/u/Fit_Improvement_516</name>
+      <uri>https://old.reddit.com/user/Fit_Improvement_516</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi mọi người, mình 29F, chưa lập gia đình nên đành lên đây hỏi ý kiến các anh em tư vấn thêm. Sơ bộ nhu cầu của mình như sau: &lt;/p&gt; &lt;ul&gt; &lt;li&gt;Tài chính: 500 - 650tr lăn bánh, quay đầu (tiền thịt mình có, không muốn cố thêm và cũng không muốn vay bank), thu nhập mình tầm 50tr/ tháng&lt;/li&gt; &lt;li&gt;Yêu cầu: xe mới, nhỏ gọn &lt;/li&gt; &lt;li&gt;Nhu cầu đi lại: đi làm hàng ngày 30km/ 2 chiều, thỉnh thoảng về quê 50km &lt;/li&gt; &lt;li&gt;Hiện tại mình đang đi làm bằng Xanhsm, trung bình khoảng 3-4 triệu/ tháng do mình không tự đi xe máy được do mình hay bị giật mình bởi tiếng ồn lớn, nhưng đi ô tô thì bình thường. &lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Anh chị mình và bạn trai mình đều đã có xe rồi, mua xe chủ yếu phục vụ nhu cầu của riêng mình thôi k cần phải to ôm đồm chở cả gia đình. Mình đang khá thích chiếc Suzuki Swift. Do vậy nhờ mọi người tư vấn giúp nhé ạ. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Unique_Bowl_4173"&gt; /u/Unique_Bowl_4173 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pn1cc8/nên_mua_xe_ô_tô_gì/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pn1cc8/nên_mua_xe_ô_tô_gì/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pn1cc8/nên_mua_xe_ô_tô_gì/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình khi đi làm một công ty BĐS ở Việt NAM, khi có sự kiện mời khách đến tham gia cuối tuần, Giám đốc bảo có khách thì ko phạt, còn ai ko khách thì phạt 200k là đúng hay sai nhỉ, mình thấy sao nhiều công ty ưng là phạt tiền nhân viên, ưng thì cho nghỉ ngang xương, ko có chút nào là quyền bảo vệ người lao động hã trời&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Fit_Improvement_516"&gt; /u/Fit_Improvement_516 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pn11ia/luật_bảo_vệ_người_lao_động_ở_việt_nam_có_không/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pn11ia/luật_bảo_vệ_người_lao_động_ở_việt_nam_có_không/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pn11ia/luật_bảo_vệ_người_lao_động_ở_việt_nam_có_không/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-15T07:18:14+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1pn1i28</id>
-    <title>Khi nào người ta ghét mình là vấn đề nằm ở mình, và khi nào là ở họ?</title>
-    <updated>2025-12-15T07:28:41+00:00</updated>
-    <author>
-      <name>/u/Hot-Ability1774</name>
-      <uri>https://old.reddit.com/user/Hot-Ability1774</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Rác của người này là vàng của người khác, mình nhớ từng nghe ai đó nói câu như vậy.&lt;/p&gt; &lt;p&gt;Hôm qua ở chỗ làm của mình, mình nghe một người đông nghiệp phàn nàn về một người đồng nghiệp khác của mình. Nó không hẳn là một sự phàn nàn về sự thể hiện trong công việc, mà là về cá nhân bạn ấy hơn. Bạn ấy không thích làm cùng với một bạn rằng, nói rằng bạn ấy luôn trông thiếu năng lượng, trông luôn như buồn ngủ. Tác phong của bạn ấy rất chạm chạp, uể oải, làm gì cũng không nhanh nhẹn. Mặt thì lúc nào cũng đơ ra không biểu cảm, lại còn lầm lì ít nói. Bạn ấy và những người bạn khác của bạn không ai thích làm chung vì cái năng lượng bạn ấy toát ra rất ì ạch.&lt;/p&gt; &lt;p&gt;Bạn ấy chốt câu kết câu bằng việc khen mình, nói rằng bạn ấy không như mình, mình nhiều năng lượng và lúc nào cũng tươi cười với mọi người.&lt;/p&gt; &lt;p&gt;Mình khi nghe câu đó, và cả đoạn trên trong lòng khá bất ngờ. Bởi, trong cả chỗ làm mình mình thích bạn ấy nhất. Trong lòng mình, bạn ấy luôn như một chú bò nằm chậm rãi ngậm cỏ ngoài đồng vậy. Và mình cực kỳ thích cái sự chill đó. Ở cạnh bạn mình cảm thấy bình yên. Cái sự ì ạch chậm rãi thiếu năng lượng đó, trong mắt mình nó là sự điềm tĩnh, một sự &amp;quot;đọng&amp;quot; lại ở trong. Một sự vững chắc. Một sự cứng cáp trong tâm hồn. Một sự &amp;quot;chill&amp;quot; nhất định. Và mình yêu mình cần cái sự vững chắc cái sự chill đó. &lt;/p&gt; &lt;p&gt;Mình rất thích làm việc với bạn ấy. Bạn ấy là sự đơn giản, là câu trả lời cho sự phức tạp bên trong của của mình. Khi cuộc sống có chuyện xảy ra với mình, mình lòng mình sẽ như sóng biển, đầu óc mình sẽ tự dìm chết chính nó trong những dòng suy nghĩ phức tạp, và bạn ấy mình cảm giác như là một cái mỏ neo vững chãi trước cuộc sống vậy. Một cái mỏ neo mình muốn tựa vào. Và hiệu suất công việc của bạn với mình là ổn. Nếu họ muốn nhanh hơn thì mình sẽ làm một người làm việc nhanh hơn, nhưng mình muốn bạn ấy ở đó làm cùng mình.&lt;/p&gt; &lt;p&gt;Vì cái phàn nàn này cũng không nói về hiệu quả công việc, mà nói về tính cách và đặc trưng cá nhân của bạn. Điều này làm mình tự hỏi trong cuộc sống, khi nào người ta ghét mình là do mình, và khi nào như họ chẳng hạn không hợp nhau thôi. Nếu mình ở đó không nói đỡ và bạn ấy nghe thấy, liệu bạn ấy nghĩ bạn ấy có sai, có tệ, trong khi bạn ấy chỉ không tìm được người hợp?&lt;/p&gt; &lt;p&gt;Và những phẩm chất họ khen họ thích ở mình, là những phẩm chất nó không mấy ý nghĩa với chính mình &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Hot-Ability1774"&gt; /u/Hot-Ability1774 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pn1i28/khi_nào_người_ta_ghét_mình_là_vấn_đề_nằm_ở_mình/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pn1i28/khi_nào_người_ta_ghét_mình_là_vấn_đề_nằm_ở_mình/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pn1i28/khi_nào_người_ta_ghét_mình_là_vấn_đề_nằm_ở_mình/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-15T07:28:41+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1pn2n7d</id>
-    <title>Trước khi bị bế thì Lương Bằng Quang cũng thường đăng stt thương Ngân 98, vụ Em Nuôi này mn nghĩ Hoàng Hoa Trung có thoát không ?</title>
-    <updated>2025-12-15T08:46:42+00:00</updated>
-    <author>
-      <name>/u/tran_tanthanh</name>
-      <uri>https://old.reddit.com/user/tran_tanthanh</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1pn2n7d/trước_khi_bị_bế_thì_lương_bằng_quang_cũng_thường/"&gt; &lt;img alt="Trước khi bị bế thì Lương Bằng Quang cũng thường đăng stt thương Ngân 98, vụ Em Nuôi này mn nghĩ Hoàng Hoa Trung có thoát không ?" src="https://preview.redd.it/ceqeoawhzb7g1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=9879500fc50913763cf09a13ce7742e66ea3edbe" title="Trước khi bị bế thì Lương Bằng Quang cũng thường đăng stt thương Ngân 98, vụ Em Nuôi này mn nghĩ Hoàng Hoa Trung có thoát không ?" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Giờ sợ mấy người hey lên mạng nói đạo ký rồi tới khi sắp lên đồn thì đưa vợ con ra quá!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/tran_tanthanh"&gt; /u/tran_tanthanh &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/ceqeoawhzb7g1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pn2n7d/trước_khi_bị_bế_thì_lương_bằng_quang_cũng_thường/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pn2n7d/trước_khi_bị_bế_thì_lương_bằng_quang_cũng_thường/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-15T08:46:42+00:00</published>
+    <published>2025-12-15T06:59:00+00:00</published>
   </entry>
   <entry>
     <id>t3_1pmzmlz</id>
@@ -281,6 +216,45 @@
     <published>2025-12-15T05:34:19+00:00</published>
   </entry>
   <entry>
+    <id>t3_1pn1i28</id>
+    <title>Khi nào người ta ghét mình là vấn đề nằm ở mình, và khi nào là ở họ?</title>
+    <updated>2025-12-15T07:28:41+00:00</updated>
+    <author>
+      <name>/u/Hot-Ability1774</name>
+      <uri>https://old.reddit.com/user/Hot-Ability1774</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Rác của người này là vàng của người khác, mình nhớ từng nghe ai đó nói câu như vậy.&lt;/p&gt; &lt;p&gt;Hôm qua ở chỗ làm của mình, mình nghe một người đông nghiệp phàn nàn về một người đồng nghiệp khác của mình. Nó không hẳn là một sự phàn nàn về sự thể hiện trong công việc, mà là về cá nhân bạn ấy hơn. Bạn ấy không thích làm cùng với một bạn rằng, nói rằng bạn ấy luôn trông thiếu năng lượng, trông luôn như buồn ngủ. Tác phong của bạn ấy rất chạm chạp, uể oải, làm gì cũng không nhanh nhẹn. Mặt thì lúc nào cũng đơ ra không biểu cảm, lại còn lầm lì ít nói. Bạn ấy và những người bạn khác của bạn không ai thích làm chung vì cái năng lượng bạn ấy toát ra rất ì ạch.&lt;/p&gt; &lt;p&gt;Bạn ấy chốt câu kết câu bằng việc khen mình, nói rằng bạn ấy không như mình, mình nhiều năng lượng và lúc nào cũng tươi cười với mọi người.&lt;/p&gt; &lt;p&gt;Mình khi nghe câu đó, và cả đoạn trên trong lòng khá bất ngờ. Bởi, trong cả chỗ làm mình mình thích bạn ấy nhất. Trong lòng mình, bạn ấy luôn như một chú bò nằm chậm rãi ngậm cỏ ngoài đồng vậy. Và mình cực kỳ thích cái sự chill đó. Ở cạnh bạn mình cảm thấy bình yên. Cái sự ì ạch chậm rãi thiếu năng lượng đó, trong mắt mình nó là sự điềm tĩnh, một sự &amp;quot;đọng&amp;quot; lại ở trong. Một sự vững chắc. Một sự cứng cáp trong tâm hồn. Một sự &amp;quot;chill&amp;quot; nhất định. Và mình yêu mình cần cái sự vững chắc cái sự chill đó. &lt;/p&gt; &lt;p&gt;Mình rất thích làm việc với bạn ấy. Bạn ấy là sự đơn giản, là câu trả lời cho sự phức tạp bên trong của của mình. Khi cuộc sống có chuyện xảy ra với mình, mình lòng mình sẽ như sóng biển, đầu óc mình sẽ tự dìm chết chính nó trong những dòng suy nghĩ phức tạp, và bạn ấy mình cảm giác như là một cái mỏ neo vững chãi trước cuộc sống vậy. Một cái mỏ neo mình muốn tựa vào. Và hiệu suất công việc của bạn với mình là ổn. Nếu họ muốn nhanh hơn thì mình sẽ làm một người làm việc nhanh hơn, nhưng mình muốn bạn ấy ở đó làm cùng mình.&lt;/p&gt; &lt;p&gt;Vì cái phàn nàn này cũng không nói về hiệu quả công việc, mà nói về tính cách và đặc trưng cá nhân của bạn. Điều này làm mình tự hỏi trong cuộc sống, khi nào người ta ghét mình là do mình, và khi nào như họ chẳng hạn không hợp nhau thôi. Nếu mình ở đó không nói đỡ và bạn ấy nghe thấy, liệu bạn ấy nghĩ bạn ấy có sai, có tệ, trong khi bạn ấy chỉ không tìm được người hợp?&lt;/p&gt; &lt;p&gt;Và những phẩm chất họ khen họ thích ở mình, là những phẩm chất nó không mấy ý nghĩa với chính mình &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Hot-Ability1774"&gt; /u/Hot-Ability1774 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pn1i28/khi_nào_người_ta_ghét_mình_là_vấn_đề_nằm_ở_mình/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pn1i28/khi_nào_người_ta_ghét_mình_là_vấn_đề_nằm_ở_mình/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pn1i28/khi_nào_người_ta_ghét_mình_là_vấn_đề_nằm_ở_mình/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-15T07:28:41+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pn1kd2</id>
+    <title>Đi làm hay đi dạyyy</title>
+    <updated>2025-12-15T07:32:45+00:00</updated>
+    <author>
+      <name>/u/Illustrious-Top-1800</name>
+      <uri>https://old.reddit.com/user/Illustrious-Top-1800</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mng ơi, em là 1 đứa khó đưa ra quyết định và thấy bản thân kh có nhiều hiểu biết nên em up bài mong mng chia sẻ quan điểm để em lựa chọn đúng đắn hơn. &lt;/p&gt; &lt;p&gt;Em là nữ, 22 tủi đã TN CN bằng Giỏi BKHN. Bên HUST trước có ctrinh KSCQ nhưng giờ đã tách ra CN và KS riêng rồi. Từ khi vào trường, em tính học KS để thuận lợi hơn khi đi làm nhưng trong qtrinh học, GVHD của em đặt vấn đề muốn em theo học thạc sĩ tiếp tại HUST, làm trợ giảng, NCKH cùng cô rồi học PhD bên Đài xong về thay vị trí của cô lại cho em 1 định hướng mới ( cô còn khoảng 8 năm nữa là nghỉ hưu ạ, nên cô đang tìm ứng viên phù hợp ). Cô là người đầu tiên em gặp ở trường mà ghi nhận khả năng của em và truyền cho em rất nhiều động lực cố gắng trong học tập, cô bảo cô chỉ đặt vde nthe với SV nào cô thấy có tiềm năng thôi. &lt;/p&gt; &lt;p&gt;Về phía em thì TN xong em có đi làm trải nghiệm 1 cty nhưng vừa nghỉ việc do định hướng làm việc của em còn chưa rõ ràng. Từ cviec và môi trg đó em đã học được nhiều thứ và hiểu rằng đi học chỉ là 1 phần nhỏ, đi làm mình mở rộng và nhanh nhẹn hơn. Em cũng thích đi làm, cơ mà để xét lâu dài thì đi dạy lại ổn định hơn. &lt;/p&gt; &lt;p&gt;Em đang rơi vào trạng thái kh biếc đi hướng nào mới đúng vì cgi em cũng thích em cũng muốn thử xem mình có năng lực ở cái nào nhất. Em nghỉ việc 1 phần là sếp nhìn thấy sự mông lung của em, em không chắc chắn mình có thích cái đang theo không nên khuyên em suy nghĩ thật kĩ để chọn con đường sự nghiệp. Sếp nói sau em nghĩ kĩ muốn quay lại, sếp vẫn sẽ hướng dẫn cho em. &lt;/p&gt; &lt;p&gt;Giờ mà học 1,5 năm thạc + 4 năm tiến sĩ thì cũng khá mất tgian. Vừa học vừa làm là chắc chắn nhưng em sợ mình kham không nổi mà bỏ cuộc mất, tại khoảng tgian đi làm vừa rồi em vẫn duy trì việc học thêm cuối tuần và đi dạy thêm gia sư nữa, siêu mệtt không cân bằng được csong ( 1 fact lquan đến đi dạy là em đã gắn bó với cviec gia sư 5 năm rùi, thích mấy đứa nhỏ nên kh nỡ nghỉ ) Mà nó cũng khá rủi ro vì em sợ em theo hướng cô nói nhưng sau này cô không còn giữ vị trí đó cho em thì sao 🥲. &lt;/p&gt; &lt;p&gt;Nãy cô gọi hỏi thăm em sau nghỉ việc, cô cũng nhắc em phải nhanh chóng quyết định không nên để lâu quá lỡ mất tgian và cơ hội, em hong biết làm gì tiếp nữa mng oii 😕 Chuyện này em nghĩ rất lâu rồi nhưng vẫn chưa quyết được á, con đường nào thấy cũng gian nan hết. Đi dạy có ổn hơn đi làm không ??? Giờ cuối năm rồi, tìm việc mới khó nữa nên cứ dành tgian tìm hiểu rồi quyết định ạ.&lt;/p&gt; &lt;p&gt;Cảm ơn mng đã đọc bài ạ 🫶🏻&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Illustrious-Top-1800"&gt; /u/Illustrious-Top-1800 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pn1kd2/đi_làm_hay_đi_dạyyy/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pn1kd2/đi_làm_hay_đi_dạyyy/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pn1kd2/đi_làm_hay_đi_dạyyy/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-15T07:32:45+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pmw7xm</id>
+    <title>Nói chuyện lại sau buổi firstdate</title>
+    <updated>2025-12-15T02:34:24+00:00</updated>
+    <author>
+      <name>/u/EquivalentDear9224</name>
+      <uri>https://old.reddit.com/user/EquivalentDear9224</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hí, mình là Nam 23 tuổi, mình có first date vs 1 bạn kia sau 1 hồi lâu rủ em đi chơi. Sau buổi first date bạn đó có nói là k thich vụ va chạm cơ thể sớm , nói chuyện hơi nhanh (mình chủ yếu là ngồi sát cạnh vs chủ đong nắm tay ) với bạn mới ra trường nên tập trung đi kiếm việc k muốn dành time cho mqh. Mình nghĩ vs bạn đó phải thân hơn ms có thể như thế . Đi chơi thấy bạn cười nhiều nên chắc bạn đó cũng thấy vui.Mình ns bạn thông cảm vì va chạm nhma có vẻ k chịu nên mình cũng thôi tìm hiểu. &lt;/p&gt; &lt;p&gt;Sau 3 tháng thì bạn đó lại chủ động nch lại hỏi thăm, trc đó là bạn đó hay tim post mình. Thì mình cũng nch vui vẻ vs bạn. Bạn đó chủ động rủ mình đi chơi các thứ. Case này khá lạ, mình k biết là do bạn đó ngẫm lại hay mình làm michelin ??=))).&lt;/p&gt; &lt;p&gt;Mn giúp em ca tâm sinh lý con gái vs hehe. Cảm ơn nha&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/EquivalentDear9224"&gt; /u/EquivalentDear9224 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pmw7xm/nói_chuyện_lại_sau_buổi_firstdate/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pmw7xm/nói_chuyện_lại_sau_buổi_firstdate/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pmw7xm/nói_chuyện_lại_sau_buổi_firstdate/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-15T02:34:24+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1pmzzcc</id>
     <title>Nữ giới nói câu "Em yêu anh" có thật sự khó ko?</title>
     <updated>2025-12-15T05:54:59+00:00</updated>
@@ -294,30 +268,30 @@
     <published>2025-12-15T05:54:59+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pmw7xm</id>
-    <title>Nói chuyện lại sau buổi firstdate</title>
-    <updated>2025-12-15T02:34:24+00:00</updated>
+    <id>t3_1pn1ngc</id>
+    <title>Vừa lạ mà cũng vừa quen</title>
+    <updated>2025-12-15T07:38:46+00:00</updated>
     <author>
-      <name>/u/EquivalentDear9224</name>
-      <uri>https://old.reddit.com/user/EquivalentDear9224</uri>
+      <name>/u/Only-Conclusion5238</name>
+      <uri>https://old.reddit.com/user/Only-Conclusion5238</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hí, mình là Nam 23 tuổi, mình có first date vs 1 bạn kia sau 1 hồi lâu rủ em đi chơi. Sau buổi first date bạn đó có nói là k thich vụ va chạm cơ thể sớm (mình chủ yếu là ngồi sát cạnh vs chủ đong nắm tay ) với bạn mới ra trường nên tập trung đi kiếm việc k muốn dành time cho mqh. Mình nghĩ vs bạn đó phải thân hơn ms có thể như thế . Đi chơi thấy bạn cười nhiều nên chắc bạn đó cũng thấy vui.Mình ns bạn thông cảm vì va chạm nhma có vẻ k chịu nên mình cũng thôi tìm hiểu. &lt;/p&gt; &lt;p&gt;Sau 3 tháng thì bạn đó lại chủ động nch lại hỏi thăm, trc đó là bạn đó hay tim post mình. Thì mình cũng nch vui vẻ vs bạn. Bạn đó chủ động rủ mình đi chơi các thứ. Case này khá lạ, mình k biết là do bạn đó ngẫm lại hay mình làm michelin ??=))).&lt;/p&gt; &lt;p&gt;Mn giúp em ca tâm sinh lý con gái vs hehe. Cảm ơn nha&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/EquivalentDear9224"&gt; /u/EquivalentDear9224 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pmw7xm/nói_chuyện_lại_sau_buổi_firstdate/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pmw7xm/nói_chuyện_lại_sau_buổi_firstdate/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pmw7xm/nói_chuyện_lại_sau_buổi_firstdate/"/>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1pn1ngc/vừa_lạ_mà_cũng_vừa_quen/"&gt; &lt;img alt="Vừa lạ mà cũng vừa quen" src="https://b.thumbs.redditmedia.com/Mhn9hMB_K1IDS0lOodwfW_-hM1prZGm_aqKSLKxc8fo.jpg" title="Vừa lạ mà cũng vừa quen" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="https://preview.redd.it/iemrqmw8nb7g1.jpg?width=1440&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=ecef78b3fbb8b077365396a875269c46155f9603"&gt;https://preview.redd.it/iemrqmw8nb7g1.jpg?width=1440&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=ecef78b3fbb8b077365396a875269c46155f9603&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Không nhầm đâu đây chính là view Hồ Tây sau cơn mưa&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Only-Conclusion5238"&gt; /u/Only-Conclusion5238 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pn1ngc/vừa_lạ_mà_cũng_vừa_quen/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pn1ngc/vừa_lạ_mà_cũng_vừa_quen/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pn1ngc/vừa_lạ_mà_cũng_vừa_quen/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-15T02:34:24+00:00</published>
+    <published>2025-12-15T07:38:46+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pn1zrj</id>
-    <title>Tâm sự: crs tán ng khác nhưng thất bại =))</title>
-    <updated>2025-12-15T08:01:35+00:00</updated>
+    <id>t3_1pn1cc8</id>
+    <title>Nên mua xe ô tô gì?</title>
+    <updated>2025-12-15T07:18:14+00:00</updated>
     <author>
-      <name>/u/Jen-Jen22</name>
-      <uri>https://old.reddit.com/user/Jen-Jen22</uri>
+      <name>/u/Unique_Bowl_4173</name>
+      <uri>https://old.reddit.com/user/Unique_Bowl_4173</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình là nữ 20t. Mình có thích anh này (21t) nhưng anh ấy lại thích chị bạn của mình (21t). Anh này tính thì goodboy còn chị kia thì lại thích boy phố cơ mà phải giàu nữa 😅&lt;/p&gt; &lt;p&gt;Có 1 lần chị ấy rủ mình đi ăn (mình với c này cx k thân mấy nhưng chị này thích giao lưu) xong chị ấy cho mình xem đoạn tin nhắn giữa anh zai và chị ấy. Chị ấy cười anh này vì anh này tán kiểu goodboy quá nên mình thì vẫn phải cười theo, nhưng mà thâm tâm mình vẫn ước người đc tán là mình :(((&lt;/p&gt; &lt;p&gt;Thế xong rồi chị ấy quay ra mập mờ với 1 anh richboy khác. Anh goodboy thì quay ra ghét chị ấy r :)) thậm chí ảnh còn bảo với mình là cay chị kia &amp;quot;vì tính chị này hãm&amp;quot;, nmà lý do thật là gì thì ảnh k nói 🙃 &lt;/p&gt; &lt;p&gt;Mình thì kbt có nên uncrs hay k 😕&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Jen-Jen22"&gt; /u/Jen-Jen22 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pn1zrj/tâm_sự_crs_tán_ng_khác_nhưng_thất_bại/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pn1zrj/tâm_sự_crs_tán_ng_khác_nhưng_thất_bại/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pn1zrj/tâm_sự_crs_tán_ng_khác_nhưng_thất_bại/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi mọi người, mình 29F, chưa lập gia đình nên đành lên đây hỏi ý kiến các anh em tư vấn thêm. Sơ bộ nhu cầu của mình như sau: &lt;/p&gt; &lt;ul&gt; &lt;li&gt;Tài chính: 500 - 650tr lăn bánh, quay đầu (tiền thịt mình có, không muốn cố thêm và cũng không muốn vay bank), thu nhập mình tầm 50tr/ tháng&lt;/li&gt; &lt;li&gt;Yêu cầu: xe mới, nhỏ gọn &lt;/li&gt; &lt;li&gt;Nhu cầu đi lại: đi làm hàng ngày 30km/ 2 chiều, thỉnh thoảng về quê 50km &lt;/li&gt; &lt;li&gt;Hiện tại mình đang đi làm bằng Xanhsm, trung bình khoảng 3-4 triệu/ tháng do mình không tự đi xe máy được do mình hay bị giật mình bởi tiếng ồn lớn, nhưng đi ô tô thì bình thường. &lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Anh chị mình và bạn trai mình đều đã có xe rồi, mua xe chủ yếu phục vụ nhu cầu của riêng mình thôi k cần phải to ôm đồm chở cả gia đình. Mình đang khá thích chiếc Suzuki Swift. Do vậy nhờ mọi người tư vấn giúp nhé ạ. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Unique_Bowl_4173"&gt; /u/Unique_Bowl_4173 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pn1cc8/nên_mua_xe_ô_tô_gì/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pn1cc8/nên_mua_xe_ô_tô_gì/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pn1cc8/nên_mua_xe_ô_tô_gì/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-15T08:01:35+00:00</published>
+    <published>2025-12-15T07:18:14+00:00</published>
   </entry>
   <entry>
     <id>t3_1pmjgv6</id>
@@ -331,5 +305,31 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pmjgv6/người_yêu_bị_rung_động_sau_khi_đi_làm_3_tháng/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-14T17:20:17+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pn2n7d</id>
+    <title>Trước khi bị bế thì Lương Bằng Quang cũng thường đăng stt thương Ngân 98, vụ Em Nuôi này mn nghĩ Hoàng Hoa Trung có thoát không ?</title>
+    <updated>2025-12-15T08:46:42+00:00</updated>
+    <author>
+      <name>/u/tran_tanthanh</name>
+      <uri>https://old.reddit.com/user/tran_tanthanh</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1pn2n7d/trước_khi_bị_bế_thì_lương_bằng_quang_cũng_thường/"&gt; &lt;img alt="Trước khi bị bế thì Lương Bằng Quang cũng thường đăng stt thương Ngân 98, vụ Em Nuôi này mn nghĩ Hoàng Hoa Trung có thoát không ?" src="https://preview.redd.it/ceqeoawhzb7g1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=9879500fc50913763cf09a13ce7742e66ea3edbe" title="Trước khi bị bế thì Lương Bằng Quang cũng thường đăng stt thương Ngân 98, vụ Em Nuôi này mn nghĩ Hoàng Hoa Trung có thoát không ?" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Giờ sợ mấy người hey lên mạng nói đạo ký rồi tới khi sắp lên đồn thì đưa vợ con ra quá!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/tran_tanthanh"&gt; /u/tran_tanthanh &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/ceqeoawhzb7g1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pn2n7d/trước_khi_bị_bế_thì_lương_bằng_quang_cũng_thường/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pn2n7d/trước_khi_bị_bế_thì_lương_bằng_quang_cũng_thường/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-15T08:46:42+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pn1zrj</id>
+    <title>Tâm sự: crs tán ng khác nhưng thất bại =))</title>
+    <updated>2025-12-15T08:01:35+00:00</updated>
+    <author>
+      <name>/u/Jen-Jen22</name>
+      <uri>https://old.reddit.com/user/Jen-Jen22</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình là nữ 20t. Mình có thích anh này (21t) nhưng anh ấy lại thích chị bạn của mình (21t). Anh này tính thì goodboy còn chị kia thì lại thích boy phố cơ mà phải giàu nữa 😅&lt;/p&gt; &lt;p&gt;Có 1 lần chị ấy rủ mình đi ăn (mình với c này cx k thân mấy nhưng chị này thích giao lưu) xong chị ấy cho mình xem đoạn tin nhắn giữa anh zai và chị ấy. Chị ấy cười anh này vì anh này tán kiểu goodboy quá nên mình thì vẫn phải cười theo, nhưng mà thâm tâm mình vẫn ước người đc tán là mình :(((&lt;/p&gt; &lt;p&gt;Thế xong rồi chị ấy quay ra mập mờ với 1 anh richboy khác. Anh goodboy thì quay ra ghét chị ấy r :)) thậm chí ảnh còn bảo với mình là cay chị kia &amp;quot;vì tính chị này hãm&amp;quot;, nmà lý do thật là gì thì ảnh k nói 🙃 &lt;/p&gt; &lt;p&gt;Mình thì kbt có nên uncrs hay k 😕&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Jen-Jen22"&gt; /u/Jen-Jen22 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pn1zrj/tâm_sự_crs_tán_ng_khác_nhưng_thất_bại/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pn1zrj/tâm_sự_crs_tán_ng_khác_nhưng_thất_bại/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pn1zrj/tâm_sự_crs_tán_ng_khác_nhưng_thất_bại/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-15T08:01:35+00:00</published>
   </entry>
 </feed>
