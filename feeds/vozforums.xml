@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-12-16T05:21:30+00:00</updated>
+  <updated>2025-12-16T05:45:39+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -216,32 +216,6 @@
     <published>2025-12-16T03:05:59+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pnseuv</id>
-    <title>Mình muốn nắm bắt kỹ năng phương pháp tư duy và kỹ thuật tìm kiếm (Information retrieval)để chủ động tiếp cận kiến thức, thay vì chỉ tìm được những gì bề nổi.</title>
-    <updated>2025-12-16T04:05:41+00:00</updated>
-    <author>
-      <name>/u/Fast_Care_7174</name>
-      <uri>https://old.reddit.com/user/Fast_Care_7174</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Với cả làm sao để vào đc mấy web chìm hay các trang mà gg ko đề xuất khi tìm kiếm vậy . Thấy mn bảo vào các trình duyệt ít kiểm duyệt . Tại tính tò mò muốn biết cái mình ko hiểu &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Fast_Care_7174"&gt; /u/Fast_Care_7174 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pnseuv/mình_muốn_nắm_bắt_kỹ_năng_phương_pháp_tư_duy_và/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pnseuv/mình_muốn_nắm_bắt_kỹ_năng_phương_pháp_tư_duy_và/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pnseuv/mình_muốn_nắm_bắt_kỹ_năng_phương_pháp_tư_duy_và/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-16T04:05:41+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1pnrkn2</id>
-    <title>Vấn đề khác đạo trong hôn nhân</title>
-    <updated>2025-12-16T03:23:53+00:00</updated>
-    <author>
-      <name>/u/ZealousidealType4125</name>
-      <uri>https://old.reddit.com/user/ZealousidealType4125</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào anh em, mình muốn xin ý kiến. Mình không theo đạo, còn người yêu là công giáo gốc. Cô ấy đồng ý sau cưới sẽ về quê mình ở miền Trung sống cùng, nhưng có một điều kiện là mình và các con sau này phải theo công giáo.&lt;/p&gt; &lt;p&gt;Ngoài ra, cô ấy cũng muốn mình dừng việc cúng lễ tổ tiên, nhưng mình không thể vì thờ cúng là truyền thống gia đình, trăm năm nay rồi.&lt;/p&gt; &lt;p&gt;Mình đang băn khoăn không biết nên xử lý thế nào để vừa tôn trọng người yêu, vừa giữ được truyền thống gia đình. Anh em cho mình lời khuyên với.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ZealousidealType4125"&gt; /u/ZealousidealType4125 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pnrkn2/vấn_đề_khác_đạo_trong_hôn_nhân/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pnrkn2/vấn_đề_khác_đạo_trong_hôn_nhân/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pnrkn2/vấn_đề_khác_đạo_trong_hôn_nhân/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-16T03:23:53+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1pn59ys</id>
     <title>Ra đường bây giờ sợ mấy đứa ngoan hiền lắm luôn</title>
     <updated>2025-12-15T11:40:09+00:00</updated>
@@ -255,6 +229,19 @@
     <published>2025-12-15T11:40:09+00:00</published>
   </entry>
   <entry>
+    <id>t3_1pnseuv</id>
+    <title>Mình muốn nắm bắt kỹ năng phương pháp tư duy và kỹ thuật tìm kiếm (Information retrieval)để chủ động tiếp cận kiến thức, thay vì chỉ tìm được những gì bề nổi.</title>
+    <updated>2025-12-16T04:05:41+00:00</updated>
+    <author>
+      <name>/u/Fast_Care_7174</name>
+      <uri>https://old.reddit.com/user/Fast_Care_7174</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Với cả làm sao để vào đc mấy web chìm hay các trang mà gg ko đề xuất khi tìm kiếm vậy . Thấy mn bảo vào các trình duyệt ít kiểm duyệt . Tại tính tò mò muốn biết cái mình ko hiểu &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Fast_Care_7174"&gt; /u/Fast_Care_7174 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pnseuv/mình_muốn_nắm_bắt_kỹ_năng_phương_pháp_tư_duy_và/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pnseuv/mình_muốn_nắm_bắt_kỹ_năng_phương_pháp_tư_duy_và/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pnseuv/mình_muốn_nắm_bắt_kỹ_năng_phương_pháp_tư_duy_và/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-16T04:05:41+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1pnsyit</id>
     <title>Chia sẻ về chuyện mua nhà ở Hà Nội</title>
     <updated>2025-12-16T04:34:09+00:00</updated>
@@ -266,6 +253,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pnsyit/chia_sẻ_về_chuyện_mua_nhà_ở_hà_nội/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-16T04:34:09+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pnrkn2</id>
+    <title>Vấn đề khác đạo trong hôn nhân</title>
+    <updated>2025-12-16T03:23:53+00:00</updated>
+    <author>
+      <name>/u/ZealousidealType4125</name>
+      <uri>https://old.reddit.com/user/ZealousidealType4125</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào anh em, mình muốn xin ý kiến. Mình không theo đạo, còn người yêu là công giáo gốc. Cô ấy đồng ý sau cưới sẽ về quê mình ở miền Trung sống cùng, nhưng có một điều kiện là mình và các con sau này phải theo công giáo.&lt;/p&gt; &lt;p&gt;Ngoài ra, cô ấy cũng muốn mình dừng việc cúng lễ tổ tiên, nhưng mình không thể vì thờ cúng là truyền thống gia đình, trăm năm nay rồi.&lt;/p&gt; &lt;p&gt;Mình đang băn khoăn không biết nên xử lý thế nào để vừa tôn trọng người yêu, vừa giữ được truyền thống gia đình. Anh em cho mình lời khuyên với.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ZealousidealType4125"&gt; /u/ZealousidealType4125 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pnrkn2/vấn_đề_khác_đạo_trong_hôn_nhân/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pnrkn2/vấn_đề_khác_đạo_trong_hôn_nhân/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pnrkn2/vấn_đề_khác_đạo_trong_hôn_nhân/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-16T03:23:53+00:00</published>
   </entry>
   <entry>
     <id>t3_1pn9zne</id>
@@ -294,19 +294,6 @@
     <published>2025-12-15T12:43:51+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pnr0le</id>
-    <title>⚠️ CẢNH BÁO THƯƠNG ĐÔ (thuongdo.com)</title>
-    <updated>2025-12-16T02:56:15+00:00</updated>
-    <author>
-      <name>/u/thuongdoluadao</name>
-      <uri>https://old.reddit.com/user/thuongdoluadao</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1pnr0le/cảnh_báo_thương_đô_thuongdocom/"&gt; &lt;img alt="⚠️ CẢNH BÁO THƯƠNG ĐÔ (thuongdo.com)" src="https://b.thumbs.redditmedia.com/1K8HXHK9gyZM8yIKmL2SeZCxwxNYSexfejYIjfbVCEw.jpg" title="⚠️ CẢNH BÁO THƯƠNG ĐÔ (thuongdo.com)" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&amp;#x200b;&lt;/p&gt; &lt;p&gt;Tôi ký gửi đơn hàng Taobao trị giá ~3.000.000đ qua Thương Đô. Do lỗi hướng dẫn kho không rõ ràng của Thương Đô, hàng bị gửi nhầm kho, sau đó bị kéo dài gần 4 tháng với nhiều lý do khác nhau và cuối cùng bị xác nhận thất lạc.&lt;/p&gt; &lt;p&gt;Thương Đô đã xác nhận kích thước 0,255 m³ và đồng ý bồi thường theo mét khối (~2.800.000đ), nhưng sau đó lật kèo, tự ý bồi thường theo 6kg trên bill, chỉ 576.000đ, với lý do “không đo được kích thước”.&lt;/p&gt; &lt;p&gt;Trong khi đó, việc cân đo là trách nhiệm của đơn vị vận chuyển, và website Thương Đô không có quy định nào cho phép bồi thường theo kg trong trường hợp này.&lt;/p&gt; &lt;p&gt;👉 Hàng mất – xử lý kéo dài – bồi thường thiếu minh bạch.&lt;/p&gt; &lt;p&gt;Mọi người cân nhắc kỹ trước khi sử dụng dịch vụ của Thương Đô.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/thuongdoluadao"&gt; /u/thuongdoluadao &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1pnr0le"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pnr0le/cảnh_báo_thương_đô_thuongdocom/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pnr0le/cảnh_báo_thương_đô_thuongdocom/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-16T02:56:15+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1pnrxzl</id>
     <title>có ai thấy chênh vênh tuổi 30 không</title>
     <updated>2025-12-16T03:42:25+00:00</updated>
@@ -318,6 +305,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pnrxzl/có_ai_thấy_chênh_vênh_tuổi_30_không/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-16T03:42:25+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pnr0le</id>
+    <title>⚠️ CẢNH BÁO THƯƠNG ĐÔ (thuongdo.com)</title>
+    <updated>2025-12-16T02:56:15+00:00</updated>
+    <author>
+      <name>/u/thuongdoluadao</name>
+      <uri>https://old.reddit.com/user/thuongdoluadao</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1pnr0le/cảnh_báo_thương_đô_thuongdocom/"&gt; &lt;img alt="⚠️ CẢNH BÁO THƯƠNG ĐÔ (thuongdo.com)" src="https://b.thumbs.redditmedia.com/1K8HXHK9gyZM8yIKmL2SeZCxwxNYSexfejYIjfbVCEw.jpg" title="⚠️ CẢNH BÁO THƯƠNG ĐÔ (thuongdo.com)" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&amp;#x200b;&lt;/p&gt; &lt;p&gt;Tôi ký gửi đơn hàng Taobao trị giá ~3.000.000đ qua Thương Đô. Do lỗi hướng dẫn kho không rõ ràng của Thương Đô, hàng bị gửi nhầm kho, sau đó bị kéo dài gần 4 tháng với nhiều lý do khác nhau và cuối cùng bị xác nhận thất lạc.&lt;/p&gt; &lt;p&gt;Thương Đô đã xác nhận kích thước 0,255 m³ và đồng ý bồi thường theo mét khối (~2.800.000đ), nhưng sau đó lật kèo, tự ý bồi thường theo 6kg trên bill, chỉ 576.000đ, với lý do “không đo được kích thước”.&lt;/p&gt; &lt;p&gt;Trong khi đó, việc cân đo là trách nhiệm của đơn vị vận chuyển, và website Thương Đô không có quy định nào cho phép bồi thường theo kg trong trường hợp này.&lt;/p&gt; &lt;p&gt;👉 Hàng mất – xử lý kéo dài – bồi thường thiếu minh bạch.&lt;/p&gt; &lt;p&gt;Mọi người cân nhắc kỹ trước khi sử dụng dịch vụ của Thương Đô.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/thuongdoluadao"&gt; /u/thuongdoluadao &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1pnr0le"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pnr0le/cảnh_báo_thương_đô_thuongdocom/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pnr0le/cảnh_báo_thương_đô_thuongdocom/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-16T02:56:15+00:00</published>
   </entry>
   <entry>
     <id>t3_1pnpa8x</id>
