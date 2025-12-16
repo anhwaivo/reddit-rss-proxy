@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-12-16T13:56:05+00:00</updated>
+  <updated>2025-12-16T14:25:22+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1po015l</id>
-    <title>Giúp tôi giải nghĩa câu này</title>
-    <updated>2025-12-16T11:51:53+00:00</updated>
-    <author>
-      <name>/u/Jaded_Radio_9487</name>
-      <uri>https://old.reddit.com/user/Jaded_Radio_9487</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;strong&gt;Hoặc là bạn chết như 1 người anh hùng, hoặc bạn sẽ sống đủ lâu để thấy bản thân trở thành kẻ phản diện&lt;/strong&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Jaded_Radio_9487"&gt; /u/Jaded_Radio_9487 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1po015l/giúp_tôi_giải_nghĩa_câu_này/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1po015l/giúp_tôi_giải_nghĩa_câu_này/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1po015l/giúp_tôi_giải_nghĩa_câu_này/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-16T11:51:53+00:00</published>
-  </entry>
   <entry>
     <id>t3_1pn59ys</id>
     <title>Ra đường bây giờ sợ mấy đứa ngoan hiền lắm luôn</title>
@@ -47,19 +34,6 @@
     <published>2025-12-16T03:11:44+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pnrkn2</id>
-    <title>Vấn đề khác đạo trong hôn nhân</title>
-    <updated>2025-12-16T03:23:53+00:00</updated>
-    <author>
-      <name>/u/ZealousidealType4125</name>
-      <uri>https://old.reddit.com/user/ZealousidealType4125</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào anh em, mình muốn xin ý kiến. Mình không theo đạo, còn người yêu là công giáo gốc. Cô ấy đồng ý sau cưới sẽ về quê mình ở miền Trung sống cùng, nhưng có một điều kiện là mình và các con sau này phải theo công giáo.&lt;/p&gt; &lt;p&gt;Ngoài ra, cô ấy cũng muốn mình dừng việc cúng lễ tổ tiên, nhưng mình không thể vì thờ cúng là truyền thống gia đình, trăm năm nay rồi.&lt;/p&gt; &lt;p&gt;Mình đang băn khoăn không biết nên xử lý thế nào để vừa tôn trọng người yêu, vừa giữ được truyền thống gia đình. Anh em cho mình lời khuyên với.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ZealousidealType4125"&gt; /u/ZealousidealType4125 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pnrkn2/vấn_đề_khác_đạo_trong_hôn_nhân/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pnrkn2/vấn_đề_khác_đạo_trong_hôn_nhân/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pnrkn2/vấn_đề_khác_đạo_trong_hôn_nhân/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-16T03:23:53+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1pny1mw</id>
     <title>Vấn đề ngoại hình già trước tuổi</title>
     <updated>2025-12-16T09:49:31+00:00</updated>
@@ -73,17 +47,17 @@
     <published>2025-12-16T09:49:31+00:00</published>
   </entry>
   <entry>
-    <id>t3_1po08df</id>
-    <title>Làm nhà nên chọn sơn hãng nào ?</title>
-    <updated>2025-12-16T12:02:50+00:00</updated>
+    <id>t3_1pnrkn2</id>
+    <title>Vấn đề khác đạo trong hôn nhân</title>
+    <updated>2025-12-16T03:23:53+00:00</updated>
     <author>
-      <name>/u/Remote_Paramedic_385</name>
-      <uri>https://old.reddit.com/user/Remote_Paramedic_385</uri>
+      <name>/u/ZealousidealType4125</name>
+      <uri>https://old.reddit.com/user/ZealousidealType4125</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là nhà bố mẹ e đang làm lại mà e không rành mấy hãng sơn lắm, thấy cả nhà phân vân giữa Dulux, Kova với Nippon. Các bác tư vấn giúp e độ bền với ạ &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Remote_Paramedic_385"&gt; /u/Remote_Paramedic_385 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1po08df/làm_nhà_nên_chọn_sơn_hãng_nào/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1po08df/làm_nhà_nên_chọn_sơn_hãng_nào/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1po08df/làm_nhà_nên_chọn_sơn_hãng_nào/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào anh em, mình muốn xin ý kiến. Mình không theo đạo, còn người yêu là công giáo gốc. Cô ấy đồng ý sau cưới sẽ về quê mình ở miền Trung sống cùng, nhưng có một điều kiện là mình và các con sau này phải theo công giáo.&lt;/p&gt; &lt;p&gt;Ngoài ra, cô ấy cũng muốn mình dừng việc cúng lễ tổ tiên, nhưng mình không thể vì thờ cúng là truyền thống gia đình, trăm năm nay rồi.&lt;/p&gt; &lt;p&gt;Mình đang băn khoăn không biết nên xử lý thế nào để vừa tôn trọng người yêu, vừa giữ được truyền thống gia đình. Anh em cho mình lời khuyên với.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ZealousidealType4125"&gt; /u/ZealousidealType4125 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pnrkn2/vấn_đề_khác_đạo_trong_hôn_nhân/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pnrkn2/vấn_đề_khác_đạo_trong_hôn_nhân/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pnrkn2/vấn_đề_khác_đạo_trong_hôn_nhân/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-16T12:02:50+00:00</published>
+    <published>2025-12-16T03:23:53+00:00</published>
   </entry>
   <entry>
     <id>t3_1pn6fl6</id>
@@ -125,19 +99,6 @@
     <published>2025-12-16T04:34:09+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pn9zne</id>
-    <title>Anh em khi tự xử nhớ dùng gel và nhẹ tay</title>
-    <updated>2025-12-15T15:20:49+00:00</updated>
-    <author>
-      <name>/u/Strong_Fix_585</name>
-      <uri>https://old.reddit.com/user/Strong_Fix_585</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em không biết điều đó có hiển nhiên, ai cung biết quá không nhưng em không biết. Em từ dậy thì đến nay gần 27 tuổi đều tự xử không gel bôi trơn, cầm rất mạnh bạo và chặt, ngày nào cũng ít nhất một lần, nhiều thì 2-3. &lt;/p&gt; &lt;p&gt;Giờ thằng bé của em mất hết độ nhạy cảm. Em giờ quan hệ với người ta không rất có để thấy khoái cảm, kể cả không bao em vẫn không thấy chút khoái cảm nào xỉu luôn. Em phải bóp chặt như chết như khi tự xử mới có khoái cảm mới cứng được. Em tra thấy google bảo là Death Grip Symptoms do tự xử quá chặt, quá nhiều và không đủ gel. Giờ em đang cố để thằng bé nghỉ ngơi không biết nó có nhạy trở lại không chứ em sợ liệt quá &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Strong_Fix_585"&gt; /u/Strong_Fix_585 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pn9zne/anh_em_khi_tự_xử_nhớ_dùng_gel_và_nhẹ_tay/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pn9zne/anh_em_khi_tự_xử_nhớ_dùng_gel_và_nhẹ_tay/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pn9zne/anh_em_khi_tự_xử_nhớ_dùng_gel_và_nhẹ_tay/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-15T15:20:49+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1pnxeeu</id>
     <title>Xin tips tự build PC</title>
     <updated>2025-12-16T09:05:13+00:00</updated>
@@ -149,6 +110,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pnxeeu/xin_tips_tự_build_pc/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-16T09:05:13+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pn9zne</id>
+    <title>Anh em khi tự xử nhớ dùng gel và nhẹ tay</title>
+    <updated>2025-12-15T15:20:49+00:00</updated>
+    <author>
+      <name>/u/Strong_Fix_585</name>
+      <uri>https://old.reddit.com/user/Strong_Fix_585</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em không biết điều đó có hiển nhiên, ai cung biết quá không nhưng em không biết. Em từ dậy thì đến nay gần 27 tuổi đều tự xử không gel bôi trơn, cầm rất mạnh bạo và chặt, ngày nào cũng ít nhất một lần, nhiều thì 2-3. &lt;/p&gt; &lt;p&gt;Giờ thằng bé của em mất hết độ nhạy cảm. Em giờ quan hệ với người ta không rất có để thấy khoái cảm, kể cả không bao em vẫn không thấy chút khoái cảm nào xỉu luôn. Em phải bóp chặt như chết như khi tự xử mới có khoái cảm mới cứng được. Em tra thấy google bảo là Death Grip Symptoms do tự xử quá chặt, quá nhiều và không đủ gel. Giờ em đang cố để thằng bé nghỉ ngơi không biết nó có nhạy trở lại không chứ em sợ liệt quá &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Strong_Fix_585"&gt; /u/Strong_Fix_585 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pn9zne/anh_em_khi_tự_xử_nhớ_dùng_gel_và_nhẹ_tay/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pn9zne/anh_em_khi_tự_xử_nhớ_dùng_gel_và_nhẹ_tay/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pn9zne/anh_em_khi_tự_xử_nhớ_dùng_gel_và_nhẹ_tay/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-15T15:20:49+00:00</published>
   </entry>
   <entry>
     <id>t3_1pnwkg7</id>
@@ -190,6 +164,19 @@
     <published>2025-12-16T10:23:28+00:00</published>
   </entry>
   <entry>
+    <id>t3_1po08df</id>
+    <title>Làm nhà nên chọn sơn hãng nào ?</title>
+    <updated>2025-12-16T12:02:50+00:00</updated>
+    <author>
+      <name>/u/Remote_Paramedic_385</name>
+      <uri>https://old.reddit.com/user/Remote_Paramedic_385</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là nhà bố mẹ e đang làm lại mà e không rành mấy hãng sơn lắm, thấy cả nhà phân vân giữa Dulux, Kova với Nippon. Các bác tư vấn giúp e độ bền với ạ &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Remote_Paramedic_385"&gt; /u/Remote_Paramedic_385 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1po08df/làm_nhà_nên_chọn_sơn_hãng_nào/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1po08df/làm_nhà_nên_chọn_sơn_hãng_nào/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1po08df/làm_nhà_nên_chọn_sơn_hãng_nào/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-16T12:02:50+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1po039y</id>
     <title>các bro cho tôi xin ý kiến</title>
     <updated>2025-12-16T11:55:10+00:00</updated>
@@ -203,17 +190,17 @@
     <published>2025-12-16T11:55:10+00:00</published>
   </entry>
   <entry>
-    <id>t3_1po197t</id>
-    <title>Cuối tuần của mọi người.</title>
-    <updated>2025-12-16T12:56:49+00:00</updated>
+    <id>t3_1po2qh7</id>
+    <title>Sao ai cũng đẹp nhưng chỉ có tôi là xấu xí :(</title>
+    <updated>2025-12-16T14:04:06+00:00</updated>
     <author>
-      <name>/u/Historical-Mango-958</name>
-      <uri>https://old.reddit.com/user/Historical-Mango-958</uri>
+      <name>/u/Jamie4Cutie</name>
+      <uri>https://old.reddit.com/user/Jamie4Cutie</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mọi người thích ở nhà ngủ đi chơi hay về vùng nông thôn? Mình thì thích về vùng quê yên tĩnh để tịnh tâm thay vì chen chúc vào thành phố.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Historical-Mango-958"&gt; /u/Historical-Mango-958 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1po197t/cuối_tuần_của_mọi_người/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1po197t/cuối_tuần_của_mọi_người/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1po197t/cuối_tuần_của_mọi_người/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tôi đã thử mọi cách rồi nhưng tôi vẫn xấu xí :(&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Jamie4Cutie"&gt; /u/Jamie4Cutie &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1po2qh7/sao_ai_cũng_đẹp_nhưng_chỉ_có_tôi_là_xấu_xí/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1po2qh7/sao_ai_cũng_đẹp_nhưng_chỉ_có_tôi_là_xấu_xí/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1po2qh7/sao_ai_cũng_đẹp_nhưng_chỉ_có_tôi_là_xấu_xí/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-16T12:56:49+00:00</published>
+    <published>2025-12-16T14:04:06+00:00</published>
   </entry>
   <entry>
     <id>t3_1po1fcv</id>
@@ -255,17 +242,17 @@
     <published>2025-12-16T12:30:37+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pnzv08</id>
-    <title>có ai biết tìm mấy ảnh như này ở đâu ko?</title>
-    <updated>2025-12-16T11:42:14+00:00</updated>
+    <id>t3_1po197t</id>
+    <title>Cuối tuần của mọi người.</title>
+    <updated>2025-12-16T12:56:49+00:00</updated>
     <author>
-      <name>/u/Ok-Praline1660</name>
-      <uri>https://old.reddit.com/user/Ok-Praline1660</uri>
+      <name>/u/Historical-Mango-958</name>
+      <uri>https://old.reddit.com/user/Historical-Mango-958</uri>
     </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1pnzv08/có_ai_biết_tìm_mấy_ảnh_như_này_ở_đâu_ko/"&gt; &lt;img alt="có ai biết tìm mấy ảnh như này ở đâu ko?" src="https://preview.redd.it/u42oofajzj7g1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=b15dfb58bd3394ae96de17d447707c15ac299090" title="có ai biết tìm mấy ảnh như này ở đâu ko?" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;mình muốn tìm mấy ảnh mà học sinh cầm app show điểm số như này nhưng ko biết tìm chỗ nào. tìm trên pinterest ko thấy, hoặc là do mình tìm ko đúng từ khóa. ai biết tìm ở đâu chỉ mình với nhé.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ok-Praline1660"&gt; /u/Ok-Praline1660 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/u42oofajzj7g1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pnzv08/có_ai_biết_tìm_mấy_ảnh_như_này_ở_đâu_ko/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pnzv08/có_ai_biết_tìm_mấy_ảnh_như_này_ở_đâu_ko/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mọi người thích ở nhà ngủ đi chơi hay về vùng nông thôn? Mình thì thích về vùng quê yên tĩnh để tịnh tâm thay vì chen chúc vào thành phố.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Historical-Mango-958"&gt; /u/Historical-Mango-958 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1po197t/cuối_tuần_của_mọi_người/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1po197t/cuối_tuần_của_mọi_người/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1po197t/cuối_tuần_của_mọi_người/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-16T11:42:14+00:00</published>
+    <published>2025-12-16T12:56:49+00:00</published>
   </entry>
   <entry>
     <id>t3_1pnr0le</id>
@@ -279,6 +266,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pnr0le/cảnh_báo_thương_đô_thuongdocom/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-16T02:56:15+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pnzv08</id>
+    <title>có ai biết tìm mấy ảnh như này ở đâu ko?</title>
+    <updated>2025-12-16T11:42:14+00:00</updated>
+    <author>
+      <name>/u/Ok-Praline1660</name>
+      <uri>https://old.reddit.com/user/Ok-Praline1660</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1pnzv08/có_ai_biết_tìm_mấy_ảnh_như_này_ở_đâu_ko/"&gt; &lt;img alt="có ai biết tìm mấy ảnh như này ở đâu ko?" src="https://preview.redd.it/u42oofajzj7g1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=b15dfb58bd3394ae96de17d447707c15ac299090" title="có ai biết tìm mấy ảnh như này ở đâu ko?" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;mình muốn tìm mấy ảnh mà học sinh cầm app show điểm số như này nhưng ko biết tìm chỗ nào. tìm trên pinterest ko thấy, hoặc là do mình tìm ko đúng từ khóa. ai biết tìm ở đâu chỉ mình với nhé.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ok-Praline1660"&gt; /u/Ok-Praline1660 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/u42oofajzj7g1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pnzv08/có_ai_biết_tìm_mấy_ảnh_như_này_ở_đâu_ko/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pnzv08/có_ai_biết_tìm_mấy_ảnh_như_này_ở_đâu_ko/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-16T11:42:14+00:00</published>
   </entry>
   <entry>
     <id>t3_1pnpa8x</id>
