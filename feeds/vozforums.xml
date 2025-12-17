@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-12-17T05:21:42+00:00</updated>
+  <updated>2025-12-17T05:45:44+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1pokopj</id>
-    <title>Mọi người đã ai mua api gemeni trên fb chưa ạ?? Em xin ít review được không ạ!?!!</title>
-    <updated>2025-12-17T02:15:08+00:00</updated>
-    <author>
-      <name>/u/Sufficient_Monk_2627</name>
-      <uri>https://old.reddit.com/user/Sufficient_Monk_2627</uri>
-    </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Sufficient_Monk_2627"&gt; /u/Sufficient_Monk_2627 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pokopj/mọi_người_đã_ai_mua_api_gemeni_trên_fb_chưa_ạ_em/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pokopj/mọi_người_đã_ai_mua_api_gemeni_trên_fb_chưa_ạ_em/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pokopj/mọi_người_đã_ai_mua_api_gemeni_trên_fb_chưa_ạ_em/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-17T02:15:08+00:00</published>
-  </entry>
   <entry>
     <id>t3_1poktpe</id>
     <title>CPU là gì ?</title>
@@ -60,6 +47,19 @@
     <published>2025-12-17T03:59:37+00:00</published>
   </entry>
   <entry>
+    <id>t3_1pomwg1</id>
+    <title>Tư vấn laptop cho em với</title>
+    <updated>2025-12-17T04:04:06+00:00</updated>
+    <author>
+      <name>/u/Broad_Razzmatazz_101</name>
+      <uri>https://old.reddit.com/user/Broad_Razzmatazz_101</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1pomwg1/tư_vấn_laptop_cho_em_với/"&gt; &lt;img alt="Tư vấn laptop cho em với" src="https://b.thumbs.redditmedia.com/iRt0_Yim6lFAE_O1KABKN2tx0Lz-s9eHW5yyRqaGbsE.jpg" title="Tư vấn laptop cho em với" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hiện giờ em đang khá phân vẫn giữa 3 mẫu sau các bác xem thử mẫu nào xài lâu dài sẽ thuận tiện và tối ưu hơn giúp em với, nếu có mẫu nào khác các bác gợi ý giúp em nhé&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Broad_Razzmatazz_101"&gt; /u/Broad_Razzmatazz_101 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1pomwg1"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pomwg1/tư_vấn_laptop_cho_em_với/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pomwg1/tư_vấn_laptop_cho_em_với/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-17T04:04:06+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1ponqrn</id>
     <title>Đi Đà Lạt chơi gì?</title>
     <updated>2025-12-17T04:48:41+00:00</updated>
@@ -71,32 +71,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ponqrn/đi_đà_lạt_chơi_gì/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-17T04:48:41+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1ponr0o</id>
-    <title>Xin hỏi về việc đóng thuế khi bán USDT.</title>
-    <updated>2025-12-17T04:49:05+00:00</updated>
-    <author>
-      <name>/u/NotVegan_Coconut</name>
-      <uri>https://old.reddit.com/user/NotVegan_Coconut</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Xin chào các bạn. Hiện tại tôi có người thân ở nước ngoài gửi về 20.000 đô dưới dạng usdt để giải quyết một số việc ở VN. Việc đem nó lên sàn Binance để bán không thành vấn đề. Vấn đề tôi muốn hỏi là với số tiền thu về như thế thì sẽ khai thuế như thế nào vậy ạ? &lt;/p&gt; &lt;p&gt;Tôi không muốn bị vướng rắc rối sau này bị truy thu thuế nên muốn chủ động nộp luôn. Tôi cũng không có kiến thức về thuế nên mong người từng có kinh nghiệm giải đáp thắc mắc giúp ạ. Cảm ơn mọi người. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/NotVegan_Coconut"&gt; /u/NotVegan_Coconut &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ponr0o/xin_hỏi_về_việc_đóng_thuế_khi_bán_usdt/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ponr0o/xin_hỏi_về_việc_đóng_thuế_khi_bán_usdt/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ponr0o/xin_hỏi_về_việc_đóng_thuế_khi_bán_usdt/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-17T04:49:05+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1pontr7</id>
-    <title>Vá thuyền</title>
-    <updated>2025-12-17T04:53:14+00:00</updated>
-    <author>
-      <name>/u/Open-Cream-7903</name>
-      <uri>https://old.reddit.com/user/Open-Cream-7903</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là tôi với 1 bạn nữ ban đầu nói chuyện khá vui, được một thời gian và tôi cũng dần thích bạn ấy, nhưng lúc tôi bắt đầu thích một ai đó là tôi bị ngu hay sao ấy các bác ạ. Tôi nói chuyện dở tệ, nhạt nhẽo quá, lại còn toàn nói linh tinh. Và rồi tôi nhận ra cuộc trò truyện thưa thớt dần, các cao nhân ai đã bị thế chưa, help me !!! &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Open-Cream-7903"&gt; /u/Open-Cream-7903 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pontr7/vá_thuyền/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pontr7/vá_thuyền/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pontr7/vá_thuyền/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-17T04:53:14+00:00</published>
   </entry>
   <entry>
     <id>t3_1ponuiw</id>
@@ -125,6 +99,19 @@
     <published>2025-12-17T01:21:35+00:00</published>
   </entry>
   <entry>
+    <id>t3_1pooilh</id>
+    <title>Mình tập thể dục và gym được 5 tháng , thân hình như vậy ổn chưa cả nhà. Xin mn góp ý</title>
+    <updated>2025-12-17T05:31:08+00:00</updated>
+    <author>
+      <name>/u/Huyenpham11</name>
+      <uri>https://old.reddit.com/user/Huyenpham11</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1pooilh/mình_tập_thể_dục_và_gym_được_5_tháng_thân_hình/"&gt; &lt;img alt="Mình tập thể dục và gym được 5 tháng , thân hình như vậy ổn chưa cả nhà. Xin mn góp ý" src="https://preview.redd.it/xxq838hfap7g1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=74571f60ce4aa04093428c192f5062ab18bbcdcd" title="Mình tập thể dục và gym được 5 tháng , thân hình như vậy ổn chưa cả nhà. Xin mn góp ý" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Huyenpham11"&gt; /u/Huyenpham11 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/xxq838hfap7g1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pooilh/mình_tập_thể_dục_và_gym_được_5_tháng_thân_hình/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pooilh/mình_tập_thể_dục_và_gym_được_5_tháng_thân_hình/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-17T05:31:08+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1pok6g1</id>
     <title>Kao Vân - Trùm lừa đảo hơn 2.000 tỷ đồng bị bắt</title>
     <updated>2025-12-17T01:50:55+00:00</updated>
@@ -151,19 +138,6 @@
     <published>2025-12-16T09:45:25+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pomwg1</id>
-    <title>Tư vấn laptop cho em với</title>
-    <updated>2025-12-17T04:04:06+00:00</updated>
-    <author>
-      <name>/u/Broad_Razzmatazz_101</name>
-      <uri>https://old.reddit.com/user/Broad_Razzmatazz_101</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1pomwg1/tư_vấn_laptop_cho_em_với/"&gt; &lt;img alt="Tư vấn laptop cho em với" src="https://b.thumbs.redditmedia.com/iRt0_Yim6lFAE_O1KABKN2tx0Lz-s9eHW5yyRqaGbsE.jpg" title="Tư vấn laptop cho em với" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hiện giờ em đang khá phân vẫn giữa 3 mẫu sau các bác xem thử mẫu nào xài lâu dài sẽ thuận tiện và tối ưu hơn giúp em với, nếu có mẫu nào khác các bác gợi ý giúp em nhé&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Broad_Razzmatazz_101"&gt; /u/Broad_Razzmatazz_101 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1pomwg1"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pomwg1/tư_vấn_laptop_cho_em_với/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pomwg1/tư_vấn_laptop_cho_em_với/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-17T04:04:06+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1pnwta1</id>
     <title>Chán chán nên viết về một cuộc sống bình thường</title>
     <updated>2025-12-16T08:24:56+00:00</updated>
@@ -175,6 +149,32 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pnwta1/chán_chán_nên_viết_về_một_cuộc_sống_bình_thường/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-16T08:24:56+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ponr0o</id>
+    <title>Xin hỏi về việc đóng thuế khi bán USDT.</title>
+    <updated>2025-12-17T04:49:05+00:00</updated>
+    <author>
+      <name>/u/NotVegan_Coconut</name>
+      <uri>https://old.reddit.com/user/NotVegan_Coconut</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Xin chào các bạn. Hiện tại tôi có người thân ở nước ngoài gửi về 20.000 đô dưới dạng usdt để giải quyết một số việc ở VN. Việc đem nó lên sàn Binance để bán không thành vấn đề. Vấn đề tôi muốn hỏi là với số tiền thu về như thế thì sẽ khai thuế như thế nào vậy ạ? &lt;/p&gt; &lt;p&gt;Tôi không muốn bị vướng rắc rối sau này bị truy thu thuế nên muốn chủ động nộp luôn. Tôi cũng không có kiến thức về thuế nên mong người từng có kinh nghiệm giải đáp thắc mắc giúp ạ. Cảm ơn mọi người. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/NotVegan_Coconut"&gt; /u/NotVegan_Coconut &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ponr0o/xin_hỏi_về_việc_đóng_thuế_khi_bán_usdt/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ponr0o/xin_hỏi_về_việc_đóng_thuế_khi_bán_usdt/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ponr0o/xin_hỏi_về_việc_đóng_thuế_khi_bán_usdt/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-17T04:49:05+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pontr7</id>
+    <title>Vá thuyền</title>
+    <updated>2025-12-17T04:53:14+00:00</updated>
+    <author>
+      <name>/u/Open-Cream-7903</name>
+      <uri>https://old.reddit.com/user/Open-Cream-7903</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là tôi với 1 bạn nữ ban đầu nói chuyện khá vui, được một thời gian và tôi cũng dần thích bạn ấy, nhưng lúc tôi bắt đầu thích một ai đó là tôi bị ngu hay sao ấy các bác ạ. Tôi nói chuyện dở tệ, nhạt nhẽo quá, lại còn toàn nói linh tinh. Và rồi tôi nhận ra cuộc trò truyện thưa thớt dần, các cao nhân ai đã bị thế chưa, help me !!! &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Open-Cream-7903"&gt; /u/Open-Cream-7903 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pontr7/vá_thuyền/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pontr7/vá_thuyền/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pontr7/vá_thuyền/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-17T04:53:14+00:00</published>
   </entry>
   <entry>
     <id>t3_1pojrez</id>
@@ -229,19 +229,6 @@
     <published>2025-12-17T02:46:21+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pomcsh</id>
-    <title>Xin tip vận động thường xuyên cho dân văn phòng (IT)</title>
-    <updated>2025-12-17T03:36:46+00:00</updated>
-    <author>
-      <name>/u/holyhuy</name>
-      <uri>https://old.reddit.com/user/holyhuy</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mn. Mình ở SG.&lt;br /&gt; Tình hình là dạo này thấy mình vô cùng lười vận động.&lt;br /&gt; Trước đây thể lực tốt và cảm giác người rất linh hoạt, nhưng gần đây thấy người hơi bị ì ạch nên xin lên post chia sẻ xíu.&lt;/p&gt; &lt;p&gt;Một ngày mình làm 8 tiếng thì ngồi liên tục hết 7 tiếng rồi.&lt;br /&gt; Office khá là nhỏ nên có đi lấy nước, đi wc hay di chuyển chỉ cần vài bước là hết office rồi ( các cty trước office khá lớn nên di chuyển được nhiều hơn gấp nhiều lần) &lt;/p&gt; &lt;p&gt;1 ngày ra ngoài được tầm 1-2 lần để đi bộ quanh chỗ làm (100-200m), còn đâu cứ ngồi tại chỗ làm hoặc thi thoảng đứng dậy đi quanh office.&lt;br /&gt; Về khoản thể thao thì mình có đá s7 1 trận 1 tuần và chạy bộ vào cuối tuần.&lt;br /&gt; Nhiêu đây mình thấy chả si nhê gì , thường nếu về quê vài tuần thì hiếm khi mình ngồi 1 chỗ quá 1 tiếng. vận động di chuyển liên tục. người cũng thấy linh hoạt hẳn ra. &lt;/p&gt; &lt;p&gt;Nên xin ý kiến của mấy bác trên đây xem bình thường các bác sinh hoạt thế nào và có tips gì hay chỉ mình với nhé.&lt;br /&gt; Bác nào cùng chung cảnh ngộ thì tâm sự lun&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/holyhuy"&gt; /u/holyhuy &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pomcsh/xin_tip_vận_động_thường_xuyên_cho_dân_văn_phòng_it/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pomcsh/xin_tip_vận_động_thường_xuyên_cho_dân_văn_phòng_it/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pomcsh/xin_tip_vận_động_thường_xuyên_cho_dân_văn_phòng_it/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-17T03:36:46+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1polsfi</id>
     <title>Máy em bật quài nó không lên em gim cả dây nguồn ai chỉ em vs 😭😭😭</title>
     <updated>2025-12-17T03:08:22+00:00</updated>
@@ -266,6 +253,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1poms29/hàng_tháng_cán_bộ_đến_nhà_lãnh_phiếu/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-17T03:57:59+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pomcsh</id>
+    <title>Xin tip vận động thường xuyên cho dân văn phòng (IT)</title>
+    <updated>2025-12-17T03:36:46+00:00</updated>
+    <author>
+      <name>/u/holyhuy</name>
+      <uri>https://old.reddit.com/user/holyhuy</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mn. Mình ở SG.&lt;br /&gt; Tình hình là dạo này thấy mình vô cùng lười vận động.&lt;br /&gt; Trước đây thể lực tốt và cảm giác người rất linh hoạt, nhưng gần đây thấy người hơi bị ì ạch nên xin lên post chia sẻ xíu.&lt;/p&gt; &lt;p&gt;Một ngày mình làm 8 tiếng thì ngồi liên tục hết 7 tiếng rồi.&lt;br /&gt; Office khá là nhỏ nên có đi lấy nước, đi wc hay di chuyển chỉ cần vài bước là hết office rồi ( các cty trước office khá lớn nên di chuyển được nhiều hơn gấp nhiều lần) &lt;/p&gt; &lt;p&gt;1 ngày ra ngoài được tầm 1-2 lần để đi bộ quanh chỗ làm (100-200m), còn đâu cứ ngồi tại chỗ làm hoặc thi thoảng đứng dậy đi quanh office.&lt;br /&gt; Về khoản thể thao thì mình có đá s7 1 trận 1 tuần và chạy bộ vào cuối tuần.&lt;br /&gt; Nhiêu đây mình thấy chả si nhê gì , thường nếu về quê vài tuần thì hiếm khi mình ngồi 1 chỗ quá 1 tiếng. vận động di chuyển liên tục. người cũng thấy linh hoạt hẳn ra. &lt;/p&gt; &lt;p&gt;Nên xin ý kiến của mấy bác trên đây xem bình thường các bác sinh hoạt thế nào và có tips gì hay chỉ mình với nhé.&lt;br /&gt; Bác nào cùng chung cảnh ngộ thì tâm sự lun&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/holyhuy"&gt; /u/holyhuy &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pomcsh/xin_tip_vận_động_thường_xuyên_cho_dân_văn_phòng_it/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pomcsh/xin_tip_vận_động_thường_xuyên_cho_dân_văn_phòng_it/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pomcsh/xin_tip_vận_động_thường_xuyên_cho_dân_văn_phòng_it/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-17T03:36:46+00:00</published>
   </entry>
   <entry>
     <id>t3_1poldhn</id>
@@ -294,19 +294,6 @@
     <published>2025-12-16T18:25:38+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pom856</id>
-    <title>Gen Z thích độc thân vì chi phí đắt đỏ</title>
-    <updated>2025-12-17T03:30:17+00:00</updated>
-    <author>
-      <name>/u/Willing-Room-2101</name>
-      <uri>https://old.reddit.com/user/Willing-Room-2101</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;họ hàng mình có đứa sắp cưới, nghe phong phanh ba mẹ nó lo tiền cưới xin các kiểu lên gần 700 triệu, kể ra còn chưa tính tiền nhẫn cưới, ảnh cưới, rìa rìa lặt vặt nó tự lo. Nghe v mới hiểu sao giờ ng trẻ ngta thích độc thân nhiều, vì kh có tiền. Mà nếu có thì sống độc thân có khi lại khỏe hơn, như mình đầu tư chứng chỉ quỹ dư 1 khoản hơn trăm triệu, để mà kêu bán đi làm đám cưới thì tiếc thật, thà để đầu tư tiếp sau có tiền dưỡng già vào viện dưỡng lão còn hơn. Khi trẻ thì cứ tận hưởng trước&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Willing-Room-2101"&gt; /u/Willing-Room-2101 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pom856/gen_z_thích_độc_thân_vì_chi_phí_đắt_đỏ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pom856/gen_z_thích_độc_thân_vì_chi_phí_đắt_đỏ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pom856/gen_z_thích_độc_thân_vì_chi_phí_đắt_đỏ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-17T03:30:17+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1poem4v</id>
     <title>Đi dân quân cơ động 2 ngày cảm thấy phí đời vãi</title>
     <updated>2025-12-16T21:46:08+00:00</updated>
@@ -318,6 +305,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1poem4v/đi_dân_quân_cơ_động_2_ngày_cảm_thấy_phí_đời_vãi/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-16T21:46:08+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pom856</id>
+    <title>Gen Z thích độc thân vì chi phí đắt đỏ</title>
+    <updated>2025-12-17T03:30:17+00:00</updated>
+    <author>
+      <name>/u/Willing-Room-2101</name>
+      <uri>https://old.reddit.com/user/Willing-Room-2101</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;họ hàng mình có đứa sắp cưới, nghe phong phanh ba mẹ nó lo tiền cưới xin các kiểu lên gần 700 triệu, kể ra còn chưa tính tiền nhẫn cưới, ảnh cưới, rìa rìa lặt vặt nó tự lo. Nghe v mới hiểu sao giờ ng trẻ ngta thích độc thân nhiều, vì kh có tiền. Mà nếu có thì sống độc thân có khi lại khỏe hơn, như mình đầu tư chứng chỉ quỹ dư 1 khoản hơn trăm triệu, để mà kêu bán đi làm đám cưới thì tiếc thật, thà để đầu tư tiếp sau có tiền dưỡng già vào viện dưỡng lão còn hơn. Khi trẻ thì cứ tận hưởng trước&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Willing-Room-2101"&gt; /u/Willing-Room-2101 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pom856/gen_z_thích_độc_thân_vì_chi_phí_đắt_đỏ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pom856/gen_z_thích_độc_thân_vì_chi_phí_đắt_đỏ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pom856/gen_z_thích_độc_thân_vì_chi_phí_đắt_đỏ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-17T03:30:17+00:00</published>
   </entry>
   <entry>
     <id>t3_1pok0wg</id>
