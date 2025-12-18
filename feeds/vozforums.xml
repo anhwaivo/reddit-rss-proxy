@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-12-18T22:53:28+00:00</updated>
+  <updated>2025-12-18T23:19:12+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -60,19 +60,6 @@
     <published>2025-12-18T12:32:36+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ppyekt</id>
-    <title>Lực lượng này mà đưa ra chiến trường thì mạnh phải biết. Nonstop Vit Lam vô lịt suc cực mạnh</title>
-    <updated>2025-12-18T18:35:51+00:00</updated>
-    <author>
-      <name>/u/AdmirableYard8760</name>
-      <uri>https://old.reddit.com/user/AdmirableYard8760</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1ppyekt/lực_lượng_này_mà_đưa_ra_chiến_trường_thì_mạnh/"&gt; &lt;img alt="Lực lượng này mà đưa ra chiến trường thì mạnh phải biết. Nonstop Vit Lam vô lịt suc cực mạnh" src="https://preview.redd.it/vdd08eyq908g1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=8438b5d8921fa100ae05c9e42c5a59e8a2eac3d1" title="Lực lượng này mà đưa ra chiến trường thì mạnh phải biết. Nonstop Vit Lam vô lịt suc cực mạnh" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/AdmirableYard8760"&gt; /u/AdmirableYard8760 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/vdd08eyq908g1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ppyekt/lực_lượng_này_mà_đưa_ra_chiến_trường_thì_mạnh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ppyekt/lực_lượng_này_mà_đưa_ra_chiến_trường_thì_mạnh/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-18T18:35:51+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1pptbok</id>
     <title>Hỏi đáp Tài khoản ngân hàng</title>
     <updated>2025-12-18T15:16:35+00:00</updated>
@@ -110,19 +97,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ppn0ad/quá_chán_khi_bị_say_xe/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-18T09:52:32+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1ppue3v</id>
-    <title>Chi phí 1 tháng ở Sài Gòn?</title>
-    <updated>2025-12-18T15:59:35+00:00</updated>
-    <author>
-      <name>/u/seiza723</name>
-      <uri>https://old.reddit.com/user/seiza723</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Cho mình hỏi total chi phí 1 tháng mọi người ở SG tiêu tầm bao nhiêu? Mình trước lương 15 củ, mỗi tháng chi tầm 10-12 triệu 😕 cũng cố gắng tiết kiệm mà k thể giảm hơn được&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/seiza723"&gt; /u/seiza723 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ppue3v/chi_phí_1_tháng_ở_sài_gòn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ppue3v/chi_phí_1_tháng_ở_sài_gòn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ppue3v/chi_phí_1_tháng_ở_sài_gòn/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-18T15:59:35+00:00</published>
   </entry>
   <entry>
     <id>t3_1ppv7sl</id>
@@ -229,6 +203,19 @@
     <published>2025-12-18T21:56:15+00:00</published>
   </entry>
   <entry>
+    <id>t3_1ppue3v</id>
+    <title>Chi phí 1 tháng ở Sài Gòn?</title>
+    <updated>2025-12-18T15:59:35+00:00</updated>
+    <author>
+      <name>/u/seiza723</name>
+      <uri>https://old.reddit.com/user/seiza723</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Cho mình hỏi total chi phí 1 tháng mọi người ở SG tiêu tầm bao nhiêu? Mình trước lương 15 củ, mỗi tháng chi tầm 10-12 triệu 😕 cũng cố gắng tiết kiệm mà k thể giảm hơn được&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/seiza723"&gt; /u/seiza723 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ppue3v/chi_phí_1_tháng_ở_sài_gòn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ppue3v/chi_phí_1_tháng_ở_sài_gòn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ppue3v/chi_phí_1_tháng_ở_sài_gòn/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-18T15:59:35+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1ppkgi9</id>
     <title>Phân vân có nên bán cơm trưa qua app?</title>
     <updated>2025-12-18T07:02:04+00:00</updated>
@@ -279,6 +266,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pptysv/bài_hát_này_giữ_kỷ_lục_đứng_1_lâu_nhất_ở_mỹ_suốt/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-18T15:42:39+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ppyekt</id>
+    <title>Lực lượng này mà đưa ra chiến trường thì mạnh phải biết. Nonstop Vit Lam vô lịt suc cực mạnh</title>
+    <updated>2025-12-18T18:35:51+00:00</updated>
+    <author>
+      <name>/u/AdmirableYard8760</name>
+      <uri>https://old.reddit.com/user/AdmirableYard8760</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1ppyekt/lực_lượng_này_mà_đưa_ra_chiến_trường_thì_mạnh/"&gt; &lt;img alt="Lực lượng này mà đưa ra chiến trường thì mạnh phải biết. Nonstop Vit Lam vô lịt suc cực mạnh" src="https://preview.redd.it/vdd08eyq908g1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=8438b5d8921fa100ae05c9e42c5a59e8a2eac3d1" title="Lực lượng này mà đưa ra chiến trường thì mạnh phải biết. Nonstop Vit Lam vô lịt suc cực mạnh" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/AdmirableYard8760"&gt; /u/AdmirableYard8760 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/vdd08eyq908g1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ppyekt/lực_lượng_này_mà_đưa_ra_chiến_trường_thì_mạnh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ppyekt/lực_lượng_này_mà_đưa_ra_chiến_trường_thì_mạnh/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-18T18:35:51+00:00</published>
   </entry>
   <entry>
     <id>t3_1pppygj</id>
