@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-12-18T10:22:11+00:00</updated>
+  <updated>2025-12-18T10:47:35+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1ppfyr5</id>
-    <title>Sinh viên quèn nhờ các tiền bối tư vấn giúp em về việc lựa chọn React Native hay Kotlin cho năm cuối</title>
-    <updated>2025-12-18T02:54:56+00:00</updated>
-    <author>
-      <name>/u/lilnguyen</name>
-      <uri>https://old.reddit.com/user/lilnguyen</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Như tiêu đề ,em theo lập trình mobile năm nay năm cuối ,ban đầu trường dạy và em cũng tự tìm hiểu về Kotlin ở năm 3,nhưng đến khi đi thực tập thì bên công ty lại code React Native ,em cũng bỏ thời gian ra học lại và tới nay code được 4 tháng.Nhưng mà em nghe review rằng React Native này đang chết dần và ít người dùng,em có chút lo lắng vì sau này nếu có thể thì muốn làm cho cty ngoại. Liệu em nên tiếp tục với RN với cty này hay quay trở lại với Kotlin để tìm các cty khác với cơ hội phát triển tốt hơn? Em cảm ơn mọi người đã dành thời gian ra đọc ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/lilnguyen"&gt; /u/lilnguyen &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ppfyr5/sinh_viên_quèn_nhờ_các_tiền_bối_tư_vấn_giúp_em_về/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ppfyr5/sinh_viên_quèn_nhờ_các_tiền_bối_tư_vấn_giúp_em_về/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ppfyr5/sinh_viên_quèn_nhờ_các_tiền_bối_tư_vấn_giúp_em_về/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-18T02:54:56+00:00</published>
-  </entry>
   <entry>
     <id>t3_1ppg4zu</id>
     <title>26 tuổi nên bắt đầu học code Unity để đi làm dev game?</title>
@@ -73,19 +60,6 @@
     <published>2025-12-18T07:32:24+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pp4v8d</id>
-    <title>Vì sao iphone hấp dẫn vậy??</title>
-    <updated>2025-12-17T18:59:24+00:00</updated>
-    <author>
-      <name>/u/CalligrapherFlaky245</name>
-      <uri>https://old.reddit.com/user/CalligrapherFlaky245</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình là người dùng đt samsung nhưng tất cả bạn bè mình đều dùng iphone. Chỉ có mình dùng samsung và mình ko hiểu vì sao ít người dùng samsung so với iphone. Có ai biết ko??&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/CalligrapherFlaky245"&gt; /u/CalligrapherFlaky245 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pp4v8d/vì_sao_iphone_hấp_dẫn_vậy/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pp4v8d/vì_sao_iphone_hấp_dẫn_vậy/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pp4v8d/vì_sao_iphone_hấp_dẫn_vậy/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-17T18:59:24+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1ppltt2</id>
     <title>Xin visa du học Đức</title>
     <updated>2025-12-18T08:32:20+00:00</updated>
@@ -97,6 +71,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ppltt2/xin_visa_du_học_đức/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-18T08:32:20+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pp4v8d</id>
+    <title>Vì sao iphone hấp dẫn vậy??</title>
+    <updated>2025-12-17T18:59:24+00:00</updated>
+    <author>
+      <name>/u/CalligrapherFlaky245</name>
+      <uri>https://old.reddit.com/user/CalligrapherFlaky245</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình là người dùng đt samsung nhưng tất cả bạn bè mình đều dùng iphone. Chỉ có mình dùng samsung và mình ko hiểu vì sao ít người dùng samsung so với iphone. Có ai biết ko??&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/CalligrapherFlaky245"&gt; /u/CalligrapherFlaky245 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pp4v8d/vì_sao_iphone_hấp_dẫn_vậy/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pp4v8d/vì_sao_iphone_hấp_dẫn_vậy/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pp4v8d/vì_sao_iphone_hấp_dẫn_vậy/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-17T18:59:24+00:00</published>
   </entry>
   <entry>
     <id>t3_1ppm9vf</id>
@@ -136,6 +123,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ppmqys/bệnh_chán_tất_cả/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-18T09:35:05+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ppnqak</id>
+    <title>[Nhờ tư vấn] Tìm nhạc nền cho sự kiện trang trọng</title>
+    <updated>2025-12-18T10:38:51+00:00</updated>
+    <author>
+      <name>/u/betty_Vn_2310</name>
+      <uri>https://old.reddit.com/user/betty_Vn_2310</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em chào các bác. Chuyện là em đang phải phụ trách tìm nhạc nền cho 1 sự kiện trọng đại, nghiêm túc. Nhạc nền đại ý như kiểu nhạc chạy khi có khách phát biểu, khi khách lên sân khấu, nhạc nền lúc ăn uống, vv... ạ&lt;br /&gt; Em thì dân IT đầu to mắt cận, tai trâu, nhạc nhẽo không biết gì cả. Không biết bác nào có kinh nghiệm hay sẵn playlist có thể giúp em được không ạ. Em mời cốc cafe ạ. &lt;/p&gt; &lt;p&gt;Cảm ơn các bác.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/betty_Vn_2310"&gt; /u/betty_Vn_2310 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ppnqak/nhờ_tư_vấn_tìm_nhạc_nền_cho_sự_kiện_trang_trọng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ppnqak/nhờ_tư_vấn_tìm_nhạc_nền_cho_sự_kiện_trang_trọng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ppnqak/nhờ_tư_vấn_tìm_nhạc_nền_cho_sự_kiện_trang_trọng/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-18T10:38:51+00:00</published>
   </entry>
   <entry>
     <id>t3_1ppgl11</id>
@@ -242,19 +242,6 @@
     <published>2025-12-18T06:55:39+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ppfcjj</id>
-    <title>Thu nhập khoảng 20-30tr thì các bác dành bao nhiêu tiền cho chi phí thuê nhà?</title>
-    <updated>2025-12-18T02:24:10+00:00</updated>
-    <author>
-      <name>/u/Spiritual-Cap-5409</name>
-      <uri>https://old.reddit.com/user/Spiritual-Cap-5409</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em hơi tò mò cách quản lý chi tiêu và tiết kiệm của mọi người. Nếu lương khoảng $1000 thì các bác dành bao nhiêu tiền cho chi phí thuê nhà? Bao nhiêu phần trăm thì hợp lý các bác nhỉ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Spiritual-Cap-5409"&gt; /u/Spiritual-Cap-5409 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ppfcjj/thu_nhập_khoảng_2030tr_thì_các_bác_dành_bao_nhiêu/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ppfcjj/thu_nhập_khoảng_2030tr_thì_các_bác_dành_bao_nhiêu/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ppfcjj/thu_nhập_khoảng_2030tr_thì_các_bác_dành_bao_nhiêu/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-18T02:24:10+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1ppn0ad</id>
     <title>Quá chán khi bị say xe</title>
     <updated>2025-12-18T09:52:32+00:00</updated>
@@ -266,6 +253,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ppn0ad/quá_chán_khi_bị_say_xe/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-18T09:52:32+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ppfcjj</id>
+    <title>Thu nhập khoảng 20-30tr thì các bác dành bao nhiêu tiền cho chi phí thuê nhà?</title>
+    <updated>2025-12-18T02:24:10+00:00</updated>
+    <author>
+      <name>/u/Spiritual-Cap-5409</name>
+      <uri>https://old.reddit.com/user/Spiritual-Cap-5409</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em hơi tò mò cách quản lý chi tiêu và tiết kiệm của mọi người. Nếu lương khoảng $1000 thì các bác dành bao nhiêu tiền cho chi phí thuê nhà? Bao nhiêu phần trăm thì hợp lý các bác nhỉ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Spiritual-Cap-5409"&gt; /u/Spiritual-Cap-5409 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ppfcjj/thu_nhập_khoảng_2030tr_thì_các_bác_dành_bao_nhiêu/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ppfcjj/thu_nhập_khoảng_2030tr_thì_các_bác_dành_bao_nhiêu/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ppfcjj/thu_nhập_khoảng_2030tr_thì_các_bác_dành_bao_nhiêu/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-18T02:24:10+00:00</published>
   </entry>
   <entry>
     <id>t3_1ppkgi9</id>
