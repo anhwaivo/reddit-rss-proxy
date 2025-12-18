@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-12-18T08:55:18+00:00</updated>
+  <updated>2025-12-18T09:26:05+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1ppiiin</id>
-    <title>Đọc sách</title>
-    <updated>2025-12-18T05:08:49+00:00</updated>
-    <author>
-      <name>/u/Moonlit_Introvert</name>
-      <uri>https://old.reddit.com/user/Moonlit_Introvert</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Có ai đọc qua cuốn Nhân gian đáng giá của Nakamura Tsuneko chưa cho xin review với, đi làm stress thấy Youtube đề xuất vid nói về cuốn sách này nên tò mò ko biết có phải là sách healing ko &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Moonlit_Introvert"&gt; /u/Moonlit_Introvert &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ppiiin/đọc_sách/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ppiiin/đọc_sách/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ppiiin/đọc_sách/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-18T05:08:49+00:00</published>
-  </entry>
   <entry>
     <id>t3_1pp0j8g</id>
     <title>Mọi người có gì muốn tâm sự không</title>
@@ -86,19 +73,6 @@
     <published>2025-12-18T02:54:56+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pp3pks</id>
-    <title>Thể thao</title>
-    <updated>2025-12-17T18:14:44+00:00</updated>
-    <author>
-      <name>/u/pe_ant</name>
-      <uri>https://old.reddit.com/user/pe_ant</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1pp3pks/thể_thao/"&gt; &lt;img alt="Thể thao" src="https://preview.redd.it/hpx5kjzn2t7g1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=b1acfc795efc3e29578e3cfcfb8b39ddf04e5fde" title="Thể thao" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chúc mừng đoàn thể thao Lào 📣📣📣📣📣&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/pe_ant"&gt; /u/pe_ant &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/hpx5kjzn2t7g1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pp3pks/thể_thao/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pp3pks/thể_thao/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-17T18:14:44+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1ppg4zu</id>
     <title>26 tuổi nên bắt đầu học code Unity để đi làm dev game?</title>
     <updated>2025-12-18T03:03:33+00:00</updated>
@@ -110,6 +84,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ppg4zu/26_tuổi_nên_bắt_đầu_học_code_unity_để_đi_làm_dev/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-18T03:03:33+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pp3pks</id>
+    <title>Thể thao</title>
+    <updated>2025-12-17T18:14:44+00:00</updated>
+    <author>
+      <name>/u/pe_ant</name>
+      <uri>https://old.reddit.com/user/pe_ant</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1pp3pks/thể_thao/"&gt; &lt;img alt="Thể thao" src="https://preview.redd.it/hpx5kjzn2t7g1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=b1acfc795efc3e29578e3cfcfb8b39ddf04e5fde" title="Thể thao" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chúc mừng đoàn thể thao Lào 📣📣📣📣📣&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/pe_ant"&gt; /u/pe_ant &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/hpx5kjzn2t7g1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pp3pks/thể_thao/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pp3pks/thể_thao/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-17T18:14:44+00:00</published>
   </entry>
   <entry>
     <id>t3_1ppkxob</id>
@@ -149,6 +136,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ppltt2/xin_visa_du_học_đức/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-18T08:32:20+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ppm9vf</id>
+    <title>[Xin lời khuyên] Nên chọn đơn vị thực tập nào cho định hướng lâu dài sau khi ra trường?</title>
+    <updated>2025-12-18T09:02:55+00:00</updated>
+    <author>
+      <name>/u/hwamin2101</name>
+      <uri>https://old.reddit.com/user/hwamin2101</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em chào mọi người ạ, Em là sinh viên IT sắp tốt nghiệp và hiện đang phân vân giữa hai lựa chọn thực tập/đi làm khác nhau. Em xin phép viết tắt tên công ty để tiện chia sẻ và mong nhận được lời khuyên từ anh/chị đi trước.&lt;/p&gt; &lt;p&gt;Bối cảnh&lt;/p&gt; &lt;p&gt;Em đã hoàn thành tất cả các học phần trên lớp&lt;/p&gt; &lt;p&gt;Hiện đang ở học phần thực tập tốt nghiệp, cần đi thực tập đúng timeline để kịp làm khóa luận&lt;/p&gt; &lt;p&gt;Mục tiêu của em không chỉ là đủ hồ sơ tốt nghiệp, mà là định hướng công việc lâu dài sau này&lt;/p&gt; &lt;hr /&gt; &lt;p&gt;Lựa chọn 1 – Công ty F (phần mềm)&lt;/p&gt; &lt;p&gt;Công ty phần mềm quy mô lớn&lt;/p&gt; &lt;p&gt;Em đã phỏng vấn, nhận và xác nhận offer&lt;/p&gt; &lt;p&gt;Hồ sơ, thủ tục đã gần như hoàn tất&lt;/p&gt; &lt;p&gt;Chỉ còn vài ngày nữa là em bắt đầu onboard&lt;/p&gt; &lt;p&gt;Vị trí: Automation Test&lt;/p&gt; &lt;p&gt;Do đặc thù công ty lớn:&lt;/p&gt; &lt;p&gt;Công việc khá ổn định và cố định&lt;/p&gt; &lt;p&gt;Kỹ năng phát triển chủ yếu là kỹ năng cứng chuyên sâu về automation testing&lt;/p&gt; &lt;p&gt;Ưu điểm: ổn định, đúng chuyên ngành, rõ lộ trình Hạn chế: phạm vi kỹ năng có thể hơi hẹp ở giai đoạn đầu&lt;/p&gt; &lt;hr /&gt; &lt;p&gt;Lựa chọn 2 – Công ty E&lt;/p&gt; &lt;p&gt;Tập đoàn viễn thông toàn cầu, có chi nhánh tại Việt Nam&lt;/p&gt; &lt;p&gt;Đề xuất thực tập sinh 6 tháng&lt;/p&gt; &lt;p&gt;Việc trở thành nhân viên chính thức phụ thuộc vào quá trình thể hiện&lt;/p&gt; &lt;p&gt;Lĩnh vực viễn thông, không hoàn toàn đúng với chuyên ngành phần mềm em đã học&lt;/p&gt; &lt;p&gt;Tuy nhiên:&lt;/p&gt; &lt;p&gt;Môi trường quốc tế&lt;/p&gt; &lt;p&gt;Có cơ hội tiếp xúc nhiều mảng, nhiều vai trò&lt;/p&gt; &lt;p&gt;Có thể học thêm về mạng viễn thông&lt;/p&gt; &lt;p&gt;Văn hóa hỗ trợ, khuyến khích các bạn trẻ học hỏi và phát triển&lt;/p&gt; &lt;p&gt;Ưu điểm: học được nhiều, mở rộng góc nhìn, thoát khỏi vùng an toàn Hạn chế: rủi ro cao hơn, không chắc chắn về lâu dài&lt;/p&gt; &lt;hr /&gt; &lt;p&gt;Điều khiến em phân vân&lt;/p&gt; &lt;p&gt;F: an toàn, đúng ngành, chuyên sâu một kỹ năng&lt;/p&gt; &lt;p&gt;E: nhiều trải nghiệm, đa kỹ năng, môi trường global nhưng rủi ro&lt;/p&gt; &lt;p&gt;Em đang phân vân giữa:&lt;/p&gt; &lt;p&gt;Chuyên sâu kỹ năng cứng sớm&lt;/p&gt; &lt;p&gt;Hay chấp nhận rủi ro để mở rộng nền tảng&lt;/p&gt; &lt;hr /&gt; &lt;p&gt;Em rất mong được anh/chị đi trước chia sẻ&lt;/p&gt; &lt;p&gt;Với sinh viên sắp ra trường, nên ưu tiên ổn định hay trải nghiệm?&lt;/p&gt; &lt;p&gt;Nếu nhìn cho 3–5 năm tới, lựa chọn nào có lợi hơn?&lt;/p&gt; &lt;p&gt;Trong trường hợp đã xác nhận offer F nhưng vẫn có cơ hội từ E, nên cân nhắc yếu tố nào là quan trọng nhất? &lt;/p&gt; &lt;p&gt;Em cảm ơn mọi người rất nhiều ạ 🙏&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/hwamin2101"&gt; /u/hwamin2101 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ppm9vf/xin_lời_khuyên_nên_chọn_đơn_vị_thực_tập_nào_cho/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ppm9vf/xin_lời_khuyên_nên_chọn_đơn_vị_thực_tập_nào_cho/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ppm9vf/xin_lời_khuyên_nên_chọn_đơn_vị_thực_tập_nào_cho/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-18T09:02:55+00:00</published>
   </entry>
   <entry>
     <id>t3_1ppgl11</id>
@@ -281,19 +281,6 @@
     <published>2025-12-18T02:24:10+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ppkprg</id>
-    <title>Cuộc sống không kết hôn</title>
-    <updated>2025-12-18T07:18:08+00:00</updated>
-    <author>
-      <name>/u/Con_Beo</name>
-      <uri>https://old.reddit.com/user/Con_Beo</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mọi người có ai có suy nghĩ sống độc thân cả đời không ạ, em năm nay 24 tuổi nhưng cảm thấy bản thân chẳng có ước mơ hay hoài bão gì, chỉ muốn sống một mình. Chăm chỉ làm ăn một thời gian rồi về hưu sớm, sáng nằm ở chõng tre tắm nắng ở sân, trưa cho mấy con gà ăn để lấy trứng, chiều thì ngồi bóng cây nghe đài hoặc viết tiểu thuyết, chăm vườn hoa,... Sau này về già ốm yếu không thể lo cho bản thân được nữa thì 44... Nhma lại sợ hối hận, sợ 40 50 tuổi nhìn người ta con đàn cháu đống, còn bản thân mình cả đời không được nghe tiếng con gọi &amp;quot;ba ơi&amp;quot; cũng chạnh lòng. Xin góc nhìn các bác với&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Con_Beo"&gt; /u/Con_Beo &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ppkprg/cuộc_sống_không_kết_hôn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ppkprg/cuộc_sống_không_kết_hôn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ppkprg/cuộc_sống_không_kết_hôn/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-18T07:18:08+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1ppgiib</id>
     <title>trường top</title>
     <updated>2025-12-18T03:22:43+00:00</updated>
@@ -305,6 +292,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ppgiib/trường_top/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-18T03:22:43+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ppkprg</id>
+    <title>Cuộc sống không kết hôn</title>
+    <updated>2025-12-18T07:18:08+00:00</updated>
+    <author>
+      <name>/u/Con_Beo</name>
+      <uri>https://old.reddit.com/user/Con_Beo</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mọi người có ai có suy nghĩ sống độc thân cả đời không ạ, em năm nay 24 tuổi nhưng cảm thấy bản thân chẳng có ước mơ hay hoài bão gì, chỉ muốn sống một mình. Chăm chỉ làm ăn một thời gian rồi về hưu sớm, sáng nằm ở chõng tre tắm nắng ở sân, trưa cho mấy con gà ăn để lấy trứng, chiều thì ngồi bóng cây nghe đài hoặc viết tiểu thuyết, chăm vườn hoa,... Sau này về già ốm yếu không thể lo cho bản thân được nữa thì 44... Nhma lại sợ hối hận, sợ 40 50 tuổi nhìn người ta con đàn cháu đống, còn bản thân mình cả đời không được nghe tiếng con gọi &amp;quot;ba ơi&amp;quot; cũng chạnh lòng. Xin góc nhìn các bác với&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Con_Beo"&gt; /u/Con_Beo &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ppkprg/cuộc_sống_không_kết_hôn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ppkprg/cuộc_sống_không_kết_hôn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ppkprg/cuộc_sống_không_kết_hôn/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-18T07:18:08+00:00</published>
   </entry>
   <entry>
     <id>t3_1pp6ykz</id>
