@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-12-18T05:46:11+00:00</updated>
+  <updated>2025-12-18T06:32:04+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -19,19 +19,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1poxcxl/về_vấn_nạn_karaoke/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-17T14:05:38+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1posqbl</id>
-    <title>Giảm cân</title>
-    <updated>2025-12-17T09:56:44+00:00</updated>
-    <author>
-      <name>/u/Moonlit_Introvert</name>
-      <uri>https://old.reddit.com/user/Moonlit_Introvert</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Có ae nào từng thử nhịn ăn sáng uống nước không cho xin review ạ, mình 1m64, nặng giờ chắc phải hơn 85kg, mình đang loay hoay ko biết nên ăn uống sao cho giảm cân, xin ý kiến mn ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Moonlit_Introvert"&gt; /u/Moonlit_Introvert &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1posqbl/giảm_cân/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1posqbl/giảm_cân/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1posqbl/giảm_cân/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-17T09:56:44+00:00</published>
   </entry>
   <entry>
     <id>t3_1posr5l</id>
@@ -73,32 +60,6 @@
     <published>2025-12-17T16:18:42+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ppfyr5</id>
-    <title>Sinh viên quèn nhờ các tiền bối tư vấn giúp em về việc lựa chọn React Native hay Kotlin cho năm cuối</title>
-    <updated>2025-12-18T02:54:56+00:00</updated>
-    <author>
-      <name>/u/lilnguyen</name>
-      <uri>https://old.reddit.com/user/lilnguyen</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Như tiêu đề ,em theo lập trình mobile năm nay năm cuối ,ban đầu trường dạy và em cũng tự tìm hiểu về Kotlin ở năm 3,nhưng đến khi đi thực tập thì bên công ty lại code React Native ,em cũng bỏ thời gian ra học lại và tới nay code được 4 tháng.Nhưng mà em nghe review rằng React Native này đang chết dần và ít người dùng,em có chút lo lắng vì sau này nếu có thể thì muốn làm cho cty ngoại. Liệu em nên tiếp tục với RN với cty này hay quay trở lại với Kotlin để tìm các cty khác với cơ hội phát triển tốt hơn? Em cảm ơn mọi người đã dành thời gian ra đọc ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/lilnguyen"&gt; /u/lilnguyen &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ppfyr5/sinh_viên_quèn_nhờ_các_tiền_bối_tư_vấn_giúp_em_về/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ppfyr5/sinh_viên_quèn_nhờ_các_tiền_bối_tư_vấn_giúp_em_về/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ppfyr5/sinh_viên_quèn_nhờ_các_tiền_bối_tư_vấn_giúp_em_về/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-18T02:54:56+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1pp61vy</id>
-    <title>Vô định</title>
-    <updated>2025-12-17T19:45:23+00:00</updated>
-    <author>
-      <name>/u/Nt-Ann</name>
-      <uri>https://old.reddit.com/user/Nt-Ann</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Có ai từng trong trạng thái vô định không? Không mục tiêu, không ước mơ. Xung quanh mọi thứ bạn vẫn bình thường nhưng bạn lại cảm thấy chán nản mỗi ngày, cảm giác mọi thứ cứ lặp đi lặp lại. Thứ duy nhất mỗi ngày tôi nghĩ lại là những lúc của quá khứ khi mọi thứ còn thú vị, cái tuổi vô lo vô nghĩ. Không phải cuộc sống bây giờ áp lực hay gì, chỉ đơn giản nó tẻ nhạt, nhàm chán, không còn gì mới. &lt;/p&gt; &lt;p&gt;Tất nhiên tôi cũng thử đi học những thứ mới, chơi những thể thao mới và kết bạn nhưng hầu như nó không giúp ích gì nhiều lắm, bạn bè thì cũng chỉ toàn xã giao, không ai là quá thân thiết. Không mối quan hệ nào ở hiện tại đủ gọi là thân và hiểu nhau.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Nt-Ann"&gt; /u/Nt-Ann &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pp61vy/vô_định/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pp61vy/vô_định/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pp61vy/vô_định/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-17T19:45:23+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1poyoke</id>
     <title>ngành thiết kế đồ hoạ có ổn ko mn</title>
     <updated>2025-12-17T15:00:33+00:00</updated>
@@ -110,6 +71,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1poyoke/ngành_thiết_kế_đồ_hoạ_có_ổn_ko_mn/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-17T15:00:33+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ppgq9i</id>
+    <title>Chụp màn hình windows</title>
+    <updated>2025-12-18T03:34:02+00:00</updated>
+    <author>
+      <name>/u/Professional_Sky9075</name>
+      <uri>https://old.reddit.com/user/Professional_Sky9075</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mới update chọn màu với chọn văn bản đỉnh ác :v&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Professional_Sky9075"&gt; /u/Professional_Sky9075 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ppgq9i/chụp_màn_hình_windows/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ppgq9i/chụp_màn_hình_windows/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ppgq9i/chụp_màn_hình_windows/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-18T03:34:02+00:00</published>
   </entry>
   <entry>
     <id>t3_1pok0wg</id>
@@ -151,17 +125,17 @@
     <published>2025-12-17T16:12:25+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pom856</id>
-    <title>Gen Z thích độc thân vì chi phí đắt đỏ</title>
-    <updated>2025-12-17T03:30:17+00:00</updated>
+    <id>t3_1pp61vy</id>
+    <title>Vô định</title>
+    <updated>2025-12-17T19:45:23+00:00</updated>
     <author>
-      <name>/u/Willing-Room-2101</name>
-      <uri>https://old.reddit.com/user/Willing-Room-2101</uri>
+      <name>/u/Nt-Ann</name>
+      <uri>https://old.reddit.com/user/Nt-Ann</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;họ hàng mình có đứa sắp cưới, nghe phong thanh ba mẹ nó lo tiền cưới xin các kiểu lên gần 700 triệu, kể ra còn chưa tính tiền nhẫn cưới, ảnh cưới, rìa rìa lặt vặt nó tự lo. Nghe v mới hiểu sao giờ ng trẻ ngta thích độc thân nhiều, vì kh có tiền. Mà nếu có thì sống độc thân có khi lại khỏe hơn, như mình đầu tư chứng chỉ quỹ dư 1 khoản hơn trăm triệu, để mà kêu bán đi làm đám cưới thì tiếc thật, thà để đầu tư tiếp sau có tiền dưỡng già vào viện dưỡng lão còn hơn. Khi trẻ thì cứ tận hưởng trước&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Willing-Room-2101"&gt; /u/Willing-Room-2101 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pom856/gen_z_thích_độc_thân_vì_chi_phí_đắt_đỏ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pom856/gen_z_thích_độc_thân_vì_chi_phí_đắt_đỏ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pom856/gen_z_thích_độc_thân_vì_chi_phí_đắt_đỏ/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Có ai từng trong trạng thái vô định không? Không mục tiêu, không ước mơ. Xung quanh mọi thứ bạn vẫn bình thường nhưng bạn lại cảm thấy chán nản mỗi ngày, cảm giác mọi thứ cứ lặp đi lặp lại. Thứ duy nhất mỗi ngày tôi nghĩ lại là những lúc của quá khứ khi mọi thứ còn thú vị, cái tuổi vô lo vô nghĩ. Không phải cuộc sống bây giờ áp lực hay gì, chỉ đơn giản nó tẻ nhạt, nhàm chán, không còn gì mới. &lt;/p&gt; &lt;p&gt;Tất nhiên tôi cũng thử đi học những thứ mới, chơi những thể thao mới và kết bạn nhưng hầu như nó không giúp ích gì nhiều lắm, bạn bè thì cũng chỉ toàn xã giao, không ai là quá thân thiết. Không mối quan hệ nào ở hiện tại đủ gọi là thân và hiểu nhau.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Nt-Ann"&gt; /u/Nt-Ann &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pp61vy/vô_định/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pp61vy/vô_định/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pp61vy/vô_định/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-17T03:30:17+00:00</published>
+    <published>2025-12-17T19:45:23+00:00</published>
   </entry>
   <entry>
     <id>t3_1ppiwlb</id>
@@ -177,6 +151,32 @@
     <published>2025-12-18T05:30:28+00:00</published>
   </entry>
   <entry>
+    <id>t3_1pom856</id>
+    <title>Gen Z thích độc thân vì chi phí đắt đỏ</title>
+    <updated>2025-12-17T03:30:17+00:00</updated>
+    <author>
+      <name>/u/Willing-Room-2101</name>
+      <uri>https://old.reddit.com/user/Willing-Room-2101</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;họ hàng mình có đứa sắp cưới, nghe phong thanh ba mẹ nó lo tiền cưới xin các kiểu lên gần 700 triệu, kể ra còn chưa tính tiền nhẫn cưới, ảnh cưới, rìa rìa lặt vặt nó tự lo. Nghe v mới hiểu sao giờ ng trẻ ngta thích độc thân nhiều, vì kh có tiền. Mà nếu có thì sống độc thân có khi lại khỏe hơn, như mình đầu tư chứng chỉ quỹ dư 1 khoản hơn trăm triệu, để mà kêu bán đi làm đám cưới thì tiếc thật, thà để đầu tư tiếp sau có tiền dưỡng già vào viện dưỡng lão còn hơn. Khi trẻ thì cứ tận hưởng trước&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Willing-Room-2101"&gt; /u/Willing-Room-2101 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pom856/gen_z_thích_độc_thân_vì_chi_phí_đắt_đỏ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pom856/gen_z_thích_độc_thân_vì_chi_phí_đắt_đỏ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pom856/gen_z_thích_độc_thân_vì_chi_phí_đắt_đỏ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-17T03:30:17+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ppfyr5</id>
+    <title>Sinh viên quèn nhờ các tiền bối tư vấn giúp em về việc lựa chọn React Native hay Kotlin cho năm cuối</title>
+    <updated>2025-12-18T02:54:56+00:00</updated>
+    <author>
+      <name>/u/lilnguyen</name>
+      <uri>https://old.reddit.com/user/lilnguyen</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Như tiêu đề ,em theo lập trình mobile năm nay năm cuối ,ban đầu trường dạy và em cũng tự tìm hiểu về Kotlin ở năm 3,nhưng đến khi đi thực tập thì bên công ty lại code React Native ,em cũng bỏ thời gian ra học lại và tới nay code được 4 tháng.Nhưng mà em nghe review rằng React Native này đang chết dần và ít người dùng,em có chút lo lắng vì sau này nếu có thể thì muốn làm cho cty ngoại. Liệu em nên tiếp tục với RN với cty này hay quay trở lại với Kotlin để tìm các cty khác với cơ hội phát triển tốt hơn? Em cảm ơn mọi người đã dành thời gian ra đọc ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/lilnguyen"&gt; /u/lilnguyen &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ppfyr5/sinh_viên_quèn_nhờ_các_tiền_bối_tư_vấn_giúp_em_về/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ppfyr5/sinh_viên_quèn_nhờ_các_tiền_bối_tư_vấn_giúp_em_về/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ppfyr5/sinh_viên_quèn_nhờ_các_tiền_bối_tư_vấn_giúp_em_về/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-18T02:54:56+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1pp3pks</id>
     <title>Thể thao</title>
     <updated>2025-12-17T18:14:44+00:00</updated>
@@ -188,19 +188,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pp3pks/thể_thao/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-17T18:14:44+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1pp4v8d</id>
-    <title>Vì sao iphone hấp dẫn vậy??</title>
-    <updated>2025-12-17T18:59:24+00:00</updated>
-    <author>
-      <name>/u/CalligrapherFlaky245</name>
-      <uri>https://old.reddit.com/user/CalligrapherFlaky245</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình là người dùng đt samsung nhưng tất cả bạn bè mình đều dùng iphone. Chỉ có mình dùng samsung và mình ko hiểu vì sao ít người dùng samsung so với iphone. Có ai biết ko??&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/CalligrapherFlaky245"&gt; /u/CalligrapherFlaky245 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pp4v8d/vì_sao_iphone_hấp_dẫn_vậy/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pp4v8d/vì_sao_iphone_hấp_dẫn_vậy/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pp4v8d/vì_sao_iphone_hấp_dẫn_vậy/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-17T18:59:24+00:00</published>
   </entry>
   <entry>
     <id>t3_1ppg4zu</id>
@@ -216,6 +203,19 @@
     <published>2025-12-18T03:03:33+00:00</published>
   </entry>
   <entry>
+    <id>t3_1pp4v8d</id>
+    <title>Vì sao iphone hấp dẫn vậy??</title>
+    <updated>2025-12-17T18:59:24+00:00</updated>
+    <author>
+      <name>/u/CalligrapherFlaky245</name>
+      <uri>https://old.reddit.com/user/CalligrapherFlaky245</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình là người dùng đt samsung nhưng tất cả bạn bè mình đều dùng iphone. Chỉ có mình dùng samsung và mình ko hiểu vì sao ít người dùng samsung so với iphone. Có ai biết ko??&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/CalligrapherFlaky245"&gt; /u/CalligrapherFlaky245 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pp4v8d/vì_sao_iphone_hấp_dẫn_vậy/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pp4v8d/vì_sao_iphone_hấp_dẫn_vậy/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pp4v8d/vì_sao_iphone_hấp_dẫn_vậy/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-17T18:59:24+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1ppgl11</id>
     <title>NHỮNG NGƯỜI BẠN KHÔNG PHẢI QUEN BIẾT QUA CÁCH THÔNG THƯỜNG.</title>
     <updated>2025-12-18T03:26:16+00:00</updated>
@@ -229,17 +229,17 @@
     <published>2025-12-18T03:26:16+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ppgq9i</id>
-    <title>Chụp màn hình windows</title>
-    <updated>2025-12-18T03:34:02+00:00</updated>
+    <id>t3_1pphrla</id>
+    <title>Mình biết là đây ko phải sub chuyên về mạng nhưng mình chả tìm được sub Việt nào phù hợp hơn sub này nên xin lỗi nhưng nhân tiện mọi người hãy giúp mình với (xem phần biết text cho chi tiết)</title>
+    <updated>2025-12-18T04:28:53+00:00</updated>
     <author>
-      <name>/u/Professional_Sky9075</name>
-      <uri>https://old.reddit.com/user/Professional_Sky9075</uri>
+      <name>/u/ProfessionalRoom9118</name>
+      <uri>https://old.reddit.com/user/ProfessionalRoom9118</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mới update chọn màu với chọn văn bản đỉnh ác :v&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Professional_Sky9075"&gt; /u/Professional_Sky9075 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ppgq9i/chụp_màn_hình_windows/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ppgq9i/chụp_màn_hình_windows/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ppgq9i/chụp_màn_hình_windows/"/>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1pphrla/mình_biết_là_đây_ko_phải_sub_chuyên_về_mạng_nhưng/"&gt; &lt;img alt="Mình biết là đây ko phải sub chuyên về mạng nhưng mình chả tìm được sub Việt nào phù hợp hơn sub này nên xin lỗi nhưng nhân tiện mọi người hãy giúp mình với (xem phần biết text cho chi tiết)" src="https://external-preview.redd.it/ZzJoa3d4Yzg0dzdnMdSldwxjDJS6cPFOnIIkYz9JuvCLzOnCWUNGJMM6n34w.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=283cd58926c651eff7a109acbd248dc287bf41c4" title="Mình biết là đây ko phải sub chuyên về mạng nhưng mình chả tìm được sub Việt nào phù hợp hơn sub này nên xin lỗi nhưng nhân tiện mọi người hãy giúp mình với (xem phần biết text cho chi tiết)" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Thì củ thể là hôm qua nhà mình mất mạng tầm 1 ngày do bố mình quên đóng tiền mạng, tuy sau đó ổng đóng rồi nhưng từ đó trả hiểu sao điện thoại này của mình cứ bị kết nối lỗi hoặc thất bại, mình đã thử rất nhiều cách nào là reset lại máy, reset lại mạng, quên mạng xong đăng nhập lại, các thiết bị khác của mình thì vẫn bình thường, vẫn có mạnh, nhưng riêng máy này thì không, nếu ai biết cách khắc phục thì giúp mình với, cảm ơn!!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ProfessionalRoom9118"&gt; /u/ProfessionalRoom9118 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://v.redd.it/ns0vxu584w7g1"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pphrla/mình_biết_là_đây_ko_phải_sub_chuyên_về_mạng_nhưng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pphrla/mình_biết_là_đây_ko_phải_sub_chuyên_về_mạng_nhưng/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-18T03:34:02+00:00</published>
+    <published>2025-12-18T04:28:53+00:00</published>
   </entry>
   <entry>
     <id>t3_1pphu1v</id>
@@ -268,19 +268,6 @@
     <published>2025-12-18T00:28:38+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pphrla</id>
-    <title>Mình biết là đây ko phải sub chuyên về mạng nhưng mình chả tìm được sub Việt nào phù hợp hơn sub này nên xin lỗi nhưng nhân tiện mọi người hãy giúp mình với (xem phần biết text cho chi tiết)</title>
-    <updated>2025-12-18T04:28:53+00:00</updated>
-    <author>
-      <name>/u/ProfessionalRoom9118</name>
-      <uri>https://old.reddit.com/user/ProfessionalRoom9118</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1pphrla/mình_biết_là_đây_ko_phải_sub_chuyên_về_mạng_nhưng/"&gt; &lt;img alt="Mình biết là đây ko phải sub chuyên về mạng nhưng mình chả tìm được sub Việt nào phù hợp hơn sub này nên xin lỗi nhưng nhân tiện mọi người hãy giúp mình với (xem phần biết text cho chi tiết)" src="https://external-preview.redd.it/ZzJoa3d4Yzg0dzdnMdSldwxjDJS6cPFOnIIkYz9JuvCLzOnCWUNGJMM6n34w.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=283cd58926c651eff7a109acbd248dc287bf41c4" title="Mình biết là đây ko phải sub chuyên về mạng nhưng mình chả tìm được sub Việt nào phù hợp hơn sub này nên xin lỗi nhưng nhân tiện mọi người hãy giúp mình với (xem phần biết text cho chi tiết)" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Thì củ thể là hôm qua nhà mình mất mạng tầm 1 ngày do bố mình quên đóng tiền mạng, tuy sau đó ổng đóng rồi nhưng từ đó trả hiểu sao điện thoại này của mình cứ bị kết nối lỗi hoặc thất bại, mình đã thử rất nhiều cách nào là reset lại máy, reset lại mạng, quên mạng xong đăng nhập lại, các thiết bị khác của mình thì vẫn bình thường, vẫn có mạnh, nhưng riêng máy này thì không, nếu ai biết cách khắc phục thì giúp mình với, cảm ơn!!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ProfessionalRoom9118"&gt; /u/ProfessionalRoom9118 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://v.redd.it/ns0vxu584w7g1"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pphrla/mình_biết_là_đây_ko_phải_sub_chuyên_về_mạng_nhưng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pphrla/mình_biết_là_đây_ko_phải_sub_chuyên_về_mạng_nhưng/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-18T04:28:53+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1ppae15</id>
     <title>Cai nghiện</title>
     <updated>2025-12-17T22:38:34+00:00</updated>
@@ -292,6 +279,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ppae15/cai_nghiện/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-17T22:38:34+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ppjojp</id>
+    <title>Mọi người có bị "thiên vị" một chút khi làm việc với người giới còn lại không?</title>
+    <updated>2025-12-18T06:15:11+00:00</updated>
+    <author>
+      <name>/u/Ok-Juice-5838</name>
+      <uri>https://old.reddit.com/user/Ok-Juice-5838</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình không biết mình có phải trường hợp độc nhất đặc biệt không. Mình khá chắc là không. Mình thấy mấy ông bạn làm cùng mắt sáng lên và tập trung quan tâm các bạn nữ xinh mới đến làm rất nhiều rồi, nhưng mọi người có &amp;quot;thiên vị&amp;quot; một chút khi làm việc với giới còn lại không?&lt;/p&gt; &lt;p&gt;Mình hỏi điều này vì mình là gey, mình thích con trai. Mình không biết giải thích như nào nhưng khi làm việc với đồng nghiệp là nam, mình &amp;quot;thiên vị&amp;quot; họ hơn rất nhiều. Theo nghĩa mình dễ dàng thông cảm, bỏ qua nhiều thứ, bao che cho, hay có việc nhờ vả gì mình dễ dàng làm cho đồng nghiệp là nam hơn. Mình cũng nói chuyện nhiều hơn với. Không phải là nữ mình không làm những chuyện đó, nhưng giải thích như nào nhỉ, nếu bạn là nữ bạn chủ động nhờ mình mình sẽ làm, bạn phải đến với mình, mình sẽ ít khả năng tự chủ động làm và offer cho bạn. Còn mình thích đực, sự chú ý và quan tâm mình nó sẽ chủ động. Mình sẽ tự chủ động lo cho bạn, quan tâm cho bạn, hỏi thăm bạn. Mình tự chủ động hướng dẫn công việc của bạn. Mình lo bạn mệt, công việc của mệt hay lắng nghe vấn đề trong công việc của bạn nhiều hơn. Mình phải công minh, nhưng có lẽ mình sẽ luôn có phần thiên vị chút cho mình. &lt;/p&gt; &lt;p&gt;Cũng có lẽ bởi mình chưa lên vị trí quản lý, nhưng mình cũng lên vị trí trưởng. Sự thiên vị của mình chỉ hiện nằm ở chỗ bào chữa, lắng nghe, và hướng dẫn công việc hơn một chút xíu cho nam. Không ai biết mình là gey. Mình không công khai. Mấy anh em ở chỗ làm rất quý mình, có lẽ họ cảm thấy được quan tâm.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ok-Juice-5838"&gt; /u/Ok-Juice-5838 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ppjojp/mọi_người_có_bị_thiên_vị_một_chút_khi_làm_việc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ppjojp/mọi_người_có_bị_thiên_vị_một_chút_khi_làm_việc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ppjojp/mọi_người_có_bị_thiên_vị_một_chút_khi_làm_việc/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-18T06:15:11+00:00</published>
   </entry>
   <entry>
     <id>t3_1ppfcjj</id>
