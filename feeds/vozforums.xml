@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-12-19T15:21:01+00:00</updated>
+  <updated>2025-12-19T15:44:34+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1ppkdif</id>
-    <title>Năm nay điên thật</title>
-    <updated>2025-12-18T06:57:10+00:00</updated>
-    <author>
-      <name>/u/kitchcu</name>
-      <uri>https://old.reddit.com/user/kitchcu</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chắc anh em cũng biết vụ &amp;quot;Tinh hoa&amp;quot; nổi rần rần từ hôm qua đến nay rồi nhỉ ? Mọi người nghĩ sao về vấn đề này chứ riêng mình thấy cũng khá là thú vị phết dù biết tương lai mình sắp ăn l rồi &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/kitchcu"&gt; /u/kitchcu &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ppkdif/năm_nay_điên_thật/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ppkdif/năm_nay_điên_thật/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ppkdif/năm_nay_điên_thật/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-18T06:57:10+00:00</published>
-  </entry>
   <entry>
     <id>t3_1pqiaaa</id>
     <title>Nên đi làm nước ngoài theo Trường không?</title>
@@ -125,19 +112,6 @@
     <published>2025-12-19T09:13:13+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pqnilr</id>
-    <title>Mình có phản ứng thái quá không?</title>
-    <updated>2025-12-19T15:12:21+00:00</updated>
-    <author>
-      <name>/u/Puzzleheaded-Act-960</name>
-      <uri>https://old.reddit.com/user/Puzzleheaded-Act-960</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình có hơi phản ứng thái quá không,&lt;/p&gt; &lt;p&gt;Chuyện là mình ở nhà trên thành phố và bạn gái mình ở trọ. Mình tính khi nào cưới thì mới dọn ra riêng để tiết kiệm tiền. Hôm nay mình có nghe họ hàng gửi 1 thằng cháu tầm 10 tuổi qua ở chung với bạn gái mình vài tuần.&lt;/p&gt; &lt;p&gt;Mình có nói không thích vậy. Vì mình hơi khó chịu vụ nam nữ ở chung dù là cháu. Thì bị bạn gái nói là kì và dỗi. Cho mình hỏi mình có phản ứng thái quá trong câu chuyện này không?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Puzzleheaded-Act-960"&gt; /u/Puzzleheaded-Act-960 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pqnilr/mình_có_phản_ứng_thái_quá_không/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pqnilr/mình_có_phản_ứng_thái_quá_không/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pqnilr/mình_có_phản_ứng_thái_quá_không/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-19T15:12:21+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1pqnkdj</id>
     <title>Tìm sách</title>
     <updated>2025-12-19T15:14:25+00:00</updated>
@@ -149,6 +123,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pqnkdj/tìm_sách/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-19T15:14:25+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pqo4ke</id>
+    <title>Mạng phòng trọ quá yếu</title>
+    <updated>2025-12-19T15:36:49+00:00</updated>
+    <author>
+      <name>/u/Adventurous_Food3376</name>
+      <uri>https://old.reddit.com/user/Adventurous_Food3376</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là trọ mới của e mạng nó quá yếu dù lầu 2 ( lầu cuối cùng của trọ ) , cô chủ cũng ko lấy tiền wifi . Hiện e đang sài gói 4g của vina ( sài theo năm nên cx ok ) mà nó hên xui vãi ở ngoài đường mạnh mà vô trọ cái nó lúc yếu lúc mạnh . Em cx ko am hỉu j về wifi cái thứ, nên mn chỉ em nên làm thế nào với . Em có 2 cái đt và 1 laptop . &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Adventurous_Food3376"&gt; /u/Adventurous_Food3376 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pqo4ke/mạng_phòng_trọ_quá_yếu/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pqo4ke/mạng_phòng_trọ_quá_yếu/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pqo4ke/mạng_phòng_trọ_quá_yếu/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-19T15:36:49+00:00</published>
   </entry>
   <entry>
     <id>t3_1pqg2er</id>
@@ -268,6 +255,19 @@
     <published>2025-12-19T07:05:38+00:00</published>
   </entry>
   <entry>
+    <id>t3_1pqnwje</id>
+    <title>tìm ngừi tâm sự nói chuyện vui vui</title>
+    <updated>2025-12-19T15:27:58+00:00</updated>
+    <author>
+      <name>/u/happylife279</name>
+      <uri>https://old.reddit.com/user/happylife279</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;nhân dịp messenger của mình bị lỗi thì tiện thể mình lên đây hỏi thử có bạn nào muốn tâm sự nói chuyện với 1 đứa genZ hay hỏi như tui hong, và tui là 1 listener chính hiệu, bạn có thể kể cái gì cũng dc, à mình là nữ, cũng tự nhận là đôi khi có nhiều mảng mình sẽ ko rành bằng nhưng mình sẽ lắng nghe. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/happylife279"&gt; /u/happylife279 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pqnwje/tìm_ngừi_tâm_sự_nói_chuyện_vui_vui/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pqnwje/tìm_ngừi_tâm_sự_nói_chuyện_vui_vui/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pqnwje/tìm_ngừi_tâm_sự_nói_chuyện_vui_vui/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-19T15:27:58+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1pqejfq</id>
     <title>Phải xử lý như thế nào khi bố ngoại tình</title>
     <updated>2025-12-19T06:54:55+00:00</updated>
@@ -281,19 +281,6 @@
     <published>2025-12-19T06:54:55+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pqc1wr</id>
-    <title>bố em thế này thì có bình thường không ạ</title>
-    <updated>2025-12-19T04:35:36+00:00</updated>
-    <author>
-      <name>/u/Confident-Card3693</name>
-      <uri>https://old.reddit.com/user/Confident-Card3693</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;xin chào mọi người, em là nữ, đang học đại học. em đi nước ngoài đã nhiều năm nên tiếng việt của em không được tốt, xin mọi người thông cảm. chuyện là em thi thoảng mới gặp bố và trước giờ quan hệ bố con không tốt, nhưng bố em có vẻ là người rất tình cảm, thích nắm tay, ôm, thơm má, etc. em lại không thích đụng chạm cho lắm, mỗi lần như vậy em đều né ra, nhưng tính bố bảo thủ (?) nên không thay đổi. việc nắm tay hay ôm bố thì em hiểu là bình thường, nhưng xin hỏi bố thích sờ mông, vỗ mông, rồi nói là &amp;quot;mông to&amp;quot; thì như vậy là có bình thường không và nên nói thế nào để bố dừng ạ? cái này em băn khoăn khó hiểu từ lâu vì em đã hỏi bạn bè, bạn em đều cảm thấy không ok và em cũng cảm thấy không ok, nhưng vẫn có khả năng đây là khác biệt về văn hóa (hay khác biệt về thế hệ) mà em không hiểu nên muốn đăng hỏi ý kiến mọi người ạ. em cảm ơn.&lt;/p&gt; &lt;p&gt;edit: chuyện này không thể nói qua mẹ đc ạ, bố mẹ em không nói chuyện với nhau. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Confident-Card3693"&gt; /u/Confident-Card3693 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pqc1wr/bố_em_thế_này_thì_có_bình_thường_không_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pqc1wr/bố_em_thế_này_thì_có_bình_thường_không_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pqc1wr/bố_em_thế_này_thì_có_bình_thường_không_ạ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-19T04:35:36+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1pqanpt</id>
     <title>Bạn gái đi cafe với bạn thân khác giới</title>
     <updated>2025-12-19T03:24:00+00:00</updated>
@@ -305,6 +292,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pqanpt/bạn_gái_đi_cafe_với_bạn_thân_khác_giới/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-19T03:24:00+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pqc1wr</id>
+    <title>bố em thế này thì có bình thường không ạ</title>
+    <updated>2025-12-19T04:35:36+00:00</updated>
+    <author>
+      <name>/u/Confident-Card3693</name>
+      <uri>https://old.reddit.com/user/Confident-Card3693</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;xin chào mọi người, em là nữ, đang học đại học. em đi nước ngoài đã nhiều năm nên tiếng việt của em không được tốt, xin mọi người thông cảm. chuyện là em thi thoảng mới gặp bố và trước giờ quan hệ bố con không tốt, nhưng bố em có vẻ là người rất tình cảm, thích nắm tay, ôm, thơm má, etc. em lại không thích đụng chạm cho lắm, mỗi lần như vậy em đều né ra, nhưng tính bố bảo thủ (?) nên không thay đổi. việc nắm tay hay ôm bố thì em hiểu là bình thường, nhưng xin hỏi bố thích sờ mông, vỗ mông, rồi nói là &amp;quot;mông to&amp;quot; thì như vậy là có bình thường không và nên nói thế nào để bố dừng ạ? cái này em băn khoăn khó hiểu từ lâu vì em đã hỏi bạn bè, bạn em đều cảm thấy không ok và em cũng cảm thấy không ok, nhưng vẫn có khả năng đây là khác biệt về văn hóa (hay khác biệt về thế hệ) mà em không hiểu nên muốn đăng hỏi ý kiến mọi người ạ. em cảm ơn.&lt;/p&gt; &lt;p&gt;edit: chuyện này không thể nói qua mẹ đc ạ, bố mẹ em không nói chuyện với nhau. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Confident-Card3693"&gt; /u/Confident-Card3693 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pqc1wr/bố_em_thế_này_thì_có_bình_thường_không_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pqc1wr/bố_em_thế_này_thì_có_bình_thường_không_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pqc1wr/bố_em_thế_này_thì_có_bình_thường_không_ạ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-19T04:35:36+00:00</published>
   </entry>
   <entry>
     <id>t3_1pq9xsb</id>
