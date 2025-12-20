@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-12-20T07:37:36+00:00</updated>
+  <updated>2025-12-20T07:50:16+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -255,19 +255,6 @@
     <published>2025-12-20T04:34:50+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pr8110</id>
-    <title>Tâm sự của 1 người bị rối loạn loạn thần (F20)</title>
-    <updated>2025-12-20T06:51:09+00:00</updated>
-    <author>
-      <name>/u/secviolation</name>
-      <uri>https://old.reddit.com/user/secviolation</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi mng. Mình là 1 người bị rối loạn loạn thần do bị sang chấn tâm lý (PTSD). Suốt hơn 1 năm nay mình đã đc chữa trị bằng việc uống thuốc theo chỉ định của bác sĩ và trí não của mình đã quay về trạng thái bình thường hơn. Tuy vậy, quãng thời gian bị bệnh là 1 trải nghiệm khá là kinh khủng đối với mình... nhưng mà bây h mình khá là hạnh phúc vì đã vượt qua đc khủng hoảng năm ấy.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/secviolation"&gt; /u/secviolation &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pr8110/tâm_sự_của_1_người_bị_rối_loạn_loạn_thần_f20/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pr8110/tâm_sự_của_1_người_bị_rối_loạn_loạn_thần_f20/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pr8110/tâm_sự_của_1_người_bị_rối_loạn_loạn_thần_f20/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-20T06:51:09+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1pr3dmu</id>
     <title>#Android</title>
     <updated>2025-12-20T02:38:18+00:00</updated>
@@ -279,6 +266,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pr3dmu/android/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-20T02:38:18+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pr8110</id>
+    <title>Tâm sự của 1 người bị rối loạn loạn thần (F20)</title>
+    <updated>2025-12-20T06:51:09+00:00</updated>
+    <author>
+      <name>/u/secviolation</name>
+      <uri>https://old.reddit.com/user/secviolation</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi mng. Mình là 1 người bị rối loạn loạn thần do bị sang chấn tâm lý (PTSD). Suốt hơn 1 năm nay mình đã đc chữa trị bằng việc uống thuốc theo chỉ định của bác sĩ và trí não của mình đã quay về trạng thái bình thường hơn. Tuy vậy, quãng thời gian bị bệnh là 1 trải nghiệm khá là kinh khủng đối với mình... nhưng mà bây h mình khá là hạnh phúc vì đã vượt qua đc khủng hoảng năm ấy.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/secviolation"&gt; /u/secviolation &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pr8110/tâm_sự_của_1_người_bị_rối_loạn_loạn_thần_f20/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pr8110/tâm_sự_của_1_người_bị_rối_loạn_loạn_thần_f20/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pr8110/tâm_sự_của_1_người_bị_rối_loạn_loạn_thần_f20/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-20T06:51:09+00:00</published>
   </entry>
   <entry>
     <id>t3_1pr7bez</id>
