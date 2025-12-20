@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-12-20T08:46:34+00:00</updated>
+  <updated>2025-12-20T09:18:53+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1pqejfq</id>
-    <title>Phải xử lý như thế nào khi bố ngoại tình</title>
-    <updated>2025-12-19T06:54:55+00:00</updated>
-    <author>
-      <name>/u/No_Risk</name>
-      <uri>https://old.reddit.com/user/No_Risk</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Năm nay em 20 tuổi, đang học đại học, hôm nay em đang ngồi quán cafe thì thấy bố chở cô đồng nghiệp trên xe máy, em có linh cảm không lành, em bám theo thì thấy bố đưa cô ấy vào khách sạn, em về ngồi thẫn thờ cả ngày trong phòng không biết phải làm gì, có nên nói mẹ không hay xử lý như thế nào để gia đình em trở lại như xưa. Em xin mọi người tư vấn giúp em ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/No_Risk"&gt; /u/No_Risk &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pqejfq/phải_xử_lý_như_thế_nào_khi_bố_ngoại_tình/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pqejfq/phải_xử_lý_như_thế_nào_khi_bố_ngoại_tình/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pqejfq/phải_xử_lý_như_thế_nào_khi_bố_ngoại_tình/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-19T06:54:55+00:00</published>
-  </entry>
   <entry>
     <id>t3_1pr3is6</id>
     <title>Figma tự động thu tiền dù đã chuyển plan sang stater free</title>
@@ -112,19 +99,6 @@
     <published>2025-12-20T06:25:32+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pqnwje</id>
-    <title>tìm ngừi tâm sự nói chuyện vui vui</title>
-    <updated>2025-12-19T15:27:58+00:00</updated>
-    <author>
-      <name>/u/happylife279</name>
-      <uri>https://old.reddit.com/user/happylife279</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;nhân dịp messenger của mình bị lỗi thì tiện thể mình lên đây hỏi thử có bạn nào muốn tâm sự nói chuyện với 1 đứa genZ hay hỏi như tui hong, và tui là 1 listener chính hiệu, bạn có thể kể cái gì cũng dc, à mình là nữ, cũng tự nhận là đôi khi có nhiều mảng mình sẽ ko rành bằng nhưng mình sẽ lắng nghe. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/happylife279"&gt; /u/happylife279 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pqnwje/tìm_ngừi_tâm_sự_nói_chuyện_vui_vui/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pqnwje/tìm_ngừi_tâm_sự_nói_chuyện_vui_vui/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pqnwje/tìm_ngừi_tâm_sự_nói_chuyện_vui_vui/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-19T15:27:58+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1pr8b2e</id>
     <title>Tìm người giúp việc ở đâu</title>
     <updated>2025-12-20T07:08:14+00:00</updated>
@@ -138,6 +112,19 @@
     <published>2025-12-20T07:08:14+00:00</published>
   </entry>
   <entry>
+    <id>t3_1pqnwje</id>
+    <title>tìm ngừi tâm sự nói chuyện vui vui</title>
+    <updated>2025-12-19T15:27:58+00:00</updated>
+    <author>
+      <name>/u/happylife279</name>
+      <uri>https://old.reddit.com/user/happylife279</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;nhân dịp messenger của mình bị lỗi thì tiện thể mình lên đây hỏi thử có bạn nào muốn tâm sự nói chuyện với 1 đứa genZ hay hỏi như tui hong, và tui là 1 listener chính hiệu, bạn có thể kể cái gì cũng dc, à mình là nữ, cũng tự nhận là đôi khi có nhiều mảng mình sẽ ko rành bằng nhưng mình sẽ lắng nghe. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/happylife279"&gt; /u/happylife279 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pqnwje/tìm_ngừi_tâm_sự_nói_chuyện_vui_vui/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pqnwje/tìm_ngừi_tâm_sự_nói_chuyện_vui_vui/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pqnwje/tìm_ngừi_tâm_sự_nói_chuyện_vui_vui/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-19T15:27:58+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1pq9xsb</id>
     <title>[Góc Nhìn] Ảo tưởng về Mean và Median khiến nhiều chị em mãi ế dù miệng bảo đã hạ tiêu chuẩn</title>
     <updated>2025-12-19T02:48:43+00:00</updated>
@@ -149,6 +136,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pq9xsb/góc_nhìn_ảo_tưởng_về_mean_và_median_khiến_nhiều/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-19T02:48:43+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pra8qh</id>
+    <title>Tặng quà cho bạn gái mà nhà bạn gái ở xa</title>
+    <updated>2025-12-20T09:13:38+00:00</updated>
+    <author>
+      <name>/u/VisibleBridge313</name>
+      <uri>https://old.reddit.com/user/VisibleBridge313</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là mình được người trong họ hàng mai mối với một bạn nữ , bạn này ở Tiền Giang cách nhà em tầm 90 km. Đây là lần đầu tiên em quen bạn gái mà lại ở xa. Ai có kinh nghiệm chia sẻ giúp mình chuyện tặng quà với . Thường mọi người sẽ tặng gì ạ và tặng vào những ngày lễ nào trong năm, 1 tháng mọi người đi thăm bạn gái mấy lần ạ. &lt;/p&gt; &lt;p&gt;Em ko có nhiều kinh nghiệm vì bạn nữ này là bạn nữ đầu tiên em quen. Em rất thích bạn ấy ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/VisibleBridge313"&gt; /u/VisibleBridge313 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pra8qh/tặng_quà_cho_bạn_gái_mà_nhà_bạn_gái_ở_xa/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pra8qh/tặng_quà_cho_bạn_gái_mà_nhà_bạn_gái_ở_xa/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pra8qh/tặng_quà_cho_bạn_gái_mà_nhà_bạn_gái_ở_xa/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-20T09:13:38+00:00</published>
   </entry>
   <entry>
     <id>t3_1pr1o14</id>
@@ -307,19 +307,6 @@
     <published>2025-12-20T04:31:46+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pr5zlk</id>
-    <title>Chuyện quái gì xảy ra với đời tôi vậy?</title>
-    <updated>2025-12-20T04:55:48+00:00</updated>
-    <author>
-      <name>/u/Comfortable-Basis211</name>
-      <uri>https://old.reddit.com/user/Comfortable-Basis211</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1pr5zlk/chuyện_quái_gì_xảy_ra_với_đời_tôi_vậy/"&gt; &lt;img alt="Chuyện quái gì xảy ra với đời tôi vậy?" src="https://preview.redd.it/a18vzyzuia8g1.jpeg?width=320&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=8ffa9454b3b3706852ccccf157ad7139dd01e9d9" title="Chuyện quái gì xảy ra với đời tôi vậy?" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, em lên đây chỉ muốn trút bầu tâm sự một chút ạ. Em là học sinh cuối cấp nên có thể tâm lý em còn chưa vững và dễ tổn thương. Nhưng dạo này em gặp nhiều chuyện khiến em cảm thấy không chống đỡ được nổi. Bắt đầu từ đầu tháng 12 khi lớp em có buổi hoạt động dưới cờ và em là người thuyết trình, mọi thứ diễn ra khá ổn ở phần nội dung nhưng đến phần câu hỏi khi em hỏi mọi người bên dưới thì chẳng có ai phản ứng gì, em khá bối rối nhưng vẫn cố làm nốt khi mời ngẫu nhiên người trả lời nhưng chẳng ai chịu trả lời, lúc đó em như muốn đào hố chôn mình, rồi em nghĩ mời lớp mình hỗ trợ nhưng cũng chẳng ai lên giúp em. Sau đó lớp em có một bạn nam ghét em đã to tiếng chế nhạo em giữa trường và kêu em cút xuống, sau đó bạn còn nói em với người lớp bên cạnh để các bạn ấy cười em. Em cảm giác lúc đó như đầu mình sắp nổ đến nơi rồi. Em không biết cách nào đó mình đã cố gắng trụ đến hết bài hoạt động và đi xuống, bạn bè em cũng không an ủi hay hỗ trợ tinh thần em như cách em hay làm với bạn, điều đó càng khiến em choáng váng hơn. Sau đó đến dạo gần đây, khi em được người nhà nhờ đi đón chị họ(lớp 6), nhưng em đang dở việc nên định làm tí cho xong rồi đi, nhưng chưa được bao lâu thì người nhà bắt đầu chửi và miệt thị em thậm tệ(lúc này đang ở ngoài) khiến mọi người đều nghe hết, em thực sự rất ngại và muốn khóc nhưng em vẫn cố kiềm lại hỏi &amp;quot;con đã làm gì&amp;quot; nhưng chỉ nhận lại mấy cái đồ đạc ném vào người, câu chửi. Hoang mang và sợ hãi là thứ em cảm thấy lúc đó. Sau đó ở trường em bị kiếm chuyện bởi một bạn nữ lớp khác khi em đi gần bạn trai mà bạn đó thích(người bạn trai đó là bồ bạn của bạn nữ đó) trên hành lang. Rồi lại có người trong lớp kiếm chuyện với em dù em không biết gì cả, đi học với em là chuỗi ngày bị chà đạp lòng tự trọng và mắng chửi đến mức em không muốn đến trường, ở nhà cũng không có ai nương tựa. Em thực sự đã cố sống tốt, cố tích cực thậm chí là độc hại, cố làm bạn với những người từng là bạn em nhưng cuối cùng bị phớt lờ, em đã cố gắng rủ người bạn của mình đi chơi với em và người bạn miễn cưỡng đi, nhưng sau đó em lại thấy bạn ấy nhận lời rủ rê của một người bạn khác đi chơi với tâm trạng rất vui vẻ. Em không biết mình đã làm gì sai nữa.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Comfortable-Basis211"&gt; /u/Comfortable-Basis211 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/a18vzyzuia8g1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pr5zlk/chuyện_quái_gì_xảy_ra_với_đời_tôi_vậy/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pr5zlk/chuyện_quái_gì_xảy_ra_với_đời_tôi_vậy/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-20T04:55:48+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1pr5zr9</id>
     <title>GIÁO SƯ TOP 11 THẾ GIỚI CÒN "BAY MÀU" VÌ TIN AI, HUỐNG CHI LÀ CHÚNG TA? 🤯</title>
     <updated>2025-12-20T04:56:03+00:00</updated>
@@ -331,5 +318,18 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pr5zr9/giáo_sư_top_11_thế_giới_còn_bay_màu_vì_tin_ai/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-20T04:56:03+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pr5zlk</id>
+    <title>Chuyện quái gì xảy ra với đời tôi vậy?</title>
+    <updated>2025-12-20T04:55:48+00:00</updated>
+    <author>
+      <name>/u/Comfortable-Basis211</name>
+      <uri>https://old.reddit.com/user/Comfortable-Basis211</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1pr5zlk/chuyện_quái_gì_xảy_ra_với_đời_tôi_vậy/"&gt; &lt;img alt="Chuyện quái gì xảy ra với đời tôi vậy?" src="https://preview.redd.it/a18vzyzuia8g1.jpeg?width=320&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=8ffa9454b3b3706852ccccf157ad7139dd01e9d9" title="Chuyện quái gì xảy ra với đời tôi vậy?" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, em lên đây chỉ muốn trút bầu tâm sự một chút ạ. Em là học sinh cuối cấp nên có thể tâm lý em còn chưa vững và dễ tổn thương. Nhưng dạo này em gặp nhiều chuyện khiến em cảm thấy không chống đỡ được nổi. Bắt đầu từ đầu tháng 12 khi lớp em có buổi hoạt động dưới cờ và em là người thuyết trình, mọi thứ diễn ra khá ổn ở phần nội dung nhưng đến phần câu hỏi khi em hỏi mọi người bên dưới thì chẳng có ai phản ứng gì, em khá bối rối nhưng vẫn cố làm nốt khi mời ngẫu nhiên người trả lời nhưng chẳng ai chịu trả lời, lúc đó em như muốn đào hố chôn mình, rồi em nghĩ mời lớp mình hỗ trợ nhưng cũng chẳng ai lên giúp em. Sau đó lớp em có một bạn nam ghét em đã to tiếng chế nhạo em giữa trường và kêu em cút xuống, sau đó bạn còn nói em với người lớp bên cạnh để các bạn ấy cười em. Em cảm giác lúc đó như đầu mình sắp nổ đến nơi rồi. Em không biết cách nào đó mình đã cố gắng trụ đến hết bài hoạt động và đi xuống, bạn bè em cũng không an ủi hay hỗ trợ tinh thần em như cách em hay làm với bạn, điều đó càng khiến em choáng váng hơn. Sau đó đến dạo gần đây, khi em được người nhà nhờ đi đón chị họ(lớp 6), nhưng em đang dở việc nên định làm tí cho xong rồi đi, nhưng chưa được bao lâu thì người nhà bắt đầu chửi và miệt thị em thậm tệ(lúc này đang ở ngoài) khiến mọi người đều nghe hết, em thực sự rất ngại và muốn khóc nhưng em vẫn cố kiềm lại hỏi &amp;quot;con đã làm gì&amp;quot; nhưng chỉ nhận lại mấy cái đồ đạc ném vào người, câu chửi. Hoang mang và sợ hãi là thứ em cảm thấy lúc đó. Sau đó ở trường em bị kiếm chuyện bởi một bạn nữ lớp khác khi em đi gần bạn trai mà bạn đó thích(người bạn trai đó là bồ bạn của bạn nữ đó) trên hành lang. Rồi lại có người trong lớp kiếm chuyện với em dù em không biết gì cả, đi học với em là chuỗi ngày bị chà đạp lòng tự trọng và mắng chửi đến mức em không muốn đến trường, ở nhà cũng không có ai nương tựa. Em thực sự đã cố sống tốt, cố tích cực thậm chí là độc hại, cố làm bạn với những người từng là bạn em nhưng cuối cùng bị phớt lờ, em đã cố gắng rủ người bạn của mình đi chơi với em và người bạn miễn cưỡng đi, nhưng sau đó em lại thấy bạn ấy nhận lời rủ rê của một người bạn khác đi chơi với tâm trạng rất vui vẻ. Em không biết mình đã làm gì sai nữa.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Comfortable-Basis211"&gt; /u/Comfortable-Basis211 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/a18vzyzuia8g1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pr5zlk/chuyện_quái_gì_xảy_ra_với_đời_tôi_vậy/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pr5zlk/chuyện_quái_gì_xảy_ra_với_đời_tôi_vậy/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-20T04:55:48+00:00</published>
   </entry>
 </feed>
