@@ -2,76 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-12-21T04:12:16+00:00</updated>
+  <updated>2025-12-21T04:49:28+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1pr6w4w</id>
-    <title>Làm thế nào để tăng thu nhập?</title>
-    <updated>2025-12-20T05:44:50+00:00</updated>
-    <author>
-      <name>/u/Delicious_Society735</name>
-      <uri>https://old.reddit.com/user/Delicious_Society735</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em là nữ, em kiếm tiền cũng lèo tèo đủ chi tiêu. Dư đc tầm chục triệu đổ lại. Em chỉ biết ước chứ em ko biết làm sao để thu nhập đc 20 30 trieu 50 triệu 100 triệu. Thu nhập mọi người đã phất lên đc như thế nào vậy? Em nhìn người ta làm ăn ăn nên làm ra dữ quá còn bản thân em ko làm đc cơm cháo gì.. Em biết giờ cũng chẳng có ai cầm tay chỉ việc mà mình phải tự chọn đường mình đi, tự lực ở bản thân, chứ người ta áp đặt thì cũng ko theo sở thích điều mình muốn. Có làm mới biết mình làm đc tới đâu nhỉ. Em định làm youtube làm tiktok, làm kol chỗ em rồi nhận quảng cáo. Biết đâu đc thêm 500k 1 triệu từ mỗi quảng cáo cũng gọi là có thêm thu nhập rồi mn nhỉ. E ko biết e có thành công ko nữa. Nhưng e thử làm xem mn nhỉ. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Delicious_Society735"&gt; /u/Delicious_Society735 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pr6w4w/làm_thế_nào_để_tăng_thu_nhập/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pr6w4w/làm_thế_nào_để_tăng_thu_nhập/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pr6w4w/làm_thế_nào_để_tăng_thu_nhập/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-20T05:44:50+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1prfnry</id>
-    <title>Thiết kế số vs Iot</title>
-    <updated>2025-12-20T14:31:58+00:00</updated>
-    <author>
-      <name>/u/Huydawibu</name>
-      <uri>https://old.reddit.com/user/Huydawibu</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1prfnry/thiết_kế_số_vs_iot/"&gt; &lt;img alt="Thiết kế số vs Iot" src="https://preview.redd.it/82mkpjbndd8g1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=f8c7330412a689bfc5c502da3c1ce213c13ae710" title="Thiết kế số vs Iot" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em chào mọi người, hiện tại em đang giữa năm 3 đh. Có 2 hướng đi em đang khá phân vân để ra tết xin vào lab. Thiết kế số thì học về SoC, fpga,.. ( em mới biết sơ sơ thế vì mảng này em chưa làm bao giờ ). Iot thì khá rộng, hiện tại em có vài project về iot chủ yếu là dùng vi điều khiển, micromouse, đo nhịp tim,... Mn có thể cho em xin ý kiến hoặc nhận định về 2 hướng này với ạ.&lt;/p&gt; &lt;p&gt;Hiện tại thì em đang làm các project bên iot nhưng cảm thấy trình chưa đc khá lắm. Còn hay vướng vào tutorial hell và gặp nhiều lỗi vặt mà không có cách xử lý nên nhiều khi bỏ cuộc ( sau đấy lại quay lại nma mất thời gian quá :) ). Với cả dạo này em làm project code trên nền tảng mới nên khá chậm mà thằng bạn em nó vibe coding dùng gemini ra cả một hệ thống to tướng gấp mấy lần cái của em. Em nhìn thấy xong stress quá vì k thích vibe coding lắm vì code đc gen ra khó kiểm soát với nhìn như nồi cám heo. Sai vặt linh tinh, tiến độ chậm với không có thầy, không có mentor nên em thấy hơi oải. Về phần thiết kế số thì trước đó em có đc học môn điện tử số, thầy có giới thiệu verilog với fpga các thứ em cũng khá hứng thú. Em không biết có nên đổi không vì bây giờ một mảng thì đã có tí kn còn một mảng thì như tờ giấy trắng. Với cả tương lai của iot em thấy có vẻ k chắc chắn lắm ( có thể vì chưa giỏi nên em nghĩ thế 😂) và thiết kế số thì kĩ sư fpga em thấy job khá nhiều. Cảm ơn mn đã đọc ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Huydawibu"&gt; /u/Huydawibu &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/82mkpjbndd8g1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1prfnry/thiết_kế_số_vs_iot/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1prfnry/thiết_kế_số_vs_iot/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-20T14:31:58+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1prg37k</id>
-    <title>Tâm sự tuổi 30</title>
-    <updated>2025-12-20T14:51:49+00:00</updated>
-    <author>
-      <name>/u/Historical_Style_334</name>
-      <uri>https://old.reddit.com/user/Historical_Style_334</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác, hôm nay cuối tuần các bác ổn chứ ạ?&lt;/p&gt; &lt;p&gt;Nay cuối tuần em tự cho phép mình nghỉ ngơi một hôm sau chuỗi ngày bận rộn công việc cuối năm và muốn được tâm sự với các bác ạ. Một ít tháng nữa là em bước sang tuổi 31 rồi. Năm nay của em là năm người ta hay gọi là tam thập nhi lập, một năm chuyển mình cực vất vã đối với em ạ. Nhưng cố gắng nhiều giờ cũng ổn được phần nào rồi. Bước đến năm 30 tuổi chợt nhận thức thấy rằng mọi thứ cứ để tùy duyên, có cũng được, không có cũng được, cái gì đến thì nó ắt phải đến, cái gì đi thì nó hẳn phải đi dù là tốt hay xấu, chỉ là cái cách mà bản thân mình đón nhận nó như thế nào thôi. Không biết tuổi 30 như em mà duyên chưa đến, chưa có người yêu thì có được xem là muộn không các bác nhỉ. Em vẫn cứ suy nghĩ rằng mình cứ việc nỗ lực trong công việc, chăm lo gia đình mình, còn việc duyên đến hay không là do ông trời sắp cho mình đấy các bác ạ. Các bác cuối tuần rảnh rổi vào tâm sự với em tí nhé. Cảm ơn các bác ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Historical_Style_334"&gt; /u/Historical_Style_334 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1prg37k/tâm_sự_tuổi_30/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1prg37k/tâm_sự_tuổi_30/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1prg37k/tâm_sự_tuổi_30/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-20T14:51:49+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1prdtjv</id>
-    <title>Lần đầu đi châu Âu nên đi nước nào nhất vậy mn?</title>
-    <updated>2025-12-20T13:01:23+00:00</updated>
-    <author>
-      <name>/u/Mina_scorpio</name>
-      <uri>https://old.reddit.com/user/Mina_scorpio</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tui lần đầu đi châu Âu chỉ có 5 ngày để chơi thôi nên ko đi nhiều đc&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Mina_scorpio"&gt; /u/Mina_scorpio &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1prdtjv/lần_đầu_đi_châu_âu_nên_đi_nước_nào_nhất_vậy_mn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1prdtjv/lần_đầu_đi_châu_âu_nên_đi_nước_nào_nhất_vậy_mn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1prdtjv/lần_đầu_đi_châu_âu_nên_đi_nước_nào_nhất_vậy_mn/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-20T13:01:23+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1pr7bez</id>
-    <title>Không chơi thân với ai</title>
-    <updated>2025-12-20T06:08:22+00:00</updated>
-    <author>
-      <name>/u/secviolation</name>
-      <uri>https://old.reddit.com/user/secviolation</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Cái cảm giác có bạn bè cười nói vui vẻ nhưng phải kìm nén những bí mật trong lòng, nó thực sự khá là bí bách...&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/secviolation"&gt; /u/secviolation &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pr7bez/không_chơi_thân_với_ai/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pr7bez/không_chơi_thân_với_ai/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pr7bez/không_chơi_thân_với_ai/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-20T06:08:22+00:00</published>
-  </entry>
   <entry>
     <id>t3_1pr5k37</id>
     <title>Giáo viên chủ nhiệm đánh bạc</title>
@@ -99,17 +34,17 @@
     <published>2025-12-20T06:51:09+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pruevu</id>
-    <title>Áo khoác Hoodie zip</title>
-    <updated>2025-12-21T01:37:20+00:00</updated>
+    <id>t3_1prv8lv</id>
+    <title>Ghép đôi chuông cửa</title>
+    <updated>2025-12-21T02:20:09+00:00</updated>
     <author>
-      <name>/u/Moonlit_Introvert</name>
-      <uri>https://old.reddit.com/user/Moonlit_Introvert</uri>
+      <name>/u/Defiant-Actuator8071</name>
+      <uri>https://old.reddit.com/user/Defiant-Actuator8071</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình hay lên các sàn TMĐT (Tiktok Shop, Shopee, Lazada) coi áo khoác hoodie zip mà sao các sàn đó bán áo toàn chất vải Polyester với Nỉ vậy mn??? Mình là người hay ra mồ hôi, nên muốn tìm áo khoác hoodie zip nhưng chất vải cotton hoặc vải nào đó thoáng mát, giặt máy được. Nhờ mn tư vấn chỗ mua giúp ạ, mình ở Sài Gòn &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Moonlit_Introvert"&gt; /u/Moonlit_Introvert &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pruevu/áo_khoác_hoodie_zip/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pruevu/áo_khoác_hoodie_zip/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pruevu/áo_khoác_hoodie_zip/"/>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1prv8lv/ghép_đôi_chuông_cửa/"&gt; &lt;img alt="Ghép đôi chuông cửa" src="https://preview.redd.it/8d23s9owvg8g1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ba07114172207c211f3e0491a17fd04427deaf29" title="Ghép đôi chuông cửa" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các bạn rành công nghệ cho mình hỏi xíu với.&lt;/p&gt; &lt;p&gt;Chuông cửa loại này, nếu mình mua 2 bộ riêng biệt (1 nút bấm và 1 chuông), thì có thể ghép lại để cho bấm bất kỳ nút nào thì cả hai chuông đều reo cùng lúc được không vậy?&lt;/p&gt; &lt;p&gt;Hay là phải mua loại 2 nút 2 chuông họ bán sẵn?&lt;/p&gt; &lt;p&gt;Cám ơn các bạn.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Defiant-Actuator8071"&gt; /u/Defiant-Actuator8071 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/8d23s9owvg8g1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1prv8lv/ghép_đôi_chuông_cửa/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1prv8lv/ghép_đôi_chuông_cửa/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-21T01:37:20+00:00</published>
+    <published>2025-12-21T02:20:09+00:00</published>
   </entry>
   <entry>
     <id>t3_1prcq06</id>
@@ -123,19 +58,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1prcq06/ừ_thì_tui_vẫn_cô_đơn_tui_thắc_mắc_không_biết_cặp/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-20T11:58:10+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1prv8lv</id>
-    <title>Ghép đôi chuông cửa</title>
-    <updated>2025-12-21T02:20:09+00:00</updated>
-    <author>
-      <name>/u/Defiant-Actuator8071</name>
-      <uri>https://old.reddit.com/user/Defiant-Actuator8071</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1prv8lv/ghép_đôi_chuông_cửa/"&gt; &lt;img alt="Ghép đôi chuông cửa" src="https://preview.redd.it/8d23s9owvg8g1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ba07114172207c211f3e0491a17fd04427deaf29" title="Ghép đôi chuông cửa" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các bạn rành công nghệ cho mình hỏi xíu với.&lt;/p&gt; &lt;p&gt;Chuông cửa loại này, nếu mình mua 2 bộ riêng biệt (1 nút bấm và 1 chuông), thì có thể ghép lại để cho bấm bất kỳ nút nào thì cả hai chuông đều reo cùng lúc được không vậy?&lt;/p&gt; &lt;p&gt;Hay là phải mua loại 2 nút 2 chuông họ bán sẵn?&lt;/p&gt; &lt;p&gt;Cám ơn các bạn.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Defiant-Actuator8071"&gt; /u/Defiant-Actuator8071 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/8d23s9owvg8g1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1prv8lv/ghép_đôi_chuông_cửa/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1prv8lv/ghép_đôi_chuông_cửa/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-21T02:20:09+00:00</published>
   </entry>
   <entry>
     <id>t3_1prc2wj</id>
@@ -190,30 +112,69 @@
     <published>2025-12-21T03:28:02+00:00</published>
   </entry>
   <entry>
-    <id>t3_1prx7kj</id>
-    <title>Thuốc lá</title>
-    <updated>2025-12-21T04:04:46+00:00</updated>
+    <id>t3_1prxfec</id>
+    <title>mn cho em xin tư vấn về mạng mt và truyền thông dữ liệu với</title>
+    <updated>2025-12-21T04:16:25+00:00</updated>
     <author>
-      <name>/u/Moonlit_Introvert</name>
-      <uri>https://old.reddit.com/user/Moonlit_Introvert</uri>
+      <name>/u/Personal_Ad5960</name>
+      <uri>https://old.reddit.com/user/Personal_Ad5960</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Như tiêu đề trên, cho mình nay 26t chưa biết hút thuốc là gì, mà mn cho mình hỏi thật sự hút thuốc có giảm stress ko??? Và nếu mới hút nên hút loại nào cho nhẹ??? &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Moonlit_Introvert"&gt; /u/Moonlit_Introvert &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1prx7kj/thuốc_lá/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1prx7kj/thuốc_lá/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1prx7kj/thuốc_lá/"/>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Personal_Ad5960"&gt; /u/Personal_Ad5960 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1prxfec/mn_cho_em_xin_tư_vấn_về_mạng_mt_và_truyền_thông/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1prxfec/mn_cho_em_xin_tư_vấn_về_mạng_mt_và_truyền_thông/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1prxfec/mn_cho_em_xin_tư_vấn_về_mạng_mt_và_truyền_thông/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-21T04:04:46+00:00</published>
+    <published>2025-12-21T04:16:25+00:00</published>
   </entry>
   <entry>
-    <id>t3_1prikvm</id>
-    <title>Chúng ta kiếm tiền để làm gì ? Bao nhiêu tiền là đủ ? Làm sao để không biến mình trở thành nô lệ của đồng tiền ?</title>
-    <updated>2025-12-20T16:38:58+00:00</updated>
+    <id>t3_1prxkrg</id>
+    <title>Làm cách nào rút ví trả sau momo zalo sp</title>
+    <updated>2025-12-21T04:24:23+00:00</updated>
     <author>
-      <name>/u/Ok_Pollution1769</name>
-      <uri>https://old.reddit.com/user/Ok_Pollution1769</uri>
+      <name>/u/Prestigious-Offer488</name>
+      <uri>https://old.reddit.com/user/Prestigious-Offer488</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình thấy thời nhỏ rất vui, giàu nghèo chả đứa nào quan tâm, cứ v mà chơi đùa ... Càng lớn lên áp lực mưu sinh đè nặng ... Rồi cuối cùng ai cũng nhắm mắt xuôi tay, vậy chúng ta có thực sự đang sống ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ok_Pollution1769"&gt; /u/Ok_Pollution1769 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1prikvm/chúng_ta_kiếm_tiền_để_làm_gì_bao_nhiêu_tiền_là_đủ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1prikvm/chúng_ta_kiếm_tiền_để_làm_gì_bao_nhiêu_tiền_là_đủ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1prikvm/chúng_ta_kiếm_tiền_để_làm_gì_bao_nhiêu_tiền_là_đủ/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hiện tại có những cách nào để rút được ví trả sau vậy mn&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Prestigious-Offer488"&gt; /u/Prestigious-Offer488 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1prxkrg/làm_cách_nào_rút_ví_trả_sau_momo_zalo_sp/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1prxkrg/làm_cách_nào_rút_ví_trả_sau_momo_zalo_sp/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1prxkrg/làm_cách_nào_rút_ví_trả_sau_momo_zalo_sp/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-20T16:38:58+00:00</published>
+    <published>2025-12-21T04:24:23+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1prxuve</id>
+    <title>Xin tư vấn tình cảm</title>
+    <updated>2025-12-21T04:39:26+00:00</updated>
+    <author>
+      <name>/u/Infinite-Passage-851</name>
+      <uri>https://old.reddit.com/user/Infinite-Passage-851</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là em (nam) đã nhắn tin với nhiều bạn khác giới. Câu chuyện thường cũng thoải mái, dễ chịu. Tuy nhiên gặp vài vấn đề sau đây: 1. Thiếu điểm đột phá để tiến thêm bước nữa 🫷 2. Câu chuyện thường bế tắc khi có việc cá nhân, mình ko biết phải kết thúc câu chuyện thế nào cho thoải mái mà thường là cắt cụt câu chuyện là bận, làm abc… 3. Thường cảm thấy chán và không có cách nào hẹn gặp riêng ngoài đời được 4. Mình thường buộc phải bắt chuyện trước nếu muốn nhắn Còn nhiều cái mà mình nghĩ có vấn đề tuy nhiên mới chỉ tổng kết được các điểm này. Các bác có kinh nghiệm thì share cho em biết với 🥲&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Infinite-Passage-851"&gt; /u/Infinite-Passage-851 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1prxuve/xin_tư_vấn_tình_cảm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1prxuve/xin_tư_vấn_tình_cảm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1prxuve/xin_tư_vấn_tình_cảm/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-21T04:39:26+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1prxwsd</id>
+    <title>Nên làm gì?</title>
+    <updated>2025-12-21T04:42:17+00:00</updated>
+    <author>
+      <name>/u/Ok_Lie_3512</name>
+      <uri>https://old.reddit.com/user/Ok_Lie_3512</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mấy thím Em kinh doanh iPhone 10 năm nay , chuyên bán máy chuẩn nhưng từ khi 2 3 năm nay có nhiều thím khác làm ăn tà đạo báo giá ảo bán hàng dựng bơm ads, làm toptop múa quá lượng khách nhà em giảm 5 60% , nhưng e vẫn k muốn kiếm tiền bằng cách lừa dối khách như thế , các thím có hướng nào để vực dậy không cho em xin ý kiến &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ok_Lie_3512"&gt; /u/Ok_Lie_3512 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1prxwsd/nên_làm_gì/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1prxwsd/nên_làm_gì/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1prxwsd/nên_làm_gì/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-21T04:42:17+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1prxy2i</id>
+    <title>Có ai mua hàng trên trang Yahoo auction không</title>
+    <updated>2025-12-21T04:44:13+00:00</updated>
+    <author>
+      <name>/u/RelativeRiver</name>
+      <uri>https://old.reddit.com/user/RelativeRiver</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Có dịch vụ nào tạo giúp tài khoản không ? Mình muốn mua đ ồ nhưng tự đấu giá rồi xong bên kia lấy hàng hộ thôi&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/RelativeRiver"&gt; /u/RelativeRiver &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1prxy2i/có_ai_mua_hàng_trên_trang_yahoo_auction_không/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1prxy2i/có_ai_mua_hàng_trên_trang_yahoo_auction_không/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1prxy2i/có_ai_mua_hàng_trên_trang_yahoo_auction_không/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-21T04:44:13+00:00</published>
   </entry>
   <entry>
     <id>t3_1pr5zr9</id>
@@ -229,6 +190,19 @@
     <published>2025-12-20T04:56:03+00:00</published>
   </entry>
   <entry>
+    <id>t3_1prikvm</id>
+    <title>Chúng ta kiếm tiền để làm gì ? Bao nhiêu tiền là đủ ? Làm sao để không biến mình trở thành nô lệ của đồng tiền ?</title>
+    <updated>2025-12-20T16:38:58+00:00</updated>
+    <author>
+      <name>/u/Ok_Pollution1769</name>
+      <uri>https://old.reddit.com/user/Ok_Pollution1769</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình thấy thời nhỏ rất vui, giàu nghèo chả đứa nào quan tâm, cứ v mà chơi đùa ... Càng lớn lên áp lực mưu sinh đè nặng ... Rồi cuối cùng ai cũng nhắm mắt xuôi tay, vậy chúng ta có thực sự đang sống ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ok_Pollution1769"&gt; /u/Ok_Pollution1769 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1prikvm/chúng_ta_kiếm_tiền_để_làm_gì_bao_nhiêu_tiền_là_đủ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1prikvm/chúng_ta_kiếm_tiền_để_làm_gì_bao_nhiêu_tiền_là_đủ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1prikvm/chúng_ta_kiếm_tiền_để_làm_gì_bao_nhiêu_tiền_là_đủ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-20T16:38:58+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1pr5zlk</id>
     <title>Chuyện quái gì xảy ra với đời tôi vậy?</title>
     <updated>2025-12-20T04:55:48+00:00</updated>
@@ -242,17 +216,17 @@
     <published>2025-12-20T04:55:48+00:00</published>
   </entry>
   <entry>
-    <id>t3_1prcwgp</id>
-    <title>Tất cả dating app đều vô dụng?</title>
-    <updated>2025-12-20T12:08:22+00:00</updated>
+    <id>t3_1pruevu</id>
+    <title>Áo khoác Hoodie zip</title>
+    <updated>2025-12-21T01:37:20+00:00</updated>
     <author>
-      <name>/u/MeetingNervous9720</name>
-      <uri>https://old.reddit.com/user/MeetingNervous9720</uri>
+      <name>/u/Moonlit_Introvert</name>
+      <uri>https://old.reddit.com/user/Moonlit_Introvert</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình đã dùng rất nhiều dating app khác nhau nhưng không hề có kết quả. Mục đích là để tìm người đàng hoàng nghiêm túc nhưng sao khó quá vậy. Bạn bè người thân cũng chẳng mai mối được gì. Không muốn suy nghĩ tiêu cực nhưng thật sự càng ngày càng cảm thấy thất vọng…&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/MeetingNervous9720"&gt; /u/MeetingNervous9720 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1prcwgp/tất_cả_dating_app_đều_vô_dụng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1prcwgp/tất_cả_dating_app_đều_vô_dụng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1prcwgp/tất_cả_dating_app_đều_vô_dụng/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình hay lên các sàn TMĐT (Tiktok Shop, Shopee, Lazada) coi áo khoác hoodie zip mà sao các sàn đó bán áo toàn chất vải Polyester với Nỉ vậy mn??? Mình là người hay ra mồ hôi, nên muốn tìm áo khoác hoodie zip nhưng chất vải cotton hoặc vải nào đó thoáng mát, giặt máy được. Nhờ mn tư vấn chỗ mua giúp ạ, mình ở Sài Gòn &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Moonlit_Introvert"&gt; /u/Moonlit_Introvert &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pruevu/áo_khoác_hoodie_zip/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pruevu/áo_khoác_hoodie_zip/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pruevu/áo_khoác_hoodie_zip/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-20T12:08:22+00:00</published>
+    <published>2025-12-21T01:37:20+00:00</published>
   </entry>
   <entry>
     <id>t3_1pr94y8</id>
@@ -281,6 +255,19 @@
     <published>2025-12-20T13:00:00+00:00</published>
   </entry>
   <entry>
+    <id>t3_1prcwgp</id>
+    <title>Tất cả dating app đều vô dụng?</title>
+    <updated>2025-12-20T12:08:22+00:00</updated>
+    <author>
+      <name>/u/MeetingNervous9720</name>
+      <uri>https://old.reddit.com/user/MeetingNervous9720</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình đã dùng rất nhiều dating app khác nhau nhưng không hề có kết quả. Mục đích là để tìm người đàng hoàng nghiêm túc nhưng sao khó quá vậy. Bạn bè người thân cũng chẳng mai mối được gì. Không muốn suy nghĩ tiêu cực nhưng thật sự càng ngày càng cảm thấy thất vọng…&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/MeetingNervous9720"&gt; /u/MeetingNervous9720 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1prcwgp/tất_cả_dating_app_đều_vô_dụng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1prcwgp/tất_cả_dating_app_đều_vô_dụng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1prcwgp/tất_cả_dating_app_đều_vô_dụng/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-20T12:08:22+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1prvf05</id>
     <title>Mức lương hợp lý cho BA 5 năm kn</title>
     <updated>2025-12-21T02:29:32+00:00</updated>
@@ -307,17 +294,17 @@
     <published>2025-12-21T01:09:28+00:00</published>
   </entry>
   <entry>
-    <id>t3_1prwpni</id>
-    <title>Ô nhiễm tiếng ồn - Hà Nội sao bấm còi nhiều thế?</title>
-    <updated>2025-12-21T03:38:04+00:00</updated>
+    <id>t3_1prx7kj</id>
+    <title>Thuốc lá</title>
+    <updated>2025-12-21T04:04:46+00:00</updated>
     <author>
-      <name>/u/kd-techie</name>
-      <uri>https://old.reddit.com/user/kd-techie</uri>
+      <name>/u/Moonlit_Introvert</name>
+      <uri>https://old.reddit.com/user/Moonlit_Introvert</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình ở Hà Nội, hằng ngày nghe tiếng còi rất nhiều.&lt;/p&gt; &lt;p&gt;Đàn ông hay đàn bà, tuổi già hay thanh niên, nhiều người cứ quen spam còi khi ra đường.&lt;/p&gt; &lt;p&gt;Ở trời Âu trước mình đi học, người ta rất tiết chế dùng còi. Một khi đã còi là đã có vấn đề gì và muốn beef nhau rồi.&lt;/p&gt; &lt;p&gt;Bạn mình đến Huế, Đà Nẵng bảo trong đó cũng ít còi. Còi to mà vô lý là dân người ta nói cho ấy.&lt;/p&gt; &lt;p&gt;Các ông các bà ra đường kiếm cơm, vội vàng hay gì thì cũng nên giữ gìn môi trường chung. Có những cái ô nhiễm nhìn được (rác, ô nhiễm ánh sáng), có những cái vô hình (bụi mịn, ô nhiễm tiếng ồn).&lt;/p&gt; &lt;p&gt;Ra đường cứ đi đúng luật, đi đúng làn đường thì khó mà tai nạn. Đi chậm, giảm tốc độ tầm 20km/h ở khúc giao nhau thì có đâm nhẹ cũng chẳng vấn đề gì.&lt;/p&gt; &lt;p&gt;ai cũng 1-2 nháy TÍT TÍT thì nó thành cái chợ.&lt;/p&gt; &lt;p&gt;--&lt;/p&gt; &lt;p&gt;Mình thì nói chuyện tập trung vào giải pháp, vì kêu ca nhiều cũng chẳng thay đổi được gì.&lt;/p&gt; &lt;p&gt;Bác nào có cao kiến gì không? (Trừ việc bảo có tiền thì đi chỗ khác sống nhé kaka)&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/kd-techie"&gt; /u/kd-techie &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1prwpni/ô_nhiễm_tiếng_ồn_hà_nội_sao_bấm_còi_nhiều_thế/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1prwpni/ô_nhiễm_tiếng_ồn_hà_nội_sao_bấm_còi_nhiều_thế/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1prwpni/ô_nhiễm_tiếng_ồn_hà_nội_sao_bấm_còi_nhiều_thế/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Như tiêu đề trên, cho mình nay 26t chưa biết hút thuốc là gì, mà mn cho mình hỏi thật sự hút thuốc có giảm stress ko??? Và nếu mới hút nên hút loại nào cho nhẹ??? &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Moonlit_Introvert"&gt; /u/Moonlit_Introvert &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1prx7kj/thuốc_lá/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1prx7kj/thuốc_lá/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1prx7kj/thuốc_lá/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-21T03:38:04+00:00</published>
+    <published>2025-12-21T04:04:46+00:00</published>
   </entry>
   <entry>
     <id>t3_1prfx23</id>
@@ -331,5 +318,18 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1prfx23/sau_khi_nghĩ_và_trau_chuốt_tôi_đã_gửi_mail/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-20T14:43:58+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1prwpni</id>
+    <title>Ô nhiễm tiếng ồn - Hà Nội sao bấm còi nhiều thế?</title>
+    <updated>2025-12-21T03:38:04+00:00</updated>
+    <author>
+      <name>/u/kd-techie</name>
+      <uri>https://old.reddit.com/user/kd-techie</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình ở Hà Nội, hằng ngày nghe tiếng còi rất nhiều.&lt;/p&gt; &lt;p&gt;Đàn ông hay đàn bà, tuổi già hay thanh niên, nhiều người cứ quen spam còi khi ra đường.&lt;/p&gt; &lt;p&gt;Ở trời Âu trước mình đi học, người ta rất tiết chế dùng còi. Một khi đã còi là đã có vấn đề gì và muốn beef nhau rồi.&lt;/p&gt; &lt;p&gt;Bạn mình đến Huế, Đà Nẵng bảo trong đó cũng ít còi. Còi to mà vô lý là dân người ta nói cho ấy.&lt;/p&gt; &lt;p&gt;Các ông các bà ra đường kiếm cơm, vội vàng hay gì thì cũng nên giữ gìn môi trường chung. Có những cái ô nhiễm nhìn được (rác, ô nhiễm ánh sáng), có những cái vô hình (bụi mịn, ô nhiễm tiếng ồn).&lt;/p&gt; &lt;p&gt;Ra đường cứ đi đúng luật, đi đúng làn đường thì khó mà tai nạn. Đi chậm, giảm tốc độ tầm 20km/h ở khúc giao nhau thì có đâm nhẹ cũng chẳng vấn đề gì.&lt;/p&gt; &lt;p&gt;ai cũng 1-2 nháy TÍT TÍT thì nó thành cái chợ.&lt;/p&gt; &lt;p&gt;--&lt;/p&gt; &lt;p&gt;Mình thì nói chuyện tập trung vào giải pháp, vì kêu ca nhiều cũng chẳng thay đổi được gì.&lt;/p&gt; &lt;p&gt;Bác nào có cao kiến gì không? (Trừ việc bảo có tiền thì đi chỗ khác sống nhé kaka)&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/kd-techie"&gt; /u/kd-techie &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1prwpni/ô_nhiễm_tiếng_ồn_hà_nội_sao_bấm_còi_nhiều_thế/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1prwpni/ô_nhiễm_tiếng_ồn_hà_nội_sao_bấm_còi_nhiều_thế/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1prwpni/ô_nhiễm_tiếng_ồn_hà_nội_sao_bấm_còi_nhiều_thế/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-21T03:38:04+00:00</published>
   </entry>
 </feed>
