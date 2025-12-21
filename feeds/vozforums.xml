@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-12-21T16:22:28+00:00</updated>
+  <updated>2025-12-21T16:45:32+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -125,19 +125,6 @@
     <published>2025-12-21T10:30:53+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ps3522</id>
-    <title>Cứu, em nhỡ bấm xong giờ màn hình bị chia ngang làm 2 , ở trên sáng và mờ mà ko biết cách sửa.</title>
-    <updated>2025-12-21T10:03:44+00:00</updated>
-    <author>
-      <name>/u/Anxious_Relation8905</name>
-      <uri>https://old.reddit.com/user/Anxious_Relation8905</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1ps3522/cứu_em_nhỡ_bấm_xong_giờ_màn_hình_bị_chia_ngang/"&gt; &lt;img alt="Cứu, em nhỡ bấm xong giờ màn hình bị chia ngang làm 2 , ở trên sáng và mờ mà ko biết cách sửa." src="https://b.thumbs.redditmedia.com/47n7KAJPhxOhX3RmWWM4IHtmwCinGpQ5Sk-oLU6rmeg.jpg" title="Cứu, em nhỡ bấm xong giờ màn hình bị chia ngang làm 2 , ở trên sáng và mờ mà ko biết cách sửa." /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các bác cứu em với ạ, em nhớ bấm gì đó màn hình bị chia đôi như này, reset lại vẫn không hết. Mà lên mạng tìm toàn hướng dẫn lỗi chia đôi dọc, không ai hướng dẫn lỗi chia đôi ngang hết.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Anxious_Relation8905"&gt; /u/Anxious_Relation8905 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1ps3522"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ps3522/cứu_em_nhỡ_bấm_xong_giờ_màn_hình_bị_chia_ngang/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ps3522/cứu_em_nhỡ_bấm_xong_giờ_màn_hình_bị_chia_ngang/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-21T10:03:44+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1ps7097</id>
     <title>Định hướng nghề</title>
     <updated>2025-12-21T13:52:27+00:00</updated>
@@ -151,19 +138,6 @@
     <published>2025-12-21T13:52:27+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ps7yis</id>
-    <title>Thước đo thành công/ hạnh phúc cho phụ nữ là gì</title>
-    <updated>2025-12-21T14:38:13+00:00</updated>
-    <author>
-      <name>/u/Main-Trade556</name>
-      <uri>https://old.reddit.com/user/Main-Trade556</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các bác nghĩ như nào thì được coi là phụ nữ thành công/ hạnh phúc? Ko lẽ hơn nhau ở tấm chồng thật? :))&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Main-Trade556"&gt; /u/Main-Trade556 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ps7yis/thước_đo_thành_công_hạnh_phúc_cho_phụ_nữ_là_gì/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ps7yis/thước_đo_thành_công_hạnh_phúc_cho_phụ_nữ_là_gì/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ps7yis/thước_đo_thành_công_hạnh_phúc_cho_phụ_nữ_là_gì/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-21T14:38:13+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1ps85ih</id>
     <title>Cần tìm máy tính bảng nhẹ, dung lượng nhiều, giá mềm</title>
     <updated>2025-12-21T14:47:25+00:00</updated>
@@ -175,6 +149,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ps85ih/cần_tìm_máy_tính_bảng_nhẹ_dung_lượng_nhiều_giá_mềm/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-21T14:47:25+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ps3522</id>
+    <title>Cứu, em nhỡ bấm xong giờ màn hình bị chia ngang làm 2 , ở trên sáng và mờ mà ko biết cách sửa.</title>
+    <updated>2025-12-21T10:03:44+00:00</updated>
+    <author>
+      <name>/u/Anxious_Relation8905</name>
+      <uri>https://old.reddit.com/user/Anxious_Relation8905</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1ps3522/cứu_em_nhỡ_bấm_xong_giờ_màn_hình_bị_chia_ngang/"&gt; &lt;img alt="Cứu, em nhỡ bấm xong giờ màn hình bị chia ngang làm 2 , ở trên sáng và mờ mà ko biết cách sửa." src="https://b.thumbs.redditmedia.com/47n7KAJPhxOhX3RmWWM4IHtmwCinGpQ5Sk-oLU6rmeg.jpg" title="Cứu, em nhỡ bấm xong giờ màn hình bị chia ngang làm 2 , ở trên sáng và mờ mà ko biết cách sửa." /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các bác cứu em với ạ, em nhớ bấm gì đó màn hình bị chia đôi như này, reset lại vẫn không hết. Mà lên mạng tìm toàn hướng dẫn lỗi chia đôi dọc, không ai hướng dẫn lỗi chia đôi ngang hết.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Anxious_Relation8905"&gt; /u/Anxious_Relation8905 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1ps3522"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ps3522/cứu_em_nhỡ_bấm_xong_giờ_màn_hình_bị_chia_ngang/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ps3522/cứu_em_nhỡ_bấm_xong_giờ_màn_hình_bị_chia_ngang/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-21T10:03:44+00:00</published>
   </entry>
   <entry>
     <id>t3_1prwisp</id>
@@ -201,6 +188,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ps8zwc/có_nên_chủ_động_hỏi_sau_khi_date_buổi_4/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-21T15:25:38+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ps7yis</id>
+    <title>Thước đo thành công/ hạnh phúc cho phụ nữ là gì</title>
+    <updated>2025-12-21T14:38:13+00:00</updated>
+    <author>
+      <name>/u/Main-Trade556</name>
+      <uri>https://old.reddit.com/user/Main-Trade556</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các bác nghĩ như nào thì được coi là phụ nữ thành công/ hạnh phúc? Ko lẽ hơn nhau ở tấm chồng thật? :))&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Main-Trade556"&gt; /u/Main-Trade556 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ps7yis/thước_đo_thành_công_hạnh_phúc_cho_phụ_nữ_là_gì/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ps7yis/thước_đo_thành_công_hạnh_phúc_cho_phụ_nữ_là_gì/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ps7yis/thước_đo_thành_công_hạnh_phúc_cho_phụ_nữ_là_gì/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-21T14:38:13+00:00</published>
   </entry>
   <entry>
     <id>t3_1ps3vsr</id>
@@ -255,6 +255,19 @@
     <published>2025-12-21T09:49:02+00:00</published>
   </entry>
   <entry>
+    <id>t3_1ps3mgz</id>
+    <title>Mê con gái</title>
+    <updated>2025-12-21T10:35:06+00:00</updated>
+    <author>
+      <name>/u/Mountain111111</name>
+      <uri>https://old.reddit.com/user/Mountain111111</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Trời ơi! Tui là con trai nhưng mà tui mê đẻ con gái quá anh em ơi!!! Ước mơ của tui là đẻ càng nhiều con gái càng tốt chứ đẻ ra con trai chắc nhét vô lại lun quá :((( anh em lập gia đình rồi có kinh nghiệm gì để đẻ con gái hem chia sẻ cho anh em đồng sở thích với!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Mountain111111"&gt; /u/Mountain111111 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ps3mgz/mê_con_gái/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ps3mgz/mê_con_gái/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ps3mgz/mê_con_gái/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-21T10:35:06+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1ps5g84</id>
     <title>Hình ảnh ng lính VNCH hát vang bài VN quê hương ngạo nghễ 30/1975</title>
     <updated>2025-12-21T12:30:04+00:00</updated>
@@ -268,17 +281,17 @@
     <published>2025-12-21T12:30:04+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ps3mgz</id>
-    <title>Mê con gái</title>
-    <updated>2025-12-21T10:35:06+00:00</updated>
+    <id>t3_1przlun</id>
+    <title>Áp lực thế hệ</title>
+    <updated>2025-12-21T06:17:20+00:00</updated>
     <author>
-      <name>/u/Mountain111111</name>
-      <uri>https://old.reddit.com/user/Mountain111111</uri>
+      <name>/u/Automatic_Major_2943</name>
+      <uri>https://old.reddit.com/user/Automatic_Major_2943</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Trời ơi! Tui là con trai nhưng mà tui mê đẻ con gái quá anh em ơi!!! Ước mơ của tui là đẻ càng nhiều con gái càng tốt chứ đẻ ra con trai chắc nhét vô lại lun quá :((( anh em lập gia đình rồi có kinh nghiệm gì để đẻ con gái hem chia sẻ cho anh em đồng sở thích với!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Mountain111111"&gt; /u/Mountain111111 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ps3mgz/mê_con_gái/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ps3mgz/mê_con_gái/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ps3mgz/mê_con_gái/"/>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1przlun/áp_lực_thế_hệ/"&gt; &lt;img alt="Áp lực thế hệ" src="https://preview.redd.it/hjv6weib2i8g1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=9936d980c616dfafae6a590fb3763d81ae7f01e5" title="Áp lực thế hệ" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Thật sự thì ai cũng bảo thế hệ lứa 8x, 9x, 10x và sau này đều sung sướng hơn thế hệ cha chú trước đây Nó không sai nhưng cũng đi kèm thách thức hơn rất nhiều Khi mà xã hội hiện đại phát triển quá nhanh, con người luôn phải gắng hết sức mà chạy theo vì chỉ cần lỡ hoặc chậm 1 nhịp đã bị thụt lùi, và mất nhiều cơ hội Chưa kể cơ hội cạnh tranh ngày càng cao vì ai cũng được tiếp xúc nền giáo dục tốt, cơ hội việc làm lại ít lại vì ngoài con người còn phải cạnh tranh với cả A.I Nhiều người chỉ có thể cắm đầu chạy, dùng hết sức để chạy, không cho phép mình dừng lại để rồi sau cùng nhìn lại sức khỏe thể chất và tinh thần ảnh hưởng cực nhiều Nhưng nếu dừng lại thì gánh nặng cơm áo gạo tiền lại đè nặng khiến họ thở không nỗi Bản thân mình chưa quá lớn nhưng còn thấy ngộp với sự thay đổi của hiện tại, và tương lai sẽ còn khốc liệt hơn rất nhiều&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Automatic_Major_2943"&gt; /u/Automatic_Major_2943 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/hjv6weib2i8g1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1przlun/áp_lực_thế_hệ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1przlun/áp_lực_thế_hệ/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-21T10:35:06+00:00</published>
+    <published>2025-12-21T06:17:20+00:00</published>
   </entry>
   <entry>
     <id>t3_1ps9qwp</id>
@@ -305,19 +318,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ps4xcc/tôi_mê_và_khóc_vì_một_bài_hát_rồi_phát_hiện_nó/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-21T11:58:37+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1przlun</id>
-    <title>Áp lực thế hệ</title>
-    <updated>2025-12-21T06:17:20+00:00</updated>
-    <author>
-      <name>/u/Automatic_Major_2943</name>
-      <uri>https://old.reddit.com/user/Automatic_Major_2943</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1przlun/áp_lực_thế_hệ/"&gt; &lt;img alt="Áp lực thế hệ" src="https://preview.redd.it/hjv6weib2i8g1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=9936d980c616dfafae6a590fb3763d81ae7f01e5" title="Áp lực thế hệ" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Thật sự thì ai cũng bảo thế hệ lứa 8x, 9x, 10x và sau này đều sung sướng hơn thế hệ cha chú trước đây Nó không sai nhưng cũng đi kèm thách thức hơn rất nhiều Khi mà xã hội hiện đại phát triển quá nhanh, con người luôn phải gắng hết sức mà chạy theo vì chỉ cần lỡ hoặc chậm 1 nhịp đã bị thụt lùi, và mất nhiều cơ hội Chưa kể cơ hội cạnh tranh ngày càng cao vì ai cũng được tiếp xúc nền giáo dục tốt, cơ hội việc làm lại ít lại vì ngoài con người còn phải cạnh tranh với cả A.I Nhiều người chỉ có thể cắm đầu chạy, dùng hết sức để chạy, không cho phép mình dừng lại để rồi sau cùng nhìn lại sức khỏe thể chất và tinh thần ảnh hưởng cực nhiều Nhưng nếu dừng lại thì gánh nặng cơm áo gạo tiền lại đè nặng khiến họ thở không nỗi Bản thân mình chưa quá lớn nhưng còn thấy ngộp với sự thay đổi của hiện tại, và tương lai sẽ còn khốc liệt hơn rất nhiều&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Automatic_Major_2943"&gt; /u/Automatic_Major_2943 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/hjv6weib2i8g1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1przlun/áp_lực_thế_hệ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1przlun/áp_lực_thế_hệ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-21T06:17:20+00:00</published>
   </entry>
   <entry>
     <id>t3_1ps02p5</id>
