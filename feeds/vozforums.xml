@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-12-21T05:43:23+00:00</updated>
+  <updated>2025-12-21T05:53:30+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -242,19 +242,6 @@
     <published>2025-12-21T04:57:15+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pry72a</id>
-    <title>Trên 30 vẫn có thể đi làm IT?</title>
-    <updated>2025-12-21T04:57:34+00:00</updated>
-    <author>
-      <name>/u/Queasy-Tradition-940</name>
-      <uri>https://old.reddit.com/user/Queasy-Tradition-940</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Xin Chào mọi ng. Hiện tại em là dhs bên Úc, em vừa hoàn thành xong kì thi đại học. Điểm của em có thể đủ vào ngành Bachelor of Artificial Intelligence của UTS ( một trg chuyên về IT bên Úc ), tuy v anh c em lại khuyên em rành hiện tại ngành này rất cạnh tranh. Gia đình em thì k áp lực lắm về chuyện định cư, nhưng cá nhân em thì muốn được định cư và làm việc tại Úc. Anh chị em thì khuyên là nếu v thì hiện tại tốt nhất cứ học một ngành nào đấy mà dễ dàng ở lại được. Em chọn nhành Teaching Secondary chuyên về môn toán và software engineering ( môn thứ 2 chưa chắc lắm ), tại gì ngành này k phải là dễ được định cư mà nói đúng hơn là nó ít cạnh tranh hơn nhiều so với ngành AI. Nếu như em giỏi và được có PR, sau đấy có quốc tịch thì sau này em vẫn có thể học lại đại học ngành AI, đại họ bên Úc khá cởi mở về chuyện sinh viên 30 tuôti 40 tuổi, thậm chí già hơn. tuy v nếu thế thì nếu mọi thứ diễn ra thuận lợi thì nhanh nhất là 32 tuổi em đi xin việc với 2 tấm bằng, cộng với cả những năm kinh nghiệm vừa qua tự trao dồi và tự học It, tạo thêm các project thì liệu các công ty có còn có thể nhận em k ạ? kiểu em lo rằng sau này các công ty công nghệ k thích chuyển ng lớn tuổi ấy ạ. Mọi ng cho em xin ý kiến ạ, em cảm ơn.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Queasy-Tradition-940"&gt; /u/Queasy-Tradition-940 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pry72a/trên_30_vẫn_có_thể_đi_làm_it/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pry72a/trên_30_vẫn_có_thể_đi_làm_it/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pry72a/trên_30_vẫn_có_thể_đi_làm_it/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-21T04:57:34+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1pryhp0</id>
     <title>Làm sao để commit và cải thiện tiếng anh lên C1</title>
     <updated>2025-12-21T05:13:35+00:00</updated>
@@ -281,6 +268,19 @@
     <published>2025-12-21T03:28:02+00:00</published>
   </entry>
   <entry>
+    <id>t3_1pry72a</id>
+    <title>Trên 30 vẫn có thể đi làm IT?</title>
+    <updated>2025-12-21T04:57:34+00:00</updated>
+    <author>
+      <name>/u/Queasy-Tradition-940</name>
+      <uri>https://old.reddit.com/user/Queasy-Tradition-940</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Xin Chào mọi ng. Hiện tại em là dhs bên Úc, em vừa hoàn thành xong kì thi đại học. Điểm của em có thể đủ vào ngành Bachelor of Artificial Intelligence của UTS ( một trg chuyên về IT bên Úc ), tuy v anh c em lại khuyên em rành hiện tại ngành này rất cạnh tranh. Gia đình em thì k áp lực lắm về chuyện định cư, nhưng cá nhân em thì muốn được định cư và làm việc tại Úc. Anh chị em thì khuyên là nếu v thì hiện tại tốt nhất cứ học một ngành nào đấy mà dễ dàng ở lại được. Em chọn nhành Teaching Secondary chuyên về môn toán và software engineering ( môn thứ 2 chưa chắc lắm ), tại gì ngành này k phải là dễ được định cư mà nói đúng hơn là nó ít cạnh tranh hơn nhiều so với ngành AI. Nếu như em giỏi và được có PR, sau đấy có quốc tịch thì sau này em vẫn có thể học lại đại học ngành AI, đại họ bên Úc khá cởi mở về chuyện sinh viên 30 tuôti 40 tuổi, thậm chí già hơn. tuy v nếu thế thì nếu mọi thứ diễn ra thuận lợi thì nhanh nhất là 32 tuổi em đi xin việc với 2 tấm bằng, cộng với cả những năm kinh nghiệm vừa qua tự trao dồi và tự học It, tạo thêm các project thì liệu các công ty có còn có thể nhận em k ạ? kiểu em lo rằng sau này các công ty công nghệ k thích chuyển ng lớn tuổi ấy ạ. Mọi ng cho em xin ý kiến ạ, em cảm ơn.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Queasy-Tradition-940"&gt; /u/Queasy-Tradition-940 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pry72a/trên_30_vẫn_có_thể_đi_làm_it/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pry72a/trên_30_vẫn_có_thể_đi_làm_it/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pry72a/trên_30_vẫn_có_thể_đi_làm_it/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-21T04:57:34+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1prtvcu</id>
     <title>Học tiếng Anh giao tiếp (Nghiêm túc)</title>
     <updated>2025-12-21T01:09:28+00:00</updated>
@@ -294,19 +294,6 @@
     <published>2025-12-21T01:09:28+00:00</published>
   </entry>
   <entry>
-    <id>t3_1prx7kj</id>
-    <title>Thuốc lá</title>
-    <updated>2025-12-21T04:04:46+00:00</updated>
-    <author>
-      <name>/u/Moonlit_Introvert</name>
-      <uri>https://old.reddit.com/user/Moonlit_Introvert</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Như tiêu đề trên, cho mình nay 26t chưa biết hút thuốc là gì, mà mn cho mình hỏi thật sự hút thuốc có giảm stress ko??? Và nếu mới hút nên hút loại nào cho nhẹ??? &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Moonlit_Introvert"&gt; /u/Moonlit_Introvert &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1prx7kj/thuốc_lá/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1prx7kj/thuốc_lá/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1prx7kj/thuốc_lá/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-21T04:04:46+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1prfx23</id>
     <title>Sau khi nghĩ và trau chuốt tôi đã gửi mail!</title>
     <updated>2025-12-20T14:43:58+00:00</updated>
@@ -318,6 +305,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1prfx23/sau_khi_nghĩ_và_trau_chuốt_tôi_đã_gửi_mail/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-20T14:43:58+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1prx7kj</id>
+    <title>Thuốc lá</title>
+    <updated>2025-12-21T04:04:46+00:00</updated>
+    <author>
+      <name>/u/Moonlit_Introvert</name>
+      <uri>https://old.reddit.com/user/Moonlit_Introvert</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Như tiêu đề trên, cho mình nay 26t chưa biết hút thuốc là gì, mà mn cho mình hỏi thật sự hút thuốc có giảm stress ko??? Và nếu mới hút nên hút loại nào cho nhẹ??? &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Moonlit_Introvert"&gt; /u/Moonlit_Introvert &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1prx7kj/thuốc_lá/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1prx7kj/thuốc_lá/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1prx7kj/thuốc_lá/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-21T04:04:46+00:00</published>
   </entry>
   <entry>
     <id>t3_1prwpni</id>
