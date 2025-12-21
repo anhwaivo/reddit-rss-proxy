@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-12-21T15:39:10+00:00</updated>
+  <updated>2025-12-21T15:50:26+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1ps6tkq</id>
-    <title>Mua máy tính</title>
-    <updated>2025-12-21T13:43:10+00:00</updated>
-    <author>
-      <name>/u/catchyyy_holi</name>
-      <uri>https://old.reddit.com/user/catchyyy_holi</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi các anh chị trong voz, Em vừa tải reddit ạ, em muốn xin tư vấn từ các anh chị nên mua máy tính như nào ạ. Em cần dùng cho học, xử lý dữ liệu bảng biểu như NCKH với làm khoá luận, còn lại vấn đề khác như capcut, excel.,... Em nên mua dòng máy như nào a? Tài chính: &amp;lt;=15 triệu Mong anh chị giúp đỡ ạ. Em cảm ơn ạ. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/catchyyy_holi"&gt; /u/catchyyy_holi &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ps6tkq/mua_máy_tính/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ps6tkq/mua_máy_tính/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ps6tkq/mua_máy_tính/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-21T13:43:10+00:00</published>
-  </entry>
   <entry>
     <id>t3_1ps122f</id>
     <title>Xin ý kiến</title>
@@ -32,19 +19,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ps122f/xin_ý_kiến/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-21T07:46:30+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1prx7kj</id>
-    <title>Thuốc lá</title>
-    <updated>2025-12-21T04:04:46+00:00</updated>
-    <author>
-      <name>/u/Moonlit_Introvert</name>
-      <uri>https://old.reddit.com/user/Moonlit_Introvert</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Như tiêu đề trên, cho mình nay 26t chưa biết hút thuốc là gì, mà mn cho mình hỏi thật sự hút thuốc có giảm stress ko??? Và nếu mới hút nên hút loại nào cho nhẹ??? &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Moonlit_Introvert"&gt; /u/Moonlit_Introvert &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1prx7kj/thuốc_lá/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1prx7kj/thuốc_lá/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1prx7kj/thuốc_lá/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-21T04:04:46+00:00</published>
   </entry>
   <entry>
     <id>t3_1ps1byc</id>
@@ -84,6 +58,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ps3k79/tư_vấn_nên_chọn_phương_án_nào/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-21T10:30:53+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1prx7kj</id>
+    <title>Thuốc lá</title>
+    <updated>2025-12-21T04:04:46+00:00</updated>
+    <author>
+      <name>/u/Moonlit_Introvert</name>
+      <uri>https://old.reddit.com/user/Moonlit_Introvert</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Như tiêu đề trên, cho mình nay 26t chưa biết hút thuốc là gì, mà mn cho mình hỏi thật sự hút thuốc có giảm stress ko??? Và nếu mới hút nên hút loại nào cho nhẹ??? &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Moonlit_Introvert"&gt; /u/Moonlit_Introvert &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1prx7kj/thuốc_lá/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1prx7kj/thuốc_lá/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1prx7kj/thuốc_lá/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-21T04:04:46+00:00</published>
   </entry>
   <entry>
     <id>t3_1ps8tfo</id>
@@ -136,6 +123,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ps4wb2/mqh_vs_bố_mẹ/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-21T11:56:53+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ps9iv3</id>
+    <title>Định hướng nghề nghiệp.</title>
+    <updated>2025-12-21T15:48:35+00:00</updated>
+    <author>
+      <name>/u/OkPomegranate190</name>
+      <uri>https://old.reddit.com/user/OkPomegranate190</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mn ơi tình hình IT lập trình nhúng đi Nhật 1 năm tới khả quan không ạ. Mình sợ Nhật thắc chặt lao động nước ngoài sẽ ảnh hưởng tới khả năng đi Nhật. Hiện mình có 2 năm kn nhúng, JLPT N4 (đang thi N3) ạ.&lt;/p&gt; &lt;p&gt;Mn ai có kinh nghiệm cmt giúp mình với ại&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/OkPomegranate190"&gt; /u/OkPomegranate190 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ps9iv3/định_hướng_nghề_nghiệp/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ps9iv3/định_hướng_nghề_nghiệp/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ps9iv3/định_hướng_nghề_nghiệp/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-21T15:48:35+00:00</published>
   </entry>
   <entry>
     <id>t3_1prfx23</id>
@@ -242,19 +242,6 @@
     <published>2025-12-21T03:38:04+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ps4zbz</id>
-    <title>Thắc mắc</title>
-    <updated>2025-12-21T12:01:44+00:00</updated>
-    <author>
-      <name>/u/Extension_Cicada_530</name>
-      <uri>https://old.reddit.com/user/Extension_Cicada_530</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1ps4zbz/thắc_mắc/"&gt; &lt;img alt="Thắc mắc" src="https://preview.redd.it/xlamixerrj8g1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=4ba49cc076b94413ad9081124df2711845111db8" title="Thắc mắc" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các bác cho mình hỏi chiếc xe trong hình là real hay fake thế, có thể tạo dáng chụp up mxh mà không vi phạm gì sao?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Extension_Cicada_530"&gt; /u/Extension_Cicada_530 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/xlamixerrj8g1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ps4zbz/thắc_mắc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ps4zbz/thắc_mắc/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-21T12:01:44+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1ps2wyy</id>
     <title>anh em chọn một số bất kỳ, và tui sẽ pick một bài hát từ playlist nhạc chill của tui trên Spotify</title>
     <updated>2025-12-21T09:49:02+00:00</updated>
@@ -266,6 +253,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ps2wyy/anh_em_chọn_một_số_bất_kỳ_và_tui_sẽ_pick_một_bài/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-21T09:49:02+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ps4zbz</id>
+    <title>Thắc mắc</title>
+    <updated>2025-12-21T12:01:44+00:00</updated>
+    <author>
+      <name>/u/Extension_Cicada_530</name>
+      <uri>https://old.reddit.com/user/Extension_Cicada_530</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1ps4zbz/thắc_mắc/"&gt; &lt;img alt="Thắc mắc" src="https://preview.redd.it/xlamixerrj8g1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=4ba49cc076b94413ad9081124df2711845111db8" title="Thắc mắc" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các bác cho mình hỏi chiếc xe trong hình là real hay fake thế, có thể tạo dáng chụp up mxh mà không vi phạm gì sao?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Extension_Cicada_530"&gt; /u/Extension_Cicada_530 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/xlamixerrj8g1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ps4zbz/thắc_mắc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ps4zbz/thắc_mắc/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-21T12:01:44+00:00</published>
   </entry>
   <entry>
     <id>t3_1ps5g84</id>
@@ -294,19 +294,6 @@
     <published>2025-12-21T10:35:06+00:00</published>
   </entry>
   <entry>
-    <id>t3_1przlun</id>
-    <title>Áp lực thế hệ</title>
-    <updated>2025-12-21T06:17:20+00:00</updated>
-    <author>
-      <name>/u/Automatic_Major_2943</name>
-      <uri>https://old.reddit.com/user/Automatic_Major_2943</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1przlun/áp_lực_thế_hệ/"&gt; &lt;img alt="Áp lực thế hệ" src="https://preview.redd.it/hjv6weib2i8g1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=9936d980c616dfafae6a590fb3763d81ae7f01e5" title="Áp lực thế hệ" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Thật sự thì ai cũng bảo thế hệ lứa 8x, 9x, 10x và sau này đều sung sướng hơn thế hệ cha chú trước đây Nó không sai nhưng cũng đi kèm thách thức hơn rất nhiều Khi mà xã hội hiện đại phát triển quá nhanh, con người luôn phải gắng hết sức mà chạy theo vì chỉ cần lỡ hoặc chậm 1 nhịp đã bị thụt lùi, và mất nhiều cơ hội Chưa kể cơ hội cạnh tranh ngày càng cao vì ai cũng được tiếp xúc nền giáo dục tốt, cơ hội việc làm lại ít lại vì ngoài con người còn phải cạnh tranh với cả A.I Nhiều người chỉ có thể cắm đầu chạy, dùng hết sức để chạy, không cho phép mình dừng lại để rồi sau cùng nhìn lại sức khỏe thể chất và tinh thần ảnh hưởng cực nhiều Nhưng nếu dừng lại thì gánh nặng cơm áo gạo tiền lại đè nặng khiến họ thở không nỗi Bản thân mình chưa quá lớn nhưng còn thấy ngộp với sự thay đổi của hiện tại, và tương lai sẽ còn khốc liệt hơn rất nhiều&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Automatic_Major_2943"&gt; /u/Automatic_Major_2943 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/hjv6weib2i8g1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1przlun/áp_lực_thế_hệ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1przlun/áp_lực_thế_hệ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-21T06:17:20+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1ps4xcc</id>
     <title>Tôi mê và khóc vì một bài hát rồi phát hiện nó nhạc AI các ông à</title>
     <updated>2025-12-21T11:58:37+00:00</updated>
@@ -318,6 +305,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ps4xcc/tôi_mê_và_khóc_vì_một_bài_hát_rồi_phát_hiện_nó/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-21T11:58:37+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1przlun</id>
+    <title>Áp lực thế hệ</title>
+    <updated>2025-12-21T06:17:20+00:00</updated>
+    <author>
+      <name>/u/Automatic_Major_2943</name>
+      <uri>https://old.reddit.com/user/Automatic_Major_2943</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1przlun/áp_lực_thế_hệ/"&gt; &lt;img alt="Áp lực thế hệ" src="https://preview.redd.it/hjv6weib2i8g1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=9936d980c616dfafae6a590fb3763d81ae7f01e5" title="Áp lực thế hệ" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Thật sự thì ai cũng bảo thế hệ lứa 8x, 9x, 10x và sau này đều sung sướng hơn thế hệ cha chú trước đây Nó không sai nhưng cũng đi kèm thách thức hơn rất nhiều Khi mà xã hội hiện đại phát triển quá nhanh, con người luôn phải gắng hết sức mà chạy theo vì chỉ cần lỡ hoặc chậm 1 nhịp đã bị thụt lùi, và mất nhiều cơ hội Chưa kể cơ hội cạnh tranh ngày càng cao vì ai cũng được tiếp xúc nền giáo dục tốt, cơ hội việc làm lại ít lại vì ngoài con người còn phải cạnh tranh với cả A.I Nhiều người chỉ có thể cắm đầu chạy, dùng hết sức để chạy, không cho phép mình dừng lại để rồi sau cùng nhìn lại sức khỏe thể chất và tinh thần ảnh hưởng cực nhiều Nhưng nếu dừng lại thì gánh nặng cơm áo gạo tiền lại đè nặng khiến họ thở không nỗi Bản thân mình chưa quá lớn nhưng còn thấy ngộp với sự thay đổi của hiện tại, và tương lai sẽ còn khốc liệt hơn rất nhiều&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Automatic_Major_2943"&gt; /u/Automatic_Major_2943 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/hjv6weib2i8g1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1przlun/áp_lực_thế_hệ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1przlun/áp_lực_thế_hệ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-21T06:17:20+00:00</published>
   </entry>
   <entry>
     <id>t3_1ps02p5</id>
