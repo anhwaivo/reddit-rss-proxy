@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-12-23T17:54:23+00:00</updated>
+  <updated>2025-12-23T18:29:44+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1ptx5xy</id>
-    <title>E-Book Tiếng Việt Trên Kindle</title>
-    <updated>2025-12-23T15:46:39+00:00</updated>
-    <author>
-      <name>/u/Brastiano</name>
-      <uri>https://old.reddit.com/user/Brastiano</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hello mọi người!&lt;/p&gt; &lt;p&gt;Mình muốn hỏi là ở đây có ai rành về Kindle không ạ? Mình đang ở Mỹ và có thử tìm sách tiếng Việt của tác giả Việt trên Amazon (không phải sách dịch) mà thấy khá ít, không rõ là do mình tìm chưa đúng từ khóa hay là nguồn thật sự hiếm nữa.&lt;/p&gt; &lt;p&gt;Nên mình muốn hỏi xem mọi người thường mua mấy đầu sách này ở đâu. Mình muốn mua bản chính thức để đọc trên Kindle luôn, chứ không muốn tải file lẻ trên mạng rồi chép thủ công vào máy vì sẽ tiện cho việc đồng bộ dữ liệu nếu có đổi thiết bị sau này.&lt;/p&gt; &lt;p&gt;Cảm ơn mọi người nhiều!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Brastiano"&gt; /u/Brastiano &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ptx5xy/ebook_tiếng_việt_trên_kindle/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ptx5xy/ebook_tiếng_việt_trên_kindle/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ptx5xy/ebook_tiếng_việt_trên_kindle/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-23T15:46:39+00:00</published>
-  </entry>
   <entry>
     <id>t3_1pty92j</id>
     <title>Xin tư vấn đi dây mạng Internet</title>
@@ -86,17 +73,17 @@
     <published>2025-12-23T09:57:03+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ptzrxs</id>
-    <title>Cousin</title>
-    <updated>2025-12-23T17:29:43+00:00</updated>
+    <id>t3_1pu0rxt</id>
+    <title>Mới chuyển tới sống tại Romania</title>
+    <updated>2025-12-23T18:08:35+00:00</updated>
     <author>
-      <name>/u/Dixemaygaytainan</name>
-      <uri>https://old.reddit.com/user/Dixemaygaytainan</uri>
+      <name>/u/LighterZ227</name>
+      <uri>https://old.reddit.com/user/LighterZ227</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tôi vừa hẹn gặp thằng anh họ, 2 thằng ngồi trà đá bên đường mà nói chuyện chia sẻ. T với nó là sinh viên đại học, nó cách t 2 tuổi. Nó kể đã từng vọc code từ năm lớp 8, cái tuổi mà t còn đang mơ con gái nhà khác. Lên cấp 3 may mắn chung trường, mà do có nền tảng công nghệ từ trước nên nó bắt đầu học về Arduino rồi Raspberry, vv từ đó được chọn đi thi Khkt và cũng có giải. Còn có cả loại máy cảm biến đo sóng não để ra lệnh bằng ý nghĩ,... Cuối c3 nó bắt đầu viết apply job trên mạng, nó bảo đã từng học gì hay viết gì hoặc có kinh nghiệm viết cái gì ( thêm cả viết Web và Mobile và 1 chút Bitcoin) trên CV rồi gửi cho 1 đống cty khác nhau và đc 1 chỗ nhận rồi làm remote với lương cũng khá so với 1 đứa hs c3. Ra đh nó tiếp tục làm nửa năm rồi chuyển cty khác part time với công việc tương tự và lương tốt. Nó còn bảo viết cả Blockchain hay gì đấy (xl vì mảng này t không quen và cũng chỉ được nghe kể) để đưa đi mấy cuộc thi và trúng giải, đi team hnhu là 6k $ còn thi 1m thì 1k $. Sau đó nó tập hợp đc 1 team cùng ngành đh rồi bắt đầu phát triển cái đó. Cả quá trình tự học, tự tìm hiểu tự trải nghiệm đó nó là thật vì t biết tính thằng này từ nhỏ. T cũng bất ngờ vì những cái nó bắt đầu rất cơ bản: như kiểu lệnh tính tổng 1-n rồi mấy cái thuật toán hướng đối tượng các thứ. Chỉ là quá trình tự học của nó kéo dài 6 năm và vẫn đang pt. Còn t thì cũng đậu vào trường công nghệ như nó nma t nhận ra năm đầu t học code nó đã chật vật rồi, chắc vì áp lực con điểm không như xuất phát của thằng anh t là từ c2. T chỉ muốn hỏi là: liệu t có nên cố gắng hơn để phát triển theo hướng nó đã đi không, chỉ vì cái t thiếu là kinh nghiệm và trải nghiệm, hay là t đã không hợp với công nghệ và nên chuyển sang các phần khác song song với việc học đh? Và cái quá trình mà nó đã trải qua liệu có ai đã làm được như vậy chưa, tôi cần lời khuyên.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Dixemaygaytainan"&gt; /u/Dixemaygaytainan &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ptzrxs/cousin/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ptzrxs/cousin/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ptzrxs/cousin/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào anh em, mình hiện đang sống ở Bucharest, muốn tìm 1 phòng tập gym giá cả hợp lý, anh em nào biết chỉ giúp mình ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/LighterZ227"&gt; /u/LighterZ227 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pu0rxt/mới_chuyển_tới_sống_tại_romania/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pu0rxt/mới_chuyển_tới_sống_tại_romania/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pu0rxt/mới_chuyển_tới_sống_tại_romania/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-23T17:29:43+00:00</published>
+    <published>2025-12-23T18:08:35+00:00</published>
   </entry>
   <entry>
     <id>t3_1pttabz</id>
@@ -112,19 +99,6 @@
     <published>2025-12-23T12:57:31+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ptx1x0</id>
-    <title>làm sao để quên người yêu cũ</title>
-    <updated>2025-12-23T15:42:06+00:00</updated>
-    <author>
-      <name>/u/Delicious-Fly6801</name>
-      <uri>https://old.reddit.com/user/Delicious-Fly6801</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;em đã mệt mõi 3 tháng rồi. cho em lời khuyên ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Delicious-Fly6801"&gt; /u/Delicious-Fly6801 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ptx1x0/làm_sao_để_quên_người_yêu_cũ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ptx1x0/làm_sao_để_quên_người_yêu_cũ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ptx1x0/làm_sao_để_quên_người_yêu_cũ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-23T15:42:06+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1pto96g</id>
     <title>Nên học ngoại ngữ thứ 2 là tiếng Trung Quốc hay tiếng Nhật cho ngành IT</title>
     <updated>2025-12-23T07:51:34+00:00</updated>
@@ -136,19 +110,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pto96g/nên_học_ngoại_ngữ_thứ_2_là_tiếng_trung_quốc_hay/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-23T07:51:34+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1ptyqup</id>
-    <title>Mấy thằng bỏ vợ con để tán gái tay vịn bây giờ sao rồi ạ 😆</title>
-    <updated>2025-12-23T16:49:16+00:00</updated>
-    <author>
-      <name>/u/Chemical-Heron5165</name>
-      <uri>https://old.reddit.com/user/Chemical-Heron5165</uri>
-    </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Chemical-Heron5165"&gt; /u/Chemical-Heron5165 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ptyqup/mấy_thằng_bỏ_vợ_con_để_tán_gái_tay_vịn_bây_giờ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ptyqup/mấy_thằng_bỏ_vợ_con_để_tán_gái_tay_vịn_bây_giờ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ptyqup/mấy_thằng_bỏ_vợ_con_để_tán_gái_tay_vịn_bây_giờ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-23T16:49:16+00:00</published>
   </entry>
   <entry>
     <id>t3_1pttpdh</id>
@@ -164,17 +125,17 @@
     <published>2025-12-23T13:17:50+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ptzj3t</id>
-    <title>Gu chọn bạn nữ của các bác</title>
-    <updated>2025-12-23T17:20:01+00:00</updated>
+    <id>t3_1ptzrxs</id>
+    <title>Cousin</title>
+    <updated>2025-12-23T17:29:43+00:00</updated>
     <author>
-      <name>/u/TheSobermee</name>
-      <uri>https://old.reddit.com/user/TheSobermee</uri>
+      <name>/u/Dixemaygaytainan</name>
+      <uri>https://old.reddit.com/user/Dixemaygaytainan</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Là nữ nhưng em thắc mắc là tầm 30 tuổi thì các bác thường thích những bạn nữ có style xin xắn dễ thương hay thích các bạn có style gợi cảm hơn ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/TheSobermee"&gt; /u/TheSobermee &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ptzj3t/gu_chọn_bạn_nữ_của_các_bác/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ptzj3t/gu_chọn_bạn_nữ_của_các_bác/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ptzj3t/gu_chọn_bạn_nữ_của_các_bác/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tôi vừa hẹn gặp thằng anh họ, 2 thằng ngồi trà đá bên đường mà nói chuyện chia sẻ. T với nó là sinh viên đại học, nó cách t 2 tuổi. Nó kể đã từng vọc code từ năm lớp 8, cái tuổi mà t còn đang mơ con gái nhà khác. Lên cấp 3 may mắn chung trường, mà do có nền tảng công nghệ từ trước nên nó bắt đầu học về Arduino rồi Raspberry, vv từ đó được chọn đi thi Khkt và cũng có giải. Còn có cả loại máy cảm biến đo sóng não để ra lệnh bằng ý nghĩ,... Cuối c3 nó bắt đầu viết apply job trên mạng, nó bảo đã từng học gì hay viết gì hoặc có kinh nghiệm viết cái gì ( thêm cả viết Web và Mobile và 1 chút Bitcoin) trên CV rồi gửi cho 1 đống cty khác nhau và đc 1 chỗ nhận rồi làm remote với lương cũng khá so với 1 đứa hs c3. Ra đh nó tiếp tục làm nửa năm rồi chuyển cty khác part time với công việc tương tự và lương tốt. Nó còn bảo viết cả Blockchain hay gì đấy (xl vì mảng này t không quen và cũng chỉ được nghe kể) để đưa đi mấy cuộc thi và trúng giải, đi team hnhu là 6k $ còn thi 1m thì 1k $. Sau đó nó tập hợp đc 1 team cùng ngành đh rồi bắt đầu phát triển cái đó. Cả quá trình tự học, tự tìm hiểu tự trải nghiệm đó nó là thật vì t biết tính thằng này từ nhỏ. T cũng bất ngờ vì những cái nó bắt đầu rất cơ bản: như kiểu lệnh tính tổng 1-n rồi mấy cái thuật toán hướng đối tượng các thứ. Chỉ là quá trình tự học của nó kéo dài 6 năm và vẫn đang pt. Còn t thì cũng đậu vào trường công nghệ như nó nma t nhận ra năm đầu t học code nó đã chật vật rồi, chắc vì áp lực con điểm không như xuất phát của thằng anh t là từ c2. T chỉ muốn hỏi là: liệu t có nên cố gắng hơn để phát triển theo hướng nó đã đi không, chỉ vì cái t thiếu là kinh nghiệm và trải nghiệm, hay là t đã không hợp với công nghệ và nên chuyển sang các phần khác song song với việc học đh? Và cái quá trình mà nó đã trải qua liệu có ai đã làm được như vậy chưa, tôi cần lời khuyên.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Dixemaygaytainan"&gt; /u/Dixemaygaytainan &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ptzrxs/cousin/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ptzrxs/cousin/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ptzrxs/cousin/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-23T17:20:01+00:00</published>
+    <published>2025-12-23T17:29:43+00:00</published>
   </entry>
   <entry>
     <id>t3_1ptgcir</id>
@@ -203,17 +164,17 @@
     <published>2025-12-23T14:56:36+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ptv66n</id>
-    <title>[27 tuổi làm sao để sống có chính kiến và mạnh mẽ hơn]</title>
-    <updated>2025-12-23T14:23:36+00:00</updated>
+    <id>t3_1ptx1x0</id>
+    <title>làm sao để quên người yêu cũ</title>
+    <updated>2025-12-23T15:42:06+00:00</updated>
     <author>
-      <name>/u/Jasmine_0624</name>
-      <uri>https://old.reddit.com/user/Jasmine_0624</uri>
+      <name>/u/Delicious-Fly6801</name>
+      <uri>https://old.reddit.com/user/Delicious-Fly6801</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình là nữ, 27 tuổi, tính tình hoà đồng, vui vẻ nhưng để mà thân thì thực sự rất ít người mình có thể chia sẻ hết được. Mình cũng cảm thấy tính cách mìn có phần trẻ con và hơi non nớt, không biết cách giao tiếp nhiều, thiếu chính kiến. Trong công việc thì phong độ không ổn định, lúc làm tốt lúc không. &lt;/p&gt; &lt;p&gt;MN có thể chia sẻ cách để nội tâm ổn định, vững vàng hơn và có cái chất riêng của mình hơn được không ạ (đọc sách hay có thói quen gì ạ?)&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Jasmine_0624"&gt; /u/Jasmine_0624 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ptv66n/27_tuổi_làm_sao_để_sống_có_chính_kiến_và_mạnh_mẽ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ptv66n/27_tuổi_làm_sao_để_sống_có_chính_kiến_và_mạnh_mẽ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ptv66n/27_tuổi_làm_sao_để_sống_có_chính_kiến_và_mạnh_mẽ/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;em đã mệt mõi 3 tháng rồi. cho em lời khuyên ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Delicious-Fly6801"&gt; /u/Delicious-Fly6801 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ptx1x0/làm_sao_để_quên_người_yêu_cũ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ptx1x0/làm_sao_để_quên_người_yêu_cũ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ptx1x0/làm_sao_để_quên_người_yêu_cũ/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-23T14:23:36+00:00</published>
+    <published>2025-12-23T15:42:06+00:00</published>
   </entry>
   <entry>
     <id>t3_1ptx488</id>
@@ -229,17 +190,30 @@
     <published>2025-12-23T15:44:45+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ptuc5m</id>
-    <title>Tôi là một nhà sáng lập người Việt Nam đang phát triển công cụ nhận dạng ký tự quang học (OCR) chuyển đổi PDF sang Excel — chia sẻ hành trình của chúng tôi và hy vọng nhận được phản hồi.</title>
-    <updated>2025-12-23T13:47:06+00:00</updated>
+    <id>t3_1ptv66n</id>
+    <title>[27 tuổi làm sao để sống có chính kiến và mạnh mẽ hơn]</title>
+    <updated>2025-12-23T14:23:36+00:00</updated>
     <author>
-      <name>/u/BeneficialIncome7137</name>
-      <uri>https://old.reddit.com/user/BeneficialIncome7137</uri>
+      <name>/u/Jasmine_0624</name>
+      <uri>https://old.reddit.com/user/Jasmine_0624</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người,&lt;/p&gt; &lt;p&gt;Tôi là nhà sáng lập đến từ Việt Nam, hiện đang làm việc tại một công ty khởi nghiệp nhỏ tập trung vào nhận dạng ký tự quang học (OCR) tài liệu — cụ thể là chuyển đổi các tệp PDF thành dữ liệu Excel có cấu trúc.&lt;/p&gt; &lt;p&gt;Dự án này bắt đầu từ một sự khó chịu rất đơn giản. Ở nhiều công ty, đặc biệt là các doanh nghiệp vừa và nhỏ, rất nhiều dữ liệu quan trọng vẫn nằm trong các tệp PDF. Việc trích xuất dữ liệu đó thủ công vào Excel rất tốn thời gian, dễ xảy ra lỗi và thực sự rất mệt mỏi.&lt;/p&gt; &lt;p&gt;Chúng tôi quyết định xây dựng một công cụ có thể giúp tự động hóa quy trình này — không phải với mục tiêu xây dựng một “AI hoàn hảo”, mà là một thứ gì đó thiết thực: nhanh, đủ chính xác và dễ sử dụng cho các tài liệu kinh doanh thực tế.&lt;/p&gt; &lt;p&gt;Giống như nhiều công ty khởi nghiệp giai đoạn đầu, hành trình không hề dễ dàng. Chúng tôi đã dành rất nhiều thời gian để xử lý các tệp PDF lộn xộn, bố cục không nhất quán và các trường hợp ngoại lệ mà chúng tôi không ngờ tới. Mỗi cải tiến đều đến từ thử nghiệm, sai sót và phản hồi của người dùng.&lt;/p&gt; &lt;p&gt;Tôi chia sẻ điều này ở đây không phải để quảng bá rầm rộ, mà để minh bạch và học hỏi. Nếu ai ở đây có kinh nghiệm về OCR, xử lý tài liệu, hoặc thậm chí chỉ là làm việc với PDF trong công việc, tôi rất mong nhận được ý kiến ​​đóng góp của các bạn.&lt;/p&gt; &lt;p&gt;Nếu bạn tò mò, đây là những gì chúng tôi đang xây dựng: &lt;a href="https://pdftoexcelconverter.ai/?utm_source=reddit&amp;amp;utm_medium=social&amp;amp;utm_campaign=reddit&amp;amp;utm_id=reddit"&gt;link trải nghiệm&lt;/a&gt; &lt;/p&gt; &lt;p&gt;Mọi phản hồi — về kỹ thuật, sản phẩm, hoặc thậm chí là phê bình — đều rất có ý nghĩa. Và nếu bạn đến từ Việt Nam, sự ủng hộ của bạn thực sự là nguồn động viên lớn lao cho những nhóm nhỏ như chúng tôi tiếp tục nỗ lực.&lt;/p&gt; &lt;p&gt;Cảm ơn bạn đã đọc.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/BeneficialIncome7137"&gt; /u/BeneficialIncome7137 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ptuc5m/tôi_là_một_nhà_sáng_lập_người_việt_nam_đang_phát/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ptuc5m/tôi_là_một_nhà_sáng_lập_người_việt_nam_đang_phát/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ptuc5m/tôi_là_một_nhà_sáng_lập_người_việt_nam_đang_phát/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình là nữ, 27 tuổi, tính tình hoà đồng, vui vẻ nhưng để mà thân thì thực sự rất ít người mình có thể chia sẻ hết được. Mình cũng cảm thấy tính cách mìn có phần trẻ con và hơi non nớt, không biết cách giao tiếp nhiều, thiếu chính kiến. Trong công việc thì phong độ không ổn định, lúc làm tốt lúc không. &lt;/p&gt; &lt;p&gt;MN có thể chia sẻ cách để nội tâm ổn định, vững vàng hơn và có cái chất riêng của mình hơn được không ạ (đọc sách hay có thói quen gì ạ?)&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Jasmine_0624"&gt; /u/Jasmine_0624 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ptv66n/27_tuổi_làm_sao_để_sống_có_chính_kiến_và_mạnh_mẽ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ptv66n/27_tuổi_làm_sao_để_sống_có_chính_kiến_và_mạnh_mẽ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ptv66n/27_tuổi_làm_sao_để_sống_có_chính_kiến_và_mạnh_mẽ/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-23T13:47:06+00:00</published>
+    <published>2025-12-23T14:23:36+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ptyqup</id>
+    <title>Mấy thằng bỏ vợ con để tán gái tay vịn bây giờ sao rồi ạ 😆</title>
+    <updated>2025-12-23T16:49:16+00:00</updated>
+    <author>
+      <name>/u/Chemical-Heron5165</name>
+      <uri>https://old.reddit.com/user/Chemical-Heron5165</uri>
+    </author>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Chemical-Heron5165"&gt; /u/Chemical-Heron5165 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ptyqup/mấy_thằng_bỏ_vợ_con_để_tán_gái_tay_vịn_bây_giờ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ptyqup/mấy_thằng_bỏ_vợ_con_để_tán_gái_tay_vịn_bây_giờ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ptyqup/mấy_thằng_bỏ_vợ_con_để_tán_gái_tay_vịn_bây_giờ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-23T16:49:16+00:00</published>
   </entry>
   <entry>
     <id>t3_1ptsgio</id>
@@ -255,6 +229,19 @@
     <published>2025-12-23T12:14:08+00:00</published>
   </entry>
   <entry>
+    <id>t3_1ptzj3t</id>
+    <title>Gu chọn bạn nữ của các bác</title>
+    <updated>2025-12-23T17:20:01+00:00</updated>
+    <author>
+      <name>/u/TheSobermee</name>
+      <uri>https://old.reddit.com/user/TheSobermee</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Là nữ nhưng em thắc mắc là tầm 30 tuổi thì các bác thường thích những bạn nữ có style xin xắn dễ thương hay thích các bạn có style gợi cảm hơn ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/TheSobermee"&gt; /u/TheSobermee &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ptzj3t/gu_chọn_bạn_nữ_của_các_bác/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ptzj3t/gu_chọn_bạn_nữ_của_các_bác/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ptzj3t/gu_chọn_bạn_nữ_của_các_bác/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-23T17:20:01+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1ptn4dp</id>
     <title>27 tuổi các bác để được bao nhiêu tiền tiết kiêm?</title>
     <updated>2025-12-23T06:42:01+00:00</updated>
@@ -266,6 +253,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ptn4dp/27_tuổi_các_bác_để_được_bao_nhiêu_tiền_tiết_kiêm/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-23T06:42:01+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ptuc5m</id>
+    <title>Tôi là một nhà sáng lập người Việt Nam đang phát triển công cụ nhận dạng ký tự quang học (OCR) chuyển đổi PDF sang Excel — chia sẻ hành trình của chúng tôi và hy vọng nhận được phản hồi.</title>
+    <updated>2025-12-23T13:47:06+00:00</updated>
+    <author>
+      <name>/u/BeneficialIncome7137</name>
+      <uri>https://old.reddit.com/user/BeneficialIncome7137</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người,&lt;/p&gt; &lt;p&gt;Tôi là nhà sáng lập đến từ Việt Nam, hiện đang làm việc tại một công ty khởi nghiệp nhỏ tập trung vào nhận dạng ký tự quang học (OCR) tài liệu — cụ thể là chuyển đổi các tệp PDF thành dữ liệu Excel có cấu trúc.&lt;/p&gt; &lt;p&gt;Dự án này bắt đầu từ một sự khó chịu rất đơn giản. Ở nhiều công ty, đặc biệt là các doanh nghiệp vừa và nhỏ, rất nhiều dữ liệu quan trọng vẫn nằm trong các tệp PDF. Việc trích xuất dữ liệu đó thủ công vào Excel rất tốn thời gian, dễ xảy ra lỗi và thực sự rất mệt mỏi.&lt;/p&gt; &lt;p&gt;Chúng tôi quyết định xây dựng một công cụ có thể giúp tự động hóa quy trình này — không phải với mục tiêu xây dựng một “AI hoàn hảo”, mà là một thứ gì đó thiết thực: nhanh, đủ chính xác và dễ sử dụng cho các tài liệu kinh doanh thực tế.&lt;/p&gt; &lt;p&gt;Giống như nhiều công ty khởi nghiệp giai đoạn đầu, hành trình không hề dễ dàng. Chúng tôi đã dành rất nhiều thời gian để xử lý các tệp PDF lộn xộn, bố cục không nhất quán và các trường hợp ngoại lệ mà chúng tôi không ngờ tới. Mỗi cải tiến đều đến từ thử nghiệm, sai sót và phản hồi của người dùng.&lt;/p&gt; &lt;p&gt;Tôi chia sẻ điều này ở đây không phải để quảng bá rầm rộ, mà để minh bạch và học hỏi. Nếu ai ở đây có kinh nghiệm về OCR, xử lý tài liệu, hoặc thậm chí chỉ là làm việc với PDF trong công việc, tôi rất mong nhận được ý kiến ​​đóng góp của các bạn.&lt;/p&gt; &lt;p&gt;Nếu bạn tò mò, đây là những gì chúng tôi đang xây dựng: &lt;a href="https://pdftoexcelconverter.ai/?utm_source=reddit&amp;amp;utm_medium=social&amp;amp;utm_campaign=reddit&amp;amp;utm_id=reddit"&gt;link trải nghiệm&lt;/a&gt; &lt;/p&gt; &lt;p&gt;Mọi phản hồi — về kỹ thuật, sản phẩm, hoặc thậm chí là phê bình — đều rất có ý nghĩa. Và nếu bạn đến từ Việt Nam, sự ủng hộ của bạn thực sự là nguồn động viên lớn lao cho những nhóm nhỏ như chúng tôi tiếp tục nỗ lực.&lt;/p&gt; &lt;p&gt;Cảm ơn bạn đã đọc.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/BeneficialIncome7137"&gt; /u/BeneficialIncome7137 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ptuc5m/tôi_là_một_nhà_sáng_lập_người_việt_nam_đang_phát/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ptuc5m/tôi_là_một_nhà_sáng_lập_người_việt_nam_đang_phát/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ptuc5m/tôi_là_một_nhà_sáng_lập_người_việt_nam_đang_phát/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-23T13:47:06+00:00</published>
   </entry>
   <entry>
     <id>t3_1ptlftg</id>
