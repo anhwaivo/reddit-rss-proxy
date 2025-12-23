@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-12-23T06:32:46+00:00</updated>
+  <updated>2025-12-23T07:01:16+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1psv0nl</id>
-    <title>Học ngoại ngữ gì để khỏi thất nghiệp?</title>
-    <updated>2025-12-22T09:03:34+00:00</updated>
-    <author>
-      <name>/u/Happy_Pumpkin_4372</name>
-      <uri>https://old.reddit.com/user/Happy_Pumpkin_4372</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình thì không thất nghiệp nhưng nghe nhiều người hay than là VN trên 30 là tuổi &amp;quot;nghỉ hưu&amp;quot;, đi xin việc ít khi được nhận trừ các công việc đặc thù&lt;/p&gt; &lt;p&gt;Thấy mn hay truyền tai nhau trên 30 muốn có công việc ổn phải có ngoại ngữ.&lt;/p&gt; &lt;p&gt;Nên nay e mạn phép lên đây hỏi muốn có công việc tốt thì nên học ngoại ngữ nào, cần chuẩn bị gì nếu nhỡ trên 30 thất nghiệp ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Happy_Pumpkin_4372"&gt; /u/Happy_Pumpkin_4372 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1psv0nl/học_ngoại_ngữ_gì_để_khỏi_thất_nghiệp/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1psv0nl/học_ngoại_ngữ_gì_để_khỏi_thất_nghiệp/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1psv0nl/học_ngoại_ngữ_gì_để_khỏi_thất_nghiệp/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-22T09:03:34+00:00</published>
-  </entry>
   <entry>
     <id>t3_1ptg3fs</id>
     <title>LPT Request: Bị ngọng khi đi phỏng vấn TTS</title>
@@ -45,6 +32,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pt58l4/em_đang_cảm_thấy_bế_tắc/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-22T17:20:56+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ptleci</id>
+    <title>Nếu đeo tai nghe cứ bị rớt hoài thì có lợi ích gì không?</title>
+    <updated>2025-12-23T05:05:31+00:00</updated>
+    <author>
+      <name>/u/No_Contact3485</name>
+      <uri>https://old.reddit.com/user/No_Contact3485</uri>
+    </author>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/No_Contact3485"&gt; /u/No_Contact3485 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ptleci/nếu_đeo_tai_nghe_cứ_bị_rớt_hoài_thì_có_lợi_ích_gì/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ptleci/nếu_đeo_tai_nghe_cứ_bị_rớt_hoài_thì_có_lợi_ích_gì/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ptleci/nếu_đeo_tai_nghe_cứ_bị_rớt_hoài_thì_có_lợi_ích_gì/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-23T05:05:31+00:00</published>
   </entry>
   <entry>
     <id>t3_1pt6kwo</id>
@@ -136,19 +136,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ptkvfp/không_lụy_tình_nữa_xin_tips_học_tiếng_anh/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-23T04:37:57+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1ptleci</id>
-    <title>Nếu đeo tai nghe cứ bị rớt hoài thì có lợi ích gì không?</title>
-    <updated>2025-12-23T05:05:31+00:00</updated>
-    <author>
-      <name>/u/No_Contact3485</name>
-      <uri>https://old.reddit.com/user/No_Contact3485</uri>
-    </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/No_Contact3485"&gt; /u/No_Contact3485 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ptleci/nếu_đeo_tai_nghe_cứ_bị_rớt_hoài_thì_có_lợi_ích_gì/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ptleci/nếu_đeo_tai_nghe_cứ_bị_rớt_hoài_thì_có_lợi_ích_gì/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ptleci/nếu_đeo_tai_nghe_cứ_bị_rớt_hoài_thì_có_lợi_ích_gì/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-23T05:05:31+00:00</published>
   </entry>
   <entry>
     <id>t3_1pswubf</id>
@@ -266,6 +253,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ptl4os/thoát_nvqs_khó_lắm_à/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-23T04:51:28+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ptn4dp</id>
+    <title>27 tuổi các bác để được bao nhiêu tiền tiết kiêm?</title>
+    <updated>2025-12-23T06:42:01+00:00</updated>
+    <author>
+      <name>/u/Main-Trade556</name>
+      <uri>https://old.reddit.com/user/Main-Trade556</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Cuối năm nghĩ lại thấy buồn quá, nói thì vô lý nhưng mà lương em các năm khá cao, 2 năm ngoái là 30-40 net, cuối năm ngoái đã trả hết nợ 300tr, năm 2025 coi như ko nợ nần gì nữa, tháng 50 net mà chs giờ tổng kết thì thấy chỉ để được 200tr. Ngoài ra thì ko có tài sản nào khác, nghĩ lại thấy hoảng quá các bác. Ko hiểu tiền đi đâu hết, em là nữ ạ, em thắc mắc các anh/chị em tầm tuổi này để đc bao nhiêu tiền vậy ạ :( &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Main-Trade556"&gt; /u/Main-Trade556 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ptn4dp/27_tuổi_các_bác_để_được_bao_nhiêu_tiền_tiết_kiêm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ptn4dp/27_tuổi_các_bác_để_được_bao_nhiêu_tiền_tiết_kiêm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ptn4dp/27_tuổi_các_bác_để_được_bao_nhiêu_tiền_tiết_kiêm/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-23T06:42:01+00:00</published>
   </entry>
   <entry>
     <id>t3_1pt1fzm</id>
