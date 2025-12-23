@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-12-23T22:18:54+00:00</updated>
+  <updated>2025-12-23T22:42:37+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -151,6 +151,32 @@
     <published>2025-12-23T15:42:06+00:00</published>
   </entry>
   <entry>
+    <id>t3_1ptx488</id>
+    <title>Có nên chạy Be?</title>
+    <updated>2025-12-23T15:44:45+00:00</updated>
+    <author>
+      <name>/u/Nuigma</name>
+      <uri>https://old.reddit.com/user/Nuigma</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, em là M21, 21 tuổi, đã tốt nghiệp xong cao đẳng ngành game và cũng thực tập ở vị trí intern game tester được 3 tháng rồi sau đó thất nghiệp vì lúc thực tập em hoàn thành gần xong task rồi thì em có vài ý tưởng để cải thiện sản phẩm nhưng họ nhận định em thiếu tập trung và cũng chính vì ko có được tự do sáng tạo như lúc còn đi học cao đẳng nên em chả muốn làm nữa. (Thật ra em cảm thấy công ty khá ổn chỉ là ở vị trí tester thì người ta chỉ yêu cầu hoàn thành công việc chứ ko cần em đóng góp ý tưởng hay phương pháp cả nên có khi mình làm thế người ta nhận định vậy)&lt;/p&gt; &lt;p&gt;Trong lúc thất nghiệp thì nghe được đứa bạn giới thiệu chạy Be, nói thật thì em ko biết công việc này như thế nào ngoài đi làm bếp nên xin được giải đáp. Rất cảm ơn mọi người quan tâm&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Nuigma"&gt; /u/Nuigma &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ptx488/có_nên_chạy_be/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ptx488/có_nên_chạy_be/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ptx488/có_nên_chạy_be/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-23T15:44:45+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ptzrxs</id>
+    <title>Cousin</title>
+    <updated>2025-12-23T17:29:43+00:00</updated>
+    <author>
+      <name>/u/Dixemaygaytainan</name>
+      <uri>https://old.reddit.com/user/Dixemaygaytainan</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tôi vừa hẹn gặp thằng anh họ, 2 thằng ngồi trà đá bên đường mà nói chuyện chia sẻ. T với nó là sinh viên đại học, nó cách t 2 tuổi. Nó kể đã từng vọc code từ năm lớp 8, cái tuổi mà t còn đang mơ con gái nhà khác. Lên cấp 3 may mắn chung trường, mà do có nền tảng công nghệ từ trước nên nó bắt đầu học về Arduino rồi Raspberry, vv từ đó được chọn đi thi Khkt và cũng có giải. Còn có cả loại máy cảm biến đo sóng não để ra lệnh bằng ý nghĩ,... Cuối c3 nó bắt đầu viết apply job trên mạng, nó bảo đã từng học gì hay viết gì hoặc có kinh nghiệm viết cái gì ( thêm cả viết Web và Mobile và 1 chút Bitcoin) trên CV rồi gửi cho 1 đống cty khác nhau và đc 1 chỗ nhận rồi làm remote với lương cũng khá so với 1 đứa hs c3. Ra đh nó tiếp tục làm nửa năm rồi chuyển cty khác part time với công việc tương tự và lương tốt. Nó còn bảo viết cả Blockchain hay gì đấy (xl vì mảng này t không quen và cũng chỉ được nghe kể) để đưa đi mấy cuộc thi và trúng giải, đi team hnhu là 6k $ còn thi 1m thì 1k $. Sau đó nó tập hợp đc 1 team cùng ngành đh rồi bắt đầu phát triển cái đó. Cả quá trình tự học, tự tìm hiểu tự trải nghiệm đó nó là thật vì t biết tính thằng này từ nhỏ. T cũng bất ngờ vì những cái nó bắt đầu rất cơ bản: như kiểu lệnh tính tổng 1-n rồi mấy cái thuật toán hướng đối tượng các thứ. Chỉ là quá trình tự học của nó kéo dài 6 năm và vẫn đang pt. Còn t thì cũng đậu vào trường công nghệ như nó nma t nhận ra năm đầu t học code nó đã chật vật rồi, chắc vì áp lực con điểm không như xuất phát của thằng anh t là từ c2. T chỉ muốn hỏi là: liệu t có nên cố gắng hơn để phát triển theo hướng nó đã đi không, chỉ vì cái t thiếu là kinh nghiệm và trải nghiệm, hay là t đã không hợp với công nghệ và nên chuyển sang các phần khác song song với việc học đh? Và cái quá trình mà nó đã trải qua liệu có ai đã làm được như vậy chưa, tôi cần lời khuyên.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Dixemaygaytainan"&gt; /u/Dixemaygaytainan &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ptzrxs/cousin/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ptzrxs/cousin/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ptzrxs/cousin/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-23T17:29:43+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1ptv66n</id>
     <title>[27 tuổi làm sao để sống có chính kiến và mạnh mẽ hơn]</title>
     <updated>2025-12-23T14:23:36+00:00</updated>
@@ -175,19 +201,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ptuc5m/tôi_là_một_nhà_sáng_lập_người_việt_nam_đang_phát/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-23T13:47:06+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1ptx488</id>
-    <title>Có nên chạy Be?</title>
-    <updated>2025-12-23T15:44:45+00:00</updated>
-    <author>
-      <name>/u/Nuigma</name>
-      <uri>https://old.reddit.com/user/Nuigma</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, em là M21, 21 tuổi, đã tốt nghiệp xong cao đẳng ngành game và cũng thực tập ở vị trí intern game tester được 3 tháng rồi sau đó thất nghiệp vì lúc thực tập em hoàn thành gần xong task rồi thì em có vài ý tưởng để cải thiện sản phẩm nhưng họ nhận định em thiếu tập trung và cũng chính vì ko có được tự do sáng tạo như lúc còn đi học cao đẳng nên em chả muốn làm nữa. (Thật ra em cảm thấy công ty khá ổn chỉ là ở vị trí tester thì người ta chỉ yêu cầu hoàn thành công việc chứ ko cần em đóng góp ý tưởng hay phương pháp cả nên có khi mình làm thế người ta nhận định vậy)&lt;/p&gt; &lt;p&gt;Trong lúc thất nghiệp thì nghe được đứa bạn giới thiệu chạy Be, nói thật thì em ko biết công việc này như thế nào ngoài đi làm bếp nên xin được giải đáp. Rất cảm ơn mọi người quan tâm&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Nuigma"&gt; /u/Nuigma &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ptx488/có_nên_chạy_be/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ptx488/có_nên_chạy_be/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ptx488/có_nên_chạy_be/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-23T15:44:45+00:00</published>
   </entry>
   <entry>
     <id>t3_1pu4ng8</id>
@@ -216,32 +229,6 @@
     <published>2025-12-23T12:14:08+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ptzj3t</id>
-    <title>Gu chọn bạn nữ của các bác</title>
-    <updated>2025-12-23T17:20:01+00:00</updated>
-    <author>
-      <name>/u/TheSobermee</name>
-      <uri>https://old.reddit.com/user/TheSobermee</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Là nữ nhưng em thắc mắc là tầm 30 tuổi thì các bác thường thích những bạn nữ có style xin xắn dễ thương hay thích các bạn có style gợi cảm hơn ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/TheSobermee"&gt; /u/TheSobermee &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ptzj3t/gu_chọn_bạn_nữ_của_các_bác/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ptzj3t/gu_chọn_bạn_nữ_của_các_bác/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ptzj3t/gu_chọn_bạn_nữ_của_các_bác/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-23T17:20:01+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1ptzrxs</id>
-    <title>Cousin</title>
-    <updated>2025-12-23T17:29:43+00:00</updated>
-    <author>
-      <name>/u/Dixemaygaytainan</name>
-      <uri>https://old.reddit.com/user/Dixemaygaytainan</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tôi vừa hẹn gặp thằng anh họ, 2 thằng ngồi trà đá bên đường mà nói chuyện chia sẻ. T với nó là sinh viên đại học, nó cách t 2 tuổi. Nó kể đã từng vọc code từ năm lớp 8, cái tuổi mà t còn đang mơ con gái nhà khác. Lên cấp 3 may mắn chung trường, mà do có nền tảng công nghệ từ trước nên nó bắt đầu học về Arduino rồi Raspberry, vv từ đó được chọn đi thi Khkt và cũng có giải. Còn có cả loại máy cảm biến đo sóng não để ra lệnh bằng ý nghĩ,... Cuối c3 nó bắt đầu viết apply job trên mạng, nó bảo đã từng học gì hay viết gì hoặc có kinh nghiệm viết cái gì ( thêm cả viết Web và Mobile và 1 chút Bitcoin) trên CV rồi gửi cho 1 đống cty khác nhau và đc 1 chỗ nhận rồi làm remote với lương cũng khá so với 1 đứa hs c3. Ra đh nó tiếp tục làm nửa năm rồi chuyển cty khác part time với công việc tương tự và lương tốt. Nó còn bảo viết cả Blockchain hay gì đấy (xl vì mảng này t không quen và cũng chỉ được nghe kể) để đưa đi mấy cuộc thi và trúng giải, đi team hnhu là 6k $ còn thi 1m thì 1k $. Sau đó nó tập hợp đc 1 team cùng ngành đh rồi bắt đầu phát triển cái đó. Cả quá trình tự học, tự tìm hiểu tự trải nghiệm đó nó là thật vì t biết tính thằng này từ nhỏ. T cũng bất ngờ vì những cái nó bắt đầu rất cơ bản: như kiểu lệnh tính tổng 1-n rồi mấy cái thuật toán hướng đối tượng các thứ. Chỉ là quá trình tự học của nó kéo dài 6 năm và vẫn đang pt. Còn t thì cũng đậu vào trường công nghệ như nó nma t nhận ra năm đầu t học code nó đã chật vật rồi, chắc vì áp lực con điểm không như xuất phát của thằng anh t là từ c2. T chỉ muốn hỏi là: liệu t có nên cố gắng hơn để phát triển theo hướng nó đã đi không, chỉ vì cái t thiếu là kinh nghiệm và trải nghiệm, hay là t đã không hợp với công nghệ và nên chuyển sang các phần khác song song với việc học đh? Và cái quá trình mà nó đã trải qua liệu có ai đã làm được như vậy chưa, tôi cần lời khuyên.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Dixemaygaytainan"&gt; /u/Dixemaygaytainan &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ptzrxs/cousin/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ptzrxs/cousin/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ptzrxs/cousin/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-23T17:29:43+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1ptn4dp</id>
     <title>27 tuổi các bác để được bao nhiêu tiền tiết kiêm?</title>
     <updated>2025-12-23T06:42:01+00:00</updated>
@@ -268,19 +255,6 @@
     <published>2025-12-23T05:07:43+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ptvf11</id>
-    <title>tâm sự mai noel</title>
-    <updated>2025-12-23T14:34:08+00:00</updated>
-    <author>
-      <name>/u/ExplorerFuture3109</name>
-      <uri>https://old.reddit.com/user/ExplorerFuture3109</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;mai noel mà cảm giác bình thường, ko bạn bè, chắc lại lao vào làm việc rồi đi ngủ cho qua ngày. Các bác có dự định làm gì ko? Cảm giác bản thân ngày càng vô cảm.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ExplorerFuture3109"&gt; /u/ExplorerFuture3109 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ptvf11/tâm_sự_mai_noel/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ptvf11/tâm_sự_mai_noel/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ptvf11/tâm_sự_mai_noel/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-23T14:34:08+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1ptjdrh</id>
     <title>Giờ nghĩ lại mới thấy mấy gia đình trọng nam khinh nữ nó hài</title>
     <updated>2025-12-23T03:23:04+00:00</updated>
@@ -294,6 +268,19 @@
     <published>2025-12-23T03:23:04+00:00</published>
   </entry>
   <entry>
+    <id>t3_1ptzj3t</id>
+    <title>Gu chọn bạn nữ của các bác</title>
+    <updated>2025-12-23T17:20:01+00:00</updated>
+    <author>
+      <name>/u/TheSobermee</name>
+      <uri>https://old.reddit.com/user/TheSobermee</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Là nữ nhưng em thắc mắc là tầm 30 tuổi thì các bác thường thích những bạn nữ có style xin xắn dễ thương hay thích các bạn có style gợi cảm hơn ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/TheSobermee"&gt; /u/TheSobermee &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ptzj3t/gu_chọn_bạn_nữ_của_các_bác/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ptzj3t/gu_chọn_bạn_nữ_của_các_bác/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ptzj3t/gu_chọn_bạn_nữ_của_các_bác/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-23T17:20:01+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1ptocsl</id>
     <title>Cv này là đáy xh chưa</title>
     <updated>2025-12-23T07:57:52+00:00</updated>
@@ -305,6 +292,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ptocsl/cv_này_là_đáy_xh_chưa/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-23T07:57:52+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ptvf11</id>
+    <title>tâm sự mai noel</title>
+    <updated>2025-12-23T14:34:08+00:00</updated>
+    <author>
+      <name>/u/ExplorerFuture3109</name>
+      <uri>https://old.reddit.com/user/ExplorerFuture3109</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;mai noel mà cảm giác bình thường, ko bạn bè, chắc lại lao vào làm việc rồi đi ngủ cho qua ngày. Các bác có dự định làm gì ko? Cảm giác bản thân ngày càng vô cảm.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ExplorerFuture3109"&gt; /u/ExplorerFuture3109 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ptvf11/tâm_sự_mai_noel/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ptvf11/tâm_sự_mai_noel/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ptvf11/tâm_sự_mai_noel/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-23T14:34:08+00:00</published>
   </entry>
   <entry>
     <id>t3_1ptocaf</id>
