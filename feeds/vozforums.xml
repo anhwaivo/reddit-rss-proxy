@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-12-23T20:21:37+00:00</updated>
+  <updated>2025-12-23T20:43:09+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -268,19 +268,6 @@
     <published>2025-12-23T06:42:01+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ptlftg</id>
-    <title>lừa đảo từ thiện</title>
-    <updated>2025-12-23T05:07:43+00:00</updated>
-    <author>
-      <name>/u/coelacanth000</name>
-      <uri>https://old.reddit.com/user/coelacanth000</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1ptlftg/lừa_đảo_từ_thiện/"&gt; &lt;img alt="lừa đảo từ thiện" src="https://b.thumbs.redditmedia.com/cLi6rUz2Y65gIoReiOliuixWcxsHaD7IDP-rUzHPn5Q.jpg" title="lừa đảo từ thiện" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;hôm qua mình thấy đứa này post trên thread kể khổ về ông chú trong ảnh xong rồi đăng stk (của ông chú) kêu gọi từ thiện, check acc nó thì thấy liên tục đăng kêu gọi từ thiện được nhiều người share + ủng hộ (đăng nhiều post xong rồi xoá). mình comment bóc thì nó xoá acc luôn rồi, nay lại thấy acc khác cũng đăng bài này. mọi người cảnh giác nhé.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/coelacanth000"&gt; /u/coelacanth000 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1ptlftg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ptlftg/lừa_đảo_từ_thiện/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ptlftg/lừa_đảo_từ_thiện/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-23T05:07:43+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1ptjdrh</id>
     <title>Giờ nghĩ lại mới thấy mấy gia đình trọng nam khinh nữ nó hài</title>
     <updated>2025-12-23T03:23:04+00:00</updated>
@@ -292,6 +279,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ptjdrh/giờ_nghĩ_lại_mới_thấy_mấy_gia_đình_trọng_nam/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-23T03:23:04+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ptlftg</id>
+    <title>lừa đảo từ thiện</title>
+    <updated>2025-12-23T05:07:43+00:00</updated>
+    <author>
+      <name>/u/coelacanth000</name>
+      <uri>https://old.reddit.com/user/coelacanth000</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1ptlftg/lừa_đảo_từ_thiện/"&gt; &lt;img alt="lừa đảo từ thiện" src="https://b.thumbs.redditmedia.com/cLi6rUz2Y65gIoReiOliuixWcxsHaD7IDP-rUzHPn5Q.jpg" title="lừa đảo từ thiện" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;hôm qua mình thấy đứa này post trên thread kể khổ về ông chú trong ảnh xong rồi đăng stk (của ông chú) kêu gọi từ thiện, check acc nó thì thấy liên tục đăng kêu gọi từ thiện được nhiều người share + ủng hộ (đăng nhiều post xong rồi xoá). mình comment bóc thì nó xoá acc luôn rồi, nay lại thấy acc khác cũng đăng bài này. mọi người cảnh giác nhé.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/coelacanth000"&gt; /u/coelacanth000 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1ptlftg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ptlftg/lừa_đảo_từ_thiện/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ptlftg/lừa_đảo_từ_thiện/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-23T05:07:43+00:00</published>
   </entry>
   <entry>
     <id>t3_1ptvf11</id>
