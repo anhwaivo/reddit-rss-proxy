@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-12-23T11:18:11+00:00</updated>
+  <updated>2025-12-23T11:40:02+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -158,7 +158,7 @@
       <name>/u/Ok_Pollution1769</name>
       <uri>https://old.reddit.com/user/Ok_Pollution1769</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;...&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ok_Pollution1769"&gt; /u/Ok_Pollution1769 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ptrgnf/mn_có_ai_làm_sale_engineer_cho_mh_hỏi_mức_hoa/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ptrgnf/mn_có_ai_làm_sale_engineer_cho_mh_hỏi_mức_hoa/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Bên cơ khí ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ok_Pollution1769"&gt; /u/Ok_Pollution1769 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ptrgnf/mn_có_ai_làm_sale_engineer_cho_mh_hỏi_mức_hoa/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ptrgnf/mn_có_ai_làm_sale_engineer_cho_mh_hỏi_mức_hoa/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
     <link href="https://old.reddit.com/r/vozforums/comments/1ptrgnf/mn_có_ai_làm_sale_engineer_cho_mh_hỏi_mức_hoa/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-23T11:17:59+00:00</published>
@@ -307,19 +307,6 @@
     <published>2025-12-23T06:42:01+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ptocaf</id>
-    <title>Lần đầu hs</title>
-    <updated>2025-12-23T07:57:01+00:00</updated>
-    <author>
-      <name>/u/Silly-Loss6670</name>
-      <uri>https://old.reddit.com/user/Silly-Loss6670</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi nguời, chuyện là em là M22, dạo truớc có đi homestay với bạn gái vài lần và lần nào cũng có ý định hs nhưng k thể nào đút vô được vì là lần đầu của 2. Mọi nguời có ý kiến gì hỗ trợ k😢&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Silly-Loss6670"&gt; /u/Silly-Loss6670 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ptocaf/lần_đầu_hs/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ptocaf/lần_đầu_hs/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ptocaf/lần_đầu_hs/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-23T07:57:01+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1ptlftg</id>
     <title>lừa đảo từ thiện</title>
     <updated>2025-12-23T05:07:43+00:00</updated>
@@ -331,5 +318,18 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ptlftg/lừa_đảo_từ_thiện/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-23T05:07:43+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ptocaf</id>
+    <title>Lần đầu hs</title>
+    <updated>2025-12-23T07:57:01+00:00</updated>
+    <author>
+      <name>/u/Silly-Loss6670</name>
+      <uri>https://old.reddit.com/user/Silly-Loss6670</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi nguời, chuyện là em là M22, dạo truớc có đi homestay với bạn gái vài lần và lần nào cũng có ý định hs nhưng k thể nào đút vô được vì là lần đầu của 2. Mọi nguời có ý kiến gì hỗ trợ k😢&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Silly-Loss6670"&gt; /u/Silly-Loss6670 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ptocaf/lần_đầu_hs/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ptocaf/lần_đầu_hs/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ptocaf/lần_đầu_hs/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-23T07:57:01+00:00</published>
   </entry>
 </feed>
