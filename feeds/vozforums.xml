@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-12-24T19:49:58+00:00</updated>
+  <updated>2025-12-24T20:21:03+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -73,19 +73,6 @@
     <published>2025-12-24T08:03:50+00:00</published>
   </entry>
   <entry>
-    <id>t3_1puoasi</id>
-    <title>Tư vấn kinh tế</title>
-    <updated>2025-12-24T14:13:26+00:00</updated>
-    <author>
-      <name>/u/FHighSon</name>
-      <uri>https://old.reddit.com/user/FHighSon</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em chào mọi người, em sinh năm 2k3 sau gần 1 năm đi làm thì em để dành ra dc khoảng 100tr và mọi người cho em hỏi là với kinh nghiệm của mọi người thì em nên làm gì để con số này được nhân lên thêm ạ🥲mục tiêu của em là muốn mua nhà trong tương lai mà giá nhà đất ở HCM làm em ngộp quá 🥹 em cảm ơn ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/FHighSon"&gt; /u/FHighSon &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1puoasi/tư_vấn_kinh_tế/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1puoasi/tư_vấn_kinh_tế/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1puoasi/tư_vấn_kinh_tế/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-24T14:13:26+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1puto8x</id>
     <title>Có nên học ngành IT không</title>
     <updated>2025-12-24T18:15:33+00:00</updated>
@@ -136,6 +123,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1puvo7d/điều_tốt_đẹp_mà_ai_đó_đã_làm_cho_các_bác_hoặc_cho/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-24T19:45:38+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1puoasi</id>
+    <title>Tư vấn kinh tế</title>
+    <updated>2025-12-24T14:13:26+00:00</updated>
+    <author>
+      <name>/u/FHighSon</name>
+      <uri>https://old.reddit.com/user/FHighSon</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em chào mọi người, em sinh năm 2k3 sau gần 1 năm đi làm thì em để dành ra dc khoảng 100tr và mọi người cho em hỏi là với kinh nghiệm của mọi người thì em nên làm gì để con số này được nhân lên thêm ạ🥲mục tiêu của em là muốn mua nhà trong tương lai mà giá nhà đất ở HCM làm em ngộp quá 🥹 em cảm ơn ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/FHighSon"&gt; /u/FHighSon &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1puoasi/tư_vấn_kinh_tế/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1puoasi/tư_vấn_kinh_tế/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1puoasi/tư_vấn_kinh_tế/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-24T14:13:26+00:00</published>
   </entry>
   <entry>
     <id>t3_1pudct1</id>
