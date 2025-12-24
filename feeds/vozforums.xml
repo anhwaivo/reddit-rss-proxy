@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-12-24T09:44:40+00:00</updated>
+  <updated>2025-12-24T09:55:01+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -19,19 +19,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pua1af/số_tiền_nhiều_nhất_các_bác_nợ_là_bao_nhiêu_cho_em/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-24T00:45:49+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1puil0d</id>
-    <title>Mình có một câu hỏi về đạo đức bấy lâu nay không biết câu trả lời</title>
-    <updated>2025-12-24T08:34:09+00:00</updated>
-    <author>
-      <name>/u/LogTasty2597</name>
-      <uri>https://old.reddit.com/user/LogTasty2597</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1puil0d/mình_có_một_câu_hỏi_về_đạo_đức_bấy_lâu_nay_không/"&gt; &lt;img alt="Mình có một câu hỏi về đạo đức bấy lâu nay không biết câu trả lời" src="https://preview.redd.it/h5euafng549g1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=5b293dec94d4fa5c168eccae1aec5280698a1130" title="Mình có một câu hỏi về đạo đức bấy lâu nay không biết câu trả lời" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/LogTasty2597"&gt; /u/LogTasty2597 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/h5euafng549g1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1puil0d/mình_có_một_câu_hỏi_về_đạo_đức_bấy_lâu_nay_không/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1puil0d/mình_có_một_câu_hỏi_về_đạo_đức_bấy_lâu_nay_không/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-24T08:34:09+00:00</published>
   </entry>
   <entry>
     <id>t3_1ptvf11</id>
@@ -84,6 +71,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1puig2n/mn_có_ai_giỏi_hoá_hay_biết_chất_tẩy_rửa_gì_tốt/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-24T08:25:13+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1puil0d</id>
+    <title>Mình có một câu hỏi về đạo đức bấy lâu nay không biết câu trả lời</title>
+    <updated>2025-12-24T08:34:09+00:00</updated>
+    <author>
+      <name>/u/LogTasty2597</name>
+      <uri>https://old.reddit.com/user/LogTasty2597</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1puil0d/mình_có_một_câu_hỏi_về_đạo_đức_bấy_lâu_nay_không/"&gt; &lt;img alt="Mình có một câu hỏi về đạo đức bấy lâu nay không biết câu trả lời" src="https://preview.redd.it/h5euafng549g1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=5b293dec94d4fa5c168eccae1aec5280698a1130" title="Mình có một câu hỏi về đạo đức bấy lâu nay không biết câu trả lời" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/LogTasty2597"&gt; /u/LogTasty2597 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/h5euafng549g1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1puil0d/mình_có_một_câu_hỏi_về_đạo_đức_bấy_lâu_nay_không/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1puil0d/mình_có_một_câu_hỏi_về_đạo_đức_bấy_lâu_nay_không/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-24T08:34:09+00:00</published>
   </entry>
   <entry>
     <id>t3_1puivwt</id>
@@ -177,19 +177,6 @@
     <published>2025-12-24T06:19:27+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pui3va</id>
-    <title>Chùa cô hồn ở cà mau</title>
-    <updated>2025-12-24T08:03:50+00:00</updated>
-    <author>
-      <name>/u/Busy_Willingness_512</name>
-      <uri>https://old.reddit.com/user/Busy_Willingness_512</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1pui3va/chùa_cô_hồn_ở_cà_mau/"&gt; &lt;img alt="Chùa cô hồn ở cà mau" src="https://preview.redd.it/1szr8ol1049g1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=cdc0a9d9dd2fd80c44a2aa2ea51fb373a71e9b4d" title="Chùa cô hồn ở cà mau" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Bạn đã từng nghe về chùa cô hồn chưa? Trong chùa thì thờ Phật chứ, sao lại thờ cô hồn? 🤔 Nếu thờ cô hồn thì gọi là Miếu mới đúng, phải không. Nhưng có vẻ những người hoa này lập &amp;quot;chùa&amp;quot; cho nó hoành tráng, tiện thể làm nơi tụ họp, bàn chuyện phản thanh phục minh 🧐&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Busy_Willingness_512"&gt; /u/Busy_Willingness_512 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/1szr8ol1049g1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pui3va/chùa_cô_hồn_ở_cà_mau/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pui3va/chùa_cô_hồn_ở_cà_mau/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-24T08:03:50+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1pui5fq</id>
     <title>Thời đại này nhưng vẫn có</title>
     <updated>2025-12-24T08:06:36+00:00</updated>
@@ -227,6 +214,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pufo7x/mn_cho_mình_hỏi_đây_là_kênh_nào_vậy_thấy_trên_fb/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-24T05:37:30+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pui3va</id>
+    <title>Chùa cô hồn ở cà mau</title>
+    <updated>2025-12-24T08:03:50+00:00</updated>
+    <author>
+      <name>/u/Busy_Willingness_512</name>
+      <uri>https://old.reddit.com/user/Busy_Willingness_512</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1pui3va/chùa_cô_hồn_ở_cà_mau/"&gt; &lt;img alt="Chùa cô hồn ở cà mau" src="https://preview.redd.it/1szr8ol1049g1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=cdc0a9d9dd2fd80c44a2aa2ea51fb373a71e9b4d" title="Chùa cô hồn ở cà mau" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Bạn đã từng nghe về chùa cô hồn chưa? Trong chùa thì thờ Phật chứ, sao lại thờ cô hồn? 🤔 Nếu thờ cô hồn thì gọi là Miếu mới đúng, phải không. Nhưng có vẻ những người hoa này lập &amp;quot;chùa&amp;quot; cho nó hoành tráng, tiện thể làm nơi tụ họp, bàn chuyện phản thanh phục minh 🧐&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Busy_Willingness_512"&gt; /u/Busy_Willingness_512 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/1szr8ol1049g1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pui3va/chùa_cô_hồn_ở_cà_mau/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pui3va/chùa_cô_hồn_ở_cà_mau/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-24T08:03:50+00:00</published>
   </entry>
   <entry>
     <id>t3_1pudct1</id>
