@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-12-24T09:23:50+00:00</updated>
+  <updated>2025-12-24T09:44:40+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -19,6 +19,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pua1af/số_tiền_nhiều_nhất_các_bác_nợ_là_bao_nhiêu_cho_em/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-24T00:45:49+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1puil0d</id>
+    <title>Mình có một câu hỏi về đạo đức bấy lâu nay không biết câu trả lời</title>
+    <updated>2025-12-24T08:34:09+00:00</updated>
+    <author>
+      <name>/u/LogTasty2597</name>
+      <uri>https://old.reddit.com/user/LogTasty2597</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1puil0d/mình_có_một_câu_hỏi_về_đạo_đức_bấy_lâu_nay_không/"&gt; &lt;img alt="Mình có một câu hỏi về đạo đức bấy lâu nay không biết câu trả lời" src="https://preview.redd.it/h5euafng549g1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=5b293dec94d4fa5c168eccae1aec5280698a1130" title="Mình có một câu hỏi về đạo đức bấy lâu nay không biết câu trả lời" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/LogTasty2597"&gt; /u/LogTasty2597 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/h5euafng549g1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1puil0d/mình_có_một_câu_hỏi_về_đạo_đức_bấy_lâu_nay_không/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1puil0d/mình_có_một_câu_hỏi_về_đạo_đức_bấy_lâu_nay_không/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-24T08:34:09+00:00</published>
   </entry>
   <entry>
     <id>t3_1ptvf11</id>
@@ -71,19 +84,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1puig2n/mn_có_ai_giỏi_hoá_hay_biết_chất_tẩy_rửa_gì_tốt/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-24T08:25:13+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1puil0d</id>
-    <title>Mình có một câu hỏi về đạo đức bấy lâu nay không biết câu trả lời</title>
-    <updated>2025-12-24T08:34:09+00:00</updated>
-    <author>
-      <name>/u/LogTasty2597</name>
-      <uri>https://old.reddit.com/user/LogTasty2597</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1puil0d/mình_có_một_câu_hỏi_về_đạo_đức_bấy_lâu_nay_không/"&gt; &lt;img alt="Mình có một câu hỏi về đạo đức bấy lâu nay không biết câu trả lời" src="https://preview.redd.it/h5euafng549g1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=5b293dec94d4fa5c168eccae1aec5280698a1130" title="Mình có một câu hỏi về đạo đức bấy lâu nay không biết câu trả lời" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/LogTasty2597"&gt; /u/LogTasty2597 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/h5euafng549g1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1puil0d/mình_có_một_câu_hỏi_về_đạo_đức_bấy_lâu_nay_không/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1puil0d/mình_có_một_câu_hỏi_về_đạo_đức_bấy_lâu_nay_không/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-24T08:34:09+00:00</published>
   </entry>
   <entry>
     <id>t3_1puivwt</id>
@@ -151,17 +151,17 @@
     <published>2025-12-24T04:09:27+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pui3va</id>
-    <title>Chùa cô hồn ở cà mau</title>
-    <updated>2025-12-24T08:03:50+00:00</updated>
+    <id>t3_1pucr9q</id>
+    <title>Liệu có khả thi khi xây dựng 1 web giống webtoon để đăng tải truyện Việt ?</title>
+    <updated>2025-12-24T03:00:24+00:00</updated>
     <author>
-      <name>/u/Busy_Willingness_512</name>
-      <uri>https://old.reddit.com/user/Busy_Willingness_512</uri>
+      <name>/u/Only-Conclusion5238</name>
+      <uri>https://old.reddit.com/user/Only-Conclusion5238</uri>
     </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1pui3va/chùa_cô_hồn_ở_cà_mau/"&gt; &lt;img alt="Chùa cô hồn ở cà mau" src="https://preview.redd.it/1szr8ol1049g1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=cdc0a9d9dd2fd80c44a2aa2ea51fb373a71e9b4d" title="Chùa cô hồn ở cà mau" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Bạn đã từng nghe về chùa cô hồn chưa? Trong chùa thì thờ Phật chứ, sao lại thờ cô hồn? 🤔 Nếu thờ cô hồn thì gọi là Miếu mới đúng, phải không. Nhưng có vẻ những người hoa này lập &amp;quot;chùa&amp;quot; cho nó hoành tráng, tiện thể làm nơi tụ họp, bàn chuyện phản thanh phục minh 🧐&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Busy_Willingness_512"&gt; /u/Busy_Willingness_512 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/1szr8ol1049g1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pui3va/chùa_cô_hồn_ở_cà_mau/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pui3va/chùa_cô_hồn_ở_cà_mau/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Thật sự mình hỏi cho có vậy thôi chứ mình quyết định làm rồi, tất nhiên không copy 100% nhưng mình mong 1 ngày nào đó sẽ có thể ngang hàng với họ. Nói về lý do làm thì nhiều lắm, mình thấy được tiềm năng của ngành này có thể phát triển trong tương lai, mình nằm vùng khá nhiều gr trên fb và thấy nhiều người có ý tưởng rất hay chỉ thiếu mỗi nền tảng để có thể đăng tải thôi, đăng trên wattpad hay canvas thì phải viết tiếng Anh nên nhiều người sẽ bị hạn chế về cách truyền tải nên mình muốn tạo nền tảng tương tự để phát triển thị trường nội địa trước.&lt;br /&gt; À nếu mọi người có góp ý gì thì mình sẽ lắng nghe hết cả và hẹn mọi người 1 năm sau.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Only-Conclusion5238"&gt; /u/Only-Conclusion5238 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pucr9q/liệu_có_khả_thi_khi_xây_dựng_1_web_giống_webtoon/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pucr9q/liệu_có_khả_thi_khi_xây_dựng_1_web_giống_webtoon/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pucr9q/liệu_có_khả_thi_khi_xây_dựng_1_web_giống_webtoon/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-24T08:03:50+00:00</published>
+    <published>2025-12-24T03:00:24+00:00</published>
   </entry>
   <entry>
     <id>t3_1pugeir</id>
@@ -177,17 +177,17 @@
     <published>2025-12-24T06:19:27+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pucr9q</id>
-    <title>Liệu có khả thi khi xây dựng 1 web giống webtoon để đăng tải truyện Việt ?</title>
-    <updated>2025-12-24T03:00:24+00:00</updated>
+    <id>t3_1pui3va</id>
+    <title>Chùa cô hồn ở cà mau</title>
+    <updated>2025-12-24T08:03:50+00:00</updated>
     <author>
-      <name>/u/Only-Conclusion5238</name>
-      <uri>https://old.reddit.com/user/Only-Conclusion5238</uri>
+      <name>/u/Busy_Willingness_512</name>
+      <uri>https://old.reddit.com/user/Busy_Willingness_512</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Thật sự mình hỏi cho có vậy thôi chứ mình quyết định làm rồi, tất nhiên không copy 100% nhưng mình mong 1 ngày nào đó sẽ có thể ngang hàng với họ. Nói về lý do làm thì nhiều lắm, mình thấy được tiềm năng của ngành này có thể phát triển trong tương lai, mình nằm vùng khá nhiều gr trên fb và thấy nhiều người có ý tưởng rất hay chỉ thiếu mỗi nền tảng để có thể đăng tải thôi, đăng trên wattpad hay canvas thì phải viết tiếng Anh nên nhiều người sẽ bị hạn chế về cách truyền tải nên mình muốn tạo nền tảng tương tự để phát triển thị trường nội địa trước.&lt;br /&gt; À nếu mọi người có góp ý gì thì mình sẽ lắng nghe hết cả và hẹn mọi người 1 năm sau.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Only-Conclusion5238"&gt; /u/Only-Conclusion5238 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pucr9q/liệu_có_khả_thi_khi_xây_dựng_1_web_giống_webtoon/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pucr9q/liệu_có_khả_thi_khi_xây_dựng_1_web_giống_webtoon/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pucr9q/liệu_có_khả_thi_khi_xây_dựng_1_web_giống_webtoon/"/>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1pui3va/chùa_cô_hồn_ở_cà_mau/"&gt; &lt;img alt="Chùa cô hồn ở cà mau" src="https://preview.redd.it/1szr8ol1049g1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=cdc0a9d9dd2fd80c44a2aa2ea51fb373a71e9b4d" title="Chùa cô hồn ở cà mau" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Bạn đã từng nghe về chùa cô hồn chưa? Trong chùa thì thờ Phật chứ, sao lại thờ cô hồn? 🤔 Nếu thờ cô hồn thì gọi là Miếu mới đúng, phải không. Nhưng có vẻ những người hoa này lập &amp;quot;chùa&amp;quot; cho nó hoành tráng, tiện thể làm nơi tụ họp, bàn chuyện phản thanh phục minh 🧐&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Busy_Willingness_512"&gt; /u/Busy_Willingness_512 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/1szr8ol1049g1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pui3va/chùa_cô_hồn_ở_cà_mau/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pui3va/chùa_cô_hồn_ở_cà_mau/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-24T03:00:24+00:00</published>
+    <published>2025-12-24T08:03:50+00:00</published>
   </entry>
   <entry>
     <id>t3_1pui5fq</id>
@@ -227,19 +227,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pufo7x/mn_cho_mình_hỏi_đây_là_kênh_nào_vậy_thấy_trên_fb/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-24T05:37:30+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1puipyu</id>
-    <title>Thực sự sợ thẻ tín dụng.</title>
-    <updated>2025-12-24T08:43:24+00:00</updated>
-    <author>
-      <name>/u/Salt-Morning-8866</name>
-      <uri>https://old.reddit.com/user/Salt-Morning-8866</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em vừa chính thức thoát khỏi ngục tù thẻ tín dụng &lt;/p&gt; &lt;p&gt;Trước đây em từng rất dư giả, và khi đó em rất tự tin vào khả năng kiểm soát tài chính của mình. Và như 1 điều tất yếu, các ngân hàng gạ mở thẻ tín dụng. Em cũng chả suy nghĩ gì nhiều … mình có bao giờ cần dùng đến đâu mà, để đấy trang trí ví cũng chả sao, trông nó đẹp mà …&lt;/p&gt; &lt;p&gt;Thế rồi sự tiện lợi khi du lịch, mua hàng online, voucher giảm giá du lịch, cùng các thứ lợi tức, tích luỹ hầm bà lằng nhằng của nó bắt đầu cuốn em. Em được nâng hạn mức rất cao lên đến cả vài trăm triệu. Thời đó em cảm thấy thật xịn, thật vênh. Cảm thấy tự tin vì trong người lúc nào cũng có rất nhiều tiền phòng thân, mà không nhận ra rằng tiền thật của mình thì đang cạn còn tiền thẻ kia là tiền người khác&lt;/p&gt; &lt;p&gt;Đến 1 ngày em gặp biến cố tai nạn, mất việc trong 1 thời gian dài. Em tiêu hết tiền dự phòng và rồi dần dần đốt sạch thẻ tín dụng kia.&lt;/p&gt; &lt;p&gt;Sau khi khỏi bệnh và có thể đi làm lại, em mới giật mình khi mà mỗi tháng số tiền chỉ để duy trì tối thiểu thật sự quá cao, em chìm trong vòng xoáy đi làm trả nợ, cố duy trì mọi thứ k bung bét&lt;/p&gt; &lt;p&gt;Sau 2 năm cày cuốc k dám nghỉ làm, không dám ốm, không dám ăn tiêu mua gì thì cuối cùng cũng thoát được nó. Cic của em giờ xuống hạng 3 hay 4 gì đấy nhưng không sao, cuối cùng em cũng thoát đc nó. &lt;/p&gt; &lt;p&gt;Thật sự vui và hạnh phúc&lt;/p&gt; &lt;p&gt;Giờ em nhận ra bộ não nguyên thuỷ của mình thật quá bé nhỏ so với các siêu máy tính hàng đầu thế giới đang ngày đêm phân tích hành vi con người kia. Thật sự thấy giới trẻ hiện nay thật khó để sống, để thoát được mê cung ma trận mà xã hội giăng ra. &lt;/p&gt; &lt;p&gt;Tiện thì các bác có biết cách nào giúp em từ từ, túc tắc nâng lại điểm cic không ạ. E giờ sợ nợ nâng lắm rồi, tuy nhiên cũng lo sau này khó huy động vốn mua nhà mua xe hay cho lúc khẩn cấp nào đó.&lt;/p&gt; &lt;p&gt;Thanks các bác đã nghe đôi lời chia sẻ của em ạ &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Salt-Morning-8866"&gt; /u/Salt-Morning-8866 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1puipyu/thực_sự_sợ_thẻ_tín_dụng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1puipyu/thực_sự_sợ_thẻ_tín_dụng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1puipyu/thực_sự_sợ_thẻ_tín_dụng/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-24T08:43:24+00:00</published>
   </entry>
   <entry>
     <id>t3_1pudct1</id>
@@ -294,6 +281,19 @@
     <published>2025-12-23T20:58:56+00:00</published>
   </entry>
   <entry>
+    <id>t3_1puahd9</id>
+    <title>Bị thèm</title>
+    <updated>2025-12-24T01:07:04+00:00</updated>
+    <author>
+      <name>/u/Azaline112</name>
+      <uri>https://old.reddit.com/user/Azaline112</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là mình mới 22 thôi. Mà không hiểu sao cứ hay nuwng. Ngày nào cũng phải 1-2 lần mới xìu xuống. Với lại chả hiểu sao gặp mấy chị kiểu 2000 thì lại có hứng 🥲. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Azaline112"&gt; /u/Azaline112 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1puahd9/bị_thèm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1puahd9/bị_thèm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1puahd9/bị_thèm/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-24T01:07:04+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1pugy68</id>
     <title>Bạn bè có tốt hay k?</title>
     <updated>2025-12-24T06:51:42+00:00</updated>
@@ -307,17 +307,17 @@
     <published>2025-12-24T06:51:42+00:00</published>
   </entry>
   <entry>
-    <id>t3_1puahd9</id>
-    <title>Bị thèm</title>
-    <updated>2025-12-24T01:07:04+00:00</updated>
+    <id>t3_1puipyu</id>
+    <title>Thực sự sợ thẻ tín dụng.</title>
+    <updated>2025-12-24T08:43:24+00:00</updated>
     <author>
-      <name>/u/Azaline112</name>
-      <uri>https://old.reddit.com/user/Azaline112</uri>
+      <name>/u/Salt-Morning-8866</name>
+      <uri>https://old.reddit.com/user/Salt-Morning-8866</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là mình mới 22 thôi. Mà không hiểu sao cứ hay nuwng. Ngày nào cũng phải 1-2 lần mới xìu xuống. Với lại chả hiểu sao gặp mấy chị kiểu 2000 thì lại có hứng 🥲. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Azaline112"&gt; /u/Azaline112 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1puahd9/bị_thèm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1puahd9/bị_thèm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1puahd9/bị_thèm/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em vừa chính thức thoát khỏi ngục tù thẻ tín dụng &lt;/p&gt; &lt;p&gt;Trước đây em từng rất dư giả, và khi đó em rất tự tin vào khả năng kiểm soát tài chính của mình. Và như 1 điều tất yếu, các ngân hàng gạ mở thẻ tín dụng. Em cũng chả suy nghĩ gì nhiều … mình có bao giờ cần dùng đến đâu mà, để đấy trang trí ví cũng chả sao, trông nó đẹp mà …&lt;/p&gt; &lt;p&gt;Thế rồi sự tiện lợi khi du lịch, mua hàng online, voucher giảm giá du lịch, cùng các thứ lợi tức, tích luỹ hầm bà lằng nhằng của nó bắt đầu cuốn em. Em được nâng hạn mức rất cao lên đến cả vài trăm triệu. Thời đó em cảm thấy thật xịn, thật vênh. Cảm thấy tự tin vì trong người lúc nào cũng có rất nhiều tiền phòng thân, mà không nhận ra rằng tiền thật của mình thì đang cạn còn tiền thẻ kia là tiền người khác&lt;/p&gt; &lt;p&gt;Đến 1 ngày em gặp biến cố tai nạn, mất việc trong 1 thời gian dài. Em tiêu hết tiền dự phòng và rồi dần dần đốt sạch thẻ tín dụng kia.&lt;/p&gt; &lt;p&gt;Sau khi khỏi bệnh và có thể đi làm lại, em mới giật mình khi mà mỗi tháng số tiền chỉ để duy trì tối thiểu thật sự quá cao, em chìm trong vòng xoáy đi làm trả nợ, cố duy trì mọi thứ k bung bét&lt;/p&gt; &lt;p&gt;Sau 2 năm cày cuốc k dám nghỉ làm, không dám ốm, không dám ăn tiêu mua gì thì cuối cùng cũng thoát được nó. Cic của em giờ xuống hạng 3 hay 4 gì đấy nhưng không sao, cuối cùng em cũng thoát đc nó. &lt;/p&gt; &lt;p&gt;Thật sự vui và hạnh phúc&lt;/p&gt; &lt;p&gt;Giờ em nhận ra bộ não nguyên thuỷ của mình thật quá bé nhỏ so với các siêu máy tính hàng đầu thế giới đang ngày đêm phân tích hành vi con người kia. Thật sự thấy giới trẻ hiện nay thật khó để sống, để thoát được mê cung ma trận mà xã hội giăng ra. &lt;/p&gt; &lt;p&gt;Tiện thì các bác có biết cách nào giúp em từ từ, túc tắc nâng lại điểm cic không ạ. E giờ sợ nợ nâng lắm rồi, tuy nhiên cũng lo sau này khó huy động vốn mua nhà mua xe hay cho lúc khẩn cấp nào đó.&lt;/p&gt; &lt;p&gt;Thanks các bác đã nghe đôi lời chia sẻ của em ạ &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Salt-Morning-8866"&gt; /u/Salt-Morning-8866 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1puipyu/thực_sự_sợ_thẻ_tín_dụng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1puipyu/thực_sự_sợ_thẻ_tín_dụng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1puipyu/thực_sự_sợ_thẻ_tín_dụng/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-24T01:07:04+00:00</published>
+    <published>2025-12-24T08:43:24+00:00</published>
   </entry>
   <entry>
     <id>t3_1pudhfi</id>
