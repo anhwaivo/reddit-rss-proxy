@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-12-24T11:39:06+00:00</updated>
+  <updated>2025-12-24T11:50:30+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -99,19 +99,6 @@
     <published>2025-12-23T17:20:01+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pukbp6</id>
-    <title>Rikkei fresher dev</title>
-    <updated>2025-12-24T10:28:06+00:00</updated>
-    <author>
-      <name>/u/OkBarber8194</name>
-      <uri>https://old.reddit.com/user/OkBarber8194</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, chẳng là tuần này em có lịch phỏng vấn vị trí SQL dev level fresher. Ai có kinh nghiệm phỏng vấn công ty này rồi có thể chia sẻ cho em một ít không ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/OkBarber8194"&gt; /u/OkBarber8194 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pukbp6/rikkei_fresher_dev/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pukbp6/rikkei_fresher_dev/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pukbp6/rikkei_fresher_dev/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-24T10:28:06+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1puhdw1</id>
     <title>Mấy thím cho tui hỏi, gần SG tui muốn đi xe máy phượt nhanh trong ngày thì nên đi đâu ta.</title>
     <updated>2025-12-24T07:18:26+00:00</updated>
@@ -123,19 +110,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1puhdw1/mấy_thím_cho_tui_hỏi_gần_sg_tui_muốn_đi_xe_máy/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-24T07:18:26+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1pukync</id>
-    <title>chuyện tìm bạn</title>
-    <updated>2025-12-24T11:08:10+00:00</updated>
-    <author>
-      <name>/u/suri_uwu</name>
-      <uri>https://old.reddit.com/user/suri_uwu</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;em mới bước ra khỏi vòng tay gia đình không lâu nên tò mò muốn hỏi ạ. Chuyện là dạo này em thấy các mối quan hệ đến nhanh và cũng đi nhanh quá nên suy ngẫm xíu. Mất bao lâu để mọi người có thể tìm được một người bạn tốt nhỉ? bạn tốt em muốn nói ở đây không phải là bạn tình, cũng không phải những người chơi với nhau vì mình cho họ lợi ích và rời khi không còn giá trị, mà là bạn kiểu có đồng quan điểm sống, cả 2 đều thoải mái khi nói chuyện, bền vững khi trải qua những giai đoạn khó khăn. Việc có một người bạn như vậy có khó không? mọi người đến tuổi nào mới có được bạn như vậy, hay đây chỉ là may mắn không phải ai cũng có?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/suri_uwu"&gt; /u/suri_uwu &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pukync/chuyện_tìm_bạn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pukync/chuyện_tìm_bạn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pukync/chuyện_tìm_bạn/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-24T11:08:10+00:00</published>
   </entry>
   <entry>
     <id>t3_1pue2p0</id>
@@ -177,6 +151,19 @@
     <published>2025-12-24T03:32:25+00:00</published>
   </entry>
   <entry>
+    <id>t3_1pukbp6</id>
+    <title>Rikkei fresher dev</title>
+    <updated>2025-12-24T10:28:06+00:00</updated>
+    <author>
+      <name>/u/OkBarber8194</name>
+      <uri>https://old.reddit.com/user/OkBarber8194</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, chẳng là tuần này em có lịch phỏng vấn vị trí SQL dev level fresher. Ai có kinh nghiệm phỏng vấn công ty này rồi có thể chia sẻ cho em một ít không ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/OkBarber8194"&gt; /u/OkBarber8194 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pukbp6/rikkei_fresher_dev/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pukbp6/rikkei_fresher_dev/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pukbp6/rikkei_fresher_dev/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-24T10:28:06+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1pucr9q</id>
     <title>Liệu có khả thi khi xây dựng 1 web giống webtoon để đăng tải truyện Việt ?</title>
     <updated>2025-12-24T03:00:24+00:00</updated>
@@ -201,6 +188,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pufo7x/mn_cho_mình_hỏi_đây_là_kênh_nào_vậy_thấy_trên_fb/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-24T05:37:30+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pukync</id>
+    <title>chuyện tìm bạn</title>
+    <updated>2025-12-24T11:08:10+00:00</updated>
+    <author>
+      <name>/u/suri_uwu</name>
+      <uri>https://old.reddit.com/user/suri_uwu</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;em mới bước ra khỏi vòng tay gia đình không lâu nên tò mò muốn hỏi ạ. Chuyện là dạo này em thấy các mối quan hệ đến nhanh và cũng đi nhanh quá nên suy ngẫm xíu. Mất bao lâu để mọi người có thể tìm được một người bạn tốt nhỉ? bạn tốt em muốn nói ở đây không phải là bạn tình, cũng không phải những người chơi với nhau vì mình cho họ lợi ích và rời khi không còn giá trị, mà là bạn kiểu có đồng quan điểm sống, cả 2 đều thoải mái khi nói chuyện, bền vững khi trải qua những giai đoạn khó khăn. Việc có một người bạn như vậy có khó không? mọi người đến tuổi nào mới có được bạn như vậy, hay đây chỉ là may mắn không phải ai cũng có?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/suri_uwu"&gt; /u/suri_uwu &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pukync/chuyện_tìm_bạn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pukync/chuyện_tìm_bạn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pukync/chuyện_tìm_bạn/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-24T11:08:10+00:00</published>
   </entry>
   <entry>
     <id>t3_1pui3va</id>
