@@ -2,37 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-12-25T13:20:57+00:00</updated>
+  <updated>2025-12-25T13:48:20+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1pvbyh9</id>
-    <title>trì hoãn</title>
-    <updated>2025-12-25T12:00:36+00:00</updated>
-    <author>
-      <name>/u/DinhGiAng24</name>
-      <uri>https://old.reddit.com/user/DinhGiAng24</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Ngoài cv bắt buộc phải làm kiếm tiền thì mk trì hoãn học kĩ năng mới, việc nhà, nấu ăn, ... Xin mk cách khắc phục tình trạng này với ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/DinhGiAng24"&gt; /u/DinhGiAng24 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pvbyh9/trì_hoãn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pvbyh9/trì_hoãn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pvbyh9/trì_hoãn/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-25T12:00:36+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1pvc4wp</id>
-    <title>Bắt bệnh 6600xt</title>
-    <updated>2025-12-25T12:11:41+00:00</updated>
-    <author>
-      <name>/u/Interstate1010</name>
-      <uri>https://old.reddit.com/user/Interstate1010</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;strong&gt;Tóm tắt vấn đề VGA (RX 6600 XT XFX 3 fan)&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;GPU: RX 6600 XT XFX 3 fan&lt;/li&gt; &lt;li&gt;&lt;p&gt;Tình trạng:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Phải bật máy 3–4 lần GPU mới lên hình và hoạt động&lt;/li&gt; &lt;li&gt;Có hình thì hiển thị &lt;strong&gt;rất rõ, không artifact&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;Sau 10 giây đến ~1 phút: &lt;strong&gt;mất hình, quạt GPU dừng hẳn&lt;/strong&gt;&lt;/li&gt; &lt;/ul&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Lỗi xảy ra &lt;strong&gt;ngay từ lúc khởi động&lt;/strong&gt;, trước khi vào Windows&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Test sang &lt;strong&gt;máy khác vẫn y như vậy&lt;/strong&gt; nên loại trừ PSU, main, RAM&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Không phải lỗi driver, màn hình, cáp, hay nhiệt độ&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;GPU không crash, không treo, mà &lt;strong&gt;bị cắt nguồn đột ngột&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt; &lt;/ul&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Interstate1010"&gt; /u/Interstate1010 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pvc4wp/bắt_bệnh_6600xt/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pvc4wp/bắt_bệnh_6600xt/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pvc4wp/bắt_bệnh_6600xt/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-25T12:11:41+00:00</published>
-  </entry>
   <entry>
     <id>t3_1pvcdlh</id>
     <title>Có ai mua hàng Tindie từ người bán ở Úc chưa cho em hỏi</title>
@@ -86,6 +60,19 @@
     <published>2025-12-25T04:26:22+00:00</published>
   </entry>
   <entry>
+    <id>t3_1pvdc23</id>
+    <title>Làm thế nào để biết 1 cô gái thật sự có tình cảm với mình</title>
+    <updated>2025-12-25T13:24:48+00:00</updated>
+    <author>
+      <name>/u/Lamburgumbur</name>
+      <uri>https://old.reddit.com/user/Lamburgumbur</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;em ms quen 1 bạn con gái này. Em không biết bạn có thật sự có hứng thú không nữa hay đang chơi đùa em mong mn giúp ạ.Em muốn block mà cứ tiếc tiếc. - đồng ý gặp em ở ngoài - ở ngoài hoặc call nói nhiều nhưng ntin rất khô khan, luôn để cuộc trò chuyện dẫn tới đường cùng.ví dụ hay trả lời &amp;quot;ok&amp;quot;, &amp;quot;o&amp;quot;, &amp;quot;ờ&amp;quot;. - rep vô cùng chậm . Em hỏi thì bạn bảo tắt thông báo mxh chỉ để zalo nhưng em thấy ko tin tưởng đc - gặp ở ngoài có physical touch, flirt( nhắn tin cũng có flirt) - thường nhắn về đêm ( em khá cảnh giác cái này) - cho em call lúc nào cũng được - em có giận thì bạn cũng biết xin lỗi - đôi khi nhắn trước - trước giờ chỉ mập mờ chưa yêu đc ai - cao hơn em 1cm&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Lamburgumbur"&gt; /u/Lamburgumbur &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pvdc23/làm_thế_nào_để_biết_1_cô_gái_thật_sự_có_tình_cảm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pvdc23/làm_thế_nào_để_biết_1_cô_gái_thật_sự_có_tình_cảm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pvdc23/làm_thế_nào_để_biết_1_cô_gái_thật_sự_có_tình_cảm/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-25T13:24:48+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1pva1k0</id>
     <title>Lấy cao răng có làm răng trắng hơn?</title>
     <updated>2025-12-25T09:49:45+00:00</updated>
@@ -97,6 +84,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pva1k0/lấy_cao_răng_có_làm_răng_trắng_hơn/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-25T09:49:45+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pvdjof</id>
+    <title>Học TA cho ng đi làm</title>
+    <updated>2025-12-25T13:37:10+00:00</updated>
+    <author>
+      <name>/u/Character-File2844</name>
+      <uri>https://old.reddit.com/user/Character-File2844</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình hiện tại cũng học tiếng nọ tiếng kia, có tiếng học trên trường, có tiếng tự học (ví dụ: ả rập, trung), có tiếng thì mua bn là sách nhưng cứ mở r lại đóng ( vd: tiếng anh). Nên mình cũng có chút kinh nghiệm trong việc học ngoại ngữ đối vs ng đi làm.&lt;/p&gt; &lt;p&gt;Sau khi thử 7749 cách tìm cảm hứng cho việc học tiếng anh. Thì cách mà hiệu quả nhất là xem video và nhại lại( có rất nhiều ng nhắc về cách này r) Qua video, film, hay đoạn cut nếu mn lặp lại nó thường xuyên thì sẽ nhớ luôn được cả cách dùng từ, dùng thì, cách diễn đạt của họ luôn. Một công đôi việc.&lt;/p&gt; &lt;p&gt;Cái vấn đề là cũng rất dễ nản, nên ban đầu mn chọn clip ngắn khoảng 8-10’ thôi, nghe và lặp lại vài lần, rồi tóm tắt lại bằng từ của mình. Một clip đó mn nghe và lặp lại trong khoảng 1 tuần, cho đến khi có thể kể lại câu chuyện đó trơn tru hơn&lt;/p&gt; &lt;p&gt;Và đừng áp lực thành quả, việc học ngoại ngữ luôn cần thời gian, và sự thích thú. Đừng biến nó thành bài thi, và bắt buộc phải đạt A+ &lt;/p&gt; &lt;p&gt;Nếu note từ vựng ra giấy chán quá, thì mn dùng app để note. Kiến thức trong sách k thú vị, thì tìm nội dung mà bản thân hứng thú để đọc, để nghe. Hướng nội thì tự tưởng tưởng và nói một mình…Hãy tạo cho bản thân môi trường để học. &lt;/p&gt; &lt;p&gt;Và quan trọng là phải hiểu mục đích học của bản thân là gì để lấy đó làm động lực.&lt;/p&gt; &lt;p&gt;P/s: giáng sinh gđ vẫn khoẻ mạnh, bạn bè an vui, mxh cx xoá r, hôm nay nghỉ ôn thi, nên lướt reddit cmt dạo cũng hơi nhèo. Các bác thông kẻm haha🙏&lt;/p&gt; &lt;p&gt;Chúc mn học tốt hjhj&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Character-File2844"&gt; /u/Character-File2844 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pvdjof/học_ta_cho_ng_đi_làm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pvdjof/học_ta_cho_ng_đi_làm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pvdjof/học_ta_cho_ng_đi_làm/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-25T13:37:10+00:00</published>
   </entry>
   <entry>
     <id>t3_1puq6q7</id>
