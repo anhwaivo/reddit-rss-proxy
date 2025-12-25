@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-12-25T17:17:33+00:00</updated>
+  <updated>2025-12-25T17:41:19+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -86,19 +86,6 @@
     <published>2025-12-24T14:30:07+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pvgvin</id>
-    <title>Chán việc</title>
-    <updated>2025-12-25T16:27:32+00:00</updated>
-    <author>
-      <name>/u/CanRoutine9376</name>
-      <uri>https://old.reddit.com/user/CanRoutine9376</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;M22, chào mọi người, em mới đi làm được gần 2 tháng thì thấy công việc không hợp với mình (dù có liên quan tới chuyên ngành), cứ phải ngồi mò mấy cái ngách ngách như công nghệ độc quyền, giao thức của đống thiết bị đến từ một mớ hãng khác nhau làm em thấy tù túng, không được tự do phát triển. Công ty thì nhỏ quy trình hầm bà lằng lộn xộn như cái quốc gia thu nhỏ. Vậy thì có cách nào để thoát ra cảnh này không anh chị? Có cách nào để tự chủ tài chính từ sớm để không phải làm những việc mình không thích không?&lt;/p&gt; &lt;p&gt;Làm sao để tìm được thứ mình thích để theo đuổi? Hành trình của mọi người ra sao có thể kể cho em nghe với được không&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/CanRoutine9376"&gt; /u/CanRoutine9376 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pvgvin/chán_việc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pvgvin/chán_việc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pvgvin/chán_việc/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-25T16:27:32+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1pvgztu</id>
     <title>Sống sao cho đỡ sợ bị ghét</title>
     <updated>2025-12-25T16:33:14+00:00</updated>
@@ -138,19 +125,6 @@
     <published>2025-12-25T09:19:06+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pvb7p6</id>
-    <title>Học hát dễ không , tóm lại ổn áp khong mnguoi</title>
-    <updated>2025-12-25T11:09:43+00:00</updated>
-    <author>
-      <name>/u/Virtual_Tank_5594</name>
-      <uri>https://old.reddit.com/user/Virtual_Tank_5594</uri>
-    </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Virtual_Tank_5594"&gt; /u/Virtual_Tank_5594 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pvb7p6/học_hát_dễ_không_tóm_lại_ổn_áp_khong_mnguoi/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pvb7p6/học_hát_dễ_không_tóm_lại_ổn_áp_khong_mnguoi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pvb7p6/học_hát_dễ_không_tóm_lại_ổn_áp_khong_mnguoi/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-25T11:09:43+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1pv6drb</id>
     <title>Làm sao để lấy lại động lực trong cuộc sống?</title>
     <updated>2025-12-25T05:40:40+00:00</updated>
@@ -175,6 +149,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pvbyh9/trì_hoãn/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-25T12:00:36+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pvb7p6</id>
+    <title>Học hát dễ không , tóm lại ổn áp khong mnguoi</title>
+    <updated>2025-12-25T11:09:43+00:00</updated>
+    <author>
+      <name>/u/Virtual_Tank_5594</name>
+      <uri>https://old.reddit.com/user/Virtual_Tank_5594</uri>
+    </author>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Virtual_Tank_5594"&gt; /u/Virtual_Tank_5594 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pvb7p6/học_hát_dễ_không_tóm_lại_ổn_áp_khong_mnguoi/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pvb7p6/học_hát_dễ_không_tóm_lại_ổn_áp_khong_mnguoi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pvb7p6/học_hát_dễ_không_tóm_lại_ổn_áp_khong_mnguoi/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-25T11:09:43+00:00</published>
   </entry>
   <entry>
     <id>t3_1pv8x2q</id>
@@ -203,6 +190,19 @@
     <published>2025-12-25T04:08:47+00:00</published>
   </entry>
   <entry>
+    <id>t3_1pvgvin</id>
+    <title>Chán việc</title>
+    <updated>2025-12-25T16:27:32+00:00</updated>
+    <author>
+      <name>/u/CanRoutine9376</name>
+      <uri>https://old.reddit.com/user/CanRoutine9376</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;M22, chào mọi người, em mới đi làm được gần 2 tháng thì thấy công việc không hợp với mình (dù có liên quan tới chuyên ngành), cứ phải ngồi mò mấy cái ngách ngách như công nghệ độc quyền, giao thức của đống thiết bị đến từ một mớ hãng khác nhau làm em thấy tù túng, không được tự do phát triển. Công ty thì nhỏ quy trình hầm bà lằng lộn xộn như cái quốc gia thu nhỏ. Vậy thì có cách nào để thoát ra cảnh này không anh chị? Có cách nào để tự chủ tài chính từ sớm để không phải làm những việc mình không thích không?&lt;/p&gt; &lt;p&gt;Làm sao để tìm được thứ mình thích để theo đuổi? Hành trình của mọi người ra sao có thể kể cho em nghe với được không&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/CanRoutine9376"&gt; /u/CanRoutine9376 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pvgvin/chán_việc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pvgvin/chán_việc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pvgvin/chán_việc/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-25T16:27:32+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1pva2hp</id>
     <title>Trưởng thành</title>
     <updated>2025-12-25T09:51:31+00:00</updated>
@@ -216,19 +216,6 @@
     <published>2025-12-25T09:51:31+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pveyg8</id>
-    <title>Cách nêu ra ý kiến của mình</title>
-    <updated>2025-12-25T14:53:46+00:00</updated>
-    <author>
-      <name>/u/Inevitable_Sport8122</name>
-      <uri>https://old.reddit.com/user/Inevitable_Sport8122</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Có cách nào thể hiện quan điểm của bản thân không thường thì tôi cảm thấy mình ko giỏi nói ra điều mình muốn nghĩ. Đó là tôi khó chịu&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Inevitable_Sport8122"&gt; /u/Inevitable_Sport8122 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pveyg8/cách_nêu_ra_ý_kiến_của_mình/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pveyg8/cách_nêu_ra_ý_kiến_của_mình/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pveyg8/cách_nêu_ra_ý_kiến_của_mình/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-25T14:53:46+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1pvcqqy</id>
     <title>Bỏ thói quen xấu</title>
     <updated>2025-12-25T12:49:39+00:00</updated>
@@ -240,6 +227,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pvcqqy/bỏ_thói_quen_xấu/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-25T12:49:39+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pveyg8</id>
+    <title>Cách nêu ra ý kiến của mình</title>
+    <updated>2025-12-25T14:53:46+00:00</updated>
+    <author>
+      <name>/u/Inevitable_Sport8122</name>
+      <uri>https://old.reddit.com/user/Inevitable_Sport8122</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Có cách nào thể hiện quan điểm của bản thân không thường thì tôi cảm thấy mình ko giỏi nói ra điều mình muốn nghĩ. Đó là tôi khó chịu&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Inevitable_Sport8122"&gt; /u/Inevitable_Sport8122 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pveyg8/cách_nêu_ra_ý_kiến_của_mình/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pveyg8/cách_nêu_ra_ý_kiến_của_mình/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pveyg8/cách_nêu_ra_ý_kiến_của_mình/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-25T14:53:46+00:00</published>
   </entry>
   <entry>
     <id>t3_1pvbohu</id>
@@ -281,19 +281,6 @@
     <published>2025-12-25T09:31:09+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pvex9v</id>
-    <title>Tìm bạn nói chuyện</title>
-    <updated>2025-12-25T14:52:03+00:00</updated>
-    <author>
-      <name>/u/bubblemochi3005</name>
-      <uri>https://old.reddit.com/user/bubblemochi3005</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình là nữ, sống ở châu Âu, tính hướng nội nên cuộc sống khá yên tĩnh.&lt;/p&gt; &lt;p&gt;Muốn tìm người nói chuyện cho vui, chia sẻ linh tinh cũng được.&lt;/p&gt; &lt;p&gt;Ai cần người lắng nghe thì cứ nhắn, mình không phán xét.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/bubblemochi3005"&gt; /u/bubblemochi3005 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pvex9v/tìm_bạn_nói_chuyện/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pvex9v/tìm_bạn_nói_chuyện/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pvex9v/tìm_bạn_nói_chuyện/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-25T14:52:03+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1pv83xe</id>
     <title>Quan điểm của tụi m về thread city</title>
     <updated>2025-12-25T07:34:59+00:00</updated>
@@ -305,6 +292,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pv83xe/quan_điểm_của_tụi_m_về_thread_city/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-25T07:34:59+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pvex9v</id>
+    <title>Tìm bạn nói chuyện</title>
+    <updated>2025-12-25T14:52:03+00:00</updated>
+    <author>
+      <name>/u/bubblemochi3005</name>
+      <uri>https://old.reddit.com/user/bubblemochi3005</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình là nữ, sống ở châu Âu, tính hướng nội nên cuộc sống khá yên tĩnh.&lt;/p&gt; &lt;p&gt;Muốn tìm người nói chuyện cho vui, chia sẻ linh tinh cũng được.&lt;/p&gt; &lt;p&gt;Ai cần người lắng nghe thì cứ nhắn, mình không phán xét.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/bubblemochi3005"&gt; /u/bubblemochi3005 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pvex9v/tìm_bạn_nói_chuyện/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pvex9v/tìm_bạn_nói_chuyện/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pvex9v/tìm_bạn_nói_chuyện/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-25T14:52:03+00:00</published>
   </entry>
   <entry>
     <id>t3_1pvaydd</id>
