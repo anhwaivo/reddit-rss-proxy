@@ -2,37 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-12-25T09:44:00+00:00</updated>
+  <updated>2025-12-25T09:54:05+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1pv8v93</id>
-    <title>Bảng xếp hạng các trang web hàng đầu tại Việt Nam – Bạn có thể kiểm tra xem website của mình đang đứng thứ bao nhiêu</title>
-    <updated>2025-12-25T08:27:21+00:00</updated>
-    <author>
-      <name>/u/DurianOdd3621</name>
-      <uri>https://old.reddit.com/user/DurianOdd3621</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người,&lt;/p&gt; &lt;p&gt;Gần đây mình có tìm hiểu về các công cụ thống kê lưu lượng truy cập Internet tại Việt Nam và phát hiện ra một hệ thống khá hay: nó cho phép xem &lt;strong&gt;bảng xếp hạng các trang web được truy cập nhiều nhất tại Việt Nam&lt;/strong&gt;, đồng thời có thể &lt;strong&gt;tra cứu xem website của mình đang đứng thứ bao nhiêu&lt;/strong&gt;. Ngoài ra, hệ thống còn hỗ trợ &lt;strong&gt;xem xếp hạng website theo từng ngành nghề riêng biệt&lt;/strong&gt; như tin tức, thương mại điện tử, giáo dục, ẩm thực, dịch vụ công, công nghệ, giải trí, v.v.&lt;/p&gt; &lt;p&gt;Mình có tổng hợp và phân tích lại để mọi người tham khảo:&lt;/p&gt; &lt;h1&gt;1. Toàn cảnh bảng xếp hạng website tại Việt Nam&lt;/h1&gt; &lt;p&gt;Dữ liệu cho thấy các trang như công cụ tìm kiếm, nền tảng video, mạng xã hội, thương mại điện tử và báo chí trực tuyến vẫn chiếm phần lớn lưu lượng truy cập Internet tại Việt Nam. Điều này khá đúng với thói quen sử dụng Internet của chúng ta: tra cứu thông tin, xem nội dung, kết nối cộng đồng và mua sắm online.&lt;/p&gt; &lt;p&gt;Điểm đáng chú ý là một số nền tảng AI và chatbot cũng đã lọt vào top các website truy cập nhiều nhất tại Việt Nam. Điều này cho thấy người dùng Việt đang bắt đầu tiếp cận mạnh mẽ hơn với công nghệ trí tuệ nhân tạo.&lt;/p&gt; &lt;h1&gt;2. Bạn có thể tra cứu xem website của mình đang đứng thứ bao nhiêu&lt;/h1&gt; &lt;p&gt;Một tính năng rất hữu ích là người dùng có thể nhập tên miền bất kỳ để xem:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Thứ hạng chung tại Việt Nam&lt;/li&gt; &lt;li&gt;Thị phần truy cập ước tính&lt;/li&gt; &lt;li&gt;Ngành nghề của website&lt;/li&gt; &lt;li&gt;Thứ hạng trong ngành&lt;/li&gt; &lt;li&gt;Các kênh truy cập chính&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Việc này phù hợp với:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;CEO, chủ doanh nghiệp&lt;/li&gt; &lt;li&gt;Người làm SEO/Marketing&lt;/li&gt; &lt;li&gt;Blogger&lt;/li&gt; &lt;li&gt;Chủ shop online&lt;/li&gt; &lt;li&gt;Admin diễn đàn&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Nhờ vậy, bạn sẽ có góc nhìn rõ hơn về vị thế trực tuyến của mình so với thị trường.&lt;/p&gt; &lt;h1&gt;3. Xem xếp hạng theo ngành nghề&lt;/h1&gt; &lt;p&gt;Thay vì so sánh chung với mọi lĩnh vực, bạn có thể lọc theo từng ngành. Ví dụ:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Báo chí&lt;/li&gt; &lt;li&gt;Dịch vụ công&lt;/li&gt; &lt;li&gt;Giáo dục&lt;/li&gt; &lt;li&gt;Thương mại điện tử&lt;/li&gt; &lt;li&gt;Ẩm thực&lt;/li&gt; &lt;li&gt;Du lịch&lt;/li&gt; &lt;li&gt;Công nghệ&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Điều này giúp đánh giá chính xác hơn năng lực cạnh tranh trong thị trường ngách của mình.&lt;/p&gt; &lt;h1&gt;4. Vì sao bảng xếp hạng này hữu ích?&lt;/h1&gt; &lt;p&gt;Đối với doanh nghiệp và cá nhân làm nội dung online, đây là nguồn tham khảo tốt để:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Nghiên cứu thị trường&lt;/li&gt; &lt;li&gt;Theo dõi xu hướng&lt;/li&gt; &lt;li&gt;Đo lường hiệu quả hoạt động&lt;/li&gt; &lt;li&gt;Phân tích đối thủ&lt;/li&gt; &lt;li&gt;Xác định chiến lược phát triển&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Tất nhiên, đây chỉ là số liệu thống kê ước tính từ bên thứ ba và không thay thế dữ liệu nội bộ. Nhưng nó rất hữu ích để nhìn bức tranh tổng thể.&lt;/p&gt; &lt;h1&gt;5. Video mình chia sẻ chi tiết hơn&lt;/h1&gt; &lt;p&gt;Mình có làm một video trình bày cụ thể cách xem bảng xếp hạng, cách tra cứu theo ngành và ví dụ thực tế. Nếu ai quan tâm có thể xem tại đây:&lt;/p&gt; &lt;p&gt;&lt;a href="https://reddit.com/link/1pv8v93/video/8myzku0l8b9g1/player"&gt;https://reddit.com/link/1pv8v93/video/8myzku0l8b9g1/player&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Video chỉ mang tính chia sẻ kiến thức và tổng hợp thông tin, không quảng cáo hay dẫn link tới các nội dung nhạy cảm.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/DurianOdd3621"&gt; /u/DurianOdd3621 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pv8v93/bảng_xếp_hạng_các_trang_web_hàng_đầu_tại_việt_nam/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pv8v93/bảng_xếp_hạng_các_trang_web_hàng_đầu_tại_việt_nam/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pv8v93/bảng_xếp_hạng_các_trang_web_hàng_đầu_tại_việt_nam/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-25T08:27:21+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1pv93ij</id>
-    <title>hỏi về cắt đoạn video online trên YTB</title>
-    <updated>2025-12-25T08:43:57+00:00</updated>
-    <author>
-      <name>/u/doankaka</name>
-      <uri>https://old.reddit.com/user/doankaka</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1pv93ij/hỏi_về_cắt_đoạn_video_online_trên_ytb/"&gt; &lt;img alt="hỏi về cắt đoạn video online trên YTB" src="https://b.thumbs.redditmedia.com/s-SKRtlnB4PBMO-A9PxB-zpKCUcpowqp0pAJgW2RMtQ.jpg" title="hỏi về cắt đoạn video online trên YTB" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="https://preview.redd.it/9rcdg39qbb9g1.png?width=1575&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=40c44081e9ec7a894895bc9a9d3d6894cc7d27a8"&gt;https://preview.redd.it/9rcdg39qbb9g1.png?width=1575&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=40c44081e9ec7a894895bc9a9d3d6894cc7d27a8&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Bro nào biết cắt đoan video Yotube trực tiếp có thể dùng addon hoặc web nào đó ?? mà ko cần tải video về máy (t lười + video nặng tốn dung lượng) mà vẫn tải về đoạn video đó ko.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/doankaka"&gt; /u/doankaka &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pv93ij/hỏi_về_cắt_đoạn_video_online_trên_ytb/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pv93ij/hỏi_về_cắt_đoạn_video_online_trên_ytb/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pv93ij/hỏi_về_cắt_đoạn_video_online_trên_ytb/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-25T08:43:57+00:00</published>
-  </entry>
   <entry>
     <id>t3_1pv98fo</id>
     <title>HỎI VỀ CẮT ĐOẠN VIDEO TRÊN YOUTUBE TRỰC TIẾP TRÊN WEB</title>
@@ -136,6 +110,32 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pun08s/tâm_sự_đêm_giáng_sinh_tí_nhỉ/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-24T13:08:36+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pva1k0</id>
+    <title>Lấy cao răng có làm răng trắng hơn?</title>
+    <updated>2025-12-25T09:49:45+00:00</updated>
+    <author>
+      <name>/u/Galaxy_s25ultra</name>
+      <uri>https://old.reddit.com/user/Galaxy_s25ultra</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;a/c nào đã từng lấy cao răng rồi cho em xin ít lời khuyên và nơi khám uy tín tại Hà Nội với ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Galaxy_s25ultra"&gt; /u/Galaxy_s25ultra &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pva1k0/lấy_cao_răng_có_làm_răng_trắng_hơn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pva1k0/lấy_cao_răng_có_làm_răng_trắng_hơn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pva1k0/lấy_cao_răng_có_làm_răng_trắng_hơn/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-25T09:49:45+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pva2hp</id>
+    <title>Trưởng thành</title>
+    <updated>2025-12-25T09:51:31+00:00</updated>
+    <author>
+      <name>/u/Moonlit_Introvert</name>
+      <uri>https://old.reddit.com/user/Moonlit_Introvert</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mn có để ý hay là do bản thân mình hay ko?? Mà cứ Noel hay lễ hoặc Tết thì mình luôn nó là 1 ngày để nghỉ ngơi hoặc xả hơi, có khi nằm ngủ cả ngày trong nhà mà ko thực sự tận hưởng như hồi nhỏ nữa... &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Moonlit_Introvert"&gt; /u/Moonlit_Introvert &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pva2hp/trưởng_thành/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pva2hp/trưởng_thành/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pva2hp/trưởng_thành/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-25T09:51:31+00:00</published>
   </entry>
   <entry>
     <id>t3_1pv5743</id>
@@ -268,19 +268,6 @@
     <published>2025-12-25T04:08:47+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pv9rw8</id>
-    <title>Bạn có ước hay muốn thay đổi điều gì của bản thân khi được quay lại năm 18-20tuoi của cuộc đời mình để hiện tại không cảm thấy hối hận như bây giờ không?. Đi qua rồi mới thấy quãng thời gian đó cái đầu chả chịu mở rộng tư duy để phát triển bản thân!</title>
-    <updated>2025-12-25T09:31:09+00:00</updated>
-    <author>
-      <name>/u/Legitimate-Meet-2662</name>
-      <uri>https://old.reddit.com/user/Legitimate-Meet-2662</uri>
-    </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Legitimate-Meet-2662"&gt; /u/Legitimate-Meet-2662 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pv9rw8/bạn_có_ước_hay_muốn_thay_đổi_điều_gì_của_bản_thân/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pv9rw8/bạn_có_ước_hay_muốn_thay_đổi_điều_gì_của_bản_thân/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pv9rw8/bạn_có_ước_hay_muốn_thay_đổi_điều_gì_của_bản_thân/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-25T09:31:09+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1pv6679</id>
     <title>Mọi người cảm thấy sao về nhan sắc cô gái này? Với mình cô đẹp đến mức mình cong mà muốn thẳng lại. Mà em ấy mới 2005</title>
     <updated>2025-12-25T05:26:57+00:00</updated>
@@ -292,6 +279,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pv6679/mọi_người_cảm_thấy_sao_về_nhan_sắc_cô_gái_này_với/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-25T05:26:57+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pv9rw8</id>
+    <title>Bạn có ước hay muốn thay đổi điều gì của bản thân khi được quay lại năm 18-20tuoi của cuộc đời mình để hiện tại không cảm thấy hối hận như bây giờ không?. Đi qua rồi mới thấy quãng thời gian đó cái đầu chả chịu mở rộng tư duy để phát triển bản thân!</title>
+    <updated>2025-12-25T09:31:09+00:00</updated>
+    <author>
+      <name>/u/Legitimate-Meet-2662</name>
+      <uri>https://old.reddit.com/user/Legitimate-Meet-2662</uri>
+    </author>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Legitimate-Meet-2662"&gt; /u/Legitimate-Meet-2662 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pv9rw8/bạn_có_ước_hay_muốn_thay_đổi_điều_gì_của_bản_thân/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pv9rw8/bạn_có_ước_hay_muốn_thay_đổi_điều_gì_của_bản_thân/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pv9rw8/bạn_có_ước_hay_muốn_thay_đổi_điều_gì_của_bản_thân/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-25T09:31:09+00:00</published>
   </entry>
   <entry>
     <id>t3_1pv46m0</id>
