@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-12-26T15:42:10+00:00</updated>
+  <updated>2025-12-26T15:52:51+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -164,19 +164,6 @@
     <published>2025-12-26T11:39:23+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pvu3j0</id>
-    <title>tử vi , nhân tướng học</title>
-    <updated>2025-12-26T03:14:34+00:00</updated>
-    <author>
-      <name>/u/phongthuy_tuvi</name>
-      <uri>https://old.reddit.com/user/phongthuy_tuvi</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;hữu duyên xem chỉ tay và lá số tử vi cho 10 anh em nhé&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/phongthuy_tuvi"&gt; /u/phongthuy_tuvi &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pvu3j0/tử_vi_nhân_tướng_học/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pvu3j0/tử_vi_nhân_tướng_học/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pvu3j0/tử_vi_nhân_tướng_học/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-26T03:14:34+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1pvzu32</id>
     <title>Xin ý kiến tham khảo về chuyện tình cảm</title>
     <updated>2025-12-26T08:55:22+00:00</updated>
@@ -188,6 +175,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pvzu32/xin_ý_kiến_tham_khảo_về_chuyện_tình_cảm/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-26T08:55:22+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pvu3j0</id>
+    <title>tử vi , nhân tướng học</title>
+    <updated>2025-12-26T03:14:34+00:00</updated>
+    <author>
+      <name>/u/phongthuy_tuvi</name>
+      <uri>https://old.reddit.com/user/phongthuy_tuvi</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;hữu duyên xem chỉ tay và lá số tử vi cho 10 anh em nhé&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/phongthuy_tuvi"&gt; /u/phongthuy_tuvi &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pvu3j0/tử_vi_nhân_tướng_học/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pvu3j0/tử_vi_nhân_tướng_học/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pvu3j0/tử_vi_nhân_tướng_học/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-26T03:14:34+00:00</published>
   </entry>
   <entry>
     <id>t3_1pw2ctt</id>
