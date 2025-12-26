@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-12-26T17:17:00+00:00</updated>
+  <updated>2025-12-26T17:40:12+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1pvukh8</id>
-    <title>Startup AI – chọn cloud nào hợp lý?</title>
-    <updated>2025-12-26T03:39:12+00:00</updated>
-    <author>
-      <name>/u/FishingMiserable3116</name>
-      <uri>https://old.reddit.com/user/FishingMiserable3116</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Team mình đang cân nhắc chọn cloud cho một startup AI, ưu tiên performance tốt, chi phí tối ưu ở giai đoạn đầu vầ ổn định cho chạy lâu dài. Hiện đang phân vân nhất giữa AWS và GCP, vì thấy cả hai đều có chương trình credit cho startup khá là cao. AWS thì ecosystem lớn, nhiều dịch vụ ML/AI và dễ scale, còn GCP nổi bật với TPU và data/AI stack khá mạnh. Không biết mọi người đã chạy AI workload thực tế trên hai nền tảng này thấy cost vs performance bên nào ổn hơn? Rất mong nghe kinh nghiệm thực tế từ mọi người&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/FishingMiserable3116"&gt; /u/FishingMiserable3116 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pvukh8/startup_ai_chọn_cloud_nào_hợp_lý/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pvukh8/startup_ai_chọn_cloud_nào_hợp_lý/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pvukh8/startup_ai_chọn_cloud_nào_hợp_lý/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-26T03:39:12+00:00</published>
-  </entry>
   <entry>
     <id>t3_1pvw5zh</id>
     <title>Để dành được 10 củ, bạn em kêu vào VIC mà h nghe tin VIC mốt xuống nên em bán vội, h vào mã nào các bác ơi</title>
@@ -138,19 +125,6 @@
     <published>2025-12-26T16:35:18+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pvu3j0</id>
-    <title>tử vi , nhân tướng học</title>
-    <updated>2025-12-26T03:14:34+00:00</updated>
-    <author>
-      <name>/u/phongthuy_tuvi</name>
-      <uri>https://old.reddit.com/user/phongthuy_tuvi</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;hữu duyên xem chỉ tay và lá số tử vi cho 10 anh em nhé&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/phongthuy_tuvi"&gt; /u/phongthuy_tuvi &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pvu3j0/tử_vi_nhân_tướng_học/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pvu3j0/tử_vi_nhân_tướng_học/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pvu3j0/tử_vi_nhân_tướng_học/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-26T03:14:34+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1pw92bv</id>
     <title>Cách quản lý thgian</title>
     <updated>2025-12-26T16:59:32+00:00</updated>
@@ -175,6 +149,32 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pw96hw/ae_mua_được_vàng_rồi_thì_để_đâu/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-26T17:03:56+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pvu3j0</id>
+    <title>tử vi , nhân tướng học</title>
+    <updated>2025-12-26T03:14:34+00:00</updated>
+    <author>
+      <name>/u/phongthuy_tuvi</name>
+      <uri>https://old.reddit.com/user/phongthuy_tuvi</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;hữu duyên xem chỉ tay và lá số tử vi cho 10 anh em nhé&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/phongthuy_tuvi"&gt; /u/phongthuy_tuvi &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pvu3j0/tử_vi_nhân_tướng_học/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pvu3j0/tử_vi_nhân_tướng_học/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pvu3j0/tử_vi_nhân_tướng_học/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-26T03:14:34+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pw9oav</id>
+    <title>Em bị thiếu niềm tin vào cuộc sống</title>
+    <updated>2025-12-26T17:24:28+00:00</updated>
+    <author>
+      <name>/u/Big-Place4308</name>
+      <uri>https://old.reddit.com/user/Big-Place4308</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Gần năm cuối cấp e có tiếp xúc với những thông tin mà e ch từng nghe đến như: những điều không đúng với sự thật được dạy trong môn Sử, tình trạng hiện tại của đất nước,tham nhũng,cái ác...Tâm lý chưa vững khiến e mất hi vọng về cuộc sống sau này thay vào đó là những cảm xúc phẫn nộ,đau đớn, tuyệt vọng😭Hiện tại điểm trên trường của em tụt đi trông thấy, e k muốn mình mất đi cơ hội mới đến môi trường đại học.Thật sự mấy tháng nay e học mãi không vào được đầu, em không tách được việc mình đang muốn đạt được và cái sốc với thực trạng của XH.Có ai biết e đang bị làm sao không ạ😭Bây giờ làm cách nào giảm phần nào cảm xúc chối bỏ đó ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Big-Place4308"&gt; /u/Big-Place4308 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pw9oav/em_bị_thiếu_niềm_tin_vào_cuộc_sống/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pw9oav/em_bị_thiếu_niềm_tin_vào_cuộc_sống/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pw9oav/em_bị_thiếu_niềm_tin_vào_cuộc_sống/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-26T17:24:28+00:00</published>
   </entry>
   <entry>
     <id>t3_1pw2ctt</id>
