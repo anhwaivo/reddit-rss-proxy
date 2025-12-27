@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-12-27T08:48:14+00:00</updated>
+  <updated>2025-12-27T09:19:25+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1pw4p2g</id>
-    <title>Giá laptop tăng cao ác</title>
-    <updated>2025-12-26T13:48:09+00:00</updated>
-    <author>
-      <name>/u/ellitrazov</name>
-      <uri>https://old.reddit.com/user/ellitrazov</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các bác cho em hỏi có nên mua laptop cuối năm nay không, giá bây giờ có tăng cao quá không vậy nhỉ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ellitrazov"&gt; /u/ellitrazov &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pw4p2g/giá_laptop_tăng_cao_ác/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pw4p2g/giá_laptop_tăng_cao_ác/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pw4p2g/giá_laptop_tăng_cao_ác/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-26T13:48:09+00:00</published>
-  </entry>
   <entry>
     <id>t3_1pwp6h1</id>
     <title>Đài vn và youtube</title>
@@ -47,19 +34,6 @@
     <published>2025-12-26T17:45:52+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pvzqx7</id>
-    <title>Vụ con dog cắn hàng xóm thấy tội con dog quá</title>
-    <updated>2025-12-26T08:49:26+00:00</updated>
-    <author>
-      <name>/u/Anxious-Highway282</name>
-      <uri>https://old.reddit.com/user/Anxious-Highway282</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Qua nay xem vụ con dog bị chủ nó gọi cắn chị hàng xóm. Mn có thấy con dog nó không hề muốn cắn người ko?&lt;/p&gt; &lt;p&gt;chủ nó ôm vất 2 lần xong chị kia chạy chạy nó thấy thế mới đuổi cắn. Thế là xong kiếp. &lt;/p&gt; &lt;p&gt;còn 2 bố con nhà kia đi tù xứng đáng&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Anxious-Highway282"&gt; /u/Anxious-Highway282 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pvzqx7/vụ_con_dog_cắn_hàng_xóm_thấy_tội_con_dog_quá/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pvzqx7/vụ_con_dog_cắn_hàng_xóm_thấy_tội_con_dog_quá/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pvzqx7/vụ_con_dog_cắn_hàng_xóm_thấy_tội_con_dog_quá/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-26T08:49:26+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1pw417d</id>
     <title>Nên quan tâm như thế nào khi quen một nữ sinh viên y nội trú</title>
     <updated>2025-12-26T13:15:08+00:00</updated>
@@ -71,6 +45,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pw417d/nên_quan_tâm_như_thế_nào_khi_quen_một_nữ_sinh/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-26T13:15:08+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pvzqx7</id>
+    <title>Vụ con dog cắn hàng xóm thấy tội con dog quá</title>
+    <updated>2025-12-26T08:49:26+00:00</updated>
+    <author>
+      <name>/u/Anxious-Highway282</name>
+      <uri>https://old.reddit.com/user/Anxious-Highway282</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Qua nay xem vụ con dog bị chủ nó gọi cắn chị hàng xóm. Mn có thấy con dog nó không hề muốn cắn người ko?&lt;/p&gt; &lt;p&gt;chủ nó ôm vất 2 lần xong chị kia chạy chạy nó thấy thế mới đuổi cắn. Thế là xong kiếp. &lt;/p&gt; &lt;p&gt;còn 2 bố con nhà kia đi tù xứng đáng&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Anxious-Highway282"&gt; /u/Anxious-Highway282 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pvzqx7/vụ_con_dog_cắn_hàng_xóm_thấy_tội_con_dog_quá/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pvzqx7/vụ_con_dog_cắn_hàng_xóm_thấy_tội_con_dog_quá/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pvzqx7/vụ_con_dog_cắn_hàng_xóm_thấy_tội_con_dog_quá/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-26T08:49:26+00:00</published>
   </entry>
   <entry>
     <id>t3_1pwnl3w</id>
@@ -110,19 +97,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pvvvg9/chọn_độc_thân_cả_đời_về_già_có_khổ_không/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-26T04:51:10+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1pwp16n</id>
-    <title>làm sao để biết được gu của crush (con trai) vậy mấy ông? tôi thắc mắc thật sự</title>
-    <updated>2025-12-27T04:46:55+00:00</updated>
-    <author>
-      <name>/u/Unusual-Run-3310</name>
-      <uri>https://old.reddit.com/user/Unusual-Run-3310</uri>
-    </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Unusual-Run-3310"&gt; /u/Unusual-Run-3310 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pwp16n/làm_sao_để_biết_được_gu_của_crush_con_trai_vậy/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pwp16n/làm_sao_để_biết_được_gu_của_crush_con_trai_vậy/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pwp16n/làm_sao_để_biết_được_gu_của_crush_con_trai_vậy/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-27T04:46:55+00:00</published>
   </entry>
   <entry>
     <id>t3_1pvzpnt</id>
@@ -201,6 +175,32 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pvusks/vài_bữa_nữa_chắc_thêm_luật_tru_di_cửu_tộc/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-26T03:51:22+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pwp16n</id>
+    <title>làm sao để biết được gu của crush (con trai) vậy mấy ông? tôi thắc mắc thật sự</title>
+    <updated>2025-12-27T04:46:55+00:00</updated>
+    <author>
+      <name>/u/Unusual-Run-3310</name>
+      <uri>https://old.reddit.com/user/Unusual-Run-3310</uri>
+    </author>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Unusual-Run-3310"&gt; /u/Unusual-Run-3310 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pwp16n/làm_sao_để_biết_được_gu_của_crush_con_trai_vậy/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pwp16n/làm_sao_để_biết_được_gu_của_crush_con_trai_vậy/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pwp16n/làm_sao_để_biết_được_gu_của_crush_con_trai_vậy/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-27T04:46:55+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pwtlhm</id>
+    <title>Game này tên gì nhỉ</title>
+    <updated>2025-12-27T09:16:12+00:00</updated>
+    <author>
+      <name>/u/Loveisalwaysalie</name>
+      <uri>https://old.reddit.com/user/Loveisalwaysalie</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=Kp_upaLSK8Q"&gt;https://www.youtube.com/watch?v=Kp_upaLSK8Q&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Loveisalwaysalie"&gt; /u/Loveisalwaysalie &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pwtlhm/game_này_tên_gì_nhỉ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pwtlhm/game_này_tên_gì_nhỉ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pwtlhm/game_này_tên_gì_nhỉ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-27T09:16:12+00:00</published>
   </entry>
   <entry>
     <id>t3_1pw0a1d</id>
