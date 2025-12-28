@@ -2,37 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-12-28T10:54:49+00:00</updated>
+  <updated>2025-12-28T11:16:32+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1pxdtbc</id>
-    <title>Chút Tình Gửi Lại</title>
-    <updated>2025-12-28T00:58:21+00:00</updated>
-    <author>
-      <name>/u/bo_hai</name>
-      <uri>https://old.reddit.com/user/bo_hai</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Người đi để lại chút dư hương, \ Dẫu biết từ đây cách dặm đường. \ Trả hết chân tình cho kỷ niệm, \ Gói lòng tĩnh lặng giữa màn sương.&lt;/p&gt; &lt;p&gt;Vương vấn rồi cũng thành mây khói, \ Nặng trĩu vai gầy trút nhẹ buông. \ Thôi thì thôi thế, người thương cũ, \ Chẳng nợ gì nhau, chỉ nhớ thương.&lt;/p&gt; &lt;p&gt;- Lục Nhân&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/bo_hai"&gt; /u/bo_hai &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pxdtbc/chút_tình_gửi_lại/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pxdtbc/chút_tình_gửi_lại/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pxdtbc/chút_tình_gửi_lại/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-28T00:58:21+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1pxh0rp</id>
-    <title>Vấn đề thay tản nhiệt cho GPU, cụ thể là con RTX 3060.</title>
-    <updated>2025-12-28T03:31:53+00:00</updated>
-    <author>
-      <name>/u/Additional-Pride1362</name>
-      <uri>https://old.reddit.com/user/Additional-Pride1362</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình đang dùng bộ PC Gaming được một năm, bây giờ mỗi khi chơi game nặng, quạt GPU quay ồn hơn và thấy trong máy có tiếng kêu lạ kiểu &amp;quot;kẹt kẹt, cách cách&amp;quot;. Nhiệt độ con 3060 của mình khi chơi game AAA trung bình rơi vào tầm 75-80 độ ( có thể nóng hơn nhiều độ tùy lúc ), ví dụ mình đang chơi Crysis 2 Remasted thì em nó cố định ở 79 độ đo ở cái MSI Afterburner. Đáng lo là cái tiếng kêu kẹt kẹt, lách cách kia không biết nó ở đâu, em nghi vấn là cái quạt của con GPU nhất. &lt;/p&gt; &lt;p&gt;Em xin hỏi các cao nhân là có cần quá lo lắng về tình trạng này không, vì RTX 3060 của em còn bảo hành, em cũng không phải dân chuyên tháo lắp PC nên động vào GPU em rất ngại, hôm nọ thay cái tản với bôi keo cho con chip CPU thôi đã toát mồ hôi rồi. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Additional-Pride1362"&gt; /u/Additional-Pride1362 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pxh0rp/vấn_đề_thay_tản_nhiệt_cho_gpu_cụ_thể_là_con_rtx/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pxh0rp/vấn_đề_thay_tản_nhiệt_cho_gpu_cụ_thể_là_con_rtx/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pxh0rp/vấn_đề_thay_tản_nhiệt_cho_gpu_cụ_thể_là_con_rtx/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-28T03:31:53+00:00</published>
-  </entry>
   <entry>
     <id>t3_1pxlbyg</id>
     <title>[GÓC NHỜ VẢ] HP Victus 16 bị xung đột Docker (Kafka) &amp; Vanguard gây lỗi màn hình, nhờ mọi người bắt bệnh giúp</title>
@@ -225,19 +199,6 @@
     <published>2025-12-28T04:38:58+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pxno59</id>
-    <title>Tiền quan trọng, nhưng kp là tất cả.</title>
-    <updated>2025-12-28T09:52:29+00:00</updated>
-    <author>
-      <name>/u/cuongtm3288</name>
-      <uri>https://old.reddit.com/user/cuongtm3288</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình 97, trước có học nghề graphic design, &lt;/p&gt; &lt;p&gt;Mình vốn k học đại học, với mặc cảm này, mình luôn cố gắng tìm một cơ hội để chứng minh bản thân. 5 năm gần đây bén duyên với buôn bán nên để ra dc 1 khoản và lúc may mắn đã mua được 1 căn nhà tập thể Hn. Rồi bắt đầu sinh ảo tưởng và ngạo nghễ, nghĩ rằng mình đã thành công rồi.&lt;/p&gt; &lt;p&gt;Từ khi vào mảng này, mình cảm giác tiền kiếm dc khá là dễ, không nhất thiết phải bán sức lao động vất vả. Nhưng càng ngày, mình càng cảm thấy trống rỗng. Từ một thằng hồi xưa vô lo vô nghĩ, k có nhiều tiền nhưng năng lượng tràn đầy thì đến bây giờ càng ngày càng trầm uất, giao tiếp kém, số lượng các mối quan hệ càng giảm dần. Công việc cảm thấy không còn ý nghĩa gì nữa.&lt;/p&gt; &lt;p&gt;Mình cảm thấy kiếm được tiền nhưng không có cảm giác sống. Ngày ngày lầm lũi đăng bài chờ khách đến. Mọi người có thể thích sự tự do của mình nhưng ở trường hợp của mình cảm giác k biết làm gì với sự tự do này.&lt;/p&gt; &lt;p&gt;Đến độ giữa năm mình đã phải điều trị tại bệnh viện thần kinh. Sau đó mình đã đóng cửa hàng, lầm lũi trong nhà cả ngày, cảm giác như ở trong tù.&lt;/p&gt; &lt;p&gt;Ace nào đã từng trải qua như mình mình xin lời khuyên để vượt qua giai đoạn này ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/cuongtm3288"&gt; /u/cuongtm3288 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pxno59/tiền_quan_trọng_nhưng_kp_là_tất_cả/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pxno59/tiền_quan_trọng_nhưng_kp_là_tất_cả/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pxno59/tiền_quan_trọng_nhưng_kp_là_tất_cả/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-28T09:52:29+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1pxns6x</id>
     <title>Nhắn tin khi quen nhau</title>
     <updated>2025-12-28T10:00:01+00:00</updated>
@@ -249,6 +210,32 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pxns6x/nhắn_tin_khi_quen_nhau/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-28T10:00:01+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pxor3q</id>
+    <title>Mua iPhone</title>
+    <updated>2025-12-28T11:00:42+00:00</updated>
+    <author>
+      <name>/u/military003</name>
+      <uri>https://old.reddit.com/user/military003</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1pxor3q/mua_iphone/"&gt; &lt;img alt="Mua iPhone" src="https://preview.redd.it/zqgiw889fx9g1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ed05aea378cb79cc5cd09129f48d58af506f314d" title="Mua iPhone" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác! Sau bao năm vắt cực khô con mây đời tống thì nay e định lên đời. Được ae rcm shop này thấy giá cũng khá ngon mà không biết liêm không. Ae nào từng mua đây rồi cho e xin ít cảm nhận với ạ, mà bên đây bán kèm cả (bảo hiểm + bảo hành). K biết có nên mua k chứ e cũng bóp bụng lắm r Tks ae ghé chơi&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/military003"&gt; /u/military003 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/zqgiw889fx9g1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pxor3q/mua_iphone/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pxor3q/mua_iphone/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-28T11:00:42+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pxno59</id>
+    <title>Tiền quan trọng, nhưng kp là tất cả.</title>
+    <updated>2025-12-28T09:52:29+00:00</updated>
+    <author>
+      <name>/u/cuongtm3288</name>
+      <uri>https://old.reddit.com/user/cuongtm3288</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình 97, trước có học nghề graphic design, &lt;/p&gt; &lt;p&gt;Mình vốn k học đại học, với mặc cảm này, mình luôn cố gắng tìm một cơ hội để chứng minh bản thân. 5 năm gần đây bén duyên với buôn bán nên để ra dc 1 khoản và lúc may mắn đã mua được 1 căn nhà tập thể Hn. Rồi bắt đầu sinh ảo tưởng và ngạo nghễ, nghĩ rằng mình đã thành công rồi.&lt;/p&gt; &lt;p&gt;Từ khi vào mảng này, mình cảm giác tiền kiếm dc khá là dễ, không nhất thiết phải bán sức lao động vất vả. Nhưng càng ngày, mình càng cảm thấy trống rỗng. Từ một thằng hồi xưa vô lo vô nghĩ, k có nhiều tiền nhưng năng lượng tràn đầy thì đến bây giờ càng ngày càng trầm uất, giao tiếp kém, số lượng các mối quan hệ càng giảm dần. Công việc cảm thấy không còn ý nghĩa gì nữa.&lt;/p&gt; &lt;p&gt;Mình cảm thấy kiếm được tiền nhưng không có cảm giác sống. Ngày ngày lầm lũi đăng bài chờ khách đến. Mọi người có thể thích sự tự do của mình nhưng ở trường hợp của mình cảm giác k biết làm gì với sự tự do này.&lt;/p&gt; &lt;p&gt;Đến độ giữa năm mình đã phải điều trị tại bệnh viện thần kinh. Sau đó mình đã đóng cửa hàng, lầm lũi trong nhà cả ngày, cảm giác như ở trong tù.&lt;/p&gt; &lt;p&gt;Ace nào đã từng trải qua như mình mình xin lời khuyên để vượt qua giai đoạn này ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/cuongtm3288"&gt; /u/cuongtm3288 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pxno59/tiền_quan_trọng_nhưng_kp_là_tất_cả/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pxno59/tiền_quan_trọng_nhưng_kp_là_tất_cả/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pxno59/tiền_quan_trọng_nhưng_kp_là_tất_cả/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-28T09:52:29+00:00</published>
   </entry>
   <entry>
     <id>t3_1px3uch</id>
@@ -290,19 +277,6 @@
     <published>2025-12-28T10:37:37+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pxlo7p</id>
-    <title>1 người đàn ông đã có sự nghiệp, nhà và xe, vậy thứ tiếp theo xét đến là gì?</title>
-    <updated>2025-12-28T07:44:30+00:00</updated>
-    <author>
-      <name>/u/LeatherIce4433</name>
-      <uri>https://old.reddit.com/user/LeatherIce4433</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình là nữ, 25 tuổi, Mình là con nhà khá giả, bản thân xinh đẹp, biết tiếng Anh, Trung, Nhật, tuy nhiên cuộc đời phải va vấp nhiều để trưởng thành chứ đời ko trải hoa hồng, người ngoài nhìn vào chỉ thấy mình như tiểu thư vô tri, sung sướng nhưng trái lại mình là người cực kì sâu sắc, yêu thích và làm việc với nghệ thuật và thiết kế. Nội tâm mình rất phong phú và cuộc sống màu sắc. Bạn bè cũng nhiều và toàn người xinh gái nhà giàu, chơi bền bỉ cả chục năm trời. Cuộc sống mình phức tạp ở mọi mặt nên mình tham vọng nhiều và không ngừng cố gắng, chưa bao h cảm thấy mình học đủ, kiếm đủ. Trải qua nhiều mối tình cũng toàn những người tham vọng và ý chí cao hơn cả mình nên hầu như mình đều có cảm giác có thể dựa dẫm đc.&lt;/p&gt; &lt;p&gt;Người yêu mình, 28 tuổi, là người xuất phát từ gia đình ko khá giả, bạn bè ko nhiều, nhưng hầu như cuộc đời bằng phẳng, gia đình họ hàng yêu thương nhau, tuổi thơ yên bình, a ấy đi lên từ tay trắng, làm ở 1 công ty duy nhất cho đến năm 27 tuổi, có thời điểm vàng là xuyên suốt 1 năm a ấy có thể kiếm dc 3-400tr 1 tháng (anh ý làm mkt ads). 28 tuổi chuyển sang công ty mình làm, là cty thứ 2. hành trình thăng tiến vô cùng thuận lợi, sau khi tốt nghiệp đại học mua nhà. và gần đây vừa mua xe. không chơi bời, hút hít hay cờ bạc. Yêu 1 tháng đòi cưới mình, quá nhanh đúng không, mình có hỏi thì ảnh bảo đã quan sát mình và yêu trộm suốt 1 năm qua. và mãi mới có thể hẹn hò với mình, nên a ý muốn giữ mình.&lt;/p&gt; &lt;p&gt;Nói về cách bọn mình đến với nhau, mình làm việc đc nửa năm thì anh ấy vào công ty mình và làm lead mkt (có chút liên quan đến phòng ban mình) nên lấy cớ để làm việc và nói chuyện với mình. tặng hoa và quà cho mình, tuy nhiên mình ko quá thích nên mình ko chịu đi date, mình có gửi quà lại để ko mang cảm giác mắc nợ, và mình chỉ đi date sau khi ảnh nói dối ảnh là thủ khoa toàn quốc vào năm 2015 (có chỉnh ảnh và tên rồi gửi mình khiến cho mình tưởng thật, sự thật là chỉ thủ khoa ngành của 1 trường). sau này qua nhiều lần nói chuyện mình thấy kiến thức xã hội của anh ấy có vấn đề nên anh ấy mới khai thật là nói dối chỉ để đc date cùng mình. Mình không đặt nặng chuyện đó sau này. Nhưng càng yêu mình mới càng thấy nhiều thứ lộ ra: &lt;/p&gt; &lt;p&gt;1, Anh ấy là 1 người ko có sở thích cá nhân và cá tính cho riêng mình. Không xem phim ảnh, không nghe nhạc, không hứng thú với 1 chủ đề nào đó, không biết ngoại ngữ. Không thể thao, để theo đuổi mình đã cố gắng đánh cầu cật lực để giảm cân chứ cũng ko hẳn yêu thích thể thao. Không thích gym. Ban đầu mình cũng ko coi đó là chuyện quá quan trọng. Mình chủ quan vì tất cả những người trước đây đều có cá tính rất đặc biệt. Và một phần cũng vì anh ấy green, anh ý hiền lành và nhường nhịn vô điều kiện chỉ để giư chân mình.&lt;/p&gt; &lt;p&gt;2, Không quyết đoán, rất dễ theo ý người khác. Ví dụ chuyện gần đây anh í phải theo bố đi nhậu cùng họ hàng và hàng xóm mỗi lần bố từ quê ra nhà anh ấy chơi, đến mức có tuần lên đến 4,5 bữa rượu, anh ấy luôn tỏ ra ko thích đi nhậu với mình và kể rằng mỗi lần nhậu về phải móc họng, do đang cố giảm cân (1m75 90 cân) và gặp vđề về cột sống do thân trên quá nặng. Và mình có trách là tưởng uống với đối tác thì khó từ chối, chứ uống với họ hàng hay hàng xóm thì đâu có quan trọng đến thế. Chỉ là mình thấy anh ấy không hề quyết đoán, và kêu là do được quý vì mời rượu giỏi nên mng ko muốn anh vắng mặt.&lt;/p&gt; &lt;p&gt;3, thgian rảnh chỉ tìm cớ để nói chuyện và nhắn tin với mình trong khi bản thân mình có nhiều thứ để làm, giải trí, học tập và. Mình vẫn luôn cho người yêu mình thgian riêng để làm việc khác nhưng hầu như anh ko có gì làm và chỉ xem TV. mình biết tới chuyện đó khi a ấy ở cùng mình vài ngày, và mình thì ngồi ghi chép (sở thích của mình) còn anh ấy cứ ngồi nhìn, vì anh ko có gì để làm và cũng ko có sở thích nào để theo đuổi. &lt;/p&gt; &lt;p&gt;4, Kiến thức xã hội có vđề, lấy 1 ví dụ là anh ấy khen dáng mình ngon là do mình ko biết ăn mỡ, anh ý béo đô con vì ăn thịt mỡ nhiều, và do thầy cấp 3 nói rằng ăn mỡ tốt cho não nên anh ý ăn nhiều cho thông minh (?) và rất nhạy với số má. Mình kiểu ủa mỡ tốt cho não hồi nào, và đi search mới biết hoá ra là chất béo tốt cho não chứ k phải mỡ.&lt;/p&gt; &lt;p&gt;5, ít vốn từ vựng, nói chuyện sẽ tốn rất nhiều thời gian do ko biết dùng từ gì, nên hầu hết khi ko gặp nhau bọn mình sẽ nhắn tin mỗi tối thay vì call, do ảnh cứ ậm ừ và nghĩ quá lâu&lt;/p&gt; &lt;p&gt;6, Bị sếp cũ thao túng nên chịu thiệt và hầu ông đó suốt 5 năm, dc chia cổ phần nên nhắm mắt mà làm.&lt;/p&gt; &lt;p&gt;Lý do mình yêu ảnh, vì ảnh cố gắng xây dựng hình ảnh quá đẹp trong mắt mình. Mình yếu lòng và bị tâm lý sau khi bị nyc cắm sừng rồi doạ giết. Anh ý nói sẽ bảo vệ đc mình và cho mình chỗ dựa. chứ mình ko yêu a ấy vì tiền, vì mình ko thiếu.&lt;/p&gt; &lt;p&gt;Bạn bè mình kêu mình khó tính, chứ anh ý đã đủ tiêu chí làm chồng, hiền hậu, tốt bụng, kiếm tiền ổn, đã ổn định sự nghiệp, đã có nhà và xe, chỉ cần vậy là đủ để cưới. &lt;/p&gt; &lt;p&gt;…nhưng với mình, mình vẫn luôn tìm kiếm 1 người có tâm hồn sâu sắc, có những sở thích riêng, khiến cho mình mở mang về kiến thức cũng như xã hội (những ngừoi yêu cũ của mình đều có đủ điều đó, mình chia tay 1 ng vì họ đi du học, 1 người phải vào nam làm việc, 1 người do tính chất công việc phải gặp nhiều nữ nhân nên mình ko chịu dc, còn lại là các mối tình vài tháng nửa năm). Mình muốn đó là người cứng rắn, quyết đoán, để nếu trở thành chồng mình thì có thể bảo vệ mình cùng các con. Mình từng trải qua việc mình và mẹ bị hạ thấp trong gđinh rồi ba mình là ngừoi đứng ra bảo vệ nên mình luôn muốn 1 người quyết liệt như ba vậy. Mình đã góp ý cho a ấy rất nhiều về việc đừng cam chịu và gây thiệt thòi cho bản thân nữa, đừng hiền quá nữa, vì mình ko muốn trở thành con sư tử hay càm ràm, bản thân mình lần đầu phải nói và dạy rất nhiều điều cho 1 người hơn mình 3 tuổi khiến mình ko có hạnh phúc trong mqh này. Mình đã cố chia tay 2 lần nhanh a ý khóc và cầu xin đc cho cơ hội để thay đổi nên mình lại cố&lt;/p&gt; &lt;p&gt;Vậy nên mình không biết mình đang nghĩ sai, hay đúng, tam quan có lệch lạc không. Mình mong được mọi người góp ý ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/LeatherIce4433"&gt; /u/LeatherIce4433 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pxlo7p/1_người_đàn_ông_đã_có_sự_nghiệp_nhà_và_xe_vậy_thứ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pxlo7p/1_người_đàn_ông_đã_có_sự_nghiệp_nhà_và_xe_vậy_thứ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pxlo7p/1_người_đàn_ông_đã_có_sự_nghiệp_nhà_và_xe_vậy_thứ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-28T07:44:30+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1pxjvqe</id>
     <title>Kỳ nghỉ lễ đến lại không muốn trở về nhà</title>
     <updated>2025-12-28T05:59:36+00:00</updated>
@@ -316,6 +290,19 @@
     <published>2025-12-28T05:59:36+00:00</published>
   </entry>
   <entry>
+    <id>t3_1pxlo7p</id>
+    <title>1 người đàn ông đã có sự nghiệp, nhà và xe, vậy thứ tiếp theo xét đến là gì?</title>
+    <updated>2025-12-28T07:44:30+00:00</updated>
+    <author>
+      <name>/u/LeatherIce4433</name>
+      <uri>https://old.reddit.com/user/LeatherIce4433</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình là nữ, 25 tuổi, Mình là con nhà khá giả, bản thân xinh đẹp, biết tiếng Anh, Trung, Nhật, tuy nhiên cuộc đời phải va vấp nhiều để trưởng thành chứ đời ko trải hoa hồng, người ngoài nhìn vào chỉ thấy mình như tiểu thư vô tri, sung sướng nhưng trái lại mình là người cực kì sâu sắc, yêu thích và làm việc với nghệ thuật và thiết kế. Nội tâm mình rất phong phú và cuộc sống màu sắc. Bạn bè cũng nhiều và toàn người xinh gái nhà giàu, chơi bền bỉ cả chục năm trời. Cuộc sống mình phức tạp ở mọi mặt nên mình tham vọng nhiều và không ngừng cố gắng, chưa bao h cảm thấy mình học đủ, kiếm đủ. Trải qua nhiều mối tình cũng toàn những người tham vọng và ý chí cao hơn cả mình nên hầu như mình đều có cảm giác có thể dựa dẫm đc.&lt;/p&gt; &lt;p&gt;Người yêu mình, 28 tuổi, là người xuất phát từ gia đình ko khá giả, bạn bè ko nhiều, nhưng hầu như cuộc đời bằng phẳng, gia đình họ hàng yêu thương nhau, tuổi thơ yên bình, a ấy đi lên từ tay trắng, làm ở 1 công ty duy nhất cho đến năm 27 tuổi, có thời điểm vàng là xuyên suốt 1 năm a ấy có thể kiếm dc 3-400tr 1 tháng (anh ý làm mkt ads). 28 tuổi chuyển sang công ty mình làm, là cty thứ 2. hành trình thăng tiến vô cùng thuận lợi, sau khi tốt nghiệp đại học mua nhà. và gần đây vừa mua xe. không chơi bời, hút hít hay cờ bạc. Yêu 1 tháng đòi cưới mình, quá nhanh đúng không, mình có hỏi thì ảnh bảo đã quan sát mình và yêu trộm suốt 1 năm qua. và mãi mới có thể hẹn hò với mình, nên a ý muốn giữ mình.&lt;/p&gt; &lt;p&gt;Nói về cách bọn mình đến với nhau, mình làm việc đc nửa năm thì anh ấy vào công ty mình và làm lead mkt (có chút liên quan đến phòng ban mình) nên lấy cớ để làm việc và nói chuyện với mình. tặng hoa và quà cho mình, tuy nhiên mình ko quá thích nên mình ko chịu đi date, mình có gửi quà lại để ko mang cảm giác mắc nợ, và mình chỉ đi date sau khi ảnh nói dối ảnh là thủ khoa toàn quốc vào năm 2015 (có chỉnh ảnh và tên rồi gửi mình khiến cho mình tưởng thật, sự thật là chỉ thủ khoa ngành của 1 trường). sau này qua nhiều lần nói chuyện mình thấy kiến thức xã hội của anh ấy có vấn đề nên anh ấy mới khai thật là nói dối chỉ để đc date cùng mình. Mình không đặt nặng chuyện đó sau này. Nhưng càng yêu mình mới càng thấy nhiều thứ lộ ra: &lt;/p&gt; &lt;p&gt;1, Anh ấy là 1 người ko có sở thích cá nhân và cá tính cho riêng mình. Không xem phim ảnh, không nghe nhạc, không hứng thú với 1 chủ đề nào đó, không biết ngoại ngữ. Không thể thao, để theo đuổi mình đã cố gắng đánh cầu cật lực để giảm cân chứ cũng ko hẳn yêu thích thể thao. Không thích gym. Ban đầu mình cũng ko coi đó là chuyện quá quan trọng. Mình chủ quan vì tất cả những người trước đây đều có cá tính rất đặc biệt. Và một phần cũng vì anh ấy green, anh ý hiền lành và nhường nhịn vô điều kiện chỉ để giư chân mình.&lt;/p&gt; &lt;p&gt;2, Không quyết đoán, rất dễ theo ý người khác. Ví dụ chuyện gần đây anh í phải theo bố đi nhậu cùng họ hàng và hàng xóm mỗi lần bố từ quê ra nhà anh ấy chơi, đến mức có tuần lên đến 4,5 bữa rượu, anh ấy luôn tỏ ra ko thích đi nhậu với mình và kể rằng mỗi lần nhậu về phải móc họng, do đang cố giảm cân (1m75 90 cân) và gặp vđề về cột sống do thân trên quá nặng. Và mình có trách là tưởng uống với đối tác thì khó từ chối, chứ uống với họ hàng hay hàng xóm thì đâu có quan trọng đến thế. Chỉ là mình thấy anh ấy không hề quyết đoán, và kêu là do được quý vì mời rượu giỏi nên mng ko muốn anh vắng mặt.&lt;/p&gt; &lt;p&gt;3, thgian rảnh chỉ tìm cớ để nói chuyện và nhắn tin với mình trong khi bản thân mình có nhiều thứ để làm, giải trí, học tập và. Mình vẫn luôn cho người yêu mình thgian riêng để làm việc khác nhưng hầu như anh ko có gì làm và chỉ xem TV. mình biết tới chuyện đó khi a ấy ở cùng mình vài ngày, và mình thì ngồi ghi chép (sở thích của mình) còn anh ấy cứ ngồi nhìn, vì anh ko có gì để làm và cũng ko có sở thích nào để theo đuổi. &lt;/p&gt; &lt;p&gt;4, Kiến thức xã hội có vđề, lấy 1 ví dụ là anh ấy khen dáng mình ngon là do mình ko biết ăn mỡ, anh ý béo đô con vì ăn thịt mỡ nhiều, và do thầy cấp 3 nói rằng ăn mỡ tốt cho não nên anh ý ăn nhiều cho thông minh (?) và rất nhạy với số má. Mình kiểu ủa mỡ tốt cho não hồi nào, và đi search mới biết hoá ra là chất béo tốt cho não chứ k phải mỡ.&lt;/p&gt; &lt;p&gt;5, ít vốn từ vựng, nói chuyện sẽ tốn rất nhiều thời gian do ko biết dùng từ gì, nên hầu hết khi ko gặp nhau bọn mình sẽ nhắn tin mỗi tối thay vì call, do ảnh cứ ậm ừ và nghĩ quá lâu&lt;/p&gt; &lt;p&gt;6, Bị sếp cũ thao túng nên chịu thiệt và hầu ông đó suốt 5 năm, dc chia cổ phần nên nhắm mắt mà làm.&lt;/p&gt; &lt;p&gt;Lý do mình yêu ảnh, vì ảnh cố gắng xây dựng hình ảnh quá đẹp trong mắt mình. Mình yếu lòng và bị tâm lý sau khi bị nyc cắm sừng rồi doạ giết. Anh ý nói sẽ bảo vệ đc mình và cho mình chỗ dựa. chứ mình ko yêu a ấy vì tiền, vì mình ko thiếu.&lt;/p&gt; &lt;p&gt;Bạn bè mình kêu mình khó tính, chứ anh ý đã đủ tiêu chí làm chồng, hiền hậu, tốt bụng, kiếm tiền ổn, đã ổn định sự nghiệp, đã có nhà và xe, chỉ cần vậy là đủ để cưới. &lt;/p&gt; &lt;p&gt;…nhưng với mình, mình vẫn luôn tìm kiếm 1 người có tâm hồn sâu sắc, có những sở thích riêng, khiến cho mình mở mang về kiến thức cũng như xã hội (những ngừoi yêu cũ của mình đều có đủ điều đó, mình chia tay 1 ng vì họ đi du học, 1 người phải vào nam làm việc, 1 người do tính chất công việc phải gặp nhiều nữ nhân nên mình ko chịu dc, còn lại là các mối tình vài tháng nửa năm). Mình muốn đó là người cứng rắn, quyết đoán, để nếu trở thành chồng mình thì có thể bảo vệ mình cùng các con. Mình từng trải qua việc mình và mẹ bị hạ thấp trong gđinh rồi ba mình là ngừoi đứng ra bảo vệ nên mình luôn muốn 1 người quyết liệt như ba vậy. Mình đã góp ý cho a ấy rất nhiều về việc đừng cam chịu và gây thiệt thòi cho bản thân nữa, đừng hiền quá nữa, vì mình ko muốn trở thành con sư tử hay càm ràm, bản thân mình lần đầu phải nói và dạy rất nhiều điều cho 1 người hơn mình 3 tuổi khiến mình ko có hạnh phúc trong mqh này. Mình đã cố chia tay 2 lần nhanh a ý khóc và cầu xin đc cho cơ hội để thay đổi nên mình lại cố&lt;/p&gt; &lt;p&gt;Vậy nên mình không biết mình đang nghĩ sai, hay đúng, tam quan có lệch lạc không. Mình mong được mọi người góp ý ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/LeatherIce4433"&gt; /u/LeatherIce4433 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pxlo7p/1_người_đàn_ông_đã_có_sự_nghiệp_nhà_và_xe_vậy_thứ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pxlo7p/1_người_đàn_ông_đã_có_sự_nghiệp_nhà_và_xe_vậy_thứ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pxlo7p/1_người_đàn_ông_đã_có_sự_nghiệp_nhà_và_xe_vậy_thứ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-28T07:44:30+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1pxla3j</id>
     <title>Định hướng lĩnh vực IT trong tương lai</title>
     <updated>2025-12-28T07:20:21+00:00</updated>
@@ -327,5 +314,18 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pxla3j/định_hướng_lĩnh_vực_it_trong_tương_lai/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-28T07:20:21+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pxoscq</id>
+    <title>30 tuổi, dân kỹ thuật ở Sài Gòn, có nhà Q7 có xe đi lại, chỉ cần vợ biết điều mà khó quá</title>
+    <updated>2025-12-28T11:02:39+00:00</updated>
+    <author>
+      <name>/u/No_Reality_6047</name>
+      <uri>https://old.reddit.com/user/No_Reality_6047</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình sinh năm 95, dân tỉnh lẻ vào Sài Gòn lập nghiệp. Mình làm kỹ thuật, cày cuốc công trình bục mặt hơn chục năm mới có được ngày hôm nay: Một căn chung cư ở Quận 7 đã trả hết và con Mazda 3 để che nắng che mưa, tiện về quê.&lt;/p&gt; &lt;p&gt;Mình cứ nghĩ đàn ông tu chí làm ăn, có cơ ngơi thì tình duyên sẽ thuận. Nhưng vừa rồi mình phải chia tay một em 98 (nhân viên văn phòng) vì tư duy lệch pha quá.&lt;/p&gt; &lt;p&gt;Mình đi làm xa, chiều nào cũng lội dòng kẹt xe từ Thủ Đức về Quận 1 đón em, chỉ mong tối về có bữa cơm nhà nóng sốt. Nhưng 10 ngày như 1, em toàn đòi đi ăn hàng hoặc order về vì sợ &amp;quot;ám mùi dầu mỡ&amp;quot;.&lt;/p&gt; &lt;p&gt;Đỉnh điểm là mình đề nghị cưới xong kinh tế mình lo tất, em cứ đi làm tà tà hoặc ở nhà chăm sóc gia đình, học thêm nấu nướng. Mình nói thẳng, lương em 10-12 triệu ở cái đất Sài Gòn này chỉ đủ tiền son phấn, cafe, chứ gọi là sự nghiệp thì hơi quá. Mình muốn bao bọc để em đỡ vất vả, để em làm hậu phương cho mình yên tâm kiếm tiền.&lt;/p&gt; &lt;p&gt;Thế mà em tự ái, bảo mình gia trưởng, coi thường phụ nữ. Em đòi độc lập, đòi bình đẳng. Nhưng nghịch lý là đi ăn, đi chơi, du lịch thì mặc định mình chi, quà cáp lễ tết thiếu chút là dỗi. Đòi quyền lợi của phụ nữ hiện đại nhưng lại muốn được chiều chuộng như bà hoàng?&lt;/p&gt; &lt;p&gt;Thật sự mình không cần vợ đẹp như hoa hậu, mình cần người biết vun vén. Các em gái bây giờ tiêu chuẩn chọn chồng thì cao (phải có nhà, có xe hơi), nhưng bảo hy sinh cái tôi, vào bếp giữ lửa cho gia đình thì lại giãy nảy lên.&lt;/p&gt; &lt;p&gt;Đàn ông xây nhà, đàn bà xây tổ. Mình đã lo xong cái nhà rồi, tìm người xây cái tổ mà sao chua chát quá. Hay do mình cổ hủ hả mọi người?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/No_Reality_6047"&gt; /u/No_Reality_6047 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pxoscq/30_tuổi_dân_kỹ_thuật_ở_sài_gòn_có_nhà_q7_có_xe_đi/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pxoscq/30_tuổi_dân_kỹ_thuật_ở_sài_gòn_có_nhà_q7_có_xe_đi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pxoscq/30_tuổi_dân_kỹ_thuật_ở_sài_gòn_có_nhà_q7_có_xe_đi/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-28T11:02:39+00:00</published>
   </entry>
 </feed>
