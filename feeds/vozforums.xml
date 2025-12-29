@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-12-29T12:42:42+00:00</updated>
+  <updated>2025-12-29T13:27:00+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1pya837</id>
-    <title>Áp lực chuyện cưới vợ</title>
-    <updated>2025-12-29T02:37:09+00:00</updated>
-    <author>
-      <name>/u/QuietAcanthisitta347</name>
-      <uri>https://old.reddit.com/user/QuietAcanthisitta347</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Nay mạo muội lên đây hỏi các bác suy nghĩ của mình về chi phí đám cưới tại Hà Nội, theo các trung bình để tổ chức được một đám cưới tại palace cùng với bao gồm mọi thứ thì chi phí sẽ là bao nhiêu?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/QuietAcanthisitta347"&gt; /u/QuietAcanthisitta347 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pya837/áp_lực_chuyện_cưới_vợ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pya837/áp_lực_chuyện_cưới_vợ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pya837/áp_lực_chuyện_cưới_vợ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-29T02:37:09+00:00</published>
-  </entry>
   <entry>
     <id>t3_1py6h3c</id>
     <title>Tự động hóa nhập liệu CSKH bằng Python – hướng này có phải RPA không?</title>
@@ -86,19 +73,6 @@
     <published>2025-12-29T08:52:43+00:00</published>
   </entry>
   <entry>
-    <id>t3_1py9mx7</id>
-    <title>Ysl hay k ạ các bác</title>
-    <updated>2025-12-29T02:10:37+00:00</updated>
-    <author>
-      <name>/u/Negative_Plankton_99</name>
-      <uri>https://old.reddit.com/user/Negative_Plankton_99</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em chào các bác. Em là nam, 20t. Em có chơi thể thao nên người khá vâm, 1m7 70kg. Tuy nh thì với bạn gái hiệp 1 khá nhanh, chỉ khoảng 5 7p rất sướng, còn hiệp 2 thì lại rất lâu, nó cx gần sướng mà chưa đạt đến cái cảm giác như hiệp 1. Nhiều lúc bạn gái em còn chê đau do lâu quá. Vì người yêu đau nên em cx chưa làm đến hiệp 3 ạ. Em lọ khoảng 1 lần 2 3 tuần nên e k nghĩ là mình bị vấn đề lquan đến lọ. Mong các bác giải ngố ạ. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Negative_Plankton_99"&gt; /u/Negative_Plankton_99 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1py9mx7/ysl_hay_k_ạ_các_bác/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1py9mx7/ysl_hay_k_ạ_các_bác/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1py9mx7/ysl_hay_k_ạ_các_bác/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-29T02:10:37+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1pyaw4e</id>
     <title>Mn cho hỏi quán cà phê trong hình có tên gì vậy?</title>
     <updated>2025-12-29T03:08:17+00:00</updated>
@@ -125,6 +99,19 @@
     <published>2025-12-28T11:48:07+00:00</published>
   </entry>
   <entry>
+    <id>t3_1py9mx7</id>
+    <title>Ysl hay k ạ các bác</title>
+    <updated>2025-12-29T02:10:37+00:00</updated>
+    <author>
+      <name>/u/Negative_Plankton_99</name>
+      <uri>https://old.reddit.com/user/Negative_Plankton_99</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em chào các bác. Em là nam, 20t. Em có chơi thể thao nên người khá vâm, 1m7 70kg. Tuy nh thì với bạn gái hiệp 1 khá nhanh, chỉ khoảng 5 7p rất sướng, còn hiệp 2 thì lại rất lâu, nó cx gần sướng mà chưa đạt đến cái cảm giác như hiệp 1. Nhiều lúc bạn gái em còn chê đau do lâu quá. Vì người yêu đau nên em cx chưa làm đến hiệp 3 ạ. Em lọ khoảng 1 lần 2 3 tuần nên e k nghĩ là mình bị vấn đề lquan đến lọ. Mong các bác giải ngố ạ. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Negative_Plankton_99"&gt; /u/Negative_Plankton_99 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1py9mx7/ysl_hay_k_ạ_các_bác/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1py9mx7/ysl_hay_k_ạ_các_bác/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1py9mx7/ysl_hay_k_ạ_các_bác/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-29T02:10:37+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1pykdqy</id>
     <title>Mua điện thoại Pixel</title>
     <updated>2025-12-29T11:51:41+00:00</updated>
@@ -136,32 +123,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pykdqy/mua_điện_thoại_pixel/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-29T11:51:41+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1pyl5kx</id>
-    <title>Giữ bí mật về ĐH</title>
-    <updated>2025-12-29T12:33:11+00:00</updated>
-    <author>
-      <name>/u/Honest-Albatross8807</name>
-      <uri>https://old.reddit.com/user/Honest-Albatross8807</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mọi ngừoi cho e xin lí do để từ chối khéo trả lời câu hỏi “học trường ĐH j? ngành j?”, cụ thể với hàng xóm. (Trường e trường TOP công lập)&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Honest-Albatross8807"&gt; /u/Honest-Albatross8807 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pyl5kx/giữ_bí_mật_về_đh/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pyl5kx/giữ_bí_mật_về_đh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pyl5kx/giữ_bí_mật_về_đh/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-29T12:33:11+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1pyl7gx</id>
-    <title>Topic: build pc</title>
-    <updated>2025-12-29T12:35:53+00:00</updated>
-    <author>
-      <name>/u/Pake-0175</name>
-      <uri>https://old.reddit.com/user/Pake-0175</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Xin phép mọi người cho em hỏi là em đang muốn buid pc tầm giá 10 củ trở xuống chạy được auto cad có khả thi k ạ. Linh kiện 2hand cũng được, nếu được cho em xin thông tin ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Pake-0175"&gt; /u/Pake-0175 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pyl7gx/topic_build_pc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pyl7gx/topic_build_pc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pyl7gx/topic_build_pc/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-29T12:35:53+00:00</published>
   </entry>
   <entry>
     <id>t3_1py9jkm</id>
@@ -177,6 +138,15 @@
     <published>2025-12-29T02:06:18+00:00</published>
   </entry>
   <entry>
+    <id>t3_1pygeih</id>
+    <title>Anh em có hay nên checkerviet</title>
+    <updated>2025-12-29T07:54:36+00:00</updated>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Như tiêu đề ạ. Anh e có hay check hàng trên checkerviet không?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pygeih/anh_em_có_hay_nên_checkerviet/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pygeih/anh_em_có_hay_nên_checkerviet/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pygeih/anh_em_có_hay_nên_checkerviet/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-29T07:54:36+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1pybqzq</id>
     <title>Review mức lương Data Engineer Level 1 (đã có 3 năm kinh nghiệm DA) làm outsource châu Âu</title>
     <updated>2025-12-29T03:48:52+00:00</updated>
@@ -190,15 +160,6 @@
     <published>2025-12-29T03:48:52+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pygeih</id>
-    <title>Anh em có hay nên checkerviet</title>
-    <updated>2025-12-29T07:54:36+00:00</updated>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Như tiêu đề ạ. Anh e có hay check hàng trên checkerviet không?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pygeih/anh_em_có_hay_nên_checkerviet/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pygeih/anh_em_có_hay_nên_checkerviet/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pygeih/anh_em_có_hay_nên_checkerviet/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-29T07:54:36+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1pxoscq</id>
     <title>30 tuổi, dân kỹ thuật ở Sài Gòn, có nhà Q7 có xe đi lại, chỉ cần vợ biết điều mà khó quá</title>
     <updated>2025-12-28T11:02:39+00:00</updated>
@@ -210,6 +171,32 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pxoscq/30_tuổi_dân_kỹ_thuật_ở_sài_gòn_có_nhà_q7_có_xe_đi/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-28T11:02:39+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pyl7gx</id>
+    <title>Topic: build pc</title>
+    <updated>2025-12-29T12:35:53+00:00</updated>
+    <author>
+      <name>/u/Pake-0175</name>
+      <uri>https://old.reddit.com/user/Pake-0175</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Xin phép mọi người cho em hỏi là em đang muốn buid pc tầm giá 10 củ trở xuống chạy được auto cad có khả thi k ạ. Linh kiện 2hand cũng được, nếu được cho em xin thông tin ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Pake-0175"&gt; /u/Pake-0175 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pyl7gx/topic_build_pc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pyl7gx/topic_build_pc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pyl7gx/topic_build_pc/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-29T12:35:53+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pylsdp</id>
+    <title>Nữ giới nhận bao nhiêu lời tỏ tình 1 năm vậy?</title>
+    <updated>2025-12-29T13:04:35+00:00</updated>
+    <author>
+      <name>/u/Nirvaner-platinum</name>
+      <uri>https://old.reddit.com/user/Nirvaner-platinum</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Cho mình hỏi các bạn nữ trung bình nhận đc bao nhiêu lời tỏ tình 1 năm vậy?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Nirvaner-platinum"&gt; /u/Nirvaner-platinum &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pylsdp/nữ_giới_nhận_bao_nhiêu_lời_tỏ_tình_1_năm_vậy/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pylsdp/nữ_giới_nhận_bao_nhiêu_lời_tỏ_tình_1_năm_vậy/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pylsdp/nữ_giới_nhận_bao_nhiêu_lời_tỏ_tình_1_năm_vậy/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-29T13:04:35+00:00</published>
   </entry>
   <entry>
     <id>t3_1pyepwd</id>
@@ -262,6 +249,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pyg3gr/nên_dùng_app_của_ngân_hàng_nào/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-29T07:36:14+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1pyl5kx</id>
+    <title>Giữ bí mật về ĐH</title>
+    <updated>2025-12-29T12:33:11+00:00</updated>
+    <author>
+      <name>/u/Honest-Albatross8807</name>
+      <uri>https://old.reddit.com/user/Honest-Albatross8807</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mọi ngừoi cho e xin lí do để từ chối khéo trả lời câu hỏi “học trường ĐH j? ngành j?”, cụ thể với hàng xóm. (Trường e trường TOP công lập)&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Honest-Albatross8807"&gt; /u/Honest-Albatross8807 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pyl5kx/giữ_bí_mật_về_đh/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pyl5kx/giữ_bí_mật_về_đh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pyl5kx/giữ_bí_mật_về_đh/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-29T12:33:11+00:00</published>
   </entry>
   <entry>
     <id>t3_1pyj8qs</id>
