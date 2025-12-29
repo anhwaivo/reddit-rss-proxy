@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-12-29T11:40:30+00:00</updated>
+  <updated>2025-12-29T11:51:25+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -190,6 +190,15 @@
     <published>2025-12-29T03:48:52+00:00</published>
   </entry>
   <entry>
+    <id>t3_1pygeih</id>
+    <title>Anh em có hay nên checkerviet</title>
+    <updated>2025-12-29T07:54:36+00:00</updated>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Như tiêu đề ạ. Anh e có hay check hàng trên checkerviet không?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pygeih/anh_em_có_hay_nên_checkerviet/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pygeih/anh_em_có_hay_nên_checkerviet/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pygeih/anh_em_có_hay_nên_checkerviet/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-29T07:54:36+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1pyf8hg</id>
     <title>nên gửi tiền tk thời hạn bao nhiêu</title>
     <updated>2025-12-29T06:46:55+00:00</updated>
@@ -214,15 +223,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pxoscq/30_tuổi_dân_kỹ_thuật_ở_sài_gòn_có_nhà_q7_có_xe_đi/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-28T11:02:39+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1pygeih</id>
-    <title>Anh em có hay nên checkerviet</title>
-    <updated>2025-12-29T07:54:36+00:00</updated>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Như tiêu đề ạ. Anh e có hay check hàng trên checkerviet không?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pygeih/anh_em_có_hay_nên_checkerviet/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pygeih/anh_em_có_hay_nên_checkerviet/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pygeih/anh_em_có_hay_nên_checkerviet/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-29T07:54:36+00:00</published>
   </entry>
   <entry>
     <id>t3_1pyg3gr</id>
