@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-12-31T17:17:46+00:00</updated>
+  <updated>2025-12-31T17:40:57+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1q0bmqn</id>
-    <title>Straight Edge</title>
-    <updated>2025-12-31T12:13:19+00:00</updated>
-    <author>
-      <name>/u/WolverineOrnery9703</name>
-      <uri>https://old.reddit.com/user/WolverineOrnery9703</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mọi người nghĩ sao về Straight Edge vậy? (Lối sống tự nguyện kiêng rượu bia, thuốc lá, ma tuý và các chất gây nghiện khác) Mình thấy cách sống này tốt, lành mạnh và hay ấy chứ:/&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/WolverineOrnery9703"&gt; /u/WolverineOrnery9703 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q0bmqn/straight_edge/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q0bmqn/straight_edge/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q0bmqn/straight_edge/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-31T12:13:19+00:00</published>
-  </entry>
   <entry>
     <id>t3_1q00f27</id>
     <title>Mình phải làm thế nào khi em gái láo với bố mẹ? 😭</title>
@@ -47,19 +34,6 @@
     <published>2025-12-31T06:22:01+00:00</published>
   </entry>
   <entry>
-    <id>t3_1q02poj</id>
-    <title>Có ai biết bài này không ạ ?</title>
-    <updated>2025-12-31T03:35:13+00:00</updated>
-    <author>
-      <name>/u/Adventurous-You-8527</name>
-      <uri>https://old.reddit.com/user/Adventurous-You-8527</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1q02poj/có_ai_biết_bài_này_không_ạ/"&gt; &lt;img alt="Có ai biết bài này không ạ ?" src="https://external-preview.redd.it/cms2NzdyaGFtZ2FnMVuJdxxxywQn-57I54rQcCvpv2bpVT29UY4OS3kY82MT.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=5706b8528b8a449ec6f438efc6f210efb6f65cc4" title="Có ai biết bài này không ạ ?" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em có quay đoạn video đi hát ở music box , mà quay có mỗi đoạn intro của bài,mọi người có ai biết đoạn intro này của bài nào không ạ ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Adventurous-You-8527"&gt; /u/Adventurous-You-8527 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://v.redd.it/ds7vglhamgag1"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q02poj/có_ai_biết_bài_này_không_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q02poj/có_ai_biết_bài_này_không_ạ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-31T03:35:13+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1pzzgkv</id>
     <title>TOPIC: Làm xong việc sớm nhưng còn quá nhiều thời gian ở văn phòng thì nên làm cái gì cho nó trông bận rộn mà vẫn giải trí v mn?</title>
     <updated>2025-12-31T01:05:06+00:00</updated>
@@ -84,6 +58,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pzjqip/40k_dĩa_cơm_ae_thấy_sao/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-30T14:38:21+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1q02poj</id>
+    <title>Có ai biết bài này không ạ ?</title>
+    <updated>2025-12-31T03:35:13+00:00</updated>
+    <author>
+      <name>/u/Adventurous-You-8527</name>
+      <uri>https://old.reddit.com/user/Adventurous-You-8527</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1q02poj/có_ai_biết_bài_này_không_ạ/"&gt; &lt;img alt="Có ai biết bài này không ạ ?" src="https://external-preview.redd.it/cms2NzdyaGFtZ2FnMVuJdxxxywQn-57I54rQcCvpv2bpVT29UY4OS3kY82MT.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=5706b8528b8a449ec6f438efc6f210efb6f65cc4" title="Có ai biết bài này không ạ ?" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em có quay đoạn video đi hát ở music box , mà quay có mỗi đoạn intro của bài,mọi người có ai biết đoạn intro này của bài nào không ạ ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Adventurous-You-8527"&gt; /u/Adventurous-You-8527 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://v.redd.it/ds7vglhamgag1"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q02poj/có_ai_biết_bài_này_không_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q02poj/có_ai_biết_bài_này_không_ạ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-31T03:35:13+00:00</published>
   </entry>
   <entry>
     <id>t3_1q07n78</id>
@@ -149,6 +136,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pzwire/có_phải_1_lần_là_không_bình_thường/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-30T23:00:07+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1q0ij9x</id>
+    <title>NMVV NGHEN</title>
+    <updated>2025-12-31T17:31:08+00:00</updated>
+    <author>
+      <name>/u/Character_Rope7383</name>
+      <uri>https://old.reddit.com/user/Character_Rope7383</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1q0ij9x/nmvv_nghen/"&gt; &lt;img alt="NMVV NGHEN" src="https://preview.redd.it/ojfb6qnlrkag1.png?width=320&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=dab3023bcbf8f15058bcd89272134660ef139c40" title="NMVV NGHEN" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Character_Rope7383"&gt; /u/Character_Rope7383 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/ojfb6qnlrkag1.png"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q0ij9x/nmvv_nghen/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q0ij9x/nmvv_nghen/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-31T17:31:08+00:00</published>
   </entry>
   <entry>
     <id>t3_1q0870f</id>
@@ -255,17 +255,17 @@
     <published>2025-12-31T02:44:55+00:00</published>
   </entry>
   <entry>
-    <id>t3_1q0gqgp</id>
-    <title>Năm mới những cái mới</title>
-    <updated>2025-12-31T16:15:48+00:00</updated>
+    <id>t3_1q07k0j</id>
+    <title>Mấy ông chi bao nhiêu tiền cho bạn gái vậy</title>
+    <updated>2025-12-31T07:58:02+00:00</updated>
     <author>
-      <name>/u/MiddleCellist2393</name>
-      <uri>https://old.reddit.com/user/MiddleCellist2393</uri>
+      <name>/u/CivilCauliflower5377</name>
+      <uri>https://old.reddit.com/user/CivilCauliflower5377</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chúc tất cả ae. Một năm thật nhiều sức khỏe, có sức khỏe là có tất cả ae nhé.Kiếm nhiều tiền, ae nào thất nghiệp kiếm cho mình một công việc để kiếm sống và thực hiện được những đam mê mà ae mong muốn ( có thực mới vực được đạo ae ơi). &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/MiddleCellist2393"&gt; /u/MiddleCellist2393 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q0gqgp/năm_mới_những_cái_mới/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q0gqgp/năm_mới_những_cái_mới/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q0gqgp/năm_mới_những_cái_mới/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tôi chưa có bạn gái bao giờ nên hơi tò mò khi có bạn gái phải chi thêm bao nhiêu tiền mỗi tháng (đi chơi, ăn uống, quà,...)&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/CivilCauliflower5377"&gt; /u/CivilCauliflower5377 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q07k0j/mấy_ông_chi_bao_nhiêu_tiền_cho_bạn_gái_vậy/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q07k0j/mấy_ông_chi_bao_nhiêu_tiền_cho_bạn_gái_vậy/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q07k0j/mấy_ông_chi_bao_nhiêu_tiền_cho_bạn_gái_vậy/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-31T16:15:48+00:00</published>
+    <published>2025-12-31T07:58:02+00:00</published>
   </entry>
   <entry>
     <id>t3_1q06wjh</id>
@@ -281,30 +281,17 @@
     <published>2025-12-31T07:17:02+00:00</published>
   </entry>
   <entry>
-    <id>t3_1q07k0j</id>
-    <title>Mấy ông chi bao nhiêu tiền cho bạn gái vậy</title>
-    <updated>2025-12-31T07:58:02+00:00</updated>
+    <id>t3_1q0gqgp</id>
+    <title>Năm mới những cái mới</title>
+    <updated>2025-12-31T16:15:48+00:00</updated>
     <author>
-      <name>/u/CivilCauliflower5377</name>
-      <uri>https://old.reddit.com/user/CivilCauliflower5377</uri>
+      <name>/u/MiddleCellist2393</name>
+      <uri>https://old.reddit.com/user/MiddleCellist2393</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tôi chưa có bạn gái bao giờ nên hơi tò mò khi có bạn gái phải chi thêm bao nhiêu tiền mỗi tháng (đi chơi, ăn uống, quà,...)&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/CivilCauliflower5377"&gt; /u/CivilCauliflower5377 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q07k0j/mấy_ông_chi_bao_nhiêu_tiền_cho_bạn_gái_vậy/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q07k0j/mấy_ông_chi_bao_nhiêu_tiền_cho_bạn_gái_vậy/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q07k0j/mấy_ông_chi_bao_nhiêu_tiền_cho_bạn_gái_vậy/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chúc tất cả ae. Một năm thật nhiều sức khỏe, có sức khỏe là có tất cả ae nhé.Kiếm nhiều tiền, ae nào thất nghiệp kiếm cho mình một công việc để kiếm sống và thực hiện được những đam mê mà ae mong muốn ( có thực mới vực được đạo ae ơi). &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/MiddleCellist2393"&gt; /u/MiddleCellist2393 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q0gqgp/năm_mới_những_cái_mới/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q0gqgp/năm_mới_những_cái_mới/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q0gqgp/năm_mới_những_cái_mới/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-31T07:58:02+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1q0gwa0</id>
-    <title>2026</title>
-    <updated>2025-12-31T16:22:29+00:00</updated>
-    <author>
-      <name>/u/No-Club-3387</name>
-      <uri>https://old.reddit.com/user/No-Club-3387</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chúc các anh chị em trong sub này 1 năm mới thuận lợi mọi bề, may mắn, gia đình luôn khỏe mạnh hạnh phúc. Ai thức xem countdown thì xem nha, tôi ngủ đây, chúc mng ngủ ngon!!!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/No-Club-3387"&gt; /u/No-Club-3387 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q0gwa0/2026/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q0gwa0/2026/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q0gwa0/2026/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-31T16:22:29+00:00</published>
+    <published>2025-12-31T16:15:48+00:00</published>
   </entry>
   <entry>
     <id>t3_1q02yis</id>
@@ -318,6 +305,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1q02yis/không_yêu_nước_thì_có_sai_không/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-31T03:47:00+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1q0gwa0</id>
+    <title>2026</title>
+    <updated>2025-12-31T16:22:29+00:00</updated>
+    <author>
+      <name>/u/No-Club-3387</name>
+      <uri>https://old.reddit.com/user/No-Club-3387</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chúc các anh chị em trong sub này 1 năm mới thuận lợi mọi bề, may mắn, gia đình luôn khỏe mạnh hạnh phúc. Ai thức xem countdown thì xem nha, tôi ngủ đây, chúc mng ngủ ngon!!!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/No-Club-3387"&gt; /u/No-Club-3387 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q0gwa0/2026/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q0gwa0/2026/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q0gwa0/2026/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-31T16:22:29+00:00</published>
   </entry>
   <entry>
     <id>t3_1q0g2cs</id>
