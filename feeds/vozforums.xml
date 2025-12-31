@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2025-12-31T14:55:16+00:00</updated>
+  <updated>2025-12-31T15:20:03+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -86,32 +86,6 @@
     <published>2025-12-31T01:48:47+00:00</published>
   </entry>
   <entry>
-    <id>t3_1pzzgkv</id>
-    <title>TOPIC: Làm xong việc sớm nhưng còn quá nhiều thời gian ở văn phòng thì nên làm cái gì cho nó trông bận rộn mà vẫn giải trí v mn?</title>
-    <updated>2025-12-31T01:05:06+00:00</updated>
-    <author>
-      <name>/u/Cully258</name>
-      <uri>https://old.reddit.com/user/Cully258</uri>
-    </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Cully258"&gt; /u/Cully258 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pzzgkv/topic_làm_xong_việc_sớm_nhưng_còn_quá_nhiều_thời/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pzzgkv/topic_làm_xong_việc_sớm_nhưng_còn_quá_nhiều_thời/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1pzzgkv/topic_làm_xong_việc_sớm_nhưng_còn_quá_nhiều_thời/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-31T01:05:06+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1q0a01m</id>
-    <title>Hãy cho tôi cái nhìn đúng đắn nhất về đàn ông. Làm sao để sửa chữa và xây dựng một mối quan hệ tích cực?</title>
-    <updated>2025-12-31T10:33:49+00:00</updated>
-    <author>
-      <name>/u/Fabulous_Ad_4338</name>
-      <uri>https://old.reddit.com/user/Fabulous_Ad_4338</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình là nữ 25t, sinh ra ở vùng quê Bắc Bộ. Gia đình có 4 chị em gái, bố mình là người gia trưởng và văn hoá kém. Từ khi mình bé, bố đã đi làm ăn xa nên suốt cả tuổi thơ mình hầu như không có mấy sự hiện diện của bố, thêm khoảng thời gian từ lúc sinh ra đến năm 6 tuổi bố bỏ nhà đi nên cho đến lúc đó mình mới được nhìn mặt bố. Thi thoảng lễ Tết bố về nghỉ thì cũng chỉ chửi mắng, đánh đập vợ con. &lt;/p&gt; &lt;p&gt;Mình là kiểu người hướng nội, có chút nhút nhát. Mình bắt đầu hẹn hò năm 19t với một mối quan hệ nghiêm túc. Những mối quan hệ sau đó chỉ là qua đường.&lt;/p&gt; &lt;p&gt;Mình cảm thấy khó khăn trong việc kết nối với một người đàn ông, bản thân mình không hiểu họ, không đủ nhận thức về họ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Fabulous_Ad_4338"&gt; /u/Fabulous_Ad_4338 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q0a01m/hãy_cho_tôi_cái_nhìn_đúng_đắn_nhất_về_đàn_ông_làm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q0a01m/hãy_cho_tôi_cái_nhìn_đúng_đắn_nhất_về_đàn_ông_làm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q0a01m/hãy_cho_tôi_cái_nhìn_đúng_đắn_nhất_về_đàn_ông_làm/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-31T10:33:49+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1q02poj</id>
     <title>Có ai biết bài này không ạ ?</title>
     <updated>2025-12-31T03:35:13+00:00</updated>
@@ -125,6 +99,19 @@
     <published>2025-12-31T03:35:13+00:00</published>
   </entry>
   <entry>
+    <id>t3_1pzzgkv</id>
+    <title>TOPIC: Làm xong việc sớm nhưng còn quá nhiều thời gian ở văn phòng thì nên làm cái gì cho nó trông bận rộn mà vẫn giải trí v mn?</title>
+    <updated>2025-12-31T01:05:06+00:00</updated>
+    <author>
+      <name>/u/Cully258</name>
+      <uri>https://old.reddit.com/user/Cully258</uri>
+    </author>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Cully258"&gt; /u/Cully258 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pzzgkv/topic_làm_xong_việc_sớm_nhưng_còn_quá_nhiều_thời/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1pzzgkv/topic_làm_xong_việc_sớm_nhưng_còn_quá_nhiều_thời/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1pzzgkv/topic_làm_xong_việc_sớm_nhưng_còn_quá_nhiều_thời/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-31T01:05:06+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1pzjqip</id>
     <title>40k dĩa cơm ae thấy sao?</title>
     <updated>2025-12-30T14:38:21+00:00</updated>
@@ -136,6 +123,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1pzjqip/40k_dĩa_cơm_ae_thấy_sao/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2025-12-30T14:38:21+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1q05yaa</id>
+    <title>Sài gòn có chỗ nào có dịch vụ đáp ứng fetish/kink về foot fetish, femdom, findom ko? Giới thiệu mình với</title>
+    <updated>2025-12-31T06:22:01+00:00</updated>
+    <author>
+      <name>/u/M_maleeee</name>
+      <uri>https://old.reddit.com/user/M_maleeee</uri>
+    </author>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/M_maleeee"&gt; /u/M_maleeee &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q05yaa/sài_gòn_có_chỗ_nào_có_dịch_vụ_đáp_ứng_fetishkink/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q05yaa/sài_gòn_có_chỗ_nào_có_dịch_vụ_đáp_ứng_fetishkink/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q05yaa/sài_gòn_có_chỗ_nào_có_dịch_vụ_đáp_ứng_fetishkink/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-31T06:22:01+00:00</published>
   </entry>
   <entry>
     <id>t3_1q07n78</id>
@@ -164,17 +164,17 @@
     <published>2025-12-31T11:51:38+00:00</published>
   </entry>
   <entry>
-    <id>t3_1q05yaa</id>
-    <title>Sài gòn có chỗ nào có dịch vụ đáp ứng fetish/kink về foot fetish, femdom, findom ko? Giới thiệu mình với</title>
-    <updated>2025-12-31T06:22:01+00:00</updated>
+    <id>t3_1q0a01m</id>
+    <title>Hãy cho tôi cái nhìn đúng đắn nhất về đàn ông. Làm sao để sửa chữa và xây dựng một mối quan hệ tích cực?</title>
+    <updated>2025-12-31T10:33:49+00:00</updated>
     <author>
-      <name>/u/M_maleeee</name>
-      <uri>https://old.reddit.com/user/M_maleeee</uri>
+      <name>/u/Fabulous_Ad_4338</name>
+      <uri>https://old.reddit.com/user/Fabulous_Ad_4338</uri>
     </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/M_maleeee"&gt; /u/M_maleeee &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q05yaa/sài_gòn_có_chỗ_nào_có_dịch_vụ_đáp_ứng_fetishkink/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q05yaa/sài_gòn_có_chỗ_nào_có_dịch_vụ_đáp_ứng_fetishkink/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q05yaa/sài_gòn_có_chỗ_nào_có_dịch_vụ_đáp_ứng_fetishkink/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình là nữ 25t, sinh ra ở vùng quê Bắc Bộ. Gia đình có 4 chị em gái, bố mình là người gia trưởng và văn hoá kém. Từ khi mình bé, bố đã đi làm ăn xa nên suốt cả tuổi thơ mình hầu như không có mấy sự hiện diện của bố, thêm khoảng thời gian từ lúc sinh ra đến năm 6 tuổi bố bỏ nhà đi nên cho đến lúc đó mình mới được nhìn mặt bố. Thi thoảng lễ Tết bố về nghỉ thì cũng chỉ chửi mắng, đánh đập vợ con. &lt;/p&gt; &lt;p&gt;Mình là kiểu người hướng nội, có chút nhút nhát. Mình bắt đầu hẹn hò năm 19t với một mối quan hệ nghiêm túc. Những mối quan hệ sau đó chỉ là qua đường.&lt;/p&gt; &lt;p&gt;Mình cảm thấy khó khăn trong việc kết nối với một người đàn ông, bản thân mình không hiểu họ, không đủ nhận thức về họ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Fabulous_Ad_4338"&gt; /u/Fabulous_Ad_4338 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q0a01m/hãy_cho_tôi_cái_nhìn_đúng_đắn_nhất_về_đàn_ông_làm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q0a01m/hãy_cho_tôi_cái_nhìn_đúng_đắn_nhất_về_đàn_ông_làm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q0a01m/hãy_cho_tôi_cái_nhìn_đúng_đắn_nhất_về_đàn_ông_làm/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-31T06:22:01+00:00</published>
+    <published>2025-12-31T10:33:49+00:00</published>
   </entry>
   <entry>
     <id>t3_1q05eg5</id>
