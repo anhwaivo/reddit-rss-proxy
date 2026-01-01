@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-01T19:38:31+00:00</updated>
+  <updated>2026-01-01T19:50:17+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -190,19 +190,6 @@
     <published>2026-01-01T17:58:58+00:00</published>
   </entry>
   <entry>
-    <id>t3_1q15bfo</id>
-    <title>review hà nội</title>
-    <updated>2026-01-01T14:23:34+00:00</updated>
-    <author>
-      <name>/u/chullysharkuwu</name>
-      <uri>https://old.reddit.com/user/chullysharkuwu</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;hi các bác, dự tháng 3 khả năng cao em ra hà nội chơi, nếu fail thì tháng 5. Cho e xin review thời tiết của 2 tháng này, em từ miền nam chui ra ngoài chơi khoảng 5 ngày. E nghe tham khảo bạn em thì tháng 3 sẽ lạnh thì mặc mấy cái áo là đủ ấm ạ =))) để e chuẩn bị kĩ. Tiện rcm 1 số quán ăn ngon, quán cf đường phố linh tinh, những nơi đáng tham quan và những nơi không nên tới. Em ra gặp bạn bè qa mạng chủ yếu nhưng mà cũng muốn tự 1 mình đi này đi nọ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/chullysharkuwu"&gt; /u/chullysharkuwu &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q15bfo/review_hà_nội/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q15bfo/review_hà_nội/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q15bfo/review_hà_nội/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-01T14:23:34+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1q128kt</id>
     <title>Vậy khi lần đầu gặp đầu tiên mình phải wow lên : À thì ra đây là người vợ/chồng mình hằng tìm kiếm thì có phải là vợ chồng mình sau này k ạ</title>
     <updated>2026-01-01T11:33:14+00:00</updated>
@@ -214,6 +201,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1q128kt/vậy_khi_lần_đầu_gặp_đầu_tiên_mình_phải_wow_lên_à/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-01T11:33:14+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1q15bfo</id>
+    <title>review hà nội</title>
+    <updated>2026-01-01T14:23:34+00:00</updated>
+    <author>
+      <name>/u/chullysharkuwu</name>
+      <uri>https://old.reddit.com/user/chullysharkuwu</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;hi các bác, dự tháng 3 khả năng cao em ra hà nội chơi, nếu fail thì tháng 5. Cho e xin review thời tiết của 2 tháng này, em từ miền nam chui ra ngoài chơi khoảng 5 ngày. E nghe tham khảo bạn em thì tháng 3 sẽ lạnh thì mặc mấy cái áo là đủ ấm ạ =))) để e chuẩn bị kĩ. Tiện rcm 1 số quán ăn ngon, quán cf đường phố linh tinh, những nơi đáng tham quan và những nơi không nên tới. Em ra gặp bạn bè qa mạng chủ yếu nhưng mà cũng muốn tự 1 mình đi này đi nọ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/chullysharkuwu"&gt; /u/chullysharkuwu &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q15bfo/review_hà_nội/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q15bfo/review_hà_nội/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q15bfo/review_hà_nội/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-01T14:23:34+00:00</published>
   </entry>
   <entry>
     <id>t3_1q1237a</id>
