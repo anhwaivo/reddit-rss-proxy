@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-01T18:29:10+00:00</updated>
+  <updated>2026-01-01T18:53:53+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -97,19 +97,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1q1b1b1/lựa_sữa_tắm_cho_ny/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-01T18:25:00+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1q1b2gu</id>
-    <title>Mong mọi người giúp đỡ</title>
-    <updated>2026-01-01T18:26:16+00:00</updated>
-    <author>
-      <name>/u/Flaky-Cookie5367</name>
-      <uri>https://old.reddit.com/user/Flaky-Cookie5367</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là bọn em hs với tần suất khá thường xuyên nhưng vì của e có lẽ hơi quá cỡ nên làm e ấy đau dẫn đến tình trạng chảy máu nhạt e có nên dẫn ny đi khám ko ( mặc dù ny bảo không sao )&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Flaky-Cookie5367"&gt; /u/Flaky-Cookie5367 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q1b2gu/mong_mọi_người_giúp_đỡ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q1b2gu/mong_mọi_người_giúp_đỡ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q1b2gu/mong_mọi_người_giúp_đỡ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-01T18:26:16+00:00</published>
   </entry>
   <entry>
     <id>t3_1q0yxw1</id>
@@ -227,6 +214,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1q128kt/vậy_khi_lần_đầu_gặp_đầu_tiên_mình_phải_wow_lên_à/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-01T11:33:14+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1q1b2gu</id>
+    <title>Mong mọi người giúp đỡ</title>
+    <updated>2026-01-01T18:26:16+00:00</updated>
+    <author>
+      <name>/u/Flaky-Cookie5367</name>
+      <uri>https://old.reddit.com/user/Flaky-Cookie5367</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là bọn em hs với tần suất khá thường xuyên nhưng vì của e có lẽ hơi quá cỡ nên làm e ấy đau dẫn đến tình trạng chảy máu nhạt e có nên dẫn ny đi khám ko ( mặc dù ny bảo không sao )&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Flaky-Cookie5367"&gt; /u/Flaky-Cookie5367 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q1b2gu/mong_mọi_người_giúp_đỡ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q1b2gu/mong_mọi_người_giúp_đỡ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q1b2gu/mong_mọi_người_giúp_đỡ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-01T18:26:16+00:00</published>
   </entry>
   <entry>
     <id>t3_1q1237a</id>
