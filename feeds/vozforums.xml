@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-01T19:16:28+00:00</updated>
+  <updated>2026-01-01T19:38:31+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -151,19 +151,6 @@
     <published>2026-01-01T15:26:30+00:00</published>
   </entry>
   <entry>
-    <id>t3_1q0g2cs</id>
-    <title>Món quà sít rịt mà tôi bóc được là đây</title>
-    <updated>2025-12-31T15:47:47+00:00</updated>
-    <author>
-      <name>/u/Middle-Finger-9841</name>
-      <uri>https://old.reddit.com/user/Middle-Finger-9841</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1q0g2cs/món_quà_sít_rịt_mà_tôi_bóc_được_là_đây/"&gt; &lt;img alt="Món quà sít rịt mà tôi bóc được là đây" src="https://preview.redd.it/12npwxg79kag1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ba84bee585cc2ad191994e57c8c210a7b3000350" title="Món quà sít rịt mà tôi bóc được là đây" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Năm nay đến cả cái bánh chưng cũng chả có rồi 😔😔&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Middle-Finger-9841"&gt; /u/Middle-Finger-9841 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/12npwxg79kag1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q0g2cs/món_quà_sít_rịt_mà_tôi_bóc_được_là_đây/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q0g2cs/món_quà_sít_rịt_mà_tôi_bóc_được_là_đây/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2025-12-31T15:47:47+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1q16vqs</id>
     <title>Mua credit để vào phòng gym / tham gia các lớp học thể thao (tương tự như ClassPass)</title>
     <updated>2026-01-01T15:34:52+00:00</updated>
@@ -175,6 +162,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1q16vqs/mua_credit_để_vào_phòng_gym_tham_gia_các_lớp_học/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-01T15:34:52+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1q0g2cs</id>
+    <title>Món quà sít rịt mà tôi bóc được là đây</title>
+    <updated>2025-12-31T15:47:47+00:00</updated>
+    <author>
+      <name>/u/Middle-Finger-9841</name>
+      <uri>https://old.reddit.com/user/Middle-Finger-9841</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1q0g2cs/món_quà_sít_rịt_mà_tôi_bóc_được_là_đây/"&gt; &lt;img alt="Món quà sít rịt mà tôi bóc được là đây" src="https://preview.redd.it/12npwxg79kag1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ba84bee585cc2ad191994e57c8c210a7b3000350" title="Món quà sít rịt mà tôi bóc được là đây" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Năm nay đến cả cái bánh chưng cũng chả có rồi 😔😔&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Middle-Finger-9841"&gt; /u/Middle-Finger-9841 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/12npwxg79kag1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q0g2cs/món_quà_sít_rịt_mà_tôi_bóc_được_là_đây/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q0g2cs/món_quà_sít_rịt_mà_tôi_bóc_được_là_đây/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2025-12-31T15:47:47+00:00</published>
   </entry>
   <entry>
     <id>t3_1q1adow</id>
@@ -216,19 +216,6 @@
     <published>2026-01-01T11:33:14+00:00</published>
   </entry>
   <entry>
-    <id>t3_1q0vp2t</id>
-    <title>Khó khăn đầu năm - bất lực việc anh trai thất nghiệp</title>
-    <updated>2026-01-01T04:30:09+00:00</updated>
-    <author>
-      <name>/u/BunnyJumperSukhoi</name>
-      <uri>https://old.reddit.com/user/BunnyJumperSukhoi</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Anh trai mình đi làm 8 năm ở công ty nn xong xin nghỉ việc ở nhà đến h là hơn 1 năm. Nguyên nhân nghỉ việc theo ổng là bị đì đọt. 33 tuổi, 1 vợ, 1 con. H chỉ có vợ ổng đi làm, việc làm của vợ ổng là của mẹ mình giao lại cho, là việc làm freelancer thoải mái về thời gian nhưng tương lai ko ổn định. &lt;/p&gt; &lt;p&gt;Mẹ mình và mình đi Mỹ định cư rồi. Nhà cửa để lại cho vợ chồng ổng trông giữ. Hơn 1 năm qua, mặc dù mình và mẹ kêu thậm chí là hối thúc anh trai đi kiếm việc nhưng mà ổng cứ lý do này nọ. Bản thân mẹ thì muốn ổng làm việc văn phòng, mà ổng xin cái kiểu gì mà 1 năm qua ko ai gọi cả. Kêu xin lại việc như chuyên môn cũ thì ko muốn. Kêu làm lao động phổ thông thì mẹ ko muốn vì nguy hiểm và ổng cũng ko muốn vì sĩ diện. Hối thúc dữ quá thì ổng thái độ này nọ kiểu trách móc gây áp lực cho ổng. Ổng hù làm quá ổng 44 nên mẹ mình sợ ổng quẫn trí nên ko làm căng.&lt;/p&gt; &lt;p&gt;Bản thân nhà anh trai mình ăn tiêu cũng ko đủ với đồng lương vợ ổng, một phần cũng do mẹ mình bảo bọc cháu nội, muốn cái gì cũng ngon, tốt cho cháu. Học thì học trường quốc tế vì sợ học trường công cháu bị cô bạo hành, kiểu vậy đấy. Và mẹ mình cũng là dạng người ôm đồm, muốn kiểu như bao bọc hết đấy. Hiện tại mỗi tháng mình cho ổng 100$, mẹ phụ vài trăm tiền sữa cho cháu nội. May là có sẵn nhà cửa rồi nên chi phí đỡ chút.&lt;/p&gt; &lt;p&gt;Nhiều khi mình tức cãi lộn với mẹ mình bên đây. Mẹ nói h t kêu nó riết cãi nhau với nó luôn mà nó cũng ko đi làm thì m muốn sao đây, ép nó à ? Mình nói mình sẽ cắt tiền gửi về thì mẹ nói m ko gửi thì t gửi thêm cho nó, thế là mình ko đành lòng nên vẫn tiếp tục gửi tiền. Có lần mình muốn chửi ổng nặng lắm mà nghĩ thôi ép ổng ko được mà bây h ổng cũng giữ gìn nhà cửa của mình nữa, nên thôi chịu.&lt;/p&gt; &lt;p&gt;Vấn đề là cha mẹ lớn tuổi rồi ko lẽ cứ phải còng lưng lo con cái kiểu này ? Mà ổng mà ko chịu đi làm thời gian dài thì ổng sẽ ko bao h đi làm nữa, lại ở nhà ăn bám vợ và cha mẹ cả đời hay sao ? Mẹ kêu mình vô quốc tịch bảo lãnh ổng đi, mình nói là mình ko có cái trách nhiệm đó. &lt;/p&gt; &lt;p&gt;Thật là khó xử mà. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/BunnyJumperSukhoi"&gt; /u/BunnyJumperSukhoi &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q0vp2t/kho_khăn_đâu_năm_bât_lưc_viêc_anh_trai_thât_nghiêp/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q0vp2t/kho_khăn_đâu_năm_bât_lưc_viêc_anh_trai_thât_nghiêp/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q0vp2t/kho_khăn_đâu_năm_bât_lưc_viêc_anh_trai_thât_nghiêp/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-01T04:30:09+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1q1237a</id>
     <title>Các con vợ sài ngày đầu tiên năm 2026 thế nào rồi</title>
     <updated>2026-01-01T11:23:45+00:00</updated>
@@ -240,6 +227,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1q1237a/các_con_vợ_sài_ngày_đầu_tiên_năm_2026_thế_nào_rồi/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-01T11:23:45+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1q0vp2t</id>
+    <title>Khó khăn đầu năm - bất lực việc anh trai thất nghiệp</title>
+    <updated>2026-01-01T04:30:09+00:00</updated>
+    <author>
+      <name>/u/BunnyJumperSukhoi</name>
+      <uri>https://old.reddit.com/user/BunnyJumperSukhoi</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Anh trai mình đi làm 8 năm ở công ty nn xong xin nghỉ việc ở nhà đến h là hơn 1 năm. Nguyên nhân nghỉ việc theo ổng là bị đì đọt. 33 tuổi, 1 vợ, 1 con. H chỉ có vợ ổng đi làm, việc làm của vợ ổng là của mẹ mình giao lại cho, là việc làm freelancer thoải mái về thời gian nhưng tương lai ko ổn định. &lt;/p&gt; &lt;p&gt;Mẹ mình và mình đi Mỹ định cư rồi. Nhà cửa để lại cho vợ chồng ổng trông giữ. Hơn 1 năm qua, mặc dù mình và mẹ kêu thậm chí là hối thúc anh trai đi kiếm việc nhưng mà ổng cứ lý do này nọ. Bản thân mẹ thì muốn ổng làm việc văn phòng, mà ổng xin cái kiểu gì mà 1 năm qua ko ai gọi cả. Kêu xin lại việc như chuyên môn cũ thì ko muốn. Kêu làm lao động phổ thông thì mẹ ko muốn vì nguy hiểm và ổng cũng ko muốn vì sĩ diện. Hối thúc dữ quá thì ổng thái độ này nọ kiểu trách móc gây áp lực cho ổng. Ổng hù làm quá ổng 44 nên mẹ mình sợ ổng quẫn trí nên ko làm căng.&lt;/p&gt; &lt;p&gt;Bản thân nhà anh trai mình ăn tiêu cũng ko đủ với đồng lương vợ ổng, một phần cũng do mẹ mình bảo bọc cháu nội, muốn cái gì cũng ngon, tốt cho cháu. Học thì học trường quốc tế vì sợ học trường công cháu bị cô bạo hành, kiểu vậy đấy. Và mẹ mình cũng là dạng người ôm đồm, muốn kiểu như bao bọc hết đấy. Hiện tại mỗi tháng mình cho ổng 100$, mẹ phụ vài trăm tiền sữa cho cháu nội. May là có sẵn nhà cửa rồi nên chi phí đỡ chút.&lt;/p&gt; &lt;p&gt;Nhiều khi mình tức cãi lộn với mẹ mình bên đây. Mẹ nói h t kêu nó riết cãi nhau với nó luôn mà nó cũng ko đi làm thì m muốn sao đây, ép nó à ? Mình nói mình sẽ cắt tiền gửi về thì mẹ nói m ko gửi thì t gửi thêm cho nó, thế là mình ko đành lòng nên vẫn tiếp tục gửi tiền. Có lần mình muốn chửi ổng nặng lắm mà nghĩ thôi ép ổng ko được mà bây h ổng cũng giữ gìn nhà cửa của mình nữa, nên thôi chịu.&lt;/p&gt; &lt;p&gt;Vấn đề là cha mẹ lớn tuổi rồi ko lẽ cứ phải còng lưng lo con cái kiểu này ? Mà ổng mà ko chịu đi làm thời gian dài thì ổng sẽ ko bao h đi làm nữa, lại ở nhà ăn bám vợ và cha mẹ cả đời hay sao ? Mẹ kêu mình vô quốc tịch bảo lãnh ổng đi, mình nói là mình ko có cái trách nhiệm đó. &lt;/p&gt; &lt;p&gt;Thật là khó xử mà. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/BunnyJumperSukhoi"&gt; /u/BunnyJumperSukhoi &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q0vp2t/kho_khăn_đâu_năm_bât_lưc_viêc_anh_trai_thât_nghiêp/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q0vp2t/kho_khăn_đâu_năm_bât_lưc_viêc_anh_trai_thât_nghiêp/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q0vp2t/kho_khăn_đâu_năm_bât_lưc_viêc_anh_trai_thât_nghiêp/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-01T04:30:09+00:00</published>
   </entry>
   <entry>
     <id>t3_1q1b2gu</id>
