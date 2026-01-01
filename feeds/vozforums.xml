@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-01T23:18:59+00:00</updated>
+  <updated>2026-01-01T23:40:56+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -203,6 +203,19 @@
     <published>2026-01-01T11:23:45+00:00</published>
   </entry>
   <entry>
+    <id>t3_1q181lo</id>
+    <title>Anh em cho hỏi thật, đánh răng 1 lần hay 2 lần/ngày?</title>
+    <updated>2026-01-01T16:24:30+00:00</updated>
+    <author>
+      <name>/u/Own-Zone-5224</name>
+      <uri>https://old.reddit.com/user/Own-Zone-5224</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Vợ tôi cho rằng đa số mọi người đều đánh 2 lần. Tôi thì nghi ngờ, nhất là anh em con trai – vì thực tế nhiều ông đầu tư cho xe cộ, đồ công nghệ còn kỹ hơn chăm sóc sức khỏe bản thân. Anh em vào xác nhận giúp :D&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Own-Zone-5224"&gt; /u/Own-Zone-5224 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q181lo/anh_em_cho_hỏi_thật_đánh_răng_1_lần_hay_2_lầnngày/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q181lo/anh_em_cho_hỏi_thật_đánh_răng_1_lần_hay_2_lầnngày/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q181lo/anh_em_cho_hỏi_thật_đánh_răng_1_lần_hay_2_lầnngày/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-01T16:24:30+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1q1adow</id>
     <title>Có phải con gái ai cũng vậy hỏ</title>
     <updated>2026-01-01T17:58:58+00:00</updated>
@@ -240,19 +253,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1q15bfo/review_hà_nội/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-01T14:23:34+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1q181lo</id>
-    <title>Anh em cho hỏi thật, đánh răng 1 lần hay 2 lần/ngày?</title>
-    <updated>2026-01-01T16:24:30+00:00</updated>
-    <author>
-      <name>/u/Own-Zone-5224</name>
-      <uri>https://old.reddit.com/user/Own-Zone-5224</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Vợ tôi cho rằng đa số mọi người đều đánh 2 lần. Tôi thì nghi ngờ, nhất là anh em con trai – vì thực tế nhiều ông đầu tư cho xe cộ, đồ công nghệ còn kỹ hơn chăm sóc sức khỏe bản thân. Anh em vào xác nhận giúp :D&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Own-Zone-5224"&gt; /u/Own-Zone-5224 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q181lo/anh_em_cho_hỏi_thật_đánh_răng_1_lần_hay_2_lầnngày/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q181lo/anh_em_cho_hỏi_thật_đánh_răng_1_lần_hay_2_lầnngày/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q181lo/anh_em_cho_hỏi_thật_đánh_răng_1_lần_hay_2_lầnngày/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-01T16:24:30+00:00</published>
   </entry>
   <entry>
     <id>t3_1q1b2gu</id>
