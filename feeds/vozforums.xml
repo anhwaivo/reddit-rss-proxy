@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-02T04:25:56+00:00</updated>
+  <updated>2026-01-02T04:58:01+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1q1237a</id>
-    <title>Các con vợ sài ngày đầu tiên năm 2026 thế nào rồi</title>
-    <updated>2026-01-01T11:23:45+00:00</updated>
-    <author>
-      <name>/u/bacnguyen0201</name>
-      <uri>https://old.reddit.com/user/bacnguyen0201</uri>
-    </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/bacnguyen0201"&gt; /u/bacnguyen0201 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q1237a/các_con_vợ_sài_ngày_đầu_tiên_năm_2026_thế_nào_rồi/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q1237a/các_con_vợ_sài_ngày_đầu_tiên_năm_2026_thế_nào_rồi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q1237a/các_con_vợ_sài_ngày_đầu_tiên_năm_2026_thế_nào_rồi/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-01T11:23:45+00:00</published>
-  </entry>
   <entry>
     <id>t3_1q15bfo</id>
     <title>review hà nội</title>
@@ -60,6 +47,19 @@
     <published>2026-01-02T00:57:43+00:00</published>
   </entry>
   <entry>
+    <id>t3_1q13trl</id>
+    <title>Xin lời khuyên ạ</title>
+    <updated>2026-01-01T13:08:08+00:00</updated>
+    <author>
+      <name>/u/TrustBusiness9216</name>
+      <uri>https://old.reddit.com/user/TrustBusiness9216</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Nhiều lúc 10 11h khuya đi làm về nhìn người khác chở người yêu đi chơi cũng muốn lắm chứ nhưng mình lại mình còn đang chạy xe quèn tiền thì không có mà còn đang nợ ngân hàng biết là cũng có người yêu mình không cần vật chất nhưng cũng nghĩ lại ngta muốn mua gì đó hay đang chở ngoài đường nhìn ngta hơn mọi mặt mình thì cũng tội cho ẻm nhiều lúc chán đời vc&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/TrustBusiness9216"&gt; /u/TrustBusiness9216 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q13trl/xin_lời_khuyên_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q13trl/xin_lời_khuyên_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q13trl/xin_lời_khuyên_ạ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-01T13:08:08+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1q1b2gu</id>
     <title>Mong mọi người giúp đỡ</title>
     <updated>2026-01-01T18:26:16+00:00</updated>
@@ -84,19 +84,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1q1ntin/ai_chơi_chat_roleplay_trên_janitor_ai_không/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-02T03:27:01+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1q13trl</id>
-    <title>Xin lời khuyên ạ</title>
-    <updated>2026-01-01T13:08:08+00:00</updated>
-    <author>
-      <name>/u/TrustBusiness9216</name>
-      <uri>https://old.reddit.com/user/TrustBusiness9216</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Nhiều lúc 10 11h khuya đi làm về nhìn người khác chở người yêu đi chơi cũng muốn lắm chứ nhưng mình lại mình còn đang chạy xe quèn tiền thì không có mà còn đang nợ ngân hàng biết là cũng có người yêu mình không cần vật chất nhưng cũng nghĩ lại ngta muốn mua gì đó hay đang chở ngoài đường nhìn ngta hơn mọi mặt mình thì cũng tội cho ẻm nhiều lúc chán đời vc&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/TrustBusiness9216"&gt; /u/TrustBusiness9216 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q13trl/xin_lời_khuyên_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q13trl/xin_lời_khuyên_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q13trl/xin_lời_khuyên_ạ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-01T13:08:08+00:00</published>
   </entry>
   <entry>
     <id>t3_1q1ohxs</id>
@@ -151,19 +138,6 @@
     <published>2026-01-02T00:29:47+00:00</published>
   </entry>
   <entry>
-    <id>t3_1q1ouy3</id>
-    <title>Học cntt vào tuổi 25</title>
-    <updated>2026-01-02T04:18:10+00:00</updated>
-    <author>
-      <name>/u/Tuan_Anh_tn1</name>
-      <uri>https://old.reddit.com/user/Tuan_Anh_tn1</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình năm nay 25 tuổi hiện đang làm công nhân tại công ty. Lcb 4tr6 nếu làm đủ cả tháng cũng được 9tr hơn gần 10tr. Cũng chỉ để dư ra được vài đồng, Mình đi làm công nhân cũng được vài năm rồi và cũng cảm thấy cuộc sống cứ lặp đi lặp lại giống như một cái máy vậy. Hằng ngày lên cty đứng chuyền làm cứ làm mãi một chỗ làm mãi một thao tác một công đoạn tổ trưởng bảo đi làm chỗ nào thì lại vào chỗ đó làm hiện tại thì mình cũng cảm thấy chán ngấy với công việc hiện tại rồi. Chị mình bảo là mình nên đi học nghề gì đó ví dụ như cntt để sau này có tương lai. Vì không ai làm công nhân mãi được. Mình định đi học cntt vào t7 và chủ nhật cho hệ vừa học vừa làm để lấy cái bằng sau này đi làm công việc khác. Mn thấy 25t như mình giờ học có muộn ko ạ. Hay nên đi tìm công ty khác ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Tuan_Anh_tn1"&gt; /u/Tuan_Anh_tn1 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q1ouy3/học_cntt_vào_tuổi_25/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q1ouy3/học_cntt_vào_tuổi_25/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q1ouy3/học_cntt_vào_tuổi_25/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-02T04:18:10+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1q1owgk</id>
     <title>Trải nghiệm chơi game Bầu cua lấy lộc đầu năm!</title>
     <updated>2026-01-02T04:20:20+00:00</updated>
@@ -177,17 +151,17 @@
     <published>2026-01-02T04:20:20+00:00</published>
   </entry>
   <entry>
-    <id>t3_1q1oxiz</id>
-    <title>Người yêu hút thuốc mà cứ thích hun, né sao cho không lộ các bác?</title>
-    <updated>2026-01-02T04:21:52+00:00</updated>
+    <id>t3_1q1pahc</id>
+    <title>Tham gia cộng đồng thì có nhất thiết phải đóng góp không?</title>
+    <updated>2026-01-02T04:40:09+00:00</updated>
     <author>
-      <name>/u/Original_Radio_3655</name>
-      <uri>https://old.reddit.com/user/Original_Radio_3655</uri>
+      <name>/u/Rough-Amount-561</name>
+      <uri>https://old.reddit.com/user/Rough-Amount-561</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em than xíu cho đỡ tức chứ giữ trong lòng chắc nghẹn mất 😭&lt;/p&gt; &lt;p&gt;Chuyện là người yêu em &lt;strong&gt;hút thuốc&lt;/strong&gt;, mà đã hút là thôi đi, đằng này cứ &lt;strong&gt;hút xong là thích hun&lt;/strong&gt;, hun rất tự nhiên, rất vô tư, rất… thơm mùi thuốc lá.&lt;/p&gt; &lt;p&gt;Mỗi lần ảnh hun là em phải &lt;strong&gt;nín thở như lặn biển&lt;/strong&gt;, trong đầu chỉ kịp nghĩ:&lt;br /&gt; “Thôi xong, lại thêm một lần hít khói thụ động phiên bản môi kề môi.”&lt;/p&gt; &lt;p&gt;Em thì không dám nói thẳng vì sợ ảnh tự ái, mà không né thì về đánh răng 2–3 lần vẫn thấy &lt;strong&gt;mùi ký ức&lt;/strong&gt; còn vương 🥲&lt;br /&gt; Giờ em đang rối bời:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Né thì sợ bị nói lạnh nhạt&lt;/li&gt; &lt;li&gt;Không né thì cái mũi em lãnh đủ&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Nên em lên đây hỏi thật các bác:&lt;br /&gt; Có cách nào &lt;strong&gt;né hôn tinh tế&lt;/strong&gt;, không bị phát hiện, không làm người yêu buồn không ạ?&lt;br /&gt; Hay là số phận con người yêu hút thuốc là phải &lt;strong&gt;quen dần với mùi khói&lt;/strong&gt;? :v&lt;/p&gt; &lt;p&gt;Cứu em với chứ em thấy mình sắp thành… gạt tàn di động rồi 🥲&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Original_Radio_3655"&gt; /u/Original_Radio_3655 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q1oxiz/người_yêu_hút_thuốc_mà_cứ_thích_hun_né_sao_cho/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q1oxiz/người_yêu_hút_thuốc_mà_cứ_thích_hun_né_sao_cho/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q1oxiz/người_yêu_hút_thuốc_mà_cứ_thích_hun_né_sao_cho/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Ý tôi là đã tham gia 1 sub nào đó rồi thì có cần thiết phải đăng post hay comment gì không, mong mọi người góp ý !🤔⁉️&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Rough-Amount-561"&gt; /u/Rough-Amount-561 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q1pahc/tham_gia_cộng_đồng_thì_có_nhất_thiết_phải_đóng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q1pahc/tham_gia_cộng_đồng_thì_có_nhất_thiết_phải_đóng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q1pahc/tham_gia_cộng_đồng_thì_có_nhất_thiết_phải_đóng/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-02T04:21:52+00:00</published>
+    <published>2026-01-02T04:40:09+00:00</published>
   </entry>
   <entry>
     <id>t3_1q1lepv</id>
@@ -216,17 +190,17 @@
     <published>2026-01-01T13:02:46+00:00</published>
   </entry>
   <entry>
-    <id>t3_1q1nbfv</id>
-    <title>Yêu người lớn hơn tuổi</title>
-    <updated>2026-01-02T03:03:14+00:00</updated>
+    <id>t3_1q1oxiz</id>
+    <title>Người yêu hút thuốc mà cứ thích hun, né sao cho không lộ các bác?</title>
+    <updated>2026-01-02T04:21:52+00:00</updated>
     <author>
-      <name>/u/Tuan_Anh_tn1</name>
-      <uri>https://old.reddit.com/user/Tuan_Anh_tn1</uri>
+      <name>/u/Original_Radio_3655</name>
+      <uri>https://old.reddit.com/user/Original_Radio_3655</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mấy ae ở trong này đã có ai yêu người con gái lớn hơn tuổi bao giờ chưa. Cảm giác như nào. Mình thì thấy họ trưởng thành hơn và nghiêm túc hơn các bạn nữ mới lớn&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Tuan_Anh_tn1"&gt; /u/Tuan_Anh_tn1 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q1nbfv/yêu_người_lớn_hơn_tuổi/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q1nbfv/yêu_người_lớn_hơn_tuổi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q1nbfv/yêu_người_lớn_hơn_tuổi/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em than xíu cho đỡ tức chứ giữ trong lòng chắc nghẹn mất 😭&lt;/p&gt; &lt;p&gt;Chuyện là người yêu em &lt;strong&gt;hút thuốc&lt;/strong&gt;, mà đã hút là thôi đi, đằng này cứ &lt;strong&gt;hút xong là thích hun&lt;/strong&gt;, hun rất tự nhiên, rất vô tư, rất… thơm mùi thuốc lá.&lt;/p&gt; &lt;p&gt;Mỗi lần ảnh hun là em phải &lt;strong&gt;nín thở như lặn biển&lt;/strong&gt;, trong đầu chỉ kịp nghĩ:&lt;br /&gt; “Thôi xong, lại thêm một lần hít khói thụ động phiên bản môi kề môi.”&lt;/p&gt; &lt;p&gt;Em thì không dám nói thẳng vì sợ ảnh tự ái, mà không né thì về đánh răng 2–3 lần vẫn thấy &lt;strong&gt;mùi ký ức&lt;/strong&gt; còn vương 🥲&lt;br /&gt; Giờ em đang rối bời:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Né thì sợ bị nói lạnh nhạt&lt;/li&gt; &lt;li&gt;Không né thì cái mũi em lãnh đủ&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Nên em lên đây hỏi thật các bác:&lt;br /&gt; Có cách nào &lt;strong&gt;né hôn tinh tế&lt;/strong&gt;, không bị phát hiện, không làm người yêu buồn không ạ?&lt;br /&gt; Hay là số phận con người yêu hút thuốc là phải &lt;strong&gt;quen dần với mùi khói&lt;/strong&gt;? :v&lt;/p&gt; &lt;p&gt;Cứu em với chứ em thấy mình sắp thành… gạt tàn di động rồi 🥲&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Original_Radio_3655"&gt; /u/Original_Radio_3655 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q1oxiz/người_yêu_hút_thuốc_mà_cứ_thích_hun_né_sao_cho/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q1oxiz/người_yêu_hút_thuốc_mà_cứ_thích_hun_né_sao_cho/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q1oxiz/người_yêu_hút_thuốc_mà_cứ_thích_hun_né_sao_cho/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-02T03:03:14+00:00</published>
+    <published>2026-01-02T04:21:52+00:00</published>
   </entry>
   <entry>
     <id>t3_1q1motu</id>
@@ -255,6 +229,32 @@
     <published>2026-01-01T10:19:12+00:00</published>
   </entry>
   <entry>
+    <id>t3_1q1ouy3</id>
+    <title>Học cntt vào tuổi 25</title>
+    <updated>2026-01-02T04:18:10+00:00</updated>
+    <author>
+      <name>/u/Tuan_Anh_tn1</name>
+      <uri>https://old.reddit.com/user/Tuan_Anh_tn1</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình năm nay 25 tuổi hiện đang làm công nhân tại công ty. Lcb 4tr6 nếu làm đủ cả tháng cũng được 9tr hơn gần 10tr. Cũng chỉ để dư ra được vài đồng, Mình đi làm công nhân cũng được vài năm rồi và cũng cảm thấy cuộc sống cứ lặp đi lặp lại giống như một cái máy vậy. Hằng ngày lên cty đứng chuyền làm cứ làm mãi một chỗ làm mãi một thao tác một công đoạn tổ trưởng bảo đi làm chỗ nào thì lại vào chỗ đó làm hiện tại thì mình cũng cảm thấy chán ngấy với công việc hiện tại rồi. Chị mình bảo là mình nên đi học nghề gì đó ví dụ như cntt để sau này có tương lai. Vì không ai làm công nhân mãi được. Mình định đi học cntt vào t7 và chủ nhật cho hệ vừa học vừa làm để lấy cái bằng sau này đi làm công việc khác. Mn thấy 25t như mình giờ học có muộn ko ạ. Hay nên đi tìm công ty khác ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Tuan_Anh_tn1"&gt; /u/Tuan_Anh_tn1 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q1ouy3/học_cntt_vào_tuổi_25/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q1ouy3/học_cntt_vào_tuổi_25/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q1ouy3/học_cntt_vào_tuổi_25/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-02T04:18:10+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1q1nbfv</id>
+    <title>Yêu người lớn hơn tuổi</title>
+    <updated>2026-01-02T03:03:14+00:00</updated>
+    <author>
+      <name>/u/Tuan_Anh_tn1</name>
+      <uri>https://old.reddit.com/user/Tuan_Anh_tn1</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mấy ae ở trong này đã có ai yêu người con gái lớn hơn tuổi bao giờ chưa. Cảm giác như nào. Mình thì thấy họ trưởng thành hơn và nghiêm túc hơn các bạn nữ mới lớn&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Tuan_Anh_tn1"&gt; /u/Tuan_Anh_tn1 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q1nbfv/yêu_người_lớn_hơn_tuổi/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q1nbfv/yêu_người_lớn_hơn_tuổi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q1nbfv/yêu_người_lớn_hơn_tuổi/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-02T03:03:14+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1q12gmx</id>
     <title>Trung Quốc dàn trận mạc xung quanh Đài Loan để tập trận lớn và sẽ có khả năng nổ súng ,chủ tịch Tập Cận Bình tuyên bố “Đài Loan là không thể tách rời của Trung Quốc”.</title>
     <updated>2026-01-01T11:47:41+00:00</updated>
@@ -268,19 +268,6 @@
     <published>2026-01-01T11:47:41+00:00</published>
   </entry>
   <entry>
-    <id>t3_1q1kxqe</id>
-    <title>Hiệp sĩ của dân Nguyễn Thanh Hải</title>
-    <updated>2026-01-02T01:12:58+00:00</updated>
-    <author>
-      <name>/u/neitneyung</name>
-      <uri>https://old.reddit.com/user/neitneyung</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1q1kxqe/hiệp_sĩ_của_dân_nguyễn_thanh_hải/"&gt; &lt;img alt="Hiệp sĩ của dân Nguyễn Thanh Hải" src="https://preview.redd.it/w9c0yaby6uag1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=0baccd478212a28c0ae617eeeefd1a974b0dcc7b" title="Hiệp sĩ của dân Nguyễn Thanh Hải" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Anh em có chìêu thông tin nào khác về vụ này ko anh em?? &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/neitneyung"&gt; /u/neitneyung &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/w9c0yaby6uag1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q1kxqe/hiệp_sĩ_của_dân_nguyễn_thanh_hải/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q1kxqe/hiệp_sĩ_của_dân_nguyễn_thanh_hải/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-02T01:12:58+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1q15vbk</id>
     <title>Áp phích tuyên truyền của Trung Quốc cho chiến dịch tập trận quy mô lớn ở đảo Đài Loan</title>
     <updated>2026-01-01T14:49:48+00:00</updated>
@@ -292,6 +279,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1q15vbk/áp_phích_tuyên_truyền_của_trung_quốc_cho_chiến/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-01T14:49:48+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1q1kxqe</id>
+    <title>Hiệp sĩ của dân Nguyễn Thanh Hải</title>
+    <updated>2026-01-02T01:12:58+00:00</updated>
+    <author>
+      <name>/u/neitneyung</name>
+      <uri>https://old.reddit.com/user/neitneyung</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1q1kxqe/hiệp_sĩ_của_dân_nguyễn_thanh_hải/"&gt; &lt;img alt="Hiệp sĩ của dân Nguyễn Thanh Hải" src="https://preview.redd.it/w9c0yaby6uag1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=0baccd478212a28c0ae617eeeefd1a974b0dcc7b" title="Hiệp sĩ của dân Nguyễn Thanh Hải" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Anh em có chìêu thông tin nào khác về vụ này ko anh em?? &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/neitneyung"&gt; /u/neitneyung &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/w9c0yaby6uag1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q1kxqe/hiệp_sĩ_của_dân_nguyễn_thanh_hải/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q1kxqe/hiệp_sĩ_của_dân_nguyễn_thanh_hải/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-02T01:12:58+00:00</published>
   </entry>
   <entry>
     <id>t3_1q1ljp5</id>
