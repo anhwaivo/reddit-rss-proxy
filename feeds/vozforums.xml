@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-02T17:51:55+00:00</updated>
+  <updated>2026-01-02T18:29:02+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -99,19 +99,6 @@
     <published>2026-01-02T12:31:13+00:00</published>
   </entry>
   <entry>
-    <id>t3_1q1pyjy</id>
-    <title>Người Việt bỏ mạng ở nơi xa xứ</title>
-    <updated>2026-01-02T05:14:02+00:00</updated>
-    <author>
-      <name>/u/Brief_Somewhere_9666</name>
-      <uri>https://old.reddit.com/user/Brief_Somewhere_9666</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1q1pyjy/người_việt_bỏ_mạng_ở_nơi_xa_xứ/"&gt; &lt;img alt="Người Việt bỏ mạng ở nơi xa xứ" src="https://b.thumbs.redditmedia.com/CXF9FT3r5cGF1m6w_WttTc1MdylW0hSYHabcxhpIfEI.jpg" title="Người Việt bỏ mạng ở nơi xa xứ" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Brief_Somewhere_9666"&gt; /u/Brief_Somewhere_9666 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1q1pyjy"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q1pyjy/người_việt_bỏ_mạng_ở_nơi_xa_xứ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q1pyjy/người_việt_bỏ_mạng_ở_nơi_xa_xứ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-02T05:14:02+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1q23e1j</id>
     <title>Tìm nhạc tiếng anh</title>
     <updated>2026-01-02T16:39:16+00:00</updated>
@@ -123,6 +110,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1q23e1j/tìm_nhạc_tiếng_anh/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-02T16:39:16+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1q1pyjy</id>
+    <title>Người Việt bỏ mạng ở nơi xa xứ</title>
+    <updated>2026-01-02T05:14:02+00:00</updated>
+    <author>
+      <name>/u/Brief_Somewhere_9666</name>
+      <uri>https://old.reddit.com/user/Brief_Somewhere_9666</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1q1pyjy/người_việt_bỏ_mạng_ở_nơi_xa_xứ/"&gt; &lt;img alt="Người Việt bỏ mạng ở nơi xa xứ" src="https://b.thumbs.redditmedia.com/CXF9FT3r5cGF1m6w_WttTc1MdylW0hSYHabcxhpIfEI.jpg" title="Người Việt bỏ mạng ở nơi xa xứ" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Brief_Somewhere_9666"&gt; /u/Brief_Somewhere_9666 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1q1pyjy"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q1pyjy/người_việt_bỏ_mạng_ở_nơi_xa_xứ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q1pyjy/người_việt_bỏ_mạng_ở_nơi_xa_xứ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-02T05:14:02+00:00</published>
   </entry>
   <entry>
     <id>t3_1q1v808</id>
@@ -164,19 +164,6 @@
     <published>2026-01-02T15:15:12+00:00</published>
   </entry>
   <entry>
-    <id>t3_1q21wrq</id>
-    <title>xin mọi sự tư vấn từ mọi người</title>
-    <updated>2026-01-02T15:44:22+00:00</updated>
-    <author>
-      <name>/u/trongdat03</name>
-      <uri>https://old.reddit.com/user/trongdat03</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chẳng là trong thời gian gần đây đang nổi về dự án sân động Olympic. Quê em thuộc xã Tam Hưng (huyện Thanh Oai cũ) đang trong diện quy hoạch dự án, thuộc Khu B của bản đồ quy hoạch. Bên xã e cũng đã thông báo qua mức đền bù ruộng đất cho nông dân là xấp xỉ 300tr/ xào. Ruộng nhà em có 4,5 xào và đang trong diện thu hồi. Tính ra với số tiền đền bù là 300tr thì nhà em sẽ thu về 1 tỉ 2 nhưng với số tiền này em thấy không quá ít cũng không quá nhiều. Em sử dụng để mua đất thì không đủ, mua nhà Hà Nội thì lại càng không. Với lại, nhà em ở quê thì đủ sống với bố mẹ rồi nên em không nghĩ đến việc xây cao thêm nữa. Trong thời gian đồng tiền trượt giá như này em không biết sử dụng sao cho phù hợp. Kính mong nhờ các bác tư vấn và cho e xin hướng hợp lý nhất ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/trongdat03"&gt; /u/trongdat03 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q21wrq/xin_mọi_sự_tư_vấn_từ_mọi_người/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q21wrq/xin_mọi_sự_tư_vấn_từ_mọi_người/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q21wrq/xin_mọi_sự_tư_vấn_từ_mọi_người/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-02T15:44:22+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1q1kxqe</id>
     <title>Hiệp sĩ của dân Nguyễn Thanh Hải</title>
     <updated>2026-01-02T01:12:58+00:00</updated>
@@ -216,6 +203,32 @@
     <published>2026-01-02T17:01:03+00:00</published>
   </entry>
   <entry>
+    <id>t3_1q21wrq</id>
+    <title>xin mọi sự tư vấn từ mọi người</title>
+    <updated>2026-01-02T15:44:22+00:00</updated>
+    <author>
+      <name>/u/trongdat03</name>
+      <uri>https://old.reddit.com/user/trongdat03</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chẳng là trong thời gian gần đây đang nổi về dự án sân động Olympic. Quê em thuộc xã Tam Hưng (huyện Thanh Oai cũ) đang trong diện quy hoạch dự án, thuộc Khu B của bản đồ quy hoạch. Bên xã e cũng đã thông báo qua mức đền bù ruộng đất cho nông dân là xấp xỉ 300tr/ xào. Ruộng nhà em có 4,5 xào và đang trong diện thu hồi. Tính ra với số tiền đền bù là 300tr thì nhà em sẽ thu về 1 tỉ 2 nhưng với số tiền này em thấy không quá ít cũng không quá nhiều. Em sử dụng để mua đất thì không đủ, mua nhà Hà Nội thì lại càng không. Với lại, nhà em ở quê thì đủ sống với bố mẹ rồi nên em không nghĩ đến việc xây cao thêm nữa. Trong thời gian đồng tiền trượt giá như này em không biết sử dụng sao cho phù hợp. Kính mong nhờ các bác tư vấn và cho e xin hướng hợp lý nhất ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/trongdat03"&gt; /u/trongdat03 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q21wrq/xin_mọi_sự_tư_vấn_từ_mọi_người/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q21wrq/xin_mọi_sự_tư_vấn_từ_mọi_người/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q21wrq/xin_mọi_sự_tư_vấn_từ_mọi_người/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-02T15:44:22+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1q23fpr</id>
+    <title>First date xong hay bị “nhạt”</title>
+    <updated>2026-01-02T16:40:58+00:00</updated>
+    <author>
+      <name>/u/Novel-Development-90</name>
+      <uri>https://old.reddit.com/user/Novel-Development-90</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi mn, em là nam, thời gian gần đây đi first date với 3 người khác nhau nhưng đều gặp một tình huống khá giống nhau nên muốn lên đây xin góc nhìn của mọi người (đặc biệt là các bạn nữ).&lt;/p&gt; &lt;p&gt;Trong buổi date thì mọi thứ đều ổn: nói chuyện bình thường, có cười nói các kiểu. Có lần bọn em đi xem phim thì bạn nữ còn cho nắm tay với tựa đầu, nên em nghĩ là có thiện cảm thật chứ không phải tưởng tượng.&lt;/p&gt; &lt;p&gt;Nhưng sau khi em đưa về thì bạn nữ nhắn tin khá hời hợt và trả lời chậm so với trước đó, thậm chí cũng chỉ reacr tn cho xong, em cũng cố nhắn và gợi ý lần hẹn tiếp theo thì toàn từ chối khéo&lt;/p&gt; &lt;p&gt;Em đang chưa hiểu vấn đề nằm ở đâu, là do em chưa đủ hấp dẫn, hay đơn giản là họ thấy không hợp, hoặc là cảm xúc của nta không như mình, Em muốn rút kinh nghiệm để cải thiện cho những lần sau. Rất mong anh chị chia sẻ kinh nghiệm ạ.&lt;/p&gt; &lt;p&gt;Cảm ơn mọi người nhiều 🙏&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Novel-Development-90"&gt; /u/Novel-Development-90 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q23fpr/first_date_xong_hay_bị_nhạt/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q23fpr/first_date_xong_hay_bị_nhạt/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q23fpr/first_date_xong_hay_bị_nhạt/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-02T16:40:58+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1q1lxtb</id>
     <title>Dành hết tuổi trẻ để kiếm tiền.</title>
     <updated>2026-01-02T01:59:40+00:00</updated>
@@ -253,19 +266,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1q1x1ol/nghỉ_việc_cuối_năm/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-02T12:10:32+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1q23fpr</id>
-    <title>First date xong hay bị “nhạt”</title>
-    <updated>2026-01-02T16:40:58+00:00</updated>
-    <author>
-      <name>/u/Novel-Development-90</name>
-      <uri>https://old.reddit.com/user/Novel-Development-90</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi mn, em là nam, thời gian gần đây đi first date với 3 người khác nhau nhưng đều gặp một tình huống khá giống nhau nên muốn lên đây xin góc nhìn của mọi người (đặc biệt là các bạn nữ).&lt;/p&gt; &lt;p&gt;Trong buổi date thì mọi thứ đều ổn: nói chuyện bình thường, có cười nói các kiểu. Có lần bọn em đi xem phim thì bạn nữ còn cho nắm tay với tựa đầu, nên em nghĩ là có thiện cảm thật chứ không phải tưởng tượng.&lt;/p&gt; &lt;p&gt;Nhưng sau khi em đưa về thì bạn nữ nhắn tin khá hời hợt và trả lời chậm so với trước đó, thậm chí cũng chỉ reacr tn cho xong, em cũng cố nhắn và gợi ý lần hẹn tiếp theo thì toàn từ chối khéo&lt;/p&gt; &lt;p&gt;Em đang chưa hiểu vấn đề nằm ở đâu, là do em chưa đủ hấp dẫn, hay đơn giản là họ thấy không hợp, hoặc là cảm xúc của nta không như mình, Em muốn rút kinh nghiệm để cải thiện cho những lần sau. Rất mong anh chị chia sẻ kinh nghiệm ạ.&lt;/p&gt; &lt;p&gt;Cảm ơn mọi người nhiều 🙏&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Novel-Development-90"&gt; /u/Novel-Development-90 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q23fpr/first_date_xong_hay_bị_nhạt/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q23fpr/first_date_xong_hay_bị_nhạt/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q23fpr/first_date_xong_hay_bị_nhạt/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-02T16:40:58+00:00</published>
   </entry>
   <entry>
     <id>t3_1q1twv8</id>
