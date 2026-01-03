@@ -2,37 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-03T08:49:31+00:00</updated>
+  <updated>2026-01-03T09:19:30+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1q1x1ol</id>
-    <title>Nghỉ việc cuối năm</title>
-    <updated>2026-01-02T12:10:32+00:00</updated>
-    <author>
-      <name>/u/That-Pick4506</name>
-      <uri>https://old.reddit.com/user/That-Pick4506</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;E 2k, vừa nghỉ việc vì công ty kêu chỉnh sửa sổ sách&lt;/p&gt; &lt;p&gt;E làm cho 1 startup ngành may mặc tên có chữ V được hơn 1 năm, học được rất nhiều thứ từ domain knowledge cho đến tech, và cả cách 1 công ty vận hành như nào nữa.&lt;/p&gt; &lt;p&gt;Cho đến khi e đâm vào quá sâu, bắt đầu hiểu ra làm cách nào họ hợp thức hoá các hoá đơn mua nguyên phụ liệu để làm giấy tờ xuất khẩu, tại sao họ không tính toán tồn kho, và không đóng thuế hay bhxh cho nhân viên.&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Có 1 bên chuyên bán hoá đơn sẽ chuyển tiền cho CEO = số tiền của hoá đơn cần mua, mà giá trị từng item trong hoá đơn này sẽ bằng những lần chi tiền (cho 1 bà nào đấy để thanh toán các đơn hàng vải ở Trung Quốc), sau đó CEO thanh toán rồi thanh toán phí sau.&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Tại sao cần làm vậy? Cơ bản là phải chứng minh nguồn gốc xuất sứ trước khi có thể làm giấy tờ xuất khẩu.￼&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Nếu đã mua bán hoá đơn như vậy thì tính tồn kho như thế nào? -&amp;gt; Họ dựa trên định mức xuất khẩu và assume waste = 0. &lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Cho đến khi quỹ đầu tư thuê 1 bên làm bctc cho công ty. Quỹ phát hiện ra họ mua vào không hoá đơn, bán ra cũng có 20% không có hoá đơn, và không đóng thuế cho nhân viên. =&amp;gt; Bctc nội bộ sẽ bị âm kho, hoặc có những items dư rất nhiều nhưng thực tế thì ko.&lt;/p&gt; &lt;p&gt;Và ở đây họ kêu em chỉnh sửa lấy dư bù thiếu.￼&lt;/p&gt; &lt;p&gt;Lúc đầu e chưa biết hệ quả của nó cho đến khi có 1 chị giải thích. Và e nhận ra phải dần tách mình khỏi team và cuối cùng là nghỉ việc.&lt;/p&gt; &lt;p&gt;Dù học được rất nhiều nhưng phải nói là công ty không có đóng thuế, BHXH, BHYT là 1 thiệt thòi rất lớn đối với người lao động như e. Khi gặp chuyện thì em ko có gì để bám víu vào mà xử lý với họ, nên đi làm mà lúc nào cũng lưu lại 1 folder để phòng trường hợp xấu. &lt;/p&gt; &lt;p&gt;Em cũng muốn ra đi trong êm đẹp cho đến khi:&lt;/p&gt; &lt;p&gt;Họ chuẩn bị kí hợp đồng cho nhân viên (lúc em gần nghỉ việc), kêu gọi mọi người điền thông tin cá nhân của nhau vào 1 public Google Sheets rồi gửi qua lại như 1 trò chơi. Em đã nhắc nhở PIC riêng vài lần cho đến khi em phải nhắn thẳng vào nhóm chat.&lt;/p&gt; &lt;p&gt;Hợp đồng thì nửa chừng (Ko làm thứ 7 nhưng có việc phải có mặt, ko thấy tính OT cho t7 như nào).￼&lt;/p&gt; &lt;p&gt;Tệ hơn là khi công ty khác reference check thì họ báo em nghỉ việc do Conflict với nhân viên khác + có vấn đề về Root cause Analysis, trong khi lúc em gần nghỉ họ sẵn sàng tăng lương cho em nhưng em cũng nói thẳng mình muốn đi học thêm nên quyết định nghỉ.￼&lt;/p&gt; &lt;p&gt;Em viết bài để nhắc nhở các bạn trẻ chọn con đường làm việc của mình thật kĩ càng, nếu các bạn thật sự thích sự hands-on của startup, thì cứ chọn nó nhưng phải hiểu thật rõ những gì mình đang làm có đúng luật hay không? Sẵn sàng nghỉ việc nếu đưa mình những tasks mang tính rủi ro cao.&lt;/p&gt; &lt;p&gt;Còn đã ko muốn vào con đường này thì cố gắng vào big corp, mọi thứ sẽ an toàn hơn.￼&lt;/p&gt; &lt;p&gt;￼&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/That-Pick4506"&gt; /u/That-Pick4506 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q1x1ol/nghỉ_việc_cuối_năm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q1x1ol/nghỉ_việc_cuối_năm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q1x1ol/nghỉ_việc_cuối_năm/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-02T12:10:32+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1q27kee</id>
-    <title>Mua đồ lót</title>
-    <updated>2026-01-02T19:10:02+00:00</updated>
-    <author>
-      <name>/u/Enmi15022003</name>
-      <uri>https://old.reddit.com/user/Enmi15022003</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mấy bà nữ ở đây cho tui hỏi mấy bà mua đồ lót / nội y như thế nào mà không bị ngại khi đi mua vậy ạ ? Mọi người thường tự mua hay như thế nào ạ ? Cảm ơn mấy bà nhìu ❤. Mong admin duyệt bài giúp em ạ vì vấn đề này không biết hỏi ở đâu, hỏi ai cho được ạ 😭. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Enmi15022003"&gt; /u/Enmi15022003 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q27kee/mua_đồ_lót/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q27kee/mua_đồ_lót/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q27kee/mua_đồ_lót/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-02T19:10:02+00:00</published>
-  </entry>
   <entry>
     <id>t3_1q1m769</id>
     <title>31 tuổi, IT trình cùi sắp bị layoff vì AI, chưa từng nắm tay gái. Đầu năm 2026 thấy no hope quá</title>
@@ -45,32 +19,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1q1m769/31_tuổi_it_trình_cùi_sắp_bị_layoff_vì_ai_chưa/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-02T02:11:37+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1q2iqq7</id>
-    <title>Laptop em lỏ quá ko có GPU để chạy gpuArray trên matlab. Ai có cách nào kk</title>
-    <updated>2026-01-03T02:44:54+00:00</updated>
-    <author>
-      <name>/u/M_maleeee</name>
-      <uri>https://old.reddit.com/user/M_maleeee</uri>
-    </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/M_maleeee"&gt; /u/M_maleeee &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q2iqq7/laptop_em_lỏ_quá_ko_có_gpu_để_chạy_gpuarray_trên/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q2iqq7/laptop_em_lỏ_quá_ko_có_gpu_để_chạy_gpuarray_trên/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q2iqq7/laptop_em_lỏ_quá_ko_có_gpu_để_chạy_gpuarray_trên/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-03T02:44:54+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1q2nedl</id>
-    <title>giải đáp thắc mắc</title>
-    <updated>2026-01-03T06:31:47+00:00</updated>
-    <author>
-      <name>/u/Whole-Wall4171</name>
-      <uri>https://old.reddit.com/user/Whole-Wall4171</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;e chào ac Cho e hỏi là giờ e đang lm 1 công vc kiếm 1 chút tiền sinh nhai , ví dụ là có 1 ng chơi cbm và ng đó đc tặng thưởng và e sẽ tới nhà ng đó để xác nhận xem ng đó nhận đủ quà hay chưa , vậy hành vi đó e có thể bị truy tố và vi phạm điều luật gì không ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Whole-Wall4171"&gt; /u/Whole-Wall4171 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q2nedl/giải_đáp_thắc_mắc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q2nedl/giải_đáp_thắc_mắc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q2nedl/giải_đáp_thắc_mắc/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-03T06:31:47+00:00</published>
   </entry>
   <entry>
     <id>t3_1q2nusu</id>
@@ -86,17 +34,17 @@
     <published>2026-01-03T06:56:07+00:00</published>
   </entry>
   <entry>
-    <id>t3_1q1xejb</id>
-    <title>e bị như này giờ trị được không mn</title>
-    <updated>2026-01-02T12:29:45+00:00</updated>
+    <id>t3_1q2nysa</id>
+    <title>Cộng đồng ở nông thôn</title>
+    <updated>2026-01-03T07:02:11+00:00</updated>
     <author>
-      <name>/u/Dyhih</name>
-      <uri>https://old.reddit.com/user/Dyhih</uri>
+      <name>/u/Numerous-Quit-1499</name>
+      <uri>https://old.reddit.com/user/Numerous-Quit-1499</uri>
     </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1q1xejb/e_bị_như_này_giờ_trị_được_không_mn/"&gt; &lt;img alt="e bị như này giờ trị được không mn" src="https://preview.redd.it/uth7db7pjxag1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=dba5cfe6a8d75c2cef62a151016242a5968bf755" title="e bị như này giờ trị được không mn" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Dyhih"&gt; /u/Dyhih &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/uth7db7pjxag1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q1xejb/e_bị_như_này_giờ_trị_được_không_mn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q1xejb/e_bị_như_này_giờ_trị_được_không_mn/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;strong&gt;Từ ngày về quê việc kết bạn thật sự rất khó.&lt;/strong&gt;&lt;br /&gt; Ngày cấp 2, cấp 3 mình là một đứa hướng nội, tự tin, cũng không giỏi ăn nói kết bạn. Mãi sau này lên Đại Học rồi đi làm mới có được vòng bạn bè ngoài 20. Sống ở các thành phố lớn thật thuận tiện cho việc kết nối giao lưu các sở thích cá nhân.&lt;br /&gt; Về quê rồi, muốn tìm bạn đi đánh cầu, bóng đá thật sự không thể tìm được. Vì hầu như nhóm cộng đồng ở đây chỉ quen thông qua trên lớp, chỗ làm. Mình đăng bài trong group khu vực cũng không ai quan tâm. &lt;/p&gt; &lt;p&gt;Ai giỏi kết nối quan hệ chia sẻ mình vài tip kết bạn với T.T&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Numerous-Quit-1499"&gt; /u/Numerous-Quit-1499 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q2nysa/cộng_đồng_ở_nông_thôn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q2nysa/cộng_đồng_ở_nông_thôn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q2nysa/cộng_đồng_ở_nông_thôn/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-02T12:29:45+00:00</published>
+    <published>2026-01-03T07:02:11+00:00</published>
   </entry>
   <entry>
     <id>t3_1q20dmt</id>
@@ -112,17 +60,17 @@
     <published>2026-01-02T14:44:20+00:00</published>
   </entry>
   <entry>
-    <id>t3_1q2nysa</id>
-    <title>Cộng đồng ở nông thôn</title>
-    <updated>2026-01-03T07:02:11+00:00</updated>
+    <id>t3_1q1xejb</id>
+    <title>e bị như này giờ trị được không mn</title>
+    <updated>2026-01-02T12:29:45+00:00</updated>
     <author>
-      <name>/u/Numerous-Quit-1499</name>
-      <uri>https://old.reddit.com/user/Numerous-Quit-1499</uri>
+      <name>/u/Dyhih</name>
+      <uri>https://old.reddit.com/user/Dyhih</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;strong&gt;Từ ngày về quê việc kết bạn thật sự rất khó.&lt;/strong&gt;&lt;br /&gt; Ngày cấp 2, cấp 3 mình là một đứa hướng nội, tự tin, cũng không giỏi ăn nói kết bạn. Mãi sau này lên Đại Học rồi đi làm mới có được vòng bạn bè ngoài 20. Sống ở các thành phố lớn thật thuận tiện cho việc kết nối giao lưu các sở thích cá nhân.&lt;br /&gt; Về quê rồi, muốn tìm bạn đi đánh cầu, bóng đá thật sự không thể tìm được. Vì hầu như nhóm cộng đồng ở đây chỉ quen thông qua trên lớp, chỗ làm. Mình đăng bài trong group khu vực cũng không ai quan tâm. &lt;/p&gt; &lt;p&gt;Ai giỏi kết nối quan hệ chia sẻ mình vài tip kết bạn với T.T&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Numerous-Quit-1499"&gt; /u/Numerous-Quit-1499 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q2nysa/cộng_đồng_ở_nông_thôn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q2nysa/cộng_đồng_ở_nông_thôn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q2nysa/cộng_đồng_ở_nông_thôn/"/>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1q1xejb/e_bị_như_này_giờ_trị_được_không_mn/"&gt; &lt;img alt="e bị như này giờ trị được không mn" src="https://preview.redd.it/uth7db7pjxag1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=dba5cfe6a8d75c2cef62a151016242a5968bf755" title="e bị như này giờ trị được không mn" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Dyhih"&gt; /u/Dyhih &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/uth7db7pjxag1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q1xejb/e_bị_như_này_giờ_trị_được_không_mn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q1xejb/e_bị_như_này_giờ_trị_được_không_mn/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-03T07:02:11+00:00</published>
+    <published>2026-01-02T12:29:45+00:00</published>
   </entry>
   <entry>
     <id>t3_1q2ofay</id>
@@ -138,6 +86,19 @@
     <published>2026-01-03T07:28:44+00:00</published>
   </entry>
   <entry>
+    <id>t3_1q27kee</id>
+    <title>Mua đồ lót</title>
+    <updated>2026-01-02T19:10:02+00:00</updated>
+    <author>
+      <name>/u/Enmi15022003</name>
+      <uri>https://old.reddit.com/user/Enmi15022003</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mấy bà nữ ở đây cho tui hỏi mấy bà mua đồ lót / nội y như thế nào mà không bị ngại khi đi mua vậy ạ ? Mọi người thường tự mua hay như thế nào ạ ? Cảm ơn mấy bà nhìu ❤. Mong admin duyệt bài giúp em ạ vì vấn đề này không biết hỏi ở đâu, hỏi ai cho được ạ 😭. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Enmi15022003"&gt; /u/Enmi15022003 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q27kee/mua_đồ_lót/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q27kee/mua_đồ_lót/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q27kee/mua_đồ_lót/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-02T19:10:02+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1q2opf1</id>
     <title>Ngành sư phạm mỹ thuật</title>
     <updated>2026-01-03T07:45:02+00:00</updated>
@@ -151,17 +112,17 @@
     <published>2026-01-03T07:45:02+00:00</published>
   </entry>
   <entry>
-    <id>t3_1q2pp58</id>
-    <title>Người hướng nội không thích xã giao</title>
-    <updated>2026-01-03T08:44:44+00:00</updated>
+    <id>t3_1q2przt</id>
+    <title>hữu duyên xem lá số tử vi , chỉ tay</title>
+    <updated>2026-01-03T08:49:36+00:00</updated>
     <author>
-      <name>/u/SillyChicken2290</name>
-      <uri>https://old.reddit.com/user/SillyChicken2290</uri>
+      <name>/u/Fluid-Watch2494</name>
+      <uri>https://old.reddit.com/user/Fluid-Watch2494</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;e năm nay 18t cảm giác càng lớn càng thấy mình khác với số đông. Cụ thể là nhìn bạn học hay mọi người xung quanh tán gẫu, xã giao nhưng e thì không thích và cảm thấy những câu chuyện xã giao rất vô nghĩa(không có suy nghĩ thượng đẳng) thay vào đó e tập trung vào những câu chuyện có ý nghĩa đầu cuối, logic nhưng e bị yếu khoản giao tiếp, xã giao e chỉ có thể trò chuyện khi dính đến công việc hoặc lĩnh vực hiểu biết của mình. Vậy em cần làm gì để sửa điểm yếu này, cố gắng học cách xã giao hay cứ là chính mình không cần bắt chước theo những người hướng ngoại e học ngành kỹ thuật công việc sau này thì cũng không yêu cầu quá cao khoản giao tiếp nhưng e nghĩ có thì vẫn tốt hơn.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/SillyChicken2290"&gt; /u/SillyChicken2290 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q2pp58/người_hướng_nội_không_thích_xã_giao/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q2pp58/người_hướng_nội_không_thích_xã_giao/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q2pp58/người_hướng_nội_không_thích_xã_giao/"/>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1q2przt/hữu_duyên_xem_lá_số_tử_vi_chỉ_tay/"&gt; &lt;img alt="hữu duyên xem lá số tử vi , chỉ tay" src="https://b.thumbs.redditmedia.com/bWwCTUoBViP_4Uu1iybnW_WaUB60_HHHL_sdFLpwJao.jpg" title="hữu duyên xem lá số tử vi , chỉ tay" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;hôm nay rảnh rỗi hữu duyên xem lá số tử vi, chỉ tay cho 10 người&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Fluid-Watch2494"&gt; /u/Fluid-Watch2494 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1q2przt"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q2przt/hữu_duyên_xem_lá_số_tử_vi_chỉ_tay/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q2przt/hữu_duyên_xem_lá_số_tử_vi_chỉ_tay/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-03T08:44:44+00:00</published>
+    <published>2026-01-03T08:49:36+00:00</published>
   </entry>
   <entry>
     <id>t3_1q23fpr</id>
@@ -229,19 +190,6 @@
     <published>2026-01-02T14:16:23+00:00</published>
   </entry>
   <entry>
-    <id>t3_1q2p676</id>
-    <title>Cộng đồng Subber Việt Nam vào 1 thập kỷ trước</title>
-    <updated>2026-01-03T08:12:17+00:00</updated>
-    <author>
-      <name>/u/Skydroew</name>
-      <uri>https://old.reddit.com/user/Skydroew</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Nhớ lại cái thời 10-15 năm trc mà muốn xem phim free phải đi kéo torrent, lên sub scene kiếm phụ đề tiếng việt nó hoài niệm vãi. Thời đấy subber (Dịch phụ đề) nó là cả 1 hệ sinh thái lẫn cộng đồng luôn ấy. Thời đó đã có mấy web phâu lịm nào đa dạng mà lại còn HD như Phimmoi hay là Rổ phim đâu.&lt;br /&gt; Còn nhớ có đợt nhớ có một ông anh kêu &amp;quot;Nếu m làm phụ đề hay thì được quý, làm đểu thì bị vote bad.&amp;quot; ở bên HDBitsVn.&lt;/p&gt; &lt;p&gt;Bây giờ 2026 rồi, nhiều subber lão làng dần bỏ nghề mà thấy sót cho 1 thời kỳ internet VN&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Skydroew"&gt; /u/Skydroew &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q2p676/cộng_đồng_subber_việt_nam_vào_1_thập_kỷ_trước/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q2p676/cộng_đồng_subber_việt_nam_vào_1_thập_kỷ_trước/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q2p676/cộng_đồng_subber_việt_nam_vào_1_thập_kỷ_trước/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-03T08:12:17+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1q2gefp</id>
     <title>Đây là muỗi gì</title>
     <updated>2026-01-03T01:01:22+00:00</updated>
@@ -266,6 +214,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1q2pllg/có_bác_nào_trong_này_từng_khuyên_người_đang_tìm/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-03T08:38:29+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1q2q265</id>
+    <title>Sữa vegemil này là fake hay real</title>
+    <updated>2026-01-03T09:07:03+00:00</updated>
+    <author>
+      <name>/u/RelativeRiver</name>
+      <uri>https://old.reddit.com/user/RelativeRiver</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1q2q265/sữa_vegemil_này_là_fake_hay_real/"&gt; &lt;img alt="Sữa vegemil này là fake hay real" src="https://preview.redd.it/0ooadm1go3bg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=abf5ae23b12d6d733d7166202709ac8a347b600f" title="Sữa vegemil này là fake hay real" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình hay mua trong Aeonmall thì tận 330k 1 thùng bên ngoài bán có 200k giá bằng 1 nữa mà mình hay uống nên thác mắc. Có bác nào uống loại này không&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/RelativeRiver"&gt; /u/RelativeRiver &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/0ooadm1go3bg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q2q265/sữa_vegemil_này_là_fake_hay_real/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q2q265/sữa_vegemil_này_là_fake_hay_real/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-03T09:07:03+00:00</published>
   </entry>
   <entry>
     <id>t3_1q1suji</id>
@@ -294,6 +255,19 @@
     <published>2026-01-03T04:36:40+00:00</published>
   </entry>
   <entry>
+    <id>t3_1q2p676</id>
+    <title>Cộng đồng Subber Việt Nam vào 1 thập kỷ trước</title>
+    <updated>2026-01-03T08:12:17+00:00</updated>
+    <author>
+      <name>/u/Skydroew</name>
+      <uri>https://old.reddit.com/user/Skydroew</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Nhớ lại cái thời 10-15 năm trc mà muốn xem phim free phải đi kéo torrent, lên sub scene kiếm phụ đề tiếng việt nó hoài niệm vãi. Thời đấy subber (Dịch phụ đề) nó là cả 1 hệ sinh thái lẫn cộng đồng luôn ấy. Thời đó đã có mấy web phâu lịm nào đa dạng mà lại còn HD như Phimmoi hay là Rổ phim đâu.&lt;br /&gt; Còn nhớ có đợt nhớ có một ông anh kêu &amp;quot;Nếu m làm phụ đề hay thì được quý, làm đểu thì bị vote bad.&amp;quot; ở bên HDBitsVn.&lt;/p&gt; &lt;p&gt;Bây giờ 2026 rồi, nhiều subber lão làng dần bỏ nghề mà thấy sót cho 1 thời kỳ internet VN&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Skydroew"&gt; /u/Skydroew &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q2p676/cộng_đồng_subber_việt_nam_vào_1_thập_kỷ_trước/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q2p676/cộng_đồng_subber_việt_nam_vào_1_thập_kỷ_trước/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q2p676/cộng_đồng_subber_việt_nam_vào_1_thập_kỷ_trước/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-03T08:12:17+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1q2nyf6</id>
     <title>muốn tặng tiền cho cô lao công nhà trọ thì làm sao cho tinh tế nhất?</title>
     <updated>2026-01-03T07:01:38+00:00</updated>
@@ -305,6 +279,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1q2nyf6/muốn_tặng_tiền_cho_cô_lao_công_nhà_trọ_thì_làm/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-03T07:01:38+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1q2pp58</id>
+    <title>Người hướng nội không thích xã giao</title>
+    <updated>2026-01-03T08:44:44+00:00</updated>
+    <author>
+      <name>/u/SillyChicken2290</name>
+      <uri>https://old.reddit.com/user/SillyChicken2290</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;e năm nay 18t cảm giác càng lớn càng thấy mình khác với số đông. Cụ thể là nhìn bạn học hay mọi người xung quanh tán gẫu, xã giao nhưng e thì không thích và cảm thấy những câu chuyện xã giao rất vô nghĩa(không có suy nghĩ thượng đẳng) thay vào đó e tập trung vào những câu chuyện có ý nghĩa đầu cuối, logic nhưng e bị yếu khoản giao tiếp, xã giao e chỉ có thể trò chuyện khi dính đến công việc hoặc lĩnh vực hiểu biết của mình. Vậy em cần làm gì để sửa điểm yếu này, cố gắng học cách xã giao hay cứ là chính mình không cần bắt chước theo những người hướng ngoại e học ngành kỹ thuật công việc sau này thì cũng không yêu cầu quá cao khoản giao tiếp nhưng e nghĩ có thì vẫn tốt hơn.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/SillyChicken2290"&gt; /u/SillyChicken2290 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q2pp58/người_hướng_nội_không_thích_xã_giao/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q2pp58/người_hướng_nội_không_thích_xã_giao/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q2pp58/người_hướng_nội_không_thích_xã_giao/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-03T08:44:44+00:00</published>
   </entry>
   <entry>
     <id>t3_1q2noe2</id>
@@ -331,5 +318,18 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1q2jyg4/trước_giờ_đàn_ông_luôn_được_gắn_mác_là_mạnh_mẽ/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-03T03:39:23+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1q2pv91</id>
+    <title>Mỹ bắt đầu đánh Venezuela rồi</title>
+    <updated>2026-01-03T08:55:13+00:00</updated>
+    <author>
+      <name>/u/Brief_Somewhere_9666</name>
+      <uri>https://old.reddit.com/user/Brief_Somewhere_9666</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1q2pv91/mỹ_bắt_đầu_đánh_venezuela_rồi/"&gt; &lt;img alt="Mỹ bắt đầu đánh Venezuela rồi" src="https://preview.redd.it/q0r1u38cm3bg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=c7a1d3e2d5d503805fbb400026e9c08e03143118" title="Mỹ bắt đầu đánh Venezuela rồi" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Brief_Somewhere_9666"&gt; /u/Brief_Somewhere_9666 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/q0r1u38cm3bg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q2pv91/mỹ_bắt_đầu_đánh_venezuela_rồi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q2pv91/mỹ_bắt_đầu_đánh_venezuela_rồi/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-03T08:55:13+00:00</published>
   </entry>
 </feed>
