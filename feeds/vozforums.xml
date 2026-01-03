@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-03T18:51:08+00:00</updated>
+  <updated>2026-01-03T19:14:45+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -112,19 +112,6 @@
     <published>2026-01-03T16:29:30+00:00</published>
   </entry>
   <entry>
-    <id>t3_1q2u4g3</id>
-    <title>[Phỏng vấn IT] Các yêu cầu cơ bản và ưu tiên đối với Fresher SWE (AI)</title>
-    <updated>2026-01-03T13:03:41+00:00</updated>
-    <author>
-      <name>/u/Southern_Arm_5726</name>
-      <uri>https://old.reddit.com/user/Southern_Arm_5726</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;strong&gt;Lưu ý: Bài viết này tham khảo ý kiến của các chuyên gia/dân trong ngành, nên mọi người bỏ qua nếu không phải chuyên môn và tránh mất thời gian.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Em chào anh/chị, em đang chuẩn bị cho buổi phỏng vấn vị trí Fresher SWE (kèm theo kĩ năng AI Engineering) nên cần anh chị hỗ trợ để chuẩn bị tốt nhất có thể.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Về công ty&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Phát triển game mobile, hoạt động gần 2 năm ở Sala quận 2, Việt Nam&lt;/li&gt; &lt;li&gt;Công ty mẹ ở Sing thành lập 2017, quy mô toàn cầu khoảng dưới 200 người&lt;/li&gt; &lt;li&gt;(&lt;em&gt;Em không biết đánh giá thứ hạng của công ty nên chỉ có thể cung cấp được thông tin thế này&lt;/em&gt;).&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Về mô tả công việc&lt;/strong&gt;:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;p&gt;Yêu cầu cơ bản:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Kiến thức tốt về OOP, REST APIs.&lt;/li&gt; &lt;li&gt;Thành thạo HTML, CSS, JS (Node.js, Express, Next.js, React), Python.&lt;/li&gt; &lt;/ul&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Yêu cầu ưu tiên:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Docker, Container, Cloud services (Firebase, BigQuery).&lt;/li&gt; &lt;li&gt;LLM, RAG, VectorDB, Prompt Engineering, Fine-tuning, LLM APIs, MCP.&lt;/li&gt; &lt;li&gt;API Gateway, queue systems (&lt;em&gt;lần đầu em nghe qua&lt;/em&gt;).&lt;/li&gt; &lt;li&gt;(&lt;em&gt;công ty nói sẽ đào tạo, nhưng em không chắc lắm, dĩ nhiên sẽ ưu tiên ứng viên có kiến thức hơn&lt;/em&gt;).&lt;/li&gt; &lt;/ul&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Về bản thân&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Sinh viên mới học xong 4 năm đh, chuyên ngành AI.&lt;/li&gt; &lt;li&gt;Mô tả sơ thì cái gì cũng biết một chút (phần mềm, AI hướng ứng dụng hay nghiên cứu), nhưng không hiểu sâu, nên là phỏng vấn toàn trượt, phần vì không hiểu sâu, chưa làm nhiều, phần vì tự ti nên quên sạch trong lúc phỏng vấn.&lt;/li&gt; &lt;li&gt;Em cũng làm dự án phần mềm, nhưng cái đúc kết được cũng chỉ là cách giao tiếp cơ bản giữa FE, BE, DB. Các ngôn ngữ và framework chỉ ở mức biết cú pháp chứ không hiểu rõ điểm mạnh/yếu cốt lõi của chúng. Các dự án chỉ ở mức PoC, chứ chưa từng lên Production.&lt;/li&gt; &lt;li&gt;Về AI, nào giờ toàn làm theo hướng nghiên cứu (cũng chả đến đâu), phần lớn cho mảng Computer Vision, còn mảng NLP thì cũng biết sơ sài thôi, nhưng trend hiện tại thì đa phần tuyển về NLP/LLM nên cũng phải theo thị trường.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Em muốn hỏi, ở thời điểm hiện tại, với mô tả công ty như trên và thị trường ở Việt Nam, &lt;strong&gt;các yêu cầu tối thiểu ở một Fresher SWE/AI Engineer là gì ?&lt;/strong&gt; Em muốn tập trung vào mức tối thiểu trước vì không có nhiều thời gian để chuẩn bị (dưới 1 tuần kể từ giờ).&lt;/p&gt; &lt;p&gt;Em hi vọng được anh chị giúp đỡ, càng chi tiết càng tốt (kèm theo từ khóa hoặc link tổng hợp dễ tiếp thu). Anh chị gợi ý các yêu cầu điểm cộng/ưu tiên thì quá tuyệt, em sẽ cố tiếp thu. Em hi vọng nhận được nhiều bình luận mang tính xây dựng ạ.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;P/S:&lt;/strong&gt; Cách hành văn của em có dài dòng, khó hiểu thì cũng mong được góp ý nhẹ nhàng ạ. Em xin cảm ơn!!!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Southern_Arm_5726"&gt; /u/Southern_Arm_5726 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q2u4g3/phỏng_vấn_it_các_yêu_cầu_cơ_bản_và_ưu_tiên_đối/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q2u4g3/phỏng_vấn_it_các_yêu_cầu_cơ_bản_và_ưu_tiên_đối/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q2u4g3/phỏng_vấn_it_các_yêu_cầu_cơ_bản_và_ưu_tiên_đối/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-03T13:03:41+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1q2zsom</id>
     <title>Mọi người nghĩ sao về….</title>
     <updated>2026-01-03T17:03:06+00:00</updated>
@@ -177,6 +164,19 @@
     <published>2026-01-03T08:12:17+00:00</published>
   </entry>
   <entry>
+    <id>t3_1q2u4g3</id>
+    <title>[Phỏng vấn IT] Các yêu cầu cơ bản và ưu tiên đối với Fresher SWE (AI)</title>
+    <updated>2026-01-03T13:03:41+00:00</updated>
+    <author>
+      <name>/u/Southern_Arm_5726</name>
+      <uri>https://old.reddit.com/user/Southern_Arm_5726</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;strong&gt;Lưu ý: Bài viết này tham khảo ý kiến của các chuyên gia/dân trong ngành, nên mọi người bỏ qua nếu không phải chuyên môn và tránh mất thời gian.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Em chào anh/chị, em đang chuẩn bị cho buổi phỏng vấn vị trí Fresher SWE (kèm theo kĩ năng AI Engineering) nên cần anh chị hỗ trợ để chuẩn bị tốt nhất có thể.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Về công ty&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Phát triển game mobile, hoạt động gần 2 năm ở Sala quận 2, Việt Nam&lt;/li&gt; &lt;li&gt;Công ty mẹ ở Sing thành lập 2017, quy mô toàn cầu khoảng dưới 200 người&lt;/li&gt; &lt;li&gt;(&lt;em&gt;Em không biết đánh giá thứ hạng của công ty nên chỉ có thể cung cấp được thông tin thế này&lt;/em&gt;).&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Về mô tả công việc&lt;/strong&gt;:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;p&gt;Yêu cầu cơ bản:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Kiến thức tốt về OOP, REST APIs.&lt;/li&gt; &lt;li&gt;Thành thạo HTML, CSS, JS (Node.js, Express, Next.js, React), Python.&lt;/li&gt; &lt;/ul&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Yêu cầu ưu tiên:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Docker, Container, Cloud services (Firebase, BigQuery).&lt;/li&gt; &lt;li&gt;LLM, RAG, VectorDB, Prompt Engineering, Fine-tuning, LLM APIs, MCP.&lt;/li&gt; &lt;li&gt;API Gateway, queue systems (&lt;em&gt;lần đầu em nghe qua&lt;/em&gt;).&lt;/li&gt; &lt;li&gt;(&lt;em&gt;công ty nói sẽ đào tạo, nhưng em không chắc lắm, dĩ nhiên sẽ ưu tiên ứng viên có kiến thức hơn&lt;/em&gt;).&lt;/li&gt; &lt;/ul&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Về bản thân&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Sinh viên mới học xong 4 năm đh, chuyên ngành AI.&lt;/li&gt; &lt;li&gt;Mô tả sơ thì cái gì cũng biết một chút (phần mềm, AI hướng ứng dụng hay nghiên cứu), nhưng không hiểu sâu, nên là phỏng vấn toàn trượt, phần vì không hiểu sâu, chưa làm nhiều, phần vì tự ti nên quên sạch trong lúc phỏng vấn.&lt;/li&gt; &lt;li&gt;Em cũng làm dự án phần mềm, nhưng cái đúc kết được cũng chỉ là cách giao tiếp cơ bản giữa FE, BE, DB. Các ngôn ngữ và framework chỉ ở mức biết cú pháp chứ không hiểu rõ điểm mạnh/yếu cốt lõi của chúng. Các dự án chỉ ở mức PoC, chứ chưa từng lên Production.&lt;/li&gt; &lt;li&gt;Về AI, nào giờ toàn làm theo hướng nghiên cứu (cũng chả đến đâu), phần lớn cho mảng Computer Vision, còn mảng NLP thì cũng biết sơ sài thôi, nhưng trend hiện tại thì đa phần tuyển về NLP/LLM nên cũng phải theo thị trường.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Em muốn hỏi, ở thời điểm hiện tại, với mô tả công ty như trên và thị trường ở Việt Nam, &lt;strong&gt;các yêu cầu tối thiểu ở một Fresher SWE/AI Engineer là gì ?&lt;/strong&gt; Em muốn tập trung vào mức tối thiểu trước vì không có nhiều thời gian để chuẩn bị (dưới 1 tuần kể từ giờ).&lt;/p&gt; &lt;p&gt;Em hi vọng được anh chị giúp đỡ, càng chi tiết càng tốt (kèm theo từ khóa hoặc link tổng hợp dễ tiếp thu). Anh chị gợi ý các yêu cầu điểm cộng/ưu tiên thì quá tuyệt, em sẽ cố tiếp thu. Em hi vọng nhận được nhiều bình luận mang tính xây dựng ạ.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;P/S:&lt;/strong&gt; Cách hành văn của em có dài dòng, khó hiểu thì cũng mong được góp ý nhẹ nhàng ạ. Em xin cảm ơn!!!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Southern_Arm_5726"&gt; /u/Southern_Arm_5726 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q2u4g3/phỏng_vấn_it_các_yêu_cầu_cơ_bản_và_ưu_tiên_đối/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q2u4g3/phỏng_vấn_it_các_yêu_cầu_cơ_bản_và_ưu_tiên_đối/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q2u4g3/phỏng_vấn_it_các_yêu_cầu_cơ_bản_và_ưu_tiên_đối/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-03T13:03:41+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1q2y9qf</id>
     <title>Cho e hỏi còn cíu được không ạ?</title>
     <updated>2026-01-03T16:04:33+00:00</updated>
@@ -203,19 +203,6 @@
     <published>2026-01-03T06:46:28+00:00</published>
   </entry>
   <entry>
-    <id>t3_1q30eau</id>
-    <title>Chuyện nvqs</title>
-    <updated>2026-01-03T17:25:51+00:00</updated>
-    <author>
-      <name>/u/Illustrious-Brief673</name>
-      <uri>https://old.reddit.com/user/Illustrious-Brief673</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các bác cho em hỏi ví dụ em có thằng bạn đấm tiền cho chủ tịch phường, mà vẫn phải đi khám 2 vòng, đủ sức khoẻ, có người về nhà lấy thông tin gia đình, có phải là thọt rồi không?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Illustrious-Brief673"&gt; /u/Illustrious-Brief673 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q30eau/chuyện_nvqs/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q30eau/chuyện_nvqs/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q30eau/chuyện_nvqs/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-03T17:25:51+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1q2vskz</id>
     <title>còn hơn 5 tháng nữa là thi thpt quốc giá rồi.anh chị nào chia sẻ bí quyết ôn thi sao cho hiệu quả với chia thời gian thế nào được không ạ.</title>
     <updated>2026-01-03T14:22:44+00:00</updated>
@@ -240,6 +227,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1q2rm00/hỏi_về_dating_app/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-03T10:42:39+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1q32vk5</id>
+    <title>Bạn học cũ tự dưng thích mình?</title>
+    <updated>2026-01-03T18:59:26+00:00</updated>
+    <author>
+      <name>/u/Prestigious-Bat5206</name>
+      <uri>https://old.reddit.com/user/Prestigious-Bat5206</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác.&lt;/p&gt; &lt;p&gt;Mình năm nay 26t, đợt Tết vừa rồi mình có về quê thì gặp lại con bạn cũ cùng bàn cấp 2 năm xưa. Dù ngoại hình nó cũng khá(theo nhận định khách quan) từ thời đi học, và mình vốn không có tình cảm với nhỏ này vì từng thấy nó có biểu hiện hành vi lệch lạc (từng thấy nó cay tức và lẩm bẩm trong miệng do người khác mặc đồ đẹp hơn) do biểu hiện vi tế nên mọi người xung quanh ít ai nhận ra, trừ khi soi kỹ hoặc có điều kiện tiếp xúc nhiều.&lt;/p&gt; &lt;p&gt;Giờ nó tỏ ra trông giống như thích mình và có các hành động trông giống dẹo. Cũng như chống cằm nhìn đắm đuối vào mình. Thậm chí muốn vào vai em và gọi mình bằng anh? dù bằng tuổi?&lt;/p&gt; &lt;p&gt;Mình suy đoán là do có lời đồn mình thành đạt abcxyz gì đó khiến nó có thái độ như thế này. Dù thực tế mình chỉ là người làm công ăn lương bình thường(nếu ko muốn nói là tầm thường loser).&lt;/p&gt; &lt;p&gt;Dù mình biết là kèo thúi rồi nhưng mình có thắc mắc mục đích thực sự của nó là gì? Cho đó là tin đồn để dẫn đến hành vi như vậy, thì tại sao nó lại tin nhanh và đổi thái độ như vậy. Chả lẽ nó ko có khả năng nhắm đến các đối tượng bảnh trai, giàu có rõ ràng hơn sao? ==&amp;quot;&lt;/p&gt; &lt;p&gt;Có bác nào gặp ca này chưa ._.? Mình cảm thấy lạ lùng quá.&lt;/p&gt; &lt;p&gt;Bác nào phân tích kỹ hành vi của nhỏ này đc ko. E cảm ơn&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Prestigious-Bat5206"&gt; /u/Prestigious-Bat5206 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q32vk5/bạn_học_cũ_tự_dưng_thích_mình/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q32vk5/bạn_học_cũ_tự_dưng_thích_mình/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q32vk5/bạn_học_cũ_tự_dưng_thích_mình/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-03T18:59:26+00:00</published>
   </entry>
   <entry>
     <id>t3_1q2pp58</id>
