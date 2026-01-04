@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-04T14:41:22+00:00</updated>
+  <updated>2026-01-04T14:51:35+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -19,19 +19,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1q3jua1/từ_bỏ_công_ty_của_gia_đình_để_tự_khởi_nghiệp/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-04T07:35:05+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1q3k8cu</id>
-    <title>anh em recommend mấy bài nhạc nhật, tui sẽ nghe và rating (theo ý kiến cá nhân)</title>
-    <updated>2026-01-04T07:58:50+00:00</updated>
-    <author>
-      <name>/u/DemonCatOfficial</name>
-      <uri>https://old.reddit.com/user/DemonCatOfficial</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;xin mời các cao nhân đã sống trên internet đủ lâu để recommend vô đây ạ =))&lt;br /&gt; để xem sẽ săn đc bài nào hay nữa ko nhỉ...?! (cho mấy bài độc lạ vô list đầu tiên để nghe nha =))&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/DemonCatOfficial"&gt; /u/DemonCatOfficial &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q3k8cu/anh_em_recommend_mấy_bài_nhạc_nhật_tui_sẽ_nghe_và/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q3k8cu/anh_em_recommend_mấy_bài_nhạc_nhật_tui_sẽ_nghe_và/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q3k8cu/anh_em_recommend_mấy_bài_nhạc_nhật_tui_sẽ_nghe_và/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-04T07:58:50+00:00</published>
   </entry>
   <entry>
     <id>t3_1q3lujr</id>
@@ -99,6 +86,19 @@
     <published>2026-01-04T13:54:53+00:00</published>
   </entry>
   <entry>
+    <id>t3_1q3k8cu</id>
+    <title>anh em recommend mấy bài nhạc nhật, tui sẽ nghe và rating (theo ý kiến cá nhân)</title>
+    <updated>2026-01-04T07:58:50+00:00</updated>
+    <author>
+      <name>/u/DemonCatOfficial</name>
+      <uri>https://old.reddit.com/user/DemonCatOfficial</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;xin mời các cao nhân đã sống trên internet đủ lâu để recommend vô đây ạ =))&lt;br /&gt; để xem sẽ săn đc bài nào hay nữa ko nhỉ...?! (cho mấy bài độc lạ vô list đầu tiên để nghe nha =))&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/DemonCatOfficial"&gt; /u/DemonCatOfficial &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q3k8cu/anh_em_recommend_mấy_bài_nhạc_nhật_tui_sẽ_nghe_và/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q3k8cu/anh_em_recommend_mấy_bài_nhạc_nhật_tui_sẽ_nghe_và/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q3k8cu/anh_em_recommend_mấy_bài_nhạc_nhật_tui_sẽ_nghe_và/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-04T07:58:50+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1q3qjt0</id>
     <title>Người nước ngoài hỏi xin 50k???</title>
     <updated>2026-01-04T13:56:43+00:00</updated>
@@ -136,32 +136,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1q32vk5/bạn_học_cũ_tự_dưng_thích_mình/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-03T18:59:26+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1q3reqk</id>
-    <title>Mỗi người một cuộc sống khác nhau, nhưng hầu hết 9x đều thấy quen thuộc khi nhìn những bức ảnh này</title>
-    <updated>2026-01-04T14:34:19+00:00</updated>
-    <author>
-      <name>/u/CPT_HOME</name>
-      <uri>https://old.reddit.com/user/CPT_HOME</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1q3reqk/mỗi_người_một_cuộc_sống_khác_nhau_nhưng_hầu_hết/"&gt; &lt;img alt="Mỗi người một cuộc sống khác nhau, nhưng hầu hết 9x đều thấy quen thuộc khi nhìn những bức ảnh này" src="https://b.thumbs.redditmedia.com/fRyzMKXpC2JIQIo4pO7yNWW90MV_j2tNq9wjUTM3fYo.jpg" title="Mỗi người một cuộc sống khác nhau, nhưng hầu hết 9x đều thấy quen thuộc khi nhìn những bức ảnh này" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tuổi thơ với nhiều ước mơ... với những hoài bão, lý tưởng, mong muốn ở tương lai... dù con đường đi học còn bầy nhầy cỏ đất, dù bữa đói bữa no, dù đồ chơi không có...&lt;/p&gt; &lt;p&gt;Nhưng khi internet xuất hiện, một cánh cửa vô hình mở ra. Một bên là cơ hội đi ra thế giới và 1 bên là cạm bẫy giải trí chôn vùi tuổi thơ. Để rồi không ít người đã ở lại với yahoo, game : đế chế, half-life, Mu, Võ Lâm, Phong Thần, Silkroad...&lt;/p&gt; &lt;p&gt;Hết cấp 3, mỗi người 1 ngã rẻ. Người đi làm, người học tiếp... nhưng dù đi theo hướng nào cũng đều cầm trên tay những chiếc điện thoại đời đầu...&lt;/p&gt; &lt;p&gt;Bước vào đời, có người toả sáng, có người le lói. Có người vẫn luôn tươi cười... có người sống mãi ở tuổi đôi mươi...&lt;/p&gt; &lt;p&gt;Nếu bạn nhìn thấy bài viết này, hãy để lại một bình luận trải nghiệm của bản thân nhé...&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/CPT_HOME"&gt; /u/CPT_HOME &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1q3reqk"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q3reqk/mỗi_người_một_cuộc_sống_khác_nhau_nhưng_hầu_hết/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q3reqk/mỗi_người_một_cuộc_sống_khác_nhau_nhưng_hầu_hết/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-04T14:34:19+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1q3i3ol</id>
-    <title>Mọi người cho mình hỏi: im lặng kiểu này thường là do mệt, cần thời gian suy nghĩ, hay là đã muốn kết thúc nhưng không nói thẳng?</title>
-    <updated>2026-01-04T05:57:12+00:00</updated>
-    <author>
-      <name>/u/lehna_04</name>
-      <uri>https://old.reddit.com/user/lehna_04</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình và ghệ quen nhau mấy năm rồi. Bạn ấy hiện đang học đại học năm nhất, vừa học vừa làm nên khá bận. Tụi mình không cãi nhau hay xảy ra chuyện gì lớn, nhưng dạo gần đây bạn ấy chỉ xem tin nhắn rồi im lặng nhiều ngày. Bạn ấy là người tự ái cao, mỗi khi có chuyện thường chọn im lặng thay vì nói thẳng. Cuối năm 2025 – đầu năm 2026, bạn ấy để ghi chú message “xin lỗi em ... ơi” (để đúng tên mình), nhưng lại không nhắn trực tiếp hay nói rõ lý do gì. Cùng lúc đó, bạn ấy đăng story rằng 2025 là một năm nhiều bài học, nói về buông bỏ, chấp nhận và tìm lại chính bản thân mình, mong rằng trải nghiệm này sẽ là lần cuối cùng, không lặp lại nữa trong cuộc đời. Trước đó, bạn ấy từng nói sang năm 2026 sẽ gặp mình, nhưng đến hiện tại lại im lặng hoàn toàn, không phản hồi hay giải thích.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/lehna_04"&gt; /u/lehna_04 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q3i3ol/mọi_người_cho_mình_hỏi_im_lặng_kiểu_này_thường_là/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q3i3ol/mọi_người_cho_mình_hỏi_im_lặng_kiểu_này_thường_là/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q3i3ol/mọi_người_cho_mình_hỏi_im_lặng_kiểu_này_thường_là/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-04T05:57:12+00:00</published>
   </entry>
   <entry>
     <id>t3_1q33dx3</id>
@@ -203,6 +177,19 @@
     <published>2026-01-04T05:32:56+00:00</published>
   </entry>
   <entry>
+    <id>t3_1q3i3ol</id>
+    <title>Mọi người cho mình hỏi: im lặng kiểu này thường là do mệt, cần thời gian suy nghĩ, hay là đã muốn kết thúc nhưng không nói thẳng?</title>
+    <updated>2026-01-04T05:57:12+00:00</updated>
+    <author>
+      <name>/u/lehna_04</name>
+      <uri>https://old.reddit.com/user/lehna_04</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình và ghệ quen nhau mấy năm rồi. Bạn ấy hiện đang học đại học năm nhất, vừa học vừa làm nên khá bận. Tụi mình không cãi nhau hay xảy ra chuyện gì lớn, nhưng dạo gần đây bạn ấy chỉ xem tin nhắn rồi im lặng nhiều ngày. Bạn ấy là người tự ái cao, mỗi khi có chuyện thường chọn im lặng thay vì nói thẳng. Cuối năm 2025 – đầu năm 2026, bạn ấy để ghi chú message “xin lỗi em ... ơi” (để đúng tên mình), nhưng lại không nhắn trực tiếp hay nói rõ lý do gì. Cùng lúc đó, bạn ấy đăng story rằng 2025 là một năm nhiều bài học, nói về buông bỏ, chấp nhận và tìm lại chính bản thân mình, mong rằng trải nghiệm này sẽ là lần cuối cùng, không lặp lại nữa trong cuộc đời. Trước đó, bạn ấy từng nói sang năm 2026 sẽ gặp mình, nhưng đến hiện tại lại im lặng hoàn toàn, không phản hồi hay giải thích.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/lehna_04"&gt; /u/lehna_04 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q3i3ol/mọi_người_cho_mình_hỏi_im_lặng_kiểu_này_thường_là/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q3i3ol/mọi_người_cho_mình_hỏi_im_lặng_kiểu_này_thường_là/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q3i3ol/mọi_người_cho_mình_hỏi_im_lặng_kiểu_này_thường_là/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-04T05:57:12+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1q3p26j</id>
     <title>Hay cãi nhau với phụ huynh</title>
     <updated>2026-01-04T12:44:02+00:00</updated>
@@ -242,17 +229,17 @@
     <published>2026-01-04T09:54:06+00:00</published>
   </entry>
   <entry>
-    <id>t3_1q3q4ej</id>
-    <title>Góc khuất của mấy xe khách</title>
-    <updated>2026-01-04T13:36:24+00:00</updated>
+    <id>t3_1q3reqk</id>
+    <title>Mỗi người một cuộc sống khác nhau, nhưng hầu hết 9x đều thấy quen thuộc khi nhìn những bức ảnh này</title>
+    <updated>2026-01-04T14:34:19+00:00</updated>
     <author>
-      <name>/u/gryffindang</name>
-      <uri>https://old.reddit.com/user/gryffindang</uri>
+      <name>/u/CPT_HOME</name>
+      <uri>https://old.reddit.com/user/CPT_HOME</uri>
     </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1q3q4ej/góc_khuất_của_mấy_xe_khách/"&gt; &lt;img alt="Góc khuất của mấy xe khách" src="https://preview.redd.it/8n6i64oe5cbg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=f86f5de955f9907407181f59593d32ca99d4a831" title="Góc khuất của mấy xe khách" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Ớn quá mn ạ, mình đi xe khách (của một hãng nổi tiếng xe đỏ) mở mắt ra thì thấy cảnh râu gián, chân gián lổm ngổm. Má ơi ớn quá chắc sau đi xe máy cho lành. Anh chị em đi mấy cái xe này nhớ tắm rửa giặt đồ sạch sẽ nha, chẳng biết mấy cái xe nó có vệ sinh không đâu :”(((&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/gryffindang"&gt; /u/gryffindang &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/8n6i64oe5cbg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q3q4ej/góc_khuất_của_mấy_xe_khách/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q3q4ej/góc_khuất_của_mấy_xe_khách/"/>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1q3reqk/mỗi_người_một_cuộc_sống_khác_nhau_nhưng_hầu_hết/"&gt; &lt;img alt="Mỗi người một cuộc sống khác nhau, nhưng hầu hết 9x đều thấy quen thuộc khi nhìn những bức ảnh này" src="https://b.thumbs.redditmedia.com/fRyzMKXpC2JIQIo4pO7yNWW90MV_j2tNq9wjUTM3fYo.jpg" title="Mỗi người một cuộc sống khác nhau, nhưng hầu hết 9x đều thấy quen thuộc khi nhìn những bức ảnh này" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tuổi thơ với nhiều ước mơ... với những hoài bão, lý tưởng, mong muốn ở tương lai... dù con đường đi học còn bầy nhầy cỏ đất, dù bữa đói bữa no, dù đồ chơi không có...&lt;/p&gt; &lt;p&gt;Nhưng khi internet xuất hiện, một cánh cửa vô hình mở ra. Một bên là cơ hội đi ra thế giới và 1 bên là cạm bẫy giải trí chôn vùi tuổi thơ. Để rồi không ít người đã ở lại với yahoo, game : đế chế, half-life, Mu, Võ Lâm, Phong Thần, Silkroad...&lt;/p&gt; &lt;p&gt;Hết cấp 3, mỗi người 1 ngã rẻ. Người đi làm, người học tiếp... nhưng dù đi theo hướng nào cũng đều cầm trên tay những chiếc điện thoại đời đầu...&lt;/p&gt; &lt;p&gt;Bước vào đời, có người toả sáng, có người le lói. Có người vẫn luôn tươi cười... có người sống mãi ở tuổi đôi mươi...&lt;/p&gt; &lt;p&gt;Nếu bạn nhìn thấy bài viết này, hãy để lại một bình luận trải nghiệm của bản thân nhé...&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/CPT_HOME"&gt; /u/CPT_HOME &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1q3reqk"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q3reqk/mỗi_người_một_cuộc_sống_khác_nhau_nhưng_hầu_hết/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q3reqk/mỗi_người_một_cuộc_sống_khác_nhau_nhưng_hầu_hết/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-04T13:36:24+00:00</published>
+    <published>2026-01-04T14:34:19+00:00</published>
   </entry>
   <entry>
     <id>t3_1q3fdsf</id>
@@ -279,6 +266,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1q3hy6q/fact_về_đàn_ông/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-04T05:48:45+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1q3q4ej</id>
+    <title>Góc khuất của mấy xe khách</title>
+    <updated>2026-01-04T13:36:24+00:00</updated>
+    <author>
+      <name>/u/gryffindang</name>
+      <uri>https://old.reddit.com/user/gryffindang</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1q3q4ej/góc_khuất_của_mấy_xe_khách/"&gt; &lt;img alt="Góc khuất của mấy xe khách" src="https://preview.redd.it/8n6i64oe5cbg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=f86f5de955f9907407181f59593d32ca99d4a831" title="Góc khuất của mấy xe khách" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Ớn quá mn ạ, mình đi xe khách (của một hãng nổi tiếng xe đỏ) mở mắt ra thì thấy cảnh râu gián, chân gián lổm ngổm. Má ơi ớn quá chắc sau đi xe máy cho lành. Anh chị em đi mấy cái xe này nhớ tắm rửa giặt đồ sạch sẽ nha, chẳng biết mấy cái xe nó có vệ sinh không đâu :”(((&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/gryffindang"&gt; /u/gryffindang &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/8n6i64oe5cbg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q3q4ej/góc_khuất_của_mấy_xe_khách/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q3q4ej/góc_khuất_của_mấy_xe_khách/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-04T13:36:24+00:00</published>
   </entry>
   <entry>
     <id>t3_1q3npdb</id>
