@@ -2,37 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-04T06:30:35+00:00</updated>
+  <updated>2026-01-04T06:59:19+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1q2y9qf</id>
-    <title>Cho e hỏi còn cíu được không ạ?</title>
-    <updated>2026-01-03T16:04:33+00:00</updated>
-    <author>
-      <name>/u/New_Possibility_8275</name>
-      <uri>https://old.reddit.com/user/New_Possibility_8275</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các anh chị cho e hỏi có cách nào để có thể thực tập trong hơn tháng và được cấp dấu mộc không ạ? E hiện đang năm cuối và học ngành Ngôn ngữ Anh ạ, e cần nộp báo cáo thực tập trước Tết âm, do có một số vấn đề ở chỗ làm cũ nên em phải nghỉ việc và cũng chưa có dấu. Trường e thì sinh viên tự túc, em cũng rải CV nhưng đa phần yêu cầu tối thiểu 3 tháng. Anh chị cho e hỏi còn cách nào cứu được không ạ ..... &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/New_Possibility_8275"&gt; /u/New_Possibility_8275 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q2y9qf/cho_e_hỏi_còn_cíu_được_không_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q2y9qf/cho_e_hỏi_còn_cíu_được_không_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q2y9qf/cho_e_hỏi_còn_cíu_được_không_ạ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-03T16:04:33+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1q2u4g3</id>
-    <title>[Phỏng vấn IT] Các yêu cầu cơ bản và ưu tiên đối với Fresher SWE (AI)</title>
-    <updated>2026-01-03T13:03:41+00:00</updated>
-    <author>
-      <name>/u/Southern_Arm_5726</name>
-      <uri>https://old.reddit.com/user/Southern_Arm_5726</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;strong&gt;Lưu ý: Bài viết này tham khảo ý kiến của các chuyên gia/dân trong ngành, nên mọi người bỏ qua nếu không phải chuyên môn và tránh mất thời gian.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Em chào anh/chị, em đang chuẩn bị cho buổi phỏng vấn vị trí Fresher SWE (kèm theo kĩ năng AI Engineering) nên cần anh chị hỗ trợ để chuẩn bị tốt nhất có thể.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Về công ty&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Phát triển game mobile, hoạt động gần 2 năm ở Sala quận 2, Việt Nam&lt;/li&gt; &lt;li&gt;Công ty mẹ ở Sing thành lập 2017, quy mô toàn cầu khoảng dưới 200 người&lt;/li&gt; &lt;li&gt;(&lt;em&gt;Em không biết đánh giá thứ hạng của công ty nên chỉ có thể cung cấp được thông tin thế này&lt;/em&gt;).&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Về mô tả công việc&lt;/strong&gt;:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;p&gt;Yêu cầu cơ bản:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Kiến thức tốt về OOP, REST APIs.&lt;/li&gt; &lt;li&gt;Thành thạo HTML, CSS, JS (Node.js, Express, Next.js, React), Python.&lt;/li&gt; &lt;/ul&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Yêu cầu ưu tiên:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Docker, Container, Cloud services (Firebase, BigQuery).&lt;/li&gt; &lt;li&gt;LLM, RAG, VectorDB, Prompt Engineering, Fine-tuning, LLM APIs, MCP.&lt;/li&gt; &lt;li&gt;API Gateway, queue systems (&lt;em&gt;lần đầu em nghe qua&lt;/em&gt;).&lt;/li&gt; &lt;li&gt;(&lt;em&gt;công ty nói sẽ đào tạo, nhưng em không chắc lắm, dĩ nhiên sẽ ưu tiên ứng viên có kiến thức hơn&lt;/em&gt;).&lt;/li&gt; &lt;/ul&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Về bản thân&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Sinh viên mới học xong 4 năm đh, chuyên ngành AI.&lt;/li&gt; &lt;li&gt;Mô tả sơ thì cái gì cũng biết một chút (phần mềm, AI hướng ứng dụng hay nghiên cứu), nhưng không hiểu sâu, nên là phỏng vấn toàn trượt, phần vì không hiểu sâu, chưa làm nhiều, phần vì tự ti nên quên sạch trong lúc phỏng vấn.&lt;/li&gt; &lt;li&gt;Em cũng làm dự án phần mềm, nhưng cái đúc kết được cũng chỉ là cách giao tiếp cơ bản giữa FE, BE, DB. Các ngôn ngữ và framework chỉ ở mức biết cú pháp chứ không hiểu rõ điểm mạnh/yếu cốt lõi của chúng. Các dự án chỉ ở mức PoC, chứ chưa từng lên Production.&lt;/li&gt; &lt;li&gt;Về AI, nào giờ toàn làm theo hướng nghiên cứu (cũng chả đến đâu), phần lớn cho mảng Computer Vision, còn mảng NLP thì cũng biết sơ sài thôi, nhưng trend hiện tại thì đa phần tuyển về NLP/LLM nên cũng phải theo thị trường.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Em muốn hỏi, ở thời điểm hiện tại, với mô tả công ty như trên và thị trường ở Việt Nam, &lt;strong&gt;các yêu cầu tối thiểu ở một Fresher SWE/AI Engineer là gì ?&lt;/strong&gt; Em muốn tập trung vào mức tối thiểu trước vì không có nhiều thời gian để chuẩn bị (dưới 1 tuần kể từ giờ).&lt;/p&gt; &lt;p&gt;Em hi vọng được anh chị giúp đỡ, càng chi tiết càng tốt (kèm theo từ khóa hoặc link tổng hợp dễ tiếp thu). Anh chị gợi ý các yêu cầu điểm cộng/ưu tiên thì quá tuyệt, em sẽ cố tiếp thu. Em hi vọng nhận được nhiều bình luận mang tính xây dựng ạ.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;P/S:&lt;/strong&gt; Cách hành văn của em có dài dòng, khó hiểu thì cũng mong được góp ý nhẹ nhàng ạ. Em xin cảm ơn!!!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Southern_Arm_5726"&gt; /u/Southern_Arm_5726 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q2u4g3/phỏng_vấn_it_các_yêu_cầu_cơ_bản_và_ưu_tiên_đối/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q2u4g3/phỏng_vấn_it_các_yêu_cầu_cơ_bản_và_ưu_tiên_đối/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q2u4g3/phỏng_vấn_it_các_yêu_cầu_cơ_bản_và_ưu_tiên_đối/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-03T13:03:41+00:00</published>
-  </entry>
   <entry>
     <id>t3_1q2rm00</id>
     <title>Hỏi về dating app</title>
@@ -164,6 +138,19 @@
     <published>2026-01-04T05:57:12+00:00</published>
   </entry>
   <entry>
+    <id>t3_1q3isnq</id>
+    <title>Bạn học cũ flirt mình???</title>
+    <updated>2026-01-04T06:35:05+00:00</updated>
+    <author>
+      <name>/u/HeavyPatience1822</name>
+      <uri>https://old.reddit.com/user/HeavyPatience1822</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình là nam, 24 tuổi, công việc hiện tại cũng tạm ổn. Có một chuyện muốn xin ý kiến mọi người. Mình và bạn này học chung cấp 3, hồi đó khá thân. Khoảng gần 2 năm không gặp hay liên lạc gì (chỉ tương tác mxh).&lt;/p&gt; &lt;p&gt;Gần đây tụi mình gặp lại trong một bữa tiệc. Trong lúc nói chuyện, bạn ấy chủ động ngồi sát, dựa vào mình, có skinship khá nhiều. Bạn ấy hiện đang độc thân, tính cách hướng ngoại và khá thân thiện với mọi người.&lt;/p&gt; &lt;p&gt;Mình không rõ liệu con gái có hay cư xử như vậy với bạn cũ/thân, hay đây là dấu hiệu flirt. Mình không muốn hiểu sai rồi làm không khí ngượng ngùng. Mình cũng tự đánh giá bản thân là khá ổn về ngoại hình, tương đối được lòng người khác giới, nên càng phân vân không biết có đang hiểu sai tín hiệu hay không.&lt;/p&gt; &lt;p&gt;Mọi người cho mình xin lời khuyên: nên tiến thêm hay giữ khoảng cách thì hợp lý?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/HeavyPatience1822"&gt; /u/HeavyPatience1822 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q3isnq/bạn_học_cũ_flirt_mình/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q3isnq/bạn_học_cũ_flirt_mình/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q3isnq/bạn_học_cũ_flirt_mình/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-04T06:35:05+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1q2qpr5</id>
     <title>Hôm 1/1 đi Thảo Cầm Viên chụp ảnh động vật muốn share cho mọi người xem, gạch đá nhận hết vì lần đầu chụp thể loại này.</title>
     <updated>2026-01-03T09:47:42+00:00</updated>
@@ -188,6 +175,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1q3a7ua/app_hoặc_web_đọc_sách/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-03T23:52:17+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1q3irob</id>
+    <title>Hỏi về nghề trading</title>
+    <updated>2026-01-04T06:33:30+00:00</updated>
+    <author>
+      <name>/u/dsbmt</name>
+      <uri>https://old.reddit.com/user/dsbmt</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các ông ở đây có ai làm trader mà thành công chưa, tôi đang muốn tập tành tham gia muốn xin kinh nghiệm&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/dsbmt"&gt; /u/dsbmt &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q3irob/hỏi_về_nghề_trading/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q3irob/hỏi_về_nghề_trading/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q3irob/hỏi_về_nghề_trading/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-04T06:33:30+00:00</published>
   </entry>
   <entry>
     <id>t3_1q3gu9n</id>
@@ -229,19 +229,6 @@
     <published>2026-01-03T18:59:26+00:00</published>
   </entry>
   <entry>
-    <id>t3_1q3hy6q</id>
-    <title>Fact về đàn ông</title>
-    <updated>2026-01-04T05:48:45+00:00</updated>
-    <author>
-      <name>/u/TheSobermee</name>
-      <uri>https://old.reddit.com/user/TheSobermee</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Thường thì người ta nói phụ nữ khó hiểu nhưng thật sự đôi khi phụ nữ cũng thấy đàn ông “function” cũng thật khó hiểu. Hãy ném vào post này 1 fact về đàn ông (dù có khá thô) để mọi người có thể hiểu rõ các anh hơn ạ 🙏🏼&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/TheSobermee"&gt; /u/TheSobermee &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q3hy6q/fact_về_đàn_ông/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q3hy6q/fact_về_đàn_ông/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q3hy6q/fact_về_đàn_ông/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-04T05:48:45+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1q3i1b8</id>
     <title>Chọn quà sinh nhật cho bạn gái</title>
     <updated>2026-01-04T05:53:35+00:00</updated>
@@ -279,6 +266,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1q33dx3/cảm_thấy_mệt_mỏi_về_cuộc_sống_hôn_nhân/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-03T19:18:38+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1q3hy6q</id>
+    <title>Fact về đàn ông</title>
+    <updated>2026-01-04T05:48:45+00:00</updated>
+    <author>
+      <name>/u/TheSobermee</name>
+      <uri>https://old.reddit.com/user/TheSobermee</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Thường thì người ta nói phụ nữ khó hiểu nhưng thật sự đôi khi phụ nữ cũng thấy đàn ông “function” cũng thật khó hiểu. Hãy ném vào post này 1 fact về đàn ông (dù có khá thô) để mọi người có thể hiểu rõ các anh hơn ạ 🙏🏼&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/TheSobermee"&gt; /u/TheSobermee &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q3hy6q/fact_về_đàn_ông/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q3hy6q/fact_về_đàn_ông/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q3hy6q/fact_về_đàn_ông/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-04T05:48:45+00:00</published>
   </entry>
   <entry>
     <id>t3_1q2whyt</id>
