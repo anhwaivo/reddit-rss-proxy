@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-06T16:55:54+00:00</updated>
+  <updated>2026-01-06T17:23:25+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -32,19 +32,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1q5ck7v/lỡ_chọn_nhầm_thằng_bạn_cùng_phòng_nghiện_nổ_hũ/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-06T07:53:10+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1q5k3tq</id>
-    <title>em cần 1 góc nhìn khác</title>
-    <updated>2026-01-06T14:30:11+00:00</updated>
-    <author>
-      <name>/u/No-Reputation3425</name>
-      <uri>https://old.reddit.com/user/No-Reputation3425</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;em chào mng em là sinh viên mới lên năm 4 em đi tt đc 1 năm gồm6 tháng ở công ty X 6 tháng ở công ty Y em làm về mảng IT. Công ty Y có đãi ngộ khá oce nhưng lương không cao nhưng môi trường ưng ý quá đợt này em có xin lên chính thức mà không được, họ có bảo là chờ thêm 1 thời gian thì em khá băng khoăn tại vì là 1 người làm trong dự án đó em thấy khối lượng công việc của em khá nhiều nghĩ tích cực thay vì bóc lột thì nó trao dồi rất rất nhiều kinh nghiệm cho em. Vì muốn có 1 nơi dừng chân ổn định để phát triển tiếp nên em có xin lên chính thức thì được bảo chờ như vậy. em không biết nếu mng là em thì mng có chờ thêm(2 tháng) không để biết câu trả lời. tại vì em có dự định đi xin công ty khác với vị trí fresher mà thời điểm là cuối năm nên khá ít công ty tuyển với em chưa có bằng tôta nghiệp. Thứ em có là 1 năm thực tập với kinh nghiệm ở angular, react, react native, .net, với 1 xíu java. Em thì hiện tại tính vẫn tt tiếp nhưng em sẽ đồng thời rải CV nếu trong tgian đó em có deal ngon hơn em sẽ xin nghỉ. Mọi người cho em góc nhìn suy nghĩ với ý kiến của mọi người với&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/No-Reputation3425"&gt; /u/No-Reputation3425 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q5k3tq/em_cần_1_góc_nhìn_khác/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q5k3tq/em_cần_1_góc_nhìn_khác/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q5k3tq/em_cần_1_góc_nhìn_khác/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-06T14:30:11+00:00</published>
   </entry>
   <entry>
     <id>t3_1q58kxx</id>
@@ -125,6 +112,19 @@
     <published>2026-01-06T08:50:39+00:00</published>
   </entry>
   <entry>
+    <id>t3_1q5k3tq</id>
+    <title>em cần 1 góc nhìn khác</title>
+    <updated>2026-01-06T14:30:11+00:00</updated>
+    <author>
+      <name>/u/No-Reputation3425</name>
+      <uri>https://old.reddit.com/user/No-Reputation3425</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;em chào mng em là sinh viên mới lên năm 4 em đi tt đc 1 năm gồm6 tháng ở công ty X 6 tháng ở công ty Y em làm về mảng IT. Công ty Y có đãi ngộ khá oce nhưng lương không cao nhưng môi trường ưng ý quá đợt này em có xin lên chính thức mà không được, họ có bảo là chờ thêm 1 thời gian thì em khá băng khoăn tại vì là 1 người làm trong dự án đó em thấy khối lượng công việc của em khá nhiều nghĩ tích cực thay vì bóc lột thì nó trao dồi rất rất nhiều kinh nghiệm cho em. Vì muốn có 1 nơi dừng chân ổn định để phát triển tiếp nên em có xin lên chính thức thì được bảo chờ như vậy. em không biết nếu mng là em thì mng có chờ thêm(2 tháng) không để biết câu trả lời. tại vì em có dự định đi xin công ty khác với vị trí fresher mà thời điểm là cuối năm nên khá ít công ty tuyển với em chưa có bằng tôta nghiệp. Thứ em có là 1 năm thực tập với kinh nghiệm ở angular, react, react native, .net, với 1 xíu java. Em thì hiện tại tính vẫn tt tiếp nhưng em sẽ đồng thời rải CV nếu trong tgian đó em có deal ngon hơn em sẽ xin nghỉ. Mọi người cho em góc nhìn suy nghĩ với ý kiến của mọi người với&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/No-Reputation3425"&gt; /u/No-Reputation3425 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q5k3tq/em_cần_1_góc_nhìn_khác/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q5k3tq/em_cần_1_góc_nhìn_khác/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q5k3tq/em_cần_1_góc_nhìn_khác/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-06T14:30:11+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1q5nqee</id>
     <title>Mặc cảm khi thu nhập thấp hơn người yêu</title>
     <updated>2026-01-06T16:45:17+00:00</updated>
@@ -136,19 +136,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1q5nqee/mặc_cảm_khi_thu_nhập_thấp_hơn_người_yêu/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-06T16:45:17+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1q5nt2j</id>
-    <title>Các công ty ở VN thường thưởng bao nhiêu tháng lương?</title>
-    <updated>2026-01-06T16:48:03+00:00</updated>
-    <author>
-      <name>/u/Oizoioitoimetqua</name>
-      <uri>https://old.reddit.com/user/Oizoioitoimetqua</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Công ty bình thường là 13 tháng lương các bác nhỉ?&lt;/p&gt; &lt;p&gt;Nếu lương mình là 15 triệu, nma mình được thưởng 15 tháng lương, thì mình có thể tính là thu nhập mình hàng tháng là 18,75 triệu (15x3 / 12 tháng) không? &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Oizoioitoimetqua"&gt; /u/Oizoioitoimetqua &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q5nt2j/các_công_ty_ở_vn_thường_thưởng_bao_nhiêu_tháng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q5nt2j/các_công_ty_ở_vn_thường_thưởng_bao_nhiêu_tháng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q5nt2j/các_công_ty_ở_vn_thường_thưởng_bao_nhiêu_tháng/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-06T16:48:03+00:00</published>
   </entry>
   <entry>
     <id>t3_1q5eb4h</id>
@@ -216,6 +203,19 @@
     <published>2026-01-06T03:42:55+00:00</published>
   </entry>
   <entry>
+    <id>t3_1q5nt2j</id>
+    <title>Các công ty ở VN thường thưởng bao nhiêu tháng lương?</title>
+    <updated>2026-01-06T16:48:03+00:00</updated>
+    <author>
+      <name>/u/Oizoioitoimetqua</name>
+      <uri>https://old.reddit.com/user/Oizoioitoimetqua</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Công ty bình thường là 13 tháng lương các bác nhỉ?&lt;/p&gt; &lt;p&gt;Nếu lương mình là 15 triệu, nma mình được thưởng 15 tháng lương, thì mình có thể tính là thu nhập mình hàng tháng là 18,75 triệu (15x3 / 12 tháng) không? &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Oizoioitoimetqua"&gt; /u/Oizoioitoimetqua &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q5nt2j/các_công_ty_ở_vn_thường_thưởng_bao_nhiêu_tháng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q5nt2j/các_công_ty_ở_vn_thường_thưởng_bao_nhiêu_tháng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q5nt2j/các_công_ty_ở_vn_thường_thưởng_bao_nhiêu_tháng/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-06T16:48:03+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1q5c9of</id>
     <title>Giày Bitis có tệ không?</title>
     <updated>2026-01-06T07:35:17+00:00</updated>
@@ -229,19 +229,6 @@
     <published>2026-01-06T07:35:17+00:00</published>
   </entry>
   <entry>
-    <id>t3_1q5e9q4</id>
-    <title>Những kiểu sai chính tả phổ biến ở trường học</title>
-    <updated>2026-01-06T09:41:49+00:00</updated>
-    <author>
-      <name>/u/Gold_Piano6902</name>
-      <uri>https://old.reddit.com/user/Gold_Piano6902</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1q5e9q4/những_kiểu_sai_chính_tả_phổ_biến_ở_trường_học/"&gt; &lt;img alt="Những kiểu sai chính tả phổ biến ở trường học" src="https://a.thumbs.redditmedia.com/424WHBypTjM-geHLqwmvfuCAnAFRzYtISbbOWRmlxg0.jpg" title="Những kiểu sai chính tả phổ biến ở trường học" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Gold_Piano6902"&gt; /u/Gold_Piano6902 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1q5e9q4"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q5e9q4/những_kiểu_sai_chính_tả_phổ_biến_ở_trường_học/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q5e9q4/những_kiểu_sai_chính_tả_phổ_biến_ở_trường_học/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-06T09:41:49+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1q56c8j</id>
     <title>BẠN ĐÃ HỌC ĐƯỢC NHỮNG GÌ KHI LỚN LÊN TỪ MỘT GIA ĐÌNH KHÔNG KHÁ GIẢ</title>
     <updated>2026-01-06T02:35:56+00:00</updated>
@@ -253,6 +240,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1q56c8j/bạn_đã_học_được_những_gì_khi_lớn_lên_từ_một_gia/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-06T02:35:56+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1q5e9q4</id>
+    <title>Những kiểu sai chính tả phổ biến ở trường học</title>
+    <updated>2026-01-06T09:41:49+00:00</updated>
+    <author>
+      <name>/u/Gold_Piano6902</name>
+      <uri>https://old.reddit.com/user/Gold_Piano6902</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1q5e9q4/những_kiểu_sai_chính_tả_phổ_biến_ở_trường_học/"&gt; &lt;img alt="Những kiểu sai chính tả phổ biến ở trường học" src="https://a.thumbs.redditmedia.com/424WHBypTjM-geHLqwmvfuCAnAFRzYtISbbOWRmlxg0.jpg" title="Những kiểu sai chính tả phổ biến ở trường học" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Gold_Piano6902"&gt; /u/Gold_Piano6902 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1q5e9q4"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q5e9q4/những_kiểu_sai_chính_tả_phổ_biến_ở_trường_học/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q5e9q4/những_kiểu_sai_chính_tả_phổ_biến_ở_trường_học/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-06T09:41:49+00:00</published>
   </entry>
   <entry>
     <id>t3_1q5l4gi</id>
@@ -307,19 +307,6 @@
     <published>2026-01-06T12:57:32+00:00</published>
   </entry>
   <entry>
-    <id>t3_1q5h2u8</id>
-    <title>Mọi người có ai gặp/quen biết ai đấy chỉ tiêu thụ mỗi content AI rác chưa?</title>
-    <updated>2026-01-06T12:19:27+00:00</updated>
-    <author>
-      <name>/u/not2tsupid</name>
-      <uri>https://old.reddit.com/user/not2tsupid</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1q5h2u8/mọi_người_có_ai_gặpquen_biết_ai_đấy_chỉ_tiêu_thụ/"&gt; &lt;img alt="Mọi người có ai gặp/quen biết ai đấy chỉ tiêu thụ mỗi content AI rác chưa?" src="https://preview.redd.it/46y0nnai1qbg1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=6567dc8984e18bfdba24e544c833bbdf9088a1d7" title="Mọi người có ai gặp/quen biết ai đấy chỉ tiêu thụ mỗi content AI rác chưa?" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Ừ thì ai coi gì là quyền của họ, t cũng chả quan tâm lắm. Nhưng mà t có 1 đứa bạn chuyên coi với share t mấy cái content rác kiểu, video thì về make up mukbang các thứ xong dub cái giọng AI rồi pitch up + 1.25x speed. T tưởng chỉ kiểu bọn con nít hay coi cái thể loại này nhưng mà lớn đầu vẫn có người coi luôn í.&lt;/p&gt; &lt;p&gt;Giờ mọi lừa tuổi đều tiêu thụ content AI thối não. :) &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/not2tsupid"&gt; /u/not2tsupid &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/46y0nnai1qbg1.png"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q5h2u8/mọi_người_có_ai_gặpquen_biết_ai_đấy_chỉ_tiêu_thụ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q5h2u8/mọi_người_có_ai_gặpquen_biết_ai_đấy_chỉ_tiêu_thụ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-06T12:19:27+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1q5crp3</id>
     <title>Thằng nhóc kia giờ đã là bố của 2 đứa trẻ. Còn ông cao cao bên cạnh thì sắp lên chức ông ngoại :))))</title>
     <updated>2026-01-06T08:05:58+00:00</updated>
@@ -331,5 +318,18 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1q5crp3/thằng_nhóc_kia_giờ_đã_là_bố_của_2_đứa_trẻ_còn_ông/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-06T08:05:58+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1q5h2u8</id>
+    <title>Mọi người có ai gặp/quen biết ai đấy chỉ tiêu thụ mỗi content AI rác chưa?</title>
+    <updated>2026-01-06T12:19:27+00:00</updated>
+    <author>
+      <name>/u/not2tsupid</name>
+      <uri>https://old.reddit.com/user/not2tsupid</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1q5h2u8/mọi_người_có_ai_gặpquen_biết_ai_đấy_chỉ_tiêu_thụ/"&gt; &lt;img alt="Mọi người có ai gặp/quen biết ai đấy chỉ tiêu thụ mỗi content AI rác chưa?" src="https://preview.redd.it/46y0nnai1qbg1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=6567dc8984e18bfdba24e544c833bbdf9088a1d7" title="Mọi người có ai gặp/quen biết ai đấy chỉ tiêu thụ mỗi content AI rác chưa?" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Ừ thì ai coi gì là quyền của họ, t cũng chả quan tâm lắm. Nhưng mà t có 1 đứa bạn chuyên coi với share t mấy cái content rác kiểu, video thì về make up mukbang các thứ xong dub cái giọng AI rồi pitch up + 1.25x speed. T tưởng chỉ kiểu bọn con nít hay coi cái thể loại này nhưng mà lớn đầu vẫn có người coi luôn í.&lt;/p&gt; &lt;p&gt;Giờ mọi lừa tuổi đều tiêu thụ content AI thối não. :) &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/not2tsupid"&gt; /u/not2tsupid &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/46y0nnai1qbg1.png"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q5h2u8/mọi_người_có_ai_gặpquen_biết_ai_đấy_chỉ_tiêu_thụ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q5h2u8/mọi_người_có_ai_gặpquen_biết_ai_đấy_chỉ_tiêu_thụ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-06T12:19:27+00:00</published>
   </entry>
 </feed>
