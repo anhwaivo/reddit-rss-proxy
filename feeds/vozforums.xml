@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-06T21:20:11+00:00</updated>
+  <updated>2026-01-06T21:42:19+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -125,19 +125,6 @@
     <published>2026-01-06T09:06:34+00:00</published>
   </entry>
   <entry>
-    <id>t3_1q5phk3</id>
-    <title>Xuất nhập khẩu hàng lần đầu?</title>
-    <updated>2026-01-06T17:48:26+00:00</updated>
-    <author>
-      <name>/u/Anhhhliii</name>
-      <uri>https://old.reddit.com/user/Anhhhliii</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Dạ em chào anh/chị ah&lt;/p&gt; &lt;p&gt;Em hiện đang làm tại một công ty forwarder (logistics), chuyên tuyến Việt Nam – Trung Quốc – Mỹ/Canada.&lt;/p&gt; &lt;p&gt;Thấy ở Việt Nam mình có khá nhiều anh/chị đang kinh doanh nội địa (quy mô vừa &amp;amp; nhỏ) muốn tìm hiểu để xuất khẩu hoặc đã xuất khẩu rồi và đang muốn mở rộng sang thị trường Mỹ – một thị trường rất tiềm năng.&lt;/p&gt; &lt;p&gt;Nếu anh/chị cần hỗ trợ bất kỳ thông tin nào liên quan đến quy trình xuất khẩu, logistics hoặc vận chuyển hàng hóa, anh/chị có thể liên hệ em hỗ trợ phờ ri.&lt;/p&gt; &lt;p&gt;Em còn trẻ, kinh nghiệm chưa thể “đỉnh” như các anh/chị lâu năm trong nghề, nhưng được cái có thời gian 😂&lt;/p&gt; &lt;p&gt;Cái gì em biết =&amp;gt; em trả lời hết mình&lt;/p&gt; &lt;p&gt;Cái gì em chưa rõ =&amp;gt; em hỏi lại mqh để ac tham khảo&lt;/p&gt; &lt;p&gt;Vừa giúp được ngkhac, vừa là cơ hội để em học thêm mỗi ngày.&lt;/p&gt; &lt;p&gt;Đặc biệt là xuất hàng điều kiện DDP, bao gồm thuế nhập khẩu và thủ tục hải quan tại Mỹ. (em chỉ biết về mảng chứng từ vận tải, logistics thôi ạ, còn đàm phán thương mại, hợp đồng mua bán thì em… xin phép đứng ngoài hihi)&lt;/p&gt; &lt;p&gt;Nên có cần gì thì nhắn e nhen. Cảm ơn ac đã đọc ahh&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Anhhhliii"&gt; /u/Anhhhliii &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q5phk3/xuất_nhập_khẩu_hàng_lần_đầu/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q5phk3/xuất_nhập_khẩu_hàng_lần_đầu/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q5phk3/xuất_nhập_khẩu_hàng_lần_đầu/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-06T17:48:26+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1q5jb9k</id>
     <title>2026 Có nên mua Macbook Pro M1 Pro 32GB 1TB?</title>
     <updated>2026-01-06T13:58:37+00:00</updated>
@@ -175,6 +162,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1q57uc3/cíuuuu_huhu_con_này_là_con_gì_vậy_quý_dị_ơi_cái/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-06T03:42:55+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1q5phk3</id>
+    <title>Xuất nhập khẩu hàng lần đầu?</title>
+    <updated>2026-01-06T17:48:26+00:00</updated>
+    <author>
+      <name>/u/Anhhhliii</name>
+      <uri>https://old.reddit.com/user/Anhhhliii</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Dạ em chào anh/chị ah&lt;/p&gt; &lt;p&gt;Em hiện đang làm tại một công ty forwarder (logistics), chuyên tuyến Việt Nam – Trung Quốc – Mỹ/Canada.&lt;/p&gt; &lt;p&gt;Thấy ở Việt Nam mình có khá nhiều anh/chị đang kinh doanh nội địa (quy mô vừa &amp;amp; nhỏ) muốn tìm hiểu để xuất khẩu hoặc đã xuất khẩu rồi và đang muốn mở rộng sang thị trường Mỹ – một thị trường rất tiềm năng.&lt;/p&gt; &lt;p&gt;Nếu anh/chị cần hỗ trợ bất kỳ thông tin nào liên quan đến quy trình xuất khẩu, logistics hoặc vận chuyển hàng hóa, anh/chị có thể liên hệ em hỗ trợ phờ ri.&lt;/p&gt; &lt;p&gt;Em còn trẻ, kinh nghiệm chưa thể “đỉnh” như các anh/chị lâu năm trong nghề, nhưng được cái có thời gian 😂&lt;/p&gt; &lt;p&gt;Cái gì em biết =&amp;gt; em trả lời hết mình&lt;/p&gt; &lt;p&gt;Cái gì em chưa rõ =&amp;gt; em hỏi lại mqh để ac tham khảo&lt;/p&gt; &lt;p&gt;Vừa giúp được ngkhac, vừa là cơ hội để em học thêm mỗi ngày.&lt;/p&gt; &lt;p&gt;Đặc biệt là xuất hàng điều kiện DDP, bao gồm thuế nhập khẩu và thủ tục hải quan tại Mỹ. (em chỉ biết về mảng chứng từ vận tải, logistics thôi ạ, còn đàm phán thương mại, hợp đồng mua bán thì em… xin phép đứng ngoài hihi)&lt;/p&gt; &lt;p&gt;Nên có cần gì thì nhắn e nhen. Cảm ơn ac đã đọc ahh&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Anhhhliii"&gt; /u/Anhhhliii &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q5phk3/xuất_nhập_khẩu_hàng_lần_đầu/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q5phk3/xuất_nhập_khẩu_hàng_lần_đầu/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q5phk3/xuất_nhập_khẩu_hàng_lần_đầu/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-06T17:48:26+00:00</published>
   </entry>
   <entry>
     <id>t3_1q5lequ</id>
@@ -255,19 +255,6 @@
     <published>2026-01-06T17:56:39+00:00</published>
   </entry>
   <entry>
-    <id>t3_1q5alka</id>
-    <title>27 tuổi, sống mà như đã chết từ lâu</title>
-    <updated>2026-01-06T05:58:35+00:00</updated>
-    <author>
-      <name>/u/New-Use4071</name>
-      <uri>https://old.reddit.com/user/New-Use4071</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các bác nghĩ sau 27 tuổi chưa có trải nghiệm, chưa có tình yêu chưa có công việc,bạn bè ,ở nhà ăn mỳ tôm ,sống qua ngày , nên reset lại cuộc đời hay hạnh phúc những gì mình có hả mấy bác ,27 mà cảm giác loay hoay lơ ngơ như 16 17 tủi ,em đúng là lose với tệ quá mấy bác ạ ,mấy bác chửi em cũng được em nhận hết , những năm tháng qua em ngủ chả thấy ngon cứ trách bản thân mình làm gì mà để thời gian trôi qua chưa làm đc gì cứ trách móc bản thân,hoặc chỉ mún reset bản thân mình vì cảm thấy mình lười biếng với chả dám bước chân ra xã hội , dạo gần đây e hay nghĩ tới 44 nhưng em nghĩ do em lười biếng quá nên thế .&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/New-Use4071"&gt; /u/New-Use4071 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q5alka/27_tuổi_sống_mà_như_đã_chết_từ_lâu/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q5alka/27_tuổi_sống_mà_như_đã_chết_từ_lâu/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q5alka/27_tuổi_sống_mà_như_đã_chết_từ_lâu/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-06T05:58:35+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1q5l4gi</id>
     <title>làm thế nào để cai mạng xã hội vậy quý đồng chí.</title>
     <updated>2026-01-06T15:09:54+00:00</updated>
@@ -279,6 +266,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1q5l4gi/làm_thế_nào_để_cai_mạng_xã_hội_vậy_quý_đồng_chí/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-06T15:09:54+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1q5alka</id>
+    <title>27 tuổi, sống mà như đã chết từ lâu</title>
+    <updated>2026-01-06T05:58:35+00:00</updated>
+    <author>
+      <name>/u/New-Use4071</name>
+      <uri>https://old.reddit.com/user/New-Use4071</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các bác nghĩ sau 27 tuổi chưa có trải nghiệm, chưa có tình yêu chưa có công việc,bạn bè ,ở nhà ăn mỳ tôm ,sống qua ngày , nên reset lại cuộc đời hay hạnh phúc những gì mình có hả mấy bác ,27 mà cảm giác loay hoay lơ ngơ như 16 17 tủi ,em đúng là lose với tệ quá mấy bác ạ ,mấy bác chửi em cũng được em nhận hết , những năm tháng qua em ngủ chả thấy ngon cứ trách bản thân mình làm gì mà để thời gian trôi qua chưa làm đc gì cứ trách móc bản thân,hoặc chỉ mún reset bản thân mình vì cảm thấy mình lười biếng với chả dám bước chân ra xã hội , dạo gần đây e hay nghĩ tới 44 nhưng em nghĩ do em lười biếng quá nên thế .&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/New-Use4071"&gt; /u/New-Use4071 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q5alka/27_tuổi_sống_mà_như_đã_chết_từ_lâu/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q5alka/27_tuổi_sống_mà_như_đã_chết_từ_lâu/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q5alka/27_tuổi_sống_mà_như_đã_chết_từ_lâu/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-06T05:58:35+00:00</published>
   </entry>
   <entry>
     <id>t3_1q5b0f7</id>
