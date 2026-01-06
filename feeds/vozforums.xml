@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-06T15:22:00+00:00</updated>
+  <updated>2026-01-06T15:45:33+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1q5lequ</id>
-    <title>Need help</title>
-    <updated>2026-01-06T15:20:31+00:00</updated>
-    <author>
-      <name>/u/_14thjanuary_</name>
-      <uri>https://old.reddit.com/user/_14thjanuary_</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người ạ. Em sv năm cuối ngành IT sắp ra trường mà hơi mất định hướng ạ. Mấy năm học em chỉ học cho có lệ để qua môn thôi ạ, em biết đấy là lỗi của em và em đang rất hối hận ạ. Giờ bản thân em đang đang hơi mất định hướng ạ vì giờ thin trường It đang cho thôi việc nhiều quá và giờ có apply cv thì cũng chọi cao ạ. Em tính apply dạng intern ở công ty như Fptsoft/… thì có ổn không ạ. Quan trọng là lấy kinh nghiệm để đi làm ạ vì hồi em ở fpt bọn em thực tập k cần đi công ty ạ. Anh chị nào trong ngành có thể cho em 1 lối đi được không vì thực sự giờ em đang rối bời lắm ạ. Em code cũng không giỏi ạ. Em cảm ơn nhiều&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/_14thjanuary_"&gt; /u/_14thjanuary_ &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q5lequ/need_help/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q5lequ/need_help/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q5lequ/need_help/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-06T15:20:31+00:00</published>
-  </entry>
   <entry>
     <id>t3_1q5bjb4</id>
     <title>Mình là một người không giỏi gì cả</title>
@@ -32,6 +19,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1q5bjb4/mình_là_một_người_không_giỏi_gì_cả/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-06T06:50:57+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1q5m0j5</id>
+    <title>Xin review khoá học Data analys chất lượng</title>
+    <updated>2026-01-06T15:42:58+00:00</updated>
+    <author>
+      <name>/u/Nvmduc</name>
+      <uri>https://old.reddit.com/user/Nvmduc</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình cần tìm khoá học về data analys uy tín và chất lượng có thể trung tâm hoặc khoá học online trên các nền tảng. Vì thấy rất nhiều bên quảng cáo nhưng mình không biết lựa chọn ở đâu chất lượng mong mọi người có học qua hay biết giới thiệu cho mình với ạ. Mình cảm ơn mọi người nhiều&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Nvmduc"&gt; /u/Nvmduc &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q5m0j5/xin_review_khoá_học_data_analys_chất_lượng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q5m0j5/xin_review_khoá_học_data_analys_chất_lượng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q5m0j5/xin_review_khoá_học_data_analys_chất_lượng/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-06T15:42:58+00:00</published>
   </entry>
   <entry>
     <id>t3_1q5hngs</id>
@@ -84,19 +84,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1q5ck7v/lỡ_chọn_nhầm_thằng_bạn_cùng_phòng_nghiện_nổ_hũ/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-06T07:53:10+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1q5jb9k</id>
-    <title>2026 Có nên mua Macbook Pro M1 Pro 32GB 1TB?</title>
-    <updated>2026-01-06T13:58:37+00:00</updated>
-    <author>
-      <name>/u/_nnhao</name>
-      <uri>https://old.reddit.com/user/_nnhao</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em tính mua con Laptop dùng trong khoảng 4 5 năm tới. Không biết con này dùng dùng đc không các bác? Em code mobile là chủ yếu. Thấy giá một số shop khoảng 25 triệu. Thấy rẻ quá mà không biết ok không? Mấy bác biết shop nào ok bán tư vấn em với. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/_nnhao"&gt; /u/_nnhao &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q5jb9k/2026_có_nên_mua_macbook_pro_m1_pro_32gb_1tb/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q5jb9k/2026_có_nên_mua_macbook_pro_m1_pro_32gb_1tb/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q5jb9k/2026_có_nên_mua_macbook_pro_m1_pro_32gb_1tb/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-06T13:58:37+00:00</published>
   </entry>
   <entry>
     <id>t3_1q5ex4l</id>
@@ -175,6 +162,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1q5dguc/chuyện_tình_cảm/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-06T08:50:39+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1q5jb9k</id>
+    <title>2026 Có nên mua Macbook Pro M1 Pro 32GB 1TB?</title>
+    <updated>2026-01-06T13:58:37+00:00</updated>
+    <author>
+      <name>/u/_nnhao</name>
+      <uri>https://old.reddit.com/user/_nnhao</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em tính mua con Laptop dùng trong khoảng 4 5 năm tới. Không biết con này dùng dùng đc không các bác? Em code mobile là chủ yếu. Thấy giá một số shop khoảng 25 triệu. Thấy rẻ quá mà không biết ok không? Mấy bác biết shop nào ok bán tư vấn em với. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/_nnhao"&gt; /u/_nnhao &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q5jb9k/2026_có_nên_mua_macbook_pro_m1_pro_32gb_1tb/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q5jb9k/2026_có_nên_mua_macbook_pro_m1_pro_32gb_1tb/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q5jb9k/2026_có_nên_mua_macbook_pro_m1_pro_32gb_1tb/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-06T13:58:37+00:00</published>
   </entry>
   <entry>
     <id>t3_1q5eb4h</id>
@@ -294,19 +294,6 @@
     <published>2026-01-06T12:57:32+00:00</published>
   </entry>
   <entry>
-    <id>t3_1q5h2u8</id>
-    <title>Mọi người có ai gặp/quen biết ai đấy chỉ tiêu thụ mỗi content AI rác chưa?</title>
-    <updated>2026-01-06T12:19:27+00:00</updated>
-    <author>
-      <name>/u/not2tsupid</name>
-      <uri>https://old.reddit.com/user/not2tsupid</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1q5h2u8/mọi_người_có_ai_gặpquen_biết_ai_đấy_chỉ_tiêu_thụ/"&gt; &lt;img alt="Mọi người có ai gặp/quen biết ai đấy chỉ tiêu thụ mỗi content AI rác chưa?" src="https://preview.redd.it/46y0nnai1qbg1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=6567dc8984e18bfdba24e544c833bbdf9088a1d7" title="Mọi người có ai gặp/quen biết ai đấy chỉ tiêu thụ mỗi content AI rác chưa?" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Ừ thì ai coi gì là quyền của họ, t cũng chả quan tâm lắm. Nhưng mà t có 1 đứa bạn chuyên coi với share t mấy cái content rác kiểu, video thì về make up mukbang các thứ xong dub cái giọng AI rồi pitch up + 1.25x speed. T tưởng chỉ kiểu bọn con nít hay coi cái thể loại này nhưng mà lớn đầu vẫn có người coi luôn í.&lt;/p&gt; &lt;p&gt;Giờ mọi lừa tuổi đều tiêu thụ content AI thối não. :) &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/not2tsupid"&gt; /u/not2tsupid &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/46y0nnai1qbg1.png"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q5h2u8/mọi_người_có_ai_gặpquen_biết_ai_đấy_chỉ_tiêu_thụ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q5h2u8/mọi_người_có_ai_gặpquen_biết_ai_đấy_chỉ_tiêu_thụ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-06T12:19:27+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1q5b0f7</id>
     <title>Bao nhiêu và như thế nào là giàu có</title>
     <updated>2026-01-06T06:20:57+00:00</updated>
@@ -318,6 +305,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1q5b0f7/bao_nhiêu_và_như_thế_nào_là_giàu_có/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-06T06:20:57+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1q5h2u8</id>
+    <title>Mọi người có ai gặp/quen biết ai đấy chỉ tiêu thụ mỗi content AI rác chưa?</title>
+    <updated>2026-01-06T12:19:27+00:00</updated>
+    <author>
+      <name>/u/not2tsupid</name>
+      <uri>https://old.reddit.com/user/not2tsupid</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1q5h2u8/mọi_người_có_ai_gặpquen_biết_ai_đấy_chỉ_tiêu_thụ/"&gt; &lt;img alt="Mọi người có ai gặp/quen biết ai đấy chỉ tiêu thụ mỗi content AI rác chưa?" src="https://preview.redd.it/46y0nnai1qbg1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=6567dc8984e18bfdba24e544c833bbdf9088a1d7" title="Mọi người có ai gặp/quen biết ai đấy chỉ tiêu thụ mỗi content AI rác chưa?" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Ừ thì ai coi gì là quyền của họ, t cũng chả quan tâm lắm. Nhưng mà t có 1 đứa bạn chuyên coi với share t mấy cái content rác kiểu, video thì về make up mukbang các thứ xong dub cái giọng AI rồi pitch up + 1.25x speed. T tưởng chỉ kiểu bọn con nít hay coi cái thể loại này nhưng mà lớn đầu vẫn có người coi luôn í.&lt;/p&gt; &lt;p&gt;Giờ mọi lừa tuổi đều tiêu thụ content AI thối não. :) &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/not2tsupid"&gt; /u/not2tsupid &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/46y0nnai1qbg1.png"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q5h2u8/mọi_người_có_ai_gặpquen_biết_ai_đấy_chỉ_tiêu_thụ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q5h2u8/mọi_người_có_ai_gặpquen_biết_ai_đấy_chỉ_tiêu_thụ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-06T12:19:27+00:00</published>
   </entry>
   <entry>
     <id>t3_1q5crp3</id>
