@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-07T22:45:15+00:00</updated>
+  <updated>2026-01-07T23:19:27+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -203,19 +203,6 @@
     <published>2026-01-07T18:11:21+00:00</published>
   </entry>
   <entry>
-    <id>t3_1q6chy2</id>
-    <title>cty bảo hiểm mời đi khám bệnh miễn phí, có nên đi ko ae</title>
-    <updated>2026-01-07T11:02:18+00:00</updated>
-    <author>
-      <name>/u/imconcuoc</name>
-      <uri>https://old.reddit.com/user/imconcuoc</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1q6chy2/cty_bảo_hiểm_mời_đi_khám_bệnh_miễn_phí_có_nên_đi/"&gt; &lt;img alt="cty bảo hiểm mời đi khám bệnh miễn phí, có nên đi ko ae" src="https://preview.redd.it/uikx73rnswbg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=43b138e2e1e067850d142f58132dcb40d086f293" title="cty bảo hiểm mời đi khám bệnh miễn phí, có nên đi ko ae" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/imconcuoc"&gt; /u/imconcuoc &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/uikx73rnswbg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q6chy2/cty_bảo_hiểm_mời_đi_khám_bệnh_miễn_phí_có_nên_đi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q6chy2/cty_bảo_hiểm_mời_đi_khám_bệnh_miễn_phí_có_nên_đi/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-07T11:02:18+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1q6u19q</id>
     <title>Đơn này là đơn gì?</title>
     <updated>2026-01-07T22:36:33+00:00</updated>
@@ -227,6 +214,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1q6u19q/đơn_này_là_đơn_gì/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-07T22:36:33+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1q6chy2</id>
+    <title>cty bảo hiểm mời đi khám bệnh miễn phí, có nên đi ko ae</title>
+    <updated>2026-01-07T11:02:18+00:00</updated>
+    <author>
+      <name>/u/imconcuoc</name>
+      <uri>https://old.reddit.com/user/imconcuoc</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1q6chy2/cty_bảo_hiểm_mời_đi_khám_bệnh_miễn_phí_có_nên_đi/"&gt; &lt;img alt="cty bảo hiểm mời đi khám bệnh miễn phí, có nên đi ko ae" src="https://preview.redd.it/uikx73rnswbg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=43b138e2e1e067850d142f58132dcb40d086f293" title="cty bảo hiểm mời đi khám bệnh miễn phí, có nên đi ko ae" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/imconcuoc"&gt; /u/imconcuoc &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/uikx73rnswbg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q6chy2/cty_bảo_hiểm_mời_đi_khám_bệnh_miễn_phí_có_nên_đi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q6chy2/cty_bảo_hiểm_mời_đi_khám_bệnh_miễn_phí_có_nên_đi/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-07T11:02:18+00:00</published>
   </entry>
   <entry>
     <id>t3_1q6lldr</id>
