@@ -2,37 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-07T04:57:53+00:00</updated>
+  <updated>2026-01-07T05:31:30+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1q5phk3</id>
-    <title>Xuất nhập khẩu hàng lần đầu?</title>
-    <updated>2026-01-06T17:48:26+00:00</updated>
-    <author>
-      <name>/u/Anhhhliii</name>
-      <uri>https://old.reddit.com/user/Anhhhliii</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Dạ em chào anh/chị ah&lt;/p&gt; &lt;p&gt;Em hiện đang làm tại một công ty forwarder (logistics), chuyên tuyến Việt Nam – Trung Quốc – Mỹ/Canada.&lt;/p&gt; &lt;p&gt;Thấy ở Việt Nam mình có khá nhiều anh/chị đang kinh doanh nội địa (quy mô vừa &amp;amp; nhỏ) muốn tìm hiểu để xuất khẩu hoặc đã xuất khẩu rồi và đang muốn mở rộng sang thị trường Mỹ – một thị trường rất tiềm năng.&lt;/p&gt; &lt;p&gt;Nếu anh/chị cần hỗ trợ bất kỳ thông tin nào liên quan đến quy trình xuất khẩu, logistics hoặc vận chuyển hàng hóa, anh/chị có thể liên hệ em hỗ trợ phờ ri.&lt;/p&gt; &lt;p&gt;Em còn trẻ, kinh nghiệm chưa thể “đỉnh” như các anh/chị lâu năm trong nghề, nhưng được cái có thời gian 😂&lt;/p&gt; &lt;p&gt;Cái gì em biết =&amp;gt; em trả lời hết mình&lt;/p&gt; &lt;p&gt;Cái gì em chưa rõ =&amp;gt; em hỏi lại mqh để ac tham khảo&lt;/p&gt; &lt;p&gt;Vừa giúp được ngkhac, vừa là cơ hội để em học thêm mỗi ngày.&lt;/p&gt; &lt;p&gt;Đặc biệt là xuất hàng điều kiện DDP, bao gồm thuế nhập khẩu và thủ tục hải quan tại Mỹ. (em chỉ biết về mảng chứng từ vận tải, logistics thôi ạ, còn đàm phán thương mại, hợp đồng mua bán thì em… xin phép đứng ngoài hihi)&lt;/p&gt; &lt;p&gt;Nên có cần gì thì nhắn e nhen. Cảm ơn ac đã đọc ahh&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Anhhhliii"&gt; /u/Anhhhliii &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q5phk3/xuất_nhập_khẩu_hàng_lần_đầu/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q5phk3/xuất_nhập_khẩu_hàng_lần_đầu/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q5phk3/xuất_nhập_khẩu_hàng_lần_đầu/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-06T17:48:26+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1q62e5w</id>
-    <title>Sanity check: ESP32-controlled dump load for small wind turbine (≤100V DC)</title>
-    <updated>2026-01-07T01:58:29+00:00</updated>
-    <author>
-      <name>/u/Suspicious_Lab_3996</name>
-      <uri>https://old.reddit.com/user/Suspicious_Lab_3996</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi all,&lt;br /&gt; I’m building a &lt;strong&gt;small wind turbine (student project)&lt;/strong&gt; and would like a quick sanity check on my dump-load circuit.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Setup:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;3-phase generator → rectifier → DC bus (can reach ~100V)&lt;/li&gt; &lt;li&gt;DC bus feeds an MPPT (24V battery)&lt;/li&gt; &lt;li&gt;ESP32 measures bus voltage and turns on a dump load when voltage is too high&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Circuit highlights:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Voltage divider: &lt;strong&gt;390k/10k&lt;/strong&gt; → ESP32 ADC&lt;/li&gt; &lt;li&gt;ADC protection: &lt;strong&gt;series 1k + capacitor + Zener (3.3–3.6V)&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;Gate driver: &lt;strong&gt;TC4427&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;MOSFET: &lt;strong&gt;IRFP260N (low-side)&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;Dump load: &lt;strong&gt;20Ω / 300W&lt;/strong&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Questions:&lt;/strong&gt;&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Is this ADC protection/filtering approach OK for ESP32?&lt;/li&gt; &lt;li&gt;Zener clamp vs Schottky diode clamp — any preference?&lt;/li&gt; &lt;li&gt;Any red flags using TC4427 + IRFP260N here?&lt;/li&gt; &lt;li&gt;Am I right that &lt;strong&gt;20Ω / 300W is only safe up to ~75–80V continuous&lt;/strong&gt;?&lt;/li&gt; &lt;li&gt;Anything obviously missing for safety/reliability?&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;This is a &lt;strong&gt;low-budget educational project&lt;/strong&gt;, not a commercial design.&lt;br /&gt; Thanks for any feedback!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Suspicious_Lab_3996"&gt; /u/Suspicious_Lab_3996 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q62e5w/sanity_check_esp32controlled_dump_load_for_small/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q62e5w/sanity_check_esp32controlled_dump_load_for_small/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q62e5w/sanity_check_esp32controlled_dump_load_for_small/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-07T01:58:29+00:00</published>
-  </entry>
   <entry>
     <id>t3_1q5c9of</id>
     <title>Giày Bitis có tệ không?</title>
@@ -125,6 +99,19 @@
     <published>2026-01-07T04:37:37+00:00</published>
   </entry>
   <entry>
+    <id>t3_1q66fof</id>
+    <title>Nguồn buff like insta</title>
+    <updated>2026-01-07T05:03:31+00:00</updated>
+    <author>
+      <name>/u/Thomas-Nguyen-9x</name>
+      <uri>https://old.reddit.com/user/Thomas-Nguyen-9x</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Insta giờ làm căng nhỉ mng, giá buff fl cao quá, mà dễ tụt, mng có biết nguồn nào buff like, fl insta ko? Mấy bên nào đã làm lâu năm có tiếng ấy ạ. E là newbie nên bỡ ngỡ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Thomas-Nguyen-9x"&gt; /u/Thomas-Nguyen-9x &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q66fof/nguồn_buff_like_insta/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q66fof/nguồn_buff_like_insta/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q66fof/nguồn_buff_like_insta/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-07T05:03:31+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1q5b0f7</id>
     <title>Bao nhiêu và như thế nào là giàu có</title>
     <updated>2026-01-06T06:20:57+00:00</updated>
@@ -138,19 +125,6 @@
     <published>2026-01-06T06:20:57+00:00</published>
   </entry>
   <entry>
-    <id>t3_1q5l4gi</id>
-    <title>làm thế nào để cai mạng xã hội vậy quý đồng chí.</title>
-    <updated>2026-01-06T15:09:54+00:00</updated>
-    <author>
-      <name>/u/Important_Sort64</name>
-      <uri>https://old.reddit.com/user/Important_Sort64</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình đi làm về tới nhà là như ng hết sức, có bữa nấu ăn có khi không. tự dặn lòng nghỉ 1 tý nhưng lướt trong vô thức, mình ko ghiền nhưng cứ lướt hết này tới khác vậy. Xong là hối hận do ko nhận được gì mà tốn thời gian quá. tâm trạng lúc đó tệ hơn&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Important_Sort64"&gt; /u/Important_Sort64 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q5l4gi/làm_thế_nào_để_cai_mạng_xã_hội_vậy_quý_đồng_chí/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q5l4gi/làm_thế_nào_để_cai_mạng_xã_hội_vậy_quý_đồng_chí/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q5l4gi/làm_thế_nào_để_cai_mạng_xã_hội_vậy_quý_đồng_chí/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-06T15:09:54+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1q5alka</id>
     <title>27 tuổi, sống mà như đã chết từ lâu</title>
     <updated>2026-01-06T05:58:35+00:00</updated>
@@ -162,6 +136,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1q5alka/27_tuổi_sống_mà_như_đã_chết_từ_lâu/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-06T05:58:35+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1q5l4gi</id>
+    <title>làm thế nào để cai mạng xã hội vậy quý đồng chí.</title>
+    <updated>2026-01-06T15:09:54+00:00</updated>
+    <author>
+      <name>/u/Important_Sort64</name>
+      <uri>https://old.reddit.com/user/Important_Sort64</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình đi làm về tới nhà là như ng hết sức, có bữa nấu ăn có khi không. tự dặn lòng nghỉ 1 tý nhưng lướt trong vô thức, mình ko ghiền nhưng cứ lướt hết này tới khác vậy. Xong là hối hận do ko nhận được gì mà tốn thời gian quá. tâm trạng lúc đó tệ hơn&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Important_Sort64"&gt; /u/Important_Sort64 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q5l4gi/làm_thế_nào_để_cai_mạng_xã_hội_vậy_quý_đồng_chí/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q5l4gi/làm_thế_nào_để_cai_mạng_xã_hội_vậy_quý_đồng_chí/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q5l4gi/làm_thế_nào_để_cai_mạng_xã_hội_vậy_quý_đồng_chí/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-06T15:09:54+00:00</published>
   </entry>
   <entry>
     <id>t3_1q63wod</id>
@@ -216,6 +203,19 @@
     <published>2026-01-06T08:05:58+00:00</published>
   </entry>
   <entry>
+    <id>t3_1q66n7f</id>
+    <title>Cả nước có 1,4 triệu thanh niên không làm việc, cũng không học tập</title>
+    <updated>2026-01-07T05:14:13+00:00</updated>
+    <author>
+      <name>/u/bacnguyen0201</name>
+      <uri>https://old.reddit.com/user/bacnguyen0201</uri>
+    </author>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/bacnguyen0201"&gt; /u/bacnguyen0201 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q66n7f/cả_nước_có_14_triệu_thanh_niên_không_làm_việc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q66n7f/cả_nước_có_14_triệu_thanh_niên_không_làm_việc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q66n7f/cả_nước_có_14_triệu_thanh_niên_không_làm_việc/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-07T05:14:13+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1q5nqee</id>
     <title>Mặc cảm khi thu nhập thấp hơn người yêu</title>
     <updated>2026-01-06T16:45:17+00:00</updated>
@@ -255,19 +255,6 @@
     <published>2026-01-07T03:43:13+00:00</published>
   </entry>
   <entry>
-    <id>t3_1q5h2u8</id>
-    <title>Mọi người có ai gặp/quen biết ai đấy chỉ tiêu thụ mỗi content AI rác chưa?</title>
-    <updated>2026-01-06T12:19:27+00:00</updated>
-    <author>
-      <name>/u/not2tsupid</name>
-      <uri>https://old.reddit.com/user/not2tsupid</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1q5h2u8/mọi_người_có_ai_gặpquen_biết_ai_đấy_chỉ_tiêu_thụ/"&gt; &lt;img alt="Mọi người có ai gặp/quen biết ai đấy chỉ tiêu thụ mỗi content AI rác chưa?" src="https://preview.redd.it/46y0nnai1qbg1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=6567dc8984e18bfdba24e544c833bbdf9088a1d7" title="Mọi người có ai gặp/quen biết ai đấy chỉ tiêu thụ mỗi content AI rác chưa?" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Ừ thì ai coi gì là quyền của họ, t cũng chả quan tâm lắm. Nhưng mà t có 1 đứa bạn chuyên coi với share t mấy cái content rác kiểu, video thì về make up mukbang các thứ xong dub cái giọng AI rồi pitch up + 1.25x speed. T tưởng chỉ kiểu bọn con nít hay coi cái thể loại này nhưng mà lớn đầu vẫn có người coi luôn í.&lt;/p&gt; &lt;p&gt;Giờ mọi lừa tuổi đều tiêu thụ content AI thối não. :) &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/not2tsupid"&gt; /u/not2tsupid &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/46y0nnai1qbg1.png"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q5h2u8/mọi_người_có_ai_gặpquen_biết_ai_đấy_chỉ_tiêu_thụ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q5h2u8/mọi_người_có_ai_gặpquen_biết_ai_đấy_chỉ_tiêu_thụ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-06T12:19:27+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1q63fj4</id>
     <title>Xin tip để tán tỉnh gái Tây</title>
     <updated>2026-01-07T02:43:42+00:00</updated>
@@ -279,6 +266,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1q63fj4/xin_tip_để_tán_tỉnh_gái_tây/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-07T02:43:42+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1q5h2u8</id>
+    <title>Mọi người có ai gặp/quen biết ai đấy chỉ tiêu thụ mỗi content AI rác chưa?</title>
+    <updated>2026-01-06T12:19:27+00:00</updated>
+    <author>
+      <name>/u/not2tsupid</name>
+      <uri>https://old.reddit.com/user/not2tsupid</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1q5h2u8/mọi_người_có_ai_gặpquen_biết_ai_đấy_chỉ_tiêu_thụ/"&gt; &lt;img alt="Mọi người có ai gặp/quen biết ai đấy chỉ tiêu thụ mỗi content AI rác chưa?" src="https://preview.redd.it/46y0nnai1qbg1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=6567dc8984e18bfdba24e544c833bbdf9088a1d7" title="Mọi người có ai gặp/quen biết ai đấy chỉ tiêu thụ mỗi content AI rác chưa?" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Ừ thì ai coi gì là quyền của họ, t cũng chả quan tâm lắm. Nhưng mà t có 1 đứa bạn chuyên coi với share t mấy cái content rác kiểu, video thì về make up mukbang các thứ xong dub cái giọng AI rồi pitch up + 1.25x speed. T tưởng chỉ kiểu bọn con nít hay coi cái thể loại này nhưng mà lớn đầu vẫn có người coi luôn í.&lt;/p&gt; &lt;p&gt;Giờ mọi lừa tuổi đều tiêu thụ content AI thối não. :) &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/not2tsupid"&gt; /u/not2tsupid &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/46y0nnai1qbg1.png"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q5h2u8/mọi_người_có_ai_gặpquen_biết_ai_đấy_chỉ_tiêu_thụ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q5h2u8/mọi_người_có_ai_gặpquen_biết_ai_đấy_chỉ_tiêu_thụ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-06T12:19:27+00:00</published>
   </entry>
   <entry>
     <id>t3_1q5yzci</id>
