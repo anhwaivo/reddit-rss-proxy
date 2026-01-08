@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-08T14:58:44+00:00</updated>
+  <updated>2026-01-08T15:34:31+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1q6dwy1</id>
-    <title>Cảm giác khi là người trung bình</title>
-    <updated>2026-01-07T12:19:42+00:00</updated>
-    <author>
-      <name>/u/Loserrboy</name>
-      <uri>https://old.reddit.com/user/Loserrboy</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1q6dwy1/cảm_giác_khi_là_người_trung_bình/"&gt; &lt;img alt="Cảm giác khi là người trung bình" src="https://preview.redd.it/v5iyugpg6xbg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=b3cc67329e3d676db4301bc234c86544c7d37826" title="Cảm giác khi là người trung bình" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Loserrboy"&gt; /u/Loserrboy &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/v5iyugpg6xbg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q6dwy1/cảm_giác_khi_là_người_trung_bình/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q6dwy1/cảm_giác_khi_là_người_trung_bình/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-07T12:19:42+00:00</published>
-  </entry>
   <entry>
     <id>t3_1q6l7g1</id>
     <title>Move on mối tình đầu</title>
@@ -112,19 +99,6 @@
     <published>2026-01-08T14:10:04+00:00</published>
   </entry>
   <entry>
-    <id>t3_1q73ps4</id>
-    <title>Nên chọn trường đại học ở Hà Nội hay ở nơi mk đang sống</title>
-    <updated>2026-01-08T05:46:55+00:00</updated>
-    <author>
-      <name>/u/Robert-Christ7671</name>
-      <uri>https://old.reddit.com/user/Robert-Christ7671</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hello mọi người. Năm nay là năm em thi đại học e đang do dự về chuyện chọn trường đại học ở đâu về gia cảnh em, nhà em không quá khá giả gọi là đủ ăn đủ mặc. Em muốn đi xa nhưng mẹ bảo đi xa chi phí tiền ăn tiền thuê nhà rất khó khăn nên em cx định ở lại quê học , e muốn hỏi về sau này học ở hà nội công việc có tốt hơn có thuận lợi hơn ở quê không em định vào Đại học Hàng Hải Việt Nam ạ mog anh chị cho lời khuyên&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Robert-Christ7671"&gt; /u/Robert-Christ7671 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q73ps4/nên_chọn_trường_đại_học_ở_hà_nội_hay_ở_nơi_mk/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q73ps4/nên_chọn_trường_đại_học_ở_hà_nội_hay_ở_nơi_mk/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q73ps4/nên_chọn_trường_đại_học_ở_hà_nội_hay_ở_nơi_mk/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-08T05:46:55+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1q6it70</id>
     <title>Cách để có lương 40 củ mà không cần học đại học nè?</title>
     <updated>2026-01-07T15:45:49+00:00</updated>
@@ -136,6 +110,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1q6it70/cách_để_có_lương_40_củ_mà_không_cần_học_đại_học_nè/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-07T15:45:49+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1q7epi7</id>
+    <title>Tâm sự chuyện tình cảm</title>
+    <updated>2026-01-08T15:28:01+00:00</updated>
+    <author>
+      <name>/u/lam_vu</name>
+      <uri>https://old.reddit.com/user/lam_vu</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào ae voz, e làm ở cty có đi coi line ở ngoài, rảnh hay ngồi chỗ mấy chị e nói chuyện vui, lúc đầu chỉ nghĩ nói chơi vui nhưng trong đó có 1 chị đã có gd rồi thì e lại thấy có ấn tượng, lúc đầu cũng chẳng có gì nhưng về sau hay nt qua lại xong có lần e đã nói thích người đó, mà đúng là thích thật, tại tính e dễ thích người nào đó lắm kiểu như chỉ cần những cử chỉ hơi gần gũi tí là làm mình bị siêu vẹo ngay, mặc dù biết người ta không phải vậy, mà từ bữa nt nói như vậy xong giờ đi làm thấy ngại quá, không còn giỡn vui như trước nữa, kiểu như nhát hẳn luôn, các bác cho e ý kiến với,&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/lam_vu"&gt; /u/lam_vu &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q7epi7/tâm_sự_chuyện_tình_cảm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q7epi7/tâm_sự_chuyện_tình_cảm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q7epi7/tâm_sự_chuyện_tình_cảm/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-08T15:28:01+00:00</published>
   </entry>
   <entry>
     <id>t3_1q76uzt</id>
@@ -151,19 +138,6 @@
     <published>2026-01-08T08:53:29+00:00</published>
   </entry>
   <entry>
-    <id>t3_1q79398</id>
-    <title>120 tấn thịt lợn nhiễm dịch tả lợn châu Phi được tập kết tại kho của Công ty CP Đồ hộp Hạ Long</title>
-    <updated>2026-01-08T11:10:50+00:00</updated>
-    <author>
-      <name>/u/Hopeful-Manner6616</name>
-      <uri>https://old.reddit.com/user/Hopeful-Manner6616</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1q79398/120_tấn_thịt_lợn_nhiễm_dịch_tả_lợn_châu_phi_được/"&gt; &lt;img alt="120 tấn thịt lợn nhiễm dịch tả lợn châu Phi được tập kết tại kho của Công ty CP Đồ hộp Hạ Long" src="https://b.thumbs.redditmedia.com/t1V_stFAFu-yaWeffHuxhsCsRlyyLjSyD7sU6yxOtKI.jpg" title="120 tấn thịt lợn nhiễm dịch tả lợn châu Phi được tập kết tại kho của Công ty CP Đồ hộp Hạ Long" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&amp;quot; Cơ quan chức năng TP Hải Phòng vừa tiến hành xử lý vụ việc phát hiện 120 tấn thịt lợn nhiễm dịch tả lợn châu Phi được tập kết tại kho của Công ty CP Đồ hộp Hạ Long, trong đó một phần đã được đưa vào dây chuyền sản xuất. &amp;quot;&lt;br /&gt; Đây là một thông tin gây chấn động vừa qua. Thật sự kinh khủng không thể tưởng tượng được đóng thịt bẩn này trót lọt bán ra thị trường hoặc còn tồi tệ hơn thế nữa nếu như đây không phải lần đầu.&lt;/p&gt; &lt;p&gt;&lt;a href="https://preview.redd.it/rnnh27c2z3cg1.png?width=960&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=3bfbdd5791d5c3d043ddb5f08516587fa4814035"&gt;https://preview.redd.it/rnnh27c2z3cg1.png?width=960&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=3bfbdd5791d5c3d043ddb5f08516587fa4814035&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Hopeful-Manner6616"&gt; /u/Hopeful-Manner6616 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q79398/120_tấn_thịt_lợn_nhiễm_dịch_tả_lợn_châu_phi_được/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q79398/120_tấn_thịt_lợn_nhiễm_dịch_tả_lợn_châu_phi_được/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q79398/120_tấn_thịt_lợn_nhiễm_dịch_tả_lợn_châu_phi_được/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-08T11:10:50+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1q76myx</id>
     <title>Sinh viên chạy xe ôm</title>
     <updated>2026-01-08T08:38:52+00:00</updated>
@@ -175,19 +149,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1q76myx/sinh_viên_chạy_xe_ôm/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-08T08:38:52+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1q7cxje</id>
-    <title>Chênh vênh tuổi 23 và sự đắn đo có nên chuyển nghề?</title>
-    <updated>2026-01-08T14:17:21+00:00</updated>
-    <author>
-      <name>/u/Dapper_Ad5611</name>
-      <uri>https://old.reddit.com/user/Dapper_Ad5611</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, em là nữ 23 tuổi, em đang làm nghề SEO website (tối ưu hóa tìm kiếm trên Google) ở vị trí nhân viên - có leader SEO quản lý. Sau 3 năm làm nghề với nhiều dự án, em thực sự thấy rất nản bởi SEO càng ngày càng khó, mức lương hiện tại thì cứ dậm chân tại chỗ (12M) và trong em có gì đó thôi thúc muốn bản thân chuyển nghề khác. Bây giờ mỗi ngày đi làm em cứ bị tâm lý khó chịu bứt rứt, chán nản và cảm giác như con người em ngày một ù lì, không năng động sáng tạo như trước. Về hướng khác, em đang muốn nhảy sang nghề tư vấn về các mảng dịch vụ, giáo dục hoặc chăm sóc sức khỏe. Em thực sự rất khó nghĩ bởi em sợ bỏ nghề thì tiếc mà theo tiếp thì nản. Em mong nhận được lời khuyên về cách đối mặt với sự mông lung này và xin hướng đi cho em từ anh chị đi trước ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Dapper_Ad5611"&gt; /u/Dapper_Ad5611 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q7cxje/chênh_vênh_tuổi_23_và_sự_đắn_đo_có_nên_chuyển_nghề/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q7cxje/chênh_vênh_tuổi_23_và_sự_đắn_đo_có_nên_chuyển_nghề/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q7cxje/chênh_vênh_tuổi_23_và_sự_đắn_đo_có_nên_chuyển_nghề/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-08T14:17:21+00:00</published>
   </entry>
   <entry>
     <id>t3_1q77szh</id>
@@ -216,6 +177,19 @@
     <published>2026-01-08T03:59:04+00:00</published>
   </entry>
   <entry>
+    <id>t3_1q7enke</id>
+    <title>Buồn quá mở AMA tán dóc mọi loại chủ đề với các anh chị em.</title>
+    <updated>2026-01-08T15:25:56+00:00</updated>
+    <author>
+      <name>/u/Kanjiex</name>
+      <uri>https://old.reddit.com/user/Kanjiex</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình cũng già rồi, gần đầu 4, có 1 vợ 1 con rồi nhưng cuộc sống cảm giác khá là long đong không ổn định. Mình tốt nghiệp ĐH ngân hàng đi làm tài chính cũng gần 10 năm. Nhưng vì nhảy việc và đi học Master kế toán ở Mỹ 1 thời gian nên cũng không đạt được thành tựu gì trong công việc. Mình có IELTS 8.0 band và từng đi dạy tiếng Anh cũng như dịch thuật freelancing 1 thời gian.&lt;/p&gt; &lt;p&gt;Giờ mình lại bỏ gia đình sang Mỹ định cư đúng lúc kinh tế khó khăn, layoff tràn lan và chưa tìm được công việc gì đúng ngành. Cảm giác long đong lận đận và cô đơn nó lại trỗi dậy kinh khủng. Giờ đang ngồi trong phòng training của 1 công việc warehouse tạm bợ.&lt;/p&gt; &lt;p&gt;Mình có hứng thú tám chuyện tâm lý và tranh luận đủ thứ chủ đề (miễn không vi phạm nội quy). Mình là 1 wibu lâu năm và là 1 kẻ vô thần cực đoan chống mê tín đủ thể loại. Cũng như có thể chia sẻ kinh nghiệm sống trong khả năng. Mình không được gì chỉ được cái sống lâu hơn 1 số bạn ở đây thôi.&lt;/p&gt; &lt;p&gt;AMA.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Kanjiex"&gt; /u/Kanjiex &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q7enke/buồn_quá_mở_ama_tán_dóc_mọi_loại_chủ_đề_với_các/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q7enke/buồn_quá_mở_ama_tán_dóc_mọi_loại_chủ_đề_với_các/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q7enke/buồn_quá_mở_ama_tán_dóc_mọi_loại_chủ_đề_với_các/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-08T15:25:56+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1q7bmhd</id>
     <title>Sinh viên vừa ra trường không có định hướng</title>
     <updated>2026-01-08T13:21:10+00:00</updated>
@@ -240,6 +214,32 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1q7ccxj/những_cuốn_sách_hay_mà_ae_nên_đọc_khi_có_thời/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-08T13:53:36+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1q79398</id>
+    <title>120 tấn thịt lợn nhiễm dịch tả lợn châu Phi được tập kết tại kho của Công ty CP Đồ hộp Hạ Long</title>
+    <updated>2026-01-08T11:10:50+00:00</updated>
+    <author>
+      <name>/u/Hopeful-Manner6616</name>
+      <uri>https://old.reddit.com/user/Hopeful-Manner6616</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1q79398/120_tấn_thịt_lợn_nhiễm_dịch_tả_lợn_châu_phi_được/"&gt; &lt;img alt="120 tấn thịt lợn nhiễm dịch tả lợn châu Phi được tập kết tại kho của Công ty CP Đồ hộp Hạ Long" src="https://b.thumbs.redditmedia.com/t1V_stFAFu-yaWeffHuxhsCsRlyyLjSyD7sU6yxOtKI.jpg" title="120 tấn thịt lợn nhiễm dịch tả lợn châu Phi được tập kết tại kho của Công ty CP Đồ hộp Hạ Long" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&amp;quot; Cơ quan chức năng TP Hải Phòng vừa tiến hành xử lý vụ việc phát hiện 120 tấn thịt lợn nhiễm dịch tả lợn châu Phi được tập kết tại kho của Công ty CP Đồ hộp Hạ Long, trong đó một phần đã được đưa vào dây chuyền sản xuất. &amp;quot;&lt;br /&gt; Đây là một thông tin gây chấn động vừa qua. Thật sự kinh khủng không thể tưởng tượng được đóng thịt bẩn này trót lọt bán ra thị trường hoặc còn tồi tệ hơn thế nữa nếu như đây không phải lần đầu.&lt;/p&gt; &lt;p&gt;&lt;a href="https://preview.redd.it/rnnh27c2z3cg1.png?width=960&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=3bfbdd5791d5c3d043ddb5f08516587fa4814035"&gt;https://preview.redd.it/rnnh27c2z3cg1.png?width=960&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=3bfbdd5791d5c3d043ddb5f08516587fa4814035&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Hopeful-Manner6616"&gt; /u/Hopeful-Manner6616 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q79398/120_tấn_thịt_lợn_nhiễm_dịch_tả_lợn_châu_phi_được/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q79398/120_tấn_thịt_lợn_nhiễm_dịch_tả_lợn_châu_phi_được/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q79398/120_tấn_thịt_lợn_nhiễm_dịch_tả_lợn_châu_phi_được/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-08T11:10:50+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1q7cxje</id>
+    <title>Chênh vênh tuổi 23 và sự đắn đo có nên chuyển nghề?</title>
+    <updated>2026-01-08T14:17:21+00:00</updated>
+    <author>
+      <name>/u/Dapper_Ad5611</name>
+      <uri>https://old.reddit.com/user/Dapper_Ad5611</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, em là nữ 23 tuổi, em đang làm nghề SEO website (tối ưu hóa tìm kiếm trên Google) ở vị trí nhân viên - có leader SEO quản lý. Sau 3 năm làm nghề với nhiều dự án, em thực sự thấy rất nản bởi SEO càng ngày càng khó, mức lương hiện tại thì cứ dậm chân tại chỗ (12M) và trong em có gì đó thôi thúc muốn bản thân chuyển nghề khác. Bây giờ mỗi ngày đi làm em cứ bị tâm lý khó chịu bứt rứt, chán nản và cảm giác như con người em ngày một ù lì, không năng động sáng tạo như trước. Về hướng khác, em đang muốn nhảy sang nghề tư vấn về các mảng dịch vụ, giáo dục hoặc chăm sóc sức khỏe. Em thực sự rất khó nghĩ bởi em sợ bỏ nghề thì tiếc mà theo tiếp thì nản. Em mong nhận được lời khuyên về cách đối mặt với sự mông lung này và xin hướng đi cho em từ anh chị đi trước ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Dapper_Ad5611"&gt; /u/Dapper_Ad5611 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q7cxje/chênh_vênh_tuổi_23_và_sự_đắn_đo_có_nên_chuyển_nghề/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q7cxje/chênh_vênh_tuổi_23_và_sự_đắn_đo_có_nên_chuyển_nghề/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q7cxje/chênh_vênh_tuổi_23_và_sự_đắn_đo_có_nên_chuyển_nghề/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-08T14:17:21+00:00</published>
   </entry>
   <entry>
     <id>t3_1q75oat</id>
@@ -294,19 +294,6 @@
     <published>2026-01-08T10:39:42+00:00</published>
   </entry>
   <entry>
-    <id>t3_1q7cvuh</id>
-    <title>[Chia sẻ] Dự án cá nhân mình đang làm dở, hệ thống phòng nói chuyện</title>
-    <updated>2026-01-08T14:15:26+00:00</updated>
-    <author>
-      <name>/u/No_Product5670</name>
-      <uri>https://old.reddit.com/user/No_Product5670</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1q7cvuh/chia_sẻ_dự_án_cá_nhân_mình_đang_làm_dở_hệ_thống/"&gt; &lt;img alt="[Chia sẻ] Dự án cá nhân mình đang làm dở, hệ thống phòng nói chuyện" src="https://preview.redd.it/c1359xw0w4cg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=d53994b328d14c0152fa9ac5ee13d9f2722e73cf" title="[Chia sẻ] Dự án cá nhân mình đang làm dở, hệ thống phòng nói chuyện" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình đang tự làm một dự án nhỏ về phòng nói chuyện online. Chưa dám gọi là sản phẩm, mới ở mức thử nghiệm, nhưng thấy cũng tạm ổn nên đăng lên nhờ anh em góp ý.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/No_Product5670"&gt; /u/No_Product5670 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/c1359xw0w4cg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q7cvuh/chia_sẻ_dự_án_cá_nhân_mình_đang_làm_dở_hệ_thống/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q7cvuh/chia_sẻ_dự_án_cá_nhân_mình_đang_làm_dở_hệ_thống/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-08T14:15:26+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1q6zvzb</id>
     <title>Gấu cao 1m65 bắt em (1m58) phải đi giày độn mới cho đi dự tiệc cưới, nên bỏ hay nên độn?</title>
     <updated>2026-01-08T02:41:27+00:00</updated>
@@ -318,6 +305,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1q6zvzb/gấu_cao_1m65_bắt_em_1m58_phải_đi_giày_độn_mới_cho/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-08T02:41:27+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1q7cvuh</id>
+    <title>[Chia sẻ] Dự án cá nhân mình đang làm dở, hệ thống phòng nói chuyện</title>
+    <updated>2026-01-08T14:15:26+00:00</updated>
+    <author>
+      <name>/u/No_Product5670</name>
+      <uri>https://old.reddit.com/user/No_Product5670</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1q7cvuh/chia_sẻ_dự_án_cá_nhân_mình_đang_làm_dở_hệ_thống/"&gt; &lt;img alt="[Chia sẻ] Dự án cá nhân mình đang làm dở, hệ thống phòng nói chuyện" src="https://preview.redd.it/c1359xw0w4cg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=d53994b328d14c0152fa9ac5ee13d9f2722e73cf" title="[Chia sẻ] Dự án cá nhân mình đang làm dở, hệ thống phòng nói chuyện" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình đang tự làm một dự án nhỏ về phòng nói chuyện online. Chưa dám gọi là sản phẩm, mới ở mức thử nghiệm, nhưng thấy cũng tạm ổn nên đăng lên nhờ anh em góp ý.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/No_Product5670"&gt; /u/No_Product5670 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/c1359xw0w4cg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q7cvuh/chia_sẻ_dự_án_cá_nhân_mình_đang_làm_dở_hệ_thống/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q7cvuh/chia_sẻ_dự_án_cá_nhân_mình_đang_làm_dở_hệ_thống/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-08T14:15:26+00:00</published>
   </entry>
   <entry>
     <id>t3_1q78ajo</id>
