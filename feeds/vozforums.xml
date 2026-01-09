@@ -2,37 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-09T07:37:13+00:00</updated>
+  <updated>2026-01-09T07:53:07+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1q7tppb</id>
-    <title>Nghề tóc</title>
-    <updated>2026-01-09T00:49:37+00:00</updated>
-    <author>
-      <name>/u/Grand_Photograph_770</name>
-      <uri>https://old.reddit.com/user/Grand_Photograph_770</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là tôi đang học nghề tóc mới được 5 tháng, cứ mỗi tối tôi đều nghĩ là có mở tiệm được không, nhà thì ở quê, trong hẽm , tôi thì không có tiền để thuê. Hazii. Nhiều khi nghĩ là có nên từ bỏ rồi đi làm công nhân hãy làm công việc bảo vệ ở trưởng. Mệt quá đi, anh em cho tôi xin ít lời khuyên với ạ 🥲&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Grand_Photograph_770"&gt; /u/Grand_Photograph_770 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q7tppb/nghề_tóc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q7tppb/nghề_tóc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q7tppb/nghề_tóc/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-09T00:49:37+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1q7cvuh</id>
-    <title>[Chia sẻ] Dự án cá nhân mình đang làm dở, hệ thống phòng nói chuyện</title>
-    <updated>2026-01-08T14:15:26+00:00</updated>
-    <author>
-      <name>/u/No_Product5670</name>
-      <uri>https://old.reddit.com/user/No_Product5670</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1q7cvuh/chia_sẻ_dự_án_cá_nhân_mình_đang_làm_dở_hệ_thống/"&gt; &lt;img alt="[Chia sẻ] Dự án cá nhân mình đang làm dở, hệ thống phòng nói chuyện" src="https://preview.redd.it/c1359xw0w4cg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=d53994b328d14c0152fa9ac5ee13d9f2722e73cf" title="[Chia sẻ] Dự án cá nhân mình đang làm dở, hệ thống phòng nói chuyện" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình đang tự làm một dự án nhỏ về phòng nói chuyện online. Chưa dám gọi là sản phẩm, mới ở mức thử nghiệm, nhưng thấy cũng tạm ổn nên đăng lên nhờ anh em góp ý.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/No_Product5670"&gt; /u/No_Product5670 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/c1359xw0w4cg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q7cvuh/chia_sẻ_dự_án_cá_nhân_mình_đang_làm_dở_hệ_thống/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q7cvuh/chia_sẻ_dự_án_cá_nhân_mình_đang_làm_dở_hệ_thống/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-08T14:15:26+00:00</published>
-  </entry>
   <entry>
     <id>t3_1q7r3oc</id>
     <title>Thuốc đông y trên facebook</title>
@@ -73,6 +47,19 @@
     <published>2026-01-09T05:39:14+00:00</published>
   </entry>
   <entry>
+    <id>t3_1q7tppb</id>
+    <title>Nghề tóc</title>
+    <updated>2026-01-09T00:49:37+00:00</updated>
+    <author>
+      <name>/u/Grand_Photograph_770</name>
+      <uri>https://old.reddit.com/user/Grand_Photograph_770</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là tôi đang học nghề tóc mới được 5 tháng, cứ mỗi tối tôi đều nghĩ là có mở tiệm được không, nhà thì ở quê, trong hẽm , tôi thì không có tiền để thuê. Hazii. Nhiều khi nghĩ là có nên từ bỏ rồi đi làm công nhân hãy làm công việc bảo vệ ở trưởng. Mệt quá đi, anh em cho tôi xin ít lời khuyên với ạ 🥲&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Grand_Photograph_770"&gt; /u/Grand_Photograph_770 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q7tppb/nghề_tóc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q7tppb/nghề_tóc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q7tppb/nghề_tóc/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-09T00:49:37+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1q81wok</id>
     <title>Review công việc, môi trường, lương lậu ở One Mount</title>
     <updated>2026-01-09T07:26:59+00:00</updated>
@@ -110,6 +97,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1q8213w/mẹo_đổi_tiền_đài_sang_việt/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-09T07:34:40+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1q829fn</id>
+    <title>Lên MXH nói xấu em gái ruột học cấp 2</title>
+    <updated>2026-01-09T07:49:12+00:00</updated>
+    <author>
+      <name>/u/Sweet-Matter-9523</name>
+      <uri>https://old.reddit.com/user/Sweet-Matter-9523</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Con chị hơn con em 10t lên mxh nói xấu em ruột của mình, và tui chính là con chị đó đây, tui uất nghẹn quá mà khi tui nói với mẹ tui thì mẹ bảo &amp;quot; em nó còn nhỏ&amp;quot;, tui cạn khô hết lời rồi&lt;/p&gt; &lt;p&gt;Bối cảnh là tui mới đẻ em bé hơn 1 tháng, bị cảm nên hơi mệt trong người, ba mẹ ruột có công việc gấp nên cả 2 phải về quê 1 tuần. Ở nhà còn 2 chị em thôi, tối thì chồng tui sẽ ở cùng còn ban ngày đi làm. Và ở với bé em ối dồi ôi cuộc đời luôn.&lt;/p&gt; &lt;p&gt;Ở nhà trong hoàn cảnh vậy mà con bé chả hề động tay vào việc nha. Chị nhắc kệ chị ta đây không làm, cơ bản vài việc thôi như nấu bữa cơm, rửa chén, cho gà chó ăn, nhà 2 ngày lau 1 lần, đồ 2 ngày gom đi giặt cũng có máy giặt.&lt;/p&gt; &lt;p&gt;Xong đến lúc tui cũng phải tự tay đi làm, có khi tui mang cái roi lên quất vào tường thì mới xuống rửa đc cái bát. Thứ 7, cn ở nhà chỉ chơi không thôi.&lt;/p&gt; &lt;p&gt;Mà từ bé đến lớn 2 đứa cũng thương nhau lắm . Chả hiểu 4 năm đi học đh xa nhà về cái nó đổi cm nết hay sao ấy, tui cũng hay cho nó tiền mua đồ ăn vặt, cũng hay quan tâm hỏi han. Vậy mà có hôm cháu khóc đến 12h đêm cũng không hề sang ngó lấy 1 lần.&lt;/p&gt; &lt;p&gt;Chị nó vừa trông cháu vừa nấu vội bữa ăn nó còn bảo &amp;quot; chị ơi đừng luộc bí nữa em ngán lắm rồi, nấu canh bí đi chị&amp;quot;. Má lạy luôn&lt;/p&gt; &lt;p&gt;Nhớ đến lúc bầu to 9 tháng, bảo nó lau nhà từ sớm mà đến lúc trời tối thui rồi, nhà chưa lau. Tui mới bảo con bé &amp;quot; thôi m đi tắm đi, t lau nhà cho&amp;quot; vậy mà tui lau nhà xong phát hiện nó nằm trong phòng bấm đt cười hahah hố hố chứ cũng chưa có đi tắm :)))&lt;/p&gt; &lt;p&gt;Em tui nó có được bình thường không vậy? Do tuổi dậy thì hay bản chất nó vậy trời&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Sweet-Matter-9523"&gt; /u/Sweet-Matter-9523 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q829fn/lên_mxh_nói_xấu_em_gái_ruột_học_cấp_2/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q829fn/lên_mxh_nói_xấu_em_gái_ruột_học_cấp_2/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q829fn/lên_mxh_nói_xấu_em_gái_ruột_học_cấp_2/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-09T07:49:12+00:00</published>
   </entry>
   <entry>
     <id>t3_1q78ajo</id>
@@ -203,19 +203,6 @@
     <published>2026-01-09T00:40:46+00:00</published>
   </entry>
   <entry>
-    <id>t3_1q7sm7d</id>
-    <title>Bạn đã học thành thạo một ngoại ngữ như thế nào vậy?</title>
-    <updated>2026-01-09T00:03:52+00:00</updated>
-    <author>
-      <name>/u/bacnguyen0201</name>
-      <uri>https://old.reddit.com/user/bacnguyen0201</uri>
-    </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/bacnguyen0201"&gt; /u/bacnguyen0201 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q7sm7d/bạn_đã_học_thành_thạo_một_ngoại_ngữ_như_thế_nào/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q7sm7d/bạn_đã_học_thành_thạo_một_ngoại_ngữ_như_thế_nào/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q7sm7d/bạn_đã_học_thành_thạo_một_ngoại_ngữ_như_thế_nào/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-09T00:03:52+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1q7v72x</id>
     <title>2025 của mọi người thế nào ?</title>
     <updated>2026-01-09T01:53:50+00:00</updated>
@@ -227,6 +214,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1q7v72x/2025_của_mọi_người_thế_nào/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-09T01:53:50+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1q7sm7d</id>
+    <title>Bạn đã học thành thạo một ngoại ngữ như thế nào vậy?</title>
+    <updated>2026-01-09T00:03:52+00:00</updated>
+    <author>
+      <name>/u/bacnguyen0201</name>
+      <uri>https://old.reddit.com/user/bacnguyen0201</uri>
+    </author>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/bacnguyen0201"&gt; /u/bacnguyen0201 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q7sm7d/bạn_đã_học_thành_thạo_một_ngoại_ngữ_như_thế_nào/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q7sm7d/bạn_đã_học_thành_thạo_một_ngoại_ngữ_như_thế_nào/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q7sm7d/bạn_đã_học_thành_thạo_một_ngoại_ngữ_như_thế_nào/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-09T00:03:52+00:00</published>
   </entry>
   <entry>
     <id>t3_1q7enke</id>
