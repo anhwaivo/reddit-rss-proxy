@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-09T14:49:30+00:00</updated>
+  <updated>2026-01-09T15:23:14+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -216,19 +216,6 @@
     <published>2026-01-09T12:12:45+00:00</published>
   </entry>
   <entry>
-    <id>t3_1q88nax</id>
-    <title>Lương BA</title>
-    <updated>2026-01-09T13:46:06+00:00</updated>
-    <author>
-      <name>/u/Abject_Creme_79</name>
-      <uri>https://old.reddit.com/user/Abject_Creme_79</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mn cho e tham khảo lương BA bậc 1.1 ở MB được khoảng bn tiền thế ạ. Mai đi phỏng vấn rồi mà không biết range lương để deal&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Abject_Creme_79"&gt; /u/Abject_Creme_79 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q88nax/lương_ba/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q88nax/lương_ba/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q88nax/lương_ba/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-09T13:46:06+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1q81kx3</id>
     <title>Cần lời khuyên, chỉ dẫn</title>
     <updated>2026-01-09T07:07:09+00:00</updated>
@@ -242,19 +229,6 @@
     <published>2026-01-09T07:07:09+00:00</published>
   </entry>
   <entry>
-    <id>t3_1q87pwi</id>
-    <title>Bình thường hẹn hò thì mọi người sẽ làm gì</title>
-    <updated>2026-01-09T13:04:20+00:00</updated>
-    <author>
-      <name>/u/Apart_Ad1965</name>
-      <uri>https://old.reddit.com/user/Apart_Ad1965</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hiện tại mình sắp tỏ tình với một chị, hơn mình vài tuổi. Mình và chị ấy đã có tình cảm với nhau khá lâu và mình muốn tỏ tình với chị ấy. Nhưng trước giờ mình chưa từng có kinh nghiệm hẹn hò với ai nên cũng không biết phải làm gì khi hẹn hò. Mọi người có thể gợi ý giúp mình được không&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Apart_Ad1965"&gt; /u/Apart_Ad1965 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q87pwi/bình_thường_hẹn_hò_thì_mọi_người_sẽ_làm_gì/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q87pwi/bình_thường_hẹn_hò_thì_mọi_người_sẽ_làm_gì/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q87pwi/bình_thường_hẹn_hò_thì_mọi_người_sẽ_làm_gì/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-09T13:04:20+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1q829fn</id>
     <title>Lên MXH nói xấu em gái ruột học cấp 2</title>
     <updated>2026-01-09T07:49:12+00:00</updated>
@@ -266,6 +240,32 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1q829fn/lên_mxh_nói_xấu_em_gái_ruột_học_cấp_2/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-09T07:49:12+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1q88nax</id>
+    <title>Lương BA</title>
+    <updated>2026-01-09T13:46:06+00:00</updated>
+    <author>
+      <name>/u/Abject_Creme_79</name>
+      <uri>https://old.reddit.com/user/Abject_Creme_79</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mn cho e tham khảo lương BA bậc 1.1 ở MB được khoảng bn tiền thế ạ. Mai đi phỏng vấn rồi mà không biết range lương để deal&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Abject_Creme_79"&gt; /u/Abject_Creme_79 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q88nax/lương_ba/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q88nax/lương_ba/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q88nax/lương_ba/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-09T13:46:06+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1q87pwi</id>
+    <title>Bình thường hẹn hò thì mọi người sẽ làm gì</title>
+    <updated>2026-01-09T13:04:20+00:00</updated>
+    <author>
+      <name>/u/Apart_Ad1965</name>
+      <uri>https://old.reddit.com/user/Apart_Ad1965</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hiện tại mình sắp tỏ tình với một chị, hơn mình vài tuổi. Mình và chị ấy đã có tình cảm với nhau khá lâu và mình muốn tỏ tình với chị ấy. Nhưng trước giờ mình chưa từng có kinh nghiệm hẹn hò với ai nên cũng không biết phải làm gì khi hẹn hò. Mọi người có thể gợi ý giúp mình được không&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Apart_Ad1965"&gt; /u/Apart_Ad1965 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q87pwi/bình_thường_hẹn_hò_thì_mọi_người_sẽ_làm_gì/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q87pwi/bình_thường_hẹn_hò_thì_mọi_người_sẽ_làm_gì/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q87pwi/bình_thường_hẹn_hò_thì_mọi_người_sẽ_làm_gì/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-09T13:04:20+00:00</published>
   </entry>
   <entry>
     <id>t3_1q87uqr</id>
