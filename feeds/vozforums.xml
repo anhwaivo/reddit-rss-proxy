@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-09T21:41:50+00:00</updated>
+  <updated>2026-01-09T21:52:09+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -138,19 +138,6 @@
     <published>2026-01-09T12:12:45+00:00</published>
   </entry>
   <entry>
-    <id>t3_1q7zf5v</id>
-    <title>Các bác update kiến thức từ đâu?</title>
-    <updated>2026-01-09T05:09:17+00:00</updated>
-    <author>
-      <name>/u/Delicious_Ice_6288</name>
-      <uri>https://old.reddit.com/user/Delicious_Ice_6288</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em thấy bạn em hay xem video trên youtube các kiến thức kiểu tâm lý học, triết học, lịch sử,… nhưng em thấy mấy nguồn kiểu từ youtube thì ko uy tín lắm, nhưng bảo đọc nguyên cuốn sách thì đúng là hơi khó với em. Còn các bác thì ntn? Có kênh hay blog hay sách gì các bác thấy hay, có thể chia sẻ dc ko ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Delicious_Ice_6288"&gt; /u/Delicious_Ice_6288 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q7zf5v/các_bác_update_kiến_thức_từ_đâu/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q7zf5v/các_bác_update_kiến_thức_từ_đâu/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q7zf5v/các_bác_update_kiến_thức_từ_đâu/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-09T05:09:17+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1q8b4fq</id>
     <title>23 tuổi mới bắt đầu ra đời có quá muộn</title>
     <updated>2026-01-09T15:24:01+00:00</updated>
@@ -162,6 +149,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1q8b4fq/23_tuổi_mới_bắt_đầu_ra_đời_có_quá_muộn/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-09T15:24:01+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1q7zf5v</id>
+    <title>Các bác update kiến thức từ đâu?</title>
+    <updated>2026-01-09T05:09:17+00:00</updated>
+    <author>
+      <name>/u/Delicious_Ice_6288</name>
+      <uri>https://old.reddit.com/user/Delicious_Ice_6288</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em thấy bạn em hay xem video trên youtube các kiến thức kiểu tâm lý học, triết học, lịch sử,… nhưng em thấy mấy nguồn kiểu từ youtube thì ko uy tín lắm, nhưng bảo đọc nguyên cuốn sách thì đúng là hơi khó với em. Còn các bác thì ntn? Có kênh hay blog hay sách gì các bác thấy hay, có thể chia sẻ dc ko ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Delicious_Ice_6288"&gt; /u/Delicious_Ice_6288 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q7zf5v/các_bác_update_kiến_thức_từ_đâu/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q7zf5v/các_bác_update_kiến_thức_từ_đâu/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q7zf5v/các_bác_update_kiến_thức_từ_đâu/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-09T05:09:17+00:00</published>
   </entry>
   <entry>
     <id>t3_1q80rlw</id>
