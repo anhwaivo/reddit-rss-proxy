@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-09T09:56:44+00:00</updated>
+  <updated>2026-01-09T10:27:07+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1q81zaj</id>
-    <title>Kể về 1 lần bạn bị scam công việc remote trên LinkedIn ( hoặc 1 số nền tảng tìm việc khác)</title>
-    <updated>2026-01-09T07:31:30+00:00</updated>
-    <author>
-      <name>/u/Odd-Board4191</name>
-      <uri>https://old.reddit.com/user/Odd-Board4191</uri>
-    </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Odd-Board4191"&gt; /u/Odd-Board4191 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q81zaj/kể_về_1_lần_bạn_bị_scam_công_việc_remote_trên/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q81zaj/kể_về_1_lần_bạn_bị_scam_công_việc_remote_trên/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q81zaj/kể_về_1_lần_bạn_bị_scam_công_việc_remote_trên/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-09T07:31:30+00:00</published>
-  </entry>
   <entry>
     <id>t3_1q8213w</id>
     <title>Mẹo đổi tiền đài sang việt</title>
@@ -47,6 +34,19 @@
     <published>2026-01-08T10:22:52+00:00</published>
   </entry>
   <entry>
+    <id>t3_1q84ki2</id>
+    <title>Có ai đang đối mặt với khủng hoảng hiện sinh không? Mọi người “đối diện” với nó như nào vậy?</title>
+    <updated>2026-01-09T10:12:29+00:00</updated>
+    <author>
+      <name>/u/0_n14</name>
+      <uri>https://old.reddit.com/user/0_n14</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chập chững bước vào cái tuổi mà đời người tuyệt không có lần 2. Đáng lẽ ra mình phải sống đúng bản chất cái tuổi thật của mình hơn. Nhưng thực sự mình cảm thấy quá nhàm chán với cuộc sống này. Mọi thứ… mình không còn cảm thấy hứng thú với điều gì cả, xã hội loài người quá đỗi phức tạp, việc phải chung sống trong một môi trường mà bản chất phần con trong họ đã lấn chiếm phần người khiến mình phát ngán. Và đương nhiên đơn độc không phải một lựa chọn tốt ở một thế giới như này, nhưng mình không còn lựa chọn khác, và đây cũng là điều khó khăn nhất với mình, thật sự quá khó để níu giữ một ai đó mà bản thân muốn ở lại thế giới của mình.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/0_n14"&gt; /u/0_n14 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q84ki2/có_ai_đang_đối_mặt_với_khủng_hoảng_hiện_sinh/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q84ki2/có_ai_đang_đối_mặt_với_khủng_hoảng_hiện_sinh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q84ki2/có_ai_đang_đối_mặt_với_khủng_hoảng_hiện_sinh/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-09T10:12:29+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1q814d1</id>
     <title>Cty quỵt lương</title>
     <updated>2026-01-09T06:40:34+00:00</updated>
@@ -71,19 +71,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1q7u0jw/review_lương_cmc_global/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-09T01:02:27+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1q81wok</id>
-    <title>Review công việc, môi trường, lương lậu ở One Mount</title>
-    <updated>2026-01-09T07:26:59+00:00</updated>
-    <author>
-      <name>/u/ActionHistorical2163</name>
-      <uri>https://old.reddit.com/user/ActionHistorical2163</uri>
-    </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ActionHistorical2163"&gt; /u/ActionHistorical2163 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q81wok/review_công_việc_môi_trường_lương_lậu_ở_one_mount/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q81wok/review_công_việc_môi_trường_lương_lậu_ở_one_mount/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q81wok/review_công_việc_môi_trường_lương_lậu_ở_one_mount/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-09T07:26:59+00:00</published>
   </entry>
   <entry>
     <id>t3_1q7wcpq</id>
@@ -138,19 +125,6 @@
     <published>2026-01-09T08:21:28+00:00</published>
   </entry>
   <entry>
-    <id>t3_1q81hpe</id>
-    <title>Xây nhà trọn gói, chìa khoá trao tay</title>
-    <updated>2026-01-09T07:01:38+00:00</updated>
-    <author>
-      <name>/u/Plus-Menu2094</name>
-      <uri>https://old.reddit.com/user/Plus-Menu2094</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mấy bác, dự là e chuẩn bị xây nhà ở quê, nhà e 90m2, đổ 2 tấm, kinh phí tầm 1 tỉ 2. Mà có hỏi thầu thì ngta báo giá ước tính đã 1 tỉ 4, tỉ 5. Chưa tính phát sinh + thuế này kia. E đang định tham khảo cái nhà thầu của viettel để so sánh thử, mấy bác làm bên xây dựng này có lưu ý gì ko tư vấn giúp e với. Với giá đó thì mấy bác nghĩ có xây đc 2 tấm k, phát sinh tầm 150tr đổ lại (tổng tỉ 350) thì e vẫn lo đc&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Plus-Menu2094"&gt; /u/Plus-Menu2094 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q81hpe/xây_nhà_trọn_gói_chìa_khoá_trao_tay/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q81hpe/xây_nhà_trọn_gói_chìa_khoá_trao_tay/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q81hpe/xây_nhà_trọn_gói_chìa_khoá_trao_tay/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-09T07:01:38+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1q7v72x</id>
     <title>2025 của mọi người thế nào ?</title>
     <updated>2026-01-09T01:53:50+00:00</updated>
@@ -190,6 +164,32 @@
     <published>2026-01-09T00:03:52+00:00</published>
   </entry>
   <entry>
+    <id>t3_1q84lke</id>
+    <title>Mức lương tb Merchandiser</title>
+    <updated>2026-01-09T10:14:12+00:00</updated>
+    <author>
+      <name>/u/Brilliant_Truth_1332</name>
+      <uri>https://old.reddit.com/user/Brilliant_Truth_1332</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hello mọi người, em sinh năm 2k2 mới ra và đi làm được hơn 1 năm. Lúc đầu e học logistic nhưng chuyển hướng làm merchandiser ngành may mặc ở khu công nghiệp. Lương em hiện tại tầm 14tr. Mức lương e vậy là ok chưa ạ, không biết ở ngoài kia ngành này range lương ntn mn cho e tham khảo với nhe. Em cảm ơn!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Brilliant_Truth_1332"&gt; /u/Brilliant_Truth_1332 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q84lke/mức_lương_tb_merchandiser/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q84lke/mức_lương_tb_merchandiser/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q84lke/mức_lương_tb_merchandiser/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-09T10:14:12+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1q81hpe</id>
+    <title>Xây nhà trọn gói, chìa khoá trao tay</title>
+    <updated>2026-01-09T07:01:38+00:00</updated>
+    <author>
+      <name>/u/Plus-Menu2094</name>
+      <uri>https://old.reddit.com/user/Plus-Menu2094</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mấy bác, dự là e chuẩn bị xây nhà ở quê, nhà e 90m2, đổ 2 tấm, kinh phí tầm 1 tỉ 2. Mà có hỏi thầu thì ngta báo giá ước tính đã 1 tỉ 4, tỉ 5. Chưa tính phát sinh + thuế này kia. E đang định tham khảo cái nhà thầu của viettel để so sánh thử, mấy bác làm bên xây dựng này có lưu ý gì ko tư vấn giúp e với. Với giá đó thì mấy bác nghĩ có xây đc 2 tấm k, phát sinh tầm 150tr đổ lại (tổng tỉ 350) thì e vẫn lo đc&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Plus-Menu2094"&gt; /u/Plus-Menu2094 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q81hpe/xây_nhà_trọn_gói_chìa_khoá_trao_tay/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q81hpe/xây_nhà_trọn_gói_chìa_khoá_trao_tay/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q81hpe/xây_nhà_trọn_gói_chìa_khoá_trao_tay/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-09T07:01:38+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1q809yo</id>
     <title>cách trị bệnh simp gái cho người thân</title>
     <updated>2026-01-09T05:53:56+00:00</updated>
@@ -216,19 +216,6 @@
     <published>2026-01-08T19:25:02+00:00</published>
   </entry>
   <entry>
-    <id>t3_1q7zf5v</id>
-    <title>Các bác update kiến thức từ đâu?</title>
-    <updated>2026-01-09T05:09:17+00:00</updated>
-    <author>
-      <name>/u/Delicious_Ice_6288</name>
-      <uri>https://old.reddit.com/user/Delicious_Ice_6288</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em thấy bạn em hay xem video trên youtube các kiến thức kiểu tâm lý học, triết học, lịch sử,… nhưng em thấy mấy nguồn kiểu từ youtube thì ko uy tín lắm, nhưng bảo đọc nguyên cuốn sách thì đúng là hơi khó với em. Còn các bác thì ntn? Có kênh hay blog hay sách gì các bác thấy hay, có thể chia sẻ dc ko ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Delicious_Ice_6288"&gt; /u/Delicious_Ice_6288 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q7zf5v/các_bác_update_kiến_thức_từ_đâu/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q7zf5v/các_bác_update_kiến_thức_từ_đâu/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q7zf5v/các_bác_update_kiến_thức_từ_đâu/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-09T05:09:17+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1q7yqod</id>
     <title>Cố làm nốt tháng này thui nhỉ các fen</title>
     <updated>2026-01-09T04:35:56+00:00</updated>
@@ -242,17 +229,17 @@
     <published>2026-01-09T04:35:56+00:00</published>
   </entry>
   <entry>
-    <id>t3_1q829fn</id>
-    <title>Lên MXH nói xấu em gái ruột học cấp 2</title>
-    <updated>2026-01-09T07:49:12+00:00</updated>
+    <id>t3_1q7zf5v</id>
+    <title>Các bác update kiến thức từ đâu?</title>
+    <updated>2026-01-09T05:09:17+00:00</updated>
     <author>
-      <name>/u/Sweet-Matter-9523</name>
-      <uri>https://old.reddit.com/user/Sweet-Matter-9523</uri>
+      <name>/u/Delicious_Ice_6288</name>
+      <uri>https://old.reddit.com/user/Delicious_Ice_6288</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Con chị hơn con em 10t lên mxh nói xấu em ruột của mình, và tui chính là con chị đó đây, tui uất nghẹn quá mà khi tui nói với mẹ tui thì mẹ bảo &amp;quot; em nó còn nhỏ&amp;quot;, tui cạn khô hết lời rồi&lt;/p&gt; &lt;p&gt;Bối cảnh là tui mới đẻ em bé hơn 1 tháng, bị cảm nên hơi mệt trong người, ba mẹ ruột có công việc gấp nên cả 2 phải về quê 1 tuần. Ở nhà còn 2 chị em thôi, tối thì chồng tui sẽ ở cùng còn ban ngày đi làm. Và ở với bé em ối dồi ôi cuộc đời luôn.&lt;/p&gt; &lt;p&gt;Ở nhà trong hoàn cảnh vậy mà con bé chả hề động tay vào việc nha. Chị nhắc kệ chị ta đây không làm, cơ bản vài việc thôi như nấu bữa cơm, rửa chén, cho gà chó ăn, nhà 2 ngày lau 1 lần, đồ 2 ngày gom đi giặt cũng có máy giặt.&lt;/p&gt; &lt;p&gt;Xong đến lúc tui cũng phải tự tay đi làm, có khi tui mang cái roi lên quất vào tường thì mới xuống rửa đc cái bát. Thứ 7, cn ở nhà chỉ chơi không thôi.&lt;/p&gt; &lt;p&gt;Mà từ bé đến lớn 2 đứa cũng thương nhau lắm . Chả hiểu 4 năm đi học đh xa nhà về cái nó đổi cm nết hay sao ấy, tui cũng hay cho nó tiền mua đồ ăn vặt, cũng hay quan tâm hỏi han. Vậy mà có hôm cháu khóc đến 12h đêm cũng không hề sang ngó lấy 1 lần.&lt;/p&gt; &lt;p&gt;Chị nó vừa trông cháu vừa nấu vội bữa ăn nó còn bảo &amp;quot; chị ơi đừng luộc bí nữa em ngán lắm rồi, nấu canh bí đi chị&amp;quot;. Má lạy luôn&lt;/p&gt; &lt;p&gt;Nhớ đến lúc bầu to 9 tháng, bảo nó lau nhà từ sớm mà đến lúc trời tối thui rồi, nhà chưa lau. Tui mới bảo con bé &amp;quot; thôi m đi tắm đi, t lau nhà cho&amp;quot; vậy mà tui lau nhà xong phát hiện nó nằm trong phòng bấm đt cười hahah hố hố chứ cũng chưa có đi tắm :)))&lt;/p&gt; &lt;p&gt;Em tui nó có được bình thường không vậy? Do tuổi dậy thì hay bản chất nó vậy trời&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Sweet-Matter-9523"&gt; /u/Sweet-Matter-9523 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q829fn/lên_mxh_nói_xấu_em_gái_ruột_học_cấp_2/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q829fn/lên_mxh_nói_xấu_em_gái_ruột_học_cấp_2/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q829fn/lên_mxh_nói_xấu_em_gái_ruột_học_cấp_2/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em thấy bạn em hay xem video trên youtube các kiến thức kiểu tâm lý học, triết học, lịch sử,… nhưng em thấy mấy nguồn kiểu từ youtube thì ko uy tín lắm, nhưng bảo đọc nguyên cuốn sách thì đúng là hơi khó với em. Còn các bác thì ntn? Có kênh hay blog hay sách gì các bác thấy hay, có thể chia sẻ dc ko ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Delicious_Ice_6288"&gt; /u/Delicious_Ice_6288 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q7zf5v/các_bác_update_kiến_thức_từ_đâu/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q7zf5v/các_bác_update_kiến_thức_từ_đâu/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q7zf5v/các_bác_update_kiến_thức_từ_đâu/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-09T07:49:12+00:00</published>
+    <published>2026-01-09T05:09:17+00:00</published>
   </entry>
   <entry>
     <id>t3_1q80rlw</id>
@@ -268,19 +255,6 @@
     <published>2026-01-09T06:20:49+00:00</published>
   </entry>
   <entry>
-    <id>t3_1q83st1</id>
-    <title>Bạn đến thăm nhưng nhà mình nghèo</title>
-    <updated>2026-01-09T09:24:20+00:00</updated>
-    <author>
-      <name>/u/cantien</name>
-      <uri>https://old.reddit.com/user/cantien</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em là hs cuối cấp tết này bạn em muốn qua nhà em chơi nhưng em không muốn tí nào, ba mẹ bạn em thì giàu cất nhà to còn bà mẹ em làm nông nhà nhỏ toàn gạch với xi măng lại thêm đứa em trong nhà bày bừa nên rất tự ti không muốn chúng nó tới. Trong lớp em không giỏi cũng không thân với các bạn trong lớp, kiểu luôn cô đơn ý ạ. Dù gì thì tụi nó cũng biết nhà em nghèo rồi nhưng em vẫn không muốn tụi nó thấy rồi bình phẩm cho mấy đứa khác nghe dù tụi nó rất tốt em nghĩ nó sẽ không nói xấu chuyện em nghèo nhưng em vẫn thấy tự ti, xấu hổ. Giờ em nên làm như nào ạ:((&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/cantien"&gt; /u/cantien &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q83st1/bạn_đến_thăm_nhưng_nhà_mình_nghèo/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q83st1/bạn_đến_thăm_nhưng_nhà_mình_nghèo/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q83st1/bạn_đến_thăm_nhưng_nhà_mình_nghèo/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-09T09:24:20+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1q81kx3</id>
     <title>Cần lời khuyên, chỉ dẫn</title>
     <updated>2026-01-09T07:07:09+00:00</updated>
@@ -294,6 +268,19 @@
     <published>2026-01-09T07:07:09+00:00</published>
   </entry>
   <entry>
+    <id>t3_1q829fn</id>
+    <title>Lên MXH nói xấu em gái ruột học cấp 2</title>
+    <updated>2026-01-09T07:49:12+00:00</updated>
+    <author>
+      <name>/u/Sweet-Matter-9523</name>
+      <uri>https://old.reddit.com/user/Sweet-Matter-9523</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Con chị hơn con em 10t lên mxh nói xấu em ruột của mình, và tui chính là con chị đó đây, tui uất nghẹn quá mà khi tui nói với mẹ tui thì mẹ bảo &amp;quot; em nó còn nhỏ&amp;quot;, tui cạn khô hết lời rồi&lt;/p&gt; &lt;p&gt;Bối cảnh là tui mới đẻ em bé hơn 1 tháng, bị cảm nên hơi mệt trong người, ba mẹ ruột có công việc gấp nên cả 2 phải về quê 1 tuần. Ở nhà còn 2 chị em thôi, tối thì chồng tui sẽ ở cùng còn ban ngày đi làm. Và ở với bé em ối dồi ôi cuộc đời luôn.&lt;/p&gt; &lt;p&gt;Ở nhà trong hoàn cảnh vậy mà con bé chả hề động tay vào việc nha. Chị nhắc kệ chị ta đây không làm, cơ bản vài việc thôi như nấu bữa cơm, rửa chén, cho gà chó ăn, nhà 2 ngày lau 1 lần, đồ 2 ngày gom đi giặt cũng có máy giặt.&lt;/p&gt; &lt;p&gt;Xong đến lúc tui cũng phải tự tay đi làm, có khi tui mang cái roi lên quất vào tường thì mới xuống rửa đc cái bát. Thứ 7, cn ở nhà chỉ chơi không thôi.&lt;/p&gt; &lt;p&gt;Mà từ bé đến lớn 2 đứa cũng thương nhau lắm . Chả hiểu 4 năm đi học đh xa nhà về cái nó đổi cm nết hay sao ấy, tui cũng hay cho nó tiền mua đồ ăn vặt, cũng hay quan tâm hỏi han. Vậy mà có hôm cháu khóc đến 12h đêm cũng không hề sang ngó lấy 1 lần.&lt;/p&gt; &lt;p&gt;Chị nó vừa trông cháu vừa nấu vội bữa ăn nó còn bảo &amp;quot; chị ơi đừng luộc bí nữa em ngán lắm rồi, nấu canh bí đi chị&amp;quot;. Má lạy luôn&lt;/p&gt; &lt;p&gt;Nhớ đến lúc bầu to 9 tháng, bảo nó lau nhà từ sớm mà đến lúc trời tối thui rồi, nhà chưa lau. Tui mới bảo con bé &amp;quot; thôi m đi tắm đi, t lau nhà cho&amp;quot; vậy mà tui lau nhà xong phát hiện nó nằm trong phòng bấm đt cười hahah hố hố chứ cũng chưa có đi tắm :)))&lt;/p&gt; &lt;p&gt;Em tui nó có được bình thường không vậy? Do tuổi dậy thì hay bản chất nó vậy trời&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Sweet-Matter-9523"&gt; /u/Sweet-Matter-9523 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q829fn/lên_mxh_nói_xấu_em_gái_ruột_học_cấp_2/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q829fn/lên_mxh_nói_xấu_em_gái_ruột_học_cấp_2/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q829fn/lên_mxh_nói_xấu_em_gái_ruột_học_cấp_2/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-09T07:49:12+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1q7njxq</id>
     <title>Cảm ơn mn rất nhiều ạ</title>
     <updated>2026-01-08T20:48:49+00:00</updated>
@@ -305,6 +292,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1q7njxq/cảm_ơn_mn_rất_nhiều_ạ/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-08T20:48:49+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1q83st1</id>
+    <title>Bạn đến thăm nhưng nhà mình nghèo</title>
+    <updated>2026-01-09T09:24:20+00:00</updated>
+    <author>
+      <name>/u/cantien</name>
+      <uri>https://old.reddit.com/user/cantien</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em là hs cuối cấp tết này bạn em muốn qua nhà em chơi nhưng em không muốn tí nào, ba mẹ bạn em thì giàu cất nhà to còn bà mẹ em làm nông nhà nhỏ toàn gạch với xi măng lại thêm đứa em trong nhà bày bừa nên rất tự ti không muốn chúng nó tới. Trong lớp em không giỏi cũng không thân với các bạn trong lớp, kiểu luôn cô đơn ý ạ. Dù gì thì tụi nó cũng biết nhà em nghèo rồi nhưng em vẫn không muốn tụi nó thấy rồi bình phẩm cho mấy đứa khác nghe dù tụi nó rất tốt em nghĩ nó sẽ không nói xấu chuyện em nghèo nhưng em vẫn thấy tự ti, xấu hổ. Giờ em nên làm như nào ạ:((&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/cantien"&gt; /u/cantien &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q83st1/bạn_đến_thăm_nhưng_nhà_mình_nghèo/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q83st1/bạn_đến_thăm_nhưng_nhà_mình_nghèo/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q83st1/bạn_đến_thăm_nhưng_nhà_mình_nghèo/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-09T09:24:20+00:00</published>
   </entry>
   <entry>
     <id>t3_1q8345r</id>
