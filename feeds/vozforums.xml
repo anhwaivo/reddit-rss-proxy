@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-10T20:21:06+00:00</updated>
+  <updated>2026-01-10T20:43:12+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -32,6 +32,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1q8uv19/mẹ_chồng_em_chồng_hay_vòi_tiền_thì_làm_như_nào/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-10T04:43:42+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1q997pm</id>
+    <title>Máy tính hệ tam phân</title>
+    <updated>2026-01-10T16:59:07+00:00</updated>
+    <author>
+      <name>/u/VividNeedleworker564</name>
+      <uri>https://old.reddit.com/user/VividNeedleworker564</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1q997pm/máy_tính_hệ_tam_phân/"&gt; &lt;img alt="Máy tính hệ tam phân" src="https://external-preview.redd.it/KER48a8Os_lWEZ7BzWpXeRZigHLXEbHiMz2KXTXmZl4.jpeg?width=320&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=591fe83be8d93d2d73cdabdbb64596f7e975bf9a" title="Máy tính hệ tam phân" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;nay cuối tuần lướt youtube, xem thấy video này có nói về máy tính hệ tam phân setun của liên xô.us khá thú vị, thay vì dựa theo hệ nhị phân 0 với 1 thông thường thì ta có ( -1, 0, +1 ) hoặc ( 0, 1, 2 ) trên lý thuyết thì tối ưu, nhẹ về phần cứng hơn 😗 nhưng bởi vì liên xô thua phương tây về công nghệ, nên mấy cái này cũng bị bỏ xó giống như liệu pháp phage bên y học ( liên xô dùng cái này thay kháng sinh) &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/VividNeedleworker564"&gt; /u/VividNeedleworker564 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://youtu.be/sWKyrAXxzGA?si=6MOzawW4Lql1a4Wc"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q997pm/máy_tính_hệ_tam_phân/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q997pm/máy_tính_hệ_tam_phân/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-10T16:59:07+00:00</published>
   </entry>
   <entry>
     <id>t3_1q907f3</id>
@@ -201,19 +214,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1q95gwk/quá_hạn_rút_bhtn_mất_luôn_số_tiền_đã_đóng/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-10T14:29:36+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1q997pm</id>
-    <title>Máy tính hệ tam phân</title>
-    <updated>2026-01-10T16:59:07+00:00</updated>
-    <author>
-      <name>/u/VividNeedleworker564</name>
-      <uri>https://old.reddit.com/user/VividNeedleworker564</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1q997pm/máy_tính_hệ_tam_phân/"&gt; &lt;img alt="Máy tính hệ tam phân" src="https://external-preview.redd.it/KER48a8Os_lWEZ7BzWpXeRZigHLXEbHiMz2KXTXmZl4.jpeg?width=320&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=591fe83be8d93d2d73cdabdbb64596f7e975bf9a" title="Máy tính hệ tam phân" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;nay cuối tuần lướt youtube, xem thấy video này có nói về máy tính hệ tam phân setun của liên xô.us khá thú vị, thay vì dựa theo hệ nhị phân 0 với 1 thông thường thì ta có ( -1, 0, +1 ) hoặc ( 0, 1, 2 ) trên lý thuyết thì tối ưu, nhẹ về phần cứng hơn 😗 nhưng bởi vì liên xô thua phương tây về công nghệ, nên mấy cái này cũng bị bỏ xó giống như liệu pháp phage bên y học ( liên xô dùng cái này thay kháng sinh) &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/VividNeedleworker564"&gt; /u/VividNeedleworker564 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://youtu.be/sWKyrAXxzGA?si=6MOzawW4Lql1a4Wc"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q997pm/máy_tính_hệ_tam_phân/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q997pm/máy_tính_hệ_tam_phân/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-10T16:59:07+00:00</published>
   </entry>
   <entry>
     <id>t3_1q9aopv</id>
