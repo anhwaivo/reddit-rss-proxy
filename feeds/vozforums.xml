@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-10T08:49:03+00:00</updated>
+  <updated>2026-01-10T09:19:35+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -47,19 +47,6 @@
     <published>2026-01-09T07:07:09+00:00</published>
   </entry>
   <entry>
-    <id>t3_1q8tv44</id>
-    <title>Mỗi lần Việt Nam thắng là hôm sau phải đi mua cờ mới...thôi kệ đi, VIỆT NAM VÔ ĐỊCH</title>
-    <updated>2026-01-10T03:54:36+00:00</updated>
-    <author>
-      <name>/u/RiskIcy4065</name>
-      <uri>https://old.reddit.com/user/RiskIcy4065</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="https://reddit.com/link/1q8tv44/video/3hs35uf13gcg1/player"&gt;https://reddit.com/link/1q8tv44/video/3hs35uf13gcg1/player&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/RiskIcy4065"&gt; /u/RiskIcy4065 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q8tv44/mỗi_lần_việt_nam_thắng_là_hôm_sau_phải_đi_mua_cờ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q8tv44/mỗi_lần_việt_nam_thắng_là_hôm_sau_phải_đi_mua_cờ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q8tv44/mỗi_lần_việt_nam_thắng_là_hôm_sau_phải_đi_mua_cờ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-10T03:54:36+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1q8qdkf</id>
     <title>mình cần xin tư vấn các cách tăng traffic cho website nội thất</title>
     <updated>2026-01-10T01:13:36+00:00</updated>
@@ -86,19 +73,6 @@
     <published>2026-01-10T01:24:54+00:00</published>
   </entry>
   <entry>
-    <id>t3_1q88nax</id>
-    <title>Lương BA</title>
-    <updated>2026-01-09T13:46:06+00:00</updated>
-    <author>
-      <name>/u/Abject_Creme_79</name>
-      <uri>https://old.reddit.com/user/Abject_Creme_79</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mn cho e tham khảo lương BA bậc 1.1 ở MB được khoảng bn tiền thế ạ. Mai đi phỏng vấn rồi mà không biết range lương để deal&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Abject_Creme_79"&gt; /u/Abject_Creme_79 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q88nax/lương_ba/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q88nax/lương_ba/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q88nax/lương_ba/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-09T13:46:06+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1q87pwi</id>
     <title>Bình thường hẹn hò thì mọi người sẽ làm gì</title>
     <updated>2026-01-09T13:04:20+00:00</updated>
@@ -110,6 +84,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1q87pwi/bình_thường_hẹn_hò_thì_mọi_người_sẽ_làm_gì/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-09T13:04:20+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1q88nax</id>
+    <title>Lương BA</title>
+    <updated>2026-01-09T13:46:06+00:00</updated>
+    <author>
+      <name>/u/Abject_Creme_79</name>
+      <uri>https://old.reddit.com/user/Abject_Creme_79</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mn cho e tham khảo lương BA bậc 1.1 ở MB được khoảng bn tiền thế ạ. Mai đi phỏng vấn rồi mà không biết range lương để deal&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Abject_Creme_79"&gt; /u/Abject_Creme_79 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q88nax/lương_ba/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q88nax/lương_ba/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q88nax/lương_ba/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-09T13:46:06+00:00</published>
   </entry>
   <entry>
     <id>t3_1q8ck88</id>
@@ -266,6 +253,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1q8d7cd/nhiều_người_đến_năm_5060t_mới_giàu_mà_sao_ở_vn_cứ/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-09T16:41:13+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1q8zkfp</id>
+    <title>Sách đỏ vào nhà</title>
+    <updated>2026-01-10T09:11:25+00:00</updated>
+    <author>
+      <name>/u/Hopeful-Manner6616</name>
+      <uri>https://old.reddit.com/user/Hopeful-Manner6616</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;20 năm trước bọ ngựa nhảy nhót khắp nơi, mùa hè thì đi bắt cánh cam về chơi. Giờ tìm lòi con mắt không có con cánh cam nào hết, còn bọ ngựa nó dô sách đỏ luôn rồi.&lt;br /&gt; Tự dưng đang ngồi làm việc có con bọ ngựa con nó nhảy vào nhà. Giờ xử lí sao đây nhỉ mọi người? Sợ thả ra chó mèo vờn nó ngủm quá. Nhà có chó, có mèo.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Hopeful-Manner6616"&gt; /u/Hopeful-Manner6616 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q8zkfp/sách_đỏ_vào_nhà/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q8zkfp/sách_đỏ_vào_nhà/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q8zkfp/sách_đỏ_vào_nhà/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-10T09:11:25+00:00</published>
   </entry>
   <entry>
     <id>t3_1q8w026</id>
