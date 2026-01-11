@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-11T08:25:56+00:00</updated>
+  <updated>2026-01-11T08:49:04+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -21,17 +21,17 @@
     <published>2026-01-10T14:29:36+00:00</published>
   </entry>
   <entry>
-    <id>t3_1q9d807</id>
-    <title>Du học sau đại học</title>
-    <updated>2026-01-10T19:32:12+00:00</updated>
+    <id>t3_1q9s7fe</id>
+    <title>Chỉ tay có thật sự chính xác không ?</title>
+    <updated>2026-01-11T06:32:04+00:00</updated>
     <author>
-      <name>/u/Temporary-Square-964</name>
-      <uri>https://old.reddit.com/user/Temporary-Square-964</uri>
+      <name>/u/prodbysilchains</name>
+      <uri>https://old.reddit.com/user/prodbysilchains</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hiện tại em đang là sinh viên năm cuối khối ngành khoa học ở Hà Nội, năm nay là em tốt nghiệp mà GPA em tính ra đến lúc đó thì chỉ lên được 3.1x chứ k được 3.2 thì cho em hỏi cơ hội đi học Masters ở nước ngoài sẽ như thế nào ạ? Em cũng chỉ tính đi quanh châu Á như TQ, Đài, Nhật hoặc Hàn thôi ạ, năm rồi em thi chứng chỉ tiếng Anh cũng dc 8.0 IELTS thì có nhiều cơ hội hơn k ạ? Em cảm ơn các bác nhiều!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Temporary-Square-964"&gt; /u/Temporary-Square-964 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q9d807/du_học_sau_đại_học/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q9d807/du_học_sau_đại_học/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q9d807/du_học_sau_đại_học/"/>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/prodbysilchains"&gt; /u/prodbysilchains &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q9s7fe/chỉ_tay_có_thật_sự_chính_xác_không/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q9s7fe/chỉ_tay_có_thật_sự_chính_xác_không/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q9s7fe/chỉ_tay_có_thật_sự_chính_xác_không/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-10T19:32:12+00:00</published>
+    <published>2026-01-11T06:32:04+00:00</published>
   </entry>
   <entry>
     <id>t3_1q8w026</id>
@@ -58,19 +58,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1q9aopv/động_lực_nào_để_bạn_tiếp_tục_yêu_đơn_phương/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-10T17:56:01+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1q9s7fe</id>
-    <title>Chỉ tay có thật sự chính xác không ?</title>
-    <updated>2026-01-11T06:32:04+00:00</updated>
-    <author>
-      <name>/u/prodbysilchains</name>
-      <uri>https://old.reddit.com/user/prodbysilchains</uri>
-    </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/prodbysilchains"&gt; /u/prodbysilchains &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q9s7fe/chỉ_tay_có_thật_sự_chính_xác_không/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q9s7fe/chỉ_tay_có_thật_sự_chính_xác_không/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q9s7fe/chỉ_tay_có_thật_sự_chính_xác_không/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-11T06:32:04+00:00</published>
   </entry>
   <entry>
     <id>t3_1q97mx7</id>
@@ -112,19 +99,6 @@
     <published>2026-01-11T04:20:08+00:00</published>
   </entry>
   <entry>
-    <id>t3_1q98dag</id>
-    <title>Đề phòng quá mức trong vô thức</title>
-    <updated>2026-01-10T16:26:07+00:00</updated>
-    <author>
-      <name>/u/Evening_Fun_1041</name>
-      <uri>https://old.reddit.com/user/Evening_Fun_1041</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi các bác, ở đây có ai từng bởi trauma quá khứ mà đề phòng hoặc cực đoan 1 cách vô thức với 1 vài điều nhất định chưa?&lt;/p&gt; &lt;p&gt;Em từng bị ng nhà làm giả bằng chứng và suýt ☠️ do dính líu đến kiện tụng trong trách nhiệm cũng như thừa kế, 1 phần do em đi làm từ c3 và có duyên lên sóng truyền hình vài lần nên có thu nhập khá ổn từ sớm thành ra ng nhà đanh ghét, và nội hàm cũng có nhiều xung đột từ trc, tới mức từng cài định vị, ghi âm hay thuê ng theo dõi.&lt;/p&gt; &lt;p&gt;Giờ em đang cùng lúc dùng 2 thiết bị và ko show quá nhiều ra ngoài, dù cho có thân thiết.&lt;/p&gt; &lt;p&gt;Nhưng lâu dần em thấy việc nghi ngại trong vô thức ntn thật sự k ổn, như khi em có tiệc đi bar pub hay du lịch thì thường chọn book xe hoặc ngắt hết liên lạc, sang hẳn máy 2 vì quá khứ từng bị bám đuôi, hay khi về quê ở, ngay cả khi ở trong phòng cũng phải check ít nhiều xung quanh thậm chí chuyển sang nhà bạn ngủ khi căng thẳng lên cao. &lt;/p&gt; &lt;p&gt;Những sự việc này đang kìm hãm bản thân em rất nhiều, nhưng em k bt nên xử sự sao khi đã sống v gần 12 năm (em 22 tuổi).&lt;/p&gt; &lt;p&gt;V nên mong các bác cho em ít nhiều góc nhìn để sớm thay đổi.&lt;/p&gt; &lt;p&gt;Cảm ơn các bác vì đã đọc.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Evening_Fun_1041"&gt; /u/Evening_Fun_1041 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q98dag/đề_phòng_quá_mức_trong_vô_thức/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q98dag/đề_phòng_quá_mức_trong_vô_thức/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q98dag/đề_phòng_quá_mức_trong_vô_thức/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-10T16:26:07+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1q9pwsa</id>
     <title>Top seller bán điện thoại nd china uy tín</title>
     <updated>2026-01-11T04:32:58+00:00</updated>
@@ -151,6 +125,19 @@
     <published>2026-01-10T16:40:45+00:00</published>
   </entry>
   <entry>
+    <id>t3_1q98dag</id>
+    <title>Đề phòng quá mức trong vô thức</title>
+    <updated>2026-01-10T16:26:07+00:00</updated>
+    <author>
+      <name>/u/Evening_Fun_1041</name>
+      <uri>https://old.reddit.com/user/Evening_Fun_1041</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi các bác, ở đây có ai từng bởi trauma quá khứ mà đề phòng hoặc cực đoan 1 cách vô thức với 1 vài điều nhất định chưa?&lt;/p&gt; &lt;p&gt;Em từng bị ng nhà làm giả bằng chứng và suýt ☠️ do dính líu đến kiện tụng trong trách nhiệm cũng như thừa kế, 1 phần do em đi làm từ c3 và có duyên lên sóng truyền hình vài lần nên có thu nhập khá ổn từ sớm thành ra ng nhà đanh ghét, và nội hàm cũng có nhiều xung đột từ trc, tới mức từng cài định vị, ghi âm hay thuê ng theo dõi.&lt;/p&gt; &lt;p&gt;Giờ em đang cùng lúc dùng 2 thiết bị và ko show quá nhiều ra ngoài, dù cho có thân thiết.&lt;/p&gt; &lt;p&gt;Nhưng lâu dần em thấy việc nghi ngại trong vô thức ntn thật sự k ổn, như khi em có tiệc đi bar pub hay du lịch thì thường chọn book xe hoặc ngắt hết liên lạc, sang hẳn máy 2 vì quá khứ từng bị bám đuôi, hay khi về quê ở, ngay cả khi ở trong phòng cũng phải check ít nhiều xung quanh thậm chí chuyển sang nhà bạn ngủ khi căng thẳng lên cao. &lt;/p&gt; &lt;p&gt;Những sự việc này đang kìm hãm bản thân em rất nhiều, nhưng em k bt nên xử sự sao khi đã sống v gần 12 năm (em 22 tuổi).&lt;/p&gt; &lt;p&gt;V nên mong các bác cho em ít nhiều góc nhìn để sớm thay đổi.&lt;/p&gt; &lt;p&gt;Cảm ơn các bác vì đã đọc.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Evening_Fun_1041"&gt; /u/Evening_Fun_1041 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q98dag/đề_phòng_quá_mức_trong_vô_thức/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q98dag/đề_phòng_quá_mức_trong_vô_thức/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q98dag/đề_phòng_quá_mức_trong_vô_thức/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-10T16:26:07+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1q8yclc</id>
     <title>em thắc mắc là trung bình mn phải trải qua bao nhiêu mối tình trước khi gặp vợ/ chồng của mình nhỉ?</title>
     <updated>2026-01-10T07:56:22+00:00</updated>
@@ -164,19 +151,6 @@
     <published>2026-01-10T07:56:22+00:00</published>
   </entry>
   <entry>
-    <id>t3_1q936f9</id>
-    <title>Khủng hoảng hiện sinh. Suy nghĩ về cái chết , sợ chết..</title>
-    <updated>2026-01-10T12:45:46+00:00</updated>
-    <author>
-      <name>/u/No_Job1131</name>
-      <uri>https://old.reddit.com/user/No_Job1131</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình cũng có tí tuổi, từ nhỏ hay ám ảnh cái chet, thấy như ng ta tutu, thực sự k0 nghĩ ra. Thấy lo sợ về một ngày nào đó mình sẽ chếc, sẽ k0 còn biết gì nữa, mà mọi việc nó sẽ còn tiếp diễn mãi..nhiều lúc là sợ đến thắt tim lại, con đông, mà có đứa lớn rồi nhưng cảm giác vẫn như khi còn nhỏ. Cái cảm giá sợ hãi đó, thật khó tả, thật ghê sợ còn hơn cả gặp ma hay gì gì đi nữa...&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/No_Job1131"&gt; /u/No_Job1131 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q936f9/khủng_hoảng_hiện_sinh_suy_nghĩ_về_cái_chết_sợ_chết/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q936f9/khủng_hoảng_hiện_sinh_suy_nghĩ_về_cái_chết_sợ_chết/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q936f9/khủng_hoảng_hiện_sinh_suy_nghĩ_về_cái_chết_sợ_chết/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-10T12:45:46+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1q9s2fh</id>
     <title>Nhảm Nhí Cuối Tuần: Nam mà chơi toàn tướng nữ AP, không thích chơi đực rựa, thích chơi support, không muốn carry, thích làm nền,…có bình thường không nhỉ?</title>
     <updated>2026-01-11T06:24:23+00:00</updated>
@@ -188,6 +162,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1q9s2fh/nhảm_nhí_cuối_tuần_nam_mà_chơi_toàn_tướng_nữ_ap/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-11T06:24:23+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1q936f9</id>
+    <title>Khủng hoảng hiện sinh. Suy nghĩ về cái chết , sợ chết..</title>
+    <updated>2026-01-10T12:45:46+00:00</updated>
+    <author>
+      <name>/u/No_Job1131</name>
+      <uri>https://old.reddit.com/user/No_Job1131</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình cũng có tí tuổi, từ nhỏ hay ám ảnh cái chet, thấy như ng ta tutu, thực sự k0 nghĩ ra. Thấy lo sợ về một ngày nào đó mình sẽ chếc, sẽ k0 còn biết gì nữa, mà mọi việc nó sẽ còn tiếp diễn mãi..nhiều lúc là sợ đến thắt tim lại, con đông, mà có đứa lớn rồi nhưng cảm giác vẫn như khi còn nhỏ. Cái cảm giá sợ hãi đó, thật khó tả, thật ghê sợ còn hơn cả gặp ma hay gì gì đi nữa...&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/No_Job1131"&gt; /u/No_Job1131 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q936f9/khủng_hoảng_hiện_sinh_suy_nghĩ_về_cái_chết_sợ_chết/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q936f9/khủng_hoảng_hiện_sinh_suy_nghĩ_về_cái_chết_sợ_chết/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q936f9/khủng_hoảng_hiện_sinh_suy_nghĩ_về_cái_chết_sợ_chết/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-10T12:45:46+00:00</published>
   </entry>
   <entry>
     <id>t3_1q9ssdc</id>
@@ -229,17 +216,17 @@
     <published>2026-01-11T08:00:27+00:00</published>
   </entry>
   <entry>
-    <id>t3_1q9u3g8</id>
-    <title>Tư vấn tình cảm</title>
-    <updated>2026-01-11T08:24:15+00:00</updated>
+    <id>t3_1q9uhdj</id>
+    <title>E học lớp 11 chưa có định hướng xét tuyển đại học, nếu ko chọn thi ielts thì rủi ro ntn và e nên tập trung j TT</title>
+    <updated>2026-01-11T08:48:18+00:00</updated>
     <author>
-      <name>/u/No-Battle504</name>
-      <uri>https://old.reddit.com/user/No-Battle504</uri>
+      <name>/u/OkAttorney2094</name>
+      <uri>https://old.reddit.com/user/OkAttorney2094</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình M28 dạo mấy tháng gần đây có quen một bạn nữ trạc tuổi. Do có nhiều sở thích giống nhau nên chỉ khoảng một tuần sau, bọn mình đã dành khá nhiều thời gian cho nhau. Mình vẫn khó tin là như tìm được phiên bản nữ của chính mình vậy, ngay cả những thói quen kỳ quặc hay kiêng kị của mình thì bạn ấy cũng rất hiểu. Bạn ấy là nữ và theo lời kể thì mình là người đầu tiên khác giới bạn ấy quen kiểu muốn tìm hiểu, nên bạn ấy rất chủ động. Nếu không đi đâu đó cùng thì bạn ấy có thể call, chơi game hay coi phim, với mình cả 3–4 tiếng liền, trong khi mấy bro của mình còn không dành nhiều thời gian cho mình như thế. Vì vậy mình có chút thắc mắc muốn hỏi mọi người, đặc biệt là các bạn nữ: mình có nên xúc tiến mối quan hệ này không? Đây có phải là “đèn xanh” không? Thực sự mình rất có thiện cảm với bạn ấy, nhưng vì mình cũng là trai tân nên chưa biết phải làm gì.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/No-Battle504"&gt; /u/No-Battle504 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q9u3g8/tư_vấn_tình_cảm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q9u3g8/tư_vấn_tình_cảm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q9u3g8/tư_vấn_tình_cảm/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;e phân vân A1 A0, hóa e ổn th&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/OkAttorney2094"&gt; /u/OkAttorney2094 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q9uhdj/e_học_lớp_11_chưa_có_định_hướng_xét_tuyển_đại_học/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q9uhdj/e_học_lớp_11_chưa_có_định_hướng_xét_tuyển_đại_học/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q9uhdj/e_học_lớp_11_chưa_có_định_hướng_xét_tuyển_đại_học/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-11T08:24:15+00:00</published>
+    <published>2026-01-11T08:48:18+00:00</published>
   </entry>
   <entry>
     <id>t3_1q90fad</id>
@@ -281,6 +268,19 @@
     <published>2026-01-11T07:24:37+00:00</published>
   </entry>
   <entry>
+    <id>t3_1q9tgca</id>
+    <title>Về miền tây hát gì anh em</title>
+    <updated>2026-01-11T07:46:04+00:00</updated>
+    <author>
+      <name>/u/Antique-Alps-2647</name>
+      <uri>https://old.reddit.com/user/Antique-Alps-2647</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình rể miền tây , 32t rồi . Ngồi mà ko hát theo kịp nhạc sống ngoài đó . A e cho lời khuyên đi . Ngồi im bị bắt hát mà ko biết bấm bài gì&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Antique-Alps-2647"&gt; /u/Antique-Alps-2647 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q9tgca/về_miền_tây_hát_gì_anh_em/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q9tgca/về_miền_tây_hát_gì_anh_em/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q9tgca/về_miền_tây_hát_gì_anh_em/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-11T07:46:04+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1q99oiv</id>
     <title>Lời khuyên cho việc quái gở tại công ty…</title>
     <updated>2026-01-10T17:16:56+00:00</updated>
@@ -294,17 +294,17 @@
     <published>2026-01-10T17:16:56+00:00</published>
   </entry>
   <entry>
-    <id>t3_1q9tgca</id>
-    <title>Về miền tây hát gì anh em</title>
-    <updated>2026-01-11T07:46:04+00:00</updated>
+    <id>t3_1q9u3g8</id>
+    <title>Tư vấn tình cảm</title>
+    <updated>2026-01-11T08:24:15+00:00</updated>
     <author>
-      <name>/u/Antique-Alps-2647</name>
-      <uri>https://old.reddit.com/user/Antique-Alps-2647</uri>
+      <name>/u/No-Battle504</name>
+      <uri>https://old.reddit.com/user/No-Battle504</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình rể miền tây , 32t rồi . Ngồi mà ko hát theo kịp nhạc sống ngoài đó . A e cho lời khuyên đi . Ngồi im bị bắt hát mà ko biết bấm bài gì&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Antique-Alps-2647"&gt; /u/Antique-Alps-2647 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q9tgca/về_miền_tây_hát_gì_anh_em/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q9tgca/về_miền_tây_hát_gì_anh_em/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q9tgca/về_miền_tây_hát_gì_anh_em/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình M28 dạo mấy tháng gần đây có quen một bạn nữ trạc tuổi. Do có nhiều sở thích giống nhau nên chỉ khoảng một tuần sau, bọn mình đã dành khá nhiều thời gian cho nhau. Mình vẫn khó tin là như tìm được phiên bản nữ của chính mình vậy, ngay cả những thói quen kỳ quặc hay kiêng kị của mình thì bạn ấy cũng rất hiểu. Bạn ấy là nữ và theo lời kể thì mình là người đầu tiên khác giới bạn ấy quen kiểu muốn tìm hiểu, nên bạn ấy rất chủ động. Nếu không đi đâu đó cùng thì bạn ấy có thể call, chơi game hay coi phim, với mình cả 3–4 tiếng liền, trong khi mấy bro của mình còn không dành nhiều thời gian cho mình như thế. Vì vậy mình có chút thắc mắc muốn hỏi mọi người, đặc biệt là các bạn nữ: mình có nên xúc tiến mối quan hệ này không? Đây có phải là “đèn xanh” không? Thực sự mình rất có thiện cảm với bạn ấy, nhưng vì mình cũng là trai tân nên chưa biết phải làm gì.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/No-Battle504"&gt; /u/No-Battle504 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q9u3g8/tư_vấn_tình_cảm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q9u3g8/tư_vấn_tình_cảm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q9u3g8/tư_vấn_tình_cảm/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-11T07:46:04+00:00</published>
+    <published>2026-01-11T08:24:15+00:00</published>
   </entry>
   <entry>
     <id>t3_1q9qmt4</id>
