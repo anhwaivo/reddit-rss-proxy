@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-11T10:20:03+00:00</updated>
+  <updated>2026-01-11T10:44:50+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -164,19 +164,6 @@
     <published>2026-01-11T03:34:23+00:00</published>
   </entry>
   <entry>
-    <id>t3_1q9t3mr</id>
-    <title>tín ngưỡng địa phương</title>
-    <updated>2026-01-11T07:24:37+00:00</updated>
-    <author>
-      <name>/u/Q_Qua_Quyet_2002</name>
-      <uri>https://old.reddit.com/user/Q_Qua_Quyet_2002</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình sống ở miền bắc và mình thấy tín ngưỡng ở đây nặng nề quá, các công đoạn chuẩn bị cúng, lễ, cúng, thờ tổ tiên, dòng họ,...quá phức tạp và vất vả. Mình có bảo mẹ mình làm mấy cái đó ngắn gọn lại để khỏi vất vả thì mẹ mình bảo không được, như thế thì không nhẹ nhõm được, tổ tiên trách mắng,... Bố thì bảo là trưởng họ, phải có trách nhiệm. Không biết những người theo tôn giáo thì có vất vả như thế không? Những vùng khác có như thế không? &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Q_Qua_Quyet_2002"&gt; /u/Q_Qua_Quyet_2002 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q9t3mr/tín_ngưỡng_địa_phương/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q9t3mr/tín_ngưỡng_địa_phương/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q9t3mr/tín_ngưỡng_địa_phương/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-11T07:24:37+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1q9tovz</id>
     <title>NVQS</title>
     <updated>2026-01-11T08:00:27+00:00</updated>
@@ -229,6 +216,19 @@
     <published>2026-01-11T06:51:44+00:00</published>
   </entry>
   <entry>
+    <id>t3_1q9t3mr</id>
+    <title>tín ngưỡng địa phương</title>
+    <updated>2026-01-11T07:24:37+00:00</updated>
+    <author>
+      <name>/u/Q_Qua_Quyet_2002</name>
+      <uri>https://old.reddit.com/user/Q_Qua_Quyet_2002</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình sống ở miền bắc và mình thấy tín ngưỡng ở đây nặng nề quá, các công đoạn chuẩn bị cúng, lễ, cúng, thờ tổ tiên, dòng họ,...quá phức tạp và vất vả. Mình có bảo mẹ mình làm mấy cái đó ngắn gọn lại để khỏi vất vả thì mẹ mình bảo không được, như thế thì không nhẹ nhõm được, tổ tiên trách mắng,... Bố thì bảo là trưởng họ, phải có trách nhiệm. Không biết những người theo tôn giáo thì có vất vả như thế không? Những vùng khác có như thế không? &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Q_Qua_Quyet_2002"&gt; /u/Q_Qua_Quyet_2002 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q9t3mr/tín_ngưỡng_địa_phương/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q9t3mr/tín_ngưỡng_địa_phương/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q9t3mr/tín_ngưỡng_địa_phương/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-11T07:24:37+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1q99oiv</id>
     <title>Lời khuyên cho việc quái gở tại công ty…</title>
     <updated>2026-01-10T17:16:56+00:00</updated>
@@ -240,6 +240,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1q99oiv/lời_khuyên_cho_việc_quái_gở_tại_công_ty/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-10T17:16:56+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1q9u3g8</id>
+    <title>Tư vấn tình cảm</title>
+    <updated>2026-01-11T08:24:15+00:00</updated>
+    <author>
+      <name>/u/No-Battle504</name>
+      <uri>https://old.reddit.com/user/No-Battle504</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình M28 dạo mấy tháng gần đây có quen một bạn nữ trạc tuổi. Do có nhiều sở thích giống nhau nên chỉ khoảng một tuần sau, bọn mình đã dành khá nhiều thời gian cho nhau. Mình vẫn khó tin là như tìm được phiên bản nữ của chính mình vậy, ngay cả những thói quen kỳ quặc hay kiêng kị của mình thì bạn ấy cũng rất hiểu. Bạn ấy là nữ và theo lời kể thì mình là người đầu tiên khác giới bạn ấy quen kiểu muốn tìm hiểu, nên bạn ấy rất chủ động. Nếu không đi đâu đó cùng thì bạn ấy có thể call, chơi game hay coi phim, với mình cả 3–4 tiếng liền, trong khi mấy bro của mình còn không dành nhiều thời gian cho mình như thế. Vì vậy mình có chút thắc mắc muốn hỏi mọi người, đặc biệt là các bạn nữ: mình có nên xúc tiến mối quan hệ này không? Đây có phải là “đèn xanh” không? Thực sự mình rất có thiện cảm với bạn ấy, nhưng vì mình cũng là trai tân nên chưa biết phải làm gì.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/No-Battle504"&gt; /u/No-Battle504 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q9u3g8/tư_vấn_tình_cảm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q9u3g8/tư_vấn_tình_cảm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q9u3g8/tư_vấn_tình_cảm/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-11T08:24:15+00:00</published>
   </entry>
   <entry>
     <id>t3_1q9uhdj</id>
@@ -279,19 +292,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1q9tgca/về_miền_tây_hát_gì_anh_em/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-11T07:46:04+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1q9u3g8</id>
-    <title>Tư vấn tình cảm</title>
-    <updated>2026-01-11T08:24:15+00:00</updated>
-    <author>
-      <name>/u/No-Battle504</name>
-      <uri>https://old.reddit.com/user/No-Battle504</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình M28 dạo mấy tháng gần đây có quen một bạn nữ trạc tuổi. Do có nhiều sở thích giống nhau nên chỉ khoảng một tuần sau, bọn mình đã dành khá nhiều thời gian cho nhau. Mình vẫn khó tin là như tìm được phiên bản nữ của chính mình vậy, ngay cả những thói quen kỳ quặc hay kiêng kị của mình thì bạn ấy cũng rất hiểu. Bạn ấy là nữ và theo lời kể thì mình là người đầu tiên khác giới bạn ấy quen kiểu muốn tìm hiểu, nên bạn ấy rất chủ động. Nếu không đi đâu đó cùng thì bạn ấy có thể call, chơi game hay coi phim, với mình cả 3–4 tiếng liền, trong khi mấy bro của mình còn không dành nhiều thời gian cho mình như thế. Vì vậy mình có chút thắc mắc muốn hỏi mọi người, đặc biệt là các bạn nữ: mình có nên xúc tiến mối quan hệ này không? Đây có phải là “đèn xanh” không? Thực sự mình rất có thiện cảm với bạn ấy, nhưng vì mình cũng là trai tân nên chưa biết phải làm gì.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/No-Battle504"&gt; /u/No-Battle504 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q9u3g8/tư_vấn_tình_cảm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q9u3g8/tư_vấn_tình_cảm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q9u3g8/tư_vấn_tình_cảm/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-11T08:24:15+00:00</published>
   </entry>
   <entry>
     <id>t3_1q9qmt4</id>
