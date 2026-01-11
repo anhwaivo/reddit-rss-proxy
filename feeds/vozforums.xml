@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-11T17:16:49+00:00</updated>
+  <updated>2026-01-11T17:40:56+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -238,19 +238,6 @@
     <published>2026-01-11T12:25:33+00:00</published>
   </entry>
   <entry>
-    <id>t3_1q9xxhu</id>
-    <title>Có nên xoá Zalo ko?</title>
-    <updated>2026-01-11T12:15:52+00:00</updated>
-    <author>
-      <name>/u/Inevitable_Sport8122</name>
-      <uri>https://old.reddit.com/user/Inevitable_Sport8122</uri>
-    </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Inevitable_Sport8122"&gt; /u/Inevitable_Sport8122 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q9xxhu/có_nên_xoá_zalo_ko/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q9xxhu/có_nên_xoá_zalo_ko/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q9xxhu/có_nên_xoá_zalo_ko/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-11T12:15:52+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1q9xl7j</id>
     <title>Thắc mắc về quy trình hải quan</title>
     <updated>2026-01-11T11:57:15+00:00</updated>
@@ -262,6 +249,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1q9xl7j/thắc_mắc_về_quy_trình_hải_quan/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-11T11:57:15+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1q9xxhu</id>
+    <title>Có nên xoá Zalo ko?</title>
+    <updated>2026-01-11T12:15:52+00:00</updated>
+    <author>
+      <name>/u/Inevitable_Sport8122</name>
+      <uri>https://old.reddit.com/user/Inevitable_Sport8122</uri>
+    </author>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Inevitable_Sport8122"&gt; /u/Inevitable_Sport8122 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q9xxhu/có_nên_xoá_zalo_ko/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q9xxhu/có_nên_xoá_zalo_ko/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q9xxhu/có_nên_xoá_zalo_ko/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-11T12:15:52+00:00</published>
   </entry>
   <entry>
     <id>t3_1q9v6ia</id>
