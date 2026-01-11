@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-11T14:18:07+00:00</updated>
+  <updated>2026-01-11T14:42:31+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -86,19 +86,6 @@
     <published>2026-01-11T07:24:37+00:00</published>
   </entry>
   <entry>
-    <id>t3_1q9y27n</id>
-    <title>máy em bị vậy là sao vậy mấy bác 😔</title>
-    <updated>2026-01-11T12:22:56+00:00</updated>
-    <author>
-      <name>/u/hnam956</name>
-      <uri>https://old.reddit.com/user/hnam956</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1q9y27n/máy_em_bị_vậy_là_sao_vậy_mấy_bác/"&gt; &lt;img alt="máy em bị vậy là sao vậy mấy bác 😔" src="https://a.thumbs.redditmedia.com/X3pKK3GDFZvo685v8giGsQfIv2Nozlz5TYVnZF32CH4.jpg" title="máy em bị vậy là sao vậy mấy bác 😔" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;thinkbook 14 g5+ 2023 (card tích hợp) em xài 1 lúc thì máy sẽ bị vậy rồi tự reset lại&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/hnam956"&gt; /u/hnam956 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1q9y27n"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q9y27n/máy_em_bị_vậy_là_sao_vậy_mấy_bác/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q9y27n/máy_em_bị_vậy_là_sao_vậy_mấy_bác/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-11T12:22:56+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1q99oiv</id>
     <title>Lời khuyên cho việc quái gở tại công ty…</title>
     <updated>2026-01-10T17:16:56+00:00</updated>
@@ -123,6 +110,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1q9sjma/tìm_nghành_học_liên_thông/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-11T06:51:44+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qa0gk4</id>
+    <title>Xin nước đá tại nhà hàng</title>
+    <updated>2026-01-11T14:18:56+00:00</updated>
+    <author>
+      <name>/u/luv4ev3R</name>
+      <uri>https://old.reddit.com/user/luv4ev3R</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Kiểu mình có mang theo bình giữ nhiệt thì có thể xin họ thêm nước đá vào bình cho mình ko nhỉ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/luv4ev3R"&gt; /u/luv4ev3R &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qa0gk4/xin_nước_đá_tại_nhà_hàng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qa0gk4/xin_nước_đá_tại_nhà_hàng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qa0gk4/xin_nước_đá_tại_nhà_hàng/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-11T14:18:56+00:00</published>
   </entry>
   <entry>
     <id>t3_1q9uhdj</id>
@@ -164,19 +164,6 @@
     <published>2026-01-11T07:46:04+00:00</published>
   </entry>
   <entry>
-    <id>t3_1q9xgkp</id>
-    <title>Thắc mắc về hai ngành kĩ sư hóa và ngành hóa</title>
-    <updated>2026-01-11T11:49:49+00:00</updated>
-    <author>
-      <name>/u/Emergency-Depth-147</name>
-      <uri>https://old.reddit.com/user/Emergency-Depth-147</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Như ở tiêu đề bài post em đang phân vân giữa hai ngành này , anh/chị nếu biết có thể cho em hỏi là có phải kĩ thuật hóa sau ra trường có thể làm việc của cử nhân hóa không ạ (kiểu làm trong phòng lab phân tích chất), với nếu về con đường thăng tiến/ học cao hơn bên nước ngoài thì có cơ hội cho hai ngành này không ạ? em cảm ơn ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Emergency-Depth-147"&gt; /u/Emergency-Depth-147 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q9xgkp/thắc_mắc_về_hai_ngành_kĩ_sư_hóa_và_ngành_hóa/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q9xgkp/thắc_mắc_về_hai_ngành_kĩ_sư_hóa_và_ngành_hóa/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q9xgkp/thắc_mắc_về_hai_ngành_kĩ_sư_hóa_và_ngành_hóa/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-11T11:49:49+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1q9qmt4</id>
     <title>Tư vấn tình cảm</title>
     <updated>2026-01-11T05:09:11+00:00</updated>
@@ -190,30 +177,30 @@
     <published>2026-01-11T05:09:11+00:00</published>
   </entry>
   <entry>
-    <id>t3_1q9xdix</id>
-    <title>Có ai đó có thể tâm sự với mình không? Cảm giác deeptalk với người lạ còn tốt hơn cả người thân..</title>
-    <updated>2026-01-11T11:44:48+00:00</updated>
+    <id>t3_1q9y27n</id>
+    <title>máy em bị vậy là sao vậy mấy bác 😔</title>
+    <updated>2026-01-11T12:22:56+00:00</updated>
     <author>
-      <name>/u/0_n14</name>
-      <uri>https://old.reddit.com/user/0_n14</uri>
+      <name>/u/hnam956</name>
+      <uri>https://old.reddit.com/user/hnam956</uri>
     </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/0_n14"&gt; /u/0_n14 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q9xdix/có_ai_đó_có_thể_tâm_sự_với_mình_không_cảm_giác/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q9xdix/có_ai_đó_có_thể_tâm_sự_với_mình_không_cảm_giác/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q9xdix/có_ai_đó_có_thể_tâm_sự_với_mình_không_cảm_giác/"/>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1q9y27n/máy_em_bị_vậy_là_sao_vậy_mấy_bác/"&gt; &lt;img alt="máy em bị vậy là sao vậy mấy bác 😔" src="https://a.thumbs.redditmedia.com/X3pKK3GDFZvo685v8giGsQfIv2Nozlz5TYVnZF32CH4.jpg" title="máy em bị vậy là sao vậy mấy bác 😔" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;thinkbook 14 g5+ 2023 (card tích hợp) em xài 1 lúc thì máy sẽ bị vậy rồi tự reset lại&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/hnam956"&gt; /u/hnam956 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1q9y27n"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q9y27n/máy_em_bị_vậy_là_sao_vậy_mấy_bác/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q9y27n/máy_em_bị_vậy_là_sao_vậy_mấy_bác/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-11T11:44:48+00:00</published>
+    <published>2026-01-11T12:22:56+00:00</published>
   </entry>
   <entry>
-    <id>t3_1q9xxhu</id>
-    <title>Có nên xoá Zalo ko?</title>
-    <updated>2026-01-11T12:15:52+00:00</updated>
+    <id>t3_1q9xgkp</id>
+    <title>Thắc mắc về hai ngành kĩ sư hóa và ngành hóa</title>
+    <updated>2026-01-11T11:49:49+00:00</updated>
     <author>
-      <name>/u/Inevitable_Sport8122</name>
-      <uri>https://old.reddit.com/user/Inevitable_Sport8122</uri>
+      <name>/u/Emergency-Depth-147</name>
+      <uri>https://old.reddit.com/user/Emergency-Depth-147</uri>
     </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Inevitable_Sport8122"&gt; /u/Inevitable_Sport8122 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q9xxhu/có_nên_xoá_zalo_ko/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q9xxhu/có_nên_xoá_zalo_ko/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q9xxhu/có_nên_xoá_zalo_ko/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Như ở tiêu đề bài post em đang phân vân giữa hai ngành này , anh/chị nếu biết có thể cho em hỏi là có phải kĩ thuật hóa sau ra trường có thể làm việc của cử nhân hóa không ạ (kiểu làm trong phòng lab phân tích chất), với nếu về con đường thăng tiến/ học cao hơn bên nước ngoài thì có cơ hội cho hai ngành này không ạ? em cảm ơn ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Emergency-Depth-147"&gt; /u/Emergency-Depth-147 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q9xgkp/thắc_mắc_về_hai_ngành_kĩ_sư_hóa_và_ngành_hóa/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q9xgkp/thắc_mắc_về_hai_ngành_kĩ_sư_hóa_và_ngành_hóa/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q9xgkp/thắc_mắc_về_hai_ngành_kĩ_sư_hóa_và_ngành_hóa/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-11T12:15:52+00:00</published>
+    <published>2026-01-11T11:49:49+00:00</published>
   </entry>
   <entry>
     <id>t3_1q9y400</id>
@@ -229,17 +216,17 @@
     <published>2026-01-11T12:25:33+00:00</published>
   </entry>
   <entry>
-    <id>t3_1q9xl7j</id>
-    <title>Thắc mắc về quy trình hải quan</title>
-    <updated>2026-01-11T11:57:15+00:00</updated>
+    <id>t3_1q9xmk1</id>
+    <title>em thắc mắc là con trai sẽ không bao giờ quên được mối tình đầu ạ</title>
+    <updated>2026-01-11T11:59:28+00:00</updated>
     <author>
-      <name>/u/WrongdoerOk8042</name>
-      <uri>https://old.reddit.com/user/WrongdoerOk8042</uri>
+      <name>/u/fmymr</name>
+      <uri>https://old.reddit.com/user/fmymr</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Bác nào có làm hay rành về hải quan cho mình hỏi xíu. Chuyện là mình có sử dụng dịch vụ mua hàng hộ bên Nhật (có trang web để tracking). Hàng về kho Nhật thì nặng một đằng (khoảng 100gram) , về kho Việt Nam lại dôi lên gấp mâý lần. Mình có khiếu nại thì không chịu cân lại tại kho VN mà nói là do khi qua hải quan sẽ có sai số như vậy, kêu mình về cân lại rồi quay video đối chứng để được hoàn tiền phí. Theo mình tìm hiểu thì hải quan chỉ cân theo lô, nếu có cân riêng lẻ thì chỉ là ngẫu nhiên để đối chiếu thôi. Thật sự bực mình khi làm dịch vụ mà lại bắt khách hàng về cân lại như cân mớ rau. Nhờ các bác vào thông não tí. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/WrongdoerOk8042"&gt; /u/WrongdoerOk8042 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q9xl7j/thắc_mắc_về_quy_trình_hải_quan/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q9xl7j/thắc_mắc_về_quy_trình_hải_quan/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q9xl7j/thắc_mắc_về_quy_trình_hải_quan/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;(hoặc crush mà kh có được) kiểu dù sau này quen ai thi thoảng cũng nhớ đến người đó hoặc trong tim luôn dành 1 vị trí cho người đó ấy. 🥲&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/fmymr"&gt; /u/fmymr &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q9xmk1/em_thắc_mắc_là_con_trai_sẽ_không_bao_giờ_quên/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q9xmk1/em_thắc_mắc_là_con_trai_sẽ_không_bao_giờ_quên/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q9xmk1/em_thắc_mắc_là_con_trai_sẽ_không_bao_giờ_quên/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-11T11:57:15+00:00</published>
+    <published>2026-01-11T11:59:28+00:00</published>
   </entry>
   <entry>
     <id>t3_1q9uqs1</id>
@@ -255,30 +242,30 @@
     <published>2026-01-11T09:04:28+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qa07sf</id>
-    <title>Gia đình mình bị chính người thân lừa đảo, và mình không biết phải làm gì để cứu mẹ nữa</title>
-    <updated>2026-01-11T14:08:25+00:00</updated>
+    <id>t3_1q9xxhu</id>
+    <title>Có nên xoá Zalo ko?</title>
+    <updated>2026-01-11T12:15:52+00:00</updated>
     <author>
-      <name>/u/Thick-Efficiency6628</name>
-      <uri>https://old.reddit.com/user/Thick-Efficiency6628</uri>
+      <name>/u/Inevitable_Sport8122</name>
+      <uri>https://old.reddit.com/user/Inevitable_Sport8122</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình thật sự không biết bắt đầu từ đâu. Đầu năm 2026 có lẽ là giai đoạn tồi tệ nhất trong cuộc đời mình.&lt;/p&gt; &lt;p&gt;Bố mẹ mình đều hơn 60 tuổi, cả đời sống ngay thẳng, làm ăn lương thiện. Thế nhưng chính em ruột của bố và vợ của ông ta đã lừa bố mẹ mình gánh một khoản nợ hơn 28 tỷ đồng. Mình không thể tin nổi là con người ta có thể nhẫn tâm đến vậy — nhất là khi đó lại là người trong gia đình.&lt;/p&gt; &lt;p&gt;Suốt hơn 7 năm, họ liên tục lừa dối, lợi dụng lòng tốt của mẹ mình. Và dù hậu quả đã rõ ràng, họ vẫn tiếp tục dối trá và ép buộc. Mẹ mình giờ tiều tụy, gầy rộc đi, chỉ còn da bọc xương. Từ một người mạnh mẽ, giờ mẹ như sụp đổ hoàn toàn — vừa đau, vừa xấu hổ, vừa tuyệt vọng.&lt;/p&gt; &lt;p&gt;Điều khiến mình đau nhất là mẹ vẫn tin và thương hại người em dâu đó — một người biết rõ mình đang nợ nần, biết chắc sẽ vỡ nợ nhưng vẫn tìm mọi cách dụ dỗ và ép mẹ mình mang tài sản ra cho mượn.&lt;/p&gt; &lt;p&gt;Mình đã thử hỏi luật sư, nhưng họ nói vụ này “chỉ là dân sự” vì có giấy tờ vay nợ. Ông chú khốn nạn kia còn bảo mình bán tài sản cá nhân để “giúp gia đình.” Mình thật sự thấy kinh tởm.&lt;/p&gt; &lt;p&gt;Mình chỉ sợ mẹ không chịu nổi nữa. Bà kiệt sức rồi, còn mình thì ngày nào cũng vật lộn giữa giận dữ, bất lực và thương mẹ đến xé lòng. Mình vẫn đang tìm hướng đi — không biết có thể kiện hình sự vì lừa đảo chiếm đoạt tài sản được không, hay chỉ dừng ở dân sự.&lt;/p&gt; &lt;p&gt;Nếu ai từng trải qua chuyện bị người thân lừa đảo, chiếm đoạt tài sản, hoặc biết rõ quy trình pháp lý ở Việt Nam trong những trường hợp như thế, xin hãy chia sẻ cho mình chút kinh nghiệm.&lt;/p&gt; &lt;p&gt;Mình vẫn tin rằng làm người tử tế là đúng, nhưng nhiều lúc nhìn vào thực tế, mình tự hỏi — làm người tốt có đáng không, khi chính người thân lại là người đâm mình một nhát không dao như vậy?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Thick-Efficiency6628"&gt; /u/Thick-Efficiency6628 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qa07sf/gia_đình_mình_bị_chính_người_thân_lừa_đảo_và_mình/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qa07sf/gia_đình_mình_bị_chính_người_thân_lừa_đảo_và_mình/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qa07sf/gia_đình_mình_bị_chính_người_thân_lừa_đảo_và_mình/"/>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Inevitable_Sport8122"&gt; /u/Inevitable_Sport8122 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q9xxhu/có_nên_xoá_zalo_ko/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q9xxhu/có_nên_xoá_zalo_ko/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q9xxhu/có_nên_xoá_zalo_ko/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-11T14:08:25+00:00</published>
+    <published>2026-01-11T12:15:52+00:00</published>
   </entry>
   <entry>
-    <id>t3_1q9xmk1</id>
-    <title>em thắc mắc là con trai sẽ không bao giờ quên được mối tình đầu ạ</title>
-    <updated>2026-01-11T11:59:28+00:00</updated>
+    <id>t3_1q9xl7j</id>
+    <title>Thắc mắc về quy trình hải quan</title>
+    <updated>2026-01-11T11:57:15+00:00</updated>
     <author>
-      <name>/u/fmymr</name>
-      <uri>https://old.reddit.com/user/fmymr</uri>
+      <name>/u/WrongdoerOk8042</name>
+      <uri>https://old.reddit.com/user/WrongdoerOk8042</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;(hoặc crush mà kh có được) kiểu dù sau này quen ai thi thoảng cũng nhớ đến người đó hoặc trong tim luôn dành 1 vị trí cho người đó ấy. 🥲&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/fmymr"&gt; /u/fmymr &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q9xmk1/em_thắc_mắc_là_con_trai_sẽ_không_bao_giờ_quên/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q9xmk1/em_thắc_mắc_là_con_trai_sẽ_không_bao_giờ_quên/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q9xmk1/em_thắc_mắc_là_con_trai_sẽ_không_bao_giờ_quên/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Bác nào có làm hay rành về hải quan cho mình hỏi xíu. Chuyện là mình có sử dụng dịch vụ mua hàng hộ bên Nhật (có trang web để tracking). Hàng về kho Nhật thì nặng một đằng (khoảng 100gram) , về kho Việt Nam lại dôi lên gấp mâý lần. Mình có khiếu nại thì không chịu cân lại tại kho VN mà nói là do khi qua hải quan sẽ có sai số như vậy, kêu mình về cân lại rồi quay video đối chứng để được hoàn tiền phí. Theo mình tìm hiểu thì hải quan chỉ cân theo lô, nếu có cân riêng lẻ thì chỉ là ngẫu nhiên để đối chiếu thôi. Thật sự bực mình khi làm dịch vụ mà lại bắt khách hàng về cân lại như cân mớ rau. Nhờ các bác vào thông não tí. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/WrongdoerOk8042"&gt; /u/WrongdoerOk8042 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q9xl7j/thắc_mắc_về_quy_trình_hải_quan/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q9xl7j/thắc_mắc_về_quy_trình_hải_quan/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q9xl7j/thắc_mắc_về_quy_trình_hải_quan/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-11T11:59:28+00:00</published>
+    <published>2026-01-11T11:57:15+00:00</published>
   </entry>
   <entry>
     <id>t3_1q9zel4</id>
@@ -292,6 +279,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1q9zel4/nhận_một_món_quà_đắt_tiền_từ_bạn_thân/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-11T13:31:17+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qa07sf</id>
+    <title>Gia đình mình bị chính người thân lừa đảo, và mình không biết phải làm gì để cứu mẹ nữa</title>
+    <updated>2026-01-11T14:08:25+00:00</updated>
+    <author>
+      <name>/u/Thick-Efficiency6628</name>
+      <uri>https://old.reddit.com/user/Thick-Efficiency6628</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình thật sự không biết bắt đầu từ đâu. Đầu năm 2026 có lẽ là giai đoạn tồi tệ nhất trong cuộc đời mình.&lt;/p&gt; &lt;p&gt;Bố mẹ mình đều hơn 60 tuổi, cả đời sống ngay thẳng, làm ăn lương thiện. Thế nhưng chính em ruột của bố và vợ của ông ta đã lừa bố mẹ mình gánh một khoản nợ hơn 28 tỷ đồng. Mình không thể tin nổi là con người ta có thể nhẫn tâm đến vậy — nhất là khi đó lại là người trong gia đình.&lt;/p&gt; &lt;p&gt;Suốt hơn 7 năm, họ liên tục lừa dối, lợi dụng lòng tốt của mẹ mình. Và dù hậu quả đã rõ ràng, họ vẫn tiếp tục dối trá và ép buộc. Mẹ mình giờ tiều tụy, gầy rộc đi, chỉ còn da bọc xương. Từ một người mạnh mẽ, giờ mẹ như sụp đổ hoàn toàn — vừa đau, vừa xấu hổ, vừa tuyệt vọng.&lt;/p&gt; &lt;p&gt;Điều khiến mình đau nhất là mẹ vẫn tin và thương hại người em dâu đó — một người biết rõ mình đang nợ nần, biết chắc sẽ vỡ nợ nhưng vẫn tìm mọi cách dụ dỗ và ép mẹ mình mang tài sản ra cho mượn.&lt;/p&gt; &lt;p&gt;Mình đã thử hỏi luật sư, nhưng họ nói vụ này “chỉ là dân sự” vì có giấy tờ vay nợ. Ông chú khốn nạn kia còn bảo mình bán tài sản cá nhân để “giúp gia đình.” Mình thật sự thấy kinh tởm.&lt;/p&gt; &lt;p&gt;Mình chỉ sợ mẹ không chịu nổi nữa. Bà kiệt sức rồi, còn mình thì ngày nào cũng vật lộn giữa giận dữ, bất lực và thương mẹ đến xé lòng. Mình vẫn đang tìm hướng đi — không biết có thể kiện hình sự vì lừa đảo chiếm đoạt tài sản được không, hay chỉ dừng ở dân sự.&lt;/p&gt; &lt;p&gt;Nếu ai từng trải qua chuyện bị người thân lừa đảo, chiếm đoạt tài sản, hoặc biết rõ quy trình pháp lý ở Việt Nam trong những trường hợp như thế, xin hãy chia sẻ cho mình chút kinh nghiệm.&lt;/p&gt; &lt;p&gt;Mình vẫn tin rằng làm người tử tế là đúng, nhưng nhiều lúc nhìn vào thực tế, mình tự hỏi — làm người tốt có đáng không, khi chính người thân lại là người đâm mình một nhát không dao như vậy?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Thick-Efficiency6628"&gt; /u/Thick-Efficiency6628 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qa07sf/gia_đình_mình_bị_chính_người_thân_lừa_đảo_và_mình/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qa07sf/gia_đình_mình_bị_chính_người_thân_lừa_đảo_và_mình/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qa07sf/gia_đình_mình_bị_chính_người_thân_lừa_đảo_và_mình/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-11T14:08:25+00:00</published>
   </entry>
   <entry>
     <id>t3_1q9v6ia</id>
