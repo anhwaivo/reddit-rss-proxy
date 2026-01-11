@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-11T11:38:17+00:00</updated>
+  <updated>2026-01-11T11:50:11+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1q97mx7</id>
-    <title>Áo polo hàng hiệu - đắt mà sao không thấy chất lượng</title>
-    <updated>2026-01-10T15:57:34+00:00</updated>
-    <author>
-      <name>/u/RelativeRiver</name>
-      <uri>https://old.reddit.com/user/RelativeRiver</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình có thử qua 2 hãng bán áo polo lacoste với banana mà sao thấy áo design thì bình thường vải bình thường nếu mà không phải logo hiệu chắc không ai mua luôn&lt;/p&gt; &lt;p&gt;Anh em biết store nào bán áo polo ổn áp ngoài 2 tiệm trên không ?&lt;/p&gt; &lt;p&gt;Giá thì tầm 1 tr&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/RelativeRiver"&gt; /u/RelativeRiver &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q97mx7/áo_polo_hàng_hiệu_đắt_mà_sao_không_thấy_chất_lượng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q97mx7/áo_polo_hàng_hiệu_đắt_mà_sao_không_thấy_chất_lượng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q97mx7/áo_polo_hàng_hiệu_đắt_mà_sao_không_thấy_chất_lượng/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-10T15:57:34+00:00</published>
-  </entry>
   <entry>
     <id>t3_1q9jywx</id>
     <title>Soundcard mixer để hát live facebook và tiktok</title>
@@ -86,19 +73,6 @@
     <published>2026-01-10T16:26:07+00:00</published>
   </entry>
   <entry>
-    <id>t3_1q8yclc</id>
-    <title>em thắc mắc là trung bình mn phải trải qua bao nhiêu mối tình trước khi gặp vợ/ chồng của mình nhỉ?</title>
-    <updated>2026-01-10T07:56:22+00:00</updated>
-    <author>
-      <name>/u/Party-Parfait5443</name>
-      <uri>https://old.reddit.com/user/Party-Parfait5443</uri>
-    </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Party-Parfait5443"&gt; /u/Party-Parfait5443 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q8yclc/em_thắc_mắc_là_trung_bình_mn_phải_trải_qua_bao/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q8yclc/em_thắc_mắc_là_trung_bình_mn_phải_trải_qua_bao/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q8yclc/em_thắc_mắc_là_trung_bình_mn_phải_trải_qua_bao/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-10T07:56:22+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1q9s2fh</id>
     <title>Nhảm Nhí Cuối Tuần: Nam mà chơi toàn tướng nữ AP, không thích chơi đực rựa, thích chơi support, không muốn carry, thích làm nền,…có bình thường không nhỉ?</title>
     <updated>2026-01-11T06:24:23+00:00</updated>
@@ -123,6 +97,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1q936f9/khủng_hoảng_hiện_sinh_suy_nghĩ_về_cái_chết_sợ_chết/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-10T12:45:46+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1q8yclc</id>
+    <title>em thắc mắc là trung bình mn phải trải qua bao nhiêu mối tình trước khi gặp vợ/ chồng của mình nhỉ?</title>
+    <updated>2026-01-10T07:56:22+00:00</updated>
+    <author>
+      <name>/u/Party-Parfait5443</name>
+      <uri>https://old.reddit.com/user/Party-Parfait5443</uri>
+    </author>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Party-Parfait5443"&gt; /u/Party-Parfait5443 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q8yclc/em_thắc_mắc_là_trung_bình_mn_phải_trải_qua_bao/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q8yclc/em_thắc_mắc_là_trung_bình_mn_phải_trải_qua_bao/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q8yclc/em_thắc_mắc_là_trung_bình_mn_phải_trải_qua_bao/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-10T07:56:22+00:00</published>
   </entry>
   <entry>
     <id>t3_1q9ssdc</id>
@@ -164,19 +151,6 @@
     <published>2026-01-11T08:00:27+00:00</published>
   </entry>
   <entry>
-    <id>t3_1q9uiy7</id>
-    <title>Tào tiêu tuấn đẹp trai hơn em linh .</title>
-    <updated>2026-01-11T08:51:05+00:00</updated>
-    <author>
-      <name>/u/Less-Disk-905</name>
-      <uri>https://old.reddit.com/user/Less-Disk-905</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1q9uiy7/tào_tiêu_tuấn_đẹp_trai_hơn_em_linh/"&gt; &lt;img alt="Tào tiêu tuấn đẹp trai hơn em linh ." src="https://preview.redd.it/97o6vd3woocg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=aaa7a59fbbc31bba4c39267fcd06629df1673376" title="Tào tiêu tuấn đẹp trai hơn em linh ." /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Less-Disk-905"&gt; /u/Less-Disk-905 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/97o6vd3woocg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q9uiy7/tào_tiêu_tuấn_đẹp_trai_hơn_em_linh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q9uiy7/tào_tiêu_tuấn_đẹp_trai_hơn_em_linh/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-11T08:51:05+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1q90fad</id>
     <title>Ở Phần Lan gần 10 năm, nên chuyển sang nước châu Âu nào cho người Việt?</title>
     <updated>2026-01-10T10:04:27+00:00</updated>
@@ -203,19 +177,6 @@
     <published>2026-01-11T11:07:43+00:00</published>
   </entry>
   <entry>
-    <id>t3_1q9wrxi</id>
-    <title>Áp lực</title>
-    <updated>2026-01-11T11:08:31+00:00</updated>
-    <author>
-      <name>/u/Adventurous_Cow_4529</name>
-      <uri>https://old.reddit.com/user/Adventurous_Cow_4529</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;mấy ngày hôm nay mình khá là áp lực về học tập cuộc sống... mình viết bài này chỉ muốn nói ra áp lực của mình &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Adventurous_Cow_4529"&gt; /u/Adventurous_Cow_4529 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q9wrxi/áp_lực/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q9wrxi/áp_lực/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1q9wrxi/áp_lực/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-11T11:08:31+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1q9t3mr</id>
     <title>tín ngưỡng địa phương</title>
     <updated>2026-01-11T07:24:37+00:00</updated>
@@ -227,6 +188,45 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1q9t3mr/tín_ngưỡng_địa_phương/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-11T07:24:37+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1q9xccv</id>
+    <title>đeo kính</title>
+    <updated>2026-01-11T11:42:48+00:00</updated>
+    <author>
+      <name>/u/anhhduyy_</name>
+      <uri>https://old.reddit.com/user/anhhduyy_</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;đeo kính xấu quá thì đi học kiểu gì ạ:)))) kiểu e lần đầu đeo kính mà cận nặng xog tròng kính dày á nhìn mắt nhỏ kì lắm😭 sợ đến lớp mng trêu&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/anhhduyy_"&gt; /u/anhhduyy_ &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q9xccv/đeo_kính/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q9xccv/đeo_kính/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q9xccv/đeo_kính/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-11T11:42:48+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1q9xdix</id>
+    <title>Có ai đó có thể tâm sự với mình không? Cảm giác deeptalk với người lạ còn tốt hơn cả người thân..</title>
+    <updated>2026-01-11T11:44:48+00:00</updated>
+    <author>
+      <name>/u/0_n14</name>
+      <uri>https://old.reddit.com/user/0_n14</uri>
+    </author>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/0_n14"&gt; /u/0_n14 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q9xdix/có_ai_đó_có_thể_tâm_sự_với_mình_không_cảm_giác/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q9xdix/có_ai_đó_có_thể_tâm_sự_với_mình_không_cảm_giác/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q9xdix/có_ai_đó_có_thể_tâm_sự_với_mình_không_cảm_giác/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-11T11:44:48+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1q9xgkp</id>
+    <title>Thắc mắc về hai ngành kĩ sư hóa và ngành hóa</title>
+    <updated>2026-01-11T11:49:49+00:00</updated>
+    <author>
+      <name>/u/Emergency-Depth-147</name>
+      <uri>https://old.reddit.com/user/Emergency-Depth-147</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Như ở tiêu đề bài post em đang phân vân giữa hai ngành này , anh/chị nếu biết có thể cho em hỏi là có phải kĩ thuật hóa sau ra trường có thể làm việc của cử nhân hóa không ạ, với nếu về con đường thăng tiến thì có cơ hội cho hai ngành này không ạ? em cảm ơn ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Emergency-Depth-147"&gt; /u/Emergency-Depth-147 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q9xgkp/thắc_mắc_về_hai_ngành_kĩ_sư_hóa_và_ngành_hóa/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1q9xgkp/thắc_mắc_về_hai_ngành_kĩ_sư_hóa_và_ngành_hóa/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1q9xgkp/thắc_mắc_về_hai_ngành_kĩ_sư_hóa_và_ngành_hóa/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-11T11:49:49+00:00</published>
   </entry>
   <entry>
     <id>t3_1q99oiv</id>
