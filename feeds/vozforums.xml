@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-11T18:28:12+00:00</updated>
+  <updated>2026-01-11T18:51:49+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -58,15 +58,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1q9tgca/về_miền_tây_hát_gì_anh_em/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-11T07:46:04+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1qa2em1</id>
-    <title>Đi thuê nhà thì đội môi giới ăn bao nhiêu % nhỉ</title>
-    <updated>2026-01-11T15:38:59+00:00</updated>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em đang tìm nhà để thuê thế nhưng toàn thấy cò đăng tin và trả lời. Vậy các cụ cho em hỏi khi mình thuê giá 11tr thì đội môi giới thường ăn đc khoảng bao nhiêu nhỉ. P.s nhân tiện em đang tìm thuê nhà 2pn ở symphony long biên ạ. Cụ nào có thông tin ổn áp cho em với ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qa2em1/đi_thuê_nhà_thì_đội_môi_giới_ăn_bao_nhiêu_nhỉ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qa2em1/đi_thuê_nhà_thì_đội_môi_giới_ăn_bao_nhiêu_nhỉ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qa2em1/đi_thuê_nhà_thì_đội_môi_giới_ăn_bao_nhiêu_nhỉ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-11T15:38:59+00:00</published>
   </entry>
   <entry>
     <id>t3_1q9qmt4</id>
@@ -171,6 +162,15 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qa5y1f/em_muốn_thi_lại_đại_học_năm_sau/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-11T17:53:28+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qa2em1</id>
+    <title>Đi thuê nhà thì đội môi giới ăn bao nhiêu % nhỉ</title>
+    <updated>2026-01-11T15:38:59+00:00</updated>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em đang tìm nhà để thuê thế nhưng toàn thấy cò đăng tin và trả lời. Vậy các cụ cho em hỏi khi mình thuê giá 11tr thì đội môi giới thường ăn đc khoảng bao nhiêu nhỉ. P.s nhân tiện em đang tìm thuê nhà 2pn ở symphony long biên ạ. Cụ nào có thông tin ổn áp cho em với ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qa2em1/đi_thuê_nhà_thì_đội_môi_giới_ăn_bao_nhiêu_nhỉ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qa2em1/đi_thuê_nhà_thì_đội_môi_giới_ăn_bao_nhiêu_nhỉ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qa2em1/đi_thuê_nhà_thì_đội_môi_giới_ăn_bao_nhiêu_nhỉ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-11T15:38:59+00:00</published>
   </entry>
   <entry>
     <id>t3_1qa2tjx</id>
