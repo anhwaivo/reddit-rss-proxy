@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-13T19:00:04+00:00</updated>
+  <updated>2026-01-13T19:27:47+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -71,19 +71,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qbfa5t/làm_sao_để_trở_thành_manager/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-13T02:32:08+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1qby09v</id>
-    <title>Thực tập IT</title>
-    <updated>2026-01-13T17:52:19+00:00</updated>
-    <author>
-      <name>/u/Samuel_Who</name>
-      <uri>https://old.reddit.com/user/Samuel_Who</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em mới tốt nghiệp tại FPT Aptech và sau khi em hỏi trường về giới thiệu việc làm em mới nhận ra.Trường kh thật sự giới thiệu việc làm cho học sinh( thật ra giới thiệu ở đây là cho 1 cái nhóm hợp tác doanh nghiệp le que vài job it 1-2 tháng 1 lần - đa số ít job kh kinh nghiệm) tốn cả trăm củ nhưng chẳng tìm đc job e đang mong lung.Em mới 18 nên CV dễ bị loại từ vòng gửi xe nên đang rải CV. Em muốn hỏi là có cách nào để tìm job thực tập kh ạ ? Và thời điểm nào sẽ ổn? &lt;/p&gt; &lt;p&gt;Em hiện tại sẽ theo Java Spring Boot, mọi người giúp e với chứ tương lai giờ cx chưa biết phải làm thế nào ? Và kiếm việc và sự nghiệp sau này ra sao ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Samuel_Who"&gt; /u/Samuel_Who &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qby09v/thực_tập_it/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qby09v/thực_tập_it/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qby09v/thực_tập_it/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-13T17:52:19+00:00</published>
   </entry>
   <entry>
     <id>t3_1qby499</id>
@@ -188,6 +175,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qbx1py/nhờ_các_cao_nhân_cứu_ca_khó_file_excel_bị_corrupt/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-13T17:18:23+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qby09v</id>
+    <title>Thực tập IT</title>
+    <updated>2026-01-13T17:52:19+00:00</updated>
+    <author>
+      <name>/u/Samuel_Who</name>
+      <uri>https://old.reddit.com/user/Samuel_Who</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em mới tốt nghiệp tại FPT Aptech và sau khi em hỏi trường về giới thiệu việc làm em mới nhận ra.Trường kh thật sự giới thiệu việc làm cho học sinh( thật ra giới thiệu ở đây là cho 1 cái nhóm hợp tác doanh nghiệp le que vài job it 1-2 tháng 1 lần - đa số ít job kh kinh nghiệm) tốn cả trăm củ nhưng chẳng tìm đc job e đang mong lung.Em mới 18 nên CV dễ bị loại từ vòng gửi xe nên đang rải CV. Em muốn hỏi là có cách nào để tìm job thực tập kh ạ ? Và thời điểm nào sẽ ổn? &lt;/p&gt; &lt;p&gt;Em hiện tại sẽ theo Java Spring Boot, mọi người giúp e với chứ tương lai giờ cx chưa biết phải làm thế nào ? Và kiếm việc và sự nghiệp sau này ra sao ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Samuel_Who"&gt; /u/Samuel_Who &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qby09v/thực_tập_it/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qby09v/thực_tập_it/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qby09v/thực_tập_it/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-13T17:52:19+00:00</published>
   </entry>
   <entry>
     <id>t3_1qbvz2k</id>
