@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-14T11:53:55+00:00</updated>
+  <updated>2026-01-14T12:43:38+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1qce2ov</id>
-    <title>Hỏi quán hải sản Phan Thiết</title>
-    <updated>2026-01-14T04:43:45+00:00</updated>
-    <author>
-      <name>/u/Duahau_Bunbo</name>
-      <uri>https://old.reddit.com/user/Duahau_Bunbo</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mấy bác cho em hỏi ở Phan Thiết muốn ăn hải sản(cua, ghẹ, mực) thì ở quán nào ok và chất lượng vậy? Xin cảm ơn!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Duahau_Bunbo"&gt; /u/Duahau_Bunbo &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qce2ov/hỏi_quán_hải_sản_phan_thiết/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qce2ov/hỏi_quán_hải_sản_phan_thiết/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qce2ov/hỏi_quán_hải_sản_phan_thiết/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-14T04:43:45+00:00</published>
-  </entry>
   <entry>
     <id>t3_1qcejbq</id>
     <title>game Designer</title>
@@ -60,6 +47,19 @@
     <published>2026-01-13T17:44:41+00:00</published>
   </entry>
   <entry>
+    <id>t3_1qcfuoi</id>
+    <title>Tâm sự bỏ học đại học</title>
+    <updated>2026-01-14T06:18:39+00:00</updated>
+    <author>
+      <name>/u/lindenwadford</name>
+      <uri>https://old.reddit.com/user/lindenwadford</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình học đại học Thăng Long ngành quản trị kinh doanh do không đăng ký đủ tín chỉ theo tiến độ nên trường cho học chậm. Số tín chỉ dồn về sau mà trường lại yêu cầu 8 năm ra trường. Mình bị áp lực học ko nổi nên chán bỏ học vào cuối năm 7 đầu năm 8. Lúc bị học chậm trường cũng ko báo trước cho sinh viên là sẽ bị chậm nên mình phải chịu học lâu, sau này lúc mình bỏ mới biết. Thế là mình mất tấm bằng như tấm vé để dễ xin việc hơn trong thị trường lao động hiện tại nên mình khá buồn. Cũng may lúc đó bố mẹ mình đổi nghề làm ăn khá 1 chút, tích góp được 1 khoản tiền để mình đi học tiếp và trang trải. Chứ ko bây giờ mình cũng lặn lội lắm.&lt;/p&gt; &lt;p&gt;Có bác nào giống em cũng bỏ đại học năm 7, lúc gần cuối ko? &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/lindenwadford"&gt; /u/lindenwadford &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qcfuoi/tâm_sự_bỏ_học_đại_học/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qcfuoi/tâm_sự_bỏ_học_đại_học/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qcfuoi/tâm_sự_bỏ_học_đại_học/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-14T06:18:39+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1qbqdk3</id>
     <title>Thớt kể về ông chồng thợ sửa điện nước "ngon lành", tự dưng đòi làm lơ xe đi khắp Việt Nam</title>
     <updated>2026-01-13T12:45:35+00:00</updated>
@@ -97,19 +97,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qcjz47/cần_tư_vấn_gói_tập_gym/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-14T10:33:37+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1qcjzmw</id>
-    <title>Dereck Phạm là ai</title>
-    <updated>2026-01-14T10:34:32+00:00</updated>
-    <author>
-      <name>/u/Icy_Contest_9774</name>
-      <uri>https://old.reddit.com/user/Icy_Contest_9774</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Dereck Phạm có nguồn tin chính thống thật hay không?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Icy_Contest_9774"&gt; /u/Icy_Contest_9774 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qcjzmw/dereck_phạm_là_ai/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qcjzmw/dereck_phạm_là_ai/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qcjzmw/dereck_phạm_là_ai/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-14T10:34:32+00:00</published>
   </entry>
   <entry>
     <id>t3_1qckb3z</id>
@@ -164,17 +151,17 @@
     <published>2026-01-14T01:20:52+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qcfuoi</id>
-    <title>Tâm sự bỏ học đại học</title>
-    <updated>2026-01-14T06:18:39+00:00</updated>
+    <id>t3_1qclmpj</id>
+    <title>A level</title>
+    <updated>2026-01-14T12:08:43+00:00</updated>
     <author>
-      <name>/u/lindenwadford</name>
-      <uri>https://old.reddit.com/user/lindenwadford</uri>
+      <name>/u/Funny-Surprise-9361</name>
+      <uri>https://old.reddit.com/user/Funny-Surprise-9361</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình học đại học Thăng Long ngành quản trị kinh doanh do không đăng ký đủ tín chỉ theo tiến độ nên trường cho học chậm. Số tín chỉ dồn về sau mà trường lại yêu cầu 8 năm ra trường. Mình bị áp lực học ko nổi nên chán bỏ học vào cuối năm 7 đầu năm 8. Lúc bị học chậm trường cũng ko báo trước cho sinh viên là sẽ bị chậm nên mình phải chịu học lâu, sau này lúc mình bỏ mới biết. Thế là mình mất tấm bằng như tấm vé để dễ xin việc hơn trong thị trường lao động hiện tại nên mình khá buồn. Cũng may lúc đó bố mẹ mình đổi nghề làm ăn khá 1 chút, tích góp được 1 khoản tiền để mình đi học tiếp và trang trải. Chứ ko bây giờ mình cũng lặn lội lắm.&lt;/p&gt; &lt;p&gt;Có bác nào giống em cũng bỏ đại học năm 7, lúc gần cuối ko? &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/lindenwadford"&gt; /u/lindenwadford &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qcfuoi/tâm_sự_bỏ_học_đại_học/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qcfuoi/tâm_sự_bỏ_học_đại_học/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qcfuoi/tâm_sự_bỏ_học_đại_học/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;có ai tự học A level ở HN ko ạ? Nếu tự học thì học các bài thực hành/ thí nghiệm của Lý với Hoá như nào ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Funny-Surprise-9361"&gt; /u/Funny-Surprise-9361 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qclmpj/a_level/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qclmpj/a_level/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qclmpj/a_level/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-14T06:18:39+00:00</published>
+    <published>2026-01-14T12:08:43+00:00</published>
   </entry>
   <entry>
     <id>t3_1qci5am</id>
@@ -188,6 +175,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qci5am/làm_ca/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-14T08:37:02+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qcm69y</id>
+    <title>Tố cáo tổ chức công ty giả danh công an tại đâu?</title>
+    <updated>2026-01-14T12:36:55+00:00</updated>
+    <author>
+      <name>/u/Hasakgi</name>
+      <uri>https://old.reddit.com/user/Hasakgi</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tình hình là e vừa phát hiện 1 bộ phận đòi nợ thuê (lập hẳn công ty) và giả danh công an để đe doạ con nợ ra trả nợ. Hình thức hoạt động của công ty này là A: giả làm công an gọi ra con nợ (có nợ thật) báo là nhận dc đơn tố cáo từ tổ chức cho vay tài chính (B) và kêu 2 bên tự xử lý với nhau trước Sau đó con nợ sẽ sợ mà tự liên hệ lại sđt của bên tổ chức tài chính (B) do chính bọn A này đưa qua cuộc đt B: sẽ nhận đt từ chính con nợ gọi lên và B lúc này sẽ đánh vào tâm lý sợ của con nợ mà ép con nợ trả&lt;/p&gt; &lt;p&gt;À e ko phải con nợ nhé. Tín dụng e cực đẹp hơn 500 điểm và e chưa từng vay tiền hay trả góp cái gì cả. Chỉ là thằng B này đang làm phiền và ảnh hưởng tới quyền lợi e. E có bằng chứng bọn nó giả công an thì giờ mình gửi qua đâu dc ạ&lt;/p&gt; &lt;p&gt;Ai rành cho e hướng xử lý với, e có luôn mấy đầu số mà bọn nó hay dùng nữa&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Hasakgi"&gt; /u/Hasakgi &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qcm69y/tố_cáo_tổ_chức_công_ty_giả_danh_công_an_tại_đâu/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qcm69y/tố_cáo_tổ_chức_công_ty_giả_danh_công_an_tại_đâu/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qcm69y/tố_cáo_tổ_chức_công_ty_giả_danh_công_an_tại_đâu/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-14T12:36:55+00:00</published>
   </entry>
   <entry>
     <id>t3_1qcejwf</id>
@@ -255,19 +255,6 @@
     <published>2026-01-14T08:33:24+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qch9eq</id>
-    <title>Nghi buôn bán lậu thuốc</title>
-    <updated>2026-01-14T07:42:01+00:00</updated>
-    <author>
-      <name>/u/Ok-Cauliflower9859</name>
-      <uri>https://old.reddit.com/user/Ok-Cauliflower9859</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1qch9eq/nghi_buôn_bán_lậu_thuốc/"&gt; &lt;img alt="Nghi buôn bán lậu thuốc" src="https://preview.redd.it/sauz2gyar9dg1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=216c0c7f041f4f3978bc3f3cc1fc1bdaad398b81" title="Nghi buôn bán lậu thuốc" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hiện tại gần khu mình có cửa hàng bán thuốc tây, nhưng nhìn quán hơi đơn sơ, cứ tầm tối là có chiếc mẹc chạy tới sau đó là 2 người đàn ông, có thể là chủ cửa hàng hoặc dược sĩ đem những thùng hàng carton vào nhà, khoảng 5 10p sau thì có rất nhiều người đến mua thuốc, mình nghi là người mua thuốc là những dược sĩ hoặc tiệm thuốc lẻ đc báo đến mua khi có hàng, và đa phần họ mua và đi rất nhanh, mọi người cho mình lời giải hoặc nên báo cáo ở đâu nhỉ &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ok-Cauliflower9859"&gt; /u/Ok-Cauliflower9859 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/sauz2gyar9dg1.png"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qch9eq/nghi_buôn_bán_lậu_thuốc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qch9eq/nghi_buôn_bán_lậu_thuốc/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-14T07:42:01+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1qcegsb</id>
     <title>Làm aff mảng 18+ có bị đi còng không</title>
     <updated>2026-01-14T05:03:47+00:00</updated>
@@ -292,6 +279,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qcg0bw/cơn_ác_mộng_karaoke_đã_trở_lại/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-14T06:27:43+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qch9eq</id>
+    <title>Nghi buôn bán lậu thuốc</title>
+    <updated>2026-01-14T07:42:01+00:00</updated>
+    <author>
+      <name>/u/Ok-Cauliflower9859</name>
+      <uri>https://old.reddit.com/user/Ok-Cauliflower9859</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1qch9eq/nghi_buôn_bán_lậu_thuốc/"&gt; &lt;img alt="Nghi buôn bán lậu thuốc" src="https://preview.redd.it/sauz2gyar9dg1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=216c0c7f041f4f3978bc3f3cc1fc1bdaad398b81" title="Nghi buôn bán lậu thuốc" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hiện tại gần khu mình có cửa hàng bán thuốc tây, nhưng nhìn quán hơi đơn sơ, cứ tầm tối là có chiếc mẹc chạy tới sau đó là 2 người đàn ông, có thể là chủ cửa hàng hoặc dược sĩ đem những thùng hàng carton vào nhà, khoảng 5 10p sau thì có rất nhiều người đến mua thuốc, mình nghi là người mua thuốc là những dược sĩ hoặc tiệm thuốc lẻ đc báo đến mua khi có hàng, và đa phần họ mua và đi rất nhanh, mọi người cho mình lời giải hoặc nên báo cáo ở đâu nhỉ &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ok-Cauliflower9859"&gt; /u/Ok-Cauliflower9859 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/sauz2gyar9dg1.png"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qch9eq/nghi_buôn_bán_lậu_thuốc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qch9eq/nghi_buôn_bán_lậu_thuốc/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-14T07:42:01+00:00</published>
   </entry>
   <entry>
     <id>t3_1qckslt</id>
