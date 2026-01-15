@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-15T18:01:49+00:00</updated>
+  <updated>2026-01-15T18:54:18+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1qdjxs4</id>
-    <title>Là do ăn may hay máy đểu vậy các bác</title>
-    <updated>2026-01-15T13:46:44+00:00</updated>
-    <author>
-      <name>/u/Ecstatic-Mission-907</name>
-      <uri>https://old.reddit.com/user/Ecstatic-Mission-907</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Nay đi nhậu với lớp mừng tốt nghiệp thì e vui quá làm vài chén với ae trong lớp, các thầy đến khi về bị thổi nồng độ kết quả là cho đi luôn&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ecstatic-Mission-907"&gt; /u/Ecstatic-Mission-907 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qdjxs4/là_do_ăn_may_hay_máy_đểu_vậy_các_bác/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qdjxs4/là_do_ăn_may_hay_máy_đểu_vậy_các_bác/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qdjxs4/là_do_ăn_may_hay_máy_đểu_vậy_các_bác/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-15T13:46:44+00:00</published>
-  </entry>
   <entry>
     <id>t3_1qdjzs0</id>
     <title>Hix</title>
@@ -45,19 +32,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qdk6ui/pubg/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-15T13:57:07+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1qdkdky</id>
-    <title>Nên đi làm hay tập trung lấy bằng trước</title>
-    <updated>2026-01-15T14:04:21+00:00</updated>
-    <author>
-      <name>/u/Outrageous_Driver196</name>
-      <uri>https://old.reddit.com/user/Outrageous_Driver196</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Xin chào mọi người, em hiện là sinh viên năm cuối Bách Khoa và đang trong kỳ cuối làm đồ án tốt nghiệp. Em đang phân vân giữa việc nên kiếm việc để vừa làm vừa học hay tập trung làm đồ án để có bằng trước? Em có người yêu nên cũng muốn kiếm tiền để mỗi lần đi chơi không phải lăn tăn chuyện tiền bạc. Em mong nhận được góp ý từ mọi người ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Outrageous_Driver196"&gt; /u/Outrageous_Driver196 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qdkdky/nên_đi_làm_hay_tập_trung_lấy_bằng_trước/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qdkdky/nên_đi_làm_hay_tập_trung_lấy_bằng_trước/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qdkdky/nên_đi_làm_hay_tập_trung_lấy_bằng_trước/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-15T14:04:21+00:00</published>
   </entry>
   <entry>
     <id>t3_1qdkv92</id>
@@ -164,6 +138,19 @@
     <published>2026-01-15T17:19:08+00:00</published>
   </entry>
   <entry>
+    <id>t3_1qdkdky</id>
+    <title>Nên đi làm hay tập trung lấy bằng trước</title>
+    <updated>2026-01-15T14:04:21+00:00</updated>
+    <author>
+      <name>/u/Outrageous_Driver196</name>
+      <uri>https://old.reddit.com/user/Outrageous_Driver196</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Xin chào mọi người, em hiện là sinh viên năm cuối Bách Khoa và đang trong kỳ cuối làm đồ án tốt nghiệp. Em đang phân vân giữa việc nên kiếm việc để vừa làm vừa học hay tập trung làm đồ án để có bằng trước? Em có người yêu nên cũng muốn kiếm tiền để mỗi lần đi chơi không phải lăn tăn chuyện tiền bạc. Em mong nhận được góp ý từ mọi người ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Outrageous_Driver196"&gt; /u/Outrageous_Driver196 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qdkdky/nên_đi_làm_hay_tập_trung_lấy_bằng_trước/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qdkdky/nên_đi_làm_hay_tập_trung_lấy_bằng_trước/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qdkdky/nên_đi_làm_hay_tập_trung_lấy_bằng_trước/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-15T14:04:21+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1qdex32</id>
     <title>Xin tips move on</title>
     <updated>2026-01-15T09:16:19+00:00</updated>
@@ -242,6 +229,19 @@
     <published>2026-01-15T04:09:39+00:00</published>
   </entry>
   <entry>
+    <id>t3_1qdrsg7</id>
+    <title>Ôi mong mỏi các bác cho thể cho mình xin ý kiến về level hiện tại (IT)</title>
+    <updated>2026-01-15T18:37:28+00:00</updated>
+    <author>
+      <name>/u/Oizoioitoimetqua</name>
+      <uri>https://old.reddit.com/user/Oizoioitoimetqua</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác, e làm trong ngành IT, nma là IT nội bộ của 1 tập đoàn VN. Cũng 1 thời gian không đi apply công ty ngoài rồi nên e thấy kỹ năng mình còn đang rất yếu. E xin gửi CV mình ở đây, mong nhận được ý kiến từ các bác - đặc biệt là các bác làm trong ngành tech.&lt;/p&gt; &lt;p&gt;Theo các bác CV này ứng với mức lương khoảng bao nhiêu (17 tr / tháng?), và theo bác e nên tập trung thêm vào kỹ năng nào để có thể trở nên giỏi hơn?&lt;/p&gt; &lt;p&gt;Cảm ơn các bác nhiều.&lt;/p&gt; &lt;p&gt;&lt;em&gt;Processing img ymwr0zet4kdg1...&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;Processing img mx0e435u4kdg1...&lt;/em&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Oizoioitoimetqua"&gt; /u/Oizoioitoimetqua &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qdrsg7/ôi_mong_mỏi_các_bác_cho_thể_cho_mình_xin_ý_kiến/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qdrsg7/ôi_mong_mỏi_các_bác_cho_thể_cho_mình_xin_ý_kiến/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qdrsg7/ôi_mong_mỏi_các_bác_cho_thể_cho_mình_xin_ý_kiến/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-15T18:37:28+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1qdls7j</id>
     <title>Mệt mỏi vì kì vọng quá cao</title>
     <updated>2026-01-15T15:00:08+00:00</updated>
@@ -294,19 +294,6 @@
     <published>2026-01-15T14:07:18+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qdkb95</id>
-    <title>[Tư vấn] Mới ra trường làm remote cho nước ngoài thì nên đầu tư gì ở VN cho bền?</title>
-    <updated>2026-01-15T14:01:49+00:00</updated>
-    <author>
-      <name>/u/AlternativeFrame1039</name>
-      <uri>https://old.reddit.com/user/AlternativeFrame1039</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác, các fen trên sub. Đây là throwaway account của em tại em không muốn bị lộ thông tin :v.&lt;/p&gt; &lt;p&gt;Em sinh năm 2002 (23 tuổi), vừa học xong ở nước ngoài về và hiện đang làm remote cho một bên bên US. Thu nhập hiện tại của em khá ổn định (150 triệu/ tháng), cộng thêm việc em đang ở cùng gia đình ở thành phố nhỏ nên không mất chi phí thuê nhà hay ăn uống mấy. Ba em về hưu rồi còn mẹ em vẫn làm kinh doanh nhỏ tại nhà. &lt;/p&gt; &lt;p&gt;Em dự định sẽ hỗ trợ ba mẹ em 10 triệu/ tháng. Do đặc thù công việc nghiên cứu và em cũng thuộc tuýp ít tiêu xài, tiền lương hàng tháng gần như dư ra 80-90%.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Lúc còn ở bên Mỹ, em thấy việc đầu tư khá no brainer, cứ ném tiền vào S&amp;amp;P 500 rồi để đấy là xong. Nhưng khi về VN, em thấy thị trường mình hơi khác. Em đang tìm hiểu về các chứng chỉ quỹ nhưng không biết chơi ETF ở VN có thực sự hiệu quả và minh bạch để cầm dài hạn 10-20 năm như bên Mỹ không?&lt;/li&gt; &lt;li&gt;Ngoài chứng khoán, ở VN hiện tại có những kênh đầu tư nào uy tín và phổ biến mà các bác đang theo?&lt;/li&gt; &lt;li&gt;Với độ tuổi và vị thế như em (thu nhập khá, rủi ro thấp do chưa có gánh nặng), em nên chia Portfolio thế nào cho hợp lý?&lt;/li&gt; &lt;li&gt;Cá nhân em thì dự định là sẽ tìm một vài quyển sách về tài chính cá nhân nào viết bài bản, phù hợp với thị trường Việt Nam để đọc trước, sau đó sẽ bắt đầu trial and error. Các bác có recommend đầu sách nào cho người mới không ạ?&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Em cảm ơn các bác nhiều. Mong được học hỏi kinh nghiệm thực chiến từ mọi người!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/AlternativeFrame1039"&gt; /u/AlternativeFrame1039 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qdkb95/tư_vấn_mới_ra_trường_làm_remote_cho_nước_ngoài/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qdkb95/tư_vấn_mới_ra_trường_làm_remote_cho_nước_ngoài/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qdkb95/tư_vấn_mới_ra_trường_làm_remote_cho_nước_ngoài/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-15T14:01:49+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1qde36f</id>
     <title>Gia đình bên ngoại bảo lãnh đi Mỹ, nhưng chồng là con trai một em nên làm sao?</title>
     <updated>2026-01-15T08:24:04+00:00</updated>
@@ -318,6 +305,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qde36f/gia_đình_bên_ngoại_bảo_lãnh_đi_mỹ_nhưng_chồng_là/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-15T08:24:04+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qdkb95</id>
+    <title>[Tư vấn] Mới ra trường làm remote cho nước ngoài thì nên đầu tư gì ở VN cho bền?</title>
+    <updated>2026-01-15T14:01:49+00:00</updated>
+    <author>
+      <name>/u/AlternativeFrame1039</name>
+      <uri>https://old.reddit.com/user/AlternativeFrame1039</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác, các fen trên sub. Đây là throwaway account của em tại em không muốn bị lộ thông tin :v.&lt;/p&gt; &lt;p&gt;Em sinh năm 2002 (23 tuổi), vừa học xong ở nước ngoài về và hiện đang làm remote cho một bên bên US. Thu nhập hiện tại của em khá ổn định (150 triệu/ tháng), cộng thêm việc em đang ở cùng gia đình ở thành phố nhỏ nên không mất chi phí thuê nhà hay ăn uống mấy. Ba em về hưu rồi còn mẹ em vẫn làm kinh doanh nhỏ tại nhà. &lt;/p&gt; &lt;p&gt;Em dự định sẽ hỗ trợ ba mẹ em 10 triệu/ tháng. Do đặc thù công việc nghiên cứu và em cũng thuộc tuýp ít tiêu xài, tiền lương hàng tháng gần như dư ra 80-90%.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Lúc còn ở bên Mỹ, em thấy việc đầu tư khá no brainer, cứ ném tiền vào S&amp;amp;P 500 rồi để đấy là xong. Nhưng khi về VN, em thấy thị trường mình hơi khác. Em đang tìm hiểu về các chứng chỉ quỹ nhưng không biết chơi ETF ở VN có thực sự hiệu quả và minh bạch để cầm dài hạn 10-20 năm như bên Mỹ không?&lt;/li&gt; &lt;li&gt;Ngoài chứng khoán, ở VN hiện tại có những kênh đầu tư nào uy tín và phổ biến mà các bác đang theo?&lt;/li&gt; &lt;li&gt;Với độ tuổi và vị thế như em (thu nhập khá, rủi ro thấp do chưa có gánh nặng), em nên chia Portfolio thế nào cho hợp lý?&lt;/li&gt; &lt;li&gt;Cá nhân em thì dự định là sẽ tìm một vài quyển sách về tài chính cá nhân nào viết bài bản, phù hợp với thị trường Việt Nam để đọc trước, sau đó sẽ bắt đầu trial and error. Các bác có recommend đầu sách nào cho người mới không ạ?&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Em cảm ơn các bác nhiều. Mong được học hỏi kinh nghiệm thực chiến từ mọi người!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/AlternativeFrame1039"&gt; /u/AlternativeFrame1039 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qdkb95/tư_vấn_mới_ra_trường_làm_remote_cho_nước_ngoài/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qdkb95/tư_vấn_mới_ra_trường_làm_remote_cho_nước_ngoài/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qdkb95/tư_vấn_mới_ra_trường_làm_remote_cho_nước_ngoài/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-15T14:01:49+00:00</published>
   </entry>
   <entry>
     <id>t3_1qdj70w</id>
