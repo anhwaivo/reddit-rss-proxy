@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-16T12:42:45+00:00</updated>
+  <updated>2026-01-16T13:27:02+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1qe9xyr</id>
-    <title>công việc parttime</title>
-    <updated>2026-01-16T07:49:44+00:00</updated>
-    <author>
-      <name>/u/SillyChicken2290</name>
-      <uri>https://old.reddit.com/user/SillyChicken2290</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;có bác nào chạy xanh cho e hỏi những góc tối của nghề xanh khi chạy xe của công ty với. e sinh viên muốn làm thêm partime xanh nhưng k có xe bác nào đang chạy cho e xin ít kinh nghiệm với e cảm ơn nhiều&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/SillyChicken2290"&gt; /u/SillyChicken2290 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qe9xyr/công_việc_parttime/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qe9xyr/công_việc_parttime/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qe9xyr/công_việc_parttime/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-16T07:49:44+00:00</published>
-  </entry>
   <entry>
     <id>t3_1qeag2q</id>
     <title>Tịch thu bằng lái xe</title>
@@ -99,6 +86,19 @@
     <published>2026-01-16T09:56:25+00:00</published>
   </entry>
   <entry>
+    <id>t3_1qe429v</id>
+    <title>Bị chê ảnh cưới</title>
+    <updated>2026-01-16T02:46:12+00:00</updated>
+    <author>
+      <name>/u/Valuable-Apricot1031</name>
+      <uri>https://old.reddit.com/user/Valuable-Apricot1031</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Từ tối qua mình có chọn ra 30/1k cái ảnh cưới chụp Thì mình có gửi cho chị gái và mẹ xem thử thì bị 2 người chê thậm tệ là sao dáng xấu thế, béo thế, chú rể già xấu thế… Ôi tụt cả mood Thì mình chọn trong kiểu nhặt đc mấy kiểu ổn nhất rồi nhưng mà ảnh còn chưa chỉnh thì sao mà đẹp ngay, rồi người bình thường chứ có phải như người mẫu đâu mà đẹp đc. Chán k buồn nói luôn vì chụp ở quê nên cũng 10 tr và chú rể bị già do tự nhiên sang vuốt quả tóc ẹp. Nhưng mà lỡ rồi thì có gì xài ý thui. Sao mà người nhà mình hay chê thế k biết. K biết phải làm sao giờ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Valuable-Apricot1031"&gt; /u/Valuable-Apricot1031 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qe429v/bị_chê_ảnh_cưới/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qe429v/bị_chê_ảnh_cưới/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qe429v/bị_chê_ảnh_cưới/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-16T02:46:12+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1qe43ip</id>
     <title>Lương Talent Acquisition</title>
     <updated>2026-01-16T02:47:41+00:00</updated>
@@ -110,19 +110,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qe43ip/lương_talent_acquisition/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-16T02:47:41+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1qdrsg7</id>
-    <title>Ôi mong mỏi các bác cho thể cho mình xin ý kiến về level hiện tại (IT)</title>
-    <updated>2026-01-15T18:37:28+00:00</updated>
-    <author>
-      <name>/u/Oizoioitoimetqua</name>
-      <uri>https://old.reddit.com/user/Oizoioitoimetqua</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác, e làm trong ngành IT, nma là IT nội bộ của 1 tập đoàn VN. Cũng 1 thời gian không đi apply công ty ngoài rồi nên e thấy kỹ năng mình còn đang rất yếu. E xin gửi CV mình ở đây, mong nhận được ý kiến từ các bác - đặc biệt là các bác làm trong ngành tech.&lt;/p&gt; &lt;p&gt;Theo các bác CV này ứng với mức lương khoảng bao nhiêu (17 tr / tháng?), và theo bác e nên tập trung thêm vào kỹ năng nào để có thể trở nên giỏi hơn?&lt;/p&gt; &lt;p&gt;Cảm ơn các bác nhiều.&lt;/p&gt; &lt;p&gt;&lt;em&gt;Processing img ymwr0zet4kdg1...&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;Processing img mx0e435u4kdg1...&lt;/em&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Oizoioitoimetqua"&gt; /u/Oizoioitoimetqua &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qdrsg7/ôi_mong_mỏi_các_bác_cho_thể_cho_mình_xin_ý_kiến/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qdrsg7/ôi_mong_mỏi_các_bác_cho_thể_cho_mình_xin_ý_kiến/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qdrsg7/ôi_mong_mỏi_các_bác_cho_thể_cho_mình_xin_ý_kiến/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-15T18:37:28+00:00</published>
   </entry>
   <entry>
     <id>t3_1qdkb95</id>
@@ -149,6 +136,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qe915r/chuyện_mới_lồng_chuyện_cũ/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-16T06:56:10+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qdrsg7</id>
+    <title>Ôi mong mỏi các bác cho thể cho mình xin ý kiến về level hiện tại (IT)</title>
+    <updated>2026-01-15T18:37:28+00:00</updated>
+    <author>
+      <name>/u/Oizoioitoimetqua</name>
+      <uri>https://old.reddit.com/user/Oizoioitoimetqua</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác, e làm trong ngành IT, nma là IT nội bộ của 1 tập đoàn VN. Cũng 1 thời gian không đi apply công ty ngoài rồi nên e thấy kỹ năng mình còn đang rất yếu. E xin gửi CV mình ở đây, mong nhận được ý kiến từ các bác - đặc biệt là các bác làm trong ngành tech.&lt;/p&gt; &lt;p&gt;Theo các bác CV này ứng với mức lương khoảng bao nhiêu (17 tr / tháng?), và theo bác e nên tập trung thêm vào kỹ năng nào để có thể trở nên giỏi hơn?&lt;/p&gt; &lt;p&gt;Cảm ơn các bác nhiều.&lt;/p&gt; &lt;p&gt;&lt;em&gt;Processing img ymwr0zet4kdg1...&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;Processing img mx0e435u4kdg1...&lt;/em&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Oizoioitoimetqua"&gt; /u/Oizoioitoimetqua &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qdrsg7/ôi_mong_mỏi_các_bác_cho_thể_cho_mình_xin_ý_kiến/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qdrsg7/ôi_mong_mỏi_các_bác_cho_thể_cho_mình_xin_ý_kiến/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qdrsg7/ôi_mong_mỏi_các_bác_cho_thể_cho_mình_xin_ý_kiến/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-15T18:37:28+00:00</published>
   </entry>
   <entry>
     <id>t3_1qedjss</id>
@@ -268,6 +268,19 @@
     <published>2026-01-16T11:27:08+00:00</published>
   </entry>
   <entry>
+    <id>t3_1qebdyv</id>
+    <title>Có ai đã thật sự nhận được bồi thường từ bảo hiểm mô tô xe máy chưa nhỉ?</title>
+    <updated>2026-01-16T09:19:38+00:00</updated>
+    <author>
+      <name>/u/Thien_VL</name>
+      <uri>https://old.reddit.com/user/Thien_VL</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình là dạng người cực kỳ tôn trọng luật pháp, tất cả loại giấy tờ xe ô tô, xe máy mình đều mua hợp lệ cả. Nhưng thật sự mình không hiểu tờ bảo hiểm bắt buộc cho xe máy có sử dụng được không vì xưa giờ từ mình đến người quen chả thấy ai nhận được đồng bồi thường nào &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Thien_VL"&gt; /u/Thien_VL &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qebdyv/có_ai_đã_thật_sự_nhận_được_bồi_thường_từ_bảo_hiểm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qebdyv/có_ai_đã_thật_sự_nhận_được_bồi_thường_từ_bảo_hiểm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qebdyv/có_ai_đã_thật_sự_nhận_được_bồi_thường_từ_bảo_hiểm/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-16T09:19:38+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1qe5iw6</id>
     <title>Lương cho người mới ra trường 6 năm trước và hiện tại vẫn 8 triệu</title>
     <updated>2026-01-16T03:53:01+00:00</updated>
@@ -292,19 +305,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qeb7rw/có_1_việc_gì_đó_để_kiếm_thêm_thu_nhập_từ_điện/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-16T09:08:50+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1qebdyv</id>
-    <title>Có ai đã thật sự nhận được bồi thường từ bảo hiểm mô tô xe máy chưa nhỉ?</title>
-    <updated>2026-01-16T09:19:38+00:00</updated>
-    <author>
-      <name>/u/Thien_VL</name>
-      <uri>https://old.reddit.com/user/Thien_VL</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình là dạng người cực kỳ tôn trọng luật pháp, tất cả loại giấy tờ xe ô tô, xe máy mình đều mua hợp lệ cả. Nhưng thật sự mình không hiểu tờ bảo hiểm bắt buộc cho xe máy có sử dụng được không vì xưa giờ từ mình đến người quen chả thấy ai nhận được đồng bồi thường nào &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Thien_VL"&gt; /u/Thien_VL &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qebdyv/có_ai_đã_thật_sự_nhận_được_bồi_thường_từ_bảo_hiểm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qebdyv/có_ai_đã_thật_sự_nhận_được_bồi_thường_từ_bảo_hiểm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qebdyv/có_ai_đã_thật_sự_nhận_được_bồi_thường_từ_bảo_hiểm/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-16T09:19:38+00:00</published>
   </entry>
   <entry>
     <id>t3_1qea24v</id>
