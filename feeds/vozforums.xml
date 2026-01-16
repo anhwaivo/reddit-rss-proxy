@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-16T17:24:08+00:00</updated>
+  <updated>2026-01-16T17:47:25+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -112,19 +112,6 @@
     <published>2026-01-16T09:09:30+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qe8meu</id>
-    <title>Kênh Youtube về kinh tế mà anh em hay theo dõi</title>
-    <updated>2026-01-16T06:33:03+00:00</updated>
-    <author>
-      <name>/u/AlexFromEarth_</name>
-      <uri>https://old.reddit.com/user/AlexFromEarth_</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Cho xin vài cái tên với&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/AlexFromEarth_"&gt; /u/AlexFromEarth_ &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qe8meu/kênh_youtube_về_kinh_tế_mà_anh_em_hay_theo_dõi/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qe8meu/kênh_youtube_về_kinh_tế_mà_anh_em_hay_theo_dõi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qe8meu/kênh_youtube_về_kinh_tế_mà_anh_em_hay_theo_dõi/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-16T06:33:03+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1qe8o6g</id>
     <title>Có ai đã từng cấy tóc chưa?</title>
     <updated>2026-01-16T06:35:49+00:00</updated>
@@ -175,6 +162,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qele2s/đi_làm_xa_có_nên_thuê_trọ_không_hay_đi_đi_về_về/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-16T16:55:28+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qe8meu</id>
+    <title>Kênh Youtube về kinh tế mà anh em hay theo dõi</title>
+    <updated>2026-01-16T06:33:03+00:00</updated>
+    <author>
+      <name>/u/AlexFromEarth_</name>
+      <uri>https://old.reddit.com/user/AlexFromEarth_</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Cho xin vài cái tên với&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/AlexFromEarth_"&gt; /u/AlexFromEarth_ &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qe8meu/kênh_youtube_về_kinh_tế_mà_anh_em_hay_theo_dõi/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qe8meu/kênh_youtube_về_kinh_tế_mà_anh_em_hay_theo_dõi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qe8meu/kênh_youtube_về_kinh_tế_mà_anh_em_hay_theo_dõi/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-16T06:33:03+00:00</published>
   </entry>
   <entry>
     <id>t3_1qelwab</id>
