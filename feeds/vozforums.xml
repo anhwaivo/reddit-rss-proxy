@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-16T14:23:28+00:00</updated>
+  <updated>2026-01-16T14:49:30+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -34,19 +34,6 @@
     <published>2026-01-16T02:47:41+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qdkb95</id>
-    <title>[Tư vấn] Mới ra trường làm remote cho nước ngoài thì nên đầu tư gì ở VN cho bền?</title>
-    <updated>2026-01-15T14:01:49+00:00</updated>
-    <author>
-      <name>/u/AlternativeFrame1039</name>
-      <uri>https://old.reddit.com/user/AlternativeFrame1039</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác, các fen trên sub. Đây là throwaway account của em tại em không muốn bị lộ thông tin :v.&lt;/p&gt; &lt;p&gt;Em sinh năm 2002 (23 tuổi), vừa học xong ở nước ngoài về và hiện đang làm remote cho một bên bên US. Thu nhập hiện tại của em khá ổn định (150 triệu/ tháng), cộng thêm việc em đang ở cùng gia đình ở thành phố nhỏ nên không mất chi phí thuê nhà hay ăn uống mấy. Ba em về hưu rồi còn mẹ em vẫn làm kinh doanh nhỏ tại nhà. &lt;/p&gt; &lt;p&gt;Em dự định sẽ hỗ trợ ba mẹ em 10 triệu/ tháng. Do đặc thù công việc nghiên cứu và em cũng thuộc tuýp ít tiêu xài, tiền lương hàng tháng gần như dư ra 80-90%.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Lúc còn ở bên Mỹ, em thấy việc đầu tư khá no brainer, cứ ném tiền vào S&amp;amp;P 500 rồi để đấy là xong. Nhưng khi về VN, em thấy thị trường mình hơi khác. Em đang tìm hiểu về các chứng chỉ quỹ nhưng không biết chơi ETF ở VN có thực sự hiệu quả và minh bạch để cầm dài hạn 10-20 năm như bên Mỹ không?&lt;/li&gt; &lt;li&gt;Ngoài chứng khoán, ở VN hiện tại có những kênh đầu tư nào uy tín và phổ biến mà các bác đang theo?&lt;/li&gt; &lt;li&gt;Với độ tuổi và vị thế như em (thu nhập khá, rủi ro thấp do chưa có gánh nặng), em nên chia Portfolio thế nào cho hợp lý?&lt;/li&gt; &lt;li&gt;Cá nhân em thì dự định là sẽ tìm một vài quyển sách về tài chính cá nhân nào viết bài bản, phù hợp với thị trường Việt Nam để đọc trước, sau đó sẽ bắt đầu trial and error. Các bác có recommend đầu sách nào cho người mới không ạ?&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Em cảm ơn các bác nhiều. Mong được học hỏi kinh nghiệm thực chiến từ mọi người!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/AlternativeFrame1039"&gt; /u/AlternativeFrame1039 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qdkb95/tư_vấn_mới_ra_trường_làm_remote_cho_nước_ngoài/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qdkb95/tư_vấn_mới_ra_trường_làm_remote_cho_nước_ngoài/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qdkb95/tư_vấn_mới_ra_trường_làm_remote_cho_nước_ngoài/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-15T14:01:49+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1qe915r</id>
     <title>Chuyện mới lồng chuyện cũ</title>
     <updated>2026-01-16T06:56:10+00:00</updated>
@@ -58,6 +45,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qe915r/chuyện_mới_lồng_chuyện_cũ/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-16T06:56:10+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qdkb95</id>
+    <title>[Tư vấn] Mới ra trường làm remote cho nước ngoài thì nên đầu tư gì ở VN cho bền?</title>
+    <updated>2026-01-15T14:01:49+00:00</updated>
+    <author>
+      <name>/u/AlternativeFrame1039</name>
+      <uri>https://old.reddit.com/user/AlternativeFrame1039</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác, các fen trên sub. Đây là throwaway account của em tại em không muốn bị lộ thông tin :v.&lt;/p&gt; &lt;p&gt;Em sinh năm 2002 (23 tuổi), vừa học xong ở nước ngoài về và hiện đang làm remote cho một bên bên US. Thu nhập hiện tại của em khá ổn định (150 triệu/ tháng), cộng thêm việc em đang ở cùng gia đình ở thành phố nhỏ nên không mất chi phí thuê nhà hay ăn uống mấy. Ba em về hưu rồi còn mẹ em vẫn làm kinh doanh nhỏ tại nhà. &lt;/p&gt; &lt;p&gt;Em dự định sẽ hỗ trợ ba mẹ em 10 triệu/ tháng. Do đặc thù công việc nghiên cứu và em cũng thuộc tuýp ít tiêu xài, tiền lương hàng tháng gần như dư ra 80-90%.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Lúc còn ở bên Mỹ, em thấy việc đầu tư khá no brainer, cứ ném tiền vào S&amp;amp;P 500 rồi để đấy là xong. Nhưng khi về VN, em thấy thị trường mình hơi khác. Em đang tìm hiểu về các chứng chỉ quỹ nhưng không biết chơi ETF ở VN có thực sự hiệu quả và minh bạch để cầm dài hạn 10-20 năm như bên Mỹ không?&lt;/li&gt; &lt;li&gt;Ngoài chứng khoán, ở VN hiện tại có những kênh đầu tư nào uy tín và phổ biến mà các bác đang theo?&lt;/li&gt; &lt;li&gt;Với độ tuổi và vị thế như em (thu nhập khá, rủi ro thấp do chưa có gánh nặng), em nên chia Portfolio thế nào cho hợp lý?&lt;/li&gt; &lt;li&gt;Cá nhân em thì dự định là sẽ tìm một vài quyển sách về tài chính cá nhân nào viết bài bản, phù hợp với thị trường Việt Nam để đọc trước, sau đó sẽ bắt đầu trial and error. Các bác có recommend đầu sách nào cho người mới không ạ?&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Em cảm ơn các bác nhiều. Mong được học hỏi kinh nghiệm thực chiến từ mọi người!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/AlternativeFrame1039"&gt; /u/AlternativeFrame1039 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qdkb95/tư_vấn_mới_ra_trường_làm_remote_cho_nước_ngoài/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qdkb95/tư_vấn_mới_ra_trường_làm_remote_cho_nước_ngoài/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qdkb95/tư_vấn_mới_ra_trường_làm_remote_cho_nước_ngoài/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-15T14:01:49+00:00</published>
   </entry>
   <entry>
     <id>t3_1qdrsg7</id>
@@ -84,19 +84,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qedjss/em_xin_kinh_nghiệm_với_chỗ_để_học_tesol_uy_tín/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-16T11:29:13+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1qea0bo</id>
-    <title>Các anh chị và các bạn có thể cho mình vài nhận xét cần nên chỉnh sửa CV ở chỗ nào ko? (phần màu đỏ là thông tin cá nhân mình tô hơi xấu nên mong mn thông cảm 😓)</title>
-    <updated>2026-01-16T07:53:40+00:00</updated>
-    <author>
-      <name>/u/Vietcong777</name>
-      <uri>https://old.reddit.com/user/Vietcong777</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1qea0bo/các_anh_chị_và_các_bạn_có_thể_cho_mình_vài_nhận/"&gt; &lt;img alt="Các anh chị và các bạn có thể cho mình vài nhận xét cần nên chỉnh sửa CV ở chỗ nào ko? (phần màu đỏ là thông tin cá nhân mình tô hơi xấu nên mong mn thông cảm 😓)" src="https://b.thumbs.redditmedia.com/_r2-BQcm2N1OO08cMeTdgPeffI_oeXOSAWvxZBAYLtU.jpg" title="Các anh chị và các bạn có thể cho mình vài nhận xét cần nên chỉnh sửa CV ở chỗ nào ko? (phần màu đỏ là thông tin cá nhân mình tô hơi xấu nên mong mn thông cảm 😓)" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Vietcong777"&gt; /u/Vietcong777 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1qea0bo"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qea0bo/các_anh_chị_và_các_bạn_có_thể_cho_mình_vài_nhận/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qea0bo/các_anh_chị_và_các_bạn_có_thể_cho_mình_vài_nhận/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-16T07:53:40+00:00</published>
   </entry>
   <entry>
     <id>t3_1qdj70w</id>
@@ -164,6 +151,19 @@
     <published>2026-01-16T13:36:07+00:00</published>
   </entry>
   <entry>
+    <id>t3_1qea0bo</id>
+    <title>Các anh chị và các bạn có thể cho mình vài nhận xét cần nên chỉnh sửa CV ở chỗ nào ko? (phần màu đỏ là thông tin cá nhân mình tô hơi xấu nên mong mn thông cảm 😓)</title>
+    <updated>2026-01-16T07:53:40+00:00</updated>
+    <author>
+      <name>/u/Vietcong777</name>
+      <uri>https://old.reddit.com/user/Vietcong777</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1qea0bo/các_anh_chị_và_các_bạn_có_thể_cho_mình_vài_nhận/"&gt; &lt;img alt="Các anh chị và các bạn có thể cho mình vài nhận xét cần nên chỉnh sửa CV ở chỗ nào ko? (phần màu đỏ là thông tin cá nhân mình tô hơi xấu nên mong mn thông cảm 😓)" src="https://b.thumbs.redditmedia.com/_r2-BQcm2N1OO08cMeTdgPeffI_oeXOSAWvxZBAYLtU.jpg" title="Các anh chị và các bạn có thể cho mình vài nhận xét cần nên chỉnh sửa CV ở chỗ nào ko? (phần màu đỏ là thông tin cá nhân mình tô hơi xấu nên mong mn thông cảm 😓)" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Vietcong777"&gt; /u/Vietcong777 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1qea0bo"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qea0bo/các_anh_chị_và_các_bạn_có_thể_cho_mình_vài_nhận/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qea0bo/các_anh_chị_và_các_bạn_có_thể_cho_mình_vài_nhận/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-16T07:53:40+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1qegq4g</id>
     <title>Xiaomi redmi ko tự phát video</title>
     <updated>2026-01-16T14:01:11+00:00</updated>
@@ -190,19 +190,6 @@
     <published>2026-01-16T14:05:50+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qe75i4</id>
-    <title>Cho mình hỏi về việc rèn luyện thể chất</title>
-    <updated>2026-01-16T05:14:25+00:00</updated>
-    <author>
-      <name>/u/khongphaidauhaminh</name>
-      <uri>https://old.reddit.com/user/khongphaidauhaminh</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Anh chị em có biết biết bài tập nào? Hay môn thể thao nào rèn luyện sức bền k ạ? Em muốn luyện tập để tăng sức bền và sức khoẻ cho bản thân mình.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/khongphaidauhaminh"&gt; /u/khongphaidauhaminh &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qe75i4/cho_mình_hỏi_về_việc_rèn_luyện_thể_chất/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qe75i4/cho_mình_hỏi_về_việc_rèn_luyện_thể_chất/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qe75i4/cho_mình_hỏi_về_việc_rèn_luyện_thể_chất/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-16T05:14:25+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1qe8meu</id>
     <title>Kênh Youtube về kinh tế mà anh em hay theo dõi</title>
     <updated>2026-01-16T06:33:03+00:00</updated>
@@ -227,6 +214,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qe8o6g/có_ai_đã_từng_cấy_tóc_chưa/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-16T06:35:49+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qe75i4</id>
+    <title>Cho mình hỏi về việc rèn luyện thể chất</title>
+    <updated>2026-01-16T05:14:25+00:00</updated>
+    <author>
+      <name>/u/khongphaidauhaminh</name>
+      <uri>https://old.reddit.com/user/khongphaidauhaminh</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Anh chị em có biết biết bài tập nào? Hay môn thể thao nào rèn luyện sức bền k ạ? Em muốn luyện tập để tăng sức bền và sức khoẻ cho bản thân mình.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/khongphaidauhaminh"&gt; /u/khongphaidauhaminh &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qe75i4/cho_mình_hỏi_về_việc_rèn_luyện_thể_chất/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qe75i4/cho_mình_hỏi_về_việc_rèn_luyện_thể_chất/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qe75i4/cho_mình_hỏi_về_việc_rèn_luyện_thể_chất/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-16T05:14:25+00:00</published>
   </entry>
   <entry>
     <id>t3_1qegw4s</id>
