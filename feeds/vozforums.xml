@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-17T11:38:01+00:00</updated>
+  <updated>2026-01-17T11:50:05+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -97,6 +97,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qea24v/sau_5_năm_làm_mmo_thu_nhập_sụt_không_phanh_tương/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-16T07:56:42+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qf7mat</id>
+    <title>Muốn đổi tên trên giấy khai sinh thì làm thế nào?</title>
+    <updated>2026-01-17T08:09:11+00:00</updated>
+    <author>
+      <name>/u/suthatsucomot</name>
+      <uri>https://old.reddit.com/user/suthatsucomot</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, Mình đang muốn đổi tên pháp lý trên giấy khai sinh ở Việt Nam. Cho mình hỏi thủ tục có phức tạp không và cần những giấy tờ gì? Cảm ơn mọi người!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/suthatsucomot"&gt; /u/suthatsucomot &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qf7mat/muốn_đổi_tên_trên_giấy_khai_sinh_thì_làm_thế_nào/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qf7mat/muốn_đổi_tên_trên_giấy_khai_sinh_thì_làm_thế_nào/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qf7mat/muốn_đổi_tên_trên_giấy_khai_sinh_thì_làm_thế_nào/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-17T08:09:11+00:00</published>
   </entry>
   <entry>
     <id>t3_1qf8h12</id>
@@ -201,19 +214,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qf52rr/làm_sao_để_viết_cv_cho_sinh_viên_năm_2_chưa_có/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-17T05:46:32+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1qf7mat</id>
-    <title>Muốn đổi tên trên giấy khai sinh thì làm thế nào?</title>
-    <updated>2026-01-17T08:09:11+00:00</updated>
-    <author>
-      <name>/u/suthatsucomot</name>
-      <uri>https://old.reddit.com/user/suthatsucomot</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, Mình đang muốn đổi tên pháp lý trên giấy khai sinh ở Việt Nam. Cho mình hỏi thủ tục có phức tạp không và cần những giấy tờ gì? Cảm ơn mọi người!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/suthatsucomot"&gt; /u/suthatsucomot &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qf7mat/muốn_đổi_tên_trên_giấy_khai_sinh_thì_làm_thế_nào/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qf7mat/muốn_đổi_tên_trên_giấy_khai_sinh_thì_làm_thế_nào/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qf7mat/muốn_đổi_tên_trên_giấy_khai_sinh_thì_làm_thế_nào/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-17T08:09:11+00:00</published>
   </entry>
   <entry>
     <id>t3_1qf1usp</id>
