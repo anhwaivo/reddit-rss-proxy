@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-17T07:18:43+00:00</updated>
+  <updated>2026-01-17T07:39:18+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -164,19 +164,6 @@
     <published>2026-01-17T04:35:24+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qf52rr</id>
-    <title>Làm sao để viết CV cho sinh viên năm 2 chưa có nhiều kinh nghiệm?</title>
-    <updated>2026-01-17T05:46:32+00:00</updated>
-    <author>
-      <name>/u/Lucky_Airport_3004</name>
-      <uri>https://old.reddit.com/user/Lucky_Airport_3004</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người ạ, em là sinh viên năm 2 hiện đang theo học ngành truyền thông đa phương tiện, em đang muốn viết CV để ứng tuyển cho công việc part time sắp tới nhưng em chưa biết viết như thế nào, các anh chị đi trước cho em xin kinh nghiệm và lời khuyên với ạ!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Lucky_Airport_3004"&gt; /u/Lucky_Airport_3004 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qf52rr/làm_sao_để_viết_cv_cho_sinh_viên_năm_2_chưa_có/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qf52rr/làm_sao_để_viết_cv_cho_sinh_viên_năm_2_chưa_có/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qf52rr/làm_sao_để_viết_cv_cho_sinh_viên_năm_2_chưa_có/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-17T05:46:32+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1qe6a78</id>
     <title>Cưới sai vợ là hối hận cả đời</title>
     <updated>2026-01-16T04:30:05+00:00</updated>
@@ -229,19 +216,6 @@
     <published>2026-01-17T07:02:09+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qf2aso</id>
-    <title>Tiếng anh</title>
-    <updated>2026-01-17T03:32:51+00:00</updated>
-    <author>
-      <name>/u/Antique-Alps-2647</name>
-      <uri>https://old.reddit.com/user/Antique-Alps-2647</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Vợ mình không biết 1 chút gì về tiếng anh , mình muốn cho vợ biết chút tiếng anh giao tiếp mà k biết bắt đầu từ đâu , có cách nào hoặc công việc nào có thể rèn luyện tiếng anh hằng ngày k các b?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Antique-Alps-2647"&gt; /u/Antique-Alps-2647 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qf2aso/tiếng_anh/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qf2aso/tiếng_anh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qf2aso/tiếng_anh/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-17T03:32:51+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1qez77i</id>
     <title>Quan điểm : Làm chủ nếu không đột phá về doanh thu thì thà làm thuê + nghĩ cách kiếm thêm các nguồn thu nhập thụ động ?</title>
     <updated>2026-01-17T01:28:54+00:00</updated>
@@ -266,6 +240,32 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qf2pt0/brand_thời_trang_nam_trẻ_trung_năng_động/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-17T03:50:56+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qf2aso</id>
+    <title>Tiếng anh</title>
+    <updated>2026-01-17T03:32:51+00:00</updated>
+    <author>
+      <name>/u/Antique-Alps-2647</name>
+      <uri>https://old.reddit.com/user/Antique-Alps-2647</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Vợ mình không biết 1 chút gì về tiếng anh , mình muốn cho vợ biết chút tiếng anh giao tiếp mà k biết bắt đầu từ đâu , có cách nào hoặc công việc nào có thể rèn luyện tiếng anh hằng ngày k các b?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Antique-Alps-2647"&gt; /u/Antique-Alps-2647 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qf2aso/tiếng_anh/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qf2aso/tiếng_anh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qf2aso/tiếng_anh/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-17T03:32:51+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qf52rr</id>
+    <title>Làm sao để viết CV cho sinh viên năm 2 chưa có nhiều kinh nghiệm?</title>
+    <updated>2026-01-17T05:46:32+00:00</updated>
+    <author>
+      <name>/u/Lucky_Airport_3004</name>
+      <uri>https://old.reddit.com/user/Lucky_Airport_3004</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người ạ, em là sinh viên năm 2 hiện đang theo học ngành truyền thông đa phương tiện, em đang muốn viết CV để ứng tuyển cho công việc part time sắp tới nhưng em chưa biết viết như thế nào, các anh chị đi trước cho em xin kinh nghiệm và lời khuyên với ạ!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Lucky_Airport_3004"&gt; /u/Lucky_Airport_3004 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qf52rr/làm_sao_để_viết_cv_cho_sinh_viên_năm_2_chưa_có/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qf52rr/làm_sao_để_viết_cv_cho_sinh_viên_năm_2_chưa_có/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qf52rr/làm_sao_để_viết_cv_cho_sinh_viên_năm_2_chưa_có/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-17T05:46:32+00:00</published>
   </entry>
   <entry>
     <id>t3_1qf1usp</id>
@@ -294,19 +294,6 @@
     <published>2026-01-17T01:28:19+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qf4i8a</id>
-    <title>Mấy bác từng dính covid giờ sức khỏe ra sao rồi ?</title>
-    <updated>2026-01-17T05:16:45+00:00</updated>
-    <author>
-      <name>/u/kitchcu</name>
-      <uri>https://old.reddit.com/user/kitchcu</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình dính tận 2 lần, không biết phải do covid không mà hình như mỗi lần làm gì đó nặng cảm giác dễ bị hụt hơi hẳn, dễ thấy nhất là mỗi lần chạy bộ cảm giác phổi mình cứ lạnh rồi nhức nhức sao ấy.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/kitchcu"&gt; /u/kitchcu &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qf4i8a/mấy_bác_từng_dính_covid_giờ_sức_khỏe_ra_sao_rồi/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qf4i8a/mấy_bác_từng_dính_covid_giờ_sức_khỏe_ra_sao_rồi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qf4i8a/mấy_bác_từng_dính_covid_giờ_sức_khỏe_ra_sao_rồi/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-17T05:16:45+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1qf0wwk</id>
     <title>Ae có ai bị lừa trả tiền vay này kia chưa</title>
     <updated>2026-01-17T02:36:59+00:00</updated>
@@ -318,6 +305,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qf0wwk/ae_có_ai_bị_lừa_trả_tiền_vay_này_kia_chưa/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-17T02:36:59+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qf4i8a</id>
+    <title>Mấy bác từng dính covid giờ sức khỏe ra sao rồi ?</title>
+    <updated>2026-01-17T05:16:45+00:00</updated>
+    <author>
+      <name>/u/kitchcu</name>
+      <uri>https://old.reddit.com/user/kitchcu</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình dính tận 2 lần, không biết phải do covid không mà hình như mỗi lần làm gì đó nặng cảm giác dễ bị hụt hơi hẳn, dễ thấy nhất là mỗi lần chạy bộ cảm giác phổi mình cứ lạnh rồi nhức nhức sao ấy.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/kitchcu"&gt; /u/kitchcu &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qf4i8a/mấy_bác_từng_dính_covid_giờ_sức_khỏe_ra_sao_rồi/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qf4i8a/mấy_bác_từng_dính_covid_giờ_sức_khỏe_ra_sao_rồi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qf4i8a/mấy_bác_từng_dính_covid_giờ_sức_khỏe_ra_sao_rồi/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-17T05:16:45+00:00</published>
   </entry>
   <entry>
     <id>t3_1qew68b</id>
