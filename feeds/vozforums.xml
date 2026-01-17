@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-17T10:43:34+00:00</updated>
+  <updated>2026-01-17T10:53:49+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -34,19 +34,6 @@
     <published>2026-01-17T02:00:28+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qeb7rw</id>
-    <title>Có 1 việc gì đó để kiếm thêm thu nhập từ điện thoại và máy tính không nhỉ? Mình đã có công việc chính nhưng rảnh khá nhiều thời gian</title>
-    <updated>2026-01-16T09:08:50+00:00</updated>
-    <author>
-      <name>/u/No-Nose-8817</name>
-      <uri>https://old.reddit.com/user/No-Nose-8817</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hiện tại mình vừa làm nhà nước, lương trừ các chi phí thì cầm về 12tr++. Mình cũng có mở 1 sv game nhỏ nhỏ doanh thu trung bình cỡ 1,5-3tr 1 tuần. Mình muốn tìm hiểu thêm 1 vài công việc khác dễ tiếp cận hoặc có thể học tập từ máy tính hoặc điện thoại&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/No-Nose-8817"&gt; /u/No-Nose-8817 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qeb7rw/có_1_việc_gì_đó_để_kiếm_thêm_thu_nhập_từ_điện/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qeb7rw/có_1_việc_gì_đó_để_kiếm_thêm_thu_nhập_từ_điện/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qeb7rw/có_1_việc_gì_đó_để_kiếm_thêm_thu_nhập_từ_điện/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-16T09:08:50+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1qexz82</id>
     <title>Edge</title>
     <updated>2026-01-17T00:42:13+00:00</updated>
@@ -71,6 +58,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qf3o27/có_nên_dán_ppf_cho_điện_thoại/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-17T04:35:24+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qeb7rw</id>
+    <title>Có 1 việc gì đó để kiếm thêm thu nhập từ điện thoại và máy tính không nhỉ? Mình đã có công việc chính nhưng rảnh khá nhiều thời gian</title>
+    <updated>2026-01-16T09:08:50+00:00</updated>
+    <author>
+      <name>/u/No-Nose-8817</name>
+      <uri>https://old.reddit.com/user/No-Nose-8817</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hiện tại mình vừa làm nhà nước, lương trừ các chi phí thì cầm về 12tr++. Mình cũng có mở 1 sv game nhỏ nhỏ doanh thu trung bình cỡ 1,5-3tr 1 tuần. Mình muốn tìm hiểu thêm 1 vài công việc khác dễ tiếp cận hoặc có thể học tập từ máy tính hoặc điện thoại&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/No-Nose-8817"&gt; /u/No-Nose-8817 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qeb7rw/có_1_việc_gì_đó_để_kiếm_thêm_thu_nhập_từ_điện/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qeb7rw/có_1_việc_gì_đó_để_kiếm_thêm_thu_nhập_từ_điện/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qeb7rw/có_1_việc_gì_đó_để_kiếm_thêm_thu_nhập_từ_điện/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-16T09:08:50+00:00</published>
   </entry>
   <entry>
     <id>t3_1qe6a78</id>
@@ -177,19 +177,6 @@
     <published>2026-01-17T10:17:51+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qfa1ng</id>
-    <title>Hỏi về ngành học</title>
-    <updated>2026-01-17T10:38:56+00:00</updated>
-    <author>
-      <name>/u/Former-Variation5981</name>
-      <uri>https://old.reddit.com/user/Former-Variation5981</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;mn cho em hỏi 2 ngành Thống kê kinh tế, Hệ thống thông tin quản lý có ổn định trong nước Vn không, ở các nước khác thì sao ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Former-Variation5981"&gt; /u/Former-Variation5981 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qfa1ng/hỏi_về_ngành_học/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qfa1ng/hỏi_về_ngành_học/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qfa1ng/hỏi_về_ngành_học/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-17T10:38:56+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1qf2pt0</id>
     <title>Brand thời trang Nam trẻ trung năng động?</title>
     <updated>2026-01-17T03:50:56+00:00</updated>
@@ -240,6 +227,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qf1usp/chứng_chỉ_dp600_microsoft/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-17T03:14:26+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qfa1ng</id>
+    <title>Hỏi về ngành học</title>
+    <updated>2026-01-17T10:38:56+00:00</updated>
+    <author>
+      <name>/u/Former-Variation5981</name>
+      <uri>https://old.reddit.com/user/Former-Variation5981</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;mn cho em hỏi 2 ngành Thống kê kinh tế, Hệ thống thông tin quản lý có ổn định trong nước Vn không, ở các nước khác thì sao ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Former-Variation5981"&gt; /u/Former-Variation5981 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qfa1ng/hỏi_về_ngành_học/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qfa1ng/hỏi_về_ngành_học/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qfa1ng/hỏi_về_ngành_học/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-17T10:38:56+00:00</published>
   </entry>
   <entry>
     <id>t3_1qf886i</id>
