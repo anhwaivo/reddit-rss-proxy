@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-17T05:29:52+00:00</updated>
+  <updated>2026-01-17T05:46:11+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -60,19 +60,6 @@
     <published>2026-01-16T09:09:30+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qeg49c</id>
-    <title>Đem dàn máy bàn qua Nhật</title>
-    <updated>2026-01-16T13:36:07+00:00</updated>
-    <author>
-      <name>/u/TokiwaCityLover</name>
-      <uri>https://old.reddit.com/user/TokiwaCityLover</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Vợ chồng tui dọn qua Nhật đi làm. Tui thì vác 1 cái laptop là được, nhưng vợ tui làm designer nên xài dàn máy bàn. Dàn ở nhà mẻ mua cũng cỡ 50 tr, để ở đây rồi qua bển mua lại thấy cũng uổng. Không biết có cách nào ship dàn máy qua Nhật không. Tui thì nghĩ có thể rã ra, cầm con mainboard, GPU (tức mấy cái đắt tiền thôi), qua bển build dàn mới, mà không rõ có dịch vụ để build máy ở bển không. Có anh chị em nào từng xử lý chuyện tương tự, hữu duyên cho tui xin ý kiến với. Chân thành cảm ơn!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/TokiwaCityLover"&gt; /u/TokiwaCityLover &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qeg49c/đem_dàn_máy_bàn_qua_nhật/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qeg49c/đem_dàn_máy_bàn_qua_nhật/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qeg49c/đem_dàn_máy_bàn_qua_nhật/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-16T13:36:07+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1qe5iw6</id>
     <title>Lương cho người mới ra trường 6 năm trước và hiện tại vẫn 8 triệu</title>
     <updated>2026-01-16T03:53:01+00:00</updated>
@@ -97,6 +84,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qegw4s/xin_lời_khuyên_sau_đại_học/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-16T14:07:55+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qeg49c</id>
+    <title>Đem dàn máy bàn qua Nhật</title>
+    <updated>2026-01-16T13:36:07+00:00</updated>
+    <author>
+      <name>/u/TokiwaCityLover</name>
+      <uri>https://old.reddit.com/user/TokiwaCityLover</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Vợ chồng tui dọn qua Nhật đi làm. Tui thì vác 1 cái laptop là được, nhưng vợ tui làm designer nên xài dàn máy bàn. Dàn ở nhà mẻ mua cũng cỡ 50 tr, để ở đây rồi qua bển mua lại thấy cũng uổng. Không biết có cách nào ship dàn máy qua Nhật không. Tui thì nghĩ có thể rã ra, cầm con mainboard, GPU (tức mấy cái đắt tiền thôi), qua bển build dàn mới, mà không rõ có dịch vụ để build máy ở bển không. Có anh chị em nào từng xử lý chuyện tương tự, hữu duyên cho tui xin ý kiến với. Chân thành cảm ơn!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/TokiwaCityLover"&gt; /u/TokiwaCityLover &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qeg49c/đem_dàn_máy_bàn_qua_nhật/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qeg49c/đem_dàn_máy_bàn_qua_nhật/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qeg49c/đem_dàn_máy_bàn_qua_nhật/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-16T13:36:07+00:00</published>
   </entry>
   <entry>
     <id>t3_1qebdyv</id>
@@ -162,19 +162,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qf0010/seeking_the_peerless_soul_who_captures_the_wind/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-17T02:00:28+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1qf0wwk</id>
-    <title>Ae có ai bị lừa trả tiền vay này kia chưa</title>
-    <updated>2026-01-17T02:36:59+00:00</updated>
-    <author>
-      <name>/u/Academic_Edge_5554</name>
-      <uri>https://old.reddit.com/user/Academic_Edge_5554</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1qf0wwk/ae_có_ai_bị_lừa_trả_tiền_vay_này_kia_chưa/"&gt; &lt;img alt="Ae có ai bị lừa trả tiền vay này kia chưa" src="https://preview.redd.it/kq9z3namntdg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=6fe446d3aa538c68d6bf962f004d5110cd56ec17" title="Ae có ai bị lừa trả tiền vay này kia chưa" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Academic_Edge_5554"&gt; /u/Academic_Edge_5554 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/kq9z3namntdg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qf0wwk/ae_có_ai_bị_lừa_trả_tiền_vay_này_kia_chưa/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qf0wwk/ae_có_ai_bị_lừa_trả_tiền_vay_này_kia_chưa/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-17T02:36:59+00:00</published>
   </entry>
   <entry>
     <id>t3_1qf2aso</id>
@@ -281,19 +268,6 @@
     <published>2026-01-16T07:56:42+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qf4i8a</id>
-    <title>Mấy bác từng dính covid giờ sức khỏe ra sao rồi ?</title>
-    <updated>2026-01-17T05:16:45+00:00</updated>
-    <author>
-      <name>/u/kitchcu</name>
-      <uri>https://old.reddit.com/user/kitchcu</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình dính tận 2 lần, không biết phải do covid không mà hình như mỗi lần làm gì đó nặng cảm giác dễ bị hụt hơi hẳn, dễ thấy nhất là mỗi lần chạy bộ cảm giác phổi mình cứ lạnh rồi nhức nhức sao ấy.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/kitchcu"&gt; /u/kitchcu &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qf4i8a/mấy_bác_từng_dính_covid_giờ_sức_khỏe_ra_sao_rồi/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qf4i8a/mấy_bác_từng_dính_covid_giờ_sức_khỏe_ra_sao_rồi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qf4i8a/mấy_bác_từng_dính_covid_giờ_sức_khỏe_ra_sao_rồi/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-17T05:16:45+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1qf1usp</id>
     <title>Chứng chỉ DP600 microsoft</title>
     <updated>2026-01-17T03:14:26+00:00</updated>
@@ -305,6 +279,32 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qf1usp/chứng_chỉ_dp600_microsoft/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-17T03:14:26+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qf0wwk</id>
+    <title>Ae có ai bị lừa trả tiền vay này kia chưa</title>
+    <updated>2026-01-17T02:36:59+00:00</updated>
+    <author>
+      <name>/u/Academic_Edge_5554</name>
+      <uri>https://old.reddit.com/user/Academic_Edge_5554</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1qf0wwk/ae_có_ai_bị_lừa_trả_tiền_vay_này_kia_chưa/"&gt; &lt;img alt="Ae có ai bị lừa trả tiền vay này kia chưa" src="https://preview.redd.it/kq9z3namntdg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=6fe446d3aa538c68d6bf962f004d5110cd56ec17" title="Ae có ai bị lừa trả tiền vay này kia chưa" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Academic_Edge_5554"&gt; /u/Academic_Edge_5554 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/kq9z3namntdg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qf0wwk/ae_có_ai_bị_lừa_trả_tiền_vay_này_kia_chưa/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qf0wwk/ae_có_ai_bị_lừa_trả_tiền_vay_này_kia_chưa/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-17T02:36:59+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qf4i8a</id>
+    <title>Mấy bác từng dính covid giờ sức khỏe ra sao rồi ?</title>
+    <updated>2026-01-17T05:16:45+00:00</updated>
+    <author>
+      <name>/u/kitchcu</name>
+      <uri>https://old.reddit.com/user/kitchcu</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình dính tận 2 lần, không biết phải do covid không mà hình như mỗi lần làm gì đó nặng cảm giác dễ bị hụt hơi hẳn, dễ thấy nhất là mỗi lần chạy bộ cảm giác phổi mình cứ lạnh rồi nhức nhức sao ấy.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/kitchcu"&gt; /u/kitchcu &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qf4i8a/mấy_bác_từng_dính_covid_giờ_sức_khỏe_ra_sao_rồi/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qf4i8a/mấy_bác_từng_dính_covid_giờ_sức_khỏe_ra_sao_rồi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qf4i8a/mấy_bác_từng_dính_covid_giờ_sức_khỏe_ra_sao_rồi/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-17T05:16:45+00:00</published>
   </entry>
   <entry>
     <id>t3_1qez6o7</id>
