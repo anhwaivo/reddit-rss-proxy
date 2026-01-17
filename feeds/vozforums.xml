@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-17T06:53:58+00:00</updated>
+  <updated>2026-01-17T07:18:43+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1qel3dd</id>
-    <title>Hỏi về khám sức khoẻ nghĩa vụ</title>
-    <updated>2026-01-16T16:44:57+00:00</updated>
-    <author>
-      <name>/u/Cold_Box7510</name>
-      <uri>https://old.reddit.com/user/Cold_Box7510</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;mới đây thông tư 68 có đính kèm BMI &amp;gt; 30 là ko đậu nvqs vì thuộc sức khoẻ loại 4, ko bt chỗ mn có ai đậu khi BMI&amp;gt;30 ko ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Cold_Box7510"&gt; /u/Cold_Box7510 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qel3dd/hỏi_về_khám_sức_khoẻ_nghĩa_vụ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qel3dd/hỏi_về_khám_sức_khoẻ_nghĩa_vụ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qel3dd/hỏi_về_khám_sức_khoẻ_nghĩa_vụ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-16T16:44:57+00:00</published>
-  </entry>
   <entry>
     <id>t3_1qeb85m</id>
     <title>Nhờ anh em xài hộ website chat với người lạ của mình!</title>
@@ -73,19 +60,6 @@
     <published>2026-01-16T09:19:38+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qele2s</id>
-    <title>Đi làm xa có nên thuê trọ không hay đi đi về về cho tiết kiệm</title>
-    <updated>2026-01-16T16:55:28+00:00</updated>
-    <author>
-      <name>/u/SevereNet5350</name>
-      <uri>https://old.reddit.com/user/SevereNet5350</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;e vừa nhận một công việc, nhưng chỗ làm cách nhà khoảng 19km, mỗi ngày phải chạy đi về tổng cộng gần 40km, e đang phân vân không biết nên thuê trọ ở hay vẫn ở quê cho tiết kiệm ạ&lt;br /&gt; Mọi người ai từng đi xa vậy rồi thấy sao ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/SevereNet5350"&gt; /u/SevereNet5350 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qele2s/đi_làm_xa_có_nên_thuê_trọ_không_hay_đi_đi_về_về/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qele2s/đi_làm_xa_có_nên_thuê_trọ_không_hay_đi_đi_về_về/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qele2s/đi_làm_xa_có_nên_thuê_trọ_không_hay_đi_đi_về_về/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-16T16:55:28+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1qedime</id>
     <title>học tiếng anh ko vào</title>
     <updated>2026-01-16T11:27:08+00:00</updated>
@@ -125,6 +99,19 @@
     <published>2026-01-16T13:36:07+00:00</published>
   </entry>
   <entry>
+    <id>t3_1qele2s</id>
+    <title>Đi làm xa có nên thuê trọ không hay đi đi về về cho tiết kiệm</title>
+    <updated>2026-01-16T16:55:28+00:00</updated>
+    <author>
+      <name>/u/SevereNet5350</name>
+      <uri>https://old.reddit.com/user/SevereNet5350</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;e vừa nhận một công việc, nhưng chỗ làm cách nhà khoảng 19km, mỗi ngày phải chạy đi về tổng cộng gần 40km, e đang phân vân không biết nên thuê trọ ở hay vẫn ở quê cho tiết kiệm ạ&lt;br /&gt; Mọi người ai từng đi xa vậy rồi thấy sao ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/SevereNet5350"&gt; /u/SevereNet5350 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qele2s/đi_làm_xa_có_nên_thuê_trọ_không_hay_đi_đi_về_về/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qele2s/đi_làm_xa_có_nên_thuê_trọ_không_hay_đi_đi_về_về/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qele2s/đi_làm_xa_có_nên_thuê_trọ_không_hay_đi_đi_về_về/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-16T16:55:28+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1qf0010</id>
     <title>Seeking The Peerless Soul: Who Captures The Wind?</title>
     <updated>2026-01-17T02:00:28+00:00</updated>
@@ -136,32 +123,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qf0010/seeking_the_peerless_soul_who_captures_the_wind/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-17T02:00:28+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1qf2aso</id>
-    <title>Tiếng anh</title>
-    <updated>2026-01-17T03:32:51+00:00</updated>
-    <author>
-      <name>/u/Antique-Alps-2647</name>
-      <uri>https://old.reddit.com/user/Antique-Alps-2647</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Vợ mình không biết 1 chút gì về tiếng anh , mình muốn cho vợ biết chút tiếng anh giao tiếp mà k biết bắt đầu từ đâu , có cách nào hoặc công việc nào có thể rèn luyện tiếng anh hằng ngày k các b?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Antique-Alps-2647"&gt; /u/Antique-Alps-2647 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qf2aso/tiếng_anh/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qf2aso/tiếng_anh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qf2aso/tiếng_anh/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-17T03:32:51+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1qf2pt0</id>
-    <title>Brand thời trang Nam trẻ trung năng động?</title>
-    <updated>2026-01-17T03:50:56+00:00</updated>
-    <author>
-      <name>/u/Yramonla</name>
-      <uri>https://old.reddit.com/user/Yramonla</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người! Mình là nam 24t, đi làm văn phòng, nhưng mỗi lần ra ngoài hay đi chơi đều thấy nhiều bạn ăn mặc trendy, fashion, vibe hip-hop/streetwear rất đẹp, còn mình thì toàn polo trơn nhìn khá chán. Mình 1m65 50kg khá gầy nữa&lt;/p&gt; &lt;p&gt;Giờ mình muốn nâng cấp style theo hướng trẻ trung, fashion hợp trend (hip-hop/street/grunge…), không cần lịch sự văn phòng.&lt;/p&gt; &lt;p&gt;Mình muốn tìm brand thời trang đẹp, chất lượng, đặc biệt áo thun, sơ mi, quần dễ phối và trendy để bắt đầu cập nhật tủ đồ. &lt;/p&gt; &lt;p&gt;Ai có gợi ý brand/label phù hợp thì recommend mình với! Cảm ơn mọi người &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Yramonla"&gt; /u/Yramonla &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qf2pt0/brand_thời_trang_nam_trẻ_trung_năng_động/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qf2pt0/brand_thời_trang_nam_trẻ_trung_năng_động/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qf2pt0/brand_thời_trang_nam_trẻ_trung_năng_động/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-17T03:50:56+00:00</published>
   </entry>
   <entry>
     <id>t3_1qeb7rw</id>
@@ -255,6 +216,32 @@
     <published>2026-01-17T06:25:42+00:00</published>
   </entry>
   <entry>
+    <id>t3_1qf6gxq</id>
+    <title>tìm bạn thảo luận trading forex</title>
+    <updated>2026-01-17T07:02:09+00:00</updated>
+    <author>
+      <name>/u/phucMv</name>
+      <uri>https://old.reddit.com/user/phucMv</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;mình là nam đang ở HN, đang trade quỹ trong ngày, chủ yếu là Vàng, cặp AJ.&lt;/p&gt; &lt;p&gt;bạn nào muốn nói chuyện giao lưu về tâm lý giao dịch. chúng ta kết bạn nhé!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/phucMv"&gt; /u/phucMv &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qf6gxq/tìm_bạn_thảo_luận_trading_forex/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qf6gxq/tìm_bạn_thảo_luận_trading_forex/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qf6gxq/tìm_bạn_thảo_luận_trading_forex/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-17T07:02:09+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qf2aso</id>
+    <title>Tiếng anh</title>
+    <updated>2026-01-17T03:32:51+00:00</updated>
+    <author>
+      <name>/u/Antique-Alps-2647</name>
+      <uri>https://old.reddit.com/user/Antique-Alps-2647</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Vợ mình không biết 1 chút gì về tiếng anh , mình muốn cho vợ biết chút tiếng anh giao tiếp mà k biết bắt đầu từ đâu , có cách nào hoặc công việc nào có thể rèn luyện tiếng anh hằng ngày k các b?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Antique-Alps-2647"&gt; /u/Antique-Alps-2647 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qf2aso/tiếng_anh/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qf2aso/tiếng_anh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qf2aso/tiếng_anh/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-17T03:32:51+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1qez77i</id>
     <title>Quan điểm : Làm chủ nếu không đột phá về doanh thu thì thà làm thuê + nghĩ cách kiếm thêm các nguồn thu nhập thụ động ?</title>
     <updated>2026-01-17T01:28:54+00:00</updated>
@@ -266,6 +253,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qez77i/quan_điểm_làm_chủ_nếu_không_đột_phá_về_doanh_thu/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-17T01:28:54+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qf2pt0</id>
+    <title>Brand thời trang Nam trẻ trung năng động?</title>
+    <updated>2026-01-17T03:50:56+00:00</updated>
+    <author>
+      <name>/u/Yramonla</name>
+      <uri>https://old.reddit.com/user/Yramonla</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người! Mình là nam 24t, đi làm văn phòng, nhưng mỗi lần ra ngoài hay đi chơi đều thấy nhiều bạn ăn mặc trendy, fashion, vibe hip-hop/streetwear rất đẹp, còn mình thì toàn polo trơn nhìn khá chán. Mình 1m65 50kg khá gầy nữa&lt;/p&gt; &lt;p&gt;Giờ mình muốn nâng cấp style theo hướng trẻ trung, fashion hợp trend (hip-hop/street/grunge…), không cần lịch sự văn phòng.&lt;/p&gt; &lt;p&gt;Mình muốn tìm brand thời trang đẹp, chất lượng, đặc biệt áo thun, sơ mi, quần dễ phối và trendy để bắt đầu cập nhật tủ đồ. &lt;/p&gt; &lt;p&gt;Ai có gợi ý brand/label phù hợp thì recommend mình với! Cảm ơn mọi người &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Yramonla"&gt; /u/Yramonla &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qf2pt0/brand_thời_trang_nam_trẻ_trung_năng_động/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qf2pt0/brand_thời_trang_nam_trẻ_trung_năng_động/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qf2pt0/brand_thời_trang_nam_trẻ_trung_năng_động/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-17T03:50:56+00:00</published>
   </entry>
   <entry>
     <id>t3_1qf1usp</id>
