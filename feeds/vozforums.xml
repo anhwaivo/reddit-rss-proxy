@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-18T06:30:25+00:00</updated>
+  <updated>2026-01-18T06:58:26+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -125,19 +125,6 @@
     <published>2026-01-17T12:04:48+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qf4i8a</id>
-    <title>Mấy bác từng dính covid giờ sức khỏe ra sao rồi ?</title>
-    <updated>2026-01-17T05:16:45+00:00</updated>
-    <author>
-      <name>/u/kitchcu</name>
-      <uri>https://old.reddit.com/user/kitchcu</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình dính tận 2 lần, không biết phải do covid không mà hình như mỗi lần làm gì đó nặng cảm giác dễ bị hụt hơi hẳn, dễ thấy nhất là mỗi lần chạy bộ cảm giác phổi mình cứ lạnh rồi nhức nhức sao ấy.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/kitchcu"&gt; /u/kitchcu &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qf4i8a/mấy_bác_từng_dính_covid_giờ_sức_khỏe_ra_sao_rồi/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qf4i8a/mấy_bác_từng_dính_covid_giờ_sức_khỏe_ra_sao_rồi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qf4i8a/mấy_bác_từng_dính_covid_giờ_sức_khỏe_ra_sao_rồi/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-17T05:16:45+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1qffu01</id>
     <title>Mấy anh chị dùng nước hoa này cho em hỏi mua ở đâu vậy ạ , sắp tới sinh nhật bạn, em định mua tặng nó 2 chai này mà tìm không ra chỗ mua 🫨</title>
     <updated>2026-01-17T15:18:56+00:00</updated>
@@ -149,6 +136,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qffu01/mấy_anh_chị_dùng_nước_hoa_này_cho_em_hỏi_mua_ở/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-17T15:18:56+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qf4i8a</id>
+    <title>Mấy bác từng dính covid giờ sức khỏe ra sao rồi ?</title>
+    <updated>2026-01-17T05:16:45+00:00</updated>
+    <author>
+      <name>/u/kitchcu</name>
+      <uri>https://old.reddit.com/user/kitchcu</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình dính tận 2 lần, không biết phải do covid không mà hình như mỗi lần làm gì đó nặng cảm giác dễ bị hụt hơi hẳn, dễ thấy nhất là mỗi lần chạy bộ cảm giác phổi mình cứ lạnh rồi nhức nhức sao ấy.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/kitchcu"&gt; /u/kitchcu &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qf4i8a/mấy_bác_từng_dính_covid_giờ_sức_khỏe_ra_sao_rồi/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qf4i8a/mấy_bác_từng_dính_covid_giờ_sức_khỏe_ra_sao_rồi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qf4i8a/mấy_bác_từng_dính_covid_giờ_sức_khỏe_ra_sao_rồi/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-17T05:16:45+00:00</published>
   </entry>
   <entry>
     <id>t3_1qew68b</id>
@@ -229,19 +229,6 @@
     <published>2026-01-18T02:56:50+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qfxjqs</id>
-    <title>Mình muốn kiếm việc làm onl để tăng thêm thu nhập</title>
-    <updated>2026-01-18T03:25:21+00:00</updated>
-    <author>
-      <name>/u/Infamous_Mastodon_93</name>
-      <uri>https://old.reddit.com/user/Infamous_Mastodon_93</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Ờm thì như tiêu đề thì mình muốn kiếm vc để làm vào thời gian rảnh kiếm thêm thu nhập mn có cv nào giới thiệu cho mình được không ạ.&lt;/p&gt; &lt;p&gt;Mình cảm ơn.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Infamous_Mastodon_93"&gt; /u/Infamous_Mastodon_93 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qfxjqs/mình_muốn_kiếm_việc_làm_onl_để_tăng_thêm_thu_nhập/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qfxjqs/mình_muốn_kiếm_việc_làm_onl_để_tăng_thêm_thu_nhập/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qfxjqs/mình_muốn_kiếm_việc_làm_onl_để_tăng_thêm_thu_nhập/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-18T03:25:21+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1qfimtg</id>
     <title>Làm bạn với ex có khả thi không</title>
     <updated>2026-01-17T17:06:09+00:00</updated>
@@ -281,17 +268,17 @@
     <published>2026-01-18T02:48:45+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qg0ua9</id>
-    <title>Em là học sinh lớp 12. Cần được định hướng, xin lời khuyên từ các anh chị</title>
-    <updated>2026-01-18T06:11:35+00:00</updated>
+    <id>t3_1qfxjqs</id>
+    <title>Mình muốn kiếm việc làm onl để tăng thêm thu nhập</title>
+    <updated>2026-01-18T03:25:21+00:00</updated>
     <author>
-      <name>/u/toideptrailam</name>
-      <uri>https://old.reddit.com/user/toideptrailam</uri>
+      <name>/u/Infamous_Mastodon_93</name>
+      <uri>https://old.reddit.com/user/Infamous_Mastodon_93</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Điểm mạnh: Năng động, tinh nghịch, chăm chỉ, kỷ luật, khả năng sáng tạo tốt, cực kỳ thích chơi thể thao, gym&lt;/p&gt; &lt;p&gt;Điểm yếu: Em là đưa khá máy móc khi học, tư duy ổn (thường bù lại bằng sự chăm chỉ) đôi khi học 10 mới hiểu 1, hay vội vàng trong công việc, ngại va chạm khi cạnh tranh đối diện, sợ người khác chê bai, vậy nên hay tự cho bản thân yếu kém hơn người khác( Ngược lại, khi nói chuyện phiếm, chuyện hài em rất tự tin chia sẻ còn khi nói chuyện kiến thức em rất tự ti)&lt;/p&gt; &lt;p&gt;Đặc thù công việc mong muốn: không gò bó, lương ổn định, em thích sống an nhàn, hạnh phúc.&lt;/p&gt; &lt;p&gt;Em nhận thấy mình có khả năng nghiên cứu, tìm tòi(em là thằng cực thích tìm tòi, khi nghe 1 bài nhạc em lại muốn tìm ra cả 100 bài nữa:&amp;gt;&amp;gt;), học hỏi khá tốt, là một thằng hiếu học, muốn học hỏi kiến thức toàn diện nên môn nào em cũng học ở mức khá trở lên, là đứa muốn hiểu sâu về cơ chế, bản chất của vật, việc.&lt;/p&gt; &lt;p&gt;-&amp;gt;Hiện tại em đang học khối A00, và dự định theo khối ngành kĩ thuật, anh chị có thể tư vấn cho em ngành nghề phù hợp với bản thân và tính cách một đứa như em không ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/toideptrailam"&gt; /u/toideptrailam &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qg0ua9/em_là_học_sinh_lớp_12_cần_được_định_hướng_xin_lời/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qg0ua9/em_là_học_sinh_lớp_12_cần_được_định_hướng_xin_lời/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qg0ua9/em_là_học_sinh_lớp_12_cần_được_định_hướng_xin_lời/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Ờm thì như tiêu đề thì mình muốn kiếm vc để làm vào thời gian rảnh kiếm thêm thu nhập mn có cv nào giới thiệu cho mình được không ạ.&lt;/p&gt; &lt;p&gt;Mình cảm ơn.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Infamous_Mastodon_93"&gt; /u/Infamous_Mastodon_93 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qfxjqs/mình_muốn_kiếm_việc_làm_onl_để_tăng_thêm_thu_nhập/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qfxjqs/mình_muốn_kiếm_việc_làm_onl_để_tăng_thêm_thu_nhập/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qfxjqs/mình_muốn_kiếm_việc_làm_onl_để_tăng_thêm_thu_nhập/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-18T06:11:35+00:00</published>
+    <published>2026-01-18T03:25:21+00:00</published>
   </entry>
   <entry>
     <id>t3_1qfwms5</id>
@@ -318,6 +305,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qfv3r5/e_lo_quá_mn/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-18T01:31:42+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qg0ua9</id>
+    <title>Em là học sinh lớp 12. Cần được định hướng, xin lời khuyên từ các anh chị</title>
+    <updated>2026-01-18T06:11:35+00:00</updated>
+    <author>
+      <name>/u/toideptrailam</name>
+      <uri>https://old.reddit.com/user/toideptrailam</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Điểm mạnh: Năng động, tinh nghịch, chăm chỉ, kỷ luật, khả năng sáng tạo tốt, cực kỳ thích chơi thể thao, gym&lt;/p&gt; &lt;p&gt;Điểm yếu: Em là đưa khá máy móc khi học, tư duy ổn (thường bù lại bằng sự chăm chỉ) đôi khi học 10 mới hiểu 1, hay vội vàng trong công việc, ngại va chạm khi cạnh tranh đối diện, sợ người khác chê bai, vậy nên hay tự cho bản thân yếu kém hơn người khác( Ngược lại, khi nói chuyện phiếm, chuyện hài em rất tự tin chia sẻ còn khi nói chuyện kiến thức em rất tự ti)&lt;/p&gt; &lt;p&gt;Đặc thù công việc mong muốn: không gò bó, lương ổn định, em thích sống an nhàn, hạnh phúc.&lt;/p&gt; &lt;p&gt;Em nhận thấy mình có khả năng nghiên cứu, tìm tòi(em là thằng cực thích tìm tòi, khi nghe 1 bài nhạc em lại muốn tìm ra cả 100 bài nữa:&amp;gt;&amp;gt;), học hỏi khá tốt, là một thằng hiếu học, muốn học hỏi kiến thức toàn diện nên môn nào em cũng học ở mức khá trở lên, là đứa muốn hiểu sâu về cơ chế, bản chất của vật, việc.&lt;/p&gt; &lt;p&gt;-&amp;gt;Hiện tại em đang học khối A00, và dự định theo khối ngành kĩ thuật, anh chị có thể tư vấn cho em ngành nghề phù hợp với bản thân và tính cách một đứa như em không ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/toideptrailam"&gt; /u/toideptrailam &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qg0ua9/em_là_học_sinh_lớp_12_cần_được_định_hướng_xin_lời/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qg0ua9/em_là_học_sinh_lớp_12_cần_được_định_hướng_xin_lời/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qg0ua9/em_là_học_sinh_lớp_12_cần_được_định_hướng_xin_lời/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-18T06:11:35+00:00</published>
   </entry>
   <entry>
     <id>t3_1qfy0kr</id>
