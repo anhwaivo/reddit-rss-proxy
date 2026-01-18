@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-18T06:58:26+00:00</updated>
+  <updated>2026-01-18T07:26:27+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1qfa1ng</id>
-    <title>Hỏi về ngành học</title>
-    <updated>2026-01-17T10:38:56+00:00</updated>
-    <author>
-      <name>/u/Former-Variation5981</name>
-      <uri>https://old.reddit.com/user/Former-Variation5981</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;mn cho em hỏi 2 ngành Thống kê kinh tế, Hệ thống thông tin quản lý có ổn định trong nước Vn không, ở các nước khác thì sao ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Former-Variation5981"&gt; /u/Former-Variation5981 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qfa1ng/hỏi_về_ngành_học/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qfa1ng/hỏi_về_ngành_học/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qfa1ng/hỏi_về_ngành_học/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-17T10:38:56+00:00</published>
-  </entry>
   <entry>
     <id>t3_1qf5tfh</id>
     <title>Nhập ngũ</title>
@@ -281,17 +268,17 @@
     <published>2026-01-18T03:25:21+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qfwms5</id>
-    <title>Cíp tồ</title>
-    <updated>2026-01-18T02:42:11+00:00</updated>
+    <id>t3_1qg1ur9</id>
+    <title>Em muốn hỏi chút về con đường phát triển sự nghiệp ạ</title>
+    <updated>2026-01-18T07:07:31+00:00</updated>
     <author>
-      <name>/u/Beneficial-Relief185</name>
-      <uri>https://old.reddit.com/user/Beneficial-Relief185</uri>
+      <name>/u/Old_Succotash_4601</name>
+      <uri>https://old.reddit.com/user/Old_Succotash_4601</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em 26t cũng có dư 1 khoản tầm 10k muốn trải nghiệm các bác có lời khuyên gì không ạ? &lt;/p&gt; &lt;p&gt;Sàn Binance hay Mexc dùng tốt hơn ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Beneficial-Relief185"&gt; /u/Beneficial-Relief185 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qfwms5/cíp_tồ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qfwms5/cíp_tồ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qfwms5/cíp_tồ/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người ,như tiêu đề , em muốn hỏi chút về con đường phát triển bản thân ạ.&lt;/p&gt; &lt;p&gt;Em sinh năm 2003 (22 tuổi), làm backend Php và không biết nên học thêm gì để tăng trình độ mình lên. Em có dự tính các đính hướng như sau :&lt;/p&gt; &lt;ol&gt; &lt;li&gt;&lt;p&gt;Cày leetcode , thuật toán&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Build 1 project mới prepare để áp dụng cho project của công ty (dùng ddd ,clean , và apply những thứ mình chưa biết vào đó , nếu thành công thì áp dụng vào dự án của cty , do cty không có ba và design nên việc cấu trúc code từ đầu là rất khó)&lt;/p&gt;&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;3.Bỏ tiền túi ra học tiếng anh , nhưng thời gian rất kín (8 tiếng làm và 3 tiếng học liên thông) , em không biết có nên đầu tư thời gian vào không&lt;/p&gt; &lt;ol&gt; &lt;li&gt;&lt;p&gt;Em có đầu tư phần cứng , cụ thể là 3060 12gb ,năm trước em có học gia sư về ai (ở NEU) , hiện em có cái nhìn tổng quan về ngành , nhưng thực sự không biết nên tập trung vào mảng nào của ai cho phù hợp với backend, vì theo như bạn ấy nói thì chủ yếu liên quan đến ops là chính&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Em có nên tiếp tục sở thích của mình không , cụ thể là reverse engine . Việc học reverse thú vị hơn nhiều so với làm những thứ khác , nhưng vì nó gần như không liên quan gì trực tiếp với be và cực kì mất thời gian để học ,nên em không biết có nên tiếp tục không.&lt;/p&gt;&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Em mong các anh chị đi trước cho em xin chút lời khuyên để có thể đi đúng hướng cho tương lai. Em cảm ơn mọi người rất nhiều ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Old_Succotash_4601"&gt; /u/Old_Succotash_4601 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qg1ur9/em_muốn_hỏi_chút_về_con_đường_phát_triển_sự/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qg1ur9/em_muốn_hỏi_chút_về_con_đường_phát_triển_sự/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qg1ur9/em_muốn_hỏi_chút_về_con_đường_phát_triển_sự/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-18T02:42:11+00:00</published>
+    <published>2026-01-18T07:07:31+00:00</published>
   </entry>
   <entry>
     <id>t3_1qfv3r5</id>
@@ -307,17 +294,17 @@
     <published>2026-01-18T01:31:42+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qg0ua9</id>
-    <title>Em là học sinh lớp 12. Cần được định hướng, xin lời khuyên từ các anh chị</title>
-    <updated>2026-01-18T06:11:35+00:00</updated>
+    <id>t3_1qfwms5</id>
+    <title>Cíp tồ</title>
+    <updated>2026-01-18T02:42:11+00:00</updated>
     <author>
-      <name>/u/toideptrailam</name>
-      <uri>https://old.reddit.com/user/toideptrailam</uri>
+      <name>/u/Beneficial-Relief185</name>
+      <uri>https://old.reddit.com/user/Beneficial-Relief185</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Điểm mạnh: Năng động, tinh nghịch, chăm chỉ, kỷ luật, khả năng sáng tạo tốt, cực kỳ thích chơi thể thao, gym&lt;/p&gt; &lt;p&gt;Điểm yếu: Em là đưa khá máy móc khi học, tư duy ổn (thường bù lại bằng sự chăm chỉ) đôi khi học 10 mới hiểu 1, hay vội vàng trong công việc, ngại va chạm khi cạnh tranh đối diện, sợ người khác chê bai, vậy nên hay tự cho bản thân yếu kém hơn người khác( Ngược lại, khi nói chuyện phiếm, chuyện hài em rất tự tin chia sẻ còn khi nói chuyện kiến thức em rất tự ti)&lt;/p&gt; &lt;p&gt;Đặc thù công việc mong muốn: không gò bó, lương ổn định, em thích sống an nhàn, hạnh phúc.&lt;/p&gt; &lt;p&gt;Em nhận thấy mình có khả năng nghiên cứu, tìm tòi(em là thằng cực thích tìm tòi, khi nghe 1 bài nhạc em lại muốn tìm ra cả 100 bài nữa:&amp;gt;&amp;gt;), học hỏi khá tốt, là một thằng hiếu học, muốn học hỏi kiến thức toàn diện nên môn nào em cũng học ở mức khá trở lên, là đứa muốn hiểu sâu về cơ chế, bản chất của vật, việc.&lt;/p&gt; &lt;p&gt;-&amp;gt;Hiện tại em đang học khối A00, và dự định theo khối ngành kĩ thuật, anh chị có thể tư vấn cho em ngành nghề phù hợp với bản thân và tính cách một đứa như em không ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/toideptrailam"&gt; /u/toideptrailam &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qg0ua9/em_là_học_sinh_lớp_12_cần_được_định_hướng_xin_lời/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qg0ua9/em_là_học_sinh_lớp_12_cần_được_định_hướng_xin_lời/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qg0ua9/em_là_học_sinh_lớp_12_cần_được_định_hướng_xin_lời/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em 26t cũng có dư 1 khoản tầm 10k muốn trải nghiệm các bác có lời khuyên gì không ạ? &lt;/p&gt; &lt;p&gt;Sàn Binance hay Mexc dùng tốt hơn ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Beneficial-Relief185"&gt; /u/Beneficial-Relief185 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qfwms5/cíp_tồ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qfwms5/cíp_tồ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qfwms5/cíp_tồ/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-18T06:11:35+00:00</published>
+    <published>2026-01-18T02:42:11+00:00</published>
   </entry>
   <entry>
     <id>t3_1qfy0kr</id>
@@ -331,5 +318,18 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qfy0kr/băng_đắt_tiền_với_băng_giá_rẻ_khác_biệt_nhiều/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-18T03:48:19+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qg0ua9</id>
+    <title>Em là học sinh lớp 12. Cần được định hướng, xin lời khuyên từ các anh chị</title>
+    <updated>2026-01-18T06:11:35+00:00</updated>
+    <author>
+      <name>/u/toideptrailam</name>
+      <uri>https://old.reddit.com/user/toideptrailam</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Điểm mạnh: Năng động, tinh nghịch, chăm chỉ, kỷ luật, khả năng sáng tạo tốt, cực kỳ thích chơi thể thao, gym&lt;/p&gt; &lt;p&gt;Điểm yếu: Em là đưa khá máy móc khi học, tư duy ổn (thường bù lại bằng sự chăm chỉ) đôi khi học 10 mới hiểu 1, hay vội vàng trong công việc, ngại va chạm khi cạnh tranh đối diện, sợ người khác chê bai, vậy nên hay tự cho bản thân yếu kém hơn người khác( Ngược lại, khi nói chuyện phiếm, chuyện hài em rất tự tin chia sẻ còn khi nói chuyện kiến thức em rất tự ti)&lt;/p&gt; &lt;p&gt;Đặc thù công việc mong muốn: không gò bó, lương ổn định, em thích sống an nhàn, hạnh phúc.&lt;/p&gt; &lt;p&gt;Em nhận thấy mình có khả năng nghiên cứu, tìm tòi(em là thằng cực thích tìm tòi, khi nghe 1 bài nhạc em lại muốn tìm ra cả 100 bài nữa:&amp;gt;&amp;gt;), học hỏi khá tốt, là một thằng hiếu học, muốn học hỏi kiến thức toàn diện nên môn nào em cũng học ở mức khá trở lên, là đứa muốn hiểu sâu về cơ chế, bản chất của vật, việc.&lt;/p&gt; &lt;p&gt;-&amp;gt;Hiện tại em đang học khối A00, và dự định theo khối ngành kĩ thuật, anh chị có thể tư vấn cho em ngành nghề phù hợp với bản thân và tính cách một đứa như em không ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/toideptrailam"&gt; /u/toideptrailam &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qg0ua9/em_là_học_sinh_lớp_12_cần_được_định_hướng_xin_lời/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qg0ua9/em_là_học_sinh_lớp_12_cần_được_định_hướng_xin_lời/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qg0ua9/em_là_học_sinh_lớp_12_cần_được_định_hướng_xin_lời/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-18T06:11:35+00:00</published>
   </entry>
 </feed>
