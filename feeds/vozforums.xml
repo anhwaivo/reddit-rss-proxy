@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-18T05:01:50+00:00</updated>
+  <updated>2026-01-18T05:37:24+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1qfdy4w</id>
-    <title>Mọi người cho tớ hỏi với, tớ đang là sinh viên năm 3 ngành kế toán. Tớ đang muốn tìm hiểu 1 số công việc có thể phục vụ cho ngành kế toán sau này ạ.</title>
-    <updated>2026-01-17T14:01:13+00:00</updated>
-    <author>
-      <name>/u/AnnHaPhamm</name>
-      <uri>https://old.reddit.com/user/AnnHaPhamm</uri>
-    </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/AnnHaPhamm"&gt; /u/AnnHaPhamm &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qfdy4w/mọi_người_cho_tớ_hỏi_với_tớ_đang_là_sinh_viên_năm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qfdy4w/mọi_người_cho_tớ_hỏi_với_tớ_đang_là_sinh_viên_năm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qfdy4w/mọi_người_cho_tớ_hỏi_với_tớ_đang_là_sinh_viên_năm/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-17T14:01:13+00:00</published>
-  </entry>
   <entry>
     <id>t3_1qf7mat</id>
     <title>Muốn đổi tên trên giấy khai sinh thì làm thế nào?</title>
@@ -45,6 +32,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qfa1ng/hỏi_về_ngành_học/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-17T10:38:56+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qf5tfh</id>
+    <title>Nhập ngũ</title>
+    <updated>2026-01-17T06:25:42+00:00</updated>
+    <author>
+      <name>/u/QuietOk4357</name>
+      <uri>https://old.reddit.com/user/QuietOk4357</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác, em dân IT đợt này khám ở địa phương kq loại 3 đã lấy máu. Trước đó em có chạy chọt rồi tuy nhiên người chạy cho em không rõ ràng, cho đến thời điểm hiện tại địa phương đã yêu cầu em bổ sung giấy tờ như căn cước. Em nghĩ chắc em cũng toang rồi nên xin các bác tư vấn thử còn đường nào khác không. Phụ huynh em có nhờ bên chính ủy can thiệp mà họ bảo khó. Em cảm ơn các bác&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/QuietOk4357"&gt; /u/QuietOk4357 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qf5tfh/nhập_ngũ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qf5tfh/nhập_ngũ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qf5tfh/nhập_ngũ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-17T06:25:42+00:00</published>
   </entry>
   <entry>
     <id>t3_1qf2aso</id>
@@ -99,19 +99,6 @@
     <published>2026-01-17T08:46:27+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qfbjoy</id>
-    <title>Lãi suất 7.2% một năm là cao hay thấp vậy</title>
-    <updated>2026-01-17T12:04:48+00:00</updated>
-    <author>
-      <name>/u/RelativeRiver</name>
-      <uri>https://old.reddit.com/user/RelativeRiver</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình lần đầu đi vay&lt;/p&gt; &lt;p&gt;Mình có thể trả hết một lần luôn nếu trúng số&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/RelativeRiver"&gt; /u/RelativeRiver &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qfbjoy/lãi_suất_72_một_năm_là_cao_hay_thấp_vậy/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qfbjoy/lãi_suất_72_một_năm_là_cao_hay_thấp_vậy/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qfbjoy/lãi_suất_72_một_năm_là_cao_hay_thấp_vậy/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-17T12:04:48+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1qfixz8</id>
     <title>Trải nghiệm đi du học Thạc sĩ</title>
     <updated>2026-01-17T17:17:36+00:00</updated>
@@ -123,6 +110,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qfixz8/trải_nghiệm_đi_du_học_thạc_sĩ/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-17T17:17:36+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qfbjoy</id>
+    <title>Lãi suất 7.2% một năm là cao hay thấp vậy</title>
+    <updated>2026-01-17T12:04:48+00:00</updated>
+    <author>
+      <name>/u/RelativeRiver</name>
+      <uri>https://old.reddit.com/user/RelativeRiver</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình lần đầu đi vay&lt;/p&gt; &lt;p&gt;Mình có thể trả hết một lần luôn nếu trúng số&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/RelativeRiver"&gt; /u/RelativeRiver &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qfbjoy/lãi_suất_72_một_năm_là_cao_hay_thấp_vậy/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qfbjoy/lãi_suất_72_một_năm_là_cao_hay_thấp_vậy/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qfbjoy/lãi_suất_72_một_năm_là_cao_hay_thấp_vậy/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-17T12:04:48+00:00</published>
   </entry>
   <entry>
     <id>t3_1qf4i8a</id>
@@ -164,6 +164,19 @@
     <published>2026-01-16T23:36:36+00:00</published>
   </entry>
   <entry>
+    <id>t3_1qfv25e</id>
+    <title>Netflix</title>
+    <updated>2026-01-18T01:29:37+00:00</updated>
+    <author>
+      <name>/u/Lynn_Dreamer</name>
+      <uri>https://old.reddit.com/user/Lynn_Dreamer</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Có bro nào còn slot netflix không? Share mình với ạ. &lt;/p&gt; &lt;p&gt;Mình cám ơn nhiều 😍&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Lynn_Dreamer"&gt; /u/Lynn_Dreamer &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qfv25e/netflix/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qfv25e/netflix/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qfv25e/netflix/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-18T01:29:37+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1qf0wwk</id>
     <title>Ae có ai bị lừa trả tiền vay này kia chưa</title>
     <updated>2026-01-17T02:36:59+00:00</updated>
@@ -177,17 +190,17 @@
     <published>2026-01-17T02:36:59+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qfv25e</id>
-    <title>Netflix</title>
-    <updated>2026-01-18T01:29:37+00:00</updated>
+    <id>t3_1qfzu0m</id>
+    <title>Ông anh giai này có uy tín không mọi người?</title>
+    <updated>2026-01-18T05:18:21+00:00</updated>
     <author>
-      <name>/u/Lynn_Dreamer</name>
-      <uri>https://old.reddit.com/user/Lynn_Dreamer</uri>
+      <name>/u/yukana132</name>
+      <uri>https://old.reddit.com/user/yukana132</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Có bro nào còn slot netflix không? Share mình với ạ. &lt;/p&gt; &lt;p&gt;Mình cám ơn nhiều 😍&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Lynn_Dreamer"&gt; /u/Lynn_Dreamer &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qfv25e/netflix/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qfv25e/netflix/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qfv25e/netflix/"/>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1qfzu0m/ông_anh_giai_này_có_uy_tín_không_mọi_người/"&gt; &lt;img alt="Ông anh giai này có uy tín không mọi người?" src="https://preview.redd.it/k2omorgbl1eg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=635909b37cc1791a0665d15d1c7d89db75ffef54" title="Ông anh giai này có uy tín không mọi người?" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác, hiện tại em có 2 tài khoản FB của em 1 đang dính gậy không lí do có flag đỏ và 1 tài khoản bị hack bị đè @hotmail. Lúc em lướt qua thấy tài khoản &amp;quot;cứu trợ&amp;quot; facebook với hơn 200k followers bảo uy tín chất lượng, nên em không biết ông anh giai này có ổn không? Mong các bác check giúp em ạ. Em không seeding hay Pr. Em cảm ơn.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/yukana132"&gt; /u/yukana132 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/k2omorgbl1eg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qfzu0m/ông_anh_giai_này_có_uy_tín_không_mọi_người/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qfzu0m/ông_anh_giai_này_có_uy_tín_không_mọi_người/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-18T01:29:37+00:00</published>
+    <published>2026-01-18T05:18:21+00:00</published>
   </entry>
   <entry>
     <id>t3_1qf82n6</id>
@@ -318,18 +331,5 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qfy0kr/băng_đắt_tiền_với_băng_giá_rẻ_khác_biệt_nhiều/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-18T03:48:19+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1qfyfm6</id>
-    <title>Điều gì làm khiến một người luôn lan toả sự tích cực cho người khác?</title>
-    <updated>2026-01-18T04:08:11+00:00</updated>
-    <author>
-      <name>/u/Maleficent_Brush_838</name>
-      <uri>https://old.reddit.com/user/Maleficent_Brush_838</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Qua em được người ta khen là trông lúc nào cũng tươi cười yêu đời. Họ không bao giờ không thấy em với một nụ cười trên môi. Họ khen rằng trông em rất có năng lượng. Gần như hôm nào em cũng được khen về việc đó. Em lúc nào cũng trông như rất vui vẻ yêu đời,&lt;/p&gt; &lt;p&gt;Nhưng người ta không biết em chật vật với suy nghĩ tự sát hằng ngày một. Em cố gắng sốt sót từng ngày một. Em sống sót qua từng ngày chỉ để đợi tới ngày buổi trị liệu tâm lý mỗi một tuần một buổi.&lt;/p&gt; &lt;p&gt;Em không nói hay viết đoạn này để thể hiện sự edgy lỏ nào rằng tôi cười nhưng người ta không biết tôi khóc hay gì đó kiểu vậy. Em không biết thật. Em thắc mắc thật. Em không hề có chủ ý giả ra một hình ảnh tích cực nào. Em không hề cố ý hay chủ ý. Em có vẻ luôn cười dù em không hề nhận ra em đang cười và trong lòng em không hề cười. Em không hề biết mình luôn cười cho đến khi người ta chỉ ra cho em. Tại sao em luôn cười dù em không ý thức mình đang cười?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Maleficent_Brush_838"&gt; /u/Maleficent_Brush_838 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qfyfm6/điều_gì_làm_khiến_một_người_luôn_lan_toả_sự_tích/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qfyfm6/điều_gì_làm_khiến_một_người_luôn_lan_toả_sự_tích/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qfyfm6/điều_gì_làm_khiến_một_người_luôn_lan_toả_sự_tích/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-18T04:08:11+00:00</published>
   </entry>
 </feed>
