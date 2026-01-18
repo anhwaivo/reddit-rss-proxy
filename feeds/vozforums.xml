@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-18T16:23:20+00:00</updated>
+  <updated>2026-01-18T16:47:01+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1qfws16</id>
-    <title>Tìm việc freelancer</title>
-    <updated>2026-01-18T02:48:45+00:00</updated>
-    <author>
-      <name>/u/Street-Memory7196</name>
-      <uri>https://old.reddit.com/user/Street-Memory7196</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các chủ tịch, gần sắp tết nên em muốn kiếm việc freelancer kiếm xíu xèng. Hiện giờ mấy web đăng tin tuyển dụng còn uy tín không? Hay phải lên mấy hội nhóm fb để tìm (em thấy đa số lừa đảo là nhiều xD)&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Street-Memory7196"&gt; /u/Street-Memory7196 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qfws16/tìm_việc_freelancer/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qfws16/tìm_việc_freelancer/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qfws16/tìm_việc_freelancer/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-18T02:48:45+00:00</published>
-  </entry>
   <entry>
     <id>t3_1qfimtg</id>
     <title>Làm bạn với ex có khả thi không</title>
@@ -164,6 +151,19 @@
     <published>2026-01-18T08:54:32+00:00</published>
   </entry>
   <entry>
+    <id>t3_1qgd4ld</id>
+    <title>có app nào để track tài sản, đầu tư k ạ</title>
+    <updated>2026-01-18T16:32:36+00:00</updated>
+    <author>
+      <name>/u/Unable-Impression239</name>
+      <uri>https://old.reddit.com/user/Unable-Impression239</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mn dùng app nào để theo dõi chi tiêu, lợi nhuận đầu tư từ nhiều tài sản qua các năm v ạ&lt;/p&gt; &lt;p&gt;ở đây e vd như dùng mua stock thì nên mua qua đâu để có thể mua dc đa dạng mã phí ổn các kiểu chứ e thấy mỗi mã mua 1 app lại khó track phết&lt;/p&gt; &lt;p&gt;Mong được mn chia sẻ công cụ đầu tư bản thân đang dùng với. Thank you&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Unable-Impression239"&gt; /u/Unable-Impression239 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qgd4ld/có_app_nào_để_track_tài_sản_đầu_tư_k_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qgd4ld/có_app_nào_để_track_tài_sản_đầu_tư_k_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qgd4ld/có_app_nào_để_track_tài_sản_đầu_tư_k_ạ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-18T16:32:36+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1qg3sdq</id>
     <title>IT qua DA có được ko?</title>
     <updated>2026-01-18T09:01:12+00:00</updated>
@@ -188,19 +188,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qg5l0p/tư_vấn_giúp_thuốc_mọc_tóc_với/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-18T10:47:52+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1qgamj8</id>
-    <title>Làm thế nào để xử lý khúc mắc này ạ</title>
-    <updated>2026-01-18T14:55:41+00:00</updated>
-    <author>
-      <name>/u/AiiMitsU</name>
-      <uri>https://old.reddit.com/user/AiiMitsU</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hôm qua em và người yêu xảy ra một khúc mắc mà đến giờ em vẫn chưa biết nên giải quyết thế nào.&lt;/p&gt; &lt;p&gt;Tụi em yêu nhau hơn nửa năm, cả hai đều đã ra trường và đi làm được khoảng 3 năm. Hôm qua thời tiết đẹp, người yêu em rủ đi lượn cho thoải mái đầu óc. Em bắt xe lên chỗ bạn ấy làm, dự định là hai đứa sẽ đi một vòng quanh hồ rồi mua đồ ăn về phòng em.&lt;/p&gt; &lt;p&gt;Mọi thứ ban đầu diễn ra rất ổn. Chuyện chỉ bắt đầu khi đang đi trên đường thì người yêu em hỏi:&lt;br /&gt; “Anh có cất giúp em hai cái nút bịt tai chống ồn không?”&lt;/p&gt; &lt;p&gt;Em trả lời là lúc dọn phòng em thấy nó rơi dưới sàn, trông khá bẩn nên đã ném đi. Từ lúc đó, suốt cả chặng đường hơn chục cây số, bạn ấy im lặng hoàn toàn. Em có dỗ dành, nói sẽ chở về phòng em lấy cái mới, nhưng bạn ấy vẫn không nói gì.&lt;/p&gt; &lt;p&gt;Gần về tới phòng, em có nói đại ý là:&lt;br /&gt; “Anh đã lên đón em rồi, vậy mà chỉ vì hai cái nút bịt tai mà em im lặng suốt cả quãng đường, để anh nói một mình. Anh dọn phòng thấy nó rơi dưới sàn, bẩn nên mới ném đi, em cũng không dặn anh trước. Sao cứ mỗi lần có chuyện gì không vừa ý là em lại phản ứng như vậy?”&lt;/p&gt; &lt;p&gt;Rồi tiếp theo như nào các bác cũng đoán được rồi đấy.&lt;/p&gt; &lt;p&gt;Giờ em thật sự không biết nên làm gì tiếp theo cho đúng.Các bác cứu em chén này với, em cảm ơn!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/AiiMitsU"&gt; /u/AiiMitsU &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qgamj8/làm_thế_nào_để_xử_lý_khúc_mắc_này_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qgamj8/làm_thế_nào_để_xử_lý_khúc_mắc_này_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qgamj8/làm_thế_nào_để_xử_lý_khúc_mắc_này_ạ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-18T14:55:41+00:00</published>
   </entry>
   <entry>
     <id>t3_1qgb7kp</id>
@@ -242,17 +229,17 @@
     <published>2026-01-18T07:07:31+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qgcaev</id>
-    <title>Những bí mật trong môi trường quân ngũ mà bạn đã trải qua?</title>
-    <updated>2026-01-18T16:01:06+00:00</updated>
+    <id>t3_1qgamj8</id>
+    <title>Làm thế nào để xử lý khúc mắc này ạ</title>
+    <updated>2026-01-18T14:55:41+00:00</updated>
     <author>
-      <name>/u/Thien_VL</name>
-      <uri>https://old.reddit.com/user/Thien_VL</uri>
+      <name>/u/AiiMitsU</name>
+      <uri>https://old.reddit.com/user/AiiMitsU</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình đi NVQS 2016 - 2018, lúc đó phụ cấp hình như đâu đó 700 800 gì đó tuỳ quân hàm, trừ tiền mua vật chất cho đơn vị bla bla ra thì còn nhận được tầm 500 600. Một suy nghĩ rất sai lầm của người ngoài là &amp;quot;đi bộ đội nhà nước nuôi thì có tốn gì đâu&amp;quot; 🤫🤫🤫&lt;/p&gt; &lt;p&gt;Giá căn tin trong doanh trại giá mắc phải gấp rưỡi ở ngoài. Có nhiều thanh niên xài tiền không suy nghĩ cứ ký chịu căn tin đến lúc ra quân nhận trợ cấp ra quân thì đành ngậm ngùi đưa qua cho căn tin trả nợ hết 😌😌😌&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Thien_VL"&gt; /u/Thien_VL &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qgcaev/những_bí_mật_trong_môi_trường_quân_ngũ_mà_bạn_đã/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qgcaev/những_bí_mật_trong_môi_trường_quân_ngũ_mà_bạn_đã/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qgcaev/những_bí_mật_trong_môi_trường_quân_ngũ_mà_bạn_đã/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hôm qua em và người yêu xảy ra một khúc mắc mà đến giờ em vẫn chưa biết nên giải quyết thế nào.&lt;/p&gt; &lt;p&gt;Tụi em yêu nhau hơn nửa năm, cả hai đều đã ra trường và đi làm được khoảng 3 năm. Hôm qua thời tiết đẹp, người yêu em rủ đi lượn cho thoải mái đầu óc. Em bắt xe lên chỗ bạn ấy làm, dự định là hai đứa sẽ đi một vòng quanh hồ rồi mua đồ ăn về phòng em.&lt;/p&gt; &lt;p&gt;Mọi thứ ban đầu diễn ra rất ổn. Chuyện chỉ bắt đầu khi đang đi trên đường thì người yêu em hỏi:&lt;br /&gt; “Anh có cất giúp em hai cái nút bịt tai chống ồn không?”&lt;/p&gt; &lt;p&gt;Em trả lời là &amp;quot;Lúc dọn phòng anh thấy nó rơi dưới sàn, trông khá bẩn nên đã ném đi&amp;quot;. Từ lúc đó, suốt cả chặng đường hơn chục cây số, bạn ấy im lặng hoàn toàn. Em có dỗ dành, nói sẽ chở về phòng em lấy cái mới, nhưng bạn ấy vẫn không nói gì.&lt;/p&gt; &lt;p&gt;Gần về tới phòng, em có nói đại ý là:&lt;br /&gt; “Anh đã lên đón em rồi, vậy mà chỉ vì hai cái nút bịt tai mà em im lặng suốt cả quãng đường, để anh nói một mình. Anh dọn phòng thấy nó rơi dưới sàn, bẩn nên mới ném đi, em cũng không dặn anh trước. Sao cứ mỗi lần có chuyện gì không vừa ý là em lại phản ứng như vậy?”&lt;/p&gt; &lt;p&gt;Rồi tiếp theo như nào các bác cũng đoán được rồi đấy.&lt;/p&gt; &lt;p&gt;Giờ em thật sự không biết nên làm gì tiếp theo cho đúng.Các bác cứu em chén này với, em cảm ơn!&lt;/p&gt; &lt;p&gt;P/s: Có nhiều bác đang hiểu nhầm câu chuyện em kể. Context: Đầu tuần ny sang chơi rồi ngủ lại, qua đc off em dọn phòng thấy rớt và bẩn nên ném. Tối qua đón ny thì bạn ấy hỏi&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/AiiMitsU"&gt; /u/AiiMitsU &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qgamj8/làm_thế_nào_để_xử_lý_khúc_mắc_này_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qgamj8/làm_thế_nào_để_xử_lý_khúc_mắc_này_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qgamj8/làm_thế_nào_để_xử_lý_khúc_mắc_này_ạ/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-18T16:01:06+00:00</published>
+    <published>2026-01-18T14:55:41+00:00</published>
   </entry>
   <entry>
     <id>t3_1qg9d5v</id>
@@ -292,6 +279,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qg76qu/nên_niềng_răng_hay_implant/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-18T12:19:16+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qgcaev</id>
+    <title>Những bí mật trong môi trường quân ngũ mà bạn đã trải qua?</title>
+    <updated>2026-01-18T16:01:06+00:00</updated>
+    <author>
+      <name>/u/Thien_VL</name>
+      <uri>https://old.reddit.com/user/Thien_VL</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình đi NVQS 2016 - 2018, lúc đó phụ cấp hình như đâu đó 700 800 gì đó tuỳ quân hàm, trừ tiền mua vật chất cho đơn vị bla bla ra thì còn nhận được tầm 500 600. Một suy nghĩ rất sai lầm của người ngoài là &amp;quot;đi bộ đội nhà nước nuôi thì có tốn gì đâu&amp;quot; 🤫🤫🤫&lt;/p&gt; &lt;p&gt;Giá căn tin trong doanh trại giá mắc phải gấp rưỡi ở ngoài. Có nhiều thanh niên xài tiền không suy nghĩ cứ ký chịu căn tin đến lúc ra quân nhận trợ cấp ra quân thì đành ngậm ngùi đưa qua cho căn tin trả nợ hết 😌😌😌&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Thien_VL"&gt; /u/Thien_VL &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qgcaev/những_bí_mật_trong_môi_trường_quân_ngũ_mà_bạn_đã/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qgcaev/những_bí_mật_trong_môi_trường_quân_ngũ_mà_bạn_đã/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qgcaev/những_bí_mật_trong_môi_trường_quân_ngũ_mà_bạn_đã/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-18T16:01:06+00:00</published>
   </entry>
   <entry>
     <id>t3_1qg0ua9</id>
