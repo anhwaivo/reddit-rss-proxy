@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-18T13:17:59+00:00</updated>
+  <updated>2026-01-18T13:45:49+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -229,6 +229,19 @@
     <published>2026-01-18T09:01:12+00:00</published>
   </entry>
   <entry>
+    <id>t3_1qg8xi2</id>
+    <title>review cv</title>
+    <updated>2026-01-18T13:44:33+00:00</updated>
+    <author>
+      <name>/u/bre3ze12</name>
+      <uri>https://old.reddit.com/user/bre3ze12</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1qg8xi2/review_cv/"&gt; &lt;img alt="review cv" src="https://preview.redd.it/9ythk7cb34eg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=a9f75f0d9f4f9b14a1f3eebe0a16f23e9ca29a9b" title="review cv" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;em định hướng làm System Administrator hoặc Network Engineer, mong các bác góp ý giúp em hoàn thiện CV hơn&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/bre3ze12"&gt; /u/bre3ze12 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/9ythk7cb34eg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qg8xi2/review_cv/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qg8xi2/review_cv/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-18T13:44:33+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1qfv3r5</id>
     <title>E lo quá mn</title>
     <updated>2026-01-18T01:31:42+00:00</updated>
@@ -268,32 +281,6 @@
     <published>2026-01-18T08:54:32+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qg1ur9</id>
-    <title>Em muốn hỏi chút về con đường phát triển sự nghiệp ạ</title>
-    <updated>2026-01-18T07:07:31+00:00</updated>
-    <author>
-      <name>/u/Old_Succotash_4601</name>
-      <uri>https://old.reddit.com/user/Old_Succotash_4601</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người ,như tiêu đề , em muốn hỏi chút về con đường phát triển bản thân ạ.&lt;/p&gt; &lt;p&gt;Em sinh năm 2003 (22 tuổi), làm backend Php và không biết nên học thêm gì để tăng trình độ mình lên. Em có dự tính các đính hướng như sau :&lt;/p&gt; &lt;ol&gt; &lt;li&gt;&lt;p&gt;Cày leetcode , thuật toán&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Build 1 project mới prepare để áp dụng cho project của công ty (dùng ddd ,clean , và apply những thứ mình chưa biết vào đó , nếu thành công thì áp dụng vào dự án của cty , do cty không có ba và design nên việc cấu trúc code từ đầu là rất khó)&lt;/p&gt;&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;3.Bỏ tiền túi ra học tiếng anh , nhưng thời gian rất kín (8 tiếng làm và 3 tiếng học liên thông) , em không biết có nên đầu tư thời gian vào không&lt;/p&gt; &lt;ol&gt; &lt;li&gt;&lt;p&gt;Em có đầu tư phần cứng , cụ thể là 3060 12gb ,năm trước em có học gia sư về ai (ở NEU) , hiện em có cái nhìn tổng quan về ngành , nhưng thực sự không biết nên tập trung vào mảng nào của ai cho phù hợp với backend, vì theo như bạn ấy nói thì chủ yếu liên quan đến ops là chính&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Em có nên tiếp tục sở thích của mình không , cụ thể là reverse engine . Việc học reverse thú vị hơn nhiều so với làm những thứ khác , nhưng vì nó gần như không liên quan gì trực tiếp với be và cực kì mất thời gian để học ,nên em không biết có nên tiếp tục không.&lt;/p&gt;&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Em mong các anh chị đi trước cho em xin chút lời khuyên để có thể đi đúng hướng cho tương lai. Em cảm ơn mọi người rất nhiều ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Old_Succotash_4601"&gt; /u/Old_Succotash_4601 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qg1ur9/em_muốn_hỏi_chút_về_con_đường_phát_triển_sự/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qg1ur9/em_muốn_hỏi_chút_về_con_đường_phát_triển_sự/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qg1ur9/em_muốn_hỏi_chút_về_con_đường_phát_triển_sự/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-18T07:07:31+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1qg7f0o</id>
-    <title>Có ai hay tưởng tượng cảnh mình die như nào không</title>
-    <updated>2026-01-18T12:31:40+00:00</updated>
-    <author>
-      <name>/u/Brilliant-Drummer-61</name>
-      <uri>https://old.reddit.com/user/Brilliant-Drummer-61</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình bị thói như vậy từ đợt stress nặng hồi cấp 2, cấp 3. Giờ lên đại học rồi, vẫn vậy. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Brilliant-Drummer-61"&gt; /u/Brilliant-Drummer-61 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qg7f0o/có_ai_hay_tưởng_tượng_cảnh_mình_die_như_nào_không/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qg7f0o/có_ai_hay_tưởng_tượng_cảnh_mình_die_như_nào_không/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qg7f0o/có_ai_hay_tưởng_tượng_cảnh_mình_die_như_nào_không/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-18T12:31:40+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1qfy0kr</id>
     <title>Băng đắt tiền với băng giá rẻ khác biệt nhiều không các bác?</title>
     <updated>2026-01-18T03:48:19+00:00</updated>
@@ -318,6 +305,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qg5l0p/tư_vấn_giúp_thuốc_mọc_tóc_với/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-18T10:47:52+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qg1ur9</id>
+    <title>Em muốn hỏi chút về con đường phát triển sự nghiệp ạ</title>
+    <updated>2026-01-18T07:07:31+00:00</updated>
+    <author>
+      <name>/u/Old_Succotash_4601</name>
+      <uri>https://old.reddit.com/user/Old_Succotash_4601</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người ,như tiêu đề , em muốn hỏi chút về con đường phát triển bản thân ạ.&lt;/p&gt; &lt;p&gt;Em sinh năm 2003 (22 tuổi), làm backend Php và không biết nên học thêm gì để tăng trình độ mình lên. Em có dự tính các đính hướng như sau :&lt;/p&gt; &lt;ol&gt; &lt;li&gt;&lt;p&gt;Cày leetcode , thuật toán&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Build 1 project mới prepare để áp dụng cho project của công ty (dùng ddd ,clean , và apply những thứ mình chưa biết vào đó , nếu thành công thì áp dụng vào dự án của cty , do cty không có ba và design nên việc cấu trúc code từ đầu là rất khó)&lt;/p&gt;&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;3.Bỏ tiền túi ra học tiếng anh , nhưng thời gian rất kín (8 tiếng làm và 3 tiếng học liên thông) , em không biết có nên đầu tư thời gian vào không&lt;/p&gt; &lt;ol&gt; &lt;li&gt;&lt;p&gt;Em có đầu tư phần cứng , cụ thể là 3060 12gb ,năm trước em có học gia sư về ai (ở NEU) , hiện em có cái nhìn tổng quan về ngành , nhưng thực sự không biết nên tập trung vào mảng nào của ai cho phù hợp với backend, vì theo như bạn ấy nói thì chủ yếu liên quan đến ops là chính&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Em có nên tiếp tục sở thích của mình không , cụ thể là reverse engine . Việc học reverse thú vị hơn nhiều so với làm những thứ khác , nhưng vì nó gần như không liên quan gì trực tiếp với be và cực kì mất thời gian để học ,nên em không biết có nên tiếp tục không.&lt;/p&gt;&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Em mong các anh chị đi trước cho em xin chút lời khuyên để có thể đi đúng hướng cho tương lai. Em cảm ơn mọi người rất nhiều ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Old_Succotash_4601"&gt; /u/Old_Succotash_4601 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qg1ur9/em_muốn_hỏi_chút_về_con_đường_phát_triển_sự/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qg1ur9/em_muốn_hỏi_chút_về_con_đường_phát_triển_sự/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qg1ur9/em_muốn_hỏi_chút_về_con_đường_phát_triển_sự/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-18T07:07:31+00:00</published>
   </entry>
   <entry>
     <id>t3_1qg0ua9</id>
