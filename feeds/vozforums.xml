@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-18T10:20:07+00:00</updated>
+  <updated>2026-01-18T10:44:03+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -177,6 +177,19 @@
     <published>2026-01-17T17:06:09+00:00</published>
   </entry>
   <entry>
+    <id>t3_1qg49ka</id>
+    <title>China vs Vietnam - politics?</title>
+    <updated>2026-01-18T09:29:05+00:00</updated>
+    <author>
+      <name>/u/OkAfternoon5455</name>
+      <uri>https://old.reddit.com/user/OkAfternoon5455</uri>
+    </author>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/OkAfternoon5455"&gt; /u/OkAfternoon5455 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qg49ka/china_vs_vietnam_politics/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qg49ka/china_vs_vietnam_politics/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qg49ka/china_vs_vietnam_politics/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-18T09:29:05+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1qfws16</id>
     <title>Tìm việc freelancer</title>
     <updated>2026-01-18T02:48:45+00:00</updated>
@@ -229,17 +242,17 @@
     <published>2026-01-18T08:35:33+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qg49ka</id>
-    <title>China vs Vietnam - politics?</title>
-    <updated>2026-01-18T09:29:05+00:00</updated>
+    <id>t3_1qg3sdq</id>
+    <title>IT qua DA có được ko?</title>
+    <updated>2026-01-18T09:01:12+00:00</updated>
     <author>
-      <name>/u/OkAfternoon5455</name>
-      <uri>https://old.reddit.com/user/OkAfternoon5455</uri>
+      <name>/u/Weak_Wolverine7179</name>
+      <uri>https://old.reddit.com/user/Weak_Wolverine7179</uri>
     </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/OkAfternoon5455"&gt; /u/OkAfternoon5455 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qg49ka/china_vs_vietnam_politics/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qg49ka/china_vs_vietnam_politics/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qg49ka/china_vs_vietnam_politics/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác. Em 2k2, từ lúc tốt nghiệp làm dev ERP, tuy nhiên công việc ko phù hợp vì phải đi công tác nhiều ở các KCN nên đang có dự tính học thêm để chuyển qua DA ( vì ERP làm nhiều SQL nên em khá tự tin về cái này ). Vậy có bác nào có kinh nghiệm về DA thì cho em xin lời khuyên về một số điều sau với ạ:&lt;/p&gt; &lt;p&gt;● Cơ hội nghề nghiệp: hiện tại và tương lai thị trường DA như nào ạ?&lt;/p&gt; &lt;p&gt;● Cần học chuyên sâu gì để có thể apply được các job DA ạ?&lt;/p&gt; &lt;p&gt;Em xin cảm ơn các bác nhiều!!!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Weak_Wolverine7179"&gt; /u/Weak_Wolverine7179 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qg3sdq/it_qua_da_có_được_ko/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qg3sdq/it_qua_da_có_được_ko/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qg3sdq/it_qua_da_có_được_ko/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-18T09:29:05+00:00</published>
+    <published>2026-01-18T09:01:12+00:00</published>
   </entry>
   <entry>
     <id>t3_1qg3o2p</id>
@@ -253,19 +266,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qg3o2p/lấy_gốc_toán_12/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-18T08:54:32+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1qg3sdq</id>
-    <title>IT qua DA có được ko?</title>
-    <updated>2026-01-18T09:01:12+00:00</updated>
-    <author>
-      <name>/u/Weak_Wolverine7179</name>
-      <uri>https://old.reddit.com/user/Weak_Wolverine7179</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác. Em 2k2, từ lúc tốt nghiệp làm dev ERP, tuy nhiên công việc ko phù hợp vì phải đi công tác nhiều ở các KCN nên đang có dự tính học thêm để chuyển qua DA ( vì ERP làm nhiều SQL nên em khá tự tin về cái này ). Vậy có bác nào có kinh nghiệm về DA thì cho em xin lời khuyên về một số điều sau với ạ:&lt;/p&gt; &lt;p&gt;● Cơ hội nghề nghiệp: hiện tại và tương lai thị trường DA như nào ạ?&lt;/p&gt; &lt;p&gt;● Cần học chuyên sâu gì để có thể apply được các job DA ạ?&lt;/p&gt; &lt;p&gt;Em xin cảm ơn các bác nhiều!!!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Weak_Wolverine7179"&gt; /u/Weak_Wolverine7179 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qg3sdq/it_qua_da_có_được_ko/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qg3sdq/it_qua_da_có_được_ko/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qg3sdq/it_qua_da_có_được_ko/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-18T09:01:12+00:00</published>
   </entry>
   <entry>
     <id>t3_1qfv3r5</id>
