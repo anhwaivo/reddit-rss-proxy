@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-18T07:50:34+00:00</updated>
+  <updated>2026-01-18T08:25:53+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1qf2aso</id>
-    <title>Tiếng anh</title>
-    <updated>2026-01-17T03:32:51+00:00</updated>
-    <author>
-      <name>/u/Antique-Alps-2647</name>
-      <uri>https://old.reddit.com/user/Antique-Alps-2647</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Vợ mình không biết 1 chút gì về tiếng anh , mình muốn cho vợ biết chút tiếng anh giao tiếp mà k biết bắt đầu từ đâu , có cách nào hoặc công việc nào có thể rèn luyện tiếng anh hằng ngày k các b?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Antique-Alps-2647"&gt; /u/Antique-Alps-2647 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qf2aso/tiếng_anh/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qf2aso/tiếng_anh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qf2aso/tiếng_anh/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-17T03:32:51+00:00</published>
-  </entry>
   <entry>
     <id>t3_1qf9p94</id>
     <title>Xin tư vấn: Dịch &amp; công chứng bằng đại học Nhật để học Văn bằng 2 tại Việt Nam</title>
@@ -73,19 +60,6 @@
     <published>2026-01-17T08:46:27+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qfixz8</id>
-    <title>Trải nghiệm đi du học Thạc sĩ</title>
-    <updated>2026-01-17T17:17:36+00:00</updated>
-    <author>
-      <name>/u/Inevitable_Sport8122</name>
-      <uri>https://old.reddit.com/user/Inevitable_Sport8122</uri>
-    </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Inevitable_Sport8122"&gt; /u/Inevitable_Sport8122 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qfixz8/trải_nghiệm_đi_du_học_thạc_sĩ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qfixz8/trải_nghiệm_đi_du_học_thạc_sĩ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qfixz8/trải_nghiệm_đi_du_học_thạc_sĩ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-17T17:17:36+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1qfbjoy</id>
     <title>Lãi suất 7.2% một năm là cao hay thấp vậy</title>
     <updated>2026-01-17T12:04:48+00:00</updated>
@@ -136,6 +110,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qfwy5m/lên_trình_cầu_lông/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-18T02:56:50+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qfixz8</id>
+    <title>Trải nghiệm đi du học Thạc sĩ</title>
+    <updated>2026-01-17T17:17:36+00:00</updated>
+    <author>
+      <name>/u/Inevitable_Sport8122</name>
+      <uri>https://old.reddit.com/user/Inevitable_Sport8122</uri>
+    </author>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Inevitable_Sport8122"&gt; /u/Inevitable_Sport8122 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qfixz8/trải_nghiệm_đi_du_học_thạc_sĩ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qfixz8/trải_nghiệm_đi_du_học_thạc_sĩ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qfixz8/trải_nghiệm_đi_du_học_thạc_sĩ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-17T17:17:36+00:00</published>
   </entry>
   <entry>
     <id>t3_1qew68b</id>
@@ -216,6 +203,19 @@
     <published>2026-01-17T17:06:09+00:00</published>
   </entry>
   <entry>
+    <id>t3_1qg2zoq</id>
+    <title>Mình tìm công việc remote ở Blue Ocean Community</title>
+    <updated>2026-01-18T08:14:31+00:00</updated>
+    <author>
+      <name>/u/honghotvotoiva</name>
+      <uri>https://old.reddit.com/user/honghotvotoiva</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1qg2zoq/mình_tìm_công_việc_remote_ở_blue_ocean_community/"&gt; &lt;img alt="Mình tìm công việc remote ở Blue Ocean Community" src="https://preview.redd.it/qeu59nlnb2eg1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=4c2b723a0bf3d4a9ad980d33d6405e6b65135d6b" title="Mình tìm công việc remote ở Blue Ocean Community" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mấy ngày nay mình thấy các bài đăng về tìm việc online, tìm việc remote đang được mọi người quan tâm nhiều. Mình cũng đang tìm giống mấy bạn, thì tình cờ biết cộng đồng này. Mấy bạn trong này sẽ giống như mấy bộ lọc ấy vì họ cũng xuất thân từ HR, các công việc họ tìm phần lớn đến từ các mối quan hệ quen biết với đội ngũ HR trên linkedin, phần nhỏ sẽ đến từ các trang tìm việc trong và ngoài nước. Cho nên tỉ lệ gặp công ty scam sẽ được giảm thiểu tối đa nhất có thể.&lt;/p&gt; &lt;p&gt;Để vô nhóm bạn &lt;strong&gt;&lt;em&gt;phải điền thẻ tín dụng mới vô được nha&lt;/em&gt;&lt;/strong&gt;, vì nó nằm trên nền tảng skool.com. &lt;strong&gt;&lt;em&gt;Group đó có phí 5$/tháng&lt;/em&gt;&lt;/strong&gt;. Khoan hãy sợ haha, tụi mình có &lt;strong&gt;&lt;em&gt;7 ngày để đi dạo trong đó, bạn thấy không hợp thì out&lt;/em&gt;&lt;/strong&gt;, &lt;strong&gt;&lt;em&gt;lúc điền thẻ chưa có trừ tiền bạn&lt;/em&gt;&lt;/strong&gt;. Sau ngày thứ 7 mới bị trừ tiền, bạn phải &lt;strong&gt;&lt;em&gt;hủy trước ngày 7 để qua ngày hôm sau là bị trừ 5$ đó&lt;/em&gt;&lt;/strong&gt; mà lúc đó người ta sẽ &lt;strong&gt;&lt;em&gt;không hoàn tiền vì đã cảnh báo trước&lt;/em&gt;&lt;/strong&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Bản thân mình cũng mới vô nhóm nhưng vẫn chưa tìm được công việc phù hợp do &lt;strong&gt;&lt;em&gt;năng lực bản thân còn kém đang trau dồi thêm và tiếng anh của mình thì hơi yếu&lt;/em&gt;&lt;/strong&gt;. Bạn nào cần định hướng về công việc có thể gặp 1-1 với admin Adele Doan, đó là ưu đãi cho thành viên chính thức hoặc thành viên từ level 2 trở lên. Các bạn có thể học cách sửa lại CV, profile linkedin sao cho chuyên nghiệp, trò chuyện với các mem khác và kết nối với họ học hỏi thêm….&lt;/p&gt; &lt;p&gt;Đó mấy bạn tham khảo đi, không có scam dụ dỗ lùa gà gì đâu, công việc thì ít mà đít thì nhiều, tìm trên mấy web lớn cạnh tranh cực cao. Cho nên mình thấy chỗ này cũng ok mình giới thiệu cho mấy bạn. Chúc các bạn tìm được việc như mong muốn nhé ^^.&lt;/p&gt; &lt;p&gt;vô link fb của admin&lt;/p&gt; &lt;h1&gt;&lt;a href="https://www.facebook.com/adeledoan.blog"&gt;https://www.facebook.com/adeledoan.blog&lt;/a&gt;&lt;/h1&gt; &lt;p&gt;mấy bạn comment: “JD” là sẽ nhận được đường dẫn tới nền tảng skool&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/honghotvotoiva"&gt; /u/honghotvotoiva &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/qeu59nlnb2eg1.png"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qg2zoq/mình_tìm_công_việc_remote_ở_blue_ocean_community/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qg2zoq/mình_tìm_công_việc_remote_ở_blue_ocean_community/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-18T08:14:31+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1qfhh8g</id>
     <title>Quảng cáo trên Youtube</title>
     <updated>2026-01-17T16:22:34+00:00</updated>
@@ -268,19 +268,6 @@
     <published>2026-01-18T07:36:34+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qg1ur9</id>
-    <title>Em muốn hỏi chút về con đường phát triển sự nghiệp ạ</title>
-    <updated>2026-01-18T07:07:31+00:00</updated>
-    <author>
-      <name>/u/Old_Succotash_4601</name>
-      <uri>https://old.reddit.com/user/Old_Succotash_4601</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người ,như tiêu đề , em muốn hỏi chút về con đường phát triển bản thân ạ.&lt;/p&gt; &lt;p&gt;Em sinh năm 2003 (22 tuổi), làm backend Php và không biết nên học thêm gì để tăng trình độ mình lên. Em có dự tính các đính hướng như sau :&lt;/p&gt; &lt;ol&gt; &lt;li&gt;&lt;p&gt;Cày leetcode , thuật toán&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Build 1 project mới prepare để áp dụng cho project của công ty (dùng ddd ,clean , và apply những thứ mình chưa biết vào đó , nếu thành công thì áp dụng vào dự án của cty , do cty không có ba và design nên việc cấu trúc code từ đầu là rất khó)&lt;/p&gt;&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;3.Bỏ tiền túi ra học tiếng anh , nhưng thời gian rất kín (8 tiếng làm và 3 tiếng học liên thông) , em không biết có nên đầu tư thời gian vào không&lt;/p&gt; &lt;ol&gt; &lt;li&gt;&lt;p&gt;Em có đầu tư phần cứng , cụ thể là 3060 12gb ,năm trước em có học gia sư về ai (ở NEU) , hiện em có cái nhìn tổng quan về ngành , nhưng thực sự không biết nên tập trung vào mảng nào của ai cho phù hợp với backend, vì theo như bạn ấy nói thì chủ yếu liên quan đến ops là chính&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Em có nên tiếp tục sở thích của mình không , cụ thể là reverse engine . Việc học reverse thú vị hơn nhiều so với làm những thứ khác , nhưng vì nó gần như không liên quan gì trực tiếp với be và cực kì mất thời gian để học ,nên em không biết có nên tiếp tục không.&lt;/p&gt;&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Em mong các anh chị đi trước cho em xin chút lời khuyên để có thể đi đúng hướng cho tương lai. Em cảm ơn mọi người rất nhiều ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Old_Succotash_4601"&gt; /u/Old_Succotash_4601 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qg1ur9/em_muốn_hỏi_chút_về_con_đường_phát_triển_sự/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qg1ur9/em_muốn_hỏi_chút_về_con_đường_phát_triển_sự/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qg1ur9/em_muốn_hỏi_chút_về_con_đường_phát_triển_sự/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-18T07:07:31+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1qfwms5</id>
     <title>Cíp tồ</title>
     <updated>2026-01-18T02:42:11+00:00</updated>
@@ -305,6 +292,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qfv3r5/e_lo_quá_mn/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-18T01:31:42+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qg1ur9</id>
+    <title>Em muốn hỏi chút về con đường phát triển sự nghiệp ạ</title>
+    <updated>2026-01-18T07:07:31+00:00</updated>
+    <author>
+      <name>/u/Old_Succotash_4601</name>
+      <uri>https://old.reddit.com/user/Old_Succotash_4601</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người ,như tiêu đề , em muốn hỏi chút về con đường phát triển bản thân ạ.&lt;/p&gt; &lt;p&gt;Em sinh năm 2003 (22 tuổi), làm backend Php và không biết nên học thêm gì để tăng trình độ mình lên. Em có dự tính các đính hướng như sau :&lt;/p&gt; &lt;ol&gt; &lt;li&gt;&lt;p&gt;Cày leetcode , thuật toán&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Build 1 project mới prepare để áp dụng cho project của công ty (dùng ddd ,clean , và apply những thứ mình chưa biết vào đó , nếu thành công thì áp dụng vào dự án của cty , do cty không có ba và design nên việc cấu trúc code từ đầu là rất khó)&lt;/p&gt;&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;3.Bỏ tiền túi ra học tiếng anh , nhưng thời gian rất kín (8 tiếng làm và 3 tiếng học liên thông) , em không biết có nên đầu tư thời gian vào không&lt;/p&gt; &lt;ol&gt; &lt;li&gt;&lt;p&gt;Em có đầu tư phần cứng , cụ thể là 3060 12gb ,năm trước em có học gia sư về ai (ở NEU) , hiện em có cái nhìn tổng quan về ngành , nhưng thực sự không biết nên tập trung vào mảng nào của ai cho phù hợp với backend, vì theo như bạn ấy nói thì chủ yếu liên quan đến ops là chính&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Em có nên tiếp tục sở thích của mình không , cụ thể là reverse engine . Việc học reverse thú vị hơn nhiều so với làm những thứ khác , nhưng vì nó gần như không liên quan gì trực tiếp với be và cực kì mất thời gian để học ,nên em không biết có nên tiếp tục không.&lt;/p&gt;&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Em mong các anh chị đi trước cho em xin chút lời khuyên để có thể đi đúng hướng cho tương lai. Em cảm ơn mọi người rất nhiều ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Old_Succotash_4601"&gt; /u/Old_Succotash_4601 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qg1ur9/em_muốn_hỏi_chút_về_con_đường_phát_triển_sự/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qg1ur9/em_muốn_hỏi_chút_về_con_đường_phát_triển_sự/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qg1ur9/em_muốn_hỏi_chút_về_con_đường_phát_triển_sự/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-18T07:07:31+00:00</published>
   </entry>
   <entry>
     <id>t3_1qfy0kr</id>
