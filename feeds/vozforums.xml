@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-18T19:29:10+00:00</updated>
+  <updated>2026-01-18T19:40:55+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -164,19 +164,6 @@
     <published>2026-01-18T15:19:06+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qg1ur9</id>
-    <title>Em muốn hỏi chút về con đường phát triển sự nghiệp ạ</title>
-    <updated>2026-01-18T07:07:31+00:00</updated>
-    <author>
-      <name>/u/Old_Succotash_4601</name>
-      <uri>https://old.reddit.com/user/Old_Succotash_4601</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người ,như tiêu đề , em muốn hỏi chút về con đường phát triển bản thân ạ.&lt;/p&gt; &lt;p&gt;Em sinh năm 2003 (22 tuổi), làm backend Php và không biết nên học thêm gì để tăng trình độ mình lên. Em có dự tính các đính hướng như sau :&lt;/p&gt; &lt;ol&gt; &lt;li&gt;&lt;p&gt;Cày leetcode , thuật toán&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Build 1 project mới prepare để áp dụng cho project của công ty (dùng ddd ,clean , và apply những thứ mình chưa biết vào đó , nếu thành công thì áp dụng vào dự án của cty , do cty không có ba và design nên việc cấu trúc code từ đầu là rất khó)&lt;/p&gt;&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;3.Bỏ tiền túi ra học tiếng anh , nhưng thời gian rất kín (8 tiếng làm và 3 tiếng học liên thông) , em không biết có nên đầu tư thời gian vào không&lt;/p&gt; &lt;ol&gt; &lt;li&gt;&lt;p&gt;Em có đầu tư phần cứng , cụ thể là 3060 12gb ,năm trước em có học gia sư về ai (ở NEU) , hiện em có cái nhìn tổng quan về ngành , nhưng thực sự không biết nên tập trung vào mảng nào của ai cho phù hợp với backend, vì theo như bạn ấy nói thì chủ yếu liên quan đến ops là chính&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Em có nên tiếp tục sở thích của mình không , cụ thể là reverse engine . Việc học reverse thú vị hơn nhiều so với làm những thứ khác , nhưng vì nó gần như không liên quan gì trực tiếp với be và cực kì mất thời gian để học ,nên em không biết có nên tiếp tục không.&lt;/p&gt;&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Em mong các anh chị đi trước cho em xin chút lời khuyên để có thể đi đúng hướng cho tương lai. Em cảm ơn mọi người rất nhiều ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Old_Succotash_4601"&gt; /u/Old_Succotash_4601 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qg1ur9/em_muốn_hỏi_chút_về_con_đường_phát_triển_sự/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qg1ur9/em_muốn_hỏi_chút_về_con_đường_phát_triển_sự/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qg1ur9/em_muốn_hỏi_chút_về_con_đường_phát_triển_sự/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-18T07:07:31+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1qfy0kr</id>
     <title>Băng đắt tiền với băng giá rẻ khác biệt nhiều không các bác?</title>
     <updated>2026-01-18T03:48:19+00:00</updated>
@@ -188,6 +175,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qfy0kr/băng_đắt_tiền_với_băng_giá_rẻ_khác_biệt_nhiều/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-18T03:48:19+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qg1ur9</id>
+    <title>Em muốn hỏi chút về con đường phát triển sự nghiệp ạ</title>
+    <updated>2026-01-18T07:07:31+00:00</updated>
+    <author>
+      <name>/u/Old_Succotash_4601</name>
+      <uri>https://old.reddit.com/user/Old_Succotash_4601</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người ,như tiêu đề , em muốn hỏi chút về con đường phát triển bản thân ạ.&lt;/p&gt; &lt;p&gt;Em sinh năm 2003 (22 tuổi), làm backend Php và không biết nên học thêm gì để tăng trình độ mình lên. Em có dự tính các đính hướng như sau :&lt;/p&gt; &lt;ol&gt; &lt;li&gt;&lt;p&gt;Cày leetcode , thuật toán&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Build 1 project mới prepare để áp dụng cho project của công ty (dùng ddd ,clean , và apply những thứ mình chưa biết vào đó , nếu thành công thì áp dụng vào dự án của cty , do cty không có ba và design nên việc cấu trúc code từ đầu là rất khó)&lt;/p&gt;&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;3.Bỏ tiền túi ra học tiếng anh , nhưng thời gian rất kín (8 tiếng làm và 3 tiếng học liên thông) , em không biết có nên đầu tư thời gian vào không&lt;/p&gt; &lt;ol&gt; &lt;li&gt;&lt;p&gt;Em có đầu tư phần cứng , cụ thể là 3060 12gb ,năm trước em có học gia sư về ai (ở NEU) , hiện em có cái nhìn tổng quan về ngành , nhưng thực sự không biết nên tập trung vào mảng nào của ai cho phù hợp với backend, vì theo như bạn ấy nói thì chủ yếu liên quan đến ops là chính&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Em có nên tiếp tục sở thích của mình không , cụ thể là reverse engine . Việc học reverse thú vị hơn nhiều so với làm những thứ khác , nhưng vì nó gần như không liên quan gì trực tiếp với be và cực kì mất thời gian để học ,nên em không biết có nên tiếp tục không.&lt;/p&gt;&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Em mong các anh chị đi trước cho em xin chút lời khuyên để có thể đi đúng hướng cho tương lai. Em cảm ơn mọi người rất nhiều ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Old_Succotash_4601"&gt; /u/Old_Succotash_4601 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qg1ur9/em_muốn_hỏi_chút_về_con_đường_phát_triển_sự/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qg1ur9/em_muốn_hỏi_chút_về_con_đường_phát_triển_sự/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qg1ur9/em_muốn_hỏi_chút_về_con_đường_phát_triển_sự/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-18T07:07:31+00:00</published>
   </entry>
   <entry>
     <id>t3_1qgbo4q</id>
@@ -281,19 +281,6 @@
     <published>2026-01-18T06:11:35+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qgamj8</id>
-    <title>Làm thế nào để xử lý khúc mắc này ạ</title>
-    <updated>2026-01-18T14:55:41+00:00</updated>
-    <author>
-      <name>/u/AiiMitsU</name>
-      <uri>https://old.reddit.com/user/AiiMitsU</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hôm qua em và người yêu xảy ra một khúc mắc mà đến giờ em vẫn chưa biết nên giải quyết thế nào.&lt;/p&gt; &lt;p&gt;Tụi em yêu nhau hơn nửa năm, cả hai đều đã ra trường và đi làm được khoảng 3 năm. Hôm qua thời tiết đẹp, người yêu em rủ đi lượn cho thoải mái đầu óc. Em bắt xe lên chỗ bạn ấy làm, dự định là hai đứa sẽ đi một vòng quanh hồ rồi mua đồ ăn về phòng em.&lt;/p&gt; &lt;p&gt;Mọi thứ ban đầu diễn ra rất ổn. Chuyện chỉ bắt đầu khi đang đi trên đường thì người yêu em hỏi:&lt;br /&gt; “Anh có cất giúp em hai cái nút bịt tai chống ồn không?”&lt;/p&gt; &lt;p&gt;Em trả lời là &amp;quot;Lúc dọn phòng anh thấy nó rơi dưới sàn, trông khá bẩn nên đã ném đi&amp;quot;. Từ lúc đó, suốt cả chặng đường hơn chục cây số, bạn ấy im lặng hoàn toàn. Em có dỗ dành, nói sẽ chở về phòng em lấy cái mới, nhưng bạn ấy vẫn không nói gì.&lt;/p&gt; &lt;p&gt;Gần về tới phòng, em có nói đại ý là:&lt;br /&gt; “Anh đã lên đón em rồi, vậy mà chỉ vì hai cái nút bịt tai mà em im lặng suốt cả quãng đường, để anh nói một mình. Anh dọn phòng thấy nó rơi dưới sàn, bẩn nên mới ném đi, em cũng không dặn anh trước. Sao cứ mỗi lần có chuyện gì không vừa ý là em lại phản ứng như vậy?”&lt;/p&gt; &lt;p&gt;Rồi tiếp theo như nào các bác cũng đoán được rồi đấy.&lt;/p&gt; &lt;p&gt;Giờ em thật sự không biết nên làm gì tiếp theo cho đúng.Các bác cứu em chén này với, em cảm ơn!&lt;/p&gt; &lt;p&gt;P/s: Có nhiều bác đang hiểu nhầm câu chuyện em kể. Context: Đầu tuần ny sang chơi rồi ngủ lại, qua đc off em dọn phòng thấy rớt và bẩn nên ném. Tối qua đón ny thì bạn ấy hỏi&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/AiiMitsU"&gt; /u/AiiMitsU &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qgamj8/làm_thế_nào_để_xử_lý_khúc_mắc_này_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qgamj8/làm_thế_nào_để_xử_lý_khúc_mắc_này_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qgamj8/làm_thế_nào_để_xử_lý_khúc_mắc_này_ạ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-18T14:55:41+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1qg8xi2</id>
     <title>review cv</title>
     <updated>2026-01-18T13:44:33+00:00</updated>
@@ -305,6 +292,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qg8xi2/review_cv/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-18T13:44:33+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qgamj8</id>
+    <title>Làm thế nào để xử lý khúc mắc này ạ</title>
+    <updated>2026-01-18T14:55:41+00:00</updated>
+    <author>
+      <name>/u/AiiMitsU</name>
+      <uri>https://old.reddit.com/user/AiiMitsU</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hôm qua em và người yêu xảy ra một khúc mắc mà đến giờ em vẫn chưa biết nên giải quyết thế nào.&lt;/p&gt; &lt;p&gt;Tụi em yêu nhau hơn nửa năm, cả hai đều đã ra trường và đi làm được khoảng 3 năm. Hôm qua thời tiết đẹp, người yêu em rủ đi lượn cho thoải mái đầu óc. Em bắt xe lên chỗ bạn ấy làm, dự định là hai đứa sẽ đi một vòng quanh hồ rồi mua đồ ăn về phòng em.&lt;/p&gt; &lt;p&gt;Mọi thứ ban đầu diễn ra rất ổn. Chuyện chỉ bắt đầu khi đang đi trên đường thì người yêu em hỏi:&lt;br /&gt; “Anh có cất giúp em hai cái nút bịt tai chống ồn không?”&lt;/p&gt; &lt;p&gt;Em trả lời là &amp;quot;Lúc dọn phòng anh thấy nó rơi dưới sàn, trông khá bẩn nên đã ném đi&amp;quot;. Từ lúc đó, suốt cả chặng đường hơn chục cây số, bạn ấy im lặng hoàn toàn. Em có dỗ dành, nói sẽ chở về phòng em lấy cái mới, nhưng bạn ấy vẫn không nói gì.&lt;/p&gt; &lt;p&gt;Gần về tới phòng, em có nói đại ý là:&lt;br /&gt; “Anh đã lên đón em rồi, vậy mà chỉ vì hai cái nút bịt tai mà em im lặng suốt cả quãng đường, để anh nói một mình. Anh dọn phòng thấy nó rơi dưới sàn, bẩn nên mới ném đi, em cũng không dặn anh trước. Sao cứ mỗi lần có chuyện gì không vừa ý là em lại phản ứng như vậy?”&lt;/p&gt; &lt;p&gt;Rồi tiếp theo như nào các bác cũng đoán được rồi đấy.&lt;/p&gt; &lt;p&gt;Giờ em thật sự không biết nên làm gì tiếp theo cho đúng.Các bác cứu em chén này với, em cảm ơn!&lt;/p&gt; &lt;p&gt;P/s: Có nhiều bác đang hiểu nhầm câu chuyện em kể. Context: Đầu tuần ny sang chơi rồi ngủ lại, qua đc off em dọn phòng thấy rớt và bẩn nên ném. Tối qua đón ny thì bạn ấy hỏi&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/AiiMitsU"&gt; /u/AiiMitsU &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qgamj8/làm_thế_nào_để_xử_lý_khúc_mắc_này_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qgamj8/làm_thế_nào_để_xử_lý_khúc_mắc_này_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qgamj8/làm_thế_nào_để_xử_lý_khúc_mắc_này_ạ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-18T14:55:41+00:00</published>
   </entry>
   <entry>
     <id>t3_1qg9key</id>
