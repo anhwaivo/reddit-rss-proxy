@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-18T09:41:37+00:00</updated>
+  <updated>2026-01-18T09:51:46+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -125,19 +125,6 @@
     <published>2026-01-18T01:29:37+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qf0wwk</id>
-    <title>Ae có ai bị lừa trả tiền vay này kia chưa</title>
-    <updated>2026-01-17T02:36:59+00:00</updated>
-    <author>
-      <name>/u/Academic_Edge_5554</name>
-      <uri>https://old.reddit.com/user/Academic_Edge_5554</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1qf0wwk/ae_có_ai_bị_lừa_trả_tiền_vay_này_kia_chưa/"&gt; &lt;img alt="Ae có ai bị lừa trả tiền vay này kia chưa" src="https://preview.redd.it/kq9z3namntdg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=6fe446d3aa538c68d6bf962f004d5110cd56ec17" title="Ae có ai bị lừa trả tiền vay này kia chưa" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Academic_Edge_5554"&gt; /u/Academic_Edge_5554 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/kq9z3namntdg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qf0wwk/ae_có_ai_bị_lừa_trả_tiền_vay_này_kia_chưa/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qf0wwk/ae_có_ai_bị_lừa_trả_tiền_vay_này_kia_chưa/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-17T02:36:59+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1qf82n6</id>
     <title>Xin tip trị ở da mặt</title>
     <updated>2026-01-17T08:36:57+00:00</updated>
@@ -149,6 +136,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qf82n6/xin_tip_trị_ở_da_mặt/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-17T08:36:57+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qf0wwk</id>
+    <title>Ae có ai bị lừa trả tiền vay này kia chưa</title>
+    <updated>2026-01-17T02:36:59+00:00</updated>
+    <author>
+      <name>/u/Academic_Edge_5554</name>
+      <uri>https://old.reddit.com/user/Academic_Edge_5554</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1qf0wwk/ae_có_ai_bị_lừa_trả_tiền_vay_này_kia_chưa/"&gt; &lt;img alt="Ae có ai bị lừa trả tiền vay này kia chưa" src="https://preview.redd.it/kq9z3namntdg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=6fe446d3aa538c68d6bf962f004d5110cd56ec17" title="Ae có ai bị lừa trả tiền vay này kia chưa" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Academic_Edge_5554"&gt; /u/Academic_Edge_5554 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/kq9z3namntdg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qf0wwk/ae_có_ai_bị_lừa_trả_tiền_vay_này_kia_chưa/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qf0wwk/ae_có_ai_bị_lừa_trả_tiền_vay_này_kia_chưa/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-17T02:36:59+00:00</published>
   </entry>
   <entry>
     <id>t3_1qf8dzj</id>
