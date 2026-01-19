@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-19T05:30:31+00:00</updated>
+  <updated>2026-01-19T05:58:38+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1qgd4ld</id>
-    <title>có app nào để track tài sản, đầu tư k ạ</title>
-    <updated>2026-01-18T16:32:36+00:00</updated>
-    <author>
-      <name>/u/Unable-Impression239</name>
-      <uri>https://old.reddit.com/user/Unable-Impression239</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mn dùng app nào để theo dõi chi tiêu, lợi nhuận đầu tư từ nhiều tài sản qua các năm v ạ&lt;/p&gt; &lt;p&gt;ở đây e vd như dùng mua stock thì nên mua qua đâu để có thể mua dc đa dạng mã phí ổn các kiểu chứ e thấy mỗi mã mua 1 app lại khó track phết&lt;/p&gt; &lt;p&gt;Mong được mn chia sẻ công cụ đầu tư bản thân đang dùng với. Thank you&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Unable-Impression239"&gt; /u/Unable-Impression239 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qgd4ld/có_app_nào_để_track_tài_sản_đầu_tư_k_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qgd4ld/có_app_nào_để_track_tài_sản_đầu_tư_k_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qgd4ld/có_app_nào_để_track_tài_sản_đầu_tư_k_ạ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-18T16:32:36+00:00</published>
-  </entry>
   <entry>
     <id>t3_1qfy0kr</id>
     <title>Băng đắt tiền với băng giá rẻ khác biệt nhiều không các bác?</title>
@@ -60,19 +47,6 @@
     <published>2026-01-18T09:01:12+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qgbo4q</id>
-    <title>Kinh nghiệm khi có ny</title>
-    <updated>2026-01-18T15:37:22+00:00</updated>
-    <author>
-      <name>/u/longhairrfj112</name>
-      <uri>https://old.reddit.com/user/longhairrfj112</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mn ơi e cbi có ny ấy thì mn cho e hỏi khi iu thì sẽ có những hoạt động gì v ạ e thấy các cặp iu nhau hay có ảnh ăn uống với tặng quà cáp hoa hoét các thứ trông có vẻ tốn kém phết ạ vậy còn đi ăn đi chơi thì nên đi những đâu vui vui ạ e là nam ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/longhairrfj112"&gt; /u/longhairrfj112 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qgbo4q/kinh_nghiệm_khi_có_ny/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qgbo4q/kinh_nghiệm_khi_có_ny/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qgbo4q/kinh_nghiệm_khi_có_ny/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-18T15:37:22+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1qg76qu</id>
     <title>Nên niềng răng hay Implant?</title>
     <updated>2026-01-18T12:19:16+00:00</updated>
@@ -84,6 +58,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qg76qu/nên_niềng_răng_hay_implant/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-18T12:19:16+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qgbo4q</id>
+    <title>Kinh nghiệm khi có ny</title>
+    <updated>2026-01-18T15:37:22+00:00</updated>
+    <author>
+      <name>/u/longhairrfj112</name>
+      <uri>https://old.reddit.com/user/longhairrfj112</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mn ơi e cbi có ny ấy thì mn cho e hỏi khi iu thì sẽ có những hoạt động gì v ạ e thấy các cặp iu nhau hay có ảnh ăn uống với tặng quà cáp hoa hoét các thứ trông có vẻ tốn kém phết ạ vậy còn đi ăn đi chơi thì nên đi những đâu vui vui ạ e là nam ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/longhairrfj112"&gt; /u/longhairrfj112 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qgbo4q/kinh_nghiệm_khi_có_ny/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qgbo4q/kinh_nghiệm_khi_có_ny/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qgbo4q/kinh_nghiệm_khi_có_ny/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-18T15:37:22+00:00</published>
   </entry>
   <entry>
     <id>t3_1qgboze</id>
@@ -110,19 +97,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qg9d5v/học_nghề_massage_liệu_có_ổn_không/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-18T14:03:04+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1qgskbx</id>
-    <title>Yêu, nhưng để cùng đồng hành trong hôn nhân thì khó</title>
-    <updated>2026-01-19T03:03:39+00:00</updated>
-    <author>
-      <name>/u/NoMarionberry8241</name>
-      <uri>https://old.reddit.com/user/NoMarionberry8241</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em năm nay tầm 27(M). Em không có một câu chuyện rõ ràng nào muốn kể. chỉ là trong chuyện tình yêu hiện tại của em, sau nhiều lần cãi nhau hay thể hiện quan điểm của nhau, em lại có cảm giác như tiêu đề vậy.&lt;/p&gt; &lt;p&gt;Không hẳn là ai đúng ai sai, chỉ là em cảm thấy đích đến và mục tiêu sống ( hay là phong thái sống?) em ko biết dùng từ gì cho chuẩn, nhma cả 2 đang có vẻ ko đồng đều nhau. Bọn em quen nhau cũng đã được 2,3 năm, cũng đủ để hiểu hiểu về nhau.&lt;/p&gt; &lt;p&gt;Em chỉ muốn nghe xem có ai đã từng như em ko nhỉ? nếu có thì em cũng muốn nghe xem các bác giải quyết như nào trong vấn đề của mình ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/NoMarionberry8241"&gt; /u/NoMarionberry8241 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qgskbx/yêu_nhưng_để_cùng_đồng_hành_trong_hôn_nhân_thì_khó/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qgskbx/yêu_nhưng_để_cùng_đồng_hành_trong_hôn_nhân_thì_khó/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qgskbx/yêu_nhưng_để_cùng_đồng_hành_trong_hôn_nhân_thì_khó/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-19T03:03:39+00:00</published>
   </entry>
   <entry>
     <id>t3_1qg0ua9</id>
@@ -203,6 +177,19 @@
     <published>2026-01-19T01:38:28+00:00</published>
   </entry>
   <entry>
+    <id>t3_1qgw084</id>
+    <title>Ông nào dùng Mac 8gb Ram thì gợi ý cho vài game hay với</title>
+    <updated>2026-01-19T05:53:42+00:00</updated>
+    <author>
+      <name>/u/Doan_Minh</name>
+      <uri>https://old.reddit.com/user/Doan_Minh</uri>
+    </author>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Doan_Minh"&gt; /u/Doan_Minh &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qgw084/ông_nào_dùng_mac_8gb_ram_thì_gợi_ý_cho_vài_game/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qgw084/ông_nào_dùng_mac_8gb_ram_thì_gợi_ý_cho_vài_game/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qgw084/ông_nào_dùng_mac_8gb_ram_thì_gợi_ý_cho_vài_game/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-19T05:53:42+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1qgmw14</id>
     <title>Mua hạt dinh dưỡng</title>
     <updated>2026-01-18T22:51:09+00:00</updated>
@@ -253,6 +240,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qgamj8/làm_thế_nào_để_xử_lý_khúc_mắc_này_ạ/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-18T14:55:41+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qgskbx</id>
+    <title>Yêu, nhưng để cùng đồng hành trong hôn nhân thì khó</title>
+    <updated>2026-01-19T03:03:39+00:00</updated>
+    <author>
+      <name>/u/NoMarionberry8241</name>
+      <uri>https://old.reddit.com/user/NoMarionberry8241</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em năm nay tầm 27(M). Em không có một câu chuyện rõ ràng nào muốn kể. chỉ là trong chuyện tình yêu hiện tại của em, sau nhiều lần cãi nhau hay thể hiện quan điểm của nhau, em lại có cảm giác như tiêu đề vậy.&lt;/p&gt; &lt;p&gt;Không hẳn là ai đúng ai sai, chỉ là em cảm thấy đích đến và mục tiêu sống ( hay là phong thái sống?) em ko biết dùng từ gì cho chuẩn, nhma cả 2 đang có vẻ ko đồng đều nhau. Bọn em quen nhau cũng đã được 2,3 năm, cũng đủ để hiểu hiểu về nhau.&lt;/p&gt; &lt;p&gt;Em chỉ muốn nghe xem có ai đã từng như em ko nhỉ? nếu có thì em cũng muốn nghe xem các bác giải quyết như nào trong vấn đề của mình ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/NoMarionberry8241"&gt; /u/NoMarionberry8241 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qgskbx/yêu_nhưng_để_cùng_đồng_hành_trong_hôn_nhân_thì_khó/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qgskbx/yêu_nhưng_để_cùng_đồng_hành_trong_hôn_nhân_thì_khó/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qgskbx/yêu_nhưng_để_cùng_đồng_hành_trong_hôn_nhân_thì_khó/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-19T03:03:39+00:00</published>
   </entry>
   <entry>
     <id>t3_1qgrgs9</id>
