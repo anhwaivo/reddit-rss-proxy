@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-19T22:45:40+00:00</updated>
+  <updated>2026-01-19T23:19:50+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -190,19 +190,6 @@
     <published>2026-01-19T10:18:14+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qgxxdu</id>
-    <title>Các bác đang dùng trình quản lý mật khẩu nào vậy</title>
-    <updated>2026-01-19T07:40:43+00:00</updated>
-    <author>
-      <name>/u/khanhnx1</name>
-      <uri>https://old.reddit.com/user/khanhnx1</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em dùng edge trên win và điện thoại thì dùng trình duyệt mặc định của samsung, cái samsung pass lưu và điền mật khẩu khá ngon nhưng k đồng bộ được lên laptop, nên nhiều lúc bất tiện.&lt;br /&gt; Các bác đang dùng gì để quản lý mật khẩu gì có thể chia sẻ được không&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/khanhnx1"&gt; /u/khanhnx1 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qgxxdu/các_bác_đang_dùng_trình_quản_lý_mật_khẩu_nào_vậy/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qgxxdu/các_bác_đang_dùng_trình_quản_lý_mật_khẩu_nào_vậy/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qgxxdu/các_bác_đang_dùng_trình_quản_lý_mật_khẩu_nào_vậy/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-19T07:40:43+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1qguamw</id>
     <title>Áo polo như này thì có đắt không</title>
     <updated>2026-01-19T04:26:05+00:00</updated>
@@ -240,6 +227,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qh7daa/xin_lời_khuyên_ba/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-19T15:35:31+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qgxxdu</id>
+    <title>Các bác đang dùng trình quản lý mật khẩu nào vậy</title>
+    <updated>2026-01-19T07:40:43+00:00</updated>
+    <author>
+      <name>/u/khanhnx1</name>
+      <uri>https://old.reddit.com/user/khanhnx1</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em dùng edge trên win và điện thoại thì dùng trình duyệt mặc định của samsung, cái samsung pass lưu và điền mật khẩu khá ngon nhưng k đồng bộ được lên laptop, nên nhiều lúc bất tiện.&lt;br /&gt; Các bác đang dùng gì để quản lý mật khẩu gì có thể chia sẻ được không&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/khanhnx1"&gt; /u/khanhnx1 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qgxxdu/các_bác_đang_dùng_trình_quản_lý_mật_khẩu_nào_vậy/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qgxxdu/các_bác_đang_dùng_trình_quản_lý_mật_khẩu_nào_vậy/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qgxxdu/các_bác_đang_dùng_trình_quản_lý_mật_khẩu_nào_vậy/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-19T07:40:43+00:00</published>
   </entry>
   <entry>
     <id>t3_1qhdi2x</id>
