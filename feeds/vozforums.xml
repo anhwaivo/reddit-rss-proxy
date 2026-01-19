@@ -2,50 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-19T14:14:53+00:00</updated>
+  <updated>2026-01-19T14:48:20+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1qh0mi0</id>
-    <title>Xin lời khuyên tư vấn ngành Finance</title>
-    <updated>2026-01-19T10:25:42+00:00</updated>
-    <author>
-      <name>/u/ManufacturerOld6635</name>
-      <uri>https://old.reddit.com/user/ManufacturerOld6635</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Xin chào ac, hiện tại e đang hoạt động trong mảng web3 là nhiều và đi khá sâu về các dự án money market (Defi) thì em thấy các model đểu lấy từ tài chính truyền thống mà ra. Hiện tại thì e chưa có Base tài chính truyền thống chỉ biết những thứ cơ bản về vĩ mô vi mô (do hồi đại học có học qua và môn tài chính doanh nghiệp). Vậy nên e quyết định sẽ trau dồi chắc mảng tài chính truyền thống rồi sau đó có kinh nghiệm thì sẽ qua lại web3 để ứng dụng và hiểu cũng như làm vc dễ dàng hơn. &lt;/p&gt; &lt;p&gt;Nếu e muốn bắt đầu đi sâu vào lĩnh vực tài chính thì nên bắt đầu từ đâu ạ. và trong mảng tài chính thì có những hướng đi nào, nhờ ac đi trước cho e xin lời khuyên ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ManufacturerOld6635"&gt; /u/ManufacturerOld6635 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qh0mi0/xin_lời_khuyên_tư_vấn_ngành_finance/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qh0mi0/xin_lời_khuyên_tư_vấn_ngành_finance/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qh0mi0/xin_lời_khuyên_tư_vấn_ngành_finance/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-19T10:25:42+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1qh0mo6</id>
-    <title>Nhà hàng Việt ở Bangkok</title>
-    <updated>2026-01-19T10:26:00+00:00</updated>
-    <author>
-      <name>/u/Grydee</name>
-      <uri>https://old.reddit.com/user/Grydee</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chẳng là em chuẩn bị đi du lịch tự túc sang Thái, trong đoàn có người lại chỉ quen khẩu vị Việt Nam. Các bác có recommendation nhà hàng nào giúp em với, chứ mì tôm thẳng tiến thì hơi toang.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Grydee"&gt; /u/Grydee &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qh0mo6/nhà_hàng_việt_ở_bangkok/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qh0mo6/nhà_hàng_việt_ở_bangkok/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qh0mo6/nhà_hàng_việt_ở_bangkok/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-19T10:26:00+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1qh0pp0</id>
-    <title>Cần giúp vấn đề nhận tiền từ Wise</title>
-    <updated>2026-01-19T10:30:47+00:00</updated>
-    <author>
-      <name>/u/Middle_Tonight_3343</name>
-      <uri>https://old.reddit.com/user/Middle_Tonight_3343</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là em có một giao dịch với khách nước ngoài bên Mỹ nên họ dùng Wise để chuyển tiền về cho em, họ muốn chia khoản thanh toán làm 2 phần (trả trước 1 nửa và trả nốt phần còn lại vào ngày hôm sau).&lt;/p&gt; &lt;p&gt;Do gần đây ngân hàng em hay bị lỗi nên em gửi thông tin thanh toán cho khách bằng thông tin zalo pay (vì trước đó em cũng nhận được tiền thành công bằng cách này). Lần khách trả 1 nửa đầu tiên thì em có nhận được tiền ngay, nhưng lần thứ 2 em check lại không thấy. Nhưng vì hôm đó là thứ 6 nên em nghĩ là do ngân hàng không làm việc, có lẽ thứ 2 sẽ nhận được. &lt;/p&gt; &lt;p&gt;Tuy nhiên cho đến hôm nay (đã 3 ngày kể từ ngày khách chuyển tiền) em vẫn chưa nhận được phần còn lại. Mặc dù có một khách khác cũng chuyển tiền cho em vào hôm thứ 7 (cũng từ wise về zalo pay) nhưng em đã nhận được ngay trong hôm đó. &lt;/p&gt; &lt;p&gt;Em có liên hệ khách thì khách bảo bên Wise của khách đã thông báo gửi tiền thành công rồi, bảo em thử liên hệ ngân hàng bên em xem. Em liên hệ bên zalo pay thì họ thông báo là chỉ khi có tiền chuyển vào họ mới kiểm tra giao dịch được.&lt;/p&gt; &lt;p&gt;Hiện tại em khá lo vì đó là số tiền cũng không nhỏ nhưng em lại không biết nên xử lý như thế nào. Có bác nào ở đây biết hay từng gặp tình trạng tương tự có thể cho em xin lời khuyên và cách xử lý không ạ, em cảm ơn nhiều.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Middle_Tonight_3343"&gt; /u/Middle_Tonight_3343 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qh0pp0/cần_giúp_vấn_đề_nhận_tiền_từ_wise/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qh0pp0/cần_giúp_vấn_đề_nhận_tiền_từ_wise/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qh0pp0/cần_giúp_vấn_đề_nhận_tiền_từ_wise/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-19T10:30:47+00:00</published>
-  </entry>
   <entry>
     <id>t3_1qgtxpd</id>
     <title>Chuyển nhà Đà Nẵng- SG. Có nên bao xe tải?</title>
@@ -71,19 +32,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qh2j44/có_ai_từng_xử_lý_chó_suy_thận_mạn_bị_co_giật_chưa/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-19T12:11:34+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1qh3gg4</id>
-    <title>Gửi CV qua messenger</title>
-    <updated>2026-01-19T12:57:30+00:00</updated>
-    <author>
-      <name>/u/Unfair-Invite-4434</name>
-      <uri>https://old.reddit.com/user/Unfair-Invite-4434</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em thấy có HR đăng tin tuyển dụng trong group fb thì gửi luôn CV qua mess có được không ạ, hay bắt buộc phải gửi qua email?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Unfair-Invite-4434"&gt; /u/Unfair-Invite-4434 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qh3gg4/gửi_cv_qua_messenger/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qh3gg4/gửi_cv_qua_messenger/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qh3gg4/gửi_cv_qua_messenger/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-19T12:57:30+00:00</published>
   </entry>
   <entry>
     <id>t3_1qgrgs9</id>
@@ -123,6 +71,45 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qgrjmm/tối_ưu_ram_cho_laptop/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-19T02:15:51+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qh0pp0</id>
+    <title>Cần giúp vấn đề nhận tiền từ Wise</title>
+    <updated>2026-01-19T10:30:47+00:00</updated>
+    <author>
+      <name>/u/Middle_Tonight_3343</name>
+      <uri>https://old.reddit.com/user/Middle_Tonight_3343</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là em có một giao dịch với khách nước ngoài bên Mỹ nên họ dùng Wise để chuyển tiền về cho em, họ muốn chia khoản thanh toán làm 2 phần (trả trước 1 nửa và trả nốt phần còn lại vào ngày hôm sau).&lt;/p&gt; &lt;p&gt;Do gần đây ngân hàng em hay bị lỗi nên em gửi thông tin thanh toán cho khách bằng thông tin zalo pay (vì trước đó em cũng nhận được tiền thành công bằng cách này). Lần khách trả 1 nửa đầu tiên thì em có nhận được tiền ngay, nhưng lần thứ 2 em check lại không thấy. Nhưng vì hôm đó là thứ 6 nên em nghĩ là do ngân hàng không làm việc, có lẽ thứ 2 sẽ nhận được. &lt;/p&gt; &lt;p&gt;Tuy nhiên cho đến hôm nay (đã 3 ngày kể từ ngày khách chuyển tiền) em vẫn chưa nhận được phần còn lại. Mặc dù có một khách khác cũng chuyển tiền cho em vào hôm thứ 7 (cũng từ wise về zalo pay) nhưng em đã nhận được ngay trong hôm đó. &lt;/p&gt; &lt;p&gt;Em có liên hệ khách thì khách bảo bên Wise của khách đã thông báo gửi tiền thành công rồi, bảo em thử liên hệ ngân hàng bên em xem. Em liên hệ bên zalo pay thì họ thông báo là chỉ khi có tiền chuyển vào họ mới kiểm tra giao dịch được.&lt;/p&gt; &lt;p&gt;Hiện tại em khá lo vì đó là số tiền cũng không nhỏ nhưng em lại không biết nên xử lý như thế nào. Có bác nào ở đây biết hay từng gặp tình trạng tương tự có thể cho em xin lời khuyên và cách xử lý không ạ, em cảm ơn nhiều.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Middle_Tonight_3343"&gt; /u/Middle_Tonight_3343 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qh0pp0/cần_giúp_vấn_đề_nhận_tiền_từ_wise/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qh0pp0/cần_giúp_vấn_đề_nhận_tiền_từ_wise/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qh0pp0/cần_giúp_vấn_đề_nhận_tiền_từ_wise/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-19T10:30:47+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qh5rmy</id>
+    <title>Sinh lão bệnh tử</title>
+    <updated>2026-01-19T14:35:14+00:00</updated>
+    <author>
+      <name>/u/Good_enough167</name>
+      <uri>https://old.reddit.com/user/Good_enough167</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em là du học sinh mỹ, xa nhà được 4-5 năm rồi. Giờ chỉ còn nửa năm nữa là hoàn thành bằng thạc sĩ mà em đã cố gắng suốt thời gian qua để đạt được. Kì nghỉ đông vừa rồi em trở vể chơi, đúng mấy ngày cuối sắp đi thì ông ngoại em trở bệnh nặng.&lt;/p&gt; &lt;p&gt;Em khóc lóc 1-2 ngày rồi cũng chấp nhận phải đi, dù lúc quay đi biết được có thể lần tới trở về ông ngoại có khi không còn đợi em ở đó nữa. Dẫu biết những khó khăn là không tránh khỏi và đời người một lúc nào đó cũng sẽ hết. Ông em đã gần 90, có tiền sử bệnh tim nên việc yếu dần đi là có thể dự đoán. Nhưng lòng em đau quặn. Cảm giác rời đi như làm việc có lỗi, rắp tâm bỏ đi trong lúc ông đang đau đớn cần con cháu kề bên. Ông em còn nhiều cháu, nhưng em cũng mong được góp phần giúp ông khoẻ lại nếu có thể, hoặc ít nhất là được nhìn ông những ngày cuối cùng…&lt;/p&gt; &lt;p&gt;Nay em đang ở cổng bay ngồi viết ra những dòng này như lời tâm sự. Chuyện cũng không phải là bài toán em đi tìm lời giải, mà là chuyện em cần tìm cách chấp nhận. Em mong anh chị đã từng đi qua trường hợp này hoặc trưởng thành hơn về suy nghĩ cho em lời khuyên về cách nhìn nhận, xử lí thông tin này và nghĩ về nó cho hợp tình hợp lí để em có thể tập trung học tập và làm việc thật tốt theo tâm nguyện và sự hi sinh của cha mẹ và gia đình. &lt;/p&gt; &lt;p&gt;Các anh chị đã vượt qua nỗi đau/nỗi lo mất đi ông bà và người thân như thế nào? Làm sao để em có thể thương nhớ về ông nhưng không vì vậy mà xao nhãng những chuyện đại sự khác? Em cảm ơn các anh chị/bạn nhiều ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Good_enough167"&gt; /u/Good_enough167 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qh5rmy/sinh_lão_bệnh_tử/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qh5rmy/sinh_lão_bệnh_tử/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qh5rmy/sinh_lão_bệnh_tử/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-19T14:35:14+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qh5ya6</id>
+    <title>Tư vấn chỗ thu mua laptop giá cao</title>
+    <updated>2026-01-19T14:42:35+00:00</updated>
+    <author>
+      <name>/u/luoivlra</name>
+      <uri>https://old.reddit.com/user/luoivlra</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Helu mng, e đang có nhu cầu bán lại laptop các bác tư vấn cho e xin một vài chỗ thu mua giá cao ở HN với ạ. Em cảm ơn các bác nhiều ạ!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/luoivlra"&gt; /u/luoivlra &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qh5ya6/tư_vấn_chỗ_thu_mua_laptop_giá_cao/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qh5ya6/tư_vấn_chỗ_thu_mua_laptop_giá_cao/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qh5ya6/tư_vấn_chỗ_thu_mua_laptop_giá_cao/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-19T14:42:35+00:00</published>
   </entry>
   <entry>
     <id>t3_1qgwyqx</id>
@@ -177,17 +164,17 @@
     <published>2026-01-18T16:01:06+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qgew4h</id>
-    <title>Phát hiện người mình đang hẹn hò là mẹ đơn thân !</title>
-    <updated>2026-01-18T17:38:58+00:00</updated>
+    <id>t3_1qh3gg4</id>
+    <title>Gửi CV qua messenger</title>
+    <updated>2026-01-19T12:57:30+00:00</updated>
     <author>
-      <name>/u/Duongdiemdam</name>
-      <uri>https://old.reddit.com/user/Duongdiemdam</uri>
+      <name>/u/Unfair-Invite-4434</name>
+      <uri>https://old.reddit.com/user/Unfair-Invite-4434</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em 27 tuổi cũng đã trải qua nhiều mối tình k đi tới đâu. Nay gặp được 1 bé 23 tuổi rất đúng gu và muốn tiến tới lâu dài. Nhưng hôm nay sau cuộc gặp gỡ thì về ẻm có tiết lộ với em rằng ẻm là mẹ đơn thân. E rất sock. Bản thân e k thể lập gia đình với 1 người đã có con vì nhiều lý do. Ẻm bảo tiết lộ với em vì có tình cảm với em nên mới nói thẳng. H e chỉ muốn làm bạn thôi (k phải kiểu bạn thấy mẹ đơn thân là gạ gẫm đâu nhé) ai có kinh nghiệm cho e xin lời khuyên và cách nc như nào để k làm ẻm buồn ạ .&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Duongdiemdam"&gt; /u/Duongdiemdam &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qgew4h/phát_hiện_người_mình_đang_hẹn_hò_là_mẹ_đơn_thân/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qgew4h/phát_hiện_người_mình_đang_hẹn_hò_là_mẹ_đơn_thân/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qgew4h/phát_hiện_người_mình_đang_hẹn_hò_là_mẹ_đơn_thân/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em thấy có HR đăng tin tuyển dụng trong group fb thì gửi luôn CV qua mess có được không ạ, hay bắt buộc phải gửi qua email?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Unfair-Invite-4434"&gt; /u/Unfair-Invite-4434 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qh3gg4/gửi_cv_qua_messenger/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qh3gg4/gửi_cv_qua_messenger/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qh3gg4/gửi_cv_qua_messenger/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-18T17:38:58+00:00</published>
+    <published>2026-01-19T12:57:30+00:00</published>
   </entry>
   <entry>
     <id>t3_1qh0537</id>
@@ -201,6 +188,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qh0537/con_đường_sự_nghiệp_ngành_kế_toán/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-19T09:56:41+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qgew4h</id>
+    <title>Phát hiện người mình đang hẹn hò là mẹ đơn thân !</title>
+    <updated>2026-01-18T17:38:58+00:00</updated>
+    <author>
+      <name>/u/Duongdiemdam</name>
+      <uri>https://old.reddit.com/user/Duongdiemdam</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em 27 tuổi cũng đã trải qua nhiều mối tình k đi tới đâu. Nay gặp được 1 bé 23 tuổi rất đúng gu và muốn tiến tới lâu dài. Nhưng hôm nay sau cuộc gặp gỡ thì về ẻm có tiết lộ với em rằng ẻm là mẹ đơn thân. E rất sock. Bản thân e k thể lập gia đình với 1 người đã có con vì nhiều lý do. Ẻm bảo tiết lộ với em vì có tình cảm với em nên mới nói thẳng. H e chỉ muốn làm bạn thôi (k phải kiểu bạn thấy mẹ đơn thân là gạ gẫm đâu nhé) ai có kinh nghiệm cho e xin lời khuyên và cách nc như nào để k làm ẻm buồn ạ .&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Duongdiemdam"&gt; /u/Duongdiemdam &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qgew4h/phát_hiện_người_mình_đang_hẹn_hò_là_mẹ_đơn_thân/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qgew4h/phát_hiện_người_mình_đang_hẹn_hò_là_mẹ_đơn_thân/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qgew4h/phát_hiện_người_mình_đang_hẹn_hò_là_mẹ_đơn_thân/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-18T17:38:58+00:00</published>
   </entry>
   <entry>
     <id>t3_1qgwnex</id>
@@ -294,19 +294,6 @@
     <published>2026-01-19T10:41:59+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qh3v3z</id>
-    <title>Cuộc sống có ý nghĩa gì?</title>
-    <updated>2026-01-19T13:16:13+00:00</updated>
-    <author>
-      <name>/u/Flat_Conclusion1128</name>
-      <uri>https://old.reddit.com/user/Flat_Conclusion1128</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Dạo này mình áp lực quá, mình cảm thấy không ai có thể chia sẻ với mình. &lt;/p&gt; &lt;p&gt;Gia đình mình không trọn vẹn, mình ở với mẹ từ nhỏ. Nay, mẹ đã xây ngôi nhà khang trang thì mình phát hiện nhà mình xây trên đất dự án, giấy phép xây dựng tạm thời, sẽ không biết lúc nào phải phá đi và không được đền bù. Vì tin tưởng người quen làm giấy phép nên mình không đề nghị mẹ đưa giấy phép để đọc. Đây là trách nhiệm của mình, mình đã tự trách rất lâu nhưng không thể cứu vãn nữa rồi. Số tiền xây nhà bỏ ra hơn 2 tỷ. &lt;/p&gt; &lt;p&gt;Công việc của mình làm văn phòng, lương thấp nên chưa lo được cho mẹ gì. &lt;/p&gt; &lt;p&gt;Mình biết là mẹ áp lực nhiều lắm để nuôi mình khôn lớn nhưng mình không chịu nổi áp lực này nữa rồi. Mình cảm thấy mình là gánh nặng. Đến giờ lớn rồi mình vẫn không vừa lòng được mẹ, mình vẫn bị nói là hư và bị đánh như thường. &lt;/p&gt; &lt;p&gt;Nay mình vừa bị tát và mắng khi mẹ hỏi 2 câu mà im lặng không trả lời. Mình mệt mỏi quá nên viết linh tinh lên đây thôi. &lt;/p&gt; &lt;p&gt;Có lẽ mọi vấn đề xảy ra đều là do không có tiền, có tiền sẽ không phải áp lực, có tiền người ta sẽ nhẹ nhàng với nhau hơn chăng? Mình tự áp lực vì mình k kiếm ra nhiều tiền. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Flat_Conclusion1128"&gt; /u/Flat_Conclusion1128 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qh3v3z/cuộc_sống_có_ý_nghĩa_gì/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qh3v3z/cuộc_sống_có_ý_nghĩa_gì/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qh3v3z/cuộc_sống_có_ý_nghĩa_gì/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-19T13:16:13+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1qgyhaf</id>
     <title>Lời nguyền 3 tháng có đúng ko🥲</title>
     <updated>2026-01-19T08:14:39+00:00</updated>
@@ -318,6 +305,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qgyhaf/lời_nguyền_3_tháng_có_đúng_ko/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-19T08:14:39+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qh3v3z</id>
+    <title>Cuộc sống có ý nghĩa gì?</title>
+    <updated>2026-01-19T13:16:13+00:00</updated>
+    <author>
+      <name>/u/Flat_Conclusion1128</name>
+      <uri>https://old.reddit.com/user/Flat_Conclusion1128</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Dạo này mình áp lực quá, mình cảm thấy không ai có thể chia sẻ với mình. &lt;/p&gt; &lt;p&gt;Gia đình mình không trọn vẹn, mình ở với mẹ từ nhỏ. Nay, mẹ đã xây ngôi nhà khang trang thì mình phát hiện nhà mình xây trên đất dự án, giấy phép xây dựng tạm thời, sẽ không biết lúc nào phải phá đi và không được đền bù. Vì tin tưởng người quen làm giấy phép nên mình không đề nghị mẹ đưa giấy phép để đọc. Đây là trách nhiệm của mình, mình đã tự trách rất lâu nhưng không thể cứu vãn nữa rồi. Số tiền xây nhà bỏ ra hơn 2 tỷ. &lt;/p&gt; &lt;p&gt;Công việc của mình làm văn phòng, lương thấp nên chưa lo được cho mẹ gì. &lt;/p&gt; &lt;p&gt;Mình biết là mẹ áp lực nhiều lắm để nuôi mình khôn lớn nhưng mình không chịu nổi áp lực này nữa rồi. Mình cảm thấy mình là gánh nặng. Đến giờ lớn rồi mình vẫn không vừa lòng được mẹ, mình vẫn bị nói là hư và bị đánh như thường. &lt;/p&gt; &lt;p&gt;Nay mình vừa bị tát và mắng khi mẹ hỏi 2 câu mà im lặng không trả lời. Mình mệt mỏi quá nên viết linh tinh lên đây thôi. &lt;/p&gt; &lt;p&gt;Có lẽ mọi vấn đề xảy ra đều là do không có tiền, có tiền sẽ không phải áp lực, có tiền người ta sẽ nhẹ nhàng với nhau hơn chăng? Mình tự áp lực vì mình k kiếm ra nhiều tiền. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Flat_Conclusion1128"&gt; /u/Flat_Conclusion1128 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qh3v3z/cuộc_sống_có_ý_nghĩa_gì/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qh3v3z/cuộc_sống_có_ý_nghĩa_gì/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qh3v3z/cuộc_sống_có_ý_nghĩa_gì/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-19T13:16:13+00:00</published>
   </entry>
   <entry>
     <id>t3_1qh09ux</id>
