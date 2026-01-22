@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-22T07:04:01+00:00</updated>
+  <updated>2026-01-22T07:40:49+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1qitj31</id>
-    <title>Ý tưởng ngu?</title>
-    <updated>2026-01-21T09:35:03+00:00</updated>
-    <author>
-      <name>/u/No-Cost8628</name>
-      <uri>https://old.reddit.com/user/No-Cost8628</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mg mình là người Mỹ. Mình sống và làm việc ở hcmc khoảng 4 tháng r và lái xe máy mọi ngày trong thành phố này. Mình định đi du lịch đến Dà Nẵng cho Tết. Một bạn của mình mời em gặp gia đình và trải nghiệm kỳ lễ ở quê cho bạn ấy. Mình đang kế hoạch chuyển này rất trễ nên nhiều vé bay hết chỗ r. &lt;/p&gt; &lt;p&gt;Em được lái xe từ hcmc đến Chu Lai không? Em luôn muốn khám phá và cảnh đẹp ở đây nhưng chưa dịp. Mình được sở hữu xe Vépa 150cc, và định lái chỉ 6 tiếng một ngày (10-13/2). Bạn đồng nghiẹp của mình thấy nó nguy hiểm nhưng họ luôn thận trọng. &lt;/p&gt; &lt;p&gt;*Em xin lỗi nên tiếng Việt của em sai*&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/No-Cost8628"&gt; /u/No-Cost8628 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qitj31/ý_tưởng_ngu/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qitj31/ý_tưởng_ngu/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qitj31/ý_tưởng_ngu/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-21T09:35:03+00:00</published>
-  </entry>
   <entry>
     <id>t3_1qj5y7n</id>
     <title>Tư vấn cấu hình máy tính</title>
@@ -151,6 +138,19 @@
     <published>2026-01-22T07:00:56+00:00</published>
   </entry>
   <entry>
+    <id>t3_1qjo3z9</id>
+    <title>Mọi người có ai niềng răng mà kéo hoài răng nanh hàm trên 1 năm vẫn chưa nổi 1/2 không ? Hàm dưới thì vẫn y nguyên khoảng. Case mình 4 vis nối chun chuỗi kéo có 4 cái hook. Hay do trình bác sĩ nhỉ</title>
+    <updated>2026-01-22T07:24:52+00:00</updated>
+    <author>
+      <name>/u/Primary-Look5254</name>
+      <uri>https://old.reddit.com/user/Primary-Look5254</uri>
+    </author>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Primary-Look5254"&gt; /u/Primary-Look5254 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qjo3z9/mọi_người_có_ai_niềng_răng_mà_kéo_hoài_răng_nanh/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qjo3z9/mọi_người_có_ai_niềng_răng_mà_kéo_hoài_răng_nanh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qjo3z9/mọi_người_có_ai_niềng_răng_mà_kéo_hoài_răng_nanh/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-22T07:24:52+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1qivtjw</id>
     <title>Thế hệ 1980 - 1990 là thế hệ dễ làm giàu nhất?</title>
     <updated>2026-01-21T11:49:16+00:00</updated>
@@ -175,32 +175,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qjj0nh/nhà_hàng_xóm_làm_nghề_hầu_đồng/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-22T03:05:26+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1qjewym</id>
-    <title>Mông lung quá</title>
-    <updated>2026-01-22T00:05:39+00:00</updated>
-    <author>
-      <name>/u/hate_to_work</name>
-      <uri>https://old.reddit.com/user/hate_to_work</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi mọi người, mình 23 tuổi mới tốt nghiệp đại học ở Việt Nam và theo gia đình qua định cư bên Mỹ. mình được người quen giới thiệu đi làm sale, nhưng chủ khá khó tính + mình không lanh mồm lanh miệng nên việc rất cực. Giờ mình muốn đổi job và đi học lại từ đầu nhưng cảm giác cứ bị dở dang.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/hate_to_work"&gt; /u/hate_to_work &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qjewym/mông_lung_quá/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qjewym/mông_lung_quá/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qjewym/mông_lung_quá/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-22T00:05:39+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1qjn39u</id>
-    <title>Đầu tư chứng khoán</title>
-    <updated>2026-01-22T06:25:45+00:00</updated>
-    <author>
-      <name>/u/Hopeful-Manner6616</name>
-      <uri>https://old.reddit.com/user/Hopeful-Manner6616</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Không có background về kinh tế. Thì đầu tư chứng khoán có rủi ro lắm không? Khi hiện tại tình hình đang ngày càng khó lường. &lt;/p&gt; &lt;p&gt;Nếu mới bắt đầu đầu tư thì nên đầu tư nhóm cổ phiếu nào là tốt nhất? Lọc cổ phiếu thế nào và đọc báo cáo tài chính ở đâu nhỉ? Việc đọc biểu đồ xu hướng với tin tức công ty thì cái nào ảnh hưởng nhiều hơn? &lt;/p&gt; &lt;p&gt;Mong được giải đáp.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Hopeful-Manner6616"&gt; /u/Hopeful-Manner6616 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qjn39u/đầu_tư_chứng_khoán/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qjn39u/đầu_tư_chứng_khoán/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qjn39u/đầu_tư_chứng_khoán/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-22T06:25:45+00:00</published>
   </entry>
   <entry>
     <id>t3_1qj3gxv</id>
@@ -242,6 +216,32 @@
     <published>2026-01-22T03:12:54+00:00</published>
   </entry>
   <entry>
+    <id>t3_1qjewym</id>
+    <title>Mông lung quá</title>
+    <updated>2026-01-22T00:05:39+00:00</updated>
+    <author>
+      <name>/u/hate_to_work</name>
+      <uri>https://old.reddit.com/user/hate_to_work</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi mọi người, mình 23 tuổi mới tốt nghiệp đại học ở Việt Nam và theo gia đình qua định cư bên Mỹ. mình được người quen giới thiệu đi làm sale, nhưng chủ khá khó tính + mình không lanh mồm lanh miệng nên việc rất cực. Giờ mình muốn đổi job và đi học lại từ đầu nhưng cảm giác cứ bị dở dang.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/hate_to_work"&gt; /u/hate_to_work &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qjewym/mông_lung_quá/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qjewym/mông_lung_quá/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qjewym/mông_lung_quá/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-22T00:05:39+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qjn39u</id>
+    <title>Đầu tư chứng khoán</title>
+    <updated>2026-01-22T06:25:45+00:00</updated>
+    <author>
+      <name>/u/Hopeful-Manner6616</name>
+      <uri>https://old.reddit.com/user/Hopeful-Manner6616</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Không có background về kinh tế. Thì đầu tư chứng khoán có rủi ro lắm không? Khi hiện tại tình hình đang ngày càng khó lường. &lt;/p&gt; &lt;p&gt;Nếu mới bắt đầu đầu tư thì nên đầu tư nhóm cổ phiếu nào là tốt nhất? Lọc cổ phiếu thế nào và đọc báo cáo tài chính ở đâu nhỉ? Việc đọc biểu đồ xu hướng với tin tức công ty thì cái nào ảnh hưởng nhiều hơn? &lt;/p&gt; &lt;p&gt;Mong được giải đáp.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Hopeful-Manner6616"&gt; /u/Hopeful-Manner6616 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qjn39u/đầu_tư_chứng_khoán/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qjn39u/đầu_tư_chứng_khoán/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qjn39u/đầu_tư_chứng_khoán/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-22T06:25:45+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1qjk9i3</id>
     <title>Bài học</title>
     <updated>2026-01-22T04:02:52+00:00</updated>
@@ -266,19 +266,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qjmpkj/cute_pic_that_i_took/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-22T06:05:03+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1qjn1sd</id>
-    <title>Mọi người tư vấn giúp em về hđlđ này với ạ</title>
-    <updated>2026-01-22T06:23:25+00:00</updated>
-    <author>
-      <name>/u/kitchcu</name>
-      <uri>https://old.reddit.com/user/kitchcu</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1qjn1sd/mọi_người_tư_vấn_giúp_em_về_hđlđ_này_với_ạ/"&gt; &lt;img alt="Mọi người tư vấn giúp em về hđlđ này với ạ" src="https://b.thumbs.redditmedia.com/dqVo3byUhNY_hBc1-FEXWxLgmzVVM0CxiJj6_evL2Hk.jpg" title="Mọi người tư vấn giúp em về hđlđ này với ạ" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em mới đi làm nên còn ngu ngơ, xem qua thì em thấy thiếu nhiều thứ như tiền trợ cấp, quyền lợi tăng lương và tiền làm thêm giờ như thế nào. Mọi người thấy còn thiếu gì ko ạ. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/kitchcu"&gt; /u/kitchcu &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1qjn1sd"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qjn1sd/mọi_người_tư_vấn_giúp_em_về_hđlđ_này_với_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qjn1sd/mọi_người_tư_vấn_giúp_em_về_hđlđ_này_với_ạ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-22T06:23:25+00:00</published>
   </entry>
   <entry>
     <id>t3_1qjn375</id>
@@ -331,5 +318,18 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qjik4y/vấn_đề_tài_chính_sau_hôn_nhân/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-22T02:44:58+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qjn1sd</id>
+    <title>Mọi người tư vấn giúp em về hđlđ này với ạ</title>
+    <updated>2026-01-22T06:23:25+00:00</updated>
+    <author>
+      <name>/u/kitchcu</name>
+      <uri>https://old.reddit.com/user/kitchcu</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1qjn1sd/mọi_người_tư_vấn_giúp_em_về_hđlđ_này_với_ạ/"&gt; &lt;img alt="Mọi người tư vấn giúp em về hđlđ này với ạ" src="https://b.thumbs.redditmedia.com/dqVo3byUhNY_hBc1-FEXWxLgmzVVM0CxiJj6_evL2Hk.jpg" title="Mọi người tư vấn giúp em về hđlđ này với ạ" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em mới đi làm nên còn ngu ngơ, xem qua thì em thấy thiếu nhiều thứ như tiền trợ cấp, quyền lợi tăng lương và tiền làm thêm giờ như thế nào. Mọi người thấy còn thiếu gì ko ạ. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/kitchcu"&gt; /u/kitchcu &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1qjn1sd"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qjn1sd/mọi_người_tư_vấn_giúp_em_về_hđlđ_này_với_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qjn1sd/mọi_người_tư_vấn_giúp_em_về_hđlđ_này_với_ạ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-22T06:23:25+00:00</published>
   </entry>
 </feed>
