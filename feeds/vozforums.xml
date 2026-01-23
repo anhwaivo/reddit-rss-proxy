@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-23T07:40:09+00:00</updated>
+  <updated>2026-01-23T07:53:10+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1qk7wl6</id>
-    <title>Có nên cho vay tiền?</title>
-    <updated>2026-01-22T21:49:00+00:00</updated>
-    <author>
-      <name>/u/Andernaline1mg</name>
-      <uri>https://old.reddit.com/user/Andernaline1mg</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mn tư vấn cho mình với.Mình đang khúc mắc vđ này.Ck là bs , đang có dự định học lên Thạc sĩ,do mới ra trường nên tiền lương k cao. Mình thì bầu nữa nên tiền k đủ lo cả học lẫn mẹ con.Gđ mình có đề xuất cho ck mình vay tiền đi học.Mà mình phân vân vì trước nay thấy nhiều tấm gương ko nên đem tiền nhà cho ck, thêm cả chị gái mình đang kd dạo này cũng có chút khó khăn .Nếu vay thì mình sẽ làm đầy đủ hợp đồng vay có luật sư và công chứng.Liệu mình có nên đồng ý đề xuất ko ạ? Mình cảm ơn mn&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Andernaline1mg"&gt; /u/Andernaline1mg &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qk7wl6/có_nên_cho_vay_tiền/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qk7wl6/có_nên_cho_vay_tiền/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qk7wl6/có_nên_cho_vay_tiền/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-22T21:49:00+00:00</published>
-  </entry>
   <entry>
     <id>t3_1qjmb2i</id>
     <title>Xin tip chống tự ti, ngại ánh nhìn</title>
@@ -203,6 +190,19 @@
     <published>2026-01-22T17:45:04+00:00</published>
   </entry>
   <entry>
+    <id>t3_1qkktbm</id>
+    <title>Em nên theo Dev hay Network</title>
+    <updated>2026-01-23T07:51:09+00:00</updated>
+    <author>
+      <name>/u/Hide_on_bush003</name>
+      <uri>https://old.reddit.com/user/Hide_on_bush003</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hiện tại em là sinh viên IT ở Sài Gòn tại trường đầu vào năm 2021 chỉ có 24 điểm, em đã học xong toàn bộ các môn chuyên ngành và GPA của em chỉ khoảng 2.53/4 và 6.94/10. Em đang nợ chứng chỉ tiếng Anh nên dự kiến hè 2026 mới tốt nghiệp chính thức.&lt;/p&gt; &lt;p&gt;Định hướng của em là &lt;strong&gt;Backend Java (Spring Boot)&lt;/strong&gt;. Hiện em đang tự học và làm một số dự án cá nhân để bổ sung CV, mục tiêu sau khi tốt nghiệp sẽ xin vị trí &lt;strong&gt;Fresher Java Backend&lt;/strong&gt;.&lt;/p&gt; &lt;p&gt;Tuy nhiên, em đang khá phân vân về một cơ hội:&lt;br /&gt; Bạn của dì ruột em làm ở Viettel có gợi ý em nộp CV để vào &lt;strong&gt;vị trí Intern NOC – trực vận hành khai thác mạng&lt;/strong&gt;.&lt;br /&gt; Yêu cầu tối thiểu:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Biết &lt;strong&gt;một ít kiến thức CCNA&lt;/strong&gt; (chưa cần thi)&lt;/li&gt; &lt;li&gt;Có &lt;strong&gt;TOEIC 550&lt;/strong&gt; trở lên&lt;/li&gt; &lt;li&gt;Công việc chính là &lt;strong&gt;trực NOC, giám sát &amp;amp; xử lý sự cố mạng&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;Lộ trình là intern rồi làm dần lên&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Vấn đề là:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Em &lt;strong&gt;không có nền tảng network&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;Em muốn theo &lt;strong&gt;backend Java lâu dài&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;Em lo nếu vào NOC thì sẽ &lt;strong&gt;không code&lt;/strong&gt;, sau này khó quay lại backend&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Nhưng ngược lại:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Fresher backend hiện tại khá khó&lt;/li&gt; &lt;li&gt;Viettel là môi trường lớn, có kinh nghiệm sớm&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Nên em rất mong được anh/chị/mọi người đi trước cho em lời khuyên:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Với mục tiêu &lt;strong&gt;đi đường dài&lt;/strong&gt;, em nên: &lt;ol&gt; &lt;li&gt;Nhận intern NOC ở Viettel rồi tính tiếp&lt;/li&gt; &lt;li&gt;Hay kiên trì theo backend Java, làm project và tự xin fresher sau khi tốt nghiệp?&lt;/li&gt; &lt;/ol&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Em cảm ơn mọi người rất nhiều&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Hide_on_bush003"&gt; /u/Hide_on_bush003 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qkktbm/em_nên_theo_dev_hay_network/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qkktbm/em_nên_theo_dev_hay_network/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qkktbm/em_nên_theo_dev_hay_network/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-23T07:51:09+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1qjx1st</id>
     <title>Thắc mắc Ở trung quốc xài camera đời nhà tống hay sao mà ảnh lúc nào cũng mờ mờ thế nhỉ</title>
     <updated>2026-01-22T15:11:31+00:00</updated>
@@ -214,6 +214,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qjx1st/thắc_mắc_ở_trung_quốc_xài_camera_đời_nhà_tống_hay/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-22T15:11:31+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qkjs01</id>
+    <title>haizz chán đời quá</title>
+    <updated>2026-01-23T06:48:01+00:00</updated>
+    <author>
+      <name>/u/Only-Conclusion5238</name>
+      <uri>https://old.reddit.com/user/Only-Conclusion5238</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Lần đầu gia nhập thị trường lao động mang trong tim phong thái nhiệt huyết tuổi trẻ, làm trúng quả công ty lừa. Tháng đầu làm ổn lắm mà về sau do mình làm nhanh quá, tụi nó không biết điều nó đẩy việc liên tục, mới tuần trước làm tầm 100 bản thôi qua tuần này nó thúc cho 500 bản làm gãy cả tay, nay xong rồi nó còn thúc tiếp 100 bản nữa rồi còn bảo trước sáng thứ 2 phải xong, có nghĩa là mình phải tăng ca vào thứ 7 hoặc cũng có thể chủ nhật luôn, thế là mình điên tiết quá chửi thẳng luôn. Mà mình cũng ngây thơ cứ nghĩ cống hiến thế này thì họ sẽ thấy nổ lực của mình mà đề xuất tăng lương nhưng không, thứ tăng chỉ có công việc và bệnh thôi. Ahh qua tết không biết có bị đuổi việc không ...&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Only-Conclusion5238"&gt; /u/Only-Conclusion5238 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qkjs01/haizz_chán_đời_quá/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qkjs01/haizz_chán_đời_quá/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qkjs01/haizz_chán_đời_quá/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-23T06:48:01+00:00</published>
   </entry>
   <entry>
     <id>t3_1qjru3c</id>
@@ -240,19 +253,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qk3yz2/cho_tiền_bạn_gái_dịp_tết/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-22T19:21:55+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1qkjs01</id>
-    <title>haizz chán đời quá</title>
-    <updated>2026-01-23T06:48:01+00:00</updated>
-    <author>
-      <name>/u/Only-Conclusion5238</name>
-      <uri>https://old.reddit.com/user/Only-Conclusion5238</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Lần đầu gia nhập thị trường lao động mang trong tim phong thái nhiệt huyết tuổi trẻ, làm trúng quả công ty lừa. Tháng đầu làm ổn lắm mà về sau do mình làm nhanh quá, tụi nó không biết điều nó đẩy việc liên tục, mới tuần trước làm tầm 100 bản thôi qua tuần này nó thúc cho 500 bản làm gãy cả tay, nay xong rồi nó còn thúc tiếp 100 bản nữa rồi còn bảo trước sáng thứ 2 phải xong, có nghĩa là mình phải tăng ca vào thứ 7 hoặc cũng có thể chủ nhật luôn, thế là mình điên tiết quá chửi thẳng luôn. Mà mình cũng ngây thơ cứ nghĩ cống hiến thế này thì họ sẽ thấy nổ lực của mình mà đề xuất tăng lương nhưng không, thứ tăng chỉ có công việc và bệnh thôi. Ahh qua tết không biết có bị đuổi việc không ...&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Only-Conclusion5238"&gt; /u/Only-Conclusion5238 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qkjs01/haizz_chán_đời_quá/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qkjs01/haizz_chán_đời_quá/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qkjs01/haizz_chán_đời_quá/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-23T06:48:01+00:00</published>
   </entry>
   <entry>
     <id>t3_1qk3iep</id>
@@ -294,19 +294,6 @@
     <published>2026-01-23T04:53:30+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qkgbk3</id>
-    <title>Vấn đề trầm cảm</title>
-    <updated>2026-01-23T03:52:20+00:00</updated>
-    <author>
-      <name>/u/Any_Assist123</name>
-      <uri>https://old.reddit.com/user/Any_Assist123</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi mn, mình viết lên đây để chia sẻ về những vấn đề cuộc sống của mình vì hiện tại mình không biết chia sẻ với ai. &lt;/p&gt; &lt;p&gt;Mình là sinh viên năm thứ 5 của một trường đại học cũng thuộc hàng top ở tp.hcm. Trong những năm tháng đại học, bố mẹ mình chỉ đóng học phí cho mình và tiền ăn uống sinh hoạt hầu hết là do mình tự kiếm nhờ đi làm thêm ở ngoài bởi vì nhà mình khá nghèo. Nhưng vì quá áp lực vì phải trang trải cuộc sống nên thời gian học tập của mình cũng bị hạn chế, mình bị hổng kiến thức khá nhiều tuy nhiên không bị rớt môn. &lt;/p&gt; &lt;p&gt;Nhưng tới năm cuối mình bị rớt 1 môn và rớt tới 2 lần môn đó vì giáo viên dạy môn đó dạy khá là khó hiểu và chấm project cực gắt. Lớp em rớt tới hơn nửa lớp ở môn này. &lt;/p&gt; &lt;p&gt;Hiện tại thì mình không thể cố gắng nổi vì áp lực tài chính mà vẫn còn đồ án tốt nghiệp và 1 môn đó. Cha mẹ, họ hàng, hàng xóm thì luôn chỉ trích mình vì ra trường muộn, không lo làm để kiếm tiền về báo hiếu bố mẹ. Nhưng thực sự em không thể cố nổi nữa vì chi phí sinh hoạt khá khó khăn đối với em.&lt;/p&gt; &lt;p&gt;Thời gian gần đây, nhiều lần ý định tự tử nhiều lần nảy ra trong đầu mình và trước đây năm lớp 12 em đã cố tự kết thúc cuộc đời mình 1 lần nhưng không thành công. Hiện tại đã gần tới tết nhưng mình không có một tí vui vẻ nào trong người, trước đây có nhiều năm mình phải ở lại tết để làm để kiếm tiền thêm. &lt;/p&gt; &lt;p&gt;Mn cho mình lời khuyên làm sao để tiếp tục cuộc sống này với. Mình thực sự không thể thấy một tương lai tốt đẹp nào để đi tiếp.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Any_Assist123"&gt; /u/Any_Assist123 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qkgbk3/vấn_đề_trầm_cảm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qkgbk3/vấn_đề_trầm_cảm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qkgbk3/vấn_đề_trầm_cảm/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-23T03:52:20+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1qkev0c</id>
     <title>Người yêu không đăng ảnh thấy mặt mình lên mạng xã hội</title>
     <updated>2026-01-23T02:45:33+00:00</updated>
@@ -318,6 +305,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qkev0c/người_yêu_không_đăng_ảnh_thấy_mặt_mình_lên_mạng/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-23T02:45:33+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qkgbk3</id>
+    <title>Vấn đề trầm cảm</title>
+    <updated>2026-01-23T03:52:20+00:00</updated>
+    <author>
+      <name>/u/Any_Assist123</name>
+      <uri>https://old.reddit.com/user/Any_Assist123</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi mn, mình viết lên đây để chia sẻ về những vấn đề cuộc sống của mình vì hiện tại mình không biết chia sẻ với ai. &lt;/p&gt; &lt;p&gt;Mình là sinh viên năm thứ 5 của một trường đại học cũng thuộc hàng top ở tp.hcm. Trong những năm tháng đại học, bố mẹ mình chỉ đóng học phí cho mình và tiền ăn uống sinh hoạt hầu hết là do mình tự kiếm nhờ đi làm thêm ở ngoài bởi vì nhà mình khá nghèo. Nhưng vì quá áp lực vì phải trang trải cuộc sống nên thời gian học tập của mình cũng bị hạn chế, mình bị hổng kiến thức khá nhiều tuy nhiên không bị rớt môn. &lt;/p&gt; &lt;p&gt;Nhưng tới năm cuối mình bị rớt 1 môn và rớt tới 2 lần môn đó vì giáo viên dạy môn đó dạy khá là khó hiểu và chấm project cực gắt. Lớp em rớt tới hơn nửa lớp ở môn này. &lt;/p&gt; &lt;p&gt;Hiện tại thì mình không thể cố gắng nổi vì áp lực tài chính mà vẫn còn đồ án tốt nghiệp và 1 môn đó. Cha mẹ, họ hàng, hàng xóm thì luôn chỉ trích mình vì ra trường muộn, không lo làm để kiếm tiền về báo hiếu bố mẹ. Nhưng thực sự em không thể cố nổi nữa vì chi phí sinh hoạt khá khó khăn đối với em.&lt;/p&gt; &lt;p&gt;Thời gian gần đây, nhiều lần ý định tự tử nhiều lần nảy ra trong đầu mình và trước đây năm lớp 12 em đã cố tự kết thúc cuộc đời mình 1 lần nhưng không thành công. Hiện tại đã gần tới tết nhưng mình không có một tí vui vẻ nào trong người, trước đây có nhiều năm mình phải ở lại tết để làm để kiếm tiền thêm. &lt;/p&gt; &lt;p&gt;Mn cho mình lời khuyên làm sao để tiếp tục cuộc sống này với. Mình thực sự không thể thấy một tương lai tốt đẹp nào để đi tiếp.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Any_Assist123"&gt; /u/Any_Assist123 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qkgbk3/vấn_đề_trầm_cảm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qkgbk3/vấn_đề_trầm_cảm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qkgbk3/vấn_đề_trầm_cảm/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-23T03:52:20+00:00</published>
   </entry>
   <entry>
     <id>t3_1qkj6m0</id>
