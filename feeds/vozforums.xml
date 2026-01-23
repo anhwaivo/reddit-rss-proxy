@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-23T08:29:16+00:00</updated>
+  <updated>2026-01-23T08:57:07+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -125,19 +125,6 @@
     <published>2026-01-22T16:35:45+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qkipfs</id>
-    <title>Nhảy việc/ chán trong công việc</title>
-    <updated>2026-01-23T05:49:32+00:00</updated>
-    <author>
-      <name>/u/Bao9026</name>
-      <uri>https://old.reddit.com/user/Bao9026</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi mọi người , hiện em đang làm IT helpdesk cho 1 công ty lớn tại bình dương, và có cả 1 team IT. Công việc thì có lúc chia lúc không làm gì cả. Em cảm thấy đã không còn có thể học thêm kiến thức gì cả. Còn về lương thì thấp , phải tăng ca 80 tiếng 1 tháng thì mới mong 14 triệu . :)))&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Bao9026"&gt; /u/Bao9026 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qkipfs/nhảy_việc_chán_trong_công_việc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qkipfs/nhảy_việc_chán_trong_công_việc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qkipfs/nhảy_việc_chán_trong_công_việc/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-23T05:49:32+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1qke4ha</id>
     <title>Mã giảm giá tiktok</title>
     <updated>2026-01-23T02:12:20+00:00</updated>
@@ -190,6 +177,19 @@
     <published>2026-01-23T08:24:03+00:00</published>
   </entry>
   <entry>
+    <id>t3_1qklpak</id>
+    <title>Chúc mọi người 5 năm an yên và vững tâm!</title>
+    <updated>2026-01-23T08:46:36+00:00</updated>
+    <author>
+      <name>/u/Valuable-Explorer899</name>
+      <uri>https://old.reddit.com/user/Valuable-Explorer899</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình tâm đắc câu này: &amp;quot;Hard times create strong men&amp;quot;.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Valuable-Explorer899"&gt; /u/Valuable-Explorer899 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qklpak/chúc_mọi_người_5_năm_an_yên_và_vững_tâm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qklpak/chúc_mọi_người_5_năm_an_yên_và_vững_tâm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qklpak/chúc_mọi_người_5_năm_an_yên_và_vững_tâm/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-23T08:46:36+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1qjx1st</id>
     <title>Thắc mắc Ở trung quốc xài camera đời nhà tống hay sao mà ảnh lúc nào cũng mờ mờ thế nhỉ</title>
     <updated>2026-01-22T15:11:31+00:00</updated>
@@ -201,6 +201,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qjx1st/thắc_mắc_ở_trung_quốc_xài_camera_đời_nhà_tống_hay/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-22T15:11:31+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qkipfs</id>
+    <title>Nhảy việc/ chán trong công việc</title>
+    <updated>2026-01-23T05:49:32+00:00</updated>
+    <author>
+      <name>/u/Bao9026</name>
+      <uri>https://old.reddit.com/user/Bao9026</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi mọi người , hiện em đang làm IT helpdesk cho 1 công ty lớn tại bình dương, và có cả 1 team IT. Công việc thì có lúc chia lúc không làm gì cả. Em cảm thấy đã không còn có thể học thêm kiến thức gì cả. Còn về lương thì thấp , phải tăng ca 80 tiếng 1 tháng thì mới mong 14 triệu . :)))&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Bao9026"&gt; /u/Bao9026 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qkipfs/nhảy_việc_chán_trong_công_việc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qkipfs/nhảy_việc_chán_trong_công_việc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qkipfs/nhảy_việc_chán_trong_công_việc/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-23T05:49:32+00:00</published>
   </entry>
   <entry>
     <id>t3_1qjru3c</id>
@@ -216,19 +229,6 @@
     <published>2026-01-22T11:12:42+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qkkyts</id>
-    <title>Nvqs</title>
-    <updated>2026-01-23T08:00:48+00:00</updated>
-    <author>
-      <name>/u/FarFig1465</name>
-      <uri>https://old.reddit.com/user/FarFig1465</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;E cận 1 mắt 3.5 1 mắt 3 thì yên tâm ở nhà chưa các bác&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/FarFig1465"&gt; /u/FarFig1465 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qkkyts/nvqs/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qkkyts/nvqs/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qkkyts/nvqs/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-23T08:00:48+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1qk3yz2</id>
     <title>Cho tiền bạn gái dịp tết</title>
     <updated>2026-01-22T19:21:55+00:00</updated>
@@ -240,19 +240,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qk3yz2/cho_tiền_bạn_gái_dịp_tết/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-22T19:21:55+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1qk3iep</id>
-    <title>Ngành nào ở VN có vẻ là thực tế nhất và phụ đường cho công việc tương lai sau này?</title>
-    <updated>2026-01-22T19:05:18+00:00</updated>
-    <author>
-      <name>/u/Limp_Election_9445</name>
-      <uri>https://old.reddit.com/user/Limp_Election_9445</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1qk3iep/ngành_nào_ở_vn_có_vẻ_là_thực_tế_nhất_và_phụ_đường/"&gt; &lt;img alt="Ngành nào ở VN có vẻ là thực tế nhất và phụ đường cho công việc tương lai sau này?" src="https://preview.redd.it/buyxsv5i8yeg1.jpeg?width=320&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ef03fc84d4b9d86709ebaeb23c446ba5baa1b317" title="Ngành nào ở VN có vẻ là thực tế nhất và phụ đường cho công việc tương lai sau này?" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình luôn có thắc mâc như vậy 1 thời gian dài và có lẽ là xuyên suốt năm cấp 3 dạo gần đây của mình, bạn bè của mình thì kêu học ngành ngôn ngữ Anh bởi lẽ tiếng anh là điều cần có trong xu hướng ngày nay, có người thì cứ kêu đi theo ngành mình thích, vân vân và mây mây.. &lt;/p&gt; &lt;p&gt;Sau cùng thì mình cx k muốn bỏ 12 năm học và thêm những năm đại học chỉ để đi ra ngoài lao động chân tay, sau cùng trí não vẫn là điều rèn luyện và trau dồi được, theo các bạn thì sao?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Limp_Election_9445"&gt; /u/Limp_Election_9445 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/buyxsv5i8yeg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qk3iep/ngành_nào_ở_vn_có_vẻ_là_thực_tế_nhất_và_phụ_đường/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qk3iep/ngành_nào_ở_vn_có_vẻ_là_thực_tế_nhất_và_phụ_đường/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-22T19:05:18+00:00</published>
   </entry>
   <entry>
     <id>t3_1qkhlt3</id>
@@ -281,6 +268,32 @@
     <published>2026-01-22T12:01:00+00:00</published>
   </entry>
   <entry>
+    <id>t3_1qkkyts</id>
+    <title>Nvqs</title>
+    <updated>2026-01-23T08:00:48+00:00</updated>
+    <author>
+      <name>/u/FarFig1465</name>
+      <uri>https://old.reddit.com/user/FarFig1465</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;E cận 1 mắt 3.5 1 mắt 3 thì yên tâm ở nhà chưa các bác&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/FarFig1465"&gt; /u/FarFig1465 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qkkyts/nvqs/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qkkyts/nvqs/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qkkyts/nvqs/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-23T08:00:48+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qk3iep</id>
+    <title>Ngành nào ở VN có vẻ là thực tế nhất và phụ đường cho công việc tương lai sau này?</title>
+    <updated>2026-01-22T19:05:18+00:00</updated>
+    <author>
+      <name>/u/Limp_Election_9445</name>
+      <uri>https://old.reddit.com/user/Limp_Election_9445</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1qk3iep/ngành_nào_ở_vn_có_vẻ_là_thực_tế_nhất_và_phụ_đường/"&gt; &lt;img alt="Ngành nào ở VN có vẻ là thực tế nhất và phụ đường cho công việc tương lai sau này?" src="https://preview.redd.it/buyxsv5i8yeg1.jpeg?width=320&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ef03fc84d4b9d86709ebaeb23c446ba5baa1b317" title="Ngành nào ở VN có vẻ là thực tế nhất và phụ đường cho công việc tương lai sau này?" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình luôn có thắc mâc như vậy 1 thời gian dài và có lẽ là xuyên suốt năm cấp 3 dạo gần đây của mình, bạn bè của mình thì kêu học ngành ngôn ngữ Anh bởi lẽ tiếng anh là điều cần có trong xu hướng ngày nay, có người thì cứ kêu đi theo ngành mình thích, vân vân và mây mây.. &lt;/p&gt; &lt;p&gt;Sau cùng thì mình cx k muốn bỏ 12 năm học và thêm những năm đại học chỉ để đi ra ngoài lao động chân tay, sau cùng trí não vẫn là điều rèn luyện và trau dồi được, theo các bạn thì sao?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Limp_Election_9445"&gt; /u/Limp_Election_9445 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/buyxsv5i8yeg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qk3iep/ngành_nào_ở_vn_có_vẻ_là_thực_tế_nhất_và_phụ_đường/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qk3iep/ngành_nào_ở_vn_có_vẻ_là_thực_tế_nhất_và_phụ_đường/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-22T19:05:18+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1qkjs01</id>
     <title>haizz chán đời quá</title>
     <updated>2026-01-23T06:48:01+00:00</updated>
@@ -292,19 +305,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qkjs01/haizz_chán_đời_quá/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-23T06:48:01+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1qkev0c</id>
-    <title>Người yêu không đăng ảnh thấy mặt mình lên mạng xã hội</title>
-    <updated>2026-01-23T02:45:33+00:00</updated>
-    <author>
-      <name>/u/Livid-Courage2460</name>
-      <uri>https://old.reddit.com/user/Livid-Courage2460</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình hỏi sao không up ảnh mình thì ảnh nói đó giờ ít post ảnh người yêu.&lt;/p&gt; &lt;p&gt;Sau này ảnh có đăng story nhưng toàn kiểu che mặt, không rõ mặt, kể cả hình nền đt cũng cắt mặt mình.&lt;/p&gt; &lt;p&gt;Mình thường hay được khen xinh, biết chụp ảnh, có nhiều ảnh đẹp, cũng được người xung quanh yêu quý.&lt;/p&gt; &lt;p&gt;Nên mình không hiểu nổi luôn???&lt;/p&gt; &lt;p&gt;Mình thấy bạn bè đều đăng ảnh của người yêu, hoặc là hình chụp chung. Tụi mình cũng có nhiều hình chụp chung.&lt;/p&gt; &lt;p&gt;Ai cho mình lời khuyên với ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Livid-Courage2460"&gt; /u/Livid-Courage2460 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qkev0c/người_yêu_không_đăng_ảnh_thấy_mặt_mình_lên_mạng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qkev0c/người_yêu_không_đăng_ảnh_thấy_mặt_mình_lên_mạng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qkev0c/người_yêu_không_đăng_ảnh_thấy_mặt_mình_lên_mạng/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-23T02:45:33+00:00</published>
   </entry>
   <entry>
     <id>t3_1qkgbk3</id>
