@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-24T19:37:22+00:00</updated>
+  <updated>2026-01-24T19:50:12+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -164,19 +164,6 @@
     <published>2026-01-24T08:50:03+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qlhlia</id>
-    <title>Sau chia tay</title>
-    <updated>2026-01-24T08:24:21+00:00</updated>
-    <author>
-      <name>/u/Hongphaitv</name>
-      <uri>https://old.reddit.com/user/Hongphaitv</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người,&lt;/p&gt; &lt;p&gt;Mình là nam, 25 tuổi. Mình và nyc chia tay nhau cũng được 7-8 tháng rồi. Tụi mình quen nhau gần 4 năm. Chuyện là dạo gần đây, mình thường xuyên mơ thấy cổ, và mỗi lần tỉnh dậy thì cảm giác rất hụt hẫng. Trong giấc mơ, mình thấy mọi thứ rất vui, nên khi thức dậy lại càng buồn hơn. &lt;/p&gt; &lt;p&gt;Nói về một chút lý do tụi mình chia tay thì đó là lỗi của mình vì mình đã không dành đủ sự quan tâm tới cổ. Mình đã từng nói với bản thân là mình sẽ phải tha thứ cho bản thân rồi tiếp tục mọi thứ, nhưng mà mỗi lần mình vô tình nhìn lại những kỷ niệm cũ thì mình lại trách móc bản thân.&lt;/p&gt; &lt;p&gt;Mình cũng nghĩ rằng nếu thích hoặc quen một người mới thì có thể sẽ vượt qua nhanh hơn. Nhưng mỗi lần mình thấy ai đó dễ thương hay mình muốn làm quen ai đó, thì mình lại vô thức so sánh họ với nyc rất nhiều, và điều đó khiến mình không thể mở lòng hoàn toàn.&lt;/p&gt; &lt;p&gt;Mình cũng biết là mình cũng nên làm mọi thứ bận rộn để có thể thôi nghĩ tới. Mình cũng đang có nhiều thứ vì mình đang viết luận án, cuối tuần thì đi làm và đá banh và cũng đang lo nhiều thứ một mình. Hiện mình cũng đang muốn bắt đầu đi tập gym hoặc chạy bộ để có thể hỗ trợ mình nhiều hơn trong bóng đá nhưng mà mình lại k có nhiều động lực lắm 🥲&lt;/p&gt; &lt;p&gt;Mình đăng bài này vì muốn chia sẻ câu chuyện của mình. Mình sẵn lòng lắng nghe lời khuyên và chia sẻ của mọi người. Cảm ơn mọi người đã đọc nhé.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Hongphaitv"&gt; /u/Hongphaitv &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qlhlia/sau_chia_tay/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qlhlia/sau_chia_tay/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qlhlia/sau_chia_tay/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-24T08:24:21+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1qlhmxk</id>
     <title>Thuê pt 3 triệu 12 buổi ổn không mọi người</title>
     <updated>2026-01-24T08:26:43+00:00</updated>
@@ -188,6 +175,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qlhmxk/thuê_pt_3_triệu_12_buổi_ổn_không_mọi_người/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-24T08:26:43+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qlhlia</id>
+    <title>Sau chia tay</title>
+    <updated>2026-01-24T08:24:21+00:00</updated>
+    <author>
+      <name>/u/Hongphaitv</name>
+      <uri>https://old.reddit.com/user/Hongphaitv</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người,&lt;/p&gt; &lt;p&gt;Mình là nam, 25 tuổi. Mình và nyc chia tay nhau cũng được 7-8 tháng rồi. Tụi mình quen nhau gần 4 năm. Chuyện là dạo gần đây, mình thường xuyên mơ thấy cổ, và mỗi lần tỉnh dậy thì cảm giác rất hụt hẫng. Trong giấc mơ, mình thấy mọi thứ rất vui, nên khi thức dậy lại càng buồn hơn. &lt;/p&gt; &lt;p&gt;Nói về một chút lý do tụi mình chia tay thì đó là lỗi của mình vì mình đã không dành đủ sự quan tâm tới cổ. Mình đã từng nói với bản thân là mình sẽ phải tha thứ cho bản thân rồi tiếp tục mọi thứ, nhưng mà mỗi lần mình vô tình nhìn lại những kỷ niệm cũ thì mình lại trách móc bản thân.&lt;/p&gt; &lt;p&gt;Mình cũng nghĩ rằng nếu thích hoặc quen một người mới thì có thể sẽ vượt qua nhanh hơn. Nhưng mỗi lần mình thấy ai đó dễ thương hay mình muốn làm quen ai đó, thì mình lại vô thức so sánh họ với nyc rất nhiều, và điều đó khiến mình không thể mở lòng hoàn toàn.&lt;/p&gt; &lt;p&gt;Mình cũng biết là mình cũng nên làm mọi thứ bận rộn để có thể thôi nghĩ tới. Mình cũng đang có nhiều thứ vì mình đang viết luận án, cuối tuần thì đi làm và đá banh và cũng đang lo nhiều thứ một mình. Hiện mình cũng đang muốn bắt đầu đi tập gym hoặc chạy bộ để có thể hỗ trợ mình nhiều hơn trong bóng đá nhưng mà mình lại k có nhiều động lực lắm 🥲&lt;/p&gt; &lt;p&gt;Mình đăng bài này vì muốn chia sẻ câu chuyện của mình. Mình sẵn lòng lắng nghe lời khuyên và chia sẻ của mọi người. Cảm ơn mọi người đã đọc nhé.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Hongphaitv"&gt; /u/Hongphaitv &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qlhlia/sau_chia_tay/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qlhlia/sau_chia_tay/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qlhlia/sau_chia_tay/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-24T08:24:21+00:00</published>
   </entry>
   <entry>
     <id>t3_1qlpktm</id>
