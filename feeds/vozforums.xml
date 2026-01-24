@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-24T18:53:42+00:00</updated>
+  <updated>2026-01-24T19:16:07+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -255,19 +255,6 @@
     <published>2026-01-24T14:22:21+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qlrvxm</id>
-    <title>Bài tập gym</title>
-    <updated>2026-01-24T16:46:09+00:00</updated>
-    <author>
-      <name>/u/BreakfastNo3213</name>
-      <uri>https://old.reddit.com/user/BreakfastNo3213</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1qlrvxm/bai_tâp_gym/"&gt; &lt;img alt="Bài tập gym" src="https://preview.redd.it/rujsnu2etbfg1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=44bd3b9a0b0d3587fbe9ccac2eb3e9eb94595b8c" title="Bài tập gym" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các đồng gym cho xin bài tập build lưng như này với&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/BreakfastNo3213"&gt; /u/BreakfastNo3213 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/rujsnu2etbfg1.png"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qlrvxm/bai_tâp_gym/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qlrvxm/bai_tâp_gym/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-24T16:46:09+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1qltvxc</id>
     <title>Dạ cho em xin lời khuyên và góp ý của anh chị trong ngành IT về chuyện chọn trường ạ.</title>
     <updated>2026-01-24T17:59:51+00:00</updated>
@@ -305,6 +292,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qlubrb/cr_của_bạn_thân/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-24T18:15:52+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qlrvxm</id>
+    <title>Bài tập gym</title>
+    <updated>2026-01-24T16:46:09+00:00</updated>
+    <author>
+      <name>/u/BreakfastNo3213</name>
+      <uri>https://old.reddit.com/user/BreakfastNo3213</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1qlrvxm/bai_tâp_gym/"&gt; &lt;img alt="Bài tập gym" src="https://preview.redd.it/rujsnu2etbfg1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=44bd3b9a0b0d3587fbe9ccac2eb3e9eb94595b8c" title="Bài tập gym" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các đồng gym cho xin bài tập build lưng như này với&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/BreakfastNo3213"&gt; /u/BreakfastNo3213 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/rujsnu2etbfg1.png"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qlrvxm/bai_tâp_gym/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qlrvxm/bai_tâp_gym/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-24T16:46:09+00:00</published>
   </entry>
   <entry>
     <id>t3_1qldvp8</id>
