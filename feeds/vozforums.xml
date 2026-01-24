@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-24T21:39:00+00:00</updated>
+  <updated>2026-01-24T21:50:16+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -255,19 +255,6 @@
     <published>2026-01-24T14:22:21+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qltvxc</id>
-    <title>Dạ cho em xin lời khuyên và góp ý của anh chị trong ngành IT về chuyện chọn trường ạ.</title>
-    <updated>2026-01-24T17:59:51+00:00</updated>
-    <author>
-      <name>/u/ProfessorOk1784</name>
-      <uri>https://old.reddit.com/user/ProfessorOk1784</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là em vừa tốt nghiệp cao đẳng trong năm nay và em cảm thấy mình có thể học hơn nữa nên có ý định liên thông ạ. Em đang thắc mắc giữa 2 trường là IUH và HCMUTE thì em nên chọn trường nào ạ, ngoài 2 trường này thì còn sự lựa chọn nào tốt hơn không. Em rất mong được nghe lời khuyên và góp ý của các anh chị trong ngành dưới nhiều góc nhìn như nhà tuyển dụng, kĩ thuật,... Em xin cảm ơn ạ. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ProfessorOk1784"&gt; /u/ProfessorOk1784 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qltvxc/dạ_cho_em_xin_lời_khuyên_và_góp_ý_của_anh_chị/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qltvxc/dạ_cho_em_xin_lời_khuyên_và_góp_ý_của_anh_chị/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qltvxc/dạ_cho_em_xin_lời_khuyên_và_góp_ý_của_anh_chị/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-24T17:59:51+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1qlubrb</id>
     <title>Cr của bạn thân</title>
     <updated>2026-01-24T18:15:52+00:00</updated>
@@ -305,6 +292,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qlrvxm/bai_tâp_gym/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-24T16:46:09+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qltvxc</id>
+    <title>Dạ cho em xin lời khuyên và góp ý của anh chị trong ngành IT về chuyện chọn trường ạ.</title>
+    <updated>2026-01-24T17:59:51+00:00</updated>
+    <author>
+      <name>/u/ProfessorOk1784</name>
+      <uri>https://old.reddit.com/user/ProfessorOk1784</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là em vừa tốt nghiệp cao đẳng trong năm nay và em cảm thấy mình có thể học hơn nữa nên có ý định liên thông ạ. Em đang thắc mắc giữa 2 trường là IUH và HCMUTE thì em nên chọn trường nào ạ, ngoài 2 trường này thì còn sự lựa chọn nào tốt hơn không. Em rất mong được nghe lời khuyên và góp ý của các anh chị trong ngành dưới nhiều góc nhìn như nhà tuyển dụng, kĩ thuật,... Em xin cảm ơn ạ. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ProfessorOk1784"&gt; /u/ProfessorOk1784 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qltvxc/dạ_cho_em_xin_lời_khuyên_và_góp_ý_của_anh_chị/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qltvxc/dạ_cho_em_xin_lời_khuyên_và_góp_ý_của_anh_chị/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qltvxc/dạ_cho_em_xin_lời_khuyên_và_góp_ý_của_anh_chị/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-24T17:59:51+00:00</published>
   </entry>
   <entry>
     <id>t3_1qldvp8</id>
