@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-24T21:50:16+00:00</updated>
+  <updated>2026-01-24T22:19:01+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -47,19 +47,6 @@
     <published>2026-01-24T09:24:46+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qlit18</id>
-    <title>Giải ngố bảo hiểm</title>
-    <updated>2026-01-24T09:38:13+00:00</updated>
-    <author>
-      <name>/u/Spare_Wrangler7615</name>
-      <uri>https://old.reddit.com/user/Spare_Wrangler7615</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Thắc mắc về Bảo hiểm nhân thọ (BHNT) hay bảo hiểm sức khoẻ (BHSK) để lại cmt phía dưới nha!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Spare_Wrangler7615"&gt; /u/Spare_Wrangler7615 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qlit18/giải_ngố_bảo_hiểm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qlit18/giải_ngố_bảo_hiểm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qlit18/giải_ngố_bảo_hiểm/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-24T09:38:13+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1qleoas</id>
     <title>Câu lạc bộ thể thao cho trẻ em</title>
     <updated>2026-01-24T05:40:07+00:00</updated>
@@ -97,6 +84,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qlihx1/topic_ipad/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-24T09:19:26+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qlit18</id>
+    <title>Giải ngố bảo hiểm</title>
+    <updated>2026-01-24T09:38:13+00:00</updated>
+    <author>
+      <name>/u/Spare_Wrangler7615</name>
+      <uri>https://old.reddit.com/user/Spare_Wrangler7615</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Thắc mắc về Bảo hiểm nhân thọ (BHNT) hay bảo hiểm sức khoẻ (BHSK) để lại cmt phía dưới nha!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Spare_Wrangler7615"&gt; /u/Spare_Wrangler7615 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qlit18/giải_ngố_bảo_hiểm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qlit18/giải_ngố_bảo_hiểm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qlit18/giải_ngố_bảo_hiểm/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-24T09:38:13+00:00</published>
   </entry>
   <entry>
     <id>t3_1qlffc4</id>
