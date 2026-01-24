@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-24T13:19:58+00:00</updated>
+  <updated>2026-01-24T13:47:25+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1qklpak</id>
-    <title>Chúc mọi người 5 năm an yên và vững tâm!</title>
-    <updated>2026-01-23T08:46:36+00:00</updated>
-    <author>
-      <name>/u/Valuable-Explorer899</name>
-      <uri>https://old.reddit.com/user/Valuable-Explorer899</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình tâm đắc câu này: &amp;quot;Hard times create strong men&amp;quot;.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Valuable-Explorer899"&gt; /u/Valuable-Explorer899 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qklpak/chúc_mọi_người_5_năm_an_yên_và_vững_tâm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qklpak/chúc_mọi_người_5_năm_an_yên_và_vững_tâm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qklpak/chúc_mọi_người_5_năm_an_yên_và_vững_tâm/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-23T08:46:36+00:00</published>
-  </entry>
   <entry>
     <id>t3_1qkmyu0</id>
     <title>Làm quen qua ứng dụng hẹn hò</title>
@@ -190,19 +177,6 @@
     <published>2026-01-24T06:19:56+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qli0lz</id>
-    <title>Xin tips giữ gìn không gian sống</title>
-    <updated>2026-01-24T08:50:03+00:00</updated>
-    <author>
-      <name>/u/Exact-Abies795</name>
-      <uri>https://old.reddit.com/user/Exact-Abies795</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chả là e mới đi Nhật du lịch mấy ngày, mà với e chỗ nào sạch sẽ là e mê rồi chả cần view đẹp hay ăn ngon (vẫn là điểm cộng nhé). Về lại Hà Nội thấy dù mình có cố cách mấy (dọn dẹp quét nhà lau chùi) thì đồ đạc vẫn cứ bám bụi, người ngợm cũng không được thoải mái. Các bác cho e hỏi làm sao giữ được không gian sống sạch sẽ nhất có thể ạ? Mục tiêu của e là để cơ thể thoải mái có nhiều năng lượng hơn mỗi ngày (không gian sống mà bẩn thì dễ cáu gắt với khong muốn làm gì) E có thử đóng hết cửa, chạy máy lọc cả ngayf nhưng vẫn không hết bụi. À tạm thời thì e chưa rời HN được nhé, nên cố gắng cải thiện thôi, các bác đừng khuyên e đi chỗ khác (e có tính đến rồi nhưng chưa phải bây giờ)&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Exact-Abies795"&gt; /u/Exact-Abies795 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qli0lz/xin_tips_giữ_gìn_không_gian_sống/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qli0lz/xin_tips_giữ_gìn_không_gian_sống/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qli0lz/xin_tips_giữ_gìn_không_gian_sống/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-24T08:50:03+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1qlihx1</id>
     <title>Topic iPad</title>
     <updated>2026-01-24T09:19:26+00:00</updated>
@@ -216,17 +190,30 @@
     <published>2026-01-24T09:19:26+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qlmj0y</id>
-    <title>Mua vàng online</title>
-    <updated>2026-01-24T13:07:34+00:00</updated>
+    <id>t3_1qln6kr</id>
+    <title>Thắc mắc về chương trình FPT AI Residency</title>
+    <updated>2026-01-24T13:37:32+00:00</updated>
     <author>
-      <name>/u/Ptese</name>
-      <uri>https://old.reddit.com/user/Ptese</uri>
+      <name>/u/Ok-Elderberry3966</name>
+      <uri>https://old.reddit.com/user/Ok-Elderberry3966</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác, hiện tại em đang có nhu cầu mua vàng để tích trữ, nhưng em đang ở trọ trên Hà Nội, cất ở phòng thì không an toàn, mang về quê nhờ phụ huynh cất thì cũng không được.&lt;/p&gt; &lt;p&gt;Vậy nên em đang tính mua vàng online trên eGold của DOJI, rồi sau đấy cứ để ở trên đấy, đã có bác nào mua vàng tích trữ kiểu này và liệu có đảm bảo an toàn trong thời gian dài không? Nhờ các bác tư vấn giúp em với&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ptese"&gt; /u/Ptese &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qlmj0y/mua_vàng_online/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qlmj0y/mua_vàng_online/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qlmj0y/mua_vàng_online/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em xin chào mọi người ạ. Không biết trong đây có ai từng tham gia chương trình FPT AI Residency chưa ạ? Nếu rồi không biết mọi người có thể cho em xin review, và cụ thể cần ôn những gì và các vòng như nào nếu em muốn ứng tuyển được không. Em cảm ơn mọi người ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ok-Elderberry3966"&gt; /u/Ok-Elderberry3966 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qln6kr/thắc_mắc_về_chương_trình_fpt_ai_residency/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qln6kr/thắc_mắc_về_chương_trình_fpt_ai_residency/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qln6kr/thắc_mắc_về_chương_trình_fpt_ai_residency/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-24T13:07:34+00:00</published>
+    <published>2026-01-24T13:37:32+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qli0lz</id>
+    <title>Xin tips giữ gìn không gian sống</title>
+    <updated>2026-01-24T08:50:03+00:00</updated>
+    <author>
+      <name>/u/Exact-Abies795</name>
+      <uri>https://old.reddit.com/user/Exact-Abies795</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chả là e mới đi Nhật du lịch mấy ngày, mà với e chỗ nào sạch sẽ là e mê rồi chả cần view đẹp hay ăn ngon (vẫn là điểm cộng nhé). Về lại Hà Nội thấy dù mình có cố cách mấy (dọn dẹp quét nhà lau chùi) thì đồ đạc vẫn cứ bám bụi, người ngợm cũng không được thoải mái. Các bác cho e hỏi làm sao giữ được không gian sống sạch sẽ nhất có thể ạ? Mục tiêu của e là để cơ thể thoải mái có nhiều năng lượng hơn mỗi ngày (không gian sống mà bẩn thì dễ cáu gắt với khong muốn làm gì) E có thử đóng hết cửa, chạy máy lọc cả ngayf nhưng vẫn không hết bụi. À tạm thời thì e chưa rời HN được nhé, nên cố gắng cải thiện thôi, các bác đừng khuyên e đi chỗ khác (e có tính đến rồi nhưng chưa phải bây giờ)&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Exact-Abies795"&gt; /u/Exact-Abies795 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qli0lz/xin_tips_giữ_gìn_không_gian_sống/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qli0lz/xin_tips_giữ_gìn_không_gian_sống/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qli0lz/xin_tips_giữ_gìn_không_gian_sống/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-24T08:50:03+00:00</published>
   </entry>
   <entry>
     <id>t3_1qlhlia</id>
@@ -253,6 +240,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qllja2/xin_lời_khuyên/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-24T12:17:39+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qlmj0y</id>
+    <title>Mua vàng online</title>
+    <updated>2026-01-24T13:07:34+00:00</updated>
+    <author>
+      <name>/u/Ptese</name>
+      <uri>https://old.reddit.com/user/Ptese</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác, hiện tại em đang có nhu cầu mua vàng để tích trữ, nhưng em đang ở trọ trên Hà Nội, cất ở phòng thì không an toàn, mang về quê nhờ phụ huynh cất thì cũng không được.&lt;/p&gt; &lt;p&gt;Vậy nên em đang tính mua vàng online trên eGold của DOJI, rồi sau đấy cứ để ở trên đấy, đã có bác nào mua vàng tích trữ kiểu này và liệu có đảm bảo an toàn trong thời gian dài không? Nhờ các bác tư vấn giúp em với&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ptese"&gt; /u/Ptese &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qlmj0y/mua_vàng_online/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qlmj0y/mua_vàng_online/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qlmj0y/mua_vàng_online/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-24T13:07:34+00:00</published>
   </entry>
   <entry>
     <id>t3_1qlcq9f</id>
