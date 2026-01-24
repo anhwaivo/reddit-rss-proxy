@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-23T23:53:31+00:00</updated>
+  <updated>2026-01-24T01:39:49+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -125,19 +125,6 @@
     <published>2026-01-23T16:36:22+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qkkyts</id>
-    <title>Nvqs</title>
-    <updated>2026-01-23T08:00:48+00:00</updated>
-    <author>
-      <name>/u/FarFig1465</name>
-      <uri>https://old.reddit.com/user/FarFig1465</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;E cận 1 mắt 3.5 1 mắt 3 thì yên tâm ở nhà chưa các bác&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/FarFig1465"&gt; /u/FarFig1465 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qkkyts/nvqs/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qkkyts/nvqs/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qkkyts/nvqs/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-23T08:00:48+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1qkr19h</id>
     <title>Nên học thêm ngôn ngữ thứ 2 là Trung hay Nhật</title>
     <updated>2026-01-23T13:38:33+00:00</updated>
@@ -149,6 +136,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qkr19h/nên_học_thêm_ngôn_ngữ_thứ_2_là_trung_hay_nhật/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-23T13:38:33+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qkkyts</id>
+    <title>Nvqs</title>
+    <updated>2026-01-23T08:00:48+00:00</updated>
+    <author>
+      <name>/u/FarFig1465</name>
+      <uri>https://old.reddit.com/user/FarFig1465</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;E cận 1 mắt 3.5 1 mắt 3 thì yên tâm ở nhà chưa các bác&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/FarFig1465"&gt; /u/FarFig1465 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qkkyts/nvqs/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qkkyts/nvqs/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qkkyts/nvqs/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-23T08:00:48+00:00</published>
   </entry>
   <entry>
     <id>t3_1qk3iep</id>
@@ -190,19 +190,6 @@
     <published>2026-01-23T18:29:50+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qkz4p3</id>
-    <title>Cách quản lý warehouse hiệu quả</title>
-    <updated>2026-01-23T18:42:55+00:00</updated>
-    <author>
-      <name>/u/Commercial_Swimmer69</name>
-      <uri>https://old.reddit.com/user/Commercial_Swimmer69</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là công ty tôi sử dụng phần mềm Unleashed để quản lý inventory. Access vào warehouse thì chỉ được grant cho manager level qua key fob.&lt;/p&gt; &lt;p&gt;Thường tôi để ý, technician/ engineer đều tới lấy key fob từ manager để vào lấy spare part, xong thì tạo Sales Order để rút nó ra khỏi inventory.&lt;/p&gt; &lt;p&gt;Nhưng bằng cái cách thần kỳ nào đó, audit cuối năm lúc nào cũng thất thoát từ $5000 cho tới $20000??? Và cái lý do củ chuối được đưa ra là lỗi hệ thống khiến warehouse và phần mềm inventory không match.&lt;/p&gt; &lt;p&gt;Có cách nào improve để quản lý warehouse hợp lý không!? Tôi có cảm giác cái này là bad management hơn là vấn đề về lỗi hệ thống.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Commercial_Swimmer69"&gt; /u/Commercial_Swimmer69 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qkz4p3/cách_quản_lý_warehouse_hiệu_quả/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qkz4p3/cách_quản_lý_warehouse_hiệu_quả/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qkz4p3/cách_quản_lý_warehouse_hiệu_quả/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-23T18:42:55+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1qkpphk</id>
     <title>Niềng răng có những rủi ro tiềm ẩn nào?</title>
     <updated>2026-01-23T12:38:45+00:00</updated>
@@ -214,6 +201,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qkpphk/niềng_răng_có_những_rủi_ro_tiềm_ẩn_nào/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-23T12:38:45+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qkz4p3</id>
+    <title>Cách quản lý warehouse hiệu quả</title>
+    <updated>2026-01-23T18:42:55+00:00</updated>
+    <author>
+      <name>/u/Commercial_Swimmer69</name>
+      <uri>https://old.reddit.com/user/Commercial_Swimmer69</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là công ty tôi sử dụng phần mềm Unleashed để quản lý inventory. Access vào warehouse thì chỉ được grant cho manager level qua key fob.&lt;/p&gt; &lt;p&gt;Thường tôi để ý, technician/ engineer đều tới lấy key fob từ manager để vào lấy spare part, xong thì tạo Sales Order để rút nó ra khỏi inventory.&lt;/p&gt; &lt;p&gt;Nhưng bằng cái cách thần kỳ nào đó, audit cuối năm lúc nào cũng thất thoát từ $5000 cho tới $20000??? Và cái lý do củ chuối được đưa ra là lỗi hệ thống khiến warehouse và phần mềm inventory không match.&lt;/p&gt; &lt;p&gt;Có cách nào improve để quản lý warehouse hợp lý không!? Tôi có cảm giác cái này là bad management hơn là vấn đề về lỗi hệ thống.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Commercial_Swimmer69"&gt; /u/Commercial_Swimmer69 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qkz4p3/cách_quản_lý_warehouse_hiệu_quả/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qkz4p3/cách_quản_lý_warehouse_hiệu_quả/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qkz4p3/cách_quản_lý_warehouse_hiệu_quả/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-23T18:42:55+00:00</published>
   </entry>
   <entry>
     <id>t3_1qkvscw</id>
@@ -229,17 +229,17 @@
     <published>2026-01-23T16:41:45+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qkrvj8</id>
-    <title>Xin tư vấn luyện kỹ năng nói tiếng Anh</title>
-    <updated>2026-01-23T14:13:18+00:00</updated>
+    <id>t3_1qkuywe</id>
+    <title>[Tư vấn] Bảo hiểm MIC từ chối chi trả mổ đục thủy tinh thể (H25.0) dù Bảng quyền lợi ghi bồi thường 100%. Có bác nào đã thắng kiện chưa?</title>
+    <updated>2026-01-23T16:11:32+00:00</updated>
     <author>
-      <name>/u/betty_Vn_2310</name>
-      <uri>https://old.reddit.com/user/betty_Vn_2310</uri>
+      <name>/u/Ok_Outside6936</name>
+      <uri>https://old.reddit.com/user/Ok_Outside6936</uri>
     </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1qkrvj8/xin_tư_vấn_luyện_kỹ_năng_nói_tiếng_anh/"&gt; &lt;img alt="Xin tư vấn luyện kỹ năng nói tiếng Anh" src="https://b.thumbs.redditmedia.com/i3FrzRh-CBfEJSi-saj5ix9-TLtjVSRUWRvksvV7tis.jpg" title="Xin tư vấn luyện kỹ năng nói tiếng Anh" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em bên ngành IT, tốt nghiệp và ra trường đi làm đc 2 năm. Tiếng Anh của em về đọc và nghe em cảm thấy khá ổn, hoàn toàn có thể đọc, nghe tài liệu chuyên ngành thoải mái. Nhưng vấn đề là do em học tiếng Anh không hề bài bản, em đúng kiểu xem youtube, đọc tài liệu nhiều thành quen chứ cơ bản như ngữ pháp chắc em biết vỏn vẹn đúng 3 thì hiện tại đơn, tiếp diễn với quá khứ đơn. Cũng không học nói bao giờ nên kỹ năng output của em rất kém. Mọi người có thể xem điểm thi VSTEP B2 của em ạ.&lt;/p&gt; &lt;p&gt;Do nhu cầu công việc cũng như phát triển bản thân, nên em muốn xin tư vấn mọi người lộ trình học giao tiếp tiếng Anh cho trôi chảy ạ, em ưu tiên kỹ năng nói hơn. Em tài chính ổn định nên học gia sư 1-1, hay course, trung tâm cũng đều ok ạ. À em ở Hà Nội nữa. &lt;/p&gt; &lt;p&gt;Em cảm ơn mọi người.&lt;/p&gt; &lt;p&gt;&lt;a href="https://preview.redd.it/ptvru5biw3fg1.png?width=1604&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=1a28e2b4842c28245c75bfa0c84799bb8354b411"&gt;https://preview.redd.it/ptvru5biw3fg1.png?width=1604&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=1a28e2b4842c28245c75bfa0c84799bb8354b411&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/betty_Vn_2310"&gt; /u/betty_Vn_2310 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qkrvj8/xin_tư_vấn_luyện_kỹ_năng_nói_tiếng_anh/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qkrvj8/xin_tư_vấn_luyện_kỹ_năng_nói_tiếng_anh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qkrvj8/xin_tư_vấn_luyện_kỹ_năng_nói_tiếng_anh/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác, mình đang gặp một ca từ phía bảo hiểm MIC và muốn xin lời khuyên từ những người có kinh nghiệm hoặc làm trong ngành.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Tóm tắt sự việc:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Đối tượng:&lt;/strong&gt; Mẹ mình tham gia bảo hiểm sức khỏe gói phúc lợi của công ty.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Tình trạng:&lt;/strong&gt; Mẹ bị đục thủy tinh thể, bác sĩ chẩn đoán mã bệnh &lt;strong&gt;H25.0&lt;/strong&gt; (Đục thủy tinh thể bắt đầu ở người già) và chỉ định phẫu thuật Phaco.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Quyền lợi trong hợp đồng:&lt;/strong&gt; Bảng quyền lợi ghi rõ &lt;strong&gt;&amp;quot;Bồi thường 100% theo giới hạn chung đối với bệnh đục thủy tinh thể (nguyên nhân bệnh lý)&amp;quot;&lt;/strong&gt;.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Lý do MIC từ chối:&lt;/strong&gt; Họ dẫn chứng &amp;quot;Điều khoản loại trừ số 3&amp;quot; trong Quy tắc bảo hiểm chung, nói rằng đây là &lt;strong&gt;&amp;quot;khuyết tật thoái hóa tự nhiên&amp;quot;&lt;/strong&gt; nên không trả.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Lập luận của mình:&lt;/strong&gt;&lt;/p&gt; &lt;ol&gt; &lt;li&gt;&lt;strong&gt;Về y khoa:&lt;/strong&gt; H25.0 là mã &lt;strong&gt;bệnh lý&lt;/strong&gt; theo WHO (ICD-10), không phải tật khúc xạ (cận/viễn/loạn) hay thoái hóa lão thị thông thường. Phẫu thuật Phaco là can thiệp ngoại khoa điều trị bệnh, không phải hiệu chỉnh thị lực.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Về pháp lý:&lt;/strong&gt; Bảng quyền lợi cụ thể phải ưu tiên hơn Quy tắc loại trừ chung. Nếu loại trừ đục thủy tinh thể người già thì dòng chữ &amp;quot;Bồi thường 100% cho đục thủy tinh thể&amp;quot; trong hợp đồng hóa ra là lừa khách hàng à? Vì 90% ca đục thủy tinh thể là do tuổi tác.&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;&lt;strong&gt;Mình muốn hỏi các bác:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Có bác nào từng bị bảo hiểm từ chối với lý do &amp;quot;thoái hóa tự nhiên&amp;quot; cho bệnh lý chưa?&lt;/li&gt; &lt;li&gt;Có bác nào có chuyên môn về y khoa có thể xác định giúp mình mã H25.0 là bệnh lý hay thuộc thoái hoá tự nhiên không?&lt;/li&gt; &lt;li&gt;Mình chỉ mới bấm không đồng ý với phương án bồi thường trên app của MIC thôi, bước tiếp theo mình phải làm gì?&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Cảm ơn các bác đã đọc và tư vấn!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ok_Outside6936"&gt; /u/Ok_Outside6936 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qkuywe/tư_vấn_bảo_hiểm_mic_từ_chối_chi_trả_mổ_đục_thủy/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qkuywe/tư_vấn_bảo_hiểm_mic_từ_chối_chi_trả_mổ_đục_thủy/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qkuywe/tư_vấn_bảo_hiểm_mic_từ_chối_chi_trả_mổ_đục_thủy/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-23T14:13:18+00:00</published>
+    <published>2026-01-23T16:11:32+00:00</published>
   </entry>
   <entry>
     <id>t3_1qklpak</id>
@@ -255,30 +255,17 @@
     <published>2026-01-23T08:46:36+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qkuywe</id>
-    <title>[Tư vấn] Bảo hiểm MIC từ chối chi trả mổ đục thủy tinh thể (H25.0) dù Bảng quyền lợi ghi bồi thường 100%. Có bác nào đã thắng kiện chưa?</title>
-    <updated>2026-01-23T16:11:32+00:00</updated>
+    <id>t3_1qkrvj8</id>
+    <title>Xin tư vấn luyện kỹ năng nói tiếng Anh</title>
+    <updated>2026-01-23T14:13:18+00:00</updated>
     <author>
-      <name>/u/Ok_Outside6936</name>
-      <uri>https://old.reddit.com/user/Ok_Outside6936</uri>
+      <name>/u/betty_Vn_2310</name>
+      <uri>https://old.reddit.com/user/betty_Vn_2310</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác, mình đang gặp một ca từ phía bảo hiểm MIC và muốn xin lời khuyên từ những người có kinh nghiệm hoặc làm trong ngành.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Tóm tắt sự việc:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Đối tượng:&lt;/strong&gt; Mẹ mình tham gia bảo hiểm sức khỏe gói phúc lợi của công ty.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Tình trạng:&lt;/strong&gt; Mẹ bị đục thủy tinh thể, bác sĩ chẩn đoán mã bệnh &lt;strong&gt;H25.0&lt;/strong&gt; (Đục thủy tinh thể bắt đầu ở người già) và chỉ định phẫu thuật Phaco.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Quyền lợi trong hợp đồng:&lt;/strong&gt; Bảng quyền lợi ghi rõ &lt;strong&gt;&amp;quot;Bồi thường 100% theo giới hạn chung đối với bệnh đục thủy tinh thể (nguyên nhân bệnh lý)&amp;quot;&lt;/strong&gt;.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Lý do MIC từ chối:&lt;/strong&gt; Họ dẫn chứng &amp;quot;Điều khoản loại trừ số 3&amp;quot; trong Quy tắc bảo hiểm chung, nói rằng đây là &lt;strong&gt;&amp;quot;khuyết tật thoái hóa tự nhiên&amp;quot;&lt;/strong&gt; nên không trả.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Lập luận của mình:&lt;/strong&gt;&lt;/p&gt; &lt;ol&gt; &lt;li&gt;&lt;strong&gt;Về y khoa:&lt;/strong&gt; H25.0 là mã &lt;strong&gt;bệnh lý&lt;/strong&gt; theo WHO (ICD-10), không phải tật khúc xạ (cận/viễn/loạn) hay thoái hóa lão thị thông thường. Phẫu thuật Phaco là can thiệp ngoại khoa điều trị bệnh, không phải hiệu chỉnh thị lực.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Về pháp lý:&lt;/strong&gt; Bảng quyền lợi cụ thể phải ưu tiên hơn Quy tắc loại trừ chung. Nếu loại trừ đục thủy tinh thể người già thì dòng chữ &amp;quot;Bồi thường 100% cho đục thủy tinh thể&amp;quot; trong hợp đồng hóa ra là lừa khách hàng à? Vì 90% ca đục thủy tinh thể là do tuổi tác.&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;&lt;strong&gt;Mình muốn hỏi các bác:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Có bác nào từng bị bảo hiểm từ chối với lý do &amp;quot;thoái hóa tự nhiên&amp;quot; cho bệnh lý chưa?&lt;/li&gt; &lt;li&gt;Có bác nào có chuyên môn về y khoa có thể xác định giúp mình mã H25.0 là bệnh lý hay thuộc thoái hoá tự nhiên không?&lt;/li&gt; &lt;li&gt;Mình chỉ mới bấm không đồng ý với phương án bồi thường trên app của MIC thôi, bước tiếp theo mình phải làm gì?&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Cảm ơn các bác đã đọc và tư vấn!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ok_Outside6936"&gt; /u/Ok_Outside6936 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qkuywe/tư_vấn_bảo_hiểm_mic_từ_chối_chi_trả_mổ_đục_thủy/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qkuywe/tư_vấn_bảo_hiểm_mic_từ_chối_chi_trả_mổ_đục_thủy/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qkuywe/tư_vấn_bảo_hiểm_mic_từ_chối_chi_trả_mổ_đục_thủy/"/>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1qkrvj8/xin_tư_vấn_luyện_kỹ_năng_nói_tiếng_anh/"&gt; &lt;img alt="Xin tư vấn luyện kỹ năng nói tiếng Anh" src="https://b.thumbs.redditmedia.com/i3FrzRh-CBfEJSi-saj5ix9-TLtjVSRUWRvksvV7tis.jpg" title="Xin tư vấn luyện kỹ năng nói tiếng Anh" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em bên ngành IT, tốt nghiệp và ra trường đi làm đc 2 năm. Tiếng Anh của em về đọc và nghe em cảm thấy khá ổn, hoàn toàn có thể đọc, nghe tài liệu chuyên ngành thoải mái. Nhưng vấn đề là do em học tiếng Anh không hề bài bản, em đúng kiểu xem youtube, đọc tài liệu nhiều thành quen chứ cơ bản như ngữ pháp chắc em biết vỏn vẹn đúng 3 thì hiện tại đơn, tiếp diễn với quá khứ đơn. Cũng không học nói bao giờ nên kỹ năng output của em rất kém. Mọi người có thể xem điểm thi VSTEP B2 của em ạ.&lt;/p&gt; &lt;p&gt;Do nhu cầu công việc cũng như phát triển bản thân, nên em muốn xin tư vấn mọi người lộ trình học giao tiếp tiếng Anh cho trôi chảy ạ, em ưu tiên kỹ năng nói hơn. Em tài chính ổn định nên học gia sư 1-1, hay course, trung tâm cũng đều ok ạ. À em ở Hà Nội nữa. &lt;/p&gt; &lt;p&gt;Em cảm ơn mọi người.&lt;/p&gt; &lt;p&gt;&lt;a href="https://preview.redd.it/ptvru5biw3fg1.png?width=1604&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=1a28e2b4842c28245c75bfa0c84799bb8354b411"&gt;https://preview.redd.it/ptvru5biw3fg1.png?width=1604&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=1a28e2b4842c28245c75bfa0c84799bb8354b411&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/betty_Vn_2310"&gt; /u/betty_Vn_2310 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qkrvj8/xin_tư_vấn_luyện_kỹ_năng_nói_tiếng_anh/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qkrvj8/xin_tư_vấn_luyện_kỹ_năng_nói_tiếng_anh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qkrvj8/xin_tư_vấn_luyện_kỹ_năng_nói_tiếng_anh/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-23T16:11:32+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1qkmyu0</id>
-    <title>Làm quen qua ứng dụng hẹn hò</title>
-    <updated>2026-01-23T10:05:43+00:00</updated>
-    <author>
-      <name>/u/ben10nhan1998</name>
-      <uri>https://old.reddit.com/user/ben10nhan1998</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác, em lên đây để hỏi một số câu hỏi khi làm quen ngưòi khác qua mạng. Chuyện là em có làm quen với 1 bạn nữ cùng khu vực thông qua ứng dụng hẹn hò. Tụi em nói chuyện được khoảng 3 tuần. Em muốn tìm 1 mqh lâu dài nên hiện tại tụi em đang tìm hiểu nhau thông qua việc làm bạn rồi để mọi thứ tự nhiên. Bạn ấy gần như lúc nào cũng công việc nên chủ yếu cả 2 chỉ nói chuyện vào sáng (hoặc trưa) và tối trước khi đi ngủ nhưng gần như là không sót ngày nào kể từ khi match nhau qua app. Bình thường thì cũng hỏi nhau ngày hôm nay của cả 2 như thế nào. Nói chung thì cũng vui nhưng mà em muốn hỏi các bác có kinh nghiệm là&lt;/p&gt; &lt;ol&gt; &lt;li&gt;&lt;p&gt;Khi tìm hiểu nhau thì mọi ngưòi sẽ mất bao lâu và làm sao biết được mình đang ở giai đoạn nào?&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Làm sao để giữ nhịp khi nhắn tin? Bởi vì có những lúc họ bận với việc riêng thì chỉ rep 1 tin xong lại biến mất hoặc là nguyên ngày cũng ko nhắn gì, em sợ bị ghost nhưng cũng sợ mình nhắn quá nhiều thì họ sẽ thấy phiền mặc dù họ từng bảo không phiền.&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Khi em nói chuyện với bạn bè em thì bạn em bảo cả 2 chưa là gì của nhau mà cũng chưa phải mập mờ nữa nên hãy thử tìm hiểu thêm ngưòi khác nữa xem sao. Cho em hỏi là có nên không việc tìm hiểu nhiều ngưòi 1 lúc ạ?&lt;/p&gt;&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Cảm ơn các bác đã đọc tới đây ạ 🫡&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ben10nhan1998"&gt; /u/ben10nhan1998 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qkmyu0/làm_quen_qua_ứng_dụng_hẹn_hò/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qkmyu0/làm_quen_qua_ứng_dụng_hẹn_hò/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qkmyu0/làm_quen_qua_ứng_dụng_hẹn_hò/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-23T10:05:43+00:00</published>
+    <published>2026-01-23T14:13:18+00:00</published>
   </entry>
   <entry>
     <id>t3_1qkwqu2</id>
@@ -292,6 +279,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qkwqu2/reanode_nhôm_màu_dark_plum/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-23T17:16:36+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qkmyu0</id>
+    <title>Làm quen qua ứng dụng hẹn hò</title>
+    <updated>2026-01-23T10:05:43+00:00</updated>
+    <author>
+      <name>/u/ben10nhan1998</name>
+      <uri>https://old.reddit.com/user/ben10nhan1998</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác, em lên đây để hỏi một số câu hỏi khi làm quen ngưòi khác qua mạng. Chuyện là em có làm quen với 1 bạn nữ cùng khu vực thông qua ứng dụng hẹn hò. Tụi em nói chuyện được khoảng 3 tuần. Em muốn tìm 1 mqh lâu dài nên hiện tại tụi em đang tìm hiểu nhau thông qua việc làm bạn rồi để mọi thứ tự nhiên. Bạn ấy gần như lúc nào cũng công việc nên chủ yếu cả 2 chỉ nói chuyện vào sáng (hoặc trưa) và tối trước khi đi ngủ nhưng gần như là không sót ngày nào kể từ khi match nhau qua app. Bình thường thì cũng hỏi nhau ngày hôm nay của cả 2 như thế nào. Nói chung thì cũng vui nhưng mà em muốn hỏi các bác có kinh nghiệm là&lt;/p&gt; &lt;ol&gt; &lt;li&gt;&lt;p&gt;Khi tìm hiểu nhau thì mọi ngưòi sẽ mất bao lâu và làm sao biết được mình đang ở giai đoạn nào?&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Làm sao để giữ nhịp khi nhắn tin? Bởi vì có những lúc họ bận với việc riêng thì chỉ rep 1 tin xong lại biến mất hoặc là nguyên ngày cũng ko nhắn gì, em sợ bị ghost nhưng cũng sợ mình nhắn quá nhiều thì họ sẽ thấy phiền mặc dù họ từng bảo không phiền.&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Khi em nói chuyện với bạn bè em thì bạn em bảo cả 2 chưa là gì của nhau mà cũng chưa phải mập mờ nữa nên hãy thử tìm hiểu thêm ngưòi khác nữa xem sao. Cho em hỏi là có nên không việc tìm hiểu nhiều ngưòi 1 lúc ạ?&lt;/p&gt;&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Cảm ơn các bác đã đọc tới đây ạ 🫡&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ben10nhan1998"&gt; /u/ben10nhan1998 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qkmyu0/làm_quen_qua_ứng_dụng_hẹn_hò/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qkmyu0/làm_quen_qua_ứng_dụng_hẹn_hò/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qkmyu0/làm_quen_qua_ứng_dụng_hẹn_hò/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-23T10:05:43+00:00</published>
   </entry>
   <entry>
     <id>t3_1qkgbk3</id>
