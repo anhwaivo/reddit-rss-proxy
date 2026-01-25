@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-25T18:53:37+00:00</updated>
+  <updated>2026-01-25T19:16:18+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -86,19 +86,6 @@
     <published>2026-01-25T16:41:39+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qmoa42</id>
-    <title>Nên mua chứng chỉ quỹ trong thời điểm này không?</title>
-    <updated>2026-01-25T16:49:00+00:00</updated>
-    <author>
-      <name>/u/Obvious-Nature3325</name>
-      <uri>https://old.reddit.com/user/Obvious-Nature3325</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em thấy các bác kêu năm tới vni sẽ lên 2k, em tháng dư ít củ, định mua quỹ vì đã có vàng, còn chứng khoán không rành nên không dám vào các bác tư vấn em nên mua mã nào với ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Obvious-Nature3325"&gt; /u/Obvious-Nature3325 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qmoa42/nên_mua_chứng_chỉ_quỹ_trong_thời_điểm_này_không/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qmoa42/nên_mua_chứng_chỉ_quỹ_trong_thời_điểm_này_không/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qmoa42/nên_mua_chứng_chỉ_quỹ_trong_thời_điểm_này_không/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-25T16:49:00+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1qmg3hj</id>
     <title>Sức khoẻ</title>
     <updated>2026-01-25T10:52:00+00:00</updated>
@@ -164,19 +151,6 @@
     <published>2026-01-25T18:35:24+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qmigyu</id>
-    <title>Nếu muốn mua quà tặng các bạn nước ngoài làm thêm chung thì nên mua gì</title>
-    <updated>2026-01-25T12:59:07+00:00</updated>
-    <author>
-      <name>/u/cypherpunkb</name>
-      <uri>https://old.reddit.com/user/cypherpunkb</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em tháng 2 này là về Việt Nam ăn Tết, nên là nghĩ nên mua quà gì hay hay cho các bạn làm thêm chung. Không biết mọi người có gợi ý gì không ạ? Ngân sách của em tầm 500k đến max 1tr, mua cho tầm 10-15 người, cái gì mà có thể share được hoặc là đồ lưu niệm lạ lạ cũng được ạ, có điều chưa nghĩ ra món gì :&amp;lt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/cypherpunkb"&gt; /u/cypherpunkb &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qmigyu/nếu_muốn_mua_quà_tặng_các_bạn_nước_ngoài_làm_thêm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qmigyu/nếu_muốn_mua_quà_tặng_các_bạn_nước_ngoài_làm_thêm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qmigyu/nếu_muốn_mua_quà_tặng_các_bạn_nước_ngoài_làm_thêm/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-25T12:59:07+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1qmnk74</id>
     <title>Chạy nvqs</title>
     <updated>2026-01-25T16:23:03+00:00</updated>
@@ -201,6 +175,32 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qmfsmt/người_có_vấn_đề_tâm_lí_sợ_giao_tiếp_với_người/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-25T10:34:39+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qmigyu</id>
+    <title>Nếu muốn mua quà tặng các bạn nước ngoài làm thêm chung thì nên mua gì</title>
+    <updated>2026-01-25T12:59:07+00:00</updated>
+    <author>
+      <name>/u/cypherpunkb</name>
+      <uri>https://old.reddit.com/user/cypherpunkb</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em tháng 2 này là về Việt Nam ăn Tết, nên là nghĩ nên mua quà gì hay hay cho các bạn làm thêm chung. Không biết mọi người có gợi ý gì không ạ? Ngân sách của em tầm 500k đến max 1tr, mua cho tầm 10-15 người, cái gì mà có thể share được hoặc là đồ lưu niệm lạ lạ cũng được ạ, có điều chưa nghĩ ra món gì :&amp;lt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/cypherpunkb"&gt; /u/cypherpunkb &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qmigyu/nếu_muốn_mua_quà_tặng_các_bạn_nước_ngoài_làm_thêm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qmigyu/nếu_muốn_mua_quà_tặng_các_bạn_nước_ngoài_làm_thêm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qmigyu/nếu_muốn_mua_quà_tặng_các_bạn_nước_ngoài_làm_thêm/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-25T12:59:07+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qmoa42</id>
+    <title>Nên mua chứng chỉ quỹ trong thời điểm này không?</title>
+    <updated>2026-01-25T16:49:00+00:00</updated>
+    <author>
+      <name>/u/Obvious-Nature3325</name>
+      <uri>https://old.reddit.com/user/Obvious-Nature3325</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em thấy các bác kêu năm tới vni sẽ lên 2k, em tháng dư ít củ, định mua quỹ vì đã có vàng, còn chứng khoán không rành nên không dám vào các bác tư vấn em nên mua mã nào với ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Obvious-Nature3325"&gt; /u/Obvious-Nature3325 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qmoa42/nên_mua_chứng_chỉ_quỹ_trong_thời_điểm_này_không/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qmoa42/nên_mua_chứng_chỉ_quỹ_trong_thời_điểm_này_không/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qmoa42/nên_mua_chứng_chỉ_quỹ_trong_thời_điểm_này_không/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-25T16:49:00+00:00</published>
   </entry>
   <entry>
     <id>t3_1qm9qac</id>
@@ -268,19 +268,6 @@
     <published>2026-01-25T15:40:48+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qmhy4u</id>
-    <title>Vấn đề quỵt lương</title>
-    <updated>2026-01-25T12:33:37+00:00</updated>
-    <author>
-      <name>/u/SouthernClick5110</name>
-      <uri>https://old.reddit.com/user/SouthernClick5110</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1qmhy4u/vấn_đề_quỵt_lương/"&gt; &lt;img alt="Vấn đề quỵt lương" src="https://preview.redd.it/bpkoauxcphfg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=d0f4127b2c21489ec16374e52881b12c87a318bd" title="Vấn đề quỵt lương" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là nhà em không khá giả gì. Ba đi làm thợ hồ Bị quỵt 5 ngày công. Gọi điện, đến tận nhà đòi, la làng cho hàng xóm ở đó nghe luôn. Nhưng họ còn bênh ông thầu đó. Ổng hẹn đến nhà lấy, gửi stk để ổng chuyển nhưng cũng k thấy trả. M.n có cách gì để đòi được tiền không ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/SouthernClick5110"&gt; /u/SouthernClick5110 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/bpkoauxcphfg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qmhy4u/vấn_đề_quỵt_lương/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qmhy4u/vấn_đề_quỵt_lương/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-25T12:33:37+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1qmf2ju</id>
     <title>Xin lời khuyên cho ông anh họ sinh năm 94</title>
     <updated>2026-01-25T09:52:10+00:00</updated>
@@ -292,6 +279,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qmf2ju/xin_lời_khuyên_cho_ông_anh_họ_sinh_năm_94/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-25T09:52:10+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qmhy4u</id>
+    <title>Vấn đề quỵt lương</title>
+    <updated>2026-01-25T12:33:37+00:00</updated>
+    <author>
+      <name>/u/SouthernClick5110</name>
+      <uri>https://old.reddit.com/user/SouthernClick5110</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1qmhy4u/vấn_đề_quỵt_lương/"&gt; &lt;img alt="Vấn đề quỵt lương" src="https://preview.redd.it/bpkoauxcphfg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=d0f4127b2c21489ec16374e52881b12c87a318bd" title="Vấn đề quỵt lương" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là nhà em không khá giả gì. Ba đi làm thợ hồ Bị quỵt 5 ngày công. Gọi điện, đến tận nhà đòi, la làng cho hàng xóm ở đó nghe luôn. Nhưng họ còn bênh ông thầu đó. Ổng hẹn đến nhà lấy, gửi stk để ổng chuyển nhưng cũng k thấy trả. M.n có cách gì để đòi được tiền không ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/SouthernClick5110"&gt; /u/SouthernClick5110 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/bpkoauxcphfg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qmhy4u/vấn_đề_quỵt_lương/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qmhy4u/vấn_đề_quỵt_lương/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-25T12:33:37+00:00</published>
   </entry>
   <entry>
     <id>t3_1qmktro</id>
