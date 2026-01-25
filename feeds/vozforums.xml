@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-25T23:19:49+00:00</updated>
+  <updated>2026-01-25T23:41:32+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1qmo2qe</id>
-    <title>Ngành đi biển ở việt nam nên đi cho khu vực nào ?</title>
-    <updated>2026-01-25T16:41:39+00:00</updated>
-    <author>
-      <name>/u/huangreal739</name>
-      <uri>https://old.reddit.com/user/huangreal739</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em hiện đang học ở vmu , ngành em học thì khá đặc thù ( ngành điều khiển tàu biển ) . Em đang phân vân chuyến đầu nên đi cadet kv đông nam á cho an toàn hay đi luôn cadet cho kv châu âu luôn cho nhiều kinh nhiệm . Ai trong ngành có thể cho em gợi ý được không ạ ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/huangreal739"&gt; /u/huangreal739 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qmo2qe/ngành_đi_biển_ở_việt_nam_nên_đi_cho_khu_vực_nào/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qmo2qe/ngành_đi_biển_ở_việt_nam_nên_đi_cho_khu_vực_nào/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qmo2qe/ngành_đi_biển_ở_việt_nam_nên_đi_cho_khu_vực_nào/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-25T16:41:39+00:00</published>
-  </entry>
   <entry>
     <id>t3_1qmg3hj</id>
     <title>Sức khoẻ</title>
@@ -45,19 +32,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qmeuvz/cảm_giác_của_mọi_người_khi_yêu_1_người_chỉ_lợi/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-25T09:39:43+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1qmpi7k</id>
-    <title>Thắc mắc về nước hoa</title>
-    <updated>2026-01-25T17:33:18+00:00</updated>
-    <author>
-      <name>/u/MedicalCourt809</name>
-      <uri>https://old.reddit.com/user/MedicalCourt809</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chả là tôi bấy lâu nay chẳng bao giờ dùng đến mấy thứ như nước hoa nên không có kinh nghiệm, anh em bạn dì trên này dùng nước hoa loại nào cho không gian công sở, trong máy lạnh hằng ngày mà không bị quá nồng hay khó chịu cho mọi người xung quanh nhưng vẫn đủ thu hút nhỉ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/MedicalCourt809"&gt; /u/MedicalCourt809 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qmpi7k/thắc_mắc_về_nước_hoa/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qmpi7k/thắc_mắc_về_nước_hoa/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qmpi7k/thắc_mắc_về_nước_hoa/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-25T17:33:18+00:00</published>
   </entry>
   <entry>
     <id>t3_1qmhumg</id>
@@ -164,6 +138,19 @@
     <published>2026-01-25T21:18:06+00:00</published>
   </entry>
   <entry>
+    <id>t3_1qmpi7k</id>
+    <title>Thắc mắc về nước hoa</title>
+    <updated>2026-01-25T17:33:18+00:00</updated>
+    <author>
+      <name>/u/MedicalCourt809</name>
+      <uri>https://old.reddit.com/user/MedicalCourt809</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chả là tôi bấy lâu nay chẳng bao giờ dùng đến mấy thứ như nước hoa nên không có kinh nghiệm, anh em bạn dì trên này dùng nước hoa loại nào cho không gian công sở, trong máy lạnh hằng ngày mà không bị quá nồng hay khó chịu cho mọi người xung quanh nhưng vẫn đủ thu hút nhỉ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/MedicalCourt809"&gt; /u/MedicalCourt809 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qmpi7k/thắc_mắc_về_nước_hoa/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qmpi7k/thắc_mắc_về_nước_hoa/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qmpi7k/thắc_mắc_về_nước_hoa/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-25T17:33:18+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1qm9qac</id>
     <title>Tranh luận với vợ chưa cưới về việc nhà cửa</title>
     <updated>2026-01-25T04:55:41+00:00</updated>
@@ -229,6 +216,19 @@
     <published>2026-01-25T03:08:49+00:00</published>
   </entry>
   <entry>
+    <id>t3_1qmzbwh</id>
+    <title>Để thu hút một cô gái, bạn không nhất thiết phải hoàn hảo.</title>
+    <updated>2026-01-25T23:33:28+00:00</updated>
+    <author>
+      <name>/u/0_n14</name>
+      <uri>https://old.reddit.com/user/0_n14</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Ngay cả những người bất cần tình yêu như mình cũng đã dễ dàng rung động với những hành động nhỏ vô ý.. Thật ra những vấn đề về học thức, vẻ ngoài, gia cảnh,… hầu như chỉ giúp tăng thêm điểm cộng chứ không thực sự làm con gái có cảm xúc gì đâu, vì những thứ đó thuộc về bạn chứ không phải họ. Mùi hương (không thối), chắc chắn là một thứ có độ cuốn hút cao đấy. &lt;/p&gt; &lt;p&gt;Nhưng cũng kể mọi người nghe một chuyện. Thì mình vừa dừng lại một mqh mà đối phương thuộc mẫu người đàn ông lý tưởng luôn nhé, anh ấy có tất cả những yếu tố mình đã nêu trên nhưng khoảng cách đã bào mòn mqh này. Mình move on cả mấy tuần rồi vẫn chưa xong, và mình là một người từng có khá nhiều mqh yêu đương, dần dần trái tim mình cũng đã sáo rỗng đi. Nhưng dạo mình có đi làm thêm, mà môi trường này thì support lẫn nhau là chuyện bth phải không, nhưng mình lại chết dở thật:)) Hổm rằng có khách đến hỏi mình về chương trình ưu đãi của quán, mà mình thì lâu lâu mới đi làm và vả lại cũng chẳng được ai nói sơ qua về nó nên mình ngơ ngác vãi luôn, lúc đấy thì có anh đồng nghiệp - cao lớn hơn mình xíu, trông cũng ưa nhìn thôi, mà ảnh txuc với mình lạnh lùng lắm nên mình cũng chẳng để tâm mấy. Thì ảnh đến rồi đứng cạnh bên mình, ui thề đứng gần lắm luôn, tưởng như mình nằm gọn trong vòng tay anh ấy còn được luôn ấy, rồi ảnh giải thích cho khách hàng mà lúc đấy thú thật là tim mình quằn quại vcut ra, chưa bao giờ tim mình nhộn nhịp như thế. Cảm giác được một người con trai cao lớn hơn, mà còn tưởng như lạnh lùng với mình đứng bên cạnh/đằng sau để giúp mình trong những tình huống khó xử phải nói thiệt là tăng độ rung động x2 luôn nhé. Sau lần đó thì anh ấy còn giúp đỡ mình nhiều hơn những ngày trước, hoặc do mình là người mới nên support là phải, nhưng ôii mà phải nói thực sự với một đứa vẫn luôn sống trong những chuỗi ngày day dứt mqh cũ, cũng không khao khát đàn ông, tình yêu nữa như mình thì nó thực sự là kì tích, tim mình rung rinh từ hổm đó tới giờ luôn mà=))&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/0_n14"&gt; /u/0_n14 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qmzbwh/để_thu_hút_một_cô_gái_bạn_không_nhất_thiết_phải/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qmzbwh/để_thu_hút_một_cô_gái_bạn_không_nhất_thiết_phải/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qmzbwh/để_thu_hút_một_cô_gái_bạn_không_nhất_thiết_phải/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-25T23:33:28+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1qmy3bv</id>
     <title>Chuyện em mèo</title>
     <updated>2026-01-25T22:45:00+00:00</updated>
@@ -255,19 +255,6 @@
     <published>2026-01-25T15:40:48+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qmhy4u</id>
-    <title>Vấn đề quỵt lương</title>
-    <updated>2026-01-25T12:33:37+00:00</updated>
-    <author>
-      <name>/u/SouthernClick5110</name>
-      <uri>https://old.reddit.com/user/SouthernClick5110</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1qmhy4u/vấn_đề_quỵt_lương/"&gt; &lt;img alt="Vấn đề quỵt lương" src="https://preview.redd.it/bpkoauxcphfg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=d0f4127b2c21489ec16374e52881b12c87a318bd" title="Vấn đề quỵt lương" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là nhà em không khá giả gì. Ba đi làm thợ hồ Bị quỵt 5 ngày công. Gọi điện, đến tận nhà đòi, la làng cho hàng xóm ở đó nghe luôn. Nhưng họ còn bênh ông thầu đó. Ổng hẹn đến nhà lấy, gửi stk để ổng chuyển nhưng cũng k thấy trả. M.n có cách gì để đòi được tiền không ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/SouthernClick5110"&gt; /u/SouthernClick5110 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/bpkoauxcphfg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qmhy4u/vấn_đề_quỵt_lương/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qmhy4u/vấn_đề_quỵt_lương/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-25T12:33:37+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1qmf2ju</id>
     <title>Xin lời khuyên cho ông anh họ sinh năm 94</title>
     <updated>2026-01-25T09:52:10+00:00</updated>
@@ -279,6 +266,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qmf2ju/xin_lời_khuyên_cho_ông_anh_họ_sinh_năm_94/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-25T09:52:10+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qmhy4u</id>
+    <title>Vấn đề quỵt lương</title>
+    <updated>2026-01-25T12:33:37+00:00</updated>
+    <author>
+      <name>/u/SouthernClick5110</name>
+      <uri>https://old.reddit.com/user/SouthernClick5110</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1qmhy4u/vấn_đề_quỵt_lương/"&gt; &lt;img alt="Vấn đề quỵt lương" src="https://preview.redd.it/bpkoauxcphfg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=d0f4127b2c21489ec16374e52881b12c87a318bd" title="Vấn đề quỵt lương" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là nhà em không khá giả gì. Ba đi làm thợ hồ Bị quỵt 5 ngày công. Gọi điện, đến tận nhà đòi, la làng cho hàng xóm ở đó nghe luôn. Nhưng họ còn bênh ông thầu đó. Ổng hẹn đến nhà lấy, gửi stk để ổng chuyển nhưng cũng k thấy trả. M.n có cách gì để đòi được tiền không ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/SouthernClick5110"&gt; /u/SouthernClick5110 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/bpkoauxcphfg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qmhy4u/vấn_đề_quỵt_lương/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qmhy4u/vấn_đề_quỵt_lương/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-25T12:33:37+00:00</published>
   </entry>
   <entry>
     <id>t3_1qmx3nw</id>
