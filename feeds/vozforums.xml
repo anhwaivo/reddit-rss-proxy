@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-25T13:21:09+00:00</updated>
+  <updated>2026-01-25T13:49:10+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -164,19 +164,6 @@
     <published>2026-01-25T12:46:24+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qmi7h7</id>
-    <title>Có nên tiếp tục?</title>
-    <updated>2026-01-25T12:46:24+00:00</updated>
-    <author>
-      <name>/u/MrSoap519</name>
-      <uri>https://old.reddit.com/user/MrSoap519</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em chào mọi người. E là nam, 2k3, một thằng sinh viên ngôn ngữ Anh mới ra trường. Trong 4 năm đại học thì e đã từng dạy gia sư và cho một vài trung tâm tiếng Anh nho nhỏ. Sau tốt nghiệp, may mắn e có quen một bác làm gv đã về hưu, bác ấy đã giúp e kiếm 1 job đi dạy tại 1 trường THCS. Nhưng sau một khoảng thời gian, e dần cảm thấy bản thân không phù hợp lắm với việc dạy và làm việc tại một trường học (nói thẳng ra là nghiệp vụ sư phạm kém). Từ trước đến giờ e chỉ biết dạy và kèm cặp hs, chứ k có kinh nghiệm quản lý và dạy 1 lớp học 50 bạn và đa phần là những bạn không có nhu cầu học.&lt;/p&gt; &lt;p&gt;Liệu e có nên tiếp tục như mọi người khuyên e: &amp;quot;dần nó sẽ quen&amp;quot;, hay dừng lại để kiếm hướng đi khác hoặc rèn luyện bản thân thêm ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/MrSoap519"&gt; /u/MrSoap519 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qmi7h7/có_nên_tiếp_tục/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qmi7h7/có_nên_tiếp_tục/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qmi7h7/có_nên_tiếp_tục/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-25T12:46:24+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1qmigyu</id>
     <title>Nếu muốn mua quà tặng các bạn nước ngoài làm thêm chung thì nên mua gì</title>
     <updated>2026-01-25T12:59:07+00:00</updated>
@@ -216,6 +203,19 @@
     <published>2026-01-25T09:46:12+00:00</published>
   </entry>
   <entry>
+    <id>t3_1qmeuvz</id>
+    <title>Cảm giác của mọi người khi yêu 1 người chỉ lợi dụng mình ( lúc đó mình bt nhưng vẫn cố tự lừa mình</title>
+    <updated>2026-01-25T09:39:43+00:00</updated>
+    <author>
+      <name>/u/Spare_Evidence_9725</name>
+      <uri>https://old.reddit.com/user/Spare_Evidence_9725</uri>
+    </author>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Spare_Evidence_9725"&gt; /u/Spare_Evidence_9725 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qmeuvz/cảm_giác_của_mọi_người_khi_yêu_1_người_chỉ_lợi/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qmeuvz/cảm_giác_của_mọi_người_khi_yêu_1_người_chỉ_lợi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qmeuvz/cảm_giác_của_mọi_người_khi_yêu_1_người_chỉ_lợi/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-25T09:39:43+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1qmakxy</id>
     <title>Không phải cầu cứu? Vì không cảm thấy j hết... (?)</title>
     <updated>2026-01-25T05:39:56+00:00</updated>
@@ -229,17 +229,17 @@
     <published>2026-01-25T05:39:56+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qmeuvz</id>
-    <title>Cảm giác của mọi người khi yêu 1 người chỉ lợi dụng mình ( lúc đó mình bt nhưng vẫn cố tự lừa mình</title>
-    <updated>2026-01-25T09:39:43+00:00</updated>
+    <id>t3_1qmi7h7</id>
+    <title>Có nên tiếp tục?</title>
+    <updated>2026-01-25T12:46:24+00:00</updated>
     <author>
-      <name>/u/Spare_Evidence_9725</name>
-      <uri>https://old.reddit.com/user/Spare_Evidence_9725</uri>
+      <name>/u/MrSoap519</name>
+      <uri>https://old.reddit.com/user/MrSoap519</uri>
     </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Spare_Evidence_9725"&gt; /u/Spare_Evidence_9725 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qmeuvz/cảm_giác_của_mọi_người_khi_yêu_1_người_chỉ_lợi/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qmeuvz/cảm_giác_của_mọi_người_khi_yêu_1_người_chỉ_lợi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qmeuvz/cảm_giác_của_mọi_người_khi_yêu_1_người_chỉ_lợi/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em chào mọi người. E là nam, 2k3, một thằng sinh viên ngôn ngữ Anh mới ra trường. Trong 4 năm đại học thì e đã từng dạy gia sư và cho một vài trung tâm tiếng Anh nho nhỏ. Sau tốt nghiệp, may mắn e có quen một bác làm gv đã về hưu, bác ấy đã giúp e kiếm 1 job đi dạy tại 1 trường THCS. Nhưng sau một khoảng thời gian, e dần cảm thấy bản thân không phù hợp lắm với việc dạy và làm việc tại một trường học (nói thẳng ra là nghiệp vụ sư phạm kém). Từ trước đến giờ e chỉ biết dạy và kèm cặp hs, chứ k có kinh nghiệm quản lý và dạy 1 lớp học 50 bạn và đa phần là những bạn không có nhu cầu học.&lt;/p&gt; &lt;p&gt;Liệu e có nên tiếp tục như mọi người khuyên e: &amp;quot;dần nó sẽ quen&amp;quot;, hay dừng lại để kiếm hướng đi khác hoặc rèn luyện bản thân thêm ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/MrSoap519"&gt; /u/MrSoap519 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qmi7h7/có_nên_tiếp_tục/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qmi7h7/có_nên_tiếp_tục/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qmi7h7/có_nên_tiếp_tục/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-25T09:39:43+00:00</published>
+    <published>2026-01-25T12:46:24+00:00</published>
   </entry>
   <entry>
     <id>t3_1qmfsmt</id>
@@ -281,19 +281,6 @@
     <published>2026-01-25T07:01:54+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qmhy4u</id>
-    <title>Vấn đề quỵt lương</title>
-    <updated>2026-01-25T12:33:37+00:00</updated>
-    <author>
-      <name>/u/SouthernClick5110</name>
-      <uri>https://old.reddit.com/user/SouthernClick5110</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1qmhy4u/vấn_đề_quỵt_lương/"&gt; &lt;img alt="Vấn đề quỵt lương" src="https://preview.redd.it/bpkoauxcphfg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=d0f4127b2c21489ec16374e52881b12c87a318bd" title="Vấn đề quỵt lương" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là nhà em không khá giả gì. Ba đi làm thợ hồ Bị quỵt 5 ngày công. Gọi điện, đến tận nhà đòi, la làng cho hàng xóm ở đó nghe luôn. Nhưng họ còn bênh ông thầu đó. Ổng hẹn đến nhà lấy, gửi stk để ổng chuyển nhưng cũng k thấy trả. M.n có cách gì để đòi được tiền không ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/SouthernClick5110"&gt; /u/SouthernClick5110 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/bpkoauxcphfg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qmhy4u/vấn_đề_quỵt_lương/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qmhy4u/vấn_đề_quỵt_lương/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-25T12:33:37+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1qm7jfw</id>
     <title>Bị chửi khi không đi dự đám cưới người khác</title>
     <updated>2026-01-25T03:08:49+00:00</updated>
@@ -305,6 +292,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qm7jfw/bị_chửi_khi_không_đi_dự_đám_cưới_người_khác/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-25T03:08:49+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qmhy4u</id>
+    <title>Vấn đề quỵt lương</title>
+    <updated>2026-01-25T12:33:37+00:00</updated>
+    <author>
+      <name>/u/SouthernClick5110</name>
+      <uri>https://old.reddit.com/user/SouthernClick5110</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1qmhy4u/vấn_đề_quỵt_lương/"&gt; &lt;img alt="Vấn đề quỵt lương" src="https://preview.redd.it/bpkoauxcphfg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=d0f4127b2c21489ec16374e52881b12c87a318bd" title="Vấn đề quỵt lương" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là nhà em không khá giả gì. Ba đi làm thợ hồ Bị quỵt 5 ngày công. Gọi điện, đến tận nhà đòi, la làng cho hàng xóm ở đó nghe luôn. Nhưng họ còn bênh ông thầu đó. Ổng hẹn đến nhà lấy, gửi stk để ổng chuyển nhưng cũng k thấy trả. M.n có cách gì để đòi được tiền không ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/SouthernClick5110"&gt; /u/SouthernClick5110 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/bpkoauxcphfg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qmhy4u/vấn_đề_quỵt_lương/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qmhy4u/vấn_đề_quỵt_lương/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-25T12:33:37+00:00</published>
   </entry>
   <entry>
     <id>t3_1qmf2ju</id>
