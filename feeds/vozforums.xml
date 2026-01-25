@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-25T17:17:20+00:00</updated>
+  <updated>2026-01-25T17:41:59+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1qmjvbn</id>
-    <title>Tư vấn chọn app xe công nghệ phù hợp với quãng đường xa và tính năng điều hướng.</title>
-    <updated>2026-01-25T14:01:33+00:00</updated>
-    <author>
-      <name>/u/____Zeus______</name>
-      <uri>https://old.reddit.com/user/____Zeus______</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hiện tại quãng đường từ công ty về nơi mình ở khá xa, nên mình đang có ý định đăng ký một ứng dụng gọi xe công nghệ để chạy vào lúc tan làm, ưu tiên các cuốc xe có hướng về khu vực mình sinh sống.&lt;br /&gt; Tuy nhiên, mình chưa biết nên sử dụng ứng dụng nào cho phù hợp.&lt;br /&gt; Không biết hiện nay có app nào hỗ trợ điều hướng hoặc nhận cuốc xe theo hướng về khu mình ở không?&lt;br /&gt; Mong mọi người tư vấn giúp mình ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/____Zeus______"&gt; /u/____Zeus______ &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qmjvbn/tư_vấn_chọn_app_xe_công_nghệ_phù_hợp_với_quãng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qmjvbn/tư_vấn_chọn_app_xe_công_nghệ_phù_hợp_với_quãng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qmjvbn/tư_vấn_chọn_app_xe_công_nghệ_phù_hợp_với_quãng/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-25T14:01:33+00:00</published>
-  </entry>
   <entry>
     <id>t3_1qmlfb1</id>
     <title>Burn cheesecake Sài Gòn</title>
@@ -162,6 +149,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qmeuvz/cảm_giác_của_mọi_người_khi_yêu_1_người_chỉ_lợi/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-25T09:39:43+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qmpi7k</id>
+    <title>Thắc mắc về nước hoa</title>
+    <updated>2026-01-25T17:33:18+00:00</updated>
+    <author>
+      <name>/u/MedicalCourt809</name>
+      <uri>https://old.reddit.com/user/MedicalCourt809</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chả là tôi bấy lâu nay chẳng bao giờ dùng đến mấy thứ như nước hoa nên không có kinh nghiệm, anh em bạn dì trên này dùng nước hoa loại nào cho không gian công sở, trong máy lạnh hằng ngày mà không bị quá nồng hay khó chịu cho mọi người xung quanh nhưng vẫn đủ thu hút nhỉ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/MedicalCourt809"&gt; /u/MedicalCourt809 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qmpi7k/thắc_mắc_về_nước_hoa/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qmpi7k/thắc_mắc_về_nước_hoa/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qmpi7k/thắc_mắc_về_nước_hoa/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-25T17:33:18+00:00</published>
   </entry>
   <entry>
     <id>t3_1qmigyu</id>
