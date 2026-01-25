@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-25T20:56:26+00:00</updated>
+  <updated>2026-01-25T21:21:30+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1qmeyu2</id>
-    <title>Làm sao để học tốt hơn?</title>
-    <updated>2026-01-25T09:46:12+00:00</updated>
-    <author>
-      <name>/u/AidzInTheField</name>
-      <uri>https://old.reddit.com/user/AidzInTheField</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là tôi cần học môn A, học được tí chán quá nên tôi giải trí (game, tiktok, mxh v.v...). Nhưng lướt vậy thì phí thời gian nên tôi học 1 cái B thay cho việc giải trí.&lt;/p&gt; &lt;p&gt;Cuối cùng thì cái cần nhất là A vẫn chưa học được.&lt;/p&gt; &lt;p&gt;Lsao để tập trung được, anh em chỉ với!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/AidzInTheField"&gt; /u/AidzInTheField &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qmeyu2/làm_sao_để_học_tốt_hơn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qmeyu2/làm_sao_để_học_tốt_hơn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qmeyu2/làm_sao_để_học_tốt_hơn/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-25T09:46:12+00:00</published>
-  </entry>
   <entry>
     <id>t3_1qmmizq</id>
     <title>Tư vấn tai nghe</title>
@@ -201,6 +188,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qmoa42/nên_mua_chứng_chỉ_quỹ_trong_thời_điểm_này_không/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-25T16:49:00+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qmvr89</id>
+    <title>Tập tành làm app</title>
+    <updated>2026-01-25T21:18:06+00:00</updated>
+    <author>
+      <name>/u/Licht_22</name>
+      <uri>https://old.reddit.com/user/Licht_22</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, em là sinh viên ở Mỹ. Job market giờ khó khăn quá, nộp internship muốn trầm cảm. Bữa h ngoài việc học ở trường, thì em cũng tự học thêm về build app, vs những skills khác. Em khá là hứng thú với lập trình app này nọ, nên muốn hỏi feedback của mọi người về một con app em đang làm, &lt;strong&gt;Meowtion&lt;/strong&gt;. Chủ yếu vẫn là một app tập thể dục nhưng có thêm những thử thách mỗi tuần vs những giải thưởng (giftcard) cho người thắng.&lt;br /&gt; Ý tưởng chính vẫn là vừa tập thể dục vừa kiếm tiền cà phê như hạng nhất $20, nhì $5, những hạng còn lại $1. Kiểu giải thường nho nhỏ nhưng thúc đẩy mọi người tập thể dục nhiều hơn. Em đang có thử thách đầu tiên mà ko có nhiều người tham gia nên muốn hỏi mọi người có hứng thú với tính năng này ko ạ? &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Licht_22"&gt; /u/Licht_22 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qmvr89/tập_tành_làm_app/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qmvr89/tập_tành_làm_app/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qmvr89/tập_tành_làm_app/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-25T21:18:06+00:00</published>
   </entry>
   <entry>
     <id>t3_1qm9qac</id>
