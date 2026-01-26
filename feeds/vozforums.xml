@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-26T15:54:10+00:00</updated>
+  <updated>2026-01-26T16:33:36+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -47,19 +47,6 @@
     <published>2026-01-26T08:16:29+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qnaun6</id>
-    <title>[Góc chia sẻ] Rảnh rỗi sinh nông nổi, em code con AI xem bói để anh em test nhân phẩm đón Tết</title>
-    <updated>2026-01-26T08:49:59+00:00</updated>
-    <author>
-      <name>/u/Salty_Welcome_8359</name>
-      <uri>https://old.reddit.com/user/Salty_Welcome_8359</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1qnaun6/góc_chia_sẻ_rảnh_rỗi_sinh_nông_nổi_em_code_con_ai/"&gt; &lt;img alt="[Góc chia sẻ] Rảnh rỗi sinh nông nổi, em code con AI xem bói để anh em test nhân phẩm đón Tết" src="https://b.thumbs.redditmedia.com/YoBYX5svWnFNRtvr1wWEvXpub4Pug4BgO9jiBDZ6EGY.jpg" title="[Góc chia sẻ] Rảnh rỗi sinh nông nổi, em code con AI xem bói để anh em test nhân phẩm đón Tết" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các thím/các bác,&lt;/p&gt; &lt;p&gt;Chả là sắp đến Tết nhất rồi, em thấy năm nào cũng lùm xùm vụ xem ngày, xem tuổi. Sẵn tiện em đang làm dev, em ngồi vọc vạch làm thử cái app Lịch (Lịch Ta) cho vui nhà vui cửa.&lt;/p&gt; &lt;p&gt;Cái lịch thì bình thường thôi, nhưng em có nhét thêm một con &lt;strong&gt;AI (trí tuệ nhân tạo)&lt;/strong&gt; vào làm &amp;quot;Thầy đồ&amp;quot;. Đại loại là các thím có thể chat với nó, hỏi xem năm nay tuổi Mùi có giàu không, hay ngày mai xuất hành giờ nào thì đỡ đen... Nó trả lời dựa trên mấy sách tử vi em nạp vào.&lt;/p&gt; &lt;p&gt;Em làm vì đam mê là chính chứ không thu phí gì cả. Mời các thím vào dùng thử rồi &amp;quot;vặn vẹo&amp;quot; con AI giúp em xem nó trả lời có ngáo không nhé.&lt;/p&gt; &lt;p&gt;&lt;em&gt;(Link em để dưới comment nha, để đây sợ Mod tưởng spam tội em)&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;a href="https://preview.redd.it/3ev5ahucqnfg1.png?width=512&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=c0f802238bd28ab8e4f2e71fdc03493ee38e575a"&gt;https://preview.redd.it/3ev5ahucqnfg1.png?width=512&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=c0f802238bd28ab8e4f2e71fdc03493ee38e575a&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Salty_Welcome_8359"&gt; /u/Salty_Welcome_8359 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qnaun6/góc_chia_sẻ_rảnh_rỗi_sinh_nông_nổi_em_code_con_ai/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qnaun6/góc_chia_sẻ_rảnh_rỗi_sinh_nông_nổi_em_code_con_ai/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qnaun6/góc_chia_sẻ_rảnh_rỗi_sinh_nông_nổi_em_code_con_ai/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-26T08:49:59+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1qniwd6</id>
     <title>Thắc mắc về NVQS khi đang ở nước ngoài</title>
     <updated>2026-01-26T15:21:12+00:00</updated>
@@ -84,19 +71,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qnjjyc/khai_thuế_muộn_ở_việt_nam_thì_xử_lý_thế_nào/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-26T15:44:32+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1qnjri0</id>
-    <title>Làm Sao để giảm sự phụ thuộc vào người khác ? Nó làm cuộc sống mình đảo lộn rồi</title>
-    <updated>2026-01-26T15:51:58+00:00</updated>
-    <author>
-      <name>/u/TurbulentStill5898</name>
-      <uri>https://old.reddit.com/user/TurbulentStill5898</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mấy tuần nay cảm xúc mình rất tệ, tâm lý luôn tiêu cực. Mình có một đứa bạn thân nhưng mấy tháng nay đứa bạn đấy của mình lại dần thân hơn với nhóm khác và bắt đầu tiếp xúc cũng như giao tiếp thân thiết hơn với nhóm bạn đó. Ban đầu mình vẫn nghĩ việc bạn thân mình như vậy là bình thường. Nhưng dần dần khi bạn mình thân hơn với nhóm kia và có những lần bỏ mình lại để qua với nhóm bạn đó là tâm lý mình đã bắt đầu khó chịu, có chút ghen tỵ và tức giận sau đó là một chuỗi cảm giác sợ hãi, sợ có người thân với bạn ấy hơn mình. Nhưng mình vẫn cố tìm cách kiểm soát cảm xúc của mình và cố gắng tập trung vào việc của bản thân để không bị ảnh hưởng bởi tâm lý ấy. Đỉnh điểm là khi bạn thân mình và nhóm bạn kia đi chơi với nhau mà không rủ mình, có những câu chuyện mà mình đứng ngoài rìa và sự thay đổi dạo gần đây của bạn mình. Đến lúc này tâm lý mình đã bất lực hoàn toàn, mọi sự ráng gượng trước kia đều sụp đổ cảm xúc cũng thế mà tiêu cực, và chỉ muốn nằm cả ngày để với mớ tâm lý ấy mà chằng muốn học hay làm việc nữa. Mỗi khi đi học đều phải tiếp xúc với bạn thân và nhóm bạn kia mình đều phải trải qua cảm giác kinh khủng ấy đến ám ảnh. Mình còn là người nhạy cảm và chỉ có một đứa bạn thân đó thôi, mình cũng muốn nhiều bạn lắm mỗi lần nhìn người khác có nguyên nhóm bạn với nhau mình đều thầm ước bản thân cũng được vậy. Mình có quá ích kỷ, quá nhạy cảm hay đang mắc chứng bệnh tâm lý nào không? Mọi người có cách nào giúp mình thoát khỏi tình trạng này không, những cách có thể áp dụng ngay vào hằng ngày, cách gì cũng được chứ tâm lý mình hiện tại suy sụp lắm.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/TurbulentStill5898"&gt; /u/TurbulentStill5898 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qnjri0/làm_sao_để_giảm_sự_phụ_thuộc_vào_người_khác_nó/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qnjri0/làm_sao_để_giảm_sự_phụ_thuộc_vào_người_khác_nó/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qnjri0/làm_sao_để_giảm_sự_phụ_thuộc_vào_người_khác_nó/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-26T15:51:58+00:00</published>
   </entry>
   <entry>
     <id>t3_1qnee5o</id>
@@ -138,17 +112,17 @@
     <published>2026-01-25T14:51:17+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qng0lh</id>
-    <title>Sợ Tết</title>
-    <updated>2026-01-26T13:28:45+00:00</updated>
+    <id>t3_1qnaun6</id>
+    <title>[Góc chia sẻ] Rảnh rỗi sinh nông nổi, em code con AI xem bói để anh em test nhân phẩm đón Tết</title>
+    <updated>2026-01-26T08:49:59+00:00</updated>
     <author>
-      <name>/u/Tricky-Study-9085</name>
-      <uri>https://old.reddit.com/user/Tricky-Study-9085</uri>
+      <name>/u/Salty_Welcome_8359</name>
+      <uri>https://old.reddit.com/user/Salty_Welcome_8359</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Có ai bị áp lực mỗi khi Tết đến không? Có thể do tài chính mình chưa vững, cứ Tết đến là bao nhiêu thứ phải lo, làm mình sợ Tết quá trời hix. Còn chưa kể bị hỏi đủ thứ trên đời, bao giờ lấy chồng, đi làm lương cao không,....&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Tricky-Study-9085"&gt; /u/Tricky-Study-9085 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qng0lh/sợ_tết/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qng0lh/sợ_tết/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qng0lh/sợ_tết/"/>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1qnaun6/góc_chia_sẻ_rảnh_rỗi_sinh_nông_nổi_em_code_con_ai/"&gt; &lt;img alt="[Góc chia sẻ] Rảnh rỗi sinh nông nổi, em code con AI xem bói để anh em test nhân phẩm đón Tết" src="https://b.thumbs.redditmedia.com/YoBYX5svWnFNRtvr1wWEvXpub4Pug4BgO9jiBDZ6EGY.jpg" title="[Góc chia sẻ] Rảnh rỗi sinh nông nổi, em code con AI xem bói để anh em test nhân phẩm đón Tết" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các thím/các bác,&lt;/p&gt; &lt;p&gt;Chả là sắp đến Tết nhất rồi, em thấy năm nào cũng lùm xùm vụ xem ngày, xem tuổi. Sẵn tiện em đang làm dev, em ngồi vọc vạch làm thử cái app Lịch (Lịch Ta) cho vui nhà vui cửa.&lt;/p&gt; &lt;p&gt;Cái lịch thì bình thường thôi, nhưng em có nhét thêm một con &lt;strong&gt;AI (trí tuệ nhân tạo)&lt;/strong&gt; vào làm &amp;quot;Thầy đồ&amp;quot;. Đại loại là các thím có thể chat với nó, hỏi xem năm nay tuổi Mùi có giàu không, hay ngày mai xuất hành giờ nào thì đỡ đen... Nó trả lời dựa trên mấy sách tử vi em nạp vào.&lt;/p&gt; &lt;p&gt;Em làm vì đam mê là chính chứ không thu phí gì cả. Mời các thím vào dùng thử rồi &amp;quot;vặn vẹo&amp;quot; con AI giúp em xem nó trả lời có ngáo không nhé.&lt;/p&gt; &lt;p&gt;&lt;em&gt;(Link em để dưới comment nha, để đây sợ Mod tưởng spam tội em)&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;a href="https://preview.redd.it/3ev5ahucqnfg1.png?width=512&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=c0f802238bd28ab8e4f2e71fdc03493ee38e575a"&gt;https://preview.redd.it/3ev5ahucqnfg1.png?width=512&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=c0f802238bd28ab8e4f2e71fdc03493ee38e575a&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Salty_Welcome_8359"&gt; /u/Salty_Welcome_8359 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qnaun6/góc_chia_sẻ_rảnh_rỗi_sinh_nông_nổi_em_code_con_ai/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qnaun6/góc_chia_sẻ_rảnh_rỗi_sinh_nông_nổi_em_code_con_ai/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qnaun6/góc_chia_sẻ_rảnh_rỗi_sinh_nông_nổi_em_code_con_ai/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-26T13:28:45+00:00</published>
+    <published>2026-01-26T08:49:59+00:00</published>
   </entry>
   <entry>
     <id>t3_1qna5gm</id>
@@ -175,6 +149,32 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qniorv/hỏi_về_cách_đăng_ký_và_khai_thuế_2026/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-26T15:13:30+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qng0lh</id>
+    <title>Sợ Tết</title>
+    <updated>2026-01-26T13:28:45+00:00</updated>
+    <author>
+      <name>/u/Tricky-Study-9085</name>
+      <uri>https://old.reddit.com/user/Tricky-Study-9085</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Có ai bị áp lực mỗi khi Tết đến không? Có thể do tài chính mình chưa vững, cứ Tết đến là bao nhiêu thứ phải lo, làm mình sợ Tết quá trời hix. Còn chưa kể bị hỏi đủ thứ trên đời, bao giờ lấy chồng, đi làm lương cao không,....&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Tricky-Study-9085"&gt; /u/Tricky-Study-9085 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qng0lh/sợ_tết/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qng0lh/sợ_tết/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qng0lh/sợ_tết/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-26T13:28:45+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qnjri0</id>
+    <title>Làm Sao để giảm sự phụ thuộc vào người khác ? Nó làm cuộc sống mình đảo lộn rồi</title>
+    <updated>2026-01-26T15:51:58+00:00</updated>
+    <author>
+      <name>/u/TurbulentStill5898</name>
+      <uri>https://old.reddit.com/user/TurbulentStill5898</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mấy tuần nay cảm xúc mình rất tệ, tâm lý luôn tiêu cực. Mình có một đứa bạn thân nhưng mấy tháng nay đứa bạn đấy của mình lại dần thân hơn với nhóm khác và bắt đầu tiếp xúc cũng như giao tiếp thân thiết hơn với nhóm bạn đó. Ban đầu mình vẫn nghĩ việc bạn thân mình như vậy là bình thường. Nhưng dần dần khi bạn mình thân hơn với nhóm kia và có những lần bỏ mình lại để qua với nhóm bạn đó là tâm lý mình đã bắt đầu khó chịu, có chút ghen tỵ và tức giận sau đó là một chuỗi cảm giác sợ hãi, sợ có người thân với bạn ấy hơn mình. Nhưng mình vẫn cố tìm cách kiểm soát cảm xúc của mình và cố gắng tập trung vào việc của bản thân để không bị ảnh hưởng bởi tâm lý ấy. Đỉnh điểm là khi bạn thân mình và nhóm bạn kia đi chơi với nhau mà không rủ mình, có những câu chuyện mà mình đứng ngoài rìa và sự thay đổi dạo gần đây của bạn mình. Đến lúc này tâm lý mình đã bất lực hoàn toàn, mọi sự ráng gượng trước kia đều sụp đổ cảm xúc cũng thế mà tiêu cực, và chỉ muốn nằm cả ngày để với mớ tâm lý ấy mà chằng muốn học hay làm việc nữa. Mỗi khi đi học đều phải tiếp xúc với bạn thân và nhóm bạn kia mình đều phải trải qua cảm giác kinh khủng ấy đến ám ảnh. Mình còn là người nhạy cảm và chỉ có một đứa bạn thân đó thôi, mình cũng muốn nhiều bạn lắm mỗi lần nhìn người khác có nguyên nhóm bạn với nhau mình đều thầm ước bản thân cũng được vậy. Mình có quá ích kỷ, quá nhạy cảm hay đang mắc chứng bệnh tâm lý nào không? Mọi người có cách nào giúp mình thoát khỏi tình trạng này không, những cách có thể áp dụng ngay vào hằng ngày, cách gì cũng được chứ tâm lý mình hiện tại suy sụp lắm.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/TurbulentStill5898"&gt; /u/TurbulentStill5898 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qnjri0/làm_sao_để_giảm_sự_phụ_thuộc_vào_người_khác_nó/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qnjri0/làm_sao_để_giảm_sự_phụ_thuộc_vào_người_khác_nó/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qnjri0/làm_sao_để_giảm_sự_phụ_thuộc_vào_người_khác_nó/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-26T15:51:58+00:00</published>
   </entry>
   <entry>
     <id>t3_1qn1r27</id>
@@ -216,19 +216,6 @@
     <published>2026-01-26T13:46:05+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qninyl</id>
-    <title>Đổi tiền paypal</title>
-    <updated>2026-01-26T15:12:39+00:00</updated>
-    <author>
-      <name>/u/Proud_Tradition_9352</name>
-      <uri>https://old.reddit.com/user/Proud_Tradition_9352</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình có 500$ paypal muốn đổi về VNĐ nhưng rút phí cao, bán cho buyer thì hơi ren sợ scam, gr có ai biết cách rút về vnd nhanh mà k mất nhiều phí k ah&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Proud_Tradition_9352"&gt; /u/Proud_Tradition_9352 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qninyl/đổi_tiền_paypal/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qninyl/đổi_tiền_paypal/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qninyl/đổi_tiền_paypal/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-26T15:12:39+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1qndnjk</id>
     <title>Recommen cho mọi người quả trà sữa gói</title>
     <updated>2026-01-26T11:34:44+00:00</updated>
@@ -266,6 +253,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qncedl/mua_máy_đọc_sách/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-26T10:23:41+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qninyl</id>
+    <title>Đổi tiền paypal</title>
+    <updated>2026-01-26T15:12:39+00:00</updated>
+    <author>
+      <name>/u/Proud_Tradition_9352</name>
+      <uri>https://old.reddit.com/user/Proud_Tradition_9352</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình có 500$ paypal muốn đổi về VNĐ nhưng rút phí cao, bán cho buyer thì hơi ren sợ scam, gr có ai biết cách rút về vnd nhanh mà k mất nhiều phí k ah&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Proud_Tradition_9352"&gt; /u/Proud_Tradition_9352 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qninyl/đổi_tiền_paypal/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qninyl/đổi_tiền_paypal/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qninyl/đổi_tiền_paypal/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-26T15:12:39+00:00</published>
   </entry>
   <entry>
     <id>t3_1qn9uj8</id>
