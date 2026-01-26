@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-26T20:50:43+00:00</updated>
+  <updated>2026-01-26T21:23:09+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -281,19 +281,6 @@
     <published>2026-01-26T09:19:16+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qn9ef3</id>
-    <title>Tại sao hoá đơn giá trị gia tăng ở Việt Nam lại phức tạp thế nhỉ?</title>
-    <updated>2026-01-26T07:23:44+00:00</updated>
-    <author>
-      <name>/u/kihlinbin</name>
-      <uri>https://old.reddit.com/user/kihlinbin</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình từng ở Úc thì thấy hoá đơn thuế chỉ cần là một mẩu giấy in ra (hoặc file pdf) có chứa đầy đủ thông tin theo yêu cầu của luật (ghi rõ tax invoice, tên người bán, số đkkd...) thì có thể sử dụng để kê khai và nộp thuế. Nếu cá nhân hoặc doanh nghiệp khai báo gian lận thì lúc bị kiểm tra thuế, nếu bị phát hiển ra thì sẽ chịu phạt rất nặng.&lt;/p&gt; &lt;p&gt;Còn ở VN ta thì cá nhân, hộ kinh doanh, DN phải mua dịch vụ hoá đơn điện tử, làm thủ tục kết nối máy tính tiền đến cơ quan thuế, khách hàng phải tự điền thông tin xuất hoá đơn rồi nếu khai sai phải giải trình, chỉnh sửa khá là phức tạp. Càng khó hơn khi nhiều hộ kinh doanh nhỏ lẻ do nhiều người già làm chủ cũng phải xuất hoá đơn điện tử.&lt;/p&gt; &lt;p&gt;Mình hiểu là cơ quan thuế bên Úc (ATO) họ hoàn toan tin tưởng những người kinh doanh sẽ xuất hơn đơn trung thực, có sai thì phạt thật nặng. Còn ở Việt Nam thì do đủ chiêu trò để trốn thuế như làm giả hoá đơn VAT nên cơ quan thuế phải siết chặt, kiểm tra từng hoá đơn một? Ngoài ra thì VN ta cũng ko đủ nguồn lực để kiểm tra thuế toàn bộ các cơ sở kinh doanh?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/kihlinbin"&gt; /u/kihlinbin &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qn9ef3/tại_sao_hoá_đơn_giá_trị_gia_tăng_ở_việt_nam_lại/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qn9ef3/tại_sao_hoá_đơn_giá_trị_gia_tăng_ở_việt_nam_lại/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qn9ef3/tại_sao_hoá_đơn_giá_trị_gia_tăng_ở_việt_nam_lại/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-26T07:23:44+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1qn9uj8</id>
     <title>Bị đòi nợ quấy rối</title>
     <updated>2026-01-26T07:50:12+00:00</updated>
@@ -305,6 +292,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qn9uj8/bị_đòi_nợ_quấy_rối/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-26T07:50:12+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qn9ef3</id>
+    <title>Tại sao hoá đơn giá trị gia tăng ở Việt Nam lại phức tạp thế nhỉ?</title>
+    <updated>2026-01-26T07:23:44+00:00</updated>
+    <author>
+      <name>/u/kihlinbin</name>
+      <uri>https://old.reddit.com/user/kihlinbin</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình từng ở Úc thì thấy hoá đơn thuế chỉ cần là một mẩu giấy in ra (hoặc file pdf) có chứa đầy đủ thông tin theo yêu cầu của luật (ghi rõ tax invoice, tên người bán, số đkkd...) thì có thể sử dụng để kê khai và nộp thuế. Nếu cá nhân hoặc doanh nghiệp khai báo gian lận thì lúc bị kiểm tra thuế, nếu bị phát hiển ra thì sẽ chịu phạt rất nặng.&lt;/p&gt; &lt;p&gt;Còn ở VN ta thì cá nhân, hộ kinh doanh, DN phải mua dịch vụ hoá đơn điện tử, làm thủ tục kết nối máy tính tiền đến cơ quan thuế, khách hàng phải tự điền thông tin xuất hoá đơn rồi nếu khai sai phải giải trình, chỉnh sửa khá là phức tạp. Càng khó hơn khi nhiều hộ kinh doanh nhỏ lẻ do nhiều người già làm chủ cũng phải xuất hoá đơn điện tử.&lt;/p&gt; &lt;p&gt;Mình hiểu là cơ quan thuế bên Úc (ATO) họ hoàn toan tin tưởng những người kinh doanh sẽ xuất hơn đơn trung thực, có sai thì phạt thật nặng. Còn ở Việt Nam thì do đủ chiêu trò để trốn thuế như làm giả hoá đơn VAT nên cơ quan thuế phải siết chặt, kiểm tra từng hoá đơn một? Ngoài ra thì VN ta cũng ko đủ nguồn lực để kiểm tra thuế toàn bộ các cơ sở kinh doanh?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/kihlinbin"&gt; /u/kihlinbin &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qn9ef3/tại_sao_hoá_đơn_giá_trị_gia_tăng_ở_việt_nam_lại/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qn9ef3/tại_sao_hoá_đơn_giá_trị_gia_tăng_ở_việt_nam_lại/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qn9ef3/tại_sao_hoá_đơn_giá_trị_gia_tăng_ở_việt_nam_lại/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-26T07:23:44+00:00</published>
   </entry>
   <entry>
     <id>t3_1qn3bkr</id>
