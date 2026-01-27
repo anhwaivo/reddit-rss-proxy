@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-27T09:03:47+00:00</updated>
+  <updated>2026-01-27T09:47:52+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1qn3bkr</id>
-    <title>Ngành IT gần tết</title>
-    <updated>2026-01-26T02:24:32+00:00</updated>
-    <author>
-      <name>/u/Conciugiant</name>
-      <uri>https://old.reddit.com/user/Conciugiant</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các bác IT dạo này có việc không chứ em ngồi chơi hơn tuần nay rồi, tại năm nay lần đầu em đi làm tới tết nên không biết :v , mọi năm toàn gần tết là em nghỉ tết sớm :v&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Conciugiant"&gt; /u/Conciugiant &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qn3bkr/ngành_it_gần_tết/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qn3bkr/ngành_it_gần_tết/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qn3bkr/ngành_it_gần_tết/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-26T02:24:32+00:00</published>
-  </entry>
   <entry>
     <id>t3_1qngfc3</id>
     <title>Góc tìm bài hát</title>
@@ -45,6 +32,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qn9ef3/tại_sao_hoá_đơn_giá_trị_gia_tăng_ở_việt_nam_lại/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-26T07:23:44+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qo8l1e</id>
+    <title>Yêu thế nào cho đúng?</title>
+    <updated>2026-01-27T08:50:15+00:00</updated>
+    <author>
+      <name>/u/rich_dumb</name>
+      <uri>https://old.reddit.com/user/rich_dumb</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;...&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/rich_dumb"&gt; /u/rich_dumb &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qo8l1e/yêu_thế_nào_cho_đúng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qo8l1e/yêu_thế_nào_cho_đúng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qo8l1e/yêu_thế_nào_cho_đúng/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-27T08:50:15+00:00</published>
   </entry>
   <entry>
     <id>t3_1qnbc13</id>
@@ -151,19 +151,6 @@
     <published>2026-01-27T08:39:29+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qo8l1e</id>
-    <title>Yêu thế nào cho đúng?</title>
-    <updated>2026-01-27T08:50:15+00:00</updated>
-    <author>
-      <name>/u/rich_dumb</name>
-      <uri>https://old.reddit.com/user/rich_dumb</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;...&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/rich_dumb"&gt; /u/rich_dumb &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qo8l1e/yêu_thế_nào_cho_đúng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qo8l1e/yêu_thế_nào_cho_đúng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qo8l1e/yêu_thế_nào_cho_đúng/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-27T08:50:15+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1qo8myd</id>
     <title>Cải thiện kỹ năng nói tiếng anh</title>
     <updated>2026-01-27T08:53:30+00:00</updated>
@@ -188,6 +175,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qo2gft/nhờ_tư_vấn_luật_hợp_đồng_nhà/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-27T03:26:32+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qo9fn8</id>
+    <title>Mọi người cho em tham khảo vài loại whey sinh viên với ạ</title>
+    <updated>2026-01-27T09:41:36+00:00</updated>
+    <author>
+      <name>/u/Octopus_femboy</name>
+      <uri>https://old.reddit.com/user/Octopus_femboy</uri>
+    </author>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Octopus_femboy"&gt; /u/Octopus_femboy &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qo9fn8/mọi_người_cho_em_tham_khảo_vài_loại_whey_sinh/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qo9fn8/mọi_người_cho_em_tham_khảo_vài_loại_whey_sinh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qo9fn8/mọi_người_cho_em_tham_khảo_vài_loại_whey_sinh/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-27T09:41:36+00:00</published>
   </entry>
   <entry>
     <id>t3_1qo6fos</id>
@@ -255,19 +255,6 @@
     <published>2026-01-27T07:32:02+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qo8fod</id>
-    <title>Dấu hiệu người con gái thích mình</title>
-    <updated>2026-01-27T08:41:18+00:00</updated>
-    <author>
-      <name>/u/Elegant_Committee464</name>
-      <uri>https://old.reddit.com/user/Elegant_Committee464</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Anh em cho mình 1 vài dấu hiệu một người con gái đang thích mình đi&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Elegant_Committee464"&gt; /u/Elegant_Committee464 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qo8fod/dấu_hiệu_người_con_gái_thích_mình/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qo8fod/dấu_hiệu_người_con_gái_thích_mình/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qo8fod/dấu_hiệu_người_con_gái_thích_mình/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-27T08:41:18+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1qo0mrl</id>
     <title>Chuyện em gái mình hệ GenZ</title>
     <updated>2026-01-27T02:07:44+00:00</updated>
@@ -292,6 +279,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qo7i10/nhà_nghiêng/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-27T07:44:35+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qo8fod</id>
+    <title>Dấu hiệu người con gái thích mình</title>
+    <updated>2026-01-27T08:41:18+00:00</updated>
+    <author>
+      <name>/u/Elegant_Committee464</name>
+      <uri>https://old.reddit.com/user/Elegant_Committee464</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Anh em cho mình 1 vài dấu hiệu một người con gái đang thích mình đi&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Elegant_Committee464"&gt; /u/Elegant_Committee464 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qo8fod/dấu_hiệu_người_con_gái_thích_mình/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qo8fod/dấu_hiệu_người_con_gái_thích_mình/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qo8fod/dấu_hiệu_người_con_gái_thích_mình/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-27T08:41:18+00:00</published>
   </entry>
   <entry>
     <id>t3_1qo0cos</id>
