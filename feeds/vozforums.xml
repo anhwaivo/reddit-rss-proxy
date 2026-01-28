@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-28T22:59:56+00:00</updated>
+  <updated>2026-01-28T23:34:56+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1qpcmlx</id>
-    <title>tư vấn đại học cntt!!!!!!!!!!</title>
-    <updated>2026-01-28T14:20:30+00:00</updated>
-    <author>
-      <name>/u/Mochi_Dz</name>
-      <uri>https://old.reddit.com/user/Mochi_Dz</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;em năm nay 17, hiện tại em muốn theo computer engineering thì nên theo trường nào ạ? bản thân em muốn vào bách khoa TPHCM nhưng vẫn hơi sợ, nên có plan b là đh swinburne nhưng mà bên bển có mỗi IoT là ưng với em. cho em hỏi là ngoài hai trường ấy ra thì còn trường nào mạnh về mảng này không?&lt;br /&gt; cho em xin kinh nghiệm ôn thi và học tại trường của mọi người với &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Mochi_Dz"&gt; /u/Mochi_Dz &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qpcmlx/tư_vấn_đại_học_cntt/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qpcmlx/tư_vấn_đại_học_cntt/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qpcmlx/tư_vấn_đại_học_cntt/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-28T14:20:30+00:00</published>
-  </entry>
   <entry>
     <id>t3_1qpj01y</id>
     <title>Build PC phục vụ cho đồ hoạ và kiến trúc</title>
@@ -242,6 +229,19 @@
     <published>2026-01-28T14:58:26+00:00</published>
   </entry>
   <entry>
+    <id>t3_1qprjgu</id>
+    <title>Chồng thất nghiệp tuổi 35</title>
+    <updated>2026-01-28T23:21:28+00:00</updated>
+    <author>
+      <name>/u/bababaziii</name>
+      <uri>https://old.reddit.com/user/bababaziii</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình 30 tuổi, chồng 35, vừa cưới nhau được nửa năm thì chồng mình bị layoff vì khó cạnh tranh trong ngành quảng cáo. Mình có mức lương khá ổn, đủ sức để cover cho chồng tới khi nào có công việc trở lại, cũng không có vấn đề gì với việc chồng mình thất nghiệp. Tuy nhiên cái mình hơi lo lắng là chồng mình bị trầm cảm khá nặng cộng thêm kém giao tiếp, sợ anh khó vực dậy được sau cú shock thất nghiệp dù đã gắn bó với công ty từ thời mới thành lập. &lt;/p&gt; &lt;p&gt;Có bác nào đã từng hoặc đang thất nghiệp ở độ tuổi U40, gặp vấn đề tâm lý có thể cho mình xin lời khuyên được không? Để mình có thể đồng hành với anh tốt hơn ở thời điểm hiện tại.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/bababaziii"&gt; /u/bababaziii &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qprjgu/chồng_thất_nghiệp_tuổi_35/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qprjgu/chồng_thất_nghiệp_tuổi_35/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qprjgu/chồng_thất_nghiệp_tuổi_35/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-28T23:21:28+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1qpbv8n</id>
     <title>Ngại thể hiện tình cảm với bố mẹ</title>
     <updated>2026-01-28T13:50:16+00:00</updated>
@@ -294,19 +294,6 @@
     <published>2026-01-28T07:46:35+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qpfcto</id>
-    <title>Dạo gần đây cuộc sống ko ổn</title>
-    <updated>2026-01-28T16:02:26+00:00</updated>
-    <author>
-      <name>/u/Awkward-Advantage929</name>
-      <uri>https://old.reddit.com/user/Awkward-Advantage929</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Và tôi chỉ muốn ngủ, ngủ 1 giấc thật sâu&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Awkward-Advantage929"&gt; /u/Awkward-Advantage929 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qpfcto/dạo_gần_đây_cuộc_sống_ko_ổn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qpfcto/dạo_gần_đây_cuộc_sống_ko_ổn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qpfcto/dạo_gần_đây_cuộc_sống_ko_ổn/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-28T16:02:26+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1qp538b</id>
     <title>Lý do nào mà giới trẻ hiện Việt Nam mình hiện nay lại ít chuộng nhạc ROCK hơn nhỉ?</title>
     <updated>2026-01-28T07:46:36+00:00</updated>
@@ -318,6 +305,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qp538b/lý_do_nào_mà_giới_trẻ_hiện_việt_nam_mình_hiện_nay/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-28T07:46:36+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qpfcto</id>
+    <title>Dạo gần đây cuộc sống ko ổn</title>
+    <updated>2026-01-28T16:02:26+00:00</updated>
+    <author>
+      <name>/u/Awkward-Advantage929</name>
+      <uri>https://old.reddit.com/user/Awkward-Advantage929</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Và tôi chỉ muốn ngủ, ngủ 1 giấc thật sâu&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Awkward-Advantage929"&gt; /u/Awkward-Advantage929 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qpfcto/dạo_gần_đây_cuộc_sống_ko_ổn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qpfcto/dạo_gần_đây_cuộc_sống_ko_ổn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qpfcto/dạo_gần_đây_cuộc_sống_ko_ổn/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-28T16:02:26+00:00</published>
   </entry>
   <entry>
     <id>t3_1qpf6q8</id>
