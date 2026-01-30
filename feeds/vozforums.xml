@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-30T20:57:24+00:00</updated>
+  <updated>2026-01-30T21:32:23+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -229,19 +229,6 @@
     <published>2026-01-30T14:44:30+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qr36xo</id>
-    <title>Mông lung về sự nghiệp và cách thoát ra khỏi vùng an toàn</title>
-    <updated>2026-01-30T11:43:30+00:00</updated>
-    <author>
-      <name>/u/dangcoidoc</name>
-      <uri>https://old.reddit.com/user/dangcoidoc</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em sinh năm 2000 (M), hiện đang làm PMO cho 1 cty về ATTT lớn, nói chung công việc không khác gì làm trợ lý kiêm thư ký cho các sếp chỉ là dưới chức danh PMO, cái gì cũng chỉ quản lý ở bề nổi và thủ tục hành chính và qly nvu team hàng quý, nói chung là khá nhàn, 1 ngày có khi e chỉ cần làm 1 - 2 tiếng là xong hết việc và chỉ cần đi họp + take note xong gửi các sếp rồi nhập task lên JIRA là done. Nhưng lâu dần e cảm thấy bản thân khá ù lì đi về tư duy cũng như làm e lười động não suy nghĩ, mặc dù lương rất ổn và chỉ cần tuân thủ nề nếp tác phong thì em cũng đủ sống và chi tiêu + tiết kiệm nhưng nếu cứ làm việc này đến năm 30t thì e không biết mình sẽ đứng ở đâu trên thị trường LĐ. Em đang dự tính sẽ học BA và chuyển hướng dần sang BA nhưng không biết bắt đầu từ đâu và bản thân em hiện đang rất burn out và lười bắt đầu lại 1 nghiệp vụ mới và khá khó như BA cũng như sợ không cạnh tranh được trên thị trường LĐ vì không có base IT (E học ngành kinh doanh &amp;amp; mkt). Lí do e chọn BA vì e thích IT, thích deepwork, thích vọc vạch code, build dashboard, hệ thống quản lý, ERP, SAP và giải quyết painpoint của các stakeholder từ cviec trước là trợ lý GĐ cho 1 startup. Em rất muốn xin lời khuyên hoặc có thể kết nối với các mentor để hướng nghiệp lại cho em trong thời điểm này ạ. Em rất cảm ơn ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/dangcoidoc"&gt; /u/dangcoidoc &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qr36xo/mông_lung_về_sự_nghiệp_và_cách_thoát_ra_khỏi_vùng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qr36xo/mông_lung_về_sự_nghiệp_và_cách_thoát_ra_khỏi_vùng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qr36xo/mông_lung_về_sự_nghiệp_và_cách_thoát_ra_khỏi_vùng/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-30T11:43:30+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1qqovmv</id>
     <title>Làm Tech, học việc 7 tháng, không có tên trong danh sách đi YEP nhưng vẫn bị điều đi múa.</title>
     <updated>2026-01-29T23:34:27+00:00</updated>
@@ -253,6 +240,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qqovmv/làm_tech_học_việc_7_tháng_không_có_tên_trong_danh/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-29T23:34:27+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qr36xo</id>
+    <title>Mông lung về sự nghiệp và cách thoát ra khỏi vùng an toàn</title>
+    <updated>2026-01-30T11:43:30+00:00</updated>
+    <author>
+      <name>/u/dangcoidoc</name>
+      <uri>https://old.reddit.com/user/dangcoidoc</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em sinh năm 2000 (M), hiện đang làm PMO cho 1 cty về ATTT lớn, nói chung công việc không khác gì làm trợ lý kiêm thư ký cho các sếp chỉ là dưới chức danh PMO, cái gì cũng chỉ quản lý ở bề nổi và thủ tục hành chính và qly nvu team hàng quý, nói chung là khá nhàn, 1 ngày có khi e chỉ cần làm 1 - 2 tiếng là xong hết việc và chỉ cần đi họp + take note xong gửi các sếp rồi nhập task lên JIRA là done. Nhưng lâu dần e cảm thấy bản thân khá ù lì đi về tư duy cũng như làm e lười động não suy nghĩ, mặc dù lương rất ổn và chỉ cần tuân thủ nề nếp tác phong thì em cũng đủ sống và chi tiêu + tiết kiệm nhưng nếu cứ làm việc này đến năm 30t thì e không biết mình sẽ đứng ở đâu trên thị trường LĐ. Em đang dự tính sẽ học BA và chuyển hướng dần sang BA nhưng không biết bắt đầu từ đâu và bản thân em hiện đang rất burn out và lười bắt đầu lại 1 nghiệp vụ mới và khá khó như BA cũng như sợ không cạnh tranh được trên thị trường LĐ vì không có base IT (E học ngành kinh doanh &amp;amp; mkt). Lí do e chọn BA vì e thích IT, thích deepwork, thích vọc vạch code, build dashboard, hệ thống quản lý, ERP, SAP và giải quyết painpoint của các stakeholder từ cviec trước là trợ lý GĐ cho 1 startup. Em rất muốn xin lời khuyên hoặc có thể kết nối với các mentor để hướng nghiệp lại cho em trong thời điểm này ạ. Em rất cảm ơn ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/dangcoidoc"&gt; /u/dangcoidoc &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qr36xo/mông_lung_về_sự_nghiệp_và_cách_thoát_ra_khỏi_vùng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qr36xo/mông_lung_về_sự_nghiệp_và_cách_thoát_ra_khỏi_vùng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qr36xo/mông_lung_về_sự_nghiệp_và_cách_thoát_ra_khỏi_vùng/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-30T11:43:30+00:00</published>
   </entry>
   <entry>
     <id>t3_1qrdc38</id>
