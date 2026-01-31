@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-31T17:23:24+00:00</updated>
+  <updated>2026-01-31T17:48:03+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -177,19 +177,6 @@
     <published>2026-01-31T15:50:23+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qrnmv7</id>
-    <title>Vàng thế giới sập. Giờ phải làm sao?</title>
-    <updated>2026-01-31T00:46:42+00:00</updated>
-    <author>
-      <name>/u/GreenSpecial1353</name>
-      <uri>https://old.reddit.com/user/GreenSpecial1353</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mn. Em thấy vàng t/g sập ghê quá, mà em mới mua vàng tuần trước. &lt;/p&gt; &lt;p&gt;cho em hỏi bây giờ có nên bán hay không, hay giữ tiếp ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/GreenSpecial1353"&gt; /u/GreenSpecial1353 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qrnmv7/vàng_thế_giới_sập_giờ_phải_làm_sao/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qrnmv7/vàng_thế_giới_sập_giờ_phải_làm_sao/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qrnmv7/vàng_thế_giới_sập_giờ_phải_làm_sao/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-31T00:46:42+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1qru1mu</id>
     <title>Tìm partner luyện nói tiếng anh</title>
     <updated>2026-01-31T05:44:43+00:00</updated>
@@ -201,6 +188,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qru1mu/tìm_partner_luyện_nói_tiếng_anh/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-31T05:44:43+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qrnmv7</id>
+    <title>Vàng thế giới sập. Giờ phải làm sao?</title>
+    <updated>2026-01-31T00:46:42+00:00</updated>
+    <author>
+      <name>/u/GreenSpecial1353</name>
+      <uri>https://old.reddit.com/user/GreenSpecial1353</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mn. Em thấy vàng t/g sập ghê quá, mà em mới mua vàng tuần trước. &lt;/p&gt; &lt;p&gt;cho em hỏi bây giờ có nên bán hay không, hay giữ tiếp ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/GreenSpecial1353"&gt; /u/GreenSpecial1353 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qrnmv7/vàng_thế_giới_sập_giờ_phải_làm_sao/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qrnmv7/vàng_thế_giới_sập_giờ_phải_làm_sao/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qrnmv7/vàng_thế_giới_sập_giờ_phải_làm_sao/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-31T00:46:42+00:00</published>
   </entry>
   <entry>
     <id>t3_1qs7hn4</id>
