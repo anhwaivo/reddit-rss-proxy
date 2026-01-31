@@ -2,50 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-31T11:19:50+00:00</updated>
+  <updated>2026-01-31T11:42:43+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1qrz9z2</id>
-    <title>Chị họ gạ abc</title>
-    <updated>2026-01-31T10:49:01+00:00</updated>
-    <author>
-      <name>/u/Pretend-Monitor-9966</name>
-      <uri>https://old.reddit.com/user/Pretend-Monitor-9966</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Vào thời điểm lớp 3 thì chị họ tôi có vào nhà chơi 2 tháng chuyện thì không có gì xảy ra vào một hôm nọ chị ấy bảo tôi hay làm ... chị ấy , tôi từ chối rất nhiều lần , bảo em còn nhỏ tuổi với lại em không thể làm vậy với chị sau khi nói vậy không nói gì ba mẹ về thì chẳng kể ra làm gì , khi không có ba mẹ chị ấy gạ tôi nhiều lần và từ chối . Vào 1 ngày kia chị ấy vẫn gạ tiếp tui từ chối thì bỏ đi luôn về nhà , tôi có bảo đợi ba mẹ về chở lên nhà và bỏ đi luôn. Sau khi tôi lớn lên thì có thăm chị họ vài lần nghe nói chị ấy đi hàn rồi.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Pretend-Monitor-9966"&gt; /u/Pretend-Monitor-9966 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qrz9z2/chị_họ_gạ_abc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qrz9z2/chị_họ_gạ_abc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qrz9z2/chị_họ_gạ_abc/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-31T10:49:01+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1qrbc3k</id>
-    <title>Xin vài bộ hai ten nặng đô đi các thím</title>
-    <updated>2026-01-30T17:08:20+00:00</updated>
-    <author>
-      <name>/u/Consistent_Yam8110</name>
-      <uri>https://old.reddit.com/user/Consistent_Yam8110</uri>
-    </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Consistent_Yam8110"&gt; /u/Consistent_Yam8110 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qrbc3k/xin_vài_bộ_hai_ten_nặng_đô_đi_các_thím/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qrbc3k/xin_vài_bộ_hai_ten_nặng_đô_đi_các_thím/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qrbc3k/xin_vài_bộ_hai_ten_nặng_đô_đi_các_thím/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-30T17:08:20+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1qruoyj</id>
-    <title>Lập trình drone và send data! Giúp em với</title>
-    <updated>2026-01-31T06:18:15+00:00</updated>
-    <author>
-      <name>/u/ProfessionalSalad101</name>
-      <uri>https://old.reddit.com/user/ProfessionalSalad101</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình đang tìm một con drone mà mình có thể lập trình để bay theo một lộ trình định sẵn. Khi nó bay, mình muốn nó chụp hình và gửi ảnh về laptop của mình (realtime nếu được, hoặc lưu lại để tải sau).&lt;/p&gt; &lt;p&gt;Ai biết drone nào giá rẻ mà có thể làm được những điều này không? Mình muốn lập trình bằng code (ví dụ Python) nếu có thể.&lt;/p&gt; &lt;p&gt;Cảm ơn mọi người!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ProfessionalSalad101"&gt; /u/ProfessionalSalad101 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qruoyj/lập_trình_drone_và_send_data_giúp_em_với/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qruoyj/lập_trình_drone_và_send_data_giúp_em_với/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qruoyj/lập_trình_drone_và_send_data_giúp_em_với/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-31T06:18:15+00:00</published>
-  </entry>
   <entry>
     <id>t3_1qrq46b</id>
     <title>Săn vé máy bay.</title>
@@ -151,6 +112,19 @@
     <published>2026-01-31T06:50:08+00:00</published>
   </entry>
   <entry>
+    <id>t3_1qrzleu</id>
+    <title>Điều ước</title>
+    <updated>2026-01-31T11:07:13+00:00</updated>
+    <author>
+      <name>/u/Choice-Plenty6507</name>
+      <uri>https://old.reddit.com/user/Choice-Plenty6507</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;con sinh năm 2003 và nay con được 23 tuổi , gia đình con từ xưa đã trải qua rất nhiều khó khăn nào là áp lực kinh tế, áp lực gia đình, áp lực cả xã hội, nhưng ba mẹ vẫn cho con học đàng hoàng, và con cũng học qua phổ thông chương trình 12/12. sau đó con quyết định không học đại học và tập trung vào ngành tối ưu nhất mà vừa có nghề nhanh nhất để ra làm và con cũng có một tý năng khiếu đồ họa thiết kế và thế là con đã dành 1 năm rưỡi để học xong chương trình học 2D. sau đó vì con đã xin và làm rất nhiều công việc nhưng đều đủ sống không lo cho gia đình, và con đã quyết định táo bạo nhất trong cuộc đời đó là mở tiệm photobooth trong khi nguồn hiểu biết về cái này rất ít, chỉ chụp vài lần với bạn bè có kỉ niệm nên mới tò mò tìm hiểu, xu hướng năm 2024 và 2025 rất phổ biến thế là con đã quyết định về quê vay mượn bố mẹ và có một ít tiết kiệm của mình và thuê đất và làm lại tiệm cho hoàn hảo nhất, con đã tự setup phòng cải tạo lại và trang trí sao cho bắt mắt nhất và tựu tìm hiểu nguồn máy chụp đẹp , phụ kiện và cả quần áo để bắt theo trend, tự thiết kế poster banner để tăng tương tác cao nhất có thể, có thể là mọi thứ đều được con tự làm. rất háo hức khi mở tiệm vào 1 tháng đầu tiên con cũng tưởng như trong mơ răng 1 tháng có thể kiếm tới 70tr nhưng khi đến tháng 2 -3 -4 và sau sau nữa thì tình hình trở nên tội tệ hơn, quê quảng bình thì lắm mưa lũ bão, thế là 2-3 cơn bão cứ ập tới, không có được thu nhập và cả tháng bị mất điện nguyên tháng đó trắng tay rồi, và trường hợp tệ hơn là khi vào mùa học thì lượng khách còn sụt giảm hơn nữa có ngày được 100-200 có khi còn không có khách , tài chính hạn hẹp ngân sách không đủ như tiền điện , tiền wifi, tiền giấy in, tiền duy trì hệ thống. mọi thứ cứ ép con phải mất trắng. bây giờ con đang thật sự bế tắc, và người con yêu và gia đình cũng thật sự bất lực dù họ rất hỗ trợ con mọi lúc nhưng con đã thật sự bị dồn vào thế đường cùng .con không biết nói sao nữa nhưng thực sự gia đình của con thật sự cần số tiền 1 TỶ CHÍNH XÁC LÀ 1 TỶ ĐỒNG. số tiền này sẽ làm cho con một tương lai tốt đẹp hơn nsố tiền này sẽ giúp hàn gắn vết thương do con tạo ra cho gia đình và người con yêu. con đã cầu nguyện rất nhiều. con cũng đã một mình đi xuống mộ của mệ ngoại con và cho con 3 điều ước điều ước đầu tiên con ước được may mắn có được 1 tỷ để có thể trả hết nợ ( nợ tình, nợ ân, nợ nghĩa ) điều ước thứ 2 con muốn được làm chồng mà người con yêu suốt đời điều ước thứ 3 là con mong muốn gia đình hạnh phúc hơn và con đã nói với mệ ngoại con rằng nếu mệ có nghe thì hãy báo mộng cho connếu con thật sự được đáp ứng điều ước của con con sẽ sống thật hạnh phúc bên gia đình và người con yêu vào mỗi năm vào ngày 8/1 dương lịch con sẽ cùng người con yêu xuống thắp hương cho ngoại con đã dốc hết sức hết tiền vào tiệm photobooth của con nhưng thật sự đã thất bại bây giờ lâm vào cảnh nợ nần con mong 3 điều ước con trở thành hiện thực&lt;/p&gt; &lt;p&gt;con mong có thể phản hồi được bức thư này vào ngày không xa.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Choice-Plenty6507"&gt; /u/Choice-Plenty6507 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qrzleu/điều_ước/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qrzleu/điều_ước/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qrzleu/điều_ước/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-31T11:07:13+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1qr8swt</id>
     <title>Nếu có 1 bạn nữ overweight làm quen vs mấy ông</title>
     <updated>2026-01-30T15:38:03+00:00</updated>
@@ -162,6 +136,32 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qr8swt/nếu_có_1_bạn_nữ_overweight_làm_quen_vs_mấy_ông/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-30T15:38:03+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qrztxh</id>
+    <title>Anh chị ơi, ngành Điện Tử viễn thông ở HUST có ổn ko ạ</title>
+    <updated>2026-01-31T11:20:41+00:00</updated>
+    <author>
+      <name>/u/imasolitude</name>
+      <uri>https://old.reddit.com/user/imasolitude</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em là nữ chuyên lý, em đang định nhắm ngành điện tử viễn thông ở Đại học Bách Khoa Hà Nội ạ. Cho em hỏi là ngành này trong 5-10 năm tới có triển vọng ko anh chị, có nhiều cơ hội việc làm ko ạ. Em thấy hầu hết các kĩ sư ở trong các tập đoàn chip bán dẫn lớn đều từ ngành này ra, toàn lương khởi điểm 42-67k$. Với cả nếu học ngành này thì đi chuyên ngành nào là ok nhất ạ?&lt;/p&gt; &lt;p&gt;Em đang nghĩ nếu học ngành ĐTVT thì em sẽ đky chương trình tiên tiến để học bằng tiếng anh (em có 7. IELTS) thì có ok ko anh chị, hệ này có khác gì hệ thường ko ạ. Với cả ở Bách Khoa cụ thể là ngành ĐTVT thì cơ hội du học có nhiều ko anh chị, chủ yếu là nước nào vậy ạ ( tại em định sẽ học thêm thứ tiếng nữa).&lt;/p&gt; &lt;p&gt;Em rất mong được nhận lời khuyên từ các anh chị đi trước ạ 💗💗&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/imasolitude"&gt; /u/imasolitude &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qrztxh/anh_chị_ơi_ngành_điện_tử_viễn_thông_ở_hust_có_ổn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qrztxh/anh_chị_ơi_ngành_điện_tử_viễn_thông_ở_hust_có_ổn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qrztxh/anh_chị_ơi_ngành_điện_tử_viễn_thông_ở_hust_có_ổn/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-31T11:20:41+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qrzztg</id>
+    <title>Từng có sàn nào lớn trade Usdt hoặc Xau mà bị sập/ bỏ trốn chưa ạ?</title>
+    <updated>2026-01-31T11:29:57+00:00</updated>
+    <author>
+      <name>/u/Effective_Play_563</name>
+      <uri>https://old.reddit.com/user/Effective_Play_563</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Gần đây ko mua đô tiền mặt dc nữa nên em tính lên sàn online mua (dù ko thích lắm vì trong cái đt nhiều thứ quá, phải mang đi hàng ngày thấy cũng áp lực).&lt;/p&gt; &lt;p&gt;Bạn e gợi ý trang Bitget, thấy uy tín. Nhưng em vẫn muốn hỏi mấy năm trở lại đây có sàn nào từng phá sản hoặc bỏ trốn chôm luôn tiền của ng đầu tư ko ạ?&lt;/p&gt; &lt;p&gt;Cám ơn mn.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Effective_Play_563"&gt; /u/Effective_Play_563 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qrzztg/từng_có_sàn_nào_lớn_trade_usdt_hoặc_xau_mà_bị_sập/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qrzztg/từng_có_sàn_nào_lớn_trade_usdt_hoặc_xau_mà_bị_sập/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qrzztg/từng_có_sàn_nào_lớn_trade_usdt_hoặc_xau_mà_bị_sập/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-31T11:29:57+00:00</published>
   </entry>
   <entry>
     <id>t3_1qrt708</id>
@@ -177,19 +177,6 @@
     <published>2026-01-31T05:01:52+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qrz7c4</id>
-    <title>Hỏi về cách học tiếng Anh</title>
-    <updated>2026-01-31T10:44:37+00:00</updated>
-    <author>
-      <name>/u/One_Mobile5879</name>
-      <uri>https://old.reddit.com/user/One_Mobile5879</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tôi toeic 500 nghe đọc, tôi muốn trình độ tiếng Anh của tôi giao tiếp tốt, nghe tốt thì học như nào giờ mọi người? Nhiều khi giao tiếp mà không nghĩ ra từ để nói. Nghe đoạn tiếng anh tầm đoạn dài cũng không nghe nổi&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/One_Mobile5879"&gt; /u/One_Mobile5879 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qrz7c4/hỏi_về_cách_học_tiếng_anh/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qrz7c4/hỏi_về_cách_học_tiếng_anh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qrz7c4/hỏi_về_cách_học_tiếng_anh/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-31T10:44:37+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1qropco</id>
     <title>Tâm sự linh tinh cuối năm 2025 âm lịch</title>
     <updated>2026-01-31T01:33:48+00:00</updated>
@@ -203,56 +190,17 @@
     <published>2026-01-31T01:33:48+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qrzleu</id>
-    <title>Điều ước</title>
-    <updated>2026-01-31T11:07:13+00:00</updated>
+    <id>t3_1qrzz48</id>
+    <title>Bán thân :v</title>
+    <updated>2026-01-31T11:28:52+00:00</updated>
     <author>
-      <name>/u/Choice-Plenty6507</name>
-      <uri>https://old.reddit.com/user/Choice-Plenty6507</uri>
+      <name>/u/freeasssss</name>
+      <uri>https://old.reddit.com/user/freeasssss</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;con sinh năm 2003 và nay con được 23 tuổi , gia đình con từ xưa đã trải qua rất nhiều khó khăn nào là áp lực kinh tế, áp lực gia đình, áp lực cả xã hội, nhưng ba mẹ vẫn cho con học đàng hoàng, và con cũng học qua phổ thông chương trình 12/12. sau đó con quyết định không học đại học và tập trung vào ngành tối ưu nhất mà vừa có nghề nhanh nhất để ra làm và con cũng có một tý năng khiếu đồ họa thiết kế và thế là con đã dành 1 năm rưỡi để học xong chương trình học 2D. sau đó vì con đã xin và làm rất nhiều công việc nhưng đều đủ sống không lo cho gia đình, và con đã quyết định táo bạo nhất trong cuộc đời đó là mở tiệm photobooth trong khi nguồn hiểu biết về cái này rất ít, chỉ chụp vài lần với bạn bè có kỉ niệm nên mới tò mò tìm hiểu, xu hướng năm 2024 và 2025 rất phổ biến thế là con đã quyết định về quê vay mượn bố mẹ và có một ít tiết kiệm của mình và thuê đất và làm lại tiệm cho hoàn hảo nhất, con đã tự setup phòng cải tạo lại và trang trí sao cho bắt mắt nhất và tựu tìm hiểu nguồn máy chụp đẹp , phụ kiện và cả quần áo để bắt theo trend, tự thiết kế poster banner để tăng tương tác cao nhất có thể, có thể là mọi thứ đều được con tự làm. rất háo hức khi mở tiệm vào 1 tháng đầu tiên con cũng tưởng như trong mơ răng 1 tháng có thể kiếm tới 70tr nhưng khi đến tháng 2 -3 -4 và sau sau nữa thì tình hình trở nên tội tệ hơn, quê quảng bình thì lắm mưa lũ bão, thế là 2-3 cơn bão cứ ập tới, không có được thu nhập và cả tháng bị mất điện nguyên tháng đó trắng tay rồi, và trường hợp tệ hơn là khi vào mùa học thì lượng khách còn sụt giảm hơn nữa có ngày được 100-200 có khi còn không có khách , tài chính hạn hẹp ngân sách không đủ như tiền điện , tiền wifi, tiền giấy in, tiền duy trì hệ thống. mọi thứ cứ ép con phải mất trắng. bây giờ con đang thật sự bế tắc, và người con yêu và gia đình cũng thật sự bất lực dù họ rất hỗ trợ con mọi lúc nhưng con đã thật sự bị dồn vào thế đường cùng .con không biết nói sao nữa nhưng thực sự gia đình của con thật sự cần số tiền 1 TỶ CHÍNH XÁC LÀ 1 TỶ ĐỒNG. số tiền này sẽ làm cho con một tương lai tốt đẹp hơn nsố tiền này sẽ giúp hàn gắn vết thương do con tạo ra cho gia đình và người con yêu. con đã cầu nguyện rất nhiều. con cũng đã một mình đi xuống mộ của mệ ngoại con và cho con 3 điều ước điều ước đầu tiên con ước được may mắn có được 1 tỷ để có thể trả hết nợ ( nợ tình, nợ ân, nợ nghĩa ) điều ước thứ 2 con muốn được làm chồng mà người con yêu suốt đời điều ước thứ 3 là con mong muốn gia đình hạnh phúc hơn và con đã nói với mệ ngoại con rằng nếu mệ có nghe thì hãy báo mộng cho connếu con thật sự được đáp ứng điều ước của con con sẽ sống thật hạnh phúc bên gia đình và người con yêu vào mỗi năm vào ngày 8/1 dương lịch con sẽ cùng người con yêu xuống thắp hương cho ngoại con đã dốc hết sức hết tiền vào tiệm photobooth của con nhưng thật sự đã thất bại bây giờ lâm vào cảnh nợ nần con mong 3 điều ước con trở thành hiện thực&lt;/p&gt; &lt;p&gt;con mong có thể phản hồi được bức thư này vào ngày không xa.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Choice-Plenty6507"&gt; /u/Choice-Plenty6507 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qrzleu/điều_ước/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qrzleu/điều_ước/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qrzleu/điều_ước/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hãy đến ngay với đội của tôi, bạn sẽ được lập tức trải nghiệm gói premium về quê nuôi cá và trồng thêm rau. Hoa quả (mít, nhãn, bơ...) organic 100% tiêu chuẩn nhà trồng tha hồ ăn mà không sợ hoá chất, phân bón hoá học. Ngọt lịm như tuổi thơ mà bạn luôn mơ về...&lt;/p&gt; &lt;p&gt;Chỉ cách trung tâm Hà Nội 20km, tại vị trí đắc địa mặt tiền hàng chục mét vuông nằm ở miền tây thành phố khu vực Thạch thất Hà Tây cũ, vừa đủ cảm giác thanh bình với đồng ruộng mênh mông cây cối ngập tràn, nhưng vẫn đủ những tiện ích văn minh gần thành phố, mà lại không quan tâm đến nỗi lo tắc đường ám ảnh nơi phố thị ồn ào&lt;/p&gt; &lt;p&gt;Đến với đội của tôi bạn sẽ được thoả thích làm sen với rất nhiều boss mều &amp;quot;cam&amp;quot; rất khả ái và dễ thương như những thiên thần tinh nghịch nhỏ (hứa không phải báo thủ)&lt;/p&gt; &lt;p&gt;Bạn sẽ được trải nghiệm một gia đình ấm cúng, kết hợp làm chủ một quán cafe nho nhỏ toạ lạc trên một mảnh đất to to, mặt tiền đường lớn có tiềm năng phát triển lớn, phong cách xanh và mộng mơ detox khỏi sự xô bồ phố thị&lt;/p&gt; &lt;p&gt;Khuyến mại đính kèm 01 thằng chủ ngáo ngơ (kiêm nhân viên rửa bát không lương) chưa một mảnh tình vắt vai.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;có hài hước nhưng không vô duyên&lt;/li&gt; &lt;li&gt;thành thảo chửi nhau bằng tiếng anh và tiếng Việt&lt;/li&gt; &lt;li&gt;thành thạo giặt giũ, rửa bát, lau nhà...&lt;/li&gt; &lt;li&gt;biết nấu ăn và ngon ngon ngon, cái nào quan trọng nhắc lại 3 lần&lt;/li&gt; &lt;li&gt;xuất thân từ gia đình cơ bản lấy giá trị đạo đức làm đầu nói không với cờ bạc, rượu chè, gái gú. Tôn trọng phụ nữ và anti gia trưởng, face không follow bất kì gái hót nào trên mạng.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Các bạn nữ quê loanh quanh khu vực HN nếu quan tâm đến sản phẩm có thể qua acc chính &lt;a href="/u/freeasss"&gt;u/freeasss&lt;/a&gt; của tôi đọc 2 bài với tiêu đề &amp;quot;cuối năm kể lể&amp;quot; để hiểu hơn về thông tin của sản phẩm. Nếu muốn thêm vào giỏ hàng có thể ib để trao đổi thông tin khách hàng &lt;/p&gt; &lt;p&gt;Cảm ơn các bạn đã quan tâm.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/freeasssss"&gt; /u/freeasssss &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qrzz48/bán_thân_v/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qrzz48/bán_thân_v/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qrzz48/bán_thân_v/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-31T11:07:13+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1qrxs8a</id>
-    <title>anh chị cho em hỏi về ngành Điện Tử Viễn Thông Ở HUST với ạ</title>
-    <updated>2026-01-31T09:20:17+00:00</updated>
-    <author>
-      <name>/u/imasolitude</name>
-      <uri>https://old.reddit.com/user/imasolitude</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em là nữ chuyên lý, em đang định nhắm ngành điện tử viễn thông ở Đại học Bách Khoa Hà Nội ạ. Cho em hỏi là ngành này trong 5-10 năm tới có triển vọng ko anh chị, có nhiều cơ hội việc làm ko ạ. Em thấy hầu hết các kĩ sư ở trong các tập đoàn chip bán dẫn lớn đều từ ngành này ra, toàn lương khởi điểm 42-67k$. Với cả nếu học ngành này thì đi chuyên ngành nào là ok nhất ạ?&lt;/p&gt; &lt;p&gt;Em đang nghĩ nếu học ngành ĐTVT thì em sẽ đky chương trình tiên tiến để học bằng tiếng anh (em có 7. IELTS) thì có ok ko anh chị, hệ này có khác gì hệ thường ko ạ. Với cả ở Bách Khoa cụ thể là ngành ĐTVT thì cơ hội du học có nhiều ko anh chị, chủ yếu là nước nào vậy ạ ( tại em định sẽ học thêm thứ tiếng nữa).&lt;/p&gt; &lt;p&gt;Em rất mong được nhận lời khuyên từ các anh chị đi trước ạ 💗💗&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/imasolitude"&gt; /u/imasolitude &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qrxs8a/anh_chị_cho_em_hỏi_về_ngành_điện_tử_viễn_thông_ở/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qrxs8a/anh_chị_cho_em_hỏi_về_ngành_điện_tử_viễn_thông_ở/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qrxs8a/anh_chị_cho_em_hỏi_về_ngành_điện_tử_viễn_thông_ở/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-31T09:20:17+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1qrf2n2</id>
-    <title>Bố của bạn trai không thích mình</title>
-    <updated>2026-01-30T19:17:52+00:00</updated>
-    <author>
-      <name>/u/Life-Average1210</name>
-      <uri>https://old.reddit.com/user/Life-Average1210</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình là nữ, 33t. Mình quen bạn trai đc 6 tháng và mới về nhà anh chơi. Sau khi về thì mình có hỏi và được biết bố anh không đồng ý vì mình thấp bé (1m53 43kg). Vì cả mình và anh đều đã lớn tuổi nên quen nhau xác định tiến tới hôn nhân. Mình tự tin về tính cách, học vấn, hoàn cảnh gia đình của mình, duy có ngoại hình thì mình khá tự ti nên khi biết mình cảm thấy rất buồn. Anh nói mình không cần phải bận tâm, việc nhà anh thì để anh giải quyết. Mẹ anh bảo sẽ nhờ những người mà bố anh tin tưởng nói chuyện để khuyên giải, nhưng để cưới xin thì không thể cưới ngay đầu năm được, sẽ cần thêm chút thời gian. Nhà mình thì động viên nếu quyết đến với nhau thì nên cưới sớm để sớm ổn định, dặn mình tết này đưa anh về nhà chơi ra mắt ông bà. Mình trằn trọc cả đêm không ngủ nổi. Liệu một người con dâu mà không được bố chồng chấp nhận thì có bị thiệt thòi không khi về làm dâu? Mình sợ anh ở giữa sẽ phải khổ tâm, mình cũng sợ mình không dám đương đầu và hối hận. Buồn quá nên mình viết tâm sự đôi dòng.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Life-Average1210"&gt; /u/Life-Average1210 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qrf2n2/bố_của_bạn_trai_không_thích_mình/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qrf2n2/bố_của_bạn_trai_không_thích_mình/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qrf2n2/bố_của_bạn_trai_không_thích_mình/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-30T19:17:52+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1qru1mu</id>
-    <title>Tìm partner luyện nói tiếng anh</title>
-    <updated>2026-01-31T05:44:43+00:00</updated>
-    <author>
-      <name>/u/ContributionWorth252</name>
-      <uri>https://old.reddit.com/user/ContributionWorth252</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em chào mọi người, &lt;/p&gt; &lt;p&gt;Em là nữ,23 tuổi. Hiện tại em đang làm công việc giao tiếp khá nhiều với khách hàng nước ngoài. Nhưng tiếng anh của em còn hạn chế. Em từng nghĩ mình có thực sự phù hợp với công việc này hay không? Nhưng em nhận ra đó là cảm giác trốn tránh sự kém cỏi của bản thân. Trình độ tiếng anh của em tương đương 6.5 ielts và em chưa nói được lưu loát cho lắm. Em sợ bắt chuyện với khách, hầu như em nhắn tin nhiều hơn, nhưng tiếp tục vậy nó không thực sự hiệu quả. &lt;/p&gt; &lt;p&gt;Em muốn tìm một partner luyện nói tiếng anh cùng nhau phát triển và chia sẻ tips luyện nói, có idea nói chuyện với người lạ. Mọi người có thể cmt post này em sẽ chủ động nhắn tin kết nối mọi người ạ💕 Em ở Hà Nội và hy vọng sẽ kết bạn được với những người bạn mới siêu thú vị. &lt;/p&gt; &lt;p&gt;Em cảm ơn mọi người đã đọc ạ!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ContributionWorth252"&gt; /u/ContributionWorth252 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qru1mu/tìm_partner_luyện_nói_tiếng_anh/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qru1mu/tìm_partner_luyện_nói_tiếng_anh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qru1mu/tìm_partner_luyện_nói_tiếng_anh/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-31T05:44:43+00:00</published>
+    <published>2026-01-31T11:28:52+00:00</published>
   </entry>
   <entry>
     <id>t3_1qrvz5z</id>
@@ -268,19 +216,6 @@
     <published>2026-01-31T07:30:45+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qryoky</id>
-    <title>tự ti khi yêu, tự tin khi độc thân</title>
-    <updated>2026-01-31T10:13:46+00:00</updated>
-    <author>
-      <name>/u/Exotic_Education_282</name>
-      <uri>https://old.reddit.com/user/Exotic_Education_282</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;ê mấy bà có hay cảm thấy tự ti về bản thân khi yêu một người không? rõ là người ta quan tâm, chiều mình. mình cảm thấy được yêu thương nhưng cho đến khi thấy họ follow cả đống con gái, thả tim nọ kia thì cảm thấy buồn, không là duy nhất không..? anh ý nói anh muốn nghiêm túc với mình mà trường hợp như này mình chưa chắc về độ nghiêm túc của anh với lại bản thân mình cũng chẳng muốn ÉP anh ý bỏ follow gái. (ý là vài bạn gái thì không sao, mà anh có cả đống)&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Exotic_Education_282"&gt; /u/Exotic_Education_282 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qryoky/tự_ti_khi_yêu_tự_tin_khi_độc_thân/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qryoky/tự_ti_khi_yêu_tự_tin_khi_độc_thân/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qryoky/tự_ti_khi_yêu_tự_tin_khi_độc_thân/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-31T10:13:46+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1qrysw3</id>
     <title>Đối với các bạn thế nào là 1 người nhạt nhẽo</title>
     <updated>2026-01-31T10:20:50+00:00</updated>
@@ -292,6 +227,71 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qrysw3/đối_với_các_bạn_thế_nào_là_1_người_nhạt_nhẽo/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-31T10:20:50+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qrf2n2</id>
+    <title>Bố của bạn trai không thích mình</title>
+    <updated>2026-01-30T19:17:52+00:00</updated>
+    <author>
+      <name>/u/Life-Average1210</name>
+      <uri>https://old.reddit.com/user/Life-Average1210</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình là nữ, 33t. Mình quen bạn trai đc 6 tháng và mới về nhà anh chơi. Sau khi về thì mình có hỏi và được biết bố anh không đồng ý vì mình thấp bé (1m53 43kg). Vì cả mình và anh đều đã lớn tuổi nên quen nhau xác định tiến tới hôn nhân. Mình tự tin về tính cách, học vấn, hoàn cảnh gia đình của mình, duy có ngoại hình thì mình khá tự ti nên khi biết mình cảm thấy rất buồn. Anh nói mình không cần phải bận tâm, việc nhà anh thì để anh giải quyết. Mẹ anh bảo sẽ nhờ những người mà bố anh tin tưởng nói chuyện để khuyên giải, nhưng để cưới xin thì không thể cưới ngay đầu năm được, sẽ cần thêm chút thời gian. Nhà mình thì động viên nếu quyết đến với nhau thì nên cưới sớm để sớm ổn định, dặn mình tết này đưa anh về nhà chơi ra mắt ông bà. Mình trằn trọc cả đêm không ngủ nổi. Liệu một người con dâu mà không được bố chồng chấp nhận thì có bị thiệt thòi không khi về làm dâu? Mình sợ anh ở giữa sẽ phải khổ tâm, mình cũng sợ mình không dám đương đầu và hối hận. Buồn quá nên mình viết tâm sự đôi dòng.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Life-Average1210"&gt; /u/Life-Average1210 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qrf2n2/bố_của_bạn_trai_không_thích_mình/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qrf2n2/bố_của_bạn_trai_không_thích_mình/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qrf2n2/bố_của_bạn_trai_không_thích_mình/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-30T19:17:52+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qrz7c4</id>
+    <title>Hỏi về cách học tiếng Anh</title>
+    <updated>2026-01-31T10:44:37+00:00</updated>
+    <author>
+      <name>/u/One_Mobile5879</name>
+      <uri>https://old.reddit.com/user/One_Mobile5879</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tôi toeic 500 nghe đọc, tôi muốn trình độ tiếng Anh của tôi giao tiếp tốt, nghe tốt thì học như nào giờ mọi người? Nhiều khi giao tiếp mà không nghĩ ra từ để nói. Nghe đoạn tiếng anh tầm đoạn dài cũng không nghe nổi&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/One_Mobile5879"&gt; /u/One_Mobile5879 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qrz7c4/hỏi_về_cách_học_tiếng_anh/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qrz7c4/hỏi_về_cách_học_tiếng_anh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qrz7c4/hỏi_về_cách_học_tiếng_anh/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-31T10:44:37+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qrxs8a</id>
+    <title>anh chị cho em hỏi về ngành Điện Tử Viễn Thông Ở HUST với ạ</title>
+    <updated>2026-01-31T09:20:17+00:00</updated>
+    <author>
+      <name>/u/imasolitude</name>
+      <uri>https://old.reddit.com/user/imasolitude</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em là nữ chuyên lý, em đang định nhắm ngành điện tử viễn thông ở Đại học Bách Khoa Hà Nội ạ. Cho em hỏi là ngành này trong 5-10 năm tới có triển vọng ko anh chị, có nhiều cơ hội việc làm ko ạ. Em thấy hầu hết các kĩ sư ở trong các tập đoàn chip bán dẫn lớn đều từ ngành này ra, toàn lương khởi điểm 42-67k$. Với cả nếu học ngành này thì đi chuyên ngành nào là ok nhất ạ?&lt;/p&gt; &lt;p&gt;Em đang nghĩ nếu học ngành ĐTVT thì em sẽ đky chương trình tiên tiến để học bằng tiếng anh (em có 7. IELTS) thì có ok ko anh chị, hệ này có khác gì hệ thường ko ạ. Với cả ở Bách Khoa cụ thể là ngành ĐTVT thì cơ hội du học có nhiều ko anh chị, chủ yếu là nước nào vậy ạ ( tại em định sẽ học thêm thứ tiếng nữa).&lt;/p&gt; &lt;p&gt;Em rất mong được nhận lời khuyên từ các anh chị đi trước ạ 💗💗&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/imasolitude"&gt; /u/imasolitude &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qrxs8a/anh_chị_cho_em_hỏi_về_ngành_điện_tử_viễn_thông_ở/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qrxs8a/anh_chị_cho_em_hỏi_về_ngành_điện_tử_viễn_thông_ở/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qrxs8a/anh_chị_cho_em_hỏi_về_ngành_điện_tử_viễn_thông_ở/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-31T09:20:17+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qru1mu</id>
+    <title>Tìm partner luyện nói tiếng anh</title>
+    <updated>2026-01-31T05:44:43+00:00</updated>
+    <author>
+      <name>/u/ContributionWorth252</name>
+      <uri>https://old.reddit.com/user/ContributionWorth252</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em chào mọi người, &lt;/p&gt; &lt;p&gt;Em là nữ,23 tuổi. Hiện tại em đang làm công việc giao tiếp khá nhiều với khách hàng nước ngoài. Nhưng tiếng anh của em còn hạn chế. Em từng nghĩ mình có thực sự phù hợp với công việc này hay không? Nhưng em nhận ra đó là cảm giác trốn tránh sự kém cỏi của bản thân. Trình độ tiếng anh của em tương đương 6.5 ielts và em chưa nói được lưu loát cho lắm. Em sợ bắt chuyện với khách, hầu như em nhắn tin nhiều hơn, nhưng tiếp tục vậy nó không thực sự hiệu quả. &lt;/p&gt; &lt;p&gt;Em muốn tìm một partner luyện nói tiếng anh cùng nhau phát triển và chia sẻ tips luyện nói, có idea nói chuyện với người lạ. Mọi người có thể cmt post này em sẽ chủ động nhắn tin kết nối mọi người ạ💕 Em ở Hà Nội và hy vọng sẽ kết bạn được với những người bạn mới siêu thú vị. &lt;/p&gt; &lt;p&gt;Em cảm ơn mọi người đã đọc ạ!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ContributionWorth252"&gt; /u/ContributionWorth252 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qru1mu/tìm_partner_luyện_nói_tiếng_anh/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qru1mu/tìm_partner_luyện_nói_tiếng_anh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qru1mu/tìm_partner_luyện_nói_tiếng_anh/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-31T05:44:43+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qryoky</id>
+    <title>tự ti khi yêu, tự tin khi độc thân</title>
+    <updated>2026-01-31T10:13:46+00:00</updated>
+    <author>
+      <name>/u/Exotic_Education_282</name>
+      <uri>https://old.reddit.com/user/Exotic_Education_282</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;ê mấy bà có hay cảm thấy tự ti về bản thân khi yêu một người không? rõ là người ta quan tâm, chiều mình. mình cảm thấy được yêu thương nhưng cho đến khi thấy họ follow cả đống con gái, thả tim nọ kia thì cảm thấy buồn, không là duy nhất không..? anh ý nói anh muốn nghiêm túc với mình mà trường hợp như này mình chưa chắc về độ nghiêm túc của anh với lại bản thân mình cũng chẳng muốn ÉP anh ý bỏ follow gái. (ý là vài bạn gái thì không sao, mà anh có cả đống)&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Exotic_Education_282"&gt; /u/Exotic_Education_282 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qryoky/tự_ti_khi_yêu_tự_tin_khi_độc_thân/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qryoky/tự_ti_khi_yêu_tự_tin_khi_độc_thân/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qryoky/tự_ti_khi_yêu_tự_tin_khi_độc_thân/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-31T10:13:46+00:00</published>
   </entry>
   <entry>
     <id>t3_1qrnmv7</id>
