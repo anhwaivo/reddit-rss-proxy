@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-01-31T21:55:40+00:00</updated>
+  <updated>2026-01-31T22:23:07+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -242,19 +242,6 @@
     <published>2026-01-31T11:28:52+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qrysw3</id>
-    <title>Đối với các bạn thế nào là 1 người nhạt nhẽo</title>
-    <updated>2026-01-31T10:20:50+00:00</updated>
-    <author>
-      <name>/u/Awkward-Advantage929</name>
-      <uri>https://old.reddit.com/user/Awkward-Advantage929</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mik đang muốn thay đổi bạn thân nên mik muốn tìm hiểu xem mn coi 1 người thế nào là nhạt nhẽo&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Awkward-Advantage929"&gt; /u/Awkward-Advantage929 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qrysw3/đối_với_các_bạn_thế_nào_là_1_người_nhạt_nhẽo/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qrysw3/đối_với_các_bạn_thế_nào_là_1_người_nhạt_nhẽo/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qrysw3/đối_với_các_bạn_thế_nào_là_1_người_nhạt_nhẽo/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-01-31T10:20:50+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1qs7hn4</id>
     <title>Giảng viên dạy toeic gần NEU, HUST, Ngã tư Sở</title>
     <updated>2026-01-31T16:52:57+00:00</updated>
@@ -266,6 +253,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qs7hn4/giảng_viên_dạy_toeic_gần_neu_hust_ngã_tư_sở/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-01-31T16:52:57+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qrysw3</id>
+    <title>Đối với các bạn thế nào là 1 người nhạt nhẽo</title>
+    <updated>2026-01-31T10:20:50+00:00</updated>
+    <author>
+      <name>/u/Awkward-Advantage929</name>
+      <uri>https://old.reddit.com/user/Awkward-Advantage929</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mik đang muốn thay đổi bạn thân nên mik muốn tìm hiểu xem mn coi 1 người thế nào là nhạt nhẽo&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Awkward-Advantage929"&gt; /u/Awkward-Advantage929 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qrysw3/đối_với_các_bạn_thế_nào_là_1_người_nhạt_nhẽo/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qrysw3/đối_với_các_bạn_thế_nào_là_1_người_nhạt_nhẽo/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qrysw3/đối_với_các_bạn_thế_nào_là_1_người_nhạt_nhẽo/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-01-31T10:20:50+00:00</published>
   </entry>
   <entry>
     <id>t3_1qs6jy7</id>
