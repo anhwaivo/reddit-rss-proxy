@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-02-01T20:29:00+00:00</updated>
+  <updated>2026-02-01T20:52:31+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -73,6 +73,19 @@
     <published>2026-02-01T19:13:36+00:00</published>
   </entry>
   <entry>
+    <id>t3_1qss12c</id>
+    <title>Câu chuyện nhỏ ở quán cà phê, nhưng khiến người ta tin lại vào tình yêu</title>
+    <updated>2026-02-01T07:34:59+00:00</updated>
+    <author>
+      <name>/u/SweetxDumplings</name>
+      <uri>https://old.reddit.com/user/SweetxDumplings</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Gần nhà tôi có một quán cà phê nhỏ ở cuối đường, sáng nào tôi cũng ghé mua cà phê ở đó và sáng nào tôi cũng bắt gặp một ông chú tầm 60 tuổi ghé vào mua một ly cà phê đen, không đường. Điều tôi thấy lạ là chú không bao giờ ngồi uống. Mua xong, chú đứng ngoài cửa, gọi điện cho ai đó rồi nói đúng một câu: &amp;quot;Anh mua rồi, ra đi.”&lt;/p&gt; &lt;p&gt;Có một hôm tôi lại bắt gặp chú ở quán, tính tôi tò mò nên hỏi luôn thì chú cười và nói: “Vợ chú nằm viện gần đây. Bà ấy quen mùi cà phê mỗi sáng. Chứ chú không uống, chú chỉ mang mùi quen đó đến cho bà thôi.” Từ hôm đó, tôi mới hiểu: Có những thói quen rất nhỏ, nhưng là cách người ta yêu nhau đến tận cuối đời.&lt;/p&gt; &lt;p&gt;Sau khi tôi tự chứng kiến câu chuyện này tôi vẫn tự nghĩ nếu một ngày không còn nói được lời yêu thì bạn vẫn còn có thể giữ được thói quen nào vì ai đó không? Các bác nghĩ sao sau khi tôi kể câu chuyện này, cho tôi nghe ý kiến của các bác đi&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/SweetxDumplings"&gt; /u/SweetxDumplings &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qss12c/câu_chuyện_nhỏ_ở_quán_cà_phê_nhưng_khiến_người_ta/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qss12c/câu_chuyện_nhỏ_ở_quán_cà_phê_nhưng_khiến_người_ta/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qss12c/câu_chuyện_nhỏ_ở_quán_cà_phê_nhưng_khiến_người_ta/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-01T07:34:59+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1qt8bbt</id>
     <title>Công ty có nhận nhân viên ở xa không?</title>
     <updated>2026-02-01T19:36:26+00:00</updated>
@@ -97,19 +110,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qsx859/tại_sao_các_anh_zai_độc_thân_lâu_thế/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-02-01T12:29:36+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1qss12c</id>
-    <title>Câu chuyện nhỏ ở quán cà phê, nhưng khiến người ta tin lại vào tình yêu</title>
-    <updated>2026-02-01T07:34:59+00:00</updated>
-    <author>
-      <name>/u/SweetxDumplings</name>
-      <uri>https://old.reddit.com/user/SweetxDumplings</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Gần nhà tôi có một quán cà phê nhỏ ở cuối đường, sáng nào tôi cũng ghé mua cà phê ở đó và sáng nào tôi cũng bắt gặp một ông chú tầm 60 tuổi ghé vào mua một ly cà phê đen, không đường. Điều tôi thấy lạ là chú không bao giờ ngồi uống. Mua xong, chú đứng ngoài cửa, gọi điện cho ai đó rồi nói đúng một câu: &amp;quot;Anh mua rồi, ra đi.”&lt;/p&gt; &lt;p&gt;Có một hôm tôi lại bắt gặp chú ở quán, tính tôi tò mò nên hỏi luôn thì chú cười và nói: “Vợ chú nằm viện gần đây. Bà ấy quen mùi cà phê mỗi sáng. Chứ chú không uống, chú chỉ mang mùi quen đó đến cho bà thôi.” Từ hôm đó, tôi mới hiểu: Có những thói quen rất nhỏ, nhưng là cách người ta yêu nhau đến tận cuối đời.&lt;/p&gt; &lt;p&gt;Sau khi tôi tự chứng kiến câu chuyện này tôi vẫn tự nghĩ nếu một ngày không còn nói được lời yêu thì bạn vẫn còn có thể giữ được thói quen nào vì ai đó không? Các bác nghĩ sao sau khi tôi kể câu chuyện này, cho tôi nghe ý kiến của các bác đi&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/SweetxDumplings"&gt; /u/SweetxDumplings &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qss12c/câu_chuyện_nhỏ_ở_quán_cà_phê_nhưng_khiến_người_ta/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qss12c/câu_chuyện_nhỏ_ở_quán_cà_phê_nhưng_khiến_người_ta/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qss12c/câu_chuyện_nhỏ_ở_quán_cà_phê_nhưng_khiến_người_ta/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-01T07:34:59+00:00</published>
   </entry>
   <entry>
     <id>t3_1qt2uxk</id>
@@ -229,19 +229,6 @@
     <published>2026-02-01T14:35:47+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qsstlx</id>
-    <title>Tìm soulmate</title>
-    <updated>2026-02-01T08:19:56+00:00</updated>
-    <author>
-      <name>/u/No_Boat381</name>
-      <uri>https://old.reddit.com/user/No_Boat381</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Bài viết này mình biết sẽ rất kén người hiểu, nhưng biết đâu hữu duyên ai đó hiểu được ý mình nói, nếu ai đó cũng đang ở chặn đường giống mình thì ibox làm quen nha&lt;/p&gt; &lt;p&gt;Tổng quan:&lt;/p&gt; &lt;p&gt;Mình nữ 28 tuổi, hồi nhỏ mình có thiên hướng nghiên cứu sâu, nên các môn như toán và vật lý cũng dễ dàng hơn, hầu như việc đến trường đối vs mình như đi chơi, tuy mình không phải là quá giỏi. Mình không thông minh lắm, nhưng thường mình hay đi theo lối tắt và tự nghiên cứu theo cách thức của mình thay vì nghe theo Thầy cô, và đó cũng là nền móng cho giai đoạn sau này của mình.&lt;/p&gt; &lt;p&gt;Về thiên hướng cá nhân trước đây: Mình cũng rất thương động vật, cả con kiến, con gian…Cũng dễ xúc động. Nếu bản thân có những biểu hiện không tốt hoặc làm tổn thương người khác thì mình rất nhạy và tự trách. Mình cũng rất nhạy biết được ai kiểm soát và thao túng. Chính vì xu hướng thích nghiên cứu ở trên, nên mình rất thích triết học và tìm hiểu các nguồn gốc tâm lý, bản chất tâm thức của con người, mình tìm hiểu cả tâm lý học Phương Tây lẫn Phật học. Mình cũng từng có ny, nhưng vì da của mình không được đẹp nên hay phủ bởi lớp vỏ bọc trang điểm, vì anh cũng thích có một bạn gái xinh, quen nhau 1 năm nhưng chưa bao giờ anh thấy mình sau những lớp trang điểm ấy, về sau mình cũng dần nhận ra bản chất của tình ái, đặc biệt là anh quá tương phản nên mình quyết định chia tay.&lt;/p&gt; &lt;p&gt;Giai đoạn chuyển biến đến hiện tại: Mình cũng đang có một công việc thiên về tài chính và luật, nhưng mình cũng sắp xin nghỉ đề về quê sống 1 mình.&lt;/p&gt; &lt;p&gt;Lý do cho việc trên là mình đang ở chặn đường đã hiểu được bản chất và sự vận hành của thế giới, sự vận hành trong tâm thức và chìa khoá để đi, nó không còn giống như tư duy của người đời, mục đích mình về là để thực hành Tứ niệm Xứ một cách trọn vẹn. Mình chỉ giống ở người đời ở chỗ là chủng tử gieo trong A lại Da Thức quá nhiều và vẫn đang thao túng mình, khiến cho mình rất đau khổ, nhưng mình rất nhạy biết được nó thao túng mình đến cỡ nào và ít bị đồng hoá với nó như trước.&lt;/p&gt; &lt;p&gt;Ai hiểu mình nói và cùng giai đoạn của mình hoặc ở tầng trí tuệ cao hơn thì chúng ta làm quen nhé&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/No_Boat381"&gt; /u/No_Boat381 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qsstlx/tìm_soulmate/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qsstlx/tìm_soulmate/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qsstlx/tìm_soulmate/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-01T08:19:56+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1qt6uhv</id>
     <title>chán ytb thật…</title>
     <updated>2026-02-01T18:45:05+00:00</updated>
@@ -253,6 +240,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qt6uhv/chán_ytb_thật/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-02-01T18:45:05+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qsstlx</id>
+    <title>Tìm soulmate</title>
+    <updated>2026-02-01T08:19:56+00:00</updated>
+    <author>
+      <name>/u/No_Boat381</name>
+      <uri>https://old.reddit.com/user/No_Boat381</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Bài viết này mình biết sẽ rất kén người hiểu, nhưng biết đâu hữu duyên ai đó hiểu được ý mình nói, nếu ai đó cũng đang ở chặn đường giống mình thì ibox làm quen nha&lt;/p&gt; &lt;p&gt;Tổng quan:&lt;/p&gt; &lt;p&gt;Mình nữ 28 tuổi, hồi nhỏ mình có thiên hướng nghiên cứu sâu, nên các môn như toán và vật lý cũng dễ dàng hơn, hầu như việc đến trường đối vs mình như đi chơi, tuy mình không phải là quá giỏi. Mình không thông minh lắm, nhưng thường mình hay đi theo lối tắt và tự nghiên cứu theo cách thức của mình thay vì nghe theo Thầy cô, và đó cũng là nền móng cho giai đoạn sau này của mình.&lt;/p&gt; &lt;p&gt;Về thiên hướng cá nhân trước đây: Mình cũng rất thương động vật, cả con kiến, con gian…Cũng dễ xúc động. Nếu bản thân có những biểu hiện không tốt hoặc làm tổn thương người khác thì mình rất nhạy và tự trách. Mình cũng rất nhạy biết được ai kiểm soát và thao túng. Chính vì xu hướng thích nghiên cứu ở trên, nên mình rất thích triết học và tìm hiểu các nguồn gốc tâm lý, bản chất tâm thức của con người, mình tìm hiểu cả tâm lý học Phương Tây lẫn Phật học. Mình cũng từng có ny, nhưng vì da của mình không được đẹp nên hay phủ bởi lớp vỏ bọc trang điểm, vì anh cũng thích có một bạn gái xinh, quen nhau 1 năm nhưng chưa bao giờ anh thấy mình sau những lớp trang điểm ấy, về sau mình cũng dần nhận ra bản chất của tình ái, đặc biệt là anh quá tương phản nên mình quyết định chia tay.&lt;/p&gt; &lt;p&gt;Giai đoạn chuyển biến đến hiện tại: Mình cũng đang có một công việc thiên về tài chính và luật, nhưng mình cũng sắp xin nghỉ đề về quê sống 1 mình.&lt;/p&gt; &lt;p&gt;Lý do cho việc trên là mình đang ở chặn đường đã hiểu được bản chất và sự vận hành của thế giới, sự vận hành trong tâm thức và chìa khoá để đi, nó không còn giống như tư duy của người đời, mục đích mình về là để thực hành Tứ niệm Xứ một cách trọn vẹn. Mình chỉ giống ở người đời ở chỗ là chủng tử gieo trong A lại Da Thức quá nhiều và vẫn đang thao túng mình, khiến cho mình rất đau khổ, nhưng mình rất nhạy biết được nó thao túng mình đến cỡ nào và ít bị đồng hoá với nó như trước.&lt;/p&gt; &lt;p&gt;Ai hiểu mình nói và cùng giai đoạn của mình hoặc ở tầng trí tuệ cao hơn thì chúng ta làm quen nhé&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/No_Boat381"&gt; /u/No_Boat381 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qsstlx/tìm_soulmate/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qsstlx/tìm_soulmate/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qsstlx/tìm_soulmate/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-01T08:19:56+00:00</published>
   </entry>
   <entry>
     <id>t3_1qsudh1</id>
