@@ -2,37 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-02-02T11:24:35+00:00</updated>
+  <updated>2026-02-02T11:55:44+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1qtmqti</id>
-    <title>Vnetraffic xe đã bán vẫn còn tên mk?</title>
-    <updated>2026-02-02T05:47:14+00:00</updated>
-    <author>
-      <name>/u/Bo_274</name>
-      <uri>https://old.reddit.com/user/Bo_274</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các bác cho em hỏi trc có bán con xe máy cho tiệm, họ mua cũng chỉ chụp giấy tờ thôi. Nhưng có vẻ các khách sau mua k sang tên.&lt;/p&gt; &lt;p&gt;Hiện trên app vẫn đang tên em, mới hôm nay đọc lướt qua đc bác nào bảo app có update tính năng gì mà để báo biển đã bán, đại thể là mk hiện đang k sử dụng biển đó.&lt;/p&gt; &lt;p&gt;Mà em vào app tìm k thấy nhỉ? Ai biết k hướng dẫn e với ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Bo_274"&gt; /u/Bo_274 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qtmqti/vnetraffic_xe_đã_bán_vẫn_còn_tên_mk/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qtmqti/vnetraffic_xe_đã_bán_vẫn_còn_tên_mk/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qtmqti/vnetraffic_xe_đã_bán_vẫn_còn_tên_mk/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-02T05:47:14+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1qtnpqz</id>
-    <title>Embedded bosch và hcl</title>
-    <updated>2026-02-02T06:40:25+00:00</updated>
-    <author>
-      <name>/u/Phan_Vi_Hao</name>
-      <uri>https://old.reddit.com/user/Phan_Vi_Hao</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;có bác/anh nào đang làm ở Bosch có thể cho em hỏi tí 2 job ở dept ETA với SX/EIT-MM đang được đăng trên recruit được không ? Em đang làm nhúng 3 năm ở BV, trong đó 1.5 năm onsite Bosch, hiện tại đang onsite RVC. Đang muốn nhảy qua Bosch cho gần nhà và làm lâu dài nhưng thấy ít tuyển quá. Tiện thể nếu có anh nào làm ở HCL thì cho em hỏi với nhờ tí được không ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Phan_Vi_Hao"&gt; /u/Phan_Vi_Hao &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qtnpqz/embedded_bosch_và_hcl/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qtnpqz/embedded_bosch_và_hcl/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qtnpqz/embedded_bosch_và_hcl/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-02T06:40:25+00:00</published>
-  </entry>
   <entry>
     <id>t3_1qtjg1t</id>
     <title>Tự học tiếng Trung.</title>
@@ -125,6 +99,32 @@
     <published>2026-02-02T07:49:29+00:00</published>
   </entry>
   <entry>
+    <id>t3_1qtsoj0</id>
+    <title>Cần người fix Kiotviet sync</title>
+    <updated>2026-02-02T11:35:48+00:00</updated>
+    <author>
+      <name>/u/Dau_gio184</name>
+      <uri>https://old.reddit.com/user/Dau_gio184</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tình hình là mình đang có 1 cái web đồng bộ sản phẩm bằng API của Kiotviet. Nhưng hết 2025, bên Kiot không còn hỗ trợ sử lý các vấn đề bên Kiotviet sync. Mọi người ở đây có ai am hiểu về Plugin Kiotvet sync không? giúp mình sửa lỗi với :( hứa có hậu tạ&lt;/p&gt; &lt;p&gt;&lt;a href="https://preview.redd.it/wm3tdjs9i2hg1.png?width=260&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=b604b9f77474bc9cea42a33f7aecbafb7932daa4"&gt;https://preview.redd.it/wm3tdjs9i2hg1.png?width=260&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=b604b9f77474bc9cea42a33f7aecbafb7932daa4&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Dau_gio184"&gt; /u/Dau_gio184 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qtsoj0/cần_người_fix_kiotviet_sync/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qtsoj0/cần_người_fix_kiotviet_sync/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qtsoj0/cần_người_fix_kiotviet_sync/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-02T11:35:48+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qtsr4x</id>
+    <title>I hope I can let you go, the unsent letter</title>
+    <updated>2026-02-02T11:39:45+00:00</updated>
+    <author>
+      <name>/u/candypop0403</name>
+      <uri>https://old.reddit.com/user/candypop0403</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Gần 1 năm chia tay rồi. Chúng ta đã quen ai thì cũng đã quen rồi, cả 2 đều có những mối quan hệ mới rồi. Vậy cớ sao em vẫn còn ngồi đây chần chừ và ngoảnh đầu lại về phía anh nhiều như thế? Là thói quen ah? Em biết là anh không còn yêu em nữa, và anh nhìn về em bằng nhiều sự thương hại. Và em cũng hiểu là chúng ta không có cửa để quay lại, nếu có thì cũng không nên vì tình cảm nó bay đi nhiều phần rồi. Chả còn gì vẹn nguyên cả.&lt;/p&gt; &lt;p&gt;Từ trước đến nay, em đều mong muốn MH được hạnh phúc, dù có em bên cạnh hay không. Vì em tin anh xứng đáng nhận được những điều đó, bên cạnh toàn bộ sự nỗ lực chăm chỉ, và chân thành tử tế. Và cô gái bây giờ bên cạnh anh chắc chắn là người mà anh đã cân nhắc rất lâu sau 1 thời gian mở cửa lại cho trái tim. I see her kinda have potential. Em cũng đỡ lo lắng rồi. Lo rằng sau này ai sẽ chăm sóc anh khi về già. Điều duy nhất em nghĩ suy khi anh nói lời chia tay em. &lt;/p&gt; &lt;p&gt;Bản thân em cũng chưa biết được nữa. Yup bạn trai mới của em hiện tại cũng khá oke, anh ấy có chí cầu tiến, yêu thương em và vô cùng ngoan ngoãn. Nhưng tình yêu dã man lắm anh ạ, sẽ ra sao nếu đây cũng không phải người cuối của em. Em không chắc mình có thể chịu được thêm 1 cơn đau nữa. &lt;/p&gt; &lt;p&gt;Em thấy đau đớn và tội lỗi cùng 1 lúc. E thực sự cảm thấy tội lỗi khi nhớ về anh, stalk anh và &amp;quot;có vẻ bạn gái mới&amp;quot; của anh khi người bạn trai hiện tại một mực yêu thương em. Và em cũng cảm thấy tội lỗi với cô bạn gái mới của anh nữa. Kiểu em vô tình làm tổn thương và khiến bạn ý hoảng sợ dù chúng mình chia tay đã gần 1 năm. Em tưởng mình đã đi qua cơn thất tình này rồi nên mới dám tiến vào mqh mới. Mà sao tự dưng nó trồi lên. Đồ thị hình sin ah? Đến rồi đi ah? Đi theo chu kỳ ah?&lt;/p&gt; &lt;p&gt;Em biết bản thân mình không tệ. Xinh xắn, có sự cầu tiến, ngoan ngoãn, được yêu thương. Em biết bản thân mình xứng đáng được nhận những điều tốt đẹp thay vì ngồi đây dằn vặt trong 1 mqh không còn tên nữa. 3 năm đúng là dài, và cảm xúc của cả 2 trao nhau là thật. Nhưng năm mới sắp đến rồi, em phải học cách bước tiếp và nhận thức rằng anh giờ chỉ nằm trong quá khứ mà thôi. Hiện tại của em là của em thôi.&lt;/p&gt; &lt;p&gt;Em chúc anh toàn bộ hạnh phúc trên đời này. Và em cũng chúc mình như vậy. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/candypop0403"&gt; /u/candypop0403 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qtsr4x/i_hope_i_can_let_you_go_the_unsent_letter/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qtsr4x/i_hope_i_can_let_you_go_the_unsent_letter/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qtsr4x/i_hope_i_can_let_you_go_the_unsent_letter/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-02T11:39:45+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1qtpgh9</id>
     <title>Chuyển đàn piano điện từ miền Nam ra miền Bắc</title>
     <updated>2026-02-02T08:23:26+00:00</updated>
@@ -177,6 +177,19 @@
     <published>2026-02-02T09:02:26+00:00</published>
   </entry>
   <entry>
+    <id>t3_1qtqide</id>
+    <title>[Showcase/Góp ý] Ra mắt nền tảng chia sẻ hợp âm bài hát HopamInd 🎵🎸</title>
+    <updated>2026-02-02T09:29:39+00:00</updated>
+    <author>
+      <name>/u/gh0ulrz</name>
+      <uri>https://old.reddit.com/user/gh0ulrz</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi mọi người,&lt;/p&gt; &lt;p&gt;Sau một thời gian ấp ủ, mình vừa ra mắt bản MVP cho &lt;strong&gt;HopamInd&lt;/strong&gt; – một nền tảng chia sẻ hợp âm bài hát hướng tới cộng đồng.&lt;/p&gt; &lt;p&gt;Mục đích của mình là tạo ra một không gian mới mẻ, hiện đại, dành cho các bạn chơi nhạc tìm kiếm hợp âm, cùng nhau đóng góp và luyện tập thuận tiện hơn.&lt;/p&gt; &lt;p&gt;📍 Trải nghiệm tại: &lt;a href="https://hopamind.com"&gt;https://hopamind.com&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Dự án vẫn đang trong giai đoạn hoàn thiện và phát triển, bất kỳ câu hỏi, góp ý, báo bugs đều là quý giá. Mình xin cảm ơn rất nhiều. 🙏 🙏&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/gh0ulrz"&gt; /u/gh0ulrz &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qtqide/showcasegóp_ý_ra_mắt_nền_tảng_chia_sẻ_hợp_âm_bài/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qtqide/showcasegóp_ý_ra_mắt_nền_tảng_chia_sẻ_hợp_âm_bài/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qtqide/showcasegóp_ý_ra_mắt_nền_tảng_chia_sẻ_hợp_âm_bài/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-02T09:29:39+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1qtqpkn</id>
     <title>Có bác nào đòi cọc từ BIM Land thành công chưa?</title>
     <updated>2026-02-02T09:42:09+00:00</updated>
@@ -214,19 +227,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qtq1ma/em_cần_tham_khảo_ý_kiến_anh_em_liên_quan_kiếm/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-02-02T09:00:17+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1qtqide</id>
-    <title>[Showcase/Góp ý] Ra mắt nền tảng chia sẻ hợp âm bài hát HopamInd 🎵🎸</title>
-    <updated>2026-02-02T09:29:39+00:00</updated>
-    <author>
-      <name>/u/gh0ulrz</name>
-      <uri>https://old.reddit.com/user/gh0ulrz</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi mọi người,&lt;/p&gt; &lt;p&gt;Sau một thời gian ấp ủ, mình vừa ra mắt bản MVP cho &lt;strong&gt;HopamInd&lt;/strong&gt; – một nền tảng chia sẻ hợp âm bài hát hướng tới cộng đồng.&lt;/p&gt; &lt;p&gt;Mục đích của mình là tạo ra một không gian mới mẻ, hiện đại, dành cho các bạn chơi nhạc tìm kiếm hợp âm, cùng nhau đóng góp và luyện tập thuận tiện hơn.&lt;/p&gt; &lt;p&gt;📍 Trải nghiệm tại: &lt;a href="https://hopamind.com"&gt;https://hopamind.com&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Dự án vẫn đang trong giai đoạn hoàn thiện và phát triển, bất kỳ câu hỏi, góp ý, báo bugs đều là quý giá. Mình xin cảm ơn rất nhiều. 🙏 🙏&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/gh0ulrz"&gt; /u/gh0ulrz &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qtqide/showcasegóp_ý_ra_mắt_nền_tảng_chia_sẻ_hợp_âm_bài/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qtqide/showcasegóp_ý_ra_mắt_nền_tảng_chia_sẻ_hợp_âm_bài/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qtqide/showcasegóp_ý_ra_mắt_nền_tảng_chia_sẻ_hợp_âm_bài/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-02T09:29:39+00:00</published>
   </entry>
   <entry>
     <id>t3_1qt2k4d</id>
