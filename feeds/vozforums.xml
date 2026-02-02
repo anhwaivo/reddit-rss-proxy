@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-02-01T23:47:57+00:00</updated>
+  <updated>2026-02-02T02:05:27+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1qsw5uz</id>
-    <title>Về quê ăn tết thì xe để đâu?</title>
-    <updated>2026-02-01T11:33:32+00:00</updated>
-    <author>
-      <name>/u/Afraid_Ship_5940</name>
-      <uri>https://old.reddit.com/user/Afraid_Ship_5940</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mọi người cho em hỏi, em mới chuyển ra trọ một vài tháng. Và sắp chuẩn bị về quê ăn tết. Em không biết là khi mọi người về quê ăn tét thì có nên để xe máy của mình ở lại phòng không? Hay đi tìm bên nào để gửi xe ạ🚗.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Afraid_Ship_5940"&gt; /u/Afraid_Ship_5940 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qsw5uz/về_quê_ăn_tết_thì_xe_để_đâu/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qsw5uz/về_quê_ăn_tết_thì_xe_để_đâu/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qsw5uz/về_quê_ăn_tết_thì_xe_để_đâu/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-01T11:33:32+00:00</published>
-  </entry>
   <entry>
     <id>t3_1qsz2s4</id>
     <title>Chuyện gia đình</title>
@@ -86,19 +73,6 @@
     <published>2026-02-01T19:36:26+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qsx859</id>
-    <title>Tại sao các anh zai độc thân lâu thế ?</title>
-    <updated>2026-02-01T12:29:36+00:00</updated>
-    <author>
-      <name>/u/Sensitive_Screen9573</name>
-      <uri>https://old.reddit.com/user/Sensitive_Screen9573</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Nhiều khi độc thân tới tận cùng cuộc đời và ra đi cũng ko đến nỗi tệ, kinh tế, xã hội, quá bất ổn để nghĩ tới chuyện tình cảm &lt;/p&gt; &lt;p&gt;&lt;a href="https://www.youtube.com/shorts/n7dsUFN6zT8"&gt;https://www.youtube.com/shorts/n7dsUFN6zT8&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Sensitive_Screen9573"&gt; /u/Sensitive_Screen9573 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qsx859/tại_sao_các_anh_zai_độc_thân_lâu_thế/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qsx859/tại_sao_các_anh_zai_độc_thân_lâu_thế/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qsx859/tại_sao_các_anh_zai_độc_thân_lâu_thế/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-01T12:29:36+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1qt2uxk</id>
     <title>Bằng đại học Thái Nguyên hệ từ xa có đi du học thạc sĩ nước ngoài được không?</title>
     <updated>2026-02-01T16:23:19+00:00</updated>
@@ -136,6 +110,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qsx5ed/thuê_hay_mua_nhà/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-02-01T12:25:34+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qsx859</id>
+    <title>Tại sao các anh zai độc thân lâu thế ?</title>
+    <updated>2026-02-01T12:29:36+00:00</updated>
+    <author>
+      <name>/u/Sensitive_Screen9573</name>
+      <uri>https://old.reddit.com/user/Sensitive_Screen9573</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Nhiều khi độc thân tới tận cùng cuộc đời và ra đi cũng ko đến nỗi tệ, kinh tế, xã hội, quá bất ổn để nghĩ tới chuyện tình cảm &lt;/p&gt; &lt;p&gt;&lt;a href="https://www.youtube.com/shorts/n7dsUFN6zT8"&gt;https://www.youtube.com/shorts/n7dsUFN6zT8&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Sensitive_Screen9573"&gt; /u/Sensitive_Screen9573 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qsx859/tại_sao_các_anh_zai_độc_thân_lâu_thế/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qsx859/tại_sao_các_anh_zai_độc_thân_lâu_thế/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qsx859/tại_sao_các_anh_zai_độc_thân_lâu_thế/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-01T12:29:36+00:00</published>
   </entry>
   <entry>
     <id>t3_1qsyqrh</id>
@@ -177,32 +164,6 @@
     <published>2026-02-01T06:51:04+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qtd95g</id>
-    <title>Latinos in HCMC</title>
-    <updated>2026-02-01T22:40:56+00:00</updated>
-    <author>
-      <name>/u/AutomaticShow341</name>
-      <uri>https://old.reddit.com/user/AutomaticShow341</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;I’m looking to meet other Latinos in HCMC. Are there any groups or communities for Latinos in the city.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/AutomaticShow341"&gt; /u/AutomaticShow341 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qtd95g/latinos_in_hcmc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qtd95g/latinos_in_hcmc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qtd95g/latinos_in_hcmc/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-01T22:40:56+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1qsrtm3</id>
-    <title>Tôi có nên từ bỏ thói quen này khi có người yêu không?</title>
-    <updated>2026-02-01T07:22:45+00:00</updated>
-    <author>
-      <name>/u/ilovepussycatt</name>
-      <uri>https://old.reddit.com/user/ilovepussycatt</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chả là, nơi tôi thực tập có một bạn nữ mà chúng tôi đang crush lẫn nhau, tôi cũng có dự định yêu đương. Vì là chưa có người yêu bao giờ, nên tôi cũng muốn chuẩn bị cho nó chắc. Tuy nhiên tôi lại đang thích những thể loại không lành mạnh lắm (liên quan đến tùng dịch ấy), thêm nữa là tôi cũng chơi cả game (LOL, Tốc chiến,...mà khi chơi là tôi ghét bị làm phiền). Cô ấy là một người nhẹ nhàng và sở thích cũng nhẹ nhàng không kém, không thích ngồi lê đôi mách và thích xem phim âu mỹ (Harry Potter luôn, tôi chưa gặp người con gái nào lại xem Harry Potter luôn ấy, tôi cũng thích xem lắm, coi như là chung sở thích). Nói chung là 10 điểm. Sau này tôi nghĩ lúc yêu thì tôi sẽ phải để cô ấy biết về mọi mặt của tôi, cần dành nhiều thời gian cho cô ấy, và tất nhiên là không muốn tôi xem ảnh của những cô gái khác (tôi nghĩ vậy). Vì thế anh em nào có người yêu và có sở thích giống tôi, có thể chia sẻ thêm để tôi có thêm kinh nghiệm không? Tôi rất tiếc nếu cơ hội lỡ mất vì sở thích không lành mạnh của tôi.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ilovepussycatt"&gt; /u/ilovepussycatt &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qsrtm3/tôi_có_nên_từ_bỏ_thói_quen_này_khi_có_người_yêu/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qsrtm3/tôi_có_nên_từ_bỏ_thói_quen_này_khi_có_người_yêu/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qsrtm3/tôi_có_nên_từ_bỏ_thói_quen_này_khi_có_người_yêu/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-01T07:22:45+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1qt1ti8</id>
     <title>Bằng khá ngành IT trường trung có ổn không nhỉ?</title>
     <updated>2026-02-01T15:44:29+00:00</updated>
@@ -227,6 +188,32 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qt01jr/tìm_nhà_nhập_khẩu_ớt/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-02-01T14:35:47+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qsrtm3</id>
+    <title>Tôi có nên từ bỏ thói quen này khi có người yêu không?</title>
+    <updated>2026-02-01T07:22:45+00:00</updated>
+    <author>
+      <name>/u/ilovepussycatt</name>
+      <uri>https://old.reddit.com/user/ilovepussycatt</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chả là, nơi tôi thực tập có một bạn nữ mà chúng tôi đang crush lẫn nhau, tôi cũng có dự định yêu đương. Vì là chưa có người yêu bao giờ, nên tôi cũng muốn chuẩn bị cho nó chắc. Tuy nhiên tôi lại đang thích những thể loại không lành mạnh lắm (liên quan đến tùng dịch ấy), thêm nữa là tôi cũng chơi cả game (LOL, Tốc chiến,...mà khi chơi là tôi ghét bị làm phiền). Cô ấy là một người nhẹ nhàng và sở thích cũng nhẹ nhàng không kém, không thích ngồi lê đôi mách và thích xem phim âu mỹ (Harry Potter luôn, tôi chưa gặp người con gái nào lại xem Harry Potter luôn ấy, tôi cũng thích xem lắm, coi như là chung sở thích). Nói chung là 10 điểm. Sau này tôi nghĩ lúc yêu thì tôi sẽ phải để cô ấy biết về mọi mặt của tôi, cần dành nhiều thời gian cho cô ấy, và tất nhiên là không muốn tôi xem ảnh của những cô gái khác (tôi nghĩ vậy). Vì thế anh em nào có người yêu và có sở thích giống tôi, có thể chia sẻ thêm để tôi có thêm kinh nghiệm không? Tôi rất tiếc nếu cơ hội lỡ mất vì sở thích không lành mạnh của tôi.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ilovepussycatt"&gt; /u/ilovepussycatt &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qsrtm3/tôi_có_nên_từ_bỏ_thói_quen_này_khi_có_người_yêu/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qsrtm3/tôi_có_nên_từ_bỏ_thói_quen_này_khi_có_người_yêu/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qsrtm3/tôi_có_nên_từ_bỏ_thói_quen_này_khi_có_người_yêu/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-01T07:22:45+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qth24d</id>
+    <title>vì sao gọi anh hai chị hai khởi đầu, anh nhất chị một đâu?</title>
+    <updated>2026-02-02T01:20:08+00:00</updated>
+    <author>
+      <name>/u/No_Adagio7736</name>
+      <uri>https://old.reddit.com/user/No_Adagio7736</uri>
+    </author>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/No_Adagio7736"&gt; /u/No_Adagio7736 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qth24d/vì_sao_gọi_anh_hai_chị_hai_khởi_đầu_anh_nhất_chị/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qth24d/vì_sao_gọi_anh_hai_chị_hai_khởi_đầu_anh_nhất_chị/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qth24d/vì_sao_gọi_anh_hai_chị_hai_khởi_đầu_anh_nhất_chị/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-02T01:20:08+00:00</published>
   </entry>
   <entry>
     <id>t3_1qsstlx</id>
@@ -255,6 +242,19 @@
     <published>2026-02-01T09:51:34+00:00</published>
   </entry>
   <entry>
+    <id>t3_1qtd95g</id>
+    <title>Latinos in HCMC</title>
+    <updated>2026-02-01T22:40:56+00:00</updated>
+    <author>
+      <name>/u/AutomaticShow341</name>
+      <uri>https://old.reddit.com/user/AutomaticShow341</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;I’m looking to meet other Latinos in HCMC. Are there any groups or communities for Latinos in the city.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/AutomaticShow341"&gt; /u/AutomaticShow341 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qtd95g/latinos_in_hcmc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qtd95g/latinos_in_hcmc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qtd95g/latinos_in_hcmc/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-01T22:40:56+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1qsmbkc</id>
     <title>Bạn có đồng ý với lời khuyên của chủ tịch chứng khoán SSI không?</title>
     <updated>2026-02-01T02:44:35+00:00</updated>
@@ -268,19 +268,6 @@
     <published>2026-02-01T02:44:35+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qtat28</id>
-    <title>Mấy ông nghĩ sao về vấn đề chụp ảnh xấu liệu mqh tôi với crush còn cứu vãn được không ?</title>
-    <updated>2026-02-01T21:07:17+00:00</updated>
-    <author>
-      <name>/u/Ding_Dong_125</name>
-      <uri>https://old.reddit.com/user/Ding_Dong_125</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là vào chủ nhật tuần trước cách đây 8 ngày, tôi và cô ấy có hẹn đi chụp hình, do không gian quán nên có phần làm cho cô ấy khó chịu, phải đợi lâu mới tới lượt chụp, khi tới lượt chụp tôi chụp nhưng cô ấy không ưng cô ấy tỏ vẻ rất khó chịu. Cô ấy nói “ nếu lần tới chụp không đàng hoàng thì sẽ hủy chuyến du lịch” và thế là các ông biết r đó, chuyến du lịch đã bị hủy mặc dù tôi đã cố gắng hết sức. Cô ấy rất tức giận và bỏ đi về. Từ đó tới đây cô ấy không nhắn dù chỉ một câu mặc dù tôi đã chủ động nhắn trước ( thông tin mật: cô ấy đã lên plan để đi cùng anh họ cho chuyến du lịch mà bọn tôi đã huỷ). Các ông có lời khuyên nào cho tôi trường hợp này không?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ding_Dong_125"&gt; /u/Ding_Dong_125 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qtat28/mấy_ông_nghĩ_sao_về_vấn_đề_chụp_ảnh_xấu_liệu_mqh/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qtat28/mấy_ông_nghĩ_sao_về_vấn_đề_chụp_ảnh_xấu_liệu_mqh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qtat28/mấy_ông_nghĩ_sao_về_vấn_đề_chụp_ảnh_xấu_liệu_mqh/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-01T21:07:17+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1qsv4bo</id>
     <title>nếu bắt buộc hoán đổi chiều cao và phía dưới ae sẽ chọn gì</title>
     <updated>2026-02-01T10:33:50+00:00</updated>
@@ -292,6 +279,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qsv4bo/nếu_bắt_buộc_hoán_đổi_chiều_cao_và_phía_dưới_ae/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-02-01T10:33:50+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qtat28</id>
+    <title>Mấy ông nghĩ sao về vấn đề chụp ảnh xấu liệu mqh tôi với crush còn cứu vãn được không ?</title>
+    <updated>2026-02-01T21:07:17+00:00</updated>
+    <author>
+      <name>/u/Ding_Dong_125</name>
+      <uri>https://old.reddit.com/user/Ding_Dong_125</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là vào chủ nhật tuần trước cách đây 8 ngày, tôi và cô ấy có hẹn đi chụp hình, do không gian quán nên có phần làm cho cô ấy khó chịu, phải đợi lâu mới tới lượt chụp, khi tới lượt chụp tôi chụp nhưng cô ấy không ưng cô ấy tỏ vẻ rất khó chịu. Cô ấy nói “ nếu lần tới chụp không đàng hoàng thì sẽ hủy chuyến du lịch” và thế là các ông biết r đó, chuyến du lịch đã bị hủy mặc dù tôi đã cố gắng hết sức. Cô ấy rất tức giận và bỏ đi về. Từ đó tới đây cô ấy không nhắn dù chỉ một câu mặc dù tôi đã chủ động nhắn trước ( thông tin mật: cô ấy đã lên plan để đi cùng anh họ cho chuyến du lịch mà bọn tôi đã huỷ). Các ông có lời khuyên nào cho tôi trường hợp này không?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ding_Dong_125"&gt; /u/Ding_Dong_125 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qtat28/mấy_ông_nghĩ_sao_về_vấn_đề_chụp_ảnh_xấu_liệu_mqh/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qtat28/mấy_ông_nghĩ_sao_về_vấn_đề_chụp_ảnh_xấu_liệu_mqh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qtat28/mấy_ông_nghĩ_sao_về_vấn_đề_chụp_ảnh_xấu_liệu_mqh/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-01T21:07:17+00:00</published>
   </entry>
   <entry>
     <id>t3_1qt49xz</id>
