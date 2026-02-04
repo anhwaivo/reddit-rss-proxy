@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-02-04T19:24:46+00:00</updated>
+  <updated>2026-02-04T19:57:09+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1qvtc6z</id>
-    <title>Quà valentine</title>
-    <updated>2026-02-04T16:34:17+00:00</updated>
-    <author>
-      <name>/u/Awkward-Advantage929</name>
-      <uri>https://old.reddit.com/user/Awkward-Advantage929</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Sắp đến valentine rùi tui muốn tặng bạn tui 1 món quà nhỏ mà không biết nên tặng gì nên mong có ae nào gợi ý quà. Ngân sách tui khoảng 100k &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Awkward-Advantage929"&gt; /u/Awkward-Advantage929 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qvtc6z/quà_valentine/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qvtc6z/quà_valentine/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qvtc6z/quà_valentine/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-04T16:34:17+00:00</published>
-  </entry>
   <entry>
     <id>t3_1qvvqsi</id>
     <title>sợ hãi</title>
@@ -123,6 +110,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qvscnz/ca_này_còn_cải_tạo_được_không/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-02-04T15:58:48+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qvyyc4</id>
+    <title>Làm sao tìm được việc ngành tài chính</title>
+    <updated>2026-02-04T19:53:36+00:00</updated>
+    <author>
+      <name>/u/dannguyen162</name>
+      <uri>https://old.reddit.com/user/dannguyen162</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Làm sao để tìm được việc trong lĩnh vực tài chính vậy ạ, hầu hết các công việc em tìm trên linkedin hay Vietnamworks đều yêu cầu kinh nghiệm dù là entry level.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/dannguyen162"&gt; /u/dannguyen162 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qvyyc4/làm_sao_tìm_được_việc_ngành_tài_chính/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qvyyc4/làm_sao_tìm_được_việc_ngành_tài_chính/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qvyyc4/làm_sao_tìm_được_việc_ngành_tài_chính/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-04T19:53:36+00:00</published>
   </entry>
   <entry>
     <id>t3_1qvnk3n</id>
@@ -294,19 +294,6 @@
     <published>2026-02-04T09:14:30+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qvstnc</id>
-    <title>Tâm sự một chút về gia đình</title>
-    <updated>2026-02-04T16:15:45+00:00</updated>
-    <author>
-      <name>/u/Large-Caregiver-232</name>
-      <uri>https://old.reddit.com/user/Large-Caregiver-232</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em chào mọi người, chả là em năm nay 22 tuổi đang cảm thấy mình bị stress kéo dài.&lt;/p&gt; &lt;p&gt;Lý do là vì trong gia đình em có người bố làm em cảm thấy rất tự ti. Bố em say rượu là thành người tốt với người lạ mà tệ bạc với người nhà. Mỗi khi về với tới nhà với tình trạng say xỉn, ông ấy chửi rủa mấy người coi thường ông ấy và mắng chửi không có lý lẽ với các thành viên trong gia đình. Sau khi tỉnh lại thì ông ấy sẽ nhận thức được nhưng sẽ không xin lỗi. Ông ấy còn hay có những lời ve vãn với những người phụ nữ khác và cũng từng bị bắt ngoại tình bởi chính mẹ em.&lt;/p&gt; &lt;p&gt;Mẹ em thì muốn giữ mái ấm gia đình mà chịu đựng nhiều năm rồi thành ra mỗi khi em khuyên bố mẹ không ở được với nhau thì ở riêng đi mà hai người không chịu. Bố em thì không muốn ký đơn ly hôn, mẹ em không muốn các con phải chịu điều tiếng.&lt;/p&gt; &lt;p&gt;Chính vì điều này đã xảy ra được 20 năm mà giờ đây tuy em đã sắp ra trường nhưng thực sự em rất ngại khi nói chuyện với mọi người. Em có 2 người em trai và các em ấy cũng chịu ảnh hưởng tiêu cực từ đó mà bây giờ một đứa thì quậy phá nếu tự ái, một đứa thì sắp tốt nghiệp THPT mà không ai chơi cùng trong lớp. Em cũng thương mẹ và các em lắm nên mỗi khi gặp tình trạng này thì em phải cố đè nén cảm xúc tiêu cực xuống để an ủi họ.&lt;/p&gt; &lt;p&gt;Em không muốn đổ lỗi cho ai cả vì không giải quyết được vấn đề gì và cũng đã thử nói chuyện với bố để có thể chia sẻ cảm xúc nhưng ông ấy vờ như không quan tâm. Em muốn trốn chạy mà nghĩ tới mẹ và các em ở lại thì lại không dám. Em cũng không dám chia sẻ cho bạn bè về hoàn cảnh của mình. Có lẽ nếu cứ bế tắc thế này thì em sẽ không chịu được mà nghĩ quẩn.&lt;/p&gt; &lt;p&gt;Bài tâm sự dài quá. Em cảm ơn mọi người đã đọc bài này ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Large-Caregiver-232"&gt; /u/Large-Caregiver-232 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qvstnc/tâm_sự_một_chút_về_gia_đình/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qvstnc/tâm_sự_một_chút_về_gia_đình/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qvstnc/tâm_sự_một_chút_về_gia_đình/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-04T16:15:45+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1qvm0e7</id>
     <title>Sinh viên IT mới ra trường 4 tháng vỡ mộng thực tế</title>
     <updated>2026-02-04T11:23:59+00:00</updated>
@@ -318,6 +305,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qvm0e7/sinh_viên_it_mới_ra_trường_4_tháng_vỡ_mộng_thực_tế/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-02-04T11:23:59+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qvstnc</id>
+    <title>Tâm sự một chút về gia đình</title>
+    <updated>2026-02-04T16:15:45+00:00</updated>
+    <author>
+      <name>/u/Large-Caregiver-232</name>
+      <uri>https://old.reddit.com/user/Large-Caregiver-232</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em chào mọi người, chả là em năm nay 22 tuổi đang cảm thấy mình bị stress kéo dài.&lt;/p&gt; &lt;p&gt;Lý do là vì trong gia đình em có người bố làm em cảm thấy rất tự ti. Bố em say rượu là thành người tốt với người lạ mà tệ bạc với người nhà. Mỗi khi về với tới nhà với tình trạng say xỉn, ông ấy chửi rủa mấy người coi thường ông ấy và mắng chửi không có lý lẽ với các thành viên trong gia đình. Sau khi tỉnh lại thì ông ấy sẽ nhận thức được nhưng sẽ không xin lỗi. Ông ấy còn hay có những lời ve vãn với những người phụ nữ khác và cũng từng bị bắt ngoại tình bởi chính mẹ em.&lt;/p&gt; &lt;p&gt;Mẹ em thì muốn giữ mái ấm gia đình mà chịu đựng nhiều năm rồi thành ra mỗi khi em khuyên bố mẹ không ở được với nhau thì ở riêng đi mà hai người không chịu. Bố em thì không muốn ký đơn ly hôn, mẹ em không muốn các con phải chịu điều tiếng.&lt;/p&gt; &lt;p&gt;Chính vì điều này đã xảy ra được 20 năm mà giờ đây tuy em đã sắp ra trường nhưng thực sự em rất ngại khi nói chuyện với mọi người. Em có 2 người em trai và các em ấy cũng chịu ảnh hưởng tiêu cực từ đó mà bây giờ một đứa thì quậy phá nếu tự ái, một đứa thì sắp tốt nghiệp THPT mà không ai chơi cùng trong lớp. Em cũng thương mẹ và các em lắm nên mỗi khi gặp tình trạng này thì em phải cố đè nén cảm xúc tiêu cực xuống để an ủi họ.&lt;/p&gt; &lt;p&gt;Em không muốn đổ lỗi cho ai cả vì không giải quyết được vấn đề gì và cũng đã thử nói chuyện với bố để có thể chia sẻ cảm xúc nhưng ông ấy vờ như không quan tâm. Em muốn trốn chạy mà nghĩ tới mẹ và các em ở lại thì lại không dám. Em cũng không dám chia sẻ cho bạn bè về hoàn cảnh của mình. Có lẽ nếu cứ bế tắc thế này thì em sẽ không chịu được mà nghĩ quẩn.&lt;/p&gt; &lt;p&gt;Bài tâm sự dài quá. Em cảm ơn mọi người đã đọc bài này ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Large-Caregiver-232"&gt; /u/Large-Caregiver-232 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qvstnc/tâm_sự_một_chút_về_gia_đình/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qvstnc/tâm_sự_một_chút_về_gia_đình/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qvstnc/tâm_sự_một_chút_về_gia_đình/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-04T16:15:45+00:00</published>
   </entry>
   <entry>
     <id>t3_1qvfdgo</id>
