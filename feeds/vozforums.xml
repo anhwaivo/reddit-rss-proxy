@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-02-05T20:02:36+00:00</updated>
+  <updated>2026-02-05T20:50:25+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -32,19 +32,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qwoksq/phạt_nguội_xe_máy/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-02-05T15:40:16+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1qwon9d</id>
-    <title>Xin mọi người giúp tìm app</title>
-    <updated>2026-02-05T15:42:53+00:00</updated>
-    <author>
-      <name>/u/Ornery-Estimate6776</name>
-      <uri>https://old.reddit.com/user/Ornery-Estimate6776</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Xin chào mọi người ạ. Dạo gần đây tai em bắt đầu bị điếc dần dần, không biết anh chị nào có biết app nào chuyển voice-text không ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ornery-Estimate6776"&gt; /u/Ornery-Estimate6776 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qwon9d/xin_mọi_người_giúp_tìm_app/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qwon9d/xin_mọi_người_giúp_tìm_app/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qwon9d/xin_mọi_người_giúp_tìm_app/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-05T15:42:53+00:00</published>
   </entry>
   <entry>
     <id>t3_1qwg4o1</id>
@@ -136,6 +123,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qwgeqr/xin_lời_khuyên/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-02-05T09:04:06+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qwon9d</id>
+    <title>Xin mọi người giúp tìm app</title>
+    <updated>2026-02-05T15:42:53+00:00</updated>
+    <author>
+      <name>/u/Ornery-Estimate6776</name>
+      <uri>https://old.reddit.com/user/Ornery-Estimate6776</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Xin chào mọi người ạ. Dạo gần đây tai em bắt đầu bị điếc dần dần, không biết anh chị nào có biết app nào chuyển voice-text không ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ornery-Estimate6776"&gt; /u/Ornery-Estimate6776 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qwon9d/xin_mọi_người_giúp_tìm_app/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qwon9d/xin_mọi_người_giúp_tìm_app/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qwon9d/xin_mọi_người_giúp_tìm_app/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-05T15:42:53+00:00</published>
   </entry>
   <entry>
     <id>t3_1qwpf24</id>
