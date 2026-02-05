@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-02-05T21:53:46+00:00</updated>
+  <updated>2026-02-05T22:25:50+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -255,32 +255,6 @@
     <published>2026-02-05T03:31:12+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qwphla</id>
-    <title>V/v về mức lương ngành dev năm 2026</title>
-    <updated>2026-02-05T16:13:14+00:00</updated>
-    <author>
-      <name>/u/Ill_Theory926</name>
-      <uri>https://old.reddit.com/user/Ill_Theory926</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi các bác, cho em hỏi tình hình kinh tế năm nay của các công ty IT ở HCM, với số năm kinh nghiệm khoảnh 3.5 đến 4 làm Java BE như em thì nếu nhảy việc nên deal mức bao nhiêu là hợp lý vậy các bác, kiểu mức sàn và mức trần, tks các bác.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ill_Theory926"&gt; /u/Ill_Theory926 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/zo1vc4fkaphg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qwphla/vv_về_mức_lương_ngành_dev_năm_2026/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qwphla/vv_về_mức_lương_ngành_dev_năm_2026/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-05T16:13:14+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1qwucde</id>
-    <title>Không muốn về quê ăn tết.</title>
-    <updated>2026-02-05T19:06:49+00:00</updated>
-    <author>
-      <name>/u/Real_Ad8922</name>
-      <uri>https://old.reddit.com/user/Real_Ad8922</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Một năm thất bại với lại tháng rồi ông anh hai với bố ở nhà cứ đòi mình đứng ra vay nợ, ông anh hai đang cần tiền xoay cho công ty ông ấy còn về bố thì mình có hỏi lý do tại sao thì cũng không được nhận câu trả lời cứ bảo là cứ vay, nên mình cũng không muốn về ăn tết tí nào. Mẹ cứ hỏi chừng nào về quê ,mình nói cũng chưa biết. Mình cũng còn độc thân nên tết này không biết sao, có ai không muốn về quê ăn tết như mình không. Chứ năm mới tết đến mà cứ mệt mõi thật sự. Tiện đây ở HCM mọi người có job nào làm thời vụ tết từ bây giờ không mình xin tí thông tin với định ở lại kiếm job thời vụ làm cho quên mấy ngày tết. Chứ mình có lên mấy web tìm việc thời vụ mà giống như lừa đảo vậy.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Real_Ad8922"&gt; /u/Real_Ad8922 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qwucde/không_muôn_vê_quê_ăn_têt/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qwucde/không_muôn_vê_quê_ăn_têt/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qwucde/không_muôn_vê_quê_ăn_têt/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-05T19:06:49+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1qwv6d1</id>
     <title>Rủ bạn chơi cùng</title>
     <updated>2026-02-05T19:36:26+00:00</updated>
@@ -294,6 +268,19 @@
     <published>2026-02-05T19:36:26+00:00</published>
   </entry>
   <entry>
+    <id>t3_1qwphla</id>
+    <title>V/v về mức lương ngành dev năm 2026</title>
+    <updated>2026-02-05T16:13:14+00:00</updated>
+    <author>
+      <name>/u/Ill_Theory926</name>
+      <uri>https://old.reddit.com/user/Ill_Theory926</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi các bác, cho em hỏi tình hình kinh tế năm nay của các công ty IT ở HCM, với số năm kinh nghiệm khoảnh 3.5 đến 4 làm Java BE như em thì nếu nhảy việc nên deal mức bao nhiêu là hợp lý vậy các bác, kiểu mức sàn và mức trần, tks các bác.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ill_Theory926"&gt; /u/Ill_Theory926 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/zo1vc4fkaphg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qwphla/vv_về_mức_lương_ngành_dev_năm_2026/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qwphla/vv_về_mức_lương_ngành_dev_năm_2026/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-05T16:13:14+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1qwrnue</id>
     <title>Bác sĩ tâm lý ở Sài Gòn</title>
     <updated>2026-02-05T17:31:57+00:00</updated>
@@ -305,6 +292,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qwrnue/bác_sĩ_tâm_lý_ở_sài_gòn/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-02-05T17:31:57+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qwucde</id>
+    <title>Không muốn về quê ăn tết.</title>
+    <updated>2026-02-05T19:06:49+00:00</updated>
+    <author>
+      <name>/u/Real_Ad8922</name>
+      <uri>https://old.reddit.com/user/Real_Ad8922</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Một năm thất bại với lại tháng rồi ông anh hai với bố ở nhà cứ đòi mình đứng ra vay nợ, ông anh hai đang cần tiền xoay cho công ty ông ấy còn về bố thì mình có hỏi lý do tại sao thì cũng không được nhận câu trả lời cứ bảo là cứ vay, nên mình cũng không muốn về ăn tết tí nào. Mẹ cứ hỏi chừng nào về quê ,mình nói cũng chưa biết. Mình cũng còn độc thân nên tết này không biết sao, có ai không muốn về quê ăn tết như mình không. Chứ năm mới tết đến mà cứ mệt mõi thật sự. Tiện đây ở HCM mọi người có job nào làm thời vụ tết từ bây giờ không mình xin tí thông tin với định ở lại kiếm job thời vụ làm cho quên mấy ngày tết. Chứ mình có lên mấy web tìm việc thời vụ mà giống như lừa đảo vậy.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Real_Ad8922"&gt; /u/Real_Ad8922 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qwucde/không_muôn_vê_quê_ăn_têt/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qwucde/không_muôn_vê_quê_ăn_têt/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qwucde/không_muôn_vê_quê_ăn_têt/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-05T19:06:49+00:00</published>
   </entry>
   <entry>
     <id>t3_1qwghr2</id>
