@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-02-05T23:22:57+00:00</updated>
+  <updated>2026-02-05T23:48:55+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1qwgq1l</id>
-    <title>Công việc</title>
-    <updated>2026-02-05T09:24:13+00:00</updated>
-    <author>
-      <name>/u/Used_Reality_8637</name>
-      <uri>https://old.reddit.com/user/Used_Reality_8637</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mn em nam 29t công việc bấp bênh , bằng cấp không có , mn ai có việc làm có thể giúp em dc k ạ , 🥹&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Used_Reality_8637"&gt; /u/Used_Reality_8637 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qwgq1l/công_việc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qwgq1l/công_việc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qwgq1l/công_việc/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-05T09:24:13+00:00</published>
-  </entry>
   <entry>
     <id>t3_1qwoksq</id>
     <title>Phạt nguội xe máy</title>
@@ -60,19 +47,6 @@
     <published>2026-02-05T10:44:39+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qwg4o1</id>
-    <title>help</title>
-    <updated>2026-02-05T08:46:36+00:00</updated>
-    <author>
-      <name>/u/ngocnhat92</name>
-      <uri>https://old.reddit.com/user/ngocnhat92</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1qwg4o1/help/"&gt; &lt;img alt="help" src="https://preview.redd.it/2shfiuci2nhg1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=2d8a2c58c141ca0fd1b9a871a4b96e9c4db1f7dc" title="help" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;tình hình tk fb e bị như vầy? Bác nào bị rồi chỉ e cách mở lại tài khoản bị vhh vv với. Nhờ dịch vụ giá toàn 10-25m, khả năng tài chính e thì ko đáp ứng được. Xin cảm ơn&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ngocnhat92"&gt; /u/ngocnhat92 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/2shfiuci2nhg1.png"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qwg4o1/help/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qwg4o1/help/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-05T08:46:36+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1qwm8br</id>
     <title>Series những ngày đi học</title>
     <updated>2026-02-05T14:07:51+00:00</updated>
@@ -97,6 +71,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qwjomg/miễn_100_thuế_đối_với_thu_nhập_từ_việc_bán_chứng/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-02-05T12:14:03+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qwg4o1</id>
+    <title>help</title>
+    <updated>2026-02-05T08:46:36+00:00</updated>
+    <author>
+      <name>/u/ngocnhat92</name>
+      <uri>https://old.reddit.com/user/ngocnhat92</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1qwg4o1/help/"&gt; &lt;img alt="help" src="https://preview.redd.it/2shfiuci2nhg1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=2d8a2c58c141ca0fd1b9a871a4b96e9c4db1f7dc" title="help" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;tình hình tk fb e bị như vầy? Bác nào bị rồi chỉ e cách mở lại tài khoản bị vhh vv với. Nhờ dịch vụ giá toàn 10-25m, khả năng tài chính e thì ko đáp ứng được. Xin cảm ơn&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ngocnhat92"&gt; /u/ngocnhat92 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/2shfiuci2nhg1.png"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qwg4o1/help/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qwg4o1/help/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-05T08:46:36+00:00</published>
   </entry>
   <entry>
     <id>t3_1qwgeqr</id>
@@ -242,6 +229,19 @@
     <published>2026-02-05T17:33:14+00:00</published>
   </entry>
   <entry>
+    <id>t3_1qx1k51</id>
+    <title>Ghim trò chuyện zalo</title>
+    <updated>2026-02-05T23:39:37+00:00</updated>
+    <author>
+      <name>/u/lam_vu</name>
+      <uri>https://old.reddit.com/user/lam_vu</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, hiện tại khi ghim trò chuyện thì cái nào ghim mới nhất nó nhảy lên đầu, mà không có mục sắp sếp theo thứ tự mình mong muốn nhỉ, nhiều cái bất tiện thật, mấy cái cơ bản này mà zalo chán thật &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/lam_vu"&gt; /u/lam_vu &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qx1k51/ghim_trò_chuyện_zalo/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qx1k51/ghim_trò_chuyện_zalo/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qx1k51/ghim_trò_chuyện_zalo/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-05T23:39:37+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1qwaa7o</id>
     <title>Xem phim lậu ở đâu?</title>
     <updated>2026-02-05T03:31:12+00:00</updated>
@@ -294,19 +294,6 @@
     <published>2026-02-05T17:31:57+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qwucde</id>
-    <title>Không muốn về quê ăn tết.</title>
-    <updated>2026-02-05T19:06:49+00:00</updated>
-    <author>
-      <name>/u/Real_Ad8922</name>
-      <uri>https://old.reddit.com/user/Real_Ad8922</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Một năm thất bại với lại tháng rồi ông anh hai với bố ở nhà cứ đòi mình đứng ra vay nợ, ông anh hai đang cần tiền xoay cho công ty ông ấy còn về bố thì mình có hỏi lý do tại sao thì cũng không được nhận câu trả lời cứ bảo là cứ vay, nên mình cũng không muốn về ăn tết tí nào. Mẹ cứ hỏi chừng nào về quê ,mình nói cũng chưa biết. Mình cũng còn độc thân nên tết này không biết sao, có ai không muốn về quê ăn tết như mình không. Chứ năm mới tết đến mà cứ mệt mõi thật sự. Tiện đây ở HCM mọi người có job nào làm thời vụ tết từ bây giờ không mình xin tí thông tin với định ở lại kiếm job thời vụ làm cho quên mấy ngày tết. Chứ mình có lên mấy web tìm việc thời vụ mà giống như lừa đảo vậy.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Real_Ad8922"&gt; /u/Real_Ad8922 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qwucde/không_muôn_vê_quê_ăn_têt/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qwucde/không_muôn_vê_quê_ăn_têt/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qwucde/không_muôn_vê_quê_ăn_têt/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-05T19:06:49+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1qwghr2</id>
     <title>Có nên đâm đầu vào cưới người đã có con riêng.</title>
     <updated>2026-02-05T09:09:32+00:00</updated>
@@ -318,6 +305,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qwghr2/có_nên_đâm_đầu_vào_cưới_người_đã_có_con_riêng/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-02-05T09:09:32+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qwucde</id>
+    <title>Không muốn về quê ăn tết.</title>
+    <updated>2026-02-05T19:06:49+00:00</updated>
+    <author>
+      <name>/u/Real_Ad8922</name>
+      <uri>https://old.reddit.com/user/Real_Ad8922</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Một năm thất bại với lại tháng rồi ông anh hai với bố ở nhà cứ đòi mình đứng ra vay nợ, ông anh hai đang cần tiền xoay cho công ty ông ấy còn về bố thì mình có hỏi lý do tại sao thì cũng không được nhận câu trả lời cứ bảo là cứ vay, nên mình cũng không muốn về ăn tết tí nào. Mẹ cứ hỏi chừng nào về quê ,mình nói cũng chưa biết. Mình cũng còn độc thân nên tết này không biết sao, có ai không muốn về quê ăn tết như mình không. Chứ năm mới tết đến mà cứ mệt mõi thật sự. Tiện đây ở HCM mọi người có job nào làm thời vụ tết từ bây giờ không mình xin tí thông tin với định ở lại kiếm job thời vụ làm cho quên mấy ngày tết. Chứ mình có lên mấy web tìm việc thời vụ mà giống như lừa đảo vậy.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Real_Ad8922"&gt; /u/Real_Ad8922 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qwucde/không_muôn_vê_quê_ăn_têt/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qwucde/không_muôn_vê_quê_ăn_têt/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qwucde/không_muôn_vê_quê_ăn_têt/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-05T19:06:49+00:00</published>
   </entry>
   <entry>
     <id>t3_1qwcmtq</id>
