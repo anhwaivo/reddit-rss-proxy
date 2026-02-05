@@ -2,37 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-02-05T16:55:36+00:00</updated>
+  <updated>2026-02-05T17:47:03+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1qwmamm</id>
-    <title>Du học Nhật</title>
-    <updated>2026-02-05T14:10:36+00:00</updated>
-    <author>
-      <name>/u/Glass_Cattle8443</name>
-      <uri>https://old.reddit.com/user/Glass_Cattle8443</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Dạ mn cho e hỏi, hiện tại e đang hc l11 (kbt tiếng anh và nhật) e có dự định đi du học nhật thì nên bắt đầu hc từ đâu và chuẩn bị những gì ạ, với e có mong muốn hc cntt thì vào đh tokyo, osaka thì có khả năng vào đc không ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Glass_Cattle8443"&gt; /u/Glass_Cattle8443 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qwmamm/du_học_nhật/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qwmamm/du_học_nhật/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qwmamm/du_học_nhật/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-05T14:10:36+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1qwfs6q</id>
-    <title>[Khoe/Chia sẻ] Tự viết tool cài Windows tự động cho xưởng máy tính, vượt qua lỗi Driver trên chip Intel đời mới (Core Ultra/Lunar Lake)</title>
-    <updated>2026-02-05T08:24:41+00:00</updated>
-    <author>
-      <name>/u/TekDT</name>
-      <uri>https://old.reddit.com/user/TekDT</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào anh em VOZ,&lt;/p&gt; &lt;p&gt;Mình là dev của bộ công cụ &lt;strong&gt;TekDT BMC Pro&lt;/strong&gt;. Chuyện là dạo này mình thấy anh em kỹ thuật và các shop gặp cực nhiều khó khăn khi cài Windows cho các dòng laptop đời mới (Gen 12, 13, 14 và đặc biệt là Core Ultra - Lunar Lake) vì nó kén Driver VMD/Storage, dễ bị xanh màn hoặc không nhận ổ cứng.&lt;/p&gt; &lt;p&gt;Sau một thời gian &amp;quot;cày cuốc&amp;quot;, mình có viết được một cái tool chạy PXE Boot (cài qua mạng LAN) với cơ chế tự động nạp Driver vào ISO sạch ngay lúc cài.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Điểm mạnh của tool này:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Không cần nạp Driver thủ công vào file ISO.&lt;/li&gt; &lt;li&gt;Tự động xếp hạng và chọn Driver chuẩn nhất cho máy khách.&lt;/li&gt; &lt;li&gt;Đã test thành công trên con chip mới nhất &lt;strong&gt;Intel Core Ultra 5 226V&lt;/strong&gt;.&lt;/li&gt; &lt;li&gt;Tiết kiệm thời gian, nhiều máy khách cùng kết nối.&lt;/li&gt; &lt;li&gt;Tự động toàn bộ quy trình cài đặt, tương tác tối thiểu.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Mình có quay lại clip thực tế cài trên máy thật cho anh em xem thử (không cắt ghép):&lt;a href="https://youtu.be/yq_exc46KiM"&gt;https://youtu.be/yq_exc46KiM&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Hiện tại mình đang muốn tối ưu thêm logic nhận diện driver, anh em nào làm kỹ thuật hoặc hay vọc vạch máy móc vào &amp;quot;soi&amp;quot; giúp mình xem quy trình này có chỗ nào chưa ổn không? Hoặc anh em có cao kiến gì để cải thiện tốc độ nạp driver thì chia sẻ mình với.&lt;/p&gt; &lt;p&gt;Link web cho anh em ngó qua: &lt;a href="http://tekdt.xyz"&gt;tekdt.xyz&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Cảm ơn anh em đã xem tin!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/TekDT"&gt; /u/TekDT &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qwfs6q/khoechia_sẻ_tự_viết_tool_cài_windows_tự_động_cho/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qwfs6q/khoechia_sẻ_tự_viết_tool_cài_windows_tự_động_cho/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qwfs6q/khoechia_sẻ_tự_viết_tool_cài_windows_tự_động_cho/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-05T08:24:41+00:00</published>
-  </entry>
   <entry>
     <id>t3_1qwi1sm</id>
     <title>xin địa chỉ khám tâm lý ở Hà Nội</title>
@@ -125,19 +99,6 @@
     <published>2026-02-05T15:42:53+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qwjomg</id>
-    <title>Miễn 100% thuế đối với thu nhập từ việc bán chứng chỉ quỹ mở nắm giữ từ 2 năm trở lên</title>
-    <updated>2026-02-05T12:14:03+00:00</updated>
-    <author>
-      <name>/u/Goc_Chung_Khoan</name>
-      <uri>https://old.reddit.com/user/Goc_Chung_Khoan</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1qwjomg/miễn_100_thuế_đối_với_thu_nhập_từ_việc_bán_chứng/"&gt; &lt;img alt="Miễn 100% thuế đối với thu nhập từ việc bán chứng chỉ quỹ mở nắm giữ từ 2 năm trở lên" src="https://preview.redd.it/xjj2ij4w3ohg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=f2b81a2580f5ad74d0b071256a12467d522c0b72" title="Miễn 100% thuế đối với thu nhập từ việc bán chứng chỉ quỹ mở nắm giữ từ 2 năm trở lên" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Theo Luật Thuế TNCN số 109/2025/QH15 có hiệu lực từ ngày 1/7/2026, cơ cấu thuế TNCN đối với nhà đầu tư chứng chỉ quỹ mở sẽ có những thay đổi đáng chú ý sau:&lt;/p&gt; &lt;p&gt;Về thuế chuyển nhượng: Miễn 100% thuế đối với thu nhập từ việc bán chứng chỉ quỹ (CCQ) nếu thời gian nắm giữ đạt từ 02 năm (24 tháng) trở lên. (Hiện đang áp dụng mức 0,1% trên giá trị bán).&lt;/p&gt; &lt;p&gt;Về thuế cổ tức: Thuế suất đối với các khoản cổ tức nhà đầu tư được chia từ Quỹ giảm từ 5% xuống còn 2,5%.&lt;/p&gt; &lt;p&gt;Trong khi đó, giao dịch cổ phiếu trực tiếp vẫn duy trì mức thuế suất 0,1% mỗi lần chuyển nhượng. Điều này xác lập ưu thế về chi phí và tối ưu hoá tỷ suất sinh lời thực tế cho việc đầu tư dài hạn qua quỹ mở. Bên cạnh đó chính sách thuế mới cũng góp phần hiện thực hoá các mục tiêu của Đề án 3168/QĐ-BTC của Bộ Tài chính trong việc chuyên nghiệp hóa thị trường, khuyến khích nhà đầu tư an tâm dịch chuyển sang các kênh ủy thác đầu tư chính thống, được bảo vệ quyền lợi và nhận ưu đãi về thuế.&lt;/p&gt; &lt;p&gt;Nguồn: Dragon Capital.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Goc_Chung_Khoan"&gt; /u/Goc_Chung_Khoan &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/xjj2ij4w3ohg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qwjomg/miễn_100_thuế_đối_với_thu_nhập_từ_việc_bán_chứng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qwjomg/miễn_100_thuế_đối_với_thu_nhập_từ_việc_bán_chứng/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-05T12:14:03+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1qwpsef</id>
     <title>hi cả nhà, mn ghé qua ủng hộ em 1 view 1 chia sẻ để kênh phát triển hơn nhé ạ, kênh làm content sạch, mong mang đến giá trị cho người xem, rất mong mn ủng hộ ạ!! Nếu có gì góp ý mn cứ bình luận nhé ạ (chê thật lòng cx ok ạ), em sẽ hoan hỉ tiếp nhận để cải thiện kênh ạ! Link ở comment nhé ạ &lt;3333</title>
     <updated>2026-02-05T16:24:18+00:00</updated>
@@ -177,17 +138,30 @@
     <published>2026-02-05T16:31:53+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qw6td5</id>
-    <title>TÌM NGƯỜI THÂN MẤT TÍCH (xin phép nhóm mình đăng nhờ tí ạ)</title>
-    <updated>2026-02-05T00:57:46+00:00</updated>
+    <id>t3_1qwrp2k</id>
+    <title>Deal lại lương sau thử việc ngành tkdh</title>
+    <updated>2026-02-05T17:33:14+00:00</updated>
     <author>
-      <name>/u/nguyenhoangchuong236</name>
-      <uri>https://old.reddit.com/user/nguyenhoangchuong236</uri>
+      <name>/u/SpringOooni</name>
+      <uri>https://old.reddit.com/user/SpringOooni</uri>
     </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1qw6td5/tìm_người_thân_mất_tích_xin_phép_nhóm_mình_đăng/"&gt; &lt;img alt="TÌM NGƯỜI THÂN MẤT TÍCH (xin phép nhóm mình đăng nhờ tí ạ)" src="https://b.thumbs.redditmedia.com/vMuOE8XmcPJsHoz9eTi3SZmdM9Zj73pxKnp3qjcAc8k.jpg" title="TÌM NGƯỜI THÂN MẤT TÍCH (xin phép nhóm mình đăng nhờ tí ạ)" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;TÌM NGƯỜI THÂN MẤT TÍCH&lt;br /&gt; Kính gửi bạn bè, anh chị em và cộng đồng tại TP. Hồ Chí Minh,&lt;br /&gt; Gia đình chúng tôi đang vô cùng lo lắng và cần sự giúp đỡ khẩn cấp từ mọi người.&lt;br /&gt; Anh trai tôi – anh Nguyễn Văn Sang (hoặc tên gọi thân mật là Sang) – đã mất tích từ 3 ngày nay.&lt;br /&gt; Anh Sang mắc chứng tự kỷ (autism), hầu như không nói được (non-verbal), nên rất khó tự giao tiếp hoặc tìm đường về nhà. Đây là cơn ác mộng thực sự với gia đình chúng tôi.&lt;/p&gt; &lt;p&gt;Thông tin nhận dạng:&lt;/p&gt; &lt;p&gt;Tuổi: 46 tuổi&lt;br /&gt; Chiều cao: khoảng 170 – 175 cm&lt;br /&gt; Dáng người: gầy, ốm (slim/skinny build)&lt;br /&gt; Da: ngăm đen (really tan)&lt;br /&gt; Đặc điểm: Người mắc chứng tự kỷ nặng, hầu như không nói, có thể hành động theo bản năng hoặc lặp lại thói quen quen thuộc.&lt;/p&gt; &lt;p&gt;Lần cuối cùng được nhìn thấy:&lt;/p&gt; &lt;p&gt;Khu vực An Lạc, quận Bình Tân, TP. Hồ Chí Minh&lt;br /&gt; Thời gian: cách đây 5 ngày&lt;br /&gt; Trang phục lúc mất tích:&lt;/p&gt; &lt;p&gt;Áo jacket jean màu xanh (blue denim jacket)&lt;br /&gt; Quần tây màu kem (cream trousers)&lt;/p&gt; &lt;p&gt;Hiện tại, Cảnh sát Úc và Đại sứ quán Úc tại Hà Nội đã vào cuộc hỗ trợ. Tuy nhiên, chúng tôi vẫn rất cần sự giúp đỡ từ cộng đồng tại TP. Hồ Chí Minh để lan tỏa thông tin nhanh chóng.&lt;br /&gt; Nếu bạn hoặc người thân, bạn bè, đồng nghiệp, hàng xóm… thấy anh Sang ở bất kỳ đâu (trên đường phố, chợ, công viên, bến xe, khu công nghiệp, hoặc bất kỳ nơi công cộng nào), xin vui lòng:&lt;/p&gt; &lt;p&gt;Liên hệ NGAY cho gia đình qua các số điện thoại sau:&lt;br /&gt; Anh Thanh: 0909 668 133 hoặc 0902 564 701&lt;br /&gt; Anh Bảo: 0903 954 945&lt;/p&gt; &lt;p&gt;Gia đình xin cam kết hậu tạ xứng đáng cho bất kỳ ai cung cấp thông tin chính xác giúp tìm được anh Sang và đưa anh ấy về an toàn!&lt;br /&gt; Mọi sự chia sẻ, đăng lại bài viết này trên Facebook, Zalo, các nhóm cộng đồng quận Bình Tân, An Lạc, Bình Chánh, các page tìm người thân, nhóm doanh nghiệp địa phương… đều có thể cứu mạng anh ấy. Chỉ cần một người nhìn thấy và báo tin là chúng tôi đã có hy vọng lớn!&lt;br /&gt; Xin chân thành cảm ơn tất cả mọi người đã dành thời gian đọc và chia sẻ.&lt;br /&gt; Từ gia đình và Lena (người đăng giúp).&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/nguyenhoangchuong236"&gt; /u/nguyenhoangchuong236 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1qw6td5"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qw6td5/tìm_người_thân_mất_tích_xin_phép_nhóm_mình_đăng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qw6td5/tìm_người_thân_mất_tích_xin_phép_nhóm_mình_đăng/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em là nữ, vừa mới tốt nghiệp đại học ngành thiết kế đồ hoạ được khoảng 4 tháng, hiện tại đã hoàn thành xong 2 tháng thử việc tại 1 công ty. Tuy nhiên khi chuẩn bị ký hợp đồng chính thức thực sự em có chút lăn tăn. Cá nhân em khi nhận công việc này thì do sau thời gian khoảng gần 2 tháng đi phỏng vấn ở nhiều chỗ em có tâm lý mệt mỏi với chuyện phỏng vấn nên quyết định nhận làm công việc này một phần vì gần nhà (cách khoảng 800m) và quyết định ko nhận 1 offer có mức lương tốt hơn (11tr cách nhà 22km) nhưng mức lương ở cty này thì thấp hơn so với kì vọng của em (chỉ 9tr). Hiện tại bố mẹ em cùng 1 số người thân đều cho rằng mức lương này quá thấp, ban đầu tuy nó không đúng kỳ vọng nhưng em vẫn thấy ổn với chuyện này nhưng dần dà tâm lý em bị tác động khá nhiều và em cũng thấy hơi thất vọng về bản thân khi chỉ nhận mức lương như thế này và hối tiếc do quyết định cũ. Liệu em có nên deal lại lương ngay lúc kết thúc thử việc này không và tỉ lệ thành công có cao không? Ngoài ra em cũng không có quen nhiều anh chị cùng ngành học nên không biết mức lương này với sinh viên thiết kế vừa ra trường thì có phải là hợp lý và ổn rồi không? Rất mong được nhận được lời khuyên ạ. Em không giỏi trong câu chữ nên diễn giải có hơi lủng củng, mong anh chị thông cảm.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/SpringOooni"&gt; /u/SpringOooni &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qwrp2k/deal_lại_lương_sau_thử_việc_ngành_tkdh/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qwrp2k/deal_lại_lương_sau_thử_việc_ngành_tkdh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qwrp2k/deal_lại_lương_sau_thử_việc_ngành_tkdh/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-05T00:57:46+00:00</published>
+    <published>2026-02-05T17:33:14+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qwgeqr</id>
+    <title>Xin lời khuyên!</title>
+    <updated>2026-02-05T09:04:06+00:00</updated>
+    <author>
+      <name>/u/AffectionateRise8457</name>
+      <uri>https://old.reddit.com/user/AffectionateRise8457</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các chị, em 27t, kết hôn 3 năm, có bé gái 2.5t trước đó quen nhau 4 tháng. Gần đây đặc thù công việc ck e 2 ngày mới về 1 lần, nhưng rất trách nhiệm, chăm con khéo. Tuy nhiên chuyện chăn gối sau sinh nguội lạnh dần do ban đầu chồng sợ dính bầu nên không dám làm, sau có biện pháp rồi anh cũng không đòi hỏi, khiến em dần mất hẳn hứng thú, vợ chồng sống chỉ như bạn cùng phòng. Đỉnh điểm là 3 tuần trước, chồng cố ép quan hệ khi em từ chối khiến em bị ám ảnh, giờ chỉ cần anh động vào người là em sợ và bài xích. Gần đây vợ chồng hay cãi vã chuyện tiền nong, ghen tuông khi em đi chơi. Hôm qua ngồi lại nói chuyện, em thú nhận đã hết tình cảm, chỉ sống vì trách nhiệm. Chồng ban đầu tự ái đòi ly hôn và giành quyền nuôi con do nghi em có người khác, nhưng sáng nay lại nhắn tin &amp;quot;quay xe&amp;quot; bảo do ghen nên nói vậy, giờ không muốn bỏ nữa vì thương con. Hiện tại em rất bế tắc: Hết yêu, sợ gần gũi chồng, sống tiếp thì ngột ngạt bí bách, nhưng ly hôn thì thương con còn bé thiếu bố. Mọi người cho em lời khuyên nên dứt khoát giải thoát hay cố gắng duy trì vỏ bọc gia đình vì con ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/AffectionateRise8457"&gt; /u/AffectionateRise8457 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qwgeqr/xin_lời_khuyên/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qwgeqr/xin_lời_khuyên/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qwgeqr/xin_lời_khuyên/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-05T09:04:06+00:00</published>
   </entry>
   <entry>
     <id>t3_1qwm8br</id>
@@ -216,17 +190,30 @@
     <published>2026-02-05T14:10:37+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qwgeqr</id>
-    <title>Xin lời khuyên!</title>
-    <updated>2026-02-05T09:04:06+00:00</updated>
+    <id>t3_1qw6td5</id>
+    <title>TÌM NGƯỜI THÂN MẤT TÍCH (xin phép nhóm mình đăng nhờ tí ạ)</title>
+    <updated>2026-02-05T00:57:46+00:00</updated>
     <author>
-      <name>/u/AffectionateRise8457</name>
-      <uri>https://old.reddit.com/user/AffectionateRise8457</uri>
+      <name>/u/nguyenhoangchuong236</name>
+      <uri>https://old.reddit.com/user/nguyenhoangchuong236</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các chị, em 27t, kết hôn 3 năm, có bé gái 2.5t trước đó quen nhau 4 tháng. Gần đây đặc thù công việc ck e 2 ngày mới về 1 lần, nhưng rất trách nhiệm, chăm con khéo. Tuy nhiên chuyện chăn gối sau sinh nguội lạnh dần do ban đầu chồng sợ dính bầu nên không dám làm, sau có biện pháp rồi anh cũng không đòi hỏi, khiến em dần mất hẳn hứng thú, vợ chồng sống chỉ như bạn cùng phòng. Đỉnh điểm là 3 tuần trước, chồng cố ép quan hệ khi em từ chối khiến em bị ám ảnh, giờ chỉ cần anh động vào người là em sợ và bài xích. Gần đây vợ chồng hay cãi vã chuyện tiền nong, ghen tuông khi em đi chơi. Hôm qua ngồi lại nói chuyện, em thú nhận đã hết tình cảm, chỉ sống vì trách nhiệm. Chồng ban đầu tự ái đòi ly hôn và giành quyền nuôi con do nghi em có người khác, nhưng sáng nay lại nhắn tin &amp;quot;quay xe&amp;quot; bảo do ghen nên nói vậy, giờ không muốn bỏ nữa vì thương con. Hiện tại em rất bế tắc: Hết yêu, sợ gần gũi chồng, sống tiếp thì ngột ngạt bí bách, nhưng ly hôn thì thương con còn bé thiếu bố. Mọi người cho em lời khuyên nên dứt khoát giải thoát hay cố gắng duy trì vỏ bọc gia đình vì con ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/AffectionateRise8457"&gt; /u/AffectionateRise8457 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qwgeqr/xin_lời_khuyên/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qwgeqr/xin_lời_khuyên/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qwgeqr/xin_lời_khuyên/"/>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1qw6td5/tìm_người_thân_mất_tích_xin_phép_nhóm_mình_đăng/"&gt; &lt;img alt="TÌM NGƯỜI THÂN MẤT TÍCH (xin phép nhóm mình đăng nhờ tí ạ)" src="https://b.thumbs.redditmedia.com/vMuOE8XmcPJsHoz9eTi3SZmdM9Zj73pxKnp3qjcAc8k.jpg" title="TÌM NGƯỜI THÂN MẤT TÍCH (xin phép nhóm mình đăng nhờ tí ạ)" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;TÌM NGƯỜI THÂN MẤT TÍCH&lt;br /&gt; Kính gửi bạn bè, anh chị em và cộng đồng tại TP. Hồ Chí Minh,&lt;br /&gt; Gia đình chúng tôi đang vô cùng lo lắng và cần sự giúp đỡ khẩn cấp từ mọi người.&lt;br /&gt; Anh trai tôi – anh Nguyễn Văn Sang (hoặc tên gọi thân mật là Sang) – đã mất tích từ 3 ngày nay.&lt;br /&gt; Anh Sang mắc chứng tự kỷ (autism), hầu như không nói được (non-verbal), nên rất khó tự giao tiếp hoặc tìm đường về nhà. Đây là cơn ác mộng thực sự với gia đình chúng tôi.&lt;/p&gt; &lt;p&gt;Thông tin nhận dạng:&lt;/p&gt; &lt;p&gt;Tuổi: 46 tuổi&lt;br /&gt; Chiều cao: khoảng 170 – 175 cm&lt;br /&gt; Dáng người: gầy, ốm (slim/skinny build)&lt;br /&gt; Da: ngăm đen (really tan)&lt;br /&gt; Đặc điểm: Người mắc chứng tự kỷ nặng, hầu như không nói, có thể hành động theo bản năng hoặc lặp lại thói quen quen thuộc.&lt;/p&gt; &lt;p&gt;Lần cuối cùng được nhìn thấy:&lt;/p&gt; &lt;p&gt;Khu vực An Lạc, quận Bình Tân, TP. Hồ Chí Minh&lt;br /&gt; Thời gian: cách đây 5 ngày&lt;br /&gt; Trang phục lúc mất tích:&lt;/p&gt; &lt;p&gt;Áo jacket jean màu xanh (blue denim jacket)&lt;br /&gt; Quần tây màu kem (cream trousers)&lt;/p&gt; &lt;p&gt;Hiện tại, Cảnh sát Úc và Đại sứ quán Úc tại Hà Nội đã vào cuộc hỗ trợ. Tuy nhiên, chúng tôi vẫn rất cần sự giúp đỡ từ cộng đồng tại TP. Hồ Chí Minh để lan tỏa thông tin nhanh chóng.&lt;br /&gt; Nếu bạn hoặc người thân, bạn bè, đồng nghiệp, hàng xóm… thấy anh Sang ở bất kỳ đâu (trên đường phố, chợ, công viên, bến xe, khu công nghiệp, hoặc bất kỳ nơi công cộng nào), xin vui lòng:&lt;/p&gt; &lt;p&gt;Liên hệ NGAY cho gia đình qua các số điện thoại sau:&lt;br /&gt; Anh Thanh: 0909 668 133 hoặc 0902 564 701&lt;br /&gt; Anh Bảo: 0903 954 945&lt;/p&gt; &lt;p&gt;Gia đình xin cam kết hậu tạ xứng đáng cho bất kỳ ai cung cấp thông tin chính xác giúp tìm được anh Sang và đưa anh ấy về an toàn!&lt;br /&gt; Mọi sự chia sẻ, đăng lại bài viết này trên Facebook, Zalo, các nhóm cộng đồng quận Bình Tân, An Lạc, Bình Chánh, các page tìm người thân, nhóm doanh nghiệp địa phương… đều có thể cứu mạng anh ấy. Chỉ cần một người nhìn thấy và báo tin là chúng tôi đã có hy vọng lớn!&lt;br /&gt; Xin chân thành cảm ơn tất cả mọi người đã dành thời gian đọc và chia sẻ.&lt;br /&gt; Từ gia đình và Lena (người đăng giúp).&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/nguyenhoangchuong236"&gt; /u/nguyenhoangchuong236 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1qw6td5"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qw6td5/tìm_người_thân_mất_tích_xin_phép_nhóm_mình_đăng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qw6td5/tìm_người_thân_mất_tích_xin_phép_nhóm_mình_đăng/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-05T09:04:06+00:00</published>
+    <published>2026-02-05T00:57:46+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qwjomg</id>
+    <title>Miễn 100% thuế đối với thu nhập từ việc bán chứng chỉ quỹ mở nắm giữ từ 2 năm trở lên</title>
+    <updated>2026-02-05T12:14:03+00:00</updated>
+    <author>
+      <name>/u/Goc_Chung_Khoan</name>
+      <uri>https://old.reddit.com/user/Goc_Chung_Khoan</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1qwjomg/miễn_100_thuế_đối_với_thu_nhập_từ_việc_bán_chứng/"&gt; &lt;img alt="Miễn 100% thuế đối với thu nhập từ việc bán chứng chỉ quỹ mở nắm giữ từ 2 năm trở lên" src="https://preview.redd.it/xjj2ij4w3ohg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=f2b81a2580f5ad74d0b071256a12467d522c0b72" title="Miễn 100% thuế đối với thu nhập từ việc bán chứng chỉ quỹ mở nắm giữ từ 2 năm trở lên" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Theo Luật Thuế TNCN số 109/2025/QH15 có hiệu lực từ ngày 1/7/2026, cơ cấu thuế TNCN đối với nhà đầu tư chứng chỉ quỹ mở sẽ có những thay đổi đáng chú ý sau:&lt;/p&gt; &lt;p&gt;Về thuế chuyển nhượng: Miễn 100% thuế đối với thu nhập từ việc bán chứng chỉ quỹ (CCQ) nếu thời gian nắm giữ đạt từ 02 năm (24 tháng) trở lên. (Hiện đang áp dụng mức 0,1% trên giá trị bán).&lt;/p&gt; &lt;p&gt;Về thuế cổ tức: Thuế suất đối với các khoản cổ tức nhà đầu tư được chia từ Quỹ giảm từ 5% xuống còn 2,5%.&lt;/p&gt; &lt;p&gt;Trong khi đó, giao dịch cổ phiếu trực tiếp vẫn duy trì mức thuế suất 0,1% mỗi lần chuyển nhượng. Điều này xác lập ưu thế về chi phí và tối ưu hoá tỷ suất sinh lời thực tế cho việc đầu tư dài hạn qua quỹ mở. Bên cạnh đó chính sách thuế mới cũng góp phần hiện thực hoá các mục tiêu của Đề án 3168/QĐ-BTC của Bộ Tài chính trong việc chuyên nghiệp hóa thị trường, khuyến khích nhà đầu tư an tâm dịch chuyển sang các kênh ủy thác đầu tư chính thống, được bảo vệ quyền lợi và nhận ưu đãi về thuế.&lt;/p&gt; &lt;p&gt;Nguồn: Dragon Capital.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Goc_Chung_Khoan"&gt; /u/Goc_Chung_Khoan &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/xjj2ij4w3ohg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qwjomg/miễn_100_thuế_đối_với_thu_nhập_từ_việc_bán_chứng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qwjomg/miễn_100_thuế_đối_với_thu_nhập_từ_việc_bán_chứng/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-05T12:14:03+00:00</published>
   </entry>
   <entry>
     <id>t3_1qw02oq</id>
@@ -268,17 +255,17 @@
     <published>2026-02-05T11:31:33+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qwfs4u</id>
-    <title>Chuyện ma có thật</title>
-    <updated>2026-02-05T08:24:35+00:00</updated>
+    <id>t3_1qwrnue</id>
+    <title>Bác sĩ tâm lý ở Sài Gòn</title>
+    <updated>2026-02-05T17:31:57+00:00</updated>
     <author>
-      <name>/u/FHighSon</name>
-      <uri>https://old.reddit.com/user/FHighSon</uri>
+      <name>/u/limbo1994</name>
+      <uri>https://old.reddit.com/user/limbo1994</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là em được cty cho nghỉ tết sớm và ở nhà làm remote, chán quá nên lên đây em muốn nghe vài câu chuyện ma có thật của các bác ạ :))).&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/FHighSon"&gt; /u/FHighSon &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qwfs4u/chuyện_ma_có_thật/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qwfs4u/chuyện_ma_có_thật/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qwfs4u/chuyện_ma_có_thật/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người. &lt;/p&gt; &lt;p&gt;Hiện tại mình đang muốn tìm gặp bác sĩ tâm lý ở Sài Gòn. &lt;/p&gt; &lt;p&gt;Mình mất mẹ từ nhỏ, từng bị bạo hành tinh thần trong nhiều năm bởi mẹ kế, và thưởng xuyên bị bỏ mặc về mặt cảm xúc lúc còn bé. &lt;/p&gt; &lt;p&gt;Gần đây mình nhận ra những tổn thương lúc bé vẫn ảnh hưởng đến đời sống tinh thần của mình hiện tại nên mình đang có ý định tìm gặp bác sĩ tâm lý. &lt;/p&gt; &lt;p&gt;Nếu có bạn nào biết một bác sĩ tâm lý nào đó có kinh nghiệm về trauma, attachment, childhood emotional neglect thì cho mình xin thông tin với nha. &lt;/p&gt; &lt;p&gt;Cảm ơn mọi người.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/limbo1994"&gt; /u/limbo1994 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qwrnue/bác_sĩ_tâm_lý_ở_sài_gòn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qwrnue/bác_sĩ_tâm_lý_ở_sài_gòn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qwrnue/bác_sĩ_tâm_lý_ở_sài_gòn/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-05T08:24:35+00:00</published>
+    <published>2026-02-05T17:31:57+00:00</published>
   </entry>
   <entry>
     <id>t3_1qwphla</id>
@@ -292,6 +279,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qwphla/vv_về_mức_lương_ngành_dev_năm_2026/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-02-05T16:13:14+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qwfs4u</id>
+    <title>Chuyện ma có thật</title>
+    <updated>2026-02-05T08:24:35+00:00</updated>
+    <author>
+      <name>/u/FHighSon</name>
+      <uri>https://old.reddit.com/user/FHighSon</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là em được cty cho nghỉ tết sớm và ở nhà làm remote, chán quá nên lên đây em muốn nghe vài câu chuyện ma có thật của các bác ạ :))).&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/FHighSon"&gt; /u/FHighSon &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qwfs4u/chuyện_ma_có_thật/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qwfs4u/chuyện_ma_có_thật/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qwfs4u/chuyện_ma_có_thật/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-05T08:24:35+00:00</published>
   </entry>
   <entry>
     <id>t3_1qwaa7o</id>
