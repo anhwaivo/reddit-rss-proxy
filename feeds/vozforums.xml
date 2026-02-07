@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-02-07T19:35:18+00:00</updated>
+  <updated>2026-02-07T19:54:02+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -164,19 +164,6 @@
     <published>2026-02-07T17:11:18+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qy24yv</id>
-    <title>Thất nghiệp</title>
-    <updated>2026-02-07T02:51:21+00:00</updated>
-    <author>
-      <name>/u/More_Midnight9646</name>
-      <uri>https://old.reddit.com/user/More_Midnight9646</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là em ra trường cũng mấy tháng nay r mà vẫn chưa tìm được việc. Ngày trước học đại học 3 chữ, do ignorance và ngu dốt nên em đã ko đi tìm thực tập mà vào cái lò nhốt sinh viên của trường đấy. Nói thật là em chẳng học được gì nhiều trong đấy, và một điều nữa em nhận ra là em ko thể tiếp tục làm web dev nữa, vì em đã chán ngấy quá r. Thế là e lao đầu vào học C++ và khi đi tìm việc mới thấy Hà Nội gần như chẳng có vị trí C++ nào cho fresher hay junior. Lần cuối e đi phỏng vấn fresher mà chỉ hỏi e có kinh nghiệm chưa mà chẳng hỏi tí gì về technical. Thực sự thất vọng về bản thân và về mọi thứ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/More_Midnight9646"&gt; /u/More_Midnight9646 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qy24yv/thất_nghiệp/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qy24yv/thất_nghiệp/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qy24yv/thất_nghiệp/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-07T02:51:21+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1qydqkf</id>
     <title>chỗ phù hợp để kiếm ny</title>
     <updated>2026-02-07T13:25:18+00:00</updated>
@@ -188,6 +175,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qydqkf/chỗ_phù_hợp_để_kiếm_ny/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-02-07T13:25:18+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qy24yv</id>
+    <title>Thất nghiệp</title>
+    <updated>2026-02-07T02:51:21+00:00</updated>
+    <author>
+      <name>/u/More_Midnight9646</name>
+      <uri>https://old.reddit.com/user/More_Midnight9646</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là em ra trường cũng mấy tháng nay r mà vẫn chưa tìm được việc. Ngày trước học đại học 3 chữ, do ignorance và ngu dốt nên em đã ko đi tìm thực tập mà vào cái lò nhốt sinh viên của trường đấy. Nói thật là em chẳng học được gì nhiều trong đấy, và một điều nữa em nhận ra là em ko thể tiếp tục làm web dev nữa, vì em đã chán ngấy quá r. Thế là e lao đầu vào học C++ và khi đi tìm việc mới thấy Hà Nội gần như chẳng có vị trí C++ nào cho fresher hay junior. Lần cuối e đi phỏng vấn fresher mà chỉ hỏi e có kinh nghiệm chưa mà chẳng hỏi tí gì về technical. Thực sự thất vọng về bản thân và về mọi thứ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/More_Midnight9646"&gt; /u/More_Midnight9646 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qy24yv/thất_nghiệp/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qy24yv/thất_nghiệp/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qy24yv/thất_nghiệp/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-07T02:51:21+00:00</published>
   </entry>
   <entry>
     <id>t3_1qyb24s</id>
