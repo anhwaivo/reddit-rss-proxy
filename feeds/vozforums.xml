@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-02-07T21:25:26+00:00</updated>
+  <updated>2026-02-07T21:49:49+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1qxpzwo</id>
-    <title>Học giỏi mà ko thành công thì sao ?????</title>
-    <updated>2026-02-06T18:39:52+00:00</updated>
-    <author>
-      <name>/u/nghxson</name>
-      <uri>https://old.reddit.com/user/nghxson</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em muốn hỏi các bác một chuyện này, vì gần đây em suy nghĩ khá nhiều. Em thấy ngoài đời có không ít người hồi đi học thì học rất giỏi, điểm lúc nào cũng cao, được thầy cô kỳ vọng, ai cũng nghĩ sau này sẽ thành công. Nhưng đến khi ra trường, đi làm rồi thì cuộc sống và sự nghiệp lại khá lận đận: khó tìm việc ổn định, đổi việc nhiều, thu nhập không cao, thậm chí có người còn chật vật hơn cả những người học bình thường ngày xưa. Không biết các bác có từng gặp trường hợp như vậy chưa? Theo các bác thì vì sao lại xảy ra chuyện này? Do áp lực học hành kéo dài nên dễ bị burnout, do học giỏi nhưng thiếu kỹ năng xã hội, hay do chọn sai ngành, sai thời điểm? Hay đơn giản là đời không vận hành giống như những gì mình được dạy lúc còn đi học? Em không có ý chê hay so sánh ai cả, chỉ muốn nghe những câu chuyện thật và góc nhìn của các bác để học hỏi thêm cho bản thân.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/nghxson"&gt; /u/nghxson &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qxpzwo/học_giỏi_mà_ko_thành_công_thì_sao/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qxpzwo/học_giỏi_mà_ko_thành_công_thì_sao/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qxpzwo/học_giỏi_mà_ko_thành_công_thì_sao/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-06T18:39:52+00:00</published>
-  </entry>
   <entry>
     <id>t3_1qyksd2</id>
     <title>LỜI KHUYÊN TRONG TUỔI 20</title>
@@ -151,6 +138,19 @@
     <published>2026-02-07T17:11:18+00:00</published>
   </entry>
   <entry>
+    <id>t3_1qyq712</id>
+    <title>Tư vấn xử phạt vi phạm gt</title>
+    <updated>2026-02-07T21:36:37+00:00</updated>
+    <author>
+      <name>/u/nerdygreenhead</name>
+      <uri>https://old.reddit.com/user/nerdygreenhead</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em mới vượt đèn đỏ và bị bắt, giam xe cùng bằng lái bản cứng. Hiện em tra trên vneid và vnetraffic thì chưa thấy cập nhật dữ liệu vi phạm. &lt;/p&gt; &lt;ol&gt; &lt;li&gt;&lt;p&gt;Giấy phép đăng kí xe của em bị mất lâu rồi, chủ xe là mẹ em đang ở quê.&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Em không có nhu cầu lấy lại xe, vì xe cũng đã cũ và vì như 1, lấy và làm lại đăng kí xe rất phiền vì phải đem xe về quê.&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Lúc bị bắt em nghe loáng thoáng hai ông CS nói với nhau không tra ra đăng kí biển số xe em trên hệ thống. em về tra trên mạng cũng không thấy hiện thị dữ liệu.&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Mẹ em đã mua xe mới từ lâu rồi. em cũng không dám hỏi mẹ xem bà đã tích hợp giấy đăng kí xe cũ trên vneid chưa nhưng em đoán là chưa.&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;vneid của em định danh mức 2, có tích hợp bằng lái. hiện em chưa thấy bằng lái của em bị trừ điểm.&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Em định khi nào cập nhật biên bản trên hệ thống, em đóng phạt online luôn. Khỏi đi qua đồn lấy. tức là bỏ xe và bỏ bằng lái vật lý. &lt;/p&gt;&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Hiện em đang lấn cấn không biết cách giải quyết này có ổm thỏa không. Và việc đóng phạt online em cũng chưa làm bao giờ. Mọi người có thể tư vấn 2 vấn đề này giúp em đuoejc không ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/nerdygreenhead"&gt; /u/nerdygreenhead &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qyq712/tư_vấn_xử_phạt_vi_phạm_gt/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qyq712/tư_vấn_xử_phạt_vi_phạm_gt/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qyq712/tư_vấn_xử_phạt_vi_phạm_gt/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-07T21:36:37+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1qydqkf</id>
     <title>chỗ phù hợp để kiếm ny</title>
     <updated>2026-02-07T13:25:18+00:00</updated>
@@ -242,6 +242,19 @@
     <published>2026-02-07T10:16:24+00:00</published>
   </entry>
   <entry>
+    <id>t3_1qykg3k</id>
+    <title>Các bạn 14 /2 dắt ny đi đâu để ngắm toàn sài gòn</title>
+    <updated>2026-02-07T17:53:48+00:00</updated>
+    <author>
+      <name>/u/RelativeRiver</name>
+      <uri>https://old.reddit.com/user/RelativeRiver</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Và tết luôn&lt;/p&gt; &lt;p&gt;Rec mình vài nơi&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/RelativeRiver"&gt; /u/RelativeRiver &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qykg3k/các_bạn_14_2_dắt_ny_đi_đâu_để_ngắm_toàn_sài_gòn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qykg3k/các_bạn_14_2_dắt_ny_đi_đâu_để_ngắm_toàn_sài_gòn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qykg3k/các_bạn_14_2_dắt_ny_đi_đâu_để_ngắm_toàn_sài_gòn/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-07T17:53:48+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1qyhoi9</id>
     <title>Cách vượt qua ranh giới trên tình bạn dưới tình yêu.</title>
     <updated>2026-02-07T16:08:09+00:00</updated>
@@ -266,19 +279,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qym42w/tuổi_đời_não_quá_trẻ/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-02-07T18:56:30+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1qykg3k</id>
-    <title>Các bạn 14 /2 dắt ny đi đâu để ngắm toàn sài gòn</title>
-    <updated>2026-02-07T17:53:48+00:00</updated>
-    <author>
-      <name>/u/RelativeRiver</name>
-      <uri>https://old.reddit.com/user/RelativeRiver</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Và tết luôn&lt;/p&gt; &lt;p&gt;Rec mình vài nơi&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/RelativeRiver"&gt; /u/RelativeRiver &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qykg3k/các_bạn_14_2_dắt_ny_đi_đâu_để_ngắm_toàn_sài_gòn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qykg3k/các_bạn_14_2_dắt_ny_đi_đâu_để_ngắm_toàn_sài_gòn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qykg3k/các_bạn_14_2_dắt_ny_đi_đâu_để_ngắm_toàn_sài_gòn/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-07T17:53:48+00:00</published>
   </entry>
   <entry>
     <id>t3_1qyksgw</id>
