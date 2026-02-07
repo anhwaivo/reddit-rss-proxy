@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-02-07T21:49:49+00:00</updated>
+  <updated>2026-02-07T22:24:38+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -307,19 +307,6 @@
     <published>2026-02-07T07:58:39+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qyhm19</id>
-    <title>Tại sao hôm nay lại có mấy post khoe tài khoản, khoe tài sản?</title>
-    <updated>2026-02-07T16:05:31+00:00</updated>
-    <author>
-      <name>/u/Dangerous_Play_1710</name>
-      <uri>https://old.reddit.com/user/Dangerous_Play_1710</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mấy post như thế mục đích để làm gì?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Dangerous_Play_1710"&gt; /u/Dangerous_Play_1710 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qyhm19/tại_sao_hôm_nay_lại_có_mấy_post_khoe_tài_khoản/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qyhm19/tại_sao_hôm_nay_lại_có_mấy_post_khoe_tài_khoản/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qyhm19/tại_sao_hôm_nay_lại_có_mấy_post_khoe_tài_khoản/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-07T16:05:31+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1qy8ypi</id>
     <title>Có ai từng là loser và trở thành winner chưa?</title>
     <updated>2026-02-07T08:55:20+00:00</updated>
@@ -331,5 +318,18 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qy8ypi/có_ai_từng_là_loser_và_trở_thành_winner_chưa/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-02-07T08:55:20+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qyhm19</id>
+    <title>Tại sao hôm nay lại có mấy post khoe tài khoản, khoe tài sản?</title>
+    <updated>2026-02-07T16:05:31+00:00</updated>
+    <author>
+      <name>/u/Dangerous_Play_1710</name>
+      <uri>https://old.reddit.com/user/Dangerous_Play_1710</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mấy post như thế mục đích để làm gì?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Dangerous_Play_1710"&gt; /u/Dangerous_Play_1710 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qyhm19/tại_sao_hôm_nay_lại_có_mấy_post_khoe_tài_khoản/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qyhm19/tại_sao_hôm_nay_lại_có_mấy_post_khoe_tài_khoản/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qyhm19/tại_sao_hôm_nay_lại_có_mấy_post_khoe_tài_khoản/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-07T16:05:31+00:00</published>
   </entry>
 </feed>
