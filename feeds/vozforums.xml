@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-02-08T22:56:09+00:00</updated>
+  <updated>2026-02-08T23:32:36+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1qz4u9i</id>
-    <title>dual boot</title>
-    <updated>2026-02-08T09:42:30+00:00</updated>
-    <author>
-      <name>/u/vn_meimei</name>
-      <uri>https://old.reddit.com/user/vn_meimei</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;chuyện là em đang cài dual boot win 11 và kali linux lên con acer nitro 5 của em. em cài win trước sau đó cài kali, sau khi cài xong thì máy tự boot vào win luôn chứ k cho chọn bằng grub boot loader. thông thường chỉ cần vào bios chỉnh pre order boot của kali lên trước thằng win là xong. nhưng em gặp vấn đề là bấm F2 vào bios thì lại bị treo logo acer. có vẻ như máy bị loop ở đoạn này. có bác nào đã gặp trường hợp này và fix thành công chưa ạ? cho em xin cách khắc phục với. em cám ơn ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/vn_meimei"&gt; /u/vn_meimei &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qz4u9i/dual_boot/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qz4u9i/dual_boot/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qz4u9i/dual_boot/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-08T09:42:30+00:00</published>
-  </entry>
   <entry>
     <id>t3_1qzati4</id>
     <title>Có nên vào nhà nước?</title>
@@ -164,19 +151,6 @@
     <published>2026-02-08T03:11:04+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qz5plq</id>
-    <title>Ny hs sẽ bị coi thường??</title>
-    <updated>2026-02-08T10:35:08+00:00</updated>
-    <author>
-      <name>/u/ExcuseNaive1360</name>
-      <uri>https://old.reddit.com/user/ExcuseNaive1360</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em với ny quen nghiêm túc tới nay là 4 tháng r, bọn em cũng tính chuyện lâu dài. Từ đầu, bọn em muốn cưới xong mới hs, tuy nhiên, do sự cố bất ngờ nên tụi em đã hs first time. Em cũng rất tự dằn vặt bản thân sợ là hs quá sớm v sẽ k đi lâu dài đc. Tới hôm nay, mẹ em có bảo con gái đừng có ngủ chung với ny, ngta sẽ k mất sự tôn trọng với mình. Giờ em đang rất rối, em rất muốn đi lâu dài với bạn, cũng coi ngta như bến đỗ của mình r. Mấy anh con trai cho em hỏi, ny cho first time của cô ấy thì mấy anh có mất sự tôn trọng dành cho ngta k ạ? Cảm ơn phản hồi của mn ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ExcuseNaive1360"&gt; /u/ExcuseNaive1360 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qz5plq/ny_hs_sẽ_bị_coi_thường/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qz5plq/ny_hs_sẽ_bị_coi_thường/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qz5plq/ny_hs_sẽ_bị_coi_thường/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-08T10:35:08+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1qz05hw</id>
     <title>Lốp dự phòng</title>
     <updated>2026-02-08T05:09:33+00:00</updated>
@@ -201,6 +175,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qza2pv/cách_tỏ_tình/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-02-08T14:18:49+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qz5plq</id>
+    <title>Ny hs sẽ bị coi thường??</title>
+    <updated>2026-02-08T10:35:08+00:00</updated>
+    <author>
+      <name>/u/ExcuseNaive1360</name>
+      <uri>https://old.reddit.com/user/ExcuseNaive1360</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em với ny quen nghiêm túc tới nay là 4 tháng r, bọn em cũng tính chuyện lâu dài. Từ đầu, bọn em muốn cưới xong mới hs, tuy nhiên, do sự cố bất ngờ nên tụi em đã hs first time. Em cũng rất tự dằn vặt bản thân sợ là hs quá sớm v sẽ k đi lâu dài đc. Tới hôm nay, mẹ em có bảo con gái đừng có ngủ chung với ny, ngta sẽ k mất sự tôn trọng với mình. Giờ em đang rất rối, em rất muốn đi lâu dài với bạn, cũng coi ngta như bến đỗ của mình r. Mấy anh con trai cho em hỏi, ny cho first time của cô ấy thì mấy anh có mất sự tôn trọng dành cho ngta k ạ? Cảm ơn phản hồi của mn ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ExcuseNaive1360"&gt; /u/ExcuseNaive1360 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qz5plq/ny_hs_sẽ_bị_coi_thường/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qz5plq/ny_hs_sẽ_bị_coi_thường/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qz5plq/ny_hs_sẽ_bị_coi_thường/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-08T10:35:08+00:00</published>
   </entry>
   <entry>
     <id>t3_1qzacv7</id>
@@ -229,6 +216,19 @@
     <published>2026-02-08T13:49:24+00:00</published>
   </entry>
   <entry>
+    <id>t3_1qzoews</id>
+    <title>TOP 5 Bài Hát Hay Về Cuộc Đời ... Nghe Để Thêm YÊU Người YÊU Đời</title>
+    <updated>2026-02-08T23:32:09+00:00</updated>
+    <author>
+      <name>/u/Evening_Math8521</name>
+      <uri>https://old.reddit.com/user/Evening_Math8521</uri>
+    </author>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Evening_Math8521"&gt; /u/Evening_Math8521 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://youtu.be/RmoboU9MiDw?si=i0HIzjUx2jiUFSKC"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qzoews/top_5_bài_hát_hay_về_cuộc_đời_nghe_để_thêm_yêu/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qzoews/top_5_bài_hát_hay_về_cuộc_đời_nghe_để_thêm_yêu/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-08T23:32:09+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1qz9gdr</id>
     <title>bỏ fap đc 1 tháng cố gắng tập trung công việc mà quá thiếu tập trung, chưa làm nổi hay cải thiện được cái gì, muốn fap lại quá các bro ạ, hic</title>
     <updated>2026-02-08T13:52:17+00:00</updated>
@@ -255,19 +255,6 @@
     <published>2026-02-08T12:13:32+00:00</published>
   </entry>
   <entry>
-    <id>t3_1qzf7zd</id>
-    <title>Hậu sáp nhập tỉnh</title>
-    <updated>2026-02-08T17:37:24+00:00</updated>
-    <author>
-      <name>/u/VietAnhisme</name>
-      <uri>https://old.reddit.com/user/VietAnhisme</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Sáp nhập tỉnh để phát triển mà thấy VP như lạc về thời 2000. Điện đóm cắt sạch, an sinh xã hội thì giảm xong lại đùng mấy phí vô lí đ biết đâu ra xong cận tết lại dừng 2/3 tuyến xe bus kv VP. Biết sáp nhập để phát triển mà đ biết phát triển cái gì, thuế thì vẫn đóng đầy đủ mà tiền thì chảy về miền ngược, Việt Trì thì sáng như trăng rằm còn VY thì tối hơn thời bao cấp. Chưa tết năm nào chán hơn năm nay. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/VietAnhisme"&gt; /u/VietAnhisme &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qzf7zd/hậu_sáp_nhập_tỉnh/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qzf7zd/hậu_sáp_nhập_tỉnh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1qzf7zd/hậu_sáp_nhập_tỉnh/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-08T17:37:24+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1qzaxv4</id>
     <title>Sv mới ra trường mất 200tr do tiền ảo</title>
     <updated>2026-02-08T14:54:54+00:00</updated>
@@ -279,6 +266,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qzaxv4/sv_mới_ra_trường_mất_200tr_do_tiền_ảo/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-02-08T14:54:54+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1qzf7zd</id>
+    <title>Hậu sáp nhập tỉnh</title>
+    <updated>2026-02-08T17:37:24+00:00</updated>
+    <author>
+      <name>/u/VietAnhisme</name>
+      <uri>https://old.reddit.com/user/VietAnhisme</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Sáp nhập tỉnh để phát triển mà thấy VP như lạc về thời 2000. Điện đóm cắt sạch, an sinh xã hội thì giảm xong lại đùng mấy phí vô lí đ biết đâu ra xong cận tết lại dừng 2/3 tuyến xe bus kv VP. Biết sáp nhập để phát triển mà đ biết phát triển cái gì, thuế thì vẫn đóng đầy đủ mà tiền thì chảy về miền ngược, Việt Trì thì sáng như trăng rằm còn VY thì tối hơn thời bao cấp. Chưa tết năm nào chán hơn năm nay. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/VietAnhisme"&gt; /u/VietAnhisme &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qzf7zd/hậu_sáp_nhập_tỉnh/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1qzf7zd/hậu_sáp_nhập_tỉnh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1qzf7zd/hậu_sáp_nhập_tỉnh/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-08T17:37:24+00:00</published>
   </entry>
   <entry>
     <id>t3_1qz7tzo</id>
