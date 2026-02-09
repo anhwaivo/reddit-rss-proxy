@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-02-09T17:55:51+00:00</updated>
+  <updated>2026-02-09T19:13:54+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1r04786</id>
-    <title>Tích hợp Dashboard Report WebApp</title>
-    <updated>2026-02-09T13:28:14+00:00</updated>
-    <author>
-      <name>/u/nhdthnh</name>
-      <uri>https://old.reddit.com/user/nhdthnh</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác, chuyện là công ty em đang có 1 database warehouse các thông tin doanh số, sản phẩm tồn kho được lấy từ các hệ thống rời rạc. Em đang tính xây dựng 1 webapp dùng csdl có sẵn làm dashboard báo cáo, tích hợp AI để đưa ra tóm tắt, cảnh báo số liệu, thân thiện dễ sài, có phân quyền xem báo cáo cho các bộ phận &lt;/p&gt; &lt;p&gt;Hiện tại em đang dùng tạm Looker Studio của Google nhưng đang dính đến vấn đề về phân quyền Dashboard do hiện tại cty em ko sài Workspace của Google nên nhân sử chủ yếu sử dụng mail cá nhân -&amp;gt; Khó kiểm soát khi nhân sự nghỉ việc/chuyển bộ phận&lt;/p&gt; &lt;p&gt;Các bác nào có kinh nghiệm làm về mảng này chia sẻ cho em với. Em cảm ơn các bác&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/nhdthnh"&gt; /u/nhdthnh &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r04786/tích_hợp_dashboard_report_webapp/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r04786/tích_hợp_dashboard_report_webapp/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1r04786/tích_hợp_dashboard_report_webapp/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-09T13:28:14+00:00</published>
-  </entry>
   <entry>
     <id>t3_1qzrpuv</id>
     <title>Topic: dấu hiệu 1 công ty redflag</title>
@@ -151,6 +138,19 @@
     <published>2026-02-09T16:47:46+00:00</published>
   </entry>
   <entry>
+    <id>t3_1r04786</id>
+    <title>Tích hợp Dashboard Report WebApp</title>
+    <updated>2026-02-09T13:28:14+00:00</updated>
+    <author>
+      <name>/u/nhdthnh</name>
+      <uri>https://old.reddit.com/user/nhdthnh</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác, chuyện là công ty em đang có 1 database warehouse các thông tin doanh số, sản phẩm tồn kho được lấy từ các hệ thống rời rạc. Em đang tính xây dựng 1 webapp dùng csdl có sẵn làm dashboard báo cáo, tích hợp AI để đưa ra tóm tắt, cảnh báo số liệu, thân thiện dễ sài, có phân quyền xem báo cáo cho các bộ phận &lt;/p&gt; &lt;p&gt;Hiện tại em đang dùng tạm Looker Studio của Google nhưng đang dính đến vấn đề về phân quyền Dashboard do hiện tại cty em ko sài Workspace của Google nên nhân sử chủ yếu sử dụng mail cá nhân -&amp;gt; Khó kiểm soát khi nhân sự nghỉ việc/chuyển bộ phận&lt;/p&gt; &lt;p&gt;Các bác nào có kinh nghiệm làm về mảng này chia sẻ cho em với. Em cảm ơn các bác&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/nhdthnh"&gt; /u/nhdthnh &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r04786/tích_hợp_dashboard_report_webapp/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r04786/tích_hợp_dashboard_report_webapp/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1r04786/tích_hợp_dashboard_report_webapp/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-09T13:28:14+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1qzvwcc</id>
     <title>Về quê ăn tết và bị khoá icloud</title>
     <updated>2026-02-09T05:35:20+00:00</updated>
@@ -242,19 +242,6 @@
     <published>2026-02-09T09:17:17+00:00</published>
   </entry>
   <entry>
-    <id>t3_1r04pga</id>
-    <title>Mọi người mất bao lâu để quên nyc ?</title>
-    <updated>2026-02-09T13:50:38+00:00</updated>
-    <author>
-      <name>/u/Relative_Code_4849</name>
-      <uri>https://old.reddit.com/user/Relative_Code_4849</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình là nam hơn 30t, từ lúc đi làm mình mới có 2 mối tình nhưng kết thúc trong 1 2 tháng. Thời gian vừa rồi mình có quen một bạn gái hồi còn đi làm thêm (nhưng mà lúc đó người ta vừa có ny). Sau đó, bạn này đi xkld bên Nhật gần 4 năm thì thấy bạn đó mới chia tay ny được 3 tháng nên mình mới chủ động làm quen lại. Lúc đầu nc và làm quen thấy khá hợp nhau, và cũng vội vàng vì nghĩ mình tìm đc đúng người mà đã nc kết hôn. Khi bạn này hết 4 năm hợp đồng có về nước và 2 đứa đã ra mắt 2 nhà để nc đến hôn nhân. Cho đến khi bạn ý quay lại, thì mình có nghi ngờ bạn này đang cheating, dẫn đến chia tay. Sau 2 tuần chia tay, bạn này công khai nym đúng với người mô tả và đang thể hiện kiểu mập mờ bên đó.&lt;/p&gt; &lt;p&gt;Mình thì thấy khá thoải mái vì thoát khỏi mqh này, nhưng vài lần bạn bè nhắc đến về tình hình bên đó thì mình có cảm giác bực bội, nói hẳn ra là kinh tởm ng đó vì nyc nói dối rất giỏi và nắm đc chuôi khi yêu mình. Cảm bh nhiều lúc kiểu trầm cảm với tiêu cực. Không biết mn ai có trải nghiệm rồi hay có recommend nào giúp thoát khỏi cảm giác tồi tệ này không?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Relative_Code_4849"&gt; /u/Relative_Code_4849 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r04pga/mọi_người_mất_bao_lâu_để_quên_nyc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r04pga/mọi_người_mất_bao_lâu_để_quên_nyc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1r04pga/mọi_người_mất_bao_lâu_để_quên_nyc/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-09T13:50:38+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1r09e98</id>
     <title>Theo cách hiểu thông thường, góp vốn khi chấm dứt hợp tác thì vốn ban đầu có được hoàn lại đầy đủ ko?</title>
     <updated>2026-02-09T16:50:37+00:00</updated>
@@ -279,6 +266,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1qzugfw/linh_vật_năm_nay_sáng_tạo_quá/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-02-09T04:22:38+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1r04pga</id>
+    <title>Mọi người mất bao lâu để quên nyc ?</title>
+    <updated>2026-02-09T13:50:38+00:00</updated>
+    <author>
+      <name>/u/Relative_Code_4849</name>
+      <uri>https://old.reddit.com/user/Relative_Code_4849</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình là nam hơn 30t, từ lúc đi làm mình mới có 2 mối tình nhưng kết thúc trong 1 2 tháng. Thời gian vừa rồi mình có quen một bạn gái hồi còn đi làm thêm (nhưng mà lúc đó người ta vừa có ny). Sau đó, bạn này đi xkld bên Nhật gần 4 năm thì thấy bạn đó mới chia tay ny được 3 tháng nên mình mới chủ động làm quen lại. Lúc đầu nc và làm quen thấy khá hợp nhau, và cũng vội vàng vì nghĩ mình tìm đc đúng người mà đã nc kết hôn. Khi bạn này hết 4 năm hợp đồng có về nước và 2 đứa đã ra mắt 2 nhà để nc đến hôn nhân. Cho đến khi bạn ý quay lại, thì mình có nghi ngờ bạn này đang cheating, dẫn đến chia tay. Sau 2 tuần chia tay, bạn này công khai nym đúng với người mô tả và đang thể hiện kiểu mập mờ bên đó.&lt;/p&gt; &lt;p&gt;Mình thì thấy khá thoải mái vì thoát khỏi mqh này, nhưng vài lần bạn bè nhắc đến về tình hình bên đó thì mình có cảm giác bực bội, nói hẳn ra là kinh tởm ng đó vì nyc nói dối rất giỏi và nắm đc chuôi khi yêu mình. Cảm bh nhiều lúc kiểu trầm cảm với tiêu cực. Không biết mn ai có trải nghiệm rồi hay có recommend nào giúp thoát khỏi cảm giác tồi tệ này không?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Relative_Code_4849"&gt; /u/Relative_Code_4849 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r04pga/mọi_người_mất_bao_lâu_để_quên_nyc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r04pga/mọi_người_mất_bao_lâu_để_quên_nyc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1r04pga/mọi_người_mất_bao_lâu_để_quên_nyc/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-09T13:50:38+00:00</published>
   </entry>
   <entry>
     <id>t3_1r073qc</id>
