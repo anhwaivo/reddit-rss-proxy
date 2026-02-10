@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-02-10T19:47:22+00:00</updated>
+  <updated>2026-02-10T20:43:29+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1r0vqkd</id>
-    <title>Phong thái tự tin</title>
-    <updated>2026-02-10T08:54:29+00:00</updated>
-    <author>
-      <name>/u/Actual-Breadfruit430</name>
-      <uri>https://old.reddit.com/user/Actual-Breadfruit430</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các bác cho em hỏi, làm sao để có một phong thái tự tin ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Actual-Breadfruit430"&gt; /u/Actual-Breadfruit430 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r0vqkd/phong_thái_tự_tin/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r0vqkd/phong_thái_tự_tin/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1r0vqkd/phong_thái_tự_tin/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-10T08:54:29+00:00</published>
-  </entry>
   <entry>
     <id>t3_1r0zxsc</id>
     <title>Tôi vừa nghe được bài này cũng khá hay, cho tôi hỏi đây là dòng nhạc gì ? hình như ở VN ko thấy @@</title>
@@ -112,19 +99,6 @@
     <published>2026-02-10T15:08:10+00:00</published>
   </entry>
   <entry>
-    <id>t3_1r0wlfa</id>
-    <title>metruyencv.com bị sập, ai biết lý do ko?</title>
-    <updated>2026-02-10T09:49:04+00:00</updated>
-    <author>
-      <name>/u/Ping_P0ng_P1ng_Pang</name>
-      <uri>https://old.reddit.com/user/Ping_P0ng_P1ng_Pang</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Ngoài web &lt;a href="http://metruyencv.com"&gt;metruyencv.com&lt;/a&gt; ra các anh/chị còn biết web nào khác để đọc truyện nữa ko?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ping_P0ng_P1ng_Pang"&gt; /u/Ping_P0ng_P1ng_Pang &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r0wlfa/metruyencvcom_bị_sập_ai_biết_lý_do_ko/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r0wlfa/metruyencvcom_bị_sập_ai_biết_lý_do_ko/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1r0wlfa/metruyencvcom_bị_sập_ai_biết_lý_do_ko/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-10T09:49:04+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1r03j9t</id>
     <title>Các bác thấy sao, chứ e là e thấy nó nói đúng vãi cả lều. Trớ trêu thay chính dân tộc, đất nước mình lại không ai quan tâm. Mà người quan tâm, nêu ra và lo lắng dùm lại là một ông tây ba lô</title>
     <updated>2026-02-09T12:58:27+00:00</updated>
@@ -149,6 +123,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1r0pj2p/cách_lấy_lại_tiền_khi_chuyển_nhầm/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-02-10T03:15:00+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1r0wlfa</id>
+    <title>metruyencv.com bị sập, ai biết lý do ko?</title>
+    <updated>2026-02-10T09:49:04+00:00</updated>
+    <author>
+      <name>/u/Ping_P0ng_P1ng_Pang</name>
+      <uri>https://old.reddit.com/user/Ping_P0ng_P1ng_Pang</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Ngoài web &lt;a href="http://metruyencv.com"&gt;metruyencv.com&lt;/a&gt; ra các anh/chị còn biết web nào khác để đọc truyện nữa ko?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ping_P0ng_P1ng_Pang"&gt; /u/Ping_P0ng_P1ng_Pang &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r0wlfa/metruyencvcom_bị_sập_ai_biết_lý_do_ko/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r0wlfa/metruyencvcom_bị_sập_ai_biết_lý_do_ko/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1r0wlfa/metruyencvcom_bị_sập_ai_biết_lý_do_ko/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-10T09:49:04+00:00</published>
   </entry>
   <entry>
     <id>t3_1r17sqb</id>
@@ -201,6 +188,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1r0wvuy/muốn_học_bách_khoa_nhưng_gia_đình_không_đồng_ý_vì/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-02-10T10:06:58+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1r1bz1x</id>
+    <title>Hỏi về giấy lý lịch tư pháp số 1 trên VNeID</title>
+    <updated>2026-02-10T20:21:41+00:00</updated>
+    <author>
+      <name>/u/ThorRizz</name>
+      <uri>https://old.reddit.com/user/ThorRizz</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1r1bz1x/hỏi_về_giấy_lý_lịch_tư_pháp_số_1_trên_vneid/"&gt; &lt;img alt="Hỏi về giấy lý lịch tư pháp số 1 trên VNeID" src="https://preview.redd.it/lyvnfn7g7qig1.jpg?width=140&amp;amp;height=140&amp;amp;crop=1:1,smart&amp;amp;auto=webp&amp;amp;s=4858ee471daf1767f407722ef00ccf737aec4389" title="Hỏi về giấy lý lịch tư pháp số 1 trên VNeID" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mọi người cho mình hỏi về giấy lý lịch tư pháp số 1 trên VNeID với ạ.&lt;/p&gt; &lt;p&gt;Mình có đăng ký cấp giấy lý lịch tư pháp số 1 trên app VNeID, khi đăng ký mình chọn hình thức trả kết quả qua bưu chính công ích để gửi về nhà.&lt;/p&gt; &lt;p&gt;Hiện tại:&lt;/p&gt; &lt;pre&gt;&lt;code&gt;• Trên app đã hiển thị có kết quả bản điện tử • Nhưng mình lại nhận được tin nhắn thông báo yêu cầu liên hệ bộ phận một cửa để nhận kết quả &lt;/code&gt;&lt;/pre&gt; &lt;p&gt;Mình hơi bối rối nên muốn hỏi:&lt;/p&gt; &lt;pre&gt;&lt;code&gt;• Trường hợp này mình chỉ cần đợi bưu điện giao bản giấy về nhà hay • Bắt buộc phải ra bộ phận một cửa để nhận trực tiếp ạ? &lt;/code&gt;&lt;/pre&gt; &lt;p&gt;Có anh/chị/bạn nào từng gặp trường hợp tương tự rồi cho mình xin kinh nghiệm với.&lt;/p&gt; &lt;p&gt;Mình cần bản giấy để bổ sung hồ sơ xin việc nên cũng hơi gấp.&lt;/p&gt; &lt;p&gt;Cảm ơn mọi người nhiều 🙏&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ThorRizz"&gt; /u/ThorRizz &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1r1bz1x"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r1bz1x/hỏi_về_giấy_lý_lịch_tư_pháp_số_1_trên_vneid/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1r1bz1x/hỏi_về_giấy_lý_lịch_tư_pháp_số_1_trên_vneid/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-10T20:21:41+00:00</published>
   </entry>
   <entry>
     <id>t3_1r0qnw7</id>
