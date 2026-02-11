@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-02-11T23:01:21+00:00</updated>
+  <updated>2026-02-11T23:46:49+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1r21hxv</id>
-    <title>Gửi tiết kiệm Cake của VPBank</title>
-    <updated>2026-02-11T16:10:53+00:00</updated>
-    <author>
-      <name>/u/Illustrious_Dot_5918</name>
-      <uri>https://old.reddit.com/user/Illustrious_Dot_5918</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là em xem gửi tiết kiệm của Cake qua Zalopay kì hạn 6 tháng 7,3%/ năm. Bác nào đang xài Cake cho em hỏi gửi trực tiếp qua Cake thì lãi suất có hơn không ? Và gửi có an toàn không ợ ?&lt;/p&gt; &lt;p&gt;Chúc các bác ăn Tết vui vẻ ợ &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Illustrious_Dot_5918"&gt; /u/Illustrious_Dot_5918 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r21hxv/gửi_tiết_kiệm_cake_của_vpbank/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r21hxv/gửi_tiết_kiệm_cake_của_vpbank/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1r21hxv/gửi_tiết_kiệm_cake_của_vpbank/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-11T16:10:53+00:00</published>
-  </entry>
   <entry>
     <id>t3_1r1s4b4</id>
     <title>Xin gợi ý về địa điểm co-working space hoặc quán cafe để làm việc và học tập</title>
@@ -125,19 +112,6 @@
     <published>2026-02-11T07:34:23+00:00</published>
   </entry>
   <entry>
-    <id>t3_1r21aci</id>
-    <title>Các ngành khoa học ( ai đưa ra ý kiến đc không ạ )</title>
-    <updated>2026-02-11T16:02:53+00:00</updated>
-    <author>
-      <name>/u/UpsetWelcome3598</name>
-      <uri>https://old.reddit.com/user/UpsetWelcome3598</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;em muốn đc tham gia các ngành nghề như năng lượng hạt nhân , sinh học gen di truyền , nếu mình không có bằng cấp thì có tự mò và nhiên cứu đc trên đất việt nam không , em rất hứng thú với các công nghệ như nhân bản di truyền , cảm giác tạo ra đc cái gì đó rất thú vị &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/UpsetWelcome3598"&gt; /u/UpsetWelcome3598 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r21aci/các_ngành_khoa_học_ai_đưa_ra_ý_kiến_đc_không_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r21aci/các_ngành_khoa_học_ai_đưa_ra_ý_kiến_đc_không_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1r21aci/các_ngành_khoa_học_ai_đưa_ra_ý_kiến_đc_không_ạ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-11T16:02:53+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1r1mdqy</id>
     <title>Tò mò là các bác độ tuổi 25-30 thường làm gì để tích góp tiền, để tiền sinh lời nhỉ</title>
     <updated>2026-02-11T03:28:55+00:00</updated>
@@ -216,6 +190,19 @@
     <published>2026-02-11T08:45:12+00:00</published>
   </entry>
   <entry>
+    <id>t3_1r21aci</id>
+    <title>Các ngành khoa học ( ai đưa ra ý kiến đc không ạ )</title>
+    <updated>2026-02-11T16:02:53+00:00</updated>
+    <author>
+      <name>/u/UpsetWelcome3598</name>
+      <uri>https://old.reddit.com/user/UpsetWelcome3598</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;em muốn đc tham gia các ngành nghề như năng lượng hạt nhân , sinh học gen di truyền , nếu mình không có bằng cấp thì có tự mò và nhiên cứu đc trên đất việt nam không , em rất hứng thú với các công nghệ như nhân bản di truyền , cảm giác tạo ra đc cái gì đó rất thú vị &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/UpsetWelcome3598"&gt; /u/UpsetWelcome3598 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r21aci/các_ngành_khoa_học_ai_đưa_ra_ý_kiến_đc_không_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r21aci/các_ngành_khoa_học_ai_đưa_ra_ý_kiến_đc_không_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1r21aci/các_ngành_khoa_học_ai_đưa_ra_ý_kiến_đc_không_ạ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-11T16:02:53+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1r1l1xh</id>
     <title>Đừng nghe bọn hr lùa gà làm tết</title>
     <updated>2026-02-11T02:29:07+00:00</updated>
@@ -240,6 +227,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1r1q374/mình_xin_góp_ý_về_cách_quản_lý_tài_chính_trong/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-02-11T06:39:04+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1r2cuuf</id>
+    <title>Các Bác có thể nói về tình hình Công Nợ cuối năm không?</title>
+    <updated>2026-02-11T23:10:25+00:00</updated>
+    <author>
+      <name>/u/Other_Engineering317</name>
+      <uri>https://old.reddit.com/user/Other_Engineering317</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tôi đang chờ Ting Ting&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Other_Engineering317"&gt; /u/Other_Engineering317 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r2cuuf/các_bác_có_thể_nói_về_tình_hình_công_nợ_cuối_năm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r2cuuf/các_bác_có_thể_nói_về_tình_hình_công_nợ_cuối_năm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1r2cuuf/các_bác_có_thể_nói_về_tình_hình_công_nợ_cuối_năm/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-11T23:10:25+00:00</published>
   </entry>
   <entry>
     <id>t3_1r2050p</id>
