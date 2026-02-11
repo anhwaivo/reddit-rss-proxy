@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-02-11T11:09:26+00:00</updated>
+  <updated>2026-02-11T11:57:35+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -60,19 +60,6 @@
     <published>2026-02-10T05:00:14+00:00</published>
   </entry>
   <entry>
-    <id>t3_1r1r0zn</id>
-    <title>Bắt chuyện nhắn tin với con gái qua Facebook/ Instagram</title>
-    <updated>2026-02-11T07:34:23+00:00</updated>
-    <author>
-      <name>/u/Character_Bread6246</name>
-      <uri>https://old.reddit.com/user/Character_Bread6246</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình có để ý một bạn, chỉ mới lướt qua nhau ngoài đời chứ chưa nói chuyện. Giờ mình có Facebook/Instagram của bạn ấy rồi nhưng không biết nên bắt đầu như thế nào cho tự nhiên.&lt;br /&gt; Theo mọi người thì nên reply story trước hay nhắn tin trực tiếp? Và mở đầu kiểu gì để không bị gượng? Bác nào có kinh nghiệm có thể vào chia sẻ vài bí quyết ko ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Character_Bread6246"&gt; /u/Character_Bread6246 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r1r0zn/bắt_chuyện_nhắn_tin_với_con_gái_qua_facebook/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r1r0zn/bắt_chuyện_nhắn_tin_với_con_gái_qua_facebook/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1r1r0zn/bắt_chuyện_nhắn_tin_với_con_gái_qua_facebook/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-11T07:34:23+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1r1rcea</id>
     <title>X world</title>
     <updated>2026-02-11T07:54:06+00:00</updated>
@@ -84,19 +71,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1r1rcea/x_world/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-02-11T07:54:06+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1r1pa72</id>
-    <title>Khoảng lặng trong một mối quan hệ là gì?</title>
-    <updated>2026-02-11T05:54:09+00:00</updated>
-    <author>
-      <name>/u/Fantastic-Future-935</name>
-      <uri>https://old.reddit.com/user/Fantastic-Future-935</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các bác cho em hỏi, sau 1 cuộc cãi nhau nảy lửa cần cho nhau những khoảng lặng, rời xa nhau để hiểu nhau hơn và đôi khi là tránh làm tổn thương nhau tiếp có đúng không ạ? Làm sao để biết đó là tạm thời im lặng hay là im lặng kết thúc hả các bác? Nếu như cần thời gian để tĩnh tâm lại sau 1 vấn đề nghiêm trọng, thì thông thường các bác sẽ tạm dừng liên lạc trong bao lâu? thanks&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Fantastic-Future-935"&gt; /u/Fantastic-Future-935 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r1pa72/khoảng_lặng_trong_một_mối_quan_hệ_là_gì/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r1pa72/khoảng_lặng_trong_một_mối_quan_hệ_là_gì/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1r1pa72/khoảng_lặng_trong_một_mối_quan_hệ_là_gì/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-11T05:54:09+00:00</published>
   </entry>
   <entry>
     <id>t3_1r1l7xj</id>
@@ -164,6 +138,32 @@
     <published>2026-02-11T05:47:09+00:00</published>
   </entry>
   <entry>
+    <id>t3_1r1pa72</id>
+    <title>Khoảng lặng trong một mối quan hệ là gì?</title>
+    <updated>2026-02-11T05:54:09+00:00</updated>
+    <author>
+      <name>/u/Fantastic-Future-935</name>
+      <uri>https://old.reddit.com/user/Fantastic-Future-935</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các bác cho em hỏi, sau 1 cuộc cãi nhau nảy lửa cần cho nhau những khoảng lặng, rời xa nhau để hiểu nhau hơn và đôi khi là tránh làm tổn thương nhau tiếp có đúng không ạ? Làm sao để biết đó là tạm thời im lặng hay là im lặng kết thúc hả các bác? Nếu như cần thời gian để tĩnh tâm lại sau 1 vấn đề nghiêm trọng, thì thông thường các bác sẽ tạm dừng liên lạc trong bao lâu? thanks&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Fantastic-Future-935"&gt; /u/Fantastic-Future-935 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r1pa72/khoảng_lặng_trong_một_mối_quan_hệ_là_gì/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r1pa72/khoảng_lặng_trong_một_mối_quan_hệ_là_gì/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1r1pa72/khoảng_lặng_trong_một_mối_quan_hệ_là_gì/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-11T05:54:09+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1r1r0zn</id>
+    <title>Bắt chuyện nhắn tin với con gái qua Facebook/ Instagram</title>
+    <updated>2026-02-11T07:34:23+00:00</updated>
+    <author>
+      <name>/u/Character_Bread6246</name>
+      <uri>https://old.reddit.com/user/Character_Bread6246</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình có để ý một bạn, chỉ mới lướt qua nhau ngoài đời chứ chưa nói chuyện. Giờ mình có Facebook/Instagram của bạn ấy rồi nhưng không biết nên bắt đầu như thế nào cho tự nhiên.&lt;br /&gt; Theo mọi người thì nên reply story trước hay nhắn tin trực tiếp? Và mở đầu kiểu gì để không bị gượng? Bác nào có kinh nghiệm có thể vào chia sẻ vài bí quyết ko ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Character_Bread6246"&gt; /u/Character_Bread6246 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r1r0zn/bắt_chuyện_nhắn_tin_với_con_gái_qua_facebook/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r1r0zn/bắt_chuyện_nhắn_tin_với_con_gái_qua_facebook/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1r1r0zn/bắt_chuyện_nhắn_tin_với_con_gái_qua_facebook/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-11T07:34:23+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1r1rhxo</id>
     <title>Dạo này nhiều bài về hỏi cách đầu tư và chứng chỉ quỹ thế nhỉ?</title>
     <updated>2026-02-11T08:03:24+00:00</updated>
@@ -229,19 +229,6 @@
     <published>2026-02-11T03:28:55+00:00</published>
   </entry>
   <entry>
-    <id>t3_1r1s5vu</id>
-    <title>Xin tư vấn tâm lí</title>
-    <updated>2026-02-11T08:45:12+00:00</updated>
-    <author>
-      <name>/u/sontran_butnotweeb</name>
-      <uri>https://old.reddit.com/user/sontran_butnotweeb</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em chào các cô chú anh chị trong group ạ. Em năm nay lớp 12, tự chuẩn đoán mình có bệnh tâm lí, em không chắc là rối loạn lo âu hay trầm cảm ạ. Em cảm thấy bệnh đang ảnh hưởng trực tiếp đến cuộc sống học tập và sinh hoạt hằng ngày của em. Em muốn cân nhắc sử dụng thuốc để điều hoà lại tâm trạng hằng ngày và để tiếp tục nỗ lực học tập và sinh hoạt bình thường ạ. Cho em hỏi là em nên đến nơi nào thăm khám và chi phí khoảng bao nhiêu ạ. Nếu cứ tiếp diễn như thế này, em cảm thấy tương lai và cơ hội của em cứ đang sụp đổ dần dần. Em cảm ơn các cô chú anh chị đã đọc ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/sontran_butnotweeb"&gt; /u/sontran_butnotweeb &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r1s5vu/xin_tư_vấn_tâm_lí/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r1s5vu/xin_tư_vấn_tâm_lí/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1r1s5vu/xin_tư_vấn_tâm_lí/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-11T08:45:12+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1r1rb7u</id>
     <title>HR liên lạc xong hẹn 2 tuần nữa liên lạc lại</title>
     <updated>2026-02-11T07:51:59+00:00</updated>
@@ -255,17 +242,17 @@
     <published>2026-02-11T07:51:59+00:00</published>
   </entry>
   <entry>
-    <id>t3_1r1q374</id>
-    <title>Mình xin góp ý về cách quản lý tài chính trong hôn nhân</title>
-    <updated>2026-02-11T06:39:04+00:00</updated>
+    <id>t3_1r1s5vu</id>
+    <title>Xin tư vấn tâm lí</title>
+    <updated>2026-02-11T08:45:12+00:00</updated>
     <author>
-      <name>/u/FederalResponse1736</name>
-      <uri>https://old.reddit.com/user/FederalResponse1736</uri>
+      <name>/u/sontran_butnotweeb</name>
+      <uri>https://old.reddit.com/user/sontran_butnotweeb</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hiện tại mình chưa kết hôn, nhưng mình suy nghĩ khá nhiều về vấn đề tài chính trong hôn nhân.&lt;/p&gt; &lt;p&gt;Quan điểm của mình là: mỗi người chỉ góp một khoản vào quỹ chung để chi trả cho các chi phí sinh hoạt như nhà ở, con cái, sinh hoạt gia đình… Còn lại, mỗi người tự quản lý thu nhập của mình, tự đầu tư, tự chịu trách nhiệm với dòng tiền của mình. Không cần phải công khai toàn bộ thu nhập, không cần kiểm soát tài chính của nhau.&lt;/p&gt; &lt;p&gt;Mình là nữ, nhưng mình rất mong muốn xây dựng tài sản riêng do chính mình tạo ra. Không phải vì ích kỷ hay giữ riêng cho bản thân, mà vì những lý do sau:&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Thứ nhất, mình không có nhu cầu chi tiêu hay hưởng thụ nhiều.&lt;/strong&gt;&lt;br /&gt; Vì vậy, phần lớn tài sản mình tích lũy được có thể xem như một quỹ dự phòng dài hạn cho gia đình — ví dụ trong trường hợp chồng gặp vấn đề sức khỏe, con cái cần hỗ trợ, hay những biến cố không lường trước. Mình muốn có năng lực tài chính đủ vững để khi cần, mình có thể chủ động gánh vác mà không bị động.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Thứ hai, mình muốn tự do trong việc quản lý và lưu thông dòng tiền.&lt;/strong&gt;&lt;br /&gt; Mình muốn đầu tư theo định hướng của mình mà không phải áp lực từ người khác, cho – tặng – hỗ trợ ai đó nếu mình thấy cần thiết, mà không phải chịu áp lực giải trình hay lo sợ bị phàn nàn. Sự tự chủ tài chính giúp mình cảm thấy nhẹ nhàng và chủ động hơn trong cuộc sống.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Thứ ba, mình coi đây là một cách để giữ sự bình đẳng trong hôn nhân.&lt;/strong&gt;&lt;br /&gt; Khi không biết chi tiết thu nhập của nhau, sẽ tránh được những so sánh không cần thiết, tránh tâm lý hơn – kém. Mỗi người tập trung phát triển bản thân, còn quỹ chung đủ để gia đình vận hành ổn định. Tiền vẫn quan trọng, nhưng mình không muốn tiền trở thành yếu tố gây xáo trộn trong mối quan hệ.&lt;/p&gt; &lt;p&gt;Với mình, tài chính chung chỉ nên là nền tảng vận hành gia đình. Còn tài chính riêng là không gian để mỗi người trưởng thành, phát triển và giữ được sự độc lập của mình.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/FederalResponse1736"&gt; /u/FederalResponse1736 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r1q374/mình_xin_góp_ý_về_cách_quản_lý_tài_chính_trong/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r1q374/mình_xin_góp_ý_về_cách_quản_lý_tài_chính_trong/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1r1q374/mình_xin_góp_ý_về_cách_quản_lý_tài_chính_trong/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em chào các cô chú anh chị trong group ạ. Em năm nay lớp 12, tự chuẩn đoán mình có bệnh tâm lí, em không chắc là rối loạn lo âu hay trầm cảm ạ. Em cảm thấy bệnh đang ảnh hưởng trực tiếp đến cuộc sống học tập và sinh hoạt hằng ngày của em. Em muốn cân nhắc sử dụng thuốc để điều hoà lại tâm trạng hằng ngày và để tiếp tục nỗ lực học tập và sinh hoạt bình thường ạ. Cho em hỏi là em nên đến nơi nào thăm khám và chi phí khoảng bao nhiêu ạ. Nếu cứ tiếp diễn như thế này, em cảm thấy tương lai và cơ hội của em cứ đang sụp đổ dần dần. Em cảm ơn các cô chú anh chị đã đọc ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/sontran_butnotweeb"&gt; /u/sontran_butnotweeb &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r1s5vu/xin_tư_vấn_tâm_lí/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r1s5vu/xin_tư_vấn_tâm_lí/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1r1s5vu/xin_tư_vấn_tâm_lí/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-11T06:39:04+00:00</published>
+    <published>2026-02-11T08:45:12+00:00</published>
   </entry>
   <entry>
     <id>t3_1r1nctd</id>
@@ -281,6 +268,19 @@
     <published>2026-02-11T04:15:25+00:00</published>
   </entry>
   <entry>
+    <id>t3_1r1q374</id>
+    <title>Mình xin góp ý về cách quản lý tài chính trong hôn nhân</title>
+    <updated>2026-02-11T06:39:04+00:00</updated>
+    <author>
+      <name>/u/FederalResponse1736</name>
+      <uri>https://old.reddit.com/user/FederalResponse1736</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hiện tại mình chưa kết hôn, nhưng mình suy nghĩ khá nhiều về vấn đề tài chính trong hôn nhân.&lt;/p&gt; &lt;p&gt;Quan điểm của mình là: mỗi người chỉ góp một khoản vào quỹ chung để chi trả cho các chi phí sinh hoạt như nhà ở, con cái, sinh hoạt gia đình… Còn lại, mỗi người tự quản lý thu nhập của mình, tự đầu tư, tự chịu trách nhiệm với dòng tiền của mình. Không cần phải công khai toàn bộ thu nhập, không cần kiểm soát tài chính của nhau.&lt;/p&gt; &lt;p&gt;Mình là nữ, nhưng mình rất mong muốn xây dựng tài sản riêng do chính mình tạo ra. Không phải vì ích kỷ hay giữ riêng cho bản thân, mà vì những lý do sau:&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Thứ nhất, mình không có nhu cầu chi tiêu hay hưởng thụ nhiều.&lt;/strong&gt;&lt;br /&gt; Vì vậy, phần lớn tài sản mình tích lũy được có thể xem như một quỹ dự phòng dài hạn cho gia đình — ví dụ trong trường hợp chồng gặp vấn đề sức khỏe, con cái cần hỗ trợ, hay những biến cố không lường trước. Mình muốn có năng lực tài chính đủ vững để khi cần, mình có thể chủ động gánh vác mà không bị động.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Thứ hai, mình muốn tự do trong việc quản lý và lưu thông dòng tiền.&lt;/strong&gt;&lt;br /&gt; Mình muốn đầu tư theo định hướng của mình mà không phải áp lực từ người khác, cho – tặng – hỗ trợ ai đó nếu mình thấy cần thiết, mà không phải chịu áp lực giải trình hay lo sợ bị phàn nàn. Sự tự chủ tài chính giúp mình cảm thấy nhẹ nhàng và chủ động hơn trong cuộc sống.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Thứ ba, mình coi đây là một cách để giữ sự bình đẳng trong hôn nhân.&lt;/strong&gt;&lt;br /&gt; Khi không biết chi tiết thu nhập của nhau, sẽ tránh được những so sánh không cần thiết, tránh tâm lý hơn – kém. Mỗi người tập trung phát triển bản thân, còn quỹ chung đủ để gia đình vận hành ổn định. Tiền vẫn quan trọng, nhưng mình không muốn tiền trở thành yếu tố gây xáo trộn trong mối quan hệ.&lt;/p&gt; &lt;p&gt;Với mình, tài chính chung chỉ nên là nền tảng vận hành gia đình. Còn tài chính riêng là không gian để mỗi người trưởng thành, phát triển và giữ được sự độc lập của mình.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/FederalResponse1736"&gt; /u/FederalResponse1736 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r1q374/mình_xin_góp_ý_về_cách_quản_lý_tài_chính_trong/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r1q374/mình_xin_góp_ý_về_cách_quản_lý_tài_chính_trong/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1r1q374/mình_xin_góp_ý_về_cách_quản_lý_tài_chính_trong/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-11T06:39:04+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1r1l1xh</id>
     <title>Đừng nghe bọn hr lùa gà làm tết</title>
     <updated>2026-02-11T02:29:07+00:00</updated>
@@ -292,6 +292,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1r1l1xh/đừng_nghe_bọn_hr_lùa_gà_làm_tết/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-02-11T02:29:07+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1r1mhhz</id>
+    <title>Anh em mất bao lâu để kiếm được 100 triệu đầu tiên trong cuộc đời ?</title>
+    <updated>2026-02-11T03:33:48+00:00</updated>
+    <author>
+      <name>/u/asa_no_kenny</name>
+      <uri>https://old.reddit.com/user/asa_no_kenny</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình thì phải mất tận 24 năm cuộc đời chỉ để kiếm được 100 triệu đầu tiên. Chính xác thì lúc đó mình kiếm được 250 triệu lận. Lần đầu tiên trong đời mình được cầm số tiền lớn như vậy do chính tay mình kiếm được, cảm giác nó tự hào lắm anh em ạ. Mình biết số tiền đó không là gì so với những anh em trong này nhưng với 1 thằng học lớp 7 như mình thì nó như cả 1 gia tài .Đó là ngay vào thời điểm 2021 dịch bệnh luôn. Năm đó phải nói là năm may mắn nhất cuộc đời của mình. Nhưng cuối cùng mình vẫn không giữ được số tiền đó vì lý do gia đình chứ không phải mình tiêu sài bậy bạ gì . Giờ mình phải cố đang làm lại từ đầu bằng 2 bàn tay trắng . &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/asa_no_kenny"&gt; /u/asa_no_kenny &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r1mhhz/anh_em_mất_bao_lâu_để_kiếm_được_100_triệu_đầu/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r1mhhz/anh_em_mất_bao_lâu_để_kiếm_được_100_triệu_đầu/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1r1mhhz/anh_em_mất_bao_lâu_để_kiếm_được_100_triệu_đầu/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-11T03:33:48+00:00</published>
   </entry>
   <entry>
     <id>t3_1r1snmu</id>
@@ -318,18 +331,5 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1r1roh1/có_ai_thấy_bản_thân_mình_trong_tấm_ảnh_này_không/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-02-11T08:14:56+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1r1mhhz</id>
-    <title>Anh em mất bao lâu để kiếm được 100 triệu đầu tiên trong cuộc đời ?</title>
-    <updated>2026-02-11T03:33:48+00:00</updated>
-    <author>
-      <name>/u/asa_no_kenny</name>
-      <uri>https://old.reddit.com/user/asa_no_kenny</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình thì phải mất tận 24 năm cuộc đời chỉ để kiếm được 100 triệu đầu tiên. Chính xác thì lúc đó mình kiếm được 250 triệu lận. Lần đầu tiên trong đời mình được cầm số tiền lớn như vậy do chính tay mình kiếm được, cảm giác nó tự hào lắm anh em ạ. Mình biết số tiền đó không là gì so với những anh em trong này nhưng với 1 thằng học lớp 7 như mình thì nó như cả 1 gia tài .Đó là ngay vào thời điểm 2021 dịch bệnh luôn. Năm đó phải nói là năm may mắn nhất cuộc đời của mình. Nhưng cuối cùng mình vẫn không giữ được số tiền đó vì lý do gia đình chứ không phải mình tiêu sài bậy bạ gì . Giờ mình phải cố đang làm lại từ đầu bằng 2 bàn tay trắng . &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/asa_no_kenny"&gt; /u/asa_no_kenny &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r1mhhz/anh_em_mất_bao_lâu_để_kiếm_được_100_triệu_đầu/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r1mhhz/anh_em_mất_bao_lâu_để_kiếm_được_100_triệu_đầu/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1r1mhhz/anh_em_mất_bao_lâu_để_kiếm_được_100_triệu_đầu/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-11T03:33:48+00:00</published>
   </entry>
 </feed>
