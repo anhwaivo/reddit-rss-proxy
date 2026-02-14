@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-02-14T16:56:49+00:00</updated>
+  <updated>2026-02-14T17:28:39+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -45,19 +45,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1r4bzv9/mua_gọng_kính_ở_đâu_tốt/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-02-14T05:14:01+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1r49hjn</id>
-    <title>Có nên đi dhn Đức thời điểm hiện tại?</title>
-    <updated>2026-02-14T03:09:04+00:00</updated>
-    <author>
-      <name>/u/Brilliant_Letter_605</name>
-      <uri>https://old.reddit.com/user/Brilliant_Letter_605</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Cảm thấy tình hình VN đang k ổn nên mình muốn tìm hiểu về việc đi du học nghề ở Đức và có thể định cư trong tương lai. Ace nào có kinh nghiệm đã/đang/sẽ đi cho mình xin thông tin thêm để tham khảo được k ạ? Về những thứ cơ bản như: chi phí, hồ sơ, bằng cấp ngoại ngữ tối thiểu(B1, C2…), rủi ro bị scam. Cảm ơn mọi người&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Brilliant_Letter_605"&gt; /u/Brilliant_Letter_605 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r49hjn/có_nên_đi_dhn_đức_thời_điểm_hiện_tại/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r49hjn/có_nên_đi_dhn_đức_thời_điểm_hiện_tại/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1r49hjn/có_nên_đi_dhn_đức_thời_điểm_hiện_tại/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-14T03:09:04+00:00</published>
   </entry>
   <entry>
     <id>t3_1r4g5md</id>
@@ -110,6 +97,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1r3thij/những_quy_tắc_ngầm_trong_xã_hội_mà_các_bạn_biết/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-02-13T16:18:15+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1r49hjn</id>
+    <title>Có nên đi dhn Đức thời điểm hiện tại?</title>
+    <updated>2026-02-14T03:09:04+00:00</updated>
+    <author>
+      <name>/u/Brilliant_Letter_605</name>
+      <uri>https://old.reddit.com/user/Brilliant_Letter_605</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Cảm thấy tình hình VN đang k ổn nên mình muốn tìm hiểu về việc đi du học nghề ở Đức và có thể định cư trong tương lai. Ace nào có kinh nghiệm đã/đang/sẽ đi cho mình xin thông tin thêm để tham khảo được k ạ? Về những thứ cơ bản như: chi phí, hồ sơ, bằng cấp ngoại ngữ tối thiểu(B1, C2…), rủi ro bị scam. Cảm ơn mọi người&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Brilliant_Letter_605"&gt; /u/Brilliant_Letter_605 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r49hjn/có_nên_đi_dhn_đức_thời_điểm_hiện_tại/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r49hjn/có_nên_đi_dhn_đức_thời_điểm_hiện_tại/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1r49hjn/có_nên_đi_dhn_đức_thời_điểm_hiện_tại/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-14T03:09:04+00:00</published>
   </entry>
   <entry>
     <id>t3_1r4f4tx</id>
@@ -177,19 +177,6 @@
     <published>2026-02-14T06:46:10+00:00</published>
   </entry>
   <entry>
-    <id>t3_1r4kvtp</id>
-    <title>Cần tìm nơi thêm VM để làm đồ án sử dụng K8s</title>
-    <updated>2026-02-14T13:40:14+00:00</updated>
-    <author>
-      <name>/u/wh1t3bl3</name>
-      <uri>https://old.reddit.com/user/wh1t3bl3</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Xin chào mọi người, thường thì mọi người build gì đó thì mọi người build local hay trên VM ạ ? Cho mình hỏi nếu dùng VM thì thuê ở đâu giá rẻ ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/wh1t3bl3"&gt; /u/wh1t3bl3 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r4kvtp/cần_tìm_nơi_thêm_vm_để_làm_đồ_án_sử_dụng_k8s/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r4kvtp/cần_tìm_nơi_thêm_vm_để_làm_đồ_án_sử_dụng_k8s/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1r4kvtp/cần_tìm_nơi_thêm_vm_để_làm_đồ_án_sử_dụng_k8s/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-14T13:40:14+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1r4if3j</id>
     <title>Đà Lạt ăn gì chơi gì</title>
     <updated>2026-02-14T11:33:01+00:00</updated>
@@ -214,6 +201,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1r4dzzr/mấy_bác_à_mình_đã_cô_nhấn_vào_mic_trong_discord/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-02-14T07:04:31+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1r4kvtp</id>
+    <title>Cần tìm nơi thêm VM để làm đồ án sử dụng K8s</title>
+    <updated>2026-02-14T13:40:14+00:00</updated>
+    <author>
+      <name>/u/wh1t3bl3</name>
+      <uri>https://old.reddit.com/user/wh1t3bl3</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Xin chào mọi người, thường thì mọi người build gì đó thì mọi người build local hay trên VM ạ ? Cho mình hỏi nếu dùng VM thì thuê ở đâu giá rẻ ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/wh1t3bl3"&gt; /u/wh1t3bl3 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r4kvtp/cần_tìm_nơi_thêm_vm_để_làm_đồ_án_sử_dụng_k8s/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r4kvtp/cần_tìm_nơi_thêm_vm_để_làm_đồ_án_sử_dụng_k8s/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1r4kvtp/cần_tìm_nơi_thêm_vm_để_làm_đồ_án_sử_dụng_k8s/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-14T13:40:14+00:00</published>
   </entry>
   <entry>
     <id>t3_1r4emo5</id>
@@ -268,19 +268,6 @@
     <published>2026-02-14T09:15:28+00:00</published>
   </entry>
   <entry>
-    <id>t3_1r4i3ch</id>
-    <title>Khảo sát lương fresher</title>
-    <updated>2026-02-14T11:14:09+00:00</updated>
-    <author>
-      <name>/u/Outrageous_Driver196</name>
-      <uri>https://old.reddit.com/user/Outrageous_Driver196</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các bác cho em hỏi với profile học IT Bách Khoa HCM tốt nghiệp gpa 3.6, có bằng ielts 7.5, kinh nghiệm thực tập ở 3 công ty trong đó có Intel thì em có thể mong muốn mức lương fresher là bao nhiêu ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Outrageous_Driver196"&gt; /u/Outrageous_Driver196 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r4i3ch/khảo_sát_lương_fresher/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r4i3ch/khảo_sát_lương_fresher/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1r4i3ch/khảo_sát_lương_fresher/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-14T11:14:09+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1r4eodv</id>
     <title>Khu vực cấm đường Hải Đăng, Vũng Tàu</title>
     <updated>2026-02-14T07:44:05+00:00</updated>
@@ -292,6 +279,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1r4eodv/khu_vực_cấm_đường_hải_đăng_vũng_tàu/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-02-14T07:44:05+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1r4i3ch</id>
+    <title>Khảo sát lương fresher</title>
+    <updated>2026-02-14T11:14:09+00:00</updated>
+    <author>
+      <name>/u/Outrageous_Driver196</name>
+      <uri>https://old.reddit.com/user/Outrageous_Driver196</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các bác cho em hỏi với profile học IT Bách Khoa HCM tốt nghiệp gpa 3.6, có bằng ielts 7.5, kinh nghiệm thực tập ở 3 công ty trong đó có Intel thì em có thể mong muốn mức lương fresher là bao nhiêu ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Outrageous_Driver196"&gt; /u/Outrageous_Driver196 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r4i3ch/khảo_sát_lương_fresher/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r4i3ch/khảo_sát_lương_fresher/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1r4i3ch/khảo_sát_lương_fresher/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-14T11:14:09+00:00</published>
   </entry>
   <entry>
     <id>t3_1r4nkcg</id>
