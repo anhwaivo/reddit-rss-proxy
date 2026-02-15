@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-02-15T07:27:12+00:00</updated>
+  <updated>2026-02-15T07:56:33+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1r3thij</id>
-    <title>Những quy tắc ngầm trong xã hội mà các bạn biết là gì?</title>
-    <updated>2026-02-13T16:18:15+00:00</updated>
-    <author>
-      <name>/u/Candid-Entrance-1926</name>
-      <uri>https://old.reddit.com/user/Candid-Entrance-1926</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Kiểu mình muốn hỏi mọi người về những quy tắc ngầm như là đến sớm giờ hẹn 5 phút hay cụng ly dưới với những người có vị trí cao hơn mình ấy ạ.&lt;/p&gt; &lt;p&gt;Mình cảm ơn mọi người ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Candid-Entrance-1926"&gt; /u/Candid-Entrance-1926 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r3thij/những_quy_tắc_ngầm_trong_xã_hội_mà_các_bạn_biết/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r3thij/những_quy_tắc_ngầm_trong_xã_hội_mà_các_bạn_biết/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1r3thij/những_quy_tắc_ngầm_trong_xã_hội_mà_các_bạn_biết/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-13T16:18:15+00:00</published>
-  </entry>
   <entry>
     <id>t3_1r4lklr</id>
     <title>Xin review về ngành công nghệ vật liệu bân dẫn</title>
@@ -32,19 +19,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1r4lklr/xin_review_về_ngành_công_nghệ_vật_liệu_bân_dẫn/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-02-14T14:10:08+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1r3u6u6</id>
-    <title>Sống sao đây khi nợ ntn</title>
-    <updated>2026-02-13T16:44:17+00:00</updated>
-    <author>
-      <name>/u/Choice-Plenty6507</name>
-      <uri>https://old.reddit.com/user/Choice-Plenty6507</uri>
-    </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Choice-Plenty6507"&gt; /u/Choice-Plenty6507 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/k3krs6fejajg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r3u6u6/sống_sao_đây_khi_nợ_ntn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1r3u6u6/sống_sao_đây_khi_nợ_ntn/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-13T16:44:17+00:00</published>
   </entry>
   <entry>
     <id>t3_1r4ciqe</id>
@@ -268,6 +242,19 @@
     <published>2026-02-15T06:53:38+00:00</published>
   </entry>
   <entry>
+    <id>t3_1r58nkx</id>
+    <title>Xin kinh nghiệm kinh doanh rau quả thịt online</title>
+    <updated>2026-02-15T07:37:41+00:00</updated>
+    <author>
+      <name>/u/Own_Ad9365</name>
+      <uri>https://old.reddit.com/user/Own_Ad9365</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình là dân tech, có làm phần mềm truy xuất nguồn gốc bằng blockchain nhưng thấy bán giải pháp khó quá. Cho nên mình đang tính làm trước 1 cửa hàng nông sản sạch với nền tảng này làm điểm khác biệt: mình mua hàng từ các htx và nhờ họ cập nhật số lượng trên nền tảng của mình, rồi trữ trong kho mát và giao hàng trực tiếp trong ngày đến người mua. Như vậy người mua có thể mua hàng rẻ hơn (mình nghĩ vậy, vì không tốn tiền mặt bằng và chi phí vận hành cũng thấp hơn các siêu thị), mà vẫn có thể yên tâm về chất lượng (vì có truy xuất nguồn gốc, nên mình cũng không thể trộn hàng chợ vào được). &lt;/p&gt; &lt;p&gt;Không biết ở đây có anh em nào có kinh nghiệm trong bán lẻ / phân phối thực phẩm có thể cho mình xin kinh nghiệm liệu kế hoạch của mình như vậy có khả thi không? Liệu mình có đang chủ quan quá với kế hoạch này không?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Own_Ad9365"&gt; /u/Own_Ad9365 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r58nkx/xin_kinh_nghiệm_kinh_doanh_rau_quả_thịt_online/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r58nkx/xin_kinh_nghiệm_kinh_doanh_rau_quả_thịt_online/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1r58nkx/xin_kinh_nghiệm_kinh_doanh_rau_quả_thịt_online/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-15T07:37:41+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1r572eh</id>
     <title>Học DA ở đâu uy tín</title>
     <updated>2026-02-15T06:03:04+00:00</updated>
@@ -279,6 +266,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1r572eh/học_da_ở_đâu_uy_tín/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-02-15T06:03:04+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1r58hnn</id>
+    <title>Cảm giác sợ AI nó "giành việc" của mình mất!</title>
+    <updated>2026-02-15T07:27:46+00:00</updated>
+    <author>
+      <name>/u/Express-Confusion350</name>
+      <uri>https://old.reddit.com/user/Express-Confusion350</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình để ý dạo gần đây AI ngày càng tiến bộ vượt bậc, cụ thể trong công việc của mình (marketing online) như viết content, viết code, hướng dẫn tối ưu chi tiết, tự động đăng bài, tạo video, tư vấn khách...... Tốc độ thì nhanh, chi phí gần như bằng 0 nếu so với thuê thêm người.&lt;/p&gt; &lt;p&gt;Vừa rồi mình có làm plugin báo giá, tracking, check site..... mà chỉ mất có 15 ngày cho 3 plugin: Đẹp, sử dụng tốt, ổn định,.... đáp ứng hoàn toàn nhu cầu. Cảm giác vừa vui sướng mà cũng vừa lo.&lt;/p&gt; &lt;p&gt;Không biết 3 - 5 năm nữa ra sao, không có khả năng tiếp thu kiến thức mới thì chắc là ra đường sớm. :((&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Express-Confusion350"&gt; /u/Express-Confusion350 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r58hnn/cảm_giác_sợ_ai_nó_giành_việc_của_mình_mất/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r58hnn/cảm_giác_sợ_ai_nó_giành_việc_của_mình_mất/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1r58hnn/cảm_giác_sợ_ai_nó_giành_việc_của_mình_mất/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-15T07:27:46+00:00</published>
   </entry>
   <entry>
     <id>t3_1r56ec5</id>
