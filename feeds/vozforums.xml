@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-02-15T08:36:49+00:00</updated>
+  <updated>2026-02-15T09:03:52+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1r4ciqe</id>
-    <title>Mọi người cho em hỏi con trai chúc con trai lễ tình nhân sớm nhận đc nhiều tình cảm có bình thường ko ạ em thấy hơi sai sai rồi ạ</title>
-    <updated>2026-02-14T05:41:26+00:00</updated>
-    <author>
-      <name>/u/Adventurous_Cow_4529</name>
-      <uri>https://old.reddit.com/user/Adventurous_Cow_4529</uri>
-    </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Adventurous_Cow_4529"&gt; /u/Adventurous_Cow_4529 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r4ciqe/mọi_người_cho_em_hỏi_con_trai_chúc_con_trai_lễ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r4ciqe/mọi_người_cho_em_hỏi_con_trai_chúc_con_trai_lễ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1r4ciqe/mọi_người_cho_em_hỏi_con_trai_chúc_con_trai_lễ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-14T05:41:26+00:00</published>
-  </entry>
   <entry>
     <id>t3_1r4if3j</id>
     <title>Đà Lạt ăn gì chơi gì</title>
@@ -138,19 +125,6 @@
     <published>2026-02-14T07:44:05+00:00</published>
   </entry>
   <entry>
-    <id>t3_1r4dgwx</id>
-    <title>Ghen với quá khứ của ny</title>
-    <updated>2026-02-14T06:33:29+00:00</updated>
-    <author>
-      <name>/u/SignificantDig5291</name>
-      <uri>https://old.reddit.com/user/SignificantDig5291</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Có anh em nào giống mình mỗi lần bạn gái nhắc tới nyc là mình lại liên tưởng tới cảnh thân mật của 2 người ý trước đây, cảm giác rất khó chịu mặc dù biết giờ cô ấy là của mình rồi k&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/SignificantDig5291"&gt; /u/SignificantDig5291 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r4dgwx/ghen_với_quá_khứ_của_ny/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r4dgwx/ghen_với_quá_khứ_của_ny/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1r4dgwx/ghen_với_quá_khứ_của_ny/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-14T06:33:29+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1r4nkcg</id>
     <title>ai đã trải nghiệm đánh nhau trong lúc niềng chưa</title>
     <updated>2026-02-14T15:33:26+00:00</updated>
@@ -162,6 +136,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1r4nkcg/ai_đã_trải_nghiệm_đánh_nhau_trong_lúc_niềng_chưa/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-02-14T15:33:26+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1r4dgwx</id>
+    <title>Ghen với quá khứ của ny</title>
+    <updated>2026-02-14T06:33:29+00:00</updated>
+    <author>
+      <name>/u/SignificantDig5291</name>
+      <uri>https://old.reddit.com/user/SignificantDig5291</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Có anh em nào giống mình mỗi lần bạn gái nhắc tới nyc là mình lại liên tưởng tới cảnh thân mật của 2 người ý trước đây, cảm giác rất khó chịu mặc dù biết giờ cô ấy là của mình rồi k&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/SignificantDig5291"&gt; /u/SignificantDig5291 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r4dgwx/ghen_với_quá_khứ_của_ny/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r4dgwx/ghen_với_quá_khứ_của_ny/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1r4dgwx/ghen_với_quá_khứ_của_ny/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-14T06:33:29+00:00</published>
   </entry>
   <entry>
     <id>t3_1r4n6u1</id>
@@ -177,19 +164,6 @@
     <published>2026-02-14T15:18:04+00:00</published>
   </entry>
   <entry>
-    <id>t3_1r4i3ch</id>
-    <title>Khảo sát lương fresher</title>
-    <updated>2026-02-14T11:14:09+00:00</updated>
-    <author>
-      <name>/u/Outrageous_Driver196</name>
-      <uri>https://old.reddit.com/user/Outrageous_Driver196</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các bác cho em hỏi với profile học IT Bách Khoa HCM tốt nghiệp gpa 3.6, có bằng ielts 7.5, kinh nghiệm thực tập ở 3 công ty trong đó có Intel thì em có thể mong muốn mức lương fresher là bao nhiêu ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Outrageous_Driver196"&gt; /u/Outrageous_Driver196 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r4i3ch/khảo_sát_lương_fresher/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r4i3ch/khảo_sát_lương_fresher/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1r4i3ch/khảo_sát_lương_fresher/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-14T11:14:09+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1r55xvw</id>
     <title>GenAI âm thanh (cụ thể là synplant 2) và đồ án tốt nghiệp?</title>
     <updated>2026-02-15T05:00:08+00:00</updated>
@@ -201,6 +175,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1r55xvw/genai_âm_thanh_cụ_thể_là_synplant_2_và_đồ_án_tốt/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-02-15T05:00:08+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1r4i3ch</id>
+    <title>Khảo sát lương fresher</title>
+    <updated>2026-02-14T11:14:09+00:00</updated>
+    <author>
+      <name>/u/Outrageous_Driver196</name>
+      <uri>https://old.reddit.com/user/Outrageous_Driver196</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các bác cho em hỏi với profile học IT Bách Khoa HCM tốt nghiệp gpa 3.6, có bằng ielts 7.5, kinh nghiệm thực tập ở 3 công ty trong đó có Intel thì em có thể mong muốn mức lương fresher là bao nhiêu ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Outrageous_Driver196"&gt; /u/Outrageous_Driver196 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r4i3ch/khảo_sát_lương_fresher/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r4i3ch/khảo_sát_lương_fresher/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1r4i3ch/khảo_sát_lương_fresher/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-14T11:14:09+00:00</published>
   </entry>
   <entry>
     <id>t3_1r4hb2j</id>
@@ -242,6 +229,32 @@
     <published>2026-02-15T08:00:31+00:00</published>
   </entry>
   <entry>
+    <id>t3_1r59zy0</id>
+    <title>Tại sao vừa khen xong là chê (hoặc chê trước khen sau)</title>
+    <updated>2026-02-15T09:01:08+00:00</updated>
+    <author>
+      <name>/u/NickWildidc</name>
+      <uri>https://old.reddit.com/user/NickWildidc</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tình hình ăn Tết ở quê ngày 1:&lt;/p&gt; &lt;p&gt;- áo này đẹp đấy, nhưng không bền màu.&lt;/p&gt; &lt;p&gt;- xe mới này ngon đấy, nhưng không bằng xe abc.&lt;/p&gt; &lt;p&gt;- điện thoại mới ngon đấy, nhưng qua năm kiểu gì cũng mất giá.&lt;/p&gt; &lt;p&gt;- cành đào đẹp nhỉ, nhưng …&lt;/p&gt; &lt;p&gt;Ý tôi là họ hàng gặp nhau ở quê vui. Và tôi cảm thấy không khí Tết thực sự vui. Nhưng (ừ tôi cũng vừa khen vừa chê) hầu như ai cũng muốn đưa ra quan điểm vừa khen vừa chê, có khi là khen 1 điểm nhưng chê 3. &lt;/p&gt; &lt;p&gt;Ban đầu tôi sẽ cố gắng tập trung vào lời khen, nhưng số lượng lời chê khá nhiều lại làm mất đi cái vị ngọt của lời khen. &lt;/p&gt; &lt;p&gt;Giao tiếp 1 chiều chỉ tập trung vào lời khen có vẻ tối ưu nhưng (lại nhưng) thực sự khó áp dụng. Tôi nghĩ là nếu tập được thái độ chỉ mở lời nói điều tốt đẹp và không nhưng thì nó thuộc hàng giao tiếp ngon nghẻ đấy các bác ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/NickWildidc"&gt; /u/NickWildidc &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r59zy0/tại_sao_vừa_khen_xong_là_chê_hoặc_chê_trước_khen/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r59zy0/tại_sao_vừa_khen_xong_là_chê_hoặc_chê_trước_khen/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1r59zy0/tại_sao_vừa_khen_xong_là_chê_hoặc_chê_trước_khen/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-15T09:01:08+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1r56ec5</id>
+    <title>Các bác gợi ý cho em vài bản nhạc việt để cover piano đi ạ ❤️</title>
+    <updated>2026-02-15T05:25:39+00:00</updated>
+    <author>
+      <name>/u/ber5290</name>
+      <uri>https://old.reddit.com/user/ber5290</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;em chơi đàn trình độ cũng trên beginner một chút rồi ạ (chơi gần 2 năm). mà đó giờ toàn chơi mấy bản cổ điển đơn giản hoá cô giao cho thôi. giờ em muốn chơi nhạc vpop mà không biết bài nào lên đàn thì hay ấy ạ 🙃. em thấy mọi người hay đánh nơi này có anh nhưng mọi người đánh nhiều quá đi đâu cũng gặp. bác nào biết bài gì khác lên đàn hay thì chỉ em với (thật ra nhạc tiếng anh cũng được nhưng vpop thì càng tốt). cảm ơn các bác nhiều😘☺️&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ber5290"&gt; /u/ber5290 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r56ec5/các_bác_gợi_ý_cho_em_vài_bản_nhạc_việt_để_cover/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r56ec5/các_bác_gợi_ý_cho_em_vài_bản_nhạc_việt_để_cover/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1r56ec5/các_bác_gợi_ý_cho_em_vài_bản_nhạc_việt_để_cover/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-15T05:25:39+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1r572eh</id>
     <title>Học DA ở đâu uy tín</title>
     <updated>2026-02-15T06:03:04+00:00</updated>
@@ -268,19 +281,6 @@
     <published>2026-02-15T06:53:38+00:00</published>
   </entry>
   <entry>
-    <id>t3_1r56ec5</id>
-    <title>Các bác gợi ý cho em vài bản nhạc việt để cover piano đi ạ ❤️</title>
-    <updated>2026-02-15T05:25:39+00:00</updated>
-    <author>
-      <name>/u/ber5290</name>
-      <uri>https://old.reddit.com/user/ber5290</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;em chơi đàn trình độ cũng trên beginner một chút rồi ạ (chơi gần 2 năm). mà đó giờ toàn chơi mấy bản cổ điển đơn giản hoá cô giao cho thôi. giờ em muốn chơi nhạc vpop mà không biết bài nào lên đàn thì hay ấy ạ 🙃. em thấy mọi người hay đánh nơi này có anh nhưng mọi người đánh nhiều quá đi đâu cũng gặp. bác nào biết bài gì khác lên đàn hay thì chỉ em với (thật ra nhạc tiếng anh cũng được nhưng vpop thì càng tốt). cảm ơn các bác nhiều😘☺️&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ber5290"&gt; /u/ber5290 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r56ec5/các_bác_gợi_ý_cho_em_vài_bản_nhạc_việt_để_cover/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r56ec5/các_bác_gợi_ý_cho_em_vài_bản_nhạc_việt_để_cover/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1r56ec5/các_bác_gợi_ý_cho_em_vài_bản_nhạc_việt_để_cover/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-15T05:25:39+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1r4qx37</id>
     <title>Bố tìm gái gọi</title>
     <updated>2026-02-14T17:45:35+00:00</updated>
@@ -294,19 +294,6 @@
     <published>2026-02-14T17:45:35+00:00</published>
   </entry>
   <entry>
-    <id>t3_1r58hnn</id>
-    <title>Cảm giác sợ AI nó "giành việc" của mình mất!</title>
-    <updated>2026-02-15T07:27:46+00:00</updated>
-    <author>
-      <name>/u/Express-Confusion350</name>
-      <uri>https://old.reddit.com/user/Express-Confusion350</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình để ý dạo gần đây AI ngày càng tiến bộ vượt bậc, cụ thể trong công việc của mình (marketing online) như viết content, viết code, hướng dẫn tối ưu chi tiết, tự động đăng bài, tạo video, tư vấn khách...... Tốc độ thì nhanh, chi phí gần như bằng 0 nếu so với thuê thêm người.&lt;/p&gt; &lt;p&gt;Vừa rồi mình có làm plugin báo giá, tracking, check site..... mà chỉ mất có 15 ngày cho 3 plugin: Đẹp, sử dụng tốt, ổn định,.... đáp ứng hoàn toàn nhu cầu. Cảm giác vừa vui sướng mà cũng vừa lo.&lt;/p&gt; &lt;p&gt;Không biết 3 - 5 năm nữa ra sao, không có khả năng tiếp thu kiến thức mới thì chắc là ra đường sớm. :((&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Express-Confusion350"&gt; /u/Express-Confusion350 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r58hnn/cảm_giác_sợ_ai_nó_giành_việc_của_mình_mất/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r58hnn/cảm_giác_sợ_ai_nó_giành_việc_của_mình_mất/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1r58hnn/cảm_giác_sợ_ai_nó_giành_việc_của_mình_mất/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-15T07:27:46+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1r4nt8g</id>
     <title>Cập nhật tình hình tỏ tình</title>
     <updated>2026-02-14T15:43:13+00:00</updated>
@@ -318,6 +305,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1r4nt8g/cập_nhật_tình_hình_tỏ_tình/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-02-14T15:43:13+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1r58hnn</id>
+    <title>Cảm giác sợ AI nó "giành việc" của mình mất!</title>
+    <updated>2026-02-15T07:27:46+00:00</updated>
+    <author>
+      <name>/u/Express-Confusion350</name>
+      <uri>https://old.reddit.com/user/Express-Confusion350</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình để ý dạo gần đây AI ngày càng tiến bộ vượt bậc, cụ thể trong công việc của mình (marketing online) như viết content, viết code, hướng dẫn tối ưu chi tiết, tự động đăng bài, tạo video, tư vấn khách...... Tốc độ thì nhanh, chi phí gần như bằng 0 nếu so với thuê thêm người.&lt;/p&gt; &lt;p&gt;Vừa rồi mình có làm plugin báo giá, tracking, check site..... mà chỉ mất có 15 ngày cho 3 plugin: Đẹp, sử dụng tốt, ổn định,.... đáp ứng hoàn toàn nhu cầu. Cảm giác vừa vui sướng mà cũng vừa lo.&lt;/p&gt; &lt;p&gt;Không biết 3 - 5 năm nữa ra sao, không có khả năng tiếp thu kiến thức mới thì chắc là ra đường sớm. :((&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Express-Confusion350"&gt; /u/Express-Confusion350 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r58hnn/cảm_giác_sợ_ai_nó_giành_việc_của_mình_mất/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r58hnn/cảm_giác_sợ_ai_nó_giành_việc_của_mình_mất/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1r58hnn/cảm_giác_sợ_ai_nó_giành_việc_của_mình_mất/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-15T07:27:46+00:00</published>
   </entry>
   <entry>
     <id>t3_1r55amk</id>
