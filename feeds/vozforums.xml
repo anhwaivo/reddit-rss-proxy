@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-02-18T05:44:41+00:00</updated>
+  <updated>2026-02-18T06:42:57+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1r6ym5i</id>
-    <title>Mừng xuân Bính Ngọ</title>
-    <updated>2026-02-17T06:28:03+00:00</updated>
-    <author>
-      <name>/u/tieubinhco</name>
-      <uri>https://old.reddit.com/user/tieubinhco</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1r6ym5i/mừng_xuân_bính_ngọ/"&gt; &lt;img alt="Mừng xuân Bính Ngọ" src="https://preview.redd.it/dodqr4t310kg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=5583dece2d50156635f09883d41a07239fc636f3" title="Mừng xuân Bính Ngọ" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chúc các vozer năm nay vạn sự như ý, mã đáo thành công 🐎&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/tieubinhco"&gt; /u/tieubinhco &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/dodqr4t310kg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r6ym5i/mừng_xuân_bính_ngọ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1r6ym5i/mừng_xuân_bính_ngọ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-17T06:28:03+00:00</published>
-  </entry>
   <entry>
     <id>t3_1r75c6f</id>
     <title>Chân vòng kiềng</title>
@@ -32,19 +19,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1r75c6f/chân_vòng_kiềng/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-02-17T12:59:10+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1r7alzh</id>
-    <title>Hỏi về nvqs và vb2 conan</title>
-    <updated>2026-02-17T16:23:04+00:00</updated>
-    <author>
-      <name>/u/Mean_Carry_8917</name>
-      <uri>https://old.reddit.com/user/Mean_Carry_8917</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hỏi về nvqs và vb2 conan&lt;/p&gt; &lt;p&gt;Hỏi về việc học văn bằng 2 công an sau khi tốt nghiệp đại học? Chào các nng em hiện tại đang là sinh viên Kinh tế năm 4 chuẩn bị tốt nghiệp XS trường N có IE 7.0, hiện tại đang khá là mất phương hướng vì một phần cũng là lo bị dính đi nvqs. Em có dự tính sau khi tốt nghiệp thì sẽ học văn bằng 2 cảnh sát hoặc an ninh. Không biết nước đi này có ổn không ạ?&lt;br /&gt; Ở đây bác nào có kinh nghiệm về việc này thì có thể tư vấn và cho em xin một ít thông tin với ạ em cảm ơn. Gia đình em ko gốc gác ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Mean_Carry_8917"&gt; /u/Mean_Carry_8917 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r7alzh/hỏi_về_nvqs_và_vb2_conan/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r7alzh/hỏi_về_nvqs_và_vb2_conan/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1r7alzh/hỏi_về_nvqs_và_vb2_conan/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-17T16:23:04+00:00</published>
   </entry>
   <entry>
     <id>t3_1r780wj</id>
@@ -71,6 +45,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1r6vjr9/mua_nhà/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-02-17T03:49:25+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1r7alzh</id>
+    <title>Hỏi về nvqs và vb2 conan</title>
+    <updated>2026-02-17T16:23:04+00:00</updated>
+    <author>
+      <name>/u/Mean_Carry_8917</name>
+      <uri>https://old.reddit.com/user/Mean_Carry_8917</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hỏi về nvqs và vb2 conan&lt;/p&gt; &lt;p&gt;Hỏi về việc học văn bằng 2 công an sau khi tốt nghiệp đại học? Chào các nng em hiện tại đang là sinh viên Kinh tế năm 4 chuẩn bị tốt nghiệp XS trường N có IE 7.0, hiện tại đang khá là mất phương hướng vì một phần cũng là lo bị dính đi nvqs. Em có dự tính sau khi tốt nghiệp thì sẽ học văn bằng 2 cảnh sát hoặc an ninh. Không biết nước đi này có ổn không ạ?&lt;br /&gt; Ở đây bác nào có kinh nghiệm về việc này thì có thể tư vấn và cho em xin một ít thông tin với ạ em cảm ơn. Gia đình em ko gốc gác ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Mean_Carry_8917"&gt; /u/Mean_Carry_8917 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r7alzh/hỏi_về_nvqs_và_vb2_conan/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r7alzh/hỏi_về_nvqs_và_vb2_conan/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1r7alzh/hỏi_về_nvqs_và_vb2_conan/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-17T16:23:04+00:00</published>
   </entry>
   <entry>
     <id>t3_1r6z2o0</id>
@@ -190,19 +177,6 @@
     <published>2026-02-17T08:54:00+00:00</published>
   </entry>
   <entry>
-    <id>t3_1r7tzfl</id>
-    <title>Làm sao để bớt vỡ mộng lúc yêu và lúc cưới</title>
-    <updated>2026-02-18T05:02:52+00:00</updated>
-    <author>
-      <name>/u/Hyggie2002</name>
-      <uri>https://old.reddit.com/user/Hyggie2002</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Liệu sự nuông chiều khi yêu có phải là một khoản vay mà áp lực trách nhiệm sau khi cưới sẽ bắt anh ấy phải trả bằng sự thay đổi tính cách? Tôi sợ rằng khi đôi vai nặng gánh lo toan, người đàn ông từng coi tôi là cả thế giới sẽ trở nên xa lạ và cọc cằn.&lt;/p&gt; &lt;p&gt;Làm sao để nhận diện được một người đàn ông có khả năng giữ vững tâm lý và sự tử tế khi chuyển giao từ giai đoạn yêu chiều vô điều kiện sang giai đoạn gánh vác trách nhiệm gia đình đầy áp lực?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Hyggie2002"&gt; /u/Hyggie2002 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r7tzfl/làm_sao_để_bớt_vỡ_mộng_lúc_yêu_và_lúc_cưới/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r7tzfl/làm_sao_để_bớt_vỡ_mộng_lúc_yêu_và_lúc_cưới/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1r7tzfl/làm_sao_để_bớt_vỡ_mộng_lúc_yêu_và_lúc_cưới/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-18T05:02:52+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1r7uiin</id>
     <title>hỏi về voz</title>
     <updated>2026-02-18T05:30:41+00:00</updated>
@@ -255,17 +229,30 @@
     <published>2026-02-18T04:40:18+00:00</published>
   </entry>
   <entry>
-    <id>t3_1r7tyvl</id>
-    <title>Trên đường đi đón khách</title>
-    <updated>2026-02-18T05:02:09+00:00</updated>
+    <id>t3_1r7snug</id>
+    <title>Có ai đang sinh sống tại Úc không ( hỏi nghiêm túc mong mod đừng xoá)</title>
+    <updated>2026-02-18T03:58:02+00:00</updated>
     <author>
-      <name>/u/Own_Maize_9864</name>
-      <uri>https://old.reddit.com/user/Own_Maize_9864</uri>
+      <name>/u/RelativeRiver</name>
+      <uri>https://old.reddit.com/user/RelativeRiver</uri>
     </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1r7tyvl/trên_đường_đi_đón_khách/"&gt; &lt;img alt="Trên đường đi đón khách" src="https://preview.redd.it/8gs0v3wmq6kg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=03ad2d87591e483ce20adfcb3c12e96c6f287bf2" title="Trên đường đi đón khách" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Vẫn là anh Grab, trên đường đi đón khách.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Own_Maize_9864"&gt; /u/Own_Maize_9864 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/8gs0v3wmq6kg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r7tyvl/trên_đường_đi_đón_khách/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1r7tyvl/trên_đường_đi_đón_khách/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình dự định du lịch úc nhưng theo lịch trình là đáp xuống sydney hay melbourne chứ không có adelaide&lt;/p&gt; &lt;p&gt;Mình di chuyển từ melbourne sang adelaide cũng 8 tiếng taxi rồi và dự định di chuyển bằng taxi.&lt;/p&gt; &lt;p&gt;Như vậy thì tốn quá cho 2 chiều trong khi mình chỉ có 1 ngày off&lt;/p&gt; &lt;p&gt;Các bạn sống ở Úc tư vấn mình đi metro hay gì được không và mua vé thế nào&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/RelativeRiver"&gt; /u/RelativeRiver &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r7snug/có_ai_đang_sinh_sống_tại_úc_không_hỏi_nghiêm_túc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r7snug/có_ai_đang_sinh_sống_tại_úc_không_hỏi_nghiêm_túc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1r7snug/có_ai_đang_sinh_sống_tại_úc_không_hỏi_nghiêm_túc/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-18T05:02:09+00:00</published>
+    <published>2026-02-18T03:58:02+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1r7vfz0</id>
+    <title>Làm thế nào để giao tiếp với người lớn tuổi</title>
+    <updated>2026-02-18T06:22:39+00:00</updated>
+    <author>
+      <name>/u/insomnia333_21</name>
+      <uri>https://old.reddit.com/user/insomnia333_21</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Thực sự không giữ nổi bình tĩnh mỗi lần nói chuyện với bà mình. &lt;/p&gt; &lt;p&gt;Mình biết bà đã rất vất vả để nuôi mình khôn lớn. Nhưng đôi khi mình thật sự thấy ghét bà, vì bà là người già, nên dù bà vô cớ mắng mình mỗi ngày, mình cũng coi như không nghe thấy mà nhịn cho qua. Nhưng đâu thể càng mắng lại càng hăng như vậy được. Hơn nữa, giọng bà khi mắng người thật sự rất khó chịu, rất, rất khó chịu. Vốn dĩ bị mắng vô cớ đã bực rồi, nên mình không nhịn được mà cãi lại một câu. Thế là bà bắt đầu nói bà đã khổ thế nào, mệt mỏi ra sao, không ai hiểu bà, cũng chẳng ai thương bà; nói mình bất hiếu, nói mình không thương bà. Mình nào dám không thương bà chứ. Dù những lời đó mình đã nghe rất nhiều lần, nhưng mỗi lần nghe vẫn thấy tủi thân vô cùng. Mình không nhịn được mà khóc, bà thấy mình khóc thì lại càng mắng hăng hơn. Sau đó mình im lặng, mặc bà nói gì thì nói. Cuối cùng, mắng một hồi thì bà cũng khóc.&lt;/p&gt; &lt;p&gt;Khi bà nói chuyện với người ngoài, lúc nào cũng là “Ôi cái con này thì có biết làm gì đâu” “Ôi con này nó lạnh lùng lắm” cùng với những lắc đầu ngán ngẩm. Nhưng chưa bao giờ bà khen hay động viên mình, chưa bao giờ bà nói về việc mình chở bà đi viện lúc 3h sáng khi bà lên cơn dị ứng, chưa bao giờ bà nói về việc mình vẫn trải đệm ngủ ở phòng bà mỗi đêm để phòng hờ bà, dù bà ngáy rất to và mình bị mất ngủ. Mình nói như vậy không phải để kể công, mình chỉ thấy buồn khi trong mắt bà tình thương của mình không đáng nhắc tới.&lt;/p&gt; &lt;p&gt;Tối qua mình thực sự không nhịn nổi, mình quát lớn “Con biết trong mắt bà con là một đứa vô ơn, vô dụng. Nhưng con nhịn đủ rồi” (Chữ vô ơn vô dụng là những lời bà hay nói về mình) thì bà đập bàn quẳng ghế. Nói rằng sao tôi khổ thế này, sao tôi nhục thế này mà để cháu tôi nói như vậy với tôi.&lt;/p&gt; &lt;p&gt;Mình đã làm gì cơ chứ? Mình chỉ lặp lại những lời tổn thương bà nói về mình thôi. Người đau là mình cơ mà? Tại sao bây giờ mình mới là thupham? &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/insomnia333_21"&gt; /u/insomnia333_21 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r7vfz0/làm_thế_nào_để_giao_tiếp_với_người_lớn_tuổi/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r7vfz0/làm_thế_nào_để_giao_tiếp_với_người_lớn_tuổi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1r7vfz0/làm_thế_nào_để_giao_tiếp_với_người_lớn_tuổi/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-18T06:22:39+00:00</published>
   </entry>
   <entry>
     <id>t3_1r7a6rx</id>
@@ -281,19 +268,6 @@
     <published>2026-02-17T16:09:14+00:00</published>
   </entry>
   <entry>
-    <id>t3_1r7snug</id>
-    <title>Có ai đang sinh sống tại Úc không ( hỏi nghiêm túc mong mod đừng xoá)</title>
-    <updated>2026-02-18T03:58:02+00:00</updated>
-    <author>
-      <name>/u/RelativeRiver</name>
-      <uri>https://old.reddit.com/user/RelativeRiver</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình dự định du lịch úc nhưng theo lịch trình là đáp xuống sydney hay melbourne chứ không có adelaide&lt;/p&gt; &lt;p&gt;Mình di chuyển từ melbourne sang adelaide cũng 8 tiếng taxi rồi và dự định di chuyển bằng taxi.&lt;/p&gt; &lt;p&gt;Như vậy thì tốn quá cho 2 chiều trong khi mình chỉ có 1 ngày off&lt;/p&gt; &lt;p&gt;Các bạn sống ở Úc tư vấn mình đi metro hay gì được không và mua vé thế nào&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/RelativeRiver"&gt; /u/RelativeRiver &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r7snug/có_ai_đang_sinh_sống_tại_úc_không_hỏi_nghiêm_túc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r7snug/có_ai_đang_sinh_sống_tại_úc_không_hỏi_nghiêm_túc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1r7snug/có_ai_đang_sinh_sống_tại_úc_không_hỏi_nghiêm_túc/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-18T03:58:02+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1r715di</id>
     <title>Tết ko bạn bè buồn quá các bác à</title>
     <updated>2026-02-17T09:04:15+00:00</updated>
@@ -305,6 +279,32 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1r715di/tết_ko_bạn_bè_buồn_quá_các_bác_à/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-02-17T09:04:15+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1r7tyvl</id>
+    <title>Trên đường đi đón khách</title>
+    <updated>2026-02-18T05:02:09+00:00</updated>
+    <author>
+      <name>/u/Own_Maize_9864</name>
+      <uri>https://old.reddit.com/user/Own_Maize_9864</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1r7tyvl/trên_đường_đi_đón_khách/"&gt; &lt;img alt="Trên đường đi đón khách" src="https://preview.redd.it/8gs0v3wmq6kg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=03ad2d87591e483ce20adfcb3c12e96c6f287bf2" title="Trên đường đi đón khách" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Vẫn là anh Grab, trên đường đi đón khách.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Own_Maize_9864"&gt; /u/Own_Maize_9864 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/8gs0v3wmq6kg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r7tyvl/trên_đường_đi_đón_khách/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1r7tyvl/trên_đường_đi_đón_khách/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-18T05:02:09+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1r7tzfl</id>
+    <title>Làm sao để bớt vỡ mộng lúc yêu và lúc cưới</title>
+    <updated>2026-02-18T05:02:52+00:00</updated>
+    <author>
+      <name>/u/Hyggie2002</name>
+      <uri>https://old.reddit.com/user/Hyggie2002</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Liệu sự nuông chiều khi yêu có phải là một khoản vay mà áp lực trách nhiệm sau khi cưới sẽ bắt anh ấy phải trả bằng sự thay đổi tính cách? Tôi sợ rằng khi đôi vai nặng gánh lo toan, người đàn ông từng coi tôi là cả thế giới sẽ trở nên xa lạ và cọc cằn.&lt;/p&gt; &lt;p&gt;Làm sao để nhận diện được một người đàn ông có khả năng giữ vững tâm lý và sự tử tế khi chuyển giao từ giai đoạn yêu chiều vô điều kiện sang giai đoạn gánh vác trách nhiệm gia đình đầy áp lực?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Hyggie2002"&gt; /u/Hyggie2002 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r7tzfl/làm_sao_để_bớt_vỡ_mộng_lúc_yêu_và_lúc_cưới/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r7tzfl/làm_sao_để_bớt_vỡ_mộng_lúc_yêu_và_lúc_cưới/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1r7tzfl/làm_sao_để_bớt_vỡ_mộng_lúc_yêu_và_lúc_cưới/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-18T05:02:52+00:00</published>
   </entry>
   <entry>
     <id>t3_1r7q6af</id>
