@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-02-18T07:39:23+00:00</updated>
+  <updated>2026-02-18T08:26:50+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -203,19 +203,6 @@
     <published>2026-02-17T18:31:33+00:00</published>
   </entry>
   <entry>
-    <id>t3_1r7tj90</id>
-    <title>Được Grab chúc mừng năm mới</title>
-    <updated>2026-02-18T04:40:18+00:00</updated>
-    <author>
-      <name>/u/Own_Maize_9864</name>
-      <uri>https://old.reddit.com/user/Own_Maize_9864</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1r7tj90/được_grab_chúc_mừng_năm_mới/"&gt; &lt;img alt="Được Grab chúc mừng năm mới" src="https://preview.redd.it/4ehl8cdsm6kg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=aa1d623005877aeca759ab80cb06fa83e88838de" title="Được Grab chúc mừng năm mới" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Vui quá luôn lol&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Own_Maize_9864"&gt; /u/Own_Maize_9864 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/4ehl8cdsm6kg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r7tj90/được_grab_chúc_mừng_năm_mới/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1r7tj90/được_grab_chúc_mừng_năm_mới/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-18T04:40:18+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1r7snug</id>
     <title>Có ai đang sinh sống tại Úc không ( hỏi nghiêm túc mong mod đừng xoá)</title>
     <updated>2026-02-18T03:58:02+00:00</updated>
@@ -227,6 +214,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1r7snug/có_ai_đang_sinh_sống_tại_úc_không_hỏi_nghiêm_túc/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-02-18T03:58:02+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1r7tj90</id>
+    <title>Được Grab chúc mừng năm mới</title>
+    <updated>2026-02-18T04:40:18+00:00</updated>
+    <author>
+      <name>/u/Own_Maize_9864</name>
+      <uri>https://old.reddit.com/user/Own_Maize_9864</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1r7tj90/được_grab_chúc_mừng_năm_mới/"&gt; &lt;img alt="Được Grab chúc mừng năm mới" src="https://preview.redd.it/4ehl8cdsm6kg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=aa1d623005877aeca759ab80cb06fa83e88838de" title="Được Grab chúc mừng năm mới" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Vui quá luôn lol&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Own_Maize_9864"&gt; /u/Own_Maize_9864 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/4ehl8cdsm6kg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r7tj90/được_grab_chúc_mừng_năm_mới/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1r7tj90/được_grab_chúc_mừng_năm_mới/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-18T04:40:18+00:00</published>
   </entry>
   <entry>
     <id>t3_1r7a6rx</id>
@@ -242,17 +242,17 @@
     <published>2026-02-17T16:09:14+00:00</published>
   </entry>
   <entry>
-    <id>t3_1r7wei9</id>
-    <title>Học cách tán gái</title>
-    <updated>2026-02-18T07:19:11+00:00</updated>
+    <id>t3_1r7tyvl</id>
+    <title>Trên đường đi đón khách</title>
+    <updated>2026-02-18T05:02:09+00:00</updated>
     <author>
-      <name>/u/From-20-Onwards</name>
-      <uri>https://old.reddit.com/user/From-20-Onwards</uri>
+      <name>/u/Own_Maize_9864</name>
+      <uri>https://old.reddit.com/user/Own_Maize_9864</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mấy ông làm cách nào để làm quen gái trên Fb vậy, tôi nhắn tin toàn bi bơ thôi&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/From-20-Onwards"&gt; /u/From-20-Onwards &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r7wei9/học_cách_tán_gái/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r7wei9/học_cách_tán_gái/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1r7wei9/học_cách_tán_gái/"/>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1r7tyvl/trên_đường_đi_đón_khách/"&gt; &lt;img alt="Trên đường đi đón khách" src="https://preview.redd.it/8gs0v3wmq6kg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=03ad2d87591e483ce20adfcb3c12e96c6f287bf2" title="Trên đường đi đón khách" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Vẫn là anh Grab, trên đường đi đón khách.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Own_Maize_9864"&gt; /u/Own_Maize_9864 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/8gs0v3wmq6kg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r7tyvl/trên_đường_đi_đón_khách/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1r7tyvl/trên_đường_đi_đón_khách/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-18T07:19:11+00:00</published>
+    <published>2026-02-18T05:02:09+00:00</published>
   </entry>
   <entry>
     <id>t3_1r715di</id>
@@ -268,17 +268,17 @@
     <published>2026-02-17T09:04:15+00:00</published>
   </entry>
   <entry>
-    <id>t3_1r7tyvl</id>
-    <title>Trên đường đi đón khách</title>
-    <updated>2026-02-18T05:02:09+00:00</updated>
+    <id>t3_1r7q6af</id>
+    <title>Cách tư duy tiếng anh</title>
+    <updated>2026-02-18T02:06:52+00:00</updated>
     <author>
-      <name>/u/Own_Maize_9864</name>
-      <uri>https://old.reddit.com/user/Own_Maize_9864</uri>
+      <name>/u/Kitchen_Round8078</name>
+      <uri>https://old.reddit.com/user/Kitchen_Round8078</uri>
     </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1r7tyvl/trên_đường_đi_đón_khách/"&gt; &lt;img alt="Trên đường đi đón khách" src="https://preview.redd.it/8gs0v3wmq6kg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=03ad2d87591e483ce20adfcb3c12e96c6f287bf2" title="Trên đường đi đón khách" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Vẫn là anh Grab, trên đường đi đón khách.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Own_Maize_9864"&gt; /u/Own_Maize_9864 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/8gs0v3wmq6kg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r7tyvl/trên_đường_đi_đón_khách/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1r7tyvl/trên_đường_đi_đón_khách/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Như tiêu đề, làm sau để tư duy ngữ pháp tiếng anh đúng và điêu luyện nhỉ, em cứ hay lộn giữa ngữ pháp tiếng anh với tiếng việt, mong mn giúp a, trước đó e học tiếng anh để thi thpt thôi&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Kitchen_Round8078"&gt; /u/Kitchen_Round8078 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r7q6af/cách_tư_duy_tiếng_anh/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r7q6af/cách_tư_duy_tiếng_anh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1r7q6af/cách_tư_duy_tiếng_anh/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-18T05:02:09+00:00</published>
+    <published>2026-02-18T02:06:52+00:00</published>
   </entry>
   <entry>
     <id>t3_1r7tzfl</id>
@@ -294,17 +294,17 @@
     <published>2026-02-18T05:02:52+00:00</published>
   </entry>
   <entry>
-    <id>t3_1r7q6af</id>
-    <title>Cách tư duy tiếng anh</title>
-    <updated>2026-02-18T02:06:52+00:00</updated>
+    <id>t3_1r7wei9</id>
+    <title>Học cách tán gái</title>
+    <updated>2026-02-18T07:19:11+00:00</updated>
     <author>
-      <name>/u/Kitchen_Round8078</name>
-      <uri>https://old.reddit.com/user/Kitchen_Round8078</uri>
+      <name>/u/From-20-Onwards</name>
+      <uri>https://old.reddit.com/user/From-20-Onwards</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Như tiêu đề, làm sau để tư duy ngữ pháp tiếng anh đúng và điêu luyện nhỉ, em cứ hay lộn giữa ngữ pháp tiếng anh với tiếng việt, mong mn giúp a, trước đó e học tiếng anh để thi thpt thôi&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Kitchen_Round8078"&gt; /u/Kitchen_Round8078 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r7q6af/cách_tư_duy_tiếng_anh/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r7q6af/cách_tư_duy_tiếng_anh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1r7q6af/cách_tư_duy_tiếng_anh/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mấy ông làm cách nào để làm quen gái trên Fb vậy, tôi nhắn tin toàn bi bơ thôi&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/From-20-Onwards"&gt; /u/From-20-Onwards &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r7wei9/học_cách_tán_gái/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r7wei9/học_cách_tán_gái/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1r7wei9/học_cách_tán_gái/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-18T02:06:52+00:00</published>
+    <published>2026-02-18T07:19:11+00:00</published>
   </entry>
   <entry>
     <id>t3_1r7vfz0</id>
