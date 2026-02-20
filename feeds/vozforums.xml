@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-02-19T23:45:07+00:00</updated>
+  <updated>2026-02-20T00:02:05+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -216,19 +216,6 @@
     <published>2026-02-19T18:36:19+00:00</published>
   </entry>
   <entry>
-    <id>t3_1r9dp0o</id>
-    <title>Tài chính quốc tế b</title>
-    <updated>2026-02-19T22:33:17+00:00</updated>
-    <author>
-      <name>/u/Suspicious-Emu1188</name>
-      <uri>https://old.reddit.com/user/Suspicious-Emu1188</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em 2k8, đang có định hướng về ngành tài chính quốc tế. Em mong muốn được các anh chị, mọi người chia sẻ về ngành này, kinh nghiệm và công việc anh chị đang làm hiện tại ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Suspicious-Emu1188"&gt; /u/Suspicious-Emu1188 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r9dp0o/tài_chính_quốc_tế_b/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r9dp0o/tài_chính_quốc_tế_b/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1r9dp0o/tài_chính_quốc_tế_b/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-19T22:33:17+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1r8zu7d</id>
     <title>Tài sản cá nhân sau khi mất</title>
     <updated>2026-02-19T13:55:54+00:00</updated>
@@ -253,6 +240,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1r96vzb/mặc_cảm_vì_gia_đình/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-02-19T18:20:15+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1r9dp0o</id>
+    <title>Tài chính quốc tế b</title>
+    <updated>2026-02-19T22:33:17+00:00</updated>
+    <author>
+      <name>/u/Suspicious-Emu1188</name>
+      <uri>https://old.reddit.com/user/Suspicious-Emu1188</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em 2k8, đang có định hướng về ngành tài chính quốc tế. Em mong muốn được các anh chị, mọi người chia sẻ về ngành này, kinh nghiệm và công việc anh chị đang làm hiện tại ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Suspicious-Emu1188"&gt; /u/Suspicious-Emu1188 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r9dp0o/tài_chính_quốc_tế_b/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1r9dp0o/tài_chính_quốc_tế_b/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1r9dp0o/tài_chính_quốc_tế_b/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-19T22:33:17+00:00</published>
   </entry>
   <entry>
     <id>t3_1r8tkip</id>
