@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-02-21T19:12:40+00:00</updated>
+  <updated>2026-02-21T19:37:24+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1rar8kr</id>
-    <title>Lì xì ba con số nghĩa là sao vậy các bác</title>
-    <updated>2026-02-21T13:34:02+00:00</updated>
-    <author>
-      <name>/u/RelativeRiver</name>
-      <uri>https://old.reddit.com/user/RelativeRiver</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mod hay xóa bài của mình lắm&lt;/p&gt; &lt;p&gt;Mình thấy trend lì xì 520 là sao nhỉ&lt;/p&gt; &lt;p&gt;Còn trend nào khác không&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/RelativeRiver"&gt; /u/RelativeRiver &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rar8kr/lì_xì_ba_con_số_nghĩa_là_sao_vậy_các_bác/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rar8kr/lì_xì_ba_con_số_nghĩa_là_sao_vậy_các_bác/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rar8kr/lì_xì_ba_con_số_nghĩa_là_sao_vậy_các_bác/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-21T13:34:02+00:00</published>
-  </entry>
   <entry>
     <id>t3_1rama85</id>
     <title>Tiền đô, ai ở bình dương thì mình bán nha</title>
@@ -84,6 +71,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1rathw8/nên_chọn_giữa_báo_chí_tuyên_truyền_hay_ngôn_ngữ/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-02-21T15:11:51+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1rb04te</id>
+    <title>Việc làm mảng điện tử viễn thông mảng network ở nước ngoài</title>
+    <updated>2026-02-21T19:28:56+00:00</updated>
+    <author>
+      <name>/u/BOT-PT217</name>
+      <uri>https://old.reddit.com/user/BOT-PT217</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác Em mới năm 3 nhưng mà kh mặn mà gì với ngành này ở trong nước nên em đang kiếm đường đi nước ngoài, không biết mấy bác có gợi ý gì không và không biết là sau khi em đi có bị gọi nvqs về không Chỗ em thì thấy mấy ông mèo mả gà đồng nhiều, lớp thì cũng có 1 đứa đi nhật 1 đứa đi hàn rồi nên em cũng đang không biết danh sách tuyển nó như nào nữa&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/BOT-PT217"&gt; /u/BOT-PT217 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rb04te/việc_làm_mảng_điện_tử_viễn_thông_mảng_network_ở/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rb04te/việc_làm_mảng_điện_tử_viễn_thông_mảng_network_ở/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rb04te/việc_làm_mảng_điện_tử_viễn_thông_mảng_network_ở/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-21T19:28:56+00:00</published>
   </entry>
   <entry>
     <id>t3_1raqqh6</id>
@@ -268,17 +268,17 @@
     <published>2026-02-21T16:48:15+00:00</published>
   </entry>
   <entry>
-    <id>t3_1rasd6v</id>
-    <title>Những bạn nữ có bạn trai/chồng nhỏ hay bằng tuổi, điều gì khiến các bạn chọn người ấy ?</title>
-    <updated>2026-02-21T14:24:26+00:00</updated>
+    <id>t3_1rahtsk</id>
+    <title>Nam giới có nên mặc quần lót ở nhà không?</title>
+    <updated>2026-02-21T04:37:47+00:00</updated>
     <author>
-      <name>/u/BunnyJumperSukhoi</name>
-      <uri>https://old.reddit.com/user/BunnyJumperSukhoi</uri>
+      <name>/u/HoanhNguyen25</name>
+      <uri>https://old.reddit.com/user/HoanhNguyen25</uri>
     </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/BunnyJumperSukhoi"&gt; /u/BunnyJumperSukhoi &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rasd6v/những_bạn_nữ_có_bạn_traichồng_nhỏ_hay_bằng_tuổi/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rasd6v/những_bạn_nữ_có_bạn_traichồng_nhỏ_hay_bằng_tuổi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rasd6v/những_bạn_nữ_có_bạn_traichồng_nhỏ_hay_bằng_tuổi/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Anh em sao chứ tôi mặc quần lót cảm giác không thoải mái.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/HoanhNguyen25"&gt; /u/HoanhNguyen25 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rahtsk/nam_giới_có_nên_mặc_quần_lót_ở_nhà_không/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rahtsk/nam_giới_có_nên_mặc_quần_lót_ở_nhà_không/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rahtsk/nam_giới_có_nên_mặc_quần_lót_ở_nhà_không/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-21T14:24:26+00:00</published>
+    <published>2026-02-21T04:37:47+00:00</published>
   </entry>
   <entry>
     <id>t3_1rawolv</id>
@@ -294,17 +294,17 @@
     <published>2026-02-21T17:16:34+00:00</published>
   </entry>
   <entry>
-    <id>t3_1rahtsk</id>
-    <title>Nam giới có nên mặc quần lót ở nhà không?</title>
-    <updated>2026-02-21T04:37:47+00:00</updated>
+    <id>t3_1rasd6v</id>
+    <title>Những bạn nữ có bạn trai/chồng nhỏ hay bằng tuổi, điều gì khiến các bạn chọn người ấy ?</title>
+    <updated>2026-02-21T14:24:26+00:00</updated>
     <author>
-      <name>/u/HoanhNguyen25</name>
-      <uri>https://old.reddit.com/user/HoanhNguyen25</uri>
+      <name>/u/BunnyJumperSukhoi</name>
+      <uri>https://old.reddit.com/user/BunnyJumperSukhoi</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Anh em sao chứ tôi mặc quần lót cảm giác không thoải mái.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/HoanhNguyen25"&gt; /u/HoanhNguyen25 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rahtsk/nam_giới_có_nên_mặc_quần_lót_ở_nhà_không/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rahtsk/nam_giới_có_nên_mặc_quần_lót_ở_nhà_không/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rahtsk/nam_giới_có_nên_mặc_quần_lót_ở_nhà_không/"/>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/BunnyJumperSukhoi"&gt; /u/BunnyJumperSukhoi &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rasd6v/những_bạn_nữ_có_bạn_traichồng_nhỏ_hay_bằng_tuổi/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rasd6v/những_bạn_nữ_có_bạn_traichồng_nhỏ_hay_bằng_tuổi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rasd6v/những_bạn_nữ_có_bạn_traichồng_nhỏ_hay_bằng_tuổi/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-21T04:37:47+00:00</published>
+    <published>2026-02-21T14:24:26+00:00</published>
   </entry>
   <entry>
     <id>t3_1rao4kh</id>
