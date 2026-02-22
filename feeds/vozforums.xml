@@ -2,37 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-02-22T04:25:32+00:00</updated>
+  <updated>2026-02-22T05:34:26+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1ramhn4</id>
-    <title>Nghề làm thêm</title>
-    <updated>2026-02-21T09:02:09+00:00</updated>
-    <author>
-      <name>/u/Many-Lion7612</name>
-      <uri>https://old.reddit.com/user/Many-Lion7612</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các bác cho e hỏi có nghề gì làm thêm để bứt phá đc k ạ? E là dev Backend, các bác có job hay con đường nào làm thêm cho e xin hướng đi với ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Many-Lion7612"&gt; /u/Many-Lion7612 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ramhn4/nghề_làm_thêm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ramhn4/nghề_làm_thêm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ramhn4/nghề_làm_thêm/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-21T09:02:09+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1raerta</id>
-    <title>Sinh viên 2003 IT mới ra trường, chưa tìm được việc</title>
-    <updated>2026-02-21T02:08:23+00:00</updated>
-    <author>
-      <name>/u/Dangerous_Annual6017</name>
-      <uri>https://old.reddit.com/user/Dangerous_Annual6017</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người,&lt;/p&gt; &lt;p&gt;Mình sinh năm 2003, vừa tốt nghiệp năm 4 và theo hướng Backend Java Spring Boot.&lt;/p&gt; &lt;p&gt;Background của mình:&lt;/p&gt; &lt;p&gt;Từng thực tập 3 tháng backend.&lt;/p&gt; &lt;p&gt;Hiện đang làm freelance cho một công ty chuyển đổi số, làm các ứng dụng nội bộ và hệ thống phục vụ vận hành.&lt;/p&gt; &lt;p&gt;Có nhận làm tool cho khách&lt;/p&gt; &lt;p&gt;Ngoài ra có nhận làm bài tập thuê để kiếm thêm thu nhập.&lt;/p&gt; &lt;p&gt;Thu nhập hiện tại trung bình khoảng 7-10 triệu/tháng, tùy thời điểm nhiều hay ít job. Không phải quá thấp, nhưng tiền về theo kiểu “làm xong task là có tiền”, nên mình không có cảm giác ổn định. Thực tế là tháng nào cũng gần như hết tiền vì không có lương cố định hay kế hoạch tài chính rõ ràng.&lt;/p&gt; &lt;p&gt;Về freelance cho công ty:&lt;/p&gt; &lt;p&gt;Những gì mình làm được phần lớn nhờ vào thời gian thực tập trước đó. Trong quá trình thực tập mình học được khá nhiều về cấu trúc project, cách tổ chức code, auth, phân quyền, xử lý business logic… Sau này mình lấy những kinh nghiệm đó ra setup lại cho các project freelance hiện tại.&lt;/p&gt; &lt;p&gt;Về kỹ năng:&lt;/p&gt; &lt;p&gt;Backend mình tự tin hơn &lt;/p&gt; &lt;p&gt;Frontend mình không theo chính, thường chỉ setup base project ban đầu (cấu trúc, routing, config…), sau đó dùng vibe code hỗ trợ follow theo yêu cầu.&lt;/p&gt; &lt;p&gt;Mình xác định theo Backend lâu dài. Nhưng vấn đề là:&lt;/p&gt; &lt;p&gt;Apply Fresher/Junior Java rất ít phản hồi.&lt;/p&gt; &lt;p&gt;Nhiều JD yêu cầu 1–2 năm kinh nghiệm.&lt;/p&gt; &lt;p&gt;Không biết freelance + làm tool như vậy có được xem là “kinh nghiệm thực tế” không.&lt;/p&gt; &lt;p&gt;Không rõ CV của mình đang thiếu gì để qua vòng lọc.&lt;/p&gt; &lt;p&gt;Hiện tại mình ở trạng thái hơi lưng chừng.&lt;/p&gt; &lt;p&gt;Không hẳn là thất nghiệp vì vẫn có tiền.&lt;/p&gt; &lt;p&gt;Nhưng cũng không có một công việc chính thức để phát triển lâu dài.&lt;/p&gt; &lt;p&gt;Mình hơi áp lực vì thấy bạn bè đã đi làm full-time, có lương ổn định, có mentor, có môi trường rõ ràng. Còn mình thì cảm giác vẫn đang “code tự bơi”.&lt;/p&gt; &lt;p&gt;Mình muốn hỏi anh/chị đi trước:&lt;/p&gt; &lt;p&gt;Với fresher Java hiện tại, công ty thực sự đánh giá cao điều gì nhất? (DSA? Database? Clean code? System design cơ bản?)&lt;/p&gt; &lt;p&gt;Freelance và làm tool cho khách có nên ghi mạnh vào CV như kinh nghiệm làm việc không?&lt;/p&gt; &lt;p&gt;Có nên apply cả vị trí Junior yêu cầu 1 năm kinh nghiệm không?&lt;/p&gt; &lt;p&gt;Trong 3–6 tháng tới, nếu chưa tìm được job full-time, mình nên tập trung nâng cấp skill theo hướng nào để tăng khả năng đậu backend?&lt;/p&gt; &lt;p&gt;Có ai từng ở trạng thái “có tiền freelance nhưng vẫn muốn thoát ra để đi làm chính thức” giống mình không?&lt;/p&gt; &lt;p&gt;Thị trường hiện tại mình thấy khá khó cho fresher backend nên cũng hơi áp lực. Nhưng mình vẫn muốn theo Java/Spring Boot lâu dài và phát triển nghiêm túc hơn.&lt;/p&gt; &lt;p&gt;Cảm ơn mọi người đã đọc, văn vẻ hơi lủng củng nên mình có dùng chatgpt viết lại cho đúng ý&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Dangerous_Annual6017"&gt; /u/Dangerous_Annual6017 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1raerta/sinh_viên_2003_it_mới_ra_trường_chưa_tìm_được_việc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1raerta/sinh_viên_2003_it_mới_ra_trường_chưa_tìm_được_việc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1raerta/sinh_viên_2003_it_mới_ra_trường_chưa_tìm_được_việc/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-21T02:08:23+00:00</published>
-  </entry>
   <entry>
     <id>t3_1rauc5q</id>
     <title>Làm quen</title>
@@ -97,19 +71,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1rakac3/âm_thanh_của_đường_phố/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-02-21T06:50:09+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1rava13</id>
-    <title>Thế nào là hào phóng?</title>
-    <updated>2026-02-21T16:22:51+00:00</updated>
-    <author>
-      <name>/u/ProfessionalIdea1409</name>
-      <uri>https://old.reddit.com/user/ProfessionalIdea1409</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Nhiều người thật kỳ lạ. Họ đi mua sắm cho bản thân và cân nhắc từng xu, rồi quyết định không mua vì nó đắt hơn ngoài chợ vài nghìn đồng, trong khi lại sẵn sàng trả thêm hàng chục nghìn đồng cho dịch vụ taxi vì &amp;quot;cho nó tròn&amp;quot;, &amp;quot;ngày Tết coi như lì xì cho họ&amp;quot;, không cho thì là xấu tính. Mình không tiếc vài nghìn, nhưng người hào phóng cũng phải biết cách thể hiện sự hào phóng. Tôi sử dụng dịch vụ của anh, anh làm nhiệm vụ của mình, tôi trả đủ tiền phải trả. Đấy là công bằng. Tôi mua tặng anh chai nước giải khát, đó là hào phóng. Nhưng tôi trả thêm vài nghìn &amp;quot;cho nó tròn&amp;quot;, ai biết anh có mắng tôi kẹt xỉ hay không? Tại sao lại phải khó chịu khi làm đúng và đủ trách nhiệm của mình. Thật kỳ lạ 🤪&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ProfessionalIdea1409"&gt; /u/ProfessionalIdea1409 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rava13/thế_nào_là_hào_phóng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rava13/thế_nào_là_hào_phóng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rava13/thế_nào_là_hào_phóng/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-21T16:22:51+00:00</published>
   </entry>
   <entry>
     <id>t3_1rb04te</id>
@@ -190,17 +151,17 @@
     <published>2026-02-21T16:55:01+00:00</published>
   </entry>
   <entry>
-    <id>t3_1rawolv</id>
-    <title>Kỹ thuật tàu thuật</title>
-    <updated>2026-02-21T17:16:34+00:00</updated>
+    <id>t3_1rava13</id>
+    <title>Thế nào là hào phóng?</title>
+    <updated>2026-02-21T16:22:51+00:00</updated>
     <author>
-      <name>/u/LycheeInfamous2233</name>
-      <uri>https://old.reddit.com/user/LycheeInfamous2233</uri>
+      <name>/u/ProfessionalIdea1409</name>
+      <uri>https://old.reddit.com/user/ProfessionalIdea1409</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em là nữ, 2008 em đang có ý định theo học ngành kĩ thuật tàu thủy nhưng thông tin em tìm hiểu được về ngành này trên các trang mạng chưa nhiều và cũng thấy cơ hội việc làm cho nữ khá ít em có thể xin sự giúp đỡ từ một số anh/chị đang làm trong lĩnh vực này hoặc có cơ hội tiếp xúc có thể đưa ra một số góc nhìn được không ạ &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/LycheeInfamous2233"&gt; /u/LycheeInfamous2233 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rawolv/kỹ_thuật_tàu_thuật/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rawolv/kỹ_thuật_tàu_thuật/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rawolv/kỹ_thuật_tàu_thuật/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Nhiều người thật kỳ lạ. Họ đi mua sắm cho bản thân và cân nhắc từng xu, rồi quyết định không mua vì nó đắt hơn ngoài chợ vài nghìn đồng, trong khi lại sẵn sàng trả thêm hàng chục nghìn đồng cho dịch vụ taxi vì &amp;quot;cho nó tròn&amp;quot;, &amp;quot;ngày Tết coi như lì xì cho họ&amp;quot;, không cho thì là xấu tính. Mình không tiếc vài nghìn, nhưng người hào phóng cũng phải biết cách thể hiện sự hào phóng. Tôi sử dụng dịch vụ của anh, anh làm nhiệm vụ của mình, tôi trả đủ tiền phải trả. Đấy là công bằng. Tôi mua tặng anh chai nước giải khát, đó là hào phóng. Nhưng tôi trả thêm vài nghìn &amp;quot;cho nó tròn&amp;quot;, ai biết anh có mắng tôi kẹt xỉ hay không? Tại sao lại phải khó chịu khi làm đúng và đủ trách nhiệm của mình. Thật kỳ lạ 🤪&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ProfessionalIdea1409"&gt; /u/ProfessionalIdea1409 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rava13/thế_nào_là_hào_phóng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rava13/thế_nào_là_hào_phóng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rava13/thế_nào_là_hào_phóng/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-21T17:16:34+00:00</published>
+    <published>2026-02-21T16:22:51+00:00</published>
   </entry>
   <entry>
     <id>t3_1rbat59</id>
@@ -229,17 +190,17 @@
     <published>2026-02-22T03:27:16+00:00</published>
   </entry>
   <entry>
-    <id>t3_1rbb7j9</id>
-    <title>Sinh viên Kinh doanh Quốc tế muốn học Thạc sĩ Ngôn ngữ học/TESOL để giảng dạy tiếng Anh – cần xin lời khuyên</title>
-    <updated>2026-02-22T03:32:08+00:00</updated>
+    <id>t3_1rawolv</id>
+    <title>Kỹ thuật tàu thuật</title>
+    <updated>2026-02-21T17:16:34+00:00</updated>
     <author>
-      <name>/u/Calm-Ad-1498</name>
-      <uri>https://old.reddit.com/user/Calm-Ad-1498</uri>
+      <name>/u/LycheeInfamous2233</name>
+      <uri>https://old.reddit.com/user/LycheeInfamous2233</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em hiện là sinh viên ngành Kinh doanh Quốc tế và định hướng sau này muốn trở thành giảng viên/giáo viên tiếng Anh (ưu tiên giảng dạy tại trường học hơn là trung tâm).&lt;/p&gt; &lt;p&gt;Hiện tại em đang tìm hiểu hướng học Thạc sĩ Ngôn ngữ học hoặc TESOL, nhưng chưa rõ lộ trình nào phù hợp với nền tảng không học sư phạm/ngôn ngữ từ đầu.&lt;/p&gt; &lt;p&gt;Em mong được anh/chị đã từng chuyển ngành hoặc đang học/đã học Thạc sĩ Ngôn ngữ chia sẻ kinh nghiệm ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Calm-Ad-1498"&gt; /u/Calm-Ad-1498 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rbb7j9/sinh_viên_kinh_doanh_quốc_tế_muốn_học_thạc_sĩ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rbb7j9/sinh_viên_kinh_doanh_quốc_tế_muốn_học_thạc_sĩ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rbb7j9/sinh_viên_kinh_doanh_quốc_tế_muốn_học_thạc_sĩ/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em là nữ, 2008 em đang có ý định theo học ngành kĩ thuật tàu thủy nhưng thông tin em tìm hiểu được về ngành này trên các trang mạng chưa nhiều và cũng thấy cơ hội việc làm cho nữ khá ít em có thể xin sự giúp đỡ từ một số anh/chị đang làm trong lĩnh vực này hoặc có cơ hội tiếp xúc có thể đưa ra một số góc nhìn được không ạ &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/LycheeInfamous2233"&gt; /u/LycheeInfamous2233 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rawolv/kỹ_thuật_tàu_thuật/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rawolv/kỹ_thuật_tàu_thuật/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rawolv/kỹ_thuật_tàu_thuật/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-22T03:32:08+00:00</published>
+    <published>2026-02-21T17:16:34+00:00</published>
   </entry>
   <entry>
     <id>t3_1rbc1ga</id>
@@ -266,6 +227,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ravf7f/quên_đi_người_con_gái_đó/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-02-21T16:28:34+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1rbcazu</id>
+    <title>Mấy bác có oto mà nhà không có gara thì để đâu</title>
+    <updated>2026-02-22T04:28:13+00:00</updated>
+    <author>
+      <name>/u/RelativeRiver</name>
+      <uri>https://old.reddit.com/user/RelativeRiver</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Có bác nào trời nóng chui vào oto cho mát không&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/RelativeRiver"&gt; /u/RelativeRiver &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rbcazu/mấy_bác_có_oto_mà_nhà_không_có_gara_thì_để_đâu/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rbcazu/mấy_bác_có_oto_mà_nhà_không_có_gara_thì_để_đâu/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rbcazu/mấy_bác_có_oto_mà_nhà_không_có_gara_thì_để_đâu/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-22T04:28:13+00:00</published>
   </entry>
   <entry>
     <id>t3_1rasd6v</id>
@@ -307,17 +281,30 @@
     <published>2026-02-21T10:42:45+00:00</published>
   </entry>
   <entry>
-    <id>t3_1rbb99f</id>
-    <title>Cách nhận biết cả 2 hợp nhau khi hs</title>
-    <updated>2026-02-22T03:34:36+00:00</updated>
+    <id>t3_1rbcv1j</id>
+    <title>Bố vợ tương lai</title>
+    <updated>2026-02-22T04:57:38+00:00</updated>
     <author>
-      <name>/u/ClassroomSad849</name>
-      <uri>https://old.reddit.com/user/ClassroomSad849</uri>
+      <name>/u/users_84</name>
+      <uri>https://old.reddit.com/user/users_84</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình và nhiều bạn chắc tò mò không biết là khi hs, thì bạn nữ (và cả bạn nam) sẽ thấy ntn mới là hợp nhau khi hs, mọi người cho xin ý kiến với nhé&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ClassroomSad849"&gt; /u/ClassroomSad849 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rbb99f/cách_nhận_biết_cả_2_hợp_nhau_khi_hs/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rbb99f/cách_nhận_biết_cả_2_hợp_nhau_khi_hs/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rbb99f/cách_nhận_biết_cả_2_hợp_nhau_khi_hs/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác, em là nam 26t và có quen và yêu bạn gái ở gần nhà được gần 2 năm. Gia đình và người quen Tết này đều hỏi về chuyện tương lai của 2 đứa. 2 đứa chúng em thì đều nói sẽ tiến tới chuyện lập gia đình, nhưng đang bị vướng trường hợp của bố bạn gái. Bố bạn gái có tật say xỉn về tối. Ban ngày tỉnh táo thì chăm làm, rất hiền lành nhưng khi về tối là lại ăn nhậu say xỉn và về chửi bới gia đình, như hóa thành 1 con người khác luôn. Nay em lên đây xin hội đồng các bác tư vấn giải quyết vấn đề này với bố vợ tương lai với ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/users_84"&gt; /u/users_84 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rbcv1j/bố_vợ_tương_lai/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rbcv1j/bố_vợ_tương_lai/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rbcv1j/bố_vợ_tương_lai/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-22T03:34:36+00:00</published>
+    <published>2026-02-22T04:57:38+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1rbb7j9</id>
+    <title>Sinh viên Kinh doanh Quốc tế muốn học Thạc sĩ Ngôn ngữ học/TESOL để giảng dạy tiếng Anh – cần xin lời khuyên</title>
+    <updated>2026-02-22T03:32:08+00:00</updated>
+    <author>
+      <name>/u/Calm-Ad-1498</name>
+      <uri>https://old.reddit.com/user/Calm-Ad-1498</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em hiện là sinh viên ngành Kinh doanh Quốc tế và định hướng sau này muốn trở thành giảng viên/giáo viên tiếng Anh (ưu tiên giảng dạy tại trường học hơn là trung tâm).&lt;/p&gt; &lt;p&gt;Hiện tại em đang tìm hiểu hướng học Thạc sĩ Ngôn ngữ học hoặc TESOL, nhưng chưa rõ lộ trình nào phù hợp với nền tảng không học sư phạm/ngôn ngữ từ đầu.&lt;/p&gt; &lt;p&gt;Em mong được anh/chị đã từng chuyển ngành hoặc đang học/đã học Thạc sĩ Ngôn ngữ chia sẻ kinh nghiệm ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Calm-Ad-1498"&gt; /u/Calm-Ad-1498 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rbb7j9/sinh_viên_kinh_doanh_quốc_tế_muốn_học_thạc_sĩ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rbb7j9/sinh_viên_kinh_doanh_quốc_tế_muốn_học_thạc_sĩ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rbb7j9/sinh_viên_kinh_doanh_quốc_tế_muốn_học_thạc_sĩ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-22T03:32:08+00:00</published>
   </entry>
   <entry>
     <id>t3_1rah3p5</id>
@@ -331,5 +318,18 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1rah3p5/du_học_sinh_trung_quốc_ở_uk_tức_giận_vì_người/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-02-21T04:01:09+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1rbb99f</id>
+    <title>Cách nhận biết cả 2 hợp nhau khi hs</title>
+    <updated>2026-02-22T03:34:36+00:00</updated>
+    <author>
+      <name>/u/ClassroomSad849</name>
+      <uri>https://old.reddit.com/user/ClassroomSad849</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình và nhiều bạn chắc tò mò không biết là khi hs, thì bạn nữ (và cả bạn nam) sẽ thấy ntn mới là hợp nhau khi hs, mọi người cho xin ý kiến với nhé&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ClassroomSad849"&gt; /u/ClassroomSad849 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rbb99f/cách_nhận_biết_cả_2_hợp_nhau_khi_hs/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rbb99f/cách_nhận_biết_cả_2_hợp_nhau_khi_hs/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rbb99f/cách_nhận_biết_cả_2_hợp_nhau_khi_hs/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-22T03:34:36+00:00</published>
   </entry>
 </feed>
