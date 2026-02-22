@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-02-22T19:45:04+00:00</updated>
+  <updated>2026-02-22T19:57:30+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -71,6 +71,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1rbkx83/cập_nhật_chút_tình_hình_tâm_lý_sau_chia_tay/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-02-22T12:42:46+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1rbqpyl</id>
+    <title>Ngủ trong giờ học</title>
+    <updated>2026-02-22T16:48:23+00:00</updated>
+    <author>
+      <name>/u/coisama</name>
+      <uri>https://old.reddit.com/user/coisama</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mọi người ơi, chuyện là đã phải tới trường rồi, mà tết này thức đêm nhiều quá, mọi người có cách nào cho em nghỉ ngơi, thậm chí là ngủ trong giờ mà không bị thầy cô nhắc nhở không ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/coisama"&gt; /u/coisama &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rbqpyl/ngủ_trong_giờ_học/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rbqpyl/ngủ_trong_giờ_học/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rbqpyl/ngủ_trong_giờ_học/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-22T16:48:23+00:00</published>
   </entry>
   <entry>
     <id>t3_1rblhkf</id>
@@ -175,19 +188,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1rbue3n/gắn_bó_né_tránh_hay_lốp_xe_dự_phòng/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-02-22T19:04:53+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1rbqpyl</id>
-    <title>Ngủ trong giờ học</title>
-    <updated>2026-02-22T16:48:23+00:00</updated>
-    <author>
-      <name>/u/coisama</name>
-      <uri>https://old.reddit.com/user/coisama</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mọi người ơi, chuyện là đã phải tới trường rồi, mà tết này thức đêm nhiều quá, mọi người có cách nào cho em nghỉ ngơi, thậm chí là ngủ trong giờ mà không bị thầy cô nhắc nhở không ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/coisama"&gt; /u/coisama &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rbqpyl/ngủ_trong_giờ_học/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rbqpyl/ngủ_trong_giờ_học/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rbqpyl/ngủ_trong_giờ_học/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-22T16:48:23+00:00</published>
   </entry>
   <entry>
     <id>t3_1rbkzf5</id>
