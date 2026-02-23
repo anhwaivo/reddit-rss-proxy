@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-02-23T17:18:23+00:00</updated>
+  <updated>2026-02-23T18:34:09+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -60,19 +60,6 @@
     <published>2026-02-23T16:11:28+00:00</published>
   </entry>
   <entry>
-    <id>t3_1rcm475</id>
-    <title>Xin ý kiến của mọi người.</title>
-    <updated>2026-02-23T16:29:45+00:00</updated>
-    <author>
-      <name>/u/LHAMeoMeoz</name>
-      <uri>https://old.reddit.com/user/LHAMeoMeoz</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là nhà mình có ở chung với nhà chú (em của bố ) . &lt;/p&gt; &lt;p&gt;Mình hay đem ny về nhà mỗi tuần 1 lần, mà kh muốn đem ra cho thím chú nên khi vào mình cố cho ny né mặt thôi nên cx kh chào hỏi ( mình kh cho ny chào chứ kh phải anh kh muốn chào ).&lt;/p&gt; &lt;p&gt;Mà hôm nay chị mình nghe thím chê anh ny của mình EQ thấp ng ta đã kh thích rồi còn kh chào hỏi.&lt;/p&gt; &lt;p&gt;Thế h lần sau nên chào cho có lệ hay làm gì ?&lt;/p&gt; &lt;p&gt;Mình kh thích nhà thím chú nên kh muốn cho gặp mặt&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/LHAMeoMeoz"&gt; /u/LHAMeoMeoz &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rcm475/xin_ý_kiến_của_mọi_người/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rcm475/xin_ý_kiến_của_mọi_người/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rcm475/xin_ý_kiến_của_mọi_người/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-23T16:29:45+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1rcmxvy</id>
     <title>Em nên nhập điện thoại ở đâu</title>
     <updated>2026-02-23T16:58:55+00:00</updated>
@@ -99,19 +86,6 @@
     <published>2026-02-22T23:38:22+00:00</published>
   </entry>
   <entry>
-    <id>t3_1rchvkg</id>
-    <title>Các pro English chia sẻ cách học tiếng Anh hiểu quả điii</title>
-    <updated>2026-02-23T13:47:39+00:00</updated>
-    <author>
-      <name>/u/Mark_Alex210</name>
-      <uri>https://old.reddit.com/user/Mark_Alex210</uri>
-    </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Mark_Alex210"&gt; /u/Mark_Alex210 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rchvkg/các_pro_english_chia_sẻ_cách_học_tiếng_anh_hiểu/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rchvkg/các_pro_english_chia_sẻ_cách_học_tiếng_anh_hiểu/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rchvkg/các_pro_english_chia_sẻ_cách_học_tiếng_anh_hiểu/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-23T13:47:39+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1rcko06</id>
     <title>Em xin review về hãng Viettravel Airlines</title>
     <updated>2026-02-23T15:36:21+00:00</updated>
@@ -123,6 +97,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1rcko06/em_xin_review_về_hãng_viettravel_airlines/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-02-23T15:36:21+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1rchvkg</id>
+    <title>Các pro English chia sẻ cách học tiếng Anh hiểu quả điii</title>
+    <updated>2026-02-23T13:47:39+00:00</updated>
+    <author>
+      <name>/u/Mark_Alex210</name>
+      <uri>https://old.reddit.com/user/Mark_Alex210</uri>
+    </author>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Mark_Alex210"&gt; /u/Mark_Alex210 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rchvkg/các_pro_english_chia_sẻ_cách_học_tiếng_anh_hiểu/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rchvkg/các_pro_english_chia_sẻ_cách_học_tiếng_anh_hiểu/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rchvkg/các_pro_english_chia_sẻ_cách_học_tiếng_anh_hiểu/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-23T13:47:39+00:00</published>
   </entry>
   <entry>
     <id>t3_1rcmak1</id>
@@ -151,17 +138,17 @@
     <published>2026-02-23T04:03:12+00:00</published>
   </entry>
   <entry>
-    <id>t3_1rcmo9y</id>
-    <title>Câu hỏi về sân bay Long Thành</title>
-    <updated>2026-02-23T16:49:26+00:00</updated>
+    <id>t3_1rcm475</id>
+    <title>Xin ý kiến của mọi người.</title>
+    <updated>2026-02-23T16:29:45+00:00</updated>
     <author>
-      <name>/u/Competitive_Double90</name>
-      <uri>https://old.reddit.com/user/Competitive_Double90</uri>
+      <name>/u/LHAMeoMeoz</name>
+      <uri>https://old.reddit.com/user/LHAMeoMeoz</uri>
     </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1rcmo9y/câu_hỏi_về_sân_bay_long_thành/"&gt; &lt;img alt="Câu hỏi về sân bay Long Thành" src="https://preview.redd.it/p5l0muhfx9lg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=d3b18d63b58f2571f29110614524cf1d9fd76596" title="Câu hỏi về sân bay Long Thành" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Không nghiên cứu chuyên sâu nhưng mà từ những gì mấy bài bài viết thì chẳng nhẽ mục tiêu chính lại là xây đường sắt chỉ vì đơn giản phục vụ cho sân bay. Điều này tôi hiếm thấy ở mấy nước khác.&lt;/p&gt; &lt;p&gt;Không có tri thức nhiều về civic engineers. Nhưng đơn giản nếu các bạn ném tiền thuế cho tôi thì tôi muốn sẽ xây bộ khung trước, giao thông các kiểu con đà điều. Tôi chỉ rằng hiện tại Long Thành từ trung tâm HCM cũng phải tốn 3 tiếng. Dùng số tiền đó để maxxing sân bay Tân Sơn Nhứt. Sau đó nếu thấy nặng quá thì mới hẵng xây thêm từ cái nền có sẵn&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Competitive_Double90"&gt; /u/Competitive_Double90 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/p5l0muhfx9lg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rcmo9y/câu_hỏi_về_sân_bay_long_thành/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rcmo9y/câu_hỏi_về_sân_bay_long_thành/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là nhà mình có ở chung với nhà chú (em của bố ) . &lt;/p&gt; &lt;p&gt;Mình hay đem ny về nhà mỗi tuần 1 lần, mà kh muốn đem ra cho thím chú nên khi vào mình cố cho ny né mặt thôi nên cx kh chào hỏi ( mình kh cho ny chào chứ kh phải anh kh muốn chào ).&lt;/p&gt; &lt;p&gt;Mà hôm nay chị mình nghe thím chê anh ny của mình EQ thấp ng ta đã kh thích rồi còn kh chào hỏi.&lt;/p&gt; &lt;p&gt;Thế h lần sau nên chào cho có lệ hay làm gì ?&lt;/p&gt; &lt;p&gt;Mình kh thích nhà thím chú nên kh muốn cho gặp mặt&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/LHAMeoMeoz"&gt; /u/LHAMeoMeoz &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rcm475/xin_ý_kiến_của_mọi_người/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rcm475/xin_ý_kiến_của_mọi_người/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rcm475/xin_ý_kiến_của_mọi_người/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-23T16:49:26+00:00</published>
+    <published>2026-02-23T16:29:45+00:00</published>
   </entry>
   <entry>
     <id>t3_1rch800</id>
@@ -216,32 +203,6 @@
     <published>2026-02-23T08:54:04+00:00</published>
   </entry>
   <entry>
-    <id>t3_1rchflz</id>
-    <title>Tại sao mình chưa bao giờ gặp các vụ share bill, đòi hỏi nhà xe như cái bài post nhan nhản trên mạng? ._.</title>
-    <updated>2026-02-23T13:29:07+00:00</updated>
-    <author>
-      <name>/u/borjiginnergui</name>
-      <uri>https://old.reddit.com/user/borjiginnergui</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác, mình vốn là thằng đực rựa bình thường như bao người khác ._. Việc yêu đương với mình tuy chưa trải qua quá nhiều, nhưng các bạn nữ có hứng thú thì mình chưa bao giờ gặp bất cứ ai đòi nhà đòi xe, đòi giàu, tính toán share bill.&lt;/p&gt; &lt;p&gt;Hằng ngày lên mạng các kiểu mà mình thấy lạ quá. Có ông nào cảm thấy việc sống bình thường là đủ có bạn gái(nếu muốn) giống mình ko ._.&lt;/p&gt; &lt;p&gt;Là do MXH tạo content câu views tranh cãi liên tục, hay do cuộc sống của mình quá màu hồng?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/borjiginnergui"&gt; /u/borjiginnergui &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rchflz/tại_sao_mình_chưa_bao_giờ_gặp_các_vụ_share_bill/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rchflz/tại_sao_mình_chưa_bao_giờ_gặp_các_vụ_share_bill/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rchflz/tại_sao_mình_chưa_bao_giờ_gặp_các_vụ_share_bill/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-23T13:29:07+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1rcmpyo</id>
-    <title>HOW DO I FIND A FRIENDDDD</title>
-    <updated>2026-02-23T16:51:03+00:00</updated>
-    <author>
-      <name>/u/rossanneycr</name>
-      <uri>https://old.reddit.com/user/rossanneycr</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1rcmpyo/how_do_i_find_a_friendddd/"&gt; &lt;img alt="HOW DO I FIND A FRIENDDDD" src="https://preview.redd.it/6ra6o80qx9lg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=f44a0a58469c4400fde37224798132757e0e1d0e" title="HOW DO I FIND A FRIENDDDD" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;* i just wanna find a foreign friend *&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/rossanneycr"&gt; /u/rossanneycr &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/6ra6o80qx9lg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rcmpyo/how_do_i_find_a_friendddd/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rcmpyo/how_do_i_find_a_friendddd/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-23T16:51:03+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1rbwcgp</id>
     <title>update: đã chia tay</title>
     <updated>2026-02-22T20:18:54+00:00</updated>
@@ -255,17 +216,30 @@
     <published>2026-02-22T20:18:54+00:00</published>
   </entry>
   <entry>
-    <id>t3_1rcl4j9</id>
-    <title>Bạn trai có quan tâm về hoàn cảnh gđ bạn gái ko?</title>
-    <updated>2026-02-23T15:53:33+00:00</updated>
+    <id>t3_1rchflz</id>
+    <title>Tại sao mình chưa bao giờ gặp các vụ share bill, đòi hỏi nhà xe như cái bài post nhan nhản trên mạng? ._.</title>
+    <updated>2026-02-23T13:29:07+00:00</updated>
     <author>
-      <name>/u/Delicious_Ice_6288</name>
-      <uri>https://old.reddit.com/user/Delicious_Ice_6288</uri>
+      <name>/u/borjiginnergui</name>
+      <uri>https://old.reddit.com/user/borjiginnergui</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em là nữ, quen bạn trai đc hơn 2.5 năm mà chưa dắt về ra mắt gia đình. Em thì có gặp mặt mẹ bạn trai rồi (gặp ở SG chứ ko phải về nhà ra mắt). Tết thì em cũng ko thấy bạn trai ngỏ lời về nhà em chơi hay mời em lên nhà chơi. Nhà em thì hơi phức tạp, dù bên ngoài bình phong nhìn có vẻ ổn (gd cơ bản, mẹ làm gvien, bố em làm vườn - ko có lương hưu - bt thì em gửi tiền cho bố ăn uống chi tiêu) nhưng mà thực ra thì bố mẹ em li dị (nhưng vẫn ở chung nhà), hay cáu gắt với nhau (nhưng có khách thì sẽ tỏ ra bt, hoặc ko nói chuyện), bố em thì hay rượu chè (cũng hiền lành nhưng hay kiểu chán đời, ko đc nch lanh lẹ lắm). Gđ bạn trai thì e chưa về nhưng theo em thấy thì tốt (gia giáo, ba mẹ hoà thuận, đều là giáo viên, điều kiện tài chính cũng tốt, đã có chung cư ở SG).&lt;/p&gt; &lt;p&gt;Còn về 2 đứa em thì em thấy em cũng tạm ổn (công việc ổn định, tự lập, lương cũng khá tốt, hiểu chuyện, ngoại hình bth), bạn trai cũng kiểu vậy. 2 đứa cũng 9x nên cũng gần 30 hết rồi. Nhờ các bác tư vấn giúp ạ. Em ko biết có nên kể vs bạn trai về nhà mình như v ko? Ko biết các bác là con trai thì có suy nghĩ ntn khi gđ bạn gái như v ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Delicious_Ice_6288"&gt; /u/Delicious_Ice_6288 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rcl4j9/bạn_trai_có_quan_tâm_về_hoàn_cảnh_gđ_bạn_gái_ko/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rcl4j9/bạn_trai_có_quan_tâm_về_hoàn_cảnh_gđ_bạn_gái_ko/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rcl4j9/bạn_trai_có_quan_tâm_về_hoàn_cảnh_gđ_bạn_gái_ko/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác, mình vốn là thằng đực rựa bình thường như bao người khác ._. Việc yêu đương với mình tuy chưa trải qua quá nhiều, nhưng các bạn nữ có hứng thú thì mình chưa bao giờ gặp bất cứ ai đòi nhà đòi xe, đòi giàu, tính toán share bill.&lt;/p&gt; &lt;p&gt;Hằng ngày lên mạng các kiểu mà mình thấy lạ quá. Có ông nào cảm thấy việc sống bình thường là đủ có bạn gái(nếu muốn) giống mình ko ._.&lt;/p&gt; &lt;p&gt;Là do MXH tạo content câu views tranh cãi liên tục, hay do cuộc sống của mình quá màu hồng?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/borjiginnergui"&gt; /u/borjiginnergui &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rchflz/tại_sao_mình_chưa_bao_giờ_gặp_các_vụ_share_bill/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rchflz/tại_sao_mình_chưa_bao_giờ_gặp_các_vụ_share_bill/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rchflz/tại_sao_mình_chưa_bao_giờ_gặp_các_vụ_share_bill/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-23T15:53:33+00:00</published>
+    <published>2026-02-23T13:29:07+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1rcmo9y</id>
+    <title>Câu hỏi về sân bay Long Thành</title>
+    <updated>2026-02-23T16:49:26+00:00</updated>
+    <author>
+      <name>/u/Competitive_Double90</name>
+      <uri>https://old.reddit.com/user/Competitive_Double90</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1rcmo9y/câu_hỏi_về_sân_bay_long_thành/"&gt; &lt;img alt="Câu hỏi về sân bay Long Thành" src="https://preview.redd.it/p5l0muhfx9lg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=d3b18d63b58f2571f29110614524cf1d9fd76596" title="Câu hỏi về sân bay Long Thành" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Không nghiên cứu chuyên sâu nhưng mà từ những gì mấy bài bài viết thì chẳng nhẽ mục tiêu chính lại là xây đường sắt chỉ vì đơn giản phục vụ cho sân bay. Điều này tôi hiếm thấy ở mấy nước khác.&lt;/p&gt; &lt;p&gt;Không có tri thức nhiều về civic engineers. Nhưng đơn giản nếu các bạn ném tiền thuế cho tôi thì tôi muốn sẽ xây bộ khung trước, giao thông các kiểu con đà điều. Tôi chỉ rằng hiện tại Long Thành từ trung tâm HCM cũng phải tốn 3 tiếng. Dùng số tiền đó để maxxing sân bay Tân Sơn Nhứt. Sau đó nếu thấy nặng quá thì mới hẵng xây thêm từ cái nền có sẵn&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Competitive_Double90"&gt; /u/Competitive_Double90 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/p5l0muhfx9lg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rcmo9y/câu_hỏi_về_sân_bay_long_thành/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rcmo9y/câu_hỏi_về_sân_bay_long_thành/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-23T16:49:26+00:00</published>
   </entry>
   <entry>
     <id>t3_1rcc566</id>
@@ -279,6 +253,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1rcc566/mưa_qua_cách_nhìn_của_anh_grab/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-02-23T08:38:30+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1rcl4j9</id>
+    <title>Bạn trai có quan tâm về hoàn cảnh gđ bạn gái ko?</title>
+    <updated>2026-02-23T15:53:33+00:00</updated>
+    <author>
+      <name>/u/Delicious_Ice_6288</name>
+      <uri>https://old.reddit.com/user/Delicious_Ice_6288</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em là nữ, quen bạn trai đc hơn 2.5 năm mà chưa dắt về ra mắt gia đình. Em thì có gặp mặt mẹ bạn trai rồi (gặp ở SG chứ ko phải về nhà ra mắt). Tết thì em cũng ko thấy bạn trai ngỏ lời về nhà em chơi hay mời em lên nhà chơi. Nhà em thì hơi phức tạp, dù bên ngoài bình phong nhìn có vẻ ổn (gd cơ bản, mẹ làm gvien, bố em làm vườn - ko có lương hưu - bt thì em gửi tiền cho bố ăn uống chi tiêu) nhưng mà thực ra thì bố mẹ em li dị (nhưng vẫn ở chung nhà), hay cáu gắt với nhau (nhưng có khách thì sẽ tỏ ra bt, hoặc ko nói chuyện), bố em thì hay rượu chè (cũng hiền lành nhưng hay kiểu chán đời, ko đc nch lanh lẹ lắm). Gđ bạn trai thì e chưa về nhưng theo em thấy thì tốt (gia giáo, ba mẹ hoà thuận, đều là giáo viên, điều kiện tài chính cũng tốt, đã có chung cư ở SG).&lt;/p&gt; &lt;p&gt;Còn về 2 đứa em thì em thấy em cũng tạm ổn (công việc ổn định, tự lập, lương cũng khá tốt, hiểu chuyện, ngoại hình bth), bạn trai cũng kiểu vậy. 2 đứa cũng 9x nên cũng gần 30 hết rồi. Nhờ các bác tư vấn giúp ạ. Em ko biết có nên kể vs bạn trai về nhà mình như v ko? Ko biết các bác là con trai thì có suy nghĩ ntn khi gđ bạn gái như v ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Delicious_Ice_6288"&gt; /u/Delicious_Ice_6288 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rcl4j9/bạn_trai_có_quan_tâm_về_hoàn_cảnh_gđ_bạn_gái_ko/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rcl4j9/bạn_trai_có_quan_tâm_về_hoàn_cảnh_gđ_bạn_gái_ko/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rcl4j9/bạn_trai_có_quan_tâm_về_hoàn_cảnh_gđ_bạn_gái_ko/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-23T15:53:33+00:00</published>
   </entry>
   <entry>
     <id>t3_1rcfj3v</id>
@@ -305,6 +292,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1rcip87/tréo_ngoe_ngành_bảo_hiểm_cảnh_báo_mất_tiền_thì/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-02-23T14:20:30+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1rcmpyo</id>
+    <title>HOW DO I FIND A FRIENDDDD</title>
+    <updated>2026-02-23T16:51:03+00:00</updated>
+    <author>
+      <name>/u/rossanneycr</name>
+      <uri>https://old.reddit.com/user/rossanneycr</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1rcmpyo/how_do_i_find_a_friendddd/"&gt; &lt;img alt="HOW DO I FIND A FRIENDDDD" src="https://preview.redd.it/6ra6o80qx9lg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=f44a0a58469c4400fde37224798132757e0e1d0e" title="HOW DO I FIND A FRIENDDDD" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;* i just wanna find a foreign friend *&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/rossanneycr"&gt; /u/rossanneycr &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/6ra6o80qx9lg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rcmpyo/how_do_i_find_a_friendddd/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rcmpyo/how_do_i_find_a_friendddd/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-23T16:51:03+00:00</published>
   </entry>
   <entry>
     <id>t3_1rcm2b9</id>
