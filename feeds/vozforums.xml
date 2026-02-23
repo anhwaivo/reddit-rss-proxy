@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-02-23T21:10:28+00:00</updated>
+  <updated>2026-02-23T22:01:50+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1rclaky</id>
-    <title>Nên học ngôn ngữ nào ạ ?</title>
-    <updated>2026-02-23T15:59:58+00:00</updated>
-    <author>
-      <name>/u/vanthanh2810</name>
-      <uri>https://old.reddit.com/user/vanthanh2810</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em đang đi làm và thời gian tối về em tự học, hiện tại em đang bắt đầu học tiếng hàn được khoảng 10 bài nhưng thấy nhiều người nói học tiếng trung tốt hơn nên em phân vân quá .&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/vanthanh2810"&gt; /u/vanthanh2810 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rclaky/nên_học_ngôn_ngữ_nào_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rclaky/nên_học_ngôn_ngữ_nào_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rclaky/nên_học_ngôn_ngữ_nào_ạ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-23T15:59:58+00:00</published>
-  </entry>
   <entry>
     <id>t3_1rcdi2g</id>
     <title>Đi xe đường dài lên thành phố</title>
@@ -136,6 +123,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1rc798x/tình_yêu_hay_sự_nghiệp/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-02-23T04:03:12+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1rcv4xg</id>
+    <title>Datbike hay Vinfast ?</title>
+    <updated>2026-02-23T21:50:40+00:00</updated>
+    <author>
+      <name>/u/gbxahoido</name>
+      <uri>https://old.reddit.com/user/gbxahoido</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;bạn nào đang chạy xe máy của 2 hãng này có thể cho mình 1 chút review được không ? mình xem sơ qua thì thấy quãng đường xe vinfast thấp hơn quảng cáo, còn datbike thì được như quảng cáo&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/gbxahoido"&gt; /u/gbxahoido &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rcv4xg/datbike_hay_vinfast/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rcv4xg/datbike_hay_vinfast/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rcv4xg/datbike_hay_vinfast/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-23T21:50:40+00:00</published>
   </entry>
   <entry>
     <id>t3_1rcm475</id>
