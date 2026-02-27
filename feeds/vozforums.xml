@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-02-27T11:31:31+00:00</updated>
+  <updated>2026-02-27T11:59:55+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
+  <entry>
+    <id>t3_1rfj2bt</id>
+    <title>Dev 9 năm kinh nghiệm - hướng đi nào tiếp theo?</title>
+    <updated>2026-02-26T19:01:56+00:00</updated>
+    <author>
+      <name>/u/doko2610</name>
+      <uri>https://old.reddit.com/user/doko2610</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, như tiêu đề, mình có nền tảng và đã + đang làm mảng IT dev hơn 9 năm nay, cụ thể là mảng mobile, tuy nhiên cũng biết rộng hơn sang cả frontend và backend.&lt;/p&gt; &lt;p&gt;Hiện mình đang làm việc ổn định, thu nhập tốt. Đã có gia đình và 1 bé mới được 5 tháng tuổi. Tuy nhiên mình cũng biết &amp;quot;ổn định&amp;quot; là cái bẫy ở thời đại này và càng những lúc như này càng cần học / làm trau dồi thêm.&lt;/p&gt; &lt;p&gt;Mình vẫn đọc thêm sách kĩ thuật, xem và viết blog, thậm chí sách cũ hồi còn đi học (toán rời rạc, hình học,...) phục vụ cho công việc. Do càng làm nhiều, mình càng thấy các kiến thức cơ bản đó quan trọng.&lt;/p&gt; &lt;p&gt;Mình cũng có một số repo mã nguồn mở kha khá người dùng và vẫn bảo trì thường xuyên (cũng nhờ những repo này mà việc phỏng vấn cũng như refer job của mình khá thuận lợi). Mình có thể tự tin đảm nhiệm công việc chuyên môn từ đầu đến cuối, thậm chí làm indie (có doanh thu hay không thì không chắc :P ), và cũng kinh qua hết hỉ nộ ái ố của ngành.&lt;/p&gt; &lt;p&gt;Mặt khác, mình thấy AI đang phát triển mạnh, mình cũng biết là nó chưa thay thế được khâu kiến trúc (architect) cả một dự án và cũng hay bị rối (hallucinate), chưa xử lý tốt những vấn đề khó, sâu, đặc biệt về hiệu năng và bộ nhớ, vẫn cần người giám sát và prompt.&lt;/p&gt; &lt;p&gt;Tuy vậy, tương lai có thể khác. Nên mình đang cân nhắc hướng đi tiếp theo...&lt;/p&gt; &lt;p&gt;- Cứ tiếp tục học và làm thật sâu mảng đang làm (mobile), đại khái là cứ như hiện tại - cái này mình nghĩ là theo hướng specialist. Có thời gian rảnh thì mới đá thêm mảng khác.&lt;/p&gt; &lt;p&gt;- Cố gắng phát triển thêm cả chiều rộng: Học thêm về DevOps và AI, lấy chứng chỉ (AWS chẳng hạn) để làm đẹp CV hơn - cái này mình nghĩ nó thiên về hướng phòng thủ - generalist.&lt;/p&gt; &lt;p&gt;Theo các bạn hướng nào khả thi hơn?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/doko2610"&gt; /u/doko2610 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rfj2bt/dev_9_năm_kinh_nghiệm_hướng_đi_nào_tiếp_theo/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rfj2bt/dev_9_năm_kinh_nghiệm_hướng_đi_nào_tiếp_theo/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rfj2bt/dev_9_năm_kinh_nghiệm_hướng_đi_nào_tiếp_theo/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-26T19:01:56+00:00</published>
+  </entry>
   <entry>
     <id>t3_1rg3bz5</id>
     <title>Xin tư vấn về công việc thực tập</title>
@@ -86,19 +99,6 @@
     <published>2026-02-27T11:30:07+00:00</published>
   </entry>
   <entry>
-    <id>t3_1rfv7ul</id>
-    <title>First date</title>
-    <updated>2026-02-27T03:09:01+00:00</updated>
-    <author>
-      <name>/u/lunaminaka</name>
-      <uri>https://old.reddit.com/user/lunaminaka</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;First date thì em định đi cafe mèo rồi 2 đứa đi dạo các bác thấy như nào ( khung giờ từ17-20)&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/lunaminaka"&gt; /u/lunaminaka &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rfv7ul/first_date/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rfv7ul/first_date/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rfv7ul/first_date/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-27T03:09:01+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1rg11q3</id>
     <title>Tư vấn bàn phím cơ</title>
     <updated>2026-02-27T08:21:39+00:00</updated>
@@ -138,17 +138,17 @@
     <published>2026-02-27T09:01:23+00:00</published>
   </entry>
   <entry>
-    <id>t3_1rg2okf</id>
-    <title>Tìm người gặp gỡ</title>
-    <updated>2026-02-27T10:01:35+00:00</updated>
+    <id>t3_1rfv7ul</id>
+    <title>First date</title>
+    <updated>2026-02-27T03:09:01+00:00</updated>
     <author>
-      <name>/u/Economy-Elevator1496</name>
-      <uri>https://old.reddit.com/user/Economy-Elevator1496</uri>
+      <name>/u/lunaminaka</name>
+      <uri>https://old.reddit.com/user/lunaminaka</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi các fend, hiện tại em đang muốn gặp gỡ và nói chuyện nghiêm túc, nên em post profie em lên đây vì muốn thử xem có gặp gỡ được ai như ý mình không hehe: &lt;/p&gt; &lt;ol&gt; &lt;li&gt;&lt;p&gt;Em 23F, biết 2 ngoại ngữ, hiện đang làm trợ lý, em tính cách vui vẻ, cũng dễ thương (chắc tự nhận xét), em sống khá khép kín và không show up gì trên MXH, em biết kiểm soát cảm xúc và lắng nghe người khác, điểm trừ là em hơi overthink với cả thi thoảng sẽ lo lắng hơi quá mức cần thiết&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Em muốn gặp một người đàn ông trưởng thành (27M trở lên), biết tôn trọng, lắng nghe, điềm tĩnh, trưởng thành về cảm xúc, đơn giản, healthy masculine; thể hiện qua cách làm hơn là lời nói. &lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Em có sở thích nấu ăn, làm bánh, thích nhạc USUK, vintage music và nhạc cổ điển&lt;/p&gt;&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Em chill và không có kiểu kì vọng phải date to marry nên là nếu anh thấy relate thì chúng mình có thể thử nói chuyện 🎁&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Economy-Elevator1496"&gt; /u/Economy-Elevator1496 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rg2okf/tìm_người_gặp_gỡ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rg2okf/tìm_người_gặp_gỡ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rg2okf/tìm_người_gặp_gỡ/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;First date thì em định đi cafe mèo rồi 2 đứa đi dạo các bác thấy như nào ( khung giờ từ17-20)&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/lunaminaka"&gt; /u/lunaminaka &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rfv7ul/first_date/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rfv7ul/first_date/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rfv7ul/first_date/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-27T10:01:35+00:00</published>
+    <published>2026-02-27T03:09:01+00:00</published>
   </entry>
   <entry>
     <id>t3_1rfwkr2</id>
@@ -203,19 +203,6 @@
     <published>2026-02-27T11:24:05+00:00</published>
   </entry>
   <entry>
-    <id>t3_1rg0hq6</id>
-    <title>Có cách nào để nhận biết tính cách của một con mèo quấn chủ không ạ</title>
-    <updated>2026-02-27T07:47:56+00:00</updated>
-    <author>
-      <name>/u/Business-Lemon7146</name>
-      <uri>https://old.reddit.com/user/Business-Lemon7146</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người ạ, em đang ở Hà Nội và dự định đón một bé mèo về nuôi. Em đặc biệt thích những bé có tính cách quấn người và tình cảm giống như cún vậy. Tuy nhiên, em nghe nói tính cách mèo thường phụ thuộc vào từng cá nhân và rất khó đoán trước khi còn nhỏ. Không biết các anh chị có kinh nghiệm đi trước có 'bí kíp' nào để nhận biết một bé mèo con sau này sẽ quấn chủ không ạ? Rất mong nhận được sự tư vấn từ mọi người &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Business-Lemon7146"&gt; /u/Business-Lemon7146 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rg0hq6/có_cách_nào_để_nhận_biết_tính_cách_của_một_con/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rg0hq6/có_cách_nào_để_nhận_biết_tính_cách_của_một_con/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rg0hq6/có_cách_nào_để_nhận_biết_tính_cách_của_một_con/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-27T07:47:56+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1rg1p65</id>
     <title>PC</title>
     <updated>2026-02-27T09:02:03+00:00</updated>
@@ -255,19 +242,6 @@
     <published>2026-02-27T04:33:20+00:00</published>
   </entry>
   <entry>
-    <id>t3_1rg44xn</id>
-    <title>Mình quyết định dừng cuộc hôn nhân này lại sau 7 năm</title>
-    <updated>2026-02-27T11:24:20+00:00</updated>
-    <author>
-      <name>/u/AffectionateRise8457</name>
-      <uri>https://old.reddit.com/user/AffectionateRise8457</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Ck luôn chơi bài “ im lặng” sau những lần cãi nhau!!! mình quyết định dừng cuộc hôn nhân này lại sau 7 năm. Mình quá stress và mông lung. Ck mình là kiểu ng “bạo lực ngôn từ”. Lúc cãi nhau thường chửi bậy, hạ thấp mình. Vd: m có cái gì? M đã hy sinh dc gì? Nhận thức thấp kém, tam quan lệch lạc,… &lt;/p&gt; &lt;p&gt;Anh ta luôn cho mình cái quyền”dạy vk”, là ck nên có quyền. Ko bao giờ nhận sai về mình. &lt;/p&gt; &lt;p&gt;Mình mà cãi lại thì bảo” mất dạy”, hỗn hào, ghê gớm. &lt;/p&gt; &lt;p&gt;7 năm chưa có con. Mình sẩy thai 2 lần… mình cũng cần time để hồi lại sức khoẻ. Và trong thời gian ấy mình cũng đi làm. Cũng cày cật lực vì mục tiêu chung của cả 2. &lt;/p&gt; &lt;p&gt;Nhưng mình vô tình nghe đc ck mình ns vs chị gái và gđ ck là “mình ko chịu đẻ” &lt;/p&gt; &lt;p&gt;Lúc đó mình sốc, ko nghĩ ck mình ns như thế. &lt;/p&gt; &lt;p&gt;Sức khoẻ mình đi xuống rất nhiều sau 2 lần đó, cộng vs cô vít&lt;/p&gt; &lt;p&gt;Sau lưng mình ck mình kêu mẹ mình là “bà đó” rồi chị mình là “ con này con kia” &lt;/p&gt; &lt;p&gt;Ck mình thuộc tip ng: ns cái chi cũng đúng, ns thì vk phải nghe, ko đc cãi. Sau mỗi lần cãi nhau a đều im lặng, 2 tuần, 3 tuần có khi cả tháng. Rồi coi như ko có gì xảy ra. Ko xin lỗi. Ko gì hết&lt;/p&gt; &lt;p&gt;Lúc nào mình cũng phải mở mồm ns trc. &lt;/p&gt; &lt;p&gt;M bất lực vì những lời hứa, hứa xong quên, hứa cho có. &lt;/p&gt; &lt;p&gt;Mình quyết định bỏ về nhà mẹ. &lt;/p&gt; &lt;p&gt;Rồi mẹ ck gọi đt trách này nọ. Kêu phải nhịn đi. Đàn ông ai chả thế. Ck nóng thì vk phải biết xoa. &lt;/p&gt; &lt;p&gt;Mình viết đơn nhưng ck chưa kí. &lt;/p&gt; &lt;p&gt;Nhiều lúc ko biết mình quyết định như thế là đúng hay sai🥲&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/AffectionateRise8457"&gt; /u/AffectionateRise8457 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rg44xn/mình_quyết_định_dừng_cuộc_hôn_nhân_này_lại_sau_7/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rg44xn/mình_quyết_định_dừng_cuộc_hôn_nhân_này_lại_sau_7/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rg44xn/mình_quyết_định_dừng_cuộc_hôn_nhân_này_lại_sau_7/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-27T11:24:20+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1rftkd0</id>
     <title>Giảm cân</title>
     <updated>2026-02-27T01:54:21+00:00</updated>
@@ -279,6 +253,32 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1rftkd0/giảm_cân/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-02-27T01:54:21+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1rg0hq6</id>
+    <title>Có cách nào để nhận biết tính cách của một con mèo quấn chủ không ạ</title>
+    <updated>2026-02-27T07:47:56+00:00</updated>
+    <author>
+      <name>/u/Business-Lemon7146</name>
+      <uri>https://old.reddit.com/user/Business-Lemon7146</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người ạ, em đang ở Hà Nội và dự định đón một bé mèo về nuôi. Em đặc biệt thích những bé có tính cách quấn người và tình cảm giống như cún vậy. Tuy nhiên, em nghe nói tính cách mèo thường phụ thuộc vào từng cá nhân và rất khó đoán trước khi còn nhỏ. Không biết các anh chị có kinh nghiệm đi trước có 'bí kíp' nào để nhận biết một bé mèo con sau này sẽ quấn chủ không ạ? Rất mong nhận được sự tư vấn từ mọi người &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Business-Lemon7146"&gt; /u/Business-Lemon7146 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rg0hq6/có_cách_nào_để_nhận_biết_tính_cách_của_một_con/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rg0hq6/có_cách_nào_để_nhận_biết_tính_cách_của_một_con/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rg0hq6/có_cách_nào_để_nhận_biết_tính_cách_của_một_con/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-27T07:47:56+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1rg44xn</id>
+    <title>Mình quyết định dừng cuộc hôn nhân này lại sau 7 năm</title>
+    <updated>2026-02-27T11:24:20+00:00</updated>
+    <author>
+      <name>/u/AffectionateRise8457</name>
+      <uri>https://old.reddit.com/user/AffectionateRise8457</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Ck luôn chơi bài “ im lặng” sau những lần cãi nhau!!! mình quyết định dừng cuộc hôn nhân này lại sau 7 năm. Mình quá stress và mông lung. Ck mình là kiểu ng “bạo lực ngôn từ”. Lúc cãi nhau thường chửi bậy, hạ thấp mình. Vd: m có cái gì? M đã hy sinh dc gì? Nhận thức thấp kém, tam quan lệch lạc,… &lt;/p&gt; &lt;p&gt;Anh ta luôn cho mình cái quyền”dạy vk”, là ck nên có quyền. Ko bao giờ nhận sai về mình. &lt;/p&gt; &lt;p&gt;Mình mà cãi lại thì bảo” mất dạy”, hỗn hào, ghê gớm. &lt;/p&gt; &lt;p&gt;7 năm chưa có con. Mình sẩy thai 2 lần… mình cũng cần time để hồi lại sức khoẻ. Và trong thời gian ấy mình cũng đi làm. Cũng cày cật lực vì mục tiêu chung của cả 2. &lt;/p&gt; &lt;p&gt;Nhưng mình vô tình nghe đc ck mình ns vs chị gái và gđ ck là “mình ko chịu đẻ” &lt;/p&gt; &lt;p&gt;Lúc đó mình sốc, ko nghĩ ck mình ns như thế. &lt;/p&gt; &lt;p&gt;Sức khoẻ mình đi xuống rất nhiều sau 2 lần đó, cộng vs cô vít&lt;/p&gt; &lt;p&gt;Sau lưng mình ck mình kêu mẹ mình là “bà đó” rồi chị mình là “ con này con kia” &lt;/p&gt; &lt;p&gt;Ck mình thuộc tip ng: ns cái chi cũng đúng, ns thì vk phải nghe, ko đc cãi. Sau mỗi lần cãi nhau a đều im lặng, 2 tuần, 3 tuần có khi cả tháng. Rồi coi như ko có gì xảy ra. Ko xin lỗi. Ko gì hết&lt;/p&gt; &lt;p&gt;Lúc nào mình cũng phải mở mồm ns trc. &lt;/p&gt; &lt;p&gt;M bất lực vì những lời hứa, hứa xong quên, hứa cho có. &lt;/p&gt; &lt;p&gt;Mình quyết định bỏ về nhà mẹ. &lt;/p&gt; &lt;p&gt;Rồi mẹ ck gọi đt trách này nọ. Kêu phải nhịn đi. Đàn ông ai chả thế. Ck nóng thì vk phải biết xoa. &lt;/p&gt; &lt;p&gt;Mình viết đơn nhưng ck chưa kí. &lt;/p&gt; &lt;p&gt;Nhiều lúc ko biết mình quyết định như thế là đúng hay sai🥲&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/AffectionateRise8457"&gt; /u/AffectionateRise8457 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rg44xn/mình_quyết_định_dừng_cuộc_hôn_nhân_này_lại_sau_7/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rg44xn/mình_quyết_định_dừng_cuộc_hôn_nhân_này_lại_sau_7/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rg44xn/mình_quyết_định_dừng_cuộc_hôn_nhân_này_lại_sau_7/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-27T11:24:20+00:00</published>
   </entry>
   <entry>
     <id>t3_1rfzwcx</id>
