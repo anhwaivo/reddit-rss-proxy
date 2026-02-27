@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-02-27T17:03:01+00:00</updated>
+  <updated>2026-02-27T17:53:49+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1rg3bz5</id>
-    <title>Xin tư vấn về công việc thực tập</title>
-    <updated>2026-02-27T10:39:34+00:00</updated>
-    <author>
-      <name>/u/Smart-Nectarine2202</name>
-      <uri>https://old.reddit.com/user/Smart-Nectarine2202</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, em là sinh viên năm cuối đang cần tìm chỗ thực tập để xét tốt nghiệp. Hiện tại, em đang gặp chút băn khoăn về định hướng ở công ty hiện tại và rất mong nhận được lời khuyên từ các anh chị ạ.&lt;/p&gt; &lt;p&gt;Cụ thể, em đang thực tập không lương tại một đơn vị với cam kết thực tập 6 tháng (em đã làm được 2 tháng) nhưng không có hợp đồng. Em có một chút lo lắng về môi trường thực tập ạ:&lt;/p&gt; &lt;p&gt;- Khi mới vào, em không được giới thiệu về cấu trúc team, không được tiếp cận tài liệu nội bộ và cũng không được phân công người hướng dẫn cụ thể.&lt;/p&gt; &lt;p&gt;- Bình thường em sẽ không được giao việc. Đầu tiên em xin việc từ Lead thì được dẫn tới 1 người khác và được giao việc còn bạn thực tập cùng vẫn đang được Lead hướng dẫn thì giờ vẫn đang làm thuần nghiên cứu ạ.&lt;/p&gt; &lt;p&gt;- Các task em nhận được phần lớn là tự nghiên cứu, không được làm cùng team (em có cảm giác vậy vì task được giao thường không đi kèm deadline cụ thể, em có hỏi thì được trả lời là khi nào cũng được) hoặc làm lặt vặt như test lỗi, em cũng không được tham gia vào dự án chính của team ạ.&lt;/p&gt; &lt;p&gt;Ban đầu em chấp nhận làm không lương vì hy vọng sẽ được cọ xát, giao việc và học hỏi. Nhưng với tình trạng tự bơi và thiếu định hướng như thế này thì em cảm thấy khá hoang mang ạ.&lt;/p&gt; &lt;p&gt;Theo kinh nghiệm đi làm của mọi người, em nên xử lý thế nào ạ? Em cảm ơn mọi người nhiều ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Smart-Nectarine2202"&gt; /u/Smart-Nectarine2202 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rg3bz5/xin_tư_vấn_về_công_việc_thực_tập/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rg3bz5/xin_tư_vấn_về_công_việc_thực_tập/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rg3bz5/xin_tư_vấn_về_công_việc_thực_tập/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-27T10:39:34+00:00</published>
-  </entry>
   <entry>
     <id>t3_1rg8jdl</id>
     <title>CHỨNG KHOÁN RƠI MẠNH VỚI NHIỀU PHIÊN LIÊN TỤC THÌ CÓ NÊN MUA KHÔNG</title>
@@ -47,19 +34,6 @@
     <published>2026-02-26T15:01:31+00:00</published>
   </entry>
   <entry>
-    <id>t3_1rg1twq</id>
-    <title>Nghiên cứu dự án</title>
-    <updated>2026-02-27T09:09:57+00:00</updated>
-    <author>
-      <name>/u/Downtown-Employer472</name>
-      <uri>https://old.reddit.com/user/Downtown-Employer472</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Team mình đang thực hiện mini project với bài khảo sát ngắn về MBTI và mức độ trưởng thành để phục vụ nghiên cứu Hành vi - Đào tạo ạ. Sẽ hỗ trợ free cho một số bạn kết quả trực tiếp để hiểu rõ về tính cách, cách suy nghĩ, đối diện và giải quyết vấn đề cụ thể từng người. Bạn nào muốn tham gia thì ib mình share thông tin cụ thể hơn nha🥰&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Downtown-Employer472"&gt; /u/Downtown-Employer472 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rg1twq/nghiên_cứu_dự_án/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rg1twq/nghiên_cứu_dự_án/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rg1twq/nghiên_cứu_dự_án/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-27T09:09:57+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1rg44sc</id>
     <title>Ai đi trao đổi du học sinh (3-6 tháng) ở các nước như Nhật, Đài, Thái Lan… tư vấn giúp em với</title>
     <updated>2026-02-27T11:24:05+00:00</updated>
@@ -71,6 +45,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1rg44sc/ai_đi_trao_đổi_du_học_sinh_36_tháng_ở_các_nước/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-02-27T11:24:05+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1rg48nv</id>
+    <title>Công việc onl</title>
+    <updated>2026-02-27T11:30:07+00:00</updated>
+    <author>
+      <name>/u/ngdepquangnam</name>
+      <uri>https://old.reddit.com/user/ngdepquangnam</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mọi người đã/đang làm việc gì onl khoảng 10tr 1 tháng k ạ ? E muốn có công việc mà đi làm phục vụ bèo quá&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ngdepquangnam"&gt; /u/ngdepquangnam &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rg48nv/công_việc_onl/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rg48nv/công_việc_onl/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rg48nv/công_việc_onl/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-27T11:30:07+00:00</published>
   </entry>
   <entry>
     <id>t3_1rfv7ul</id>
@@ -138,6 +125,19 @@
     <published>2026-02-27T09:02:03+00:00</published>
   </entry>
   <entry>
+    <id>t3_1rgcbmp</id>
+    <title>Làm sao để trị mấy đứa ngang hay cãi cố??</title>
+    <updated>2026-02-27T17:03:24+00:00</updated>
+    <author>
+      <name>/u/Yesbro90</name>
+      <uri>https://old.reddit.com/user/Yesbro90</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Nói chung là em quen 1 đứa bạn, nó rất chi là ngang sai rành rành ra còn khăng khăng là không sai, nhắc nhở còn cãi lại, lúc nhận thức được mình nói sai thì bảo nói đúng. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Yesbro90"&gt; /u/Yesbro90 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rgcbmp/làm_sao_để_trị_mấy_đứa_ngang_hay_cãi_cố/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rgcbmp/làm_sao_để_trị_mấy_đứa_ngang_hay_cãi_cố/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rgcbmp/làm_sao_để_trị_mấy_đứa_ngang_hay_cãi_cố/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-27T17:03:24+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1rfyhmt</id>
     <title>Game đối kháng</title>
     <updated>2026-02-27T05:52:29+00:00</updated>
@@ -164,19 +164,6 @@
     <published>2026-02-27T07:47:56+00:00</published>
   </entry>
   <entry>
-    <id>t3_1rfwyi2</id>
-    <title>Hỏi về vấn đề hôn nhân không con cái</title>
-    <updated>2026-02-27T04:33:20+00:00</updated>
-    <author>
-      <name>/u/No-Interaction3261</name>
-      <uri>https://old.reddit.com/user/No-Interaction3261</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mọi người nghĩ thế nào về hôn nhân không con cái? Trước tôi có hỏi các nhóm trên face, đa phần đều phản đối ý tưởng này, nói rằng tư tưởng này độc hại? Lý do phổ biến được đưa ra là không có con cái thì hôn nhân vợ chồng khó mà bền vững, bởi vì khi vợ chồng mà có mâu thuẫn cãi vã thì họ thường sẽ nghĩ về con cái mà ngồi xuống với nhau nói chuyện giảng hòa, vì những đứa trẻ vẫn cần có cha mẹ đầy đủ ở bên. Vì vậy hôn nhân có con cái nó mới bền vững hơn? &lt;/p&gt; &lt;p&gt;Hỏi về phía bạn bè thì họ cũng nói là đã kết hôn rồi thì chắc chắn phải có con cái. Đó là nghĩa vụ? &lt;/p&gt; &lt;p&gt;Ngoài những yếu tố như gia đình 2 bên phản đối, hay về già không có người lo ra thì lựa chọn hôn nhân không con cái có bất lợi gì khác?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/No-Interaction3261"&gt; /u/No-Interaction3261 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rfwyi2/hỏi_về_vấn_đề_hôn_nhân_không_con_cái/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rfwyi2/hỏi_về_vấn_đề_hôn_nhân_không_con_cái/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rfwyi2/hỏi_về_vấn_đề_hôn_nhân_không_con_cái/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-27T04:33:20+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1rfp8nc</id>
     <title>Cho những ai đã, đang, có ý định "trêu đùa tình cảm" với người khác.</title>
     <updated>2026-02-26T22:52:45+00:00</updated>
@@ -188,6 +175,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1rfp8nc/cho_những_ai_đã_đang_có_ý_định_trêu_đùa_tình_cảm/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-02-26T22:52:45+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1rfwyi2</id>
+    <title>Hỏi về vấn đề hôn nhân không con cái</title>
+    <updated>2026-02-27T04:33:20+00:00</updated>
+    <author>
+      <name>/u/No-Interaction3261</name>
+      <uri>https://old.reddit.com/user/No-Interaction3261</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mọi người nghĩ thế nào về hôn nhân không con cái? Trước tôi có hỏi các nhóm trên face, đa phần đều phản đối ý tưởng này, nói rằng tư tưởng này độc hại? Lý do phổ biến được đưa ra là không có con cái thì hôn nhân vợ chồng khó mà bền vững, bởi vì khi vợ chồng mà có mâu thuẫn cãi vã thì họ thường sẽ nghĩ về con cái mà ngồi xuống với nhau nói chuyện giảng hòa, vì những đứa trẻ vẫn cần có cha mẹ đầy đủ ở bên. Vì vậy hôn nhân có con cái nó mới bền vững hơn? &lt;/p&gt; &lt;p&gt;Hỏi về phía bạn bè thì họ cũng nói là đã kết hôn rồi thì chắc chắn phải có con cái. Đó là nghĩa vụ? &lt;/p&gt; &lt;p&gt;Ngoài những yếu tố như gia đình 2 bên phản đối, hay về già không có người lo ra thì lựa chọn hôn nhân không con cái có bất lợi gì khác?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/No-Interaction3261"&gt; /u/No-Interaction3261 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rfwyi2/hỏi_về_vấn_đề_hôn_nhân_không_con_cái/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rfwyi2/hỏi_về_vấn_đề_hôn_nhân_không_con_cái/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rfwyi2/hỏi_về_vấn_đề_hôn_nhân_không_con_cái/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-27T04:33:20+00:00</published>
   </entry>
   <entry>
     <id>t3_1rftkd0</id>
@@ -216,19 +216,6 @@
     <published>2026-02-27T09:57:41+00:00</published>
   </entry>
   <entry>
-    <id>t3_1rg89iy</id>
-    <title>Đêm buồn trời mưa, kiếp người tha hương</title>
-    <updated>2026-02-27T14:33:01+00:00</updated>
-    <author>
-      <name>/u/Easy-Anybody9467</name>
-      <uri>https://old.reddit.com/user/Easy-Anybody9467</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Thiên đường không đưa lối &lt;/p&gt; &lt;p&gt;Địa ngục có gọi tên? &lt;/p&gt; &lt;p&gt;Vất vưởng trong mưa tối &lt;/p&gt; &lt;p&gt;Chờ chuông cầu nguyện lên&lt;/p&gt; &lt;p&gt;Lang thang nơi đường vắng &lt;/p&gt; &lt;p&gt;Hiu quạnh chốn trần ai &lt;/p&gt; &lt;p&gt;Giữa ba ngàn bồng lai &lt;/p&gt; &lt;p&gt;Sao sót một hồn ai&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Easy-Anybody9467"&gt; /u/Easy-Anybody9467 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rg89iy/đêm_buồn_trời_mưa_kiếp_người_tha_hương/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rg89iy/đêm_buồn_trời_mưa_kiếp_người_tha_hương/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rg89iy/đêm_buồn_trời_mưa_kiếp_người_tha_hương/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-27T14:33:01+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1rg6j2q</id>
     <title>Về việc xklđ</title>
     <updated>2026-02-27T13:22:53+00:00</updated>
@@ -242,17 +229,17 @@
     <published>2026-02-27T13:22:53+00:00</published>
   </entry>
   <entry>
-    <id>t3_1rg3vfu</id>
-    <title>ai tóm tắt drama gì mà bọn nó chế nhạc tới spotify rồi thế anh em =))</title>
-    <updated>2026-02-27T11:09:59+00:00</updated>
+    <id>t3_1rg89iy</id>
+    <title>Đêm buồn trời mưa, kiếp người tha hương</title>
+    <updated>2026-02-27T14:33:01+00:00</updated>
     <author>
-      <name>/u/Cultural-Spend-7630</name>
-      <uri>https://old.reddit.com/user/Cultural-Spend-7630</uri>
+      <name>/u/Easy-Anybody9467</name>
+      <uri>https://old.reddit.com/user/Easy-Anybody9467</uri>
     </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1rg3vfu/ai_tóm_tắt_drama_gì_mà_bọn_nó_chế_nhạc_tới/"&gt; &lt;img alt="ai tóm tắt drama gì mà bọn nó chế nhạc tới spotify rồi thế anh em =))" src="https://preview.redd.it/lkk6oz1fs0mg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=74ca4b37e2e583b9c0f77a991c0c7f42b585aa5d" title="ai tóm tắt drama gì mà bọn nó chế nhạc tới spotify rồi thế anh em =))" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Cultural-Spend-7630"&gt; /u/Cultural-Spend-7630 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/lkk6oz1fs0mg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rg3vfu/ai_tóm_tắt_drama_gì_mà_bọn_nó_chế_nhạc_tới/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rg3vfu/ai_tóm_tắt_drama_gì_mà_bọn_nó_chế_nhạc_tới/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Thiên đường không đưa lối &lt;/p&gt; &lt;p&gt;Địa ngục có gọi tên? &lt;/p&gt; &lt;p&gt;Vất vưởng trong mưa tối &lt;/p&gt; &lt;p&gt;Chờ chuông cầu nguyện lên&lt;/p&gt; &lt;p&gt;Lang thang nơi đường vắng &lt;/p&gt; &lt;p&gt;Hiu quạnh chốn trần ai &lt;/p&gt; &lt;p&gt;Giữa ba ngàn bồng lai &lt;/p&gt; &lt;p&gt;Sao sót một hồn ai&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Easy-Anybody9467"&gt; /u/Easy-Anybody9467 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rg89iy/đêm_buồn_trời_mưa_kiếp_người_tha_hương/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rg89iy/đêm_buồn_trời_mưa_kiếp_người_tha_hương/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rg89iy/đêm_buồn_trời_mưa_kiếp_người_tha_hương/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-27T11:09:59+00:00</published>
+    <published>2026-02-27T14:33:01+00:00</published>
   </entry>
   <entry>
     <id>t3_1rg94cn</id>
@@ -268,6 +255,19 @@
     <published>2026-02-27T15:05:57+00:00</published>
   </entry>
   <entry>
+    <id>t3_1rfxglh</id>
+    <title>Em gái vui chơi ra sản phẩm .</title>
+    <updated>2026-02-27T04:58:56+00:00</updated>
+    <author>
+      <name>/u/DazzlingCat3952</name>
+      <uri>https://old.reddit.com/user/DazzlingCat3952</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Con em gái 22t của tôi vừa mới có bầu 2 tháng . Tối qua bố mẹ thằng đó hỏi cưới . Hỏi mấy bạn chứ chuyện dính bầu là do con gái hay con trai vậy ? Tôi thì tôi nghĩ do nó muốn lấy chồng nên nó thả chứ con trai gài bẫy con gái có bầu kiểu gì mà được .&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/DazzlingCat3952"&gt; /u/DazzlingCat3952 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rfxglh/em_gai_vui_chơi_ra_san_phâm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rfxglh/em_gai_vui_chơi_ra_san_phâm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rfxglh/em_gai_vui_chơi_ra_san_phâm/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-27T04:58:56+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1rfzwcx</id>
     <title>Chắc chưa tới lượt mình các bác ạ</title>
     <updated>2026-02-27T07:12:09+00:00</updated>
@@ -281,17 +281,17 @@
     <published>2026-02-27T07:12:09+00:00</published>
   </entry>
   <entry>
-    <id>t3_1rfxglh</id>
-    <title>Em gái vui chơi ra sản phẩm .</title>
-    <updated>2026-02-27T04:58:56+00:00</updated>
+    <id>t3_1rg3vfu</id>
+    <title>ai tóm tắt drama gì mà bọn nó chế nhạc tới spotify rồi thế anh em =))</title>
+    <updated>2026-02-27T11:09:59+00:00</updated>
     <author>
-      <name>/u/DazzlingCat3952</name>
-      <uri>https://old.reddit.com/user/DazzlingCat3952</uri>
+      <name>/u/Cultural-Spend-7630</name>
+      <uri>https://old.reddit.com/user/Cultural-Spend-7630</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Con em gái 22t của tôi vừa mới có bầu 2 tháng . Tối qua bố mẹ thằng đó hỏi cưới . Hỏi mấy bạn chứ chuyện dính bầu là do con gái hay con trai vậy ? Tôi thì tôi nghĩ do nó muốn lấy chồng nên nó thả chứ con trai gài bẫy con gái có bầu kiểu gì mà được .&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/DazzlingCat3952"&gt; /u/DazzlingCat3952 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rfxglh/em_gai_vui_chơi_ra_san_phâm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rfxglh/em_gai_vui_chơi_ra_san_phâm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rfxglh/em_gai_vui_chơi_ra_san_phâm/"/>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1rg3vfu/ai_tóm_tắt_drama_gì_mà_bọn_nó_chế_nhạc_tới/"&gt; &lt;img alt="ai tóm tắt drama gì mà bọn nó chế nhạc tới spotify rồi thế anh em =))" src="https://preview.redd.it/lkk6oz1fs0mg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=74ca4b37e2e583b9c0f77a991c0c7f42b585aa5d" title="ai tóm tắt drama gì mà bọn nó chế nhạc tới spotify rồi thế anh em =))" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Cultural-Spend-7630"&gt; /u/Cultural-Spend-7630 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/lkk6oz1fs0mg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rg3vfu/ai_tóm_tắt_drama_gì_mà_bọn_nó_chế_nhạc_tới/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rg3vfu/ai_tóm_tắt_drama_gì_mà_bọn_nó_chế_nhạc_tới/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-27T04:58:56+00:00</published>
+    <published>2026-02-27T11:09:59+00:00</published>
   </entry>
   <entry>
     <id>t3_1rg0rwc</id>
