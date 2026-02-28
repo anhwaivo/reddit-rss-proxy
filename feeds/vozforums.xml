@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-02-28T18:34:55+00:00</updated>
+  <updated>2026-02-28T19:00:34+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1rh951p</id>
-    <title>định hướng tương lai</title>
-    <updated>2026-02-28T17:54:33+00:00</updated>
-    <author>
-      <name>/u/linggg-goung</name>
-      <uri>https://old.reddit.com/user/linggg-goung</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;chào mn . em là nữ và đang là hs cấp 3 nhưng mà đang moong lung chưa có định hướng rõ dành cho tương lai . em muốn xin ý kiến của mn về chọn ngành chọn trường và học ntn&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/linggg-goung"&gt; /u/linggg-goung &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rh951p/định_hướng_tương_lai/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rh951p/định_hướng_tương_lai/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rh951p/định_hướng_tương_lai/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-28T17:54:33+00:00</published>
-  </entry>
   <entry>
     <id>t3_1rg3vfu</id>
     <title>ai tóm tắt drama gì mà bọn nó chế nhạc tới spotify rồi thế anh em =))</title>
@@ -134,6 +121,19 @@
     <published>2026-02-28T14:22:45+00:00</published>
   </entry>
   <entry>
+    <id>t3_1rgu3uo</id>
+    <title>Chuyện bắt đầu từ một câu quen thuộc</title>
+    <updated>2026-02-28T05:21:50+00:00</updated>
+    <author>
+      <name>/u/Jinsmith</name>
+      <uri>https://old.reddit.com/user/Jinsmith</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Năm nay tôi về quê vợ chơi.&lt;br /&gt; Nhà vợ tôi bán một tiệm tạp hóa nhỏ trước nhà.&lt;/p&gt; &lt;p&gt;Khách vào hỏi món này, món kia.&lt;br /&gt; Cả nhà đang đứng bán.&lt;/p&gt; &lt;p&gt;Rồi như một phản xạ quen thuộc, trong nhà lại vang lên: “Má ơi, cái này giá nhiêu?”&lt;/p&gt; &lt;p&gt;Vì chỉ có mình má nhớ hết giá.&lt;br /&gt; Từ gói mì, chai nước mắm, tới cục xà bông nhỏ xíu.&lt;/p&gt; &lt;p&gt;Má đi vắng một chút là bắt đầu hơi rối.&lt;br /&gt; Người nhớ giá này, người nhớ giá kia.&lt;br /&gt; Có khi không dám bán vì sợ nói sai.&lt;/p&gt; &lt;p&gt;Ngồi nhìn vậy thôi, tôi nghĩ:&lt;br /&gt; Hay là làm một cái app nhỏ nhỏ, chỉ để lưu lại giá?&lt;/p&gt; &lt;h1&gt;Và app này ra đời như vậy&lt;/h1&gt; &lt;p&gt;App này không có gì cao siêu.&lt;/p&gt; &lt;p&gt;Chỉ đơn giản là:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Lưu tên hàng&lt;/li&gt; &lt;li&gt;Lưu giá&lt;/li&gt; &lt;li&gt;Lưu số lượng còn lại&lt;/li&gt; &lt;li&gt;Có thể thêm hình ảnh cho dễ nhớ&lt;/li&gt; &lt;li&gt;Tìm kiếm nhanh khi khách hỏi&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Không cần internet vẫn dùng được.&lt;br /&gt; Dữ liệu nằm trong máy của bạn.&lt;/p&gt; &lt;p&gt;Nếu có mạng thì app chỉ tải một ít quảng cáo nhỏ để tôi có chi phí duy trì và phát triển tiếp. Không ảnh hưởng tới dữ liệu.&lt;/p&gt; &lt;h1&gt;Nhưng nói thật trước cho rõ&lt;/h1&gt; &lt;p&gt;App này không phải tải về là dùng ngay.&lt;/p&gt; &lt;p&gt;Ban đầu sẽ phải nhập giá và sản phẩm vào.&lt;br /&gt; Sẽ tốn một chút thời gian.&lt;/p&gt; &lt;p&gt;Nhưng tôi nghĩ:&lt;br /&gt; Nhập một lần để dùng lâu dài còn hơn mỗi ngày phải nhớ trong đầu,&lt;br /&gt; hoặc mỗi lần lại gọi: “Má ơi…”&lt;/p&gt; &lt;p&gt;Tôi không làm app này cho siêu thị lớn.&lt;br /&gt; Tôi làm cho tiệm tạp hóa nhỏ trong xóm.&lt;br /&gt; Cho gia đình tự bán.&lt;br /&gt; Cho những nhà giống như nhà vợ tôi.&lt;/p&gt; &lt;p&gt;Một ứng dụng đơn giản.&lt;br /&gt; Chỉ để khi khách hỏi,&lt;br /&gt; bạn không cần phải gọi ai nữa.&lt;/p&gt; &lt;p&gt;Link app : &lt;a href="https://play.google.com/store/apps/details?id=com.sale.family.store"&gt;Google play&lt;/a&gt; &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Jinsmith"&gt; /u/Jinsmith &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rgu3uo/chuyện_bắt_đầu_từ_một_câu_quen_thuộc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rgu3uo/chuyện_bắt_đầu_từ_một_câu_quen_thuộc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rgu3uo/chuyện_bắt_đầu_từ_một_câu_quen_thuộc/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-28T05:21:50+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1rgsk0g</id>
     <title>Loser muốn thay đổi</title>
     <updated>2026-02-28T04:01:58+00:00</updated>
@@ -147,17 +147,17 @@
     <published>2026-02-28T04:01:58+00:00</published>
   </entry>
   <entry>
-    <id>t3_1rgu3uo</id>
-    <title>Chuyện bắt đầu từ một câu quen thuộc</title>
-    <updated>2026-02-28T05:21:50+00:00</updated>
+    <id>t3_1rhains</id>
+    <title>Từ bỏ công việc ổn định để chạy theo đam mê</title>
+    <updated>2026-02-28T18:47:19+00:00</updated>
     <author>
-      <name>/u/Jinsmith</name>
-      <uri>https://old.reddit.com/user/Jinsmith</uri>
+      <name>/u/nghxson</name>
+      <uri>https://old.reddit.com/user/nghxson</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Năm nay tôi về quê vợ chơi.&lt;br /&gt; Nhà vợ tôi bán một tiệm tạp hóa nhỏ trước nhà.&lt;/p&gt; &lt;p&gt;Khách vào hỏi món này, món kia.&lt;br /&gt; Cả nhà đang đứng bán.&lt;/p&gt; &lt;p&gt;Rồi như một phản xạ quen thuộc, trong nhà lại vang lên: “Má ơi, cái này giá nhiêu?”&lt;/p&gt; &lt;p&gt;Vì chỉ có mình má nhớ hết giá.&lt;br /&gt; Từ gói mì, chai nước mắm, tới cục xà bông nhỏ xíu.&lt;/p&gt; &lt;p&gt;Má đi vắng một chút là bắt đầu hơi rối.&lt;br /&gt; Người nhớ giá này, người nhớ giá kia.&lt;br /&gt; Có khi không dám bán vì sợ nói sai.&lt;/p&gt; &lt;p&gt;Ngồi nhìn vậy thôi, tôi nghĩ:&lt;br /&gt; Hay là làm một cái app nhỏ nhỏ, chỉ để lưu lại giá?&lt;/p&gt; &lt;h1&gt;Và app này ra đời như vậy&lt;/h1&gt; &lt;p&gt;App này không có gì cao siêu.&lt;/p&gt; &lt;p&gt;Chỉ đơn giản là:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Lưu tên hàng&lt;/li&gt; &lt;li&gt;Lưu giá&lt;/li&gt; &lt;li&gt;Lưu số lượng còn lại&lt;/li&gt; &lt;li&gt;Có thể thêm hình ảnh cho dễ nhớ&lt;/li&gt; &lt;li&gt;Tìm kiếm nhanh khi khách hỏi&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Không cần internet vẫn dùng được.&lt;br /&gt; Dữ liệu nằm trong máy của bạn.&lt;/p&gt; &lt;p&gt;Nếu có mạng thì app chỉ tải một ít quảng cáo nhỏ để tôi có chi phí duy trì và phát triển tiếp. Không ảnh hưởng tới dữ liệu.&lt;/p&gt; &lt;h1&gt;Nhưng nói thật trước cho rõ&lt;/h1&gt; &lt;p&gt;App này không phải tải về là dùng ngay.&lt;/p&gt; &lt;p&gt;Ban đầu sẽ phải nhập giá và sản phẩm vào.&lt;br /&gt; Sẽ tốn một chút thời gian.&lt;/p&gt; &lt;p&gt;Nhưng tôi nghĩ:&lt;br /&gt; Nhập một lần để dùng lâu dài còn hơn mỗi ngày phải nhớ trong đầu,&lt;br /&gt; hoặc mỗi lần lại gọi: “Má ơi…”&lt;/p&gt; &lt;p&gt;Tôi không làm app này cho siêu thị lớn.&lt;br /&gt; Tôi làm cho tiệm tạp hóa nhỏ trong xóm.&lt;br /&gt; Cho gia đình tự bán.&lt;br /&gt; Cho những nhà giống như nhà vợ tôi.&lt;/p&gt; &lt;p&gt;Một ứng dụng đơn giản.&lt;br /&gt; Chỉ để khi khách hỏi,&lt;br /&gt; bạn không cần phải gọi ai nữa.&lt;/p&gt; &lt;p&gt;Link app : &lt;a href="https://play.google.com/store/apps/details?id=com.sale.family.store"&gt;Google play&lt;/a&gt; &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Jinsmith"&gt; /u/Jinsmith &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rgu3uo/chuyện_bắt_đầu_từ_một_câu_quen_thuộc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rgu3uo/chuyện_bắt_đầu_từ_một_câu_quen_thuộc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rgu3uo/chuyện_bắt_đầu_từ_một_câu_quen_thuộc/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Có bác nào trong đây từ bỏ công việc ổn định để chạy theo đam mê ko ạ. Lúc đó các bác có lo lăng ko, gia đình có cấm cản không. Những khó khăn mà các bác gặp phải khi từ bỏ công việc ổn định để làm những điều mình thích. Khi nhìn lại các bạn có nghĩ quyết định của mình đúng đắn ko ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/nghxson"&gt; /u/nghxson &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rhains/từ_bỏ_công_việc_ổn_định_để_chạy_theo_đam_mê/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rhains/từ_bỏ_công_việc_ổn_định_để_chạy_theo_đam_mê/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rhains/từ_bỏ_công_việc_ổn_định_để_chạy_theo_đam_mê/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-28T05:21:50+00:00</published>
+    <published>2026-02-28T18:47:19+00:00</published>
   </entry>
   <entry>
     <id>t3_1rh5vxk</id>
