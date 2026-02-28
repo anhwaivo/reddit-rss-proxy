@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-02-28T10:47:32+00:00</updated>
+  <updated>2026-02-28T11:18:43+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1rgugly</id>
-    <title>Đồng hồ Casio tầm giá 2 triệu anh em đang thích mẫu nào nhỉ?</title>
-    <updated>2026-02-28T05:41:22+00:00</updated>
-    <author>
-      <name>/u/mrtranson</name>
-      <uri>https://old.reddit.com/user/mrtranson</uri>
-    </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/mrtranson"&gt; /u/mrtranson &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rgugly/đồng_hồ_casio_tầm_giá_2_triệu_anh_em_đang_thích/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rgugly/đồng_hồ_casio_tầm_giá_2_triệu_anh_em_đang_thích/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rgugly/đồng_hồ_casio_tầm_giá_2_triệu_anh_em_đang_thích/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-28T05:41:22+00:00</published>
-  </entry>
   <entry>
     <id>t3_1rfzwcx</id>
     <title>Chắc chưa tới lượt mình các bác ạ</title>
@@ -125,6 +112,19 @@
     <published>2026-02-27T11:24:20+00:00</published>
   </entry>
   <entry>
+    <id>t3_1rgzyvp</id>
+    <title>Mong các bác làm sale tư vấn case của e</title>
+    <updated>2026-02-28T11:09:11+00:00</updated>
+    <author>
+      <name>/u/FlyApprehensive6526</name>
+      <uri>https://old.reddit.com/user/FlyApprehensive6526</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;e nam 23t, từng học qtkd nhưng đã bỏ học đh, tiếng anh thì bập bẹ ( hối hận vì ko trau dồi lúc còn nhìu thời gian), kinh nghiệm sale=0, hiện tại đang ở quê, hôm tết có anh họ rủ e lên sg làm thiết kế trang sức, nếu như e theo ổng thì sẽ dc gd chu cấp, có người dẫn dắt, gd đồng ý cho e lên tp. Còn nói về mong muốn của e, thì e muốn làm sale fdi để mong dc học hỏi nhiều hơn, và sau này kinh doanh gì đó. E hiện tại khá rối trí mong dc các bác tư vấn! Tks&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/FlyApprehensive6526"&gt; /u/FlyApprehensive6526 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rgzyvp/mong_các_bác_làm_sale_tư_vấn_case_của_e/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rgzyvp/mong_các_bác_làm_sale_tư_vấn_case_của_e/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rgzyvp/mong_các_bác_làm_sale_tư_vấn_case_của_e/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-28T11:09:11+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1rgu3uo</id>
     <title>Chuyện bắt đầu từ một câu quen thuộc</title>
     <updated>2026-02-28T05:21:50+00:00</updated>
@@ -162,6 +162,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1rgvc2s/chuyện_học_đường/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-02-28T06:30:22+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1rgxtfx</id>
+    <title>Các bác dự đoán xem với sức mạnh của AI hiện giờ thì tương lai sẽ có bao nhiêu ngành nghề mới được sinh ra và các công việc nào sẽ dễ bị thay thế trong tương lai?</title>
+    <updated>2026-02-28T08:56:46+00:00</updated>
+    <author>
+      <name>/u/Dismal_Arm_9569</name>
+      <uri>https://old.reddit.com/user/Dismal_Arm_9569</uri>
+    </author>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Dismal_Arm_9569"&gt; /u/Dismal_Arm_9569 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rgxtfx/các_bác_dự_đoán_xem_với_sức_mạnh_của_ai_hiện_giờ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rgxtfx/các_bác_dự_đoán_xem_với_sức_mạnh_của_ai_hiện_giờ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rgxtfx/các_bác_dự_đoán_xem_với_sức_mạnh_của_ai_hiện_giờ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-28T08:56:46+00:00</published>
   </entry>
   <entry>
     <id>t3_1rg0x4a</id>
@@ -216,19 +229,6 @@
     <published>2026-02-28T10:00:04+00:00</published>
   </entry>
   <entry>
-    <id>t3_1rgxtfx</id>
-    <title>Các bác dự đoán xem với sức mạnh của AI hiện giờ thì tương lai sẽ có bao nhiêu ngành nghề mới được sinh ra và các công việc nào sẽ dễ bị thay thế trong tương lai?</title>
-    <updated>2026-02-28T08:56:46+00:00</updated>
-    <author>
-      <name>/u/Dismal_Arm_9569</name>
-      <uri>https://old.reddit.com/user/Dismal_Arm_9569</uri>
-    </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Dismal_Arm_9569"&gt; /u/Dismal_Arm_9569 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rgxtfx/các_bác_dự_đoán_xem_với_sức_mạnh_của_ai_hiện_giờ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rgxtfx/các_bác_dự_đoán_xem_với_sức_mạnh_của_ai_hiện_giờ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rgxtfx/các_bác_dự_đoán_xem_với_sức_mạnh_của_ai_hiện_giờ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-28T08:56:46+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1rgnzkb</id>
     <title>Con gái cưới chồng sớm</title>
     <updated>2026-02-28T00:29:19+00:00</updated>
@@ -264,6 +264,19 @@
     <published>2026-02-28T03:22:40+00:00</published>
   </entry>
   <entry>
+    <id>t3_1rgpsm7</id>
+    <title>Nhắn tin 4th nhưng ko thấy rủ đi chơi</title>
+    <updated>2026-02-28T01:51:15+00:00</updated>
+    <author>
+      <name>/u/CapitalDesign4006</name>
+      <uri>https://old.reddit.com/user/CapitalDesign4006</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người mình là nữ, 23t mình có quen bạn kia qua fb nhắn tin tới giờ là 4 tháng, mình thắc mắc tại sao nhắn tin lâu vậy rồi, chuyện gì cùng chia sẻ cho nhau, nhưng bạn ấy chưa từng ngỏ ý rủ mình đi chơi. Mình cũng có gợi ý mấy lần nhưng bạn đó có thể không hiểu hoặc lơ đi. Vì bạn đó tự ti hay đáng vướng vấn đề gì. Đối với mình chỉ nhắn tin không thì ko có cảm xúc gì hết, mấy lần mình chán nhưng bạn đó hay hỏi han nên mình cũng trả lời. Bạn nam vào tư vấn giúp mình với&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/CapitalDesign4006"&gt; /u/CapitalDesign4006 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rgpsm7/nhắn_tin_4th_nhưng_ko_thấy_rủ_đi_chơi/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rgpsm7/nhắn_tin_4th_nhưng_ko_thấy_rủ_đi_chơi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rgpsm7/nhắn_tin_4th_nhưng_ko_thấy_rủ_đi_chơi/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-28T01:51:15+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1rgxqtb</id>
     <title>Xin cách từ chối xuống nhà bạn gái không bị mất lòng</title>
     <updated>2026-02-28T08:52:20+00:00</updated>
@@ -275,19 +288,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1rgxqtb/xin_cách_từ_chối_xuống_nhà_bạn_gái_không_bị_mất/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-02-28T08:52:20+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1rgyojv</id>
-    <title>Yêu hay không?</title>
-    <updated>2026-02-28T09:50:54+00:00</updated>
-    <author>
-      <name>/u/Leewuangr</name>
-      <uri>https://old.reddit.com/user/Leewuangr</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác, em 21 tuổi, đang học Cao đẳng và có tự học thêm ngoại ngữ, e sống lành mạnh và cũng không phải báo. Có hôm e có ngồi ăn họ hàng, sau khi biết e hiện tại chưa có người yêu thì ai cũng bảo là nên có người yêu, yêu đi chứ chờ giàu mới yêu thì biết bao giờ mới giàu, có khi còn không bao giờ giàu. Thật lòng thì e hay tự nghĩ nên dành thời gian cho bản thân (dù là chơi hay học) đến khi cảm giác có khả năng tạo ra tài chính, hoặc ít nhất là 25 tuổi mới bắt đầu tìm người yêu (e đã từ bỏ 1 bạn nữ từ lúc học cấp 3 vì suy nghĩ này). Với thời buổi ngày nay kinh tế e thấy rất quan trọng nên e có suy nghĩ như vậy và nó đang đi ngược với họ hàng cùng bạn bè CÁC BÁC CHO EM Ý KIẾN VỀ VẤN ĐỀ NÀY VỚI Ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Leewuangr"&gt; /u/Leewuangr &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rgyojv/yêu_hay_không/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rgyojv/yêu_hay_không/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rgyojv/yêu_hay_không/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-28T09:50:54+00:00</published>
   </entry>
   <entry>
     <id>t3_1rgwga6</id>
@@ -303,17 +303,17 @@
     <published>2026-02-28T07:34:31+00:00</published>
   </entry>
   <entry>
-    <id>t3_1rgpsm7</id>
-    <title>Nhắn tin 4th nhưng ko thấy rủ đi chơi</title>
-    <updated>2026-02-28T01:51:15+00:00</updated>
+    <id>t3_1rgyojv</id>
+    <title>Yêu hay không?</title>
+    <updated>2026-02-28T09:50:54+00:00</updated>
     <author>
-      <name>/u/CapitalDesign4006</name>
-      <uri>https://old.reddit.com/user/CapitalDesign4006</uri>
+      <name>/u/Leewuangr</name>
+      <uri>https://old.reddit.com/user/Leewuangr</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người mình là nữ, 23t mình có quen bạn kia qua fb nhắn tin tới giờ là 4 tháng, mình thắc mắc tại sao nhắn tin lâu vậy rồi, chuyện gì cùng chia sẻ cho nhau, nhưng bạn ấy chưa từng ngỏ ý rủ mình đi chơi. Mình cũng có gợi ý mấy lần nhưng bạn đó có thể không hiểu hoặc lơ đi. Vì bạn đó tự ti hay đáng vướng vấn đề gì. Đối với mình chỉ nhắn tin không thì ko có cảm xúc gì hết, mấy lần mình chán nhưng bạn đó hay hỏi han nên mình cũng trả lời. Bạn nam vào tư vấn giúp mình với&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/CapitalDesign4006"&gt; /u/CapitalDesign4006 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rgpsm7/nhắn_tin_4th_nhưng_ko_thấy_rủ_đi_chơi/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rgpsm7/nhắn_tin_4th_nhưng_ko_thấy_rủ_đi_chơi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rgpsm7/nhắn_tin_4th_nhưng_ko_thấy_rủ_đi_chơi/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác, em 21 tuổi, đang học Cao đẳng và có tự học thêm ngoại ngữ, e sống lành mạnh và cũng không phải báo. Có hôm e có ngồi ăn họ hàng, sau khi biết e hiện tại chưa có người yêu thì ai cũng bảo là nên có người yêu, yêu đi chứ chờ giàu mới yêu thì biết bao giờ mới giàu, có khi còn không bao giờ giàu. Thật lòng thì e hay tự nghĩ nên dành thời gian cho bản thân (dù là chơi hay học) đến khi cảm giác có khả năng tạo ra tài chính, hoặc ít nhất là 25 tuổi mới bắt đầu tìm người yêu (e đã từ bỏ 1 bạn nữ từ lúc học cấp 3 vì suy nghĩ này). Với thời buổi ngày nay kinh tế e thấy rất quan trọng nên e có suy nghĩ như vậy và nó đang đi ngược với họ hàng cùng bạn bè CÁC BÁC CHO EM Ý KIẾN VỀ VẤN ĐỀ NÀY VỚI Ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Leewuangr"&gt; /u/Leewuangr &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rgyojv/yêu_hay_không/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rgyojv/yêu_hay_không/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rgyojv/yêu_hay_không/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-28T01:51:15+00:00</published>
+    <published>2026-02-28T09:50:54+00:00</published>
   </entry>
   <entry>
     <id>t3_1rgu1uk</id>
