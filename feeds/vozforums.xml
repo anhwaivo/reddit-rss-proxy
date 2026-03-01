@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-03-01T11:22:32+00:00</updated>
+  <updated>2026-03-01T11:42:26+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1rhmuur</id>
-    <title>Góc chuẩn bị thực tập Backend</title>
-    <updated>2026-03-01T03:40:16+00:00</updated>
-    <author>
-      <name>/u/EasyAppearance1188</name>
-      <uri>https://old.reddit.com/user/EasyAppearance1188</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hello các bro/anh/chị, em là sinh viên năm 3 của 1 trường đại học giấu tên số 1 VVN. Em chuẩn bị bước vào kì thực tập và em chọn backend Java, đồng thời em đang luyện ngoại ngữ để nhét thêm mấy cái bằng vào. Hiện em mới chỉ Ielts 6.5 mà đã thi từ 2022 nên bằng đã hết hạn, tuy nhiên em vẫn để vào CV. Em muốn hỏi là không bàn đến chuyện sử dụng tiếng Anh thực tế, mà là chuyện vượt qua vòng scan CV, thì em có nên thi lại để lấy band cao hơn không ạ ?&lt;br /&gt; Và 1 câu hỏi khác là em cũng đang học tiếng Nhật, tuy nhiên nghe thiên hạ đồn thì công ty Nhật đầu vào intern dễ nhưng khi tìm job trên 1 số trang tuyển dụng + facebook thì nó cũng chả có bao nhiêu. Có anh chị nào biết cách săn không ạ, em cảm ơn mọi người ^^&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/EasyAppearance1188"&gt; /u/EasyAppearance1188 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rhmuur/góc_chuẩn_bị_thực_tập_backend/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rhmuur/góc_chuẩn_bị_thực_tập_backend/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rhmuur/góc_chuẩn_bị_thực_tập_backend/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-01T03:40:16+00:00</published>
-  </entry>
   <entry>
     <id>t3_1rh55pu</id>
     <title>khởi nghiệp</title>
@@ -34,19 +21,6 @@
     <published>2026-02-28T15:16:27+00:00</published>
   </entry>
   <entry>
-    <id>t3_1rgu1uk</id>
-    <title>Ngủ không mặc đồ</title>
-    <updated>2026-02-28T05:18:52+00:00</updated>
-    <author>
-      <name>/u/HoanhNguyen25</name>
-      <uri>https://old.reddit.com/user/HoanhNguyen25</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Người bạn cùng phòng có thói quen ngủ không mặc đồ, làm sao kêu nó mặc đồ ngủ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/HoanhNguyen25"&gt; /u/HoanhNguyen25 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rgu1uk/ngủ_không_mặc_đồ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rgu1uk/ngủ_không_mặc_đồ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rgu1uk/ngủ_không_mặc_đồ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-28T05:18:52+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1rh6z52</id>
     <title>Làm sao để không ghét bản thân</title>
     <updated>2026-02-28T16:29:59+00:00</updated>
@@ -58,6 +32,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1rh6z52/làm_sao_để_không_ghét_bản_thân/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-02-28T16:29:59+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1rgu1uk</id>
+    <title>Ngủ không mặc đồ</title>
+    <updated>2026-02-28T05:18:52+00:00</updated>
+    <author>
+      <name>/u/HoanhNguyen25</name>
+      <uri>https://old.reddit.com/user/HoanhNguyen25</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Người bạn cùng phòng có thói quen ngủ không mặc đồ, làm sao kêu nó mặc đồ ngủ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/HoanhNguyen25"&gt; /u/HoanhNguyen25 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rgu1uk/ngủ_không_mặc_đồ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rgu1uk/ngủ_không_mặc_đồ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rgu1uk/ngủ_không_mặc_đồ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-28T05:18:52+00:00</published>
   </entry>
   <entry>
     <id>t3_1rh3hdx</id>
@@ -177,19 +164,6 @@
     <published>2026-03-01T07:18:06+00:00</published>
   </entry>
   <entry>
-    <id>t3_1rhuqe0</id>
-    <title>Cách làm MMO</title>
-    <updated>2026-03-01T11:10:39+00:00</updated>
-    <author>
-      <name>/u/PsychologicalLeek852</name>
-      <uri>https://old.reddit.com/user/PsychologicalLeek852</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em là sinh viên năm nhất, có dư một máy cấu hình rtx3070ti, 24GB ram. &lt;/p&gt; &lt;p&gt;Trước em có treo tool gta 5 roleplay, treo 24/7 nên kiếm được 250k/1 ngày. Nhưng mà server sập rồi nên giờ máy để rảnh, không dùng ạ. Giờ lên đây hỏi em nên làm gì với máy này để kiếm thêm thu nhập ạ? Có thể là treo thêm một cái gì đó hoặc chạy auto ạ. E có thể điều khiển từ xa nên e có thể trực máy ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/PsychologicalLeek852"&gt; /u/PsychologicalLeek852 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rhuqe0/cách_làm_mmo/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rhuqe0/cách_làm_mmo/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rhuqe0/cách_làm_mmo/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-01T11:10:39+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1rhusg9</id>
     <title>Lo âu Lần Đầu Phỏng vấn Thực tập IT helpdesk</title>
     <updated>2026-03-01T11:13:57+00:00</updated>
@@ -201,6 +175,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1rhusg9/lo_âu_lần_đầu_phỏng_vấn_thực_tập_it_helpdesk/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-03-01T11:13:57+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1rhv1a8</id>
+    <title>Xây kênh...</title>
+    <updated>2026-03-01T11:28:25+00:00</updated>
+    <author>
+      <name>/u/Tricky-Study-9085</name>
+      <uri>https://old.reddit.com/user/Tricky-Study-9085</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hello mn, cty mình mới phát triển 1 sản phẩm dành riêng cho người nước ngoài. Trước mắt là tập trung vào kênh Tiktok để tiếp cận đúng đối tượng. Ở đây có anh chị em nào có kinh nghiệm về xây kênh nhắm đến thị trường nước ngoài không ạ. Làm sao để tạo một tài khoản chuẩn và tiếp cận đúng đối tượng ạ. Mình đã thử nhiều cách nhưng mà vẫn chủ yếu là người Việt xem :(((&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Tricky-Study-9085"&gt; /u/Tricky-Study-9085 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rhv1a8/xây_kênh/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rhv1a8/xây_kênh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rhv1a8/xây_kênh/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-01T11:28:25+00:00</published>
   </entry>
   <entry>
     <id>t3_1rhp3yi</id>
@@ -268,17 +255,17 @@
     <published>2026-02-28T22:05:28+00:00</published>
   </entry>
   <entry>
-    <id>t3_1rhnp90</id>
-    <title>Học bơi</title>
-    <updated>2026-03-01T04:23:20+00:00</updated>
+    <id>t3_1rhuqe0</id>
+    <title>Cách làm MMO</title>
+    <updated>2026-03-01T11:10:39+00:00</updated>
     <author>
-      <name>/u/babiPunkX</name>
-      <uri>https://old.reddit.com/user/babiPunkX</uri>
+      <name>/u/PsychologicalLeek852</name>
+      <uri>https://old.reddit.com/user/PsychologicalLeek852</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mn ơi, e đang có dự định học bơi nên muốn tham khảo ý kiến mọi người về chuyện này ạ. Em nhát nước nên muốn học 1:1 với thầy cô, thì e có tham khảo một khoá ở bể bơi gần nhà với giá là 4tr5/ 10 buổi, bơi cơ bản (bơi ếch, các kĩ năng sinh tồn như đứng nước…) đã bao vé bể. Em ở HN ạ và bể bơi là bể bơi trong nhà của một khu chung cư. Thì với giá này liệu đã hợp lý và đúng đắn để quyết định học ko ạ. Em ko có kinh nghiệm gì về bơi và giá cả…, e cx có tham khảo ở các chỗ khác hơi xa nhà một xíu nhưng vẫn mông lung và phân vân quá, nên mong ac có kinh nghiệm giải đáp giúp e. E cảm ơn mn nhìu &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/babiPunkX"&gt; /u/babiPunkX &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rhnp90/học_bơi/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rhnp90/học_bơi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rhnp90/học_bơi/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em là sinh viên năm nhất, có dư một máy cấu hình rtx3070ti, 24GB ram. &lt;/p&gt; &lt;p&gt;Trước em có treo tool gta 5 roleplay, treo 24/7 nên kiếm được 250k/1 ngày. Nhưng mà server sập rồi nên giờ máy để rảnh, không dùng ạ. Giờ lên đây hỏi em nên làm gì với máy này để kiếm thêm thu nhập ạ? Có thể là treo thêm một cái gì đó hoặc chạy auto ạ. E có thể điều khiển từ xa nên e có thể trực máy ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/PsychologicalLeek852"&gt; /u/PsychologicalLeek852 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rhuqe0/cách_làm_mmo/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rhuqe0/cách_làm_mmo/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rhuqe0/cách_làm_mmo/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-01T04:23:20+00:00</published>
+    <published>2026-03-01T11:10:39+00:00</published>
   </entry>
   <entry>
     <id>t3_1rhsxmo</id>
@@ -292,6 +279,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1rhsxmo/post_siêu_random/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-03-01T09:22:23+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1rhnp90</id>
+    <title>Học bơi</title>
+    <updated>2026-03-01T04:23:20+00:00</updated>
+    <author>
+      <name>/u/babiPunkX</name>
+      <uri>https://old.reddit.com/user/babiPunkX</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mn ơi, e đang có dự định học bơi nên muốn tham khảo ý kiến mọi người về chuyện này ạ. Em nhát nước nên muốn học 1:1 với thầy cô, thì e có tham khảo một khoá ở bể bơi gần nhà với giá là 4tr5/ 10 buổi, bơi cơ bản (bơi ếch, các kĩ năng sinh tồn như đứng nước…) đã bao vé bể. Em ở HN ạ và bể bơi là bể bơi trong nhà của một khu chung cư. Thì với giá này liệu đã hợp lý và đúng đắn để quyết định học ko ạ. Em ko có kinh nghiệm gì về bơi và giá cả…, e cx có tham khảo ở các chỗ khác hơi xa nhà một xíu nhưng vẫn mông lung và phân vân quá, nên mong ac có kinh nghiệm giải đáp giúp e. E cảm ơn mn nhìu &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/babiPunkX"&gt; /u/babiPunkX &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rhnp90/học_bơi/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rhnp90/học_bơi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rhnp90/học_bơi/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-01T04:23:20+00:00</published>
   </entry>
   <entry>
     <id>t3_1rhtewa</id>
