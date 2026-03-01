@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-03-01T12:46:40+00:00</updated>
+  <updated>2026-03-01T13:37:42+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1rhvh2r</id>
-    <title>Cho mình hỏi về điểm karma</title>
-    <updated>2026-03-01T11:54:23+00:00</updated>
-    <author>
-      <name>/u/asa_no_kenny</name>
-      <uri>https://old.reddit.com/user/asa_no_kenny</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1rhvh2r/cho_mình_hỏi_về_điểm_karma/"&gt; &lt;img alt="Cho mình hỏi về điểm karma" src="https://preview.redd.it/odta9pe9afmg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=00e674e764e248dbf538218ce854b2bbdada01e1" title="Cho mình hỏi về điểm karma" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tài khoản mình mới tạo 20 ngày mà sao điểm karma tận 520 vậy anh em ? Mình check nhiều anh em acc 5-6 năm có khi chưa tới 100 điểm. Cái điểm này có bị ảo không hay do tài khoản mình nó bị lỗi ? Anh em ai giống mình không chứ thấy hoang mang quá &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/asa_no_kenny"&gt; /u/asa_no_kenny &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/odta9pe9afmg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rhvh2r/cho_mình_hỏi_về_điểm_karma/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rhvh2r/cho_mình_hỏi_về_điểm_karma/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-01T11:54:23+00:00</published>
-  </entry>
   <entry>
     <id>t3_1rh0gcq</id>
     <title>Mình cảm thấy trên HN rất tẻ nhạt</title>
@@ -60,19 +47,6 @@
     <published>2026-02-28T18:47:19+00:00</published>
   </entry>
   <entry>
-    <id>t3_1rh9fjo</id>
-    <title>Như này là ái kỷ đúng không ?</title>
-    <updated>2026-02-28T18:05:36+00:00</updated>
-    <author>
-      <name>/u/kitchcu</name>
-      <uri>https://old.reddit.com/user/kitchcu</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Kiểu mặc dù muốn có người yêu nhưng khi người ta tỏ tình thì bỏ chạy. Kiểu bản thân thích cảm giác được người khác chú ý hơn là thuộc về 1 ai đó.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/kitchcu"&gt; /u/kitchcu &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rh9fjo/như_này_là_ái_kỷ_đúng_không/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rh9fjo/như_này_là_ái_kỷ_đúng_không/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rh9fjo/như_này_là_ái_kỷ_đúng_không/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-02-28T18:05:36+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1rhtjis</id>
     <title>Du học Úc</title>
     <updated>2026-03-01T10:00:19+00:00</updated>
@@ -97,6 +71,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1rhnfvw/nhờ_vả_mọi_người_giúp_e_ít_phút_làm_khảo_sát/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-03-01T04:09:38+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1rh9fjo</id>
+    <title>Như này là ái kỷ đúng không ?</title>
+    <updated>2026-02-28T18:05:36+00:00</updated>
+    <author>
+      <name>/u/kitchcu</name>
+      <uri>https://old.reddit.com/user/kitchcu</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Kiểu mặc dù muốn có người yêu nhưng khi người ta tỏ tình thì bỏ chạy. Kiểu bản thân thích cảm giác được người khác chú ý hơn là thuộc về 1 ai đó.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/kitchcu"&gt; /u/kitchcu &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rh9fjo/như_này_là_ái_kỷ_đúng_không/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rh9fjo/như_này_là_ái_kỷ_đúng_không/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rh9fjo/như_này_là_ái_kỷ_đúng_không/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-02-28T18:05:36+00:00</published>
   </entry>
   <entry>
     <id>t3_1rhufbf</id>
@@ -255,17 +242,17 @@
     <published>2026-03-01T04:23:20+00:00</published>
   </entry>
   <entry>
-    <id>t3_1rhvzdb</id>
-    <title>Đi xe số đúng cách</title>
-    <updated>2026-03-01T12:22:46+00:00</updated>
+    <id>t3_1rhx107</id>
+    <title>Mọi người có công nhận là động vật hoang dã có một cái vẻ đẹp gì đó khó diễn tả lắm đúng không</title>
+    <updated>2026-03-01T13:15:44+00:00</updated>
     <author>
-      <name>/u/thuynguyen_van</name>
-      <uri>https://old.reddit.com/user/thuynguyen_van</uri>
+      <name>/u/Adventurous_Cow_4529</name>
+      <uri>https://old.reddit.com/user/Adventurous_Cow_4529</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mn, mình vừa mua cái xe honda wave&lt;/p&gt; &lt;p&gt;Thì thói quen của mình khi đi xe số thì toàn đi số 4, số 1 2 thì để lên dốc, số 3 gần như không đụng đến. Nay mình đi xe thì người ta bảo là đi số 3 ở trong thành phố (20- 30km/h), số 4 thì để đi đường phẳng, ít xe cộ qua lại (40-60km/h). Nếu cứ đi số 4 thì nó nhanh hư hộp số, hay bị đì máy&lt;/p&gt; &lt;p&gt;Không biết như nào mới đúng nhỉ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/thuynguyen_van"&gt; /u/thuynguyen_van &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rhvzdb/đi_xe_số_đúng_cách/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rhvzdb/đi_xe_số_đúng_cách/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rhvzdb/đi_xe_số_đúng_cách/"/>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Adventurous_Cow_4529"&gt; /u/Adventurous_Cow_4529 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rhx107/mọi_người_có_công_nhận_là_động_vật_hoang_dã_có/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rhx107/mọi_người_có_công_nhận_là_động_vật_hoang_dã_có/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rhx107/mọi_người_có_công_nhận_là_động_vật_hoang_dã_có/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-01T12:22:46+00:00</published>
+    <published>2026-03-01T13:15:44+00:00</published>
   </entry>
   <entry>
     <id>t3_1rhsxmo</id>
@@ -281,17 +268,30 @@
     <published>2026-03-01T09:22:23+00:00</published>
   </entry>
   <entry>
-    <id>t3_1rhtewa</id>
-    <title>Nhân tướng học có real không?</title>
-    <updated>2026-03-01T09:52:17+00:00</updated>
+    <id>t3_1rhvzdb</id>
+    <title>Đi xe số đúng cách</title>
+    <updated>2026-03-01T12:22:46+00:00</updated>
     <author>
-      <name>/u/ExcuseNaive1360</name>
-      <uri>https://old.reddit.com/user/ExcuseNaive1360</uri>
+      <name>/u/thuynguyen_van</name>
+      <uri>https://old.reddit.com/user/thuynguyen_van</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Nhìn qua mỗi khuôn mặt mà đoán luôn đc cả vận hạn tương lai thì có legit k? Trong khi nó có thể là đặc điểm di truyền. Nhiều người mặt nhìn ác nhưng tâm lại tốt, đôi khi ngược lại. Ý kiến mn như thế nào?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ExcuseNaive1360"&gt; /u/ExcuseNaive1360 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rhtewa/nhân_tướng_học_có_real_không/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rhtewa/nhân_tướng_học_có_real_không/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rhtewa/nhân_tướng_học_có_real_không/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mn, mình vừa mua cái xe honda wave&lt;/p&gt; &lt;p&gt;Thì thói quen của mình khi đi xe số thì toàn đi số 4, số 1 2 thì để lên dốc, số 3 gần như không đụng đến. Nay mình đi xe thì người ta bảo là đi số 3 ở trong thành phố (20- 30km/h), số 4 thì để đi đường phẳng, ít xe cộ qua lại (40-60km/h). Nếu cứ đi số 4 thì nó nhanh hư hộp số, hay bị đì máy&lt;/p&gt; &lt;p&gt;Không biết như nào mới đúng nhỉ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/thuynguyen_van"&gt; /u/thuynguyen_van &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rhvzdb/đi_xe_số_đúng_cách/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rhvzdb/đi_xe_số_đúng_cách/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rhvzdb/đi_xe_số_đúng_cách/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-01T09:52:17+00:00</published>
+    <published>2026-03-01T12:22:46+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1rhin03</id>
+    <title>Có bình thường không khi mình cảm thấy "vui" khi vợ về nhà Ba Mẹ 3 tuần?</title>
+    <updated>2026-03-01T00:21:15+00:00</updated>
+    <author>
+      <name>/u/coopermug</name>
+      <uri>https://old.reddit.com/user/coopermug</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Minh mới cưới nhau được khoảng 5 tháng. 5 tháng nói chung là cuộc sống khá ổn. Trong thời gian này thì vợ mình chưa đi làm gì 1 số lí do và mình cũng chẳng thấy phiền gì vì mình có khả năng chi trả cho cuộc sống 2 vc. Có điều vợ mình là tuýp người &amp;quot;clingy&amp;quot;. Nôm na là hay dỗi/ thich &amp;quot;đeo bám&amp;quot;. Lâu lâu tự nhiên dỗi cho có chuyện. VD như hôm qua cô ấy muốn đi shopping cũng bắt mình đi theo (không phải để trả tiền vì cô ấy có tiền riêng). Kiểu phải có người nói chuyện cùng.&lt;/p&gt; &lt;p&gt;Nhấn mạnh là mình dành thời gian cho vợ mình rất nhiều vì mình work from home. It nhà nào đc vậy lắm vì bình thường 2 vc ai cũng đi ra ngoài làm từ sáng đến chiều mới gặp. Còn mình gần như 1 ngày thấy mặt nhau 24 tiếng. Mình là người hướng nội nên có những sở thích hưởng nội nhu đoc sach, xem phim, chơi game, etc. Nhieu khi mình muốn dành vài tiếng cuối tuần ngồi đọc sách hay chơi game cũng không được. Vợ mình thì hoàn toàn không có sở thích hưởng nội như mình. Đến cả xem phim thì cũng ít khi xem chung được vì sở thích phim 2 vợ chồng khác nhau. Mình lại càng thích xem phim 1 mình hơn.&lt;/p&gt; &lt;p&gt;Hom nay vợ có việc về nhà BM 3 tuần (việc gia đình). Mình và vợ hoàn toàn không có vấn đề gì. Nhưng mình lại cảm thay &amp;quot;nhẹ nhõm&amp;quot; khi được ở 1 mình trong vòng 3 tuần. Không biết như vậy là có bình thường không nhỉ? Bình thường vợ chồng xa nhau nhớ nhung trong khi mình thấy vui thì cũng thấy hơi sai sai sao đó.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/coopermug"&gt; /u/coopermug &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rhin03/có_bình_thường_không_khi_mình_cảm_thấy_vui_khi_vợ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rhin03/có_bình_thường_không_khi_mình_cảm_thấy_vui_khi_vợ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rhin03/có_bình_thường_không_khi_mình_cảm_thấy_vui_khi_vợ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-01T00:21:15+00:00</published>
   </entry>
   <entry>
     <id>t3_1rhuqe0</id>
@@ -307,17 +307,17 @@
     <published>2026-03-01T11:10:39+00:00</published>
   </entry>
   <entry>
-    <id>t3_1rhin03</id>
-    <title>Có bình thường không khi mình cảm thấy "vui" khi vợ về nhà Ba Mẹ 3 tuần?</title>
-    <updated>2026-03-01T00:21:15+00:00</updated>
+    <id>t3_1rhtewa</id>
+    <title>Nhân tướng học có real không?</title>
+    <updated>2026-03-01T09:52:17+00:00</updated>
     <author>
-      <name>/u/coopermug</name>
-      <uri>https://old.reddit.com/user/coopermug</uri>
+      <name>/u/ExcuseNaive1360</name>
+      <uri>https://old.reddit.com/user/ExcuseNaive1360</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Minh mới cưới nhau được khoảng 5 tháng. 5 tháng nói chung là cuộc sống khá ổn. Trong thời gian này thì vợ mình chưa đi làm gì 1 số lí do và mình cũng chẳng thấy phiền gì vì mình có khả năng chi trả cho cuộc sống 2 vc. Có điều vợ mình là tuýp người &amp;quot;clingy&amp;quot;. Nôm na là hay dỗi/ thich &amp;quot;đeo bám&amp;quot;. Lâu lâu tự nhiên dỗi cho có chuyện. VD như hôm qua cô ấy muốn đi shopping cũng bắt mình đi theo (không phải để trả tiền vì cô ấy có tiền riêng). Kiểu phải có người nói chuyện cùng.&lt;/p&gt; &lt;p&gt;Nhấn mạnh là mình dành thời gian cho vợ mình rất nhiều vì mình work from home. It nhà nào đc vậy lắm vì bình thường 2 vc ai cũng đi ra ngoài làm từ sáng đến chiều mới gặp. Còn mình gần như 1 ngày thấy mặt nhau 24 tiếng. Mình là người hướng nội nên có những sở thích hưởng nội nhu đoc sach, xem phim, chơi game, etc. Nhieu khi mình muốn dành vài tiếng cuối tuần ngồi đọc sách hay chơi game cũng không được. Vợ mình thì hoàn toàn không có sở thích hưởng nội như mình. Đến cả xem phim thì cũng ít khi xem chung được vì sở thích phim 2 vợ chồng khác nhau. Mình lại càng thích xem phim 1 mình hơn.&lt;/p&gt; &lt;p&gt;Hom nay vợ có việc về nhà BM 3 tuần (việc gia đình). Mình và vợ hoàn toàn không có vấn đề gì. Nhưng mình lại cảm thay &amp;quot;nhẹ nhõm&amp;quot; khi được ở 1 mình trong vòng 3 tuần. Không biết như vậy là có bình thường không nhỉ? Bình thường vợ chồng xa nhau nhớ nhung trong khi mình thấy vui thì cũng thấy hơi sai sai sao đó.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/coopermug"&gt; /u/coopermug &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rhin03/có_bình_thường_không_khi_mình_cảm_thấy_vui_khi_vợ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rhin03/có_bình_thường_không_khi_mình_cảm_thấy_vui_khi_vợ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rhin03/có_bình_thường_không_khi_mình_cảm_thấy_vui_khi_vợ/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Nhìn qua mỗi khuôn mặt mà đoán luôn đc cả vận hạn tương lai thì có legit k? Trong khi nó có thể là đặc điểm di truyền. Nhiều người mặt nhìn ác nhưng tâm lại tốt, đôi khi ngược lại. Ý kiến mn như thế nào?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ExcuseNaive1360"&gt; /u/ExcuseNaive1360 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rhtewa/nhân_tướng_học_có_real_không/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rhtewa/nhân_tướng_học_có_real_không/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rhtewa/nhân_tướng_học_có_real_không/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-01T00:21:15+00:00</published>
+    <published>2026-03-01T09:52:17+00:00</published>
   </entry>
   <entry>
     <id>t3_1rhts0i</id>
