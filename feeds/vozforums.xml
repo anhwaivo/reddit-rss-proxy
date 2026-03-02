@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-03-02T22:25:12+00:00</updated>
+  <updated>2026-03-02T22:54:07+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -34,19 +34,6 @@
     <published>2026-03-02T15:50:13+00:00</published>
   </entry>
   <entry>
-    <id>t3_1riu3s1</id>
-    <title>Tính ra vô tuần này mới thấy lực lượng sinh viên vào HCM học đông như thế nào</title>
-    <updated>2026-03-02T14:21:28+00:00</updated>
-    <author>
-      <name>/u/kitchcu</name>
-      <uri>https://old.reddit.com/user/kitchcu</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tính ra mới tuần trước thôi chỉ có người đi làm mới vô lại thì đường xá hàng quán vẫn bình thường thoải mái nha mà vô tuần này 1 cái thành phố vào đúng nhịp thường thấy luôn, đường thì kẹt, hàng quán thì đông đúc, vô phòng gym chẳng có chỗ tập luôn. Chả biết nhà nước có kế hoạch kéo dãn gì không chứ cảm giác cứ giữ thế này thì tương lai các em còn chả có chỗ để ở, 1 cái phòng rách không có cửa sổ cũng đã 4tr/tháng rồi &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/kitchcu"&gt; /u/kitchcu &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1riu3s1/tính_ra_vô_tuần_này_mới_thấy_lực_lượng_sinh_viên/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1riu3s1/tính_ra_vô_tuần_này_mới_thấy_lực_lượng_sinh_viên/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1riu3s1/tính_ra_vô_tuần_này_mới_thấy_lực_lượng_sinh_viên/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-02T14:21:28+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1riqiar</id>
     <title>TPHCM - Mình cần review về những quán Omakase</title>
     <updated>2026-03-02T11:36:17+00:00</updated>
@@ -71,6 +58,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1riu2wt/nên_học_ielts_hay_tiếng_anh_giao_tiếp/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-03-02T14:20:30+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1riu3s1</id>
+    <title>Tính ra vô tuần này mới thấy lực lượng sinh viên vào HCM học đông như thế nào</title>
+    <updated>2026-03-02T14:21:28+00:00</updated>
+    <author>
+      <name>/u/kitchcu</name>
+      <uri>https://old.reddit.com/user/kitchcu</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tính ra mới tuần trước thôi chỉ có người đi làm mới vô lại thì đường xá hàng quán vẫn bình thường thoải mái nha mà vô tuần này 1 cái thành phố vào đúng nhịp thường thấy luôn, đường thì kẹt, hàng quán thì đông đúc, vô phòng gym chẳng có chỗ tập luôn. Chả biết nhà nước có kế hoạch kéo dãn gì không chứ cảm giác cứ giữ thế này thì tương lai các em còn chả có chỗ để ở, 1 cái phòng rách không có cửa sổ cũng đã 4tr/tháng rồi &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/kitchcu"&gt; /u/kitchcu &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1riu3s1/tính_ra_vô_tuần_này_mới_thấy_lực_lượng_sinh_viên/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1riu3s1/tính_ra_vô_tuần_này_mới_thấy_lực_lượng_sinh_viên/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1riu3s1/tính_ra_vô_tuần_này_mới_thấy_lực_lượng_sinh_viên/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-02T14:21:28+00:00</published>
   </entry>
   <entry>
     <id>t3_1riers1</id>
@@ -151,19 +151,6 @@
     <published>2026-03-02T13:24:36+00:00</published>
   </entry>
   <entry>
-    <id>t3_1rip5a6</id>
-    <title>góc tâm sự</title>
-    <updated>2026-03-02T10:17:57+00:00</updated>
-    <author>
-      <name>/u/Due_Switch_2428</name>
-      <uri>https://old.reddit.com/user/Due_Switch_2428</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;theo ae tuổi 20 nên làm gì để đến tuổi 30 k nói câu GIÁ NHƯ..&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Due_Switch_2428"&gt; /u/Due_Switch_2428 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rip5a6/góc_tâm_sự/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rip5a6/góc_tâm_sự/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rip5a6/góc_tâm_sự/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-02T10:17:57+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1rij817</id>
     <title>Mọi người thường chi bao nhiêu tiền cho việc thuê nhà?</title>
     <updated>2026-03-02T04:30:16+00:00</updated>
@@ -188,6 +175,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1riwe58/nợ_nần/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-03-02T15:49:38+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1rip5a6</id>
+    <title>góc tâm sự</title>
+    <updated>2026-03-02T10:17:57+00:00</updated>
+    <author>
+      <name>/u/Due_Switch_2428</name>
+      <uri>https://old.reddit.com/user/Due_Switch_2428</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;theo ae tuổi 20 nên làm gì để đến tuổi 30 k nói câu GIÁ NHƯ..&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Due_Switch_2428"&gt; /u/Due_Switch_2428 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rip5a6/góc_tâm_sự/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rip5a6/góc_tâm_sự/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rip5a6/góc_tâm_sự/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-02T10:17:57+00:00</published>
   </entry>
   <entry>
     <id>t3_1rj5sp3</id>
