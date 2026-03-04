@@ -2,37 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-03-04T07:52:10+00:00</updated>
+  <updated>2026-03-04T08:37:48+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1rkezur</id>
-    <title>Ai giải đáp đi</title>
-    <updated>2026-03-04T07:21:29+00:00</updated>
-    <author>
-      <name>/u/AdTemporary2476</name>
-      <uri>https://old.reddit.com/user/AdTemporary2476</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;có ai bị block khi mà nói chuyện khác thứ tiếng chưa? tôi có kết bạn với vài người trên tele, tôi chào rất thân thiện các kiểu nhưng khi ngta chào lại, tôi cũng rep lại nhưng bằng tiếng anh thì họ chặn tôi luôn:)), cụ thể là mấy người trung &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/AdTemporary2476"&gt; /u/AdTemporary2476 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rkezur/ai_giải_đáp_đi/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rkezur/ai_giải_đáp_đi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rkezur/ai_giải_đáp_đi/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-04T07:21:29+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1rkfa2w</id>
-    <title>Trải nghiệm của mình khi mua tài khoản Semrush và test export tải xuống dữ liệu</title>
-    <updated>2026-03-04T07:38:28+00:00</updated>
-    <author>
-      <name>/u/Superb-Sandwich-9926</name>
-      <uri>https://old.reddit.com/user/Superb-Sandwich-9926</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người,&lt;/p&gt; &lt;p&gt;Mình làm SEO và gần đây có thử sử dụng một vài tài khoản Semrush dạng dùng chung. Trong quá trình sử dụng mình phát hiện một điều khá thú vị liên quan đến &lt;strong&gt;tính năng export / tải dữ liệu&lt;/strong&gt; nên muốn chia sẻ để hỏi thêm kinh nghiệm từ mọi người.&lt;/p&gt; &lt;p&gt;Thông thường khi dùng Semrush mình hay cần export dữ liệu như:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Danh sách &lt;strong&gt;backlinks&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Keyword list&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;Các &lt;strong&gt;report CSV hoặc PDF&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;Một số dữ liệu phân tích domain để lưu về máy&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Tuy nhiên khi mình test hai tài khoản Semrush khác nhau thì kết quả lại &lt;strong&gt;không giống nhau&lt;/strong&gt;.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Một tài khoản: có thể &lt;strong&gt;export dữ liệu bình thường&lt;/strong&gt; (backlink, keyword, report…)&lt;/li&gt; &lt;li&gt;Một tài khoản khác: &lt;strong&gt;không thể tải dữ liệu xuống&lt;/strong&gt;, các nút export gần như không hoạt động hoặc bị hạn chế&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Vì vậy mình đã thử &lt;strong&gt;quay video màn hình để test trực tiếp chức năng export dữ liệu&lt;/strong&gt; (mình sẽ đính kèm video trong bài viết này).&lt;/p&gt; &lt;p&gt;&lt;a href="https://reddit.com/link/1rkfa2w/video/5p9x5vhbfzmg1/player"&gt;https://reddit.com/link/1rkfa2w/video/5p9x5vhbfzmg1/player&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Mình khá thắc mắc vài vấn đề:&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Có phải &lt;strong&gt;một số tài khoản Semrush sẽ bị giới hạn tính năng export&lt;/strong&gt; không?&lt;/li&gt; &lt;li&gt;Việc &lt;strong&gt;không tải được dữ liệu&lt;/strong&gt; là do loại gói, quyền truy cập hay cấu hình tài khoản?&lt;/li&gt; &lt;li&gt;Có cách nào kiểm tra &lt;strong&gt;tài khoản Semrush có quyền export dữ liệu hay không&lt;/strong&gt; trước khi sử dụng không?&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Vì với mình, việc &lt;strong&gt;tải danh sách backlink hoặc keyword về máy&lt;/strong&gt; khá quan trọng để phân tích SEO.&lt;/p&gt; &lt;p&gt;Nếu ai từng gặp trường hợp tương tự hoặc đang dùng Semrush thì cho mình xin thêm kinh nghiệm nhé.&lt;/p&gt; &lt;p&gt;Cảm ơn mọi người!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Superb-Sandwich-9926"&gt; /u/Superb-Sandwich-9926 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rkfa2w/trải_nghiệm_của_mình_khi_mua_tài_khoản_semrush_và/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rkfa2w/trải_nghiệm_của_mình_khi_mua_tài_khoản_semrush_và/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rkfa2w/trải_nghiệm_của_mình_khi_mua_tài_khoản_semrush_và/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-04T07:38:28+00:00</published>
-  </entry>
   <entry>
     <id>t3_1rjixb5</id>
     <title>Từ 1/3 nội dung giải trí dùng AI buộc phải gắn nhãn</title>
@@ -71,6 +45,45 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1rkbmbs/hung_thần_xa_lộ/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-03-04T04:15:36+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1rkfpv4</id>
+    <title>Có sdt scammer thì nên làm gì</title>
+    <updated>2026-03-04T08:04:49+00:00</updated>
+    <author>
+      <name>/u/Ok-Carpenter-876</name>
+      <uri>https://old.reddit.com/user/Ok-Carpenter-876</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mn, phụ huynh vừa bị cam, em check bên kia thì cũng gà mờ nên lộ sdt chính chủ. H nên làm gì để gây khó chịu cho nó nhỉ? Báo CA k đc vì số tiền chưa tới.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ok-Carpenter-876"&gt; /u/Ok-Carpenter-876 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rkfpv4/có_sdt_scammer_thì_nên_làm_gì/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rkfpv4/có_sdt_scammer_thì_nên_làm_gì/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rkfpv4/có_sdt_scammer_thì_nên_làm_gì/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-04T08:04:49+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1rkfqbi</id>
+    <title>Làm ngành phim rồi thì nên chuyển ngành đi đâu</title>
+    <updated>2026-03-04T08:05:33+00:00</updated>
+    <author>
+      <name>/u/Far_Parfait_1292</name>
+      <uri>https://old.reddit.com/user/Far_Parfait_1292</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Năm nay em 25 tuổi, tốt nghiệp ngành phim, đã từng làm trưởng phòng producer cho một kênh youtube, nhưng đã nghỉ việc. Giờ nghĩ về ngành phim thấy nản mà nó bạc bẽo ghê. Tiền chẳng được mấy mà mỗi ngày lo từ chỗ làm tới về nhà, có ngày cày hơn 12 tiếng và chẳng biết bao giờ mới đủ tiền mua nhà. Giờ em đang tính học chứng chỉ để làm Project Manager (vì thấy có nhiều skill chuyển qua được) nhưng không có background về tech hay BA gì cả.&lt;/p&gt; &lt;p&gt;Mọi có ai từng làm ngành phim và chuyển sang ngành khác chưa? Mọi người thấy thành công trong con đường mới không hay không bỏ được? Cảm ơn mọi người trước ạ!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Far_Parfait_1292"&gt; /u/Far_Parfait_1292 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rkfqbi/làm_ngành_phim_rồi_thì_nên_chuyển_ngành_đi_đâu/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rkfqbi/làm_ngành_phim_rồi_thì_nên_chuyển_ngành_đi_đâu/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rkfqbi/làm_ngành_phim_rồi_thì_nên_chuyển_ngành_đi_đâu/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-04T08:05:33+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1rkg4nl</id>
+    <title>Mắc kẹt trong suy nghĩ "bản thân tầm thường, không có gì đặc biệt"</title>
+    <updated>2026-03-04T08:30:42+00:00</updated>
+    <author>
+      <name>/u/Anniioi</name>
+      <uri>https://old.reddit.com/user/Anniioi</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mn ạ,&lt;/p&gt; &lt;p&gt;Mình là nữ 27t chưa có gia đình, ra trường đi làm VP cũng được 4 năm rồi, gia đình thì cũng ko khá giả gì mấy, trộm vía ba mẹ dù khó khăn vẫn cho ăn học đầy đủ, cuộc đời êm ả. Nhưng mình có một cái tật hoặc là một cái bệnh &amp;quot;xem thường bản thân&amp;quot; hoặc đúng hơn là &amp;quot;Bản thân ko có gì đặc biệt&amp;quot;&lt;/p&gt; &lt;p&gt;Ví dụ: Mình thường để ý mn xung quanh mình rất tự hào về bản thân học giỏi nè, kiếm được nhiều tiền, rồi đam mê cái gì đó,... hoặc tự hào về gia đình dòng họ rất yêu thương nhau và sống tình cảm.&lt;/p&gt; &lt;p&gt;Với mình, việc mình học tốt thi tỉnh thi huyện đều có giải nhưng mình chỉ nghĩ là do mình chăm chỉ thôi, ai chăm chỉ cũng sẽ được như vậy&lt;/p&gt; &lt;p&gt;Mình vào cty từ nhân viên quèn lương 7tr5 tới nay là năm thứ 5 lương cũng đứng top cty: 25tr (cty gia đình nhỏ thôi, chỉ sau sếp và leader của mình) - nhưng mình luôn thấy là do mình chăm chỉ với miệng mồm cũng được 1 tẹo chứ chuyên môn hoàn toàn rỗng tếch... nói tới đây muốn khok ghê&lt;/p&gt; &lt;p&gt;Thường thì mn sẽ tự hào về dòng họ gia đình, quê hương mình đúng hong, nhưng mình toàn thấy sự tính toán, hiềm khích giữa họ, và những cái khuyết điểm....&lt;/p&gt; &lt;p&gt;Mình rất muốn vượt qua những suy nghĩ này luôn, vì bản thân mình phải thật sự thấy những điều xung quanh mình phải có giá trị thì mình cũng mới có giá trị...&lt;/p&gt; &lt;p&gt;Nhiều khi thấy mình bình thường đến phát nản luôn .....&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Anniioi"&gt; /u/Anniioi &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rkg4nl/mắc_kẹt_trong_suy_nghĩ_bản_thân_tầm_thường_không/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rkg4nl/mắc_kẹt_trong_suy_nghĩ_bản_thân_tầm_thường_không/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rkg4nl/mắc_kẹt_trong_suy_nghĩ_bản_thân_tầm_thường_không/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-04T08:30:42+00:00</published>
   </entry>
   <entry>
     <id>t3_1rk9m1c</id>
@@ -112,19 +125,6 @@
     <published>2026-03-03T00:03:21+00:00</published>
   </entry>
   <entry>
-    <id>t3_1rkdk3z</id>
-    <title>Chuyện đâm xe và cái giá phải trả</title>
-    <updated>2026-03-04T05:57:59+00:00</updated>
-    <author>
-      <name>/u/Keiki2068</name>
-      <uri>https://old.reddit.com/user/Keiki2068</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1rkdk3z/chuyện_đâm_xe_và_cái_giá_phải_trả/"&gt; &lt;img alt="Chuyện đâm xe và cái giá phải trả" src="https://preview.redd.it/6t8nbwwdxymg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=7b1b733df06ee1c035a4429f35d282b446b170d2" title="Chuyện đâm xe và cái giá phải trả" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;em chào anh chị tiền bối trong cộng đồng. Em hiện là sv năm 2 của 1 trường đh công nghệ, hôm qua trên đường đi học em có va phải 1 chiếc xe taxi đang trên đường đón khách (em thấy ông chú chủ xe nói vậy). E dựng xe dậy và đợi người đó xuống xe, ổng đứng xuống chửi e 1 hồi sau đó đòi bồi thường. Giằng co 1 hồi ổng nhìn tiền trong tk e xong đòi 1tr2. Em cũng xót tiền lắm nma e cũng sợ ổng đòi nhiều hơn số tiền thực tế phải trả ấy ạ hoặc là những vết trầy, lõm trên xe cũng chưa chắc phải do e đâm nhưng ổng cố tình vòi e.&lt;br /&gt; E có xin sđt của ổng và chụp biển số nhưng mà từ lúc nhắn đến hiện tại ổng không phản hồi gì . Mn cho e xin lời khuyên với ạ, liệu 1tr2 có quá đắt hay là vừa đúng ạ.&lt;br /&gt; Ba mẹ mới chuyển cho chút tiền phòng thân mà giờ e lại phải thắt dây buộc bụng như này thì cũng khó cho e 😭😭😭&lt;br /&gt; update: sdt ông chú chủ xe là 0389882190, có dùng zalo nhưng em có nhắn cũng ko có phản hồi&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Keiki2068"&gt; /u/Keiki2068 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/6t8nbwwdxymg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rkdk3z/chuyện_đâm_xe_và_cái_giá_phải_trả/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rkdk3z/chuyện_đâm_xe_và_cái_giá_phải_trả/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-04T05:57:59+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1rk0m4a</id>
     <title>tâm sự về tự ti</title>
     <updated>2026-03-03T20:32:02+00:00</updated>
@@ -151,19 +151,6 @@
     <published>2026-03-04T02:59:52+00:00</published>
   </entry>
   <entry>
-    <id>t3_1rkem82</id>
-    <title>Mấy gái tự nhiên quá mức</title>
-    <updated>2026-03-04T06:58:57+00:00</updated>
-    <author>
-      <name>/u/Noramera</name>
-      <uri>https://old.reddit.com/user/Noramera</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Là t khó tính hay nhiều gái bị tự nhiên quá v?&lt;/p&gt; &lt;p&gt;Chả hiểu sao mấy gái kiểu v toàn tìm tới t không biết. Rõ là chủ động rủ ngta đi chơi, có thể order riêng, trả riêng phần mình nhưng cứ phải đợi t order hộ, còn không đề cập tới chuyện trả lại, đôi khi mãi hôm sau mới nhắn tin chia tiền. Mà thường như v thì như t đòi tiền gái v á. Cái mqh mà thân nhau kiểu đồng nghiệp ấy. Không biết đây có phải bí quyết ăn free của mấy nhỏ không nữa.&lt;/p&gt; &lt;p&gt;Ý là không chủ động ck lại ngay lúc đó luôn thì t thấy kì ấy. &lt;/p&gt; &lt;p&gt;Chưa một lần bao t lại, chỉ có lâu lâu đem mấy món nhỏ nhỏ mua ở đâu đấy tặng trong khi t chả cần. Thậm chí vài lần đem tặng đồ ăn trưa mà lại bị thiêu nữa.💔&lt;/p&gt; &lt;p&gt;Không biết là có bị khờ hay được bao ăn riết quen. Chứ t là người it ngại vụ tiền bạc còn thấy khó chịu. Chả biết trong đầu mấy nhỏ nghĩ gì 🫩&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Noramera"&gt; /u/Noramera &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rkem82/mấy_gái_tự_nhiên_quá_mức/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rkem82/mấy_gái_tự_nhiên_quá_mức/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rkem82/mấy_gái_tự_nhiên_quá_mức/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-04T06:58:57+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1rkf1cb</id>
     <title>Đánh giá con tai nghe bluetooth a11 ultimate này giúp e với. 500k thì có con nào hợp giá k ạ</title>
     <updated>2026-03-04T07:24:00+00:00</updated>
@@ -177,17 +164,17 @@
     <published>2026-03-04T07:24:00+00:00</published>
   </entry>
   <entry>
-    <id>t3_1rka1oq</id>
-    <title>Grab life - Chuyện hôm qua giờ mới kể</title>
-    <updated>2026-03-04T03:00:23+00:00</updated>
+    <id>t3_1rkdk3z</id>
+    <title>Chuyện đâm xe và cái giá phải trả</title>
+    <updated>2026-03-04T05:57:59+00:00</updated>
     <author>
-      <name>/u/Own_Maize_9864</name>
-      <uri>https://old.reddit.com/user/Own_Maize_9864</uri>
+      <name>/u/Keiki2068</name>
+      <uri>https://old.reddit.com/user/Keiki2068</uri>
     </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1rka1oq/grab_life_chuyện_hôm_qua_giờ_mới_kể/"&gt; &lt;img alt="Grab life - Chuyện hôm qua giờ mới kể" src="https://preview.redd.it/o4u4l7xxwxmg1.jpg?width=140&amp;amp;height=104&amp;amp;auto=webp&amp;amp;s=27ee704f8adfa13f1a699ff964b147d48c3da3ff" title="Grab life - Chuyện hôm qua giờ mới kể" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hế lô, lại là anh Grab 😆&lt;/p&gt; &lt;p&gt;Tối qua chạy xong đuối quá nên về nhà là tắm rửa, ăn cơm là ngả lưng ngủ liền lol.&lt;/p&gt; &lt;p&gt;Hôm qua cũng không có gì đặc biệt lắm, chỉ có điều buồn nhất là thu nhập ít hơn bữa trước dù chạy đến 8h tối :(&lt;/p&gt; &lt;p&gt;Nhưng dù thu nhập móm hơn nhưng niềm vui nho nhỏ vẫn là được chụp những khoảnh khắc shippers đứng đợi hàng dài để lấy đơn món chay - hôm qua mình cũng huỷ 2 đơn vì không đợi nổi =)), con đường ít xe cộ, hay là không khí tết vẫn còn vương vấn chưa đi?, đâu đó ở Sài Gòn vẫn có những góc nhỏ đầy bóng mát, dòng kênh nho nhỏ làm dịu bớt cái nóng ngột ngạt hôm qua. Trên đường về, kịp đứng ngắm nguyệt thực nữa kaka.&lt;/p&gt; &lt;p&gt;Về tới nhà, tắm rửa ăn cơm xong ngồi đọc tweet của Jack Dorsey, co-founder của twitter (X), về AI xong nản quá nên quyết định ngủ luôn =))&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Own_Maize_9864"&gt; /u/Own_Maize_9864 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1rka1oq"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rka1oq/grab_life_chuyện_hôm_qua_giờ_mới_kể/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rka1oq/grab_life_chuyện_hôm_qua_giờ_mới_kể/"/>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1rkdk3z/chuyện_đâm_xe_và_cái_giá_phải_trả/"&gt; &lt;img alt="Chuyện đâm xe và cái giá phải trả" src="https://preview.redd.it/6t8nbwwdxymg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=7b1b733df06ee1c035a4429f35d282b446b170d2" title="Chuyện đâm xe và cái giá phải trả" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;em chào anh chị tiền bối trong cộng đồng. Em hiện là sv năm 2 của 1 trường đh công nghệ, hôm qua trên đường đi học em có va phải 1 chiếc xe taxi đang trên đường đón khách (em thấy ông chú chủ xe nói vậy). E dựng xe dậy và đợi người đó xuống xe, ổng đứng xuống chửi e 1 hồi sau đó đòi bồi thường. Giằng co 1 hồi ổng nhìn tiền trong tk e xong đòi 1tr2. Em cũng xót tiền lắm nma e cũng sợ ổng đòi nhiều hơn số tiền thực tế phải trả ấy ạ hoặc là những vết trầy, lõm trên xe cũng chưa chắc phải do e đâm nhưng ổng cố tình vòi e.&lt;br /&gt; E có xin sđt của ổng và chụp biển số nhưng mà từ lúc nhắn đến hiện tại ổng không phản hồi gì . Mn cho e xin lời khuyên với ạ, liệu 1tr2 có quá đắt hay là vừa đúng ạ.&lt;br /&gt; Ba mẹ mới chuyển cho chút tiền phòng thân mà giờ e lại phải thắt dây buộc bụng như này thì cũng khó cho e 😭😭😭&lt;br /&gt; update: sdt ông chú chủ xe là 0389882190, có dùng zalo nhưng em có nhắn cũng ko có phản hồi&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Keiki2068"&gt; /u/Keiki2068 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/6t8nbwwdxymg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rkdk3z/chuyện_đâm_xe_và_cái_giá_phải_trả/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rkdk3z/chuyện_đâm_xe_và_cái_giá_phải_trả/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-04T03:00:23+00:00</published>
+    <published>2026-03-04T05:57:59+00:00</published>
   </entry>
   <entry>
     <id>t3_1rkdnxj</id>
@@ -216,6 +203,19 @@
     <published>2026-03-04T03:53:11+00:00</published>
   </entry>
   <entry>
+    <id>t3_1rka1oq</id>
+    <title>Grab life - Chuyện hôm qua giờ mới kể</title>
+    <updated>2026-03-04T03:00:23+00:00</updated>
+    <author>
+      <name>/u/Own_Maize_9864</name>
+      <uri>https://old.reddit.com/user/Own_Maize_9864</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1rka1oq/grab_life_chuyện_hôm_qua_giờ_mới_kể/"&gt; &lt;img alt="Grab life - Chuyện hôm qua giờ mới kể" src="https://preview.redd.it/o4u4l7xxwxmg1.jpg?width=140&amp;amp;height=104&amp;amp;auto=webp&amp;amp;s=27ee704f8adfa13f1a699ff964b147d48c3da3ff" title="Grab life - Chuyện hôm qua giờ mới kể" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hế lô, lại là anh Grab 😆&lt;/p&gt; &lt;p&gt;Tối qua chạy xong đuối quá nên về nhà là tắm rửa, ăn cơm là ngả lưng ngủ liền lol.&lt;/p&gt; &lt;p&gt;Hôm qua cũng không có gì đặc biệt lắm, chỉ có điều buồn nhất là thu nhập ít hơn bữa trước dù chạy đến 8h tối :(&lt;/p&gt; &lt;p&gt;Nhưng dù thu nhập móm hơn nhưng niềm vui nho nhỏ vẫn là được chụp những khoảnh khắc shippers đứng đợi hàng dài để lấy đơn món chay - hôm qua mình cũng huỷ 2 đơn vì không đợi nổi =)), con đường ít xe cộ, hay là không khí tết vẫn còn vương vấn chưa đi?, đâu đó ở Sài Gòn vẫn có những góc nhỏ đầy bóng mát, dòng kênh nho nhỏ làm dịu bớt cái nóng ngột ngạt hôm qua. Trên đường về, kịp đứng ngắm nguyệt thực nữa kaka.&lt;/p&gt; &lt;p&gt;Về tới nhà, tắm rửa ăn cơm xong ngồi đọc tweet của Jack Dorsey, co-founder của twitter (X), về AI xong nản quá nên quyết định ngủ luôn =))&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Own_Maize_9864"&gt; /u/Own_Maize_9864 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1rka1oq"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rka1oq/grab_life_chuyện_hôm_qua_giờ_mới_kể/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rka1oq/grab_life_chuyện_hôm_qua_giờ_mới_kể/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-04T03:00:23+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1rjny1q</id>
     <title>18 tuổi vẫn bị đem ra làm trò cười vì bị đọc trộm nhật kí</title>
     <updated>2026-03-03T12:24:11+00:00</updated>
@@ -242,19 +242,6 @@
     <published>2026-03-04T07:14:50+00:00</published>
   </entry>
   <entry>
-    <id>t3_1rkf0vg</id>
-    <title>Quan điểm chọn vợ</title>
-    <updated>2026-03-04T07:23:13+00:00</updated>
-    <author>
-      <name>/u/Under_the_black_sea</name>
-      <uri>https://old.reddit.com/user/Under_the_black_sea</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Dạo này mình hay đọc mấy bài phần lớn bảo là đàn ông độc thân 3x 4x có thu nhập, ngoại hình thì chọn gái 18 20 chứ sao phải chọn gái già (định nghĩa già là tầm 28 29 3x...) Cho mình hỏi ý là các anh chọn các em chênh nhiều tuổi hay ý là các anh sẽ mãi chọn các e 18 20 (kiểu giống Leo Dicaprio là bạn gái ko bao h quá 25 tuổi) hay gì vậy. Nếu là vế sau thì quan điểm như vậy có nghĩa là cũng chỉ có ý định yêu krb thôi đúng k nhỉ, bao h các e quá tuổi thì lại next? Vì mình thấy có vẻ quan điểm này đang lan truyền rộng rãi trong các post về chuyện lập gia đình kết hôn nên mình thấy hơi lệch lạc và ko hiểu mục đích của việc này lắm. Mong các anh các bạn thông não cho mình ạ để giúp mình còn niềm tin vào xã hội 😅&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Under_the_black_sea"&gt; /u/Under_the_black_sea &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rkf0vg/quan_điểm_chọn_vợ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rkf0vg/quan_điểm_chọn_vợ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rkf0vg/quan_điểm_chọn_vợ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-04T07:23:13+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1rk9jlb</id>
     <title>Xin kinh nghiệm đi máy bay</title>
     <updated>2026-03-04T02:37:21+00:00</updated>
@@ -279,6 +266,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1rkd5ba/tôi_hẹn_em_kiếp_sau/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-03-04T05:35:01+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1rkf0vg</id>
+    <title>Quan điểm chọn vợ</title>
+    <updated>2026-03-04T07:23:13+00:00</updated>
+    <author>
+      <name>/u/Under_the_black_sea</name>
+      <uri>https://old.reddit.com/user/Under_the_black_sea</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Dạo này mình hay đọc mấy bài phần lớn bảo là đàn ông độc thân 3x 4x có thu nhập, ngoại hình thì chọn gái 18 20 chứ sao phải chọn gái già (định nghĩa già là tầm 28 29 3x...) Cho mình hỏi ý là các anh chọn các em chênh nhiều tuổi hay ý là các anh sẽ mãi chọn các e 18 20 (kiểu giống Leo Dicaprio là bạn gái ko bao h quá 25 tuổi) hay gì vậy. Nếu là vế sau thì quan điểm như vậy có nghĩa là cũng chỉ có ý định yêu krb thôi đúng k nhỉ, bao h các e quá tuổi thì lại next? Vì mình thấy có vẻ quan điểm này đang lan truyền rộng rãi trong các post về chuyện lập gia đình kết hôn nên mình thấy hơi lệch lạc và ko hiểu mục đích của việc này lắm. Mong các anh các bạn thông não cho mình ạ để giúp mình còn niềm tin vào xã hội 😅&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Under_the_black_sea"&gt; /u/Under_the_black_sea &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rkf0vg/quan_điểm_chọn_vợ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rkf0vg/quan_điểm_chọn_vợ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rkf0vg/quan_điểm_chọn_vợ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-04T07:23:13+00:00</published>
   </entry>
   <entry>
     <id>t3_1rkdyf3</id>
