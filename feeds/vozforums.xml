@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-03-05T10:42:57+00:00</updated>
+  <updated>2026-03-05T11:21:48+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -99,19 +99,6 @@
     <published>2026-03-05T10:35:07+00:00</published>
   </entry>
   <entry>
-    <id>t3_1rlazep</id>
-    <title>Tính thực chiến của môn võ Vovinam và võ Cổ truyền Việt Nam?</title>
-    <updated>2026-03-05T07:11:38+00:00</updated>
-    <author>
-      <name>/u/Commercial-Kiwi-2993</name>
-      <uri>https://old.reddit.com/user/Commercial-Kiwi-2993</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Bác nào học đã từng học qua hai môn võ trên cho t hỏi, tính thực chiến của hai môn võ này có tốt không? &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Commercial-Kiwi-2993"&gt; /u/Commercial-Kiwi-2993 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rlazep/tính_thực_chiến_của_môn_võ_vovinam_và_võ_cổ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rlazep/tính_thực_chiến_của_môn_võ_vovinam_và_võ_cổ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rlazep/tính_thực_chiến_của_môn_võ_vovinam_và_võ_cổ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-05T07:11:38+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1rl6q3s</id>
     <title>Chuyện đi làm từ thiện</title>
     <updated>2026-03-05T03:29:02+00:00</updated>
@@ -123,6 +110,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1rl6q3s/chuyện_đi_làm_từ_thiện/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-03-05T03:29:02+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1rleseo</id>
+    <title>Những người tài giỏi nhưng buộc phải nghỉ học ra đời đi làm sớm. Giờ các bạn sống sao rồi?</title>
+    <updated>2026-03-05T11:04:38+00:00</updated>
+    <author>
+      <name>/u/0_n14</name>
+      <uri>https://old.reddit.com/user/0_n14</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Như tiêu đề, mình khá thắc mắc có ai từng học trường chuyên lớp chọn, hay thời đi học đạt được những thành tích đáng nể, nhưng có thể vì gia thế không vững hoặc vì điều gì đó mà buộc phải bỏ học, đi làm kiếm tiền sớm. Không biết những người như thế có đang ổn không nhỉ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/0_n14"&gt; /u/0_n14 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rleseo/những_người_tài_giỏi_nhưng_buộc_phải_nghỉ_học_ra/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rleseo/những_người_tài_giỏi_nhưng_buộc_phải_nghỉ_học_ra/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rleseo/những_người_tài_giỏi_nhưng_buộc_phải_nghỉ_học_ra/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-05T11:04:38+00:00</published>
   </entry>
   <entry>
     <id>t3_1rl2309</id>
@@ -190,6 +190,19 @@
     <published>2026-03-05T09:00:36+00:00</published>
   </entry>
   <entry>
+    <id>t3_1rlazep</id>
+    <title>Tính thực chiến của môn võ Vovinam và võ Cổ truyền Việt Nam?</title>
+    <updated>2026-03-05T07:11:38+00:00</updated>
+    <author>
+      <name>/u/Commercial-Kiwi-2993</name>
+      <uri>https://old.reddit.com/user/Commercial-Kiwi-2993</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Bác nào học đã từng học qua hai môn võ trên cho t hỏi, tính thực chiến của hai môn võ này có tốt không? &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Commercial-Kiwi-2993"&gt; /u/Commercial-Kiwi-2993 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rlazep/tính_thực_chiến_của_môn_võ_vovinam_và_võ_cổ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rlazep/tính_thực_chiến_của_môn_võ_vovinam_và_võ_cổ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rlazep/tính_thực_chiến_của_môn_võ_vovinam_và_võ_cổ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-05T07:11:38+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1rl68qy</id>
     <title>Giải đáp mọi thắc mắc về lĩnh vực đầu tư</title>
     <updated>2026-03-05T03:06:24+00:00</updated>
@@ -214,19 +227,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1rl5jqe/gợi_ý_công_việc_làm_thêm_lương_cao/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-03-05T02:35:10+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1rldkpa</id>
-    <title>Có thật sự là thừa nam thiếu nữ không mà tôi chẳng có nổi một anh ny vậy trời</title>
-    <updated>2026-03-05T09:52:50+00:00</updated>
-    <author>
-      <name>/u/No_Start_480</name>
-      <uri>https://old.reddit.com/user/No_Start_480</uri>
-    </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/No_Start_480"&gt; /u/No_Start_480 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rldkpa/có_thật_sự_là_thừa_nam_thiếu_nữ_không_mà_tôi/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rldkpa/có_thật_sự_là_thừa_nam_thiếu_nữ_không_mà_tôi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rldkpa/có_thật_sự_là_thừa_nam_thiếu_nữ_không_mà_tôi/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-05T09:52:50+00:00</published>
   </entry>
   <entry>
     <id>t3_1rl40fj</id>
@@ -294,19 +294,6 @@
     <published>2026-03-04T17:48:23+00:00</published>
   </entry>
   <entry>
-    <id>t3_1rlayjo</id>
-    <title>Sách gối đầu giường</title>
-    <updated>2026-03-05T07:10:15+00:00</updated>
-    <author>
-      <name>/u/Electronic_Bar_6270</name>
-      <uri>https://old.reddit.com/user/Electronic_Bar_6270</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình xin tên một vài cuốn sách tâm đắc mà mọi người từng đọc với ạ, riêng mình thì tâm đắc cuốn Trên Đường Băng của Tony buổi sáng, cuốn truyện con mèo dạy hải âu bay, cuốn nhà giả kim và mấy bộ tiểu thuyết tản văn. Gần đây mình muốn đọc thêm sách nhưng chưa biết nên đọc cuốn nào, có &amp;quot;mọt sách&amp;quot; nào gợi ý giúp mình với ạ.&lt;/p&gt; &lt;p&gt;Mình thiên về các cuốn sách dễ hiểu, thực tế, có thể áp dụng được ngay (công việc, cuộc sống, mối quan hệ), ưu tiên những sách có các mẩu truyện ngắn ạ.&lt;/p&gt; &lt;p&gt;Cảm ơn mn đã đọc bài ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Electronic_Bar_6270"&gt; /u/Electronic_Bar_6270 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rlayjo/sách_gối_đầu_giường/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rlayjo/sách_gối_đầu_giường/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rlayjo/sách_gối_đầu_giường/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-05T07:10:15+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1rl8lbt</id>
     <title>Đăng lại dùm em trai nào đó nhé.....</title>
     <updated>2026-03-05T05:00:45+00:00</updated>
@@ -318,6 +305,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1rl8lbt/đăng_lại_dùm_em_trai_nào_đó_nhé/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-03-05T05:00:45+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1rlayjo</id>
+    <title>Sách gối đầu giường</title>
+    <updated>2026-03-05T07:10:15+00:00</updated>
+    <author>
+      <name>/u/Electronic_Bar_6270</name>
+      <uri>https://old.reddit.com/user/Electronic_Bar_6270</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình xin tên một vài cuốn sách tâm đắc mà mọi người từng đọc với ạ, riêng mình thì tâm đắc cuốn Trên Đường Băng của Tony buổi sáng, cuốn truyện con mèo dạy hải âu bay, cuốn nhà giả kim và mấy bộ tiểu thuyết tản văn. Gần đây mình muốn đọc thêm sách nhưng chưa biết nên đọc cuốn nào, có &amp;quot;mọt sách&amp;quot; nào gợi ý giúp mình với ạ.&lt;/p&gt; &lt;p&gt;Mình thiên về các cuốn sách dễ hiểu, thực tế, có thể áp dụng được ngay (công việc, cuộc sống, mối quan hệ), ưu tiên những sách có các mẩu truyện ngắn ạ.&lt;/p&gt; &lt;p&gt;Cảm ơn mn đã đọc bài ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Electronic_Bar_6270"&gt; /u/Electronic_Bar_6270 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rlayjo/sách_gối_đầu_giường/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rlayjo/sách_gối_đầu_giường/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rlayjo/sách_gối_đầu_giường/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-05T07:10:15+00:00</published>
   </entry>
   <entry>
     <id>t3_1rlcag8</id>
