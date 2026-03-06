@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-03-06T04:58:12+00:00</updated>
+  <updated>2026-03-06T05:51:48+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1rlgrg4</id>
-    <title>Giúp nhóm iem làm khảo sát vs ạ :3</title>
-    <updated>2026-03-05T12:48:24+00:00</updated>
-    <author>
-      <name>/u/Glass_Advertising516</name>
-      <uri>https://old.reddit.com/user/Glass_Advertising516</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSdDgaXpNiloodAHEDO6ZvUKNTBJ7QNLBf2tDPIJwvTppuwpYw/viewform"&gt;https://docs.google.com/forms/d/e/1FAIpQLSdDgaXpNiloodAHEDO6ZvUKNTBJ7QNLBf2tDPIJwvTppuwpYw/viewform&lt;/a&gt;&lt;/p&gt; &lt;p&gt;E chào mng ạ, nhóm e đang làm project cần thu thập data, mọi người ai đi qua có thời gian vào làm survey giúp nhóm e xíu ạ. E cảm ơn mng nhiều lắm ạ.&lt;/p&gt; &lt;p&gt;PS: form này bằng tiếng Anh, do hơi vội nên nhóm ko kịp dịch tiếng Việt ạ T_T&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Glass_Advertising516"&gt; /u/Glass_Advertising516 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rlgrg4/giúp_nhóm_iem_làm_khảo_sát_vs_ạ_3/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rlgrg4/giúp_nhóm_iem_làm_khảo_sát_vs_ạ_3/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rlgrg4/giúp_nhóm_iem_làm_khảo_sát_vs_ạ_3/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-05T12:48:24+00:00</published>
-  </entry>
   <entry>
     <id>t3_1rlq3q9</id>
     <title>Thi công chức Thuế</title>
@@ -32,58 +19,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1rlq3q9/thi_công_chức_thuế/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-03-05T18:53:26+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1rld3l3</id>
-    <title>Em phân vân offer quá, mọi người giúp em với, HR giục quá rồi ạ.</title>
-    <updated>2026-03-05T09:22:42+00:00</updated>
-    <author>
-      <name>/u/Intelligent-Golf-614</name>
-      <uri>https://old.reddit.com/user/Intelligent-Golf-614</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em chào mọi người, em 2004 năm cuối. Có 3 tháng exp BE java, tầm 7 tháng exp system (nhưng chỉ học việc nên chỉ làm monitor/jira/logging nội bộ)&lt;br /&gt; Hiện tại em đang có 3 offer:&lt;br /&gt; 1. Intern Devops cho công ty K, học việc 1 tháng (1m) rồi review lên intern (4-8m/1th), rồi mới lên chính thức. (Ở đây họ bắt học việc 2 - 3 tháng gì đó nhưng em deal được xuống còn 1 tháng do có exp rồi). Tech stack ở đây em thấy đa dạng hơn, phù hợp hơn cho hướng đi sau này. &lt;/p&gt; &lt;ol&gt; &lt;li&gt;&lt;p&gt;Lên fresher/CTV ở nơi hiện tại em đang học việc(7-12m/1th) (brand name đẹp do ở đây tđ to). Ở đây do được anh lead refer vào (em không họ hàng gì cả, chỉ là quen biết rồi được refer vào). Ở đây làm operator là chủ yếu, ở lại khó mà học thêm gì, dù được giao dự án mới (dạng logging tập trung), nhưng chỉ làm thêm, việc chính vẫn cần là làm kiểu operator dịch vụ. Em sợ lụt.&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Dạng vận hành dịch vụ ở công ty E (10m gross), ở đây job thiên về vận hành, dù lương khá cao (so với em) nên chắc em từ chối, vì thấy còn trẻ, em ko muốn kiểu vận hành lắm. &lt;/p&gt;&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Thực lòng em muốn đi rồi, nhưng rất ngại từ lead đến giám đốc ở đây, do các anh giúp đỡ nhiều, chỉ bảo rất nhiều, cho làm thật hệ thống thật, chứ em apply 100% ko thể vào được, và nhờ có exp ở đây mà em được gọi pvan và pass cũng kha khá từ trước đến giờ. Em cũng cố gắng chăm chỉ 7-8 tháng rồi, thậm chí OT để đáp ứng công việc.&lt;br /&gt; Học việc ko có lương, giám đốc trích quỹ gì đó hàng tháng trả 1tr. Khối lượng công việc cũng nhiều, hệ thống monitor kia em đi từ số 0, tech các thứ đều là em làm, jira cũng vậy, logging cũng thế. &lt;/p&gt; &lt;p&gt;Thêm nữa là ở đây cũng mng khá lớn tuổi nên tech mọi người không mạnh, thậm chí git còn ko biết dùng, nhưng tư duy kiểu quản lý của các anh í lại rất tốt. &lt;/p&gt; &lt;p&gt;Giờ em không biết làm sao, mọi người tư vấn cho em với, em ngại không để CV lên vì tuy làm nhiều nhưng cảm giác vẫn bị kiểu tool hơn là bản chất (ngoại trừ hệ thống monitor kia vì dùng open src đặc thù thì em hiểu rất sâu do xây dựng từ đầu).&lt;/p&gt; &lt;p&gt;Em cảm ơn rất nhiều ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Intelligent-Golf-614"&gt; /u/Intelligent-Golf-614 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rld3l3/em_phân_vân_offer_quá_mọi_người_giúp_em_với_hr/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rld3l3/em_phân_vân_offer_quá_mọi_người_giúp_em_với_hr/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rld3l3/em_phân_vân_offer_quá_mọi_người_giúp_em_với_hr/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-05T09:22:42+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1rlayjo</id>
-    <title>Sách gối đầu giường</title>
-    <updated>2026-03-05T07:10:15+00:00</updated>
-    <author>
-      <name>/u/Electronic_Bar_6270</name>
-      <uri>https://old.reddit.com/user/Electronic_Bar_6270</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình xin tên một vài cuốn sách tâm đắc mà mọi người từng đọc với ạ, riêng mình thì tâm đắc cuốn Trên Đường Băng của Tony buổi sáng, cuốn truyện con mèo dạy hải âu bay, cuốn nhà giả kim và mấy bộ tiểu thuyết tản văn. Gần đây mình muốn đọc thêm sách nhưng chưa biết nên đọc cuốn nào, có &amp;quot;mọt sách&amp;quot; nào gợi ý giúp mình với ạ.&lt;/p&gt; &lt;p&gt;Mình thiên về các cuốn sách dễ hiểu, thực tế, có thể áp dụng được ngay (công việc, cuộc sống, mối quan hệ), ưu tiên những sách có các mẩu truyện ngắn ạ.&lt;/p&gt; &lt;p&gt;Cảm ơn mn đã đọc bài ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Electronic_Bar_6270"&gt; /u/Electronic_Bar_6270 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rlayjo/sách_gối_đầu_giường/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rlayjo/sách_gối_đầu_giường/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rlayjo/sách_gối_đầu_giường/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-05T07:10:15+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1rl8lbt</id>
-    <title>Đăng lại dùm em trai nào đó nhé.....</title>
-    <updated>2026-03-05T05:00:45+00:00</updated>
-    <author>
-      <name>/u/InstructionProud7235</name>
-      <uri>https://old.reddit.com/user/InstructionProud7235</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1rl8lbt/đăng_lại_dùm_em_trai_nào_đó_nhé/"&gt; &lt;img alt="Đăng lại dùm em trai nào đó nhé....." src="https://preview.redd.it/8ap5orm3s5ng1.jpg?width=140&amp;amp;height=140&amp;amp;crop=1:1,smart&amp;amp;auto=webp&amp;amp;s=cdacbf65b5d1f99203183267e728c681eb5e37c4" title="Đăng lại dùm em trai nào đó nhé....." /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="https://preview.redd.it/8ap5orm3s5ng1.jpg?width=320&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=fdb92574b08a314ba9774dc21af51e9f5726611e"&gt;https://preview.redd.it/8ap5orm3s5ng1.jpg?width=320&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=fdb92574b08a314ba9774dc21af51e9f5726611e&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/InstructionProud7235"&gt; /u/InstructionProud7235 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rl8lbt/đăng_lại_dùm_em_trai_nào_đó_nhé/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rl8lbt/đăng_lại_dùm_em_trai_nào_đó_nhé/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rl8lbt/đăng_lại_dùm_em_trai_nào_đó_nhé/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-05T05:00:45+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1rlkw0i</id>
-    <title>Trump trong file Epstein</title>
-    <updated>2026-03-05T15:43:07+00:00</updated>
-    <author>
-      <name>/u/Alarming_Gap313</name>
-      <uri>https://old.reddit.com/user/Alarming_Gap313</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Trên reddit toàn thấy bảo Trump với Epstein thân mật lắm mà mình đọc thử toàn thấy chỉ là title báo điện tử có tên Trump. Có thật 2 ông này thân mật ko nhỉ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Alarming_Gap313"&gt; /u/Alarming_Gap313 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rlkw0i/trump_trong_file_epstein/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rlkw0i/trump_trong_file_epstein/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rlkw0i/trump_trong_file_epstein/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-05T15:43:07+00:00</published>
   </entry>
   <entry>
     <id>t3_1rlliq4</id>
@@ -112,6 +47,19 @@
     <published>2026-03-05T10:35:07+00:00</published>
   </entry>
   <entry>
+    <id>t3_1rlkw0i</id>
+    <title>Trump trong file Epstein</title>
+    <updated>2026-03-05T15:43:07+00:00</updated>
+    <author>
+      <name>/u/Alarming_Gap313</name>
+      <uri>https://old.reddit.com/user/Alarming_Gap313</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Trên reddit toàn thấy bảo Trump với Epstein thân mật lắm mà mình đọc thử toàn thấy chỉ là title báo điện tử có tên Trump. Có thật 2 ông này thân mật ko nhỉ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Alarming_Gap313"&gt; /u/Alarming_Gap313 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rlkw0i/trump_trong_file_epstein/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rlkw0i/trump_trong_file_epstein/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rlkw0i/trump_trong_file_epstein/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-05T15:43:07+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1rm1mh0</id>
     <title>Có ai từng điều trị xoang lông vùng cụt chưa?</title>
     <updated>2026-03-06T02:28:29+00:00</updated>
@@ -138,19 +86,6 @@
     <published>2026-03-06T02:36:26+00:00</published>
   </entry>
   <entry>
-    <id>t3_1rm2hu8</id>
-    <title>Hối hận</title>
-    <updated>2026-03-06T03:07:28+00:00</updated>
-    <author>
-      <name>/u/nghxson</name>
-      <uri>https://old.reddit.com/user/nghxson</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các bác cho em hỏi một chút. Em để ý thấy hình như trong cuộc đời ai cũng sẽ có lúc hối hận, hoặc vì những việc mình đã làm, hoặc vì những việc đáng lẽ nên làm nhưng lại không làm. Có người tiếc vì quyết định sai lầm, nhưng cũng có người lại day dứt vì đã bỏ lỡ một cơ hội nào đó.&lt;/p&gt; &lt;p&gt;Theo các bác thì trong hai kiểu hối hận này, con người thường bị ám ảnh bởi cái nào nhiều hơn: việc mình đã làm sai hay việc mình không dám làm?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/nghxson"&gt; /u/nghxson &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rm2hu8/hối_hận/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rm2hu8/hối_hận/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rm2hu8/hối_hận/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-06T03:07:28+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1rlv1tg</id>
     <title>Sinh viên năm 1 ngành KHMT</title>
     <updated>2026-03-05T21:56:23+00:00</updated>
@@ -164,17 +99,30 @@
     <published>2026-03-05T21:56:23+00:00</published>
   </entry>
   <entry>
-    <id>t3_1rm4635</id>
-    <title>Sửa máy film ở SG</title>
-    <updated>2026-03-06T04:27:53+00:00</updated>
+    <id>t3_1rm5psj</id>
+    <title>21 tuổi và nỗi lo thất nghiệp</title>
+    <updated>2026-03-06T05:47:45+00:00</updated>
     <author>
-      <name>/u/Organic_Cheetah_427</name>
-      <uri>https://old.reddit.com/user/Organic_Cheetah_427</uri>
+      <name>/u/k_journey</name>
+      <uri>https://old.reddit.com/user/k_journey</uri>
     </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1rm4635/sửa_máy_film_ở_sg/"&gt; &lt;img alt="Sửa máy film ở SG" src="https://preview.redd.it/lxk2u8b5rcng1.jpg?width=140&amp;amp;height=140&amp;amp;crop=1:1,smart&amp;amp;auto=webp&amp;amp;s=ad587fa1f76e138902be7b43eb5fce59cc6811cc" title="Sửa máy film ở SG" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em có cái máy ảnh Minolta Riva AF35 Date bị hư ngay phần lắp pin, em k biết mng có biết tiệm sửa máy film nào uy tín trên SG k ạ? Em cảm ơn&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Organic_Cheetah_427"&gt; /u/Organic_Cheetah_427 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1rm4635"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rm4635/sửa_máy_film_ở_sg/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rm4635/sửa_máy_film_ở_sg/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các anh chị em, em hiện tại là sv năm cuối của Kinh doanh quốc tế, học mix giữa Marketing và Log Supply Chain. Vì lịch học trên trường khá củ chuối (5 buổi/tuần) mà hiện tại nếu không intern thì không còn phút nào đẹp hơn. Em lên đây xin tip cũng như kinh nghiệm apply vào các vị trí thực tập của Logistics cũng như vài lời khuyên để theo ngành, vì bản thân em cũng như trang giấy trắng chả biết ngoài đời ngành này hoạt động kiểu gì. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/k_journey"&gt; /u/k_journey &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rm5psj/21_tuổi_và_nỗi_lo_thất_nghiệp/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rm5psj/21_tuổi_và_nỗi_lo_thất_nghiệp/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rm5psj/21_tuổi_và_nỗi_lo_thất_nghiệp/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-06T04:27:53+00:00</published>
+    <published>2026-03-06T05:47:45+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1rm2hu8</id>
+    <title>Hối hận</title>
+    <updated>2026-03-06T03:07:28+00:00</updated>
+    <author>
+      <name>/u/nghxson</name>
+      <uri>https://old.reddit.com/user/nghxson</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các bác cho em hỏi một chút. Em để ý thấy hình như trong cuộc đời ai cũng sẽ có lúc hối hận, hoặc vì những việc mình đã làm, hoặc vì những việc đáng lẽ nên làm nhưng lại không làm. Có người tiếc vì quyết định sai lầm, nhưng cũng có người lại day dứt vì đã bỏ lỡ một cơ hội nào đó.&lt;/p&gt; &lt;p&gt;Theo các bác thì trong hai kiểu hối hận này, con người thường bị ám ảnh bởi cái nào nhiều hơn: việc mình đã làm sai hay việc mình không dám làm?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/nghxson"&gt; /u/nghxson &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rm2hu8/hối_hận/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rm2hu8/hối_hận/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rm2hu8/hối_hận/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-06T03:07:28+00:00</published>
   </entry>
   <entry>
     <id>t3_1rleseo</id>
@@ -190,43 +138,17 @@
     <published>2026-03-05T11:04:38+00:00</published>
   </entry>
   <entry>
-    <id>t3_1rm3xgh</id>
-    <title>Bạn đã học được bài học cuộc sống nào một cách khó khăn?</title>
-    <updated>2026-03-06T04:15:42+00:00</updated>
+    <id>t3_1rm4635</id>
+    <title>Sửa máy film ở SG</title>
+    <updated>2026-03-06T04:27:53+00:00</updated>
     <author>
-      <name>/u/These-Cost-905</name>
-      <uri>https://old.reddit.com/user/These-Cost-905</uri>
+      <name>/u/Organic_Cheetah_427</name>
+      <uri>https://old.reddit.com/user/Organic_Cheetah_427</uri>
     </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/These-Cost-905"&gt; /u/These-Cost-905 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rm3xgh/bạn_đã_học_được_bài_học_cuộc_sống_nào_một_cách/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rm3xgh/bạn_đã_học_được_bài_học_cuộc_sống_nào_một_cách/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rm3xgh/bạn_đã_học_được_bài_học_cuộc_sống_nào_một_cách/"/>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1rm4635/sửa_máy_film_ở_sg/"&gt; &lt;img alt="Sửa máy film ở SG" src="https://preview.redd.it/lxk2u8b5rcng1.jpg?width=140&amp;amp;height=140&amp;amp;crop=1:1,smart&amp;amp;auto=webp&amp;amp;s=ad587fa1f76e138902be7b43eb5fce59cc6811cc" title="Sửa máy film ở SG" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em có cái máy ảnh Minolta Riva AF35 Date bị hư ngay phần lắp pin, em k biết mng có biết tiệm sửa máy film nào uy tín trên SG k ạ? Em cảm ơn&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Organic_Cheetah_427"&gt; /u/Organic_Cheetah_427 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1rm4635"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rm4635/sửa_máy_film_ở_sg/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rm4635/sửa_máy_film_ở_sg/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-06T04:15:42+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1rlse9c</id>
-    <title>Tìm game offline để chơi</title>
-    <updated>2026-03-05T20:16:24+00:00</updated>
-    <author>
-      <name>/u/Available_Truck_6082</name>
-      <uri>https://old.reddit.com/user/Available_Truck_6082</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hiện tại mình đang tìm một game offline có cốt truyện, có hệ thống nâng cấp sức mạnh nhân vật nâng cấp theo từng giai đoạn ( kiểu tích trữ linh kiện, xp, tiền tệ). Nếu các đồng râm có game nào hay thì gợi ý cho mình nha. Cảm ơn và chúc các đồng râm một ngày tốt lành&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Available_Truck_6082"&gt; /u/Available_Truck_6082 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rlse9c/tìm_game_offline_để_chơi/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rlse9c/tìm_game_offline_để_chơi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rlse9c/tìm_game_offline_để_chơi/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-05T20:16:24+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1rll4a4</id>
-    <title>Mm với bạn cùng giới</title>
-    <updated>2026-03-05T15:51:52+00:00</updated>
-    <author>
-      <name>/u/Massive_Sky_2056</name>
-      <uri>https://old.reddit.com/user/Massive_Sky_2056</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em trước giờ chưa từng nghĩ chuyện yêu cùng giới, cho đến khi lên c3. Em có ngồi cùng bàn 1 bạn nữ, ban đầu hai đứa ríu rít nói chuyện xôm lắm, siêu hợp nhau ạ. Thì có 1 ngày tự nhiên đang bth xong nó nhìn em 1 lúc rồi hôn phát vào môi em, em lúc đấy khá sock rồi quay ra tát nó. Nhưng mà em kh hề ghét ạ, và n kh hề có thái độ ngượng hay nnao còn cười cười. Từ hôm đó trở đi hôm nào m cũng hôn em, ban đầu em cũng phản kháng nhưng dần ròii quen nên cứ để thế suốt.&lt;/p&gt; &lt;p&gt;Đến lớp 11 là tgian cao trào nhất, bọn em đối xứ với nhau như người yêu, n dỗi em dỗ. Em có chút ngoại hình nên có kh ít bạn nam thích em, có cả mấy anh khoá trên xin inf thật, nhưng mà vì bạn đấy kh thích nên em từ chối tất cả. Xong sau em biết bạn có ny là con trai ạ :). Nhưng vì lúc đấy bạn đấy lúc nào cũng đối xử với em rất tốt, em kh bỏ được. Và đến nỗi bọn em đã hs 🙂, trong lúc đấy bạn vẫn đang có ngy, nhưng bạn luôn bảo yêu em hơn nhiều. &lt;/p&gt; &lt;p&gt;Rồi đến lóp 12 hiện tại, em và bạn thi thoảng vẫn hôn nhau, nhưng kh còn cảm giác như trước nữa. Bạn ấy luoin bảo yêu em nhưng lại hay kể về những thằng mà bạn ý mm, trong khi bạn vẫn đang có ngy. Giờ em đang kh biết nên phải làm sao, chỉ muốn làm bạn nhưng mà em vẫn đang có cxuc với bạn ý. Và ngoài các bạn trong lớp ra kh thì ở ngoài kh ai biết em thích con gái, giờ có nên cắt đứt hết chỉ làm bạn bth kh ạ, vì em và bạn vẫn đang ngồi cùng bàn&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Massive_Sky_2056"&gt; /u/Massive_Sky_2056 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rll4a4/mm_với_bạn_cùng_giới/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rll4a4/mm_với_bạn_cùng_giới/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rll4a4/mm_với_bạn_cùng_giới/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-05T15:51:52+00:00</published>
+    <published>2026-03-06T04:27:53+00:00</published>
   </entry>
   <entry>
     <id>t3_1rm22az</id>
@@ -242,17 +164,43 @@
     <published>2026-03-06T02:48:07+00:00</published>
   </entry>
   <entry>
-    <id>t3_1rm2xn7</id>
-    <title>Vệ sinh máy lạnh</title>
-    <updated>2026-03-06T03:28:02+00:00</updated>
+    <id>t3_1rlse9c</id>
+    <title>Tìm game offline để chơi</title>
+    <updated>2026-03-05T20:16:24+00:00</updated>
     <author>
-      <name>/u/RoughDifficult8779</name>
-      <uri>https://old.reddit.com/user/RoughDifficult8779</uri>
+      <name>/u/Available_Truck_6082</name>
+      <uri>https://old.reddit.com/user/Available_Truck_6082</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;hôm qua máy lạnh mình vẫn còn lạnh nhưng chỉ bị ra nuỡc đá khi xài được 3,4 tiếng, hôm nay kêu thợ qua vệ sinh thì không thấy vệ sinh trước mà lo đo ga máy lạnh trước rồi đưa tấm hình còn 0 khí gas kêu mình bơm ga, mình cứ nói vệ sinh thôi thì ông chủ gọi cho mình có muốn thay máy lạnh mới không, mình vẫn một mực kêu vệ sinh thôi thì mấy thằng thợ nói không bơm ga thì không vệ sinh được. xin đánh giá &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/RoughDifficult8779"&gt; /u/RoughDifficult8779 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rm2xn7/vệ_sinh_máy_lạnh/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rm2xn7/vệ_sinh_máy_lạnh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rm2xn7/vệ_sinh_máy_lạnh/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hiện tại mình đang tìm một game offline có cốt truyện, có hệ thống nâng cấp sức mạnh nhân vật nâng cấp theo từng giai đoạn ( kiểu tích trữ linh kiện, xp, tiền tệ). Nếu các đồng râm có game nào hay thì gợi ý cho mình nha. Cảm ơn và chúc các đồng râm một ngày tốt lành&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Available_Truck_6082"&gt; /u/Available_Truck_6082 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rlse9c/tìm_game_offline_để_chơi/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rlse9c/tìm_game_offline_để_chơi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rlse9c/tìm_game_offline_để_chơi/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-06T03:28:02+00:00</published>
+    <published>2026-03-05T20:16:24+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1rm587h</id>
+    <title>Làm s để mua đô la trong tình hình nhà nuơc kiểm soát ngoại tệ chặt như bây giờ</title>
+    <updated>2026-03-06T05:21:51+00:00</updated>
+    <author>
+      <name>/u/dapdaquynhon</name>
+      <uri>https://old.reddit.com/user/dapdaquynhon</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;T mua đô la để trữ thôi. Lúc cần mới xài nên chấp nhận giá trên mức thị trường 1 tí cũng đc. Đô la tiền nha!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/dapdaquynhon"&gt; /u/dapdaquynhon &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rm587h/làm_s_để_mua_đô_la_trong_tình_hình_nhà_nuơc_kiểm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rm587h/làm_s_để_mua_đô_la_trong_tình_hình_nhà_nuơc_kiểm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rm587h/làm_s_để_mua_đô_la_trong_tình_hình_nhà_nuơc_kiểm/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-06T05:21:51+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1rll4a4</id>
+    <title>Mm với bạn cùng giới</title>
+    <updated>2026-03-05T15:51:52+00:00</updated>
+    <author>
+      <name>/u/Massive_Sky_2056</name>
+      <uri>https://old.reddit.com/user/Massive_Sky_2056</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em trước giờ chưa từng nghĩ chuyện yêu cùng giới, cho đến khi lên c3. Em có ngồi cùng bàn 1 bạn nữ, ban đầu hai đứa ríu rít nói chuyện xôm lắm, siêu hợp nhau ạ. Thì có 1 ngày tự nhiên đang bth xong nó nhìn em 1 lúc rồi hôn phát vào môi em, em lúc đấy khá sock rồi quay ra tát nó. Nhưng mà em kh hề ghét ạ, và n kh hề có thái độ ngượng hay nnao còn cười cười. Từ hôm đó trở đi hôm nào m cũng hôn em, ban đầu em cũng phản kháng nhưng dần ròii quen nên cứ để thế suốt.&lt;/p&gt; &lt;p&gt;Đến lớp 11 là tgian cao trào nhất, bọn em đối xứ với nhau như người yêu, n dỗi em dỗ. Em có chút ngoại hình nên có kh ít bạn nam thích em, có cả mấy anh khoá trên xin inf thật, nhưng mà vì bạn đấy kh thích nên em từ chối tất cả. Xong sau em biết bạn có ny là con trai ạ :). Nhưng vì lúc đấy bạn đấy lúc nào cũng đối xử với em rất tốt, em kh bỏ được. Và đến nỗi bọn em đã hs 🙂, trong lúc đấy bạn vẫn đang có ngy, nhưng bạn luôn bảo yêu em hơn nhiều. &lt;/p&gt; &lt;p&gt;Rồi đến lóp 12 hiện tại, em và bạn thi thoảng vẫn hôn nhau, nhưng kh còn cảm giác như trước nữa. Bạn ấy luoin bảo yêu em nhưng lại hay kể về những thằng mà bạn ý mm, trong khi bạn vẫn đang có ngy. Giờ em đang kh biết nên phải làm sao, chỉ muốn làm bạn nhưng mà em vẫn đang có cxuc với bạn ý. Và ngoài các bạn trong lớp ra kh thì ở ngoài kh ai biết em thích con gái, giờ có nên cắt đứt hết chỉ làm bạn bth kh ạ, vì em và bạn vẫn đang ngồi cùng bàn&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Massive_Sky_2056"&gt; /u/Massive_Sky_2056 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rll4a4/mm_với_bạn_cùng_giới/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rll4a4/mm_với_bạn_cùng_giới/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rll4a4/mm_với_bạn_cùng_giới/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-05T15:51:52+00:00</published>
   </entry>
   <entry>
     <id>t3_1rlhzzq</id>
@@ -268,19 +216,6 @@
     <published>2026-03-05T13:45:08+00:00</published>
   </entry>
   <entry>
-    <id>t3_1rm49kc</id>
-    <title>Cho em xin chút kinh nghiệm chuẩn bị cho lần đầu ạ</title>
-    <updated>2026-03-06T04:32:43+00:00</updated>
-    <author>
-      <name>/u/INRUDEATH</name>
-      <uri>https://old.reddit.com/user/INRUDEATH</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em nên chuẩn bị lần đầu và hãng bao nào oke ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/INRUDEATH"&gt; /u/INRUDEATH &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rm49kc/cho_em_xin_chút_kinh_nghiệm_chuẩn_bị_cho_lần_đầu_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rm49kc/cho_em_xin_chút_kinh_nghiệm_chuẩn_bị_cho_lần_đầu_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rm49kc/cho_em_xin_chút_kinh_nghiệm_chuẩn_bị_cho_lần_đầu_ạ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-06T04:32:43+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1rlgpgs</id>
     <title>Có phải con trai rất thích được khen không ?</title>
     <updated>2026-03-05T12:45:48+00:00</updated>
@@ -294,6 +229,19 @@
     <published>2026-03-05T12:45:48+00:00</published>
   </entry>
   <entry>
+    <id>t3_1rm5ip6</id>
+    <title>Khởi Nghiệp bán Iphone</title>
+    <updated>2026-03-06T05:37:10+00:00</updated>
+    <author>
+      <name>/u/Any_Raspberry_7180</name>
+      <uri>https://old.reddit.com/user/Any_Raspberry_7180</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Cho những anh em nào đang muốn tìm 1 nghành nghề để bắt đầu khởi nghiệp, bên mình có sẵn Iphone chất zin keng, để anh em bắt đầu bán. Nếu có khách mua lẻ hãy nhắn mình và bạn sẽ nhận đc hoa hồng từ 1-250k trên 1 máy tuỳ từng dòng, nếu bạn nhập về bán thì mình sẽ để giá sỉ tốt cho anh em nhập&lt;/p&gt; &lt;p&gt;Zalo: 0862955195&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Any_Raspberry_7180"&gt; /u/Any_Raspberry_7180 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rm5ip6/khởi_nghiệp_bán_iphone/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rm5ip6/khởi_nghiệp_bán_iphone/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rm5ip6/khởi_nghiệp_bán_iphone/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-06T05:37:10+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1rlyty6</id>
     <title>Giờ còn chơi được cs 1.6 hoặc cs online ở đâu được nhỉ</title>
     <updated>2026-03-06T00:26:04+00:00</updated>
@@ -305,6 +253,58 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1rlyty6/giờ_còn_chơi_được_cs_16_hoặc_cs_online_ở_đâu_được/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-03-06T00:26:04+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1rm2xn7</id>
+    <title>Vệ sinh máy lạnh</title>
+    <updated>2026-03-06T03:28:02+00:00</updated>
+    <author>
+      <name>/u/RoughDifficult8779</name>
+      <uri>https://old.reddit.com/user/RoughDifficult8779</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;hôm qua máy lạnh mình vẫn còn lạnh nhưng chỉ bị ra nuỡc đá khi xài được 3,4 tiếng, hôm nay kêu thợ qua vệ sinh thì không thấy vệ sinh trước mà lo đo ga máy lạnh trước rồi đưa tấm hình còn 0 khí gas kêu mình bơm ga, mình cứ nói vệ sinh thôi thì ông chủ gọi cho mình có muốn thay máy lạnh mới không, mình vẫn một mực kêu vệ sinh thôi thì mấy thằng thợ nói không bơm ga thì không vệ sinh được. xin đánh giá &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/RoughDifficult8779"&gt; /u/RoughDifficult8779 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rm2xn7/vệ_sinh_máy_lạnh/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rm2xn7/vệ_sinh_máy_lạnh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rm2xn7/vệ_sinh_máy_lạnh/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-06T03:28:02+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1rm3xgh</id>
+    <title>Bạn đã học được bài học cuộc sống nào một cách khó khăn?</title>
+    <updated>2026-03-06T04:15:42+00:00</updated>
+    <author>
+      <name>/u/These-Cost-905</name>
+      <uri>https://old.reddit.com/user/These-Cost-905</uri>
+    </author>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/These-Cost-905"&gt; /u/These-Cost-905 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rm3xgh/bạn_đã_học_được_bài_học_cuộc_sống_nào_một_cách/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rm3xgh/bạn_đã_học_được_bài_học_cuộc_sống_nào_một_cách/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rm3xgh/bạn_đã_học_được_bài_học_cuộc_sống_nào_một_cách/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-06T04:15:42+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1rm49kc</id>
+    <title>Cho em xin chút kinh nghiệm chuẩn bị cho lần đầu ạ</title>
+    <updated>2026-03-06T04:32:43+00:00</updated>
+    <author>
+      <name>/u/INRUDEATH</name>
+      <uri>https://old.reddit.com/user/INRUDEATH</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em nên chuẩn bị lần đầu và hãng bao nào oke ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/INRUDEATH"&gt; /u/INRUDEATH &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rm49kc/cho_em_xin_chút_kinh_nghiệm_chuẩn_bị_cho_lần_đầu_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rm49kc/cho_em_xin_chút_kinh_nghiệm_chuẩn_bị_cho_lần_đầu_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rm49kc/cho_em_xin_chút_kinh_nghiệm_chuẩn_bị_cho_lần_đầu_ạ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-06T04:32:43+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1rm5cc3</id>
+    <title>Vợ đồng nghiệp và vân vân mây mây</title>
+    <updated>2026-03-06T05:27:51+00:00</updated>
+    <author>
+      <name>/u/No-Battle504</name>
+      <uri>https://old.reddit.com/user/No-Battle504</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là mình 27M, mình có một ông anh cấp dưới sinh năm 97, thân nhau lắm do hai anh em cùng đam mê xe cộ. Đợt nửa năm gần đây không hiểu sao cô vợ của ổng, sinh năm 99 bằng tuổi mình, hay comment, react post của mình trên Facebook. Mình thường không đăng gì, một năm chắc được 1–2 tháng mình treo avatar mặt mình, còn lại là ảnh mèo, ảnh anime này nọ. Post thì lâu lâu đăng mấy video ngắn không caption, mình luyện ngón tập đàn, chủ yếu là để nhắc nhở bản thân tập đàn chăm chỉ thôi. Thường thì có vài lượt react vì bạn bè Facebook mình có tầm 20 người, chủ yếu ai hay liên lạc mình mới add. Nhưng nửa năm gần đây bất cứ hoạt động nào trên Facebook của mình thì vợ của ông anh đều vào thả tim, comment, đại loại là khen, muốn mình dạy cho. Mình cũng cười trừ với rep khiêm tốn như bình thường thôi, không hiểu sao cổ càng ngày càng kiểu stalk mình á, nhiều khi còn tag hay rep mấy cái comment của mình trong mấy group mèo nữa.&lt;/p&gt; &lt;p&gt;Đỉnh điểm là hồi tuần trước, cổ nhắn rủ mình đi ăn. Cũng thấy lạ thường là ông anh nhắn nếu rủ đi đâu đó, mà thôi vợ chồng họ như một, một người nhắn là được, đi hỏi confirm lại với ông anh thì cũng rất là thừa, mình ok đồng ý. Tầm chiều tối mình tới quán thì chỉ thấy cô vợ ngồi đó, mình cũng ngồi xuống bắt chuyện vì chắc ông anh đi WC gì rồi. Tầm 5 phút sau mình vẫn không thấy ông anh đâu, nên mới hỏi là ông anh đi WC hay gì lâu quá, hai vợ chồng tới trước thì cứ lên món đi, đâu cần đợi mình tới. Đứt câu thì cổ ấp úng rồi đáp là: “Đâu, nay có em với anh thôi.”&lt;/p&gt; &lt;p&gt;Mình với cổ cùng năm sinh nên mình hay xưng là bạn–mình, còn cổ, do mình là sếp của ông anh nên hay xưng là anh–em với mình, một phần là do mình sinh đầu năm, cổ sinh cuối năm nên mình thấy cũng bình thường. Nhưng cái câu “Đâu, nay có em với anh thôi” nó hơi không bình thường. Mình câm nín một lúc, rồi tự trấn tĩnh là chắc cổ muốn hỏi chuyện công việc của chồng, một phần do ông anh cũng bẩn bựa với tính tình còn ham chơi. Nhưng rồi 30 phút sau cổ toàn hỏi về mình với khen mình á. Điên nhất là cổ hỏi mình ngon trai, từ body, mặt mũi đến ăn mặc đều ok, sự nghiệp cũng đang lên mà sao không có bạn gái, sao không lập gia đình. Cổ còn hỏi là mình thích con gái như nào. Mình nghĩ thầm chắc là cổ hỏi thế để làm mai mối, giới thiệu ai cho mình, nhưng rồi cổ lại hỏi thế mình thấy kiểu con gái như cổ ok không. Về mảng này thì thực lòng mình nghĩ là có và mình cũng đáp thế: xinh đẹp, nhà giàu, là bác sĩ thì ai không thích. Yep, là bác sĩ danh giá. Mình tưởng cổ tính làm mai nữ bác sĩ nào cho mình ấy, mà cũng đùa thôi, tại thực ra mình có để ý một bạn lâu rồi, chẳng qua bọn mình hèn quá nên chưa xúc tiến mối quan hệ thành yêu đương thôi.&lt;/p&gt; &lt;p&gt;Quay trở lại cuộc nói chuyện đó thì sau câu trả lời rằng được làm mai người như cổ thì may quá, thì cổ lại drop một câu ú òa khác là: “Thế em luôn có được không.” Và kế tiếp là màn kể chuyện, bốc phốt ông anh và vừa khen khéo mình. Đến nước này thì mọi nghi ngờ ban đầu của mình nó là thật rồi, cổ tán tỉnh mình á. Thực sự ông anh đồng nghiệp tuy ham chơi, ngày trước còn có ba cái sở thích đàn đúm không lành mạnh này nọ, nhưng từ khi cưới vợ ổng chăm chỉ hơn mọi người. Đơn giản như việc dọn xe, rửa xe, lúc nào ổng cũng muốn để tiền để sắm sửa cho cổ nên cắt giảm dần, rồi để dành để mốt lo cho con trong tương lai. Hai người họ chưa có con mà ổng tính xa, tính kỹ thế luôn rồi. Mình nghĩ ổng không đáng để chịu điều này. Sau đó mình cũng nói rõ với cô vợ, tuy mình không nói thẳng, nói nặng được tại một phần là mình trước giờ không quen nói như thế với ai, nhưng mình có khuyên cổ nên về để ý và quan tâm chồng hơn. Nhưng mà hiện tại vì cổ lại nhắn tin rủ mình đi này nọ, dù mình không mặn mà lắm, chắc tại mình không từ chối thẳng mà tìm cớ tránh thôi. Mình cũng không biết có nên nói chuyện này với ông anh không nữa.&lt;/p&gt; &lt;p&gt;Dạo trước mình có vô tình xem một video của ông Nguyễn Hữu Trí gì đó trên Facebook, đại loại là một cô gái nói yêu hay thậm chí cưới mình cũng chả chứng minh được gì, lời nói gió bay, giấy kết hôn có được thì giấy ly hôn cũng thế. Chỉ có một người tôn trọng mình, biết tiền mình kiếm ra là rất khó, là cực khổ thì mới là người mình nên thực sự trân quý. Mấy ngày nay câu này nó cứ loanh quanh trong đầu mình mãi.&lt;/p&gt; &lt;p&gt;Nhân tiện post kiểu gì cũng xóa mà mình cũng không muốn chia thành 2 post nên mình cũng muốn hỏi mọi người thấy thế nào nếu cô gái các bạn theo đuổi quá giàu á. Như mình nói thì mình có để ý một cô bạn, cổ dành thời gian cho mình nhiều lắm, cực nhiều luôn là đằng khác, và cổ cũng có vẻ ra đèn xanh cho mình rồi. Thế nhưng gần 1 năm nay bọn mình vẫn cứ là bạn–mình. Nghe thì có vẻ triển vọng kiểu một đứa 27 tuổi đẹp mã, nhà nghèo vượt khó. Ngày trước mình nghĩ mình khá là trên trung bình, một phần chắc do vận trời, công việc tốt, may mắn khi mình vào cổ FPT, coin lúc 2021, sau này là vàng, cũng thấy lạc quan phết. Không được như Threads City nhưng 5–6 năm đi làm và lướt sóng may mắn thì mình dư được hơn chắc tầm 2 tỷ, mà này tổng thôi bao gồm xe và căn hộ trả góp, bán tháo chắc gom được tầm đó. Đại khái là vậy nhưng cổ là con nhà danh giá, tầm đó tiền mình kiếm được chưa bằng học phí đại học của cổ nữa, đúng hơn là không bằng xe cổ đi cơ. Bọn mình bằng tuổi, cổ làm văn phòng lương 15 triệu nhưng ba của cổ mua Lexus cho cổ đi làm @@&lt;/p&gt; &lt;p&gt;Ban đầu mình nghĩ là chắc mình cố kiểu gì cũng kịp hoặc là cũng có tí là sánh vai, nhưng không, càng tới gần thì mình thấy no hope quá. Kiểu mấy ai giàu lên như thế trong một đời được, cái mình cố gắng trong một đời sao mà bằng gia sản kếch sù mà người ta tích lũy qua mấy đời. Giờ mình rơi vào cái thế hèn ngang, không dám ngỏ lời. Mình chỉ nghĩ là xui rủi không nhanh tay sẽ có một ông đẹp trai, nhà giàu, cũng thích game indie, cũng thích mèo đến và mang cổ đi, thế thì buồn lắm. Nhưng không biết nữa, thế có thể tốt cho cổ hơn không. Mình không biết là cổ có thực sự muốn hạ mình để bên mình không, hay nói đúng hơn là mình sợ sẽ không được tôn trọng như ông anh đồng nghiệp của mình.&lt;/p&gt; &lt;p&gt;Cổ thì từ nước ngoài về, làm việc chơi chơi thôi, cổ cũng từng đưa hint là nếu được thì hai đứa trở lại nước ngoài sống một cách nhàn nhã. Nhưng mà giờ tìm đường đi châu Âu như nào thì mình chưa biết, một phần là nghề nghiệp của mình không thích hợp cạnh tranh ở môi trường đó. Nhưng mà mình cũng cố để nếu có cơ hội nào đó thì mình cũng ngỏ lời mà đáp cái hint của cổ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/No-Battle504"&gt; /u/No-Battle504 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rm5cc3/vợ_đồng_nghiệp_và_vân_vân_mây_mây/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rm5cc3/vợ_đồng_nghiệp_và_vân_vân_mây_mây/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rm5cc3/vợ_đồng_nghiệp_và_vân_vân_mây_mây/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-06T05:27:51+00:00</published>
   </entry>
   <entry>
     <id>t3_1rm1knq</id>
