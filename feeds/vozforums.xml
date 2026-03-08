@@ -2,102 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-03-08T07:58:38+00:00</updated>
+  <updated>2026-03-08T08:40:46+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1rnbthp</id>
-    <title>Dự đoán của mình về tương lai nghề nghiệp trong thời AI, ae vào chém thoải mái</title>
-    <updated>2026-03-07T14:49:57+00:00</updated>
-    <author>
-      <name>/u/Son1501_Megumin</name>
-      <uri>https://old.reddit.com/user/Son1501_Megumin</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Kẻ thức thời là trang tuấn kiệt. Trong quá khứ ae nào đón đầu các trend đều ấm no cả, trc khi trend đó bão hòa. Mình nghĩ AI ko phải ngoại lệ. Để có thể đón đầu và cá kiếm trong làn sóng AI, mình sẽ biên 1 bài dài cho ae vào chém&lt;/p&gt; &lt;p&gt;Đầu tiên, mình sẽ nhìn về kinh tế - thị trường&lt;/p&gt; &lt;h1&gt;Nghịch lý tiêu thụ&lt;/h1&gt; &lt;p&gt;Ae hãy cùng điểm qua 1 số hiện tượng&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Đèn led tiết kiệm điện hơn đèn dây tóc -&amp;gt; tưởng rằng sẽ tiết kiệm điện cho việc thắp sáng, nhưng không -&amp;gt; nhu cầu thắp sáng ngày 1 nhiều, tốn nhiều điện hon nữa để thắp sáng&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Hoặc&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Ổ đĩa lưu trữ ngày một nhiều -&amp;gt; nhu cầu lưu trữ ngày một tăng, cần nhiều ổ đĩa hơn trước&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Đây chính là 2 trong số các ví dụ thể hiện &lt;strong&gt;nghịch lý Jevons -&lt;/strong&gt; nghịch lý liên quan đến việc khi công nghệ phát triển, tài nguyên dc tối ưu sẽ ko làm giảm tiêu thụ mà ngược lại còn tăng tiêu thụ&lt;/p&gt; &lt;p&gt;Về bản chất, nền kinh tế = ham muốn. Con ng luôn có nhu cầu thỏa mãn, ăn no -&amp;gt; ăn ngon, ăn sang. Cái này từng cá nhân thì chưa chắc đúng nhưng vĩ mô thì ko trật dc&lt;/p&gt; &lt;h1&gt;Sản phẩm tạo ra nhu cầu&lt;/h1&gt; &lt;p&gt;Tiếp theo, ae điểm qua 1 số sản phẩm công nghệ trong quá khứ&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Smartphone ra đời -&amp;gt; nhu cầu việc làm về thương mại điện tử, chạy grab, lập trình mobile app tăng vọt&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Hoặc&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Máy tính ra đời -&amp;gt; gần như tái định nghĩa toàn bộ việc làm &amp;quot;văn phòng&amp;quot; ngày nay&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Hoặc&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Youtube ra đời -&amp;gt; nghề mới youtuber&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Tóm lại khi 1 sản phẩm mới ra đời, nhu cầu ăn ké, ăn mảnh liên quan đến nó sẽ tăng, hoặc thậm chí là thay đổi toàn bộ tình hình thị trường&lt;/p&gt; &lt;h1&gt;AI xuất hiện, cái gì đang tăng ?&lt;/h1&gt; &lt;p&gt;Thời kì AI hay LLM era bắt đầu tầm 4-5 năm gần đây, ae sẽ cần phải đặt ra câu hỏi là cái gì dc tối ưu và nhu cầu tiêu thụ nào sẽ tăng ?&lt;/p&gt; &lt;p&gt;Rõ ràng nhất là&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;giọng đọc, nội dung AI phát triển -&amp;gt; review phim, truyện nở rộ. Trc đây thì sách nói hoặc các thể loại kể chuyện ko thiếu, nhưng chắc chắn là ko viral như mấy năm gần đây.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Tức là, giọng đọc và công sức sản xuất vid sẽ dc tối ưu -&amp;gt;review phim spam liên tục -&amp;gt; nhu cầu nghe review phim tăng vì đã dc tạo thói quen&lt;/p&gt; &lt;p&gt;Nhưng mà ngoài ví dụ trên ra, thì cá nhân mình thấy mấy thứ còn lại khá mơ hồ và FOMO&lt;/p&gt; &lt;ul&gt; &lt;li&gt;AI slop về art, gen ảnh, gen nhạc-&amp;gt; thấy tiêu cực nhiều hơn. Vụ trâu vtv ae chắc cũng biết. Nhạc AI thì đỡ slop hơn nhờ ng feed sáng tác cho AI hát&lt;/li&gt; &lt;li&gt;AI vibe coding, agent -&amp;gt; Có vẻ mạnh, nhưng vẫn nghẽn ở khâu review code và chuyển đổi bài toán từ thực tế -&amp;gt; implement. Để chờ xem thế nào, chứ giờ open source, build sản phẩm indie toàn than rác AI&lt;/li&gt; &lt;li&gt;AI doanh nghiệp -&amp;gt; chưa biết tương lai thế nào, chứ tình hình giờ chưa ngon. 1 số báo cáo mình đọc thấy việc áp dụng AI đang chưa hiệu quả lắm&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;AI sẽ làm nở rộ ở các jobs nào&lt;/h1&gt; &lt;p&gt;Trở về nguyên gốc của vấn đề. Mình giả định AI đáp ứng 2 điều kiện : &lt;strong&gt;một&lt;/strong&gt; là mô hình LLM phát triển thật sự, ko bị thổi phổng quá mức và &lt;strong&gt;hai&lt;/strong&gt; là AI ko quá toàn năng để có thể auto mọi thứ&lt;/p&gt; &lt;p&gt;Dựa theo báo cáo mới nhất của Anthropic luôn, thì các việc liên quan đến dữ liệu và quy trình văn phòng sẽ dùng AI nhiều nhất.&lt;/p&gt; &lt;p&gt;Tức là đa số các công đoạn (process) như coding, excel, nhập liệu, dịch, tra cứu luật và tin tức, đọc tài liệu (OCR), điều khiển / auto máy tính như openclaw... sẽ dc tối ưu. Từ đó, theo mình các job sẽ thay đổi như sau :&lt;/p&gt; &lt;p&gt;---&lt;/p&gt; &lt;p&gt;Nhu cầu software tăng : AI chính là phần mềm. Ngta sẽ bớt xài SaaS lại mà chuyển sang cá nhân hóa, mỗi cty đều phải xài software + hệ thống AI để tối ưu quy trình, ai ko xài thì coi như tụt lại so với đối thủ&lt;/p&gt; &lt;p&gt;-&amp;gt; jobs liên quan đến build agent, build phần mềm AI hoặc tích hợp AI kiểu gì cũng nở rộ. Hoặc 1 cty sẽ có 1 bộ phận coder + domain knowledge làm chung, hoặc startup sẽ outsource, may đo phần mềm như may vest cho 1 cty - &lt;em&gt;Cá nhân mình đang aim hướng này&lt;/em&gt;&lt;/p&gt; &lt;p&gt;---&lt;/p&gt; &lt;p&gt;Nhu cầu về representation và các sản phẩm trên internet tăng : Các infographic, report, hình ảnh minh họa, hoặc các phiên live, video với AI sẽ nở rộ. Chưa cần biết về hiệu quả, chỉ cần biết là xài AI thì tự nhiên đầy ắp content, ai rồi cũng FOMO&lt;/p&gt; &lt;p&gt;&amp;gt; jobs liên quan đến content AI và các thể loại chơi với prompt sẽ tăng. Này đất cho ae digital marketing, artist/ hoặc ng có taste hoặc ae MMO bắt trend quẩy&lt;/p&gt; &lt;p&gt;---&lt;/p&gt; &lt;p&gt;Cuộc chơi tài chính : mình ko có nhiều chuyên môn về món này, nhưng mà mình nghĩ khi AI đủ mạnh thì việc thuần nhập liệu hay xử lý con số sẽ dc bỏ qua, nhảy đến bước kế tiếp là chơi với các lý thuyết kinh tế để tăng lợi nhuận (Ở VN mấy món tài chính ko mạnh so với nước ngoài thì phải)&lt;/p&gt; &lt;p&gt;-&amp;gt; mình đoán kế, kiểm với văn phòng sẽ giảm nhẹ, tạo đất diễn cho ae thuần kinh tế lý thuyết&lt;/p&gt; &lt;p&gt;---&lt;/p&gt; &lt;p&gt;Robot và công nghiệp : theo kiến thức của mình về LLM thì AI ko mạnh về nhánh này. Trong quá khứ thì máy móc cơ khí, tự động hóa hay luyện kim, code nhúng đều rất trì trệ và giấu như mèo giấu cut. Nhóm này mình nghĩ sẽ an toàn trc LLM nhưng cũng ko có quá nhiều đất để quẩy.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Son1501_Megumin"&gt; /u/Son1501_Megumin &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rnbthp/dự_đoán_của_mình_về_tương_lai_nghề_nghiệp_trong/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rnbthp/dự_đoán_của_mình_về_tương_lai_nghề_nghiệp_trong/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rnbthp/dự_đoán_của_mình_về_tương_lai_nghề_nghiệp_trong/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-07T14:49:57+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1rne2hz</id>
-    <title>Tôi thề là thời gian đang trôi nhanh hơn.</title>
-    <updated>2026-03-07T16:21:21+00:00</updated>
-    <author>
-      <name>/u/These-Cost-905</name>
-      <uri>https://old.reddit.com/user/These-Cost-905</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tôi biết mọi người thường nói &amp;quot;giờ bạn bận rộn hơn nên có vẻ như thời gian trôi nhanh hơn&amp;quot;. Không, tôi nghĩ thời gian thực sự đang trôi nhanh hơn. Gần đây tôi đọc được một giả thuyết cho rằng sự quay của trái đất đang tăng lên, dẫn đến thời gian trôi qua nhanh hơn.&lt;/p&gt; &lt;p&gt;Tôi cũng tìm thấy một bài báo khẳng định điều này:&lt;/p&gt; &lt;p&gt;“Một nghiên cứu khoa học mới đã phát hiện ra rằng thời gian đang trôi nhanh hơn khi vũ trụ già đi, một điều mà Einstein đã đưa ra giả thuyết vào năm 1915.”&lt;/p&gt; &lt;p&gt;Những điều này chỉ làm tăng thêm vài giây, nhưng cảm giác như nhiều hơn thế. Một năm giờ đây cứ như chỉ vài tháng. Một tuần trôi qua cứ như một ngày.&lt;/p&gt; &lt;p&gt;Tôi nhớ lần đầu tiên nhận thấy sự gia tăng này. Lúc đó tôi đang học lớp 11 năm 2020 và dường như thời gian đột nhiên trôi nhanh hơn. Giờ tôi 23 tuổi và dường như 6 năm qua (kể từ khi Covid bùng phát) thời gian trôi nhanh hơn nữa. Mọi người nghĩ sao? &lt;/p&gt; &lt;p&gt;Kể từ năm 2022 tới 2026 nó cứ như siêu tốc vậy tôi cứ nghĩ mới như hôm qua, thế mà năm 2014 tới năm 2018 ( lúc năm 2018 tôi cứ nghĩ năm 2014 lâu lắm rồi cứ như 10 năm vậy giờ 2022 tới 2026 4 năm rồi tôi cứ nghĩ 2022 mới như hôm qua )&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/These-Cost-905"&gt; /u/These-Cost-905 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rne2hz/tôi_thề_là_thời_gian_đang_trôi_nhanh_hơn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rne2hz/tôi_thề_là_thời_gian_đang_trôi_nhanh_hơn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rne2hz/tôi_thề_là_thời_gian_đang_trôi_nhanh_hơn/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-07T16:21:21+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1rnay06</id>
-    <title>Vcb , thông tư 77</title>
-    <updated>2026-03-07T14:11:23+00:00</updated>
-    <author>
-      <name>/u/TrucLam0209</name>
-      <uri>https://old.reddit.com/user/TrucLam0209</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1rnay06/vcb_thông_tư_77/"&gt; &lt;img alt="Vcb , thông tư 77" src="https://preview.redd.it/woq1qe76smng1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=898a21e43c27dd6ca678fc27b0695d343227ac71" title="Vcb , thông tư 77" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình gọi lên tổng đài thì họ vẫn kêu là mua đt mới ko thì reset lại toàn bộ bao gồm mấy cái ẩn ẩn gì đó ko hiểu. Hiện tại mình đang xài redmi và cái mail cùi ghẻ dùng để đk thì nó ko cho nhận mail mới 🙏 nên ko thể chạy lại máy được . 🙏&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/TrucLam0209"&gt; /u/TrucLam0209 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/woq1qe76smng1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rnay06/vcb_thông_tư_77/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rnay06/vcb_thông_tư_77/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-07T14:11:23+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1rnygre</id>
-    <title>Ở đây có anh em nào đang tự viết light novel manga cho bản thân mình chưa ?</title>
-    <updated>2026-03-08T07:24:08+00:00</updated>
-    <author>
-      <name>/u/asa_no_kenny</name>
-      <uri>https://old.reddit.com/user/asa_no_kenny</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình thì đang thử sức với 1 thể loại isekai Drak mà mình đang theo đuổi. Tuy ban đầu khó khăn vì phải suy nghĩ kịch bản. Thiết kế nhân vật, và kỹ năng. Nhưng sau 1 tháng thì mình đã phác thảo sơ bộ kịch bản mà mình định hướng tới rồi. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/asa_no_kenny"&gt; /u/asa_no_kenny &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rnygre/ở_đây_có_anh_em_nào_đang_tự_viết_light_novel/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rnygre/ở_đây_có_anh_em_nào_đang_tự_viết_light_novel/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rnygre/ở_đây_có_anh_em_nào_đang_tự_viết_light_novel/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-08T07:24:08+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1rnympi</id>
-    <title>Sinh viên IT (sắp) thất nghiệp</title>
-    <updated>2026-03-08T07:33:52+00:00</updated>
-    <author>
-      <name>/u/11_2ro</name>
-      <uri>https://old.reddit.com/user/11_2ro</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em chào mọi người, em muốn hỏi xin kinh nghiệm của các anh chị tiền bối ngành IT ạ.&lt;/p&gt; &lt;p&gt;Em hiện đang cuối năm 3 rồi, nhưng còn nhiều cái mông lung về ngành học của mình quá. Em định là cuối năm nay sẽ đi thực tập, nhưng vẫn chưa biết apply vào đâu và làm thế nào. Với đà này ra trường chắc căng thẳng lắm, em nghĩ vậy...&lt;/p&gt; &lt;p&gt;Điểm mạnh duy nhất em có hiện giờ chắc là CPA, còn code thì thành thật mà nói là không giỏi, gần như em chỉ nắm được lý thuyết được học trên trường thôi ạ, mà nhiều cái học lâu rồi cũng không nhớ nổi.&lt;/p&gt; &lt;p&gt;Không biết các anh chị có thể đưa ra lời khuyên nào cho em không ạ? Em cảm ơn mọi người rất nhiều.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/11_2ro"&gt; /u/11_2ro &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rnympi/sinh_viên_it_sắp_thất_nghiệp/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rnympi/sinh_viên_it_sắp_thất_nghiệp/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rnympi/sinh_viên_it_sắp_thất_nghiệp/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-08T07:33:52+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1rnyscz</id>
-    <title>Du học</title>
-    <updated>2026-03-08T07:42:58+00:00</updated>
-    <author>
-      <name>/u/gggbbb9993</name>
-      <uri>https://old.reddit.com/user/gggbbb9993</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Theo mọi người ngành kỹ thuật ô tô có cần sức khoẻ tốt, mắt tinh không ạ. Chẳng là e có ý định đi du học Hàn ngành này nhưng em có vấn đề về mắt và sức khoẻ cũng không tốt lắm ở thời điểm hiện tại ( đang cải thiện dần ). Mng có đề xuất nào không ạ, về ngành khác hay sao cũng đc ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/gggbbb9993"&gt; /u/gggbbb9993 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rnyscz/du_học/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rnyscz/du_học/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rnyscz/du_học/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-08T07:42:58+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1rnyu9q</id>
-    <title>Có nên cạo vùng lông tam giác dành cho nam giới không?</title>
-    <updated>2026-03-08T07:46:09+00:00</updated>
-    <author>
-      <name>/u/ilovepussycatt</name>
-      <uri>https://old.reddit.com/user/ilovepussycatt</uri>
-    </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ilovepussycatt"&gt; /u/ilovepussycatt &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rnyu9q/có_nên_cạo_vùng_lông_tam_giác_dành_cho_nam_giới/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rnyu9q/có_nên_cạo_vùng_lông_tam_giác_dành_cho_nam_giới/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rnyu9q/có_nên_cạo_vùng_lông_tam_giác_dành_cho_nam_giới/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-08T07:46:09+00:00</published>
-  </entry>
   <entry>
     <id>t3_1rnyydu</id>
     <title>Nghĩa vụ công an sau 3 tháng có được về nhà không ? (lính tỉnh)</title>
@@ -125,19 +34,6 @@
     <published>2026-03-08T04:07:24+00:00</published>
   </entry>
   <entry>
-    <id>t3_1rnz16q</id>
-    <title>Đen đủi</title>
-    <updated>2026-03-08T07:57:48+00:00</updated>
-    <author>
-      <name>/u/ttomnqt</name>
-      <uri>https://old.reddit.com/user/ttomnqt</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác lại là em đây lần trước e bảo e nợ30tr đấy. xong có đăng kí chạy grab. nay bán cái acc liên quân để có tiền trả nợ mà bị scam mất 5m. Giờ buồn vô vọng quá các bác ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ttomnqt"&gt; /u/ttomnqt &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rnz16q/đen_đủi/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rnz16q/đen_đủi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rnz16q/đen_đủi/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-08T07:57:48+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1rnuvm4</id>
     <title>Barber có kinh nghiệm ở SG</title>
     <updated>2026-03-08T04:12:42+00:00</updated>
@@ -149,6 +45,45 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1rnuvm4/barber_có_kinh_nghiệm_ở_sg/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-03-08T04:12:42+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1rnz66i</id>
+    <title>Download baidupan</title>
+    <updated>2026-03-08T08:05:44+00:00</updated>
+    <author>
+      <name>/u/Mei_not_mei</name>
+      <uri>https://old.reddit.com/user/Mei_not_mei</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Lỡ mua cả tháng nhưng không dùng nhiều ai muốn tải gì để lại link nhé!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Mei_not_mei"&gt; /u/Mei_not_mei &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rnz66i/download_baidupan/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rnz66i/download_baidupan/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rnz66i/download_baidupan/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-08T08:05:44+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1rnz7p6</id>
+    <title>Có bà nào HN thích cafe chụp ảnh cho nhau k ạ</title>
+    <updated>2026-03-08T08:08:18+00:00</updated>
+    <author>
+      <name>/u/Marla-Singer-</name>
+      <uri>https://old.reddit.com/user/Marla-Singer-</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình biết căn góc, chụp siêu có tâm ạ. Ai cũng thích đi cafe, đi các địa điểm đẹp ở HN chụp ảnh checkin mà bạn bè ko thích chụp ảnh thì chúng ta kết bạn để rảnh đi chụp qua lại cho nhau đi ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Marla-Singer-"&gt; /u/Marla-Singer- &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rnz7p6/có_bà_nào_hn_thích_cafe_chụp_ảnh_cho_nhau_k_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rnz7p6/có_bà_nào_hn_thích_cafe_chụp_ảnh_cho_nhau_k_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rnz7p6/có_bà_nào_hn_thích_cafe_chụp_ảnh_cho_nhau_k_ạ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-08T08:08:18+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1rnz90w</id>
+    <title>bị adhd ở vn nhưng không muốn đi khám mà muốn vô thẳng uống adderall luôn thì làm sao 🤔</title>
+    <updated>2026-03-08T08:10:24+00:00</updated>
+    <author>
+      <name>/u/Due-Beyond-7841</name>
+      <uri>https://old.reddit.com/user/Due-Beyond-7841</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;em hiện 16 ở sg và sau bao nhiêu năm tự huỷ thì cuối cùng em cũng quyệt định muốn tự cứu trc khi quá muộn&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Due-Beyond-7841"&gt; /u/Due-Beyond-7841 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rnz90w/bị_adhd_ở_vn_nhưng_không_muốn_đi_khám_mà_muốn_vô/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rnz90w/bị_adhd_ở_vn_nhưng_không_muốn_đi_khám_mà_muốn_vô/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rnz90w/bị_adhd_ở_vn_nhưng_không_muốn_đi_khám_mà_muốn_vô/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-08T08:10:24+00:00</published>
   </entry>
   <entry>
     <id>t3_1rnsspf</id>
@@ -190,17 +125,43 @@
     <published>2026-03-08T05:57:25+00:00</published>
   </entry>
   <entry>
-    <id>t3_1rnuevb</id>
-    <title>Hoang mang với việc thi bằng lái xe A A1</title>
-    <updated>2026-03-08T03:49:11+00:00</updated>
+    <id>t3_1rnyu9q</id>
+    <title>Có nên cạo vùng lông tam giác dành cho nam giới không?</title>
+    <updated>2026-03-08T07:46:09+00:00</updated>
     <author>
-      <name>/u/Yramonla</name>
-      <uri>https://old.reddit.com/user/Yramonla</uri>
+      <name>/u/ilovepussycatt</name>
+      <uri>https://old.reddit.com/user/ilovepussycatt</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em có vào mấy cái gr trung tâm lái xe trên fb để đăng bài thấy có quá trời trung tâm seeding hay gì đó cmt lo từ hồ sơ đến dạy đến thi luôn. Cho em hỏi là bằng lái A là có nhiều trung tâm được quyền cấp như vậy ạ. Do em ở quê lên TPHCM nên cũng ko rành sợ bị lừa đảo ạ. Tiện thể cho em hỏi em trước giờ chỉ chạy xe 50 giờ thi bằng lái thì nên thi A hay A1 ạ. Và nếu chưa biết chạy mấy xe trên 125cc thì có nên đăng kí học ở trung tâm luôn không. Còn những vấn đề liên quan anh chị có kinh nghiệm cho em xin ít những lưu ý và lời khuyên với ạ. Em thật sự mù tịt về vấn đề này&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Yramonla"&gt; /u/Yramonla &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rnuevb/hoang_mang_với_việc_thi_bằng_lái_xe_a_a1/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rnuevb/hoang_mang_với_việc_thi_bằng_lái_xe_a_a1/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rnuevb/hoang_mang_với_việc_thi_bằng_lái_xe_a_a1/"/>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ilovepussycatt"&gt; /u/ilovepussycatt &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rnyu9q/có_nên_cạo_vùng_lông_tam_giác_dành_cho_nam_giới/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rnyu9q/có_nên_cạo_vùng_lông_tam_giác_dành_cho_nam_giới/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rnyu9q/có_nên_cạo_vùng_lông_tam_giác_dành_cho_nam_giới/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-08T03:49:11+00:00</published>
+    <published>2026-03-08T07:46:09+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1rnz16q</id>
+    <title>Đen đủi</title>
+    <updated>2026-03-08T07:57:48+00:00</updated>
+    <author>
+      <name>/u/ttomnqt</name>
+      <uri>https://old.reddit.com/user/ttomnqt</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác lại là em đây lần trước e bảo e nợ30tr đấy. xong có đăng kí chạy grab. nay bán cái acc liên quân để có tiền trả nợ mà bị scam mất 5m. Giờ buồn vô vọng quá các bác ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ttomnqt"&gt; /u/ttomnqt &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rnz16q/đen_đủi/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rnz16q/đen_đủi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rnz16q/đen_đủi/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-08T07:57:48+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1rnz6z0</id>
+    <title>Có cách nào tập lái xe vòng số 8 mà không cần vòng số 8 không ae?</title>
+    <updated>2026-03-08T08:07:04+00:00</updated>
+    <author>
+      <name>/u/ImpactMiserable9384</name>
+      <uri>https://old.reddit.com/user/ImpactMiserable9384</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chỗ tập vòng số 8 thì xa ở nhà mình quá, mà vô chỗ đó cũng phải chờ người khác tập nên mất thời gian, mà mình đang muốn tập xe cho quen dần luôn. &lt;/p&gt; &lt;p&gt;Có cách nào mà lấy xe tập lái vòng 8 mà không cần vòng số 8 không các bác nhỉ? &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ImpactMiserable9384"&gt; /u/ImpactMiserable9384 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rnz6z0/có_cách_nào_tập_lái_xe_vòng_số_8_mà_không_cần/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rnz6z0/có_cách_nào_tập_lái_xe_vòng_số_8_mà_không_cần/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rnz6z0/có_cách_nào_tập_lái_xe_vòng_số_8_mà_không_cần/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-08T08:07:04+00:00</published>
   </entry>
   <entry>
     <id>t3_1rnhnlu</id>
@@ -216,30 +177,17 @@
     <published>2026-03-07T18:40:05+00:00</published>
   </entry>
   <entry>
-    <id>t3_1rnxnjp</id>
-    <title>500k hoa này xứng đáng ko</title>
-    <updated>2026-03-08T06:38:41+00:00</updated>
+    <id>t3_1rnuevb</id>
+    <title>Hoang mang với việc thi bằng lái xe A A1</title>
+    <updated>2026-03-08T03:49:11+00:00</updated>
     <author>
-      <name>/u/4ccount1337</name>
-      <uri>https://old.reddit.com/user/4ccount1337</uri>
+      <name>/u/Yramonla</name>
+      <uri>https://old.reddit.com/user/Yramonla</uri>
     </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1rnxnjp/500k_hoa_này_xứng_đáng_ko/"&gt; &lt;img alt="500k hoa này xứng đáng ko" src="https://preview.redd.it/85wio3eborng1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=d55538fccf20680f84b36855a83b46d03b6e27a8" title="500k hoa này xứng đáng ko" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi ae. NNN muốn tặng bạn gái hoa ngày này. Mới mua hoa này 500k có xứng đáng ko? Chưa gặp bạn gái cho nên mua khác đc. Mình không biết giá trị / xài tiền ở vn. Mình cũng ko biết tiếng việt lol. Cho em xin khuyên của bạn nha. &lt;/p&gt; &lt;p&gt;Cảm ơn bạn nha &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/4ccount1337"&gt; /u/4ccount1337 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/85wio3eborng1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rnxnjp/500k_hoa_này_xứng_đáng_ko/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rnxnjp/500k_hoa_này_xứng_đáng_ko/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em có vào mấy cái gr trung tâm lái xe trên fb để đăng bài thấy có quá trời trung tâm seeding hay gì đó cmt lo từ hồ sơ đến dạy đến thi luôn. Cho em hỏi là bằng lái A là có nhiều trung tâm được quyền cấp như vậy ạ. Do em ở quê lên TPHCM nên cũng ko rành sợ bị lừa đảo ạ. Tiện thể cho em hỏi em trước giờ chỉ chạy xe 50 giờ thi bằng lái thì nên thi A hay A1 ạ. Và nếu chưa biết chạy mấy xe trên 125cc thì có nên đăng kí học ở trung tâm luôn không. Còn những vấn đề liên quan anh chị có kinh nghiệm cho em xin ít những lưu ý và lời khuyên với ạ. Em thật sự mù tịt về vấn đề này&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Yramonla"&gt; /u/Yramonla &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rnuevb/hoang_mang_với_việc_thi_bằng_lái_xe_a_a1/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rnuevb/hoang_mang_với_việc_thi_bằng_lái_xe_a_a1/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rnuevb/hoang_mang_với_việc_thi_bằng_lái_xe_a_a1/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-08T06:38:41+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1rnv8ws</id>
-    <title>Đây có phải scam ko</title>
-    <updated>2026-03-08T04:31:29+00:00</updated>
-    <author>
-      <name>/u/vnboyzzz</name>
-      <uri>https://old.reddit.com/user/vnboyzzz</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1rnv8ws/đây_có_phải_scam_ko/"&gt; &lt;img alt="Đây có phải scam ko" src="https://preview.redd.it/70whthdm1rng1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=08ba18e399f5b73900e450245dfc771c80b6922a" title="Đây có phải scam ko" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;E đăng pass cái loa trên chợ tốt thì có ô này hỏi mua xong bảo ship qua cho bạn ô ấy để cầm qua cho ông, e ở hn thấy địa chỉ bạn ổng ở hcm. Bh ông hỏi xin thông tin bank như này thì có phải scam ko nhở&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/vnboyzzz"&gt; /u/vnboyzzz &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/70whthdm1rng1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rnv8ws/đây_có_phải_scam_ko/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rnv8ws/đây_có_phải_scam_ko/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-08T04:31:29+00:00</published>
+    <published>2026-03-08T03:49:11+00:00</published>
   </entry>
   <entry>
     <id>t3_1rnblfe</id>
@@ -255,6 +203,19 @@
     <published>2026-03-07T14:40:18+00:00</published>
   </entry>
   <entry>
+    <id>t3_1rnzl8a</id>
+    <title>Xin vài kênh cộng đồng hữu ích</title>
+    <updated>2026-03-08T08:30:50+00:00</updated>
+    <author>
+      <name>/u/ktuyends</name>
+      <uri>https://old.reddit.com/user/ktuyends</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tính ra gần năm nay mình không còn lướt facebook, cảm rác quá nhiều rác thông tin, nên hầu như mình chỉ lướt reddit nhưng đa số toàn kênh nước ngoài. Mọi người hay lướt kênh nào, hay dùng mxh nào. Chia sẻ vài kênh mọi người thấy hữu ích nào. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ktuyends"&gt; /u/ktuyends &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rnzl8a/xin_vài_kênh_cộng_đồng_hữu_ích/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rnzl8a/xin_vài_kênh_cộng_đồng_hữu_ích/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rnzl8a/xin_vài_kênh_cộng_đồng_hữu_ích/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-08T08:30:50+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1rnud7q</id>
     <title>Bạn thân có ny là kiểu người thích kiểm soát.</title>
     <updated>2026-03-08T03:47:00+00:00</updated>
@@ -266,6 +227,32 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1rnud7q/bạn_thân_có_ny_là_kiểu_người_thích_kiểm_soát/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-03-08T03:47:00+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1rnv8ws</id>
+    <title>Đây có phải scam ko</title>
+    <updated>2026-03-08T04:31:29+00:00</updated>
+    <author>
+      <name>/u/vnboyzzz</name>
+      <uri>https://old.reddit.com/user/vnboyzzz</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1rnv8ws/đây_có_phải_scam_ko/"&gt; &lt;img alt="Đây có phải scam ko" src="https://preview.redd.it/70whthdm1rng1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=08ba18e399f5b73900e450245dfc771c80b6922a" title="Đây có phải scam ko" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;E đăng pass cái loa trên chợ tốt thì có ô này hỏi mua xong bảo ship qua cho bạn ô ấy để cầm qua cho ông, e ở hn thấy địa chỉ bạn ổng ở hcm. Bh ông hỏi xin thông tin bank như này thì có phải scam ko nhở&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/vnboyzzz"&gt; /u/vnboyzzz &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/70whthdm1rng1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rnv8ws/đây_có_phải_scam_ko/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rnv8ws/đây_có_phải_scam_ko/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-08T04:31:29+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1rnzed0</id>
+    <title>Ai có biết chỗ nào tại TP.HCM có bán mini burger (slider burger) này hong ạ. Cho mình xin info với.</title>
+    <updated>2026-03-08T08:19:21+00:00</updated>
+    <author>
+      <name>/u/Vietcong777</name>
+      <uri>https://old.reddit.com/user/Vietcong777</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1rnzed0/ai_có_biết_chỗ_nào_tại_tphcm_có_bán_mini_burger/"&gt; &lt;img alt="Ai có biết chỗ nào tại TP.HCM có bán mini burger (slider burger) này hong ạ. Cho mình xin info với." src="https://preview.redd.it/he4tir2a6sng1.jpeg?width=320&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=42a3b7300dd627faeeeab0998ae3cbe833ad94d6" title="Ai có biết chỗ nào tại TP.HCM có bán mini burger (slider burger) này hong ạ. Cho mình xin info với." /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Vietcong777"&gt; /u/Vietcong777 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/he4tir2a6sng1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rnzed0/ai_có_biết_chỗ_nào_tại_tphcm_có_bán_mini_burger/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rnzed0/ai_có_biết_chỗ_nào_tại_tphcm_có_bán_mini_burger/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-08T08:19:21+00:00</published>
   </entry>
   <entry>
     <id>t3_1rnult9</id>
@@ -281,17 +268,17 @@
     <published>2026-03-08T03:59:01+00:00</published>
   </entry>
   <entry>
-    <id>t3_1rnytm8</id>
-    <title>Xin bí kíp tán gái</title>
-    <updated>2026-03-08T07:45:03+00:00</updated>
+    <id>t3_1rnxnjp</id>
+    <title>500k hoa này xứng đáng ko</title>
+    <updated>2026-03-08T06:38:41+00:00</updated>
     <author>
-      <name>/u/drinkingwater_1341</name>
-      <uri>https://old.reddit.com/user/drinkingwater_1341</uri>
+      <name>/u/4ccount1337</name>
+      <uri>https://old.reddit.com/user/4ccount1337</uri>
     </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1rnytm8/xin_bí_kíp_tán_gái/"&gt; &lt;img alt="Xin bí kíp tán gái" src="https://preview.redd.it/5ptp7co50sng1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=c1acbb1ac95c71fb6e051487efbdf2479649a33a" title="Xin bí kíp tán gái" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tui tuy là con trai nhưng khá thích ăn mặc, trang điểm như con gái. Tuy vậy nhưng XHTD của t lại hoàn toàn bth, t vẫn thích con gái, nhưng chính sở thích này của t lại làm t khó kiếm bạn gái.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/drinkingwater_1341"&gt; /u/drinkingwater_1341 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/5ptp7co50sng1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rnytm8/xin_bí_kíp_tán_gái/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rnytm8/xin_bí_kíp_tán_gái/"/>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1rnxnjp/500k_hoa_này_xứng_đáng_ko/"&gt; &lt;img alt="500k hoa này xứng đáng ko" src="https://preview.redd.it/85wio3eborng1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=d55538fccf20680f84b36855a83b46d03b6e27a8" title="500k hoa này xứng đáng ko" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi ae. NNN muốn tặng bạn gái hoa ngày này. Mới mua hoa này 500k có xứng đáng ko? Chưa gặp bạn gái cho nên mua khác đc. Mình không biết giá trị / xài tiền ở vn. Mình cũng ko biết tiếng việt lol. Cho em xin khuyên của bạn nha. &lt;/p&gt; &lt;p&gt;Cảm ơn bạn nha &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/4ccount1337"&gt; /u/4ccount1337 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/85wio3eborng1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rnxnjp/500k_hoa_này_xứng_đáng_ko/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rnxnjp/500k_hoa_này_xứng_đáng_ko/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-08T07:45:03+00:00</published>
+    <published>2026-03-08T06:38:41+00:00</published>
   </entry>
   <entry>
     <id>t3_1rnuo6w</id>
@@ -305,6 +292,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1rnuo6w/lý_do_những_người_20_rồi_vẫn_chưa_từng_yêu_ai_là/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-03-08T04:02:12+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1rnytm8</id>
+    <title>Xin bí kíp tán gái</title>
+    <updated>2026-03-08T07:45:03+00:00</updated>
+    <author>
+      <name>/u/drinkingwater_1341</name>
+      <uri>https://old.reddit.com/user/drinkingwater_1341</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1rnytm8/xin_bí_kíp_tán_gái/"&gt; &lt;img alt="Xin bí kíp tán gái" src="https://preview.redd.it/5ptp7co50sng1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=c1acbb1ac95c71fb6e051487efbdf2479649a33a" title="Xin bí kíp tán gái" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tui tuy là con trai nhưng khá thích ăn mặc, trang điểm như con gái. Tuy vậy nhưng XHTD của t lại hoàn toàn bth, t vẫn thích con gái, nhưng chính sở thích này của t lại làm t khó kiếm bạn gái.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/drinkingwater_1341"&gt; /u/drinkingwater_1341 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/5ptp7co50sng1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rnytm8/xin_bí_kíp_tán_gái/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rnytm8/xin_bí_kíp_tán_gái/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-08T07:45:03+00:00</published>
   </entry>
   <entry>
     <id>t3_1rnswr6</id>
