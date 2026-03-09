@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-03-09T22:27:29+00:00</updated>
+  <updated>2026-03-09T22:55:28+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1rp04e9</id>
-    <title>Được mời dự Tân Gia</title>
-    <updated>2026-03-09T13:24:56+00:00</updated>
-    <author>
-      <name>/u/andrewright0704</name>
-      <uri>https://old.reddit.com/user/andrewright0704</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Có người mời Tân Gia nên mang gì tặng vậy mọi người. Lần đầu đi không biết có mang gì không ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/andrewright0704"&gt; /u/andrewright0704 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rp04e9/được_mời_dự_tân_gia/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rp04e9/được_mời_dự_tân_gia/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rp04e9/được_mời_dự_tân_gia/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-09T13:24:56+00:00</published>
-  </entry>
   <entry>
     <id>t3_1rp6hvb</id>
     <title>xin lời khuyên về công việc ạ</title>
@@ -71,6 +58,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1rolmoe/40k_một_suất_bún_cả_rau_với_tỏi/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-03-09T00:38:14+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1rp4nhl</id>
+    <title>Chắc em bỏ theo dev kiếm gì khác mà làm</title>
+    <updated>2026-03-09T16:19:21+00:00</updated>
+    <author>
+      <name>/u/PeaceAndP</name>
+      <uri>https://old.reddit.com/user/PeaceAndP</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em là sinh viên năm cuối, học thì không phải trường top, em ham học hỏi nhưng là học hỏi cùng với con AI, em tìm tỏi làm sản phẩm, build web build app ác thứ nhưng sau một thời gian khả năng dev của em khi không có AI dường như khó. Em thích và theo học Java, cũng có sản phẩm cơ bản Web Spring Boot, Nginx, Docker deploy lên EC2, tình hình sau tết em thấy chẳng khá khẩm hơn mấy để xin Intern, với khả năng hiện tại anh chị cho em hỏi còn cơ hội nào cho em để xin intern không ạ, em còn một tí hi vọng từ đây đến khi ra trường ( 3 tháng) để quyết định chuyển hướng hay bám, em mong nhận được lời khuyên từ anh chị.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/PeaceAndP"&gt; /u/PeaceAndP &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rp4nhl/chắc_em_bỏ_theo_dev_kiếm_gì_khác_mà_làm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rp4nhl/chắc_em_bỏ_theo_dev_kiếm_gì_khác_mà_làm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rp4nhl/chắc_em_bỏ_theo_dev_kiếm_gì_khác_mà_làm/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-09T16:19:21+00:00</published>
   </entry>
   <entry>
     <id>t3_1rojfuc</id>
@@ -125,19 +125,6 @@
     <published>2026-03-09T10:06:56+00:00</published>
   </entry>
   <entry>
-    <id>t3_1roq4ma</id>
-    <title>Những con người không được phép thất bại ?</title>
-    <updated>2026-03-09T04:05:21+00:00</updated>
-    <author>
-      <name>/u/gh0ulrz</name>
-      <uri>https://old.reddit.com/user/gh0ulrz</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Xin chào, mình tự hỏi những con người từng không được phép thất bại, vậy nếu phải thất bại rồi thì điều gì đã xảy ra ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/gh0ulrz"&gt; /u/gh0ulrz &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1roq4ma/những_con_người_không_được_phép_thất_bại/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1roq4ma/những_con_người_không_được_phép_thất_bại/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1roq4ma/những_con_người_không_được_phép_thất_bại/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-09T04:05:21+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1roxg89</id>
     <title>Nên đầu tư gì</title>
     <updated>2026-03-09T11:17:20+00:00</updated>
@@ -162,6 +149,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1rosxsz/thị_trường_rớt_điểm/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-03-09T06:43:00+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1roq4ma</id>
+    <title>Những con người không được phép thất bại ?</title>
+    <updated>2026-03-09T04:05:21+00:00</updated>
+    <author>
+      <name>/u/gh0ulrz</name>
+      <uri>https://old.reddit.com/user/gh0ulrz</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Xin chào, mình tự hỏi những con người từng không được phép thất bại, vậy nếu phải thất bại rồi thì điều gì đã xảy ra ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/gh0ulrz"&gt; /u/gh0ulrz &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1roq4ma/những_con_người_không_được_phép_thất_bại/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1roq4ma/những_con_người_không_được_phép_thất_bại/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1roq4ma/những_con_người_không_được_phép_thất_bại/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-09T04:05:21+00:00</published>
   </entry>
   <entry>
     <id>t3_1rowuxh</id>
