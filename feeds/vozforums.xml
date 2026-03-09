@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-03-09T21:46:24+00:00</updated>
+  <updated>2026-03-09T22:27:29+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -164,6 +164,19 @@
     <published>2026-03-09T06:43:00+00:00</published>
   </entry>
   <entry>
+    <id>t3_1rowuxh</id>
+    <title>nếu mà tình hình như hiện tại cứ diễn ra, có lẽ mình sẽ đi bộ để đi làm thay vì đi xe. nhìn xăng lên mà toát hết mồ hôi. anh em thì sao</title>
+    <updated>2026-03-09T10:45:30+00:00</updated>
+    <author>
+      <name>/u/No-Buyer-5613</name>
+      <uri>https://old.reddit.com/user/No-Buyer-5613</uri>
+    </author>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/No-Buyer-5613"&gt; /u/No-Buyer-5613 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rowuxh/nếu_mà_tình_hình_như_hiện_tại_cứ_diễn_ra_có_lẽ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rowuxh/nếu_mà_tình_hình_như_hiện_tại_cứ_diễn_ra_có_lẽ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rowuxh/nếu_mà_tình_hình_như_hiện_tại_cứ_diễn_ra_có_lẽ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-09T10:45:30+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1rpd7t4</id>
     <title>Chuyện taphoammo</title>
     <updated>2026-03-09T21:22:33+00:00</updated>
@@ -201,19 +214,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1rpdf4l/bữa_h_quá_stress_và_mình_cần_vent_xíu_mình_có_quá/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-03-09T21:30:15+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1rowuxh</id>
-    <title>nếu mà tình hình như hiện tại cứ diễn ra, có lẽ mình sẽ đi bộ để đi làm thay vì đi xe. nhìn xăng lên mà toát hết mồ hôi. anh em thì sao</title>
-    <updated>2026-03-09T10:45:30+00:00</updated>
-    <author>
-      <name>/u/No-Buyer-5613</name>
-      <uri>https://old.reddit.com/user/No-Buyer-5613</uri>
-    </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/No-Buyer-5613"&gt; /u/No-Buyer-5613 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rowuxh/nếu_mà_tình_hình_như_hiện_tại_cứ_diễn_ra_có_lẽ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rowuxh/nếu_mà_tình_hình_như_hiện_tại_cứ_diễn_ra_có_lẽ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rowuxh/nếu_mà_tình_hình_như_hiện_tại_cứ_diễn_ra_có_lẽ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-09T10:45:30+00:00</published>
   </entry>
   <entry>
     <id>t3_1ronxxr</id>
