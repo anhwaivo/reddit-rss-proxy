@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-03-10T07:08:14+00:00</updated>
+  <updated>2026-03-10T07:54:19+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1rp4nhl</id>
-    <title>Chắc em bỏ theo dev kiếm gì khác mà làm</title>
-    <updated>2026-03-09T16:19:21+00:00</updated>
-    <author>
-      <name>/u/PeaceAndP</name>
-      <uri>https://old.reddit.com/user/PeaceAndP</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em là sinh viên năm cuối, học thì không phải trường top, em ham học hỏi nhưng là học hỏi cùng với con AI, em tìm tỏi làm sản phẩm, build web build app ác thứ nhưng sau một thời gian khả năng dev của em khi không có AI dường như khó. Em thích và theo học Java, cũng có sản phẩm cơ bản Web Spring Boot, Nginx, Docker deploy lên EC2, tình hình sau tết em thấy chẳng khá khẩm hơn mấy để xin Intern, với khả năng hiện tại anh chị cho em hỏi còn cơ hội nào cho em để xin intern không ạ, em còn một tí hi vọng từ đây đến khi ra trường ( 3 tháng) để quyết định chuyển hướng hay bám, em mong nhận được lời khuyên từ anh chị.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/PeaceAndP"&gt; /u/PeaceAndP &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rp4nhl/chắc_em_bỏ_theo_dev_kiếm_gì_khác_mà_làm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rp4nhl/chắc_em_bỏ_theo_dev_kiếm_gì_khác_mà_làm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rp4nhl/chắc_em_bỏ_theo_dev_kiếm_gì_khác_mà_làm/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-09T16:19:21+00:00</published>
-  </entry>
   <entry>
     <id>t3_1rpmtoh</id>
     <title>thay đổi tính cách</title>
@@ -99,6 +86,19 @@
     <published>2026-03-10T05:50:55+00:00</published>
   </entry>
   <entry>
+    <id>t3_1rpl2e3</id>
+    <title>Việc làm thêm online cho sinh viên</title>
+    <updated>2026-03-10T02:41:55+00:00</updated>
+    <author>
+      <name>/u/Intrepid-Somewhere63</name>
+      <uri>https://old.reddit.com/user/Intrepid-Somewhere63</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người ạ, em đang là sinh viên năm 2 ở Hà Nội. Tình hình là em đang gặp chút khó khăn về chuyện đi lại. Em không có xe máy, mà khu quanh trọ em thì lại hiếm việc làm thêm quá, đi bộ hay xe bus thì cũng hơi bất tiện cho lịch học. Em muốn xin ý kiến về các việc làm online hiện nay. Em không mong làm giàu ngay đâu, chỉ cần mỗi tháng có thêm ít đồng ra đồng vào để phụ tiền trọ, ăn uống là mừng rồi ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Intrepid-Somewhere63"&gt; /u/Intrepid-Somewhere63 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rpl2e3/việc_làm_thêm_online_cho_sinh_viên/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rpl2e3/việc_làm_thêm_online_cho_sinh_viên/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rpl2e3/việc_làm_thêm_online_cho_sinh_viên/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-10T02:41:55+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1rpikyt</id>
     <title>Thị trường IT hiện nay (HN) như thế nào?</title>
     <updated>2026-03-10T00:54:14+00:00</updated>
@@ -123,19 +123,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1rozlmv/chuyển_ngành_sang_it/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-03-09T13:02:29+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1rppz3i</id>
-    <title>Các bác nghĩ sao về việc 28 tuổi chưa bao giờ thật sự có nỗi 1 mảnh tình vắt vai</title>
-    <updated>2026-03-10T07:00:36+00:00</updated>
-    <author>
-      <name>/u/Intelligent_Book4184</name>
-      <uri>https://old.reddit.com/user/Intelligent_Book4184</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác,&lt;/p&gt; &lt;p&gt;Không biết ở đây có ai rơi vào hoàn cảnh giống em không. Năm nay em 28 tuổi, cái tuổi mà người ta thường nói là đã đủ chín chắn để có một mối quan hệ nghiêm túc. Vậy mà nhìn lại chuyện tình cảm của mình, em chỉ thấy… hơi buồn và cũng hơi nản.&lt;/p&gt; &lt;p&gt;Từ trước đến giờ em quen 3 người, nhưng tất cả đều chỉ dừng lại ở mức làm quen, tìm hiểu, mà mỗi người cũng chỉ kéo dài khoảng hai tuần rồi lại dừng.&lt;/p&gt; &lt;p&gt;Người thứ nhất và người thứ hai thì phần lớn chỉ nhắn tin rủ em đi ăn, đi chơi. Ban đầu em cũng nghĩ chắc là họ muốn tìm hiểu thật lòng nên mới dành thời gian gặp gỡ. Nhưng dần dần em nhận ra mọi thứ chỉ xoay quanh những buổi đi chơi cho vui, chứ chẳng có sự quan tâm hay nghiêm túc gì cả. Cảm giác giống như mình chỉ là người để họ có bạn đi cùng cho đỡ buồn, vậy thôi.&lt;/p&gt; &lt;p&gt;Còn người thứ ba thì… đơn giản hơn. Sau một thời gian nói chuyện, em nhận ra người ta không thích mình.&lt;/p&gt; &lt;p&gt;Thế là hết.&lt;/p&gt; &lt;p&gt;Ba lần làm quen, ba lần kết thúc chóng vánh, mà lần nào cũng chỉ vỏn vẹn hai tuần. Nhiều lúc em tự hỏi không biết do mình kém duyên, do mình chưa đủ tốt, hay chỉ là mình chưa gặp đúng người.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Intelligent_Book4184"&gt; /u/Intelligent_Book4184 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rppz3i/các_bác_nghĩ_sao_về_việc_28_tuổi_chưa_bao_giờ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rppz3i/các_bác_nghĩ_sao_về_việc_28_tuổi_chưa_bao_giờ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rppz3i/các_bác_nghĩ_sao_về_việc_28_tuổi_chưa_bao_giờ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-10T07:00:36+00:00</published>
   </entry>
   <entry>
     <id>t3_1rp18y9</id>
@@ -229,19 +216,6 @@
     <published>2026-03-10T01:45:10+00:00</published>
   </entry>
   <entry>
-    <id>t3_1rpn3fx</id>
-    <title>Nên sử dụng HDD 3,5 rời nguyên khối hay combo Box + HDD 3,5?</title>
-    <updated>2026-03-10T04:16:48+00:00</updated>
-    <author>
-      <name>/u/Low-Discussion3332</name>
-      <uri>https://old.reddit.com/user/Low-Discussion3332</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1rpn3fx/nên_sử_dụng_hdd_35_rời_nguyên_khối_hay_combo_box/"&gt; &lt;img alt="Nên sử dụng HDD 3,5 rời nguyên khối hay combo Box + HDD 3,5?" src="https://preview.redd.it/lhu1k65n85og1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ec454190e7456fffea268a59314a926c2bf37418" title="Nên sử dụng HDD 3,5 rời nguyên khối hay combo Box + HDD 3,5?" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tính hình là mình tính mua ổ HDD cho việc lưu trữ dữ liệu ít dùng đến. Thì mình đang có 2 phương án là mua 1 chiếc HDD 3,5 inch nguyên khối (dòng WD My Book) và mua combo Hộp + HDD (Box Orico + HDD WD).&lt;/p&gt; &lt;p&gt;Mình muốn ưu tiên về độ bền, khả năng khôi phục và tốc độ truyền dữ liệu (không cần quá nhanh, đủ full hiệu suất của chiếc ổ cứng là được)&lt;/p&gt; &lt;p&gt;Dạ bác nèo có kinh nghiệm trong chuyện cho mình xin ý kiến với ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Low-Discussion3332"&gt; /u/Low-Discussion3332 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/lhu1k65n85og1.png"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rpn3fx/nên_sử_dụng_hdd_35_rời_nguyên_khối_hay_combo_box/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rpn3fx/nên_sử_dụng_hdd_35_rời_nguyên_khối_hay_combo_box/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-10T04:16:48+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1rp49iq</id>
     <title>23:04</title>
     <updated>2026-03-09T16:05:13+00:00</updated>
@@ -253,6 +227,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1rp49iq/2304/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-03-09T16:05:13+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1rpn3fx</id>
+    <title>Nên sử dụng HDD 3,5 rời nguyên khối hay combo Box + HDD 3,5?</title>
+    <updated>2026-03-10T04:16:48+00:00</updated>
+    <author>
+      <name>/u/Low-Discussion3332</name>
+      <uri>https://old.reddit.com/user/Low-Discussion3332</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1rpn3fx/nên_sử_dụng_hdd_35_rời_nguyên_khối_hay_combo_box/"&gt; &lt;img alt="Nên sử dụng HDD 3,5 rời nguyên khối hay combo Box + HDD 3,5?" src="https://preview.redd.it/lhu1k65n85og1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ec454190e7456fffea268a59314a926c2bf37418" title="Nên sử dụng HDD 3,5 rời nguyên khối hay combo Box + HDD 3,5?" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tính hình là mình tính mua ổ HDD cho việc lưu trữ dữ liệu ít dùng đến. Thì mình đang có 2 phương án là mua 1 chiếc HDD 3,5 inch nguyên khối (dòng WD My Book) và mua combo Hộp + HDD (Box Orico + HDD WD).&lt;/p&gt; &lt;p&gt;Mình muốn ưu tiên về độ bền, khả năng khôi phục và tốc độ truyền dữ liệu (không cần quá nhanh, đủ full hiệu suất của chiếc ổ cứng là được)&lt;/p&gt; &lt;p&gt;Dạ bác nèo có kinh nghiệm trong chuyện cho mình xin ý kiến với ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Low-Discussion3332"&gt; /u/Low-Discussion3332 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/lhu1k65n85og1.png"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rpn3fx/nên_sử_dụng_hdd_35_rời_nguyên_khối_hay_combo_box/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rpn3fx/nên_sử_dụng_hdd_35_rời_nguyên_khối_hay_combo_box/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-10T04:16:48+00:00</published>
   </entry>
   <entry>
     <id>t3_1rpkcp1</id>
@@ -292,6 +279,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1rplb6j/tình_yêu_tình_báo/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-03-10T02:53:03+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1rppz3i</id>
+    <title>Các bác nghĩ sao về việc 28 tuổi chưa bao giờ thật sự có nỗi 1 mảnh tình vắt vai</title>
+    <updated>2026-03-10T07:00:36+00:00</updated>
+    <author>
+      <name>/u/Intelligent_Book4184</name>
+      <uri>https://old.reddit.com/user/Intelligent_Book4184</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác,&lt;/p&gt; &lt;p&gt;Không biết ở đây có ai rơi vào hoàn cảnh giống em không. Năm nay em 28 tuổi, cái tuổi mà người ta thường nói là đã đủ chín chắn để có một mối quan hệ nghiêm túc. Vậy mà nhìn lại chuyện tình cảm của mình, em chỉ thấy… hơi buồn và cũng hơi nản.&lt;/p&gt; &lt;p&gt;E không phải kiểu đẹp trai nổi bật, nhưng cũng không đến mức xấu. Những người e quen trước giờ cũng chỉ có ngoại hình bình thường thôi. Cách ăn nói của e cũng ở mức bình thường, không đến nỗi kém duyên, còn sự quan tâm chân thành thì e nghĩ bản thân luôn có rất nhiều.&lt;/p&gt; &lt;p&gt;Từ trước đến giờ em quen 3 người, nhưng tất cả đều chỉ dừng lại ở mức làm quen, tìm hiểu, mà mỗi người cũng chỉ kéo dài khoảng hai tuần rồi lại dừng.&lt;/p&gt; &lt;p&gt;Người thứ nhất và người thứ hai thì phần lớn chỉ nhắn tin rủ em đi ăn, đi chơi. Ban đầu em cũng nghĩ chắc là họ muốn tìm hiểu thật lòng nên mới dành thời gian gặp gỡ. Nhưng dần dần em nhận ra mọi thứ chỉ xoay quanh những buổi đi chơi cho vui, chứ chẳng có sự quan tâm hay nghiêm túc gì cả. Cảm giác giống như mình chỉ là người để họ có bạn đi cùng cho đỡ buồn, vậy thôi.&lt;/p&gt; &lt;p&gt;Còn người thứ ba thì… đơn giản hơn. Sau một thời gian nói chuyện, em nhận ra người ta không thích mình.&lt;/p&gt; &lt;p&gt;Thế là hết.&lt;/p&gt; &lt;p&gt;Ba lần làm quen, ba lần kết thúc chóng vánh, mà lần nào cũng chỉ vỏn vẹn hai tuần. Nhiều lúc em tự hỏi không biết do mình kém duyên, do mình chưa đủ tốt, hay chỉ là mình chưa gặp đúng người.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Intelligent_Book4184"&gt; /u/Intelligent_Book4184 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rppz3i/các_bác_nghĩ_sao_về_việc_28_tuổi_chưa_bao_giờ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rppz3i/các_bác_nghĩ_sao_về_việc_28_tuổi_chưa_bao_giờ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rppz3i/các_bác_nghĩ_sao_về_việc_28_tuổi_chưa_bao_giờ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-10T07:00:36+00:00</published>
   </entry>
   <entry>
     <id>t3_1rpokwk</id>
