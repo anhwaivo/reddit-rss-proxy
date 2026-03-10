@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-03-10T19:51:37+00:00</updated>
+  <updated>2026-03-10T20:32:40+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -47,19 +47,6 @@
     <published>2026-03-10T16:13:45+00:00</published>
   </entry>
   <entry>
-    <id>t3_1rpn3fx</id>
-    <title>Nên sử dụng HDD 3,5 rời nguyên khối hay combo Box + HDD 3,5?</title>
-    <updated>2026-03-10T04:16:48+00:00</updated>
-    <author>
-      <name>/u/Low-Discussion3332</name>
-      <uri>https://old.reddit.com/user/Low-Discussion3332</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1rpn3fx/nên_sử_dụng_hdd_35_rời_nguyên_khối_hay_combo_box/"&gt; &lt;img alt="Nên sử dụng HDD 3,5 rời nguyên khối hay combo Box + HDD 3,5?" src="https://preview.redd.it/lhu1k65n85og1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ec454190e7456fffea268a59314a926c2bf37418" title="Nên sử dụng HDD 3,5 rời nguyên khối hay combo Box + HDD 3,5?" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tính hình là mình tính mua ổ HDD cho việc lưu trữ dữ liệu ít dùng đến. Thì mình đang có 2 phương án là mua 1 chiếc HDD 3,5 inch nguyên khối (dòng WD My Book) và mua combo Hộp + HDD (Box Orico + HDD WD).&lt;/p&gt; &lt;p&gt;Mình muốn ưu tiên về độ bền, khả năng khôi phục và tốc độ truyền dữ liệu (không cần quá nhanh, đủ full hiệu suất của chiếc ổ cứng là được)&lt;/p&gt; &lt;p&gt;Dạ bác nèo có kinh nghiệm trong chuyện cho mình xin ý kiến với ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Low-Discussion3332"&gt; /u/Low-Discussion3332 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/lhu1k65n85og1.png"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rpn3fx/nên_sử_dụng_hdd_35_rời_nguyên_khối_hay_combo_box/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rpn3fx/nên_sử_dụng_hdd_35_rời_nguyên_khối_hay_combo_box/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-10T04:16:48+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1rpr2pu</id>
     <title>Nệm Cao Su Non Thắng Lợi Có Tốt Không?</title>
     <updated>2026-03-10T08:10:18+00:00</updated>
@@ -97,6 +84,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1rprdb2/khoa_học_máy_tính/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-03-10T08:29:49+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1rpn3fx</id>
+    <title>Nên sử dụng HDD 3,5 rời nguyên khối hay combo Box + HDD 3,5?</title>
+    <updated>2026-03-10T04:16:48+00:00</updated>
+    <author>
+      <name>/u/Low-Discussion3332</name>
+      <uri>https://old.reddit.com/user/Low-Discussion3332</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1rpn3fx/nên_sử_dụng_hdd_35_rời_nguyên_khối_hay_combo_box/"&gt; &lt;img alt="Nên sử dụng HDD 3,5 rời nguyên khối hay combo Box + HDD 3,5?" src="https://preview.redd.it/lhu1k65n85og1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ec454190e7456fffea268a59314a926c2bf37418" title="Nên sử dụng HDD 3,5 rời nguyên khối hay combo Box + HDD 3,5?" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tính hình là mình tính mua ổ HDD cho việc lưu trữ dữ liệu ít dùng đến. Thì mình đang có 2 phương án là mua 1 chiếc HDD 3,5 inch nguyên khối (dòng WD My Book) và mua combo Hộp + HDD (Box Orico + HDD WD).&lt;/p&gt; &lt;p&gt;Mình muốn ưu tiên về độ bền, khả năng khôi phục và tốc độ truyền dữ liệu (không cần quá nhanh, đủ full hiệu suất của chiếc ổ cứng là được)&lt;/p&gt; &lt;p&gt;Dạ bác nèo có kinh nghiệm trong chuyện cho mình xin ý kiến với ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Low-Discussion3332"&gt; /u/Low-Discussion3332 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/lhu1k65n85og1.png"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rpn3fx/nên_sử_dụng_hdd_35_rời_nguyên_khối_hay_combo_box/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rpn3fx/nên_sử_dụng_hdd_35_rời_nguyên_khối_hay_combo_box/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-10T04:16:48+00:00</published>
   </entry>
   <entry>
     <id>t3_1rpkcp1</id>
@@ -255,19 +255,6 @@
     <published>2026-03-10T09:16:23+00:00</published>
   </entry>
   <entry>
-    <id>t3_1rq2nmi</id>
-    <title>Giờ này ai còn thức nói chuyện khônggg??</title>
-    <updated>2026-03-10T17:05:29+00:00</updated>
-    <author>
-      <name>/u/nooory_</name>
-      <uri>https://old.reddit.com/user/nooory_</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Ai chưa ngủ nói chuyện một lúc không ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/nooory_"&gt; /u/nooory_ &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rq2nmi/giờ_này_ai_còn_thức_nói_chuyện_khônggg/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rq2nmi/giờ_này_ai_còn_thức_nói_chuyện_khônggg/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rq2nmi/giờ_này_ai_còn_thức_nói_chuyện_khônggg/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-10T17:05:29+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1rpokwk</id>
     <title>Donate Quà Giá Trị Lớn cho IDOL là Lãng Phí &amp; Không cần thiết</title>
     <updated>2026-03-10T05:38:08+00:00</updated>
@@ -279,6 +266,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1rpokwk/donate_quà_giá_trị_lớn_cho_idol_là_lãng_phí_không/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-03-10T05:38:08+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1rq2nmi</id>
+    <title>Giờ này ai còn thức nói chuyện khônggg??</title>
+    <updated>2026-03-10T17:05:29+00:00</updated>
+    <author>
+      <name>/u/nooory_</name>
+      <uri>https://old.reddit.com/user/nooory_</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Ai chưa ngủ nói chuyện một lúc không ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/nooory_"&gt; /u/nooory_ &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rq2nmi/giờ_này_ai_còn_thức_nói_chuyện_khônggg/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rq2nmi/giờ_này_ai_còn_thức_nói_chuyện_khônggg/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rq2nmi/giờ_này_ai_còn_thức_nói_chuyện_khônggg/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-10T17:05:29+00:00</published>
   </entry>
   <entry>
     <id>t3_1rq4dat</id>
