@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-03-12T21:05:19+00:00</updated>
+  <updated>2026-03-12T21:48:16+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -164,19 +164,6 @@
     <published>2026-03-12T10:51:29+00:00</published>
   </entry>
   <entry>
-    <id>t3_1rrmmet</id>
-    <title>Thời buổi kinh tế khó khăn như này các bác làm gì để có khoản dự phòng phòng khi k có thu nhập v ạ?</title>
-    <updated>2026-03-12T10:02:21+00:00</updated>
-    <author>
-      <name>/u/Ok-Condition2127</name>
-      <uri>https://old.reddit.com/user/Ok-Condition2127</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em thấy tầm tuổi em bây giờ mọi ng bị layoff nhiều quá nên bắt đầu lo lắng. Trước giờ đi làm có dư thì em gửi mẹ cầm hộ. Dạo gần đây cày thêm 1 job dư dả hơn thì tự tích cóp mua vàng với có khoản đầu tư chứng chỉ quỹ dành ra được cỡ 50 triệu r. Mong được nghe thêm chia sẻ từ mọi người&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ok-Condition2127"&gt; /u/Ok-Condition2127 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rrmmet/thời_buổi_kinh_tế_khó_khăn_như_này_các_bác_làm_gì/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rrmmet/thời_buổi_kinh_tế_khó_khăn_như_này_các_bác_làm_gì/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rrmmet/thời_buổi_kinh_tế_khó_khăn_như_này_các_bác_làm_gì/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-12T10:02:21+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1rrwnnj</id>
     <title>Hydrochromic</title>
     <updated>2026-03-12T17:10:03+00:00</updated>
@@ -201,6 +188,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1rrcicj/cách_tán_em_hàng_xóm_gần_nhà/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-03-12T00:59:22+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1rrmmet</id>
+    <title>Thời buổi kinh tế khó khăn như này các bác làm gì để có khoản dự phòng phòng khi k có thu nhập v ạ?</title>
+    <updated>2026-03-12T10:02:21+00:00</updated>
+    <author>
+      <name>/u/Ok-Condition2127</name>
+      <uri>https://old.reddit.com/user/Ok-Condition2127</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em thấy tầm tuổi em bây giờ mọi ng bị layoff nhiều quá nên bắt đầu lo lắng. Trước giờ đi làm có dư thì em gửi mẹ cầm hộ. Dạo gần đây cày thêm 1 job dư dả hơn thì tự tích cóp mua vàng với có khoản đầu tư chứng chỉ quỹ dành ra được cỡ 50 triệu r. Mong được nghe thêm chia sẻ từ mọi người&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ok-Condition2127"&gt; /u/Ok-Condition2127 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rrmmet/thời_buổi_kinh_tế_khó_khăn_như_này_các_bác_làm_gì/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rrmmet/thời_buổi_kinh_tế_khó_khăn_như_này_các_bác_làm_gì/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rrmmet/thời_buổi_kinh_tế_khó_khăn_như_này_các_bác_làm_gì/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-12T10:02:21+00:00</published>
   </entry>
   <entry>
     <id>t3_1rrp87c</id>
