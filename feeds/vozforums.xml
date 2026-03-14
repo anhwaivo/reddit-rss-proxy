@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-03-14T22:25:03+00:00</updated>
+  <updated>2026-03-14T22:52:24+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -58,19 +58,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1rtdhki/lí_do_dẫn_đến_shadow_it_ở_một_số_công_ty/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-03-14T07:52:02+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1rtl6xq</id>
-    <title>ngành nghề gì mà đáng nếu mình thật sự bỏ ra công sức</title>
-    <updated>2026-03-14T14:43:03+00:00</updated>
-    <author>
-      <name>/u/ExplorerFuture3109</name>
-      <uri>https://old.reddit.com/user/ExplorerFuture3109</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;cháu nghe IT chỉ đc lúc trẻ còn hơi về già thì chênh vênh, nên cháu muốn hỏi ngành gì mà liên quan đến kinh tế hay kĩ thuật. Kiểu gừng càng già càng cay ấy ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ExplorerFuture3109"&gt; /u/ExplorerFuture3109 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rtl6xq/ngành_nghề_gì_mà_đáng_nếu_mình_thật_sự_bỏ_ra_công/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rtl6xq/ngành_nghề_gì_mà_đáng_nếu_mình_thật_sự_bỏ_ra_công/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rtl6xq/ngành_nghề_gì_mà_đáng_nếu_mình_thật_sự_bỏ_ra_công/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-14T14:43:03+00:00</published>
   </entry>
   <entry>
     <id>t3_1rtleiz</id>
@@ -149,6 +136,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1rtkm2u/cac_bac_cho_e_hoi_nêu_tương_lai_minh_la_luât_sư/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-03-14T14:18:43+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1rtl6xq</id>
+    <title>ngành nghề gì mà đáng nếu mình thật sự bỏ ra công sức</title>
+    <updated>2026-03-14T14:43:03+00:00</updated>
+    <author>
+      <name>/u/ExplorerFuture3109</name>
+      <uri>https://old.reddit.com/user/ExplorerFuture3109</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;cháu nghe IT chỉ đc lúc trẻ còn hơi về già thì chênh vênh, nên cháu muốn hỏi ngành gì mà liên quan đến kinh tế hay kĩ thuật. Kiểu gừng càng già càng cay ấy ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ExplorerFuture3109"&gt; /u/ExplorerFuture3109 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rtl6xq/ngành_nghề_gì_mà_đáng_nếu_mình_thật_sự_bỏ_ra_công/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rtl6xq/ngành_nghề_gì_mà_đáng_nếu_mình_thật_sự_bỏ_ra_công/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rtl6xq/ngành_nghề_gì_mà_đáng_nếu_mình_thật_sự_bỏ_ra_công/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-14T14:43:03+00:00</published>
   </entry>
   <entry>
     <id>t3_1rtj7h5</id>
