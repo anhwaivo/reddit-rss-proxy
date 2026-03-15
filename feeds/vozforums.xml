@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-03-15T11:38:44+00:00</updated>
+  <updated>2026-03-15T11:57:06+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1ru8za7</id>
-    <title>E muốn hỏi tips mua xe điện cũ của các bác để không bị bịp ?</title>
-    <updated>2026-03-15T08:44:07+00:00</updated>
-    <author>
-      <name>/u/tin11845</name>
-      <uri>https://old.reddit.com/user/tin11845</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Khi các b mua xe cũ thì chú ý những điều gì để khi mua đáng với số tiền mình đã bỏ ra ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/tin11845"&gt; /u/tin11845 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ru8za7/e_muốn_hỏi_tips_mua_xe_điện_cũ_của_các_bác_để/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ru8za7/e_muốn_hỏi_tips_mua_xe_điện_cũ_của_các_bác_để/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ru8za7/e_muốn_hỏi_tips_mua_xe_điện_cũ_của_các_bác_để/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-15T08:44:07+00:00</published>
-  </entry>
   <entry>
     <id>t3_1ru3ldx</id>
     <title>Thấy buồn</title>
@@ -112,19 +99,6 @@
     <published>2026-03-14T05:04:14+00:00</published>
   </entry>
   <entry>
-    <id>t3_1rub9w0</id>
-    <title>Mấy bạn nào đi chơi bạn bè cả ngày lẫn đêm thường chơi cái gì ấy nhỉ</title>
-    <updated>2026-03-15T11:05:22+00:00</updated>
-    <author>
-      <name>/u/These-Cost-905</name>
-      <uri>https://old.reddit.com/user/These-Cost-905</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Nói chung mình không có bạn bè, nãy đi mua phở thấy bà kia nói con nhỏ kia đi chơi với bạn nó cả ngày lẫn đêm ban đêm mới về &lt;/p&gt; &lt;p&gt;Nói chung mình không có bạn bè để đi chơi các bạn chơi với bạn bè làm gì cả ngày lẫn đêm thế nhỉ, không biết các bạn thường hay chơi cái gì ? Mà lâu thế ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/These-Cost-905"&gt; /u/These-Cost-905 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rub9w0/mấy_bạn_nào_đi_chơi_bạn_bè_cả_ngày_lẫn_đêm_thường/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rub9w0/mấy_bạn_nào_đi_chơi_bạn_bè_cả_ngày_lẫn_đêm_thường/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rub9w0/mấy_bạn_nào_đi_chơi_bạn_bè_cả_ngày_lẫn_đêm_thường/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-15T11:05:22+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1rubnv4</id>
     <title>Ở SG muốn mua vàng thì mua ở đâu</title>
     <updated>2026-03-15T11:27:05+00:00</updated>
@@ -190,6 +164,19 @@
     <published>2026-03-15T10:51:26+00:00</published>
   </entry>
   <entry>
+    <id>t3_1rub9w0</id>
+    <title>Mấy bạn nào đi chơi bạn bè cả ngày lẫn đêm thường chơi cái gì ấy nhỉ</title>
+    <updated>2026-03-15T11:05:22+00:00</updated>
+    <author>
+      <name>/u/These-Cost-905</name>
+      <uri>https://old.reddit.com/user/These-Cost-905</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Nói chung mình không có bạn bè, nãy đi mua phở thấy bà kia nói con nhỏ kia đi chơi với bạn nó cả ngày lẫn đêm ban đêm mới về &lt;/p&gt; &lt;p&gt;Nói chung mình không có bạn bè để đi chơi các bạn chơi với bạn bè làm gì cả ngày lẫn đêm thế nhỉ, không biết các bạn thường hay chơi cái gì ? Mà lâu thế ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/These-Cost-905"&gt; /u/These-Cost-905 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rub9w0/mấy_bạn_nào_đi_chơi_bạn_bè_cả_ngày_lẫn_đêm_thường/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rub9w0/mấy_bạn_nào_đi_chơi_bạn_bè_cả_ngày_lẫn_đêm_thường/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rub9w0/mấy_bạn_nào_đi_chơi_bạn_bè_cả_ngày_lẫn_đêm_thường/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-15T11:05:22+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1rubc7v</id>
     <title>Tuổi 23: Chọn công việc ổn định ở quê hay lên thành phố đầu tư cho tương lai</title>
     <updated>2026-03-15T11:09:05+00:00</updated>
@@ -203,17 +190,17 @@
     <published>2026-03-15T11:09:05+00:00</published>
   </entry>
   <entry>
-    <id>t3_1rubp43</id>
-    <title>Kẻ thất bại, muốn thành công</title>
-    <updated>2026-03-15T11:29:05+00:00</updated>
+    <id>t3_1ruc2pa</id>
+    <title>mọi người nghĩ sao khi mới cấp 3 mà đi làm nail, tóc các thứ . mình ủng hộ e mình,mà bố mẹ mình k thích việc này.</title>
+    <updated>2026-03-15T11:50:21+00:00</updated>
     <author>
-      <name>/u/thangtoiyeuem</name>
-      <uri>https://old.reddit.com/user/thangtoiyeuem</uri>
+      <name>/u/Pupd-k2p</name>
+      <uri>https://old.reddit.com/user/Pupd-k2p</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mn, e sắp 24M, làm IT đc 3 năm. Từ lúc lên đh e đầu tư vào cái ngành này gần như 100% thời gian, trộm vía vô đc cty lớn, lương 18tr nhàn nhưng ít cơ hội phát triển.&lt;/p&gt; &lt;p&gt;Nghe thì ổn với 1 đứa mới bước vào đời. Nhưng không! Em thấy mình bị vô cảm, trầm cảm, tự ti về bản thân. 1 năm trở lại, e k còn thực sự hứng thú với thứ gì, suốt ngày chỉ đi làm, về nhà rồi mở lap gõ gõ, thành ra EQ thấp, hướng nội, ít bạn. Gần như k có kỹ năng hay tài lẻ nào.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Em kệ&lt;/strong&gt;, có tiền là mọi vấn đề sẽ đc giải quyết 🙏. Và thế là mục tiêu networth 1 tỷ ra đời. Mỗi tháng e dành ra đc ~12tr, với tốc độ này thì rất lâu mới đạt được mục tiêu, hơn hết thì ngành IT đang downtrend, nên e cũng ok với việc tìm hiểu thêm mảng khác (có thể vận dụng kiến thức IT để phát triển thêm phòng hờ thất nghiệp)&lt;/p&gt; &lt;p&gt;Nên e xin phép nhờ mn tư vấn nên làm gì, đầu tư gì để bản thân không hối hận ạ. E cảm ơn mn nhiều ❤️&lt;/p&gt; &lt;p&gt;Hiện tại e có hơn 120-150tr (tiền tươi + đầu tư crypto + tiêu sản). &lt;/p&gt; &lt;p&gt;P/s: Đây k phải post khoe do những gì e làm đc so với ngta chẳng là gì hết, với em bị &lt;strong&gt;peer pressure&lt;/strong&gt; nặng ạ 🙏&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/thangtoiyeuem"&gt; /u/thangtoiyeuem &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rubp43/kẻ_thất_bại_muốn_thành_công/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rubp43/kẻ_thất_bại_muốn_thành_công/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rubp43/kẻ_thất_bại_muốn_thành_công/"/>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Pupd-k2p"&gt; /u/Pupd-k2p &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ruc2pa/mọi_người_nghĩ_sao_khi_mới_cấp_3_mà_đi_làm_nail/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ruc2pa/mọi_người_nghĩ_sao_khi_mới_cấp_3_mà_đi_làm_nail/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ruc2pa/mọi_người_nghĩ_sao_khi_mới_cấp_3_mà_đi_làm_nail/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-15T11:29:05+00:00</published>
+    <published>2026-03-15T11:50:21+00:00</published>
   </entry>
   <entry>
     <id>t3_1ruaafu</id>
@@ -292,6 +279,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1rua4f6/25_tuổi_và_chưa_từng_có_bồ/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-03-15T09:55:43+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1rubp43</id>
+    <title>Kẻ thất bại, muốn thành công</title>
+    <updated>2026-03-15T11:29:05+00:00</updated>
+    <author>
+      <name>/u/thangtoiyeuem</name>
+      <uri>https://old.reddit.com/user/thangtoiyeuem</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mn, e sắp 24M, làm IT đc 3 năm. Từ lúc lên đh e đầu tư vào cái ngành này gần như 100% thời gian, trộm vía vô đc cty lớn, lương 18tr nhàn nhưng ít cơ hội phát triển.&lt;/p&gt; &lt;p&gt;Nghe thì ổn với 1 đứa mới bước vào đời. Nhưng không! Em thấy mình bị vô cảm, trầm cảm, tự ti về bản thân. 1 năm trở lại, e k còn thực sự hứng thú với thứ gì, suốt ngày chỉ đi làm, về nhà rồi mở lap gõ gõ, thành ra EQ thấp, hướng nội, ít bạn. Gần như k có kỹ năng hay tài lẻ nào.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Em kệ&lt;/strong&gt;, có tiền là mọi vấn đề sẽ đc giải quyết 🙏. Và thế là mục tiêu networth 1 tỷ ra đời. Mỗi tháng e dành ra đc ~12tr, với tốc độ này thì rất lâu mới đạt được mục tiêu, hơn hết thì ngành IT đang downtrend, nên e cũng ok với việc tìm hiểu thêm mảng khác (có thể vận dụng kiến thức IT để phát triển thêm phòng hờ thất nghiệp)&lt;/p&gt; &lt;p&gt;Nên e xin phép nhờ mn tư vấn nên làm gì, đầu tư gì để bản thân không hối hận ạ. E cảm ơn mn nhiều ❤️&lt;/p&gt; &lt;p&gt;Hiện tại e có hơn 120-150tr (tiền tươi + đầu tư crypto + tiêu sản). &lt;/p&gt; &lt;p&gt;P/s: Đây k phải post khoe do những gì e làm đc so với ngta chẳng là gì hết, với em bị &lt;strong&gt;peer pressure&lt;/strong&gt; nặng ạ 🙏&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/thangtoiyeuem"&gt; /u/thangtoiyeuem &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rubp43/kẻ_thất_bại_muốn_thành_công/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rubp43/kẻ_thất_bại_muốn_thành_công/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rubp43/kẻ_thất_bại_muốn_thành_công/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-15T11:29:05+00:00</published>
   </entry>
   <entry>
     <id>t3_1ru8x4z</id>
