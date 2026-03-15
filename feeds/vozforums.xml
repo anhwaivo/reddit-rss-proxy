@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-03-15T15:33:52+00:00</updated>
+  <updated>2026-03-15T15:59:08+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1ru7vpw</id>
-    <title>Beta ung văn khiêm lừa đảo???</title>
-    <updated>2026-03-15T07:33:55+00:00</updated>
-    <author>
-      <name>/u/cle1anh</name>
-      <uri>https://old.reddit.com/user/cle1anh</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là em đặt vé xem phim của beta, nhưng mà tới sát ngày coi thì nhân viên bên đó gọi điện phòng chiếu bị lỗi, sẽ hoàn tiền lại cho em, hứa là 5-7 ngày để hoàn lại tiền. Nhưng đến hôm nay là ngày thứ 10 nhưng em nhắn tin lại hỏi thì không ai bên đó trả lời. chẳng khác nào lừa đảo&lt;/p&gt; &lt;p&gt;Em không muốn mất tiền một cách nhảm nhí như vậy. Mọi người cho em hướng xử lý với ạ, chứ nhắn tin không ăn thua&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/cle1anh"&gt; /u/cle1anh &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ru7vpw/beta_ung_văn_khiêm_lừa_đảo/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ru7vpw/beta_ung_văn_khiêm_lừa_đảo/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ru7vpw/beta_ung_văn_khiêm_lừa_đảo/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-15T07:33:55+00:00</published>
-  </entry>
   <entry>
     <id>t3_1ruefr7</id>
     <title>tư vấn ngành khoa học máy tính</title>
@@ -112,19 +99,6 @@
     <published>2026-03-15T05:12:42+00:00</published>
   </entry>
   <entry>
-    <id>t3_1rugicz</id>
-    <title>Check giá build PC</title>
-    <updated>2026-03-15T15:11:01+00:00</updated>
-    <author>
-      <name>/u/PnkRabbit6322</name>
-      <uri>https://old.reddit.com/user/PnkRabbit6322</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1rugicz/check_giá_build_pc/"&gt; &lt;img alt="Check giá build PC" src="https://preview.redd.it/a5l1lku368pg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=b5b9412c993b65ff22dcd2e9c6771172aa37e252" title="Check giá build PC" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mọi người cho mình hỏi là cấu hình PC này giá như thế này chuẩn chưa nhỉ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/PnkRabbit6322"&gt; /u/PnkRabbit6322 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/a5l1lku368pg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rugicz/check_giá_build_pc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rugicz/check_giá_build_pc/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-15T15:11:01+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1rugin7</id>
     <title>30 tuổi</title>
     <updated>2026-03-15T15:11:20+00:00</updated>
@@ -138,17 +112,30 @@
     <published>2026-03-15T15:11:20+00:00</published>
   </entry>
   <entry>
-    <id>t3_1rugm5a</id>
-    <title>Tìm bạn trai nghiêm túc lâu dài</title>
-    <updated>2026-03-15T15:15:15+00:00</updated>
+    <id>t3_1ruh9jp</id>
+    <title>Ủa</title>
+    <updated>2026-03-15T15:40:38+00:00</updated>
     <author>
       <name>/u/No_Start_480</name>
       <uri>https://old.reddit.com/user/No_Start_480</uri>
     </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/No_Start_480"&gt; /u/No_Start_480 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rugm5a/tìm_bạn_trai_nghiêm_túc_lâu_dài/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rugm5a/tìm_bạn_trai_nghiêm_túc_lâu_dài/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rugm5a/tìm_bạn_trai_nghiêm_túc_lâu_dài/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Ủa sao chứng khoán bắt buộc trên 18 tuổi mới được chơi nhưng mình thấy có nhiều đứa 17 tuổi đã chơi được rồi, whyyyy??&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/No_Start_480"&gt; /u/No_Start_480 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ruh9jp/ủa/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ruh9jp/ủa/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ruh9jp/ủa/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-15T15:15:15+00:00</published>
+    <published>2026-03-15T15:40:38+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ruhmg0</id>
+    <title>Các bác có thể cho em hỏi là mình cận thì có được hoãn dân quân tự vệ hay là nghĩa vụ công an được ko ạ? Em cám ơn nhiều ạ</title>
+    <updated>2026-03-15T15:54:35+00:00</updated>
+    <author>
+      <name>/u/EfficientResource819</name>
+      <uri>https://old.reddit.com/user/EfficientResource819</uri>
+    </author>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/EfficientResource819"&gt; /u/EfficientResource819 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ruhmg0/cac_bac_co_thê_cho_em_hoi_la_minh_cân_thi_co_đươc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ruhmg0/cac_bac_co_thê_cho_em_hoi_la_minh_cân_thi_co_đươc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ruhmg0/cac_bac_co_thê_cho_em_hoi_la_minh_cân_thi_co_đươc/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-15T15:54:35+00:00</published>
   </entry>
   <entry>
     <id>t3_1rub9w0</id>
@@ -229,6 +216,32 @@
     <published>2026-03-15T04:40:32+00:00</published>
   </entry>
   <entry>
+    <id>t3_1rugicz</id>
+    <title>Check giá build PC</title>
+    <updated>2026-03-15T15:11:01+00:00</updated>
+    <author>
+      <name>/u/PnkRabbit6322</name>
+      <uri>https://old.reddit.com/user/PnkRabbit6322</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1rugicz/check_giá_build_pc/"&gt; &lt;img alt="Check giá build PC" src="https://preview.redd.it/a5l1lku368pg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=b5b9412c993b65ff22dcd2e9c6771172aa37e252" title="Check giá build PC" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mọi người cho mình hỏi là cấu hình PC này giá như thế này chuẩn chưa nhỉ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/PnkRabbit6322"&gt; /u/PnkRabbit6322 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/a5l1lku368pg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rugicz/check_giá_build_pc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rugicz/check_giá_build_pc/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-15T15:11:01+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ruc2pa</id>
+    <title>mọi người nghĩ sao khi mới cấp 3 mà đi làm nail, tóc các thứ . mình ủng hộ e mình,mà bố mẹ mình k thích việc này.</title>
+    <updated>2026-03-15T11:50:21+00:00</updated>
+    <author>
+      <name>/u/Pupd-k2p</name>
+      <uri>https://old.reddit.com/user/Pupd-k2p</uri>
+    </author>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Pupd-k2p"&gt; /u/Pupd-k2p &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ruc2pa/mọi_người_nghĩ_sao_khi_mới_cấp_3_mà_đi_làm_nail/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ruc2pa/mọi_người_nghĩ_sao_khi_mới_cấp_3_mà_đi_làm_nail/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ruc2pa/mọi_người_nghĩ_sao_khi_mới_cấp_3_mà_đi_làm_nail/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-15T11:50:21+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1rufyhw</id>
     <title>Mọi người dùng máy tàu xách tay có bị khoá tk ngân hàng k ạ?</title>
     <updated>2026-03-15T14:49:20+00:00</updated>
@@ -253,19 +266,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1rufz05/từ_khi_ai_ra_đời_thì_nó_có_thực_sự_ảnh_hưởng_đến/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-03-15T14:49:53+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1ruc2pa</id>
-    <title>mọi người nghĩ sao khi mới cấp 3 mà đi làm nail, tóc các thứ . mình ủng hộ e mình,mà bố mẹ mình k thích việc này.</title>
-    <updated>2026-03-15T11:50:21+00:00</updated>
-    <author>
-      <name>/u/Pupd-k2p</name>
-      <uri>https://old.reddit.com/user/Pupd-k2p</uri>
-    </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Pupd-k2p"&gt; /u/Pupd-k2p &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ruc2pa/mọi_người_nghĩ_sao_khi_mới_cấp_3_mà_đi_làm_nail/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ruc2pa/mọi_người_nghĩ_sao_khi_mới_cấp_3_mà_đi_làm_nail/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ruc2pa/mọi_người_nghĩ_sao_khi_mới_cấp_3_mà_đi_làm_nail/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-15T11:50:21+00:00</published>
   </entry>
   <entry>
     <id>t3_1ru5y8p</id>
