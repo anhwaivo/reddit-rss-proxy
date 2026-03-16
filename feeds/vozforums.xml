@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-03-16T23:01:46+00:00</updated>
+  <updated>2026-03-16T23:43:23+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -110,19 +110,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1rvmoui/có_ai_trong_này_bị_mất_ngủ_k_và_cảm_giác_như_thế/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-03-16T21:21:50+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1rvn0uk</id>
-    <title>Thịt ở nước ngoài có mùi nặng so với ở Việt Nam</title>
-    <updated>2026-03-16T21:34:01+00:00</updated>
-    <author>
-      <name>/u/Educational_Range640</name>
-      <uri>https://old.reddit.com/user/Educational_Range640</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mọi người ở đây có ai đi học/làm ở nước ngoài, đặc biệt là ở Mỹ, cảm thấy thịt ở bên đây bị có mùi nặng hơn ở nhà không ạ?&lt;/p&gt; &lt;p&gt;Em đã mua thử thịt từ cắt lát sẵn bỏ vào khay ở siêu thị (các phân khúc từ bình dân đến cao cấp hơn như Whole Foods) rồi farmers’ market đều bị như thế. Thịt heo thì có mùi nặng hơn hoặc nhiều nơi bị hôi ý. Còn thịt gà thì tanh, kiểu mùi gia cầm. Siêu điên ý, đến thịt gà là thịt đơn giản nhất cũng k chịu được. Em có ở Châu Âu vài năm cũng bị tình trạng này với thịt heo, còn gà ok.&lt;/p&gt; &lt;p&gt;Em cũng thử đủ các phương pháp sơ chế rửa rượu, trà, giấm, chang, muối etc etc nhma vẫn k ăn thua.&lt;/p&gt; &lt;p&gt;Em đi ăn ở ngoài thì mùi có đỡ hơn tí chắc ngta nêm khéo hơn, nhma vẫn thoang thoảng.&lt;/p&gt; &lt;p&gt;Ở nhà em không kén tí nào thịt gì cũng ăn được. Thịt heo ở nhà chỉ rửa sơ qua nước xong luộc với lát gừng/hành em cũng ăn luôn được. Em hay thấy video mọi người Việt ở nước ngoài nấu đồ Việt kiểu gỏi cuốn, bún chả etc dùng thịt heo mà ganh tị ghê, tại em cứ bị ngửi thấy mùi.&lt;/p&gt; &lt;p&gt;Em lên đây hỏi mong có ai cũng người Việt sống ở VN nhiều năm xong qua Mỹ/Châu Âu cảm thấy như vậy không ạ? Em giải thích cho các bạn em bên này kiểu không ai hiểu 😃.&lt;/p&gt; &lt;p&gt;Không biết do khẩu vị em bị quen thịt ở nhà hay do thịt ở VN thật sự tốt hơn v ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Educational_Range640"&gt; /u/Educational_Range640 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rvn0uk/thịt_ở_nước_ngoài_có_mùi_nặng_so_với_ở_việt_nam/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rvn0uk/thịt_ở_nước_ngoài_có_mùi_nặng_so_với_ở_việt_nam/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rvn0uk/thịt_ở_nước_ngoài_có_mùi_nặng_so_với_ở_việt_nam/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-16T21:34:01+00:00</published>
   </entry>
   <entry>
     <id>t3_1rvcxqh</id>
@@ -279,6 +266,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1rv68l2/con_gái_có_phải_là_sinh_vật_khó_hiểu/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-03-16T10:55:05+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1rvn0uk</id>
+    <title>Thịt ở nước ngoài có mùi nặng so với ở Việt Nam</title>
+    <updated>2026-03-16T21:34:01+00:00</updated>
+    <author>
+      <name>/u/Educational_Range640</name>
+      <uri>https://old.reddit.com/user/Educational_Range640</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mọi người ở đây có ai đi học/làm ở nước ngoài, đặc biệt là ở Mỹ, cảm thấy thịt ở bên đây bị có mùi nặng hơn ở nhà không ạ?&lt;/p&gt; &lt;p&gt;Em đã mua thử thịt từ cắt lát sẵn bỏ vào khay ở siêu thị (các phân khúc từ bình dân đến cao cấp hơn như Whole Foods) rồi farmers’ market đều bị như thế. Thịt heo thì có mùi nặng hơn hoặc nhiều nơi bị hôi ý. Còn thịt gà thì tanh, kiểu mùi gia cầm. Siêu điên ý, đến thịt gà là thịt đơn giản nhất cũng k chịu được. Em có ở Châu Âu vài năm cũng bị tình trạng này với thịt heo, còn gà ok.&lt;/p&gt; &lt;p&gt;Em cũng thử đủ các phương pháp sơ chế rửa rượu, trà, giấm, chang, muối etc etc nhma vẫn k ăn thua.&lt;/p&gt; &lt;p&gt;Em đi ăn ở ngoài thì mùi có đỡ hơn tí chắc ngta nêm khéo hơn, nhma vẫn thoang thoảng.&lt;/p&gt; &lt;p&gt;Ở nhà em không kén tí nào thịt gì cũng ăn được. Thịt heo ở nhà chỉ rửa sơ qua nước xong luộc với lát gừng/hành em cũng ăn luôn được. Em hay thấy video mọi người Việt ở nước ngoài nấu đồ Việt kiểu gỏi cuốn, bún chả etc dùng thịt heo mà ganh tị ghê, tại em cứ bị ngửi thấy mùi.&lt;/p&gt; &lt;p&gt;Em lên đây hỏi mong có ai cũng người Việt sống ở VN nhiều năm xong qua Mỹ/Châu Âu cảm thấy như vậy không ạ? Em giải thích cho các bạn em bên này kiểu không ai hiểu 😃.&lt;/p&gt; &lt;p&gt;Không biết do khẩu vị em bị quen thịt ở nhà hay do thịt ở VN thật sự tốt hơn v ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Educational_Range640"&gt; /u/Educational_Range640 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rvn0uk/thịt_ở_nước_ngoài_có_mùi_nặng_so_với_ở_việt_nam/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rvn0uk/thịt_ở_nước_ngoài_có_mùi_nặng_so_với_ở_việt_nam/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rvn0uk/thịt_ở_nước_ngoài_có_mùi_nặng_so_với_ở_việt_nam/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-16T21:34:01+00:00</published>
   </entry>
   <entry>
     <id>t3_1ruyng4</id>
