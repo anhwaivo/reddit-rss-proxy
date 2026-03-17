@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-03-17T19:57:41+00:00</updated>
+  <updated>2026-03-17T20:46:43+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -281,19 +281,6 @@
     <published>2026-03-17T09:14:33+00:00</published>
   </entry>
   <entry>
-    <id>t3_1rwcyje</id>
-    <title>Bước vào thị trường lao động nhìn khách hàng cứ như một bầy heo đói</title>
-    <updated>2026-03-17T17:21:32+00:00</updated>
-    <author>
-      <name>/u/Letmecookkki</name>
-      <uri>https://old.reddit.com/user/Letmecookkki</uri>
-    </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Letmecookkki"&gt; /u/Letmecookkki &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rwcyje/bước_vào_thị_trường_lao_động_nhìn_khách_hàng_cứ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rwcyje/bước_vào_thị_trường_lao_động_nhìn_khách_hàng_cứ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rwcyje/bước_vào_thị_trường_lao_động_nhìn_khách_hàng_cứ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-17T17:21:32+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1rw3dwn</id>
     <title>Tôi có phải một thằng tồi không mấy ông?</title>
     <updated>2026-03-17T11:02:15+00:00</updated>
@@ -305,6 +292,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1rw3dwn/tôi_có_phải_một_thằng_tồi_không_mấy_ông/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-03-17T11:02:15+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1rwcyje</id>
+    <title>Bước vào thị trường lao động nhìn khách hàng cứ như một bầy heo đói</title>
+    <updated>2026-03-17T17:21:32+00:00</updated>
+    <author>
+      <name>/u/Letmecookkki</name>
+      <uri>https://old.reddit.com/user/Letmecookkki</uri>
+    </author>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Letmecookkki"&gt; /u/Letmecookkki &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rwcyje/bước_vào_thị_trường_lao_động_nhìn_khách_hàng_cứ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rwcyje/bước_vào_thị_trường_lao_động_nhìn_khách_hàng_cứ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rwcyje/bước_vào_thị_trường_lao_động_nhìn_khách_hàng_cứ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-17T17:21:32+00:00</published>
   </entry>
   <entry>
     <id>t3_1rwd07w</id>
