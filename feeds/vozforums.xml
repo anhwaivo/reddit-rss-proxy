@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-03-18T23:42:02+00:00</updated>
+  <updated>2026-03-18T23:59:58+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -242,19 +242,6 @@
     <published>2026-03-18T03:50:26+00:00</published>
   </entry>
   <entry>
-    <id>t3_1rx1b1q</id>
-    <title>Lập trình viên mobile (làm solo tự do) còn có đất sống không?</title>
-    <updated>2026-03-18T11:29:14+00:00</updated>
-    <author>
-      <name>/u/TuHocSolidityCom</name>
-      <uri>https://old.reddit.com/user/TuHocSolidityCom</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;ul&gt; &lt;li&gt;&lt;strong&gt;App Store:&lt;/strong&gt; ~2.000 app mới/ngày.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Google Play:&lt;/strong&gt; ~1,600 app mới/ngày.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Tổng cộng:&lt;/strong&gt; Hơn 1,4 triệu app/game mới mỗi năm.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Thời đại AI, các công ty lớn, teams lớn sản xuất nhiều app mỗi ngày đẩy lên Store.&lt;br /&gt; Công Ty và các Teams lớn thì với ngân sách quảng cáo khổng lồ. App/Game mình làm ra chỉm nghỉm luôn. Nhiều game/app làm nhiều công sức mới xong mà toàn: 0 0 1 0 1 0 0 lượt tải mỗi tuần. Hết ngân sách quảng cáo là hết cài đặt. ASO các kiểu marketing miễn phí đều không có nhiều kết quả.&lt;br /&gt; Không biết có nhiều người bám trụ với nghề Lập trình viên mobile (làm solo tự do) như mình không nhỉ. &lt;/p&gt; &lt;p&gt;Rất mong các bác chia sẻ chút thành công để làm động lực. Cảm ơn các bác.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/TuHocSolidityCom"&gt; /u/TuHocSolidityCom &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rx1b1q/lập_trình_viên_mobile_làm_solo_tự_do_còn_có_đất/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rx1b1q/lập_trình_viên_mobile_làm_solo_tự_do_còn_có_đất/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rx1b1q/lập_trình_viên_mobile_làm_solo_tự_do_còn_có_đất/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-18T11:29:14+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1rxb8uq</id>
     <title>các bạn 8x9x có bị áp lực cuộc sống như mình không</title>
     <updated>2026-03-18T18:02:21+00:00</updated>
@@ -266,6 +253,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1rxb8uq/các_bạn_8x9x_có_bị_áp_lực_cuộc_sống_như_mình_không/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-03-18T18:02:21+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1rx1b1q</id>
+    <title>Lập trình viên mobile (làm solo tự do) còn có đất sống không?</title>
+    <updated>2026-03-18T11:29:14+00:00</updated>
+    <author>
+      <name>/u/TuHocSolidityCom</name>
+      <uri>https://old.reddit.com/user/TuHocSolidityCom</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;ul&gt; &lt;li&gt;&lt;strong&gt;App Store:&lt;/strong&gt; ~2.000 app mới/ngày.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Google Play:&lt;/strong&gt; ~1,600 app mới/ngày.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Tổng cộng:&lt;/strong&gt; Hơn 1,4 triệu app/game mới mỗi năm.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Thời đại AI, các công ty lớn, teams lớn sản xuất nhiều app mỗi ngày đẩy lên Store.&lt;br /&gt; Công Ty và các Teams lớn thì với ngân sách quảng cáo khổng lồ. App/Game mình làm ra chỉm nghỉm luôn. Nhiều game/app làm nhiều công sức mới xong mà toàn: 0 0 1 0 1 0 0 lượt tải mỗi tuần. Hết ngân sách quảng cáo là hết cài đặt. ASO các kiểu marketing miễn phí đều không có nhiều kết quả.&lt;br /&gt; Không biết có nhiều người bám trụ với nghề Lập trình viên mobile (làm solo tự do) như mình không nhỉ. &lt;/p&gt; &lt;p&gt;Rất mong các bác chia sẻ chút thành công để làm động lực. Cảm ơn các bác.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/TuHocSolidityCom"&gt; /u/TuHocSolidityCom &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rx1b1q/lập_trình_viên_mobile_làm_solo_tự_do_còn_có_đất/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rx1b1q/lập_trình_viên_mobile_làm_solo_tự_do_còn_có_đất/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rx1b1q/lập_trình_viên_mobile_làm_solo_tự_do_còn_có_đất/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-18T11:29:14+00:00</published>
   </entry>
   <entry>
     <id>t3_1rx5gcm</id>
