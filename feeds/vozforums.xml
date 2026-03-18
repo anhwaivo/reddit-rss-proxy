@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-03-18T09:30:17+00:00</updated>
+  <updated>2026-03-18T10:35:08+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1rwtjqm</id>
-    <title>Hỏi về ép kính iphone</title>
-    <updated>2026-03-18T04:01:36+00:00</updated>
-    <author>
-      <name>/u/Asleep_Albatross2783</name>
-      <uri>https://old.reddit.com/user/Asleep_Albatross2783</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Ở đây có bác nào đã từng ép kính cho iphone chưa, cho tui xin ít review phát. Máy t là 15 pro max, bị xước vài chỗ nhìn khó chịu quá nên muốn xem có cách nào khắc phục ổn ổn ko, thay cả màn thì mặn quá :((&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Asleep_Albatross2783"&gt; /u/Asleep_Albatross2783 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rwtjqm/hỏi_về_ép_kính_iphone/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rwtjqm/hỏi_về_ép_kính_iphone/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rwtjqm/hỏi_về_ép_kính_iphone/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-18T04:01:36+00:00</published>
-  </entry>
   <entry>
     <id>t3_1rw3dwn</id>
     <title>Tôi có phải một thằng tồi không mấy ông?</title>
@@ -58,6 +45,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1rwjrkh/xin_cách_để_học_lại_trên_lớp_kèm_tâm_sự_của_sv/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-03-17T21:18:15+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1rwycyw</id>
+    <title>LÀM CON GÀ CHO NGƯỜI TA VẶT</title>
+    <updated>2026-03-18T08:40:47+00:00</updated>
+    <author>
+      <name>/u/Odd_Temporary5625</name>
+      <uri>https://old.reddit.com/user/Odd_Temporary5625</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Gỉa dụ các bác yếu gan chưa gì đã sợ để rồi bị nắm thóp. Sau thành con gà cho chúng nó vặt thì Xử lý thế nào nhỉ ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Odd_Temporary5625"&gt; /u/Odd_Temporary5625 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rwycyw/làm_con_gà_cho_người_ta_vặt/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rwycyw/làm_con_gà_cho_người_ta_vặt/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rwycyw/làm_con_gà_cho_người_ta_vặt/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-18T08:40:47+00:00</published>
   </entry>
   <entry>
     <id>t3_1rw6k2q</id>
@@ -99,19 +99,6 @@
     <published>2026-03-18T08:18:57+00:00</published>
   </entry>
   <entry>
-    <id>t3_1rwycyw</id>
-    <title>LÀM CON GÀ CHO NGƯỜI TA VẶT</title>
-    <updated>2026-03-18T08:40:47+00:00</updated>
-    <author>
-      <name>/u/Odd_Temporary5625</name>
-      <uri>https://old.reddit.com/user/Odd_Temporary5625</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Gỉa dụ các bác yếu gan chưa gì đã sợ để rồi bị nắm thóp. Sau thành con gà cho chúng nó vặt thì Xử lý thế nào nhỉ ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Odd_Temporary5625"&gt; /u/Odd_Temporary5625 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rwycyw/làm_con_gà_cho_người_ta_vặt/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rwycyw/làm_con_gà_cho_người_ta_vặt/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rwycyw/làm_con_gà_cho_người_ta_vặt/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-18T08:40:47+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1rws25d</id>
     <title>Học tiếng Trung</title>
     <updated>2026-03-18T02:52:45+00:00</updated>
@@ -125,30 +112,17 @@
     <published>2026-03-18T02:52:45+00:00</published>
   </entry>
   <entry>
-    <id>t3_1rwyrrp</id>
-    <title>Rụng hết tóc vì thua lỗ coin</title>
-    <updated>2026-03-18T09:06:23+00:00</updated>
+    <id>t3_1rwzsaa</id>
+    <title>Nên dành 4 năm học hay 4 năm tích vốn khởi nghiệp</title>
+    <updated>2026-03-18T10:07:57+00:00</updated>
     <author>
-      <name>/u/Repulsive_Ice7444</name>
-      <uri>https://old.reddit.com/user/Repulsive_Ice7444</uri>
+      <name>/u/FunnyAdvance4084</name>
+      <uri>https://old.reddit.com/user/FunnyAdvance4084</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;ae biết cách nào giúp mọc tóc lại không ae, từ lúc gẫy coin đầu rụng nửa tóc luôn, dùng cái minoxidill cả 3 tháng nay vẫn rụng mạnh hơn, má đã nghèo còn hói&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Repulsive_Ice7444"&gt; /u/Repulsive_Ice7444 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rwyrrp/rụng_hết_tóc_vì_thua_lỗ_coin/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rwyrrp/rụng_hết_tóc_vì_thua_lỗ_coin/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rwyrrp/rụng_hết_tóc_vì_thua_lỗ_coin/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình tự kinh doanh buôn bán gần 1 năm nay cũng được kha khá doanh thu và ủng hộ, nên muốn tiếp tục làm tích luỹ sớm đủ vốn sẽ đầu tư một mô hình mới lớn hơn. Tiền ngày càng khó kiếm, bắt đầu càng trễ càng mai một đi cái trí liều của mình. Giáo dục nơi mình đang học cũng chỉ như trò kiếm tiền trá hình, sinh viên đút lót rót tiền từ trưởng môn xuống gvbm, các ông thầy độ U40 vẫn cả nể các ông bề trên. Mình cũng chưa từng đi làm công sở, không biết môi trường thế nào, nhưng cũng từng tiếp xúc với một số anh chị thì thấy họ học xong vẫn loay hoay phàn nàn sếp, đồng nghiệp, đổi công ty liên tục chẳng lẽ 10 năm sau ở cái độ tuổi đó mình vẫn sống như họ. Nếu bắt đầu bây giờ thì khi các đồng trang lứa ra trường có thể mình đã có khoảng tiền để xây dựng sự nghiệp của riêng mình còn nếu tiếp tục học thì tới khi ra trường mình chỉ bập bẹ tìm việc với tay trắng. Kiến thức đều tự mình tìm tòi chứ chẳng mấy ai tận tình dạy, nên học kì tới đóng học phí mình thấy k đáng. Mình muốn nhanh nhanh thoát sớm cái ma trận này. Đây cũng chỉ góc nhìn của mình, mình cũng mong nhận được cái nhìn chân thật từ các anh chị đi làm (Mình là nữ nên k vướng nvqs)&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/FunnyAdvance4084"&gt; /u/FunnyAdvance4084 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rwzsaa/nên_dành_4_năm_học_hay_4_năm_tích_vốn_khởi_nghiệp/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rwzsaa/nên_dành_4_năm_học_hay_4_năm_tích_vốn_khởi_nghiệp/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rwzsaa/nên_dành_4_năm_học_hay_4_năm_tích_vốn_khởi_nghiệp/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-18T09:06:23+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1rwyxgc</id>
-    <title>Tư vấn</title>
-    <updated>2026-03-18T09:16:06+00:00</updated>
-    <author>
-      <name>/u/FunnyStay2271</name>
-      <uri>https://old.reddit.com/user/FunnyStay2271</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình làm freelancer, công việc chủ yếu là viết content. Mới đây có client liên hệ mình, giao job viết bài phân tích thể thao, nhận định, đánh giá. Ban đầu mình gửi cho họ file Docs, nhưng sau này họ có cho account để chủ động đăng bài.&lt;/p&gt; &lt;p&gt;Bài viết của mình mang tính chuyên môn, hoàn toàn k đề cập gì tới cado, cacuoc. Tuy nhiên khi đăng bài client yêu cầu mình copy, paste 2 banners cado vào bài viết. Mình khá lưỡng lự vì không muốn dính dáng tới cado. Cho mình hỏi mình có nên từ chối yêu cầu của khách hàng hay không? &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/FunnyStay2271"&gt; /u/FunnyStay2271 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rwyxgc/tư_vấn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rwyxgc/tư_vấn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rwyxgc/tư_vấn/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-18T09:16:06+00:00</published>
+    <published>2026-03-18T10:07:57+00:00</published>
   </entry>
   <entry>
     <id>t3_1rwt3q5</id>
@@ -162,6 +136,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1rwt3q5/không_phù_hợp/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-03-18T03:40:30+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1rwxxdn</id>
+    <title>Tai nghe Soundpeat</title>
+    <updated>2026-03-18T08:13:07+00:00</updated>
+    <author>
+      <name>/u/Few-Leader5324</name>
+      <uri>https://old.reddit.com/user/Few-Leader5324</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1rwxxdn/tai_nghe_soundpeat/"&gt; &lt;img alt="Tai nghe Soundpeat" src="https://preview.redd.it/qwlcun39irpg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=d5a50423f8db1fa43dad1225d100efd28df4ae4f" title="Tai nghe Soundpeat" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mới múc đc con tai nghe earbuds ngon phết, đeo thoải mái như airpods nhưng bass dập phê hơn.&lt;/p&gt; &lt;p&gt;Nghe chống cháy hoặc chill chill quá ngon trong tầm giá luôn. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Few-Leader5324"&gt; /u/Few-Leader5324 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/qwlcun39irpg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rwxxdn/tai_nghe_soundpeat/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rwxxdn/tai_nghe_soundpeat/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-18T08:13:07+00:00</published>
   </entry>
   <entry>
     <id>t3_1rwuh1t</id>
@@ -190,43 +177,17 @@
     <published>2026-03-18T03:47:01+00:00</published>
   </entry>
   <entry>
-    <id>t3_1rwtwgs</id>
-    <title>Lương 7tr, ko phụ cấp xăng xe ngày đi trên 60km ra công ty khách hàng liệu có ổn ko</title>
-    <updated>2026-03-18T04:19:21+00:00</updated>
+    <id>t3_1rwyrrp</id>
+    <title>Rụng hết tóc vì thua lỗ coin</title>
+    <updated>2026-03-18T09:06:23+00:00</updated>
     <author>
-      <name>/u/Explorer-Adorable</name>
-      <uri>https://old.reddit.com/user/Explorer-Adorable</uri>
+      <name>/u/Repulsive_Ice7444</name>
+      <uri>https://old.reddit.com/user/Repulsive_Ice7444</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các anh chị cho em hỏi ạ. Em sinh viên vừa bv đồ án xong đi làm về camera được 7tr, cty e đang làm có đúng e là nhân viên. Cty e chuyên về mảng công trình camera với đi làm helpdesk cho cty khác ạ. Lúc e vào cty họ ko bắt ký hợp đồng lao động nhưng họ có đóng bảo hiểm cho e ở mức 5tr theo như e check vssid. Ngày đi làm đi từ cty ra tới các công trình và các cty thuê làm helpdesk thì loanh quanh 60-100km. Nhưng không có phụ cấp ăn trưa với phụ cấp xăng xe ạ. E đi từ nhà lên cty cũng tầm 30km cả đi cả về ạ. Tuần nào cũng leo trèo bám cột giữa đồng không mông quạnh với nắng thì e có nên nghỉ và đi tìm cv mới không ạ. E mới làm đc 4 tháng ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Explorer-Adorable"&gt; /u/Explorer-Adorable &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rwtwgs/lương_7tr_ko_phụ_cấp_xăng_xe_ngày_đi_trên_60km_ra/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rwtwgs/lương_7tr_ko_phụ_cấp_xăng_xe_ngày_đi_trên_60km_ra/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rwtwgs/lương_7tr_ko_phụ_cấp_xăng_xe_ngày_đi_trên_60km_ra/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;ae biết cách nào giúp mọc tóc lại không ae, từ lúc gẫy coin đầu rụng nửa tóc luôn, dùng cái minoxidill cả 3 tháng nay vẫn rụng mạnh hơn, má đã nghèo còn hói&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Repulsive_Ice7444"&gt; /u/Repulsive_Ice7444 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rwyrrp/rụng_hết_tóc_vì_thua_lỗ_coin/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rwyrrp/rụng_hết_tóc_vì_thua_lỗ_coin/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rwyrrp/rụng_hết_tóc_vì_thua_lỗ_coin/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-18T04:19:21+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1rwxxdn</id>
-    <title>Tai nghe Soundpeat</title>
-    <updated>2026-03-18T08:13:07+00:00</updated>
-    <author>
-      <name>/u/Few-Leader5324</name>
-      <uri>https://old.reddit.com/user/Few-Leader5324</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1rwxxdn/tai_nghe_soundpeat/"&gt; &lt;img alt="Tai nghe Soundpeat" src="https://preview.redd.it/qwlcun39irpg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=d5a50423f8db1fa43dad1225d100efd28df4ae4f" title="Tai nghe Soundpeat" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mới múc đc con tai nghe earbuds ngon phết, đeo thoải mái như airpods nhưng bass dập phê hơn.&lt;/p&gt; &lt;p&gt;Nghe chống cháy hoặc chill chill quá ngon trong tầm giá luôn. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Few-Leader5324"&gt; /u/Few-Leader5324 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/qwlcun39irpg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rwxxdn/tai_nghe_soundpeat/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rwxxdn/tai_nghe_soundpeat/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-18T08:13:07+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1rwyrn6</id>
-    <title>Cải thiện sức khoẻ</title>
-    <updated>2026-03-18T09:06:12+00:00</updated>
-    <author>
-      <name>/u/OperationKindly12</name>
-      <uri>https://old.reddit.com/user/OperationKindly12</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mấy tháng gần đây để cải thiện sức khoẻ nên mình đã ngủ sớm + duy trì đi bộ 5-10km, nhưng không thấy sức khoẻ cải thiện mà còn thấy người mệt hơn. Mọi người cho mình hỏi vấn đề này là thời gian chưa đủ cho cơ thể quen hay cường độ này hơi cao quá. Mình chỉ đi bộ nhẹ nhàng, lâu lâu cố chạy 1 đoạn ngắn thôi ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/OperationKindly12"&gt; /u/OperationKindly12 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rwyrn6/cải_thiện_sức_khoẻ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rwyrn6/cải_thiện_sức_khoẻ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rwyrn6/cải_thiện_sức_khoẻ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-18T09:06:12+00:00</published>
+    <published>2026-03-18T09:06:23+00:00</published>
   </entry>
   <entry>
     <id>t3_1rwqr27</id>
@@ -242,19 +203,6 @@
     <published>2026-03-18T01:54:09+00:00</published>
   </entry>
   <entry>
-    <id>t3_1rwu94r</id>
-    <title>Nhóm học Tiếng Trung</title>
-    <updated>2026-03-18T04:37:49+00:00</updated>
-    <author>
-      <name>/u/Phainon_Elysiae</name>
-      <uri>https://old.reddit.com/user/Phainon_Elysiae</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Sắp tới mình có tổ chức 1 nhóm học tiếng Trung cùng nhau. Format của nhóm thì khá là đơn giản thôi, hằng ngày tôi up bài dựa theo Giáo trình Hán ngữ và cách học kiểu split learning khá đơn giản lên nhóm. Mọi người sẽ tick vào mục hôm nay mình có tham gia học hay không. Nếu bỏ lỡ một bài thì sau vẫn có thể quay lại được. Cuối tuần sẽ có bảng xếp hạng học tập.&lt;/p&gt; &lt;p&gt;Nhóm sẽ được mở trên Discord. Bác nào muốn tham gia thì chấm một cái hoặc comment góp ý cho nhóm nhé.&lt;/p&gt; &lt;p&gt;Thanks for reading!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Phainon_Elysiae"&gt; /u/Phainon_Elysiae &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rwu94r/nhóm_học_tiếng_trung/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rwu94r/nhóm_học_tiếng_trung/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rwu94r/nhóm_học_tiếng_trung/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-18T04:37:49+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1rwv1ix</id>
     <title>Telegram</title>
     <updated>2026-03-18T05:19:25+00:00</updated>
@@ -268,6 +216,45 @@
     <published>2026-03-18T05:19:25+00:00</published>
   </entry>
   <entry>
+    <id>t3_1rx04ey</id>
+    <title>đã 10 năm rồi sao</title>
+    <updated>2026-03-18T10:27:01+00:00</updated>
+    <author>
+      <name>/u/VanVatThuaElysia</name>
+      <uri>https://old.reddit.com/user/VanVatThuaElysia</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1rx04ey/đã_10_năm_rồi_sao/"&gt; &lt;img alt="đã 10 năm rồi sao" src="https://preview.redd.it/ox65p7z56spg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=4c8624f43a56e95afc93f364a279616a09e1ff9c" title="đã 10 năm rồi sao" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/VanVatThuaElysia"&gt; /u/VanVatThuaElysia &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/ox65p7z56spg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rx04ey/đã_10_năm_rồi_sao/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rx04ey/đã_10_năm_rồi_sao/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-18T10:27:01+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1rwu94r</id>
+    <title>Nhóm học Tiếng Trung</title>
+    <updated>2026-03-18T04:37:49+00:00</updated>
+    <author>
+      <name>/u/Phainon_Elysiae</name>
+      <uri>https://old.reddit.com/user/Phainon_Elysiae</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Sắp tới mình có tổ chức 1 nhóm học tiếng Trung cùng nhau. Format của nhóm thì khá là đơn giản thôi, hằng ngày tôi up bài dựa theo Giáo trình Hán ngữ và cách học kiểu split learning khá đơn giản lên nhóm. Mọi người sẽ tick vào mục hôm nay mình có tham gia học hay không. Nếu bỏ lỡ một bài thì sau vẫn có thể quay lại được. Cuối tuần sẽ có bảng xếp hạng học tập.&lt;/p&gt; &lt;p&gt;Nhóm sẽ được mở trên Discord. Bác nào muốn tham gia thì chấm một cái hoặc comment góp ý cho nhóm nhé.&lt;/p&gt; &lt;p&gt;Thanks for reading!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Phainon_Elysiae"&gt; /u/Phainon_Elysiae &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rwu94r/nhóm_học_tiếng_trung/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rwu94r/nhóm_học_tiếng_trung/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rwu94r/nhóm_học_tiếng_trung/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-18T04:37:49+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1rwtwgs</id>
+    <title>Lương 7tr, ko phụ cấp xăng xe ngày đi trên 60km ra công ty khách hàng liệu có ổn ko</title>
+    <updated>2026-03-18T04:19:21+00:00</updated>
+    <author>
+      <name>/u/Explorer-Adorable</name>
+      <uri>https://old.reddit.com/user/Explorer-Adorable</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các anh chị cho em hỏi ạ. Em sinh viên vừa bv đồ án xong đi làm về camera được 7tr, cty e đang làm có đúng e là nhân viên. Cty e chuyên về mảng công trình camera với đi làm helpdesk cho cty khác ạ. Lúc e vào cty họ ko bắt ký hợp đồng lao động nhưng họ có đóng bảo hiểm cho e ở mức 5tr theo như e check vssid. Ngày đi làm đi từ cty ra tới các công trình và các cty thuê làm helpdesk thì loanh quanh 60-100km. Nhưng không có phụ cấp ăn trưa với phụ cấp xăng xe ạ. E đi từ nhà lên cty cũng tầm 30km cả đi cả về ạ. Tuần nào cũng leo trèo bám cột giữa đồng không mông quạnh với nắng thì e có nên nghỉ và đi tìm cv mới không ạ. E mới làm đc 4 tháng ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Explorer-Adorable"&gt; /u/Explorer-Adorable &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rwtwgs/lương_7tr_ko_phụ_cấp_xăng_xe_ngày_đi_trên_60km_ra/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rwtwgs/lương_7tr_ko_phụ_cấp_xăng_xe_ngày_đi_trên_60km_ra/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rwtwgs/lương_7tr_ko_phụ_cấp_xăng_xe_ngày_đi_trên_60km_ra/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-18T04:19:21+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1rwd07w</id>
     <title>[NSFW] Tâm sự lần đầu abc đau đớn T.T</title>
     <updated>2026-03-17T17:23:09+00:00</updated>
@@ -279,6 +266,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1rwd07w/nsfw_tâm_sự_lần_đầu_abc_đau_đớn_tt/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-03-17T17:23:09+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1rwyrn6</id>
+    <title>Cải thiện sức khoẻ</title>
+    <updated>2026-03-18T09:06:12+00:00</updated>
+    <author>
+      <name>/u/OperationKindly12</name>
+      <uri>https://old.reddit.com/user/OperationKindly12</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mấy tháng gần đây để cải thiện sức khoẻ nên mình đã ngủ sớm + duy trì đi bộ 5-10km, nhưng không thấy sức khoẻ cải thiện mà còn thấy người mệt hơn. Mọi người cho mình hỏi vấn đề này là thời gian chưa đủ cho cơ thể quen hay cường độ này hơi cao quá. Mình chỉ đi bộ nhẹ nhàng, lâu lâu cố chạy 1 đoạn ngắn thôi ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/OperationKindly12"&gt; /u/OperationKindly12 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rwyrn6/cải_thiện_sức_khoẻ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rwyrn6/cải_thiện_sức_khoẻ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rwyrn6/cải_thiện_sức_khoẻ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-18T09:06:12+00:00</published>
   </entry>
   <entry>
     <id>t3_1rwduh5</id>
