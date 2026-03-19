@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-03-19T20:36:14+00:00</updated>
+  <updated>2026-03-19T21:19:30+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -58,6 +58,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1rxy3gi/xtsssssssss/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-03-19T11:40:45+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ry7oom</id>
+    <title>Các bác có nghĩ World War 3 đang ở ngay trước mắt không. Liệu chúng ta có thể làm gì.</title>
+    <updated>2026-03-19T18:01:04+00:00</updated>
+    <author>
+      <name>/u/These-Cost-905</name>
+      <uri>https://old.reddit.com/user/These-Cost-905</uri>
+    </author>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/These-Cost-905"&gt; /u/These-Cost-905 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ry7oom/các_bác_có_nghĩ_world_war_3_đang_ở_ngay_trước_mắt/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ry7oom/các_bác_có_nghĩ_world_war_3_đang_ở_ngay_trước_mắt/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ry7oom/các_bác_có_nghĩ_world_war_3_đang_ở_ngay_trước_mắt/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-19T18:01:04+00:00</published>
   </entry>
   <entry>
     <id>t3_1ry7y3s</id>
@@ -136,19 +149,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ry6ppk/e_phân_vân_quá/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-03-19T17:26:12+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1ry7oom</id>
-    <title>Các bác có nghĩ World War 3 đang ở ngay trước mắt không. Liệu chúng ta có thể làm gì.</title>
-    <updated>2026-03-19T18:01:04+00:00</updated>
-    <author>
-      <name>/u/These-Cost-905</name>
-      <uri>https://old.reddit.com/user/These-Cost-905</uri>
-    </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/These-Cost-905"&gt; /u/These-Cost-905 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ry7oom/các_bác_có_nghĩ_world_war_3_đang_ở_ngay_trước_mắt/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ry7oom/các_bác_có_nghĩ_world_war_3_đang_ở_ngay_trước_mắt/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ry7oom/các_bác_có_nghĩ_world_war_3_đang_ở_ngay_trước_mắt/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-19T18:01:04+00:00</published>
   </entry>
   <entry>
     <id>t3_1rxx798</id>
