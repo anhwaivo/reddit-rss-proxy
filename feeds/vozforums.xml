@@ -2,115 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-03-19T05:04:31+00:00</updated>
+  <updated>2026-03-19T06:10:30+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1rwyrn6</id>
-    <title>Cải thiện sức khoẻ</title>
-    <updated>2026-03-18T09:06:12+00:00</updated>
-    <author>
-      <name>/u/OperationKindly12</name>
-      <uri>https://old.reddit.com/user/OperationKindly12</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mấy tháng gần đây để cải thiện sức khoẻ nên mình đã ngủ sớm + duy trì đi bộ 5-10km, nhưng không thấy sức khoẻ cải thiện mà còn thấy người mệt hơn. Mọi người cho mình hỏi vấn đề này là thời gian chưa đủ cho cơ thể quen hay cường độ này hơi cao quá. Mình chỉ đi bộ nhẹ nhàng, lâu lâu cố chạy 1 đoạn ngắn thôi ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/OperationKindly12"&gt; /u/OperationKindly12 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rwyrn6/cải_thiện_sức_khoẻ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rwyrn6/cải_thiện_sức_khoẻ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rwyrn6/cải_thiện_sức_khoẻ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-18T09:06:12+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1rxpao3</id>
-    <title>Hướng dẫn làm 1 game đơn giản với AI - ChatGPT (Dành cho người không biết mốt chút gì về code)</title>
-    <updated>2026-03-19T03:15:19+00:00</updated>
-    <author>
-      <name>/u/TuHocSolidityCom</name>
-      <uri>https://old.reddit.com/user/TuHocSolidityCom</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1rxpao3/hướng_dẫn_làm_1_game_đơn_giản_với_ai_chatgpt_dành/"&gt; &lt;img alt="Hướng dẫn làm 1 game đơn giản với AI - ChatGPT (Dành cho người không biết mốt chút gì về code)" src="https://preview.redd.it/42bn4xci5xpg1.png?width=140&amp;amp;height=94&amp;amp;auto=webp&amp;amp;s=6b37af9454d4e48361a8895160e4ced170aeee1c" title="Hướng dẫn làm 1 game đơn giản với AI - ChatGPT (Dành cho người không biết mốt chút gì về code)" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Nhiều người khen AI bây giờ code giỏi, làm game trong 1 phút, sự thật đúng là thế đó các bác.&lt;br /&gt; Mình hướng dẫn cho các bạn tạo game như Flappy Bird chỉ với 1 phút nhé. Rất dễ dàng, không cần biết code. &lt;/p&gt; &lt;p&gt;Bước 1: Bạn hãy bật ChatGPT lên và đưa cho nó lời nhắc này phía dưới (sửa lại theo ý mình nếu cần thêm các điểm khác biết về màu sắc, hình ảnh, cách tính điểm.... ) &lt;/p&gt; &lt;p&gt;Bước 2: Sau khi ChatGPT tạo xong code, bạn bấm vào nút Preview (hoặc biểu tượng Play để chơi thử Game mình vừa tạo ra nhé)&lt;/p&gt; &lt;p&gt;&lt;a href="https://preview.redd.it/42bn4xci5xpg1.png?width=982&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=3b0efe4c324bd682ae56932c42234539bb791382"&gt;Lời nhắc tạo ra game ở trên. Copy và Paste thử vào ChatGPT là xong&lt;/a&gt;&lt;/p&gt; &lt;pre&gt;&lt;code&gt;Create a complete Flappy Bird-style game using only HTML, CSS, and vanilla JavaScript (no external libraries). Requirements: * The game must run directly in a browser with a single HTML file. * Use the HTML5 Canvas API for rendering. * The player controls a character that continuously falls due to gravity and can jump when the user clicks or presses space. * Generate moving obstacles (pipes) with random gaps. * Implement collision detection between the player and pipes or ground. * Add a scoring system that increases when the player successfully passes obstacles. * Include a start screen, game over screen, and restart functionality. * Display score clearly on screen with a clean UI. * Add smooth animations using requestAnimationFrame. * Use simple but visually appealing design (colors, spacing, shadows). Code Quality: * Write clean, well-structured, and commented code. * Separate logic into functions (game loop, rendering, physics, input handling). * Use constants for tuning gameplay (gravity, jump force, speed). Extra (if possible): * Add sound effects (jump, score, game over). * Add difficulty scaling over time. * Make the layout responsive for mobile and desktop. Make it look like a polished mobile game ready for App Store. Output: * Provide the full working code in one file. * Include brief instructions on how to run the game. &lt;/code&gt;&lt;/pre&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/TuHocSolidityCom"&gt; /u/TuHocSolidityCom &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rxpao3/hướng_dẫn_làm_1_game_đơn_giản_với_ai_chatgpt_dành/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rxpao3/hướng_dẫn_làm_1_game_đơn_giản_với_ai_chatgpt_dành/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rxpao3/hướng_dẫn_làm_1_game_đơn_giản_với_ai_chatgpt_dành/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-19T03:15:19+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1rwu94r</id>
-    <title>Nhóm học Tiếng Trung</title>
-    <updated>2026-03-18T04:37:49+00:00</updated>
-    <author>
-      <name>/u/Phainon_Elysiae</name>
-      <uri>https://old.reddit.com/user/Phainon_Elysiae</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Sắp tới mình có tổ chức 1 nhóm học tiếng Trung cùng nhau. Format của nhóm thì khá là đơn giản thôi, tối 8h hằng ngày tôi up bài dựa theo Giáo trình Hán ngữ và cách học kiểu split learning và repetition khá đơn giản lên nhóm. Mọi người sẽ tick vào mục hôm nay mình có tham gia học hay không. Nếu bỏ lỡ một bài thì sau vẫn có thể quay lại được. Cuối tuần sẽ có bảng xếp hạng học tập.&lt;/p&gt; &lt;p&gt;Nhóm sẽ được mở trên Discord. Bác nào muốn tham gia thì chấm một cái hoặc comment góp ý cho nhóm nhé.&lt;/p&gt; &lt;p&gt;〘〙 &lt;a href="https://discord.gg/ttyd6QrJST"&gt;https://discord.gg/ttyd6QrJST&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Thanks for reading!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Phainon_Elysiae"&gt; /u/Phainon_Elysiae &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rwu94r/nhóm_học_tiếng_trung/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rwu94r/nhóm_học_tiếng_trung/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rwu94r/nhóm_học_tiếng_trung/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-18T04:37:49+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1rwpjud</id>
-    <title>26 tuổi mất 2 tỷ vì đầu tư coin</title>
-    <updated>2026-03-18T01:01:47+00:00</updated>
-    <author>
-      <name>/u/Repulsive_Ice7444</name>
-      <uri>https://old.reddit.com/user/Repulsive_Ice7444</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Có ai như mình không, 26 tuổi đầu tư kinh doanh dành dụm được hơn 2 tỷ, và mất trắng sau vài tháng đánh future crypto. h phải làm gì đây m.n&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Repulsive_Ice7444"&gt; /u/Repulsive_Ice7444 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rwpjud/26_tuổi_mất_2_tỷ_vì_đầu_tư_coin/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rwpjud/26_tuổi_mất_2_tỷ_vì_đầu_tư_coin/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rwpjud/26_tuổi_mất_2_tỷ_vì_đầu_tư_coin/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-18T01:01:47+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1rx66m0</id>
-    <title>Tâm sự tuổi hồng</title>
-    <updated>2026-03-18T14:57:55+00:00</updated>
-    <author>
-      <name>/u/Opening_Eye_7278</name>
-      <uri>https://old.reddit.com/user/Opening_Eye_7278</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác, em là Nam (21t), hiện đang học đại học và có yêu đương với 1 bạn Nữ bằng tuổi, mqh của chúng em kéo dài được gần 6 tháng. Dạo gần đây, em nhận thấy rằng không khí của mqh có vẻ tiêu cực. Từ các yếu tố môi trường như stress trong học tập, áp lực tìm việc thực tập,... Nhưng bản thân em thấy lớn nhất có vẻ đến từ việc người yêu em đang có chiều hướng suy nghĩ nhiều và không vui vẻ với một số vấn đề của bạn. Chẳng hạn như việc bạn nhớ nhà (do bạn phải bay vào SG học đại học) sau kì nghỉ Tết, bạn áp lực về điểm số và không chấp nhận được việc mình bị điểm không quá cao sau khi đã cố gắng học và bạn cũng trở nên nhạy cảm hơn với những cảm giác khi mà đi học về mệt, đói bụng hay tương tự thế. Tuy là những thứ này em thấy nó không hẳn là to tát nhưng việc bạn tâm sự rồi khóc vì những điều như vậy liên tục (tuần nào cũng có hôm như vầy) cũng làm em bị ảnh hưởng theo, đặc biệt là em cũng đang trong thời kỳ căng thẳng vì ôn thi + tìm kiếm việc thực tập (và hơi fail). Em không biết phải nói sao cho người yêu em hiểu ạ, và em cũng muốn xin ý kiến từ góc nhìn từ các bác lúc các bác khi gặp trường hợp như trên. Em cảm ơn cả nhà nhiều ạ!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Opening_Eye_7278"&gt; /u/Opening_Eye_7278 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rx66m0/tâm_sự_tuổi_hồng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rx66m0/tâm_sự_tuổi_hồng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rx66m0/tâm_sự_tuổi_hồng/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-18T14:57:55+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1rwrb02</id>
-    <title>Các bác đang làm gì , góc khuất trong nghê mình đang làm ?</title>
-    <updated>2026-03-18T02:18:40+00:00</updated>
-    <author>
-      <name>/u/GapAway8604</name>
-      <uri>https://old.reddit.com/user/GapAway8604</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình là dev , công việc chỉ tàng tàng , nộ bộ chửi nhau ô nó ghét ông kia chia bè mảng tùm lum.Đi làm mà nhiều khi như đi chọn phe. Còn các bác thì sao &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/GapAway8604"&gt; /u/GapAway8604 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rwrb02/các_bác_đang_làm_gì_góc_khuất_trong_nghê_mình/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rwrb02/các_bác_đang_làm_gì_góc_khuất_trong_nghê_mình/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rwrb02/các_bác_đang_làm_gì_góc_khuất_trong_nghê_mình/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-18T02:18:40+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1rwtb7y</id>
-    <title>Có ai có người thân chơi bài, coin và nợ vài tỷ đồng không? Tại sao họ trở nên như vậy?</title>
-    <updated>2026-03-18T03:50:26+00:00</updated>
-    <author>
-      <name>/u/Difficult_Engine949</name>
-      <uri>https://old.reddit.com/user/Difficult_Engine949</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi mn, xung quanh mình có một vài người bạn, học hành đều giỏi suốt nhiều năm, đậu đại học trường top. Ngỡ như bạn cũng sẽ đi học đi làm bình thường, nhận lương mỗi tháng. Nhưng đùng một cái vỡ ra chuyện nợ nần vài tỷ đồng, vay nóng hay FE gì đều có đủ.&lt;/p&gt; &lt;p&gt;Người bạn thứ nhất, gọi là A, ban đầu có rất nhiều dấu hiệu. Mượn 500k, 1 triệu, con số khá nhỏ, sau đó đúng hẹn đều sẽ trả, nếu không đúng hẹn thì đến ngày sẽ nhắn là đang kẹt, sẽ trả sau. Nói chung là có mượn có trả nên cũng khá yên tâm. Khi biết mình cũng muốn tìm hiểu mua coin (mình muốn mua như mua vàng, kiểu tích trữ để trong ví chứ ko phải future) thì có nhắn tin mình về thị trường, về các hoạt động của FED ảnh hưởng đến coin ra sao, nói chung là show ra rằng bản thân rất nhiều kiến thức về coin đó. Nhưng sau đó thấy thị trường này khá rắc rối mà mình lại không rành nên không tham gia. Sau khi thấy mình ko hứng thú thì bạn cũng bớt nhắn tin về coin, sau đó chỉ có bạn bè thăm hỏi rồi lâu lâu mượn tiền thôi. Và đen thật, lần cuối cùng bạn ấy mượn, sau khi thấy bạn có dấu hiệu trễ nãi, mình nhẩm tính rằng lần này mà đòi được tiền là cạch luôn không bao h cho mượn nữa, mình nhắn tin đòi thì bạn nói cha mẹ bị bệnh nên xin khất thêm thời gian nên mình cũng mủi lòng đồng ý. Vài tháng sau có người phốt bạn ấy nhờ vay giùm số tiền khá lớn, nhưng sau đó quỵt và bỏ trốn, sau đó mới lộ ra bạn bè xung quanh ai cũng mượn, và cũng đem lý do cha mẹ đau ốm. Lúc đó thì mình biết mình bị lừa rồi. Mình chỉ có thể mừng là mình chỉ mất có 1 triệu bạc, cũng không quá tệ như người ta. Nhưng đau khổ nhất là, có đứa bạn mình rất thân, cũng là bạn thân với A này, vì tin tưởng A mà lấy tiền tiết kiệm ra giúp, còn đứng ra mượn giùm, bị gia đình chửi mắng vì &amp;quot;ngu xuẩn&amp;quot;, sau đó chắc vì uất ức mà hiện tại vì không chơi với ai, không sử dụng mxh, cắt đứt mọi liên lạc vs mn.&lt;/p&gt; &lt;p&gt;Người bạn thứ hai, là B, con gái, nhà giàu, hướng ngoại, học hành cũng tốt mà gia đình khá gia giáo, tính cách cũng hiền dịu. Nói chung cuộc sống của bạn khá sung túc. Nhưng mới đây cũng mới nghe tin bạn nợ vài tỷ, tin này nổ ra thật sự gây shock cho tất cả mn. Vì không ai nghĩ bạn chơi future hay đánh bài bạc gì cả. Vì các loại nợ đấy đến hạn phải trả lãi và số lãi cũng khá cao, nên bạn muốn giải quyết nó sớm nên có gài một số người xung quanh bằng cách thức thông báo ngân hàng có gói lãi suất cao, và huy động tiền từ bạn bè xung quanh. Do bạn làm ngân hàng, nhà lại giàu có nổi tiếng (có thể giàu nhất trong đám bạn) nên xung quanh ai cũng tin tưởng mà đưa tiền để gửi. Đến khi có người trong số đó cần, và bắt đầu đi đòi, thì mới lòi ra. Xung quanh đồn đoán rằng do bạn chơi future nên ra nông nổi này. Nhưng lý do là gì thì bạn không kể ai cả. Đến gia đình còn bắt bạn khai ra mới chịu giúp nhưng bạn chỉ nói đưa tiền trả người ta, trả dứt nợ sớm để còn bớt lãi, chứ giờ có kể ra thì cũng có giải quyết được gì đâu (??) Rồi quậy tung lên nếu không đưa tiền. Nói chung là thành một con người khác trước khi có nợ đó.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Ngạc nhiên hơn, lúc A bị phốt vì nợ nần thì B chửi A dữ lắm. (A và B đều là bạn mình và biết đến nhau). Tức B có nhận thức được tệ nạn liên quan đến mấy thứ này, nhưng không hiểu sao, 2 năm sau lại dính vào.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Mọi người có ai xung quanh bị vậy không, và họ thường dính vào cái gì mà trở nên như vậy vậy?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Difficult_Engine949"&gt; /u/Difficult_Engine949 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rwtb7y/có_ai_có_người_thân_chơi_bài_coin_và_nợ_vài_tỷ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rwtb7y/có_ai_có_người_thân_chơi_bài_coin_và_nợ_vài_tỷ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rwtb7y/có_ai_có_người_thân_chơi_bài_coin_và_nợ_vài_tỷ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-18T03:50:26+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1rxoduo</id>
-    <title>Looking for ios beta testers</title>
-    <updated>2026-03-19T02:32:50+00:00</updated>
-    <author>
-      <name>/u/NecessarySweaty441</name>
-      <uri>https://old.reddit.com/user/NecessarySweaty441</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1rxoduo/looking_for_ios_beta_testers/"&gt; &lt;img alt="Looking for ios beta testers" src="https://preview.redd.it/bz3pc3c2swpg1.jpg?width=140&amp;amp;height=140&amp;amp;crop=1:1,smart&amp;amp;auto=webp&amp;amp;s=4d14547864989a79bc0520cbe8c75a27c332a1f2" title="Looking for ios beta testers" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, mình vừa hoàn thành 1 app iOS nho nhỏ và đang mở beta test&lt;/p&gt; &lt;p&gt;App kiểu journal, chủ yếu cho việc viết và reflect hằng ngày. Hiện tại mình muốn tìm vài bạn dùng thử như user bình thường thôi, xem các flow chính (onboarding, viết, permission, paywall, …) có chỗ nào chưa ổn không.&lt;/p&gt; &lt;p&gt;Mình có đính kèm vài screenshots để mọi người tham khảo nhanh. Nếu bạn muốn thử thì mình gửi link TestFlight qua DM nha.&lt;/p&gt; &lt;p&gt;Sau khi app release mình sẽ tặng bạn 1 tháng dùng miễn phí như 1 lời cảm ơn 🙏&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/NecessarySweaty441"&gt; /u/NecessarySweaty441 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1rxoduo"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rxoduo/looking_for_ios_beta_testers/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rxoduo/looking_for_ios_beta_testers/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-19T02:32:50+00:00</published>
-  </entry>
   <entry>
     <id>t3_1rxogv8</id>
     <title>Mượn nick redit để bán thẻ quà tặng amazon</title>
@@ -190,6 +86,71 @@
     <published>2026-03-18T11:29:14+00:00</published>
   </entry>
   <entry>
+    <id>t3_1rxsdek</id>
+    <title>Laptop sinh viên</title>
+    <updated>2026-03-19T05:56:10+00:00</updated>
+    <author>
+      <name>/u/Silly-Loss6670</name>
+      <uri>https://old.reddit.com/user/Silly-Loss6670</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1rxsdek/laptop_sinh_viên/"&gt; &lt;img alt="Laptop sinh viên" src="https://preview.redd.it/rnpqxkaryxpg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=46e4e4e8e8203dd3fb105ea1c80cf24c3044db06" title="Laptop sinh viên" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Con này 19 củ khoai mọi người thấy hợp lí ko. Em chủ yếu vẽ cad với chơi game nhẹ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Silly-Loss6670"&gt; /u/Silly-Loss6670 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/rnpqxkaryxpg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rxsdek/laptop_sinh_viên/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rxsdek/laptop_sinh_viên/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-19T05:56:10+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1rxse9v</id>
+    <title>Cảm thấy rối bời khi phản bội người yêu</title>
+    <updated>2026-03-19T05:57:39+00:00</updated>
+    <author>
+      <name>/u/Airienzo</name>
+      <uri>https://old.reddit.com/user/Airienzo</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;chuyện là mình với em ny quen nhau hơn 2 năm từ hồi e còn lớp 11 cơ, nhưng mà cả hai xa nhau quá đứa thì tận lai châu đứa thì ở cần thơ, xong 2 đứa có tính là ẻm học xong thì xuống chỗ mình học đại học, mình với em ấy ở chung luôn, nhưng mà quen xa 2 năm trời thì mình cảm thấy nản và bắt đầu có suy nghĩ lệch lạc các thứ, mình và em ấy chia tay rồi quay lại không biết bao nhiêu lần, nhưng không hiểu sao mình với em ấy không dứt được nên đâu lại vào đấy, em ấy thương mình mình cảm nhận được, nên mình cũng cố đợi, dạo gần đây thì mình cảm thấy lạc lõng kiểu gì, muốn xả hết cơn thèm nên mình chót dại tìm ny gần để quen, mình giấu cũng kĩ nên không ai biết chuyện gì cả, nhưng tầm 1 tháng là mình chán rồi nên chia tay, tầm 5 người như thế ấy mấy người trước tuy quen gần được giải toả thoả thích đấy nhưng mà cả thèm chóng chán với thấy có lỗi với đôi bên, thế là mình cắt đứt hết rồi tập trung vào em ny của mình, mà máu đàn ông nó không tắt được, cứ vài ngày là nó khởi lên nên mình đi đá 4 giải toả, tự nhiên gần đây mình cảm thấy mình tồi vãi ra mà không biết nên làm gì, mình có nên nói thật và chia tay em ấy không, theo tính cách của em ấy có khi ra 44 cũng nên mình cảm thấy mâu thuẫn quá. ai cho em lời khuyên với&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Airienzo"&gt; /u/Airienzo &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rxse9v/cảm_thấy_rối_bời_khi_phản_bội_người_yêu/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rxse9v/cảm_thấy_rối_bời_khi_phản_bội_người_yêu/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rxse9v/cảm_thấy_rối_bời_khi_phản_bội_người_yêu/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-19T05:57:39+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1rxsfdz</id>
+    <title>Cho thuê nhà</title>
+    <updated>2026-03-19T05:59:33+00:00</updated>
+    <author>
+      <name>/u/WebAdventurous1706</name>
+      <uri>https://old.reddit.com/user/WebAdventurous1706</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các bác cho em hỏi thường cho thuê nhà thì đăng post hoặc up lên trang nào thì sẽ có nhiều lượt tương tác hơn ạ? Em có phòng cho thuê ở mà đăng lên group phở bò với các trang web thì thấy ít liên hệ thuê mà đa số là tụi chạy tin quảng cáo ctct. Hay có chỗ nào nhận kiếm khách hộ các bác giới thiệu em với ạ 🤧&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/WebAdventurous1706"&gt; /u/WebAdventurous1706 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rxsfdz/cho_thuê_nhà/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rxsfdz/cho_thuê_nhà/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rxsfdz/cho_thuê_nhà/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-19T05:59:33+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1rxsh57</id>
+    <title>Chán quá 😩</title>
+    <updated>2026-03-19T06:02:12+00:00</updated>
+    <author>
+      <name>/u/Galvinnn</name>
+      <uri>https://old.reddit.com/user/Galvinnn</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Có nữ nào chưa bồ hemmm 😜😜&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Galvinnn"&gt; /u/Galvinnn &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rxsh57/chán_quá/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rxsh57/chán_quá/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rxsh57/chán_quá/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-19T06:02:12+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1rxskwq</id>
+    <title>Từ bình quân thu nhập đến ‘winner-takes-all’: điều gì đang xảy ra?</title>
+    <updated>2026-03-19T06:08:30+00:00</updated>
+    <author>
+      <name>/u/Electronic_Pizza908</name>
+      <uri>https://old.reddit.com/user/Electronic_Pizza908</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Gần đây mình suy nghĩ khá nhiều về việc phân phối thu nhập và tài sản đang thay đổi như thế nào, đặc biệt là với giới trẻ.&lt;/p&gt; &lt;p&gt;Trước đây, mức lương của mọi người khá “nén lại” — tức là không chênh lệch quá lớn, đa số đều ở mức tương đối giống nhau. Nhưng bây giờ cảm giác như hệ thống sẵn sàng đào thải nhiều người hơn để một nhóm nhỏ có thể vươn lên với mức thu nhập rất cao. Thay vì nâng mặt bằng chung, thu nhập lại tập trung vào một nhóm nhỏ phía trên.&lt;/p&gt; &lt;p&gt;Điều thú vị là cách nhóm thu nhập cao này tiêu tiền. Họ gắn chặt với văn hóa tiêu dùng toàn cầu — chi tiền cho sản phẩm số, các dịch vụ trả phí, nền tảng online, và chạy theo các xu hướng văn hóa đại chúng. Từ việc nâng cấp công nghệ liên tục, dùng subscription, cho tới việc đu idol như Taylor Swift… tất cả trở thành một phần lối sống.&lt;/p&gt; &lt;p&gt;Một điểm mình thấy còn đáng chú ý hơn là vai trò của thế hệ đi trước. Trước đây, tài sản thường nằm trong tay người lớn tuổi, và lớp trẻ phải đi lên từng bước — tích lũy, phấn đấu, rồi dần dần thay thế thế hệ trước theo thời gian.&lt;/p&gt; &lt;p&gt;Nhưng hiện tại, có cảm giác như quá trình đó đang bị “rút ngắn”. Một phần tài sản, cơ hội, và cả vị thế xã hội được chuyển giao nhanh hơn, thậm chí có lúc như bỏ qua vài tầng lớp trung gian để đến thẳng một nhóm nhỏ người trẻ có khả năng bứt lên sớm.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Electronic_Pizza908"&gt; /u/Electronic_Pizza908 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rxskwq/từ_bình_quân_thu_nhập_đến_winnertakesall_điều_gì/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rxskwq/từ_bình_quân_thu_nhập_đến_winnertakesall_điều_gì/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rxskwq/từ_bình_quân_thu_nhập_đến_winnertakesall_điều_gì/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-19T06:08:30+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1rxosoz</id>
     <title>Sách vè Ai</title>
     <updated>2026-03-19T02:51:56+00:00</updated>
@@ -203,19 +164,6 @@
     <published>2026-03-19T02:51:56+00:00</published>
   </entry>
   <entry>
-    <id>t3_1rxb8uq</id>
-    <title>các bạn 8x9x có bị áp lực cuộc sống như mình không</title>
-    <updated>2026-03-18T18:02:21+00:00</updated>
-    <author>
-      <name>/u/hyehuy</name>
-      <uri>https://old.reddit.com/user/hyehuy</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1rxb8uq/các_bạn_8x9x_có_bị_áp_lực_cuộc_sống_như_mình_không/"&gt; &lt;img alt="các bạn 8x9x có bị áp lực cuộc sống như mình không" src="https://external-preview.redd.it/bnowMzhkcTBmdXBnMbanfOb_QxcxHVYiZooTI5gFgD3GUfdBjlSzKGOpCGKc.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=dd7d62fce5c8909f9ae34b0912fddf88e6c671dc" title="các bạn 8x9x có bị áp lực cuộc sống như mình không" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;mỗi lần nghe radio là lại nhớ thời thơ ấu các bác ạ. Lúc đấy vẫn còn ông bà ngoại, ông bà thương mình lắm,... mình chỉ việc đi học thôi, về là mua đồ ăn vặt xung quanh trường, đi bấm điện tử, đọc truyện tranh,.... Cứ mong cho mình mau lớn muốn làm gì thì làm ko bị ai quản lý.... Giờ lớn rồi thì 🥹. Em ước chi mấy năm nữa kiếm miếng đất vùng ven trồng cây nuôi gà,... sáng dậy sớm nghe radio cho cuộc sống trôi qua thật chậm thôi các bác ạ 😞 Mọi thứ thời nay vùn vụt quá, em sợ khi bất giác nhìn lại thì đã đầu mình đã bạc😔&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/hyehuy"&gt; /u/hyehuy &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://v.redd.it/gpewmc21fupg1"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rxb8uq/các_bạn_8x9x_có_bị_áp_lực_cuộc_sống_như_mình_không/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rxb8uq/các_bạn_8x9x_có_bị_áp_lực_cuộc_sống_như_mình_không/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-18T18:02:21+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1rxlv78</id>
     <title>Mình muốn tạo nhóm bạn làm remote ở Quảng Ngãi</title>
     <updated>2026-03-19T00:43:33+00:00</updated>
@@ -227,6 +175,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1rxlv78/mình_muốn_tạo_nhóm_bạn_làm_remote_ở_quảng_ngãi/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-03-19T00:43:33+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1rxb8uq</id>
+    <title>các bạn 8x9x có bị áp lực cuộc sống như mình không</title>
+    <updated>2026-03-18T18:02:21+00:00</updated>
+    <author>
+      <name>/u/hyehuy</name>
+      <uri>https://old.reddit.com/user/hyehuy</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1rxb8uq/các_bạn_8x9x_có_bị_áp_lực_cuộc_sống_như_mình_không/"&gt; &lt;img alt="các bạn 8x9x có bị áp lực cuộc sống như mình không" src="https://external-preview.redd.it/bnowMzhkcTBmdXBnMbanfOb_QxcxHVYiZooTI5gFgD3GUfdBjlSzKGOpCGKc.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=dd7d62fce5c8909f9ae34b0912fddf88e6c671dc" title="các bạn 8x9x có bị áp lực cuộc sống như mình không" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;mỗi lần nghe radio là lại nhớ thời thơ ấu các bác ạ. Lúc đấy vẫn còn ông bà ngoại, ông bà thương mình lắm,... mình chỉ việc đi học thôi, về là mua đồ ăn vặt xung quanh trường, đi bấm điện tử, đọc truyện tranh,.... Cứ mong cho mình mau lớn muốn làm gì thì làm ko bị ai quản lý.... Giờ lớn rồi thì 🥹. Em ước chi mấy năm nữa kiếm miếng đất vùng ven trồng cây nuôi gà,... sáng dậy sớm nghe radio cho cuộc sống trôi qua thật chậm thôi các bác ạ 😞 Mọi thứ thời nay vùn vụt quá, em sợ khi bất giác nhìn lại thì đã đầu mình đã bạc😔&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/hyehuy"&gt; /u/hyehuy &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://v.redd.it/gpewmc21fupg1"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rxb8uq/các_bạn_8x9x_có_bị_áp_lực_cuộc_sống_như_mình_không/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rxb8uq/các_bạn_8x9x_có_bị_áp_lực_cuộc_sống_như_mình_không/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-18T18:02:21+00:00</published>
   </entry>
   <entry>
     <id>t3_1rx5gcm</id>
@@ -253,6 +214,45 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1rxp4q6/thói_quen_uống_nước_tốt_cho_cơ_thể/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-03-19T03:07:33+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1rxrs9l</id>
+    <title>Xin bí quyết đặt câu hỏi khi nhận đầu việc mới</title>
+    <updated>2026-03-19T05:22:26+00:00</updated>
+    <author>
+      <name>/u/Necessary_Anything13</name>
+      <uri>https://old.reddit.com/user/Necessary_Anything13</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em đang gặp vấn đề là khi bắt tay vào việc, phát sinh vấn đề thắc mắc mới đi hỏi lại leader. Em xin mẹo để cải thiện hoặc kinh nghiệm khi anh chị làm đầu việc mới&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Necessary_Anything13"&gt; /u/Necessary_Anything13 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rxrs9l/xin_bí_quyết_đặt_câu_hỏi_khi_nhận_đầu_việc_mới/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rxrs9l/xin_bí_quyết_đặt_câu_hỏi_khi_nhận_đầu_việc_mới/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rxrs9l/xin_bí_quyết_đặt_câu_hỏi_khi_nhận_đầu_việc_mới/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-19T05:22:26+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1rxsko0</id>
+    <title>Mọi người cho mìnhhỏi , nếu 1 người biết số điện thoai và zalo của mình. Thì họ có tìm ra được địa chỉ nhà của mình ko?</title>
+    <updated>2026-03-19T06:08:07+00:00</updated>
+    <author>
+      <name>/u/Longjumping-Taro386</name>
+      <uri>https://old.reddit.com/user/Longjumping-Taro386</uri>
+    </author>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Longjumping-Taro386"&gt; /u/Longjumping-Taro386 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rxsko0/mọi_người_cho_mìnhhỏi_nếu_1_người_biết_số_điện/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rxsko0/mọi_người_cho_mìnhhỏi_nếu_1_người_biết_số_điện/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rxsko0/mọi_người_cho_mìnhhỏi_nếu_1_người_biết_số_điện/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-19T06:08:07+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1rxrqke</id>
+    <title>Có bác nào biết máy tính e bị sao và cách giải quyết vấn đề này không ạ</title>
+    <updated>2026-03-19T05:19:50+00:00</updated>
+    <author>
+      <name>/u/Mr-Monolver</name>
+      <uri>https://old.reddit.com/user/Mr-Monolver</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1rxrqke/có_bác_nào_biết_máy_tính_e_bị_sao_và_cách_giải/"&gt; &lt;img alt="Có bác nào biết máy tính e bị sao và cách giải quyết vấn đề này không ạ" src="https://preview.redd.it/im9ac7e8sxpg1.jpg?width=140&amp;amp;height=105&amp;amp;auto=webp&amp;amp;s=b322d73fae19314cb01938ecad7e2dd5a1d9e4f5" title="Có bác nào biết máy tính e bị sao và cách giải quyết vấn đề này không ạ" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là nay e đi học về thì thấy màn hình máy tính có một cái tâm đỏ ngay chính giữa luôn, dù tối hôm qua em vẫn dùng máy bình thường. Em đã cố gắng để xoá cái tâm đấy đi mà vẫn không được, tắt máy bật lại thì nó hiện chình ình ở màn hình đăng nhập nên e đang lo máy e bị virus😭 . Khổ cái là ngoài chơi game với xem ytb ra thì em cx không táy máy nghịch cái gì hết. Với lại kiến thức về pc của e cũng thiếu sót nhiều nên bác nào có kinh nghiệm có thể giúp em với được không ạ. Em xin cảm ơn (btw e mới tậu bộ này hơn 3 tháng thôi).&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Mr-Monolver"&gt; /u/Mr-Monolver &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1rxrqke"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rxrqke/có_bác_nào_biết_máy_tính_e_bị_sao_và_cách_giải/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rxrqke/có_bác_nào_biết_máy_tính_e_bị_sao_và_cách_giải/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-19T05:19:50+00:00</published>
   </entry>
   <entry>
     <id>t3_1rxlg7s</id>
