@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-03-20T21:03:07+00:00</updated>
+  <updated>2026-03-20T21:44:26+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1rykah1</id>
-    <title>Xăng lại lên rồi…</title>
-    <updated>2026-03-20T02:32:25+00:00</updated>
-    <author>
-      <name>/u/VietAnhisme</name>
-      <uri>https://old.reddit.com/user/VietAnhisme</uri>
-    </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/VietAnhisme"&gt; /u/VietAnhisme &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rykah1/xăng_lại_lên_rồi/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rykah1/xăng_lại_lên_rồi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rykah1/xăng_lại_lên_rồi/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-20T02:32:25+00:00</published>
-  </entry>
   <entry>
     <id>t3_1ryx63g</id>
     <title>Pháp lý về việc thêm micro-transaction trong game?</title>
@@ -110,6 +97,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1rz1cof/định_hướng_nghề_nghiệp/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-03-20T16:42:15+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1rz2cts</id>
+    <title>Dân việt nam khoái thuyết âm mưu nhỉ, tiêu biểu là ngay cái sub này</title>
+    <updated>2026-03-20T17:19:08+00:00</updated>
+    <author>
+      <name>/u/s0cth0i</name>
+      <uri>https://old.reddit.com/user/s0cth0i</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1rz2cts/dân_việt_nam_khoái_thuyết_âm_mưu_nhỉ_tiêu_biểu_là/"&gt; &lt;img alt="Dân việt nam khoái thuyết âm mưu nhỉ, tiêu biểu là ngay cái sub này" src="https://preview.redd.it/88ru63jih8qg1.jpg?width=140&amp;amp;height=140&amp;amp;crop=1:1,smart&amp;amp;auto=webp&amp;amp;s=51008480349367554bd60a4ddefa2ba1edfe1d00" title="Dân việt nam khoái thuyết âm mưu nhỉ, tiêu biểu là ngay cái sub này" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Có mỗi chuyện tranh cãi thông thường trong xã hội mà cũng cố suy diễn ra bằng được là có bàn tay thao túng tâm lý để kiếm tiền, rồi thì bọn elite bày trò, bla bla.... Hình như nhiều người không suy diễn là thấy mình không tồn tại hay sao ấy nhỉ? Luôn phải tỏ ra nguy hiểm, phải chứng tỏ mình có tầm nhìn vũ trụ để ra vẻ mới được. Ví dụ: &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/s0cth0i"&gt; /u/s0cth0i &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1rz2cts"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rz2cts/dân_việt_nam_khoái_thuyết_âm_mưu_nhỉ_tiêu_biểu_là/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rz2cts/dân_việt_nam_khoái_thuyết_âm_mưu_nhỉ_tiêu_biểu_là/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-20T17:19:08+00:00</published>
   </entry>
   <entry>
     <id>t3_1rz4g5f</id>
@@ -216,19 +216,6 @@
     <published>2026-03-20T06:03:53+00:00</published>
   </entry>
   <entry>
-    <id>t3_1rz38js</id>
-    <title>những dấu hiệu nào cho thấy một người đang có ý định tự tử?</title>
-    <updated>2026-03-20T17:52:19+00:00</updated>
-    <author>
-      <name>/u/DueAardvark1943</name>
-      <uri>https://old.reddit.com/user/DueAardvark1943</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, đến bây giờ em vẫn còn thấy sốc và vẫn chưa chấp nhận được cái chết của bạn em. &lt;/p&gt; &lt;p&gt;Em từng có một người bạn thân, tụi em chủ yếu liên lạc qua mess. Đối với em, bạn là người hài hước, rất tích cực, biết quan tâm người khác và cũng từng là người nghe em giải bày những chuyện tâm sự buồn vui. Lúc còn sống, có lần bạn chia sẻ với em rằng ba mẹ sắp ly hôn. Em đã cố gắng an ủi và hỏi thăm bạn thường xuyên. Nhưng mỗi lần nói chuyện, bạn vẫn rất vui vẻ, nên em nghĩ mọi chuyện không quá nghiêm trọng.&lt;/p&gt; &lt;p&gt;Sau đó một thời gian, tài khoản của bạn không còn hoạt động. Em chỉ nghĩ là bạn mất acc. Hơn một năm sau, em mới biết bạn đã tự tử vì cắt cổ tay.&lt;/p&gt; &lt;p&gt;Em thật sự sốc. Đêm đó em đã thức trắng và khóc rất nhiều. Em buồn vì bạn phải chịu những áp lực nặng nề đó một mình. Em cũng buồn vì bạn đã không chia sẻ cho em biết bạn đang không ổn, nếu biết, có lẽ em có thể làm gì đó để giữ bạn lại. Em tự hỏi tại sao một người lạc quan như bạn tại sao lại chọn quyết định kết thúc như vậy? Điều gì đã đẩy bn đến hoàn cảnh như vậy, có phải nguyên nhân từ gia đình bn ko? Sau khi bn đi, ba mẹ bn cũng ko làm cho bn một đám tang tử tế dù họ thuộc dạng giàu có. Anh em, bạn bè cũ dưới quê mới góp tiền làm một cái đám tiễn bạn đi. Bạn được đưa về quê nội để an nghỉ. Em chỉ đc nghe kể về gia đình bn ấy không hạnh phúc. Ba mẹ li hôn nhưng vì lí do gì đó vẫn ở chung với bn. cả hai có nhiều người tình bên ngoài và thường xuyên không ở nhà trong thời gian dài. Ba mẹ bn là người kiểm soát cấm không cho yêu đương hay nhắn tin. Vì vậy,nhiều lúc bn off mấy tháng mới onl nhắn vs em một chút. Vậy mà giờ đây, sau một năm mất liên lạc, tin đầu tiên em nghe về bạn lại là tin bn tự tử. Em có rất nhiều câu hỏi. Nhưng em muốn biết làm thế nào để biết bạn bè, ng thân xung quanh mình đang có ý định kết thúc cuộc sống. Mình có thể làm.gì để giúp họ vượt qua trầm cảm. Thế giới của họ như thế nào?. Em muốn hiểu vì em không muốn mất thêm một ai quan trọng hoặc có thể giúp một ai đó khi họ tuyệt vọng. Cuối lời, em xin cảm ơn các anh chị đã lắng nghe bài viết của em. Bài viết này cũng phần nào giải tỏa cảm giác ray rứt, mất mát của em trong mấy ngày nay. Chúc anh chị nhiều sức khỏe và nhiều niềm vui trong cuộc sống.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/DueAardvark1943"&gt; /u/DueAardvark1943 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rz38js/những_dấu_hiệu_nào_cho_thấy_một_người_đang_có_ý/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rz38js/những_dấu_hiệu_nào_cho_thấy_một_người_đang_có_ý/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rz38js/những_dấu_hiệu_nào_cho_thấy_một_người_đang_có_ý/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-20T17:52:19+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1ryrsm8</id>
     <title>Xin lời khuyên của mọi người về đàn ông khi stress ạ!!!</title>
     <updated>2026-03-20T09:37:57+00:00</updated>
@@ -279,6 +266,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1rz1k3l/em_cần_lời_khuyên_ạ/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-03-20T16:49:53+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1rz38js</id>
+    <title>những dấu hiệu nào cho thấy một người đang có ý định tự tử?</title>
+    <updated>2026-03-20T17:52:19+00:00</updated>
+    <author>
+      <name>/u/DueAardvark1943</name>
+      <uri>https://old.reddit.com/user/DueAardvark1943</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, đến bây giờ em vẫn còn thấy sốc và vẫn chưa chấp nhận được cái chết của bạn em. &lt;/p&gt; &lt;p&gt;Em từng có một người bạn thân, tụi em chủ yếu liên lạc qua mess. Đối với em, bạn là người hài hước, rất tích cực, biết quan tâm người khác và cũng từng là người nghe em giải bày những chuyện tâm sự buồn vui. Lúc còn sống, có lần bạn chia sẻ với em rằng ba mẹ sắp ly hôn. Em đã cố gắng an ủi và hỏi thăm bạn thường xuyên. Nhưng mỗi lần nói chuyện, bạn vẫn rất vui vẻ, nên em nghĩ mọi chuyện không quá nghiêm trọng.&lt;/p&gt; &lt;p&gt;Sau đó một thời gian, tài khoản của bạn không còn hoạt động. Em chỉ nghĩ là bạn mất acc. Hơn một năm sau, em mới biết bạn đã tự tử vì cắt cổ tay.&lt;/p&gt; &lt;p&gt;Em thật sự sốc. Đêm đó em đã thức trắng và khóc rất nhiều. Em buồn vì bạn phải chịu những áp lực nặng nề đó một mình. Em cũng buồn vì bạn đã không chia sẻ cho em biết bạn đang không ổn, nếu biết, có lẽ em có thể làm gì đó để giữ bạn lại. Em tự hỏi tại sao một người lạc quan như bạn tại sao lại chọn quyết định kết thúc như vậy? Điều gì đã đẩy bn đến hoàn cảnh như vậy, có phải nguyên nhân từ gia đình bn ko? Sau khi bn đi, ba mẹ bn cũng ko làm cho bn một đám tang tử tế dù họ thuộc dạng giàu có. Anh em, bạn bè cũ dưới quê mới góp tiền làm một cái đám tiễn bạn đi. Bạn được đưa về quê nội để an nghỉ. Em chỉ đc nghe kể về gia đình bn ấy không hạnh phúc. Ba mẹ li hôn nhưng vì lí do gì đó vẫn ở chung với bn. cả hai có nhiều người tình bên ngoài và thường xuyên không ở nhà trong thời gian dài. Ba mẹ bn là người kiểm soát cấm không cho yêu đương hay nhắn tin. Vì vậy,nhiều lúc bn off mấy tháng mới onl nhắn vs em một chút. Vậy mà giờ đây, sau một năm mất liên lạc, tin đầu tiên em nghe về bạn lại là tin bn tự tử. Em có rất nhiều câu hỏi. Nhưng em muốn biết làm thế nào để biết bạn bè, ng thân xung quanh mình đang có ý định kết thúc cuộc sống. Mình có thể làm.gì để giúp họ vượt qua trầm cảm. Thế giới của họ như thế nào?. Em muốn hiểu vì em không muốn mất thêm một ai quan trọng hoặc có thể giúp một ai đó khi họ tuyệt vọng. Cuối lời, em xin cảm ơn các anh chị đã lắng nghe bài viết của em. Bài viết này cũng phần nào giải tỏa cảm giác ray rứt, mất mát của em trong mấy ngày nay. Chúc anh chị nhiều sức khỏe và nhiều niềm vui trong cuộc sống.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/DueAardvark1943"&gt; /u/DueAardvark1943 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rz38js/những_dấu_hiệu_nào_cho_thấy_một_người_đang_có_ý/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rz38js/những_dấu_hiệu_nào_cho_thấy_một_người_đang_có_ý/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rz38js/những_dấu_hiệu_nào_cho_thấy_một_người_đang_có_ý/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-20T17:52:19+00:00</published>
   </entry>
   <entry>
     <id>t3_1rymhsd</id>
