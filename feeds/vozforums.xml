@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-03-21T09:46:00+00:00</updated>
+  <updated>2026-03-21T10:25:41+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -99,19 +99,6 @@
     <published>2026-03-21T08:46:51+00:00</published>
   </entry>
   <entry>
-    <id>t3_1rzn7uw</id>
-    <title>đi làm liệu có phải chỉ để làm</title>
-    <updated>2026-03-21T09:32:26+00:00</updated>
-    <author>
-      <name>/u/highqualityoo</name>
-      <uri>https://old.reddit.com/user/highqualityoo</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;chào mọi người em (M, 22), học kiến trúc. Em bắt đầu thực tập từ năm 3 và hiện vẫn đang đi tt. Lúc mới thực tập thì e luôn nghĩ cứ cố gắng hết mình, chăm chỉ cầy cuốc hết mức để chứng minh năng lực, nhưng sau một thời gian mặc dù bản thân cũng cảm thấy nhận được một số thứ về kinh nghiệm làm việc nhưng e thì lại cảm thấy kiệt quệ tinh thần nên quyết định nghỉ làm. Cho đến chỗ làm hiện tại mặc dù bản thân cảm thấy khá thoải mái ( bây giờ) nhưng e vẫn có cảm giác sẽ lại giống như hồi trước, đi làm rồi chỉ &amp;quot; làm&amp;quot; không có gì khác. Bản thân e luôn có mặc định rằng phải làm nhiều, phải vắt sức của bản thân ra thì ngta sẽ để ý đến mình. Mọi người thường bảo e hãy cố gắng giao tiếp nhiều hơn với mọi người, e đã thử nhưng không biết nên làm quen đến mức độ nào và khi quen r thì làm gì tiếp. Mọi người có thể cho e xin chút lời khuyên: đi làm thì ngoài làm việc ra mọi người tìm kiếm điều gì, đi làm không phải chỉ cắm mặt làm thì nên làm gì được không ạ, cũng như với những ai trong ngành thì e nên có những bước gì để không bị cái mác thợ vẽ thuê ạ. Em cảm ơn&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/highqualityoo"&gt; /u/highqualityoo &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rzn7uw/đi_làm_liệu_có_phải_chỉ_để_làm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rzn7uw/đi_làm_liệu_có_phải_chỉ_để_làm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rzn7uw/đi_làm_liệu_có_phải_chỉ_để_làm/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-21T09:32:26+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1rzn9kp</id>
     <title>MBA ở Singapore có đáng không?</title>
     <updated>2026-03-21T09:35:26+00:00</updated>
@@ -123,19 +110,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1rzn9kp/mba_ở_singapore_có_đáng_không/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-03-21T09:35:26+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1rzic8m</id>
-    <title>Tư vấn nhảy việc</title>
-    <updated>2026-03-21T04:34:39+00:00</updated>
-    <author>
-      <name>/u/Ill_Theory926</name>
-      <uri>https://old.reddit.com/user/Ill_Theory926</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1rzic8m/tư_vấn_nhảy_việc/"&gt; &lt;img alt="Tư vấn nhảy việc" src="https://preview.redd.it/plehosg1ubqg1.jpeg?width=320&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=65427c86f16838d809b583447f0bde7850423fce" title="Tư vấn nhảy việc" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;hello các bác, tình hình thì em là dev Java backend, tính đến thời điểm hiện tại chắc 4 Yoe (em sn 2k), hiện em đang làm ở 1 cty product Việt nhỏ được 1 năm và được ownership khá nhiều service core (tech stack cũng ổn k phải lỗi thời), lương em sau đợt review này chắc lên được 3x (dưới trung học), em có đi phỏng vấn nhưng các dự án đó có vẻ không ngon, các bác cho em lời khuyên là giờ dự án không ngon lắm nhưng lương cao hơn hoặc ở đây làm tiếp với product. Nhìn các bạn đồng trang lứa lương 5x áp lực ngang các bác ạ 🥲 (peer pressure). Cảm ơn các bác.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ill_Theory926"&gt; /u/Ill_Theory926 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/plehosg1ubqg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rzic8m/tư_vấn_nhảy_việc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rzic8m/tư_vấn_nhảy_việc/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-21T04:34:39+00:00</published>
   </entry>
   <entry>
     <id>t3_1rzh4t6</id>
@@ -190,6 +164,19 @@
     <published>2026-03-21T05:48:48+00:00</published>
   </entry>
   <entry>
+    <id>t3_1rzic8m</id>
+    <title>Tư vấn nhảy việc</title>
+    <updated>2026-03-21T04:34:39+00:00</updated>
+    <author>
+      <name>/u/Ill_Theory926</name>
+      <uri>https://old.reddit.com/user/Ill_Theory926</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1rzic8m/tư_vấn_nhảy_việc/"&gt; &lt;img alt="Tư vấn nhảy việc" src="https://preview.redd.it/plehosg1ubqg1.jpeg?width=320&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=65427c86f16838d809b583447f0bde7850423fce" title="Tư vấn nhảy việc" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;hello các bác, tình hình thì em là dev Java backend, tính đến thời điểm hiện tại chắc 4 Yoe (em sn 2k), hiện em đang làm ở 1 cty product Việt nhỏ được 1 năm và được ownership khá nhiều service core (tech stack cũng ổn k phải lỗi thời), lương em sau đợt review này chắc lên được 3x (dưới trung học), em có đi phỏng vấn nhưng các dự án đó có vẻ không ngon, các bác cho em lời khuyên là giờ dự án không ngon lắm nhưng lương cao hơn hoặc ở đây làm tiếp với product. Nhìn các bạn đồng trang lứa lương 5x áp lực ngang các bác ạ 🥲 (peer pressure). Cảm ơn các bác.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ill_Theory926"&gt; /u/Ill_Theory926 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/plehosg1ubqg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rzic8m/tư_vấn_nhảy_việc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rzic8m/tư_vấn_nhảy_việc/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-21T04:34:39+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1ryzzwh</id>
     <title>Cần tip tán girl mọt sách</title>
     <updated>2026-03-20T15:51:58+00:00</updated>
@@ -203,17 +190,17 @@
     <published>2026-03-20T15:51:58+00:00</published>
   </entry>
   <entry>
-    <id>t3_1rzh61j</id>
-    <title>Phải chămg 30 là deadend để kiếm bạn gái</title>
-    <updated>2026-03-21T03:33:11+00:00</updated>
+    <id>t3_1rzn7uw</id>
+    <title>đi làm liệu có phải chỉ để làm</title>
+    <updated>2026-03-21T09:32:26+00:00</updated>
     <author>
-      <name>/u/No_Reality_6047</name>
-      <uri>https://old.reddit.com/user/No_Reality_6047</uri>
+      <name>/u/highqualityoo</name>
+      <uri>https://old.reddit.com/user/highqualityoo</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;T thấy rất nhiều ông 30 mà trước giờ chưa nắm tay gái, chỉ cắm đầu đi làm thì sau 30 gần như hết cơ hội kiếm bạn gái? Và hình như cái hội trên 30 kiểu này ngày càng nhiều thì phải. Kiểu chỉ làm con ngoan trò giỏi, đi học xong rồi đi làm, đến khi có tuổi thì ko biết tán gái thế nào. Kiểu này chẳng lẻ ế cả đời hả mấy fen&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/No_Reality_6047"&gt; /u/No_Reality_6047 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rzh61j/phải_chămg_30_là_deadend_để_kiếm_bạn_gái/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rzh61j/phải_chămg_30_là_deadend_để_kiếm_bạn_gái/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rzh61j/phải_chămg_30_là_deadend_để_kiếm_bạn_gái/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;chào mọi người em (M, 22), học kiến trúc. Em bắt đầu thực tập từ năm 3 và hiện vẫn đang đi tt. Lúc mới thực tập thì e luôn nghĩ cứ cố gắng hết mình, chăm chỉ cầy cuốc hết mức để chứng minh năng lực, nhưng sau một thời gian mặc dù bản thân cũng cảm thấy nhận được một số thứ về kinh nghiệm làm việc nhưng e thì lại cảm thấy kiệt quệ tinh thần nên quyết định nghỉ làm. Cho đến chỗ làm hiện tại mặc dù bản thân cảm thấy khá thoải mái ( bây giờ) nhưng e vẫn có cảm giác sẽ lại giống như hồi trước, đi làm rồi chỉ &amp;quot; làm&amp;quot; không có gì khác. Bản thân e luôn có mặc định rằng phải làm nhiều, phải vắt sức của bản thân ra thì ngta sẽ để ý đến mình. Mọi người thường bảo e hãy cố gắng giao tiếp nhiều hơn với mọi người, e đã thử nhưng không biết nên làm quen đến mức độ nào và khi quen r thì làm gì tiếp. Mọi người có thể cho e xin chút lời khuyên: đi làm thì ngoài làm việc ra mọi người tìm kiếm điều gì, đi làm không phải chỉ cắm mặt làm thì nên làm gì được không ạ, cũng như với những ai trong ngành thì e nên có những bước gì để không bị cái mác thợ vẽ thuê ạ. Em cảm ơn&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/highqualityoo"&gt; /u/highqualityoo &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rzn7uw/đi_làm_liệu_có_phải_chỉ_để_làm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rzn7uw/đi_làm_liệu_có_phải_chỉ_để_làm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rzn7uw/đi_làm_liệu_có_phải_chỉ_để_làm/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-21T03:33:11+00:00</published>
+    <published>2026-03-21T09:32:26+00:00</published>
   </entry>
   <entry>
     <id>t3_1rzjn4s</id>
@@ -253,6 +240,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1rzfsk8/có_200_triệu_trong_tài_khoản_nên_gửi_ngân_hàng_nào/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-03-21T02:25:13+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1rzh61j</id>
+    <title>Phải chămg 30 là deadend để kiếm bạn gái</title>
+    <updated>2026-03-21T03:33:11+00:00</updated>
+    <author>
+      <name>/u/No_Reality_6047</name>
+      <uri>https://old.reddit.com/user/No_Reality_6047</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;T thấy rất nhiều ông 30 mà trước giờ chưa nắm tay gái, chỉ cắm đầu đi làm thì sau 30 gần như hết cơ hội kiếm bạn gái? Và hình như cái hội trên 30 kiểu này ngày càng nhiều thì phải. Kiểu chỉ làm con ngoan trò giỏi, đi học xong rồi đi làm, đến khi có tuổi thì ko biết tán gái thế nào. Kiểu này chẳng lẻ ế cả đời hả mấy fen&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/No_Reality_6047"&gt; /u/No_Reality_6047 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rzh61j/phải_chămg_30_là_deadend_để_kiếm_bạn_gái/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rzh61j/phải_chămg_30_là_deadend_để_kiếm_bạn_gái/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1rzh61j/phải_chămg_30_là_deadend_để_kiếm_bạn_gái/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-21T03:33:11+00:00</published>
   </entry>
   <entry>
     <id>t3_1rzf1bk</id>
