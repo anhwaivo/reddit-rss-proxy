@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-03-22T14:13:57+00:00</updated>
+  <updated>2026-03-22T14:47:43+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1rzcw2l</id>
-    <title>Ae nghĩ thế nào về chuyện này ? 🤔</title>
-    <updated>2026-03-21T00:12:31+00:00</updated>
-    <author>
-      <name>/u/Expensive_Pin6421</name>
-      <uri>https://old.reddit.com/user/Expensive_Pin6421</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1rzcw2l/ae_nghĩ_thế_nào_về_chuyện_này/"&gt; &lt;img alt="Ae nghĩ thế nào về chuyện này ? 🤔" src="https://preview.redd.it/4o7j13p0jaqg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=2d88181a400f9f0144e51c511589cb2889c6b84e" title="Ae nghĩ thế nào về chuyện này ? 🤔" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Expensive_Pin6421"&gt; /u/Expensive_Pin6421 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/4o7j13p0jaqg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1rzcw2l/ae_nghĩ_thế_nào_về_chuyện_này/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1rzcw2l/ae_nghĩ_thế_nào_về_chuyện_này/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-21T00:12:31+00:00</published>
-  </entry>
   <entry>
     <id>t3_1rzx31t</id>
     <title>Mọi người có tiếc nuối điều gì ở thời cấp 3 không?</title>
@@ -32,19 +19,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1rzx31t/mọi_người_có_tiếc_nuối_điều_gì_ở_thời_cấp_3_không/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-03-21T17:18:22+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1s0dz9h</id>
-    <title>Khi nào M5 Pro mở bán.</title>
-    <updated>2026-03-22T06:01:42+00:00</updated>
-    <author>
-      <name>/u/Quixotic_1909</name>
-      <uri>https://old.reddit.com/user/Quixotic_1909</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, em muốn biết thêm thông khi nào MBP M5 Pro mở bán tại nước mình ạ. Không biết anh chị có thông tin về việc này không ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Quixotic_1909"&gt; /u/Quixotic_1909 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s0dz9h/khi_nào_m5_pro_mở_bán/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s0dz9h/khi_nào_m5_pro_mở_bán/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1s0dz9h/khi_nào_m5_pro_mở_bán/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-22T06:01:42+00:00</published>
   </entry>
   <entry>
     <id>t3_1s0i9cv</id>
@@ -125,17 +99,43 @@
     <published>2026-03-22T14:09:46+00:00</published>
   </entry>
   <entry>
-    <id>t3_1s0mny1</id>
-    <title>VTV cứu lượt xem phim truyền hình một cách rẻ tiền</title>
-    <updated>2026-03-22T14:12:09+00:00</updated>
+    <id>t3_1s0mt6f</id>
+    <title>Liệu có tốt?</title>
+    <updated>2026-03-22T14:18:14+00:00</updated>
     <author>
-      <name>/u/Fake_Interpreter</name>
-      <uri>https://old.reddit.com/user/Fake_Interpreter</uri>
+      <name>/u/Delicious_Society735</name>
+      <uri>https://old.reddit.com/user/Delicious_Society735</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Trước tiên, mình cũng chỉ xem phim truyền hình VTV với tâm thế là giải trí sau bữa tối cùng gia đình. Công việc mình ko liên quan đến truyền hình cũng ko dám nhận là người rành xem phim nên quan điểm của mình có thể sai mong mọi người ko gạch đá mình 😅&lt;/p&gt; &lt;p&gt;Quay lại vấn đề chính vì sao mình lại nói như vậy? Trước đây công nhận VTV có nhiều phim đáng xem, kịch bản khá oke để xem cùng gia đình nhưng bắt đầu dạo gần đây VTV có cách làm phim thực sự đáng thất vọng. Ví dụ như &amp;quot;Cầu vồng ở phía chân trời&amp;quot; mỗi cái vấn đề đó mà câu độ bao nhiêu tập, xem thực sự rất chán. Hay mới gần đây với phim &amp;quot;Đồng hồ đếm ngược&amp;quot; ở tập 14 khai thác những cảnh nóng thật sự quá lệch lạc với một bộ phim truyền hình. Phim xem cùng gia đình mà như vậy thì mình cũng phải chịu với thằng viết kịch bản. &lt;/p&gt; &lt;p&gt;Mình cảm giác như VTV dùng những cảnh nóng, kịch bản phim vớ vẩn vậy chỉ để câu view một cách rẻ tiền thay vì thực sự để tâm vào chiều sâu và giá trị bộ phim. Còn mọi người thấy sao?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Fake_Interpreter"&gt; /u/Fake_Interpreter &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s0mny1/vtv_cứu_lượt_xem_phim_truyền_hình_một_cách_rẻ_tiền/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s0mny1/vtv_cứu_lượt_xem_phim_truyền_hình_một_cách_rẻ_tiền/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1s0mny1/vtv_cứu_lượt_xem_phim_truyền_hình_một_cách_rẻ_tiền/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;e là nữ, e có thói quen cầm đt là vào đây hoặc vào diễn đàn voz để đọc bài, rồi vào kính lúp hoặc seachr voz &amp;quot;chán nản mất động lực&amp;quot;, voz &amp;quot;cô độc&amp;quot; rồi xem có ai đăng bài giống hoàn cảnh mình ko, rồi đọc cmt tìm kiếm những lời khuyên, xem bây giờ mình nên nghĩ thế nào mới tốt mới phải. Có lẽ em tìm kiếm sự đồng cảm và người dẫn lối. có lẽ e nghiện đọc voz và reddit này. ngày làm việc nhưng trong e luôn có sự stress bực bội chán nản, một ngày e cũng muốn dành tg lên giường gặm nhấm overthinking về những gì diễn ra cả ngày hôm đó và&lt;/p&gt; &lt;p&gt;e cũng hay lên các nhóm fb để đăng bài than vãn giải tỏa cảm xúc, và đọc cmt. rồi ngày nào e cũng đăng nhiều bài nhiều nhóm và có những nhóm e s.pam nhiều nên đã ko đăng đc nữa. các bác nghĩ e có nên bỏ những thói quen này ko. Nt với ai e cũng chỉ xả cảm xúc tiêu cực với họ, e sợ họ bị ảnh hưởng nên e cũng ko muốn nhắn nhiều chứ ko lại đầu độc sự tiêu cực lên họ.các bác nghĩ e có nên bỏ những thói quen này ko. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Delicious_Society735"&gt; /u/Delicious_Society735 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s0mt6f/liệu_có_tốt/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s0mt6f/liệu_có_tốt/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1s0mt6f/liệu_có_tốt/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-22T14:12:09+00:00</published>
+    <published>2026-03-22T14:18:14+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1s0mtut</id>
+    <title>Tội sợ bị lộ thông tin trên không gian mạng</title>
+    <updated>2026-03-22T14:18:59+00:00</updated>
+    <author>
+      <name>/u/d3ytra</name>
+      <uri>https://old.reddit.com/user/d3ytra</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tôi có nỗi sợ bị lộ thông tin như số điện thoại cccd hay bất kì thứ gì khác &lt;/p&gt; &lt;p&gt;Cách đây vài năm tôi có bị dắt gửi cccd cho một người nào đó trên zalo nhưng lúc đó tôi vẫn còn một chút tỉnh táo nên che hết mọi thông tin chỉ chừa lại mặt và giới tính &lt;/p&gt; &lt;p&gt;Dù tỉnh táo nhưng tôi vẫn lo sợ ở một nơi nào đó chúng có tất cả thông tin về người thân sđt và mọi thứ &lt;/p&gt; &lt;p&gt;Sợ chúng mang thông tin đó đi vay app và một ngày nào đó chúng nó mang một đống rắc rối đổ vào đầu tôi&lt;/p&gt; &lt;p&gt;Mọi người cho mình xin cách bảo mật thông tin và cho tôi biết là tôi vẫn còn ổn với mxh này với ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/d3ytra"&gt; /u/d3ytra &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s0mtut/tội_sợ_bị_lộ_thông_tin_trên_không_gian_mạng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s0mtut/tội_sợ_bị_lộ_thông_tin_trên_không_gian_mạng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1s0mtut/tội_sợ_bị_lộ_thông_tin_trên_không_gian_mạng/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-22T14:18:59+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1s0n82v</id>
+    <title>làm mkt nhưng lại anti social</title>
+    <updated>2026-03-22T14:35:47+00:00</updated>
+    <author>
+      <name>/u/_maitram_</name>
+      <uri>https://old.reddit.com/user/_maitram_</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;dạo này mn có thấy mấy cái mấy cái mạng xã hội social media đồ nó cứ sao sao ko? kiểu nó định hướng dư luận nó drama nó ko có một tí chất dinh dưỡng nào luôn á&lt;/p&gt; &lt;p&gt;mọi người cứ đâm chọt nhau, nặng lời, lấy nổi đau người này làm câu chuyện trà nước (đó là chưa nói đến tiktok đồ á nhe, tiktok nó còn hại não hơn nữa). &lt;/p&gt; &lt;p&gt;hồi trc mình thích xem video chó mèo voi cá đồ các kiểu mà từ khi AI trở nên phổ biến, mỗi lần coi mấy video yêu thích mình lại ko biết là thiệt hay giả. Giờ lướt mxh ngoài việc đề phòng fake news, giờ còn đề phòng video by AI nữa chán ghê &lt;/p&gt; &lt;p&gt;làm digital mkt nhưng mà mình bị anti social 🤦🏼‍♀️ nghi ngờ luôn nhân sinh. Muốn bỏ nghề mà bỏ rồi lại ko biết làm gì huhu cứuuuuu&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/_maitram_"&gt; /u/_maitram_ &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s0n82v/làm_mkt_nhưng_lại_anti_social/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s0n82v/làm_mkt_nhưng_lại_anti_social/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1s0n82v/làm_mkt_nhưng_lại_anti_social/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-22T14:35:47+00:00</published>
   </entry>
   <entry>
     <id>t3_1rzzjpy</id>
@@ -164,19 +164,6 @@
     <published>2026-03-22T09:35:19+00:00</published>
   </entry>
   <entry>
-    <id>t3_1s0e7f4</id>
-    <title>Năm nay em 19t muốn đi nvqs</title>
-    <updated>2026-03-22T06:15:12+00:00</updated>
-    <author>
-      <name>/u/Consistent-Letter-45</name>
-      <uri>https://old.reddit.com/user/Consistent-Letter-45</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác, năm nay em học năm nhất đại học mà thấy mất phương hướng quá nên muốn đi nghĩa vụ, nhưng em lại bị cận 3 độ ở mắt phải và 2 độ ở mắt trái thì nếu em viết đơn tình nguyện liệu có dc tuyển không ạ. Tiện thể, các bác cho em hỏi em muốn ra đảo thì có đăng kí được không ạ😁Em xin chân thành cảm ơn&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Consistent-Letter-45"&gt; /u/Consistent-Letter-45 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s0e7f4/năm_nay_em_19t_muốn_đi_nvqs/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s0e7f4/năm_nay_em_19t_muốn_đi_nvqs/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1s0e7f4/năm_nay_em_19t_muốn_đi_nvqs/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-22T06:15:12+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1s0h85r</id>
     <title>Xe vinfast</title>
     <updated>2026-03-22T09:26:33+00:00</updated>
@@ -190,17 +177,17 @@
     <published>2026-03-22T09:26:33+00:00</published>
   </entry>
   <entry>
-    <id>t3_1s0jkzs</id>
-    <title>Chợt nhận ra ko có nổi đứa bạn khác giới</title>
-    <updated>2026-03-22T11:48:16+00:00</updated>
+    <id>t3_1s0e7f4</id>
+    <title>Năm nay em 19t muốn đi nvqs</title>
+    <updated>2026-03-22T06:15:12+00:00</updated>
     <author>
-      <name>/u/Commercial_Lie_525</name>
-      <uri>https://old.reddit.com/user/Commercial_Lie_525</uri>
+      <name>/u/Consistent-Letter-45</name>
+      <uri>https://old.reddit.com/user/Consistent-Letter-45</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Năm nay t 23t qua rồi thời đi học, nhận ra ​​​toàn tụi đực rựa vs nhau ko có lấy 1 đứa con gái, nhìu lúc chạy ngoài đường hay ngồi quán xá thấy hội bạn nam nữ đầy đủ cười đùa mà hâm mộ. N​ói chung có cơ hội mà k nắm bắt thời học sinh để nó trôi qua ​​cũng day dứt&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Commercial_Lie_525"&gt; /u/Commercial_Lie_525 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s0jkzs/chợt_nhận_ra_ko_có_nổi_đứa_bạn_khác_giới/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s0jkzs/chợt_nhận_ra_ko_có_nổi_đứa_bạn_khác_giới/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1s0jkzs/chợt_nhận_ra_ko_có_nổi_đứa_bạn_khác_giới/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác, năm nay em học năm nhất đại học mà thấy mất phương hướng quá nên muốn đi nghĩa vụ, nhưng em lại bị cận 3 độ ở mắt phải và 2 độ ở mắt trái thì nếu em viết đơn tình nguyện liệu có dc tuyển không ạ. Tiện thể, các bác cho em hỏi em muốn ra đảo thì có đăng kí được không ạ😁Em xin chân thành cảm ơn&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Consistent-Letter-45"&gt; /u/Consistent-Letter-45 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s0e7f4/năm_nay_em_19t_muốn_đi_nvqs/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s0e7f4/năm_nay_em_19t_muốn_đi_nvqs/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1s0e7f4/năm_nay_em_19t_muốn_đi_nvqs/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-22T11:48:16+00:00</published>
+    <published>2026-03-22T06:15:12+00:00</published>
   </entry>
   <entry>
     <id>t3_1s0c2cx</id>
@@ -214,6 +201,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1s0c2cx/cái_này_có_phải_cờ_bạc_không_anh_em/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-03-22T04:14:04+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1s0jkzs</id>
+    <title>Chợt nhận ra ko có nổi đứa bạn khác giới</title>
+    <updated>2026-03-22T11:48:16+00:00</updated>
+    <author>
+      <name>/u/Commercial_Lie_525</name>
+      <uri>https://old.reddit.com/user/Commercial_Lie_525</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Năm nay t 23t qua rồi thời đi học, nhận ra ​​​toàn tụi đực rựa vs nhau ko có lấy 1 đứa con gái, nhìu lúc chạy ngoài đường hay ngồi quán xá thấy hội bạn nam nữ đầy đủ cười đùa mà hâm mộ. N​ói chung có cơ hội mà k nắm bắt thời học sinh để nó trôi qua ​​cũng day dứt&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Commercial_Lie_525"&gt; /u/Commercial_Lie_525 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s0jkzs/chợt_nhận_ra_ko_có_nổi_đứa_bạn_khác_giới/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s0jkzs/chợt_nhận_ra_ko_có_nổi_đứa_bạn_khác_giới/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1s0jkzs/chợt_nhận_ra_ko_có_nổi_đứa_bạn_khác_giới/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-22T11:48:16+00:00</published>
   </entry>
   <entry>
     <id>t3_1s0juhg</id>
@@ -294,19 +294,6 @@
     <published>2026-03-22T10:07:26+00:00</published>
   </entry>
   <entry>
-    <id>t3_1s0lkj6</id>
-    <title>Có thiệt không ta? VTV chơi lớn vậy? 🤔</title>
-    <updated>2026-03-22T13:25:03+00:00</updated>
-    <author>
-      <name>/u/Expensive_Pin6421</name>
-      <uri>https://old.reddit.com/user/Expensive_Pin6421</uri>
-    </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Expensive_Pin6421"&gt; /u/Expensive_Pin6421 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/khsj7anbllqg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s0lkj6/có_thiệt_không_ta_vtv_chơi_lớn_vậy/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1s0lkj6/có_thiệt_không_ta_vtv_chơi_lớn_vậy/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-22T13:25:03+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1s0d8br</id>
     <title>Chuyện tán gẫu</title>
     <updated>2026-03-22T05:18:09+00:00</updated>
@@ -318,6 +305,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1s0d8br/chuyện_tán_gẫu/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-03-22T05:18:09+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1s0lkj6</id>
+    <title>Có thiệt không ta? VTV chơi lớn vậy? 🤔</title>
+    <updated>2026-03-22T13:25:03+00:00</updated>
+    <author>
+      <name>/u/Expensive_Pin6421</name>
+      <uri>https://old.reddit.com/user/Expensive_Pin6421</uri>
+    </author>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Expensive_Pin6421"&gt; /u/Expensive_Pin6421 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/khsj7anbllqg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s0lkj6/có_thiệt_không_ta_vtv_chơi_lớn_vậy/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1s0lkj6/có_thiệt_không_ta_vtv_chơi_lớn_vậy/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-22T13:25:03+00:00</published>
   </entry>
   <entry>
     <id>t3_1s0ld36</id>
