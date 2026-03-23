@@ -2,50 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-03-23T07:24:24+00:00</updated>
+  <updated>2026-03-23T08:12:06+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1s183xj</id>
-    <title>Xin tư vấn chỗ mua Mac M1 Pro cũ</title>
-    <updated>2026-03-23T05:18:00+00:00</updated>
-    <author>
-      <name>/u/saklovesyao</name>
-      <uri>https://old.reddit.com/user/saklovesyao</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em cần mua 1 con Mac M1 Pro cũ để làm việc trên cty, budget &amp;lt; 27M (cty chỉ cho có thế ạ). Các anh chị bạn nào có biết địa chỉ mua Mac cũ uy tín hàng tốt ở Hà Nội không ạ? Em cảm ơn ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/saklovesyao"&gt; /u/saklovesyao &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s183xj/xin_tư_vấn_chỗ_mua_mac_m1_pro_cũ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s183xj/xin_tư_vấn_chỗ_mua_mac_m1_pro_cũ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1s183xj/xin_tư_vấn_chỗ_mua_mac_m1_pro_cũ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-23T05:18:00+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1s1899i</id>
-    <title>Mong được các bác IT cứu vớt ạ</title>
-    <updated>2026-03-23T05:26:58+00:00</updated>
-    <author>
-      <name>/u/Far-Cellist1216</name>
-      <uri>https://old.reddit.com/user/Far-Cellist1216</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1s1899i/mong_được_các_bác_it_cứu_vớt_ạ/"&gt; &lt;img alt="Mong được các bác IT cứu vớt ạ" src="https://preview.redd.it/mm0vqjwvcqqg1.png?width=320&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=0b653c0fb574a0a106ca11837afb4314b7b063db" title="Mong được các bác IT cứu vớt ạ" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Kính chào các bác,&lt;/p&gt; &lt;p&gt;Em đang dùng phần mềm R để làm cái heatmap cho số liệu nghiên cứu, vì hoàn toàn mù IT nên em kêu ChatGPT viết cho em đoạn code để chạy. Về số liệu thì em thấy đúng rồi, mà kêu nó sửa tới sửa lui thì dòng tên loài phía dưới vẫn bị lỗi font. Em thấy trong đoạn code nó cho thì cũng có đề là &amp;quot;Times new roman&amp;quot; rồi mà k hiểu sao vẫn lỗi.&lt;br /&gt; Có bác nào rành cái này không chỉ giúp em với ạ. Đa tạ các bác nhiều 🙏&lt;br /&gt; Đây là đoạn code nó cho ạ. Sorry các bác em phải che chắn hình kẻo sau này quét đạo văn bị dính.&lt;br /&gt; # ---- TẠO LABEL IN NGHIÊNG GENUS + SPECIES ----&lt;/p&gt; &lt;p&gt;make_label &amp;lt;- function(x){&lt;/p&gt; &lt;p&gt; sapply(x, function(name){&lt;/p&gt; &lt;p&gt;parts &amp;lt;- strsplit(name, &amp;quot; &amp;quot;)[[1]]&lt;/p&gt; &lt;p&gt;if(length(parts) &amp;gt;= 2){&lt;/p&gt; &lt;p&gt;genus_species &amp;lt;- paste(parts[1], parts[2])&lt;/p&gt; &lt;p&gt;rest &amp;lt;- paste(parts[-c(1,2)], collapse=&amp;quot; &amp;quot;)&lt;/p&gt; &lt;p&gt;parse(text = paste0(&amp;quot;italic('&amp;quot;, genus_species, &amp;quot;')~'&amp;quot;, rest, &amp;quot;'&amp;quot;))&lt;/p&gt; &lt;p&gt;} else {&lt;/p&gt; &lt;p&gt;name&lt;/p&gt; &lt;p&gt;}&lt;/p&gt; &lt;p&gt; })&lt;/p&gt; &lt;p&gt;}&lt;/p&gt; &lt;p&gt;labels_expr &amp;lt;- make_label(levels(df$Var1)) &lt;/p&gt; &lt;p&gt;# ---- VẼ HEATMAP ----&lt;/p&gt; &lt;p&gt;p &amp;lt;- ggplot() + &lt;/p&gt; &lt;p&gt; # ANI - tam giác dưới (đỏ)&lt;/p&gt; &lt;p&gt; geom_tile(data = subset(df, type == &amp;quot;ANI&amp;quot; &amp;amp; i &amp;gt; j),&lt;/p&gt; &lt;p&gt;aes(Var2, Var1, fill = value),&lt;/p&gt; &lt;p&gt;color = &amp;quot;white&amp;quot;) +&lt;/p&gt; &lt;p&gt; scale_fill_gradient(low = &amp;quot;#fee5d9&amp;quot;,&lt;/p&gt; &lt;p&gt;high = &amp;quot;#a50f15&amp;quot;,&lt;/p&gt; &lt;p&gt;limits = c(80,100),&lt;/p&gt; &lt;p&gt;name = &amp;quot;ANI (%)&amp;quot;) +&lt;/p&gt; &lt;p&gt; new_scale_fill() +&lt;/p&gt; &lt;p&gt; # dDDH - tam giác trên (xanh)&lt;/p&gt; &lt;p&gt; geom_tile(data = subset(df, type == &amp;quot;dDDH&amp;quot; &amp;amp; i &amp;lt; j),&lt;/p&gt; &lt;p&gt;aes(Var2, Var1, fill = value),&lt;/p&gt; &lt;p&gt;color = &amp;quot;white&amp;quot;) +&lt;/p&gt; &lt;p&gt; scale_fill_gradient(low = &amp;quot;#eff3ff&amp;quot;,&lt;/p&gt; &lt;p&gt;high = &amp;quot;#08519c&amp;quot;,&lt;/p&gt; &lt;p&gt;limits = c(20,100),&lt;/p&gt; &lt;p&gt;name = &amp;quot;dDDH (%)&amp;quot;) +&lt;/p&gt; &lt;p&gt; # hiển thị số&lt;/p&gt; &lt;p&gt; # TEXT cho ANI&lt;/p&gt; &lt;p&gt; geom_text(data = subset(df, type == &amp;quot;ANI&amp;quot; &amp;amp; i &amp;gt; j),&lt;/p&gt; &lt;p&gt;aes(Var2, Var1,&lt;/p&gt; &lt;p&gt;label = sprintf(&amp;quot;%.1f&amp;quot;, value)),&lt;/p&gt; &lt;p&gt;size = 3.5,&lt;/p&gt; &lt;p&gt;family = &amp;quot;Times New Roman&amp;quot;,&lt;/p&gt; &lt;p&gt;color = &amp;quot;black&amp;quot;) +&lt;/p&gt; &lt;p&gt; # TEXT cho dDDH&lt;/p&gt; &lt;p&gt; geom_text(data = subset(df, type == &amp;quot;dDDH&amp;quot; &amp;amp; i &amp;lt; j),&lt;/p&gt; &lt;p&gt;aes(Var2, Var1,&lt;/p&gt; &lt;p&gt;label = sprintf(&amp;quot;%.1f&amp;quot;, value)),&lt;/p&gt; &lt;p&gt;size = 3.5,&lt;/p&gt; &lt;p&gt;family = &amp;quot;Times New Roman&amp;quot;,&lt;/p&gt; &lt;p&gt;color = &amp;quot;black&amp;quot;) +&lt;/p&gt; &lt;p&gt; # giữ thứ tự đúng và đảo trục Y để đường chéo nằm giữa&lt;/p&gt; &lt;p&gt; scale_x_discrete(labels = labels_expr) +&lt;/p&gt; &lt;p&gt; scale_y_discrete(&lt;/p&gt; &lt;p&gt;limits = rev(levels(df$Var1)),&lt;/p&gt; &lt;p&gt;labels = rev(labels_expr)&lt;/p&gt; &lt;p&gt; ) +&lt;/p&gt; &lt;p&gt; coord_fixed() +&lt;/p&gt; &lt;p&gt; theme_minimal(base_family = &amp;quot;Times New Roman&amp;quot;) +&lt;/p&gt; &lt;p&gt; theme(&lt;/p&gt; &lt;p&gt;axis.text.x = element_text(angle = 45, hjust = 1),&lt;/p&gt; &lt;p&gt;family = &amp;quot;Times New Roman&amp;quot;,&lt;/p&gt; &lt;p&gt;axis.title = element_blank(),&lt;/p&gt; &lt;p&gt;panel.grid = element_blank()&lt;/p&gt; &lt;p&gt; )&lt;/p&gt; &lt;p&gt;print(p)&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Far-Cellist1216"&gt; /u/Far-Cellist1216 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/mm0vqjwvcqqg1.png"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s1899i/mong_được_các_bác_it_cứu_vớt_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1s1899i/mong_được_các_bác_it_cứu_vớt_ạ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-23T05:26:58+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1s0d8br</id>
-    <title>Chuyện tán gẫu</title>
-    <updated>2026-03-22T05:18:09+00:00</updated>
-    <author>
-      <name>/u/No-Lingonberry5661</name>
-      <uri>https://old.reddit.com/user/No-Lingonberry5661</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1s0d8br/chuyện_tán_gẫu/"&gt; &lt;img alt="Chuyện tán gẫu" src="https://preview.redd.it/xulrf5rp6jqg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=727b135d1b26f20c734561ef0f976ec923fdbc16" title="Chuyện tán gẫu" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;‼ VIRAL: CHÀNG TRAI CHIA SẺ LỜI TỪ CHỐI TỎ TÌNH TỪ NGƯỜI CON GÁI ANH THÍCH: ĐẠT 5 TRIỆU LƯỢT XEM TRÊN X SAU MỘT ĐÊM VÌ ĐỘ TÀN KHỐC 💔&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/No-Lingonberry5661"&gt; /u/No-Lingonberry5661 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/xulrf5rp6jqg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s0d8br/chuyện_tán_gẫu/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1s0d8br/chuyện_tán_gẫu/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-22T05:18:09+00:00</published>
-  </entry>
   <entry>
     <id>t3_1s1a0wv</id>
     <title>Có nên mua đàn điện Dallas không?</title>
@@ -60,17 +21,17 @@
     <published>2026-03-23T07:14:43+00:00</published>
   </entry>
   <entry>
-    <id>t3_1s1a1oc</id>
-    <title>Chăm sóc tóc</title>
-    <updated>2026-03-23T07:16:00+00:00</updated>
+    <id>t3_1s1afqp</id>
+    <title>Làm gì để ra tiền từ lợi thế sẵn có?</title>
+    <updated>2026-03-23T07:40:46+00:00</updated>
     <author>
-      <name>/u/highkeyvn</name>
-      <uri>https://old.reddit.com/user/highkeyvn</uri>
+      <name>/u/Cultural-Project4124</name>
+      <uri>https://old.reddit.com/user/Cultural-Project4124</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các chị em, hoặc anh em có kinh nghiệm cho em xin sản phẩm dưỡng tóc khoẻ và bóng hơn ạ&lt;/p&gt; &lt;p&gt;em thấy tóc em đang trong tình trạng xù như đống rơm rồi ạ, ý là sờ thì nó vẫn mềm nhưng mà nhìn rối rối với cứ luộm thuộm kiểu gì nên em toàn tết tóc. Trước đó thì em chưa từng nhuộm bao giờ, chỉ ép 1 lần vào 3 năm trước nhưng cũng cắt hết phần đó rồi ạ, em cũng chải tóc hằng ngày và dùng xịt bưởi để tóc khoẻ hơn nhưng xoã ra thì nó chả theo cái nếp nào cả, nhìn đằng sau bù rù ghê lắm :(&lt;/p&gt; &lt;p&gt;Cảm ơn anh chị nhiều ạ💝&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/highkeyvn"&gt; /u/highkeyvn &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s1a1oc/chăm_sóc_tóc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s1a1oc/chăm_sóc_tóc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1s1a1oc/chăm_sóc_tóc/"/>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1s1afqp/làm_gì_để_ra_tiền_từ_lợi_thế_sẵn_có/"&gt; &lt;img alt="Làm gì để ra tiền từ lợi thế sẵn có?" src="https://preview.redd.it/t97s9byryqqg1.jpeg?width=108&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=0e4816fe5b5c7f14a66464126f94fae7c81df116" title="Làm gì để ra tiền từ lợi thế sẵn có?" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, sau đợt airdrop năm ngoái mình toác quả trại tiền tài nguyên âm ~300tr, giờ vẫn âm bank ~100. đi làm công ty lương có 15tr mà trả lãi + gốc đâu đó &amp;gt;7tr thở đang ko nổi. nhân tiện dư khoảng ~1000 bộ cccd KYC từ đợt làm air năm ngoái, giờ làm gì với nó để ra tiền được các bác nhỉ .... &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Cultural-Project4124"&gt; /u/Cultural-Project4124 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/t97s9byryqqg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s1afqp/làm_gì_để_ra_tiền_từ_lợi_thế_sẵn_có/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1s1afqp/làm_gì_để_ra_tiền_từ_lợi_thế_sẵn_có/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-23T07:16:00+00:00</published>
+    <published>2026-03-23T07:40:46+00:00</published>
   </entry>
   <entry>
     <id>t3_1s14h97</id>
@@ -99,19 +60,6 @@
     <published>2026-03-22T16:15:18+00:00</published>
   </entry>
   <entry>
-    <id>t3_1s17gfy</id>
-    <title>26 tuổi có nên đi dqcđ</title>
-    <updated>2026-03-23T04:41:08+00:00</updated>
-    <author>
-      <name>/u/Stunning_Sun_4205</name>
-      <uri>https://old.reddit.com/user/Stunning_Sun_4205</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1s17gfy/26_tuổi_có_nên_đi_dqcđ/"&gt; &lt;img alt="26 tuổi có nên đi dqcđ" src="https://preview.redd.it/viumxzn05qqg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=19c50a782c076bb531ec8ffaaac4e285269592ca" title="26 tuổi có nên đi dqcđ" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tình hình là hiện nay em 26 tuổi rồi. Rớt nvqs và lên đơn vị trả vài năm do thiếu cân và nhịp tim nhanh nhưng giờ có giấy gọi tham gia dân quân thì k biết nếu đi dân quân tự vệ trong 4 năm thì trong khoảng thời gian 4 năm đó có bị kêu đi khám nữa không tại dù gì cũng còn 2 đợt khám nữa là em hết tuổi. Đi dqtt thì em cũng còn tiếc cv của em nên cũng phân vân. Xin ý kiến các ae&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Stunning_Sun_4205"&gt; /u/Stunning_Sun_4205 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/viumxzn05qqg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s17gfy/26_tuổi_có_nên_đi_dqcđ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1s17gfy/26_tuổi_có_nên_đi_dqcđ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-23T04:41:08+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1s181si</id>
     <title>Tìm bạn làm app mkt cùng</title>
     <updated>2026-03-23T05:14:34+00:00</updated>
@@ -138,17 +86,17 @@
     <published>2026-03-23T01:41:07+00:00</published>
   </entry>
   <entry>
-    <id>t3_1s13tsf</id>
-    <title>Du học sau năm 4 về có bị bắt đi NVQS không</title>
-    <updated>2026-03-23T01:42:26+00:00</updated>
+    <id>t3_1s17gfy</id>
+    <title>26 tuổi có nên đi dqcđ</title>
+    <updated>2026-03-23T04:41:08+00:00</updated>
     <author>
-      <name>/u/No-Philosopher3859</name>
-      <uri>https://old.reddit.com/user/No-Philosopher3859</uri>
+      <name>/u/Stunning_Sun_4205</name>
+      <uri>https://old.reddit.com/user/Stunning_Sun_4205</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Đợt bắt đầu du học năm nhất, phường nó có gọi em 1 lần nhưng nhà em có gửi giấy nhập học các thứ thì nó k gọi nữa đến tận bây giờ. Vì chương trình học của em hơn 4 năm, không biết lúc hết năm 4 về hè chơi có thể bị gọi không nhỉ? Có ai có trường hợp như này chưa ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/No-Philosopher3859"&gt; /u/No-Philosopher3859 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s13tsf/du_học_sau_năm_4_về_có_bị_bắt_đi_nvqs_không/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s13tsf/du_học_sau_năm_4_về_có_bị_bắt_đi_nvqs_không/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1s13tsf/du_học_sau_năm_4_về_có_bị_bắt_đi_nvqs_không/"/>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1s17gfy/26_tuổi_có_nên_đi_dqcđ/"&gt; &lt;img alt="26 tuổi có nên đi dqcđ" src="https://preview.redd.it/viumxzn05qqg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=19c50a782c076bb531ec8ffaaac4e285269592ca" title="26 tuổi có nên đi dqcđ" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tình hình là hiện nay em 26 tuổi rồi. Rớt nvqs và lên đơn vị trả vài năm do thiếu cân và nhịp tim nhanh nhưng giờ có giấy gọi tham gia dân quân thì k biết nếu đi dân quân tự vệ trong 4 năm thì trong khoảng thời gian 4 năm đó có bị kêu đi khám nữa không tại dù gì cũng còn 2 đợt khám nữa là em hết tuổi. Đi dqtt thì em cũng còn tiếc cv của em nên cũng phân vân. Xin ý kiến các ae&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Stunning_Sun_4205"&gt; /u/Stunning_Sun_4205 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/viumxzn05qqg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s17gfy/26_tuổi_có_nên_đi_dqcđ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1s17gfy/26_tuổi_có_nên_đi_dqcđ/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-23T01:42:26+00:00</published>
+    <published>2026-03-23T04:41:08+00:00</published>
   </entry>
   <entry>
     <id>t3_1s15yvz</id>
@@ -164,17 +112,30 @@
     <published>2026-03-23T03:23:09+00:00</published>
   </entry>
   <entry>
-    <id>t3_1s19xv9</id>
-    <title>Thắc mắc về con đường làm giàu của dân kĩ thuật</title>
-    <updated>2026-03-23T07:09:38+00:00</updated>
+    <id>t3_1s1a1oc</id>
+    <title>Chăm sóc tóc</title>
+    <updated>2026-03-23T07:16:00+00:00</updated>
     <author>
-      <name>/u/Choice-Mud-6275</name>
-      <uri>https://old.reddit.com/user/Choice-Mud-6275</uri>
+      <name>/u/highkeyvn</name>
+      <uri>https://old.reddit.com/user/highkeyvn</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em mới là sinh viên năm nhất, có thắc mắc là trước đây khi chưa học đại học em cứ nghĩ mức lương của ngành kĩ thuật sẽ rất cao dễ làm giàu, lên dhoc được tiếp xúc thực tế nhiều hơn mới thấy muốn làm giàu chỉ dựa vào đi làm ăn lương là rất khó và hiếm người làm dc như vậy. Em muốn hỏi mn về trải nghiệm của mn dân kỹ thuật, anh/chị đã làm ntn để tích lũy tài sản hoặc làm giàu ạ? Con đường khả thi và thường được chọn là gì ạ? &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Choice-Mud-6275"&gt; /u/Choice-Mud-6275 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s19xv9/thắc_mắc_về_con_đường_làm_giàu_của_dân_kĩ_thuật/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s19xv9/thắc_mắc_về_con_đường_làm_giàu_của_dân_kĩ_thuật/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1s19xv9/thắc_mắc_về_con_đường_làm_giàu_của_dân_kĩ_thuật/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các chị em, hoặc anh em có kinh nghiệm cho em xin sản phẩm dưỡng tóc khoẻ và bóng hơn ạ&lt;/p&gt; &lt;p&gt;em thấy tóc em đang trong tình trạng xù như đống rơm rồi ạ, ý là sờ thì nó vẫn mềm nhưng mà nhìn rối rối với cứ luộm thuộm kiểu gì nên em toàn tết tóc. Trước đó thì em chưa từng nhuộm bao giờ, chỉ ép 1 lần vào 3 năm trước nhưng cũng cắt hết phần đó rồi ạ, em cũng chải tóc hằng ngày và dùng xịt bưởi để tóc khoẻ hơn nhưng xoã ra thì nó chả theo cái nếp nào cả, nhìn đằng sau bù rù ghê lắm :(&lt;/p&gt; &lt;p&gt;Cảm ơn anh chị nhiều ạ💝&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/highkeyvn"&gt; /u/highkeyvn &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s1a1oc/chăm_sóc_tóc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s1a1oc/chăm_sóc_tóc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1s1a1oc/chăm_sóc_tóc/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-23T07:09:38+00:00</published>
+    <published>2026-03-23T07:16:00+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1s13tsf</id>
+    <title>Du học sau năm 4 về có bị bắt đi NVQS không</title>
+    <updated>2026-03-23T01:42:26+00:00</updated>
+    <author>
+      <name>/u/No-Philosopher3859</name>
+      <uri>https://old.reddit.com/user/No-Philosopher3859</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Đợt bắt đầu du học năm nhất, phường nó có gọi em 1 lần nhưng nhà em có gửi giấy nhập học các thứ thì nó k gọi nữa đến tận bây giờ. Vì chương trình học của em hơn 4 năm, không biết lúc hết năm 4 về hè chơi có thể bị gọi không nhỉ? Có ai có trường hợp như này chưa ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/No-Philosopher3859"&gt; /u/No-Philosopher3859 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s13tsf/du_học_sau_năm_4_về_có_bị_bắt_đi_nvqs_không/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s13tsf/du_học_sau_năm_4_về_có_bị_bắt_đi_nvqs_không/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1s13tsf/du_học_sau_năm_4_về_có_bị_bắt_đi_nvqs_không/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-23T01:42:26+00:00</published>
   </entry>
   <entry>
     <id>t3_1s154hp</id>
@@ -229,19 +190,6 @@
     <published>2026-03-22T13:25:03+00:00</published>
   </entry>
   <entry>
-    <id>t3_1s18k2j</id>
-    <title>Ngoài ra còn có</title>
-    <updated>2026-03-23T05:44:35+00:00</updated>
-    <author>
-      <name>/u/Delicious_Society735</name>
-      <uri>https://old.reddit.com/user/Delicious_Society735</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;bên cạnh những người lớn lên đi làm tự lập thì có những người ăn bám dựa dẫm ỷ lại ko đi làm, ko có trách nhiệm gì với gđ, trốn tránh, đùn đẩy vào người khác lo. Ông a cả 34t nhà e ak. Hầu như ko đi làm chục năm r. E ko nghĩ là ổng sống cái kiểu hãm như thế. Sống ích kỉ ái kỷ chỉ biết sướng cho ổng để người khác khổ. Trong khi người ta lớn lên sống chan hòa, ace hòa thuận vui ve hiếu thảo với ba mẹ, đi làm kiếm tiền. Thì ổng lại sống cái kiểu cạch mặt với các e để khỏi giao tiếp khỏi quan tâm, ăn bám hưởng thụ cho sướng, ai đến nhà thì núp để người ta ko thấy. họ hàng xa hỏi han thì ổng nói mẹ nói dối là ổng đi làm văn phòng kế toán ngân hàng. ổng là con cả mà tư tưởng ổng sống thế. Thằng e út 24t gồng gánh gđ tội nó. Mẹ đi chợ cơm nước làm việc nhà. ổng ko làm gì ko đóng góp gì cả. &lt;/p&gt; &lt;p&gt;Tết nhất ba mình đã tệ ko lo gì. ông a cả cũng ko lo. chỉ có mẹ với e với e e chi tiền lo tết. &lt;/p&gt; &lt;p&gt;khi con cái có hiếu thì nhà có phúc. khi con cái mất dậy ăn bám ko đi làm kiếm tiền, đuổi cũng ko đi, trơ trẽn, mặt dày. ba mẹ cũng bất lực chẳng làm đc gì. &lt;/p&gt; &lt;p&gt;E thấy rất khó chịu. Ghét ổng. khi ổng ỷ lại ko đi làm ngày này qua năm khác. trốn tránh. mọi việc trong nhà mẹ với mấy đứa e ra mặt lo toan. Người nhà mà sống khon nan. Các bác có lời khuyên gì ko. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Delicious_Society735"&gt; /u/Delicious_Society735 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s18k2j/ngoài_ra_còn_có/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s18k2j/ngoài_ra_còn_có/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1s18k2j/ngoài_ra_còn_có/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-23T05:44:35+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1s19wdc</id>
     <title>Em muốn hỏi về môi trường trong thời gian đi nghĩa vụ quân sự ạ.</title>
     <updated>2026-03-23T07:06:55+00:00</updated>
@@ -253,6 +201,45 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1s19wdc/em_muốn_hỏi_về_môi_trường_trong_thời_gian_đi/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-03-23T07:06:55+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1s19xv9</id>
+    <title>Thắc mắc về con đường làm giàu của dân kĩ thuật</title>
+    <updated>2026-03-23T07:09:38+00:00</updated>
+    <author>
+      <name>/u/Choice-Mud-6275</name>
+      <uri>https://old.reddit.com/user/Choice-Mud-6275</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em mới là sinh viên năm nhất, có thắc mắc là trước đây khi chưa học đại học em cứ nghĩ mức lương của ngành kĩ thuật sẽ rất cao dễ làm giàu, lên dhoc được tiếp xúc thực tế nhiều hơn mới thấy muốn làm giàu chỉ dựa vào đi làm ăn lương là rất khó và hiếm người làm dc như vậy. Em muốn hỏi mn về trải nghiệm của mn dân kỹ thuật, anh/chị đã làm ntn để tích lũy tài sản hoặc làm giàu ạ? Con đường khả thi và thường được chọn là gì ạ? &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Choice-Mud-6275"&gt; /u/Choice-Mud-6275 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s19xv9/thắc_mắc_về_con_đường_làm_giàu_của_dân_kĩ_thuật/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s19xv9/thắc_mắc_về_con_đường_làm_giàu_của_dân_kĩ_thuật/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1s19xv9/thắc_mắc_về_con_đường_làm_giàu_của_dân_kĩ_thuật/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-23T07:09:38+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1s1ae5y</id>
+    <title>Tìm bạn đi xem phim cùng tối nay (Quốc bảo - Kokuho)</title>
+    <updated>2026-03-23T07:38:02+00:00</updated>
+    <author>
+      <name>/u/MoeO17</name>
+      <uri>https://old.reddit.com/user/MoeO17</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Thấy giảng viên tiếng Nhật hồi đại học khen phim hay nên e cũng muốn đi xem thử, mà còn ít suất chiếu quá. Phim dài 3 tiếng nên e định đi suất 19h tối nay ở Vincom Xuân Diệu (Hà Nội) luôn tại thấy từ mai còn toàn suất giữa chiều hoặc tối muộn thôi&lt;/p&gt; &lt;p&gt;E là nam, tìm bạn xem cùng thôi chứ cũng không phải để date đủng gì nên nam hay nữ cũng được ạ :D có KM của công ty nên 1 vé có 55k thôi ạ, ai có hứng thú thì comment hoặc ib e ạ :D&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/MoeO17"&gt; /u/MoeO17 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s1ae5y/tìm_bạn_đi_xem_phim_cùng_tối_nay_quốc_bảo_kokuho/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s1ae5y/tìm_bạn_đi_xem_phim_cùng_tối_nay_quốc_bảo_kokuho/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1s1ae5y/tìm_bạn_đi_xem_phim_cùng_tối_nay_quốc_bảo_kokuho/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-23T07:38:02+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1s18k2j</id>
+    <title>Ngoài ra còn có</title>
+    <updated>2026-03-23T05:44:35+00:00</updated>
+    <author>
+      <name>/u/Delicious_Society735</name>
+      <uri>https://old.reddit.com/user/Delicious_Society735</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;bên cạnh những người lớn lên đi làm tự lập thì có những người ăn bám dựa dẫm ỷ lại ko đi làm, ko có trách nhiệm gì với gđ, trốn tránh, đùn đẩy vào người khác lo. Ông a cả 34t nhà e ak. Hầu như ko đi làm chục năm r. E ko nghĩ là ổng sống cái kiểu hãm như thế. Sống ích kỉ ái kỷ chỉ biết sướng cho ổng để người khác khổ. Trong khi người ta lớn lên sống chan hòa, ace hòa thuận vui ve hiếu thảo với ba mẹ, đi làm kiếm tiền. Thì ổng lại sống cái kiểu cạch mặt với các e để khỏi giao tiếp khỏi quan tâm, ăn bám hưởng thụ cho sướng, ai đến nhà thì núp để người ta ko thấy. họ hàng xa hỏi han thì ổng nói mẹ nói dối là ổng đi làm văn phòng kế toán ngân hàng. ổng là con cả mà tư tưởng ổng sống thế. Thằng e út 24t gồng gánh gđ tội nó. Mẹ đi chợ cơm nước làm việc nhà. ổng ko làm gì ko đóng góp gì cả. &lt;/p&gt; &lt;p&gt;Tết nhất ba mình đã tệ ko lo gì. ông a cả cũng ko lo. chỉ có mẹ với e với e e chi tiền lo tết. &lt;/p&gt; &lt;p&gt;khi con cái có hiếu thì nhà có phúc. khi con cái mất dậy ăn bám ko đi làm kiếm tiền, đuổi cũng ko đi, trơ trẽn, mặt dày. ba mẹ cũng bất lực chẳng làm đc gì. &lt;/p&gt; &lt;p&gt;E thấy rất khó chịu. Ghét ổng. khi ổng ỷ lại ko đi làm ngày này qua năm khác. trốn tránh. mọi việc trong nhà mẹ với mấy đứa e ra mặt lo toan. Người nhà mà sống khon nan. Các bác có lời khuyên gì ko. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Delicious_Society735"&gt; /u/Delicious_Society735 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s18k2j/ngoài_ra_còn_có/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s18k2j/ngoài_ra_còn_có/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1s18k2j/ngoài_ra_còn_có/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-23T05:44:35+00:00</published>
   </entry>
   <entry>
     <id>t3_1s12qjz</id>
@@ -268,6 +255,19 @@
     <published>2026-03-23T00:54:00+00:00</published>
   </entry>
   <entry>
+    <id>t3_1s1agdd</id>
+    <title>Mình thật sự không muốn đi dự đám cưới thì phải nói làm sao</title>
+    <updated>2026-03-23T07:42:01+00:00</updated>
+    <author>
+      <name>/u/ImpawssibleMeowssion</name>
+      <uri>https://old.reddit.com/user/ImpawssibleMeowssion</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chị chủ có mời toàn thể nhân viên đi dự đám cưới. Nhưng mà đồng nghiệp ai cũng đi đủ cả có mình mình không muốn đi thì cũng kì. Đồng nghiệp 9 người có bè có cặp hết rồi dù mình có đi thì cũng là người ra rìa. Thật sự là mình không muốn đi dự, mình rất không thích tiệc tùng và rất không thoải mái ở chỗ ồn ào đông người. Mình bị lo âu và theo phản xạ mình bị đơ cứng người cả về thể chất lẫn tinh thần khi có quá nhiều người và hoạt động xung quanh và năng lượng mình cạn về 0. Hồi đi YEP mình đã cảm thấy rất khó xử cho mình và mọi người xung quanh nên mình không muốn nó lặp lại lần nữa, với tính mình không thích tiệc tùng và nơi ồn ào đông người. &lt;/p&gt; &lt;p&gt;Tất nhiên là vẫn gửi tiền mừng đầy đủ, phải làm sao đây mọi người :( Mình tính không nói gì cho đến ngày đó rồi bảo việc đột xuất. Hay nên nói thẳng ra là mình không thích, vì mấy đứa đồng nghiệp tụi nó cũng muốn mình đi nhưng mình sợ tụi nó không hiểu được. Hay mình nên nhắn riêng vấn đề của mình cho chị quản lý (cấp dưới chị chủ), hơi thân do có nói chuyện nhiều, mình biết tính chỉ nên biết chắc là chỉ sẽ hiểu. Còn chị chủ không có xã giao (nội dung tin nhắn chỉ gửi bảng lương hàng tháng) mình nghĩ chị chủ chắc cũng không quan tâm nếu mình không đi, nhưng phải nói sao với đồng nghiệp đây ạ. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ImpawssibleMeowssion"&gt; /u/ImpawssibleMeowssion &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s1agdd/mình_thật_sự_không_muốn_đi_dự_đám_cưới_thì_phải/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s1agdd/mình_thật_sự_không_muốn_đi_dự_đám_cưới_thì_phải/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1s1agdd/mình_thật_sự_không_muốn_đi_dự_đám_cưới_thì_phải/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-23T07:42:01+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1s0ld36</id>
     <title>[Cảnh báo] Một kiểu scam mới</title>
     <updated>2026-03-22T13:15:49+00:00</updated>
@@ -281,19 +281,6 @@
     <published>2026-03-22T13:15:49+00:00</published>
   </entry>
   <entry>
-    <id>t3_1s14bqf</id>
-    <title>Mấy bác cho em hỏi giấy này là sao, có sure 100% đi dân quân ko các bác</title>
-    <updated>2026-03-23T02:05:35+00:00</updated>
-    <author>
-      <name>/u/PhilosopherPast4760</name>
-      <uri>https://old.reddit.com/user/PhilosopherPast4760</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1s14bqf/mấy_bác_cho_em_hỏi_giấy_này_là_sao_có_sure_100_đi/"&gt; &lt;img alt="Mấy bác cho em hỏi giấy này là sao, có sure 100% đi dân quân ko các bác" src="https://preview.redd.it/et57ovq9dpqg1.jpeg?width=320&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=6d0ee39b088da1a41804f67814e4b8d81e93c694" title="Mấy bác cho em hỏi giấy này là sao, có sure 100% đi dân quân ko các bác" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/PhilosopherPast4760"&gt; /u/PhilosopherPast4760 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/et57ovq9dpqg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s14bqf/mấy_bác_cho_em_hỏi_giấy_này_là_sao_có_sure_100_đi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1s14bqf/mấy_bác_cho_em_hỏi_giấy_này_là_sao_có_sure_100_đi/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-23T02:05:35+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1s125p1</id>
     <title>Chúc mọi người 1 tuần làm việc mới nhiều thành công nhé</title>
     <updated>2026-03-23T00:27:37+00:00</updated>
@@ -305,6 +292,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1s125p1/chúc_mọi_người_1_tuần_làm_việc_mới_nhiều_thành/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-03-23T00:27:37+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1s14bqf</id>
+    <title>Mấy bác cho em hỏi giấy này là sao, có sure 100% đi dân quân ko các bác</title>
+    <updated>2026-03-23T02:05:35+00:00</updated>
+    <author>
+      <name>/u/PhilosopherPast4760</name>
+      <uri>https://old.reddit.com/user/PhilosopherPast4760</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1s14bqf/mấy_bác_cho_em_hỏi_giấy_này_là_sao_có_sure_100_đi/"&gt; &lt;img alt="Mấy bác cho em hỏi giấy này là sao, có sure 100% đi dân quân ko các bác" src="https://preview.redd.it/et57ovq9dpqg1.jpeg?width=320&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=6d0ee39b088da1a41804f67814e4b8d81e93c694" title="Mấy bác cho em hỏi giấy này là sao, có sure 100% đi dân quân ko các bác" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/PhilosopherPast4760"&gt; /u/PhilosopherPast4760 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/et57ovq9dpqg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s14bqf/mấy_bác_cho_em_hỏi_giấy_này_là_sao_có_sure_100_đi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1s14bqf/mấy_bác_cho_em_hỏi_giấy_này_là_sao_có_sure_100_đi/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-23T02:05:35+00:00</published>
   </entry>
   <entry>
     <id>t3_1s16mbp</id>
