@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-03-24T22:30:03+00:00</updated>
+  <updated>2026-03-24T23:00:35+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -125,19 +125,6 @@
     <published>2026-03-24T13:45:57+00:00</published>
   </entry>
   <entry>
-    <id>t3_1s2kxd5</id>
-    <title>Thuê căn hộ nhưng bị tự ý mở cửa khi chưa được phép xử lý thế nào?</title>
-    <updated>2026-03-24T17:47:52+00:00</updated>
-    <author>
-      <name>/u/AsteriaHeli</name>
-      <uri>https://old.reddit.com/user/AsteriaHeli</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em đang thuê một căn hộ cao cấp qua trung gian, tòa nhà có BQL và thẻ ra vào nên bình thường khá an ninh.&lt;/p&gt; &lt;p&gt;Gần đây chủ nhà muốn bán nên có môi giới dẫn khách lên xem, việc này em hiểu và cũng không có vấn đề gì nếu được báo trước.&lt;/p&gt; &lt;p&gt;Nhưng tối nay hoàn toàn không có ai báo trước gì.&lt;/p&gt; &lt;p&gt;Khoảng 8h có người bấm chuông từ lobby lên, em không mở vì lúc đó đang bận việc riêng trong nhà nên không tiện tiếp người lạ.&lt;/p&gt; &lt;p&gt;Tầm 8h30 bên trung gian có gọi hỏi em có ở nhà không, em cũng nói rõ là em sẽ không có ở nhà tới khá muộn.&lt;/p&gt; &lt;p&gt;Nhưng đến khoảng 9h thì vẫn có người lên tới tận cửa căn hộ và thử mở cửa bằng passcode, trong khi em vẫn đang ở trong nhà.&lt;/p&gt; &lt;p&gt;May là em có khóa thêm bên trong.&lt;/p&gt; &lt;p&gt;Lúc đó em ra nói chuyện và từ chối cho vào vì không được báo trước.&lt;/p&gt; &lt;p&gt;Sau đó người xem nhà tỏ thái độ, cãi lại rồi bỏ đi, còn buông lời khá khó nghe.&lt;/p&gt; &lt;p&gt;Em không bàn đúng sai nhiều, nhưng thật sự cảm giác lúc đó khá chịu… vừa bị làm phiền trong không gian riêng, vừa bị ăn chửi vô cớ.&lt;/p&gt; &lt;p&gt;Em cũng không rõ vì sao passcode lại bị sử dụng trong trường hợp này, nên chắc chắn em sẽ đổi lại ngay.&lt;/p&gt; &lt;p&gt;Em cũng đã nhắn lại với bên trung gian để họ lưu ý lại vấn đề này, nhưng họ cũng bảo là không biết tại sao môi giới làm vậy 🤦‍♀️&lt;/p&gt; &lt;p&gt;Với em thì chuyện này đơn giản là: muốn dẫn người lên xem thì nên báo trước và có sự đồng ý.&lt;/p&gt; &lt;p&gt;Anh em gặp trường hợp như vậy thì thường xử lý thế nào?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/AsteriaHeli"&gt; /u/AsteriaHeli &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s2kxd5/thuê_căn_hộ_nhưng_bị_tự_ý_mở_cửa_khi_chưa_được/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s2kxd5/thuê_căn_hộ_nhưng_bị_tự_ý_mở_cửa_khi_chưa_được/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1s2kxd5/thuê_căn_hộ_nhưng_bị_tự_ý_mở_cửa_khi_chưa_được/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-24T17:47:52+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1s26ccc</id>
     <title>Làm sao mua nhà Hà Nội?</title>
     <updated>2026-03-24T06:41:28+00:00</updated>
@@ -190,6 +177,19 @@
     <published>2026-03-24T12:57:17+00:00</published>
   </entry>
   <entry>
+    <id>t3_1s2kxd5</id>
+    <title>Thuê căn hộ nhưng bị tự ý mở cửa khi chưa được phép xử lý thế nào?</title>
+    <updated>2026-03-24T17:47:52+00:00</updated>
+    <author>
+      <name>/u/AsteriaHeli</name>
+      <uri>https://old.reddit.com/user/AsteriaHeli</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em đang thuê một căn hộ cao cấp qua trung gian, tòa nhà có BQL và thẻ ra vào nên bình thường khá an ninh.&lt;/p&gt; &lt;p&gt;Gần đây chủ nhà muốn bán nên có môi giới dẫn khách lên xem, việc này em hiểu và cũng không có vấn đề gì nếu được báo trước.&lt;/p&gt; &lt;p&gt;Nhưng tối nay hoàn toàn không có ai báo trước gì.&lt;/p&gt; &lt;p&gt;Khoảng 8h có người bấm chuông từ lobby lên, em không mở vì lúc đó đang bận việc riêng trong nhà nên không tiện tiếp người lạ.&lt;/p&gt; &lt;p&gt;Tầm 8h30 bên trung gian có gọi hỏi em có ở nhà không, em cũng nói rõ là em sẽ không có ở nhà tới khá muộn.&lt;/p&gt; &lt;p&gt;Nhưng đến khoảng 9h thì vẫn có người lên tới tận cửa căn hộ và thử mở cửa bằng passcode, trong khi em vẫn đang ở trong nhà.&lt;/p&gt; &lt;p&gt;May là em có khóa thêm bên trong.&lt;/p&gt; &lt;p&gt;Lúc đó em ra nói chuyện và từ chối cho vào vì không được báo trước.&lt;/p&gt; &lt;p&gt;Sau đó người xem nhà tỏ thái độ, cãi lại rồi bỏ đi, còn buông lời khá khó nghe.&lt;/p&gt; &lt;p&gt;Em không bàn đúng sai nhiều, nhưng thật sự cảm giác lúc đó khá chịu… vừa bị làm phiền trong không gian riêng, vừa bị ăn chửi vô cớ.&lt;/p&gt; &lt;p&gt;Em cũng không rõ vì sao passcode lại bị sử dụng trong trường hợp này, nên chắc chắn em sẽ đổi lại ngay.&lt;/p&gt; &lt;p&gt;Em cũng đã nhắn lại với bên trung gian để họ lưu ý lại vấn đề này, nhưng họ cũng bảo là không biết tại sao môi giới làm vậy 🤦‍♀️&lt;/p&gt; &lt;p&gt;Với em thì chuyện này đơn giản là: muốn dẫn người lên xem thì nên báo trước và có sự đồng ý.&lt;/p&gt; &lt;p&gt;Anh em gặp trường hợp như vậy thì thường xử lý thế nào?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/AsteriaHeli"&gt; /u/AsteriaHeli &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s2kxd5/thuê_căn_hộ_nhưng_bị_tự_ý_mở_cửa_khi_chưa_được/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s2kxd5/thuê_căn_hộ_nhưng_bị_tự_ý_mở_cửa_khi_chưa_được/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1s2kxd5/thuê_căn_hộ_nhưng_bị_tự_ý_mở_cửa_khi_chưa_được/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-24T17:47:52+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1s2eq3h</id>
     <title>Vấn nạn du lịch ở khu du lịch thác Datanla</title>
     <updated>2026-03-24T14:05:17+00:00</updated>
@@ -201,19 +201,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1s2eq3h/vấn_nạn_du_lịch_ở_khu_du_lịch_thác_datanla/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-03-24T14:05:17+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1s2q71s</id>
-    <title>Chanh vàng vị như nào vậy mọi người?</title>
-    <updated>2026-03-24T20:56:42+00:00</updated>
-    <author>
-      <name>/u/Hour-Tomato-645</name>
-      <uri>https://old.reddit.com/user/Hour-Tomato-645</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1s2q71s/chanh_vàng_vị_như_nào_vậy_mọi_người/"&gt; &lt;img alt="Chanh vàng vị như nào vậy mọi người?" src="https://preview.redd.it/hdu04a7z32rg1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=c6062012c69a0ef99ea4ea1e1dafc40ba8d75c11" title="Chanh vàng vị như nào vậy mọi người?" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình chưa từng thấy quả chanh vàng này bao giờ, chỉ nhìn thấy trên Tivi và mấy show của bên Mỹ với nước ngoài. Mình chỉ biết mỗi chanh xanh xanh nước mình. Quả chanh này vị như nào vậy mọi người? Mình thấy họ hay pha nước chanh với nó, nó có vị khác gì chanh xanh mình pha nước chanh không?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Hour-Tomato-645"&gt; /u/Hour-Tomato-645 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/hdu04a7z32rg1.png"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s2q71s/chanh_vàng_vị_như_nào_vậy_mọi_người/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1s2q71s/chanh_vàng_vị_như_nào_vậy_mọi_người/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-24T20:56:42+00:00</published>
   </entry>
   <entry>
     <id>t3_1s2c056</id>
@@ -242,6 +229,19 @@
     <published>2026-03-24T17:28:15+00:00</published>
   </entry>
   <entry>
+    <id>t3_1s2q71s</id>
+    <title>Chanh vàng vị như nào vậy mọi người?</title>
+    <updated>2026-03-24T20:56:42+00:00</updated>
+    <author>
+      <name>/u/Hour-Tomato-645</name>
+      <uri>https://old.reddit.com/user/Hour-Tomato-645</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1s2q71s/chanh_vàng_vị_như_nào_vậy_mọi_người/"&gt; &lt;img alt="Chanh vàng vị như nào vậy mọi người?" src="https://preview.redd.it/hdu04a7z32rg1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=c6062012c69a0ef99ea4ea1e1dafc40ba8d75c11" title="Chanh vàng vị như nào vậy mọi người?" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình chưa từng thấy quả chanh vàng này bao giờ, chỉ nhìn thấy trên Tivi và mấy show của bên Mỹ với nước ngoài. Mình chỉ biết mỗi chanh xanh xanh nước mình. Quả chanh này vị như nào vậy mọi người? Mình thấy họ hay pha nước chanh với nó, nó có vị khác gì chanh xanh mình pha nước chanh không?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Hour-Tomato-645"&gt; /u/Hour-Tomato-645 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/hdu04a7z32rg1.png"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s2q71s/chanh_vàng_vị_như_nào_vậy_mọi_người/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1s2q71s/chanh_vàng_vị_như_nào_vậy_mọi_người/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-24T20:56:42+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1s2ikbt</id>
     <title>Nên thế nào…</title>
     <updated>2026-03-24T16:24:42+00:00</updated>
@@ -268,19 +268,6 @@
     <published>2026-03-24T10:48:32+00:00</published>
   </entry>
   <entry>
-    <id>t3_1s2i28h</id>
-    <title>Nghề</title>
-    <updated>2026-03-24T16:06:37+00:00</updated>
-    <author>
-      <name>/u/NSatou</name>
-      <uri>https://old.reddit.com/user/NSatou</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;em đang phân vân liệu nên chọn giữa ngành Y hay trở thành kỹ sư phần mềm? Bài viết này e viết 1 phần là để tâm sự và 1 phần là để xin lời khuyên. Đầu tiên, em cảm thấy em không còn thích trở thành một Bác Sĩ nữa, rốt cuộc giờ lớn., em lại thấy nhiều điều khó khăn, bất cập, nhất là nhà em cũng không phải thuộc diện khá giả nhưng mà nếu không học thêm sau đại học thì cơ hội việc làm chắc chỉ lẹt đẹt ( cái này e tham khảo trên các diễn đàn bác sĩ ) và cũng một phần là em không muốn mất đi cái tuổi ăn chơi,.. ( Chắc lớn nên tính nó đổi ) có thể nói là em không muốn hi sinh. còn đối với kĩ sư phần mềm, thì em lại thấy người ta nói tỉ lệ cạnh tranh cao? chia sẻ một chút là em đang là học sinh chuyên Hóa, năm nay mới lớp 10 thôi, nhưng em đang muốn định hướng sớm một chút với ba mẹ luôn. Vì hiện tại ba mẹ em đang muốn em theo ngành Y. Thật sự là chuyên Hóa có thể học CNTT không nhỉ? vì thế mạnh của em cũng là mấy môn tự nhiên. Em xin cảm ơn vì đã đọc hết, mong các cô dì chú bác cho e xin lời khuyên &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/NSatou"&gt; /u/NSatou &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s2i28h/nghề/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s2i28h/nghề/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1s2i28h/nghề/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-24T16:06:37+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1s29peq</id>
     <title>Ace em cho em xin tip tán bạn nữ giỏi hơn mình ạ</title>
     <updated>2026-03-24T10:11:13+00:00</updated>
@@ -305,6 +292,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1s290pr/đàn_ông_sẽ_ngoại_tình_nếu_người_yêu_giỏi_hơn_mình/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-03-24T09:31:03+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1s2i28h</id>
+    <title>Nghề</title>
+    <updated>2026-03-24T16:06:37+00:00</updated>
+    <author>
+      <name>/u/NSatou</name>
+      <uri>https://old.reddit.com/user/NSatou</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;em đang phân vân liệu nên chọn giữa ngành Y hay trở thành kỹ sư phần mềm? Bài viết này e viết 1 phần là để tâm sự và 1 phần là để xin lời khuyên. Đầu tiên, em cảm thấy em không còn thích trở thành một Bác Sĩ nữa, rốt cuộc giờ lớn., em lại thấy nhiều điều khó khăn, bất cập, nhất là nhà em cũng không phải thuộc diện khá giả nhưng mà nếu không học thêm sau đại học thì cơ hội việc làm chắc chỉ lẹt đẹt ( cái này e tham khảo trên các diễn đàn bác sĩ ) và cũng một phần là em không muốn mất đi cái tuổi ăn chơi,.. ( Chắc lớn nên tính nó đổi ) có thể nói là em không muốn hi sinh. còn đối với kĩ sư phần mềm, thì em lại thấy người ta nói tỉ lệ cạnh tranh cao? chia sẻ một chút là em đang là học sinh chuyên Hóa, năm nay mới lớp 10 thôi, nhưng em đang muốn định hướng sớm một chút với ba mẹ luôn. Vì hiện tại ba mẹ em đang muốn em theo ngành Y. Thật sự là chuyên Hóa có thể học CNTT không nhỉ? vì thế mạnh của em cũng là mấy môn tự nhiên. Em xin cảm ơn vì đã đọc hết, mong các cô dì chú bác cho e xin lời khuyên &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/NSatou"&gt; /u/NSatou &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s2i28h/nghề/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s2i28h/nghề/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1s2i28h/nghề/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-24T16:06:37+00:00</published>
   </entry>
   <entry>
     <id>t3_1s2jitj</id>
