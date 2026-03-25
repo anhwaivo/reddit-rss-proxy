@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-03-25T23:18:24+00:00</updated>
+  <updated>2026-03-25T23:57:33+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1s33d3s</id>
-    <title>Ngoài lề tí</title>
-    <updated>2026-03-25T06:45:34+00:00</updated>
-    <author>
-      <name>/u/C-man-177013</name>
-      <uri>https://old.reddit.com/user/C-man-177013</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1s33d3s/ngoài_lề_tí/"&gt; &lt;img alt="Ngoài lề tí" src="https://preview.redd.it/v926exw015rg1.jpg?width=140&amp;amp;height=140&amp;amp;crop=1:1,smart&amp;amp;auto=webp&amp;amp;s=3d4923a1e19ee196116c3ba55a2590fe51decdd0" title="Ngoài lề tí" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/C-man-177013"&gt; /u/C-man-177013 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1s33d3s"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s33d3s/ngoài_lề_tí/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1s33d3s/ngoài_lề_tí/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-25T06:45:34+00:00</published>
-  </entry>
   <entry>
     <id>t3_1s2vuxx</id>
     <title>Mùa hè năm 12 13 tuổi mọi người làm gì thế</title>
@@ -164,19 +151,6 @@
     <published>2026-03-25T21:19:16+00:00</published>
   </entry>
   <entry>
-    <id>t3_1s3efsd</id>
-    <title>Con trai có thích được tỏ tình không nhỉ :vv</title>
-    <updated>2026-03-25T15:46:02+00:00</updated>
-    <author>
-      <name>/u/Worldly_204</name>
-      <uri>https://old.reddit.com/user/Worldly_204</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Như tiêu đề ạ &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Worldly_204"&gt; /u/Worldly_204 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s3efsd/con_trai_có_thích_được_tỏ_tình_không_nhỉ_vv/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s3efsd/con_trai_có_thích_được_tỏ_tình_không_nhỉ_vv/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1s3efsd/con_trai_có_thích_được_tỏ_tình_không_nhỉ_vv/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-25T15:46:02+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1s3902p</id>
     <title>Viết lách</title>
     <updated>2026-03-25T12:14:11+00:00</updated>
@@ -216,6 +190,32 @@
     <published>2026-03-25T03:25:01+00:00</published>
   </entry>
   <entry>
+    <id>t3_1s3efsd</id>
+    <title>Con trai có thích được tỏ tình không nhỉ :vv</title>
+    <updated>2026-03-25T15:46:02+00:00</updated>
+    <author>
+      <name>/u/Worldly_204</name>
+      <uri>https://old.reddit.com/user/Worldly_204</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Như tiêu đề ạ &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Worldly_204"&gt; /u/Worldly_204 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s3efsd/con_trai_có_thích_được_tỏ_tình_không_nhỉ_vv/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s3efsd/con_trai_có_thích_được_tỏ_tình_không_nhỉ_vv/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1s3efsd/con_trai_có_thích_được_tỏ_tình_không_nhỉ_vv/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-25T15:46:02+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1s3rfyj</id>
+    <title>Tìm bạn đồng hành thị trường Nhật &lt;có nhận ace từ N3+&gt;</title>
+    <updated>2026-03-25T23:44:04+00:00</updated>
+    <author>
+      <name>/u/ta_ka_10022062</name>
+      <uri>https://old.reddit.com/user/ta_ka_10022062</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Location: Đà Nẵng&lt;/p&gt; &lt;p&gt;RESPONSIBILITIES &lt;/p&gt; &lt;p&gt;• Thực hiện các nghiệp vụ kế toán cơ bản cho khách hàng theo quy trình đã hướng dẫn (sẽ được hướng dẫn cụ thể khi bắt đầu công việc). &lt;/p&gt; &lt;p&gt;• Kiểm tra, thực hiện nhập và đối chiếu số liệu kế toán trên hệ thống. &lt;/p&gt; &lt;p&gt;• Tham gia bàn giao và tiếp nhận nghiệp vụ mới từ khách hàng. &lt;/p&gt; &lt;p&gt;• Trao đổi, xác nhận thông tin với khách hàng qua hình thức chat/gọi điện khi phát sinh vướng mắc. &lt;/p&gt; &lt;p&gt;• Thực hiện các nhiệm vụ khác theo phân công của Team Lead/PM nhằm hỗ trợ quản lý, báo cáo và cải tiến chất lượng công việc. &lt;/p&gt; &lt;p&gt;• Đảm bảo tính chính xác, bảo mật và tuân thủ quy định trong quá trình thao tác. &lt;/p&gt; &lt;p&gt;REQUIREMENTS &lt;/p&gt; &lt;p&gt;• Tiếng Nhật JLPT N3+, thành thạo các kỹ năng nghe, nói, đọc, viết. &lt;/p&gt; &lt;p&gt;• Thành thạo tin học văn phòng như Microsoft Excel, Word, PowerPoint. &lt;/p&gt; &lt;p&gt;• Làm việc theo giờ Nhật: Thứ 2 – Thứ 6, 7:00~16:00; sẵn sàng OT khi cần. &lt;/p&gt; &lt;p&gt;• Làm việc theo lịch Nhật: Đi làm và nghỉ theo lịch của Nhật &amp;amp; lịch khách hàng. &lt;/p&gt; &lt;p&gt;• Cẩn thận, tỉ mỉ, trách nhiệm, chủ động, tinh thần học hỏi cao. &lt;/p&gt; &lt;p&gt;• Kỹ năng phối hợp nhóm tốt, chịu được áp lực công việc. • Có kiến thức/kỹ năng về kế toán là một lợi thế (ưu tiên có kinh nghiệm thực tế). &lt;/p&gt; &lt;p&gt;WHAT COMPANY OFFERS &lt;/p&gt; &lt;p&gt;• Mức lương thoả thuận theo năng lực. &lt;/p&gt; &lt;p&gt;• Nhận voucher trị giá 200k khi tham gia phỏng vấn trước ngày 28/02/2026. &lt;/p&gt; &lt;p&gt;• Thưởng Signing Bonus lên đến 30 triệu đồng cho ứng viên ký HĐLĐ trước ngày 30/06/2026. &lt;/p&gt; &lt;p&gt;• Hỗ trợ chi phí thuê nhà ở cho ứng viên chuyển vùng về Đà Nẵng. &lt;/p&gt; &lt;p&gt;• Lương tháng 13 và các gói thưởng định kỳ: Thưởng hiệu quả công việc theo tháng, thưởng các ngày lễ theo thâm niên làm việc... &lt;/p&gt; &lt;p&gt;• Xét tăng lương 1 lần/năm hoặc theo hiệu suất làm việc xuất sắc.&lt;/p&gt; &lt;p&gt;• Ngày nghỉ phép năm theo quy định của Luật Lao động và chính sách công ty. &lt;/p&gt; &lt;p&gt;• Làm việc theo lịch Nhật, số lượng ngày nghỉ nhiều hơn lịch Việt Nam (khoảng 4-5 ngày/năm). &lt;/p&gt; &lt;p&gt;• Cơ hội nâng cao năng lực tiếng Nhật, 100% sử dụng tiếng Nhật trong quá trình làm việc. &lt;/p&gt; &lt;p&gt;• Được đào tạo và tích luỹ thêm nhiều kiến thức về chuyên môn, nghiệp vụ kế toán. &lt;/p&gt; &lt;p&gt;• Dự án quy mô lớn và tăng trưởng liên tục, cơ hội được thăng tiến lên các vị trí Trưởng nhóm. &lt;/p&gt; &lt;p&gt;• Các chương trình đào tạo ngoại ngữ, kỹ năng thường xuyên và miễn phí giúp nhân viên nâng cao năng lực bản thân. &lt;/p&gt; &lt;p&gt;• Các sự kiện gắn kết nội bộ, văn hóa đoàn thể được tổ chức liên tục. &lt;/p&gt; &lt;p&gt;• Cơ hội được làm việc thực tế (onsite) tại Nhật Bản. &lt;/p&gt; &lt;p&gt;CONTACT &lt;a href="mailto:tai.cao.040201@gmail.com"&gt;tai.cao.040201@gmail.com&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ta_ka_10022062"&gt; /u/ta_ka_10022062 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s3rfyj/tìm_bạn_đồng_hành_thị_trường_nhật_có_nhận_ace_từ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s3rfyj/tìm_bạn_đồng_hành_thị_trường_nhật_có_nhận_ace_từ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1s3rfyj/tìm_bạn_đồng_hành_thị_trường_nhật_có_nhận_ace_từ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-25T23:44:04+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1s39ois</id>
     <title>Help! Tư vấn tâm lý</title>
     <updated>2026-03-25T12:44:41+00:00</updated>
@@ -242,19 +242,6 @@
     <published>2026-03-25T12:58:29+00:00</published>
   </entry>
   <entry>
-    <id>t3_1s31utj</id>
-    <title>Các ông nghĩ như thế nào khi đang quen một cô gái rất rất tốt trong khi gia đình lại không giá giả.</title>
-    <updated>2026-03-25T05:18:39+00:00</updated>
-    <author>
-      <name>/u/vanhauhuynh</name>
-      <uri>https://old.reddit.com/user/vanhauhuynh</uri>
-    </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/vanhauhuynh"&gt; /u/vanhauhuynh &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s31utj/các_ông_nghĩ_như_thế_nào_khi_đang_quen_một_cô_gái/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s31utj/các_ông_nghĩ_như_thế_nào_khi_đang_quen_một_cô_gái/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1s31utj/các_ông_nghĩ_như_thế_nào_khi_đang_quen_một_cô_gái/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-25T05:18:39+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1s2vslr</id>
     <title>"Làm phụ nữ thật tuyệt"</title>
     <updated>2026-03-25T00:33:44+00:00</updated>
@@ -279,6 +266,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1s37jdr/đánh_cược_tình_cảm_sau_2_năm_và_kết_quả/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-03-25T11:01:25+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1s31utj</id>
+    <title>Các ông nghĩ như thế nào khi đang quen một cô gái rất rất tốt trong khi gia đình lại không giá giả.</title>
+    <updated>2026-03-25T05:18:39+00:00</updated>
+    <author>
+      <name>/u/vanhauhuynh</name>
+      <uri>https://old.reddit.com/user/vanhauhuynh</uri>
+    </author>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/vanhauhuynh"&gt; /u/vanhauhuynh &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s31utj/các_ông_nghĩ_như_thế_nào_khi_đang_quen_một_cô_gái/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s31utj/các_ông_nghĩ_như_thế_nào_khi_đang_quen_một_cô_gái/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1s31utj/các_ông_nghĩ_như_thế_nào_khi_đang_quen_một_cô_gái/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-25T05:18:39+00:00</published>
   </entry>
   <entry>
     <id>t3_1s37a9j</id>
