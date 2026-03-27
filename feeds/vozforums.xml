@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-03-27T11:12:20+00:00</updated>
+  <updated>2026-03-27T11:56:49+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -125,19 +125,6 @@
     <published>2026-03-27T00:41:37+00:00</published>
   </entry>
   <entry>
-    <id>t3_1s512i7</id>
-    <title>Tại sao kenny thích nhìn người khác thấp kém hơn mình và tỏ ra thượng đẳng hơn ? Có phải là do kenny giỏi hơn?</title>
-    <updated>2026-03-27T11:10:01+00:00</updated>
-    <author>
-      <name>/u/asa_no_kenny</name>
-      <uri>https://old.reddit.com/user/asa_no_kenny</uri>
-    </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/asa_no_kenny"&gt; /u/asa_no_kenny &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s512i7/tại_sao_kenny_thích_nhìn_người_khác_thấp_kém_hơn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s512i7/tại_sao_kenny_thích_nhìn_người_khác_thấp_kém_hơn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1s512i7/tại_sao_kenny_thích_nhìn_người_khác_thấp_kém_hơn/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-27T11:10:01+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1s4jxk9</id>
     <title>Xăng giảm rồi à các bác??</title>
     <updated>2026-03-26T21:07:09+00:00</updated>
@@ -162,6 +149,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1s4xlvv/mình_cần_lời_khuyên_ạ/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-03-27T07:42:53+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1s51wot</id>
+    <title>Bố mẹ bắt đi quân đội thì nếu không phải đợp tuyển quân hàng năm có từ chối được không?</title>
+    <updated>2026-03-27T11:52:47+00:00</updated>
+    <author>
+      <name>/u/IdkThisisntmymainacc</name>
+      <uri>https://old.reddit.com/user/IdkThisisntmymainacc</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác. Em 2k7, đi học đại học được nửa kỳ thì lấy gap year để đi làm lấy trải nghiệm. Em làm online lương cũng đều đặn tầm 5 - 7tr/tháng. Vấn đề là mẹ em cực kỳ không thích việc em bỏ học nên bắt em nộp 7tr tiền nhà mỗi tháng. Đương nhiên là em không thể nộp được vì sau khi có lương thì còn phải trả tiền editor, artist các kiểu nên tiền em mang về mỗi tháng là thấp hơn lương rất nhiều. Sau vài tháng trì trễ thì mẹ em không nhịn được nữa và giờ bắt em kiếm một công việc tốt hơn, học lại để kiếm điểm tốt hơn chuyển trường khác hoặc sẽ gửi em đi bộ đội/nghĩa vụ. Em muốn hỏi là liệu người trên 18 tuổi mà không phải đợt tuyển nghĩa vụ hằng năm thì có thể từ chối vì bố mẹ là người bắt đi có được không?&lt;/p&gt; &lt;p&gt;Tldr: Mẹ bắt đi bộ đội. Có thể từ chối vì không phải là đợt tuyển quân hằng năm mà là phụ huynh bắt đi có được không?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/IdkThisisntmymainacc"&gt; /u/IdkThisisntmymainacc &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s51wot/bố_mẹ_bắt_đi_quân_đội_thì_nếu_không_phải_đợp/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s51wot/bố_mẹ_bắt_đi_quân_đội_thì_nếu_không_phải_đợp/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1s51wot/bố_mẹ_bắt_đi_quân_đội_thì_nếu_không_phải_đợp/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-27T11:52:47+00:00</published>
   </entry>
   <entry>
     <id>t3_1s4yrq3</id>
@@ -190,19 +190,6 @@
     <published>2026-03-26T14:56:23+00:00</published>
   </entry>
   <entry>
-    <id>t3_1s4sohs</id>
-    <title>#</title>
-    <updated>2026-03-27T03:11:40+00:00</updated>
-    <author>
-      <name>/u/Life-Yogurtcloset582</name>
-      <uri>https://old.reddit.com/user/Life-Yogurtcloset582</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các bác cho e hỏi là cuối tuần nên đi đâu thì khả năng dễ tán gái nhất(quán cafe, Cong vien,...) ? E 24 tuổi, đang đi làm nên tìm bạn gái cũng đã đi làm , 22-24 tuổi. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Life-Yogurtcloset582"&gt; /u/Life-Yogurtcloset582 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s4sohs/_/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s4sohs/_/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1s4sohs/_/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-27T03:11:40+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1s4zpuc</id>
     <title>Kiếm extra Job</title>
     <updated>2026-03-27T09:55:42+00:00</updated>
@@ -214,6 +201,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1s4zpuc/kiếm_extra_job/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-03-27T09:55:42+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1s4sohs</id>
+    <title>#</title>
+    <updated>2026-03-27T03:11:40+00:00</updated>
+    <author>
+      <name>/u/Life-Yogurtcloset582</name>
+      <uri>https://old.reddit.com/user/Life-Yogurtcloset582</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các bác cho e hỏi là cuối tuần nên đi đâu thì khả năng dễ tán gái nhất(quán cafe, Cong vien,...) ? E 24 tuổi, đang đi làm nên tìm bạn gái cũng đã đi làm , 22-24 tuổi. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Life-Yogurtcloset582"&gt; /u/Life-Yogurtcloset582 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s4sohs/_/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s4sohs/_/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1s4sohs/_/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-27T03:11:40+00:00</published>
   </entry>
   <entry>
     <id>t3_1s4v1t2</id>
@@ -255,19 +255,6 @@
     <published>2026-03-27T05:57:10+00:00</published>
   </entry>
   <entry>
-    <id>t3_1s4zqfy</id>
-    <title>Luật VN sắp ra cấm mua bán tài khoản Netflix, Spotify,... sharing chung</title>
-    <updated>2026-03-27T09:56:43+00:00</updated>
-    <author>
-      <name>/u/Secret-Swimming132</name>
-      <uri>https://old.reddit.com/user/Secret-Swimming132</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="https://vnexpress.net/ban-tai-khoan-youtube-netflix-spotify-dung-chung-co-the-bi-phat-50-trieu-dong-5053959.html"&gt;https://vnexpress.net/ban-tai-khoan-youtube-netflix-spotify-dung-chung-co-the-bi-phat-50-trieu-dong-5053959.html&lt;/a&gt; &lt;/p&gt; &lt;p&gt;Theo bài báo này thì bên mua bán tài khoản như Divineshop, Gamikey.... nó vi phạm luật, có được bán ở VN không. Nếu luật ban hành, có bán thì chắc bán group kín hả mọi người. Vd mấy thằng này nó đặt hosting web ở nước ngoài thì hoạt động có oke không nhỉ? &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Secret-Swimming132"&gt; /u/Secret-Swimming132 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s4zqfy/luật_vn_sắp_ra_cấm_mua_bán_tài_khoản_netflix/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s4zqfy/luật_vn_sắp_ra_cấm_mua_bán_tài_khoản_netflix/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1s4zqfy/luật_vn_sắp_ra_cấm_mua_bán_tài_khoản_netflix/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-27T09:56:43+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1s506ym</id>
     <title>Hoà đồng thân thiện nhưng thích ở 1 mình</title>
     <updated>2026-03-27T10:22:33+00:00</updated>
@@ -279,6 +266,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1s506ym/hoà_đồng_thân_thiện_nhưng_thích_ở_1_mình/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-03-27T10:22:33+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1s4zqfy</id>
+    <title>Luật VN sắp ra cấm mua bán tài khoản Netflix, Spotify,... sharing chung</title>
+    <updated>2026-03-27T09:56:43+00:00</updated>
+    <author>
+      <name>/u/Secret-Swimming132</name>
+      <uri>https://old.reddit.com/user/Secret-Swimming132</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="https://vnexpress.net/ban-tai-khoan-youtube-netflix-spotify-dung-chung-co-the-bi-phat-50-trieu-dong-5053959.html"&gt;https://vnexpress.net/ban-tai-khoan-youtube-netflix-spotify-dung-chung-co-the-bi-phat-50-trieu-dong-5053959.html&lt;/a&gt; &lt;/p&gt; &lt;p&gt;Theo bài báo này thì bên mua bán tài khoản như Divineshop, Gamikey.... nó vi phạm luật, có được bán ở VN không. Nếu luật ban hành, có bán thì chắc bán group kín hả mọi người. Vd mấy thằng này nó đặt hosting web ở nước ngoài thì hoạt động có oke không nhỉ? &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Secret-Swimming132"&gt; /u/Secret-Swimming132 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s4zqfy/luật_vn_sắp_ra_cấm_mua_bán_tài_khoản_netflix/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s4zqfy/luật_vn_sắp_ra_cấm_mua_bán_tài_khoản_netflix/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1s4zqfy/luật_vn_sắp_ra_cấm_mua_bán_tài_khoản_netflix/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-27T09:56:43+00:00</published>
   </entry>
   <entry>
     <id>t3_1s4xib3</id>
