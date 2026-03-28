@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-03-28T19:51:40+00:00</updated>
+  <updated>2026-03-28T20:29:18+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1s628w7</id>
-    <title>Mua laptop ở đâu ?</title>
-    <updated>2026-03-28T14:45:12+00:00</updated>
-    <author>
-      <name>/u/Own_Hornet3287</name>
-      <uri>https://old.reddit.com/user/Own_Hornet3287</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Xin chào,&lt;/p&gt; &lt;p&gt;M hiện tại cần tìm 1 trang web bán hàng uy tín thì ngoài các đại lý lớn như FPTshop,Thegioididong,Phong Vũ,... thì còn chỗ nào ok ko ? Hiện tại mình đang xem mấy mẫu máy trên thegioiso365 khá ok mà rẻ hơn ở các chỗ khác ? Mình đang để ý hàng [New 100%],[Like New],[New Outlet] ở trên shop này . Xin ý kiến mọi người&lt;/p&gt; &lt;p&gt;Cảm ơn&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Own_Hornet3287"&gt; /u/Own_Hornet3287 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s628w7/mua_laptop_ở_đâu/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s628w7/mua_laptop_ở_đâu/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1s628w7/mua_laptop_ở_đâu/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-28T14:45:12+00:00</published>
-  </entry>
   <entry>
     <id>t3_1s689lr</id>
     <title>xin ý kiến anh em ạ</title>
@@ -84,6 +71,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1s5y9wh/vấn_đề_học_đường/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-03-28T11:51:43+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1s64kz5</id>
+    <title>sợ đi làm</title>
+    <updated>2026-03-28T16:15:06+00:00</updated>
+    <author>
+      <name>/u/maituidi1049</name>
+      <uri>https://old.reddit.com/user/maituidi1049</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em không biết lý do nào khiến em trì hoãn mà chọn viết lên đây thay vì xách đít đi làm ạ.&lt;/p&gt; &lt;p&gt;Em học cao đẳng IT, học không đến đâu nên em mới vừa chọn bắt đầu lại với helpdesk, thi tốt nghiệp xong thì bây giờ em rảnh tới 3 tháng mới tổng kết. Nằm nhà chơi không được 2 tuần nay, không dự định học, không đi làm thêm. Giờ ăn cơm mẹ nấu không trôi nữa. Em không hiểu bản thân sợ cái gì mà lười, dù truớc kia cũng từng đi làm thêm, lao động tay chân nhiều rồi.&lt;/p&gt; &lt;p&gt;Khi đó còn vẽ ra sau này học đại học, vừa học vừa làm thêm mà giờ mới bước đầu đã không ra hồn. Không hứng thú tìm tòi ngành học, sợ vì không biết, lại phải tốn tiền gia đình đầu tư..&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/maituidi1049"&gt; /u/maituidi1049 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s64kz5/sợ_đi_làm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s64kz5/sợ_đi_làm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1s64kz5/sợ_đi_làm/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-28T16:15:06+00:00</published>
   </entry>
   <entry>
     <id>t3_1s5wr39</id>
@@ -229,19 +229,6 @@
     <published>2026-03-28T13:44:15+00:00</published>
   </entry>
   <entry>
-    <id>t3_1s65txy</id>
-    <title>Dự án: tìm mối tình đầu</title>
-    <updated>2026-03-28T17:02:50+00:00</updated>
-    <author>
-      <name>/u/Minute_Ad7358</name>
-      <uri>https://old.reddit.com/user/Minute_Ad7358</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;24 tuổi rồi mà thành tích tình trường vẫn trắng tinh như tờ giấy mới mua. Chưa có nổi một mối tình đầu, kỹ năng tán gái thì ở level người mới tạo nhân vật. Giờ thật sự đang nghiêm túc tìm một lớp dạy tán gái cho người không có gốc, học từ cách bắt chuyện sao cho không bị xem là anh trai mưa cho tới nghệ thuật nhắn tin mà không bị seen 3 ngày. Không cần giáo trình cao siêu, chỉ mong sau khóa học biết cách nói chuyện đủ duyên để người ta không gọi mình là “bạn tốt” nữa là được. Hoặc nếu có bạn nữ nào muốn nhận kèo hướng dẫn thực hành 1 kèm 1 thì mình đăng ký học luôn cho nhanh 🥲&lt;/p&gt; &lt;p&gt;P/s: tớ dân IT nên không giỏi tán tỉnh, chỉ đang cố gắng fix lỗi cuộc đời.. mà chưa fix được nên vẫn còn cái dự án này.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Minute_Ad7358"&gt; /u/Minute_Ad7358 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s65txy/dự_án_tìm_mối_tình_đầu/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s65txy/dự_án_tìm_mối_tình_đầu/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1s65txy/dự_án_tìm_mối_tình_đầu/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-28T17:02:50+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1s5wtul</id>
     <title>Nên trả lời con chó này k ae</title>
     <updated>2026-03-28T10:30:44+00:00</updated>
@@ -255,17 +242,17 @@
     <published>2026-03-28T10:30:44+00:00</published>
   </entry>
   <entry>
-    <id>t3_1s67vp4</id>
-    <title>Mình làm ông scammer này sợ chắc run hết cả mình mẩy rồi, thấy xóa cả nick đi scam là biết sợ rồi</title>
-    <updated>2026-03-28T18:21:14+00:00</updated>
+    <id>t3_1s65txy</id>
+    <title>Dự án: tìm mối tình đầu</title>
+    <updated>2026-03-28T17:02:50+00:00</updated>
     <author>
-      <name>/u/engineering-weeb</name>
-      <uri>https://old.reddit.com/user/engineering-weeb</uri>
+      <name>/u/Minute_Ad7358</name>
+      <uri>https://old.reddit.com/user/Minute_Ad7358</uri>
     </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1s67vp4/mình_làm_ông_scammer_này_sợ_chắc_run_hết_cả_mình/"&gt; &lt;img alt="Mình làm ông scammer này sợ chắc run hết cả mình mẩy rồi, thấy xóa cả nick đi scam là biết sợ rồi" src="https://preview.redd.it/kdof58fuvtrg1.jpg?width=140&amp;amp;height=140&amp;amp;crop=1:1,smart&amp;amp;auto=webp&amp;amp;s=e14c9873e2e6936f4e4283d448a0d28f81b88ad3" title="Mình làm ông scammer này sợ chắc run hết cả mình mẩy rồi, thấy xóa cả nick đi scam là biết sợ rồi" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình cũng học ngành liên quan đến mấy cái này, tiện thì mình test kỹ năng của mình tí, cái này mình check rất kỹ với bạn đang học luật rồi, mình chỉ gửi link drive từ đấy suy ra địa chỉ ip của ông kia thôi, các website nó lấy địa chỉ ip mình để đem ra quảng cáo suốt nên ko vi phạm gì cả. Bác nào muốn an toàn thì mình khuyên dùng vpn nhé. Thanks các bác&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/engineering-weeb"&gt; /u/engineering-weeb &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1s67vp4"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s67vp4/mình_làm_ông_scammer_này_sợ_chắc_run_hết_cả_mình/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1s67vp4/mình_làm_ông_scammer_này_sợ_chắc_run_hết_cả_mình/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;24 tuổi rồi mà thành tích tình trường vẫn trắng tinh như tờ giấy mới mua. Chưa có nổi một mối tình đầu, kỹ năng tán gái thì ở level người mới tạo nhân vật. Giờ thật sự đang nghiêm túc tìm một lớp dạy tán gái cho người không có gốc, học từ cách bắt chuyện sao cho không bị xem là anh trai mưa cho tới nghệ thuật nhắn tin mà không bị seen 3 ngày. Không cần giáo trình cao siêu, chỉ mong sau khóa học biết cách nói chuyện đủ duyên để người ta không gọi mình là “bạn tốt” nữa là được. Hoặc nếu có bạn nữ nào muốn nhận kèo hướng dẫn thực hành 1 kèm 1 thì mình đăng ký học luôn cho nhanh 🥲&lt;/p&gt; &lt;p&gt;P/s: tớ dân IT nên không giỏi tán tỉnh, chỉ đang cố gắng fix lỗi cuộc đời.. mà chưa fix được nên vẫn còn cái dự án này.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Minute_Ad7358"&gt; /u/Minute_Ad7358 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s65txy/dự_án_tìm_mối_tình_đầu/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s65txy/dự_án_tìm_mối_tình_đầu/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1s65txy/dự_án_tìm_mối_tình_đầu/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-28T18:21:14+00:00</published>
+    <published>2026-03-28T17:02:50+00:00</published>
   </entry>
   <entry>
     <id>t3_1s5y2un</id>
@@ -279,6 +266,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1s5y2un/sống_để_làm_gì_ạ/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-03-28T11:40:59+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1s67vp4</id>
+    <title>Mình làm ông scammer này sợ chắc run hết cả mình mẩy rồi, thấy xóa cả nick đi scam là biết sợ rồi</title>
+    <updated>2026-03-28T18:21:14+00:00</updated>
+    <author>
+      <name>/u/engineering-weeb</name>
+      <uri>https://old.reddit.com/user/engineering-weeb</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1s67vp4/mình_làm_ông_scammer_này_sợ_chắc_run_hết_cả_mình/"&gt; &lt;img alt="Mình làm ông scammer này sợ chắc run hết cả mình mẩy rồi, thấy xóa cả nick đi scam là biết sợ rồi" src="https://preview.redd.it/kdof58fuvtrg1.jpg?width=140&amp;amp;height=140&amp;amp;crop=1:1,smart&amp;amp;auto=webp&amp;amp;s=e14c9873e2e6936f4e4283d448a0d28f81b88ad3" title="Mình làm ông scammer này sợ chắc run hết cả mình mẩy rồi, thấy xóa cả nick đi scam là biết sợ rồi" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình cũng học ngành liên quan đến mấy cái này, tiện thì mình test kỹ năng của mình tí, cái này mình check rất kỹ với bạn đang học luật rồi, mình chỉ gửi link drive từ đấy suy ra địa chỉ ip của ông kia thôi, các website nó lấy địa chỉ ip mình để đem ra quảng cáo suốt nên ko vi phạm gì cả. Bác nào muốn an toàn thì mình khuyên dùng vpn nhé. Thanks các bác&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/engineering-weeb"&gt; /u/engineering-weeb &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1s67vp4"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s67vp4/mình_làm_ông_scammer_này_sợ_chắc_run_hết_cả_mình/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1s67vp4/mình_làm_ông_scammer_này_sợ_chắc_run_hết_cả_mình/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-28T18:21:14+00:00</published>
   </entry>
   <entry>
     <id>t3_1s5yd7f</id>
