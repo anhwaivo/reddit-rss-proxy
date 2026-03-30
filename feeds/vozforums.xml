@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-03-30T16:39:24+00:00</updated>
+  <updated>2026-03-30T17:36:20+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
+  <entry>
+    <id>t3_1s7tzjr</id>
+    <title>các ace nào biết trung tâm hay chỗ nào dạy uy tín k, mục tiêu của e là vừa cải thiện nghe nói vừa có bằng ielts 6,5 ( đã có bằng toeic 2 kỹ năng 800)</title>
+    <updated>2026-03-30T15:35:47+00:00</updated>
+    <author>
+      <name>/u/NgocDuyTo</name>
+      <uri>https://old.reddit.com/user/NgocDuyTo</uri>
+    </author>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/NgocDuyTo"&gt; /u/NgocDuyTo &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s7tzjr/các_ace_nào_biết_trung_tâm_hay_chỗ_nào_dạy_uy_tín/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s7tzjr/các_ace_nào_biết_trung_tâm_hay_chỗ_nào_dạy_uy_tín/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1s7tzjr/các_ace_nào_biết_trung_tâm_hay_chỗ_nào_dạy_uy_tín/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-30T15:35:47+00:00</published>
+  </entry>
   <entry>
     <id>t3_1s7igmd</id>
     <title>Em tính học sửa chữa pc ra trường liệu có cơ hội tìm việc ko ạ</title>
@@ -19,19 +32,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1s7igmd/em_tính_học_sửa_chữa_pc_ra_trường_liệu_có_cơ_hội/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-03-30T06:04:26+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1s7veb7</id>
-    <title>Nữ tìm f with b càng đẹp trai càng tốt</title>
-    <updated>2026-03-30T16:25:12+00:00</updated>
-    <author>
-      <name>/u/No_Start_480</name>
-      <uri>https://old.reddit.com/user/No_Start_480</uri>
-    </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/No_Start_480"&gt; /u/No_Start_480 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s7veb7/nữ_tìm_f_with_b_càng_đẹp_trai_càng_tốt/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s7veb7/nữ_tìm_f_with_b_càng_đẹp_trai_càng_tốt/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1s7veb7/nữ_tìm_f_with_b_càng_đẹp_trai_càng_tốt/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-30T16:25:12+00:00</published>
   </entry>
   <entry>
     <id>t3_1s7vk7i</id>
@@ -60,19 +60,6 @@
     <published>2026-03-30T07:49:43+00:00</published>
   </entry>
   <entry>
-    <id>t3_1s7vqnf</id>
-    <title>Tư vấn build PC với budget 15m</title>
-    <updated>2026-03-30T16:37:11+00:00</updated>
-    <author>
-      <name>/u/Haunting_Extent_2119</name>
-      <uri>https://old.reddit.com/user/Haunting_Extent_2119</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Như tiêu đề thì với budget 15m thì có build được như list này ở thời điểm hiện tại không ạ?&lt;br /&gt; Build như sau (giá tham khảo KCC Shop + shopee):&lt;br /&gt; - CPU: Intel Core i5-12400F (tray) - 3.760.000&lt;br /&gt; - MAIN: MSI PRO B760M-E DDR4 - 2.300.000&lt;br /&gt; - VGA: NVIDIA RTX 2060 super (2nd) - 5.500.000 (giá shopee)&lt;br /&gt; - RAM: Patriot 16GB 3200MHz DDR4 x 1 (tạm vì đang đắt) - 2.590.000&lt;br /&gt; - SSD: Lexar NM610 PRO 500GB M.2 2280 PCIe 3.0x4 - 2.190.000&lt;br /&gt; - PSU: XIGMATEK X-POWER III X650 - 867.999 (giá shopee)&lt;br /&gt; - CASE: ??&lt;br /&gt; ---&amp;gt; Chưa tính case đã hơn 17m&lt;br /&gt; Nhu cầu của e: Làm việc (code, edit capcut cơ bản, tool auto?, lướt web, youtube, etc...) + Gaming (LOL, CS2, etc... chơi for fun, không hardcore, không AAA)&lt;br /&gt; Note: E đã thử build lẻ trên shopee + tìm build sẵn trên các shop lớn, thì có vẻ đã quá budget khá nhiều (ví dụ như trên). Mua build 2nd của người dùng thật (không phải thợ thuyền) thì có vẻ mới với tới được build trên, nhưng lại lăn tăn bảo hành.&lt;br /&gt; Giờ chỉ còn cách tăng budget hoặc mua full build 2nd, hoặc chờ ram, ssd giảm (chắc mùa quýt). Các bác thấy sao, cho e xin nhận xét với ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Haunting_Extent_2119"&gt; /u/Haunting_Extent_2119 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s7vqnf/tư_vấn_build_pc_với_budget_15m/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s7vqnf/tư_vấn_build_pc_với_budget_15m/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1s7vqnf/tư_vấn_build_pc_với_budget_15m/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-30T16:37:11+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1s7dfrk</id>
     <title>con người</title>
     <updated>2026-03-30T01:43:20+00:00</updated>
@@ -97,6 +84,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1s7iz9q/các_anh_ơi_em_cầu_xin_các_anh_cứu_em_với_ạ_nó_gắn/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-03-30T06:35:30+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1s7xftx</id>
+    <title>Cảm giác chênh vênh</title>
+    <updated>2026-03-30T17:35:38+00:00</updated>
+    <author>
+      <name>/u/Els_Chaos</name>
+      <uri>https://old.reddit.com/user/Els_Chaos</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em chào các bác ạ, em ngoi lên cũm muốn tâm sự 1 chút ạ. &lt;/p&gt; &lt;p&gt;Không biết có bác nào đã từng trải qua cảm giác chênh vênh đứng ở giữa chưa ạ. Kiểu như là không đủ xuất sắc để được người ta chú ý, không đủ nghèo khó để được người ta giúp đỡ. &lt;/p&gt; &lt;p&gt;Em cũng đang là sinh viên năm 3 HCMUT, GPA của em cũng chỉ có 3.1, em lết từ 2.7 đi lên, nhưng bạn bè và người quen em thì ai nấy cũng đều rất giỏi và trong mắt em họ cực kì xuất sắc, họ vừa thông minh mà cũng vừa chăm chỉ. Nên đôi lúc em cảm giác mình vẫn mãi lủi thủi như vậy. &lt;/p&gt; &lt;p&gt;Mà hoàn cảnh gia đình em thì cũng vậy, không đủ nền tảng vững chắc để tự do cũng không đủ khó khăn để tất tay, không còn gì để mất, cảm giác luôn sợ thiếu mà cũng vừa sợ mất là như vậy. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Els_Chaos"&gt; /u/Els_Chaos &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s7xftx/cảm_giác_chênh_vênh/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s7xftx/cảm_giác_chênh_vênh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1s7xftx/cảm_giác_chênh_vênh/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-30T17:35:38+00:00</published>
   </entry>
   <entry>
     <id>t3_1s7srad</id>
@@ -125,19 +125,6 @@
     <published>2026-03-30T15:08:03+00:00</published>
   </entry>
   <entry>
-    <id>t3_1s7thvf</id>
-    <title>Công ty buôn bán hụi</title>
-    <updated>2026-03-30T15:18:24+00:00</updated>
-    <author>
-      <name>/u/Proper_Cry_973</name>
-      <uri>https://old.reddit.com/user/Proper_Cry_973</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các sếp, tình hình là em sẽ tới trao đổi ở 1 công ty buôn bán hụi có liên quan Campuchia, không biết ai có thông tin gì về công ty Hụi Huỳnh Tân không&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Proper_Cry_973"&gt; /u/Proper_Cry_973 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s7thvf/công_ty_buôn_bán_hụi/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s7thvf/công_ty_buôn_bán_hụi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1s7thvf/công_ty_buôn_bán_hụi/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-30T15:18:24+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1s7m62d</id>
     <title>Muốn nghe từ mn ạ</title>
     <updated>2026-03-30T09:54:34+00:00</updated>
@@ -151,6 +138,19 @@
     <published>2026-03-30T09:54:34+00:00</published>
   </entry>
   <entry>
+    <id>t3_1s7vqnf</id>
+    <title>Tư vấn build PC với budget 15m</title>
+    <updated>2026-03-30T16:37:11+00:00</updated>
+    <author>
+      <name>/u/Haunting_Extent_2119</name>
+      <uri>https://old.reddit.com/user/Haunting_Extent_2119</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Như tiêu đề thì với budget 15m thì có build được như list này ở thời điểm hiện tại không ạ?&lt;br /&gt; Build như sau (giá tham khảo KCC Shop + shopee):&lt;br /&gt; - CPU: Intel Core i5-12400F (tray) - 3.760.000&lt;br /&gt; - MAIN: MSI PRO B760M-E DDR4 - 2.300.000&lt;br /&gt; - VGA: NVIDIA RTX 2060 super (2nd) - 5.500.000 (giá shopee)&lt;br /&gt; - RAM: Patriot 16GB 3200MHz DDR4 x 1 (tạm vì đang đắt) - 2.590.000&lt;br /&gt; - SSD: Lexar NM610 PRO 500GB M.2 2280 PCIe 3.0x4 - 2.190.000&lt;br /&gt; - PSU: XIGMATEK X-POWER III X650 - 867.999 (giá shopee)&lt;br /&gt; - CASE: ??&lt;br /&gt; ---&amp;gt; Chưa tính case đã hơn 17m&lt;br /&gt; Nhu cầu của e: Làm việc (code, edit capcut cơ bản, tool auto?, lướt web, youtube, etc...) + Gaming (LOL, CS2, etc... chơi for fun, không hardcore, không AAA)&lt;br /&gt; Note: E đã thử build lẻ trên shopee + tìm build sẵn trên các shop lớn, thì có vẻ đã quá budget khá nhiều (ví dụ như trên). Mua build 2nd của người dùng thật (không phải thợ thuyền) thì có vẻ mới với tới được build trên, nhưng lại lăn tăn bảo hành.&lt;br /&gt; Giờ chỉ còn cách tăng budget hoặc mua full build 2nd, hoặc chờ ram, ssd giảm (chắc mùa quýt). Các bác thấy sao, cho e xin nhận xét với ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Haunting_Extent_2119"&gt; /u/Haunting_Extent_2119 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s7vqnf/tư_vấn_build_pc_với_budget_15m/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s7vqnf/tư_vấn_build_pc_với_budget_15m/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1s7vqnf/tư_vấn_build_pc_với_budget_15m/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-30T16:37:11+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1s7m67x</id>
     <title>Bé mèo hoang</title>
     <updated>2026-03-30T09:54:52+00:00</updated>
@@ -162,19 +162,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1s7m67x/bé_mèo_hoang/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-03-30T09:54:52+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1s7luse</id>
-    <title>Xin mọi người cíu em ra khỏi bể khổ Khóa Luận Tốt Nghiệp (18-29 tuổi, có - không có triệu chứng trầm cảm)</title>
-    <updated>2026-03-30T09:35:16+00:00</updated>
-    <author>
-      <name>/u/yanglake_liltiger</name>
-      <uri>https://old.reddit.com/user/yanglake_liltiger</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1s7luse/xin_mọi_người_cíu_em_ra_khỏi_bể_khổ_khóa_luận_tốt/"&gt; &lt;img alt="Xin mọi người cíu em ra khỏi bể khổ Khóa Luận Tốt Nghiệp (18-29 tuổi, có - không có triệu chứng trầm cảm)" src="https://preview.redd.it/5n49h2kvj5sg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=e9b92d859296047e2cd08e15ab622a48e851b99c" title="Xin mọi người cíu em ra khỏi bể khổ Khóa Luận Tốt Nghiệp (18-29 tuổi, có - không có triệu chứng trầm cảm)" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Xin chào mọi người, Em là sinh viên năm cuối khoa Tâm lý học, Trường Đại học Khoa học Xã hội và Nhân văn, ĐHGQHN. Hiện em đang thực hiện khóa luận tốt nghiệp với đề tài &amp;quot;Câu chuyện về &amp;quot;nốt trầm&amp;quot;: Đặc điểm phát triển đề ngữ qua lăng kính trầm cảm&amp;quot;. Đề tài nhằm nhận diện các dấu hiệu về mặt cấu trúc văn bản, có ý nghĩa trong việc tìm hiểu các chỉ báo nhận thức ở khách thể gặp rối loạn trầm cảm.&lt;/p&gt; &lt;p&gt;Đề tài này được thực hiện với 2 khâu: - Phần 1: tìm kiếm khách thể sẵn sàng chia sẻ câu chuyện của mình qua bảng hỏi: &lt;a href="https://forms.gle/muxx1PjTUQ9Mmzef6"&gt;https://forms.gle/muxx1PjTUQ9Mmzef6&lt;/a&gt; - Phần 2: khách thể chia sẻ câu chuyện của mình dưới dạng một bài viết tự sự trong khoảng 45- 60 phút.&lt;/p&gt; &lt;p&gt;Về đối tượng, em mong muốn tìm kiếm khách thể là người trưởng thành trẻ tuổi (18-29 tuổi).&lt;/p&gt; &lt;p&gt;Về quyền lợi, em xin phép được hỗ trợ 30.000 VNĐ đối với Anh/Chị tham gia buổi viết tự sự, cũng như xin gửi lại số điểm của Anh/Chị qua thang BDI-II (thang đo trầm cảm Beck) đúng theo hướng dẫn của Bộ Y tế.&lt;/p&gt; &lt;p&gt;Đề tài em thực hiện không có ý định phán xét bất kỳ ai và luôn đảm bảo an toàn thông tin. Vì vậy, em rất mong được mọi người giúp đỡ. Em xin cảm ơn mọi người rất nhiều! Cảm ơn admin đã duyệt bài của em ạ!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/yanglake_liltiger"&gt; /u/yanglake_liltiger &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/5n49h2kvj5sg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s7luse/xin_mọi_người_cíu_em_ra_khỏi_bể_khổ_khóa_luận_tốt/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1s7luse/xin_mọi_người_cíu_em_ra_khỏi_bể_khổ_khóa_luận_tốt/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-30T09:35:16+00:00</published>
   </entry>
   <entry>
     <id>t3_1s7jejv</id>
@@ -216,17 +203,17 @@
     <published>2026-03-30T05:42:35+00:00</published>
   </entry>
   <entry>
-    <id>t3_1s7sl3i</id>
-    <title>Dự tính nghỉ việc</title>
-    <updated>2026-03-30T14:45:00+00:00</updated>
+    <id>t3_1s7luse</id>
+    <title>Xin mọi người cíu em ra khỏi bể khổ Khóa Luận Tốt Nghiệp (18-29 tuổi, có - không có triệu chứng trầm cảm)</title>
+    <updated>2026-03-30T09:35:16+00:00</updated>
     <author>
-      <name>/u/neverbethesame_0419</name>
-      <uri>https://old.reddit.com/user/neverbethesame_0419</uri>
+      <name>/u/yanglake_liltiger</name>
+      <uri>https://old.reddit.com/user/yanglake_liltiger</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Vãi. Có thím nào tính nghỉ việc xong đùng cái phát hiện 4,5 người trong cty có offer nghỉ trước mình lun chưa. &lt;/p&gt; &lt;p&gt;Tui tính nghỉ cuối tháng này, nhưng vì vướng bận 1 số chuyện nên hoàn cảnh chưa cho phép nghỉ. Ai dè nghe công ty lục đục người nghỉ lun. &lt;/p&gt; &lt;p&gt;Công ty tui khá nhỏ nữa, có chừng 20 mạng đổ lại thui cả các sếp. Giờ tui xin nữa cũng sợ sếp shock quá lăn ra xỉu. Sếp cũng tốt, công việc tui vẫn ổn. Chỉ là tui có định hướng khác thui, với thấy người khác lục đục tui cũng ham quá. Ở lại cũng chẳng còn ai. 😃&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/neverbethesame_0419"&gt; /u/neverbethesame_0419 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s7sl3i/dự_tính_nghỉ_việc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s7sl3i/dự_tính_nghỉ_việc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1s7sl3i/dự_tính_nghỉ_việc/"/>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1s7luse/xin_mọi_người_cíu_em_ra_khỏi_bể_khổ_khóa_luận_tốt/"&gt; &lt;img alt="Xin mọi người cíu em ra khỏi bể khổ Khóa Luận Tốt Nghiệp (18-29 tuổi, có - không có triệu chứng trầm cảm)" src="https://preview.redd.it/5n49h2kvj5sg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=e9b92d859296047e2cd08e15ab622a48e851b99c" title="Xin mọi người cíu em ra khỏi bể khổ Khóa Luận Tốt Nghiệp (18-29 tuổi, có - không có triệu chứng trầm cảm)" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Xin chào mọi người, Em là sinh viên năm cuối khoa Tâm lý học, Trường Đại học Khoa học Xã hội và Nhân văn, ĐHGQHN. Hiện em đang thực hiện khóa luận tốt nghiệp với đề tài &amp;quot;Câu chuyện về &amp;quot;nốt trầm&amp;quot;: Đặc điểm phát triển đề ngữ qua lăng kính trầm cảm&amp;quot;. Đề tài nhằm nhận diện các dấu hiệu về mặt cấu trúc văn bản, có ý nghĩa trong việc tìm hiểu các chỉ báo nhận thức ở khách thể gặp rối loạn trầm cảm.&lt;/p&gt; &lt;p&gt;Đề tài này được thực hiện với 2 khâu: - Phần 1: tìm kiếm khách thể sẵn sàng chia sẻ câu chuyện của mình qua bảng hỏi: &lt;a href="https://forms.gle/muxx1PjTUQ9Mmzef6"&gt;https://forms.gle/muxx1PjTUQ9Mmzef6&lt;/a&gt; - Phần 2: khách thể chia sẻ câu chuyện của mình dưới dạng một bài viết tự sự trong khoảng 45- 60 phút.&lt;/p&gt; &lt;p&gt;Về đối tượng, em mong muốn tìm kiếm khách thể là người trưởng thành trẻ tuổi (18-29 tuổi).&lt;/p&gt; &lt;p&gt;Về quyền lợi, em xin phép được hỗ trợ 30.000 VNĐ đối với Anh/Chị tham gia buổi viết tự sự, cũng như xin gửi lại số điểm của Anh/Chị qua thang BDI-II (thang đo trầm cảm Beck) đúng theo hướng dẫn của Bộ Y tế.&lt;/p&gt; &lt;p&gt;Đề tài em thực hiện không có ý định phán xét bất kỳ ai và luôn đảm bảo an toàn thông tin. Vì vậy, em rất mong được mọi người giúp đỡ. Em xin cảm ơn mọi người rất nhiều! Cảm ơn admin đã duyệt bài của em ạ!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/yanglake_liltiger"&gt; /u/yanglake_liltiger &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/5n49h2kvj5sg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s7luse/xin_mọi_người_cíu_em_ra_khỏi_bể_khổ_khóa_luận_tốt/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1s7luse/xin_mọi_người_cíu_em_ra_khỏi_bể_khổ_khóa_luận_tốt/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-30T14:45:00+00:00</published>
+    <published>2026-03-30T09:35:16+00:00</published>
   </entry>
   <entry>
     <id>t3_1s7kxtg</id>
@@ -255,6 +242,19 @@
     <published>2026-03-30T04:10:13+00:00</published>
   </entry>
   <entry>
+    <id>t3_1s7sl3i</id>
+    <title>Dự tính nghỉ việc</title>
+    <updated>2026-03-30T14:45:00+00:00</updated>
+    <author>
+      <name>/u/neverbethesame_0419</name>
+      <uri>https://old.reddit.com/user/neverbethesame_0419</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Vãi. Có thím nào tính nghỉ việc xong đùng cái phát hiện 4,5 người trong cty có offer nghỉ trước mình lun chưa. &lt;/p&gt; &lt;p&gt;Tui tính nghỉ cuối tháng này, nhưng vì vướng bận 1 số chuyện nên hoàn cảnh chưa cho phép nghỉ. Ai dè nghe công ty lục đục người nghỉ lun. &lt;/p&gt; &lt;p&gt;Công ty tui khá nhỏ nữa, có chừng 20 mạng đổ lại thui cả các sếp. Giờ tui xin nữa cũng sợ sếp shock quá lăn ra xỉu. Sếp cũng tốt, công việc tui vẫn ổn. Chỉ là tui có định hướng khác thui, với thấy người khác lục đục tui cũng ham quá. Ở lại cũng chẳng còn ai. 😃&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/neverbethesame_0419"&gt; /u/neverbethesame_0419 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s7sl3i/dự_tính_nghỉ_việc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s7sl3i/dự_tính_nghỉ_việc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1s7sl3i/dự_tính_nghỉ_việc/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-30T14:45:00+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1s7nqq6</id>
     <title>cảm thấy khó khăn sau khi tốt nghiệp vô cùng...</title>
     <updated>2026-03-30T11:20:57+00:00</updated>
@@ -281,19 +281,6 @@
     <published>2026-03-30T10:22:22+00:00</published>
   </entry>
   <entry>
-    <id>t3_1s7qqkf</id>
-    <title>Mẹ bị một thằng con gái dụ hoặc?</title>
-    <updated>2026-03-30T13:33:59+00:00</updated>
-    <author>
-      <name>/u/CommunicationTime204</name>
-      <uri>https://old.reddit.com/user/CommunicationTime204</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em xin chào mọi người, gia đình của em cũng thuộc dạng có điều kiện, ba của em làm ra tiền nhưng mà tính cách của ba em thì hơi khô, có lúc cọc cằn và tức giận với người nhà, nên mẹ em cũng đã rất tuyệt vời khi vẫn đồng hành với ba em tới bây giờ, nhưng nói công tâm thì ba em là một người cha tuyệt vời, chỉ là không có thể hiện tình cảm với mẹ em nhiều,và đồng thời do mẹ em là nội trợ, nên cũng ít bạn thân thật sự, hay là người khiến cho mẹ vui, nên mẹ em phần nào đó bị thiếu thốn tình cảm, Đầu năm trước thì có 1 cô A( em xin gọi là cô A) bạn mẹ em, thì em nghĩ hai người thân bình thường th, nhưng mà sau đó có dấu hiệu và thật sự mẹ em đã bị cô đó dụ hoặc, cô đó có gia đình( có chồng ) và có 2 đứa con, chỉ là chồng cô không có điều kiện dư dả, và cô cũng bị thiếu thốn tình cảm gia đình( bị chồng đối xử tệ bạc, cuộc sống khó khăn), giờ đây cô đó có rất nhiều lần nhắn cho mẹ em và kiểu tin nhắn thả thính như người yêu, mẹ em cũng rep, nhưng phần nào đó cũng có giữ chút tâm, nhưng em vẫn thấy mẹ em vẫn nghiêng về cán cân bên đó, Tiếp theo em nên làm gì đây ạ, em thật sự ko biết làm gì cả ạ, mong mọi người giúp đỡ em ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/CommunicationTime204"&gt; /u/CommunicationTime204 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s7qqkf/mẹ_bị_một_thằng_con_gái_dụ_hoặc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s7qqkf/mẹ_bị_một_thằng_con_gái_dụ_hoặc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1s7qqkf/mẹ_bị_một_thằng_con_gái_dụ_hoặc/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-03-30T13:33:59+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1s7ilam</id>
     <title>Có cách nào để mẹ mình bớt tôn thờ Trump lại k ??</title>
     <updated>2026-03-30T06:12:16+00:00</updated>
@@ -305,6 +292,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1s7ilam/có_cách_nào_để_mẹ_mình_bớt_tôn_thờ_trump_lại_k/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-03-30T06:12:16+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1s7qqkf</id>
+    <title>Mẹ bị một thằng con gái dụ hoặc?</title>
+    <updated>2026-03-30T13:33:59+00:00</updated>
+    <author>
+      <name>/u/CommunicationTime204</name>
+      <uri>https://old.reddit.com/user/CommunicationTime204</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em xin chào mọi người, gia đình của em cũng thuộc dạng có điều kiện, ba của em làm ra tiền nhưng mà tính cách của ba em thì hơi khô, có lúc cọc cằn và tức giận với người nhà, nên mẹ em cũng đã rất tuyệt vời khi vẫn đồng hành với ba em tới bây giờ, nhưng nói công tâm thì ba em là một người cha tuyệt vời, chỉ là không có thể hiện tình cảm với mẹ em nhiều,và đồng thời do mẹ em là nội trợ, nên cũng ít bạn thân thật sự, hay là người khiến cho mẹ vui, nên mẹ em phần nào đó bị thiếu thốn tình cảm, Đầu năm trước thì có 1 cô A( em xin gọi là cô A) bạn mẹ em, thì em nghĩ hai người thân bình thường th, nhưng mà sau đó có dấu hiệu và thật sự mẹ em đã bị cô đó dụ hoặc, cô đó có gia đình( có chồng ) và có 2 đứa con, chỉ là chồng cô không có điều kiện dư dả, và cô cũng bị thiếu thốn tình cảm gia đình( bị chồng đối xử tệ bạc, cuộc sống khó khăn), giờ đây cô đó có rất nhiều lần nhắn cho mẹ em và kiểu tin nhắn thả thính như người yêu, mẹ em cũng rep, nhưng phần nào đó cũng có giữ chút tâm, nhưng em vẫn thấy mẹ em vẫn nghiêng về cán cân bên đó, Tiếp theo em nên làm gì đây ạ, em thật sự ko biết làm gì cả ạ, mong mọi người giúp đỡ em ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/CommunicationTime204"&gt; /u/CommunicationTime204 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s7qqkf/mẹ_bị_một_thằng_con_gái_dụ_hoặc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s7qqkf/mẹ_bị_một_thằng_con_gái_dụ_hoặc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1s7qqkf/mẹ_bị_một_thằng_con_gái_dụ_hoặc/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-03-30T13:33:59+00:00</published>
   </entry>
   <entry>
     <id>t3_1s7i5n1</id>
