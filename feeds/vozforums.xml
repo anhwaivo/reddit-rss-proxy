@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-04-01T21:57:16+00:00</updated>
+  <updated>2026-04-01T22:42:13+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -32,19 +32,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1s9pqeu/secondary_job/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-04-01T16:36:33+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1s9rbs5</id>
-    <title>Ai cũng nói tôi đã thay đổi rất nhiều, chẳng còn như xưa nữa. Chắc chắn rồi, bởi vì sau cú ngã ấy, tôi chẳng còn là tôi nữa rồi!</title>
-    <updated>2026-04-01T17:32:02+00:00</updated>
-    <author>
-      <name>/u/No_Start_480</name>
-      <uri>https://old.reddit.com/user/No_Start_480</uri>
-    </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/No_Start_480"&gt; /u/No_Start_480 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s9rbs5/ai_cũng_nói_tôi_đã_thay_đổi_rất_nhiều_chẳng_còn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s9rbs5/ai_cũng_nói_tôi_đã_thay_đổi_rất_nhiều_chẳng_còn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1s9rbs5/ai_cũng_nói_tôi_đã_thay_đổi_rất_nhiều_chẳng_còn/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-01T17:32:02+00:00</published>
   </entry>
   <entry>
     <id>t3_1s974ta</id>
@@ -149,6 +136,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1s9rfbp/liệu_có_nên_quay_lại_với_ngành_mà_mình_đã_từng/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-04-01T17:35:29+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1s9zq79</id>
+    <title>Thói quen ngủ nướng</title>
+    <updated>2026-04-01T22:35:13+00:00</updated>
+    <author>
+      <name>/u/HoanhNguyen25</name>
+      <uri>https://old.reddit.com/user/HoanhNguyen25</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&amp;#x200b;&lt;/p&gt; &lt;p&gt;Nhiều người hay có thói quen ngủ nướng đặc biệt là vào những dịp cuối tuần.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/HoanhNguyen25"&gt; /u/HoanhNguyen25 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s9zq79/thói_quen_ngủ_nướng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1s9zq79/thói_quen_ngủ_nướng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1s9zq79/thói_quen_ngủ_nướng/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-04-01T22:35:13+00:00</published>
   </entry>
   <entry>
     <id>t3_1s9d0ho</id>
