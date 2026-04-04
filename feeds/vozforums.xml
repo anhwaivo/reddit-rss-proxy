@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-04-04T16:52:29+00:00</updated>
+  <updated>2026-04-04T17:28:41+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1sc6aut</id>
-    <title>So sánh HUST và USTH ngành cơ điện tử</title>
-    <updated>2026-04-04T10:59:35+00:00</updated>
-    <author>
-      <name>/u/wopwoppoppop</name>
-      <uri>https://old.reddit.com/user/wopwoppoppop</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;HUST thì không cần nói nhiều nữa, nhưng USTH có bằng được công nhận ở châu Âu nên nếu làm việc ở công ty nước ngoài em nghĩ sẽ dễ xin việc hơn. Việc học bằng tiếng Anh em không ngại do trước giờ cũng đã tự học điện và lập trình bằng tiếng anh hết.&lt;/p&gt; &lt;p&gt;Mọi người cho em hỏi về môi trường học tập của 2 trường. Nếu được thì cho em hỏi thêm về lương và môi tường làm việc sau khi ra trường ạ.&lt;/p&gt; &lt;p&gt;Em cảm ơn&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/wopwoppoppop"&gt; /u/wopwoppoppop &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sc6aut/so_sánh_hust_và_usth_ngành_cơ_điện_tử/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sc6aut/so_sánh_hust_và_usth_ngành_cơ_điện_tử/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1sc6aut/so_sánh_hust_và_usth_ngành_cơ_điện_tử/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-04T10:59:35+00:00</published>
-  </entry>
   <entry>
     <id>t3_1sc1nq9</id>
     <title>Sao trên web ko cho reply vậy các bác</title>
@@ -138,6 +125,19 @@
     <published>2026-04-04T05:40:06+00:00</published>
   </entry>
   <entry>
+    <id>t3_1scepqc</id>
+    <title>Du học</title>
+    <updated>2026-04-04T17:09:01+00:00</updated>
+    <author>
+      <name>/u/Odd_Gur97</name>
+      <uri>https://old.reddit.com/user/Odd_Gur97</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;em drop out giữa chừng nhưng giờ muốn tiếp tục đi học nên em định thi GED và ielts rồi học tiếp community college và transfer lên 1 trường university nào đó ok xíu thì có khả thi không ạ? &lt;/p&gt; &lt;p&gt;(mà em muốn hỏi là không biết có community college nào có thể học online tại việt nam mà có giá trị tương đương học tại mỹ và có thể transfer không ạ) &lt;/p&gt; &lt;p&gt;em cảm ơn ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Odd_Gur97"&gt; /u/Odd_Gur97 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1scepqc/du_học/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1scepqc/du_học/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1scepqc/du_học/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-04-04T17:09:01+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1sc9c5u</id>
     <title>Có ai suốt ngày bị mấy ông Dev nước ngoài gạ collaborate không nhỉ?</title>
     <updated>2026-04-04T13:31:40+00:00</updated>
@@ -190,19 +190,6 @@
     <published>2026-04-04T02:40:34+00:00</published>
   </entry>
   <entry>
-    <id>t3_1sc2pj1</id>
-    <title>Em cần tư vấn, mua laptop mới để học</title>
-    <updated>2026-04-04T07:20:05+00:00</updated>
-    <author>
-      <name>/u/maybeMaay</name>
-      <uri>https://old.reddit.com/user/maybeMaay</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1sc2pj1/em_cần_tư_vấn_mua_laptop_mới_để_học/"&gt; &lt;img alt="Em cần tư vấn, mua laptop mới để học" src="https://preview.redd.it/cusc5ogbk4tg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=10c29915964b6811e18f39443e35745601bd3c6e" title="Em cần tư vấn, mua laptop mới để học" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Laptop cũ bị hư nên em cần mua laptop mới nhưng lại phân vân không biết chọn hãng/máy nào. Bác nào xài qua Lecoo Fighter 7000 rồi cho em xin tí review, hoặc em xin recommend máy khác tầm 30tr đổ xuống. Em cảm ơn&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/maybeMaay"&gt; /u/maybeMaay &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/cusc5ogbk4tg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sc2pj1/em_cần_tư_vấn_mua_laptop_mới_để_học/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1sc2pj1/em_cần_tư_vấn_mua_laptop_mới_để_học/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-04T07:20:05+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1sc7u62</id>
     <title>Có nên tìm người yêu để quen nma chưa có ý định tiến tới hôn nhân k?</title>
     <updated>2026-04-04T12:21:10+00:00</updated>
@@ -214,6 +201,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1sc7u62/có_nên_tìm_người_yêu_để_quen_nma_chưa_có_ý_định/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-04-04T12:21:10+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1sc2pj1</id>
+    <title>Em cần tư vấn, mua laptop mới để học</title>
+    <updated>2026-04-04T07:20:05+00:00</updated>
+    <author>
+      <name>/u/maybeMaay</name>
+      <uri>https://old.reddit.com/user/maybeMaay</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1sc2pj1/em_cần_tư_vấn_mua_laptop_mới_để_học/"&gt; &lt;img alt="Em cần tư vấn, mua laptop mới để học" src="https://preview.redd.it/cusc5ogbk4tg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=10c29915964b6811e18f39443e35745601bd3c6e" title="Em cần tư vấn, mua laptop mới để học" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Laptop cũ bị hư nên em cần mua laptop mới nhưng lại phân vân không biết chọn hãng/máy nào. Bác nào xài qua Lecoo Fighter 7000 rồi cho em xin tí review, hoặc em xin recommend máy khác tầm 30tr đổ xuống. Em cảm ơn&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/maybeMaay"&gt; /u/maybeMaay &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/cusc5ogbk4tg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sc2pj1/em_cần_tư_vấn_mua_laptop_mới_để_học/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1sc2pj1/em_cần_tư_vấn_mua_laptop_mới_để_học/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-04-04T07:20:05+00:00</published>
   </entry>
   <entry>
     <id>t3_1sccbl8</id>
