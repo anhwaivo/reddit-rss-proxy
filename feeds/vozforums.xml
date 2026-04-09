@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-04-09T22:25:50+00:00</updated>
+  <updated>2026-04-09T23:08:28+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1sgqgm4</id>
-    <title>Lần đầu đi làm phục vụ bếp bỡ ngỡ quá các bác</title>
-    <updated>2026-04-09T14:00:52+00:00</updated>
-    <author>
-      <name>/u/Content_Procedure222</name>
-      <uri>https://old.reddit.com/user/Content_Procedure222</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;E nam 23t mà đó giờ chưa từng đi làm gì ngoài ăn học mà giờ nghỉ đh rồi, tay chân e thì vụng về sợ chiên gà k nổi, ngày mai bị ép đi làm partime ở thương hiệu gà rán nổi tiếng nên bỡ ngỡ quá mong các bác cho e xin ít kinh nghiệm ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Content_Procedure222"&gt; /u/Content_Procedure222 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sgqgm4/lần_đầu_đi_làm_phục_vụ_bếp_bỡ_ngỡ_quá_các_bác/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sgqgm4/lần_đầu_đi_làm_phục_vụ_bếp_bỡ_ngỡ_quá_các_bác/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1sgqgm4/lần_đầu_đi_làm_phục_vụ_bếp_bỡ_ngỡ_quá_các_bác/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-09T14:00:52+00:00</published>
-  </entry>
   <entry>
     <id>t3_1sgwsgq</id>
     <title>hè đến rồi</title>
@@ -164,6 +151,19 @@
     <published>2026-04-09T14:42:52+00:00</published>
   </entry>
   <entry>
+    <id>t3_1sgvkwe</id>
+    <title>Về vai trò Forward Deployed Engineer (FDE) – tình hình tuyển dụng, mức lương, yêu cầu kỹ năng ở Việt Nam hiện nay?</title>
+    <updated>2026-04-09T17:04:48+00:00</updated>
+    <author>
+      <name>/u/Clean_Public3245</name>
+      <uri>https://old.reddit.com/user/Clean_Public3245</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào anh em VozVN,&lt;/p&gt; &lt;p&gt;Mình đang tìm hiểu sâu về vai trò &lt;strong&gt;Forward Deployed Engineer (FDE)&lt;/strong&gt; (có khi còn gọi là Forward Deploy Training hoặc Forward Deployed Training trong một số job description), và thấy ngành này đang hot dần ở VN nên muốn hỏi anh em đang làm trong lĩnh vực này hoặc biết rõ để chia sẻ kinh nghiệm thật.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Kiến thức căn bản mình biết (để anh em cùng tham khảo):&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Vai trò này &lt;strong&gt;xuất phát từ Palantir Technologies&lt;/strong&gt; (bọn Mỹ làm phần mềm data/AI cho gov, military, y tế, năng lượng) Họ gọi là &lt;strong&gt;Forward Deployed Software Engineer (FDSE)&lt;/strong&gt; hay còn gọi vui là “Delta”.&lt;/li&gt; &lt;li&gt;Bản chất là &lt;strong&gt;kỹ sư được “triển khai tiền tuyến”&lt;/strong&gt;: không ngồi văn phòng build product chung cho hàng trăm khách hàng như dev bình thường, mà embed trực tiếp vào team khách hàng (thường on-site hoặc remote close collab), hiểu pain point thực tế, rồi customize + build solution trên nền tảng của công ty (Palantir thì dùng Foundry/Gotham/AIP).&lt;/li&gt; &lt;li&gt;Công việc kết hợp: software engineering + data engineering + AI/agentic apps + consulting + training khách hàng sử dụng hệ thống. Rất heavy hands-on, phải giải quyết vấn đề thật (production-grade), không phải lý thuyết.&lt;/li&gt; &lt;li&gt;Gần đây Palantir còn ra &lt;strong&gt;AI FDE&lt;/strong&gt; (AI-powered Forward Deployed Engineer) – dùng AI hỗ trợ viết code, ontology, debug… nên vai trò này đang evolve mạnh sang AI.&lt;/li&gt; &lt;li&gt;Mô hình này đang được nhiều công ty copy (không chỉ Palantir), đặc biệt các công ty AI/agentic system, data platform. Ở VN thì FPT Software, Sotatek, một số công ty outsourcing lớn, và vài startup nước ngoài đang tuyển FDE (AI, Python) ở HN và SG.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Mình thấy mấy job gần đây trên LinkedIn/FB group CNTT VN:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Forward-Deployed Engineer (AI) ở District 1 SG, range ~5000 (có thể là USD/tháng?).&lt;/li&gt; &lt;li&gt;FPT tuyển Forward Deployed Engineer – Data Analytics/Science ở Hà Nội.&lt;/li&gt; &lt;li&gt;Có job yêu cầu Python, agentic apps, cognitive ontology, production deployment…&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Câu hỏi mình muốn hỏi anh em (ai biết thì comment giúp nhé):&lt;/strong&gt;&lt;/p&gt; &lt;ol&gt; &lt;li&gt;&lt;strong&gt;Tình hình nhu cầu thị trường VN hiện tại&lt;/strong&gt; như thế nào? Có đang hot không hay chỉ vài công ty tuyển?&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Mức lương thực tế (lương lậu)&lt;/strong&gt; ra sao? Junior/Mid/Senior khoảng bao nhiêu (gross/net)? Có bonus, ESOP, overseas training không?&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Yêu cầu công việc&lt;/strong&gt; cụ thể: cần kinh nghiệm mấy năm? Stack gì quan trọng nhất (Python, AI/ML, Ontology, DevOps, Palantir Foundry…)? Có cần on-site khách hàng nhiều không?&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Công ty nào đang tuyển nhiều nhất&lt;/strong&gt; ở HN/SG? Môi trường làm việc, WLB ra sao (vì nghe nói FDE hay phải đi công tác, làm với khách nước ngoài)?&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Cách apply và phỏng vấn&lt;/strong&gt; khó không? Có tips gì không (LeetCode, case study, Palantir-style interview…)?&lt;/li&gt; &lt;li&gt;Ai đang làm FDE thì chia sẻ 1 ngày làm việc điển hình hoặc pros/cons của role này được không?&lt;/li&gt; &lt;/ol&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Clean_Public3245"&gt; /u/Clean_Public3245 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sgvkwe/về_vai_trò_forward_deployed_engineer_fde_tình/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sgvkwe/về_vai_trò_forward_deployed_engineer_fde_tình/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1sgvkwe/về_vai_trò_forward_deployed_engineer_fde_tình/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-04-09T17:04:48+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1sgfjli</id>
     <title>Thuế từ năm 2026 - remote job nước ngoài</title>
     <updated>2026-04-09T04:26:33+00:00</updated>
@@ -203,19 +203,6 @@
     <published>2026-04-09T08:56:22+00:00</published>
   </entry>
   <entry>
-    <id>t3_1sgmpwz</id>
-    <title>Giảm mùi mồ hôi</title>
-    <updated>2026-04-09T11:17:43+00:00</updated>
-    <author>
-      <name>/u/Free-Show94</name>
-      <uri>https://old.reddit.com/user/Free-Show94</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Như tiêu đề, e thuộc loại chịu được nhiệt nhưng dễ ra mồ hôi. Mặc dù phần lớn thời gian trong ngày ngồi điều hoà nhưng mấy chỗ bí như bẹn nó cứ bị mùi khá khó tả 😷&lt;/p&gt; &lt;p&gt;Mọi người có tip gì hay hay chỉ e với, e cảm ơn nhiều &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Free-Show94"&gt; /u/Free-Show94 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sgmpwz/giảm_mùi_mồ_hôi/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sgmpwz/giảm_mùi_mồ_hôi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1sgmpwz/giảm_mùi_mồ_hôi/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-09T11:17:43+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1sgb8xb</id>
     <title>Liệu có nên chia tay ny lớn tuổi vì không muốn họ phải chịu thiệt thòi?</title>
     <updated>2026-04-09T01:04:46+00:00</updated>
@@ -227,6 +214,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1sgb8xb/liệu_có_nên_chia_tay_ny_lớn_tuổi_vì_không_muốn_họ/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-04-09T01:04:46+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1sgmpwz</id>
+    <title>Giảm mùi mồ hôi</title>
+    <updated>2026-04-09T11:17:43+00:00</updated>
+    <author>
+      <name>/u/Free-Show94</name>
+      <uri>https://old.reddit.com/user/Free-Show94</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Như tiêu đề, e thuộc loại chịu được nhiệt nhưng dễ ra mồ hôi. Mặc dù phần lớn thời gian trong ngày ngồi điều hoà nhưng mấy chỗ bí như bẹn nó cứ bị mùi khá khó tả 😷&lt;/p&gt; &lt;p&gt;Mọi người có tip gì hay hay chỉ e với, e cảm ơn nhiều &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Free-Show94"&gt; /u/Free-Show94 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sgmpwz/giảm_mùi_mồ_hôi/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sgmpwz/giảm_mùi_mồ_hôi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1sgmpwz/giảm_mùi_mồ_hôi/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-04-09T11:17:43+00:00</published>
   </entry>
   <entry>
     <id>t3_1sgwm7r</id>
