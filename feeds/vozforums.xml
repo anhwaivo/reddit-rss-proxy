@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-04-10T21:02:22+00:00</updated>
+  <updated>2026-04-10T21:53:56+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -294,19 +294,6 @@
     <published>2026-04-10T06:06:30+00:00</published>
   </entry>
   <entry>
-    <id>t3_1shgun3</id>
-    <title>AI, Claude Code có thật sự code tốt</title>
-    <updated>2026-04-10T08:42:30+00:00</updated>
-    <author>
-      <name>/u/Jumpy_Ease2629</name>
-      <uri>https://old.reddit.com/user/Jumpy_Ease2629</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bạn. Hiện tại mình đang khá khó chịu vì công ty từ Sếp tới manager đang làm dụng quá nhiều AI và quá trình làm ra sản phẩm (dự án IT)&lt;br /&gt; Với tôi, người đã có 8 năm kinh nghiệm làm trong ngành. đi lên từ thằng không biết gì tới leader role.&lt;br /&gt; 1 năm trở lại đây. AI với ngành IT khá là phát triển. Tôi không bài trừ và có ý kiến hạ thấp những gì AI làm. Tôi chỉ coi nó là 1 tool hỗ trợ trong việc mình code dự án. Vì tôi đang làm ở phần Backend nhiều hơn.(Frontend đương nhiên tôi làm được và làm rất tốt.(từ Vue, React, Svelte, SolidJS)), Frontend do tôi ngại làm cách components hay màn hình lặp đi lắm lại, tôi nhờ AI generate và vẫn check lại độ hiệu quả của nó. Còn Backend thì tôi trú trọng nhiều hơn tới mindset của mình. AI chỉ hỗ trợ mình lúc code có sạch đẹp hơn thôi.&lt;/p&gt; &lt;p&gt;Gần đây, Sếp và Manager cùng code 1 dự án và dùng AI (Claude Code) hỗ trợ code 100%, nghĩa là AI code và tự động deploy lên branch luôn. Họ cảm nhận nó rất tốt và đang muốn mọi người áp dụng AI như vậy với tất cả dự án.&lt;/p&gt; &lt;p&gt;Tôi muốn hỏi, những ai đã đi với AI mà code dự án từ lúc nó bé tới lúc nó phát triển lên.&lt;br /&gt; - Giai đoạn đầu có thật sự nó code rất tốt không?&lt;br /&gt; - Giai đoạn dự án to dần lên, ảnh hưởng của AI tới dự án như nào (tôi đọc trên mấy posts thấy mấy ông nói câu commit nhiều nhất sẽ là &amp;quot;Fix bugs&amp;quot; và &amp;quot;test&amp;quot;)&lt;/p&gt; &lt;p&gt;Liệu sự khó chịu của tôi đối với AI đang đúng hay sai? Ai thật sự trải qua cho tôi chút cảm nhận được không?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Jumpy_Ease2629"&gt; /u/Jumpy_Ease2629 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1shgun3/ai_claude_code_có_thật_sự_code_tốt/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1shgun3/ai_claude_code_có_thật_sự_code_tốt/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1shgun3/ai_claude_code_có_thật_sự_code_tốt/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-10T08:42:30+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1shgg0h</id>
     <title>Quan điểm các ông về con gái giận dỗi là đi block mxh là gì?</title>
     <updated>2026-04-10T08:17:35+00:00</updated>
@@ -318,6 +305,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1shgg0h/quan_điểm_các_ông_về_con_gái_giận_dỗi_là_đi_block/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-04-10T08:17:35+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1shgun3</id>
+    <title>AI, Claude Code có thật sự code tốt</title>
+    <updated>2026-04-10T08:42:30+00:00</updated>
+    <author>
+      <name>/u/Jumpy_Ease2629</name>
+      <uri>https://old.reddit.com/user/Jumpy_Ease2629</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bạn. Hiện tại mình đang khá khó chịu vì công ty từ Sếp tới manager đang làm dụng quá nhiều AI và quá trình làm ra sản phẩm (dự án IT)&lt;br /&gt; Với tôi, người đã có 8 năm kinh nghiệm làm trong ngành. đi lên từ thằng không biết gì tới leader role.&lt;br /&gt; 1 năm trở lại đây. AI với ngành IT khá là phát triển. Tôi không bài trừ và có ý kiến hạ thấp những gì AI làm. Tôi chỉ coi nó là 1 tool hỗ trợ trong việc mình code dự án. Vì tôi đang làm ở phần Backend nhiều hơn.(Frontend đương nhiên tôi làm được và làm rất tốt.(từ Vue, React, Svelte, SolidJS)), Frontend do tôi ngại làm cách components hay màn hình lặp đi lắm lại, tôi nhờ AI generate và vẫn check lại độ hiệu quả của nó. Còn Backend thì tôi trú trọng nhiều hơn tới mindset của mình. AI chỉ hỗ trợ mình lúc code có sạch đẹp hơn thôi.&lt;/p&gt; &lt;p&gt;Gần đây, Sếp và Manager cùng code 1 dự án và dùng AI (Claude Code) hỗ trợ code 100%, nghĩa là AI code và tự động deploy lên branch luôn. Họ cảm nhận nó rất tốt và đang muốn mọi người áp dụng AI như vậy với tất cả dự án.&lt;/p&gt; &lt;p&gt;Tôi muốn hỏi, những ai đã đi với AI mà code dự án từ lúc nó bé tới lúc nó phát triển lên.&lt;br /&gt; - Giai đoạn đầu có thật sự nó code rất tốt không?&lt;br /&gt; - Giai đoạn dự án to dần lên, ảnh hưởng của AI tới dự án như nào (tôi đọc trên mấy posts thấy mấy ông nói câu commit nhiều nhất sẽ là &amp;quot;Fix bugs&amp;quot; và &amp;quot;test&amp;quot;)&lt;/p&gt; &lt;p&gt;Liệu sự khó chịu của tôi đối với AI đang đúng hay sai? Ai thật sự trải qua cho tôi chút cảm nhận được không?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Jumpy_Ease2629"&gt; /u/Jumpy_Ease2629 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1shgun3/ai_claude_code_có_thật_sự_code_tốt/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1shgun3/ai_claude_code_có_thật_sự_code_tốt/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1shgun3/ai_claude_code_có_thật_sự_code_tốt/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-04-10T08:42:30+00:00</published>
   </entry>
   <entry>
     <id>t3_1shintc</id>
