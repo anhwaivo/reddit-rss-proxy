@@ -2,37 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-04-11T13:56:17+00:00</updated>
+  <updated>2026-04-11T14:37:07+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1sie3dr</id>
-    <title>Cần mn review dầu gội cho nam ạ</title>
-    <updated>2026-04-11T09:07:29+00:00</updated>
-    <author>
-      <name>/u/Ulquiorra_Cifer_1607</name>
-      <uri>https://old.reddit.com/user/Ulquiorra_Cifer_1607</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mn trong gr hay dùng dầu gội j để tóc ko bị khô cứng ạ, em hay dùng mấy dầu gội công nghiệp thành ra gội xong tóc khô cứng như cái rẻ lau, muốn đổi sang dầu gội khác nhưng chưa biết loại như nào hay mua ở đâu cho uy tín, mà gội đầu có phải ngày nào cũng phải gội ko ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ulquiorra_Cifer_1607"&gt; /u/Ulquiorra_Cifer_1607 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sie3dr/cần_mn_review_dầu_gội_cho_nam_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sie3dr/cần_mn_review_dầu_gội_cho_nam_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1sie3dr/cần_mn_review_dầu_gội_cho_nam_ạ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-11T09:07:29+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1shgun3</id>
-    <title>AI, Claude Code có thật sự code tốt</title>
-    <updated>2026-04-10T08:42:30+00:00</updated>
-    <author>
-      <name>/u/Jumpy_Ease2629</name>
-      <uri>https://old.reddit.com/user/Jumpy_Ease2629</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bạn. Hiện tại mình đang khá khó chịu vì công ty từ Sếp tới manager đang làm dụng quá nhiều AI và quá trình làm ra sản phẩm (dự án IT)&lt;br /&gt; Với tôi, người đã có 8 năm kinh nghiệm làm trong ngành. đi lên từ thằng không biết gì tới leader role.&lt;br /&gt; 1 năm trở lại đây. AI với ngành IT khá là phát triển. Tôi không bài trừ và có ý kiến hạ thấp những gì AI làm. Tôi chỉ coi nó là 1 tool hỗ trợ trong việc mình code dự án. Vì tôi đang làm ở phần Backend nhiều hơn.(Frontend đương nhiên tôi làm được và làm rất tốt.(từ Vue, React, Svelte, SolidJS)), Frontend do tôi ngại làm cách components hay màn hình lặp đi lắm lại, tôi nhờ AI generate và vẫn check lại độ hiệu quả của nó. Còn Backend thì tôi trú trọng nhiều hơn tới mindset của mình. AI chỉ hỗ trợ mình lúc code có sạch đẹp hơn thôi.&lt;/p&gt; &lt;p&gt;Gần đây, Sếp và Manager cùng code 1 dự án và dùng AI (Claude Code) hỗ trợ code 100%, nghĩa là AI code và tự động deploy lên branch luôn. Họ cảm nhận nó rất tốt và đang muốn mọi người áp dụng AI như vậy với tất cả dự án.&lt;/p&gt; &lt;p&gt;Tôi muốn hỏi, những ai đã đi với AI mà code dự án từ lúc nó bé tới lúc nó phát triển lên.&lt;br /&gt; - Giai đoạn đầu có thật sự nó code rất tốt không?&lt;br /&gt; - Giai đoạn dự án to dần lên, ảnh hưởng của AI tới dự án như nào (tôi đọc trên mấy posts thấy mấy ông nói câu commit nhiều nhất sẽ là &amp;quot;Fix bugs&amp;quot; và &amp;quot;test&amp;quot;)&lt;/p&gt; &lt;p&gt;Liệu sự khó chịu của tôi đối với AI đang đúng hay sai? Ai thật sự trải qua cho tôi chút cảm nhận được không?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Jumpy_Ease2629"&gt; /u/Jumpy_Ease2629 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1shgun3/ai_claude_code_có_thật_sự_code_tốt/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1shgun3/ai_claude_code_có_thật_sự_code_tốt/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1shgun3/ai_claude_code_có_thật_sự_code_tốt/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-10T08:42:30+00:00</published>
-  </entry>
   <entry>
     <id>t3_1sib3tt</id>
     <title>TOEIC</title>
@@ -99,6 +73,19 @@
     <published>2026-04-11T13:26:04+00:00</published>
   </entry>
   <entry>
+    <id>t3_1sijoqk</id>
+    <title>Ở đây có bác nào trade quỹ FTMO full time ko ạ?</title>
+    <updated>2026-04-11T13:52:41+00:00</updated>
+    <author>
+      <name>/u/Relative_Field_7943</name>
+      <uri>https://old.reddit.com/user/Relative_Field_7943</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;E chuẩn bị từ Đức về hẳn Việt Nam sinh sống. Hành trang mang về khoảng gần 30k€ và hiện tại e đang cầm quĩ FTMO 100k. Có bác nào đang cầm quĩ giá trị tương đương hoặc hơn có thể chia sẻ kinh nghiệm đc ko ạ ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Relative_Field_7943"&gt; /u/Relative_Field_7943 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sijoqk/ở_đây_có_bác_nào_trade_quỹ_ftmo_full_time_ko_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sijoqk/ở_đây_có_bác_nào_trade_quỹ_ftmo_full_time_ko_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1sijoqk/ở_đây_có_bác_nào_trade_quỹ_ftmo_full_time_ko_ạ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-04-11T13:52:41+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1shq4rs</id>
     <title>Nam hỏi nữ trả lời</title>
     <updated>2026-04-10T15:40:13+00:00</updated>
@@ -112,17 +99,17 @@
     <published>2026-04-10T15:40:13+00:00</published>
   </entry>
   <entry>
-    <id>t3_1sijoqk</id>
-    <title>Ở đây có bác nào trade quỹ FTMO full time ko ạ?</title>
-    <updated>2026-04-11T13:52:41+00:00</updated>
+    <id>t3_1sijxt8</id>
+    <title>kiếm trang buf fl</title>
+    <updated>2026-04-11T14:03:10+00:00</updated>
     <author>
-      <name>/u/Relative_Field_7943</name>
-      <uri>https://old.reddit.com/user/Relative_Field_7943</uri>
+      <name>/u/Nguyennamdo_</name>
+      <uri>https://old.reddit.com/user/Nguyennamdo_</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;E chuẩn bị từ Đức về hẳn Việt Nam sinh sống. Hành trang mang về khoảng gần 30k€ và hiện tại e đang cầm quĩ FTMO 100k. Có bác nào đang cầm quĩ giá trị tương đương hoặc hơn có thể chia sẻ kinh nghiệm đc ko ạ ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Relative_Field_7943"&gt; /u/Relative_Field_7943 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sijoqk/ở_đây_có_bác_nào_trade_quỹ_ftmo_full_time_ko_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sijoqk/ở_đây_có_bác_nào_trade_quỹ_ftmo_full_time_ko_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1sijoqk/ở_đây_có_bác_nào_trade_quỹ_ftmo_full_time_ko_ạ/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;mn ai biết các trang buff flo ig tik đồ cho em xin với ah&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Nguyennamdo_"&gt; /u/Nguyennamdo_ &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sijxt8/kiếm_trang_buf_fl/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sijxt8/kiếm_trang_buf_fl/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1sijxt8/kiếm_trang_buf_fl/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-11T13:52:41+00:00</published>
+    <published>2026-04-11T14:03:10+00:00</published>
   </entry>
   <entry>
     <id>t3_1sig9uk</id>
@@ -190,17 +177,17 @@
     <published>2026-04-11T13:06:31+00:00</published>
   </entry>
   <entry>
-    <id>t3_1sigcwn</id>
-    <title>Chatgpt với gemini cái nào tốt hơn để học vậy mn. Bạn nào.học giỏi giỏi cho e xin ý kiến</title>
-    <updated>2026-04-11T11:17:54+00:00</updated>
+    <id>t3_1sietil</id>
+    <title>Thành thật em muốn hỏi ở đây có anh chị nào dùng mac air + màn hình rời không em theo lập trình web nhưng không biết dùng màn hình rời nó có chịu nổi không vì không có quạt tản nhiệt và có giật lag đến không dùng được không</title>
+    <updated>2026-04-11T09:51:31+00:00</updated>
     <author>
-      <name>/u/Sea_Tip_6089</name>
-      <uri>https://old.reddit.com/user/Sea_Tip_6089</uri>
+      <name>/u/HoangKha107</name>
+      <uri>https://old.reddit.com/user/HoangKha107</uri>
     </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Sea_Tip_6089"&gt; /u/Sea_Tip_6089 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sigcwn/chatgpt_với_gemini_cái_nào_tốt_hơn_để_học_vậy_mn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sigcwn/chatgpt_với_gemini_cái_nào_tốt_hơn_để_học_vậy_mn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1sigcwn/chatgpt_với_gemini_cái_nào_tốt_hơn_để_học_vậy_mn/"/>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/HoangKha107"&gt; /u/HoangKha107 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sietil/thành_thật_em_muốn_hỏi_ở_đây_có_anh_chị_nào_dùng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sietil/thành_thật_em_muốn_hỏi_ở_đây_có_anh_chị_nào_dùng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1sietil/thành_thật_em_muốn_hỏi_ở_đây_có_anh_chị_nào_dùng/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-11T11:17:54+00:00</published>
+    <published>2026-04-11T09:51:31+00:00</published>
   </entry>
   <entry>
     <id>t3_1si8gk5</id>
@@ -216,17 +203,17 @@
     <published>2026-04-11T03:52:16+00:00</published>
   </entry>
   <entry>
-    <id>t3_1sietil</id>
-    <title>Thành thật em muốn hỏi ở đây có anh chị nào dùng mac air + màn hình rời không em theo lập trình web nhưng không biết dùng màn hình rời nó có chịu nổi không vì không có quạt tản nhiệt và có giật lag đến không dùng được không</title>
-    <updated>2026-04-11T09:51:31+00:00</updated>
+    <id>t3_1sigcwn</id>
+    <title>Chatgpt với gemini cái nào tốt hơn để học vậy mn. Bạn nào.học giỏi giỏi cho e xin ý kiến</title>
+    <updated>2026-04-11T11:17:54+00:00</updated>
     <author>
-      <name>/u/HoangKha107</name>
-      <uri>https://old.reddit.com/user/HoangKha107</uri>
+      <name>/u/Sea_Tip_6089</name>
+      <uri>https://old.reddit.com/user/Sea_Tip_6089</uri>
     </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/HoangKha107"&gt; /u/HoangKha107 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sietil/thành_thật_em_muốn_hỏi_ở_đây_có_anh_chị_nào_dùng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sietil/thành_thật_em_muốn_hỏi_ở_đây_có_anh_chị_nào_dùng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1sietil/thành_thật_em_muốn_hỏi_ở_đây_có_anh_chị_nào_dùng/"/>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Sea_Tip_6089"&gt; /u/Sea_Tip_6089 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sigcwn/chatgpt_với_gemini_cái_nào_tốt_hơn_để_học_vậy_mn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sigcwn/chatgpt_với_gemini_cái_nào_tốt_hơn_để_học_vậy_mn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1sigcwn/chatgpt_với_gemini_cái_nào_tốt_hơn_để_học_vậy_mn/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-11T09:51:31+00:00</published>
+    <published>2026-04-11T11:17:54+00:00</published>
   </entry>
   <entry>
     <id>t3_1si6wze</id>
@@ -255,6 +242,19 @@
     <published>2026-04-11T04:56:57+00:00</published>
   </entry>
   <entry>
+    <id>t3_1sia9nr</id>
+    <title>Dậy thì từ giữa năm lớp 9, hiện tại gần 18t chỉ có 1m63. Các bác cho e lời khuyên với chứ bạn bè ai cũng m7, đứng cùng chỉ đến tai các bạn.</title>
+    <updated>2026-04-11T05:25:24+00:00</updated>
+    <author>
+      <name>/u/VietAnhisme</name>
+      <uri>https://old.reddit.com/user/VietAnhisme</uri>
+    </author>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/VietAnhisme"&gt; /u/VietAnhisme &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sia9nr/dậy_thì_từ_giữa_năm_lớp_9_hiện_tại_gần_18t_chỉ_có/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sia9nr/dậy_thì_từ_giữa_năm_lớp_9_hiện_tại_gần_18t_chỉ_có/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1sia9nr/dậy_thì_từ_giữa_năm_lớp_9_hiện_tại_gần_18t_chỉ_có/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-04-11T05:25:24+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1sihitv</id>
     <title>Người bạo hành mình cuối cùng đã dọn đi và mình mới thật sự được thở</title>
     <updated>2026-04-11T12:16:39+00:00</updated>
@@ -281,19 +281,6 @@
     <published>2026-04-11T09:27:16+00:00</published>
   </entry>
   <entry>
-    <id>t3_1sia9nr</id>
-    <title>Dậy thì từ giữa năm lớp 9, hiện tại gần 18t chỉ có 1m63. Các bác cho e lời khuyên với chứ bạn bè ai cũng m7, đứng cùng chỉ đến tai các bạn.</title>
-    <updated>2026-04-11T05:25:24+00:00</updated>
-    <author>
-      <name>/u/VietAnhisme</name>
-      <uri>https://old.reddit.com/user/VietAnhisme</uri>
-    </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/VietAnhisme"&gt; /u/VietAnhisme &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sia9nr/dậy_thì_từ_giữa_năm_lớp_9_hiện_tại_gần_18t_chỉ_có/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sia9nr/dậy_thì_từ_giữa_năm_lớp_9_hiện_tại_gần_18t_chỉ_có/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1sia9nr/dậy_thì_từ_giữa_năm_lớp_9_hiện_tại_gần_18t_chỉ_có/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-11T05:25:24+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1sih16d</id>
     <title>Các bác nghĩ AI có thể khiến ngành IT layoff hàng loạt cuối năm nay không ?</title>
     <updated>2026-04-11T11:53:03+00:00</updated>
@@ -305,6 +292,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1sih16d/các_bác_nghĩ_ai_có_thể_khiến_ngành_it_layoff_hàng/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-04-11T11:53:03+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1si9f2o</id>
+    <title>Nợ nần</title>
+    <updated>2026-04-11T04:41:03+00:00</updated>
+    <author>
+      <name>/u/Wise_Letterhead1233</name>
+      <uri>https://old.reddit.com/user/Wise_Letterhead1233</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tự nhiên vác trên vai khoản nợ 200tr ở tuổi 25. Lương trung bình 8tr/ tháng (em làm sale). giờ ko biết xoay đâu ra tiền để trả bâyh các bác ạ. Bất lực quá. Gia đình em cũng không khá giả gì.&lt;/p&gt; &lt;p&gt;p/s: Em phải đền bù tài sản cho công ty&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Wise_Letterhead1233"&gt; /u/Wise_Letterhead1233 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1si9f2o/nợ_nần/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1si9f2o/nợ_nần/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1si9f2o/nợ_nần/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-04-11T04:41:03+00:00</published>
   </entry>
   <entry>
     <id>t3_1sif1tv</id>
@@ -320,16 +320,16 @@
     <published>2026-04-11T10:04:39+00:00</published>
   </entry>
   <entry>
-    <id>t3_1si9f2o</id>
-    <title>Nợ nần</title>
-    <updated>2026-04-11T04:41:03+00:00</updated>
+    <id>t3_1sijt95</id>
+    <title>HWMonitor và CPU-Z có dính mã độc. Ae nào đang dùng lưu ý nhé</title>
+    <updated>2026-04-11T13:58:08+00:00</updated>
     <author>
-      <name>/u/Wise_Letterhead1233</name>
-      <uri>https://old.reddit.com/user/Wise_Letterhead1233</uri>
+      <name>/u/Fake_Interpreter</name>
+      <uri>https://old.reddit.com/user/Fake_Interpreter</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tự nhiên vác trên vai khoản nợ 200tr ở tuổi 25. Lương trung bình 8tr/ tháng (em làm sale). giờ ko biết xoay đâu ra tiền để trả bâyh các bác ạ. Bất lực quá. Gia đình em cũng không khá giả gì.&lt;/p&gt; &lt;p&gt;p/s: Em phải đền bù tài sản cho công ty&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Wise_Letterhead1233"&gt; /u/Wise_Letterhead1233 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1si9f2o/nợ_nần/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1si9f2o/nợ_nần/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1si9f2o/nợ_nần/"/>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1sijt95/hwmonitor_và_cpuz_có_dính_mã_độc_ae_nào_đang_dùng/"&gt; &lt;img alt="HWMonitor và CPU-Z có dính mã độc. Ae nào đang dùng lưu ý nhé" src="https://preview.redd.it/3p0khgqphkug1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=6139ab572e056bac740743be4666484a4b2f274b" title="HWMonitor và CPU-Z có dính mã độc. Ae nào đang dùng lưu ý nhé" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Lướt J2Team tình cờ phát hiện thông tin này nên chia sẻ lại với ae. Mình biết có nhiều bạn đang sử dụng những công cụ này để theo dõi thông số cho PC. Mọi người lưu ý nhé!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Fake_Interpreter"&gt; /u/Fake_Interpreter &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/3p0khgqphkug1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sijt95/hwmonitor_và_cpuz_có_dính_mã_độc_ae_nào_đang_dùng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1sijt95/hwmonitor_và_cpuz_có_dính_mã_độc_ae_nào_đang_dùng/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-11T04:41:03+00:00</published>
+    <published>2026-04-11T13:58:08+00:00</published>
   </entry>
 </feed>
