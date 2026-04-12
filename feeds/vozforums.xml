@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-04-12T11:40:25+00:00</updated>
+  <updated>2026-04-12T12:03:00+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1sj0xoa</id>
-    <title>Cách rep story làm quen sao cho chuẩn bài thế các bác</title>
-    <updated>2026-04-12T01:30:18+00:00</updated>
-    <author>
-      <name>/u/luv_ur_cupcakes</name>
-      <uri>https://old.reddit.com/user/luv_ur_cupcakes</uri>
-    </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/luv_ur_cupcakes"&gt; /u/luv_ur_cupcakes &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sj0xoa/cách_rep_story_làm_quen_sao_cho_chuẩn_bài_thế_các/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sj0xoa/cách_rep_story_làm_quen_sao_cho_chuẩn_bài_thế_các/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1sj0xoa/cách_rep_story_làm_quen_sao_cho_chuẩn_bài_thế_các/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-12T01:30:18+00:00</published>
-  </entry>
   <entry>
     <id>t3_1sj0mjq</id>
     <title>em muốn mua máy tính và ngân sách khoảng 20-23 triệu thì máy nào là tốt với sinh viên ạ ( có chơi game và edit video,ảnh)</title>
@@ -47,6 +34,19 @@
     <published>2026-04-12T10:12:23+00:00</published>
   </entry>
   <entry>
+    <id>t3_1sjbj2n</id>
+    <title>Mới vào studio game, làm kiểu chỉ thay asset + sửa nhẹ code để ra game mới — có bình thường không?</title>
+    <updated>2026-04-12T11:03:01+00:00</updated>
+    <author>
+      <name>/u/RevolutionaryLack722</name>
+      <uri>https://old.reddit.com/user/RevolutionaryLack722</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người,&lt;/p&gt; &lt;p&gt;Mình mới vào làm ở một studio game được khoảng 1 tuần, nhưng đang khá mông lung nên muốn hỏi ý kiến anh em trong ngành.&lt;/p&gt; &lt;p&gt;Công việc hiện tại của mình đại khái là:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Dùng lại một project/codebase có sẵn của 1 con game dạng ngọc rồng online&lt;/li&gt; &lt;li&gt;Không thay đổi nhiều về core gameplay&lt;/li&gt; &lt;li&gt;Chủ yếu là: &lt;ul&gt; &lt;li&gt;thay asset (nhân vật, UI, effect…)&lt;/li&gt; &lt;li&gt;chỉnh sửa một chút logic / thông số&lt;/li&gt; &lt;/ul&gt;&lt;/li&gt; &lt;li&gt;Sau đó build thành &lt;strong&gt;một game “mới”&lt;/strong&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Cảm giác giống kiểu:&lt;br /&gt; 👉 từ 1 game gốc → sửa nhẹ → ra 1 game khác&lt;br /&gt; 👉 vòng đời làm rất nhanh (có thể chỉ vài tuần)&lt;/p&gt; &lt;p&gt;Mình hơi bị sốc vì trước giờ nghĩ làm game sẽ kiểu:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;thiết kế gameplay mới&lt;/li&gt; &lt;li&gt;code feature mới&lt;/li&gt; &lt;li&gt;build sản phẩm lâu dài&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Nên hiện tại mình đang thắc mắc:&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Mô hình làm kiểu này có phổ biến trong ngành mobile không?&lt;/li&gt; &lt;li&gt;Nếu làm lâu ở môi trường này thì có ảnh hưởng tới skill dev không? (vì ít đụng tới core system)&lt;/li&gt; &lt;li&gt;Có nên coi đây là bước đệm để học rồi nhảy sang môi trường khác không?&lt;/li&gt; &lt;li&gt;Những người từng làm kiểu này rồi, sau đó chuyển sang làm game “xịn” hơn có khó không?&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Thực sự hiện tại mình đang khá hoang mang vì không biết hướng này có ổn về lâu dài không.&lt;/p&gt; &lt;p&gt;Mong mọi người chia sẻ thẳng thắn giúp mình với 🙏&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/RevolutionaryLack722"&gt; /u/RevolutionaryLack722 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sjbj2n/mới_vào_studio_game_làm_kiểu_chỉ_thay_asset_sửa/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sjbj2n/mới_vào_studio_game_làm_kiểu_chỉ_thay_asset_sửa/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1sjbj2n/mới_vào_studio_game_làm_kiểu_chỉ_thay_asset_sửa/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-04-12T11:03:01+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1sjbucy</id>
     <title>Xác thực Zalo</title>
     <updated>2026-04-12T11:19:49+00:00</updated>
@@ -71,6 +71,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1sijt95/hwmonitor_và_cpuz_có_dính_mã_độc_ae_nào_đang_dùng/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-04-11T13:58:08+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1sjccww</id>
+    <title>Việc học CNTT hiện nay</title>
+    <updated>2026-04-12T11:46:54+00:00</updated>
+    <author>
+      <name>/u/trki122</name>
+      <uri>https://old.reddit.com/user/trki122</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;chào mọi người, em hiện đang học năm nhất ngành CN1 của UET , việc chọn ngành này của em do được mọi người rcmt và cũng do bản thân em chưa có định hướng trong ngành học ,&lt;/p&gt; &lt;p&gt;và đến bây giờ em học và tìm hiểu thì em thấy rằng việc học ngành này thực sự khá khó và cạnh tranh rất cao, . Em muốn xin lời khuyên về việc tiếp tục hay học 1 ngành khác . Em cảm ơn mn &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/trki122"&gt; /u/trki122 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sjccww/việc_học_cntt_hiện_nay/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sjccww/việc_học_cntt_hiện_nay/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1sjccww/việc_học_cntt_hiện_nay/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-04-12T11:46:54+00:00</published>
   </entry>
   <entry>
     <id>t3_1siozy8</id>
@@ -138,19 +151,6 @@
     <published>2026-04-11T18:27:26+00:00</published>
   </entry>
   <entry>
-    <id>t3_1sjbj2n</id>
-    <title>Mới vào studio game, làm kiểu chỉ thay asset + sửa nhẹ code để ra game mới — có bình thường không?</title>
-    <updated>2026-04-12T11:03:01+00:00</updated>
-    <author>
-      <name>/u/RevolutionaryLack722</name>
-      <uri>https://old.reddit.com/user/RevolutionaryLack722</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người,&lt;/p&gt; &lt;p&gt;Mình mới vào làm ở một studio game được khoảng 1 tuần, nhưng đang khá mông lung nên muốn hỏi ý kiến anh em trong ngành.&lt;/p&gt; &lt;p&gt;Công việc hiện tại của mình đại khái là:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Dùng lại một project/codebase có sẵn của 1 con game dạng ngọc rồng online&lt;/li&gt; &lt;li&gt;Không thay đổi nhiều về core gameplay&lt;/li&gt; &lt;li&gt;Chủ yếu là: &lt;ul&gt; &lt;li&gt;thay asset (nhân vật, UI, effect…)&lt;/li&gt; &lt;li&gt;chỉnh sửa một chút logic / thông số&lt;/li&gt; &lt;/ul&gt;&lt;/li&gt; &lt;li&gt;Sau đó build thành &lt;strong&gt;một game “mới”&lt;/strong&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Cảm giác giống kiểu:&lt;br /&gt; 👉 từ 1 game gốc → sửa nhẹ → ra 1 game khác&lt;br /&gt; 👉 vòng đời làm rất nhanh (có thể chỉ vài tuần)&lt;/p&gt; &lt;p&gt;Mình hơi bị sốc vì trước giờ nghĩ làm game sẽ kiểu:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;thiết kế gameplay mới&lt;/li&gt; &lt;li&gt;code feature mới&lt;/li&gt; &lt;li&gt;build sản phẩm lâu dài&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Nên hiện tại mình đang thắc mắc:&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Mô hình làm kiểu này có phổ biến trong ngành mobile không?&lt;/li&gt; &lt;li&gt;Nếu làm lâu ở môi trường này thì có ảnh hưởng tới skill dev không? (vì ít đụng tới core system)&lt;/li&gt; &lt;li&gt;Có nên coi đây là bước đệm để học rồi nhảy sang môi trường khác không?&lt;/li&gt; &lt;li&gt;Những người từng làm kiểu này rồi, sau đó chuyển sang làm game “xịn” hơn có khó không?&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Thực sự hiện tại mình đang khá hoang mang vì không biết hướng này có ổn về lâu dài không.&lt;/p&gt; &lt;p&gt;Mong mọi người chia sẻ thẳng thắn giúp mình với 🙏&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/RevolutionaryLack722"&gt; /u/RevolutionaryLack722 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sjbj2n/mới_vào_studio_game_làm_kiểu_chỉ_thay_asset_sửa/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sjbj2n/mới_vào_studio_game_làm_kiểu_chỉ_thay_asset_sửa/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1sjbj2n/mới_vào_studio_game_làm_kiểu_chỉ_thay_asset_sửa/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-12T11:03:01+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1sj74wz</id>
     <title>Hỏi ngu</title>
     <updated>2026-04-12T06:49:27+00:00</updated>
@@ -177,32 +177,6 @@
     <published>2026-04-11T23:03:14+00:00</published>
   </entry>
   <entry>
-    <id>t3_1sjavxi</id>
-    <title>Kinh doanh freelancer lương tb 40tr/t thì nên khai thuế ra sao?</title>
-    <updated>2026-04-12T10:27:09+00:00</updated>
-    <author>
-      <name>/u/Willing-Society-4123</name>
-      <uri>https://old.reddit.com/user/Willing-Society-4123</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi mọi người, em năm nay 20 tuổi và hiện tại em có hiện diện trên mxh nên em hay làm những cái như: art comission, edit video, lồng tiếng, bán merch. Khách hàng 99% là từ nước ngoài và em thanh toán chủ yếu qua paypal rồi rút qua bank, wire thẳng về bank và thi thoảng bằng usdt. Em muốn hỏi:&lt;/p&gt; &lt;p&gt;- Em đã làm gần nửa năm rồi, nếu bây h kê khai thì nên kê khai mấy tháng?&lt;/p&gt; &lt;p&gt;-Khi kê khai thì em nên kê khai dạng gì thì ngợi và dễ dàng nhất: cá nhân, hkd, cnkd tmđt? Tất cả em làm đều ko có hóa đơn chứng từ. 2/3 thu nhập là từ tiền công, 1/3 thu nhập từ bán merch (này là thuê xưởng địa phương làm nên có tốn nguyên vật liệu mà bên kia cũng lươn ko muốn trả thuế nên chỉ nhận cash ko hóa đơn)&lt;/p&gt; &lt;p&gt;-Vì làm không có hóa đơn chứng từ, bằng chứng duy nhất là thông tin ck về bank. Khi kê khai thuế của 1 trong 3 dạng kinh doanh trên thì bên thuế có làm khó dễ bằng chứng nguồn tiền không hay chỉ show ra ck ngân hàng là được vì em không có bill?&lt;/p&gt; &lt;p&gt;-Em nhận USDT qua Binance thì nên rút ra như thế nào và có bị tính thuế ko ạ?&lt;/p&gt; &lt;p&gt;Cảm ơn mọi ngưòi đã đọc ạ!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Willing-Society-4123"&gt; /u/Willing-Society-4123 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sjavxi/kinh_doanh_freelancer_lương_tb_40trt_thì_nên_khai/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sjavxi/kinh_doanh_freelancer_lương_tb_40trt_thì_nên_khai/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1sjavxi/kinh_doanh_freelancer_lương_tb_40trt_thì_nên_khai/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-12T10:27:09+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1sj5ixy</id>
-    <title>Thấy hơi buồn bản thân</title>
-    <updated>2026-04-12T05:19:24+00:00</updated>
-    <author>
-      <name>/u/FlyApprehensive6526</name>
-      <uri>https://old.reddit.com/user/FlyApprehensive6526</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là sáng nay tôi ​có ghé bách hóa x​​anh mua đồ và dựng xe ở góc bên phải nhưng bảo vệ lại dựng xe tôi về phía bên trái thậm chí còn k quay đầu xe, để mặc ngoài nắng. T nhìn từ trong cửa hàng ra đã thấy ổng làm vậy và định bụng lát ra sẽ hỏi ổng sao lại làm vậy nhưng cuối cùng tôi vẫn g​​​​​​​​​​​iả ​bộ mắt điếc tai ngơ ​coi như ko có việc gì xảy ra. T là nam và đã 23t nhưng vẫn còn hèn nhát như vậy​​​​​​​ , t thật sự quá thất vọng về chính mình vì ko xử lý nổi 1 việc cỏn con như vậy ​​​​​Có ai cho t biết làm cách nào để trở nên cứng rắn ​và mạnh dạn hơn dc ko​​&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/FlyApprehensive6526"&gt; /u/FlyApprehensive6526 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sj5ixy/thấy_hơi_buồn_bản_thân/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sj5ixy/thấy_hơi_buồn_bản_thân/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1sj5ixy/thấy_hơi_buồn_bản_thân/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-12T05:19:24+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1sj6hhd</id>
     <title>Budget khoảng 20tr, nên nghía laptop hãng nào và dòng nào?</title>
     <updated>2026-04-12T06:12:07+00:00</updated>
@@ -214,19 +188,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1sj6hhd/budget_khoảng_20tr_nên_nghía_laptop_hãng_nào_và/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-04-12T06:12:07+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1sj8l2h</id>
-    <title>trải lòng</title>
-    <updated>2026-04-12T08:11:08+00:00</updated>
-    <author>
-      <name>/u/lequochuy89</name>
-      <uri>https://old.reddit.com/user/lequochuy89</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, em vốn không có bạn bè nhiều nên hôm nay xin phép được trải lòng một chút, vì thực sự em thấy ấm ức và tủi thân quá.&lt;/p&gt; &lt;p&gt;Bao nhiêu năm đi làm thuê, em đều gửi hết tiền về lo cho bố mẹ và tiền học của em trai, bản thân chẳng dám chi tiêu gì. Vừa rồi em bị tai nạn nằm viện, gọi điện về báo thì mẹ không hỏi em đau thế nào, chỉ hỏi đúng 1 câu rồi tắt &amp;quot;Thế tháng này không có gửi tiền về được à?&lt;/p&gt; &lt;p&gt;Vài hôm sau em vừa lết chân về đến nhà, thấy bố mẹ đang tổ chức tiệc mừng em trai có xe mới - chiếc xe mua bằng chính tiền mồ hôi nước mắt của em. Thấy em mẹ chỉ nhìn em không hỏi thăm em có sao không hay ra sao roi cả ba em cũng vậy .Em cũng về phòng rồi suy nghĩ hóa ra bấy lâu nay em chỉ là cái máy rút tiền, đến lúc hỏng hóc thì bị vứt bỏ không thương tiếc.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/lequochuy89"&gt; /u/lequochuy89 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sj8l2h/trải_lòng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sj8l2h/trải_lòng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1sj8l2h/trải_lòng/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-12T08:11:08+00:00</published>
   </entry>
   <entry>
     <id>t3_1sj9ytp</id>
@@ -242,6 +203,19 @@
     <published>2026-04-12T09:33:03+00:00</published>
   </entry>
   <entry>
+    <id>t3_1sj5ixy</id>
+    <title>Thấy hơi buồn bản thân</title>
+    <updated>2026-04-12T05:19:24+00:00</updated>
+    <author>
+      <name>/u/FlyApprehensive6526</name>
+      <uri>https://old.reddit.com/user/FlyApprehensive6526</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là sáng nay tôi ​có ghé bách hóa x​​anh mua đồ và dựng xe ở góc bên phải nhưng bảo vệ lại dựng xe tôi về phía bên trái thậm chí còn k quay đầu xe, để mặc ngoài nắng. T nhìn từ trong cửa hàng ra đã thấy ổng làm vậy và định bụng lát ra sẽ hỏi ổng sao lại làm vậy nhưng cuối cùng tôi vẫn g​​​​​​​​​​​iả ​bộ mắt điếc tai ngơ ​coi như ko có việc gì xảy ra. T là nam và đã 23t nhưng vẫn còn hèn nhát như vậy​​​​​​​ , t thật sự quá thất vọng về chính mình vì ko xử lý nổi 1 việc cỏn con như vậy ​​​​​Có ai cho t biết làm cách nào để trở nên cứng rắn ​và mạnh dạn hơn dc ko​​&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/FlyApprehensive6526"&gt; /u/FlyApprehensive6526 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sj5ixy/thấy_hơi_buồn_bản_thân/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sj5ixy/thấy_hơi_buồn_bản_thân/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1sj5ixy/thấy_hơi_buồn_bản_thân/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-04-12T05:19:24+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1sj9arc</id>
     <title>Tư vấn mua điện thoại 5-10tr</title>
     <updated>2026-04-12T08:53:34+00:00</updated>
@@ -253,6 +227,32 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1sj9arc/tư_vấn_mua_điện_thoại_510tr/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-04-12T08:53:34+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1sjavxi</id>
+    <title>Kinh doanh freelancer lương tb 40tr/t thì nên khai thuế ra sao?</title>
+    <updated>2026-04-12T10:27:09+00:00</updated>
+    <author>
+      <name>/u/Willing-Society-4123</name>
+      <uri>https://old.reddit.com/user/Willing-Society-4123</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi mọi người, em năm nay 20 tuổi và hiện tại em có hiện diện trên mxh nên em hay làm những cái như: art comission, edit video, lồng tiếng, bán merch. Khách hàng 99% là từ nước ngoài và em thanh toán chủ yếu qua paypal rồi rút qua bank, wire thẳng về bank và thi thoảng bằng usdt. Em muốn hỏi:&lt;/p&gt; &lt;p&gt;- Em đã làm gần nửa năm rồi, nếu bây h kê khai thì nên kê khai mấy tháng?&lt;/p&gt; &lt;p&gt;-Khi kê khai thì em nên kê khai dạng gì thì ngợi và dễ dàng nhất: cá nhân, hkd, cnkd tmđt? Tất cả em làm đều ko có hóa đơn chứng từ. 2/3 thu nhập là từ tiền công, 1/3 thu nhập từ bán merch (này là thuê xưởng địa phương làm nên có tốn nguyên vật liệu mà bên kia cũng lươn ko muốn trả thuế nên chỉ nhận cash ko hóa đơn)&lt;/p&gt; &lt;p&gt;-Vì làm không có hóa đơn chứng từ, bằng chứng duy nhất là thông tin ck về bank. Khi kê khai thuế của 1 trong 3 dạng kinh doanh trên thì bên thuế có làm khó dễ bằng chứng nguồn tiền không hay chỉ show ra ck ngân hàng là được vì em không có bill?&lt;/p&gt; &lt;p&gt;-Em nhận USDT qua Binance thì nên rút ra như thế nào và có bị tính thuế ko ạ?&lt;/p&gt; &lt;p&gt;Cảm ơn mọi ngưòi đã đọc ạ!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Willing-Society-4123"&gt; /u/Willing-Society-4123 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sjavxi/kinh_doanh_freelancer_lương_tb_40trt_thì_nên_khai/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sjavxi/kinh_doanh_freelancer_lương_tb_40trt_thì_nên_khai/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1sjavxi/kinh_doanh_freelancer_lương_tb_40trt_thì_nên_khai/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-04-12T10:27:09+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1sj8l2h</id>
+    <title>trải lòng</title>
+    <updated>2026-04-12T08:11:08+00:00</updated>
+    <author>
+      <name>/u/lequochuy89</name>
+      <uri>https://old.reddit.com/user/lequochuy89</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, em vốn không có bạn bè nhiều nên hôm nay xin phép được trải lòng một chút, vì thực sự em thấy ấm ức và tủi thân quá.&lt;/p&gt; &lt;p&gt;Bao nhiêu năm đi làm thuê, em đều gửi hết tiền về lo cho bố mẹ và tiền học của em trai, bản thân chẳng dám chi tiêu gì. Vừa rồi em bị tai nạn nằm viện, gọi điện về báo thì mẹ không hỏi em đau thế nào, chỉ hỏi đúng 1 câu rồi tắt &amp;quot;Thế tháng này không có gửi tiền về được à?&lt;/p&gt; &lt;p&gt;Vài hôm sau em vừa lết chân về đến nhà, thấy bố mẹ đang tổ chức tiệc mừng em trai có xe mới - chiếc xe mua bằng chính tiền mồ hôi nước mắt của em. Thấy em mẹ chỉ nhìn em không hỏi thăm em có sao không hay ra sao roi cả ba em cũng vậy .Em cũng về phòng rồi suy nghĩ hóa ra bấy lâu nay em chỉ là cái máy rút tiền, đến lúc hỏng hóc thì bị vứt bỏ không thương tiếc.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/lequochuy89"&gt; /u/lequochuy89 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sj8l2h/trải_lòng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sj8l2h/trải_lòng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1sj8l2h/trải_lòng/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-04-12T08:11:08+00:00</published>
   </entry>
   <entry>
     <id>t3_1sj2ya1</id>
