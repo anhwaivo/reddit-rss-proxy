@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-04-12T20:35:11+00:00</updated>
+  <updated>2026-04-12T21:17:03+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
+  <entry>
+    <id>t3_1sjbj2n</id>
+    <title>Mới vào studio game, làm kiểu chỉ thay asset + sửa nhẹ code để ra game mới — có bình thường không?</title>
+    <updated>2026-04-12T11:03:01+00:00</updated>
+    <author>
+      <name>/u/RevolutionaryLack722</name>
+      <uri>https://old.reddit.com/user/RevolutionaryLack722</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người,&lt;/p&gt; &lt;p&gt;Mình mới vào làm ở một studio game được khoảng 1 tuần, nhưng đang khá mông lung nên muốn hỏi ý kiến anh em trong ngành.&lt;/p&gt; &lt;p&gt;Công việc hiện tại của mình đại khái là:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Dùng lại một project/codebase có sẵn của 1 con game dạng ngọc rồng online&lt;/li&gt; &lt;li&gt;Không thay đổi nhiều về core gameplay&lt;/li&gt; &lt;li&gt;Chủ yếu là: &lt;ul&gt; &lt;li&gt;thay asset (nhân vật, UI, effect…)&lt;/li&gt; &lt;li&gt;chỉnh sửa một chút logic / thông số&lt;/li&gt; &lt;/ul&gt;&lt;/li&gt; &lt;li&gt;Sau đó build thành &lt;strong&gt;một game “mới”&lt;/strong&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Cảm giác giống kiểu:&lt;br /&gt; 👉 từ 1 game gốc → sửa nhẹ → ra 1 game khác&lt;br /&gt; 👉 vòng đời làm rất nhanh (có thể chỉ vài tuần)&lt;/p&gt; &lt;p&gt;Mình hơi bị sốc vì trước giờ nghĩ làm game sẽ kiểu:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;thiết kế gameplay mới&lt;/li&gt; &lt;li&gt;code feature mới&lt;/li&gt; &lt;li&gt;build sản phẩm lâu dài&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Nên hiện tại mình đang thắc mắc:&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Mô hình làm kiểu này có phổ biến trong ngành mobile không?&lt;/li&gt; &lt;li&gt;Nếu làm lâu ở môi trường này thì có ảnh hưởng tới skill dev không? (vì ít đụng tới core system)&lt;/li&gt; &lt;li&gt;Có nên coi đây là bước đệm để học rồi nhảy sang môi trường khác không?&lt;/li&gt; &lt;li&gt;Những người từng làm kiểu này rồi, sau đó chuyển sang làm game “xịn” hơn có khó không?&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Thực sự hiện tại mình đang khá hoang mang vì không biết hướng này có ổn về lâu dài không.&lt;/p&gt; &lt;p&gt;Mong mọi người chia sẻ thẳng thắn giúp mình với 🙏&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/RevolutionaryLack722"&gt; /u/RevolutionaryLack722 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sjbj2n/mới_vào_studio_game_làm_kiểu_chỉ_thay_asset_sửa/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sjbj2n/mới_vào_studio_game_làm_kiểu_chỉ_thay_asset_sửa/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1sjbj2n/mới_vào_studio_game_làm_kiểu_chỉ_thay_asset_sửa/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-04-12T11:03:01+00:00</published>
+  </entry>
   <entry>
     <id>t3_1sjgp2d</id>
     <title>Sinh viên Logistics nên học thêm gì để bắt kịp AI/4.0?</title>
@@ -110,19 +123,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1sjo2a9/chào_tui_mới_xài_reddit_mn_biết_sub_tiếng_anh_nào/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-04-12T19:30:32+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1sjo4ud</id>
-    <title>KINH NGHIỆM TỰ HỌC VÀ THI ĐỖ TIẾNG ĐỨC C1 GOETHE</title>
-    <updated>2026-04-12T19:33:12+00:00</updated>
-    <author>
-      <name>/u/Sad-Cucumber-6791</name>
-      <uri>https://old.reddit.com/user/Sad-Cucumber-6791</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tháng 10 năm 2025 mình đã thi đỗ kì thi tiếng Đức trình độ C1 của Goethe như thế nào?&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Điểm C1 của mình&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;- Đọc: 73&lt;/p&gt; &lt;p&gt;- Nghe: 67&lt;/p&gt; &lt;p&gt;- Viết: 61&lt;/p&gt; &lt;p&gt;- Nói: 92&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Background của mình&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Mình sinh năm 2006, đã sang Đức được hơn 1,5 năm, học năm 2 nghề Nha Khoa với bảng điểm năm Một là Sehr gut tất cả các môn. Trước đó mình đã có IELTS 7.5 và đã bắt đầu học tiếng Đức vào năm 16 tuổi. Mình cũng đã học qua các lớp tiếng Đức online và offline. Theo mình thấy việc bạn tiếp thu được kiến thức mới có tốt hay không phụ thuộc 40% vào giáo viên - người biết dẫn dắt lớp học cũng như điều chỉnh nhịp độ học sao cho phù hợp với năng lực của bạn và 60% còn lại phụ thuộc vào việc tự học.&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Quá trình ôn thi C1&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;- Mình đã tự ôn C1 trong vòng một năm. Bằng việc phân bổ thời gian một cách logic, mình đã có thể vừa cân bằng việc đi làm, đi học ở trường và tự ôn C1.&lt;/p&gt; &lt;p&gt;- Đọc và Nghe: Mình chỉ dùng duy nhất giáo trình Werkstatt để luyện hai kĩ năng này. Vì trong quá trình ở Đức, mình không có nhiều thời gian để ôn kĩ tất cả các sách nên mình chỉ lựa chọn đúng quyển này để luyện tập. Độ khó của quyển này mình đánh giá 4,5/5. Các bạn nên ôn bằng sách có độ khó cao hơn so với kì thi thực một tí vì chiến lược của mình luôn là phải &amp;quot;Nhắm cao hơn mục tiêu đặt ra&amp;quot;. Khi vào phòng thi, những nhân tố như áp lực, lo sợ và bị ngợp vì lần đầu mới thi trình độ này sẽ khiến năng suất làm bài giảm đi khá nhiều so với khi các bạn tự ôn thi ở nhà.&lt;/p&gt; &lt;p&gt;- Viết: Mình không quá tự tin về khả năng Viết của mình vì trong quá trình ôn, mình ôn khá là qua loa. Nhưng may thay vẫn đủ điểm đậu.&lt;/p&gt; &lt;p&gt;- Nói: Đây là kĩ năng mình tự tin nhất. Chắc vì có nền tảng tiếng Anh nên ngay từ đầu mình đã xác định cho bản thân phải tập trung 60% vào Aussprache. Cách tốt nhất để Aussprache chuẩn chính là học phiên âm. Các bạn có thể dùng từ điển Cambridge Dictionary để tra phiên âm và xem thật nhiều Youtube bằng tiếng Đức nhất có thể. Bằng phương pháp này, mình đã luôn đạt hơn 90 phần Nói trong kì thi Goethe B1 và B2 trước kia. Nhiều bạn cũng có gợi ý phương pháp nghe bản tin Đức ở trên Tagesschau nhưng cái này mình nghĩ cũng không quá cần thiết, vì trong quá trình ôn thi mình không hề nghe Tagesschau. Thay vào đó, mình hay tranh thủ nói chuyện với người Đức ở chỗ làm và trường học. Những bạn ở Việt Nam thì lại không có môi trường để rèn luyện phản xạ, đối với mình đây là một bất lợi khá là lớn đối với trình độ C1. Trình độ này đã yêu cầu người thi phải nói được gần giống như người bản xứ rồi. Kể cả bạn có dính Akzent Việt Nam một tí thì cũng không sao. Mình có nhận kèm phần Nói nên các bạn có thể liên hệ mình. &lt;/p&gt; &lt;p&gt;- Chủ đề Nói của C1-Goethe: Mình lấy đề từ sách Werkstatt cũng như luyện lại các đề nói của B2-Goethe vì cách ra đề của 2 trình độ này đều giống nhau: Teil 1 thuyết trình và Teil 2 Diskussion. Chiến lược vẫn luôn là tổng hợp lại các Thema nhỏ vào một Thema lớn. Ví dụ về những chủ đề lớn như Umwelt, Einkauf, Freizeit, das Internet, Gesundheit và Arbeit.&lt;/p&gt; &lt;p&gt;- Để tối ưu hóa thời gian làm bài thi, mình đã lựa chọn hình thức thi trên máy tính. Đây là một lợi thế rất, nhất là với kĩ năng Viết, vì các bạn vừa có thể ghi chú ngay trên bài viết (sau đó xóa đi) và có thể ước lượng được độ dài của bài viết.&lt;/p&gt; &lt;p&gt;Trên đây là tất cả những kinh nghiệm tự ôn thi C1 của mình. Mình chúc các bạn thi tốt.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Sad-Cucumber-6791"&gt; /u/Sad-Cucumber-6791 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sjo4ud/kinh_nghiệm_tự_học_và_thi_đỗ_tiếng_đức_c1_goethe/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sjo4ud/kinh_nghiệm_tự_học_và_thi_đỗ_tiếng_đức_c1_goethe/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1sjo4ud/kinh_nghiệm_tự_học_và_thi_đỗ_tiếng_đức_c1_goethe/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-12T19:33:12+00:00</published>
   </entry>
   <entry>
     <id>t3_1sjiecv</id>
@@ -281,19 +281,6 @@
     <published>2026-04-12T02:33:31+00:00</published>
   </entry>
   <entry>
-    <id>t3_1sjedub</id>
-    <title>Ai từng ở trong hoàn cảnh của mình cho mình xin lời khuyên với, mình bất lực lắm rồi</title>
-    <updated>2026-04-12T13:20:25+00:00</updated>
-    <author>
-      <name>/u/handsomeProgrammer97</name>
-      <uri>https://old.reddit.com/user/handsomeProgrammer97</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là mình mới lấy vợ được 1 năm nay, vợ mình thì thông minh, giỏi giang, lanh lợi, mình thương vợ mình lắm. Vấn đề ở đây là ở mẹ vợ mình, ko có chồng, thường xuyên giao du với những người ko tốt. Bà ấy không đi làm, và cứ lâu lâu lại gọi điện thoại cho vợ mình xin tiền trả nợ. Mình lấy vợ 1 năm trả giúp bà ấy gần cả tỷ. Mình thì đi làm có chút tiền, vợ mình thì tầm 10tr 1 tháng, mình cứ nghĩ chắc bà ấy nghĩ con gái mình lấy được chồng làm nhiều tiền nên cứ vay mượn tiêu sài thả ga rồi vài tháng lại gọi cho vợ mình nhờ trả giúp. Vợ mình suy sụp nhiều lắm, khóc hoài, từ khi sinh ra vợ mình toàn ở với ông bà ngoại vì bà ấy ko lo cho con, nên vợ mình cũng ko có nhiều tình cảm nhưng vì 1 chữ Hiếu mà phải trả hết lần này đến lần khác. Có lúc bà ấy còn vay nặng lãi, rồi fe credit,… chỉ cần ai cho bà ấy vay là bà ấy mượn. Lần nào trả bà ấy cũng van xin, hứa đi làm trả nợ, đây là lần cuối nhưng vài tháng sau vẫn đâu vào đấy. Mình thương vợ mình, vì từ nhỏ đến giờ vợ mình thiếu thốn tình thương từ cha mẹ, nên mn đừng khuyên bỏ vợ. Vợ mình hiểu được gánh nặng từ gia đình nên lúc còn quen nhau cô ấy còn khuyên mình đừng lấy cô ấy, để cô ấy bỏ trốn đi 1 nơi ko ai tìm ra, để ko phải nghe bà ấy gọi điện xin trả nợ. Gia đình mình thì chưa biết, cô ấy bảo mình đừng có nói vì mình nghĩ 1 phần cô ấy cũng sợ gia đình mình đánh giá.&lt;/p&gt; &lt;p&gt;Mình lên đây cầu cứu mọi người là vì trước tết 2 vc mình đã trả nợ cho bà ấy 1 lần (hỏi xem còn nợ bao nhiêu để trả 1 lần để vc mình còn làm ăn), nhưng nay bà ấy lại mới gọi dt cho vợ mình bảo đang nợ 50tr, cũng 1 giọng văn lần cuối ấy. Vợ mình lại suy sụp và khóc.&lt;/p&gt; &lt;p&gt;Ở đây không biết có ai đã từng trải qua hoàn cảnh giống mình không? Có thể chỉ giúp mình vài cách không ạ. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/handsomeProgrammer97"&gt; /u/handsomeProgrammer97 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sjedub/ai_từng_ở_trong_hoàn_cảnh_của_mình_cho_mình_xin/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sjedub/ai_từng_ở_trong_hoàn_cảnh_của_mình_cho_mình_xin/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1sjedub/ai_từng_ở_trong_hoàn_cảnh_của_mình_cho_mình_xin/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-12T13:20:25+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1sj67sn</id>
     <title>nữ hỏi nam trả lời</title>
     <updated>2026-04-12T05:57:30+00:00</updated>
@@ -305,6 +292,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1sj67sn/nữ_hỏi_nam_trả_lời/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-04-12T05:57:30+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1sjedub</id>
+    <title>Ai từng ở trong hoàn cảnh của mình cho mình xin lời khuyên với, mình bất lực lắm rồi</title>
+    <updated>2026-04-12T13:20:25+00:00</updated>
+    <author>
+      <name>/u/handsomeProgrammer97</name>
+      <uri>https://old.reddit.com/user/handsomeProgrammer97</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là mình mới lấy vợ được 1 năm nay, vợ mình thì thông minh, giỏi giang, lanh lợi, mình thương vợ mình lắm. Vấn đề ở đây là ở mẹ vợ mình, ko có chồng, thường xuyên giao du với những người ko tốt. Bà ấy không đi làm, và cứ lâu lâu lại gọi điện thoại cho vợ mình xin tiền trả nợ. Mình lấy vợ 1 năm trả giúp bà ấy gần cả tỷ. Mình thì đi làm có chút tiền, vợ mình thì tầm 10tr 1 tháng, mình cứ nghĩ chắc bà ấy nghĩ con gái mình lấy được chồng làm nhiều tiền nên cứ vay mượn tiêu sài thả ga rồi vài tháng lại gọi cho vợ mình nhờ trả giúp. Vợ mình suy sụp nhiều lắm, khóc hoài, từ khi sinh ra vợ mình toàn ở với ông bà ngoại vì bà ấy ko lo cho con, nên vợ mình cũng ko có nhiều tình cảm nhưng vì 1 chữ Hiếu mà phải trả hết lần này đến lần khác. Có lúc bà ấy còn vay nặng lãi, rồi fe credit,… chỉ cần ai cho bà ấy vay là bà ấy mượn. Lần nào trả bà ấy cũng van xin, hứa đi làm trả nợ, đây là lần cuối nhưng vài tháng sau vẫn đâu vào đấy. Mình thương vợ mình, vì từ nhỏ đến giờ vợ mình thiếu thốn tình thương từ cha mẹ, nên mn đừng khuyên bỏ vợ. Vợ mình hiểu được gánh nặng từ gia đình nên lúc còn quen nhau cô ấy còn khuyên mình đừng lấy cô ấy, để cô ấy bỏ trốn đi 1 nơi ko ai tìm ra, để ko phải nghe bà ấy gọi điện xin trả nợ. Gia đình mình thì chưa biết, cô ấy bảo mình đừng có nói vì mình nghĩ 1 phần cô ấy cũng sợ gia đình mình đánh giá.&lt;/p&gt; &lt;p&gt;Mình lên đây cầu cứu mọi người là vì trước tết 2 vc mình đã trả nợ cho bà ấy 1 lần (hỏi xem còn nợ bao nhiêu để trả 1 lần để vc mình còn làm ăn), nhưng nay bà ấy lại mới gọi dt cho vợ mình bảo đang nợ 50tr, cũng 1 giọng văn lần cuối ấy. Vợ mình lại suy sụp và khóc.&lt;/p&gt; &lt;p&gt;Ở đây không biết có ai đã từng trải qua hoàn cảnh giống mình không? Có thể chỉ giúp mình vài cách không ạ. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/handsomeProgrammer97"&gt; /u/handsomeProgrammer97 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sjedub/ai_từng_ở_trong_hoàn_cảnh_của_mình_cho_mình_xin/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sjedub/ai_từng_ở_trong_hoàn_cảnh_của_mình_cho_mình_xin/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1sjedub/ai_từng_ở_trong_hoàn_cảnh_của_mình_cho_mình_xin/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-04-12T13:20:25+00:00</published>
   </entry>
   <entry>
     <id>t3_1sj4eiw</id>
