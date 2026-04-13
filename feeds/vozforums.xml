@@ -2,115 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-04-13T03:46:19+00:00</updated>
+  <updated>2026-04-13T06:12:58+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1sj2ya1</id>
-    <title>Thức đến sáng để chờ nhận mèo cho người yêu nhưng gặp sự cố lúc 5 giờ 😭😭😭😭</title>
-    <updated>2026-04-12T03:07:54+00:00</updated>
-    <author>
-      <name>/u/Small_Bandicoot6668</name>
-      <uri>https://old.reddit.com/user/Small_Bandicoot6668</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hôm qua người yêu t hẹn là ngày hôm nay bạn ấy sẽ qua sớm để gửi mèo nhà bạn ấy vì nhà đi ăn đám cưới. Xong t đồng ý nhưng vấn đề là t rất khó để dậy sớm (t mà đang trong giấc ngủ sâu là có đánh mười quả bom cũng không biết chứ đừng nói là báo thức). Một là ngủ siêu sớm, hai là thức đến sáng, mà đúng đêm qua mình bị khó ngủ (bình thường dễ ngủ lắm) nên t quyết định thức đến sáng luôn bằng cách xem điện thoại. Thức đến tầm 5 rưỡi thì tự nhiên bố t mở cửa phòng mình để lấy đồ trong máy sấy (tại phòng t cạnh phòng giặt), bình thường bố vẫn gõ cửa nhưng mà chắc tưởng t đang ngủ nên ko gõ, thế là nghe thấy tiếng cửa t giật bắn người xong vứt điện thoại vào chăn giả vờ ngủ. Bố t loay hoay 1 lúc thì cũng đi xuống tầng, t lại cầm máy lên chưa được 15 giây thì bố t lại mở cửa :))))))))???? Để cho quần áo mới vào máy giặt xong lại xuống. Lần này t sợ rồi nên giả vờ ngủ 1 lúc không lỡ bố lại lên, thế nào lại ngủ đến 10h trưa, dậy thấy hơn 20 cuộc gọi nhỡ của người yêu, gọi và nhắn tin thì chưa thấy rep 🥲😇😇☺️☺️☺️&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Small_Bandicoot6668"&gt; /u/Small_Bandicoot6668 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sj2ya1/thức_đến_sáng_để_chờ_nhận_mèo_cho_người_yêu_nhưng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sj2ya1/thức_đến_sáng_để_chờ_nhận_mèo_cho_người_yêu_nhưng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1sj2ya1/thức_đến_sáng_để_chờ_nhận_mèo_cho_người_yêu_nhưng/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-12T03:07:54+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1sjbj2n</id>
-    <title>Mới vào studio game, làm kiểu chỉ thay asset + sửa nhẹ code để ra game mới — có bình thường không?</title>
-    <updated>2026-04-12T11:03:01+00:00</updated>
-    <author>
-      <name>/u/RevolutionaryLack722</name>
-      <uri>https://old.reddit.com/user/RevolutionaryLack722</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người,&lt;/p&gt; &lt;p&gt;Mình mới vào làm ở một studio game được khoảng 1 tuần, nhưng đang khá mông lung nên muốn hỏi ý kiến anh em trong ngành.&lt;/p&gt; &lt;p&gt;Công việc hiện tại của mình đại khái là:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Dùng lại một project/codebase có sẵn của 1 con game dạng ngọc rồng online&lt;/li&gt; &lt;li&gt;Không thay đổi nhiều về core gameplay&lt;/li&gt; &lt;li&gt;Chủ yếu là: &lt;ul&gt; &lt;li&gt;thay asset (nhân vật, UI, effect…)&lt;/li&gt; &lt;li&gt;chỉnh sửa một chút logic / thông số&lt;/li&gt; &lt;/ul&gt;&lt;/li&gt; &lt;li&gt;Sau đó build thành &lt;strong&gt;một game “mới”&lt;/strong&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Cảm giác giống kiểu:&lt;br /&gt; 👉 từ 1 game gốc → sửa nhẹ → ra 1 game khác&lt;br /&gt; 👉 vòng đời làm rất nhanh (có thể chỉ vài tuần)&lt;/p&gt; &lt;p&gt;Mình hơi bị sốc vì trước giờ nghĩ làm game sẽ kiểu:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;thiết kế gameplay mới&lt;/li&gt; &lt;li&gt;code feature mới&lt;/li&gt; &lt;li&gt;build sản phẩm lâu dài&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Nên hiện tại mình đang thắc mắc:&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Mô hình làm kiểu này có phổ biến trong ngành mobile không?&lt;/li&gt; &lt;li&gt;Nếu làm lâu ở môi trường này thì có ảnh hưởng tới skill dev không? (vì ít đụng tới core system)&lt;/li&gt; &lt;li&gt;Có nên coi đây là bước đệm để học rồi nhảy sang môi trường khác không?&lt;/li&gt; &lt;li&gt;Những người từng làm kiểu này rồi, sau đó chuyển sang làm game “xịn” hơn có khó không?&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Thực sự hiện tại mình đang khá hoang mang vì không biết hướng này có ổn về lâu dài không.&lt;/p&gt; &lt;p&gt;Mong mọi người chia sẻ thẳng thắn giúp mình với 🙏&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/RevolutionaryLack722"&gt; /u/RevolutionaryLack722 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sjbj2n/mới_vào_studio_game_làm_kiểu_chỉ_thay_asset_sửa/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sjbj2n/mới_vào_studio_game_làm_kiểu_chỉ_thay_asset_sửa/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1sjbj2n/mới_vào_studio_game_làm_kiểu_chỉ_thay_asset_sửa/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-12T11:03:01+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1sjh2zi</id>
-    <title>xin review các ngành kĩ thuật</title>
-    <updated>2026-04-12T15:10:15+00:00</updated>
-    <author>
-      <name>/u/Additional-Being3471</name>
-      <uri>https://old.reddit.com/user/Additional-Being3471</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;e 2k8 đang có ý định theo CS nhưng sợ triển vọng nghề nghiệp ko cao nên chuyển sang định hướng vào các ngành kĩ thuật. e là người thích tech, thích học hỏi, mạnh tiếng anh, học tốt lí và ổn môn toán. mn cho ý kiến và recommendations với ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Additional-Being3471"&gt; /u/Additional-Being3471 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sjh2zi/xin_review_các_ngành_kĩ_thuật/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sjh2zi/xin_review_các_ngành_kĩ_thuật/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1sjh2zi/xin_review_các_ngành_kĩ_thuật/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-12T15:10:15+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1sj74wz</id>
-    <title>Hỏi ngu</title>
-    <updated>2026-04-12T06:49:27+00:00</updated>
-    <author>
-      <name>/u/AffectionateRoad6481</name>
-      <uri>https://old.reddit.com/user/AffectionateRoad6481</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;tại sao bạn đại học chơi vì lợi ích hoặc còn các mối quan hệ tầm 20 tuổi trở lên chơi thông qua sở thích chỉ nên chơi xã giao&lt;/p&gt; &lt;p&gt;còn các mối quan hệ học sinh cấp 2 cấp 3 dưới 18 tuổi thì chơi thân được không cần vì lợi ích &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/AffectionateRoad6481"&gt; /u/AffectionateRoad6481 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sj74wz/hỏi_ngu/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sj74wz/hỏi_ngu/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1sj74wz/hỏi_ngu/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-12T06:49:27+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1sj9mkv</id>
-    <title>Có ai còn tin vào cạnh tranh “chuẩn” thay vì ao làng không?</title>
-    <updated>2026-04-12T09:12:50+00:00</updated>
-    <author>
-      <name>/u/borjiginnergui</name>
-      <uri>https://old.reddit.com/user/borjiginnergui</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác,&lt;/p&gt; &lt;p&gt;Em luôn nghĩ là nếu chơi thể thao hay luyện skill gì đó thì nên có một cái “chuẩn” rõ ràng — biết mình đang ở đâu trên thang đo lớn. Còn mấy cái hơn thua lặt vặt thì chỉ để tập luyện, giải trí, vì có thắng ở mấy cái đó và vô địch thật thì cũng chẳng ý nghĩa gì cả.&lt;/p&gt; &lt;p&gt;Nhưng thực tế em gặp thì hơi ngược.&lt;/p&gt; &lt;p&gt;Chỉ cần hơn nhau một tí ở một skill nhỏ xíu là bắt đầu khích, đá đểu, thách kèo các kiểu, vibe như vừa vô địch thế giới vậy. Trong khi để gọi là mastery thật thì còn xa. Ban đầu em tưởng mấy pha cà khịa là đùa cho vui vì em nghĩ thắng thua nhỏ này có ý nghĩa gì đâu(và em nghĩ người khác cũng thế), ai ngờ chỉ cần hơn nhau một tí là nhiều người đã căng thẳng.&lt;/p&gt; &lt;p&gt;Vài ví dụ nhảm nhí:&lt;/p&gt; &lt;p&gt;Tiếng Anh: thang đo chuẩn thì là IELTS, TOEFL, hoặc dùng được trong công việc. Em dùng vì cần, chứ không phải flex. Muốn flex thì đi thi lấy bằng về cho nhanh, chứ ai rảnh flex mấy câu giao tiếp vặt?&lt;br /&gt; Ngoài lề: kiểu chơi game cũng vậy. Rank thấp mà thắng vài trận trong team nhỏ là bắt đầu toxic, nói chuyện như pro, trong khi ra rank chuẩn thì vẫn bình thường, thậm chí thấp hơn cả mình???&lt;br /&gt; Một kiểu nữa: có người tự hỏi mình ngày xưa làm được gì, đạt được gì. Mình trả lời thẳng, kiểu “ừ hồi đó có làm cái này, làm cái kia” — vì với mình nó là chuyện bình thường, chẳng có gì đặc biệt. Trong khi chính nó là người hỏi trước. Xong quay ra bảo mình là thằng khoe khoang???&lt;/p&gt; &lt;p&gt;Mình biết là mình cũng hơi để ý mấy cái này thật. Nhưng cái khó chịu là đa số những người như vậy lại là người mình từng nghĩ là thân, hoặc ít nhất là khá gần. Họ cũng nghĩ họ là người thân với mình. Đôi lúc mình cảm giác mình bị kéo vào cuộc đua nào đó mình méo bao giờ đăng ký tham gia vậy, nếu đó là người xa lạ có lẽ đã không tức đến thế.&lt;/p&gt; &lt;p&gt;Ngoài việc tự tu dưỡng bản thân để kiếm những người đàng hoàng hơn, thì làm sao để mình có được môi trường mà ở đó việc người khác giỏi lên lại là động lực để mình cày lên? Kiểu hai bên như đối thủ nhưng lại tương trợ, đối thủ càng mạnh thì mình càng cày để càng mạnh, vô tình buff skills cho nhau, nể nhau vì đối phương mạnh hơn chứ ko đe dọa cái tôi, không phải mấy trò con bò kể trên.&lt;/p&gt; &lt;p&gt;Có bác nào vì những bất mãn kiểu này mà sau đó tìm được đúng người, đúng môi trường chưa? Cái giá phải trả là những gì? Và mất bao nhiêu năm?&lt;/p&gt; &lt;p&gt;Và nếu không tìm được, thì đâu là những đặc điểm mình cần soi xét ở người khác trước khi các ví dụ nhảm nhí kia tái lập trong tương lai? Mình muốn sút họ ra khỏi cuộc đời ngay từ khi họ chưa biểu hiện đầy đủ như ví dụ trên. Và làm sao để đoán được&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/borjiginnergui"&gt; /u/borjiginnergui &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sj9mkv/có_ai_còn_tin_vào_cạnh_tranh_chuẩn_thay_vì_ao/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sj9mkv/có_ai_còn_tin_vào_cạnh_tranh_chuẩn_thay_vì_ao/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1sj9mkv/có_ai_còn_tin_vào_cạnh_tranh_chuẩn_thay_vì_ao/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-12T09:12:50+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1sjbucy</id>
-    <title>Xác thực Zalo</title>
-    <updated>2026-04-12T11:19:49+00:00</updated>
-    <author>
-      <name>/u/Tran-19</name>
-      <uri>https://old.reddit.com/user/Tran-19</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1sjbucy/xác_thực_zalo/"&gt; &lt;img alt="Xác thực Zalo" src="https://preview.redd.it/9f9bepcduqug1.jpg?width=140&amp;amp;height=140&amp;amp;crop=1:1,smart&amp;amp;auto=webp&amp;amp;s=1c38af7353080a79ee50c7d47b8ee4c730ad6f33" title="Xác thực Zalo" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi các bác. Các bác cho em hỏi, có bác nào phải xác thực tài khoản Zalo bằng cuộc gọi ghi hình tự động để lấy giọng nói + khuôn mặt của mình như này không ạ? Em dùng điện thoại xách tay TQ, ROM gốc nên không biết có phải do điện thoại nên nó bắt xác thực như này không nhỉ? Em cảm ơn các bác!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Tran-19"&gt; /u/Tran-19 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1sjbucy"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sjbucy/xác_thực_zalo/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1sjbucy/xác_thực_zalo/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-12T11:19:49+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1sjdfs4</id>
-    <title>tư vấn bệnh tật</title>
-    <updated>2026-04-12T12:38:50+00:00</updated>
-    <author>
-      <name>/u/itbritw</name>
-      <uri>https://old.reddit.com/user/itbritw</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;hi mọi người, e đọc mấy post thì thấy mọi người có kinh nghiệm quá :v&lt;/p&gt; &lt;ol&gt; &lt;li&gt;E có thắc mắc là làm sao để phòng ngừa mấy bệnh lúc have s.. nhỉ? E google thấy bảo mang ba con sói, tiêm vaccine nhưng ko ngừa hết tất cả được. Với lúc hôn hay dùng miệng thì vẫn có khả năng lây mà. E chưa rõ nên vẫn cứ sợ hs quá.&lt;/li&gt; &lt;li&gt;Với kiểu tiêm vaccine, rồi PrEP các thứ thì có mua hay tư vấn ở tiệm thuốc tây hay bệnh viện, hay ở đâu nhỉ?&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Thấy mọi người hs loạn cả lên mà có vẻ ko sợ lắm. E cảm ơn trước :v&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/itbritw"&gt; /u/itbritw &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sjdfs4/tư_vấn_bệnh_tật/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sjdfs4/tư_vấn_bệnh_tật/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1sjdfs4/tư_vấn_bệnh_tật/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-12T12:38:50+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1sjveqz</id>
-    <title>Đối tác quên sinh nhật (P2)</title>
-    <updated>2026-04-13T00:25:29+00:00</updated>
-    <author>
-      <name>/u/Fabulous_Stomach_623</name>
-      <uri>https://old.reddit.com/user/Fabulous_Stomach_623</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là vào ngày sinh nhật của mình, anh ấy silent treatment mình nguyên 1 buổi sáng (trước đó cũng không có cãi nhau và vì đang tìm hiểu nên cũng không có xung đột gì nhiều hết), và gần đến chiều tầm 15, 16h thì ảnh nói là ảnh đang bận công việc, nên sẽ nói chuyện với mình sau. Thì mình cũng là mọi thứ sẽ ổn thôi, vì tối hôm đó tụi mình cũng có hẹn đi ăn mà. Nhưng đến tối thì trước giờ đi ăn khoảng 2 tiếng, thì ảnh nhắn với mình là phải đi ăn với công ty (đây là công ty mới mà ảnh mới vào làm). Mình cũng biết điều nên cũng nói là ảnh đi ăn với công ty đi, mà giả sử mình có không biết điều, thì ảnh cũng sẽ tự đi với công ty và huỷ hẹn với mình thôi. Ảnh bảo là cuối tuần sẽ đi ăn bù với mình, nhưng cuối tuần rồi thì mình lại bận, và mình đã nói mình sẽ bận rồi nhưng có vẻ ảnh không nhớ, và chỉ có tối chủ nhật thì mình sẽ rảnh, nhưng ảnh sẽ phải về quê (lịch trình này cả mình và ảnh đều biết trước). Mình cũng hy vọng là vào cuối ngày thì ảnh sẽ chúc mừng sinh nhật mình hay gì đó, nhưng lại chẳng nhận được gì.&lt;/p&gt; &lt;p&gt;Qua ngày hôm sau, thì ảnh mới chúc mừng sinh nhật mình, và ảnh nói rằng là ảnh VẪN NHỚ ngày sinh nhật của mình, nhưng không biết mở lời sinh nhật muộn như thế nào. Nói nôm na là do áp lực công việc, nên dù sinh nhật của mình vào ngày nào thì ảnh vẫn nhớ, chỉ là vào ngày hôm đó ảnh bị áp lực công việc, nên ảnh chưa chúc được. Ảnh cũng xin lỗi mình nhiều và nhận phần lỗi về ảnh hết, ảnh cũng nói là ảnh xin lỗi vì sự vô tâm của ảnh, và nói mình thông cảm cho ảnh trong giai đoạn này,... Mình mong ảnh có thể hành động hơn 1 chút...Hành động như thế nào mình sẽ nói bên dưới.&lt;/p&gt; &lt;p&gt;Mình thấy chỉ việc chúc 1 cái rồi thôi, nhưng lại không chịu chúc vào đúng ngày, và cố tình chúc trễ rồi lại đi xin lỗi. Với mình dù bận vào cuối tuần, nhưng sau 21h thì mình lại rảnh, nên nếu vào hôm cuối tuần, ảnh chạy qua đem cho mình ly nước hoặc tặng mình 1 quyển sổ, mình nghĩ mình cũng sẽ đỡ buồn lắm (cả 2 đứa đều là người đi làm, và lương chúng mình đều có thể tự hào là cao so với thu nhập bình quân). Mà nếu mình nói thẳng với ảnh như vầy thì nghe như vòi quà, nhưng thật ra chả có vòi gì cả, vì ly nước hay miếng bánh nó chả thấm 0,1% với số lương của ảnh cả. Mình thấy cũng 2 ngày trôi qua, nhưng mình vẫn còn đau lòng rất nhiều. Mình nghĩ nếu mình dễ dãi, vui vẻ lại với ảnh, thì mai mốt ảnh sẽ tiếp tục nhởn nhơ ở vấn đề khác.&lt;/p&gt; &lt;p&gt;Bây giờ ảnh về quê, và dự kiến sẽ qua giỗ Tổ thì ảnh mới lên. Và còn 2 tuần nữa, thì mình nghĩ với việc overthinking như mình thì chắc mình sẽ muốn dừng quá hic. Mình thấy về tương lai, về sự nghiệp của mình, thì ảnh có thể giúp mình nhiều (vì sau này mình định chuyển hướng + có thể đi học một ngành nghề mới). Sau này, anh có thể hỗ trợ chỗ ở cho mình, để mình toàn tâm đi học (cái này ảnh tự nói với mình)... &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Fabulous_Stomach_623"&gt; /u/Fabulous_Stomach_623 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sjveqz/đối_tác_quên_sinh_nhật_p2/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sjveqz/đối_tác_quên_sinh_nhật_p2/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1sjveqz/đối_tác_quên_sinh_nhật_p2/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-13T00:25:29+00:00</published>
-  </entry>
   <entry>
     <id>t3_1sj8l2h</id>
     <title>trải lòng</title>
@@ -138,30 +34,30 @@
     <published>2026-04-12T19:19:54+00:00</published>
   </entry>
   <entry>
-    <id>t3_1sj2dld</id>
-    <title>Kinh nghiệm đi làm cho các bạn mới "nhú"</title>
-    <updated>2026-04-12T02:40:25+00:00</updated>
+    <id>t3_1sjz2b6</id>
+    <title>Hỏi chuyện học bổng</title>
+    <updated>2026-04-13T03:14:41+00:00</updated>
     <author>
-      <name>/u/Potential_Energy1897</name>
-      <uri>https://old.reddit.com/user/Potential_Energy1897</uri>
+      <name>/u/Plane-Ability7052</name>
+      <uri>https://old.reddit.com/user/Plane-Ability7052</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các em, lần đầu tiên đi làm chắc ngộp lắm nhưng anh sẽ chia sẻ kinh nghiệm đi làm của các anh chị đến với các em, các bác còn kinh nghiệm cmt giúp mấy em ấy đỡ bỡ ngỡ&lt;/p&gt; &lt;ol&gt; &lt;li&gt;&lt;p&gt;Mới vào đừng nói nhiều và đừng tin ai hết ai cũng ko tin, vì người ta làm trc các em, mối quan hệ phức tạp, có rắn trong đó nx :)))&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Nếu ngta có dặn: &amp;quot;có gì bán mắng vốn, nói anh/chị&amp;quot; là lúc nào thấy mình không kiểm soát đc thì mới nói !, đừng lúc nào gặp cũng bán vốn người khác, người ta khó chịu và chắc chắn sẽ ko nói tụi em mà sẽ cô lập các em. &lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Tập trung vào công việc của mình, cái đó anh biết là chuyện đương nhiên, mà hãy làm xong công việc mình rồi mới nghĩ đến phụ.&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Câu thần chú: &amp;quot;không biết thì hỏi&amp;quot;, có người sẽ hạnh hẹ các em, mà hãy nuốt bài văn câu chửi xuống vì họ có kinh nghiệm mà các em cần, cố đấm ăn xôi, khi nào mình thân với người đó thì mình đấm lại chưa trễ :))&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Không cãi lại mà lại có thêm 2 câu thần chú: &amp;quot;em biết rồi, em nhớ rồi&amp;quot; thì người ta có chửi em thì nghe câu đó ngta cũng dịu xuống nếu còn thì còn 1 câu nữa &amp;quot;dạ tại em bị ngu, thông cảm giúp em&amp;quot; :)).&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Nếu công việc giao cho em có deadline 1 tuần, ngày đầu bắt đầu làm, kể cả các em vô ghi title cũng đc, có làm là đc rồi làm từ từ chờ ngày kế cuối mà nộp để còn có gì còn nộp xong sai còn sửa nè, đừng để nc tới chân mới nhảy&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Mấy đứa hướng nội tập cười đi nha tụi bây :)))&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Đừng chia bè phái, có chia phải rủ sếp vô :))), không thôi lòi ra cả đám sẽ bị trừ lương hoặc bị đuổi&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Con thầy, vợ bạn, gái cơ quan, đừng quen chung cơ quan, công ty, chia tay nó ngượng lắm&lt;/p&gt;&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Anh có nhiêu đó thôi, chờ mấy anh chị add vô nữa :)))) &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Potential_Energy1897"&gt; /u/Potential_Energy1897 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sj2dld/kinh_nghiệm_đi_làm_cho_các_bạn_mới_nhú/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sj2dld/kinh_nghiệm_đi_làm_cho_các_bạn_mới_nhú/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1sj2dld/kinh_nghiệm_đi_làm_cho_các_bạn_mới_nhú/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mn, e hiện là SV năm 1 (2k7) - Y Huế và là sinh viên xa nhà. Hiện tại e đg bị mẹ pressing chuyện học bổng nên đg phân vân chuyện apply hỗ trợ học phí cho sinh viên.&lt;/p&gt; &lt;p&gt;Vì hiện tại gia đình e ko thuộc diện khó khăn (vẫn có khả năng chi trả cho học phí trường y), điểm số học kì I khá bình thường so với các bạn cùng lớp, thành tích ko nổi trội và ko có giải thưởng các cuộc thi nào đáng kể cả, chỉ có ĐRL của e thuộc dạng khá tốt chứ thật sự e là 1 thằng hs trung bình, học lưhc trung bình thôi ạ. Mấy ac nào có kinh nghiệm hoặc biết về các loại học bổng trong nước ko ạ cho e xin ý kiến với e cảm ơn😭😭😭&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Plane-Ability7052"&gt; /u/Plane-Ability7052 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sjz2b6/hỏi_chuyện_học_bổng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sjz2b6/hỏi_chuyện_học_bổng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1sjz2b6/hỏi_chuyện_học_bổng/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-12T02:40:25+00:00</published>
+    <published>2026-04-13T03:14:41+00:00</published>
   </entry>
   <entry>
-    <id>t3_1sjkeu3</id>
-    <title>xong một kiếp người</title>
-    <updated>2026-04-12T17:15:34+00:00</updated>
+    <id>t3_1sk029r</id>
+    <title>Hỏi thăm về cá part 2</title>
+    <updated>2026-04-13T04:03:13+00:00</updated>
     <author>
-      <name>/u/RevolutionNo8795</name>
-      <uri>https://old.reddit.com/user/RevolutionNo8795</uri>
+      <name>/u/Chill_2101</name>
+      <uri>https://old.reddit.com/user/Chill_2101</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;hôm qua vừa nói chuyện mí thằng em , bia bọt các kiểu thân nhau đủ cả mà nay nó mất cảm giác đời vô thường quá ae ạ , làm sao t thoát khỏi suy nghĩ này đây.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/RevolutionNo8795"&gt; /u/RevolutionNo8795 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sjkeu3/xong_một_kiếp_người/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sjkeu3/xong_một_kiếp_người/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1sjkeu3/xong_một_kiếp_người/"/>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1sk029r/hỏi_thăm_về_cá_part_2/"&gt; &lt;img alt="Hỏi thăm về cá part 2" src="https://preview.redd.it/9dz7ofaetvug1.jpg?width=140&amp;amp;height=140&amp;amp;crop=1:1,smart&amp;amp;auto=webp&amp;amp;s=27f532704adc317c94f109ea2345e6e473a50eba" title="Hỏi thăm về cá part 2" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các anh các chị cho e hỏi xíu, cá e như thế này là bị bệnh ngoài da rách vây do bị cọ vào đồ trong bể, hay là đang bị bệnh ạ? Lúc mới về bé không có bị vậy ạ, e nuôi thứ 4 tuần trước đc gần 1 tuần, mà cá đực ko sao ko hiểu sao con cái nào cũng có vấn đề. Cảm ơn các anh chị giúp e với ạ!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Chill_2101"&gt; /u/Chill_2101 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1sk029r"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sk029r/hỏi_thăm_về_cá_part_2/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1sk029r/hỏi_thăm_về_cá_part_2/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-12T17:15:34+00:00</published>
+    <published>2026-04-13T04:03:13+00:00</published>
   </entry>
   <entry>
     <id>t3_1sjavxi</id>
@@ -177,19 +73,6 @@
     <published>2026-04-12T10:27:09+00:00</published>
   </entry>
   <entry>
-    <id>t3_1sjz2b6</id>
-    <title>Hỏi chuyện học bổng</title>
-    <updated>2026-04-13T03:14:41+00:00</updated>
-    <author>
-      <name>/u/Plane-Ability7052</name>
-      <uri>https://old.reddit.com/user/Plane-Ability7052</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mn, e hiện là SV năm 1 (2k7) - Y Huế và là sinh viên xa nhà. Hiện tại e đg bị mẹ pressing chuyện học bổng nên đg phân vân chuyện apply hỗ trợ học phí cho sinh viên.&lt;/p&gt; &lt;p&gt;Vì hiện tại gia đình e ko thuộc diện khó khăn (vẫn có khả năng chi trả cho học phí trường y), điểm số học kì I khá bình thường so với các bạn cùng lớp, thành tích ko nổi trội và ko có giải thưởng các cuộc thi nào đáng kể cả, chỉ có ĐRL của e thuộc dạng khá tốt chứ thật sự e là 1 thằng hs trung bình, học lưhc trung bình thôi ạ. Mấy ac nào có kinh nghiệm hoặc biết về các loại học bổng trong nước ko ạ cho e xin ý kiến với e cảm ơn😭😭😭&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Plane-Ability7052"&gt; /u/Plane-Ability7052 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sjz2b6/hỏi_chuyện_học_bổng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sjz2b6/hỏi_chuyện_học_bổng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1sjz2b6/hỏi_chuyện_học_bổng/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-13T03:14:41+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1sjd4l3</id>
     <title>Sau khi quit job 8h, bạn sẽ làm</title>
     <updated>2026-04-12T12:23:51+00:00</updated>
@@ -203,17 +86,43 @@
     <published>2026-04-12T12:23:51+00:00</published>
   </entry>
   <entry>
-    <id>t3_1sjzoww</id>
-    <title>Có ai ở đây không quen biết người cờ bạc</title>
-    <updated>2026-04-13T03:45:09+00:00</updated>
+    <id>t3_1sj28mw</id>
+    <title>Mất động lực</title>
+    <updated>2026-04-12T02:33:31+00:00</updated>
     <author>
-      <name>/u/binifyy</name>
-      <uri>https://old.reddit.com/user/binifyy</uri>
+      <name>/u/Under_the_black_sea</name>
+      <uri>https://old.reddit.com/user/Under_the_black_sea</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Thắc mắc để thấy xã hội này có chán đến vậy không? Có ai ở đây không có người thân, họ hàng hay bạn bè thân nghiện cờ bạc không. Ở mức không còn công ăn việc làm, nợ nần ngập đầu, đánh mất bản thân liên đới gia đình,... &lt;/p&gt; &lt;p&gt;Biết là ở cuộc sống người nào cũng có nỗi khổ riêng, mình đã mất người thân vì bệnh tật giờ sắp mất một người nữa vì cờ bạc thật khó đối diện. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/binifyy"&gt; /u/binifyy &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sjzoww/có_ai_ở_đây_không_quen_biết_người_cờ_bạc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sjzoww/có_ai_ở_đây_không_quen_biết_người_cờ_bạc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1sjzoww/có_ai_ở_đây_không_quen_biết_người_cờ_bạc/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;30t, độc thân, lương 30tr/tháng, ở nhà riêng, hàng ngày đi làm 8am-5pm, bơi 2/3 buổi/tuần, học thêm chứng chỉ liên quan nghề nghiệp, 1 năm đi du lịch 1/2 lần. Nhưng thực sự t thấy bị mất động lực trong cuộc sống, đúng kiểu bẫy thu nhập trung bình, không thể bứt phá được lên một tầm cao hơn, không những vậy cũng sợ bị mất những gì đang có nên không dám đánh đổi. Hồi 15t thì phấn đấu vào trường chuyên, 18t thì phấn đấu vào đại học, 22t thì phấn đấu vào công ty tốt, lương cao,... nhưng giờ chả biết phấn đấu cho việc gì. Tất nhiên t vẫn luôn cố gắng học thêm kỹ năng cho bản thân, làm tốt cv ở cty nhưng ko có động lực làm lead làm head, cũng k đặt ra mục tiêu gì lớn hơn cả nên thấy càng ngày càng thấy mình sắp thành zombie r&lt;/p&gt; &lt;p&gt;Edit: có mấy bác khuyên lấy vợ cho có động lực. Sorry t quên k nói, t là nữ ạ. Anw mấy bác cũng khỏi khuyên lấy chồng nhé với mục đích tạo động lực nhé, nó k liên quan lắm ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Under_the_black_sea"&gt; /u/Under_the_black_sea &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sj28mw/mất_động_lực/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sj28mw/mất_động_lực/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1sj28mw/mất_động_lực/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-13T03:45:09+00:00</published>
+    <published>2026-04-12T02:33:31+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1sk12g2</id>
+    <title>Xin một chút tư vấn về ngành học</title>
+    <updated>2026-04-13T04:55:06+00:00</updated>
+    <author>
+      <name>/u/bien245</name>
+      <uri>https://old.reddit.com/user/bien245</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Xin chào mn mình năm nay lớp 12 và mình đang phân vân về các ngành kỹ thuật mong mn dành chút thời gian tư vấn mình một chút cảm ơn rất nhiều ạ&lt;/p&gt; &lt;p&gt;- Mình có kỹ năng về lập trình python và thuật toán thì năm ngoái mình định hướng vào ngành tự động hóa mà xem lại các sub cũ thấy nó không có triển vọng ở nước mình, toàn phải ra nước ngoài không biết có đúng ko ai học r cho mình xin ý kiến, thế nên giờ mình không biết nên chọn nghành nào cả, mình khá thích mạch điện và lập trình nhúng thì nên chọn nghành như nào để nó thuận lợi về việc làm với sau có cơ hội thăng tiến, lý do mình không chọn IT vì thấy hiện tại có nhiều dev lớn sợ khi mình học xong khó cạnh tranh nên vẫn chưa chắc chắn chọn nghành đó được mong được mọi người góp ý ạ cảm ơn rất nhiều ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/bien245"&gt; /u/bien245 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sk12g2/xin_một_chút_tư_vấn_về_ngành_học/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sk12g2/xin_một_chút_tư_vấn_về_ngành_học/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1sk12g2/xin_một_chút_tư_vấn_về_ngành_học/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-04-13T04:55:06+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1sjkeu3</id>
+    <title>xong một kiếp người</title>
+    <updated>2026-04-12T17:15:34+00:00</updated>
+    <author>
+      <name>/u/RevolutionNo8795</name>
+      <uri>https://old.reddit.com/user/RevolutionNo8795</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;hôm qua vừa nói chuyện mí thằng em , bia bọt các kiểu thân nhau đủ cả mà nay nó mất cảm giác đời vô thường quá ae ạ , làm sao t thoát khỏi suy nghĩ này đây.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/RevolutionNo8795"&gt; /u/RevolutionNo8795 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sjkeu3/xong_một_kiếp_người/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sjkeu3/xong_một_kiếp_người/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1sjkeu3/xong_một_kiếp_người/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-04-12T17:15:34+00:00</published>
   </entry>
   <entry>
     <id>t3_1sjf2sf</id>
@@ -229,17 +138,69 @@
     <published>2026-04-12T13:50:07+00:00</published>
   </entry>
   <entry>
-    <id>t3_1sj28mw</id>
-    <title>Mất động lực</title>
-    <updated>2026-04-12T02:33:31+00:00</updated>
+    <id>t3_1sk1l2d</id>
+    <title>Chia sẻ góc nhìn</title>
+    <updated>2026-04-13T05:22:59+00:00</updated>
     <author>
-      <name>/u/Under_the_black_sea</name>
-      <uri>https://old.reddit.com/user/Under_the_black_sea</uri>
+      <name>/u/Previous_Box_4376</name>
+      <uri>https://old.reddit.com/user/Previous_Box_4376</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;30t, độc thân, lương 30tr/tháng, ở nhà riêng, hàng ngày đi làm 8am-5pm, bơi 2/3 buổi/tuần, học thêm chứng chỉ liên quan nghề nghiệp, 1 năm đi du lịch 1/2 lần. Nhưng thực sự t thấy bị mất động lực trong cuộc sống, đúng kiểu bẫy thu nhập trung bình, không thể bứt phá được lên một tầm cao hơn, không những vậy cũng sợ bị mất những gì đang có nên không dám đánh đổi. Hồi 15t thì phấn đấu vào trường chuyên, 18t thì phấn đấu vào đại học, 22t thì phấn đấu vào công ty tốt, lương cao,... nhưng giờ chả biết phấn đấu cho việc gì. Tất nhiên t vẫn luôn cố gắng học thêm kỹ năng cho bản thân, làm tốt cv ở cty nhưng ko có động lực làm lead làm head, cũng k đặt ra mục tiêu gì lớn hơn cả nên thấy càng ngày càng thấy mình sắp thành zombie r&lt;/p&gt; &lt;p&gt;Edit: có mấy bác khuyên lấy vợ cho có động lực. Sorry t quên k nói, t là nữ ạ. Anw mấy bác cũng khỏi khuyên lấy chồng nhé với mục đích tạo động lực nhé, nó k liên quan lắm ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Under_the_black_sea"&gt; /u/Under_the_black_sea &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sj28mw/mất_động_lực/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sj28mw/mất_động_lực/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1sj28mw/mất_động_lực/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hãy chia sẻ góc nhìn, quan điểm của bạn trong nghề ca sĩ (có thể lấy ví dụ hoặc chia sẻ kinh nghiệm của bạn trong ngành cũng được). Mình muốn tham khảo thêm ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Previous_Box_4376"&gt; /u/Previous_Box_4376 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sk1l2d/chia_sẻ_góc_nhìn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sk1l2d/chia_sẻ_góc_nhìn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1sk1l2d/chia_sẻ_góc_nhìn/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-12T02:33:31+00:00</published>
+    <published>2026-04-13T05:22:59+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1sk1sd0</id>
+    <title>Cả nhà cho em hỏi: Em là người mới muốn học về AE thì nên học ở trang wed, kênh youtube nào ạ. Vì chưa có chi phí học bên ngoài nên em muốn ưu tiên học cơ bản ở trên mạng trước T.T. Em muốn kết hợp AE và Capcut để tạo video.</title>
+    <updated>2026-04-13T05:34:10+00:00</updated>
+    <author>
+      <name>/u/Conmeokhoc99</name>
+      <uri>https://old.reddit.com/user/Conmeokhoc99</uri>
+    </author>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Conmeokhoc99"&gt; /u/Conmeokhoc99 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sk1sd0/cả_nhà_cho_em_hỏi_em_là_người_mới_muốn_học_về_ae/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sk1sd0/cả_nhà_cho_em_hỏi_em_là_người_mới_muốn_học_về_ae/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1sk1sd0/cả_nhà_cho_em_hỏi_em_là_người_mới_muốn_học_về_ae/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-04-13T05:34:10+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1sk1x1y</id>
+    <title>Tình hình việc làm hiện tại</title>
+    <updated>2026-04-13T05:41:32+00:00</updated>
+    <author>
+      <name>/u/Still_Limit_6998</name>
+      <uri>https://old.reddit.com/user/Still_Limit_6998</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Ae cho hỏi tình hình thất nghiệp và lay off có tệ như trên các báo và diễn đàn thời điểm hiện tại ko. Dạo một vòng mà thấy nhiều tin tiêu cực quá 🥲&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Still_Limit_6998"&gt; /u/Still_Limit_6998 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sk1x1y/tình_hình_việc_làm_hiện_tại/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sk1x1y/tình_hình_việc_làm_hiện_tại/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1sk1x1y/tình_hình_việc_làm_hiện_tại/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-04-13T05:41:32+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1sk26y1</id>
+    <title>Có ai như này không… Đêm yên tĩnh, mà đầu thì không.</title>
+    <updated>2026-04-13T05:57:08+00:00</updated>
+    <author>
+      <name>/u/Forsaken-Engineer290</name>
+      <uri>https://old.reddit.com/user/Forsaken-Engineer290</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Nhiều lúc nằm im mà đầu cứ chạy lung tung, không tắt được.&lt;/p&gt; &lt;p&gt;Nghĩ đủ thứ… phải mở cái gì đó nghe mới ngủ được.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Forsaken-Engineer290"&gt; /u/Forsaken-Engineer290 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sk26y1/có_ai_như_này_không_đêm_yên_tĩnh_mà_đầu_thì_không/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sk26y1/có_ai_như_này_không_đêm_yên_tĩnh_mà_đầu_thì_không/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1sk26y1/có_ai_như_này_không_đêm_yên_tĩnh_mà_đầu_thì_không/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-04-13T05:57:08+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1sk2b50</id>
+    <title>Kiếm bạn trò chuyện</title>
+    <updated>2026-04-13T06:03:32+00:00</updated>
+    <author>
+      <name>/u/0_n14</name>
+      <uri>https://old.reddit.com/user/0_n14</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Dạo này mình thấy gr có nhiều bài tìm bạn nói chuyện quá nên cũng muốn bon chen. Mình là nữ, chạc tuổi teen, bản thân cũng có khá nhiều trải nghiệm đặc biệt nên nếu không đặt nặng tuổi tác thì chắc có thể thành một người mà bạn tin tưởng được. Thiết nghĩ ai cũng cần một người xa lạ- một người không biết gì về mình, và mình cũng thế- người mà cả hai có thể trút lòng cùng nhau, vì mình nhận thấy thế giới càng kết nối thì con người càng cô đơn, nhỉ ;-&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/0_n14"&gt; /u/0_n14 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sk2b50/kiếm_bạn_trò_chuyện/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sk2b50/kiếm_bạn_trò_chuyện/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1sk2b50/kiếm_bạn_trò_chuyện/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-04-13T06:03:32+00:00</published>
   </entry>
   <entry>
     <id>t3_1sj67sn</id>
@@ -294,17 +255,30 @@
     <published>2026-04-12T13:20:25+00:00</published>
   </entry>
   <entry>
-    <id>t3_1sjzdfq</id>
-    <title>sáng thứ 2 u sầu</title>
-    <updated>2026-04-13T03:29:31+00:00</updated>
+    <id>t3_1sk1mmq</id>
+    <title>Kết bạn làm quen</title>
+    <updated>2026-04-13T05:25:23+00:00</updated>
     <author>
-      <name>/u/Any_Poem3556</name>
-      <uri>https://old.reddit.com/user/Any_Poem3556</uri>
+      <name>/u/lonelymeemeee</name>
+      <uri>https://old.reddit.com/user/lonelymeemeee</uri>
     </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1sjzdfq/sáng_thứ_2_u_sầu/"&gt; &lt;img alt="sáng thứ 2 u sầu" src="https://preview.redd.it/2ujxwwf2nvug1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=0a2022ec539293bea95d0c5bbb0ae86aefcccba7" title="sáng thứ 2 u sầu" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Sáng thứ 2 đang hứng khởi cho 1 tuần mới năng động thì nhận được tin nhắn gái nhắn vậy mà lòng rơi 1 nhịp. Tôi cũng chỉ biết rep Oke em như 1 Vozer nào đó đã dạy mà lòng chưa thấy nguôi. Chắc tối phải làm lon bia như thuốc giải&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Any_Poem3556"&gt; /u/Any_Poem3556 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/2ujxwwf2nvug1.png"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sjzdfq/sáng_thứ_2_u_sầu/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1sjzdfq/sáng_thứ_2_u_sầu/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình 23F lâu nay không chạm cỏ nhiều, đang trong quá trình vượt qua gia đoạn hậu chia tay khủng hoảng.&lt;/p&gt; &lt;p&gt;Mình nhận ra là từ rất lâu rồi mình không có bạn mới, cũng không có đi chơi hay gặp gỡ con người nhiều (ngoại trừ đi làm) nên là yeah.. mình muốn tìm bạn 😅&lt;/p&gt; &lt;p&gt;Mình là người khá rụt rè và tự ti nên mình muốn kết bạn với những bạn nữ tự tin khoe cá tính và support chị em các kiểu í. Nói thật là mình cũng muốn có vài bạn nữ cùng làm mấy chuyện con gái như makeup, chụp ảnh, đi chơi này nọ.. &lt;/p&gt; &lt;p&gt;Bạn nam hoặc nữ nào chơi game thì có thể quăng link server discord vào đây nhó :3 &lt;/p&gt; &lt;p&gt;Mình chơi game Valorant, CS2 và OverWatch (chơi dở).&lt;/p&gt; &lt;p&gt;Mình đang làm trong ngành marketing mảng content, sắp tới học chuyển sang làm UX UI design.&lt;/p&gt; &lt;p&gt;Mình đang tập chơi đàn guitar điện, chơi cầu lông, nuôi chó, thích xem meme mèo, dark meme,..&lt;/p&gt; &lt;p&gt;Bạn nào cần thêm bạn bè thì có thể làm quen với tui nhó. Qua lễ là tui cũng rảnh í hehe&lt;/p&gt; &lt;p&gt;&lt;a href="https://discord.gg/xdcseJ7T7j"&gt;https://discord.gg/xdcseJ7T7j&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/lonelymeemeee"&gt; /u/lonelymeemeee &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sk1mmq/kết_bạn_làm_quen/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sk1mmq/kết_bạn_làm_quen/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1sk1mmq/kết_bạn_làm_quen/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-13T03:29:31+00:00</published>
+    <published>2026-04-13T05:25:23+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1sk24ch</id>
+    <title>Chuyện tình yêu</title>
+    <updated>2026-04-13T05:52:50+00:00</updated>
+    <author>
+      <name>/u/Impressive_Stand_666</name>
+      <uri>https://old.reddit.com/user/Impressive_Stand_666</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;T thắc mắc chúng m bảo nam nữ bình đẳng sao con gái thích nó thả tym nhưng lại muốn con trai phải là người chủ động nhắn tin :))&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Impressive_Stand_666"&gt; /u/Impressive_Stand_666 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sk24ch/chuyện_tình_yêu/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sk24ch/chuyện_tình_yêu/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1sk24ch/chuyện_tình_yêu/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-04-13T05:52:50+00:00</published>
   </entry>
   <entry>
     <id>t3_1sjx0pj</id>
@@ -320,6 +294,19 @@
     <published>2026-04-13T01:39:19+00:00</published>
   </entry>
   <entry>
+    <id>t3_1sjzoww</id>
+    <title>Có ai ở đây không quen biết người cờ bạc</title>
+    <updated>2026-04-13T03:45:09+00:00</updated>
+    <author>
+      <name>/u/binifyy</name>
+      <uri>https://old.reddit.com/user/binifyy</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Thắc mắc để thấy xã hội này có chán đến vậy không? Có ai ở đây không có người thân, họ hàng hay bạn bè thân nghiện cờ bạc không. Ở mức không còn công ăn việc làm, nợ nần ngập đầu, đánh mất bản thân liên đới gia đình,... &lt;/p&gt; &lt;p&gt;Biết là ở cuộc sống người nào cũng có nỗi khổ riêng, mình đã mất người thân vì bệnh tật giờ sắp mất một người nữa vì cờ bạc thật khó đối diện. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/binifyy"&gt; /u/binifyy &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sjzoww/có_ai_ở_đây_không_quen_biết_người_cờ_bạc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sjzoww/có_ai_ở_đây_không_quen_biết_người_cờ_bạc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1sjzoww/có_ai_ở_đây_không_quen_biết_người_cờ_bạc/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-04-13T03:45:09+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1sjxlmj</id>
     <title>Bị các bạn nam làm phiền</title>
     <updated>2026-04-13T02:06:14+00:00</updated>
@@ -331,5 +318,18 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1sjxlmj/bị_các_bạn_nam_làm_phiền/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-04-13T02:06:14+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1sjzdfq</id>
+    <title>sáng thứ 2 u sầu</title>
+    <updated>2026-04-13T03:29:31+00:00</updated>
+    <author>
+      <name>/u/Any_Poem3556</name>
+      <uri>https://old.reddit.com/user/Any_Poem3556</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1sjzdfq/sáng_thứ_2_u_sầu/"&gt; &lt;img alt="sáng thứ 2 u sầu" src="https://preview.redd.it/2ujxwwf2nvug1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=0a2022ec539293bea95d0c5bbb0ae86aefcccba7" title="sáng thứ 2 u sầu" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Sáng thứ 2 đang hứng khởi cho 1 tuần mới năng động thì nhận được tin nhắn gái nhắn vậy mà lòng rơi 1 nhịp. Tôi cũng chỉ biết rep Oke em như 1 Vozer nào đó đã dạy mà lòng chưa thấy nguôi. Chắc tối phải làm lon bia như thuốc giải&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Any_Poem3556"&gt; /u/Any_Poem3556 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/2ujxwwf2nvug1.png"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sjzdfq/sáng_thứ_2_u_sầu/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1sjzdfq/sáng_thứ_2_u_sầu/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-04-13T03:29:31+00:00</published>
   </entry>
 </feed>
