@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-04-14T17:33:39+00:00</updated>
+  <updated>2026-04-14T18:46:59+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1sl67x3</id>
-    <title>Đi làm tích lũy được tầm 200tr,thì nên đầu tư,hay làm gì thì hợp lý vậy các bác,e tính thử buôn rau,củ,quả thì có ổn không nhỉ</title>
-    <updated>2026-04-14T11:42:47+00:00</updated>
-    <author>
-      <name>/u/maruhan123</name>
-      <uri>https://old.reddit.com/user/maruhan123</uri>
-    </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/maruhan123"&gt; /u/maruhan123 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sl67x3/đi_làm_tích_lũy_được_tầm_200trthì_nên_đầu_tưhay/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sl67x3/đi_làm_tích_lũy_được_tầm_200trthì_nên_đầu_tưhay/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1sl67x3/đi_làm_tích_lũy_được_tầm_200trthì_nên_đầu_tưhay/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-14T11:42:47+00:00</published>
-  </entry>
   <entry>
     <id>t3_1slddga</id>
     <title>Chuyện tình day dứt</title>
@@ -112,6 +99,19 @@
     <published>2026-04-14T15:11:28+00:00</published>
   </entry>
   <entry>
+    <id>t3_1slg1d5</id>
+    <title>cho em xin lời khuyên về ngành điện tử viễn thông ở Đức ạ</title>
+    <updated>2026-04-14T17:50:04+00:00</updated>
+    <author>
+      <name>/u/Future_Director_8249</name>
+      <uri>https://old.reddit.com/user/Future_Director_8249</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;em năm nay 2k8, sắp tới em phải chọn nguyện vọng, em thấy h học đtvt làm trong nước có khó không ạ? em thấy bên Đức dễ thở hơn, em định học ngành et-luh bên hust, thì là tầm 6 năm nữa em ra trường thì có ổn không nếu xin việc và làm bên Đức lương ntn hay là ở Việt Nam ạ hoặc là ngành nào khác đtvt có việc ổn định trong khối kĩ thuật ạ? em xin chỉ giáo ạ!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Future_Director_8249"&gt; /u/Future_Director_8249 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1slg1d5/cho_em_xin_lời_khuyên_về_ngành_điện_tử_viễn_thông/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1slg1d5/cho_em_xin_lời_khuyên_về_ngành_điện_tử_viễn_thông/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1slg1d5/cho_em_xin_lời_khuyên_về_ngành_điện_tử_viễn_thông/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-04-14T17:50:04+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1sl2ljq</id>
     <title>LÀM NGHỀ TƯ VẤN GIA SẢN.</title>
     <updated>2026-04-14T08:26:30+00:00</updated>
@@ -151,19 +151,6 @@
     <published>2026-04-14T14:08:20+00:00</published>
   </entry>
   <entry>
-    <id>t3_1sl2ctf</id>
-    <title>Mức lương backend golang với +3 Yoe</title>
-    <updated>2026-04-14T08:11:45+00:00</updated>
-    <author>
-      <name>/u/Independent-Peak-875</name>
-      <uri>https://old.reddit.com/user/Independent-Peak-875</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các anh chị cho em tham khảo mức lương của golang backend cho người có hơn 3 năm kn với ạ. Em muốn tìm hiểu thị trường để có thể đưa ra một con số hợp lý cho hr với ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Independent-Peak-875"&gt; /u/Independent-Peak-875 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sl2ctf/mức_lương_backend_golang_với_3_yoe/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sl2ctf/mức_lương_backend_golang_với_3_yoe/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1sl2ctf/mức_lương_backend_golang_với_3_yoe/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-14T08:11:45+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1skx4ge</id>
     <title>???</title>
     <updated>2026-04-14T03:26:48+00:00</updated>
@@ -175,19 +162,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1skx4ge/_/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-04-14T03:26:48+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1sleubo</id>
-    <title>breakup reason.</title>
-    <updated>2026-04-14T17:08:24+00:00</updated>
-    <author>
-      <name>/u/happylife279</name>
-      <uri>https://old.reddit.com/user/happylife279</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;gey hello mng, mng nghĩ lý do chia tay gì khiến mọi ng GHÉT ng đó và LUỴ ng đó nhiều nhất vậy? *trừ cắm sừng ra vì cái đó ai cũng hận thù cả. thanks everyone have a goodnight&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/happylife279"&gt; /u/happylife279 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sleubo/breakup_reason/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sleubo/breakup_reason/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1sleubo/breakup_reason/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-14T17:08:24+00:00</published>
   </entry>
   <entry>
     <id>t3_1slaccs</id>
@@ -203,6 +177,19 @@
     <published>2026-04-14T14:28:50+00:00</published>
   </entry>
   <entry>
+    <id>t3_1sl2ctf</id>
+    <title>Mức lương backend golang với +3 Yoe</title>
+    <updated>2026-04-14T08:11:45+00:00</updated>
+    <author>
+      <name>/u/Independent-Peak-875</name>
+      <uri>https://old.reddit.com/user/Independent-Peak-875</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các anh chị cho em tham khảo mức lương của golang backend cho người có hơn 3 năm kn với ạ. Em muốn tìm hiểu thị trường để có thể đưa ra một con số hợp lý cho hr với ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Independent-Peak-875"&gt; /u/Independent-Peak-875 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sl2ctf/mức_lương_backend_golang_với_3_yoe/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sl2ctf/mức_lương_backend_golang_với_3_yoe/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1sl2ctf/mức_lương_backend_golang_với_3_yoe/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-04-14T08:11:45+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1skxzbv</id>
     <title>Post tri ân cho vozforum</title>
     <updated>2026-04-14T04:08:11+00:00</updated>
@@ -214,19 +201,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1skxzbv/post_tri_ân_cho_vozforum/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-04-14T04:08:11+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1sle21b</id>
-    <title>Câu chuyện HẠN HÁN job IT ở các thành phố nhỏ và xin lời khuyên từ ace</title>
-    <updated>2026-04-14T16:41:04+00:00</updated>
-    <author>
-      <name>/u/Sea_Aardvark4164</name>
-      <uri>https://old.reddit.com/user/Sea_Aardvark4164</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Xin chào mọi người, em là một người con ở 1 thành phố biển xinh đẹp. Hiện tại em đã 24 tuổi và đã tốt nghiệp cử nhân CNTT tại 1 trường đại học ở quê nhà được 2 năm.&lt;/p&gt; &lt;p&gt;Chuyện là sau khi tốt nghiệp thì em có “may mắn” hơn vài bạn chung khoá là liền có ngay job đầu tay ở một công ty công nghệ với lương khởi điểm 6tr/tháng (gọi là khởi điểm vì về sau có giảm). Sau một năm cày cuốc làm việc ở đây thì em xin nghỉ với vốn luyến tiếp thu được là 1 năm kinh nghiệm ở cả frontend lẫn backend và đặt biệt hơn hết là cục nợ lương nửa năm. (Hiện tại đã nhận đủ sau thêm hơn nửa năm nghỉ việc). Mọi người có thể thắc mắc rằng tại sao mùi thối thế mà em vẫn làm thì câu trả lời đây là best option mà em có thể có. Và đến hiện tại em vẫn chưa tìm được cv IT nào nữa. &lt;/p&gt; &lt;p&gt;Và lý do em không thể bỏ quê lên phố vì em là con một trong một gia đình có bố mẹ gần 70t và còn có tiền sử bị tai biến.&lt;/p&gt; &lt;p&gt;Em thấy mọi người kiếm job remote khá đơn giản để có thể bỏ phố về quê, nhưng nếu với một người chưa lên phố, không có mqh thì phải làm ntn ạ? Và em có nên đổ sông đổ biển 4 năm chăm chỉ học hành để làm một việc khác không? Em đang khá vỡ mộng ngành này, cảm ơn lời khuyên của mọi người.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Sea_Aardvark4164"&gt; /u/Sea_Aardvark4164 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sle21b/câu_chuyện_hạn_hán_job_it_ở_các_thành_phố_nhỏ_và/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sle21b/câu_chuyện_hạn_hán_job_it_ở_các_thành_phố_nhỏ_và/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1sle21b/câu_chuyện_hạn_hán_job_it_ở_các_thành_phố_nhỏ_và/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-14T16:41:04+00:00</published>
   </entry>
   <entry>
     <id>t3_1slahor</id>
@@ -253,6 +227,32 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1sl4yee/xin_tư_vấn_mức_lương_it/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-04-14T10:39:27+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1sleubo</id>
+    <title>breakup reason.</title>
+    <updated>2026-04-14T17:08:24+00:00</updated>
+    <author>
+      <name>/u/happylife279</name>
+      <uri>https://old.reddit.com/user/happylife279</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;gey hello mng, mng nghĩ lý do chia tay gì khiến mọi ng GHÉT ng đó và LUỴ ng đó nhiều nhất vậy? *trừ cắm sừng ra vì cái đó ai cũng hận thù cả. thanks everyone have a goodnight&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/happylife279"&gt; /u/happylife279 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sleubo/breakup_reason/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sleubo/breakup_reason/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1sleubo/breakup_reason/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-04-14T17:08:24+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1sle21b</id>
+    <title>Câu chuyện HẠN HÁN job IT ở các thành phố nhỏ và xin lời khuyên từ ace</title>
+    <updated>2026-04-14T16:41:04+00:00</updated>
+    <author>
+      <name>/u/Sea_Aardvark4164</name>
+      <uri>https://old.reddit.com/user/Sea_Aardvark4164</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Xin chào mọi người, em là một người con ở 1 thành phố biển xinh đẹp. Hiện tại em đã 24 tuổi và đã tốt nghiệp cử nhân CNTT tại 1 trường đại học ở quê nhà được 2 năm.&lt;/p&gt; &lt;p&gt;Chuyện là sau khi tốt nghiệp thì em có “may mắn” hơn vài bạn chung khoá là liền có ngay job đầu tay ở một công ty công nghệ với lương khởi điểm 6tr/tháng (gọi là khởi điểm vì về sau có giảm). Sau một năm cày cuốc làm việc ở đây thì em xin nghỉ với vốn luyến tiếp thu được là 1 năm kinh nghiệm ở cả frontend lẫn backend và đặt biệt hơn hết là cục nợ lương nửa năm. (Hiện tại đã nhận đủ sau thêm hơn nửa năm nghỉ việc). Mọi người có thể thắc mắc rằng tại sao mùi thối thế mà em vẫn làm thì câu trả lời đây là best option mà em có thể có. Và đến hiện tại em vẫn chưa tìm được cv IT nào nữa. &lt;/p&gt; &lt;p&gt;Và lý do em không thể bỏ quê lên phố vì em là con một trong một gia đình có bố mẹ gần 70t và còn có tiền sử bị tai biến.&lt;/p&gt; &lt;p&gt;Em thấy mọi người kiếm job remote khá đơn giản để có thể bỏ phố về quê, nhưng nếu với một người chưa lên phố, không có mqh thì phải làm ntn ạ? Và em có nên đổ sông đổ biển 4 năm chăm chỉ học hành để làm một việc khác không? Em đang khá vỡ mộng ngành này, cảm ơn lời khuyên của mọi người.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Sea_Aardvark4164"&gt; /u/Sea_Aardvark4164 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sle21b/câu_chuyện_hạn_hán_job_it_ở_các_thành_phố_nhỏ_và/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sle21b/câu_chuyện_hạn_hán_job_it_ở_các_thành_phố_nhỏ_và/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1sle21b/câu_chuyện_hạn_hán_job_it_ở_các_thành_phố_nhỏ_và/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-04-14T16:41:04+00:00</published>
   </entry>
   <entry>
     <id>t3_1sl0d83</id>
