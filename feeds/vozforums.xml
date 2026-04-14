@@ -2,75 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-04-14T10:40:03+00:00</updated>
+  <updated>2026-04-14T11:42:22+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
   <entry>
-    <id>t3_1sl3sbs</id>
-    <title>Tuyển dụng - 01 Chuyên Viên Phân Tích Nghiệp Vụ (Business Analyst) – MES/ERP &amp; Nhà Máy Thông Minh</title>
-    <updated>2026-04-14T09:35:50+00:00</updated>
+    <id>t3_1sl5gak</id>
+    <title>Câu chuyện chia tay đầu năm</title>
+    <updated>2026-04-14T11:04:51+00:00</updated>
     <author>
-      <name>/u/doccobai</name>
-      <uri>https://old.reddit.com/user/doccobai</uri>
+      <name>/u/AccomplishedLink2836</name>
+      <uri>https://old.reddit.com/user/AccomplishedLink2836</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;strong&gt;Rostek – Hà Nội&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Toàn thời gian | Gói lương cạnh tranh&lt;/strong&gt;&lt;/p&gt; &lt;h1&gt;Chúng tôi là ai&lt;/h1&gt; &lt;p&gt;Rostek là công ty tiên phong tại Việt Nam chuyên phát triển &lt;strong&gt;Robot Di Động Tự Hành (AMR)&lt;/strong&gt;, hệ thống tự động hóa intralogistics và giải pháp &lt;strong&gt;nhà máy thông minh&lt;/strong&gt;. Chúng tôi cung cấp các nền tảng phần mềm cốt lõi như &lt;strong&gt;MESlink&lt;/strong&gt; – hệ thống giám sát sản xuất thời gian thực, thu thập dữ liệu máy móc, tính toán OEE và phân tích hiệu suất – cùng với &lt;strong&gt;MES/ERP tùy chỉnh&lt;/strong&gt;, tích hợp sâu với IoT, Robotics và tự động hóa.&lt;/p&gt; &lt;p&gt;Từ việc kết nối máy móc legacy với hệ thống số, quản lý quy trình sản xuất, traceability, đến tối ưu hóa luồng vật liệu bằng AMR, robot cánh tay, băng chuyền, thang nâng và shuttle – Rostek đang đồng hành cùng các nhà máy Việt Nam thực hiện chuyển đổi số thực chất và nâng cao năng suất bền vững.&lt;/p&gt; &lt;p&gt;Nếu bạn đam mê vai trò cầu nối giữa nhu cầu nghiệp vụ thực tế của nhà máy và giải pháp công nghệ hiện đại, đây chính là môi trường để bạn phát huy tối đa khả năng phân tích và tư vấn giải pháp.&lt;/p&gt; &lt;h1&gt;Tác động của bạn&lt;/h1&gt; &lt;p&gt;Bạn sẽ là chuyên viên phân tích nghiệp vụ then chốt, giúp hiểu rõ quy trình sản xuất của khách hàng, chuyển hóa thành yêu cầu chức năng cụ thể cho hệ thống &lt;strong&gt;MESlink&lt;/strong&gt; và &lt;strong&gt;MES/ERP&lt;/strong&gt;. Công việc của bạn đảm bảo mọi giải pháp phần mềm đều phù hợp thực tế, mang lại giá trị rõ ràng về hiệu quả vận hành và năng suất cho khách hàng.&lt;/p&gt; &lt;h1&gt;Trách nhiệm chính&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;Thu thập, phân tích và làm rõ &lt;strong&gt;yêu cầu nghiệp vụ&lt;/strong&gt; từ khách hàng trong lĩnh vực sản xuất, quản lý nhà máy và tự động hóa.&lt;/li&gt; &lt;li&gt;Phân tích quy trình hiện tại (As-Is), thiết kế quy trình tối ưu (To-Be) cho hệ thống &lt;strong&gt;MES/ERP&lt;/strong&gt;.&lt;/li&gt; &lt;li&gt;Thiết kế chi tiết chức năng cho &lt;strong&gt;MESlink&lt;/strong&gt; (giám sát thời gian thực, OEE, traceability, tích hợp IoT) và các module &lt;strong&gt;MES/ERP&lt;/strong&gt; (sản xuất, kho vận, chất lượng, lập kế hoạch…).&lt;/li&gt; &lt;li&gt;Lập tài liệu yêu cầu chức năng (FRS), đặc tả yêu cầu hệ thống (SRS), user stories, acceptance criteria và wireframe nếu cần.&lt;/li&gt; &lt;li&gt;Hỗ trợ đội ngũ phát triển (React + Node.js, Python, Integration team) hiểu rõ yêu cầu nghiệp vụ và kiểm tra tính phù hợp của sản phẩm.&lt;/li&gt; &lt;li&gt;Tham gia demo giải pháp, workshop với khách hàng, thu thập feedback và quản lý thay đổi yêu cầu.&lt;/li&gt; &lt;li&gt;Phối hợp chặt chẽ với các bộ phận Sales, Project Manager, Technical và Khách hàng để đảm bảo dự án đúng phạm vi, thời gian và mang lại giá trị cao nhất.&lt;/li&gt; &lt;li&gt;Nghiên cứu xu hướng MES/ERP, Smart Factory, Industry 4.0 và đề xuất cải tiến sản phẩm liên tục.&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;Yêu cầu ứng viên&lt;/h1&gt; &lt;p&gt;&lt;strong&gt;Yêu cầu bắt buộc:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Tốt nghiệp Đại học chuyên ngành Quản trị Kinh doanh, Công nghệ Thông tin, Kỹ thuật Công nghiệp, Quản lý Sản xuất, Tự động hóa hoặc lĩnh vực liên quan.&lt;/li&gt; &lt;li&gt;Ít nhất &lt;strong&gt;2–3 năm&lt;/strong&gt; kinh nghiệm làm &lt;strong&gt;Business Analyst / Chuyên viên Phân tích Nghiệp vụ&lt;/strong&gt;, ưu tiên trong lĩnh vực MES, ERP hoặc giải pháp phần mềm cho sản xuất.&lt;/li&gt; &lt;li&gt;Khả năng phân tích và mô hình hóa quy trình kinh doanh/sản xuất tốt.&lt;/li&gt; &lt;li&gt;Kỹ năng giao tiếp xuất sắc, có thể làm việc hiệu quả với cả khách hàng nghiệp vụ lẫn đội ngũ kỹ thuật.&lt;/li&gt; &lt;li&gt;Thành thạo việc viết tài liệu yêu cầu chức năng và sử dụng công cụ như Jira, Confluence, &lt;a href="http://draw.io/"&gt;Draw.io&lt;/a&gt;, Miro, Figma.&lt;/li&gt; &lt;li&gt;Tiếng Anh đọc hiểu và giao tiếp tốt (tiếng Anh chuyên ngành là lợi thế).&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Lợi thế lớn:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Kinh nghiệm thực tế với hệ thống &lt;strong&gt;MES/ERP&lt;/strong&gt; (Odoo, SAP, Oracle hoặc các MES khác).&lt;/li&gt; &lt;li&gt;Hiểu biết về quy trình sản xuất nhà máy, OEE, traceability, IoT và tích hợp robotics/AMR.&lt;/li&gt; &lt;li&gt;Có kiến thức cơ bản về công nghệ (API, database, dashboard thời gian thực, OPC-UA, Modbus…).&lt;/li&gt; &lt;li&gt;Từng tham gia triển khai dự án chuyển đổi số hoặc tự động hóa tại nhà máy sản xuất.&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;Lý do bạn sẽ yêu thích làm việc tại Rostek&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;Mức lương phù hợp với năng lực của bạn: 15-25 triệu VND.&lt;/li&gt; &lt;li&gt;Tham gia trực tiếp vào các dự án &lt;strong&gt;MES/ERP&lt;/strong&gt; kết hợp robotics và tự động hóa – lĩnh vực công nghệ cao đang phát triển mạnh tại Việt Nam.&lt;/li&gt; &lt;li&gt;Công việc có tác động thực tế: giúp các nhà máy nâng cao năng suất, giảm lãng phí và chuyển đổi số thành công.&lt;/li&gt; &lt;li&gt;Môi trường năng động, đội ngũ trẻ, chuyên môn cao, khuyến khích sáng tạo và tinh thần làm chủ.&lt;/li&gt; &lt;li&gt;Hỗ trợ ăn trưa, bảo hiểm xã hội đầy đủ.&lt;/li&gt; &lt;li&gt;Cơ hội học hỏi sâu về Smart Factory, MESlink, Odoo và công nghệ tiên tiến trong ngành sản xuất.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Sẵn sàng trở thành cầu nối giữa nghiệp vụ nhà máy và công nghệ thông minh?&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Gửi CV của bạn về: [&lt;a href="mailto:tungnt@rostek.com.vn"&gt;tungnt@rostek.com.vn&lt;/a&gt;](mailto:&lt;a href="mailto:tungnt@rostek.com.vn"&gt;tungnt@rostek.com.vn&lt;/a&gt;)&lt;/p&gt; &lt;p&gt;Tiêu đề email: &lt;em&gt;Chuyên Viên Phân Tích Nghiệp Vụ – [Tên bạn]&lt;/em&gt;&lt;/p&gt; &lt;p&gt;Rostek | &lt;a href="https://rostek.com.vn/"&gt;https://rostek.com.vn&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Hà Nội, Việt Nam&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/doccobai"&gt; /u/doccobai &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sl3sbs/tuyển_dụng_01_chuyên_viên_phân_tích_nghiệp_vụ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sl3sbs/tuyển_dụng_01_chuyên_viên_phân_tích_nghiệp_vụ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1sl3sbs/tuyển_dụng_01_chuyên_viên_phân_tích_nghiệp_vụ/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, chuyện là đầu năm nay mình quyết định chia tay nyc sau hơn 1 năm yêu nhau. Lúc đó mình thấy 2 đứa cãi nhau quá nhiều, cứ hở ra là em đòi chia tay, nhưng vì thương mình cố gắng tiếp tục. Nhưng đến lần này, em đòi chia tay và mình đã làm thật. Em cũng níu kéo dữ lắm, bảo là em nói vậy chứ không hề muốn, nhưng mình dứt khoát không chấp nhận. Một phần vì lời chia tay thôi, phần lớn là do mình đã đánh giá cuộc tình qua nhiều khía cạnh, từ đời sống, tinh thần, công việc, …. Lúc đấy mình nghĩ chia tay là tốt cho cả 2.&lt;/p&gt; &lt;p&gt;Quyết định có phần đúng, khi cuộc sống mình dần ổn định, học tập, công việc đều phát triển nhanh vì mình tập trung toàn bộ vào đó. Có điều từ lúc chia tay đến bây h, mình không khi nào ngừng nghĩ về em, sợ em công việc ko ổn định, sợ em không thoát khỏi được chuyện này mà cuộc sống đi xuống, rồi sợ em không làm chủ được các lựa chọn của đời em, bởi vì trước đây mình luôn là người giúp em vượt qua những chuyện rắc rối trong cuộc sống. &lt;/p&gt; &lt;p&gt;Mình không nghĩ là quyết định của mình sai, nhưng đầu óc vẫn lo lắng, bức bối vô cùng, dù sao đi nữa cũng đã từng&lt;/p&gt; &lt;p&gt;Theo mọi người, mình phải suy nghĩ thế nào để thoát ra khỏi tình trạng này bây giờ 🥲&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/AccomplishedLink2836"&gt; /u/AccomplishedLink2836 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sl5gak/câu_chuyện_chia_tay_đầu_năm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sl5gak/câu_chuyện_chia_tay_đầu_năm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1sl5gak/câu_chuyện_chia_tay_đầu_năm/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-14T09:35:50+00:00</published>
+    <published>2026-04-14T11:04:51+00:00</published>
   </entry>
   <entry>
-    <id>t3_1sl3smm</id>
-    <title>Tuyển dụng - 01 Quản Lý Dự Án (Project Manager) – MES/ERP &amp; Smart Factory</title>
-    <updated>2026-04-14T09:36:17+00:00</updated>
+    <id>t3_1sl5iza</id>
+    <title>Cây xăng</title>
+    <updated>2026-04-14T11:08:35+00:00</updated>
     <author>
-      <name>/u/doccobai</name>
-      <uri>https://old.reddit.com/user/doccobai</uri>
+      <name>/u/Flaky-Proposal4349</name>
+      <uri>https://old.reddit.com/user/Flaky-Proposal4349</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;strong&gt;Rostek – Hà Nội&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Toàn thời gian | Gói lương cạnh tranh&lt;/strong&gt;&lt;/p&gt; &lt;h1&gt;Chúng tôi là ai&lt;/h1&gt; &lt;p&gt;Rostek là công ty tiên phong tại Việt Nam chuyên phát triển &lt;strong&gt;Robot Di Động Tự Hành (AMR)&lt;/strong&gt;, hệ thống tự động hóa intralogistics và giải pháp &lt;strong&gt;nhà máy thông minh&lt;/strong&gt;. Chúng tôi cung cấp nền tảng phần mềm cốt lõi &lt;strong&gt;MESlink&lt;/strong&gt; – hệ thống giám sát sản xuất thời gian thực, thu thập dữ liệu máy móc, tính toán OEE và phân tích hiệu suất – cùng với các giải pháp &lt;strong&gt;MES/ERP&lt;/strong&gt; tùy chỉnh, tích hợp sâu với Robotics, IoT và tự động hóa phần cứng.&lt;/p&gt; &lt;p&gt;Từ việc triển khai đội robot AMR, robot cánh tay, băng chuyền tự động, thang nâng, shuttle đến xây dựng hệ thống MES/ERP toàn diện, Rostek đang đồng hành cùng các nhà máy sản xuất Việt Nam thực hiện chuyển đổi số thực chất, nâng cao năng suất và tối ưu chi phí vận hành.&lt;/p&gt; &lt;p&gt;Nếu bạn đam mê quản lý dự án công nghệ, thích dẫn dắt các dự án phức tạp từ khâu phân tích nghiệp vụ đến triển khai thực tế trên sàn nhà máy, đây chính là cơ hội để bạn đóng góp vào sự phát triển của Industry 4.0 tại Việt Nam.&lt;/p&gt; &lt;h1&gt;Tác động của bạn&lt;/h1&gt; &lt;p&gt;Bạn sẽ là người điều phối và chịu trách nhiệm toàn diện cho các dự án &lt;strong&gt;MES/ERP &amp;amp; Smart Factory&lt;/strong&gt;, đảm bảo dự án được triển khai đúng tiến độ, chất lượng, ngân sách và mang lại giá trị tối đa cho khách hàng. Công việc của bạn giúp khách hàng chuyển đổi từ sản xuất truyền thống sang nhà máy thông minh một cách suôn sẻ và hiệu quả.&lt;/p&gt; &lt;h1&gt;Trách nhiệm chính&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;Lập kế hoạch, quản lý và giám sát toàn bộ vòng đời dự án (từ khởi xướng đến bàn giao và hỗ trợ sau triển khai).&lt;/li&gt; &lt;li&gt;Phối hợp chặt chẽ với khách hàng, đội ngũ Business Analyst, Phát triển phần mềm (React, Node.js, Python), Integration và Technical để đảm bảo yêu cầu được thực hiện đúng.&lt;/li&gt; &lt;li&gt;Quản lý phạm vi dự án, lập timeline, phân bổ nguồn lực, theo dõi tiến độ và kiểm soát rủi ro.&lt;/li&gt; &lt;li&gt;Giám sát ngân sách dự án, tối ưu chi phí và báo cáo định kỳ cho Ban lãnh đạo và khách hàng.&lt;/li&gt; &lt;li&gt;Tổ chức các buổi họp dự án, workshop yêu cầu, demo giải pháp và đào tạo sử dụng hệ thống cho khách hàng.&lt;/li&gt; &lt;li&gt;Quản lý thay đổi yêu cầu (change request) và đảm bảo tính nhất quán giữa yêu cầu nghiệp vụ với giải pháp kỹ thuật.&lt;/li&gt; &lt;li&gt;Phối hợp với đội ngũ khi triển khai hệ thống MES/ERP và tích hợp robotics, IoT tại nhà máy khách hàng.&lt;/li&gt; &lt;li&gt;Đảm bảo chất lượng dự án thông qua kiểm tra, kiểm soát và áp dụng các quy trình quản lý dự án chuyên nghiệp (Agile/Scrum hoặc kết hợp).&lt;/li&gt; &lt;li&gt;Liên tục cải tiến quy trình quản lý dự án nội bộ dựa trên bài học kinh nghiệm từ các dự án thực tế.&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;Yêu cầu ứng viên&lt;/h1&gt; &lt;p&gt;&lt;strong&gt;Yêu cầu bắt buộc:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Tốt nghiệp Đại học chuyên ngành Quản trị Kinh doanh, Công nghệ Thông tin, Quản lý Dự Án, Kỹ thuật Công nghiệp hoặc lĩnh vực liên quan.&lt;/li&gt; &lt;li&gt;Ít nhất &lt;strong&gt;3–5 năm&lt;/strong&gt; kinh nghiệm làm &lt;strong&gt;Project Manager&lt;/strong&gt;, ưu tiên trong lĩnh vực phần mềm doanh nghiệp, MES/ERP hoặc giải pháp tự động hóa cho sản xuất.&lt;/li&gt; &lt;li&gt;Kinh nghiệm quản lý dự án công nghệ phức tạp, có yếu tố tích hợp phần cứng/phần mềm (IoT, Robotics là lợi thế).&lt;/li&gt; &lt;li&gt;Thành thạo các phương pháp quản lý dự án (Agile, Scrum, PMP hoặc tương đương).&lt;/li&gt; &lt;li&gt;Kỹ năng giao tiếp, lãnh đạo và giải quyết vấn đề xuất sắc; có khả năng làm việc với nhiều bên liên quan.&lt;/li&gt; &lt;li&gt;Tiếng Anh giao tiếp và đọc tài liệu tốt.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Lợi thế lớn:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Kinh nghiệm triển khai hệ thống &lt;strong&gt;MES/ERP&lt;/strong&gt; hoặc các nền tảng giám sát sản xuất.&lt;/li&gt; &lt;li&gt;Hiểu biết về quy trình sản xuất nhà máy, tự động hóa, IoT và Robotics/AMR.&lt;/li&gt; &lt;li&gt;Đã từng quản lý dự án triển khai tại môi trường nhà máy sản xuất.&lt;/li&gt; &lt;li&gt;Thành thạo công cụ quản lý dự án: Jira, Confluence, Microsoft Project, Asana hoặc tương đương.&lt;/li&gt; &lt;li&gt;Chứng chỉ PMP, Scrum Master, hoặc các chứng chỉ quản lý dự án khác.&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;Lý do bạn sẽ yêu thích làm việc tại Rostek&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;Mức lương phù hợp với năng lực của bạn: 15-25 triệu VND.&lt;/li&gt; &lt;li&gt;Tham gia quản lý các dự án &lt;strong&gt;MES/ERP &amp;amp; Smart Factory&lt;/strong&gt; thực tế, kết hợp công nghệ cao với robotics – lĩnh vực đang tăng trưởng mạnh mẽ tại Việt Nam.&lt;/li&gt; &lt;li&gt;Công việc có tác động rõ ràng: giúp các nhà máy Việt Nam nâng cao năng suất và thực hiện chuyển đổi số thành công.&lt;/li&gt; &lt;li&gt;Môi trường năng động, đội ngũ trẻ trung, chuyên môn cao, khuyến khích sáng tạo và tinh thần trách nhiệm.&lt;/li&gt; &lt;li&gt;Văn phòng hiện đại tại Hà Nội.&lt;/li&gt; &lt;li&gt;Lương cạnh tranh, thưởng dự án, thưởng hiệu suất, bảo hiểm xã hội đầy đủ và các phúc lợi hấp dẫn.&lt;/li&gt; &lt;li&gt;Cơ hội phát triển sự nghiệp trong lĩnh vực công nghệ tiên tiến và Industry 4.0.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Sẵn sàng dẫn dắt các dự án nhà máy thông minh tương lai?&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Gửi CV của bạn về: [&lt;a href="mailto:tungnt@rostek.com.vn"&gt;tungnt@rostek.com.vn&lt;/a&gt;](mailto:&lt;a href="mailto:tungnt@rostek.com.vn"&gt;tungnt@rostek.com.vn&lt;/a&gt;)&lt;/p&gt; &lt;p&gt;Tiêu đề email: &lt;em&gt;Quản Lý Dự Án – [Tên bạn]&lt;/em&gt;&lt;/p&gt; &lt;p&gt;Rostek | &lt;a href="https://rostek.com.vn/"&gt;https://rostek.com.vn&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Hà Nội, Việt Nam&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/doccobai"&gt; /u/doccobai &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sl3smm/tuyển_dụng_01_quản_lý_dự_án_project_manager/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sl3smm/tuyển_dụng_01_quản_lý_dự_án_project_manager/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1sl3smm/tuyển_dụng_01_quản_lý_dự_án_project_manager/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Có cách nào tố cáo cây xăng tư nhân địa phương không mọi người. Chỗ mình cây xăng địa phương đớp quá ác con wave 100 đời 2011 đổ 50k hơn đáy bình tầm 1,5cm.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Flaky-Proposal4349"&gt; /u/Flaky-Proposal4349 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sl5iza/cây_xăng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sl5iza/cây_xăng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1sl5iza/cây_xăng/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-14T09:36:17+00:00</published>
+    <published>2026-04-14T11:08:35+00:00</published>
   </entry>
   <entry>
-    <id>t3_1sl3uja</id>
-    <title>Tìm bảo dưỡng đồng hồ rep ở HN</title>
-    <updated>2026-04-14T09:39:32+00:00</updated>
+    <id>t3_1sl5s2v</id>
+    <title>Thẻ cake freedom</title>
+    <updated>2026-04-14T11:21:28+00:00</updated>
     <author>
-      <name>/u/moonbyul92</name>
-      <uri>https://old.reddit.com/user/moonbyul92</uri>
+      <name>/u/soldier608</name>
+      <uri>https://old.reddit.com/user/soldier608</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Có ai chơi đồng hồ rep 1:1 mà có máy clone biết chỗ nào bảo dưỡng uy tín không chỉ em với!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/moonbyul92"&gt; /u/moonbyul92 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sl3uja/tìm_bảo_dưỡng_đồng_hồ_rep_ở_hn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sl3uja/tìm_bảo_dưỡng_đồng_hồ_rep_ở_hn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1sl3uja/tìm_bảo_dưỡng_đồng_hồ_rep_ở_hn/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác, e định mở 1 thẻ tín dụng để dùng mấy cái ưu đãi của nó, thấy thẻ cake này hoàn tiền khá ok. nhưng đọc thì thấy vụ huỷ thẻ bên này khá lằng nhằng, đa số case là chỉ đc tạm khóa thẻ hoặc có giấy xác nhận hủy &amp;amp; ko mất bên cic. các bác cho e hỏi là trong case này thì mình có mất phí thường niên ko. hay có ai hủy đc thẻ của cake này chưa ạ. với các bác có biết thẻ nào ok hơn ko giới thiệu e với. mục tiêu thì e dùng lấy hoàn tiền grab / shopee là chính. Do mới tập tành dùng nên cũng muốn tìm 1 thẻ an toàn ak&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/soldier608"&gt; /u/soldier608 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sl5s2v/thẻ_cake_freedom/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sl5s2v/thẻ_cake_freedom/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1sl5s2v/thẻ_cake_freedom/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-14T09:39:32+00:00</published>
+    <published>2026-04-14T11:21:28+00:00</published>
   </entry>
   <entry>
-    <id>t3_1sl4yee</id>
-    <title>Xin tư vấn mức lương IT</title>
-    <updated>2026-04-14T10:39:27+00:00</updated>
+    <id>t3_1sl5wu0</id>
+    <title>Hôm nay kỉ niệm 3 năm Xanh Sm thành lập, các ông chạy đời đầu có thấy pin bị chai chưa</title>
+    <updated>2026-04-14T11:27:56+00:00</updated>
     <author>
-      <name>/u/Purple_Coach3308</name>
-      <uri>https://old.reddit.com/user/Purple_Coach3308</uri>
+      <name>/u/RelativeRiver</name>
+      <uri>https://old.reddit.com/user/RelativeRiver</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình làm cho một cty outsource được hơn 6 năm&lt;/p&gt; &lt;p&gt;Techstack thì cũng xem như fullstack dev end-to-end&lt;/p&gt; &lt;p&gt;Mình làm web FE, BE, API&lt;/p&gt; &lt;p&gt;Biết code mobile RN, swift, java lười chưa muốn học, biết setup ci/cd automation&lt;/p&gt; &lt;p&gt;Devops thì cũng biết chút, aws, docker, monitor server&lt;/p&gt; &lt;p&gt;Cũng giữ vai trò leader. Hiện tại mức lương sau thuế cầm về đang mấp mé 35, bảo hiểm đóng mức cơ bản. Mn cho hỏi mức lương vậy có ổn không?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Purple_Coach3308"&gt; /u/Purple_Coach3308 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sl4yee/xin_tư_vấn_mức_lương_it/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sl4yee/xin_tư_vấn_mức_lương_it/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1sl4yee/xin_tư_vấn_mức_lương_it/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;3 năm về mức bao nhiêu phần trăm&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/RelativeRiver"&gt; /u/RelativeRiver &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sl5wu0/hôm_nay_kỉ_niệm_3_năm_xanh_sm_thành_lập_các_ông/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sl5wu0/hôm_nay_kỉ_niệm_3_năm_xanh_sm_thành_lập_các_ông/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1sl5wu0/hôm_nay_kỉ_niệm_3_năm_xanh_sm_thành_lập_các_ông/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-14T10:39:27+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1skha71</id>
-    <title>Ai thích người mập ko</title>
-    <updated>2026-04-13T17:13:15+00:00</updated>
-    <author>
-      <name>/u/Thuc_tran18</name>
-      <uri>https://old.reddit.com/user/Thuc_tran18</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tôi là con trai và tôi thích các bạn nữ mập mập, trên dưới bmi thừa cân 1 chút ấy tầm 25-26 bmi. Tôi chỉ muốn hỏi các ông có ông nào giống tôi ko thôi, vì tôi thấy rất ít người có gu như tôi, ở đây chỉ bàn luận ko bodyshaming nha&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Thuc_tran18"&gt; /u/Thuc_tran18 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1skha71/ai_thích_người_mập_ko/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1skha71/ai_thích_người_mập_ko/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1skha71/ai_thích_người_mập_ko/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-13T17:13:15+00:00</published>
+    <published>2026-04-14T11:27:56+00:00</published>
   </entry>
   <entry>
     <id>t3_1skhxqq</id>
@@ -84,6 +71,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1skhxqq/có_nên_ly_hôn_không/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-04-13T17:35:33+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1skha71</id>
+    <title>Ai thích người mập ko</title>
+    <updated>2026-04-13T17:13:15+00:00</updated>
+    <author>
+      <name>/u/Thuc_tran18</name>
+      <uri>https://old.reddit.com/user/Thuc_tran18</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tôi là con trai và tôi thích các bạn nữ mập mập, trên dưới bmi thừa cân 1 chút ấy tầm 25-26 bmi. Tôi chỉ muốn hỏi các ông có ông nào giống tôi ko thôi, vì tôi thấy rất ít người có gu như tôi, ở đây chỉ bàn luận ko bodyshaming nha&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Thuc_tran18"&gt; /u/Thuc_tran18 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1skha71/ai_thích_người_mập_ko/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1skha71/ai_thích_người_mập_ko/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1skha71/ai_thích_người_mập_ko/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-04-13T17:13:15+00:00</published>
   </entry>
   <entry>
     <id>t3_1skyc7m</id>
@@ -125,6 +125,19 @@
     <published>2026-04-13T12:46:01+00:00</published>
   </entry>
   <entry>
+    <id>t3_1skyqc7</id>
+    <title>Mình đăng nhập nhầm mk, ai cứu mình vớii,</title>
+    <updated>2026-04-14T04:46:10+00:00</updated>
+    <author>
+      <name>/u/nguyenhuybinh</name>
+      <uri>https://old.reddit.com/user/nguyenhuybinh</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1skyqc7/mình_đăng_nhập_nhầm_mk_ai_cứu_mình_vớii/"&gt; &lt;img alt="Mình đăng nhập nhầm mk, ai cứu mình vớii," src="https://preview.redd.it/aae1h5yy53vg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=73423542e43478997c6663e1a3b9aae34ffef9c8" title="Mình đăng nhập nhầm mk, ai cứu mình vớii," /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/nguyenhuybinh"&gt; /u/nguyenhuybinh &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/aae1h5yy53vg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1skyqc7/mình_đăng_nhập_nhầm_mk_ai_cứu_mình_vớii/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1skyqc7/mình_đăng_nhập_nhầm_mk_ai_cứu_mình_vớii/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-04-14T04:46:10+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1skww72</id>
     <title>Nên ra Hà Nội không mấy voz ơi!</title>
     <updated>2026-04-14T03:15:56+00:00</updated>
@@ -149,19 +162,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1sl4g05/xin_recommendation_cho_ghế_công_thái_học/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-04-14T10:12:38+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1skyqc7</id>
-    <title>Mình đăng nhập nhầm mk, ai cứu mình vớii,</title>
-    <updated>2026-04-14T04:46:10+00:00</updated>
-    <author>
-      <name>/u/nguyenhuybinh</name>
-      <uri>https://old.reddit.com/user/nguyenhuybinh</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1skyqc7/mình_đăng_nhập_nhầm_mk_ai_cứu_mình_vớii/"&gt; &lt;img alt="Mình đăng nhập nhầm mk, ai cứu mình vớii," src="https://preview.redd.it/aae1h5yy53vg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=73423542e43478997c6663e1a3b9aae34ffef9c8" title="Mình đăng nhập nhầm mk, ai cứu mình vớii," /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/nguyenhuybinh"&gt; /u/nguyenhuybinh &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/aae1h5yy53vg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1skyqc7/mình_đăng_nhập_nhầm_mk_ai_cứu_mình_vớii/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1skyqc7/mình_đăng_nhập_nhầm_mk_ai_cứu_mình_vớii/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-14T04:46:10+00:00</published>
   </entry>
   <entry>
     <id>t3_1sl2pns</id>
@@ -190,17 +190,17 @@
     <published>2026-04-14T05:07:03+00:00</published>
   </entry>
   <entry>
-    <id>t3_1sl3w38</id>
-    <title>Dân quân tự vệ 2026</title>
-    <updated>2026-04-14T09:42:12+00:00</updated>
+    <id>t3_1sl4bpx</id>
+    <title>Nàng thơ chụp ảnh</title>
+    <updated>2026-04-14T10:06:11+00:00</updated>
     <author>
-      <name>/u/LighterSpie</name>
-      <uri>https://old.reddit.com/user/LighterSpie</uri>
+      <name>/u/deluluriri</name>
+      <uri>https://old.reddit.com/user/deluluriri</uri>
     </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1sl3w38/dân_quân_tự_vệ_2026/"&gt; &lt;img alt="Dân quân tự vệ 2026" src="https://preview.redd.it/uxojxtx3n4vg1.png?width=140&amp;amp;height=140&amp;amp;crop=1:1,smart&amp;amp;auto=webp&amp;amp;s=60c6ca9da83a7a386e120a3987080552be60ce3f" title="Dân quân tự vệ 2026" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="https://preview.redd.it/uxojxtx3n4vg1.png?width=1798&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=91f6dd98cd61a3c5e93481cabd67f4cc810613c2"&gt;https://preview.redd.it/uxojxtx3n4vg1.png?width=1798&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=91f6dd98cd61a3c5e93481cabd67f4cc810613c2&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Mấy bác cho em hỏi em bị cận 5.5 độ và 3.5 độ và bị loạn nữa, khám sk nvqs cũng đã rớt nhưng lại bị gọi lên nghe phổ biến dân quân tự vệ và bên chỉ huy bảo là bắt buộc tham gia dù bị cận hay loạn gì cũng vậy, và ban đầu bảo là lên khai hồ sơ thôi nhưng lại có mục đăng ký nguyện vọng như trong hình và có cả tờ đăng ký tự nguyện. Em chưa ký gì nhưng chắc sẽ mời lần 3 nên em đang không biết là có thể từ chối tham gia hay xử lý thế nào do em còn đi làm&lt;/p&gt; &lt;p&gt;&lt;a href="https://preview.redd.it/1r6y2dqbn4vg1.png?width=1836&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=e5c9a871869d708ac699faa9a425220d74594546"&gt;https://preview.redd.it/1r6y2dqbn4vg1.png?width=1836&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=e5c9a871869d708ac699faa9a425220d74594546&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/LighterSpie"&gt; /u/LighterSpie &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sl3w38/dân_quân_tự_vệ_2026/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sl3w38/dân_quân_tự_vệ_2026/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1sl3w38/dân_quân_tự_vệ_2026/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Dạo này đi đến những nơi có không gian yên tĩnh, cảnh đẹp, hay là những di tích lịch sử, danh lam thắng cảnh đều sẽ thấy rất nhiều &amp;quot;nàng thơ&amp;quot; vô tư chụp ảnh, biến nguyên cái di tích thành nguyên cái studio chụp ảnh luôn.&lt;/p&gt; &lt;p&gt;Cảm giác đi tìm hiểu văn hoá lịch sử lại phải né này tránh nọ để mấy bạn chụp ảnh thật sự rất là phiền. Hôm bữa đi bảo tàng Hồ Chí Minh, muốn đi lên lầu mà cái cầu thang chính thì bị người ta chiếm trọn để chụp ảnh luôn, mình ngỏ ý muốn đi lên thì lại nhìn mình kiểu bộ chỗ này thiếu cầu thang hả.&lt;/p&gt; &lt;p&gt;Rồi những lúc mình đọc chú thích và chụp ảnh các hiện vật thì mấy bạn lại kiểu rất khó chịu vì mình đọc lâu, làm mất thời gian chụp hình của mấy bạn??.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/deluluriri"&gt; /u/deluluriri &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sl4bpx/nàng_thơ_chụp_ảnh/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sl4bpx/nàng_thơ_chụp_ảnh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1sl4bpx/nàng_thơ_chụp_ảnh/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-14T09:42:12+00:00</published>
+    <published>2026-04-14T10:06:11+00:00</published>
   </entry>
   <entry>
     <id>t3_1sl0d83</id>
@@ -216,19 +216,6 @@
     <published>2026-04-14T06:14:34+00:00</published>
   </entry>
   <entry>
-    <id>t3_1sl4bpx</id>
-    <title>Nàng thơ chụp ảnh</title>
-    <updated>2026-04-14T10:06:11+00:00</updated>
-    <author>
-      <name>/u/deluluriri</name>
-      <uri>https://old.reddit.com/user/deluluriri</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Dạo này đi đến những nơi có không gian yên tĩnh, cảnh đẹp, hay là những di tích lịch sử, danh lam thắng cảnh đều sẽ thấy rất nhiều &amp;quot;nàng thơ&amp;quot; vô tư chụp ảnh, biến nguyên cái di tích thành nguyên cái studio chụp ảnh luôn.&lt;/p&gt; &lt;p&gt;Cảm giác đi tìm hiểu văn hoá lịch sử lại phải né này tránh nọ để mấy bạn chụp ảnh thật sự rất là phiền. Hôm bữa đi bảo tàng Hồ Chí Minh, muốn đi lên lầu mà cái cầu thang chính thì bị người ta chiếm trọn để chụp ảnh luôn, mình ngỏ ý muốn đi lên thì lại nhìn mình kiểu bộ chỗ này thiếu cầu thang hả.&lt;/p&gt; &lt;p&gt;Rồi những lúc mình đọc chú thích và chụp ảnh các hiện vật thì mấy bạn lại kiểu rất khó chịu vì mình đọc lâu, làm mất thời gian chụp hình của mấy bạn??.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/deluluriri"&gt; /u/deluluriri &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sl4bpx/nàng_thơ_chụp_ảnh/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sl4bpx/nàng_thơ_chụp_ảnh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1sl4bpx/nàng_thơ_chụp_ảnh/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-14T10:06:11+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1skwdh5</id>
     <title>Interview software engineer</title>
     <updated>2026-04-14T02:52:24+00:00</updated>
@@ -240,6 +227,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1skwdh5/interview_software_engineer/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-04-14T02:52:24+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1sl3w38</id>
+    <title>Dân quân tự vệ 2026</title>
+    <updated>2026-04-14T09:42:12+00:00</updated>
+    <author>
+      <name>/u/LighterSpie</name>
+      <uri>https://old.reddit.com/user/LighterSpie</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1sl3w38/dân_quân_tự_vệ_2026/"&gt; &lt;img alt="Dân quân tự vệ 2026" src="https://preview.redd.it/uxojxtx3n4vg1.png?width=140&amp;amp;height=140&amp;amp;crop=1:1,smart&amp;amp;auto=webp&amp;amp;s=60c6ca9da83a7a386e120a3987080552be60ce3f" title="Dân quân tự vệ 2026" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="https://preview.redd.it/uxojxtx3n4vg1.png?width=1798&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=91f6dd98cd61a3c5e93481cabd67f4cc810613c2"&gt;https://preview.redd.it/uxojxtx3n4vg1.png?width=1798&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=91f6dd98cd61a3c5e93481cabd67f4cc810613c2&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Mấy bác cho em hỏi em bị cận 5.5 độ và 3.5 độ và bị loạn nữa, khám sk nvqs cũng đã rớt nhưng lại bị gọi lên nghe phổ biến dân quân tự vệ và bên chỉ huy bảo là bắt buộc tham gia dù bị cận hay loạn gì cũng vậy, và ban đầu bảo là lên khai hồ sơ thôi nhưng lại có mục đăng ký nguyện vọng như trong hình và có cả tờ đăng ký tự nguyện. Em chưa ký gì nhưng chắc sẽ mời lần 3 nên em đang không biết là có thể từ chối tham gia hay xử lý thế nào do em còn đi làm&lt;/p&gt; &lt;p&gt;&lt;a href="https://preview.redd.it/1r6y2dqbn4vg1.png?width=1836&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=e5c9a871869d708ac699faa9a425220d74594546"&gt;https://preview.redd.it/1r6y2dqbn4vg1.png?width=1836&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=e5c9a871869d708ac699faa9a425220d74594546&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/LighterSpie"&gt; /u/LighterSpie &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sl3w38/dân_quân_tự_vệ_2026/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sl3w38/dân_quân_tự_vệ_2026/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1sl3w38/dân_quân_tự_vệ_2026/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-04-14T09:42:12+00:00</published>
   </entry>
   <entry>
     <id>t3_1sl2ctf</id>
@@ -307,19 +307,6 @@
     <published>2026-04-14T06:54:58+00:00</published>
   </entry>
   <entry>
-    <id>t3_1sl3722</id>
-    <title>Đi làm không có nghỉ phép, bù lại… không bị bắt tăng ca – mình nên biết ơn chưa??</title>
-    <updated>2026-04-14T09:01:23+00:00</updated>
-    <author>
-      <name>/u/Express-Confusion350</name>
-      <uri>https://old.reddit.com/user/Express-Confusion350</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1sl3722/đi_làm_không_có_nghỉ_phép_bù_lại_không_bị_bắt/"&gt; &lt;img alt="Đi làm không có nghỉ phép, bù lại… không bị bắt tăng ca – mình nên biết ơn chưa??" src="https://preview.redd.it/iyqrxgjhf4vg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=7c4b8de6c2355c0fbc00cf2c022027ae124f0228" title="Đi làm không có nghỉ phép, bù lại… không bị bắt tăng ca – mình nên biết ơn chưa??" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Express-Confusion350"&gt; /u/Express-Confusion350 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/iyqrxgjhf4vg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sl3722/đi_làm_không_có_nghỉ_phép_bù_lại_không_bị_bắt/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1sl3722/đi_làm_không_có_nghỉ_phép_bù_lại_không_bị_bắt/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-14T09:01:23+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1skytli</id>
     <title>Yêu 9 năm, không cãi nhau… nhưng lệch nhu cầu thì có phải vấn đề lớn không?</title>
     <updated>2026-04-14T04:51:03+00:00</updated>
@@ -331,5 +318,18 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1skytli/yêu_9_năm_không_cãi_nhau_nhưng_lệch_nhu_cầu_thì/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-04-14T04:51:03+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1sl3722</id>
+    <title>Đi làm không có nghỉ phép, bù lại… không bị bắt tăng ca – mình nên biết ơn chưa??</title>
+    <updated>2026-04-14T09:01:23+00:00</updated>
+    <author>
+      <name>/u/Express-Confusion350</name>
+      <uri>https://old.reddit.com/user/Express-Confusion350</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1sl3722/đi_làm_không_có_nghỉ_phép_bù_lại_không_bị_bắt/"&gt; &lt;img alt="Đi làm không có nghỉ phép, bù lại… không bị bắt tăng ca – mình nên biết ơn chưa??" src="https://preview.redd.it/iyqrxgjhf4vg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=7c4b8de6c2355c0fbc00cf2c022027ae124f0228" title="Đi làm không có nghỉ phép, bù lại… không bị bắt tăng ca – mình nên biết ơn chưa??" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Express-Confusion350"&gt; /u/Express-Confusion350 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/iyqrxgjhf4vg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sl3722/đi_làm_không_có_nghỉ_phép_bù_lại_không_bị_bắt/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1sl3722/đi_làm_không_có_nghỉ_phép_bù_lại_không_bị_bắt/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-04-14T09:01:23+00:00</published>
   </entry>
 </feed>
