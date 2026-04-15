@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-04-15T22:27:33+00:00</updated>
+  <updated>2026-04-15T23:11:25+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -164,19 +164,6 @@
     <published>2026-04-15T04:08:42+00:00</published>
   </entry>
   <entry>
-    <id>t3_1slv3yx</id>
-    <title>Vì sao các bạn nữ cứ thích ốm và giảm cân?</title>
-    <updated>2026-04-15T03:54:34+00:00</updated>
-    <author>
-      <name>/u/Grand_Increase6723</name>
-      <uri>https://old.reddit.com/user/Grand_Increase6723</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Bạn gái tôi 52kg tôi thấy ẻm trông cân đối và vừa vặn thậm chí là ốm cơ. Nhưng ẻm cứ than mập và ăn kiêng, giảm cân các thứ. Các bạn nữ gu của các bạn là càng ốm càng xinh hả. Tôi không biết nên hỏi thật. Tôi vẫn ủng hộ việc giảm cân của ẻm nhưng ẻm muốn giảm xuống 42kg là 10kg thì tôi lại thấy quá ốm làm sao để khuyên ẻm giảm vừa vừa thôi?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Grand_Increase6723"&gt; /u/Grand_Increase6723 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1slv3yx/vì_sao_các_bạn_nữ_cứ_thích_ốm_và_giảm_cân/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1slv3yx/vì_sao_các_bạn_nữ_cứ_thích_ốm_và_giảm_cân/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1slv3yx/vì_sao_các_bạn_nữ_cứ_thích_ốm_và_giảm_cân/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-15T03:54:34+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1smbmra</id>
     <title>E mới rối bời</title>
     <updated>2026-04-15T16:47:47+00:00</updated>
@@ -203,6 +190,19 @@
     <published>2026-04-15T08:33:01+00:00</published>
   </entry>
   <entry>
+    <id>t3_1slv3yx</id>
+    <title>Vì sao các bạn nữ cứ thích ốm và giảm cân?</title>
+    <updated>2026-04-15T03:54:34+00:00</updated>
+    <author>
+      <name>/u/Grand_Increase6723</name>
+      <uri>https://old.reddit.com/user/Grand_Increase6723</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Bạn gái tôi 52kg tôi thấy ẻm trông cân đối và vừa vặn thậm chí là ốm cơ. Nhưng ẻm cứ than mập và ăn kiêng, giảm cân các thứ. Các bạn nữ gu của các bạn là càng ốm càng xinh hả. Tôi không biết nên hỏi thật. Tôi vẫn ủng hộ việc giảm cân của ẻm nhưng ẻm muốn giảm xuống 42kg là 10kg thì tôi lại thấy quá ốm làm sao để khuyên ẻm giảm vừa vừa thôi?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Grand_Increase6723"&gt; /u/Grand_Increase6723 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1slv3yx/vì_sao_các_bạn_nữ_cứ_thích_ốm_và_giảm_cân/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1slv3yx/vì_sao_các_bạn_nữ_cứ_thích_ốm_và_giảm_cân/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1slv3yx/vì_sao_các_bạn_nữ_cứ_thích_ốm_và_giảm_cân/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-04-15T03:54:34+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1sm9aqc</id>
     <title>2k3 sắp ra trường có ý định bỏ nghề IT</title>
     <updated>2026-04-15T15:25:53+00:00</updated>
@@ -216,19 +216,6 @@
     <published>2026-04-15T15:25:53+00:00</published>
   </entry>
   <entry>
-    <id>t3_1sm1oly</id>
-    <title>Thái độ chuyên nghiệp khi đi làm</title>
-    <updated>2026-04-15T10:05:21+00:00</updated>
-    <author>
-      <name>/u/Outrageous_Driver196</name>
-      <uri>https://old.reddit.com/user/Outrageous_Driver196</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình đang thực tập cho một công ty công nghệ. Công việc chính của mình là xây dựng mô hình nhận diện bất thường. Hiện tại mình đang điều chỉnh tham số để tối ưu mô hình, mỗi lần bấm chạy mô hình là sẽ mất vài phút tới chục phút. Những lúc đợi như vậy mình sẽ lấy đt ra lướt fb. Nhìn xung quanh, màn hình máy tính của các anh chị luôn hiện tab làm việc. Mình rất ngưỡng mộ thái độ chuyên nghiệp và chăm chỉ làm việc của các anh chị. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Outrageous_Driver196"&gt; /u/Outrageous_Driver196 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sm1oly/thái_độ_chuyên_nghiệp_khi_đi_làm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sm1oly/thái_độ_chuyên_nghiệp_khi_đi_làm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1sm1oly/thái_độ_chuyên_nghiệp_khi_đi_làm/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-15T10:05:21+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1sm9hy9</id>
     <title>cảm giác trống rỗng thiếu động lực</title>
     <updated>2026-04-15T15:32:57+00:00</updated>
@@ -240,6 +227,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1sm9hy9/cảm_giác_trống_rỗng_thiếu_động_lực/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-04-15T15:32:57+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1sm1oly</id>
+    <title>Thái độ chuyên nghiệp khi đi làm</title>
+    <updated>2026-04-15T10:05:21+00:00</updated>
+    <author>
+      <name>/u/Outrageous_Driver196</name>
+      <uri>https://old.reddit.com/user/Outrageous_Driver196</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình đang thực tập cho một công ty công nghệ. Công việc chính của mình là xây dựng mô hình nhận diện bất thường. Hiện tại mình đang điều chỉnh tham số để tối ưu mô hình, mỗi lần bấm chạy mô hình là sẽ mất vài phút tới chục phút. Những lúc đợi như vậy mình sẽ lấy đt ra lướt fb. Nhìn xung quanh, màn hình máy tính của các anh chị luôn hiện tab làm việc. Mình rất ngưỡng mộ thái độ chuyên nghiệp và chăm chỉ làm việc của các anh chị. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Outrageous_Driver196"&gt; /u/Outrageous_Driver196 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sm1oly/thái_độ_chuyên_nghiệp_khi_đi_làm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sm1oly/thái_độ_chuyên_nghiệp_khi_đi_làm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1sm1oly/thái_độ_chuyên_nghiệp_khi_đi_làm/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-04-15T10:05:21+00:00</published>
   </entry>
   <entry>
     <id>t3_1slqfbl</id>
