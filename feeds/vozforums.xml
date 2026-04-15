@@ -2,50 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-04-15T23:11:25+00:00</updated>
+  <updated>2026-04-15T23:59:49+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1sm4tcm</id>
-    <title>học lập trình trí tuệ nhân tạo</title>
-    <updated>2026-04-15T12:35:31+00:00</updated>
-    <author>
-      <name>/u/nghxson</name>
-      <uri>https://old.reddit.com/user/nghxson</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em chào các bác ạ, hiện tại em đang bắt đầu tìm hiểu về lập trình trí tuệ nhân tạo (AI) nhưng chưa biết nên học tài liệu từ đâu cho hiệu quả. Các bác cho em hỏi thường mọi người hay lấy tài liệu học AI ở những nguồn nào uy tín, dễ hiểu với người mới ạ? Em nên bắt đầu từ sách, khóa học online hay tài liệu tiếng Anh luôn không ạ? Mong các bác chia sẻ kinh nghiệm giúp em với, em cảm ơn các bác nhiều!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/nghxson"&gt; /u/nghxson &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sm4tcm/học_lập_trình_trí_tuệ_nhân_tạo/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sm4tcm/học_lập_trình_trí_tuệ_nhân_tạo/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1sm4tcm/học_lập_trình_trí_tuệ_nhân_tạo/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-15T12:35:31+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1smb60g</id>
-    <title>Ngân Hàng Mở của vietin</title>
-    <updated>2026-04-15T16:31:15+00:00</updated>
-    <author>
-      <name>/u/Helpful-Professor-86</name>
-      <uri>https://old.reddit.com/user/Helpful-Professor-86</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;ae có ai làm ở phòng này của vietin chưa, techstack ở đây mới không nhỉ&lt;/p&gt; &lt;p&gt;cho mình xin ít review, thanks ae&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Helpful-Professor-86"&gt; /u/Helpful-Professor-86 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1smb60g/ngân_hàng_mở_của_vietin/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1smb60g/ngân_hàng_mở_của_vietin/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1smb60g/ngân_hàng_mở_của_vietin/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-15T16:31:15+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1smbqz1</id>
-    <title>Cách limit fps trong RPD (Hyper V)</title>
-    <updated>2026-04-15T16:52:03+00:00</updated>
-    <author>
-      <name>/u/PsychologicalLeek852</name>
-      <uri>https://old.reddit.com/user/PsychologicalLeek852</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em có tạo 3 máy ảo Hyper V ( GPU Passthrough ) để chạy 3 tab gta 5. Vấn đề là ram em đủ, cpu em đủ nhưng gpu vram của em yếu quá, thì em muốn hỏi là có cách nào để limit fps của RPD ( kết nối trực tiếp HyperV) để giảm áp lực cho gpu k ạ? và có cách nào để tweak gta 5 hết mức có thể k ạ? em đã set lowest resolution là 900x900, có cách nào giảm hơn nhưng vẫn giữ ratio là 10:9 k ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/PsychologicalLeek852"&gt; /u/PsychologicalLeek852 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1smbqz1/cách_limit_fps_trong_rpd_hyper_v/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1smbqz1/cách_limit_fps_trong_rpd_hyper_v/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1smbqz1/cách_limit_fps_trong_rpd_hyper_v/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-15T16:52:03+00:00</published>
-  </entry>
   <entry>
     <id>t3_1smc82k</id>
     <title>Barca</title>
@@ -138,19 +99,6 @@
     <published>2026-04-15T03:12:41+00:00</published>
   </entry>
   <entry>
-    <id>t3_1sm8nlw</id>
-    <title>cập nhật phần 2, phần 1 mình có để ảnh mọi người đọc nếu chx biết là gì</title>
-    <updated>2026-04-15T15:03:14+00:00</updated>
-    <author>
-      <name>/u/Adventurous_Cow_4529</name>
-      <uri>https://old.reddit.com/user/Adventurous_Cow_4529</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1sm8nlw/cập_nhật_phần_2_phần_1_mình_có_để_ảnh_mọi_người/"&gt; &lt;img alt="cập nhật phần 2, phần 1 mình có để ảnh mọi người đọc nếu chx biết là gì" src="https://preview.redd.it/x58wq71zcdvg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=cb72ac005190182cc7bfb99c7273b64cfd6fc12e" title="cập nhật phần 2, phần 1 mình có để ảnh mọi người đọc nếu chx biết là gì" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;cập nhật phần 2 phần 1 mình có để ảnh mọi người đọc nếu chx biết là gì&lt;/p&gt; &lt;p&gt;đây là phần 2 hôm nay mình có gặp lại thk bạn, đc bạn A nhờ hỏi mình ( tạm gọi là N), mình có hỏi bạn N về mục đích của bạn A nhưng bạn N bảo nói ra không được và tiết lộ rằng bạn A không hỏi một mình bản thân tôi hỏi thêm khá nhiều người mình có hỏi đó là ai thì bạn N chỉ kể đc hai tên bao gồm bạn N và một người khác, lúc đó mình cảm giác N có gì rất lạ giống như nghĩ đc tên gì thì nói ra đại nhằm che đậy cho bạn A vậy &lt;/p&gt; &lt;p&gt;mình thắc mắc &lt;/p&gt; &lt;p&gt;thứ 1 liệu có phải mình nghĩ nhiều A chỉ hỏi như vậy nhiều người để làm một việc gì đó &lt;/p&gt; &lt;p&gt;thứ 2 N liệu có nói dối mình ( vốn từ nhỏ mình nhạy cảm với cử chỉ người của người khác khi giao tiếp với mình) để che đậy mục đích của bạn A ( vì N và A là bạn học chung từ tiểu học) để tránh mình biết hay do mình suy diễn với nghĩ quá nhiều vậy mọi người &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Adventurous_Cow_4529"&gt; /u/Adventurous_Cow_4529 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/x58wq71zcdvg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sm8nlw/cập_nhật_phần_2_phần_1_mình_có_để_ảnh_mọi_người/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1sm8nlw/cập_nhật_phần_2_phần_1_mình_có_để_ảnh_mọi_người/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-15T15:03:14+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1slvee0</id>
     <title>Mọi người đang làm freelance ngành gì vậy thu nhập ổn không</title>
     <updated>2026-04-15T04:08:42+00:00</updated>
@@ -164,30 +112,17 @@
     <published>2026-04-15T04:08:42+00:00</published>
   </entry>
   <entry>
-    <id>t3_1smbmra</id>
-    <title>E mới rối bời</title>
-    <updated>2026-04-15T16:47:47+00:00</updated>
+    <id>t3_1sm8nlw</id>
+    <title>cập nhật phần 2, phần 1 mình có để ảnh mọi người đọc nếu chx biết là gì</title>
+    <updated>2026-04-15T15:03:14+00:00</updated>
     <author>
-      <name>/u/Delicious_Society735</name>
-      <uri>https://old.reddit.com/user/Delicious_Society735</uri>
+      <name>/u/Adventurous_Cow_4529</name>
+      <uri>https://old.reddit.com/user/Adventurous_Cow_4529</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;E vừa trải qua một chuyện vừa mới đây, để kể các bác nghe. Đt e cài mật khẩu vẽ hình. Mà nó bị đơ lag kiểu gì ak e vẽ đúng mà nó ko đc. Đt e bán hàng online mà mở lên ko đc e rất sót ruột. E vẽ mật khẩu nhiều lần ko đc, e có cài vân tay mở máy mà nó ko ăn, nhập mật khẩu nhiều lần thế là nó khóa đt luôn :)) kiểu có những chuyện bất như ý xui xẻo ập đến khiến e tụt mood. Bao nhiêu thứ trong gđ, đơn hàng, bank, tiền tài của e trong đó :)) album ảnh e chụp kỉ niệm. Rồi e nghĩ kiểu này chẳng lẽ mai nghỉ làm đi sửa đt... cv thì đang tốt, nghỉ làm lại lơ mất mấy đồng tiền vào. Xong e thử mở khóa bằng phím cứng (mất hết dữ liệu trống trơn như đt hồi mới mua). Ok e cũng chấp nhận, mở đc cái đt lên là mừng rồi, mấy cái app e cũng đã cài lại hết. Đc cái e cũng hay ghi lại tài khoản với mật khẩu nên cài lại cũng nhanh. Sau vụ này thì e rút ra nhiều kinh nghiệm bài học: cài tất cả những cái quan trọng cần thiết sang đt mới nhất, mượt nhất, do e cứ để ở đt cũ nó đơ một cái là quíu luôn/ e ko bao giờ mua đt samsung nữa, thỉnh thoảng nó đơ lag, đứng ak các bác, mà e xài con 5 triệu còn e ko biết con đắt tiền hơn chạy có mượt ko nhưng mà e sẽ ko xài đt hãng này nữa./ lưu lại tất cả tài khoản và pass để tiện đăng nhập lại. &lt;/p&gt; &lt;p&gt;Nói chung e cài lại cũng ổn áp rồi các bác. Sau vụ này e sẽ lưu tâm hơn về những dữ liệu trong đt. Lưu nó trước khi nó mất do bị rest xóa sạch ko lường trước đc&lt;/p&gt; &lt;p&gt;E sợ những lúc rối bời. Như lúc trước đi làm bưng bê quán, e order bàn 20 người. Order nhập trên đt. Xong e lỡ tay thoát ra khi chưa gửi đơn vào quầy, mất hết những gì e nhập, trời ơi sụp đổ, rồi có khi e chuyển người từ bàn này sang bàn kia mà nó lộn tùm lum. E sợ đối mặt những lúc những chuyện bất như ý như thế.&lt;/p&gt; &lt;p&gt;Cuộc sống người lớn nhiều khi cảm thấy người đời người ta hết ng này đến ngkia ko dịu dàng với mình mà khắc nghiệt khó dễ ghê, mỗi lần tiếp xúc va chạm xong là e thấy hơi tủi thân tổn thương, phải chi mà có chồng về kể vs ck để ck vỗ về thì đỡ nhỉ nhưng mà e ko có, e như đứa cô độc giữa đời vậy, rồi lại quên đi và tiếp tục sống những ngày mới. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Delicious_Society735"&gt; /u/Delicious_Society735 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1smbmra/e_mới_rối_bời/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1smbmra/e_mới_rối_bời/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1smbmra/e_mới_rối_bời/"/>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1sm8nlw/cập_nhật_phần_2_phần_1_mình_có_để_ảnh_mọi_người/"&gt; &lt;img alt="cập nhật phần 2, phần 1 mình có để ảnh mọi người đọc nếu chx biết là gì" src="https://preview.redd.it/x58wq71zcdvg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=cb72ac005190182cc7bfb99c7273b64cfd6fc12e" title="cập nhật phần 2, phần 1 mình có để ảnh mọi người đọc nếu chx biết là gì" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;cập nhật phần 2 phần 1 mình có để ảnh mọi người đọc nếu chx biết là gì&lt;/p&gt; &lt;p&gt;đây là phần 2 hôm nay mình có gặp lại thk bạn, đc bạn A nhờ hỏi mình ( tạm gọi là N), mình có hỏi bạn N về mục đích của bạn A nhưng bạn N bảo nói ra không được và tiết lộ rằng bạn A không hỏi một mình bản thân tôi hỏi thêm khá nhiều người mình có hỏi đó là ai thì bạn N chỉ kể đc hai tên bao gồm bạn N và một người khác, lúc đó mình cảm giác N có gì rất lạ giống như nghĩ đc tên gì thì nói ra đại nhằm che đậy cho bạn A vậy &lt;/p&gt; &lt;p&gt;mình thắc mắc &lt;/p&gt; &lt;p&gt;thứ 1 liệu có phải mình nghĩ nhiều A chỉ hỏi như vậy nhiều người để làm một việc gì đó &lt;/p&gt; &lt;p&gt;thứ 2 N liệu có nói dối mình ( vốn từ nhỏ mình nhạy cảm với cử chỉ người của người khác khi giao tiếp với mình) để che đậy mục đích của bạn A ( vì N và A là bạn học chung từ tiểu học) để tránh mình biết hay do mình suy diễn với nghĩ quá nhiều vậy mọi người &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Adventurous_Cow_4529"&gt; /u/Adventurous_Cow_4529 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/x58wq71zcdvg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sm8nlw/cập_nhật_phần_2_phần_1_mình_có_để_ảnh_mọi_người/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1sm8nlw/cập_nhật_phần_2_phần_1_mình_có_để_ảnh_mọi_người/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-15T16:47:47+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1sm0443</id>
-    <title>Ăn chơi tại Hà Nội</title>
-    <updated>2026-04-15T08:33:01+00:00</updated>
-    <author>
-      <name>/u/ElectronicCancer666</name>
-      <uri>https://old.reddit.com/user/ElectronicCancer666</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Giống như tiêu đề, nhưng không phải ăn chơi thông thường. Em khá tò mò về những trải nghiệm mới lạ ( có thể hợp pháp hoặc không ). Ví dụ như đấu trường ngầm nơi mọi võ sĩ đấm nhau, khách khứa xem và bet kèo với những trận đấu sinh tử vkl như đá gà, strip club nơi bạn vào xem gái múa cột, … ý em là những nơi kiểu khi các tham gia và đầu sẽ chắc chắn nảy lên một suy nghĩ là : “ uầy cái này điên vê lờ “ :)) thời trẻ trâu còn hất cùn em có một trải nghiệm hay vê lờ đấy là lấy cỏ ở một nhà đề biển bán thẻ điện thoại ở ngõ 424 Trần Khát Chân, đại khái là đi xe qua cái nhà trong ngõ ấy, bấm chuông và thò tay cầm tiền đút vào cái lỗ trên cửa nhà và rồi rút tay ra, Bùm, 150k của các bác biến thành pack cùn :)) Vậy còn bác nào có những điểm ăn chơi nào hay ho không ạ? Có thể chia sẻ để em có cơ hội trải nghiệm tiếp :) Cảm ơn các bác nhiều.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ElectronicCancer666"&gt; /u/ElectronicCancer666 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sm0443/ăn_chơi_tại_hà_nội/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sm0443/ăn_chơi_tại_hà_nội/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1sm0443/ăn_chơi_tại_hà_nội/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-15T08:33:01+00:00</published>
+    <published>2026-04-15T15:03:14+00:00</published>
   </entry>
   <entry>
     <id>t3_1slv3yx</id>
@@ -216,6 +151,32 @@
     <published>2026-04-15T15:25:53+00:00</published>
   </entry>
   <entry>
+    <id>t3_1sm0443</id>
+    <title>Ăn chơi tại Hà Nội</title>
+    <updated>2026-04-15T08:33:01+00:00</updated>
+    <author>
+      <name>/u/ElectronicCancer666</name>
+      <uri>https://old.reddit.com/user/ElectronicCancer666</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Giống như tiêu đề, nhưng không phải ăn chơi thông thường. Em khá tò mò về những trải nghiệm mới lạ ( có thể hợp pháp hoặc không ). Ví dụ như đấu trường ngầm nơi mọi võ sĩ đấm nhau, khách khứa xem và bet kèo với những trận đấu sinh tử vkl như đá gà, strip club nơi bạn vào xem gái múa cột, … ý em là những nơi kiểu khi các tham gia và đầu sẽ chắc chắn nảy lên một suy nghĩ là : “ uầy cái này điên vê lờ “ :)) thời trẻ trâu còn hất cùn em có một trải nghiệm hay vê lờ đấy là lấy cỏ ở một nhà đề biển bán thẻ điện thoại ở ngõ 424 Trần Khát Chân, đại khái là đi xe qua cái nhà trong ngõ ấy, bấm chuông và thò tay cầm tiền đút vào cái lỗ trên cửa nhà và rồi rút tay ra, Bùm, 150k của các bác biến thành pack cùn :)) Vậy còn bác nào có những điểm ăn chơi nào hay ho không ạ? Có thể chia sẻ để em có cơ hội trải nghiệm tiếp :) Cảm ơn các bác nhiều.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ElectronicCancer666"&gt; /u/ElectronicCancer666 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sm0443/ăn_chơi_tại_hà_nội/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sm0443/ăn_chơi_tại_hà_nội/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1sm0443/ăn_chơi_tại_hà_nội/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-04-15T08:33:01+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1smmxnm</id>
+    <title>Mọi người cho tôi lời khuyên</title>
+    <updated>2026-04-15T23:42:37+00:00</updated>
+    <author>
+      <name>/u/Boycomer</name>
+      <uri>https://old.reddit.com/user/Boycomer</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Năm 2012 tôi vợ tôi vừa sinh con thì chị gái tôi gọi điện thoại hỏi vay 1 số tiền khoảng 1 tỉ nhưng thời điểm đó tôi vét hét tài khoản cũng chỉ khoảng 500t mà trước đó tôi đã cho chị tôi vay khoảng 600t khác rồi. Tính từ thời điểm đó tới nay tôi chỉ nhận về được khoảng 400t còn lại thì chả bao giờ thấy chị gái tôi đả động có trả hay không hoặc khi nào thì trả hay ít ra cũng mỗi tháng/mỗi năm từng này tiền trả dần cho tôi cũng được. Tôi có nhắc vài lần trong suốt thời gian hơn 10 năm nhưng mỗi lần nói là bà ý giận , dỗi , khóc kêu nợ đời chỉ muốn chết cho thoát nợ?!?! &lt;/p&gt; &lt;p&gt;Giờ tôi lớn tuổi, kinh tế ổn định nhưng công việc khó khăn. Tôi bị cho thôi việc giờ phải đi làm nhà máy ca kíp vất vả muốn lấy lại số tiền lo cho con cái ăn học mà cứ định nói thì lại giống như bao lần nên tôi không nói gì được nữa. &lt;/p&gt; &lt;p&gt;Có ai có cách gì để tôi lấy lại số tiền mà ít gây tổn thương cho chị tôi nhất không?&lt;/p&gt; &lt;p&gt;Xin cảm ơn.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Boycomer"&gt; /u/Boycomer &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1smmxnm/mọi_người_cho_tôi_lời_khuyên/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1smmxnm/mọi_người_cho_tôi_lời_khuyên/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1smmxnm/mọi_người_cho_tôi_lời_khuyên/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-04-15T23:42:37+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1sm9hy9</id>
     <title>cảm giác trống rỗng thiếu động lực</title>
     <updated>2026-04-15T15:32:57+00:00</updated>
@@ -227,6 +188,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1sm9hy9/cảm_giác_trống_rỗng_thiếu_động_lực/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-04-15T15:32:57+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1smbmra</id>
+    <title>E mới rối bời</title>
+    <updated>2026-04-15T16:47:47+00:00</updated>
+    <author>
+      <name>/u/Delicious_Society735</name>
+      <uri>https://old.reddit.com/user/Delicious_Society735</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;E vừa trải qua một chuyện vừa mới đây, để kể các bác nghe. Đt e cài mật khẩu vẽ hình. Mà nó bị đơ lag kiểu gì ak e vẽ đúng mà nó ko đc. Đt e bán hàng online mà mở lên ko đc e rất sót ruột. E vẽ mật khẩu nhiều lần ko đc, e có cài vân tay mở máy mà nó ko ăn, nhập mật khẩu nhiều lần thế là nó khóa đt luôn :)) kiểu có những chuyện bất như ý xui xẻo ập đến khiến e tụt mood. Bao nhiêu thứ trong gđ, đơn hàng, bank, tiền tài của e trong đó :)) album ảnh e chụp kỉ niệm. Rồi e nghĩ kiểu này chẳng lẽ mai nghỉ làm đi sửa đt... cv thì đang tốt, nghỉ làm lại lơ mất mấy đồng tiền vào. Xong e thử mở khóa bằng phím cứng (mất hết dữ liệu trống trơn như đt hồi mới mua). Ok e cũng chấp nhận, mở đc cái đt lên là mừng rồi, mấy cái app e cũng đã cài lại hết. Đc cái e cũng hay ghi lại tài khoản với mật khẩu nên cài lại cũng nhanh. Sau vụ này thì e rút ra nhiều kinh nghiệm bài học: cài tất cả những cái quan trọng cần thiết sang đt mới nhất, mượt nhất, do e cứ để ở đt cũ nó đơ một cái là quíu luôn/ e ko bao giờ mua đt samsung nữa, thỉnh thoảng nó đơ lag, đứng ak các bác, mà e xài con 5 triệu còn e ko biết con đắt tiền hơn chạy có mượt ko nhưng mà e sẽ ko xài đt hãng này nữa./ lưu lại tất cả tài khoản và pass để tiện đăng nhập lại. &lt;/p&gt; &lt;p&gt;Nói chung e cài lại cũng ổn áp rồi các bác. Sau vụ này e sẽ lưu tâm hơn về những dữ liệu trong đt. Lưu nó trước khi nó mất do bị rest xóa sạch ko lường trước đc&lt;/p&gt; &lt;p&gt;E sợ những lúc rối bời. Như lúc trước đi làm bưng bê quán, e order bàn 20 người. Order nhập trên đt. Xong e lỡ tay thoát ra khi chưa gửi đơn vào quầy, mất hết những gì e nhập, trời ơi sụp đổ, rồi có khi e chuyển người từ bàn này sang bàn kia mà nó lộn tùm lum. E sợ đối mặt những lúc những chuyện bất như ý như thế.&lt;/p&gt; &lt;p&gt;Cuộc sống người lớn nhiều khi cảm thấy người đời người ta hết ng này đến ngkia ko dịu dàng với mình mà khắc nghiệt khó dễ ghê, mỗi lần tiếp xúc va chạm xong là e thấy hơi tủi thân tổn thương, phải chi mà có chồng về kể vs ck để ck vỗ về thì đỡ nhỉ nhưng mà e ko có, e như đứa cô độc giữa đời vậy, rồi lại quên đi và tiếp tục sống những ngày mới. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Delicious_Society735"&gt; /u/Delicious_Society735 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1smbmra/e_mới_rối_bời/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1smbmra/e_mới_rối_bời/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1smbmra/e_mới_rối_bời/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-04-15T16:47:47+00:00</published>
   </entry>
   <entry>
     <id>t3_1sm1oly</id>
@@ -279,6 +253,32 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1smag0g/mình_không_biết_phải_làm_sao_nữa/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-04-15T16:06:04+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1smmwqy</id>
+    <title>Nứt kẽ hậu môn dùng thuốc gì tốt ạ</title>
+    <updated>2026-04-15T23:41:34+00:00</updated>
+    <author>
+      <name>/u/doankaka</name>
+      <uri>https://old.reddit.com/user/doankaka</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em.ra viện khám ng ta cho thuốc bôi healit 5g ngày bôi 3 lần mà ko ăn thua. Dùng đc cả tuần rồi. Nhờ cao nhân mách bảo ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/doankaka"&gt; /u/doankaka &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1smmwqy/nứt_kẽ_hậu_môn_dùng_thuốc_gì_tốt_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1smmwqy/nứt_kẽ_hậu_môn_dùng_thuốc_gì_tốt_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1smmwqy/nứt_kẽ_hậu_môn_dùng_thuốc_gì_tốt_ạ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-04-15T23:41:34+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1smmxpm</id>
+    <title>Trường chuyên top VN vươn tầm thế giới</title>
+    <updated>2026-04-15T23:42:40+00:00</updated>
+    <author>
+      <name>/u/Bright-Sprinkles-319</name>
+      <uri>https://old.reddit.com/user/Bright-Sprinkles-319</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Những anh em học ở các môi trường này hẳn là cực kỳ giỏi và là tinh hoa học thuật trên thế giới luôn phải không nhỉ ? Như Chuyên Tự Nhiên, Chuyên Arm, Chuyên PTNK... Bởi vì tôi thấy rất nhiều học sinh sau khi học xong cấp 3 ở đây để sang Âu Mỹ du học, vậy các quốc gia khác tinh hoa ở cấp 3 của họ là gì và có khác biệt gì ở VN ? &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Bright-Sprinkles-319"&gt; /u/Bright-Sprinkles-319 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1smmxpm/trường_chuyên_top_vn_vươn_tầm_thế_giới/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1smmxpm/trường_chuyên_top_vn_vươn_tầm_thế_giới/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1smmxpm/trường_chuyên_top_vn_vươn_tầm_thế_giới/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-04-15T23:42:40+00:00</published>
   </entry>
   <entry>
     <id>t3_1slzx6h</id>
