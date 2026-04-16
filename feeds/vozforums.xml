@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-04-16T22:53:44+00:00</updated>
+  <updated>2026-04-16T23:39:27+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1smwwl6</id>
-    <title>Chia sẻ một vài thư viện nhạc không bản quyền mình hay dùng khi làm video (YouTube / TikTok / Ads)</title>
-    <updated>2026-04-16T07:51:10+00:00</updated>
-    <author>
-      <name>/u/InternationalSky5642</name>
-      <uri>https://old.reddit.com/user/InternationalSky5642</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình thấy khá nhiều bạn mới làm content hay gặp vấn đề ở khâu chọn nhạc: hoặc bị dính bản quyền, hoặc nhạc không hợp video nên giữ chân người xem kém.&lt;/p&gt; &lt;p&gt;Gần đây mình có thử và dùng qua một số thư viện nhạc “paid” (trả phí) – đa số là các nền tảng mà editor chuyên nghiệp hay dùng. Viết lại một chút trải nghiệm cá nhân để ai cần thì tham khảo:&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Một số nguồn mình thấy ổn:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Musicbed Kho nhạc thiên về cinematic, storytelling, hợp video cảm xúc hoặc dạng build-up.&lt;/li&gt; &lt;li&gt;Motion Array Dễ tìm, nhiều track ngắn, hợp intro/outro hoặc video ngắn kiểu TikTok.&lt;/li&gt; &lt;li&gt;Envato Elements Thư viện lớn, nhiều style đang trend, tiện nếu làm đa dạng nội dung.&lt;/li&gt; &lt;li&gt;Artlist License rõ ràng, nhạc khá “clean”, dễ dùng cho nhiều loại video.&lt;/li&gt; &lt;li&gt;Epidemic Sound Tìm kiếm theo mood rất nhanh, phù hợp khi cần scale nội dung số lượng lớn.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Một điều mình nhận ra (khá quan trọng):&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Người làm content ở VN thường không search kiểu “genre nhạc”, mà hay tìm theo &lt;strong&gt;mục đích video&lt;/strong&gt;.&lt;/p&gt; &lt;p&gt;Ví dụ mấy keyword mình thấy dùng nhiều:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;code&gt;vlog background music&lt;/code&gt;&lt;/li&gt; &lt;li&gt;&lt;code&gt;product review music&lt;/code&gt;&lt;/li&gt; &lt;li&gt;&lt;code&gt;tiktok background no vocal&lt;/code&gt;&lt;/li&gt; &lt;li&gt;&lt;code&gt;intro music short&lt;/code&gt;&lt;/li&gt; &lt;li&gt;&lt;code&gt;inspirational background music&lt;/code&gt;&lt;/li&gt; &lt;li&gt;&lt;code&gt;tech / futuristic background&lt;/code&gt;&lt;/li&gt; &lt;li&gt;&lt;code&gt;lofi chill background&lt;/code&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Ngoài ra có mấy modifier gần như “must-have”:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;code&gt;no vocal&lt;/code&gt;&lt;/li&gt; &lt;li&gt;&lt;code&gt;instrumental&lt;/code&gt;&lt;/li&gt; &lt;li&gt;&lt;code&gt;soft background&lt;/code&gt;&lt;/li&gt; &lt;li&gt;&lt;code&gt;minimal&lt;/code&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;→ Nhạc càng ít gây chú ý quá mức thì càng dễ dùng lâu dài.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Tip nhỏ khi chọn nhạc (cái này mình rút ra sau khi test nhiều video):&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Video review / bán hàng → chọn nhạc &lt;strong&gt;upbeat nhẹ + không vocal&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;Vlog / đời sống → &lt;strong&gt;acoustic / chill / lofi&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;Video dạng kể chuyện → &lt;strong&gt;piano / cinematic / emotional&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;Nội dung tech / AI / crypto → &lt;strong&gt;ambient / futuristic&lt;/strong&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Quan trọng nhất không phải nhạc “hay”, mà là nhạc &lt;strong&gt;không phá flow video&lt;/strong&gt;.&lt;/p&gt; &lt;p&gt;Mình có làm 1 video ngắn test thử cách chọn nhạc từ mấy nền tảng trên (từ lúc search → chọn → ghép vào video), ai quan tâm có thể xem để dễ hình dung hơn:&lt;/p&gt; &lt;p&gt;&lt;a href="https://reddit.com/link/1smwwl6/video/xebyd6wrcivg1/player"&gt;https://reddit.com/link/1smwwl6/video/xebyd6wrcivg1/player&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Không biết mọi người hay dùng nguồn nào khác không?&lt;br /&gt; Có platform nào ổn mà ít người biết thì share thêm với&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/InternationalSky5642"&gt; /u/InternationalSky5642 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1smwwl6/chia_sẻ_một_vài_thư_viện_nhạc_không_bản_quyền/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1smwwl6/chia_sẻ_một_vài_thư_viện_nhạc_không_bản_quyền/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1smwwl6/chia_sẻ_một_vài_thư_viện_nhạc_không_bản_quyền/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-16T07:51:10+00:00</published>
-  </entry>
   <entry>
     <id>t3_1smv73m</id>
     <title>Người độc thân làm gì đỡ cô đơn</title>
@@ -177,19 +164,6 @@
     <published>2026-04-16T11:57:28+00:00</published>
   </entry>
   <entry>
-    <id>t3_1smwbc1</id>
-    <title>các cao thủ cho em xin tips khi bị can bắt giao thông với ạ… em còn non quá chưa biết cách</title>
-    <updated>2026-04-16T07:15:33+00:00</updated>
-    <author>
-      <name>/u/kuokpank</name>
-      <uri>https://old.reddit.com/user/kuokpank</uri>
-    </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/kuokpank"&gt; /u/kuokpank &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1smwbc1/các_cao_thủ_cho_em_xin_tips_khi_bị_can_bắt_giao/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1smwbc1/các_cao_thủ_cho_em_xin_tips_khi_bị_can_bắt_giao/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1smwbc1/các_cao_thủ_cho_em_xin_tips_khi_bị_can_bắt_giao/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-16T07:15:33+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1sncuam</id>
     <title>Tìm kiếm một chút gia vị tình yêu</title>
     <updated>2026-04-16T18:56:22+00:00</updated>
@@ -201,6 +175,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1sncuam/tìm_kiếm_một_chút_gia_vị_tình_yêu/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-04-16T18:56:22+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1smwbc1</id>
+    <title>các cao thủ cho em xin tips khi bị can bắt giao thông với ạ… em còn non quá chưa biết cách</title>
+    <updated>2026-04-16T07:15:33+00:00</updated>
+    <author>
+      <name>/u/kuokpank</name>
+      <uri>https://old.reddit.com/user/kuokpank</uri>
+    </author>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/kuokpank"&gt; /u/kuokpank &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1smwbc1/các_cao_thủ_cho_em_xin_tips_khi_bị_can_bắt_giao/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1smwbc1/các_cao_thủ_cho_em_xin_tips_khi_bị_can_bắt_giao/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1smwbc1/các_cao_thủ_cho_em_xin_tips_khi_bị_can_bắt_giao/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-04-16T07:15:33+00:00</published>
   </entry>
   <entry>
     <id>t3_1sn1uk7</id>
@@ -242,19 +229,6 @@
     <published>2026-04-16T10:31:07+00:00</published>
   </entry>
   <entry>
-    <id>t3_1smytl9</id>
-    <title>Trước 30 và sau 30 tuổi</title>
-    <updated>2026-04-16T09:45:58+00:00</updated>
-    <author>
-      <name>/u/Valuable-Apricot1031</name>
-      <uri>https://old.reddit.com/user/Valuable-Apricot1031</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Trước khi mình lúc nào cũng trong tâm thế chả quan tâm làm gì chỉ nghĩ đi chơi gì ở đâu cho đẹp mua gì rồi yêu đương hẹn hò chỗ nọ chỗ kia. Khoẻ đi lắm có khi tuần nào cũng du lịch. Thu nhập đủ để tiêu đi chơi mua sắm và còn dư ra để gửi tiết kiệm vô lo vô nghĩ thật.&lt;/p&gt; &lt;p&gt;Giờ sau 30 lấy ck vào nhưng thu nhập giảm nghĩ phải tiết kiệm tiền phải mua nhà rồi đẻ con thấy áp lực hẳn. Rồi sức khoẻ cũng thấy kém đi luôn.&lt;/p&gt; &lt;p&gt;Vânz đang phải từng ngày thích nghi với cuộc sống hiện tại. K quen với chính mình&lt;/p&gt; &lt;p&gt;Huhu&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Valuable-Apricot1031"&gt; /u/Valuable-Apricot1031 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1smytl9/trước_30_và_sau_30_tuổi/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1smytl9/trước_30_và_sau_30_tuổi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1smytl9/trước_30_và_sau_30_tuổi/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-16T09:45:58+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1sn723x</id>
     <title>Đây là ghen nhẹ hay dấu hiệu chán? (cần xin ý kiến anh em)”</title>
     <updated>2026-04-16T15:35:09+00:00</updated>
@@ -266,6 +240,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1sn723x/đây_là_ghen_nhẹ_hay_dấu_hiệu_chán_cần_xin_ý_kiến/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-04-16T15:35:09+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1smytl9</id>
+    <title>Trước 30 và sau 30 tuổi</title>
+    <updated>2026-04-16T09:45:58+00:00</updated>
+    <author>
+      <name>/u/Valuable-Apricot1031</name>
+      <uri>https://old.reddit.com/user/Valuable-Apricot1031</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Trước khi mình lúc nào cũng trong tâm thế chả quan tâm làm gì chỉ nghĩ đi chơi gì ở đâu cho đẹp mua gì rồi yêu đương hẹn hò chỗ nọ chỗ kia. Khoẻ đi lắm có khi tuần nào cũng du lịch. Thu nhập đủ để tiêu đi chơi mua sắm và còn dư ra để gửi tiết kiệm vô lo vô nghĩ thật.&lt;/p&gt; &lt;p&gt;Giờ sau 30 lấy ck vào nhưng thu nhập giảm nghĩ phải tiết kiệm tiền phải mua nhà rồi đẻ con thấy áp lực hẳn. Rồi sức khoẻ cũng thấy kém đi luôn.&lt;/p&gt; &lt;p&gt;Vânz đang phải từng ngày thích nghi với cuộc sống hiện tại. K quen với chính mình&lt;/p&gt; &lt;p&gt;Huhu&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Valuable-Apricot1031"&gt; /u/Valuable-Apricot1031 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1smytl9/trước_30_và_sau_30_tuổi/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1smytl9/trước_30_và_sau_30_tuổi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1smytl9/trước_30_và_sau_30_tuổi/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-04-16T09:45:58+00:00</published>
   </entry>
   <entry>
     <id>t3_1snacpy</id>
@@ -292,6 +279,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1smsgvl/trình_báo_hành_vi_chơi_c_đ0/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-04-16T03:49:31+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1snjqhq</id>
+    <title>Lỗi màn hình laptop lenovo thinkbook x ai 2025</title>
+    <updated>2026-04-16T23:15:13+00:00</updated>
+    <author>
+      <name>/u/Humble_Literature897</name>
+      <uri>https://old.reddit.com/user/Humble_Literature897</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1snjqhq/lỗi_màn_hình_laptop_lenovo_thinkbook_x_ai_2025/"&gt; &lt;img alt="Lỗi màn hình laptop lenovo thinkbook x ai 2025" src="https://preview.redd.it/g3cpk4qnxmvg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=41ab034e19fefc7c8853ccb56ae9baa9a2798bd4" title="Lỗi màn hình laptop lenovo thinkbook x ai 2025" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Xin ae nào có kinh nghiệm cho lời khuyên về trường hợp màn bị như này&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Humble_Literature897"&gt; /u/Humble_Literature897 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/g3cpk4qnxmvg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1snjqhq/lỗi_màn_hình_laptop_lenovo_thinkbook_x_ai_2025/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1snjqhq/lỗi_màn_hình_laptop_lenovo_thinkbook_x_ai_2025/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-04-16T23:15:13+00:00</published>
   </entry>
   <entry>
     <id>t3_1smxjmd</id>
