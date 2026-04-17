@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-04-17T14:39:42+00:00</updated>
+  <updated>2026-04-17T15:42:37+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1snz7j5</id>
-    <title>Liên kết,liên thông quốc tế</title>
-    <updated>2026-04-17T12:13:37+00:00</updated>
-    <author>
-      <name>/u/jamesdang3874</name>
-      <uri>https://old.reddit.com/user/jamesdang3874</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1snz7j5/liên_kếtliên_thông_quốc_tế/"&gt; &lt;img alt="Liên kết,liên thông quốc tế" src="https://preview.redd.it/uim8eqcjsqvg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=49a50fb69bb65425fbadedb17745957da2cc7322" title="Liên kết,liên thông quốc tế" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Dạo gần này e thấy có các chương trình như ueh isb,neu ibd,ftu ,… là các chương trình học ở vn nhận bằng 2 trường hoặc là học ở nước ngoài luôn.cho e hỏi các chương trình này học có ổn kh ạ,e thấy đầu vào cũng dễ mà sợ trường bậy quá&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/jamesdang3874"&gt; /u/jamesdang3874 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/uim8eqcjsqvg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1snz7j5/liên_kếtliên_thông_quốc_tế/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1snz7j5/liên_kếtliên_thông_quốc_tế/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-17T12:13:37+00:00</published>
-  </entry>
   <entry>
     <id>t3_1snvb57</id>
     <title>Cho mình hỏi ngu tí. Vầy là hàng nó sẽ bị từ chối hay hải quan thành công vậy mọi người?</title>
@@ -86,17 +73,17 @@
     <published>2026-04-17T11:29:16+00:00</published>
   </entry>
   <entry>
-    <id>t3_1snyao1</id>
-    <title>Xin tư vấn cho fresher IT</title>
-    <updated>2026-04-17T11:31:14+00:00</updated>
+    <id>t3_1so4id7</id>
+    <title>các bạn nữ nghĩ sao về ngyeu các bạn tim,like,tương tác gái trên mạng xã hội ?</title>
+    <updated>2026-04-17T15:36:47+00:00</updated>
     <author>
-      <name>/u/PineappleBetter1207</name>
-      <uri>https://old.reddit.com/user/PineappleBetter1207</uri>
+      <name>/u/TrifleAlert6325</name>
+      <uri>https://old.reddit.com/user/TrifleAlert6325</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, em 23M là fresher Data Engineer của một công ty outsource. Em muốn xin ý kiến của các anh chị đi trước về định hướng tương lai.&lt;/p&gt; &lt;p&gt;Sơ bộ về công việc của em (job đầu)&lt;/p&gt; &lt;ol&gt; &lt;li&gt;&lt;p&gt;Không có mentor DE. Tuần đầu thực tập vào công ty làm task luôn, tháng thứ 3 mới biết dự án có document (outdated)&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Làm backup cho account mix DE/DevOps. Anh BrSE không biết deliver task, em phải chat với khách, có issue cần meeting thì liên hệ với một anh Sr DE chung team để ảnh deliver giùm&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Có mentor DevOps do dự án muốn em phỏng vấn lên chính thức thay cho BrSE&lt;/p&gt;&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Sơ bộ về kĩ năng của em: &lt;/p&gt; &lt;ol&gt; &lt;li&gt;&lt;p&gt;SQL, Python cơ bản&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;AWS: &lt;/p&gt;&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;a. Glue: biết chạy job và xem workflow&lt;/p&gt; &lt;p&gt;b. Redshift: chạy query cơ bản, import export S3&lt;/p&gt; &lt;p&gt;c. Từng làm task Appflow, biết đọc log CloudWatch, hiểu biết sơ bộ IAM&lt;/p&gt; &lt;ol&gt; &lt;li&gt;&lt;p&gt;Từng làm job Terraform&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Hiểu cơ bản về data warehouse, có thể xác định data pipeline&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Từng có 2 lần tối ưu SQL, giúp giảm thời gian chạy daily cloud cho dự án tổng là 4 giờ&lt;/p&gt;&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Em muốn làm DE, nhưng được học rất ít và các sếp muốn em theo DevOps. Em định sẽ nhảy việc. Tuy nhiên sắp đến hạn phỏng vấn ở công ty. Em nên học vội DevOps hay là tiếp tục tự build CV DE để apply xin việc, vì em không chắc mình sẽ sớm tìm được việc mới, mà lên chính thức account ở công ty cũng chưa chắc đã được tăng lương.&lt;/p&gt; &lt;p&gt;Em cảm ơn mọi người đã đọc bài viết.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/PineappleBetter1207"&gt; /u/PineappleBetter1207 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1snyao1/xin_tư_vấn_cho_fresher_it/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1snyao1/xin_tư_vấn_cho_fresher_it/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1snyao1/xin_tư_vấn_cho_fresher_it/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;em là nữ mới phát hiện ngyeu follow gái jav trên thread,điên tiết vkl nhma thằng này giàu nên e vòi mua đủ thứ xong thấy cũng nguôi giận =)))&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/TrifleAlert6325"&gt; /u/TrifleAlert6325 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1so4id7/các_bạn_nữ_nghĩ_sao_về_ngyeu_các_bạn_timliketương/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1so4id7/các_bạn_nữ_nghĩ_sao_về_ngyeu_các_bạn_timliketương/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1so4id7/các_bạn_nữ_nghĩ_sao_về_ngyeu_các_bạn_timliketương/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-17T11:31:14+00:00</published>
+    <published>2026-04-17T15:36:47+00:00</published>
   </entry>
   <entry>
     <id>t3_1snacpy</id>
@@ -112,19 +99,6 @@
     <published>2026-04-16T17:29:43+00:00</published>
   </entry>
   <entry>
-    <id>t3_1snbu7p</id>
-    <title>Trên đời có ma quỷ không vậy mn?</title>
-    <updated>2026-04-16T18:21:08+00:00</updated>
-    <author>
-      <name>/u/Liu_Han</name>
-      <uri>https://old.reddit.com/user/Liu_Han</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là hàng xóm nhà t có &amp;quot;co treo 44&amp;quot; vào đêm bốn hôm trước. T cũng rất sốc khi biết tin. Hồi tối qua t có ngồi trong bếp vừa ăn vừa bấm đt (tầm 10h) thì đột nhiên tui có cảm giác như có bàn tay sờ sờ đầu mình. T hoảng quá vội chạy ra phòng khách (ba mẹ và dì t đang ngồi ngoài đó trò chuyện)&lt;/p&gt; &lt;p&gt;Thật sự không phải ảo giác, cũng không phải t sợ sinh hoang tưởng, dù sao trong 3 ngày trước t cũng có thấy gì đâu, và lúc đó t cũng đang ăn + chăm chú lướt video trên đt lên k có chuyện tự nhiên sợ rồi sinh ảo giác. T thật sự có cảm giác thứ gì đó sờ vào đỉnh đầu mình.&lt;/p&gt; &lt;p&gt;Phòng của cái ông 44 kia gần phòng bếp nhà t lắm, hai nhà chỉ cách nhau một bức tường.&lt;/p&gt; &lt;p&gt;T sợ lắm, bth thì t hay ngủ một mình nhưng hôm đó t nằng nặc đòi vào ngủ với ba mẹ.&lt;/p&gt; &lt;p&gt;Liệu có lên mời thầy không mn? Tui nói việc này cho ba mẹ thì ba mẹ thái độ kiểu nửa tin nửa không tin ấy :((&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Liu_Han"&gt; /u/Liu_Han &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1snbu7p/trên_đời_có_ma_quỷ_không_vậy_mn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1snbu7p/trên_đời_có_ma_quỷ_không_vậy_mn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1snbu7p/trên_đời_có_ma_quỷ_không_vậy_mn/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-16T18:21:08+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1snzlw4</id>
     <title>tê bì chân tay, đau thần kinh tọa , đau thắt lưng</title>
     <updated>2026-04-17T12:31:26+00:00</updated>
@@ -138,6 +112,19 @@
     <published>2026-04-17T12:31:26+00:00</published>
   </entry>
   <entry>
+    <id>t3_1snbu7p</id>
+    <title>Trên đời có ma quỷ không vậy mn?</title>
+    <updated>2026-04-16T18:21:08+00:00</updated>
+    <author>
+      <name>/u/Liu_Han</name>
+      <uri>https://old.reddit.com/user/Liu_Han</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là hàng xóm nhà t có &amp;quot;co treo 44&amp;quot; vào đêm bốn hôm trước. T cũng rất sốc khi biết tin. Hồi tối qua t có ngồi trong bếp vừa ăn vừa bấm đt (tầm 10h) thì đột nhiên tui có cảm giác như có bàn tay sờ sờ đầu mình. T hoảng quá vội chạy ra phòng khách (ba mẹ và dì t đang ngồi ngoài đó trò chuyện)&lt;/p&gt; &lt;p&gt;Thật sự không phải ảo giác, cũng không phải t sợ sinh hoang tưởng, dù sao trong 3 ngày trước t cũng có thấy gì đâu, và lúc đó t cũng đang ăn + chăm chú lướt video trên đt lên k có chuyện tự nhiên sợ rồi sinh ảo giác. T thật sự có cảm giác thứ gì đó sờ vào đỉnh đầu mình.&lt;/p&gt; &lt;p&gt;Phòng của cái ông 44 kia gần phòng bếp nhà t lắm, hai nhà chỉ cách nhau một bức tường.&lt;/p&gt; &lt;p&gt;T sợ lắm, bth thì t hay ngủ một mình nhưng hôm đó t nằng nặc đòi vào ngủ với ba mẹ.&lt;/p&gt; &lt;p&gt;Liệu có lên mời thầy không mn? Tui nói việc này cho ba mẹ thì ba mẹ thái độ kiểu nửa tin nửa không tin ấy :((&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Liu_Han"&gt; /u/Liu_Han &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1snbu7p/trên_đời_có_ma_quỷ_không_vậy_mn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1snbu7p/trên_đời_có_ma_quỷ_không_vậy_mn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1snbu7p/trên_đời_có_ma_quỷ_không_vậy_mn/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-04-16T18:21:08+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1snudrs</id>
     <title>Định hướng tương lai</title>
     <updated>2026-04-17T07:55:15+00:00</updated>
@@ -149,19 +136,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1snudrs/định_hướng_tương_lai/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-04-17T07:55:15+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1so2cht</id>
-    <title>điều trị xẹp đốt sống cổ, rối loạn tiền đình</title>
-    <updated>2026-04-17T14:18:37+00:00</updated>
-    <author>
-      <name>/u/Fit_Interview_2249</name>
-      <uri>https://old.reddit.com/user/Fit_Interview_2249</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;chào mn, mình suy nghĩ mãi mới quyết định đăng bài. Mẹ mình hiện tại 65 tuổi, bị xẹp 3 đốt sống cổ, tháng vừa rồi nhập viện 3 lần vì bị rối loạn tiền đình, nôn mửa. Mình đăng bài này khẩn thiết mong mn có thể chỉ cho mình nên đưa mẹ đi khám ở đâu ạ? Bệnh viện chỗ mình chỉ cho truyền nước với uống mấy viên thuốc tây, mình xót lắm :( mình đang phân vân giữa khám ở nha trang và sài gòn ạ cảm ơn mn đã đọc 😭&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Fit_Interview_2249"&gt; /u/Fit_Interview_2249 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1so2cht/điều_trị_xẹp_đốt_sống_cổ_rối_loạn_tiền_đình/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1so2cht/điều_trị_xẹp_đốt_sống_cổ_rối_loạn_tiền_đình/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1so2cht/điều_trị_xẹp_đốt_sống_cổ_rối_loạn_tiền_đình/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-17T14:18:37+00:00</published>
   </entry>
   <entry>
     <id>t3_1so2or3</id>
@@ -190,30 +164,17 @@
     <published>2026-04-17T01:49:04+00:00</published>
   </entry>
   <entry>
-    <id>t3_1snsun7</id>
-    <title>Đầu óc không tập trung</title>
-    <updated>2026-04-17T06:28:41+00:00</updated>
+    <id>t3_1so3hbq</id>
+    <title>Ấn tượng với Hà Nội</title>
+    <updated>2026-04-17T15:00:14+00:00</updated>
     <author>
-      <name>/u/Hoangabi_9x</name>
-      <uri>https://old.reddit.com/user/Hoangabi_9x</uri>
+      <name>/u/Gullible_Ebb6934</name>
+      <uri>https://old.reddit.com/user/Gullible_Ebb6934</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình muốn hỏi ae đang làm việc, nhiều khi không tập trung đầu óc quên trước quên sau!! Không để ý lời nói người khác. Hoặc nhiều lúc có những vấn đề quan trọng... lại làm theo kiểu quoa loa, Bản thân nhiều khi không giỏi trong cv, nhưng lại nhiệt tình. Có người thì thích, có người thì ghét . Nhưng mình thấy mình không có sự nhanh nhẹn, luôn chậm chạp hơn người khác. Phải làm sao&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Hoangabi_9x"&gt; /u/Hoangabi_9x &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1snsun7/đầu_óc_không_tập_trung/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1snsun7/đầu_óc_không_tập_trung/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1snsun7/đầu_óc_không_tập_trung/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình đã sống và làm việc ở Sài Gòn một thời gian khá lâu, trải qua nhiều khu chung cư khác nhau. Cảm nhận cá nhân của mình là ở đây có văn hóa &amp;quot;nhà ai nấy sống&amp;quot;, hầu như mọi người không giao lưu hay biết mặt gọi tên hàng xóm. Nhớ có lần mình chủ động chào hỏi làm quen với một người lúc cùng chờ thang máy tại sảnh, họ lại nhìn mình với ánh mắt khá e dè, cảnh giác.&lt;/p&gt; &lt;p&gt;Thế nhưng, trong chuyến công tác 1 tháng ở Hà Nội vừa rồi, mình ở nhờ nhà người quen, mình lại vô cùng ấn tượng với tình làng nghĩa xóm ở đây. Dù chung cư cũng là nơi hội tụ người tứ xứ, nhưng sự gắn kết lại rất rõ rệt. Cứ mỗi giờ tan tầm, các nhà đều mở cửa, hàng xóm thường xuyên qua lại trò chuyện thân tình. Cuối tuần, các ông thanh niên, trung niên cùng tầng còn hay rủ nhau tụ tập đi nhậu.&lt;/p&gt; &lt;p&gt;Mình thắc mắc không biết sự cởi mở, gắn kết này có phải là văn hóa đặc trưng của các khu chung cư ngoài Hà Nội không nhỉ? Bạn nào đang sinh sống ở Hà Nội vào xác nhận giúp mình với nhé&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Gullible_Ebb6934"&gt; /u/Gullible_Ebb6934 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1so3hbq/ấn_tượng_với_hà_nội/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1so3hbq/ấn_tượng_với_hà_nội/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1so3hbq/ấn_tượng_với_hà_nội/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-17T06:28:41+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1snp5qc</id>
-    <title>Bị công ty nợ lương hơn 70 củ</title>
-    <updated>2026-04-17T03:17:40+00:00</updated>
-    <author>
-      <name>/u/Select-School-7553</name>
-      <uri>https://old.reddit.com/user/Select-School-7553</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Xin chào các bác, mình kể luôn khỏi vòng vo nhé&lt;br /&gt; Mình đang bị công ty nợ hơn 70 củ, mình làm việc ở đây tính đến tháng 3/2026 là hơn 5 năm, 1 2 năm đầu thì công ty vẫn trả đủ, nhưng sau dịch thì tình hình bắt đầu đi xuống, từ trả chậm vài ngày, rồi 5 7 ngày, hoặc trả 30 40%... Cho đến khoảng 2 năm gần đây, thì dường như mỗi tháng mình đều phải nhắn tin cho chủ để XIN được nhận lương, và con số nhận được là 5tr, 7tr, nếu bác chai mặt đòi nhiều hơn thì vẫn có, nhưng đôi khi còn bị vặn vẹo ngược lại, đọc tới đây chắc các bác chửi mình ngu, mà do công việc cũng nhẹ các bác ạ, với lại mình đã thử xin việc một vài chỗ trong quá trình làm nhưng vẫn không được nhận.&lt;br /&gt; Đến đầu tháng 3/2026, mình nhận được một cú shock là chủ nhắn trực tiếp cho mình, bảo mình hết tháng nghỉ, vì không thể gồng lương nữa, nói mình thông cảm cho chủ, mình vẫn ok đồng ý, vì cũng đã có ý định nghỉ nhưng không dám nhảy. Bên cty lúc này đã nợ mình hơn 70 củ, khi mình nghỉ, phải nhắn 2 3 lần họ mới đưa ra cho cái lộ trình trả nợ lương của họ ( lộ trình là họ tự đưa), cụ thể là mỗi tuần trả mình 5tr, mình thấy chua chua nên đã yêu cầu 2 tuần đầu 10tr, còn lại 5, họ cũng đồng ý, và tính đến hiện tại, mới ở tuần thứ 3, nhưng lần trả 10tr của tuần 2 họ để đến đầu tuần 3 mới trả, còn 5tr của tuần 3 thì chưa thấy đâu.&lt;br /&gt; Mình thật sự quá shock với cách cư xử của một người lớn, chủ doanh nghiệp như thế, suốt 5 năm đi làm, đến lúc nghỉ mình nhận được 1 cái bình nước hàng khuyến mãi của công ty trị giá 70k, và được mời một bữa ăn chung chia tay các bạn khác cũng nghỉ. Thật sự họ không nghỉ đến những lúc mình hy sinh vì công ty, không đòi lương, vẫn đi làm đều đặn hay sao?&lt;br /&gt; Mình không có quen biết quá nhiều, cũng không có quen ai làm nhà nước hay chức cao, nên sắp tới không biết làm sao để có thể đòi lại được tiền nếu họ trở mặt, mong các bác chỉ giúp, nếu có thể đi kiện thì mình có thể kiện được không? có mất phí hay đòi lại được tiền của mình không? mình có HDLD đầy đủ, tin nhắn chụp vẫn còn đây. Đấy là còn chưa kể đến chuyện công ty nợ BHXH 1 năm hơn, ai nghỉ thì mới giải quyết riêng cho người đó.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Select-School-7553"&gt; /u/Select-School-7553 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1snp5qc/bị_công_ty_nợ_lương_hơn_70_củ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1snp5qc/bị_công_ty_nợ_lương_hơn_70_củ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1snp5qc/bị_công_ty_nợ_lương_hơn_70_củ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-17T03:17:40+00:00</published>
+    <published>2026-04-17T15:00:14+00:00</published>
   </entry>
   <entry>
     <id>t3_1sntdbo</id>
@@ -229,30 +190,30 @@
     <published>2026-04-17T06:57:41+00:00</published>
   </entry>
   <entry>
-    <id>t3_1snq27d</id>
-    <title>Nếu không phải vì miếng cơm manh áo thì bạn muốn làm gì?</title>
-    <updated>2026-04-17T04:00:26+00:00</updated>
+    <id>t3_1snp5qc</id>
+    <title>Bị công ty nợ lương hơn 70 củ</title>
+    <updated>2026-04-17T03:17:40+00:00</updated>
     <author>
-      <name>/u/ExcitingVast7214</name>
-      <uri>https://old.reddit.com/user/ExcitingVast7214</uri>
+      <name>/u/Select-School-7553</name>
+      <uri>https://old.reddit.com/user/Select-School-7553</uri>
     </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ExcitingVast7214"&gt; /u/ExcitingVast7214 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1snq27d/nếu_không_phải_vì_miếng_cơm_manh_áo_thì_bạn_muốn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1snq27d/nếu_không_phải_vì_miếng_cơm_manh_áo_thì_bạn_muốn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1snq27d/nếu_không_phải_vì_miếng_cơm_manh_áo_thì_bạn_muốn/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Xin chào các bác, mình kể luôn khỏi vòng vo nhé&lt;br /&gt; Mình đang bị công ty nợ hơn 70 củ, mình làm việc ở đây tính đến tháng 3/2026 là hơn 5 năm, 1 2 năm đầu thì công ty vẫn trả đủ, nhưng sau dịch thì tình hình bắt đầu đi xuống, từ trả chậm vài ngày, rồi 5 7 ngày, hoặc trả 30 40%... Cho đến khoảng 2 năm gần đây, thì dường như mỗi tháng mình đều phải nhắn tin cho chủ để XIN được nhận lương, và con số nhận được là 5tr, 7tr, nếu bác chai mặt đòi nhiều hơn thì vẫn có, nhưng đôi khi còn bị vặn vẹo ngược lại, đọc tới đây chắc các bác chửi mình ngu, mà do công việc cũng nhẹ các bác ạ, với lại mình đã thử xin việc một vài chỗ trong quá trình làm nhưng vẫn không được nhận.&lt;br /&gt; Đến đầu tháng 3/2026, mình nhận được một cú shock là chủ nhắn trực tiếp cho mình, bảo mình hết tháng nghỉ, vì không thể gồng lương nữa, nói mình thông cảm cho chủ, mình vẫn ok đồng ý, vì cũng đã có ý định nghỉ nhưng không dám nhảy. Bên cty lúc này đã nợ mình hơn 70 củ, khi mình nghỉ, phải nhắn 2 3 lần họ mới đưa ra cho cái lộ trình trả nợ lương của họ ( lộ trình là họ tự đưa), cụ thể là mỗi tuần trả mình 5tr, mình thấy chua chua nên đã yêu cầu 2 tuần đầu 10tr, còn lại 5, họ cũng đồng ý, và tính đến hiện tại, mới ở tuần thứ 3, nhưng lần trả 10tr của tuần 2 họ để đến đầu tuần 3 mới trả, còn 5tr của tuần 3 thì chưa thấy đâu.&lt;br /&gt; Mình thật sự quá shock với cách cư xử của một người lớn, chủ doanh nghiệp như thế, suốt 5 năm đi làm, đến lúc nghỉ mình nhận được 1 cái bình nước hàng khuyến mãi của công ty trị giá 70k, và được mời một bữa ăn chung chia tay các bạn khác cũng nghỉ. Thật sự họ không nghỉ đến những lúc mình hy sinh vì công ty, không đòi lương, vẫn đi làm đều đặn hay sao?&lt;br /&gt; Mình không có quen biết quá nhiều, cũng không có quen ai làm nhà nước hay chức cao, nên sắp tới không biết làm sao để có thể đòi lại được tiền nếu họ trở mặt, mong các bác chỉ giúp, nếu có thể đi kiện thì mình có thể kiện được không? có mất phí hay đòi lại được tiền của mình không? mình có HDLD đầy đủ, tin nhắn chụp vẫn còn đây. Đấy là còn chưa kể đến chuyện công ty nợ BHXH 1 năm hơn, ai nghỉ thì mới giải quyết riêng cho người đó.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Select-School-7553"&gt; /u/Select-School-7553 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1snp5qc/bị_công_ty_nợ_lương_hơn_70_củ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1snp5qc/bị_công_ty_nợ_lương_hơn_70_củ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1snp5qc/bị_công_ty_nợ_lương_hơn_70_củ/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-17T04:00:26+00:00</published>
+    <published>2026-04-17T03:17:40+00:00</published>
   </entry>
   <entry>
-    <id>t3_1snvdlu</id>
-    <title>người yêu hiện tại và vợ cũ của ảnh vẫn còn follow và thả tim video nhau trên tóp tóp</title>
-    <updated>2026-04-17T08:53:30+00:00</updated>
+    <id>t3_1snsun7</id>
+    <title>Đầu óc không tập trung</title>
+    <updated>2026-04-17T06:28:41+00:00</updated>
     <author>
-      <name>/u/haha_iknowulikeme</name>
-      <uri>https://old.reddit.com/user/haha_iknowulikeme</uri>
+      <name>/u/Hoangabi_9x</name>
+      <uri>https://old.reddit.com/user/Hoangabi_9x</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Dạ em chào mọi người, em rối quá nên có thể văn phong sẽ hơi lủng củng mong mọi người du di nha. &lt;/p&gt; &lt;p&gt;Chuyện là trưa nay em nằm nghỉ trưa, rảnh rỗi sinh nông nổi nên lần mò tìm xem ny em tim những vid gì trên tóp tóp (em hơi tọc mạch quá), sau đó mới tình cờ thấy anh ny có thả tim vid của vợ cũ của ảnh. Em hơi nghi nghi nên có thử tìm trong danh sách follower của cả ảnh và chị đó thì biết được cả hai vẫn còn follow nhau. Trong khi trước đó anh lại nói với em sau khi hai người ly hôn thì đã cắt đứt liên lạc, chỉ thỉnh thoảng liên lạc nhau qua số điện thoại để ảnh thăm hỏi con chung của hai người. Em được nghe kể là hai người đã ly hôn được 8 năm (ảnh kể chứ em không xác định được có phải vậy không), nguyên nhân là do chị kia có lỗi trong hôn nhân. Liệu em có đang suy nghĩ quá nhiều không mọi người ơi? Vì em nghe anh nói là chị cũng đã tái hôn và đang êm ấm. Em không muốn nghi ngờ bậy bạ làm oan uổng người khác. Mong mọi người cho em lời khuyên nha. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/haha_iknowulikeme"&gt; /u/haha_iknowulikeme &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1snvdlu/người_yêu_hiện_tại_và_vợ_cũ_của_ảnh_vẫn_còn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1snvdlu/người_yêu_hiện_tại_và_vợ_cũ_của_ảnh_vẫn_còn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1snvdlu/người_yêu_hiện_tại_và_vợ_cũ_của_ảnh_vẫn_còn/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình muốn hỏi ae đang làm việc, nhiều khi không tập trung đầu óc quên trước quên sau!! Không để ý lời nói người khác. Hoặc nhiều lúc có những vấn đề quan trọng... lại làm theo kiểu quoa loa, Bản thân nhiều khi không giỏi trong cv, nhưng lại nhiệt tình. Có người thì thích, có người thì ghét . Nhưng mình thấy mình không có sự nhanh nhẹn, luôn chậm chạp hơn người khác. Phải làm sao&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Hoangabi_9x"&gt; /u/Hoangabi_9x &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1snsun7/đầu_óc_không_tập_trung/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1snsun7/đầu_óc_không_tập_trung/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1snsun7/đầu_óc_không_tập_trung/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-17T08:53:30+00:00</published>
+    <published>2026-04-17T06:28:41+00:00</published>
   </entry>
   <entry>
     <id>t3_1so1d8a</id>
@@ -268,17 +229,43 @@
     <published>2026-04-17T13:42:22+00:00</published>
   </entry>
   <entry>
-    <id>t3_1so0gx8</id>
-    <title>Tôi đặc biệt hãy chú ý đến tôi.</title>
-    <updated>2026-04-17T13:07:04+00:00</updated>
+    <id>t3_1snvdlu</id>
+    <title>người yêu hiện tại và vợ cũ của ảnh vẫn còn follow và thả tim video nhau trên tóp tóp</title>
+    <updated>2026-04-17T08:53:30+00:00</updated>
     <author>
-      <name>/u/Artistic-Draft9288</name>
-      <uri>https://old.reddit.com/user/Artistic-Draft9288</uri>
+      <name>/u/haha_iknowulikeme</name>
+      <uri>https://old.reddit.com/user/haha_iknowulikeme</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Yeah, tôi không thể nào viết những từ ngữ thô tục do nội quy của cái nhóm này hay gọi là cái gì cũng được. Tôi chào ngôi trường đã mang lại cho tôi những ký ức chó đ.ẻ nhất cuộc đời, tôi chào những đứa bạn đã hại tôi. Tôi biết đó chỉ là cái cớ để bọn nó bu vào tấn công tôi để đạt được mục đích cá nhân thông qua tập thể. Tình yêu tuổi học trò, thanh xuân cấp 3 là thứ xàm xí và ngu xuẩn nhất tôi từng nghe. Xin chào những con người đang hạnh phúc ngoài kia. Tôi bị xàm lol và đang viết những cái dòng này. Yeah, lúc nào tôi cũng chịu những viễn cảnh tăm tối của cuộc đời, ừ tôi đang than vãn đấy. Cuộc sống luôn đối xử bất công với tôi hoặc tôi nghĩ vậy. Tại sao tôi luôn bị cả tập thể bắt nạt dù tôi chẳng làm gì ảnh hưởng tới ai, tôi luôn làm vì lợi ích bản thân, đúng vậy tôi là người ích kỷ và tôi mặc kệ sự đời. Sao cuộc sống của tôi quá đỗi tệ hại, tôi không nghĩ bản thân có bất kỳ khoản thời gian hạnh phúc nào trong 3 năm gần đây. Tôi chẳng thể có à giữu nỗi người con gái tôi thích hoặc tôi nghĩ vậy, ừ tôi vô dụng, bất tài, kém cỏi, tự ti, súc vật, biến thái, lùn đụt, cận, trĩ. Trước đây tôi có một giấc mơ để sống nhưng cũng chỉ dừng lại ở giấc mơ. Bây giờ tôi biết điều đó là ảo tưởng, xàm lol, do cái tôi cao mà tự thẩm tinh thần. Nếu có thể nghĩ ra được cái thói xấu, hiện tượng tiêu cực nào thì tôi có 80% trong số đó. Ừ, tôi tệ vậy đấy. Tôi cũng chả thể chửi vì cái post này sẽ không được duyệt. Tôi hận tất cả mọi thứ &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Artistic-Draft9288"&gt; /u/Artistic-Draft9288 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1so0gx8/tôi_đặc_biệt_hãy_chú_ý_đến_tôi/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1so0gx8/tôi_đặc_biệt_hãy_chú_ý_đến_tôi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1so0gx8/tôi_đặc_biệt_hãy_chú_ý_đến_tôi/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Dạ em chào mọi người, em rối quá nên có thể văn phong sẽ hơi lủng củng mong mọi người du di nha. &lt;/p&gt; &lt;p&gt;Chuyện là trưa nay em nằm nghỉ trưa, rảnh rỗi sinh nông nổi nên lần mò tìm xem ny em tim những vid gì trên tóp tóp (em hơi tọc mạch quá), sau đó mới tình cờ thấy anh ny có thả tim vid của vợ cũ của ảnh. Em hơi nghi nghi nên có thử tìm trong danh sách follower của cả ảnh và chị đó thì biết được cả hai vẫn còn follow nhau. Trong khi trước đó anh lại nói với em sau khi hai người ly hôn thì đã cắt đứt liên lạc, chỉ thỉnh thoảng liên lạc nhau qua số điện thoại để ảnh thăm hỏi con chung của hai người. Em được nghe kể là hai người đã ly hôn được 8 năm (ảnh kể chứ em không xác định được có phải vậy không), nguyên nhân là do chị kia có lỗi trong hôn nhân. Liệu em có đang suy nghĩ quá nhiều không mọi người ơi? Vì em nghe anh nói là chị cũng đã tái hôn và đang êm ấm. Em không muốn nghi ngờ bậy bạ làm oan uổng người khác. Mong mọi người cho em lời khuyên nha. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/haha_iknowulikeme"&gt; /u/haha_iknowulikeme &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1snvdlu/người_yêu_hiện_tại_và_vợ_cũ_của_ảnh_vẫn_còn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1snvdlu/người_yêu_hiện_tại_và_vợ_cũ_của_ảnh_vẫn_còn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1snvdlu/người_yêu_hiện_tại_và_vợ_cũ_của_ảnh_vẫn_còn/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-17T13:07:04+00:00</published>
+    <published>2026-04-17T08:53:30+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1snq27d</id>
+    <title>Nếu không phải vì miếng cơm manh áo thì bạn muốn làm gì?</title>
+    <updated>2026-04-17T04:00:26+00:00</updated>
+    <author>
+      <name>/u/ExcitingVast7214</name>
+      <uri>https://old.reddit.com/user/ExcitingVast7214</uri>
+    </author>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ExcitingVast7214"&gt; /u/ExcitingVast7214 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1snq27d/nếu_không_phải_vì_miếng_cơm_manh_áo_thì_bạn_muốn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1snq27d/nếu_không_phải_vì_miếng_cơm_manh_áo_thì_bạn_muốn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1snq27d/nếu_không_phải_vì_miếng_cơm_manh_áo_thì_bạn_muốn/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-04-17T04:00:26+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1so2cht</id>
+    <title>điều trị xẹp đốt sống cổ, rối loạn tiền đình</title>
+    <updated>2026-04-17T14:18:37+00:00</updated>
+    <author>
+      <name>/u/Fit_Interview_2249</name>
+      <uri>https://old.reddit.com/user/Fit_Interview_2249</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;chào mn, mình suy nghĩ mãi mới quyết định đăng bài. Mẹ mình hiện tại 65 tuổi, bị xẹp 3 đốt sống cổ, tháng vừa rồi nhập viện 3 lần vì bị rối loạn tiền đình, nôn mửa. Mình đăng bài này khẩn thiết mong mn có thể chỉ cho mình nên đưa mẹ đi khám ở đâu ạ? Bệnh viện chỗ mình chỉ cho truyền nước với uống mấy viên thuốc tây, mình xót lắm :( mình đang phân vân giữa khám ở nha trang và sài gòn ạ cảm ơn mn đã đọc 😭&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Fit_Interview_2249"&gt; /u/Fit_Interview_2249 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1so2cht/điều_trị_xẹp_đốt_sống_cổ_rối_loạn_tiền_đình/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1so2cht/điều_trị_xẹp_đốt_sống_cổ_rối_loạn_tiền_đình/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1so2cht/điều_trị_xẹp_đốt_sống_cổ_rối_loạn_tiền_đình/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-04-17T14:18:37+00:00</published>
   </entry>
   <entry>
     <id>t3_1sntmqy</id>
@@ -292,6 +279,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1sntmqy/đi_đâu_tìm_ny/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-04-17T07:12:05+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1so0gx8</id>
+    <title>Tôi đặc biệt hãy chú ý đến tôi.</title>
+    <updated>2026-04-17T13:07:04+00:00</updated>
+    <author>
+      <name>/u/Artistic-Draft9288</name>
+      <uri>https://old.reddit.com/user/Artistic-Draft9288</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Yeah, tôi không thể nào viết những từ ngữ thô tục do nội quy của cái nhóm này hay gọi là cái gì cũng được. Tôi chào ngôi trường đã mang lại cho tôi những ký ức chó đ.ẻ nhất cuộc đời, tôi chào những đứa bạn đã hại tôi. Tôi biết đó chỉ là cái cớ để bọn nó bu vào tấn công tôi để đạt được mục đích cá nhân thông qua tập thể. Tình yêu tuổi học trò, thanh xuân cấp 3 là thứ xàm xí và ngu xuẩn nhất tôi từng nghe. Xin chào những con người đang hạnh phúc ngoài kia. Tôi bị xàm lol và đang viết những cái dòng này. Yeah, lúc nào tôi cũng chịu những viễn cảnh tăm tối của cuộc đời, ừ tôi đang than vãn đấy. Cuộc sống luôn đối xử bất công với tôi hoặc tôi nghĩ vậy. Tại sao tôi luôn bị cả tập thể bắt nạt dù tôi chẳng làm gì ảnh hưởng tới ai, tôi luôn làm vì lợi ích bản thân, đúng vậy tôi là người ích kỷ và tôi mặc kệ sự đời. Sao cuộc sống của tôi quá đỗi tệ hại, tôi không nghĩ bản thân có bất kỳ khoản thời gian hạnh phúc nào trong 3 năm gần đây. Tôi chẳng thể có à giữu nỗi người con gái tôi thích hoặc tôi nghĩ vậy, ừ tôi vô dụng, bất tài, kém cỏi, tự ti, súc vật, biến thái, lùn đụt, cận, trĩ. Trước đây tôi có một giấc mơ để sống nhưng cũng chỉ dừng lại ở giấc mơ. Bây giờ tôi biết điều đó là ảo tưởng, xàm lol, do cái tôi cao mà tự thẩm tinh thần. Nếu có thể nghĩ ra được cái thói xấu, hiện tượng tiêu cực nào thì tôi có 80% trong số đó. Ừ, tôi tệ vậy đấy. Tôi cũng chả thể chửi vì cái post này sẽ không được duyệt. Tôi hận tất cả mọi thứ &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Artistic-Draft9288"&gt; /u/Artistic-Draft9288 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1so0gx8/tôi_đặc_biệt_hãy_chú_ý_đến_tôi/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1so0gx8/tôi_đặc_biệt_hãy_chú_ý_đến_tôi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1so0gx8/tôi_đặc_biệt_hãy_chú_ý_đến_tôi/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-04-17T13:07:04+00:00</published>
   </entry>
   <entry>
     <id>t3_1snzqkj</id>
