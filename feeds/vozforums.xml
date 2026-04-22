@@ -2,37 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-04-22T10:20:17+00:00</updated>
+  <updated>2026-04-22T11:36:55+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1ssb5vs</id>
-    <title>Hiện tại có ai dạy theo sách này không ạ?</title>
-    <updated>2026-04-22T04:30:28+00:00</updated>
-    <author>
-      <name>/u/gggbbb9993</name>
-      <uri>https://old.reddit.com/user/gggbbb9993</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1ssb5vs/hiện_tại_có_ai_dạy_theo_sách_này_không_ạ/"&gt; &lt;img alt="Hiện tại có ai dạy theo sách này không ạ?" src="https://preview.redd.it/e73umffg6owg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=a8d97e1a41cf7df964139a2a819d2cd172672ebe" title="Hiện tại có ai dạy theo sách này không ạ?" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;E đang đki 190k/90' học với sách này học kiểu dựa vào từ vựng trong sách rồi đưa ra câu tiếng Việt sau đó dịch sang tiếng Anh&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/gggbbb9993"&gt; /u/gggbbb9993 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/e73umffg6owg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ssb5vs/hiện_tại_có_ai_dạy_theo_sách_này_không_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ssb5vs/hiện_tại_có_ai_dạy_theo_sách_này_không_ạ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-22T04:30:28+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1ssfd0r</id>
-    <title>Học TA theo sách</title>
-    <updated>2026-04-22T08:25:13+00:00</updated>
-    <author>
-      <name>/u/gggbbb9993</name>
-      <uri>https://old.reddit.com/user/gggbbb9993</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1ssfd0r/học_ta_theo_sách/"&gt; &lt;img alt="Học TA theo sách" src="https://preview.redd.it/z17z1k9ccpwg1.jpg?width=140&amp;amp;height=140&amp;amp;crop=1:1,smart&amp;amp;auto=webp&amp;amp;s=d95ceed3730a438f2de3bdb0a0cfbe3508672d2b" title="Học TA theo sách" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Có ai đang dạy hay học theo sách này ko ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/gggbbb9993"&gt; /u/gggbbb9993 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1ssfd0r"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ssfd0r/học_ta_theo_sách/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ssfd0r/học_ta_theo_sách/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-22T08:25:13+00:00</published>
-  </entry>
   <entry>
     <id>t3_1srokwu</id>
     <title>Đúng là ta đi làm cũng chỉ vì tiền mà thôi</title>
@@ -47,17 +21,17 @@
     <published>2026-04-21T14:02:01+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ssflvk</id>
-    <title>Cách check xem Website có nhận traffic từ ChatGPT không? Mình thử đo AI Traffic khi làm GEO</title>
-    <updated>2026-04-22T08:40:05+00:00</updated>
+    <id>t3_1srz4vm</id>
+    <title>NHỮNG KÍ ỨC ÁM ẢNH QUAY VỀ</title>
+    <updated>2026-04-21T20:07:29+00:00</updated>
     <author>
-      <name>/u/TaroValuable2533</name>
-      <uri>https://old.reddit.com/user/TaroValuable2533</uri>
+      <name>/u/Away_Tell5684</name>
+      <uri>https://old.reddit.com/user/Away_Tell5684</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người,&lt;/p&gt; &lt;p&gt;Dạo gần đây mình đang tìm hiểu về &lt;strong&gt;AI traffic &amp;amp; GEO (Generative Engine Optimization)&lt;/strong&gt; nên có test thử một số tool để xem thực tế traffic từ AI về website như thế nào.&lt;/p&gt; &lt;p&gt;Hôm nay mình thử với &lt;strong&gt;Similarweb (bản AI Traffic)&lt;/strong&gt; và quay lại 1 video demo ngắn cách nó hoạt động.&lt;/p&gt; &lt;p&gt;👉 Video mình để ở dưới (demo cách đo traffic từ ChatGPT, Perplexity, Gemini…)&lt;/p&gt; &lt;p&gt;&lt;a href="https://reddit.com/link/1ssflvk/video/2lp627bxepwg1/player"&gt;https://reddit.com/link/1ssflvk/video/2lp627bxepwg1/player&lt;/a&gt;&lt;/p&gt; &lt;h1&gt;📊 Một vài thứ mình thấy khá thú vị:&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;Website vẫn &lt;strong&gt;có traffic từ ChatGPT, Perplexity… thật&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;ChatGPT hiện vẫn là nguồn lớn nhất (chiếm phần lớn traffic AI)&lt;/li&gt; &lt;li&gt;Một số site dạng: → lại được AI lấy nhiều hơn landing page &lt;ul&gt; &lt;li&gt;forum&lt;/li&gt; &lt;li&gt;thread thảo luận&lt;/li&gt; &lt;li&gt;bài viết dài, giải thích chi tiết&lt;/li&gt; &lt;/ul&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;🤔 Điều này làm mình nghĩ lại về SEO vs GEO&lt;/h1&gt; &lt;p&gt;Trước giờ làm SEO thì mình quen với:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;keyword ranking&lt;/li&gt; &lt;li&gt;traffic từ Google&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Nhưng với AI search thì có vẻ đang chuyển sang kiểu:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;AI tổng hợp câu trả lời&lt;/li&gt; &lt;li&gt;và &lt;strong&gt;chọn nguồn để trích dẫn&lt;/strong&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;👉 Tức là:&lt;/p&gt; &lt;blockquote&gt; &lt;/blockquote&gt; &lt;h1&gt;❗ Một câu hỏi mình đang tự test:&lt;/h1&gt; &lt;ul&gt; &lt;li&gt;AI có thực sự mang lại traffic đáng kể không?&lt;/li&gt; &lt;li&gt;Hay chủ yếu là zero-click (người dùng đọc xong là thôi)?&lt;/li&gt; &lt;li&gt;Và liệu tối ưu GEO có đáng đầu tư như SEO không?&lt;/li&gt; &lt;/ul&gt; &lt;h1&gt;⚠️ Bonus: mình cũng thấy một số case khá “ảo”&lt;/h1&gt; &lt;p&gt;Có người nói là:&lt;/p&gt; &lt;blockquote&gt; &lt;/blockquote&gt; &lt;p&gt;Nhưng theo những gì mình test và đọc thì:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;AI không học từ chat của user theo kiểu đó&lt;/li&gt; &lt;li&gt;nó vẫn lấy dữ liệu từ web (content public)&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Nên mình hơi nghi ngờ mấy phương pháp kiểu “spam chat” 😅&lt;/p&gt; &lt;h1&gt;📌 Kết lại&lt;/h1&gt; &lt;p&gt;Cảm nhận cá nhân:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;AI traffic là &lt;strong&gt;có thật và đang tăng&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;Nhưng vẫn còn khá mới&lt;/li&gt; &lt;li&gt;Và cách đo lường / tối ưu vẫn đang rất “early stage”&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Anh em nào đã test GEO hoặc đo AI traffic rồi cho mình xin thêm góc nhìn với 🙏&lt;br /&gt; Đặc biệt là case nào có &lt;strong&gt;conversion thực từ AI&lt;/strong&gt; thì càng hay.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/TaroValuable2533"&gt; /u/TaroValuable2533 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ssflvk/cách_check_xem_website_có_nhận_traffic_từ_chatgpt/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ssflvk/cách_check_xem_website_có_nhận_traffic_từ_chatgpt/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ssflvk/cách_check_xem_website_có_nhận_traffic_từ_chatgpt/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em chào mọi người ạ, em là nữ năm nay hơn 18 tuổi ạ. Em viết những dòng này lúc hơn 1 giờ sáng khi đầu óc trống trải, thật buồn, thật đau. Khóc thì cũng đã khóc, đến bây giờ em cũng không khóc được nữa rồi, em bất lực quá. Em viết vì hy vọng sẽ có ai đó đọc những dòng này, có thể lắng nghe em và mong ai đó có thể cho em một lời khuyên ạ. Bài có hơi dài và chắc cũng sẽ có chỗ lủng củng vì cũng rất lâu rồi em không hay viết lách ạ. Mong là mọi người vẫn đọc được và thông cảm cho em ạ. Em xin phép ạ.&lt;/p&gt; &lt;p&gt;Dạo này em có linh cảm mẹ của em đang giấu gia đình điều gì, em có cảm giác những ngày tháng đau khổ và đầy tuyệt vọng cách đây 4 năm của gia đình em lại lặp lại. Em linh cảm mẹ em đang có mối quan hệ mập mờ với ai đó, dù em chưa tìm bằng chứng cụ thể như tin nhắn hay gì cả. Nhưng điều khiến em linh cảm như vậy bắt đầu từ việc cảm thấy hành động, nét mặt của mẹ em khác với trước đây. Em nghĩ mình là người khá nhạy cảm và hay nghĩ nhiều mọi việc nên khi trong gia đình hay các thành viên có thái độ lạ một chút là em có thể cảm nhận được. Em đã nghĩ thay vì cứ hoài nghi, em có thể xem điện thoại của mẹ để xem có phải mọi thứ như em đang nghĩ không. Nhưng em sợ lắm, bởi em sợ nếu linh cảm của em đúng, em sẽ phải đối diện với sự thật mà em không hề muốn chút nào. Bởi lẽ cách đây 4 năm gia đình em cũng lục đục, và cũng bắt đầu từ câu chuyện tương tự như vậy: mẹ cũng chăm chú nhắn tin, có người gọi đến sẽ vặn nhỏ loa, cũng hay bảo đi tối để mua đồ. &lt;/p&gt; &lt;p&gt;Quay về thời điểm đó là lúc em đang ôn thi chuyển cấp lên lớp 10. Đêm hôm đó em ngồi ôn bài, cả nhà cũng ngủ rồi và em có vào phòng mẹ mượn điện thoại để học, mẹ em có ngủ rồi nhưng bình thường mẹ vẫn cho phép dùng. Và cũng chẳng biết thế nào, có gì đó thôi thúc em mở mess của mẹ, có lẽ cũng do những bất an và những hoài nghi suốt một khoảng thời gian về mẹ. Rồi em vào mục search bạn bè, bấm vào nick một người đàn ông lạ thì thấy đoạn tin nhắn đó được tắt thông báo. Linh cảm của em không sai, em có lướt thì đúng là mẹ em có mối quan hệ ngoài luồng. Lúc đó em hoảng quá nên chỉ đọc một chút thôi rồi thoát ra và òa lên khóc. Em còn nhớ lúc đó đang ôn bài &amp;quot;Nói với con&amp;quot; của nhà thơ Y Phương nữa. Bài thơ về tình cảm gia đình mà sao trớ trêu quá, nên em lại càng khóc lớn hơn. Bố mẹ nghe thấy em khóc thì ra ngoài hỏi han em. Lúc đó bố và mẹ hẳn cũng có những suy nghĩ riêng. Và đúng là bố em cũng đã ngờ ngợ rằng mẹ em không ổn. Còn mẹ thì biết em đã biết chuyện mẹ giấu gia đình. Bố em là người có tính tình khá hiền lành, nên lúc đó mọi việc cũng không đi quá xa. &lt;/p&gt; &lt;p&gt;Em vẫn nhớ ngày hôm sau đó bố em ở nhà, và buổi sáng em có nghỉ học còn mẹ em thì đi chợ. Bố và em cũng tâm sự, bố muốn hàn gắn với mẹ, bố bảo em kể cho bố nghe xem đã đọc được tin nhắn gì, và bố bảo thật ra bố cũng đã nghi trước đó rồi. Hôm đó là một ngày thật tệ, chắc cũng là lần hiếm hoi hai bố con nói chuyện như vậy vì bố và em trước đây không hay tâm sự gì cả, mọi việc thường là thông qua mẹ hơn. Khóc lóc em nói với bố: Bây giờ con không biết phải sống thế nào, không biết sau này thế nào, thi cử vào cắp 3,... Bố có bảo rằng bây giờ không sao hết, đây là mẹ mới như vậy nên vẫn còn xử lý được kịp thời, mọi chuyện vẫn chưa đi quá, con hãy cứ ôn thi, cứ mạnh mẽ để bố giải quyết. &lt;/p&gt; &lt;p&gt;Em chỉ buồn không nghĩ mẹ là người như vậy. Mẹ vốn là người nghiêm khắc, và khi mọi việc xảy tới, em thực sự rất hoảng, mất niềm tin vào mẹ. Nhưng rồi khi thời gian trôi đi, mọi thứ cũng quay về nhịp sống cũ. Gia đình em vẫn ổn, thật ra từ trước tới nay mẹ vẫn rất thương và tạo điều kiện cho chúng em ăn học, mọi thứ vẫn rất tốt, chỉ là em không nghĩ có một ngày gia đình em lại trải qua biến cố ấy.&lt;/p&gt; &lt;p&gt;4 năm qua. Đôi lúc em cũng thấy mẹ em có gì đó lạ nhưng rồi em nhủ do em bị ám ảnh một phần nên cũng gạt đi không để ý nhiều nữa. Nhưng thỉnh thoảng em ngồi nghĩ về chuyện cũ thì buồn và đau lắm. Đôi lúc em tự hỏi, như vậy mẹ của mình không phải là một người mẹ như mình mong có phải không. Em nhủ mình phải tự chấp nhận, phải đối diện và học cách tha thứ vì mọi sự cũng chẳng thể thay đổi, em cứ cố gắng để kí ức buồn đó vào một góc thôi. Nhưng đôi khi chuyện này vẫn cứ hiện lên trong vô thức, em cũng đề phòng hơn với mẹ, và không còn tin tưởng mẹ được như trước nữa. Thật sự khó khăn với em.&lt;/p&gt; &lt;p&gt;Và tới bây giờ, khi cảm giác lo sợ ngày ấy quay lại mãnh liệt hơn bao giờ hết. Em đã nghĩ suốt mấy ngày nay nhưng chưa đủ dũng khí để làm gì cả. Nếu mọi việc đang lệch quỹ đạo, em thấy thương bố, thương các em của em quá. Em sợ rằng một ngày nào đó gia đình sẽ không còn nguyên vẹn, sợ bố em sẽ mệt mỏi, và liệu bố sẽ tha thứ một lần nữa chứ. Rồi những đứa em của em vẫn còn học cấp 1, cấp 2 nếu chúng nó biết được mẹ như vậy, hẳn sẽ buồn lắm. Em đang ở nhà ôn thi lại đại học, nên quãng thời gian này khá áp lực, em không thể nào dồn toàn tâm toàn ý cho việc ôn thi nữa. &lt;/p&gt; &lt;p&gt;Em viết tới đây chắc cũng hết tâm sự rồi ạ. Em cảm ơn anh chị đã dành thời gian để lắng nghe em. Em cũng xin lỗi nếu câu chuyện tiêu cực này làm ảnh hưởng tới tâm trạng của mọi người ạ. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Away_Tell5684"&gt; /u/Away_Tell5684 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1srz4vm/những_kí_ức_ám_ảnh_quay_về/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1srz4vm/những_kí_ức_ám_ảnh_quay_về/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1srz4vm/những_kí_ức_ám_ảnh_quay_về/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-22T08:40:05+00:00</published>
+    <published>2026-04-21T20:07:29+00:00</published>
   </entry>
   <entry>
     <id>t3_1ssg81c</id>
@@ -71,19 +45,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ssg81c/xin_tư_vấn_về_điều_hòa/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-04-22T09:14:47+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1ssg8a0</id>
-    <title>mọi người cho em hỏi, dấu chấm (.) ở đây là kí hiệu thập phân hay là chục/ trăm nghìn ạ?</title>
-    <updated>2026-04-22T09:15:11+00:00</updated>
-    <author>
-      <name>/u/Alarmed_Program265</name>
-      <uri>https://old.reddit.com/user/Alarmed_Program265</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1ssg8a0/mọi_người_cho_em_hỏi_dấu_chấm_ở_đây_là_kí_hiệu/"&gt; &lt;img alt="mọi người cho em hỏi, dấu chấm (.) ở đây là kí hiệu thập phân hay là chục/ trăm nghìn ạ?" src="https://preview.redd.it/jc1juna4lpwg1.png?width=108&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=1e3dcde49cfa6d76c5268d25eb5279839301b770" title="mọi người cho em hỏi, dấu chấm (.) ở đây là kí hiệu thập phân hay là chục/ trăm nghìn ạ?" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Alarmed_Program265"&gt; /u/Alarmed_Program265 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/jc1juna4lpwg1.png"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ssg8a0/mọi_người_cho_em_hỏi_dấu_chấm_ở_đây_là_kí_hiệu/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ssg8a0/mọi_người_cho_em_hỏi_dấu_chấm_ở_đây_là_kí_hiệu/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-22T09:15:11+00:00</published>
   </entry>
   <entry>
     <id>t3_1ssct15</id>
@@ -138,6 +99,19 @@
     <published>2026-04-22T04:52:20+00:00</published>
   </entry>
   <entry>
+    <id>t3_1ssi3rx</id>
+    <title>trai bisexual</title>
+    <updated>2026-04-22T10:58:46+00:00</updated>
+    <author>
+      <name>/u/Competitive_Hand8359</name>
+      <uri>https://old.reddit.com/user/Competitive_Hand8359</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;là do tôi dị hay tôi thực sự thấy mấy bạn trai bisexual thực sự rất thú vị cuốn hút hả ae :)) trai thẳng không thích mà phải trai bi trai fem mới chịu đc, à tôi là nữ =))&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Competitive_Hand8359"&gt; /u/Competitive_Hand8359 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ssi3rx/trai_bisexual/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ssi3rx/trai_bisexual/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ssi3rx/trai_bisexual/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-04-22T10:58:46+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1ss6e0g</id>
     <title>Sa sút trí tuệ? Hay chỉ là lối xưa không đi?</title>
     <updated>2026-04-22T00:53:28+00:00</updated>
@@ -164,6 +138,19 @@
     <published>2026-04-22T05:37:55+00:00</published>
   </entry>
   <entry>
+    <id>t3_1ssivhl</id>
+    <title>Hạnh phúc</title>
+    <updated>2026-04-22T11:36:15+00:00</updated>
+    <author>
+      <name>/u/Own-Treat8980</name>
+      <uri>https://old.reddit.com/user/Own-Treat8980</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Bạn nghĩ hạnh phúc là gì&lt;/p&gt; &lt;p&gt;Có nhà triết học từng nói nếu bạn giác ngộ thì cuộc sống chính là để tận hưởng kết hôn là để tận hưởng, ly hôn cũng là để tận hưởng du sơn ngoạn thủy cũng là tận hưởng. Ốm đau nằm viện cũng là tận hưởng. Nếu bạn nghĩ thông suốt thì ta đến nhân gian này là để trải nghiệm ,dù sống cuộc đời bình thường thì ta vẫn có thể cảm nhận niềm vui trong những cuộc điều bình dị cuộc đời không có ý nghĩa cố định. Nếu đã đến chơi thì không cần quá nghiêm trọng đối với đau khổ, không cần quá chấp niệm đối với được mất buồn thì cứ buồn, đau khổ thì cứ đau khổ . Lên núi thì là lên núi, chặt củi thì là chặt củi, thổi cơm thì là thổi cơm. Nếu bạn nghĩ lên núi là để chặt củi, chặt củi là để nấu cơm thì cuộc sống sẽ rất mệt mỏi&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Own-Treat8980"&gt; /u/Own-Treat8980 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ssivhl/hạnh_phúc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ssivhl/hạnh_phúc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ssivhl/hạnh_phúc/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-04-22T11:36:15+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1srmj9q</id>
     <title>Nên tiếp tục hay dừng</title>
     <updated>2026-04-21T12:42:46+00:00</updated>
@@ -175,6 +162,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1srmj9q/nên_tiếp_tục_hay_dừng/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-04-21T12:42:46+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ss3ozy</id>
+    <title>Không biết có ai còn đang nhỡ lãng phí lòng tốt cho cái doanh nghiệp kinh doanh mặt hàng "ủng hộ nhân đạo" này không. Nó đang sale nhân đôi nè. Hồi trước tôi cũng từng cả tin, nhỡ subscribe tận mấy tháng tiền Usd liền.</title>
+    <updated>2026-04-21T22:57:55+00:00</updated>
+    <author>
+      <name>/u/origaminhh</name>
+      <uri>https://old.reddit.com/user/origaminhh</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1ss3ozy/không_biết_có_ai_còn_đang_nhỡ_lãng_phí_lòng_tốt/"&gt; &lt;img alt="Không biết có ai còn đang nhỡ lãng phí lòng tốt cho cái doanh nghiệp kinh doanh mặt hàng &amp;quot;ủng hộ nhân đạo&amp;quot; này không. Nó đang sale nhân đôi nè. Hồi trước tôi cũng từng cả tin, nhỡ subscribe tận mấy tháng tiền Usd liền." src="https://preview.redd.it/2xyiiwm4jmwg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=538f563023f2d9fab244cf8bf2ebd5cf26bbbef3" title="Không biết có ai còn đang nhỡ lãng phí lòng tốt cho cái doanh nghiệp kinh doanh mặt hàng &amp;quot;ủng hộ nhân đạo&amp;quot; này không. Nó đang sale nhân đôi nè. Hồi trước tôi cũng từng cả tin, nhỡ subscribe tận mấy tháng tiền Usd liền." /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mặt hàng sản phẩm giúp cho khách hàng đỡ day dứt tâm can, nay đang sale nhân đôi, thời gian có giới hạn. Ủng hộ $10 nhưng bớt day dứt hơn tận $20.&lt;/p&gt; &lt;p&gt;Đừng để ảo ảnh của cô gái ngây thơ trong ảnh đánh lừa cho mình không nhận ra sự tồn tại của kẻ đang click chuột điều hành những chiến dịch quảng cáo này qua công cụ quản lý campaign của facebook ads, kẻ mà rõ ràng không phải là cô gái ngây thơ kia. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/origaminhh"&gt; /u/origaminhh &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/2xyiiwm4jmwg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ss3ozy/không_biết_có_ai_còn_đang_nhỡ_lãng_phí_lòng_tốt/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ss3ozy/không_biết_có_ai_còn_đang_nhỡ_lãng_phí_lòng_tốt/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-04-21T22:57:55+00:00</published>
   </entry>
   <entry>
     <id>t3_1ssbonv</id>
@@ -203,19 +203,6 @@
     <published>2026-04-21T16:51:53+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ss3ozy</id>
-    <title>Không biết có ai còn đang nhỡ lãng phí lòng tốt cho cái doanh nghiệp kinh doanh mặt hàng "ủng hộ nhân đạo" này không. Nó đang sale nhân đôi nè. Hồi trước tôi cũng từng cả tin, nhỡ subscribe tận mấy tháng tiền Usd liền.</title>
-    <updated>2026-04-21T22:57:55+00:00</updated>
-    <author>
-      <name>/u/origaminhh</name>
-      <uri>https://old.reddit.com/user/origaminhh</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1ss3ozy/không_biết_có_ai_còn_đang_nhỡ_lãng_phí_lòng_tốt/"&gt; &lt;img alt="Không biết có ai còn đang nhỡ lãng phí lòng tốt cho cái doanh nghiệp kinh doanh mặt hàng &amp;quot;ủng hộ nhân đạo&amp;quot; này không. Nó đang sale nhân đôi nè. Hồi trước tôi cũng từng cả tin, nhỡ subscribe tận mấy tháng tiền Usd liền." src="https://preview.redd.it/2xyiiwm4jmwg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=538f563023f2d9fab244cf8bf2ebd5cf26bbbef3" title="Không biết có ai còn đang nhỡ lãng phí lòng tốt cho cái doanh nghiệp kinh doanh mặt hàng &amp;quot;ủng hộ nhân đạo&amp;quot; này không. Nó đang sale nhân đôi nè. Hồi trước tôi cũng từng cả tin, nhỡ subscribe tận mấy tháng tiền Usd liền." /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mặt hàng sản phẩm giúp cho khách hàng đỡ day dứt tâm can, nay đang sale nhân đôi, thời gian có giới hạn. Ủng hộ $10 nhưng bớt day dứt hơn tận $20.&lt;/p&gt; &lt;p&gt;Đừng để ảo ảnh của cô gái ngây thơ trong ảnh đánh lừa cho mình không nhận ra sự tồn tại của kẻ đang click chuột điều hành những chiến dịch quảng cáo này qua công cụ quản lý campaign của facebook ads, kẻ mà rõ ràng không phải là cô gái ngây thơ kia. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/origaminhh"&gt; /u/origaminhh &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/2xyiiwm4jmwg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ss3ozy/không_biết_có_ai_còn_đang_nhỡ_lãng_phí_lòng_tốt/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ss3ozy/không_biết_có_ai_còn_đang_nhỡ_lãng_phí_lòng_tốt/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-21T22:57:55+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1ss8m25</id>
     <title>Suy nghĩ về cách cư xử với người khác</title>
     <updated>2026-04-22T02:31:11+00:00</updated>
@@ -229,17 +216,17 @@
     <published>2026-04-22T02:31:11+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ssedwa</id>
-    <title>Với những ai HS lần đầu tiên, điều bạn lo lắng nhất trước khi HS là gì và kết quả ra sao?</title>
-    <updated>2026-04-22T07:27:33+00:00</updated>
+    <id>t3_1ssg8a0</id>
+    <title>mọi người cho em hỏi, dấu chấm (.) ở đây là kí hiệu thập phân hay là chục/ trăm nghìn ạ?</title>
+    <updated>2026-04-22T09:15:11+00:00</updated>
     <author>
-      <name>/u/Ok-Prune-5011</name>
-      <uri>https://old.reddit.com/user/Ok-Prune-5011</uri>
+      <name>/u/Alarmed_Program265</name>
+      <uri>https://old.reddit.com/user/Alarmed_Program265</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình chưa có kinh nghiệm nên mình muốn hỏi trải nghiêm của mọi người. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ok-Prune-5011"&gt; /u/Ok-Prune-5011 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ssedwa/với_những_ai_hs_lần_đầu_tiên_điều_bạn_lo_lắng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ssedwa/với_những_ai_hs_lần_đầu_tiên_điều_bạn_lo_lắng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ssedwa/với_những_ai_hs_lần_đầu_tiên_điều_bạn_lo_lắng/"/>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1ssg8a0/mọi_người_cho_em_hỏi_dấu_chấm_ở_đây_là_kí_hiệu/"&gt; &lt;img alt="mọi người cho em hỏi, dấu chấm (.) ở đây là kí hiệu thập phân hay là chục/ trăm nghìn ạ?" src="https://preview.redd.it/jc1juna4lpwg1.png?width=108&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=1e3dcde49cfa6d76c5268d25eb5279839301b770" title="mọi người cho em hỏi, dấu chấm (.) ở đây là kí hiệu thập phân hay là chục/ trăm nghìn ạ?" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Alarmed_Program265"&gt; /u/Alarmed_Program265 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/jc1juna4lpwg1.png"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ssg8a0/mọi_người_cho_em_hỏi_dấu_chấm_ở_đây_là_kí_hiệu/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ssg8a0/mọi_người_cho_em_hỏi_dấu_chấm_ở_đây_là_kí_hiệu/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-22T07:27:33+00:00</published>
+    <published>2026-04-22T09:15:11+00:00</published>
   </entry>
   <entry>
     <id>t3_1ss91mu</id>
@@ -255,6 +242,32 @@
     <published>2026-04-22T02:50:42+00:00</published>
   </entry>
   <entry>
+    <id>t3_1sshgg2</id>
+    <title>câu chuyện khiến em ám ảnh đến giờ</title>
+    <updated>2026-04-22T10:25:04+00:00</updated>
+    <author>
+      <name>/u/jungleinthedark</name>
+      <uri>https://old.reddit.com/user/jungleinthedark</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;chào mng lại là em đây kể về những vấn đề gia đình của em,vì em không còn nơi nào để kể nên em sẽ tạm kể sơ qua câu chuyện của mình ở đây ạ.Mỗi khi nghỉ hè em thường về nhà bố ruột để chơi ở đó tầm 1 tháng hoặc đến khi đi học lại mới về nhà mẹ đẻ với ông bố dượng,thông thường khi ở nhà bố em,em trai cùng cha khác mẹ (học lớp 5) sẽ ngủ cùng em.Chuyện chẳng có gì đến khi thằng bé mò tay vào áo em 😭😭 em hay thức khuya nên lúc nó ngủ thì em thức rất muộn và em thấy khá shock kiểu tại sao nó làm vậy ấy (thực ra mùa hè năm trước đó nó cũng làm vậy nhưng lúc đó em nửa tỉnh nửa mê nên nghĩ là mơ) em hất tay nó ra rồi đi ngủ như bình thường,mấy hôm sau em cũng bảo bố là ko muốn nó ngủ chung nhưng bố em bảo 2 ce ngủ chung cho tình cảm,em cũng chả nói gì chỉ là hay đuổi nó lên phòng bố ngủ,Sau tết em lại được về nhà bố thì bố em lại bảo nó ngủ cùng em nhưng em bảo bố e k muốn và kể lí do như trên bố em bảo do nó còn nhỏ nên quen …&lt;/p&gt; &lt;p&gt;cảm ơn mng đã đọc bài của em ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/jungleinthedark"&gt; /u/jungleinthedark &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sshgg2/câu_chuyện_khiến_em_ám_ảnh_đến_giờ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sshgg2/câu_chuyện_khiến_em_ám_ảnh_đến_giờ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1sshgg2/câu_chuyện_khiến_em_ám_ảnh_đến_giờ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-04-22T10:25:04+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ssedwa</id>
+    <title>Với những ai HS lần đầu tiên, điều bạn lo lắng nhất trước khi HS là gì và kết quả ra sao?</title>
+    <updated>2026-04-22T07:27:33+00:00</updated>
+    <author>
+      <name>/u/Ok-Prune-5011</name>
+      <uri>https://old.reddit.com/user/Ok-Prune-5011</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình chưa có kinh nghiệm nên mình muốn hỏi trải nghiêm của mọi người. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ok-Prune-5011"&gt; /u/Ok-Prune-5011 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ssedwa/với_những_ai_hs_lần_đầu_tiên_điều_bạn_lo_lắng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ssedwa/với_những_ai_hs_lần_đầu_tiên_điều_bạn_lo_lắng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ssedwa/với_những_ai_hs_lần_đầu_tiên_điều_bạn_lo_lắng/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-04-22T07:27:33+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1sscapj</id>
     <title>Góc khuất đàn ông đi mn</title>
     <updated>2026-04-22T05:29:53+00:00</updated>
@@ -266,19 +279,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1sscapj/góc_khuất_đàn_ông_đi_mn/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-04-22T05:29:53+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1ssg0h9</id>
-    <title>Có ai đang như mình không: Không biết mình là ai,muốn gì, và mục đích của cuộc đời mình là gì?</title>
-    <updated>2026-04-22T09:02:39+00:00</updated>
-    <author>
-      <name>/u/BankTraining2207</name>
-      <uri>https://old.reddit.com/user/BankTraining2207</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình 23 tuổi, mới tốt nghiệp, nhưng chưa có việc làm.Dạo này mình ở nhà hay suy nghĩ về việc tại sao mình lại được sinh ra. Mình được sinh ra với mục đích gì và mình tìm kiếm gì ở cuộc đời này. Nghĩ riết rồi thấy cuộc sống kiểu vô nghĩa thế nào ấy! &lt;/p&gt; &lt;p&gt;Rồi kiểu hay suy nghĩ về cái chết và sự vô thường của cuộc sống ( chỉ là suy nghĩ thôi chứ không phải muốn chết nhé )!&lt;/p&gt; &lt;p&gt;Có ai đã từng trải nghiệm như mình không ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/BankTraining2207"&gt; /u/BankTraining2207 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ssg0h9/có_ai_đang_như_mình_không_không_biết_mình_là/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ssg0h9/có_ai_đang_như_mình_không_không_biết_mình_là/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ssg0h9/có_ai_đang_như_mình_không_không_biết_mình_là/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-22T09:02:39+00:00</published>
   </entry>
   <entry>
     <id>t3_1ssdcf1</id>
@@ -294,19 +294,6 @@
     <published>2026-04-22T06:28:16+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ssbbgf</id>
-    <title>Bị kêu đi dân quân</title>
-    <updated>2026-04-22T04:38:25+00:00</updated>
-    <author>
-      <name>/u/FrostyWatercress7850</name>
-      <uri>https://old.reddit.com/user/FrostyWatercress7850</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1ssbbgf/bị_kêu_đi_dân_quân/"&gt; &lt;img alt="Bị kêu đi dân quân" src="https://preview.redd.it/7xwprzkv7owg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=a1482eb88aa73104aacfef5ae3ec1c454a8fe47a" title="Bị kêu đi dân quân" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Nay tự nhiên nhận được cái giấy mời đi nghe nghĩa vụ dân quân ngay ngày giỗ tổ.&lt;/p&gt; &lt;p&gt;Em đã rớt nvqs do cận 6 độ.&lt;/p&gt; &lt;p&gt;Cho em hỏi khỏi đi dc ko mấy bác. Lỡ book xe du lịch các thứ rồi.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/FrostyWatercress7850"&gt; /u/FrostyWatercress7850 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/7xwprzkv7owg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ssbbgf/bị_kêu_đi_dân_quân/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ssbbgf/bị_kêu_đi_dân_quân/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-22T04:38:25+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1ss9sb4</id>
     <title>Mọi người nhận ra điều gì trong lúc move on?</title>
     <updated>2026-04-22T03:24:34+00:00</updated>
@@ -320,6 +307,19 @@
     <published>2026-04-22T03:24:34+00:00</published>
   </entry>
   <entry>
+    <id>t3_1ssg0h9</id>
+    <title>Có ai đang như mình không: Không biết mình là ai,muốn gì, và mục đích của cuộc đời mình là gì?</title>
+    <updated>2026-04-22T09:02:39+00:00</updated>
+    <author>
+      <name>/u/BankTraining2207</name>
+      <uri>https://old.reddit.com/user/BankTraining2207</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình 23 tuổi, mới tốt nghiệp, nhưng chưa có việc làm.Dạo này mình ở nhà hay suy nghĩ về việc tại sao mình lại được sinh ra. Mình được sinh ra với mục đích gì và mình tìm kiếm gì ở cuộc đời này. Nghĩ riết rồi thấy cuộc sống kiểu vô nghĩa thế nào ấy! &lt;/p&gt; &lt;p&gt;Rồi kiểu hay suy nghĩ về cái chết và sự vô thường của cuộc sống ( chỉ là suy nghĩ thôi chứ không phải muốn chết nhé )!&lt;/p&gt; &lt;p&gt;Có ai đã từng trải nghiệm như mình không ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/BankTraining2207"&gt; /u/BankTraining2207 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ssg0h9/có_ai_đang_như_mình_không_không_biết_mình_là/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ssg0h9/có_ai_đang_như_mình_không_không_biết_mình_là/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ssg0h9/có_ai_đang_như_mình_không_không_biết_mình_là/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-04-22T09:02:39+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1ssfup0</id>
     <title>Không đẻ con = vô trách nhiệm ???</title>
     <updated>2026-04-22T08:54:08+00:00</updated>
@@ -327,7 +327,7 @@
       <name>/u/Expensive_Pin6421</name>
       <uri>https://old.reddit.com/user/Expensive_Pin6421</uri>
     </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1ssfup0/không_đẻ_con_vô_trách_nhiệm/"&gt; &lt;img alt="Không đẻ con = vô trách nhiệm ???" src="https://preview.redd.it/agve5an4gpwg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=8e5377027653f6dfd9891bb003fd1053033a5252" title="Không đẻ con = vô trách nhiệm ???" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Theo tui cái này là lựa chọn cá nhân (quyền mưu cầu hạnh phúc), áp đặt chuyện sinh con = trách nhiệm là tước đi quyền mưu cầu hạnh phúc.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Expensive_Pin6421"&gt; /u/Expensive_Pin6421 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/agve5an4gpwg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ssfup0/không_đẻ_con_vô_trách_nhiệm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1ssfup0/không_đẻ_con_vô_trách_nhiệm/"&gt; &lt;img alt="Không đẻ con = vô trách nhiệm ???" src="https://preview.redd.it/agve5an4gpwg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=8e5377027653f6dfd9891bb003fd1053033a5252" title="Không đẻ con = vô trách nhiệm ???" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Theo tui cái này là lựa chọn cá nhân (quyền mưu cầu hạnh phúc), nếu áp đặt chuyện sinh con = trách nhiệm là tước đi quyền mưu cầu hạnh phúc.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Expensive_Pin6421"&gt; /u/Expensive_Pin6421 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/agve5an4gpwg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ssfup0/không_đẻ_con_vô_trách_nhiệm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
     <link href="https://old.reddit.com/r/vozforums/comments/1ssfup0/không_đẻ_con_vô_trách_nhiệm/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-04-22T08:54:08+00:00</published>
