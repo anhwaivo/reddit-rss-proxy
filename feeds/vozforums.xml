@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-04-26T22:21:25+00:00</updated>
+  <updated>2026-04-26T23:06:06+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -97,19 +97,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1sw76g0/các_anh_cho_em_hỏi_có_cần_thay_bảng_số_xe_không_ạ/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-04-26T13:11:51+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1swh0ut</id>
-    <title>Mng nghĩ thế nào về tấm bằng đại học ạ?</title>
-    <updated>2026-04-26T19:27:23+00:00</updated>
-    <author>
-      <name>/u/catmelmel</name>
-      <uri>https://old.reddit.com/user/catmelmel</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Anh chị những người từng trải cho em hỏi là mng thấy bằng đại học thật sự có giá trị không ạ?&lt;/p&gt; &lt;p&gt;Em 2007 đã đậu 1 trường đại học công tầm khá - trung bình, em đang bảo lưu và ôn thi lại ạ, vừa trải qua DGNL đợt 1 và điểm em không được cao lắm nên ba mẹ có bảo em thà học đại ở trường cũ, có cái bằng rồi sau này tính tiếp (em đang học ngành Ngôn ngữ Anh), ban đầu thì ba mẹ không ủng hộ em thi lại, em cũng không có buồn vì chuyện đó lắm, nhưng sau khi ba mẹ nói vậy em cũng suy nghĩ và nghi ngờ thật sự em có nên thi lại không, sau cùng em vẫn chọn thi tiếp. Về lý do thì em khá tự ti năng lực của mình nên chọn thi lại để vào một trường khác có điểm chuẩn cao hơn 1 xíu vì em nghĩ tấm bằng đại học của trường tốt sẽ có giá trị hơn đồng nghĩa sẽ vớt vát năng lực của em phần nào - như 1 phương án cứu cánh ạ. Chuyên ngành em muốn theo là về truyền thông/ du lịch, anh chị đang theo học các ngành hay đã từng làm qua có lời khuyên nào dành cho em không ạ. Hiện tại em vẫn đang cố tự tin hơn, cải thiện kỹ năng giao tiếp, nói năng làm sao cho người khác hiểu ý mình - phần em tự ti ạ. Em cảm ơn mng ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/catmelmel"&gt; /u/catmelmel &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1swh0ut/mng_nghĩ_thế_nào_về_tấm_bằng_đại_học_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1swh0ut/mng_nghĩ_thế_nào_về_tấm_bằng_đại_học_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1swh0ut/mng_nghĩ_thế_nào_về_tấm_bằng_đại_học_ạ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-26T19:27:23+00:00</published>
   </entry>
   <entry>
     <id>t3_1swh333</id>
@@ -292,6 +279,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1swdkr8/em_trai_lén_mua_đồ/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-04-26T17:20:29+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1swh0ut</id>
+    <title>Mng nghĩ thế nào về tấm bằng đại học ạ?</title>
+    <updated>2026-04-26T19:27:23+00:00</updated>
+    <author>
+      <name>/u/catmelmel</name>
+      <uri>https://old.reddit.com/user/catmelmel</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Anh chị những người từng trải cho em hỏi là mng thấy bằng đại học thật sự có giá trị không ạ?&lt;/p&gt; &lt;p&gt;Em 2007 đã đậu 1 trường đại học công tầm khá - trung bình, em đang bảo lưu và ôn thi lại ạ, vừa trải qua DGNL đợt 1 và điểm em không được cao lắm nên ba mẹ có bảo em thà học đại ở trường cũ, có cái bằng rồi sau này tính tiếp (em đang học ngành Ngôn ngữ Anh), ban đầu thì ba mẹ không ủng hộ em thi lại, em cũng không có buồn vì chuyện đó lắm, nhưng sau khi ba mẹ nói vậy em cũng suy nghĩ và nghi ngờ thật sự em có nên thi lại không, sau cùng em vẫn chọn thi tiếp. Về lý do thì em khá tự ti năng lực của mình nên chọn thi lại để vào một trường khác có điểm chuẩn cao hơn 1 xíu vì em nghĩ tấm bằng đại học của trường tốt sẽ có giá trị hơn đồng nghĩa sẽ vớt vát năng lực của em phần nào - như 1 phương án cứu cánh ạ. Chuyên ngành em muốn theo là về truyền thông/ du lịch, anh chị đang theo học các ngành hay đã từng làm qua có lời khuyên nào dành cho em không ạ. Hiện tại em vẫn đang cố tự tin hơn, cải thiện kỹ năng giao tiếp, nói năng làm sao cho người khác hiểu ý mình - phần em tự ti ạ. Em cảm ơn mng ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/catmelmel"&gt; /u/catmelmel &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1swh0ut/mng_nghĩ_thế_nào_về_tấm_bằng_đại_học_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1swh0ut/mng_nghĩ_thế_nào_về_tấm_bằng_đại_học_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1swh0ut/mng_nghĩ_thế_nào_về_tấm_bằng_đại_học_ạ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-04-26T19:27:23+00:00</published>
   </entry>
   <entry>
     <id>t3_1svgyao</id>
