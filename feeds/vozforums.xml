@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-04-26T21:43:40+00:00</updated>
+  <updated>2026-04-26T22:21:25+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -125,19 +125,6 @@
     <published>2026-04-26T19:29:42+00:00</published>
   </entry>
   <entry>
-    <id>t3_1sw21e9</id>
-    <title>Các bác thích đọc sách giấy hay kindle hơn?</title>
-    <updated>2026-04-26T08:36:48+00:00</updated>
-    <author>
-      <name>/u/Medical-Garden-1232</name>
-      <uri>https://old.reddit.com/user/Medical-Garden-1232</uri>
-    </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Medical-Garden-1232"&gt; /u/Medical-Garden-1232 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sw21e9/các_bác_thích_đọc_sách_giấy_hay_kindle_hơn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sw21e9/các_bác_thích_đọc_sách_giấy_hay_kindle_hơn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1sw21e9/các_bác_thích_đọc_sách_giấy_hay_kindle_hơn/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-26T08:36:48+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1svx3r8</id>
     <title>Chia sẻ cách tưới nc cho cây khi lười.</title>
     <updated>2026-04-26T04:06:58+00:00</updated>
@@ -175,6 +162,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1sw963r/làm_sao_để_có_một_thái_độ_chuyên_nghiệp_hơn_trong/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-04-26T14:34:29+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1sw21e9</id>
+    <title>Các bác thích đọc sách giấy hay kindle hơn?</title>
+    <updated>2026-04-26T08:36:48+00:00</updated>
+    <author>
+      <name>/u/Medical-Garden-1232</name>
+      <uri>https://old.reddit.com/user/Medical-Garden-1232</uri>
+    </author>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Medical-Garden-1232"&gt; /u/Medical-Garden-1232 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sw21e9/các_bác_thích_đọc_sách_giấy_hay_kindle_hơn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sw21e9/các_bác_thích_đọc_sách_giấy_hay_kindle_hơn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1sw21e9/các_bác_thích_đọc_sách_giấy_hay_kindle_hơn/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-04-26T08:36:48+00:00</published>
   </entry>
   <entry>
     <id>t3_1sw7bqz</id>
