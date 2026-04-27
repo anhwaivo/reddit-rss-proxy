@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-04-27T21:16:28+00:00</updated>
+  <updated>2026-04-27T22:12:40+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1sx79qn</id>
-    <title>Cơ khí hay điện ?</title>
-    <updated>2026-04-27T15:35:48+00:00</updated>
-    <author>
-      <name>/u/Primary-Original-801</name>
-      <uri>https://old.reddit.com/user/Primary-Original-801</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các a/c cho e lời khuyên. Em 2k8 học lực khá tốt và đag phân phân giữa 2 ngành này. Về phần cơ khí thì gđ hay họ hàng e theo cơ khí nhiều và cả ba e cũng vậy và ba cx đã có những định hướng cho e đi đức thực tập sau đh . Về phần điện thì theo e tìm hiểu thấy ngành này có tiềm năng cả ở vn và nc ngoài, và nếu muốn thì e có thể ra nc ngoài lm vc. Em thì thích điện hơn một chút nhưng e thấy khá rủi ro do không có ai tư vấn về hướng đi sau này.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Primary-Original-801"&gt; /u/Primary-Original-801 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sx79qn/cơ_khí_hay_điện/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sx79qn/cơ_khí_hay_điện/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1sx79qn/cơ_khí_hay_điện/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-27T15:35:48+00:00</published>
-  </entry>
   <entry>
     <id>t3_1swtrvc</id>
     <title>[Open Source]Em tự build Local Dev Workspace bằng Rust/Tauri (Installer 5MB)</title>
@@ -151,19 +138,6 @@
     <published>2026-04-27T13:24:48+00:00</published>
   </entry>
   <entry>
-    <id>t3_1sxfcip</id>
-    <title>Các anh chị cho em xin chút lời khuyên</title>
-    <updated>2026-04-27T20:16:32+00:00</updated>
-    <author>
-      <name>/u/Independent_Way581</name>
-      <uri>https://old.reddit.com/user/Independent_Way581</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các anh chị , như tiêu đề , hiện tại em đang là sinh viên cntt (dạng liên thông) bên UTC, nhưng thị trường việc làm quá khắc nghiệt và fresher , junior không có chỗ để chui vào . Em đã nghỉ cty cũ do sếp lôm côm (em có 1.5 năm kn về magento và ci4) , và vô cùng bất định về tương lai , nên em nghĩ trong thời gian chuẩn bị thực tập thì cũng nên nghĩ đến 1 cái nghề phòng thân trong trường hợp tương lai bất trắc (theo dạng kỹ năng). Theo anh chị em nên tìm hiểu về ngành gì trước khi suy tính đến chuyện học nghề thứ 2 ạ , em xin cảm ơn ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Independent_Way581"&gt; /u/Independent_Way581 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sxfcip/các_anh_chị_cho_em_xin_chút_lời_khuyên/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sxfcip/các_anh_chị_cho_em_xin_chút_lời_khuyên/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1sxfcip/các_anh_chị_cho_em_xin_chút_lời_khuyên/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-27T20:16:32+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1swzjjg</id>
     <title>Máy chiếu mini giá rẻ</title>
     <updated>2026-04-27T10:20:03+00:00</updated>
@@ -188,6 +162,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1swwf0i/tổ_tư_vấn_first_date/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-04-27T07:15:28+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1sxhx5v</id>
+    <title>cho mình than tí</title>
+    <updated>2026-04-27T21:49:38+00:00</updated>
+    <author>
+      <name>/u/MembershipAny8412</name>
+      <uri>https://old.reddit.com/user/MembershipAny8412</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;minh la khoa&lt;/p&gt; &lt;p&gt;dnay minh buon qua&lt;/p&gt; &lt;p&gt;thấy vừa học ngu, vừa lười, làm gì cũng k thấy progress. đã thế còn thích sống trong qua khứ với tương lai, thề là k làm dc gì ngoài ngồi ảo tưởng. mình thấy nhiều ng nếu có những điều kiện mình đang có bây h sẽ lam tốt hơn nhiu. &lt;/p&gt; &lt;p&gt;mình sống thiếu discipline, nhung fully aware và cũng đang cố sửa. t thấy t cảm xúc qa, motivated thì làm dc viec, k thì th.&lt;/p&gt; &lt;p&gt;mình dễ attached với ngkhac. phiền, đã nghĩ nhắn vài ba câu vui vui mà dễ nhớ &lt;/p&gt; &lt;p&gt;mình thua mình&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/MembershipAny8412"&gt; /u/MembershipAny8412 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sxhx5v/cho_mình_than_tí/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sxhx5v/cho_mình_than_tí/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1sxhx5v/cho_mình_than_tí/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-04-27T21:49:38+00:00</published>
   </entry>
   <entry>
     <id>t3_1sx8a29</id>
@@ -253,6 +240,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1sx83s5/tại_sao_người_đàn_ông_lại_né_tránh_người_phụ_nữ/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-04-27T16:05:16+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1sxfcip</id>
+    <title>Các anh chị cho em xin chút lời khuyên</title>
+    <updated>2026-04-27T20:16:32+00:00</updated>
+    <author>
+      <name>/u/Independent_Way581</name>
+      <uri>https://old.reddit.com/user/Independent_Way581</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các anh chị , như tiêu đề , hiện tại em đang là sinh viên cntt (dạng liên thông) bên UTC, nhưng thị trường việc làm quá khắc nghiệt và fresher , junior không có chỗ để chui vào . Em đã nghỉ cty cũ do sếp lôm côm (em có 1.5 năm kn về magento và ci4) , và vô cùng bất định về tương lai , nên em nghĩ trong thời gian chuẩn bị thực tập thì cũng nên nghĩ đến 1 cái nghề phòng thân trong trường hợp tương lai bất trắc (theo dạng kỹ năng). Theo anh chị em nên tìm hiểu về ngành gì trước khi suy tính đến chuyện học nghề thứ 2 ạ , em xin cảm ơn ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Independent_Way581"&gt; /u/Independent_Way581 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sxfcip/các_anh_chị_cho_em_xin_chút_lời_khuyên/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sxfcip/các_anh_chị_cho_em_xin_chút_lời_khuyên/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1sxfcip/các_anh_chị_cho_em_xin_chút_lời_khuyên/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-04-27T20:16:32+00:00</published>
   </entry>
   <entry>
     <id>t3_1swv7y6</id>
