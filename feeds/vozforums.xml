@@ -2,63 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-04-27T10:30:29+00:00</updated>
+  <updated>2026-04-27T12:10:44+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1swtrvc</id>
-    <title>[Open Source]Em tự build Local Dev Workspace bằng Rust/Tauri (Installer 5MB)</title>
-    <updated>2026-04-27T04:50:03+00:00</updated>
-    <author>
-      <name>/u/Prestigious-Win-2203</name>
-      <uri>https://old.reddit.com/user/Prestigious-Win-2203</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác,&lt;/p&gt; &lt;p&gt;Chuyện là e làm web dev, nhiều năm nay toàn xài XAMPP với Laragon cho một số projects. Cũng đáp ứng đủ nhu cầu cơ bản, nhưng dạo này thấy thích vọc vạch nên e quyết định tự build một cái tool riêng cho nó tự chủ công nghệ =)))&lt;/p&gt; &lt;p&gt;E dùng &lt;strong&gt;Rust + Tauri&lt;/strong&gt; để code, built installer ra tầm chỉ &lt;strong&gt;~5MB&lt;/strong&gt;. Bác nào thích sự tối giản, máy chạy nền ít tốn RAM thì mời các bác dùng thử con &lt;strong&gt;DevNest&lt;/strong&gt; của em.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Vài điểm ăn tiền:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Siêu nhẹ:&lt;/strong&gt; Trình quản lý chạy nền ngốn chưa tới 10MB RAM.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Cái gì cần mới install:&lt;/strong&gt; Ko nhồi nhét. Cần PHP, Nginx hay MySQL thì app mới kéo về.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Native FrankenPHP (Mới):&lt;/strong&gt; Cắm Laravel Octane chạy Worker mode bao tốc độ luôn (boot app một lần và giữ app trong memory). Ngoài ra project Symfony hay PHP custom cũng sài được.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Đồ chơi đi kèm:&lt;/strong&gt; Có sẵn Cloudflare Tunnels (1 click là public web), Mobile Preview bắn ra LAN, và tự động backup Database mỗi 5 phút (khỏi sợ drop nhầm DB).&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Devnest &lt;strong&gt;Open Source 100%&lt;/strong&gt;, bác nào sợ có mã độc thì cứ lên GitHub soi source code hoặc tự compile máy nhà nhé (file cài &lt;em&gt;.msi&lt;/em&gt; trên VirusTotal quét 0/91 sạch bong). Windows SmartScreen có thể cảnh báo do chưa có chứng chỉ (nó báo tải xuống không phổ biến), mong các bác thông cảm ấn Keep để tiếp tục tải xuống giúp e.&lt;/p&gt; &lt;p&gt;Mời các bác thẩm và ném đá nhẹ tay cho em mau tiến bộ:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;GitHub:&lt;/strong&gt; &lt;a href="https://github.com/hohphu8/devnest"&gt;https://github.com/hohphu8/devnest&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Trang chủ:&lt;/strong&gt; &lt;a href="https://devnest.one"&gt;https://devnest.one&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Cảm ơn các bác đã đọc bài!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Prestigious-Win-2203"&gt; /u/Prestigious-Win-2203 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1swtrvc/open_sourceem_tự_build_local_dev_workspace_bằng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1swtrvc/open_sourceem_tự_build_local_dev_workspace_bằng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1swtrvc/open_sourceem_tự_build_local_dev_workspace_bằng/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-27T04:50:03+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1swa9c0</id>
-    <title>[TẠI VIỆT NAM, TÀI SẢN NÀO CÓ MỨC SINH LỜI CAO NHẤT TRONG 20 NĂM QUA]</title>
-    <updated>2026-04-26T15:16:44+00:00</updated>
-    <author>
-      <name>/u/whoneedtosave</name>
-      <uri>https://old.reddit.com/user/whoneedtosave</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Nếu loại trừ BTC do quá outlier trong thập kỷ này thì Bất động sản và Vàng là 2 tài sản có mức sinh lời tốt nhất trong 20 năm qua. Tôi khá bất ngờ với mức độ sinh lời của Vàng; đương nhiên, performance cũng bị bias nhiều do mốc thời gian hiện tại là đỉnh 20 năm của Vàng.&lt;/p&gt; &lt;p&gt;Nhìn qua, mỗi lớp tài sản đều có những chu kỳ và đặc điểm biến động khác nhau. Vàng và BĐS có mức biến động tương đối thấp. Trong khi chứng khoán có mức biến động cực lớn: ăn nhiều mà cũng mất nhiều; performance trong dài hạn thấp hơn đáng kể. Một điểm đáng lưu ý là trong 3 năm gần đây, tài sản nào cũng bốc đầu cả, nó có thể là hệ quả của việc nới lỏng tiền tệ quá mức ở phạm vi toàn cầu hay cuộc chạy đua chi tiêu công để giữ tăng trưởng giữa các quốc gia. Nhưng dù là vì lý do gì thì nó cũng chỉ ra một điểm vô cùng quan trọng là nếu ae chỉ làm công ăn lương mà không nắm giữ một loại tài sản nào đó thì chắc chắn là thiệt thòi.&lt;/p&gt; &lt;p&gt;Ngoài ra, tỷ giá USD/VND mất giá trung bình 2,5%/năm trong 20 năm qua. Do đó, nắm giữ các tài sản phải mua bằng ngoại tệ như BTC và vàng đem lại thêm lãi tỷ giá. Có lẽ đấy là lý do mà hiện tại ae thích cầm coin hơn là chứng khoán.&lt;/p&gt; &lt;p&gt;Nhìn kỹ hơn vào từng loại tài sản:&lt;/p&gt; &lt;p&gt;Về BĐS, nhìn chung là giá nhà có xu hướng tăng bền vững, nhưng tốc độ khác nhau giữa các giai đoạn. Từ năm 2000 - 2005, tôi chia thành 4 chu kỳ:&lt;/p&gt; &lt;p&gt;2000 - 2005: tăng trưởng bình quân 13,8%/năm. Thời kỳ này không tìm được nhiều dữ liệu để chém, nhưng nhìn chung TÔI CẢM NHẬN đây là giai đoạn chuyển tiếp từ cơ chế quản lý hành chính sang hướng thị trường nhiều hơn. Xu hướng này được nhìn thấy trên mọi khía cạnh từ lãi suất, chính sách tiền tệ đến tài khóa và XNK. Ở một môi trường thuận lợi như vậy, giá BĐS đương nhiên cũng được hỗ trợ, khi mà chủ đầu tư hay người mua đều được hưởng một mức lãi suất dễ chịu&lt;/p&gt; &lt;p&gt;2007 - 2013: Tăng trưởng thấp ở mức 3,3%/năm (còn thấp hơn cả lạm phát nữa). Nói chung, đây là thời kỳ thắt chặt tiền tệ, kiểm soát lạm phát phi mã, xử lý khủng hoảng nợ xấu ở toàn ngành ngân hàng sau một giai đoạn sai lầm trong chính sách. Lạm phát năm 2011 có lúc lên tới 20%, lãi suất 30%/năm.&lt;/p&gt; &lt;p&gt;2015 - 2019: Tăng trưởng bình quân 8,8%/năm. Có thể nói đây là giai đoạn mà mọi thứ đều khá ổn và hợp lý, môi trường bên ngoài ít biến động, môi trường bên trong được kiểm soát tốt. Chính sách điều hành ổn định, ít quay xe, bám sát mục tiêu đã đề ra và cho các doanh nghiệp cảm giác về một môi trường có thể dự đoán được. Lãi suất trong giai đoạn này ổn định và có xu hướng giảm nhẹ qua các năm.&lt;/p&gt; &lt;p&gt;2021 - 2025: Nó phải gọi là bố của tăng trưởng. Tăng trung bình 20,9%/năm trong 4 năm, trong đó chỉ riêng từ cuối 2023 đến 2025, gần như tăng gấp đôi. Mặc dù đã có những chính sách về siết dòng tín dụng hay trái phiếu doanh nghiệp bất động sản, nhưng có vẻ chúng không thực sự hợp lý và hiệu quả khi mà bất động sản dính theo quá nhiều ngành, đặc biệt là ngân hàng. Kết quả thì ai cũng thấy rồi. Sau nửa năm siết chặt (giá nhà trong giai đoạn này cũng không tăng nữa :v) thì có vẻ là mọi người đều hiểu là nếu không cứu thì chết tất. Nên chúng ta lại thấy sau 2023 là các dự án được tiếp tục với số lượng dự án cấp phép mới tăng cao, nợ vay được tái cơ cấu, trái phiếu được gia hạn. &lt;/p&gt; &lt;p&gt;Giai đoạn 20 năm tới thì không biết giá chung cư ở Việt Nam tăng bao nhiêu. Nhưng chắc chắn là phải có trong danh mục nếu ae sẵn tiền, dù gì thì cũng là của để dành cho con cháu =))) Nhưng phân bổ bao nhiêu ? Nhìn vào ông bạn đi trước là Trung Quốc thì tỷ lệ phân bổ tài sản vào BĐS (trên mặt số liệu) đã giảm dần từ 2000 cho đến 2025. Thay vào đó là chứng khoán, quỹ và các sản phẩm đầu tư của ngân hàng (WMPs). Không biết là do hết tiền mua nhà nên phải đổ vào cái khác hay là thị trường bão hòa :v&lt;/p&gt; &lt;p&gt;Dài quá, lười viết, nếu ae thấy ok thì tôi sẽ note tiếp về các loại tài sản khác trong post sau&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/whoneedtosave"&gt; /u/whoneedtosave &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1swa9c0/tại_việt_nam_tài_sản_nào_có_mức_sinh_lời_cao_nhất/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1swa9c0/tại_việt_nam_tài_sản_nào_có_mức_sinh_lời_cao_nhất/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1swa9c0/tại_việt_nam_tài_sản_nào_có_mức_sinh_lời_cao_nhất/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-26T15:16:44+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1swqeo5</id>
-    <title>Có ai thích nghe piano kèm tiếng mưa khi học hoặc làm việc không? 🌧️🎹 Sẽ rất tuyệt nếu được kết nối với những người cùng vibe như vậy.</title>
-    <updated>2026-04-27T02:05:35+00:00</updated>
-    <author>
-      <name>/u/Forsaken-Engineer290</name>
-      <uri>https://old.reddit.com/user/Forsaken-Engineer290</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1swqeo5/có_ai_thích_nghe_piano_kèm_tiếng_mưa_khi_học_hoặc/"&gt; &lt;img alt="Có ai thích nghe piano kèm tiếng mưa khi học hoặc làm việc không? 🌧️🎹 Sẽ rất tuyệt nếu được kết nối với những người cùng vibe như vậy." src="https://preview.redd.it/3lddhs165nxg1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=a702ed05ff1230a29ce7219ac8d34aa35aea55af" title="Có ai thích nghe piano kèm tiếng mưa khi học hoặc làm việc không? 🌧️🎹 Sẽ rất tuyệt nếu được kết nối với những người cùng vibe như vậy." /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Forsaken-Engineer290"&gt; /u/Forsaken-Engineer290 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/3lddhs165nxg1.png"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1swqeo5/có_ai_thích_nghe_piano_kèm_tiếng_mưa_khi_học_hoặc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1swqeo5/có_ai_thích_nghe_piano_kèm_tiếng_mưa_khi_học_hoặc/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-27T02:05:35+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1swqk58</id>
-    <title>Em đang là sinh viên năm cuối và chúng em đang thực hiện dự án Khởi sự kinh doanh cho sản phẩm sinh học mới chưa có mặt trên thị trường.</title>
-    <updated>2026-04-27T02:12:44+00:00</updated>
-    <author>
-      <name>/u/MelodicScreen3367</name>
-      <uri>https://old.reddit.com/user/MelodicScreen3367</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em mong cộng đồng sẽ giúp đỡ mội người cho e xin 1 phiếu ạ. Để em có thể tiến hành thực hiện dự án của chúng em. EM XIN CHÂN THÀNH CẢM ƠN. &lt;a href="https://forms.gle/pRfya88j4HgH2NC28"&gt;https://forms.gle/pRfya88j4HgH2NC28&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/MelodicScreen3367"&gt; /u/MelodicScreen3367 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1swqk58/em_đang_là_sinh_viên_năm_cuối_và_chúng_em_đang/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1swqk58/em_đang_là_sinh_viên_năm_cuối_và_chúng_em_đang/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1swqk58/em_đang_là_sinh_viên_năm_cuối_và_chúng_em_đang/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-27T02:12:44+00:00</published>
-  </entry>
   <entry>
     <id>t3_1swh0ut</id>
     <title>Mng nghĩ thế nào về tấm bằng đại học ạ?</title>
@@ -71,19 +19,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1swh0ut/mng_nghĩ_thế_nào_về_tấm_bằng_đại_học_ạ/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-04-26T19:27:23+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1swqomx</id>
-    <title>Cách để học giỏi văn mà không cần học nhiều ạ</title>
-    <updated>2026-04-27T02:18:38+00:00</updated>
-    <author>
-      <name>/u/Odd-Yesterday-3325</name>
-      <uri>https://old.reddit.com/user/Odd-Yesterday-3325</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;mình học thêm văn ở nhiều chỗ học thêm mà điểm vẫn lẹt đẹt 5,6 điểm có cách nào để khắc phục hay có tips nào hay ko ? chứ mấy bn trong lớp mình không học thêm gì mấy mà vẫn điểm cao :((&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Odd-Yesterday-3325"&gt; /u/Odd-Yesterday-3325 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1swqomx/cách_để_học_giỏi_văn_mà_không_cần_học_nhiều_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1swqomx/cách_để_học_giỏi_văn_mà_không_cần_học_nhiều_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1swqomx/cách_để_học_giỏi_văn_mà_không_cần_học_nhiều_ạ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-27T02:18:38+00:00</published>
   </entry>
   <entry>
     <id>t3_1swrt0r</id>
@@ -99,6 +34,19 @@
     <published>2026-04-27T03:11:31+00:00</published>
   </entry>
   <entry>
+    <id>t3_1swp2r8</id>
+    <title>Mn cho em xin review dầu gội cho da dầu nhanh bết với ạ. Em buổi tối gội mà ngủ dậy sang hôm sau đã bết bết rồi</title>
+    <updated>2026-04-27T01:03:10+00:00</updated>
+    <author>
+      <name>/u/hahihahihoho</name>
+      <uri>https://old.reddit.com/user/hahihahihoho</uri>
+    </author>
+    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/hahihahihoho"&gt; /u/hahihahihoho &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1swp2r8/mn_cho_em_xin_review_dầu_gội_cho_da_dầu_nhanh_bết/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1swp2r8/mn_cho_em_xin_review_dầu_gội_cho_da_dầu_nhanh_bết/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1swp2r8/mn_cho_em_xin_review_dầu_gội_cho_da_dầu_nhanh_bết/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-04-27T01:03:10+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1sww74e</id>
     <title>Xin tư vấn mua điện thoại ạ</title>
     <updated>2026-04-27T07:02:50+00:00</updated>
@@ -112,17 +60,30 @@
     <published>2026-04-27T07:02:50+00:00</published>
   </entry>
   <entry>
-    <id>t3_1swo2t5</id>
-    <title>Xin kinh nghiệm học/ họp online mà toàn tiếng Anh</title>
-    <updated>2026-04-27T00:16:33+00:00</updated>
+    <id>t3_1swqeo5</id>
+    <title>Có ai thích nghe piano kèm tiếng mưa khi học hoặc làm việc không? 🌧️🎹 Sẽ rất tuyệt nếu được kết nối với những người cùng vibe như vậy.</title>
+    <updated>2026-04-27T02:05:35+00:00</updated>
     <author>
-      <name>/u/OkAfternoon5455</name>
-      <uri>https://old.reddit.com/user/OkAfternoon5455</uri>
+      <name>/u/Forsaken-Engineer290</name>
+      <uri>https://old.reddit.com/user/Forsaken-Engineer290</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Có ai cảm thấy việc học online qua các video tiếng Anh khó không? Và kinh nghiệm của mn là gì để học hiệu quả?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/OkAfternoon5455"&gt; /u/OkAfternoon5455 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1swo2t5/xin_kinh_nghiệm_học_họp_online_mà_toàn_tiếng_anh/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1swo2t5/xin_kinh_nghiệm_học_họp_online_mà_toàn_tiếng_anh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1swo2t5/xin_kinh_nghiệm_học_họp_online_mà_toàn_tiếng_anh/"/>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1swqeo5/có_ai_thích_nghe_piano_kèm_tiếng_mưa_khi_học_hoặc/"&gt; &lt;img alt="Có ai thích nghe piano kèm tiếng mưa khi học hoặc làm việc không? 🌧️🎹 Sẽ rất tuyệt nếu được kết nối với những người cùng vibe như vậy." src="https://preview.redd.it/3lddhs165nxg1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=a702ed05ff1230a29ce7219ac8d34aa35aea55af" title="Có ai thích nghe piano kèm tiếng mưa khi học hoặc làm việc không? 🌧️🎹 Sẽ rất tuyệt nếu được kết nối với những người cùng vibe như vậy." /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Forsaken-Engineer290"&gt; /u/Forsaken-Engineer290 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/3lddhs165nxg1.png"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1swqeo5/có_ai_thích_nghe_piano_kèm_tiếng_mưa_khi_học_hoặc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1swqeo5/có_ai_thích_nghe_piano_kèm_tiếng_mưa_khi_học_hoặc/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-27T00:16:33+00:00</published>
+    <published>2026-04-27T02:05:35+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1swqomx</id>
+    <title>Cách để học giỏi văn mà không cần học nhiều ạ</title>
+    <updated>2026-04-27T02:18:38+00:00</updated>
+    <author>
+      <name>/u/Odd-Yesterday-3325</name>
+      <uri>https://old.reddit.com/user/Odd-Yesterday-3325</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;mình học thêm văn ở nhiều chỗ học thêm mà điểm vẫn lẹt đẹt 5,6 điểm có cách nào để khắc phục hay có tips nào hay ko ? chứ mấy bn trong lớp mình không học thêm gì mấy mà vẫn điểm cao :((&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Odd-Yesterday-3325"&gt; /u/Odd-Yesterday-3325 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1swqomx/cách_để_học_giỏi_văn_mà_không_cần_học_nhiều_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1swqomx/cách_để_học_giỏi_văn_mà_không_cần_học_nhiều_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1swqomx/cách_để_học_giỏi_văn_mà_không_cần_học_nhiều_ạ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-04-27T02:18:38+00:00</published>
   </entry>
   <entry>
     <id>t3_1swzcaz</id>
@@ -138,30 +99,30 @@
     <published>2026-04-27T10:08:52+00:00</published>
   </entry>
   <entry>
-    <id>t3_1swzjjg</id>
-    <title>Máy chiếu mini giá rẻ</title>
-    <updated>2026-04-27T10:20:03+00:00</updated>
+    <id>t3_1swo2t5</id>
+    <title>Xin kinh nghiệm học/ họp online mà toàn tiếng Anh</title>
+    <updated>2026-04-27T00:16:33+00:00</updated>
     <author>
-      <name>/u/Ill_Theory926</name>
-      <uri>https://old.reddit.com/user/Ill_Theory926</uri>
+      <name>/u/OkAfternoon5455</name>
+      <uri>https://old.reddit.com/user/OkAfternoon5455</uri>
     </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1swzjjg/máy_chiếu_mini_giá_rẻ/"&gt; &lt;img alt="Máy chiếu mini giá rẻ" src="https://preview.redd.it/12i0746elpxg1.jpeg?width=320&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=00cc1f7abae0ac02a0b50690fc67e6fda6f5ed9e" title="Máy chiếu mini giá rẻ" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác, chúc các bác nghỉ lễ vui vẻ&lt;/p&gt; &lt;p&gt;Dạo gần đây lướt top top thấy có đám máy chiếu giá rẻ như S6 Movie Legend hoặc HY300 gì đấy, có bác nào từng xài qua review em thử đám giá rẻ này có mua dc k các bác. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ill_Theory926"&gt; /u/Ill_Theory926 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/12i0746elpxg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1swzjjg/máy_chiếu_mini_giá_rẻ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1swzjjg/máy_chiếu_mini_giá_rẻ/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Có ai cảm thấy việc học online qua các video tiếng Anh khó không? Và kinh nghiệm của mn là gì để học hiệu quả?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/OkAfternoon5455"&gt; /u/OkAfternoon5455 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1swo2t5/xin_kinh_nghiệm_học_họp_online_mà_toàn_tiếng_anh/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1swo2t5/xin_kinh_nghiệm_học_họp_online_mà_toàn_tiếng_anh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1swo2t5/xin_kinh_nghiệm_học_họp_online_mà_toàn_tiếng_anh/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-27T10:20:03+00:00</published>
+    <published>2026-04-27T00:16:33+00:00</published>
   </entry>
   <entry>
-    <id>t3_1swr4la</id>
-    <title>Người ta suốt ngày ra rả rằng AI là bong bóng sắp nổ. Thể nổ thật thì sẽ thế nào?</title>
-    <updated>2026-04-27T02:39:44+00:00</updated>
+    <id>t3_1swtrvc</id>
+    <title>[Open Source]Em tự build Local Dev Workspace bằng Rust/Tauri (Installer 5MB)</title>
+    <updated>2026-04-27T04:50:03+00:00</updated>
     <author>
-      <name>/u/s0cth0i</name>
-      <uri>https://old.reddit.com/user/s0cth0i</uri>
+      <name>/u/Prestigious-Win-2203</name>
+      <uri>https://old.reddit.com/user/Prestigious-Win-2203</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Giá Ai sẽ tăng lên hay giảm đi? AI sẽ phổ biến hơn hay biến mất? &lt;/p&gt; &lt;p&gt;Ngành AI, cụ thể thợ code sẽ có lợi không khi AI nổ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/s0cth0i"&gt; /u/s0cth0i &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1swr4la/người_ta_suốt_ngày_ra_rả_rằng_ai_là_bong_bóng_sắp/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1swr4la/người_ta_suốt_ngày_ra_rả_rằng_ai_là_bong_bóng_sắp/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1swr4la/người_ta_suốt_ngày_ra_rả_rằng_ai_là_bong_bóng_sắp/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác,&lt;/p&gt; &lt;p&gt;Chuyện là e làm web dev, nhiều năm nay toàn xài XAMPP với Laragon cho một số projects. Cũng đáp ứng đủ nhu cầu cơ bản, nhưng dạo này thấy thích vọc vạch nên e quyết định tự build một cái tool riêng cho nó tự chủ công nghệ =)))&lt;/p&gt; &lt;p&gt;E dùng &lt;strong&gt;Rust + Tauri&lt;/strong&gt; để code, built installer ra tầm chỉ &lt;strong&gt;~5MB&lt;/strong&gt;. Bác nào thích sự tối giản, máy chạy nền ít tốn RAM thì mời các bác dùng thử con &lt;strong&gt;DevNest&lt;/strong&gt; của em.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Vài điểm ăn tiền:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Siêu nhẹ:&lt;/strong&gt; Trình quản lý chạy nền ngốn chưa tới 10MB RAM.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Cái gì cần mới install:&lt;/strong&gt; Ko nhồi nhét. Cần PHP, Nginx hay MySQL thì app mới kéo về.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Native FrankenPHP (Mới):&lt;/strong&gt; Cắm Laravel Octane chạy Worker mode bao tốc độ luôn (boot app một lần và giữ app trong memory). Ngoài ra project Symfony hay PHP custom cũng sài được.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Đồ chơi đi kèm:&lt;/strong&gt; Có sẵn Cloudflare Tunnels (1 click là public web), Mobile Preview bắn ra LAN, và tự động backup Database mỗi 5 phút (khỏi sợ drop nhầm DB).&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Devnest &lt;strong&gt;Open Source 100%&lt;/strong&gt;, bác nào sợ có mã độc thì cứ lên GitHub soi source code hoặc tự compile máy nhà nhé (file cài &lt;em&gt;.msi&lt;/em&gt; trên VirusTotal quét 0/91 sạch bong). Windows SmartScreen có thể cảnh báo do chưa có chứng chỉ (nó báo tải xuống không phổ biến), mong các bác thông cảm ấn Keep để tiếp tục tải xuống giúp e.&lt;/p&gt; &lt;p&gt;Mời các bác thẩm và ném đá nhẹ tay cho em mau tiến bộ:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;GitHub:&lt;/strong&gt; &lt;a href="https://github.com/hohphu8/devnest"&gt;https://github.com/hohphu8/devnest&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Trang chủ:&lt;/strong&gt; &lt;a href="https://devnest.one"&gt;https://devnest.one&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Cảm ơn các bác đã đọc bài!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Prestigious-Win-2203"&gt; /u/Prestigious-Win-2203 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1swtrvc/open_sourceem_tự_build_local_dev_workspace_bằng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1swtrvc/open_sourceem_tự_build_local_dev_workspace_bằng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1swtrvc/open_sourceem_tự_build_local_dev_workspace_bằng/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-27T02:39:44+00:00</published>
+    <published>2026-04-27T04:50:03+00:00</published>
   </entry>
   <entry>
     <id>t3_1swvo1w</id>
@@ -177,17 +138,30 @@
     <published>2026-04-27T06:32:54+00:00</published>
   </entry>
   <entry>
-    <id>t3_1swy0de</id>
-    <title>Sinh tồn Hà Nội</title>
-    <updated>2026-04-27T08:51:03+00:00</updated>
+    <id>t3_1sw72x8</id>
+    <title>Vì sao bây giờ không ai chịu đẻ và kết hôn?</title>
+    <updated>2026-04-26T13:07:30+00:00</updated>
     <author>
-      <name>/u/gggbbb9993</name>
-      <uri>https://old.reddit.com/user/gggbbb9993</uri>
+      <name>/u/SingularityXZ</name>
+      <uri>https://old.reddit.com/user/SingularityXZ</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các bác cho e hỏi ngoài mấy công việc như xe ôm, làm nhà hàng part-time thì các bác còn làm việc gì khác ko, lúc còn là sinh viên &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/gggbbb9993"&gt; /u/gggbbb9993 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1swy0de/sinh_tồn_hà_nội/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1swy0de/sinh_tồn_hà_nội/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1swy0de/sinh_tồn_hà_nội/"/>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1sw72x8/vì_sao_bây_giờ_không_ai_chịu_đẻ_và_kết_hôn/"&gt; &lt;img alt="Vì sao bây giờ không ai chịu đẻ và kết hôn?" src="https://external-preview.redd.it/j_V5EnH22lL5rwRWWTCt17KSVuJnnajMBQneHuJ_0yI.jpeg?width=320&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=37c0595d682265f97a3a9c769b4f0e2dca615a10" title="Vì sao bây giờ không ai chịu đẻ và kết hôn?" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hồi nãy vô tình thấy video này trên feeds YouTube của mình nên muốn tham khảo ý kiến chủ quan của cộng đồng. Mình cũng ở tuổi 3x, vẫn độc thân và thấy ông này phân tích đúng với tâm lý hiện tại của riêng mình là: các cô gái đang có yêu cầu cao hơn và chọn những anh trai 7-10 điểm, những ai dưới điểm thì xem là vô hình. Mấy anh chị em thấy sao ạ. Xin chia sẻ trải nghiệm hẹn hò của mình ạ. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/SingularityXZ"&gt; /u/SingularityXZ &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://youtu.be/ECKmYfUASnU?si=O263rVKYCKkDJ7N9"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sw72x8/vì_sao_bây_giờ_không_ai_chịu_đẻ_và_kết_hôn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1sw72x8/vì_sao_bây_giờ_không_ai_chịu_đẻ_và_kết_hôn/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-27T08:51:03+00:00</published>
+    <published>2026-04-26T13:07:30+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1swzs7w</id>
+    <title>Xà đơn cũ</title>
+    <updated>2026-04-27T10:33:29+00:00</updated>
+    <author>
+      <name>/u/Far-Win-4840</name>
+      <uri>https://old.reddit.com/user/Far-Win-4840</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi mọi người, hiện tại em đang là sv.&lt;/p&gt; &lt;p&gt;Em muốn tìm chỗ bán xà đơn cũ để gắn ở trọ tập (không phải loại treo tường) thì nên tìm ở đâu ạ (Tp. HCM).&lt;/p&gt; &lt;p&gt;Em cảm ơn mng.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Far-Win-4840"&gt; /u/Far-Win-4840 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1swzs7w/xà_đơn_cũ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1swzs7w/xà_đơn_cũ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1swzs7w/xà_đơn_cũ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-04-27T10:33:29+00:00</published>
   </entry>
   <entry>
     <id>t3_1swwapb</id>
@@ -203,30 +177,30 @@
     <published>2026-04-27T07:08:37+00:00</published>
   </entry>
   <entry>
-    <id>t3_1sw72x8</id>
-    <title>Vì sao bây giờ không ai chịu đẻ và kết hôn?</title>
-    <updated>2026-04-26T13:07:30+00:00</updated>
+    <id>t3_1swy0de</id>
+    <title>Sinh tồn Hà Nội</title>
+    <updated>2026-04-27T08:51:03+00:00</updated>
     <author>
-      <name>/u/SingularityXZ</name>
-      <uri>https://old.reddit.com/user/SingularityXZ</uri>
+      <name>/u/gggbbb9993</name>
+      <uri>https://old.reddit.com/user/gggbbb9993</uri>
     </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1sw72x8/vì_sao_bây_giờ_không_ai_chịu_đẻ_và_kết_hôn/"&gt; &lt;img alt="Vì sao bây giờ không ai chịu đẻ và kết hôn?" src="https://external-preview.redd.it/j_V5EnH22lL5rwRWWTCt17KSVuJnnajMBQneHuJ_0yI.jpeg?width=320&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=37c0595d682265f97a3a9c769b4f0e2dca615a10" title="Vì sao bây giờ không ai chịu đẻ và kết hôn?" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hồi nãy vô tình thấy video này trên feeds YouTube của mình nên muốn tham khảo ý kiến chủ quan của cộng đồng. Mình cũng ở tuổi 3x, vẫn độc thân và thấy ông này phân tích đúng với tâm lý hiện tại của riêng mình là: các cô gái đang có yêu cầu cao hơn và chọn những anh trai 7-10 điểm, những ai dưới điểm thì xem là vô hình. Mấy anh chị em thấy sao ạ. Xin chia sẻ trải nghiệm hẹn hò của mình ạ. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/SingularityXZ"&gt; /u/SingularityXZ &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://youtu.be/ECKmYfUASnU?si=O263rVKYCKkDJ7N9"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sw72x8/vì_sao_bây_giờ_không_ai_chịu_đẻ_và_kết_hôn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1sw72x8/vì_sao_bây_giờ_không_ai_chịu_đẻ_và_kết_hôn/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các bác cho e hỏi ngoài mấy công việc như xe ôm, làm nhà hàng part-time thì các bác còn làm việc gì khác ko, lúc còn là sinh viên &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/gggbbb9993"&gt; /u/gggbbb9993 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1swy0de/sinh_tồn_hà_nội/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1swy0de/sinh_tồn_hà_nội/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1swy0de/sinh_tồn_hà_nội/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-26T13:07:30+00:00</published>
+    <published>2026-04-27T08:51:03+00:00</published>
   </entry>
   <entry>
-    <id>t3_1swx5ub</id>
-    <title>Kỷ luật bản thân</title>
-    <updated>2026-04-27T07:59:40+00:00</updated>
+    <id>t3_1swr4la</id>
+    <title>Người ta suốt ngày ra rả rằng AI là bong bóng sắp nổ. Thể nổ thật thì sẽ thế nào?</title>
+    <updated>2026-04-27T02:39:44+00:00</updated>
     <author>
-      <name>/u/StateHopeful9575</name>
-      <uri>https://old.reddit.com/user/StateHopeful9575</uri>
+      <name>/u/s0cth0i</name>
+      <uri>https://old.reddit.com/user/s0cth0i</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em muốn lên đây hỏi về vấn đề của kỉ bản thân. Có bác nào cảm thấy mình là người có nếp sống tốt, kỉ luật cao có thể chia sẻ cho em kinh nghiệm để thực hiện được ko ạ&lt;/p&gt; &lt;p&gt;Em hay đặt mục tiêu, cũng quyết tâm nhưng chỉ được mấy ngày thì đâu lại vào đó. Có những ngày rảnh rang nhưng chả làm được việc gì tại trì hoãn liên tục&lt;/p&gt; &lt;p&gt;Mng có cách hay để thực hiện mục tiêu giúp e với ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/StateHopeful9575"&gt; /u/StateHopeful9575 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1swx5ub/kỷ_luật_bản_thân/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1swx5ub/kỷ_luật_bản_thân/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1swx5ub/kỷ_luật_bản_thân/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Giá Ai sẽ tăng lên hay giảm đi? AI sẽ phổ biến hơn hay biến mất? &lt;/p&gt; &lt;p&gt;Ngành AI, cụ thể thợ code sẽ có lợi không khi AI nổ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/s0cth0i"&gt; /u/s0cth0i &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1swr4la/người_ta_suốt_ngày_ra_rả_rằng_ai_là_bong_bóng_sắp/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1swr4la/người_ta_suốt_ngày_ra_rả_rằng_ai_là_bong_bóng_sắp/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1swr4la/người_ta_suốt_ngày_ra_rả_rằng_ai_là_bong_bóng_sắp/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-27T07:59:40+00:00</published>
+    <published>2026-04-27T02:39:44+00:00</published>
   </entry>
   <entry>
     <id>t3_1swresi</id>
@@ -242,6 +216,32 @@
     <published>2026-04-27T02:52:59+00:00</published>
   </entry>
   <entry>
+    <id>t3_1swx5ub</id>
+    <title>Kỷ luật bản thân</title>
+    <updated>2026-04-27T07:59:40+00:00</updated>
+    <author>
+      <name>/u/StateHopeful9575</name>
+      <uri>https://old.reddit.com/user/StateHopeful9575</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em muốn lên đây hỏi về vấn đề của kỉ bản thân. Có bác nào cảm thấy mình là người có nếp sống tốt, kỉ luật cao có thể chia sẻ cho em kinh nghiệm để thực hiện được ko ạ&lt;/p&gt; &lt;p&gt;Em hay đặt mục tiêu, cũng quyết tâm nhưng chỉ được mấy ngày thì đâu lại vào đó. Có những ngày rảnh rang nhưng chả làm được việc gì tại trì hoãn liên tục&lt;/p&gt; &lt;p&gt;Mng có cách hay để thực hiện mục tiêu giúp e với ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/StateHopeful9575"&gt; /u/StateHopeful9575 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1swx5ub/kỷ_luật_bản_thân/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1swx5ub/kỷ_luật_bản_thân/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1swx5ub/kỷ_luật_bản_thân/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-04-27T07:59:40+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1swzjjg</id>
+    <title>Máy chiếu mini giá rẻ</title>
+    <updated>2026-04-27T10:20:03+00:00</updated>
+    <author>
+      <name>/u/Ill_Theory926</name>
+      <uri>https://old.reddit.com/user/Ill_Theory926</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1swzjjg/máy_chiếu_mini_giá_rẻ/"&gt; &lt;img alt="Máy chiếu mini giá rẻ" src="https://preview.redd.it/12i0746elpxg1.jpeg?width=320&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=00cc1f7abae0ac02a0b50690fc67e6fda6f5ed9e" title="Máy chiếu mini giá rẻ" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác, chúc các bác nghỉ lễ vui vẻ&lt;/p&gt; &lt;p&gt;Dạo gần đây lướt top top thấy có đám máy chiếu giá rẻ như S6 Movie Legend hoặc HY300 gì đấy, có bác nào từng xài qua review em thử đám giá rẻ này có mua dc k các bác. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ill_Theory926"&gt; /u/Ill_Theory926 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/12i0746elpxg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1swzjjg/máy_chiếu_mini_giá_rẻ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1swzjjg/máy_chiếu_mini_giá_rẻ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-04-27T10:20:03+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1swwf0i</id>
     <title>Tổ tư vấn first date</title>
     <updated>2026-04-27T07:15:28+00:00</updated>
@@ -255,17 +255,30 @@
     <published>2026-04-27T07:15:28+00:00</published>
   </entry>
   <entry>
-    <id>t3_1swxo6m</id>
-    <title>Ahihi đồ ngốc</title>
-    <updated>2026-04-27T08:30:12+00:00</updated>
+    <id>t3_1sx0s2x</id>
+    <title>Thiếu kiến thức</title>
+    <updated>2026-04-27T11:24:14+00:00</updated>
     <author>
-      <name>/u/Delicious_Society735</name>
-      <uri>https://old.reddit.com/user/Delicious_Society735</uri>
+      <name>/u/Spare_Evidence_9725</name>
+      <uri>https://old.reddit.com/user/Spare_Evidence_9725</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình thấy buồn chán mỗi ngày ngoài cv kiếm tiền, có đơn thì bán, ngoài ra mình cứ thất thần buồn chán rồi nằm bấm đt.&lt;/p&gt; &lt;p&gt;Dạo này mình nảy ra ý tưởng review đồ ăn quay vlog đăng fb mà sao mở máy quay lên mà mình nói vấp rồi giọng nói chẳng có năng lượng gì cả. Thấy dở quá nên xóa bỏ. Nhiều người làm như vậy rồi giờ mình làm từ con số 0 ko biết có viral ko :)) tại nữ độc thân rảnh :)) nhưng biết đâu đc nhỉ. Nếu ko làm gì thì sẽ chẳng có gì. Còn nếu làm biết đâu có nhiều thứ thì sao. Cùng lắm thì dẹp ko làm nữa trở về cs kiếm tiền bt mỗi ngày chứ có gì đâu. Tại mình thấy mấy diễn viên người nổi tiếng. Họ cũng phải show họ lên mạng thì người ta mới thấy rồi trở nên yêu thích. Nên mình cũng thể hiện bản thân, sẽ có người ghét nhưng biết đâu sẽ có người thích và follow mình lâu. &lt;/p&gt; &lt;p&gt;Ai nghèo hay giàu sang gì sớm muộn cũng chet. Mình chọn làm điều khiến mình thấy thích và hạnh phúc và bình yên. Dù độc thân. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Delicious_Society735"&gt; /u/Delicious_Society735 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1swxo6m/ahihi_đồ_ngốc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1swxo6m/ahihi_đồ_ngốc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1swxo6m/ahihi_đồ_ngốc/"/>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1sx0s2x/thiếu_kiến_thức/"&gt; &lt;img alt="Thiếu kiến thức" src="https://preview.redd.it/jugagm9uwpxg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=d96f3c45ac3f0c933f124b71fa3eb46f20c82cc6" title="Thiếu kiến thức" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình 2k7 hiện tại đang 65kg mình muốn mua cái này để dùng ok không mọi người? &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Spare_Evidence_9725"&gt; /u/Spare_Evidence_9725 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/jugagm9uwpxg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sx0s2x/thiếu_kiến_thức/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1sx0s2x/thiếu_kiến_thức/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-27T08:30:12+00:00</published>
+    <published>2026-04-27T11:24:14+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1swqs7t</id>
+    <title>Như thế nào cho vừa</title>
+    <updated>2026-04-27T02:23:22+00:00</updated>
+    <author>
+      <name>/u/Under_the_black_sea</name>
+      <uri>https://old.reddit.com/user/Under_the_black_sea</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;F30 đi date 3 buổi vơi 1 a gia cảnh học thức cũng tương đương mình và nhận đc feedback là em k cho a cảm giác an toàn và có thể che chở và làm chỗ dựa cho e, e có hay k có a cũng đc, ngoài a e có thể chọn ai cũng đc, cái j e cũng nói e tự làm đc, nên thôi chúng mình k hợp đâu.&lt;/p&gt; &lt;p&gt;Bố mẹ bạn bè bảo đừng kén nữa. Rồi như thế nào với vừa đây. Trèo cao thì kêu tuổi này đừng đòi hỏi nhiều, tìm ng tương đương thì lại bảo muốn 1 em có thể dựa vào mình hơn. &lt;/p&gt; &lt;p&gt;Hay là do đơn giản là có e trẻ hơn thì bày đặt lý do thế thôi nhỉ 😅&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Under_the_black_sea"&gt; /u/Under_the_black_sea &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1swqs7t/như_thế_nào_cho_vừa/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1swqs7t/như_thế_nào_cho_vừa/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1swqs7t/như_thế_nào_cho_vừa/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-04-27T02:23:22+00:00</published>
   </entry>
   <entry>
     <id>t3_1swwqa8</id>
@@ -292,19 +305,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1swwdf8/số_lạ_nhưng_lại_có_tên_dù_không_có_lưu_trong_danh/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-04-27T07:13:02+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1swqs7t</id>
-    <title>Như thế nào cho vừa</title>
-    <updated>2026-04-27T02:23:22+00:00</updated>
-    <author>
-      <name>/u/Under_the_black_sea</name>
-      <uri>https://old.reddit.com/user/Under_the_black_sea</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;F30 đi date 3 buổi vơi 1 a gia cảnh học thức cũng tương đương mình và nhận đc feedback là em k cho a cảm giác an toàn và có thể che chở và làm chỗ dựa cho e, e có hay k có a cũng đc, ngoài a e có thể chọn ai cũng đc, cái j e cũng nói e tự làm đc, nên thôi chúng mình k hợp đâu.&lt;/p&gt; &lt;p&gt;Bố mẹ bạn bè bảo đừng kén nữa. Rồi như thế nào với vừa đây. Trèo cao thì kêu tuổi này đừng đòi hỏi nhiều, tìm ng tương đương thì lại bảo muốn 1 em có thể dựa vào mình hơn. &lt;/p&gt; &lt;p&gt;Hay là do đơn giản là có e trẻ hơn thì bày đặt lý do thế thôi nhỉ 😅&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Under_the_black_sea"&gt; /u/Under_the_black_sea &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1swqs7t/như_thế_nào_cho_vừa/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1swqs7t/như_thế_nào_cho_vừa/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1swqs7t/như_thế_nào_cho_vừa/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-27T02:23:22+00:00</published>
   </entry>
   <entry>
     <id>t3_1swv7y6</id>
