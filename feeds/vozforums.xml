@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-04-30T11:19:02+00:00</updated>
+  <updated>2026-04-30T13:04:51+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -19,19 +19,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1syqwjo/đi_làm_1_năm_dư_20_triệu/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-04-29T06:41:51+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1sz1vca</id>
-    <title>Việc làm</title>
-    <updated>2026-04-29T15:19:30+00:00</updated>
-    <author>
-      <name>/u/Temporary_Sea2899</name>
-      <uri>https://old.reddit.com/user/Temporary_Sea2899</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Vừa xuất ngũ gần đây. Cũng may xin được 1 chân làm văn phòng. Nhưng mà mấy cái như Excel gần như quên hết (Word với PP vẫn nhớ những thứ cơ bản). Gần đây cũng biết AI và vọc vạch hỏi nó cũng biết nhiều thứ hữu ích nên mình muốn hỏi mà mình có thể dùng AI để tra cứu lệnh Excel kèm yêu cầu để hoàn thành việc công ty giao không nhỉ 🥲&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Temporary_Sea2899"&gt; /u/Temporary_Sea2899 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sz1vca/việc_làm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sz1vca/việc_làm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1sz1vca/việc_làm/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-29T15:19:30+00:00</published>
   </entry>
   <entry>
     <id>t3_1szlw89</id>
@@ -60,6 +47,19 @@
     <published>2026-04-30T04:37:02+00:00</published>
   </entry>
   <entry>
+    <id>t3_1sz1vca</id>
+    <title>Việc làm</title>
+    <updated>2026-04-29T15:19:30+00:00</updated>
+    <author>
+      <name>/u/Temporary_Sea2899</name>
+      <uri>https://old.reddit.com/user/Temporary_Sea2899</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Vừa xuất ngũ gần đây. Cũng may xin được 1 chân làm văn phòng. Nhưng mà mấy cái như Excel gần như quên hết (Word với PP vẫn nhớ những thứ cơ bản). Gần đây cũng biết AI và vọc vạch hỏi nó cũng biết nhiều thứ hữu ích nên mình muốn hỏi mà mình có thể dùng AI để tra cứu lệnh Excel kèm yêu cầu để hoàn thành việc công ty giao không nhỉ 🥲&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Temporary_Sea2899"&gt; /u/Temporary_Sea2899 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sz1vca/việc_làm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sz1vca/việc_làm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1sz1vca/việc_làm/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-04-29T15:19:30+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1szmb6f</id>
     <title>Máy Hút Bụi</title>
     <updated>2026-04-30T04:56:32+00:00</updated>
@@ -71,19 +71,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1szmb6f/máy_hút_bụi/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-04-30T04:56:32+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1szmhbr</id>
-    <title>App học tiếng Anh online cho người mới bắt đầu</title>
-    <updated>2026-04-30T05:05:18+00:00</updated>
-    <author>
-      <name>/u/Jen-Jen22</name>
-      <uri>https://old.reddit.com/user/Jen-Jen22</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mng! Cô mình muốn học tiếng Anh giao tiếp vì cô đang định cư ở Úc, cô muốn học giao tiếp và các từ vựng liên quan đến mua bán giao thương. Mng có thể giới thiệu các app dạy tiếng Anh giao tiếp online k ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Jen-Jen22"&gt; /u/Jen-Jen22 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1szmhbr/app_học_tiếng_anh_online_cho_người_mới_bắt_đầu/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1szmhbr/app_học_tiếng_anh_online_cho_người_mới_bắt_đầu/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1szmhbr/app_học_tiếng_anh_online_cho_người_mới_bắt_đầu/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-30T05:05:18+00:00</published>
   </entry>
   <entry>
     <id>t3_1sz9dke</id>
@@ -99,17 +86,17 @@
     <published>2026-04-29T19:42:40+00:00</published>
   </entry>
   <entry>
-    <id>t3_1sz5659</id>
-    <title>bị huỷ hẹn phút chót vì bận đi chơi với gia đình</title>
-    <updated>2026-04-29T17:15:54+00:00</updated>
+    <id>t3_1szqyev</id>
+    <title>Thu Nhập</title>
+    <updated>2026-04-30T09:19:06+00:00</updated>
     <author>
-      <name>/u/Party-Parfait5443</name>
-      <uri>https://old.reddit.com/user/Party-Parfait5443</uri>
+      <name>/u/JadedSuggestion3362</name>
+      <uri>https://old.reddit.com/user/JadedSuggestion3362</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;chuyện là em có hẹn trước với nhỏ bạn thứ năm tuần này tức chiều mai đi đánh cầu lông, nó chốt hẹn với em rồi xong im bặt tới tận 12h tối trc ngày hẹn nó nhắn cho em vỏn vẹn &amp;quot;mai t đi chơi với gia đình rồi&amp;quot; em thấy khó ngủ quá ạ =))) &lt;/p&gt; &lt;p&gt;đây cũng không phải lần đầu nó huỷ hẹn đột xuất em vì gia đình nó rủ nó đi chơi đi ăn .... có đợt nó huỷ kèo em ngay sáng buổi hẹn xong em cũng chửi bới rồi nó xin lỗi cái rồi cũng huề =)) mà giờ thấy vẫn lặp lại&lt;/p&gt; &lt;p&gt;em biết là gia đình là số 1, gia đình là trên hết nhưng đã hẹn trước với ngkhac rồi mà làm v em thấy bị thiếu tôn trọng, ko biết nó có xem mình là bạn ko nữa =))) là em đang suy nghĩ nhiều quá hay sao mn? &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Party-Parfait5443"&gt; /u/Party-Parfait5443 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sz5659/bị_huỷ_hẹn_phút_chót_vì_bận_đi_chơi_với_gia_đình/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sz5659/bị_huỷ_hẹn_phút_chót_vì_bận_đi_chơi_với_gia_đình/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1sz5659/bị_huỷ_hẹn_phút_chót_vì_bận_đi_chơi_với_gia_đình/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Nam , 27t , có nhà ở HCM thì lương 20tr có gọi là ít ko?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/JadedSuggestion3362"&gt; /u/JadedSuggestion3362 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1szqyev/thu_nhập/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1szqyev/thu_nhập/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1szqyev/thu_nhập/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-29T17:15:54+00:00</published>
+    <published>2026-04-30T09:19:06+00:00</published>
   </entry>
   <entry>
     <id>t3_1sz3btz</id>
@@ -138,6 +125,19 @@
     <published>2026-04-30T06:40:19+00:00</published>
   </entry>
   <entry>
+    <id>t3_1sz5659</id>
+    <title>bị huỷ hẹn phút chót vì bận đi chơi với gia đình</title>
+    <updated>2026-04-29T17:15:54+00:00</updated>
+    <author>
+      <name>/u/Party-Parfait5443</name>
+      <uri>https://old.reddit.com/user/Party-Parfait5443</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;chuyện là em có hẹn trước với nhỏ bạn thứ năm tuần này tức chiều mai đi đánh cầu lông, nó chốt hẹn với em rồi xong im bặt tới tận 12h tối trc ngày hẹn nó nhắn cho em vỏn vẹn &amp;quot;mai t đi chơi với gia đình rồi&amp;quot; em thấy khó ngủ quá ạ =))) &lt;/p&gt; &lt;p&gt;đây cũng không phải lần đầu nó huỷ hẹn đột xuất em vì gia đình nó rủ nó đi chơi đi ăn .... có đợt nó huỷ kèo em ngay sáng buổi hẹn xong em cũng chửi bới rồi nó xin lỗi cái rồi cũng huề =)) mà giờ thấy vẫn lặp lại&lt;/p&gt; &lt;p&gt;em biết là gia đình là số 1, gia đình là trên hết nhưng đã hẹn trước với ngkhac rồi mà làm v em thấy bị thiếu tôn trọng, ko biết nó có xem mình là bạn ko nữa =))) là em đang suy nghĩ nhiều quá hay sao mn? &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Party-Parfait5443"&gt; /u/Party-Parfait5443 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sz5659/bị_huỷ_hẹn_phút_chót_vì_bận_đi_chơi_với_gia_đình/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1sz5659/bị_huỷ_hẹn_phút_chót_vì_bận_đi_chơi_với_gia_đình/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1sz5659/bị_huỷ_hẹn_phút_chót_vì_bận_đi_chơi_với_gia_đình/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-04-29T17:15:54+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1syyr8w</id>
     <title>Lần đầu cutting thảm họa vãi</title>
     <updated>2026-04-29T13:25:15+00:00</updated>
@@ -149,19 +149,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1syyr8w/lần_đầu_cutting_thảm_họa_vãi/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-04-29T13:25:15+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1szqyev</id>
-    <title>Thu Nhập</title>
-    <updated>2026-04-30T09:19:06+00:00</updated>
-    <author>
-      <name>/u/JadedSuggestion3362</name>
-      <uri>https://old.reddit.com/user/JadedSuggestion3362</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Nam , 27t , có nhà ở HCM thì lương 20tr có gọi là ít ko?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/JadedSuggestion3362"&gt; /u/JadedSuggestion3362 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1szqyev/thu_nhập/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1szqyev/thu_nhập/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1szqyev/thu_nhập/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-30T09:19:06+00:00</published>
   </entry>
   <entry>
     <id>t3_1szrcy7</id>
@@ -203,30 +190,30 @@
     <published>2026-04-29T05:08:50+00:00</published>
   </entry>
   <entry>
-    <id>t3_1szsjec</id>
-    <title>Địa điểm du lịch underrated</title>
-    <updated>2026-04-30T10:47:22+00:00</updated>
+    <id>t3_1szt96g</id>
+    <title>Free Online Coaching (powerlifting)</title>
+    <updated>2026-04-30T11:23:50+00:00</updated>
     <author>
-      <name>/u/HikariHope1</name>
-      <uri>https://old.reddit.com/user/HikariHope1</uri>
+      <name>/u/Stunning_Business_87</name>
+      <uri>https://old.reddit.com/user/Stunning_Business_87</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Nhân dịp 30/4-1/5 thì có lẽ một nửa dân sài gòn đang trên đà lạt và vũng tàu. Nên em nghĩ lại Việt Nam có nhiều tỉnh thì chắc chắn sẽ có những nơi ít người biết tới và bị underrated&lt;/p&gt; &lt;p&gt;Không biết là mng có thể chia sẻ những địa điểm kiểu như vậy ở gần sài gòn được k ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/HikariHope1"&gt; /u/HikariHope1 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1szsjec/địa_điểm_du_lịch_underrated/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1szsjec/địa_điểm_du_lịch_underrated/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1szsjec/địa_điểm_du_lịch_underrated/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Cho em hỏi trong đây có bác nào thích tập powerlifting nhưng e ngại về chi phí thuê coach không ạ? Em đang nhận coach free cho người có nhu cầu. Ai quan tâm thì đừng ngại nhắn em nhé, em cảm ơn ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Stunning_Business_87"&gt; /u/Stunning_Business_87 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1szt96g/free_online_coaching_powerlifting/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1szt96g/free_online_coaching_powerlifting/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1szt96g/free_online_coaching_powerlifting/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-30T10:47:22+00:00</published>
+    <published>2026-04-30T11:23:50+00:00</published>
   </entry>
   <entry>
-    <id>t3_1szsw9o</id>
-    <title>Xin cách làm bã chó đơn giản</title>
-    <updated>2026-04-30T11:05:51+00:00</updated>
+    <id>t3_1szuyrn</id>
+    <title>Sinh hoạt phí của người thuê trọ ở Hà Nội</title>
+    <updated>2026-04-30T12:41:27+00:00</updated>
     <author>
-      <name>/u/CountryAppropriate59</name>
-      <uri>https://old.reddit.com/user/CountryAppropriate59</uri>
+      <name>/u/ngotran08</name>
+      <uri>https://old.reddit.com/user/ngotran08</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;h1&gt;​​​&lt;/h1&gt; &lt;p&gt;Xin cách làm bã chó với mấy bác. Chuyện là trong khu tôi ở có 1 gia đình thằng kia nuôi 2 con chó nhỏ đen, vàng...nuôi có ý thức thì tôi chả có vấn để gì nhưng mà thằng chủ nuôi sống mất dạy, nó thả chó lại gần nhà tôi đi ị, một vài lần bị nhắc nhở thì thằng ​chủ còn tự giác lại dọn đống&amp;quot;sản phẩm&amp;quot;, về sau nó không thèm dọn luôn. Có hôm hai con chó lại trước cửa hàng bán vật liệu để đi ị, cô nhân viên trông​ tiệm nhắc nhở thằng chủ thì nó bảo &amp;quot;Giúp việc thì giúp việc chứ có phải làm gì cao sang mà dạy đời nó​&amp;quot;​...&lt;/p&gt; &lt;p&gt;Đỉnh điểm hôm nay chó của thằng đó nó đi thẳng vào nhà tôi ị luôn các bác ạ,​ tôi cay cú lắm, nhắc thằng chủ 10 lần thì 9 lần ý thức nó vẫn như gì.. ​​​​&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/CountryAppropriate59"&gt; /u/CountryAppropriate59 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1szsw9o/xin_cách_làm_bã_chó_đơn_giản/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1szsw9o/xin_cách_làm_bã_chó_đơn_giản/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1szsw9o/xin_cách_làm_bã_chó_đơn_giản/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình độc thân ko có ý định lập gia đình, đang ở cùng bố mẹ. Tò mò ko biết mn ở trọ thì hết khoảng bao nhiêu. Lúc mới ở riêng thì ra sao. Có động lực gì ko? Ko trả tiền trọ mà áp lực tâm lí cũng bức bối mn ạ. Mình có điều kiện đc chiều quen nên ko biết nhảy khỏi tổ thế nào.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ngotran08"&gt; /u/ngotran08 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1szuyrn/sinh_hoạt_phí_của_người_thuê_trọ_ở_hà_nội/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1szuyrn/sinh_hoạt_phí_của_người_thuê_trọ_ở_hà_nội/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1szuyrn/sinh_hoạt_phí_của_người_thuê_trọ_ở_hà_nội/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-30T11:05:51+00:00</published>
+    <published>2026-04-30T12:41:27+00:00</published>
   </entry>
   <entry>
     <id>t3_1sz3g2a</id>
@@ -253,6 +240,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1sznkc5/xin_ý_kiến_giữa_các_bro_về_chuyện_tình_cảm/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-04-30T06:03:47+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1szsjec</id>
+    <title>Địa điểm du lịch underrated</title>
+    <updated>2026-04-30T10:47:22+00:00</updated>
+    <author>
+      <name>/u/HikariHope1</name>
+      <uri>https://old.reddit.com/user/HikariHope1</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Nhân dịp 30/4-1/5 thì có lẽ một nửa dân sài gòn đang trên đà lạt và vũng tàu. Nên em nghĩ lại Việt Nam có nhiều tỉnh thì chắc chắn sẽ có những nơi ít người biết tới và bị underrated&lt;/p&gt; &lt;p&gt;Không biết là mng có thể chia sẻ những địa điểm kiểu như vậy ở gần sài gòn được k ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/HikariHope1"&gt; /u/HikariHope1 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1szsjec/địa_điểm_du_lịch_underrated/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1szsjec/địa_điểm_du_lịch_underrated/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1szsjec/địa_điểm_du_lịch_underrated/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-04-30T10:47:22+00:00</published>
   </entry>
   <entry>
     <id>t3_1szsuhi</id>
@@ -307,19 +307,6 @@
     <published>2026-04-30T00:28:45+00:00</published>
   </entry>
   <entry>
-    <id>t3_1szswtx</id>
-    <title>Lạm phát vs Giá trị Công trái xây dựng TQ 1984</title>
-    <updated>2026-04-30T11:06:39+00:00</updated>
-    <author>
-      <name>/u/SingularityXZ</name>
-      <uri>https://old.reddit.com/user/SingularityXZ</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1szswtx/lạm_phát_vs_giá_trị_công_trái_xây_dựng_tq_1984/"&gt; &lt;img alt="Lạm phát vs Giá trị Công trái xây dựng TQ 1984" src="https://preview.redd.it/r62ln2pf8byg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=98f2833d6c9d2a5e0d87d673d8819d2d3415993e" title="Lạm phát vs Giá trị Công trái xây dựng TQ 1984" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hôm nay lễ 30/4, mình dọn đồ cũ của bố thấy có 1 tờ như vậy, tuy rất xưa mà giấy vẫn mượt và rõ như hình. Hỏi Claude Opus thì nó nói tính lạm phát và lãi thì giờ được như vầy, hỏi sao dân ta không xếp hàng mua vàng và BTC:&lt;/p&gt; &lt;p&gt;**Bước 1: Cú sốc đổi tiền 1985**&lt;/p&gt; &lt;p&gt;Ngày 14/9/1985, Việt Nam đổi tiền theo tỷ lệ 10 đồng cũ = 1 đồng mới. Tờ công trái mệnh giá 100 đồng (cũ) = 10 đồng (mới) ngay lập tức.&lt;/p&gt; &lt;p&gt;**Bước 2: Cộng lãi 2%/năm trong 42 năm (1984–2026)**&lt;/p&gt; &lt;p&gt;Công thức lãi kép: 100 × (1,02)^42 = **≈ 229,7 đồng cũ** (giá trị danh nghĩa).&lt;/p&gt; &lt;p&gt;Quy đổi sang tiền mới: ≈ **23 đồng mới** — không đủ mua một cọng hành.&lt;/p&gt; &lt;p&gt;**Bước 3: Điều chỉnh theo lạm phát tích lũy**&lt;/p&gt; &lt;p&gt;Đây là phần quan trọng. Lạm phát Việt Nam từ 1985 đến nay cực kỳ khủng khiếp do siêu lạm phát giai đoạn 1986–1988:&lt;/p&gt; &lt;p&gt;- 1986: ~487%&lt;/p&gt; &lt;p&gt;- 1987: ~301%&lt;/p&gt; &lt;p&gt;- 1988: ~308%&lt;/p&gt; &lt;p&gt;- Sau đó giảm dần, trung bình ~5-8%/năm&lt;/p&gt; &lt;p&gt;Hệ số lạm phát tích lũy từ 1985 đến 2026 ước tính khoảng **3.000–3.500 lần**.&lt;/p&gt; &lt;p&gt;**Kết quả tổng hợp:**&lt;/p&gt; &lt;p&gt;| Cách tính | Giá trị 2026 |&lt;/p&gt; &lt;p&gt;| Sức mua tương đương 100 đồng (1984), không lãi | ~30.000 – 50.000 VND |&lt;/p&gt; &lt;p&gt;| 100 đồng + lãi 2%/năm, điều chỉnh lạm phát | **~70.000 – 110.000 VND** |&lt;/p&gt; &lt;p&gt;**Đối chiếu thực tế:** Theo dữ liệu IMF/World Bank, sức mua của 100 đồng năm 1980 tương đương khoảng 10.873.909 VND đầu năm 2026 [Worlddata](&lt;a href="https://www.worlddata.info/asia/vietnam/inflation-rates.php"&gt;https://www.worlddata.info/asia/vietnam/inflation-rates.php&lt;/a&gt;) nhưng con số này áp dụng cho 100 đồng năm 1980 (trước siêu lạm phát đỉnh điểm). Năm 1984 đồng tiền đã mất giá đáng kể so với 1980, nên hệ số nhỏ hơn nhiều.&lt;/p&gt; &lt;p&gt;**Kết luận thẳng:** Lãi suất 2%/năm cố định là thảm họa khi gặp siêu lạm phát. Người mua công trái 1984 thực chất bị mất gần như toàn bộ giá trị thực — đây là một trong những lý do chính khiến nhà nước phải áp dụng cơ chế &amp;quot;bảo đảm sức mua&amp;quot; tại thời điểm đáo hạn 1994 (ra con số 15.600 VND), nhưng con số đó cũng đã bị 32 năm lạm phát tiếp theo bào mòn.&lt;/p&gt; &lt;p&gt;**Lưu ý phương pháp:** Đây là ước tính dựa trên dữ liệu lạm phát công khai. Số liệu chính xác đến từng đồng là không khả thi do dữ liệu CPI chính thức của Việt Nam giai đoạn 1984–1986 không hoàn toàn đầy đủ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/SingularityXZ"&gt; /u/SingularityXZ &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/r62ln2pf8byg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1szswtx/lạm_phát_vs_giá_trị_công_trái_xây_dựng_tq_1984/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1szswtx/lạm_phát_vs_giá_trị_công_trái_xây_dựng_tq_1984/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-04-30T11:06:39+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1szm53j</id>
     <title>Khai quật được tài năng</title>
     <updated>2026-04-30T04:47:49+00:00</updated>
@@ -331,5 +318,18 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1szm53j/khai_quật_được_tài_năng/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-04-30T04:47:49+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1szswtx</id>
+    <title>Lạm phát vs Giá trị Công trái xây dựng TQ 1984</title>
+    <updated>2026-04-30T11:06:39+00:00</updated>
+    <author>
+      <name>/u/SingularityXZ</name>
+      <uri>https://old.reddit.com/user/SingularityXZ</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1szswtx/lạm_phát_vs_giá_trị_công_trái_xây_dựng_tq_1984/"&gt; &lt;img alt="Lạm phát vs Giá trị Công trái xây dựng TQ 1984" src="https://preview.redd.it/r62ln2pf8byg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=98f2833d6c9d2a5e0d87d673d8819d2d3415993e" title="Lạm phát vs Giá trị Công trái xây dựng TQ 1984" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hôm nay lễ 30/4, mình dọn đồ cũ của bố thấy có 1 tờ như vậy, tuy rất xưa mà giấy vẫn mượt và rõ như hình. Hỏi Claude Opus thì nó nói tính lạm phát và lãi thì giờ được như vầy, hỏi sao dân ta không xếp hàng mua vàng và BTC:&lt;/p&gt; &lt;p&gt;**Bước 1: Cú sốc đổi tiền 1985**&lt;/p&gt; &lt;p&gt;Ngày 14/9/1985, Việt Nam đổi tiền theo tỷ lệ 10 đồng cũ = 1 đồng mới. Tờ công trái mệnh giá 100 đồng (cũ) = 10 đồng (mới) ngay lập tức.&lt;/p&gt; &lt;p&gt;**Bước 2: Cộng lãi 2%/năm trong 42 năm (1984–2026)**&lt;/p&gt; &lt;p&gt;Công thức lãi kép: 100 × (1,02)^42 = **≈ 229,7 đồng cũ** (giá trị danh nghĩa).&lt;/p&gt; &lt;p&gt;Quy đổi sang tiền mới: ≈ **23 đồng mới** — không đủ mua một cọng hành.&lt;/p&gt; &lt;p&gt;**Bước 3: Điều chỉnh theo lạm phát tích lũy**&lt;/p&gt; &lt;p&gt;Đây là phần quan trọng. Lạm phát Việt Nam từ 1985 đến nay cực kỳ khủng khiếp do siêu lạm phát giai đoạn 1986–1988:&lt;/p&gt; &lt;p&gt;- 1986: ~487%&lt;/p&gt; &lt;p&gt;- 1987: ~301%&lt;/p&gt; &lt;p&gt;- 1988: ~308%&lt;/p&gt; &lt;p&gt;- Sau đó giảm dần, trung bình ~5-8%/năm&lt;/p&gt; &lt;p&gt;Hệ số lạm phát tích lũy từ 1985 đến 2026 ước tính khoảng **3.000–3.500 lần**.&lt;/p&gt; &lt;p&gt;**Kết quả tổng hợp:**&lt;/p&gt; &lt;p&gt;| Cách tính | Giá trị 2026 |&lt;/p&gt; &lt;p&gt;| Sức mua tương đương 100 đồng (1984), không lãi | ~30.000 – 50.000 VND |&lt;/p&gt; &lt;p&gt;| 100 đồng + lãi 2%/năm, điều chỉnh lạm phát | **~70.000 – 110.000 VND** |&lt;/p&gt; &lt;p&gt;**Đối chiếu thực tế:** Theo dữ liệu IMF/World Bank, sức mua của 100 đồng năm 1980 tương đương khoảng 10.873.909 VND đầu năm 2026 [Worlddata](&lt;a href="https://www.worlddata.info/asia/vietnam/inflation-rates.php"&gt;https://www.worlddata.info/asia/vietnam/inflation-rates.php&lt;/a&gt;) nhưng con số này áp dụng cho 100 đồng năm 1980 (trước siêu lạm phát đỉnh điểm). Năm 1984 đồng tiền đã mất giá đáng kể so với 1980, nên hệ số nhỏ hơn nhiều.&lt;/p&gt; &lt;p&gt;**Kết luận thẳng:** Lãi suất 2%/năm cố định là thảm họa khi gặp siêu lạm phát. Người mua công trái 1984 thực chất bị mất gần như toàn bộ giá trị thực — đây là một trong những lý do chính khiến nhà nước phải áp dụng cơ chế &amp;quot;bảo đảm sức mua&amp;quot; tại thời điểm đáo hạn 1994 (ra con số 15.600 VND), nhưng con số đó cũng đã bị 32 năm lạm phát tiếp theo bào mòn.&lt;/p&gt; &lt;p&gt;**Lưu ý phương pháp:** Đây là ước tính dựa trên dữ liệu lạm phát công khai. Số liệu chính xác đến từng đồng là không khả thi do dữ liệu CPI chính thức của Việt Nam giai đoạn 1984–1986 không hoàn toàn đầy đủ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/SingularityXZ"&gt; /u/SingularityXZ &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/r62ln2pf8byg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1szswtx/lạm_phát_vs_giá_trị_công_trái_xây_dựng_tq_1984/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1szswtx/lạm_phát_vs_giá_trị_công_trái_xây_dựng_tq_1984/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-04-30T11:06:39+00:00</published>
   </entry>
 </feed>
