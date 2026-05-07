@@ -2,37 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-05-07T21:38:18+00:00</updated>
+  <updated>2026-05-07T22:42:39+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1t6hc0z</id>
-    <title>CI/CD</title>
-    <updated>2026-05-07T17:28:29+00:00</updated>
-    <author>
-      <name>/u/CombMinute</name>
-      <uri>https://old.reddit.com/user/CombMinute</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1t6hc0z/cicd/"&gt; &lt;img alt="CI/CD" src="https://preview.redd.it/ndanxkyx2rzg1.jpeg?width=320&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=87733123e27cc57717aeeda4285593ac632b98df" title="CI/CD" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người,&lt;/p&gt; &lt;p&gt;Mình đang thiết kế một DevSecOps CI/CD security pipeline gồm:&lt;/p&gt; &lt;p&gt;Fast gate: secret scan, lint, unit test, dependency check (block nếu fail)&lt;/p&gt; &lt;p&gt;SAST: SonarQube, Semgrep&lt;/p&gt; &lt;p&gt;Build + container scan: Trivy, Docker Scout&lt;/p&gt; &lt;p&gt;DAST: OWASP ZAP, Nuclei&lt;/p&gt; &lt;p&gt;Deploy + monitoring (Azure)&lt;/p&gt; &lt;p&gt;Hiện mình muốn bổ sung thêm một LLM chạy local để:&lt;/p&gt; &lt;p&gt;Correlate kết quả từ nhiều tool (SAST/DAST/container scan)&lt;/p&gt; &lt;p&gt;Giảm false positive&lt;/p&gt; &lt;p&gt;Risk scoring / decision trước khi deploy&lt;/p&gt; &lt;p&gt;Một số câu hỏi:&lt;/p&gt; &lt;p&gt;Với use case security pipeline như trên, nên dùng LLM local nào là hợp lý (ưu tiên open-source)?&lt;/p&gt; &lt;p&gt;Nên chọn model nhỏ (7B–8B) để tối ưu tốc độ hay model lớn hơn để tăng độ chính xác?&lt;/p&gt; &lt;p&gt;Có ai đã dùng LLM để reduce false positive trong SAST/DAST chưa? Kết quả thực tế thế nào?&lt;/p&gt; &lt;p&gt;Kiến trúc nên để LLM chạy synchronous trong pipeline hay async (tách riêng service)?&lt;/p&gt; &lt;p&gt;Có best practice nào để tránh LLM “hallucinate” khi xử lý security findings không?&lt;/p&gt; &lt;p&gt;Context:&lt;/p&gt; &lt;p&gt;CI/CD: GitLab&lt;/p&gt; &lt;p&gt;Mục tiêu: balance giữa security, performance và cost&lt;/p&gt; &lt;p&gt;Mong được chia sẻ từ kinh nghiệm thực tế 🙏&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/CombMinute"&gt; /u/CombMinute &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/ndanxkyx2rzg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1t6hc0z/cicd/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1t6hc0z/cicd/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-05-07T17:28:29+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1t6i3bd</id>
-    <title>Sai thời điểm</title>
-    <updated>2026-05-07T17:54:18+00:00</updated>
-    <author>
-      <name>/u/Anxious_Belt_9464</name>
-      <uri>https://old.reddit.com/user/Anxious_Belt_9464</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Nghĩ cũng buồn, bản thân em là sinh viên sắp ra trường, trầy trật kiếm việc lại gặp người mình thích từ lần đầu gặp cũng gần 2 năm, giờ mới biết họ cũng có ý với mình (họ có thổ lộ rõ và người quen đẩy thuyền) nhưng trong tay vẫn chưa có gì nên đành ngậm ngùi né tránh chứ không dám đối diện gặp họ, vớ vẩn thật kkk&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Anxious_Belt_9464"&gt; /u/Anxious_Belt_9464 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1t6i3bd/sai_thời_điểm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1t6i3bd/sai_thời_điểm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1t6i3bd/sai_thời_điểm/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-05-07T17:54:18+00:00</published>
-  </entry>
   <entry>
     <id>t3_1t6dr7r</id>
     <title>Đơn giản là một "MichelinBoy'</title>
@@ -164,19 +138,6 @@
     <published>2026-05-07T13:15:08+00:00</published>
   </entry>
   <entry>
-    <id>t3_1t6nrnb</id>
-    <title>Chuyện giường chiếu.</title>
-    <updated>2026-05-07T21:15:28+00:00</updated>
-    <author>
-      <name>/u/Azaline112</name>
-      <uri>https://old.reddit.com/user/Azaline112</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình 22 tuổi, đã có bồ. Chuyện là 3 ngày trước mình có đi homestay với bồ và có quan hệ (có bao). Nhưng vì một lý do gì đấy mà em hành sự tầm 20p mà không ra, bồ em thì mệt với hết sức để chơi rồi mà em vẫn chưa ra, chỉ khi nào tháo bao rồi dùng miệng thì mới ra. Cái này là bình thường hay sao vậy mn?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Azaline112"&gt; /u/Azaline112 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1t6nrnb/chuyện_giường_chiếu/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1t6nrnb/chuyện_giường_chiếu/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1t6nrnb/chuyện_giường_chiếu/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-05-07T21:15:28+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1t6hvyh</id>
     <title>Bao lâu thì có thể rủ đi first date</title>
     <updated>2026-05-07T17:47:21+00:00</updated>
@@ -201,6 +162,32 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1t69w51/có_ai_thấy_cái_kết_của_phim_đám_cưới_của_em_rất/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-05-07T13:01:37+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1t6pa41</id>
+    <title>Từ khi tập gym bị thức giữa đêm</title>
+    <updated>2026-05-07T22:14:38+00:00</updated>
+    <author>
+      <name>/u/Rich-Speaker-1359</name>
+      <uri>https://old.reddit.com/user/Rich-Speaker-1359</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mn, như tiêu đề, k hiểu sao từ lúc e đi tập gym đến giờ (1 tháng rưỡi trở lại đây) thì em ngủ thường xuyên bị thức dậy giữa đêm 2-3g sáng, e ngủ lúc 23h-23h30 và tập xong có lúc 6h30 tối hoặc 8h tối. Trước đó em đi bơi thì ngủ bth thẳng giấc, nên e đg có suy nghĩ trở lại đi bơi + đá bóng và tập kháng lực bổ trợ khoảng 2 buổi thôi. Xin ý kiến của mn&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Rich-Speaker-1359"&gt; /u/Rich-Speaker-1359 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1t6pa41/từ_khi_tập_gym_bị_thức_giữa_đêm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1t6pa41/từ_khi_tập_gym_bị_thức_giữa_đêm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1t6pa41/từ_khi_tập_gym_bị_thức_giữa_đêm/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-05-07T22:14:38+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1t6pwe5</id>
+    <title>Dù và gái cùng cà phê</title>
+    <updated>2026-05-07T22:40:06+00:00</updated>
+    <author>
+      <name>/u/Blackcoffee3939</name>
+      <uri>https://old.reddit.com/user/Blackcoffee3939</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1t6pwe5/dù_và_gái_cùng_cà_phê/"&gt; &lt;img alt="Dù và gái cùng cà phê" src="https://preview.redd.it/pbyj6iejmszg1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=2577e0e5352e006af38a47bd42e9b91362b13f67" title="Dù và gái cùng cà phê" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Đang uống cafe thì thấy bé nhân viên lấy thang ra sửa dù. Mình thấy bé ấy leo cao nguy hiểm quá, mình mới nói là để anh tới giữ thang cho… Bé ấy nói Không Mượn.☹️☹️☹️&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Blackcoffee3939"&gt; /u/Blackcoffee3939 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/pbyj6iejmszg1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1t6pwe5/dù_và_gái_cùng_cà_phê/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1t6pwe5/dù_và_gái_cùng_cà_phê/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-05-07T22:40:06+00:00</published>
   </entry>
   <entry>
     <id>t3_1t5zeyo</id>
@@ -268,6 +255,19 @@
     <published>2026-05-07T14:47:37+00:00</published>
   </entry>
   <entry>
+    <id>t3_1t6cshu</id>
+    <title>Người Con Gái Huế</title>
+    <updated>2026-05-07T14:49:41+00:00</updated>
+    <author>
+      <name>/u/youngBB98</name>
+      <uri>https://old.reddit.com/user/youngBB98</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;mình thấy ở Sài Gòn ít thấy con gái Huế thế nhỉ, mình thích accent của con gái Huế cực. Một lần được tiếp xúc với khách nữ người Huế cứ phải nói là như văn các cụ tả luôn ạ, phong thái rồi cách họ nói sao mà nhẹ nhàng dịu dàng. các bạn có tiếp xúc nhiều với con gái Huế không.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/youngBB98"&gt; /u/youngBB98 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1t6cshu/người_con_gái_huế/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1t6cshu/người_con_gái_huế/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1t6cshu/người_con_gái_huế/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-05-07T14:49:41+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1t6lm9e</id>
     <title>Ai thức khuya giống mình k</title>
     <updated>2026-05-07T19:58:30+00:00</updated>
@@ -281,17 +281,17 @@
     <published>2026-05-07T19:58:30+00:00</published>
   </entry>
   <entry>
-    <id>t3_1t6cshu</id>
-    <title>Người Con Gái Huế</title>
-    <updated>2026-05-07T14:49:41+00:00</updated>
+    <id>t3_1t6nrnb</id>
+    <title>Chuyện giường chiếu.</title>
+    <updated>2026-05-07T21:15:28+00:00</updated>
     <author>
-      <name>/u/youngBB98</name>
-      <uri>https://old.reddit.com/user/youngBB98</uri>
+      <name>/u/Azaline112</name>
+      <uri>https://old.reddit.com/user/Azaline112</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;mình thấy ở Sài Gòn ít thấy con gái Huế thế nhỉ, mình thích accent của con gái Huế cực. Một lần được tiếp xúc với khách nữ người Huế cứ phải nói là như văn các cụ tả luôn ạ, phong thái rồi cách họ nói sao mà nhẹ nhàng dịu dàng. các bạn có tiếp xúc nhiều với con gái Huế không.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/youngBB98"&gt; /u/youngBB98 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1t6cshu/người_con_gái_huế/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1t6cshu/người_con_gái_huế/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1t6cshu/người_con_gái_huế/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình 22 tuổi, đã có bồ. Chuyện là 3 ngày trước mình có đi homestay với bồ và có quan hệ (có bao). Nhưng vì một lý do gì đấy mà em hành sự tầm 20p mà không ra, bồ em thì mệt với hết sức để chơi rồi mà em vẫn chưa ra, chỉ khi nào tháo bao rồi dùng miệng thì mới ra. Cái này là bình thường hay sao vậy mn?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Azaline112"&gt; /u/Azaline112 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1t6nrnb/chuyện_giường_chiếu/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1t6nrnb/chuyện_giường_chiếu/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1t6nrnb/chuyện_giường_chiếu/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-05-07T14:49:41+00:00</published>
+    <published>2026-05-07T21:15:28+00:00</published>
   </entry>
   <entry>
     <id>t3_1t696cy</id>
