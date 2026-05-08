@@ -2,37 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-05-08T16:11:58+00:00</updated>
+  <updated>2026-05-08T17:44:07+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1t731ra</id>
-    <title>[Xin ý kiến] Dự án "đập tường" để kết nối với bố mẹ của một người xa xứ – Liệu có khả thi?</title>
-    <updated>2026-05-08T09:39:07+00:00</updated>
-    <author>
-      <name>/u/Comfortable-Board916</name>
-      <uri>https://old.reddit.com/user/Comfortable-Board916</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào anh em,&lt;/p&gt; &lt;p&gt;Mình là một lập trình viên đang làm việc tại Pháp. Hôm nay mình lên đây không phải để bán hàng, mà thực sự muốn xin &amp;quot;gạch đá&amp;quot; từ anh em cho một dự án mình đang ấp ủ bằng tất cả tâm huyết.&lt;/p&gt; &lt;p&gt;Câu chuyện này thực ra bắt đầu từ chính cái 'vết sẹo' của mình. Mình lớn lên ở Hà Nội trong một gia đình cơ bản, chẳng thiếu thốn cái gì nhưng lại hổng mất một thứ: Sự kết nối. Bố mẹ mình làm kinh doanh nên gần như không bao giờ rất ít có thời gian để cả nhà ăn chung một bữa cơm. Hồi mình ở Việt Nam, anh em tin nổi không, mình với bố chưa bao giờ nói chuyện với nhau quá được 30 giây mà không rơi vào im lặng hoặc cãi vã.&lt;/p&gt; &lt;p&gt;Chỉ đến khi độc hành nơi xứ người, mình bắt đầu nghĩ về gia đình nhiều hơn. Mình đã từng rất giận họ vì nhiều lí do nhưng rồi ngấm được cái gọi là lòng biết ơn thì mình biết là họ đã cố gắng rất nhiều để mình có được ngày hôm nay. Nhưng vấn đề là mình đã xây ra một bức tường quá vững chắc để có thể dùng lời nói phá bỏ nó. &lt;/p&gt; &lt;p&gt;Mình muốn làm gì đó để có thể nói cho họ biết mình rất thương họ bằng cách cố gắng giữ lại những câu chuyện, câu nói,... của họ trong khi họ vẫn còn minh mẫn.&lt;/p&gt; &lt;p&gt;Vì thế, mình xây dựng &lt;strong&gt;ROOTS (GỐC)&lt;/strong&gt; – không chỉ là một App, mà là một giải pháp để &amp;quot;đập bỏ bức tường&amp;quot; ngăn cách các thế hệ.&lt;/p&gt; &lt;p&gt;ROOTS hiện tại tập trung vào &lt;strong&gt;những người giống mình, là người Việt xa xứ&lt;/strong&gt; – những người có nhu cầu kết nối mãnh liệt nhất nhưng lại bị ngăn cách bởi địa lý. &lt;/p&gt; &lt;p&gt;&lt;strong&gt;Dự án của mình (giai đoạn MVP) gồm 2 phần:&lt;/strong&gt;&lt;/p&gt; &lt;ol&gt; &lt;li&gt;&lt;strong&gt;Bộ thẻ bài:&lt;/strong&gt; Có 50 câu hỏi được tham vấn chuyên gia tâm lý để khơi gợi chuyện cũ một cách tinh tế (không bị sến). Mỗi thẻ có mã QR để bố mẹ &amp;quot;1 chạm&amp;quot; là kể chuyện được ngay qua Zalo Mini App.&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Bảo mật chuẩn Châu Âu:&lt;/strong&gt; Toàn bộ dữ liệu giọng nói và hình ảnh sẽ được số hóa và bảo mật nghiêm ngặt theo tiêu chuẩn &lt;strong&gt;GDPR&lt;/strong&gt; (quy định bảo vệ dữ liệu khắt khe nhất thế giới hiện nay). Vì mình hiểu rằng dữ liệu gia đình là tài sản nhạy cảm nhất, nên sự riêng tư của người dùng là ưu tiên số 1.&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;&lt;strong&gt;Mình thực sự cần góc nhìn của anh em về vài điểm:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Về tính thực tế:&lt;/strong&gt; Anh em thấy việc dùng &amp;quot;vật cản vật lý&amp;quot; (thẻ bài) để kích hoạt &amp;quot;hành vi số&amp;quot; (ghi âm) có giúp bố mẹ bớt ngại công nghệ không?&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Về rào cản:&lt;/strong&gt; Nếu là anh em, điều gì khiến anh em ngần ngại nhất khi dùng sản phẩm này? (Bảo mật, giá cả, hay đơn giản là cảm thấy không cần thiết?)&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Về mô hình:&lt;/strong&gt; Mình dự định đi theo hướng &amp;quot;Phygital&amp;quot; – kết nối vật lý và kỹ thuật số. Anh em có thấy nó ổn hơn là một cái App thuần túy không?&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Anh em có ai cũng đang bị kẹt sau bức tường giống mình không, hay có cao kiến gì để bố mình chịu ngồi xuống rút thẻ bài kể chuyện không?&lt;/p&gt; &lt;p&gt;Dự án này mình làm trước hết là để tự cứu lấy mối quan hệ của chính mình với gia đình. Anh em cứ gạch đá thoải mái, mình xin tiếp thu hết để hoàn thiện sản phẩm. &lt;/p&gt; &lt;p&gt;&lt;strong&gt;P/S:&lt;/strong&gt; Mình có để link dự án ở dưới nếu anh em nào quan tâm sâu hơn thì hãy để lại email&lt;/p&gt; &lt;p&gt;&lt;a href="https://roots-amber.vercel.app/"&gt;https://roots-amber.vercel.app/&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Cảm ơn anh em đã đọc!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Comfortable-Board916"&gt; /u/Comfortable-Board916 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1t731ra/xin_ý_kiến_dự_án_đập_tường_để_kết_nối_với_bố_mẹ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1t731ra/xin_ý_kiến_dự_án_đập_tường_để_kết_nối_với_bố_mẹ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1t731ra/xin_ý_kiến_dự_án_đập_tường_để_kết_nối_với_bố_mẹ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-05-08T09:39:07+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1t6w13s</id>
-    <title>Không biết khái niệm trung bình.</title>
-    <updated>2026-05-08T03:17:31+00:00</updated>
-    <author>
-      <name>/u/Alarming_Gap313</name>
-      <uri>https://old.reddit.com/user/Alarming_Gap313</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Thấy nhiều người bây giờ không biết cái khái niệm trung bình là gì, lấy cái sample size bé tẹo 2 3 người cá biệt xong đưa ra kết luận cho cả tập thể.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Alarming_Gap313"&gt; /u/Alarming_Gap313 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1t6w13s/không_biết_khái_niệm_trung_bình/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1t6w13s/không_biết_khái_niệm_trung_bình/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1t6w13s/không_biết_khái_niệm_trung_bình/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-05-08T03:17:31+00:00</published>
-  </entry>
   <entry>
     <id>t3_1t7c3qw</id>
     <title>mọi người tư vấn giúp em ốp iphone 12 mini với ạ</title>
@@ -86,19 +60,6 @@
     <published>2026-05-08T16:05:52+00:00</published>
   </entry>
   <entry>
-    <id>t3_1t6x5tn</id>
-    <title>Chọn ngành</title>
-    <updated>2026-05-08T04:13:09+00:00</updated>
-    <author>
-      <name>/u/Zekyy_18</name>
-      <uri>https://old.reddit.com/user/Zekyy_18</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;2k8 tìm hiểu ngành nào cũng “ đang bão hoà , cạnh tranh cao , khó kiếm việc làm , thừa nhân lực , không phát triển ở thị trường Vn , …vv “&lt;/p&gt; &lt;p&gt;THẾ BIẾT ĐI VỀ ĐÂU ĐÂYYY 😭 33 ngày nữa thôi t điên mất&lt;br /&gt; Em thi Toán Văn Anh Sử anh chị định hướng giúp em với . Em có tham khảo về ngành Marketing , truyền thông đa phương tiện - báo chí , du lịch , tâm lý học và xã hội học ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Zekyy_18"&gt; /u/Zekyy_18 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1t6x5tn/chọn_ngành/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1t6x5tn/chọn_ngành/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1t6x5tn/chọn_ngành/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-05-08T04:13:09+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1t72dgi</id>
     <title>Reddit Map</title>
     <updated>2026-05-08T09:00:59+00:00</updated>
@@ -138,6 +99,19 @@
     <published>2026-05-08T13:00:53+00:00</published>
   </entry>
   <entry>
+    <id>t3_1t7drcq</id>
+    <title>Ngày hôm nay bật điều hòa mà sao vẫn nóng ?</title>
+    <updated>2026-05-08T16:57:37+00:00</updated>
+    <author>
+      <name>/u/RelativeRiver</name>
+      <uri>https://old.reddit.com/user/RelativeRiver</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Trời hôm nay sao nóng v1 thế rõ là mở dh thêm quạt mà nóng &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/RelativeRiver"&gt; /u/RelativeRiver &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1t7drcq/ngày_hôm_nay_bật_điều_hòa_mà_sao_vẫn_nóng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1t7drcq/ngày_hôm_nay_bật_điều_hòa_mà_sao_vẫn_nóng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1t7drcq/ngày_hôm_nay_bật_điều_hòa_mà_sao_vẫn_nóng/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-05-08T16:57:37+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1t7304w</id>
     <title>Ngành nghề liên quan đến tiếng pháp tại Việt Nam</title>
     <updated>2026-05-08T09:36:30+00:00</updated>
@@ -149,6 +123,32 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1t7304w/ngành_nghề_liên_quan_đến_tiếng_pháp_tại_việt_nam/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-05-08T09:36:30+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1t6x5tn</id>
+    <title>Chọn ngành</title>
+    <updated>2026-05-08T04:13:09+00:00</updated>
+    <author>
+      <name>/u/Zekyy_18</name>
+      <uri>https://old.reddit.com/user/Zekyy_18</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;2k8 tìm hiểu ngành nào cũng “ đang bão hoà , cạnh tranh cao , khó kiếm việc làm , thừa nhân lực , không phát triển ở thị trường Vn , …vv “&lt;/p&gt; &lt;p&gt;THẾ BIẾT ĐI VỀ ĐÂU ĐÂYYY 😭 33 ngày nữa thôi t điên mất&lt;br /&gt; Em thi Toán Văn Anh Sử anh chị định hướng giúp em với . Em có tham khảo về ngành Marketing , truyền thông đa phương tiện - báo chí , du lịch , tâm lý học và xã hội học ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Zekyy_18"&gt; /u/Zekyy_18 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1t6x5tn/chọn_ngành/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1t6x5tn/chọn_ngành/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1t6x5tn/chọn_ngành/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-05-08T04:13:09+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1t7ecax</id>
+    <title>Fb bị họ vào theo dõi hơn 10k người và spam tn</title>
+    <updated>2026-05-08T17:17:25+00:00</updated>
+    <author>
+      <name>/u/Big-Manner7333</name>
+      <uri>https://old.reddit.com/user/Big-Manner7333</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1t7ecax/fb_bị_họ_vào_theo_dõi_hơn_10k_người_và_spam_tn/"&gt; &lt;img alt="Fb bị họ vào theo dõi hơn 10k người và spam tn" src="https://preview.redd.it/7j3vya2n5yzg1.jpg?width=140&amp;amp;height=140&amp;amp;crop=1:1,smart&amp;amp;auto=webp&amp;amp;s=4b5e05c516b4821a8245758adc27e4fd21cd47ee" title="Fb bị họ vào theo dõi hơn 10k người và spam tn" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Gần đây FB em nó tự động theo dõi 10k người lạ và gửi tin nhắn rác cho bạn bè, em đổi mật khẩu + đăng xuất tất cả máy rồi vẫn bị tiếp​​​​. Ai biết cách giải quyết chỉ với ạ. Em khổ quá xin mod duyệt với ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Big-Manner7333"&gt; /u/Big-Manner7333 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1t7ecax"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1t7ecax/fb_bị_họ_vào_theo_dõi_hơn_10k_người_và_spam_tn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1t7ecax/fb_bị_họ_vào_theo_dõi_hơn_10k_người_và_spam_tn/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-05-08T17:17:25+00:00</published>
   </entry>
   <entry>
     <id>t3_1t73hq6</id>
@@ -188,19 +188,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1t748ke/mn_e_muốn_tìm_bài_nhạc_nền_trong_video_ạ_d_d/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-05-08T10:43:51+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1t7a7we</id>
-    <title>Em có đang bị ảo tưởng?</title>
-    <updated>2026-05-08T14:51:04+00:00</updated>
-    <author>
-      <name>/u/huy866</name>
-      <uri>https://old.reddit.com/user/huy866</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em là một thằng con trai nhát gái và hèn và chỉ yêu đơn phương. 2 tuần trước, lớp học thêm có 2 bạn nữ mới vào lớp, 1 bạn em đã quen từ trước và bạn kia em chưa quen, sau khi ngồi cạnh bạn nữ ấy (bạn mà em không quen) thì em có một cái nhìn khác với bạn đó. Hôm nay ở bãi giữ xe bạn ấy nói &amp;quot;nhìn mặt thằng này mà thấy ghét&amp;quot; nói với giọng điệu đùa giỡn ấy thì không biết là bạn ấy có đang để ý em không với cả trong lớp cũng hay giỡn như thế. Em biết có thể là bạn ấy chỉ đang giỡn nhưng vì câu đùa ấy mà đã làm em suy nghĩ rất nhiều. Em muốn hỏi một câu là làm sao để hiểu ý của PHỤ NỮ ạ!!! (vì là thứ 6 nên em xàm xàm mấy bác thông cảm giúp ạ, em không hỏi AI vì AI không phải là Human) &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/huy866"&gt; /u/huy866 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1t7a7we/em_có_đang_bị_ảo_tưởng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1t7a7we/em_có_đang_bị_ảo_tưởng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1t7a7we/em_có_đang_bị_ảo_tưởng/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-05-08T14:51:04+00:00</published>
   </entry>
   <entry>
     <id>t3_1t73h60</id>
@@ -253,6 +240,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1t6y6ho/có_nên_phá_vỡ_im_lặng_khi_thấy_bạn_nữ_mới_chia/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-05-08T05:06:52+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1t7a7we</id>
+    <title>Em có đang bị ảo tưởng?</title>
+    <updated>2026-05-08T14:51:04+00:00</updated>
+    <author>
+      <name>/u/huy866</name>
+      <uri>https://old.reddit.com/user/huy866</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em là một thằng con trai nhát gái và hèn và chỉ yêu đơn phương. 2 tuần trước, lớp học thêm có 2 bạn nữ mới vào lớp, 1 bạn em đã quen từ trước và bạn kia em chưa quen, sau khi ngồi cạnh bạn nữ ấy (bạn mà em không quen) thì em có một cái nhìn khác với bạn đó. Hôm nay ở bãi giữ xe bạn ấy nói &amp;quot;nhìn mặt thằng này mà thấy ghét&amp;quot; nói với giọng điệu đùa giỡn ấy thì không biết là bạn ấy có đang để ý em không với cả trong lớp cũng hay giỡn như thế. Em biết có thể là bạn ấy chỉ đang giỡn nhưng vì câu đùa ấy mà đã làm em suy nghĩ rất nhiều. Em muốn hỏi một câu là làm sao để hiểu ý của PHỤ NỮ ạ!!! (vì là thứ 6 nên em xàm xàm mấy bác thông cảm giúp ạ, em không hỏi AI vì AI không phải là Human) &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/huy866"&gt; /u/huy866 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1t7a7we/em_có_đang_bị_ảo_tưởng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1t7a7we/em_có_đang_bị_ảo_tưởng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1t7a7we/em_có_đang_bị_ảo_tưởng/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-05-08T14:51:04+00:00</published>
   </entry>
   <entry>
     <id>t3_1t6xpmz</id>
