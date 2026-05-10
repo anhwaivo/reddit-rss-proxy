@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-05-10T22:04:45+00:00</updated>
+  <updated>2026-05-10T23:08:28+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -177,19 +177,6 @@
     <published>2026-05-10T14:15:40+00:00</published>
   </entry>
   <entry>
-    <id>t3_1t8v5ad</id>
-    <title>Làm sao để thoát khỏi môi trường công sở VN?</title>
-    <updated>2026-05-10T03:07:22+00:00</updated>
-    <author>
-      <name>/u/Prestigious-Bat5206</name>
-      <uri>https://old.reddit.com/user/Prestigious-Bat5206</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em muốn kiếm một môi trường đi làm rồi về, ko phải lo nghĩ đến mấy chuyện ruồi bu drama do người khác gây ra lên mình thì làm sao các bác?&lt;/p&gt; &lt;p&gt;E thấy điều này khá phổ biến ở VN?&lt;/p&gt; &lt;p&gt;Có bác nào thoát đc share e với&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Prestigious-Bat5206"&gt; /u/Prestigious-Bat5206 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1t8v5ad/làm_sao_để_thoát_khỏi_môi_trường_công_sở_vn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1t8v5ad/làm_sao_để_thoát_khỏi_môi_trường_công_sở_vn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1t8v5ad/làm_sao_để_thoát_khỏi_môi_trường_công_sở_vn/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-05-10T03:07:22+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1t95i7c</id>
     <title>Cổ tích hay thực tế</title>
     <updated>2026-05-10T12:22:32+00:00</updated>
@@ -214,6 +201,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1t9eted/việt_kiều_làm_quốc_tịch_việt_nam_ở_thành_phố_hồ/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-05-10T18:29:45+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1t8v5ad</id>
+    <title>Làm sao để thoát khỏi môi trường công sở VN?</title>
+    <updated>2026-05-10T03:07:22+00:00</updated>
+    <author>
+      <name>/u/Prestigious-Bat5206</name>
+      <uri>https://old.reddit.com/user/Prestigious-Bat5206</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em muốn kiếm một môi trường đi làm rồi về, ko phải lo nghĩ đến mấy chuyện ruồi bu drama do người khác gây ra lên mình thì làm sao các bác?&lt;/p&gt; &lt;p&gt;E thấy điều này khá phổ biến ở VN?&lt;/p&gt; &lt;p&gt;Có bác nào thoát đc share e với&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Prestigious-Bat5206"&gt; /u/Prestigious-Bat5206 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1t8v5ad/làm_sao_để_thoát_khỏi_môi_trường_công_sở_vn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1t8v5ad/làm_sao_để_thoát_khỏi_môi_trường_công_sở_vn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1t8v5ad/làm_sao_để_thoát_khỏi_môi_trường_công_sở_vn/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-05-10T03:07:22+00:00</published>
   </entry>
   <entry>
     <id>t3_1t99tbz</id>
