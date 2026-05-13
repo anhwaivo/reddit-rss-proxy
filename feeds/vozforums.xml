@@ -2,37 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-05-13T11:05:27+00:00</updated>
+  <updated>2026-05-13T13:28:30+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1tbul8n</id>
-    <title>Có ai đang build “one-person business” thật sự thành công không?</title>
-    <updated>2026-05-13T09:32:01+00:00</updated>
-    <author>
-      <name>/u/Aware-Car-4852</name>
-      <uri>https://old.reddit.com/user/Aware-Car-4852</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Dạo gần đây mình tìm hiểu khá nhiều về mô hình “one-person business” / solopreneur và thật sự thấy nó rất khác so với cách build business truyền thống trước đây.&lt;/p&gt; &lt;p&gt;Ngày trước khi nhắc tới startup hay công ty, mọi người thường nghĩ tới:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;team lớn&lt;/li&gt; &lt;li&gt;chia nhiều role&lt;/li&gt; &lt;li&gt;tuyển nhân sự&lt;/li&gt; &lt;li&gt;gọi vốn&lt;/li&gt; &lt;li&gt;mở rộng quy mô bằng cách tăng số người&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Nhưng hiện tại, với sự phát triển của:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;AI&lt;/li&gt; &lt;li&gt;automation&lt;/li&gt; &lt;li&gt;no-code&lt;/li&gt; &lt;li&gt;internet&lt;/li&gt; &lt;li&gt;các công cụ SaaS&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;thì cảm giác như một người giờ có thể làm được lượng công việc trước đây cần cả một team nhỏ.&lt;/p&gt; &lt;p&gt;Một người hoàn toàn có thể:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;build sản phẩm&lt;/li&gt; &lt;li&gt;viết content&lt;/li&gt; &lt;li&gt;chạy marketing&lt;/li&gt; &lt;li&gt;bán hàng&lt;/li&gt; &lt;li&gt;chăm sóc khách hàng&lt;/li&gt; &lt;li&gt;quản lý vận hành&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;chỉ bằng cách tận dụng tool và automation.&lt;/p&gt; &lt;p&gt;Mình thấy mô hình này xuất hiện rất nhiều ở:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Micro SaaS&lt;/li&gt; &lt;li&gt;digital products&lt;/li&gt; &lt;li&gt;content business&lt;/li&gt; &lt;li&gt;AI tools&lt;/li&gt; &lt;li&gt;solo agency&lt;/li&gt; &lt;li&gt;niche e-commerce&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Điều khiến mình thấy thú vị là:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;chi phí vận hành thấp&lt;/li&gt; &lt;li&gt;không phải quản lý quá nhiều người&lt;/li&gt; &lt;li&gt;lợi nhuận giữ lại cao hơn&lt;/li&gt; &lt;li&gt;linh hoạt về thời gian và địa điểm làm việc&lt;/li&gt; &lt;li&gt;có thể scale nhờ internet thay vì scale bằng nhân sự&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Nhưng mình cũng khá tò mò về mặt thực tế lâu dài của mô hình này.&lt;/p&gt; &lt;p&gt;Ví dụ:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Một người thật sự có thể scale business tới mức nào?&lt;/li&gt; &lt;li&gt;Có dễ bị burnout khi phải ôm nhiều vai trò không?&lt;/li&gt; &lt;li&gt;AI hiện tại có thật sự giúp tăng productivity tới mức thay thế được cả team nhỏ?&lt;/li&gt; &lt;li&gt;Khi doanh thu tăng thì liệu cuối cùng vẫn phải tuyển người?&lt;/li&gt; &lt;li&gt;Hay mô hình tối ưu nhất bây giờ là giữ business nhỏ nhưng lợi nhuận cao?&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Mình rất muốn nghe chia sẻ thực tế từ những ai:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;đang build business một người&lt;/li&gt; &lt;li&gt;từng làm startup/team lớn rồi chuyển sang solo&lt;/li&gt; &lt;li&gt;hoặc đang vận hành business tinh gọn với rất ít nhân sự&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Đặc biệt tò mò:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;mất bao lâu để income ổn định&lt;/li&gt; &lt;li&gt;bottleneck lớn nhất là gì&lt;/li&gt; &lt;li&gt;và nếu bắt đầu lại từ đầu thì mọi người sẽ chọn hướng nào.&lt;/li&gt; &lt;/ul&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Aware-Car-4852"&gt; /u/Aware-Car-4852 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tbul8n/có_ai_đang_build_oneperson_business_thật_sự_thành/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tbul8n/có_ai_đang_build_oneperson_business_thật_sự_thành/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1tbul8n/có_ai_đang_build_oneperson_business_thật_sự_thành/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-05-13T09:32:01+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1tbulb9</id>
-    <title>team mê đồ ngọt điểm danh nào</title>
-    <updated>2026-05-13T09:32:07+00:00</updated>
-    <author>
-      <name>/u/dxd1412</name>
-      <uri>https://old.reddit.com/user/dxd1412</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1tbulb9/team_mê_đồ_ngọt_điểm_danh_nào/"&gt; &lt;img alt="team mê đồ ngọt điểm danh nào" src="https://preview.redd.it/fchu6i6fjv0h1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=3a05ebc8e8d52ceea75e0013f282475005a6a958" title="team mê đồ ngọt điểm danh nào" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;mixue, royal city, hà nội &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/dxd1412"&gt; /u/dxd1412 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/fchu6i6fjv0h1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tbulb9/team_mê_đồ_ngọt_điểm_danh_nào/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1tbulb9/team_mê_đồ_ngọt_điểm_danh_nào/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-05-13T09:32:07+00:00</published>
-  </entry>
   <entry>
     <id>t3_1tb5559</id>
     <title>Em họ cắm hộ chiếu bên Nhật</title>
@@ -45,19 +19,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1tb5559/em_họ_cắm_hộ_chiếu_bên_nhật/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-05-12T15:33:32+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1tbo87v</id>
-    <title>Chấm công</title>
-    <updated>2026-05-13T03:47:11+00:00</updated>
-    <author>
-      <name>/u/Next_Praline_7256</name>
-      <uri>https://old.reddit.com/user/Next_Praline_7256</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Xin tip không quên chấm, em lâu lâu lại quên chấm công, sợ quá mọi người ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Next_Praline_7256"&gt; /u/Next_Praline_7256 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tbo87v/chấm_công/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tbo87v/chấm_công/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1tbo87v/chấm_công/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-05-13T03:47:11+00:00</published>
   </entry>
   <entry>
     <id>t3_1tbmj8h</id>
@@ -112,19 +73,6 @@
     <published>2026-05-13T10:26:46+00:00</published>
   </entry>
   <entry>
-    <id>t3_1tbvs9s</id>
-    <title>Bác sĩ thẩm mỹ tài sản 1200 tỏi vozer có thấy chạnh lòng</title>
-    <updated>2026-05-13T10:37:40+00:00</updated>
-    <author>
-      <name>/u/RelativeRiver</name>
-      <uri>https://old.reddit.com/user/RelativeRiver</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1tbvs9s/bác_sĩ_thẩm_mỹ_tài_sản_1200_tỏi_vozer_có_thấy/"&gt; &lt;img alt="Bác sĩ thẩm mỹ tài sản 1200 tỏi vozer có thấy chạnh lòng" src="https://external-preview.redd.it/wGaHk5ShFsTV7tbbeW1js5RbjZM9aoMrMkgTYu9agag.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=963d59c46943503109d30f981c490f5251a0ce6d" title="Bác sĩ thẩm mỹ tài sản 1200 tỏi vozer có thấy chạnh lòng" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Có ai biết ông này tên gì k&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/RelativeRiver"&gt; /u/RelativeRiver &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://baomoi.com/tphcm-cang-thang-phien-ly-hon-1-200-ti-dong-cua-dai-gia-nha-khoa-tieng-tam-c55144044.epi"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tbvs9s/bác_sĩ_thẩm_mỹ_tài_sản_1200_tỏi_vozer_có_thấy/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1tbvs9s/bác_sĩ_thẩm_mỹ_tài_sản_1200_tỏi_vozer_có_thấy/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-05-13T10:37:40+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1tbryw6</id>
     <title>Giấc mơ không thành</title>
     <updated>2026-05-13T07:01:59+00:00</updated>
@@ -151,32 +99,6 @@
     <published>2026-05-13T10:50:02+00:00</published>
   </entry>
   <entry>
-    <id>t3_1tbsbzx</id>
-    <title>Em tìm job Intern nhưng mãi không có phản hồi</title>
-    <updated>2026-05-13T07:22:37+00:00</updated>
-    <author>
-      <name>/u/tymmmmmm</name>
-      <uri>https://old.reddit.com/user/tymmmmmm</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Buồn quá mọi người. Bạn bè thì có offer liên tục còn mình thì mãi chẳng có 1 reply 😞&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/tymmmmmm"&gt; /u/tymmmmmm &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tbsbzx/em_tìm_job_intern_nhưng_mãi_không_có_phản_hồi/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tbsbzx/em_tìm_job_intern_nhưng_mãi_không_có_phản_hồi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1tbsbzx/em_tìm_job_intern_nhưng_mãi_không_có_phản_hồi/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-05-13T07:22:37+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1tbsk4n</id>
-    <title>Scam không ae</title>
-    <updated>2026-05-13T07:35:37+00:00</updated>
-    <author>
-      <name>/u/quandzpro030605</name>
-      <uri>https://old.reddit.com/user/quandzpro030605</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1tbsk4n/scam_không_ae/"&gt; &lt;img alt="Scam không ae" src="https://preview.redd.it/0svjuzzmyu0h1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=a6b7d1eb823175887d8d8712265a25b4da40f64b" title="Scam không ae" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em lướt qua một nhóm thấy đăng JD như này, có phải scam k ae&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/quandzpro030605"&gt; /u/quandzpro030605 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/0svjuzzmyu0h1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tbsk4n/scam_không_ae/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1tbsk4n/scam_không_ae/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-05-13T07:35:37+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1tb7yzd</id>
     <title>Du học hay về quê?</title>
     <updated>2026-05-12T17:10:28+00:00</updated>
@@ -188,6 +110,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1tb7yzd/du_học_hay_về_quê/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-05-12T17:10:28+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1tbxyp4</id>
+    <title>Nợ 28 triệu học phí nên nói gì</title>
+    <updated>2026-05-13T12:19:16+00:00</updated>
+    <author>
+      <name>/u/lomup</name>
+      <uri>https://old.reddit.com/user/lomup</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình là sinh viên năm cuối của một trường tỉnh lẻ, học lực giỏi còn vài cái học bổng với giải thưởng cuộc thi này kia và cũng được hứa cho vị trí làm ở trường.&lt;/p&gt; &lt;p&gt;Trong tháng 6 tới là tốt nghiệp nhưng còn nợ học phí 28 triệu do nhiều lần không dám xin học phí với lỗi hệ thống bị đôn lên vài triệu. Gia đình cũng không khá giả với rất sợ phải mượn nợ.&lt;/p&gt; &lt;p&gt;Không biết phải nói sao giải thích sao cho gia đình nữa đây&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/lomup"&gt; /u/lomup &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tbxyp4/nợ_28_triệu_học_phí_nên_nói_gì/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tbxyp4/nợ_28_triệu_học_phí_nên_nói_gì/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1tbxyp4/nợ_28_triệu_học_phí_nên_nói_gì/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-05-13T12:19:16+00:00</published>
   </entry>
   <entry>
     <id>t3_1tb87wn</id>
@@ -203,6 +138,19 @@
     <published>2026-05-12T17:18:57+00:00</published>
   </entry>
   <entry>
+    <id>t3_1tbsbzx</id>
+    <title>Em tìm job Intern nhưng mãi không có phản hồi</title>
+    <updated>2026-05-13T07:22:37+00:00</updated>
+    <author>
+      <name>/u/tymmmmmm</name>
+      <uri>https://old.reddit.com/user/tymmmmmm</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Buồn quá mọi người. Bạn bè thì có offer liên tục còn mình thì mãi chẳng có 1 reply 😞&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/tymmmmmm"&gt; /u/tymmmmmm &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tbsbzx/em_tìm_job_intern_nhưng_mãi_không_có_phản_hồi/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tbsbzx/em_tìm_job_intern_nhưng_mãi_không_có_phản_hồi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1tbsbzx/em_tìm_job_intern_nhưng_mãi_không_có_phản_hồi/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-05-13T07:22:37+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1tbogdw</id>
     <title>Câu chuyện shop - shipper</title>
     <updated>2026-05-13T03:58:01+00:00</updated>
@@ -216,6 +164,19 @@
     <published>2026-05-13T03:58:01+00:00</published>
   </entry>
   <entry>
+    <id>t3_1tbsk4n</id>
+    <title>Scam không ae</title>
+    <updated>2026-05-13T07:35:37+00:00</updated>
+    <author>
+      <name>/u/quandzpro030605</name>
+      <uri>https://old.reddit.com/user/quandzpro030605</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1tbsk4n/scam_không_ae/"&gt; &lt;img alt="Scam không ae" src="https://preview.redd.it/0svjuzzmyu0h1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=a6b7d1eb823175887d8d8712265a25b4da40f64b" title="Scam không ae" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em lướt qua một nhóm thấy đăng JD như này, có phải scam k ae&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/quandzpro030605"&gt; /u/quandzpro030605 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/0svjuzzmyu0h1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tbsk4n/scam_không_ae/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1tbsk4n/scam_không_ae/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-05-13T07:35:37+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1tbpq6b</id>
     <title>Em cảm giác cô đơn, lạc lỏng</title>
     <updated>2026-05-13T05:01:15+00:00</updated>
@@ -227,6 +188,32 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1tbpq6b/em_cảm_giác_cô_đơn_lạc_lỏng/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-05-13T05:01:15+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1tbzdxn</id>
+    <title>Trường Sĩ quan không tuyển nữ??</title>
+    <updated>2026-05-13T13:16:57+00:00</updated>
+    <author>
+      <name>/u/Keiichi_Sasaki_21</name>
+      <uri>https://old.reddit.com/user/Keiichi_Sasaki_21</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&amp;#x200b;&lt;/p&gt; &lt;p&gt;Các trường Sĩ quan chỉ huy như trường Sĩ quan Lục Quân, Sĩ quan Tăng Thiết Giáp(ko phải Học viện Kỹ thuật Quân sự hay Học viện Hậu Cần/Quân y nhé, đó là sĩ quan kỹ thuật) không tuyển nữ??? Thực sự là e học lớp 12, năm nay định đăng ký các trường này mà ngớ người luôn? Tại sao các trường này không tuyển nữ mà không có mấy ai nói về vấn đề này vậy.... Tại sao không phải là trao cho cơ hội bằng nhau mà lại không tuyển luôn vậy....&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Keiichi_Sasaki_21"&gt; /u/Keiichi_Sasaki_21 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tbzdxn/trường_sĩ_quan_không_tuyển_nữ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tbzdxn/trường_sĩ_quan_không_tuyển_nữ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1tbzdxn/trường_sĩ_quan_không_tuyển_nữ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-05-13T13:16:57+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1tbx02c</id>
+    <title>Xin review lương lậu tại Hyundai TC Thành Công?</title>
+    <updated>2026-05-13T11:36:56+00:00</updated>
+    <author>
+      <name>/u/linhgalaxy01</name>
+      <uri>https://old.reddit.com/user/linhgalaxy01</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Có bác nào từng làm ở đây cho em xin review khoản lương lậu ok không ạ? Cụ thể là ở mảng IT, DA &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/linhgalaxy01"&gt; /u/linhgalaxy01 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tbx02c/xin_review_lương_lậu_tại_hyundai_tc_thành_công/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tbx02c/xin_review_lương_lậu_tại_hyundai_tc_thành_công/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1tbx02c/xin_review_lương_lậu_tại_hyundai_tc_thành_công/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-05-13T11:36:56+00:00</published>
   </entry>
   <entry>
     <id>t3_1tbs9oj</id>
@@ -255,19 +242,6 @@
     <published>2026-05-13T02:15:05+00:00</published>
   </entry>
   <entry>
-    <id>t3_1tbvbdz</id>
-    <title>Có phải người Việt còn nghèo vì tư duy này k?</title>
-    <updated>2026-05-13T10:12:33+00:00</updated>
-    <author>
-      <name>/u/Obvious-Nature3325</name>
-      <uri>https://old.reddit.com/user/Obvious-Nature3325</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1tbvbdz/có_phải_người_việt_còn_nghèo_vì_tư_duy_này_k/"&gt; &lt;img alt="Có phải người Việt còn nghèo vì tư duy này k?" src="https://preview.redd.it/9zrbn3lmqv0h1.jpg?width=140&amp;amp;height=101&amp;amp;auto=webp&amp;amp;s=851ca5dd17bf4ed3337118121c53f47dde0ee19b" title="Có phải người Việt còn nghèo vì tư duy này k?" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Lướt FB thấy nhóm tiết kiệm có chị kia làm công nhân, lương 8tr/ tháng, dư 1tr trích ra đầu tư chứng chỉ quỹ nhờ tvan thì dưới cmt nhận k ít lời cười cợt chị tiền ít mà bày đặt đầu tư.&lt;/p&gt; &lt;p&gt;M thấy buồn vì h mn còn giữ tư duy nào tiền nhiều mới nên tích lũy trong khi xây ngôi nhà to thì đều cần bắt đầu từ những viên gạch nhỏ &lt;/p&gt; &lt;p&gt;&lt;a href="https://preview.redd.it/9zrbn3lmqv0h1.jpg?width=828&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=b9b8f3a08f00006cefe96aa4853ef2e676d57f61"&gt;https://preview.redd.it/9zrbn3lmqv0h1.jpg?width=828&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=b9b8f3a08f00006cefe96aa4853ef2e676d57f61&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Obvious-Nature3325"&gt; /u/Obvious-Nature3325 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tbvbdz/có_phải_người_việt_còn_nghèo_vì_tư_duy_này_k/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tbvbdz/có_phải_người_việt_còn_nghèo_vì_tư_duy_này_k/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1tbvbdz/có_phải_người_việt_còn_nghèo_vì_tư_duy_này_k/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-05-13T10:12:33+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1tbp4yg</id>
     <title>Phổ lương IT?</title>
     <updated>2026-05-13T04:31:00+00:00</updated>
@@ -279,6 +253,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1tbp4yg/phổ_lương_it/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-05-13T04:31:00+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1tbq3hz</id>
+    <title>Làm sao để “gây” tôn trọng ranh giới với trai thẳng?</title>
+    <updated>2026-05-13T05:20:15+00:00</updated>
+    <author>
+      <name>/u/Critical-Cherry-8085</name>
+      <uri>https://old.reddit.com/user/Critical-Cherry-8085</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em năm nay 20t, em biết em buê đuê từ năm lớp 7-8 rồi, đến khi lên đh em mới thoải mái và cởi mở hơn. Nhưng từ lúc biết mình gei cho đến thời điểm hiện tại, em luôn luôn cảm giác bị kích thích khi nhìn thấy những bạn hợp gu hay sự nam tính của bạn đó.&lt;br /&gt; Kiểu bạn đấy càng nam tính và ga lăng, càng thể hiện sự “đàn ông” của 1 người con trai thì em càng thấy néng và muốn ăn thịt ngta :(((&lt;br /&gt; Để tránh gặp trường hợp khùng khùng dở dở ương ương, em gần như kh kết thân với một bạn trai thẳng nào cả. Nhưng trong công việc bạn bè, em thật sự cũng muốn sở hữu một vài người bạn nam như thông thường.&lt;br /&gt; Do đó em lên đây để hỏi mọi người cách để kết thân thoải mái với những bạn nam thẳng mà giữ được ranh giới của mình với họ, chứ thân thân riết đụng chạm chắc em néng chết quá, ý là thích thật, nhma đêm về nghĩ tới cảnh ăn thịt người ta em cũng thấy có lỗi :(((&lt;br /&gt; Còn mấy bác trai thẳng kh biết từng gặp trường hợp nào tương tự chưa và những ranh giới nào được đặt ra để tình bạn vẫn có thể thân nhưng kh đi quá mức ạ???&lt;br /&gt; Em từng đọc một bài reddit 2 ông bạn thân, 1 ông thẳng, 1 ông bê, lúc nhậu say xỉn ông bê xàm sở vs thực hiện vài hành động không đúng mực với ông thẳng; từ đó ông thẳng sinh ra ghét và kì thị bue đuê, ý là em kh muốn trường hợp đó xảy ra, pls =(((&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Critical-Cherry-8085"&gt; /u/Critical-Cherry-8085 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tbq3hz/làm_sao_để_gây_tôn_trọng_ranh_giới_với_trai_thẳng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tbq3hz/làm_sao_để_gây_tôn_trọng_ranh_giới_với_trai_thẳng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1tbq3hz/làm_sao_để_gây_tôn_trọng_ranh_giới_với_trai_thẳng/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-05-13T05:20:15+00:00</published>
   </entry>
   <entry>
     <id>t3_1tbs894</id>
@@ -307,17 +294,30 @@
     <published>2026-05-13T05:05:52+00:00</published>
   </entry>
   <entry>
-    <id>t3_1tbq3hz</id>
-    <title>Làm sao để “gây” tôn trọng ranh giới với trai thẳng?</title>
-    <updated>2026-05-13T05:20:15+00:00</updated>
+    <id>t3_1tbvbdz</id>
+    <title>Có phải người Việt còn nghèo vì tư duy này k?</title>
+    <updated>2026-05-13T10:12:33+00:00</updated>
     <author>
-      <name>/u/Critical-Cherry-8085</name>
-      <uri>https://old.reddit.com/user/Critical-Cherry-8085</uri>
+      <name>/u/Obvious-Nature3325</name>
+      <uri>https://old.reddit.com/user/Obvious-Nature3325</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em năm nay 20t, em biết em buê đuê từ năm lớp 7-8 rồi, đến khi lên đh em mới thoải mái và cởi mở hơn. Nhưng từ lúc biết mình gei cho đến thời điểm hiện tại, em luôn luôn cảm giác bị kích thích khi nhìn thấy những bạn hợp gu hay sự nam tính của bạn đó.&lt;br /&gt; Kiểu bạn đấy càng nam tính và ga lăng, càng thể hiện sự “đàn ông” của 1 người con trai thì em càng thấy néng và muốn ăn thịt ngta :(((&lt;br /&gt; Để tránh gặp trường hợp khùng khùng dở dở ương ương, em gần như kh kết thân với một bạn trai thẳng nào cả. Nhưng trong công việc bạn bè, em thật sự cũng muốn sở hữu một vài người bạn nam như thông thường.&lt;br /&gt; Do đó em lên đây để hỏi mọi người cách để kết thân thoải mái với những bạn nam thẳng mà giữ được ranh giới của mình với họ, chứ thân thân riết đụng chạm chắc em néng chết quá, ý là thích thật, nhma đêm về nghĩ tới cảnh ăn thịt người ta em cũng thấy có lỗi :(((&lt;br /&gt; Còn mấy bác trai thẳng kh biết từng gặp trường hợp nào tương tự chưa và những ranh giới nào được đặt ra để tình bạn vẫn có thể thân nhưng kh đi quá mức ạ???&lt;br /&gt; Em từng đọc một bài reddit 2 ông bạn thân, 1 ông thẳng, 1 ông bê, lúc nhậu say xỉn ông bê xàm sở vs thực hiện vài hành động không đúng mực với ông thẳng; từ đó ông thẳng sinh ra ghét và kì thị bue đuê, ý là em kh muốn trường hợp đó xảy ra, pls =(((&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Critical-Cherry-8085"&gt; /u/Critical-Cherry-8085 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tbq3hz/làm_sao_để_gây_tôn_trọng_ranh_giới_với_trai_thẳng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tbq3hz/làm_sao_để_gây_tôn_trọng_ranh_giới_với_trai_thẳng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1tbq3hz/làm_sao_để_gây_tôn_trọng_ranh_giới_với_trai_thẳng/"/>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1tbvbdz/có_phải_người_việt_còn_nghèo_vì_tư_duy_này_k/"&gt; &lt;img alt="Có phải người Việt còn nghèo vì tư duy này k?" src="https://preview.redd.it/9zrbn3lmqv0h1.jpg?width=140&amp;amp;height=101&amp;amp;auto=webp&amp;amp;s=851ca5dd17bf4ed3337118121c53f47dde0ee19b" title="Có phải người Việt còn nghèo vì tư duy này k?" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Lướt FB thấy nhóm tiết kiệm có chị kia làm công nhân, lương 8tr/ tháng, dư 1tr trích ra đầu tư chứng chỉ quỹ nhờ tvan thì dưới cmt nhận k ít lời cười cợt chị tiền ít mà bày đặt đầu tư.&lt;/p&gt; &lt;p&gt;M thấy buồn vì h mn còn giữ tư duy nào tiền nhiều mới nên tích lũy trong khi xây ngôi nhà to thì đều cần bắt đầu từ những viên gạch nhỏ &lt;/p&gt; &lt;p&gt;&lt;a href="https://preview.redd.it/9zrbn3lmqv0h1.jpg?width=828&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=b9b8f3a08f00006cefe96aa4853ef2e676d57f61"&gt;https://preview.redd.it/9zrbn3lmqv0h1.jpg?width=828&amp;amp;format=pjpg&amp;amp;auto=webp&amp;amp;s=b9b8f3a08f00006cefe96aa4853ef2e676d57f61&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Obvious-Nature3325"&gt; /u/Obvious-Nature3325 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tbvbdz/có_phải_người_việt_còn_nghèo_vì_tư_duy_này_k/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tbvbdz/có_phải_người_việt_còn_nghèo_vì_tư_duy_này_k/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1tbvbdz/có_phải_người_việt_còn_nghèo_vì_tư_duy_này_k/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-05-13T05:20:15+00:00</published>
+    <published>2026-05-13T10:12:33+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1tbwlzq</id>
+    <title>Liệu chuyện phạt vi phạm bản quyền có làm gắt hay không?</title>
+    <updated>2026-05-13T11:18:45+00:00</updated>
+    <author>
+      <name>/u/No_Painter7931</name>
+      <uri>https://old.reddit.com/user/No_Painter7931</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1tbwlzq/liệu_chuyện_phạt_vi_phạm_bản_quyền_có_làm_gắt_hay/"&gt; &lt;img alt="Liệu chuyện phạt vi phạm bản quyền có làm gắt hay không?" src="https://preview.redd.it/obd3ogag2w0h1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=5600115835450aefde56202e4a75f8c4932bf911" title="Liệu chuyện phạt vi phạm bản quyền có làm gắt hay không?" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Lượm được cái ảnh này chưa biết này thật hay không. Có vẻ như Việt Nam chưa được trợ giá phần mềm bản quyền cũng như các dịch vụ streaming nên tình trạng dùng chùa vẫn cao. Hiện tại có mỗi Google với Steam (Cảm ơn Gà béo vì dù Việt Nam chặn Steam nhưng vẫn trợ giá), Spotify là có hỗ trợ giá theo vùng. Còn mấy cái dịch vụ streaming có sẵn ở Việt Nam kiểu FPT play hay Iquiyi thì chán khỏi nói.&lt;/p&gt; &lt;p&gt;Liệu sắp tới các dịch vụ streaming và phần mềm bản quyền sắp vào Việt Nam có được trợ giá theo vùng không hay là vẫn bán với giá cắt cổ do quy đổi từ tiền Mỹ ra.&lt;/p&gt; &lt;p&gt;Với việc nhà nước siết chặt bản quyền thì liệu điều này sẽ xảy ra không hay là chỉ tuyên truyền để doạ thôi? Theo tôi là tình trạng xem lậu vẫn diễn ra, chỉ đến khi các công ty chiều lòng khách hàng thì mới hết tình trạng xem lậu. Chứ coi như là ta sẽ có một thế hệ mới xem lậu bằng tiếng Anh và tìm các trang nước ngoài để xem (hiện tại khối trang có phụ đề Việt)&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/No_Painter7931"&gt; /u/No_Painter7931 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/obd3ogag2w0h1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tbwlzq/liệu_chuyện_phạt_vi_phạm_bản_quyền_có_làm_gắt_hay/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1tbwlzq/liệu_chuyện_phạt_vi_phạm_bản_quyền_có_làm_gắt_hay/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-05-13T11:18:45+00:00</published>
   </entry>
   <entry>
     <id>t3_1tbu88o</id>
