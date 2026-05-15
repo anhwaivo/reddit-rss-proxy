@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-05-15T21:33:08+00:00</updated>
+  <updated>2026-05-15T22:37:37+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1tcxoqt</id>
-    <title>Oải!</title>
-    <updated>2026-05-14T13:07:57+00:00</updated>
-    <author>
-      <name>/u/Wide_Stand2511</name>
-      <uri>https://old.reddit.com/user/Wide_Stand2511</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hôm nay là ngày thứ 2 em đóng cửa quán, buồn quá. Thanh niên 98, lên Hà Nội với 2 bàn tay trắng, làm IT có được chút vốn, thì quyết định khởi nghiệp với mô hình cafe, em có mở ở địa bàn Thanh Xuân, và có anh họ quản lý quán, em vẫn đi làm IT để duy trì. 2 ae vừa làm vừa update, được thời gian đầu khoảng 4 tháng, quán có lượt khách khác ổn, dần dần càng về sau thì khách thưa dần. Và bọn em hết vốn xoay, 6 tháng bọn em gồng và hôm qua bọn em chính thức đóng cửa. Ước mơ cất lại. Giờ ôm mất đống nợ, công việc văn phòng thì vẫn còn. Nhưng tự nhiên thấy gục ngã quá mọi người ạ. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Wide_Stand2511"&gt; /u/Wide_Stand2511 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tcxoqt/oải/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tcxoqt/oải/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1tcxoqt/oải/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-05-14T13:07:57+00:00</published>
-  </entry>
   <entry>
     <id>t3_1tdx9u8</id>
     <title>Lần 2 bị gửi giấy dân quân</title>
@@ -60,19 +47,6 @@
     <published>2026-05-15T08:13:21+00:00</published>
   </entry>
   <entry>
-    <id>t3_1tdp9ir</id>
-    <title>Có ai muốn tìm bạn nhắn tin không?</title>
-    <updated>2026-05-15T07:42:22+00:00</updated>
-    <author>
-      <name>/u/haneulzw</name>
-      <uri>https://old.reddit.com/user/haneulzw</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mọi người ơi có ai muốn nhắn tin nói chuyện không, mình làm văn phòng nhưng công việc cũng không quá bận nên muốn tìm ai nói chuyện trong khung giờ đi làm cho đỡ chán. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/haneulzw"&gt; /u/haneulzw &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tdp9ir/có_ai_muốn_tìm_bạn_nhắn_tin_không/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tdp9ir/có_ai_muốn_tìm_bạn_nhắn_tin_không/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1tdp9ir/có_ai_muốn_tìm_bạn_nhắn_tin_không/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-05-15T07:42:22+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1tdsobd</id>
     <title>chia sẻ về thu nhập thấp ở thành phố lớn</title>
     <updated>2026-05-15T10:50:03+00:00</updated>
@@ -84,6 +58,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1tdsobd/chia_sẻ_về_thu_nhập_thấp_ở_thành_phố_lớn/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-05-15T10:50:03+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1tdp9ir</id>
+    <title>Có ai muốn tìm bạn nhắn tin không?</title>
+    <updated>2026-05-15T07:42:22+00:00</updated>
+    <author>
+      <name>/u/haneulzw</name>
+      <uri>https://old.reddit.com/user/haneulzw</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mọi người ơi có ai muốn nhắn tin nói chuyện không, mình làm văn phòng nhưng công việc cũng không quá bận nên muốn tìm ai nói chuyện trong khung giờ đi làm cho đỡ chán. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/haneulzw"&gt; /u/haneulzw &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tdp9ir/có_ai_muốn_tìm_bạn_nhắn_tin_không/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tdp9ir/có_ai_muốn_tìm_bạn_nhắn_tin_không/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1tdp9ir/có_ai_muốn_tìm_bạn_nhắn_tin_không/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-05-15T07:42:22+00:00</published>
   </entry>
   <entry>
     <id>t3_1te0eti</id>
@@ -177,6 +164,19 @@
     <published>2026-05-15T07:51:15+00:00</published>
   </entry>
   <entry>
+    <id>t3_1teayz6</id>
+    <title>Tôi thích ug cà phê,còn bạn thì sao?</title>
+    <updated>2026-05-15T22:15:14+00:00</updated>
+    <author>
+      <name>/u/HoanhNguyen25</name>
+      <uri>https://old.reddit.com/user/HoanhNguyen25</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tôi thích ug cà phê, không chỉ vì vị đắng hay mùi thơm, mà vì những phút giây ngồi chậm lại giữa cuộc sống vội vàng. Một ly cà phê, một chút bình yên. Còn các bạn thì sao?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/HoanhNguyen25"&gt; /u/HoanhNguyen25 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1teayz6/tôi_thích_ug_cà_phêcòn_bạn_thì_sao/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1teayz6/tôi_thích_ug_cà_phêcòn_bạn_thì_sao/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1teayz6/tôi_thích_ug_cà_phêcòn_bạn_thì_sao/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-05-15T22:15:14+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1tdonyy</id>
     <title>Phải làm sao đây</title>
     <updated>2026-05-15T07:08:21+00:00</updated>
@@ -203,19 +203,6 @@
     <published>2026-05-15T17:39:13+00:00</published>
   </entry>
   <entry>
-    <id>t3_1tdvvxc</id>
-    <title>Nữ 25 tuổi muốn đi học ngành kĩ sư</title>
-    <updated>2026-05-15T13:08:37+00:00</updated>
-    <author>
-      <name>/u/Ok_Zookeepergame843</name>
-      <uri>https://old.reddit.com/user/Ok_Zookeepergame843</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi mọi người, em là nữ ở SG, tốt nghiệp Cử nhân Thiết kế truyền thông và hiện có 3 năm làm ở một công ty sản xuất đồ chơi.&lt;/p&gt; &lt;p&gt;Ban đầu em không nghĩ mình sẽ theo kỹ thuật vì hồi cấp 3 học STEM không mạnh, nhất là phần tính toán. Nhưng khi đi làm, em lại gần như không làm thiết kế mà lao vào production luôn vì thấy vui và rất thích giải quyết vấn đề.&lt;/p&gt; &lt;p&gt;Sau 3 năm, em học được khá nhiều về ép nhựa, khuôn, vật liệu, sơn phủ, QA/QC và cải thiện quy trình. Em nhận ra mình thích phát triển sản phẩm và làm việc với production hơn rất nhiều so với việc ngồi thiết kế 8 tiếng/ngày.&lt;/p&gt; &lt;p&gt;Hiện em đang cân nhắc học lại đại học (Bách Khoa HCM) để chuyển hướng hẳn sang kỹ thuật, cụ thể là:&lt;/p&gt; &lt;ol&gt; &lt;li&gt;&lt;p&gt;Kỹ thuật hệ thống công nghiệp (Industrial System Engineer), vì em thích cải thiện quy trình&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Kỹ thuật cơ khí, vì ngành rộng và dễ tìm việc hơn&lt;/p&gt;&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Em dự định vừa học vừa làm, nhưng cũng hơi lo vì học xong chắc khoảng 29–30 tuổi. Ngoài ra, khi apply các job có chữ “Engineer” em cũng hơi ngại vì không có bằng kỹ thuật.&lt;/p&gt; &lt;p&gt;Anh/chị nào đang làm trong ngành cho em xin lời khuyên với ạ!&lt;/p&gt; &lt;p&gt;Trường hợp của em có nhất thiết phải học lại đại học không, hay vẫn có hướng khác để đi vào product development, production, hay các vị trí cải thiện quy trình?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ok_Zookeepergame843"&gt; /u/Ok_Zookeepergame843 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tdvvxc/nữ_25_tuổi_muốn_đi_học_ngành_kĩ_sư/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tdvvxc/nữ_25_tuổi_muốn_đi_học_ngành_kĩ_sư/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1tdvvxc/nữ_25_tuổi_muốn_đi_học_ngành_kĩ_sư/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-05-15T13:08:37+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1te1fc5</id>
     <title>ROBOT hiện tại đã có thể làm được những gì ?</title>
     <updated>2026-05-15T16:29:09+00:00</updated>
@@ -227,6 +214,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1te1fc5/robot_hiện_tại_đã_có_thể_làm_được_những_gì/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-05-15T16:29:09+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1tdvvxc</id>
+    <title>Nữ 25 tuổi muốn đi học ngành kĩ sư</title>
+    <updated>2026-05-15T13:08:37+00:00</updated>
+    <author>
+      <name>/u/Ok_Zookeepergame843</name>
+      <uri>https://old.reddit.com/user/Ok_Zookeepergame843</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi mọi người, em là nữ ở SG, tốt nghiệp Cử nhân Thiết kế truyền thông và hiện có 3 năm làm ở một công ty sản xuất đồ chơi.&lt;/p&gt; &lt;p&gt;Ban đầu em không nghĩ mình sẽ theo kỹ thuật vì hồi cấp 3 học STEM không mạnh, nhất là phần tính toán. Nhưng khi đi làm, em lại gần như không làm thiết kế mà lao vào production luôn vì thấy vui và rất thích giải quyết vấn đề.&lt;/p&gt; &lt;p&gt;Sau 3 năm, em học được khá nhiều về ép nhựa, khuôn, vật liệu, sơn phủ, QA/QC và cải thiện quy trình. Em nhận ra mình thích phát triển sản phẩm và làm việc với production hơn rất nhiều so với việc ngồi thiết kế 8 tiếng/ngày.&lt;/p&gt; &lt;p&gt;Hiện em đang cân nhắc học lại đại học (Bách Khoa HCM) để chuyển hướng hẳn sang kỹ thuật, cụ thể là:&lt;/p&gt; &lt;ol&gt; &lt;li&gt;&lt;p&gt;Kỹ thuật hệ thống công nghiệp (Industrial System Engineer), vì em thích cải thiện quy trình&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Kỹ thuật cơ khí, vì ngành rộng và dễ tìm việc hơn&lt;/p&gt;&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Em dự định vừa học vừa làm, nhưng cũng hơi lo vì học xong chắc khoảng 29–30 tuổi. Ngoài ra, khi apply các job có chữ “Engineer” em cũng hơi ngại vì không có bằng kỹ thuật.&lt;/p&gt; &lt;p&gt;Anh/chị nào đang làm trong ngành cho em xin lời khuyên với ạ!&lt;/p&gt; &lt;p&gt;Trường hợp của em có nhất thiết phải học lại đại học không, hay vẫn có hướng khác để đi vào product development, production, hay các vị trí cải thiện quy trình?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ok_Zookeepergame843"&gt; /u/Ok_Zookeepergame843 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tdvvxc/nữ_25_tuổi_muốn_đi_học_ngành_kĩ_sư/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tdvvxc/nữ_25_tuổi_muốn_đi_học_ngành_kĩ_sư/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1tdvvxc/nữ_25_tuổi_muốn_đi_học_ngành_kĩ_sư/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-05-15T13:08:37+00:00</published>
   </entry>
   <entry>
     <id>t3_1te31t9</id>
@@ -255,19 +255,6 @@
     <published>2026-05-15T11:36:32+00:00</published>
   </entry>
   <entry>
-    <id>t3_1tdggdw</id>
-    <title>Có ông nào đang nghĩ tới việc không lập gia đình đẻ con không?</title>
-    <updated>2026-05-15T00:34:00+00:00</updated>
-    <author>
-      <name>/u/BankTraining2207</name>
-      <uri>https://old.reddit.com/user/BankTraining2207</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Câu hỏi như trên, và lý do vì sao các ông lại chọn như vậy?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/BankTraining2207"&gt; /u/BankTraining2207 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tdggdw/có_ông_nào_đang_nghĩ_tới_việc_không_lập_gia_đình/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tdggdw/có_ông_nào_đang_nghĩ_tới_việc_không_lập_gia_đình/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1tdggdw/có_ông_nào_đang_nghĩ_tới_việc_không_lập_gia_đình/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-05-15T00:34:00+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1tdyoqb</id>
     <title>Cái job này có dấu hiệu j ko?</title>
     <updated>2026-05-15T14:52:54+00:00</updated>
@@ -279,6 +266,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1tdyoqb/cái_job_này_có_dấu_hiệu_j_ko/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-05-15T14:52:54+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1tdggdw</id>
+    <title>Có ông nào đang nghĩ tới việc không lập gia đình đẻ con không?</title>
+    <updated>2026-05-15T00:34:00+00:00</updated>
+    <author>
+      <name>/u/BankTraining2207</name>
+      <uri>https://old.reddit.com/user/BankTraining2207</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Câu hỏi như trên, và lý do vì sao các ông lại chọn như vậy?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/BankTraining2207"&gt; /u/BankTraining2207 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tdggdw/có_ông_nào_đang_nghĩ_tới_việc_không_lập_gia_đình/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tdggdw/có_ông_nào_đang_nghĩ_tới_việc_không_lập_gia_đình/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1tdggdw/có_ông_nào_đang_nghĩ_tới_việc_không_lập_gia_đình/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-05-15T00:34:00+00:00</published>
   </entry>
   <entry>
     <id>t3_1tdvdmh</id>
