@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-05-18T22:01:33+00:00</updated>
+  <updated>2026-05-18T23:18:19+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -112,19 +112,6 @@
     <published>2026-05-18T00:52:10+00:00</published>
   </entry>
   <entry>
-    <id>t3_1tg5vvz</id>
-    <title>Lương IT và thị trường IT tại Việt Nam</title>
-    <updated>2026-05-17T23:52:12+00:00</updated>
-    <author>
-      <name>/u/Perfect_Middle_5533</name>
-      <uri>https://old.reddit.com/user/Perfect_Middle_5533</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Thấy software engineer lương oke quá, nhưng mình thấy xu hướng vibe coding đang nhiều, và trình độ fresher hay junior thì dường như không còn nhiều nữa. Nếu nhảy sang mảng AI engineer thì còn đất từ giờ đến vài năm sắp tới không nhỉ? &lt;/p&gt; &lt;p&gt;Tại VN có công ty Châu Âu, công ty Mỹ nào tuyển AI engineer không nhỉ? Có ai đang làm hay biết được mức lương của những công ty đó không? Nếu biết thêm tiếng Nhật thì làm AI engineer có ổn không, thị trường Nhật có chuộng không? Thanks.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Perfect_Middle_5533"&gt; /u/Perfect_Middle_5533 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tg5vvz/lương_it_và_thị_trường_it_tại_việt_nam/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tg5vvz/lương_it_và_thị_trường_it_tại_việt_nam/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1tg5vvz/lương_it_và_thị_trường_it_tại_việt_nam/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-05-17T23:52:12+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1tgq0r2</id>
     <title>Phát triển sau tốt nghiệp</title>
     <updated>2026-05-18T15:27:27+00:00</updated>
@@ -136,6 +123,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1tgq0r2/phát_triển_sau_tốt_nghiệp/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-05-18T15:27:27+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1tg5vvz</id>
+    <title>Lương IT và thị trường IT tại Việt Nam</title>
+    <updated>2026-05-17T23:52:12+00:00</updated>
+    <author>
+      <name>/u/Perfect_Middle_5533</name>
+      <uri>https://old.reddit.com/user/Perfect_Middle_5533</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Thấy software engineer lương oke quá, nhưng mình thấy xu hướng vibe coding đang nhiều, và trình độ fresher hay junior thì dường như không còn nhiều nữa. Nếu nhảy sang mảng AI engineer thì còn đất từ giờ đến vài năm sắp tới không nhỉ? &lt;/p&gt; &lt;p&gt;Tại VN có công ty Châu Âu, công ty Mỹ nào tuyển AI engineer không nhỉ? Có ai đang làm hay biết được mức lương của những công ty đó không? Nếu biết thêm tiếng Nhật thì làm AI engineer có ổn không, thị trường Nhật có chuộng không? Thanks.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Perfect_Middle_5533"&gt; /u/Perfect_Middle_5533 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tg5vvz/lương_it_và_thị_trường_it_tại_việt_nam/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tg5vvz/lương_it_và_thị_trường_it_tại_việt_nam/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1tg5vvz/lương_it_và_thị_trường_it_tại_việt_nam/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-05-17T23:52:12+00:00</published>
   </entry>
   <entry>
     <id>t3_1tgfqov</id>
