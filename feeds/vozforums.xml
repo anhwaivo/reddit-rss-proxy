@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-05-18T17:16:06+00:00</updated>
+  <updated>2026-05-18T19:10:59+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1tgq0r2</id>
-    <title>Phát triển sau tốt nghiệp</title>
-    <updated>2026-05-18T15:27:27+00:00</updated>
-    <author>
-      <name>/u/ducAnh0803</name>
-      <uri>https://old.reddit.com/user/ducAnh0803</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người ạ! Em tốt nghiệp ngành Logistics Bách Khoa Hà Nội. Hiện em đang làm tại Bank M mảng phòng chống lừa đảo và quản lý rủi ro, lương gross 15 triệu. Công việc khá căng nhưng vẫn ổn, thu nhập tạm được.&lt;/p&gt; &lt;p&gt;Nhưng thật ra đây không phải thứ em thực sự muốn làm lâu dài. Em khá thích Toán và có đam mê với DS/ML — tech stack có sklearn, PyTorch, HuggingFace, ngày thường thì cũng hay dùng SQL với Excel. Em đã thử xin luân chuyển nội bộ sang mảng DS rồi nhưng định biên có hạn nên vẫn đang chờ, chưa có kết quả gì.&lt;/p&gt; &lt;p&gt;Cái em sợ nhất là cứ ổn định mãi mà không có môi trường phù hợp thì sẽ mất dần kỹ năng lẫn động lực. Nên hiện tại em vẫn đang vừa tự học vừa apply bên ngoài sau giờ làm.&lt;/p&gt; &lt;p&gt;Background thêm của em: IELTS 7.5, GPA 3.3, có học bổng trao đổi tại Đức.&lt;/p&gt; &lt;p&gt;Em đang khá phân vân về hướng đi tiếp theo nên rất mong được nghe góc nhìn từ anh chị ạ. Cảm ơn mọi người nhiều! 🙏&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ducAnh0803"&gt; /u/ducAnh0803 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tgq0r2/phát_triển_sau_tốt_nghiệp/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tgq0r2/phát_triển_sau_tốt_nghiệp/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1tgq0r2/phát_triển_sau_tốt_nghiệp/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-05-18T15:27:27+00:00</published>
-  </entry>
   <entry>
     <id>t3_1tgqj5r</id>
     <title>Xin lời khuyên về cách bắt chuyện tại chỗ làm</title>
@@ -99,6 +86,19 @@
     <published>2026-05-18T17:11:25+00:00</published>
   </entry>
   <entry>
+    <id>t3_1tgtdkh</id>
+    <title>Tìm ctv</title>
+    <updated>2026-05-18T17:19:58+00:00</updated>
+    <author>
+      <name>/u/Ecstatic-Spread6374</name>
+      <uri>https://old.reddit.com/user/Ecstatic-Spread6374</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hiện mình đang phát triển thêm hệ thống cộng tác viên/đại lý mảng nhà thông minh Hunonic.&lt;/p&gt; &lt;p&gt;Nói thật đây vẫn đang là 1 nghách khá ngon vì:&lt;/p&gt; &lt;p&gt;* Người dùng smart home ngày càng nhiều&lt;/p&gt; &lt;p&gt;* Nhà dân giờ rất thích điều khiển bằng điện thoại&lt;/p&gt; &lt;p&gt;* Thợ điện/cửa cuốn/camera đều có thể bán kèm&lt;/p&gt; &lt;p&gt;* Tỷ lệ khách quay lại khá tốt&lt;/p&gt; &lt;p&gt;Mô hình này không cần quá nhiều vốn ban đầu.&lt;/p&gt; &lt;p&gt;Chỉ cần:&lt;/p&gt; &lt;p&gt;* Nhập khoảng 5 sản phẩm là có thể lên CTV&lt;/p&gt; &lt;p&gt;* Muốn lên đại lý thì nhập nhiều hơn tùy khả năng&lt;/p&gt; &lt;p&gt;Bên mình hỗ trợ:&lt;/p&gt; &lt;p&gt;* Giá sỉ&lt;/p&gt; &lt;p&gt;* Kỹ thuật&lt;/p&gt; &lt;p&gt;* Cài đặt&lt;/p&gt; &lt;p&gt;* Video/Tài liệu đăng bán&lt;/p&gt; &lt;p&gt;* Hướng dẫn từ đầu&lt;/p&gt; &lt;p&gt;Nhưng mình chỉ muốn tìm ae thật sự muốn làm lâu dài chứ không phải vào xem cho vui rồi bỏ.&lt;/p&gt; &lt;p&gt;Phù hợp với:&lt;/p&gt; &lt;p&gt;* Ae làm điện nước&lt;/p&gt; &lt;p&gt;* Camera&lt;/p&gt; &lt;p&gt;* Cửa cuốn&lt;/p&gt; &lt;p&gt;* Điện dân dụng&lt;/p&gt; &lt;p&gt;* Hoặc muốn tìm thêm 1 nguồn thu ổn định&lt;/p&gt; &lt;p&gt;Thị trường vẫn còn rất rộng, đặc biệt ở tỉnh chưa nhiều người khai thác bài bản.&lt;/p&gt; &lt;p&gt;Ae nào muốn đi lâu dài thì ib trao đổi thêm.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ecstatic-Spread6374"&gt; /u/Ecstatic-Spread6374 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tgtdkh/tìm_ctv/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tgtdkh/tìm_ctv/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1tgtdkh/tìm_ctv/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-05-18T17:19:58+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1tgjvdk</id>
     <title>Nên học nghành khoa học máy tính hay trí tuệ nhân tạo?</title>
     <updated>2026-05-18T11:34:23+00:00</updated>
@@ -151,17 +151,17 @@
     <published>2026-05-17T23:52:12+00:00</published>
   </entry>
   <entry>
-    <id>t3_1tg7w84</id>
-    <title>nắm bắt cơ hội hay nằm thẳng</title>
-    <updated>2026-05-18T01:22:43+00:00</updated>
+    <id>t3_1tgq0r2</id>
+    <title>Phát triển sau tốt nghiệp</title>
+    <updated>2026-05-18T15:27:27+00:00</updated>
     <author>
-      <name>/u/BatDesperate7234</name>
-      <uri>https://old.reddit.com/user/BatDesperate7234</uri>
+      <name>/u/ducAnh0803</name>
+      <uri>https://old.reddit.com/user/ducAnh0803</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người. Em năm nay 20, đang thấy hơi loạn trước cái mớ hỗn độn bây giờ. Từ AI, công nghệ đến mấy chuyện thuế má, bản quyền, cảm giác xã hội cứ bị rối tung lên. Mạng xã hội thì định hướng đủ kiểu làm mình nhìn đâu cũng thấy tiêu cực, đôi lúc thấy nhiều cơ hội đấy nhưng nhìn lại thì thấy như đang ở đáy. Mọi thứ giờ gần như được bày sẵn, mình chỉ việc tiêu thụ và trả tiền cho người làm ra nó, hay do năng lực mình kém :))).&lt;/p&gt; &lt;p&gt;Em muốn biết là các anh chị, các bác thế hệ trước, cái thời mà bất động sản hay giao thương bắt đầu bùng nổ thì mọi người nắm bắt thời cơ ra sao. Không rõ lúc đó mọi người nhìn ra hướng đi là nhờ có tính toán, phân tích kỹ từ trước ,dám liều để đi khác với số đông hay nhờ hội tụ đủ các yếu tố &amp;quot; thiên thời địa lợi nhân hòa &amp;quot;. Em cũng băn khoăn liệu cái sự quyết liệt ngày xưa có điểm gì chung với cái thực tế bây giờ không, khi mà mọi thứ đang bị xáo trộn quá nhanh và dường như chẳng còn chỗ cho người đến sau tự tạo ra cuộc chơi của riêng mình.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/BatDesperate7234"&gt; /u/BatDesperate7234 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tg7w84/nắm_bắt_cơ_hội_hay_nằm_thẳng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tg7w84/nắm_bắt_cơ_hội_hay_nằm_thẳng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1tg7w84/nắm_bắt_cơ_hội_hay_nằm_thẳng/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người ạ! Em tốt nghiệp ngành Logistics Bách Khoa Hà Nội. Hiện em đang làm tại Bank M mảng phòng chống lừa đảo và quản lý rủi ro, lương gross 15 triệu. Công việc khá căng nhưng vẫn ổn, thu nhập tạm được.&lt;/p&gt; &lt;p&gt;Nhưng thật ra đây không phải thứ em thực sự muốn làm lâu dài. Em khá thích Toán và có đam mê với DS/ML — tech stack có sklearn, PyTorch, HuggingFace, ngày thường thì cũng hay dùng SQL với Excel. Em đã thử xin luân chuyển nội bộ sang mảng DS rồi nhưng định biên có hạn nên vẫn đang chờ, chưa có kết quả gì.&lt;/p&gt; &lt;p&gt;Cái em sợ nhất là cứ ổn định mãi mà không có môi trường phù hợp thì sẽ mất dần kỹ năng lẫn động lực. Nên hiện tại em vẫn đang vừa tự học vừa apply bên ngoài sau giờ làm.&lt;/p&gt; &lt;p&gt;Background thêm của em: IELTS 7.5, GPA 3.3, có học bổng trao đổi tại Đức.&lt;/p&gt; &lt;p&gt;Em đang khá phân vân về hướng đi tiếp theo nên rất mong được nghe góc nhìn từ anh chị ạ. Cảm ơn mọi người nhiều! 🙏&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ducAnh0803"&gt; /u/ducAnh0803 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tgq0r2/phát_triển_sau_tốt_nghiệp/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tgq0r2/phát_triển_sau_tốt_nghiệp/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1tgq0r2/phát_triển_sau_tốt_nghiệp/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-05-18T01:22:43+00:00</published>
+    <published>2026-05-18T15:27:27+00:00</published>
   </entry>
   <entry>
     <id>t3_1tgfqov</id>
@@ -190,19 +190,6 @@
     <published>2026-05-18T14:15:42+00:00</published>
   </entry>
   <entry>
-    <id>t3_1tgefh9</id>
-    <title>Có nên tiếp tục dấn thân vào đầu tư BTC?</title>
-    <updated>2026-05-18T06:42:27+00:00</updated>
-    <author>
-      <name>/u/CaPheMilkRock</name>
-      <uri>https://old.reddit.com/user/CaPheMilkRock</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác,&lt;/p&gt; &lt;p&gt;Chuyện là khoảng đầu tháng 4 em có khoảng 10tr tiền nhàn rỗi nên quyết định vô binance dồn hết vào BTC, lúc đó khoảng ~ 62k Trump. Cho đến đầu tháng 5 khi nó lên ~ 80k Trump thì em quyết định bán đi để thu lại được ~ 11tr7k. Lời hẳn ~17-18% trong một tháng. &lt;/p&gt; &lt;p&gt;Vì vậy nên hiện tại em đang khá hype về việc đầu tư BTC, em biết là có thể do em ăn rùa nên cũng khá lo lắng không biết có nên nghiêm túc trong việc đầu tư BTC hay không. Hay là chỉ nên chơi cho vui thử nghiệm. &lt;/p&gt; &lt;p&gt;Em cám ơn các bác &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/CaPheMilkRock"&gt; /u/CaPheMilkRock &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tgefh9/có_nên_tiếp_tục_dấn_thân_vào_đầu_tư_btc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tgefh9/có_nên_tiếp_tục_dấn_thân_vào_đầu_tư_btc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1tgefh9/có_nên_tiếp_tục_dấn_thân_vào_đầu_tư_btc/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-05-18T06:42:27+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1tgmsbe</id>
     <title>Mn có cảm giác gì khi thấy người thân của mình tiễn mình đi xa và ngược lại khi mình tiễn người thân mình về và đi xa mn có cảm xúc thế nào ạ.</title>
     <updated>2026-05-18T13:32:41+00:00</updated>
@@ -214,6 +201,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1tgmsbe/mn_có_cảm_giác_gì_khi_thấy_người_thân_của_mình/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-05-18T13:32:41+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1tgefh9</id>
+    <title>Có nên tiếp tục dấn thân vào đầu tư BTC?</title>
+    <updated>2026-05-18T06:42:27+00:00</updated>
+    <author>
+      <name>/u/CaPheMilkRock</name>
+      <uri>https://old.reddit.com/user/CaPheMilkRock</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác,&lt;/p&gt; &lt;p&gt;Chuyện là khoảng đầu tháng 4 em có khoảng 10tr tiền nhàn rỗi nên quyết định vô binance dồn hết vào BTC, lúc đó khoảng ~ 62k Trump. Cho đến đầu tháng 5 khi nó lên ~ 80k Trump thì em quyết định bán đi để thu lại được ~ 11tr7k. Lời hẳn ~17-18% trong một tháng. &lt;/p&gt; &lt;p&gt;Vì vậy nên hiện tại em đang khá hype về việc đầu tư BTC, em biết là có thể do em ăn rùa nên cũng khá lo lắng không biết có nên nghiêm túc trong việc đầu tư BTC hay không. Hay là chỉ nên chơi cho vui thử nghiệm. &lt;/p&gt; &lt;p&gt;Em cám ơn các bác &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/CaPheMilkRock"&gt; /u/CaPheMilkRock &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tgefh9/có_nên_tiếp_tục_dấn_thân_vào_đầu_tư_btc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tgefh9/có_nên_tiếp_tục_dấn_thân_vào_đầu_tư_btc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1tgefh9/có_nên_tiếp_tục_dấn_thân_vào_đầu_tư_btc/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-05-18T06:42:27+00:00</published>
   </entry>
   <entry>
     <id>t3_1tgj033</id>
@@ -268,32 +268,6 @@
     <published>2026-05-18T15:21:37+00:00</published>
   </entry>
   <entry>
-    <id>t3_1tgfvdu</id>
-    <title>Giải cứu facebook</title>
-    <updated>2026-05-18T08:04:02+00:00</updated>
-    <author>
-      <name>/u/thesaddestboyinworld</name>
-      <uri>https://old.reddit.com/user/thesaddestboyinworld</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1tgfvdu/giải_cứu_facebook/"&gt; &lt;img alt="Giải cứu facebook" src="https://preview.redd.it/sgpev2k9su1h1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=f55dc29819af33ff36aa3bc16dc42e66f1540a92" title="Giải cứu facebook" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Facebook bị ngố à, tui vẫn đang dùng facebook bình thường không link sếch sủng gì cả, đùng 1 cái sáng nay không truy cập vào được nữa. Bị suspend luôn, các anh chị em các sếp hỗ trợ tôi case này với&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/thesaddestboyinworld"&gt; /u/thesaddestboyinworld &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/sgpev2k9su1h1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tgfvdu/giải_cứu_facebook/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1tgfvdu/giải_cứu_facebook/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-05-18T08:04:02+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1tgruh0</id>
-    <title>Review chân thật của ng Việt đang sống ở nc ngoài?</title>
-    <updated>2026-05-18T16:29:35+00:00</updated>
-    <author>
-      <name>/u/Celine233</name>
-      <uri>https://old.reddit.com/user/Celine233</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Có bác nào trong đây đang sống/định cư ở nước ngoài không. Cụ thể là các nước đang phát triển như bên Châu Âu. Cho em xin tí review xem cuộc sống hiện tại bên đó có ổn và đáng sống không? Em dự định muốn gom hết vốn liếng (tích cóp đc tầm 15 tỏi) để 2 vợ chồng đi định cư mà cũng ko biết cuộc sống và tương lai bên đó liệu có ổn hơn bên VN.&lt;/p&gt; &lt;p&gt;***Edit thêm: Ck mình làm tài chính ngân hàng, mình làm Marketing. Ko dám mơ qua sẽ có job văn phòng cạnh tranh lại tụi local nhưng ko biết kinh doanh nhỏ lẻ liệu cuộc sống có đủ tốt? &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Celine233"&gt; /u/Celine233 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tgruh0/review_chân_thật_của_ng_việt_đang_sống_ở_nc_ngoài/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tgruh0/review_chân_thật_của_ng_việt_đang_sống_ở_nc_ngoài/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1tgruh0/review_chân_thật_của_ng_việt_đang_sống_ở_nc_ngoài/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-05-18T16:29:35+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1tgfhrg</id>
     <title>nguồn tham khảo cho ai thắc mắc rank lương IT ở VN</title>
     <updated>2026-05-18T07:42:04+00:00</updated>
@@ -318,6 +292,32 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1tg2bxv/bạn_gái_mình_nhu_cầu_cao_quá/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-05-17T21:25:02+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1tgfvdu</id>
+    <title>Giải cứu facebook</title>
+    <updated>2026-05-18T08:04:02+00:00</updated>
+    <author>
+      <name>/u/thesaddestboyinworld</name>
+      <uri>https://old.reddit.com/user/thesaddestboyinworld</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1tgfvdu/giải_cứu_facebook/"&gt; &lt;img alt="Giải cứu facebook" src="https://preview.redd.it/sgpev2k9su1h1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=f55dc29819af33ff36aa3bc16dc42e66f1540a92" title="Giải cứu facebook" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Facebook bị ngố à, tui vẫn đang dùng facebook bình thường không link sếch sủng gì cả, đùng 1 cái sáng nay không truy cập vào được nữa. Bị suspend luôn, các anh chị em các sếp hỗ trợ tôi case này với&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/thesaddestboyinworld"&gt; /u/thesaddestboyinworld &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/sgpev2k9su1h1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tgfvdu/giải_cứu_facebook/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1tgfvdu/giải_cứu_facebook/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-05-18T08:04:02+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1tgruh0</id>
+    <title>Review chân thật của ng Việt đang sống ở nc ngoài?</title>
+    <updated>2026-05-18T16:29:35+00:00</updated>
+    <author>
+      <name>/u/Celine233</name>
+      <uri>https://old.reddit.com/user/Celine233</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Có bác nào trong đây đang sống/định cư ở nước ngoài không. Cụ thể là các nước đang phát triển như bên Châu Âu. Cho em xin tí review xem cuộc sống hiện tại bên đó có ổn và đáng sống không? Em dự định muốn gom hết vốn liếng (tích cóp đc tầm 15 tỏi) để 2 vợ chồng đi định cư mà cũng ko biết cuộc sống và tương lai bên đó liệu có ổn hơn bên VN.&lt;/p&gt; &lt;p&gt;***Edit thêm: Ck mình làm tài chính ngân hàng, mình làm Marketing. Ko dám mơ qua sẽ có job văn phòng cạnh tranh lại tụi local nhưng ko biết kinh doanh nhỏ lẻ liệu cuộc sống có đủ tốt? &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Celine233"&gt; /u/Celine233 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tgruh0/review_chân_thật_của_ng_việt_đang_sống_ở_nc_ngoài/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tgruh0/review_chân_thật_của_ng_việt_đang_sống_ở_nc_ngoài/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1tgruh0/review_chân_thật_của_ng_việt_đang_sống_ở_nc_ngoài/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-05-18T16:29:35+00:00</published>
   </entry>
   <entry>
     <id>t3_1tgj3sq</id>
