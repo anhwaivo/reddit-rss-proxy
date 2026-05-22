@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-05-22T22:07:02+00:00</updated>
+  <updated>2026-05-22T23:18:33+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1tkfuw1</id>
-    <title>Nghề pha chế</title>
-    <updated>2026-05-22T11:13:38+00:00</updated>
-    <author>
-      <name>/u/Funny_Benefit_5566</name>
-      <uri>https://old.reddit.com/user/Funny_Benefit_5566</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Có ae nào làm barista cho e lời khuyên với, em xin được vào 1 chỗ ( không cần kinh nghiệm, train từ đầu), khổ nỗi lượng khách ở đây khá đông, mà chỉ có mình em làm, nay em pha nước thì bị đổ, cảm giác xuống tinh thần quá:((( (em làm nước khá chậm, vẫn phải nhìn công thức)&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Funny_Benefit_5566"&gt; /u/Funny_Benefit_5566 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tkfuw1/nghề_pha_chế/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tkfuw1/nghề_pha_chế/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1tkfuw1/nghề_pha_chế/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-05-22T11:13:38+00:00</published>
-  </entry>
   <entry>
     <id>t3_1tka3kn</id>
     <title>How to save money?</title>
@@ -229,19 +216,6 @@
     <published>2026-05-21T22:53:41+00:00</published>
   </entry>
   <entry>
-    <id>t3_1tkdxsj</id>
-    <title>Check trai</title>
-    <updated>2026-05-22T09:35:18+00:00</updated>
-    <author>
-      <name>/u/Naive-Passage-4418</name>
-      <uri>https://old.reddit.com/user/Naive-Passage-4418</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mấy b ơi, chuyện là m có đang tìm hiểu 1 bạn ng Hàn ở Nha Trang và muốn tiếng xa hơn nhưng trai hàn sống ở VN tiếng lành đồn xa nên m cũng còn lo lắng, mấy b có cách nào check k ạ, kiểu như check xem có trùng vs ai k ấy?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Naive-Passage-4418"&gt; /u/Naive-Passage-4418 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tkdxsj/check_trai/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tkdxsj/check_trai/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1tkdxsj/check_trai/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-05-22T09:35:18+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1tkgqpl</id>
     <title>Mọi người nghĩ gì về những người lấy những cái như tarot, xem tướng, chỉ tay, bói toán,… làm kim chỉ nam cho cuộc sống</title>
     <updated>2026-05-22T11:54:37+00:00</updated>
@@ -255,6 +229,19 @@
     <published>2026-05-22T11:54:37+00:00</published>
   </entry>
   <entry>
+    <id>t3_1tkdxsj</id>
+    <title>Check trai</title>
+    <updated>2026-05-22T09:35:18+00:00</updated>
+    <author>
+      <name>/u/Naive-Passage-4418</name>
+      <uri>https://old.reddit.com/user/Naive-Passage-4418</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mấy b ơi, chuyện là m có đang tìm hiểu 1 bạn ng Hàn ở Nha Trang và muốn tiếng xa hơn nhưng trai hàn sống ở VN tiếng lành đồn xa nên m cũng còn lo lắng, mấy b có cách nào check k ạ, kiểu như check xem có trùng vs ai k ấy?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Naive-Passage-4418"&gt; /u/Naive-Passage-4418 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tkdxsj/check_trai/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tkdxsj/check_trai/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1tkdxsj/check_trai/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-05-22T09:35:18+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1tkl9tr</id>
     <title>Facebook ads bị giới hạn</title>
     <updated>2026-05-22T14:51:29+00:00</updated>
@@ -266,6 +253,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1tkl9tr/facebook_ads_bị_giới_hạn/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-05-22T14:51:29+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1tkyb06</id>
+    <title>Có ai ở đây nhận cứu acc FB bị 180 ngày không ạ</title>
+    <updated>2026-05-22T22:36:57+00:00</updated>
+    <author>
+      <name>/u/Clear-Transition-975</name>
+      <uri>https://old.reddit.com/user/Clear-Transition-975</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1tkyb06/có_ai_ở_đây_nhận_cứu_acc_fb_bị_180_ngày_không_ạ/"&gt; &lt;img alt="Có ai ở đây nhận cứu acc FB bị 180 ngày không ạ" src="https://preview.redd.it/oiixlonbnr2h1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=556ecb776658a1d2405becee74c914784e968bed" title="Có ai ở đây nhận cứu acc FB bị 180 ngày không ạ" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Ừm, em bị thế này á. Có ai giúp em được thì nhắn tin riêng nha, nếu có trả tiền em mong làm vài trăm​​&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Clear-Transition-975"&gt; /u/Clear-Transition-975 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/oiixlonbnr2h1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tkyb06/có_ai_ở_đây_nhận_cứu_acc_fb_bị_180_ngày_không_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1tkyb06/có_ai_ở_đây_nhận_cứu_acc_fb_bị_180_ngày_không_ạ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-05-22T22:36:57+00:00</published>
   </entry>
   <entry>
     <id>t3_1tkpna4</id>
