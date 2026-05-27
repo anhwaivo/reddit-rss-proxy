@@ -2,128 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-05-27T00:02:39+00:00</updated>
+  <updated>2026-05-27T04:47:28+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1thdk65</id>
-    <title>Định luật Benford và ứng dụng của nó</title>
-    <updated>2026-05-19T05:42:47+00:00</updated>
-    <author>
-      <name>/u/Alex_DuyDinh</name>
-      <uri>https://old.reddit.com/user/Alex_DuyDinh</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1thdk65/định_luật_benford_và_ứng_dụng_của_nó/"&gt; &lt;img alt="Định luật Benford và ứng dụng của nó" src="https://preview.redd.it/flol9m8z712h1.jpg?width=140&amp;amp;height=105&amp;amp;auto=webp&amp;amp;s=9dc5d57de88c89e3dbd8577ab681f909405df210" title="Định luật Benford và ứng dụng của nó" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em học lớp 11, chuẩn bị vào 12. Chẳng là ở trên mạng em thấy họ giải thích một định luật gọi là &lt;strong&gt;Benford Law,&lt;/strong&gt; hay luật số bất thường hoặc luật số thứ nhất. Theo wiki, định luật này tuyên bố rằng trong nhiều trường hợp tự nhiên xảy ra tại các tập hợp số, &lt;strong&gt;chữ số quan trọng&lt;/strong&gt; xuất hiện nhiều nhất có khả năng là chữ số nhỏ ( chẳng hạn như số 1). Ví dụ như hình trên, khả năng xuất hiện số 1 là 30%, giảm dần về số 9 còn chỉ không quá 5%.&lt;br /&gt; Định luật này được ứng dụng để phát hiện các bất thường trong số liệu kinh doanh, điển hình là phát hiện sự bất thường trong dữ liệu giả mạo của Enron ( ở hình 2), ở đó ta thấy số 1 và 2 thấp bất thường trong khi số 3 và 4 thì chiếm rất cao. Kết quả là Enron sụp đổ vì làm giả số liệu, trong khi công ty đang dần đi xuống nhưng số liệu lại tăng trưởng 1000% chỉ trong 5 năm.&lt;br /&gt; Cá nhân em vẫn chưa hiểu lí do tại sao số nhỏ lại chiếm tỉ lệ nhiều hơn chứ không phải là mỗi số cùng chiếm tỉ lệ 11,11% . Và liệu người ta có thể dùng định luật này để làm giả số liệu một cách tinh vi hơn và Benford Law không tính được những số liệu gì? Mời các Vozer giải ngố ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Alex_DuyDinh"&gt; /u/Alex_DuyDinh &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1thdk65"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1thdk65/định_luật_benford_và_ứng_dụng_của_nó/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1thdk65/định_luật_benford_và_ứng_dụng_của_nó/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-05-19T05:42:47+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1toe3hx</id>
-    <title>Lời khuyên, lỡ yêu gái có chồng</title>
-    <updated>2026-05-26T17:35:52+00:00</updated>
-    <author>
-      <name>/u/TechnicalHurry3690</name>
-      <uri>https://old.reddit.com/user/TechnicalHurry3690</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Lỡ yêu gái đang có chồng..yêu thật sự, thật sự rất yêu. Thì phải làm sao đây cả nhà? &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/TechnicalHurry3690"&gt; /u/TechnicalHurry3690 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1toe3hx/lời_khuyên_lỡ_yêu_gái_có_chồng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1toe3hx/lời_khuyên_lỡ_yêu_gái_có_chồng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1toe3hx/lời_khuyên_lỡ_yêu_gái_có_chồng/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-05-26T17:35:52+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1to977n</id>
-    <title>Tìm công việc mới</title>
-    <updated>2026-05-26T14:48:25+00:00</updated>
-    <author>
-      <name>/u/ProfessionalKind2620</name>
-      <uri>https://old.reddit.com/user/ProfessionalKind2620</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Như tiêu đề thì em đã tìm việc mới được hơn 3 tháng ròi từ lúc nghỉ ở công ty cũ. Thị trường năm nay căng quá, em apply 30+ công ty mà nhận về có 4 - 5 buổi phỏng vấn với 1 vài offer mà em từ chối vì vấn đề phúc lợi &lt;/p&gt; &lt;p&gt;Thật sự nản quá các bác ơi, ngày nào cũng mở máy, chỉnh CV, gửi đi mà không có hồi âm rồi không biết khi nào mới ổn định chút, mà yêu cầu của em cũng không có gì cao chỉ tìm công ty nghỉ thứ 7 và đừng OT quá thường xuyên để đi học buổi tối thôi&lt;/p&gt; &lt;p&gt;Các bác có tips nào giữ tinh thần trong thời gian thất nghiệp thì share em với nhé, cảm ơn mn rất nhiều 😢&lt;/p&gt; &lt;p&gt;Em không biết bài này có bị ngôn ngữ tiêu cực hay phạm quy định gì không nhưng mà em chỉ muốn xin lời khuyên thoi nên admin nhẹ tay với bài của em nha&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ProfessionalKind2620"&gt; /u/ProfessionalKind2620 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1to977n/tìm_công_việc_mới/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1to977n/tìm_công_việc_mới/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1to977n/tìm_công_việc_mới/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-05-26T14:48:25+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1toa02x</id>
-    <title>cho em hỏi a/c ngày xưa chọn ngành như nào vậy ạ. Cho em xin lời khuyên, mới cảm nhận của a/c về công việc của mình hiện tại được không ạ</title>
-    <updated>2026-05-26T15:16:35+00:00</updated>
-    <author>
-      <name>/u/Dear_Chair_3878</name>
-      <uri>https://old.reddit.com/user/Dear_Chair_3878</uri>
-    </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Dear_Chair_3878"&gt; /u/Dear_Chair_3878 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1toa02x/cho_em_hỏi_ac_ngày_xưa_chọn_ngành_như_nào_vậy_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1toa02x/cho_em_hỏi_ac_ngày_xưa_chọn_ngành_như_nào_vậy_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1toa02x/cho_em_hỏi_ac_ngày_xưa_chọn_ngành_như_nào_vậy_ạ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-05-26T15:16:35+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1toam2q</id>
-    <title>Học tập</title>
-    <updated>2026-05-26T15:37:34+00:00</updated>
-    <author>
-      <name>/u/BlueberryLazy7301</name>
-      <uri>https://old.reddit.com/user/BlueberryLazy7301</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;năm 2027 là năm đặc biệt với em, năm mà quyết định giai đoạn đầu trong việc trưởng thành đó là thi cấp 3, em định hướng ôn chuyên anh, hiện tại em đang ở level gần B2, em ở tỉnh lẻ nên các đề chuyên thường b2+, c1 nên em cũng có thể nghĩ bản thân mình chỉ cần nỗ lực và kỷ luật thì mọi thứ sẽ ổn. Nhưng mà em khá thường xuyên bị burn out, các anh chị đi trước cho em lời khuyên được không ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/BlueberryLazy7301"&gt; /u/BlueberryLazy7301 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1toam2q/học_tập/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1toam2q/học_tập/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1toam2q/học_tập/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-05-26T15:37:34+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1toao3b</id>
-    <title>học tập</title>
-    <updated>2026-05-26T15:39:25+00:00</updated>
-    <author>
-      <name>/u/BlueberryLazy7301</name>
-      <uri>https://old.reddit.com/user/BlueberryLazy7301</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;em là học sinh cuối lớp 8, ngoài học tiếng anh thì em muốn học thêm Sinh học để lên cấp 3 tham gia mấy cuộc thi nhỏ để xây dựng profile thì có kịp không ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/BlueberryLazy7301"&gt; /u/BlueberryLazy7301 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1toao3b/học_tập/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1toao3b/học_tập/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1toao3b/học_tập/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-05-26T15:39:25+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1tob56t</id>
-    <title>Về nội dung của page "Hành tinh Titanic"</title>
-    <updated>2026-05-26T15:55:42+00:00</updated>
-    <author>
-      <name>/u/Fuzzy_Bar2283</name>
-      <uri>https://old.reddit.com/user/Fuzzy_Bar2283</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chắc hẳn mọi người page này nếu chịu khó tìm hiểu thông tin vê môi trường đều đã ngó qua page này:&lt;br /&gt; &lt;a href="https://www.facebook.com/hanhtinhtitanic"&gt;https://www.facebook.com/hanhtinhtitanic&lt;/a&gt;&lt;br /&gt; Trong cái thời kì thông tin nhiều hơn sự thật và kiến thức của bản thân thì chưa đủ rộng. Nên mình muốn hỏi ý kiến mọi người về nội dung của page đăng từ thông tin về thời tiết cũng như các yếu tố nhạy cảm khác.&lt;br /&gt; Mục tiêu không phải &amp;quot;click bait&amp;quot; hay gì, đơn giản là muốn đọc được nhiều góc nhìn hơn về &lt;strong&gt;thông tin page đưa ra&lt;/strong&gt; chứ không phải về văn phong của page. Từ đó, có thể có góc nhìn khách quan hơn.&lt;br /&gt; Họ cũng có patreon luôn, nên mọi người có thể tìm đọc tại đây&lt;br /&gt; &lt;a href="https://www.patreon.com/cw/HanhtinhTitanic?fbclid=IwY2xjawSCoXlleHRuA2FlbQIxMABicmlkETEzTUV3UjlHd0EycHZRNnc5c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHoNabMoXF2PLZaiabDwRdMooZjRg9rbKF3P1E0tUZHrOIzC6STabtdIDN5fF_aem_mgo9Noev8bCMAjw-nN17hA"&gt;https://www.patreon.com/cw/HanhtinhTitanic?fbclid=IwY2xjawSCoXlleHRuA2FlbQIxMABicmlkETEzTUV3UjlHd0EycHZRNnc5c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHoNabMoXF2PLZaiabDwRdMooZjRg9rbKF3P1E0tUZHrOIzC6STabtdIDN5fF_aem_mgo9Noev8bCMAjw-nN17hA&lt;/a&gt;&lt;br /&gt; Thanks! &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Fuzzy_Bar2283"&gt; /u/Fuzzy_Bar2283 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tob56t/về_nội_dung_của_page_hành_tinh_titanic/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tob56t/về_nội_dung_của_page_hành_tinh_titanic/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1tob56t/về_nội_dung_của_page_hành_tinh_titanic/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-05-26T15:55:42+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1tobowu</id>
-    <title>CAKE by VPBank LỪA ĐẢO?</title>
-    <updated>2026-05-26T16:14:11+00:00</updated>
-    <author>
-      <name>/u/truly_independent</name>
-      <uri>https://old.reddit.com/user/truly_independent</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mấy ngày nay người dùng app cake bị tình trạng force close khi bấm vào app. Đã thử đủ cách vẫn không được: khởi động lại, xoá cache, cập nhật app, gỡ rồi cài lại, ...&lt;/p&gt; &lt;p&gt;Liên hệ cskh thì trả lời chung chung hoặc AI trả lời tự động &lt;/p&gt; &lt;p&gt;Ae nghĩ sao về vụ này?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/truly_independent"&gt; /u/truly_independent &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tobowu/cake_by_vpbank_lừa_đảo/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tobowu/cake_by_vpbank_lừa_đảo/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1tobowu/cake_by_vpbank_lừa_đảo/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-05-26T16:14:11+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1tocak4</id>
-    <title>Vụ dev 44 ở vẹt tiêu</title>
-    <updated>2026-05-26T16:34:30+00:00</updated>
-    <author>
-      <name>/u/Professional-Pay1080</name>
-      <uri>https://old.reddit.com/user/Professional-Pay1080</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Ai có thông tin gì không hình như mới có vụ dev 44 do OT với bị sếp chửi&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Professional-Pay1080"&gt; /u/Professional-Pay1080 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tocak4/vụ_dev_44_ở_vẹt_tiêu/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tocak4/vụ_dev_44_ở_vẹt_tiêu/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1tocak4/vụ_dev_44_ở_vẹt_tiêu/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-05-26T16:34:30+00:00</published>
-  </entry>
   <entry>
     <id>t3_1tocows</id>
     <title>Kinh nghiệm phỏng vấn AI Engineer Level Junior</title>
@@ -136,45 +19,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1tocows/kinh_nghiệm_phỏng_vấn_ai_engineer_level_junior/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-05-26T16:48:20+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1tofdde</id>
-    <title>Nước ngoài</title>
-    <updated>2026-05-26T18:18:08+00:00</updated>
-    <author>
-      <name>/u/PurplePolicy8765</name>
-      <uri>https://old.reddit.com/user/PurplePolicy8765</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Cho em hỏi học y ra, cụ thể là y hà nội thì khi đi các nước khác có được dùng bằng đó để làm bác sĩ không ạ. Chứ nhìn lương cơ bản cũng nản&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/PurplePolicy8765"&gt; /u/PurplePolicy8765 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tofdde/nước_ngoài/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tofdde/nước_ngoài/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1tofdde/nước_ngoài/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-05-26T18:18:08+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1todjx3</id>
-    <title>Hướng đi nào cho tuổi trẻ</title>
-    <updated>2026-05-26T17:17:31+00:00</updated>
-    <author>
-      <name>/u/gggbbb9993</name>
-      <uri>https://old.reddit.com/user/gggbbb9993</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;, e năm nay 23t nhà ở quê nên bố mẹ cũng chỉ làm nông gọi là đủ ăn thôi chứ ko dư dả gì cả, e cũng muốn đi xklđ hoặc đi nước ngoài để làm việc kiếm tiền nhưng sức khoẻ e ko tốt cho lắm nên bố mẹ k tin tưởng để vay mượn tiền cho đi với bố mẹ e cũng có tuổi rồi nên cũng k muốn vay mượn gì nữa để thêm gánh nặng. Mng có lời khuyên hay tư vấn nào cho e ko ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/gggbbb9993"&gt; /u/gggbbb9993 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1todjx3/hướng_đi_nào_cho_tuổi_trẻ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1todjx3/hướng_đi_nào_cho_tuổi_trẻ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1todjx3/hướng_đi_nào_cho_tuổi_trẻ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-05-26T17:17:31+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1to5iuw</id>
-    <title>Xin suggestions mua quà crush ạ</title>
-    <updated>2026-05-26T12:30:43+00:00</updated>
-    <author>
-      <name>/u/Hendringer</name>
-      <uri>https://old.reddit.com/user/Hendringer</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là em có định mua mấy con plushy của một bộ anime mà b ấy thích, nhma giá chát quá với lại phải đặt web ship tận nc ngoài =)))). Nên là e xin hỏi ý kiến mn xem:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;p&gt;Thường theo góc nhìn cá nhân của mn thấy tầm giá bnh mua quà cho ng ấy là hợp lí ạ.&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Mn có quà nào cho nữ mà vẫn đủ tinh tế khum, e thì mua theo sở thích của b nhma như mn đã nghe lí do.&lt;/p&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Ko thì p/án sẽ là cố đấm ăn xôi lấy tiền hc bổng mua quà như trên 💀💀💀.&lt;/p&gt; &lt;p&gt;Tình yêu tuổi hc trò đời đầu còn ngây ngô lắm ạ. Hy vng mn ko ném đá xây nhà. Em cảm ơn ạ 😃&lt;/p&gt; &lt;p&gt;(Xloi moderator vi vo tinh seeding ah)&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Hendringer"&gt; /u/Hendringer &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1to5iuw/xin_suggestions_mua_quà_crush_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1to5iuw/xin_suggestions_mua_quà_crush_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1to5iuw/xin_suggestions_mua_quà_crush_ạ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-05-26T12:30:43+00:00</published>
   </entry>
   <entry>
     <id>t3_1tokw8m</id>
@@ -190,6 +34,32 @@
     <published>2026-05-26T21:29:06+00:00</published>
   </entry>
   <entry>
+    <id>t3_1tofdde</id>
+    <title>Nước ngoài</title>
+    <updated>2026-05-26T18:18:08+00:00</updated>
+    <author>
+      <name>/u/PurplePolicy8765</name>
+      <uri>https://old.reddit.com/user/PurplePolicy8765</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Cho em hỏi học y ra, cụ thể là y hà nội thì khi đi các nước khác có được dùng bằng đó để làm bác sĩ không ạ. Chứ nhìn lương cơ bản cũng nản&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/PurplePolicy8765"&gt; /u/PurplePolicy8765 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tofdde/nước_ngoài/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tofdde/nước_ngoài/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1tofdde/nước_ngoài/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-05-26T18:18:08+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1to5iuw</id>
+    <title>Xin suggestions mua quà crush ạ</title>
+    <updated>2026-05-26T12:30:43+00:00</updated>
+    <author>
+      <name>/u/Hendringer</name>
+      <uri>https://old.reddit.com/user/Hendringer</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là em có định mua mấy con plushy của một bộ anime mà b ấy thích, nhma giá chát quá với lại phải đặt web ship tận nc ngoài =)))). Nên là e xin hỏi ý kiến mn xem:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;p&gt;Thường theo góc nhìn cá nhân của mn thấy tầm giá bnh mua quà cho ng ấy là hợp lí ạ.&lt;/p&gt;&lt;/li&gt; &lt;li&gt;&lt;p&gt;Mn có quà nào cho nữ mà vẫn đủ tinh tế khum, e thì mua theo sở thích của b nhma như mn đã nghe lí do.&lt;/p&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Ko thì p/án sẽ là cố đấm ăn xôi lấy tiền hc bổng mua quà như trên 💀💀💀.&lt;/p&gt; &lt;p&gt;Tình yêu tuổi hc trò đời đầu còn ngây ngô lắm ạ. Hy vng mn ko ném đá xây nhà. Em cảm ơn ạ 😃&lt;/p&gt; &lt;p&gt;(Xloi moderator vi vo tinh seeding ah)&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Hendringer"&gt; /u/Hendringer &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1to5iuw/xin_suggestions_mua_quà_crush_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1to5iuw/xin_suggestions_mua_quà_crush_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1to5iuw/xin_suggestions_mua_quà_crush_ạ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-05-26T12:30:43+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1tobnns</id>
     <title>Sắp thất nghiệp cần xin kinh nghiệm</title>
     <updated>2026-05-26T16:12:57+00:00</updated>
@@ -201,6 +71,32 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1tobnns/sắp_thất_nghiệp_cần_xin_kinh_nghiệm/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-05-26T16:12:57+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1to67rh</id>
+    <title>Dỗi adminnn</title>
+    <updated>2026-05-26T12:59:40+00:00</updated>
+    <author>
+      <name>/u/Artistic-Prior-7329</name>
+      <uri>https://old.reddit.com/user/Artistic-Prior-7329</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Admin ơi, sao mấy bữa nay Voz trên reddit của mình up bài được vài tiếng lại bị xóa đi vậy ạ. Em chỉ thích vào reddit để cập nhật thông tin với tám chuyện thôi 👉🏻👈🏻 .Mà giờ lướt bài được một chút 1 tiếng sau là mất hút đi ý hic hic. :(((&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Artistic-Prior-7329"&gt; /u/Artistic-Prior-7329 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1to67rh/dỗi_adminnn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1to67rh/dỗi_adminnn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1to67rh/dỗi_adminnn/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-05-26T12:59:40+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1todjx3</id>
+    <title>Hướng đi nào cho tuổi trẻ</title>
+    <updated>2026-05-26T17:17:31+00:00</updated>
+    <author>
+      <name>/u/gggbbb9993</name>
+      <uri>https://old.reddit.com/user/gggbbb9993</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;, e năm nay 23t nhà ở quê nên bố mẹ cũng chỉ làm nông gọi là đủ ăn thôi chứ ko dư dả gì cả, e cũng muốn đi xklđ hoặc đi nước ngoài để làm việc kiếm tiền nhưng sức khoẻ e ko tốt cho lắm nên bố mẹ k tin tưởng để vay mượn tiền cho đi với bố mẹ e cũng có tuổi rồi nên cũng k muốn vay mượn gì nữa để thêm gánh nặng. Mng có lời khuyên hay tư vấn nào cho e ko ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/gggbbb9993"&gt; /u/gggbbb9993 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1todjx3/hướng_đi_nào_cho_tuổi_trẻ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1todjx3/hướng_đi_nào_cho_tuổi_trẻ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1todjx3/hướng_đi_nào_cho_tuổi_trẻ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-05-26T17:17:31+00:00</published>
   </entry>
   <entry>
     <id>t3_1todlsb</id>
@@ -229,17 +125,56 @@
     <published>2026-05-26T16:32:01+00:00</published>
   </entry>
   <entry>
-    <id>t3_1to67rh</id>
-    <title>Dỗi adminnn</title>
-    <updated>2026-05-26T12:59:40+00:00</updated>
+    <id>t3_1to9xnc</id>
+    <title>Thấy bản thân là gánh nặng</title>
+    <updated>2026-05-26T15:14:07+00:00</updated>
     <author>
-      <name>/u/Artistic-Prior-7329</name>
-      <uri>https://old.reddit.com/user/Artistic-Prior-7329</uri>
+      <name>/u/PromotionOk3256</name>
+      <uri>https://old.reddit.com/user/PromotionOk3256</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Admin ơi, sao mấy bữa nay Voz trên reddit của mình up bài được vài tiếng lại bị xóa đi vậy ạ. Em chỉ thích vào reddit để cập nhật thông tin với tám chuyện thôi 👉🏻👈🏻 .Mà giờ lướt bài được một chút 1 tiếng sau là mất hút đi ý hic hic. :(((&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Artistic-Prior-7329"&gt; /u/Artistic-Prior-7329 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1to67rh/dỗi_adminnn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1to67rh/dỗi_adminnn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1to67rh/dỗi_adminnn/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em muốn chia sẻ chút tâm trạng buổi tối&lt;/p&gt; &lt;p&gt;( em đang là sinh viên năm 3, em bị cận bẩm sinh, em không giỏi viết lách và diễn đạt nhưng em sẽ cố viết cho thật dễ hiểu)&lt;/p&gt; &lt;p&gt;Vừa nãy em có gọi điện cho gia đình như mọi ngày. Ngoài nói những chuyện vu vơ ra thì em cũng muốn xin gia đình cuối tuần này đưa em đi khám và đặt lịch hẹn mấy tháng sau sẽ phẫu thuật mắt, trước đó em cũng có nhắc đến chuyện muốn đi mổ rồi chứ không phải nay mới đột ngột nói, nhưng mãi đến gần kết thúc cuộc gọi rồi em cũng không dám mở mồm ra xin ( vì em biết chi phí rất lớn) cảm thấy lời cứ mắc trong cổ mãi, đến lúc mẹ sắp tắt điện thoại em mới dám nói ra. Em thấy mẹ bảo ừ ừ trong lòng cũng mừng nhưng lát sau thấy lời nói của bố tự dưng gắt lên với mẹ, sau đấy có vẻ là 2 người cãi nhau ( em nghe không rõ bố nói gì vì bố đứng xa điện thoại nhưng giọng là đang gắt). Em biết bố gắt là do không có tiền cho em phẫu thuật, nên giờ em thấy bản thân như một gánh nặng.&lt;/p&gt; &lt;p&gt;Lý do em mong muốn phẫu thuật bây giờ chứ không phải đợi vài năm nữa là vì: - thấy nhiều bất tiện trong sinh hoạt khi đeo kính nhất là hôm đi trời mưa - quan trọng nhất là kỳ sau em phải học môn bơi ở trường mà tháo kính ra thì em không thấy - em cũng gặp nhiều giới hạn trong học tập như đợt đi xét làm ban cán sự hay xin làm MC cho trường, lúc vào phỏng vấn cô kia bảo em là “ trông em bị cận nặng nhỉ” đấy là câu đầu tiên người ta hỏi em và chả hỏi thêm gì nữa và tất nhiên em không được nhận - em thấy tự ti và các bạn cũng hay hỏi sao bạn bị cận nặng thế, hỏi nhiều đến mức em cũng hay cúi mặt xuống cứ như mình bị tội gì &lt;/p&gt; &lt;p&gt;P/s lúc còn nhỏ độ cận vẫn không cao nhưng lúc cấp 2 cấp 3 gia đình cũng không quan tâm nên để em không thay kính và đi khám trong suốt 5-6 năm nên bị tăng độ nhiều. Em cố gắng đi làm thì phải khoảng 3 đến 4 năm nữa mới tự tiết kiệm đủ tiền để phẫu thuật&lt;/p&gt; &lt;p&gt;Thấy hơi buồn tí thôi, chúc cả nhà buổi tối vui vẻ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/PromotionOk3256"&gt; /u/PromotionOk3256 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1to9xnc/thấy_bản_thân_là_gánh_nặng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1to9xnc/thấy_bản_thân_là_gánh_nặng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1to9xnc/thấy_bản_thân_là_gánh_nặng/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-05-26T12:59:40+00:00</published>
+    <published>2026-05-26T15:14:07+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1tosgxo</id>
+    <title>Tên trên giấy tờ không khớp</title>
+    <updated>2026-05-27T02:40:01+00:00</updated>
+    <author>
+      <name>/u/Enough_Custard3248</name>
+      <uri>https://old.reddit.com/user/Enough_Custard3248</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em gần đến ngày thi tốt nghiệp cuối cấp 12 rồi, giờ mới lòi ra vụ tên trong bằng tốt nghiệp THPT và học bạ bị sai dấu ở tên lót không khớp với khai sinh và cccd, khai sinh gốc và cccd hiện tại là dấu ngã nhưng học bạ và bằng tốt nghiệp lại là dấu hỏi, học bạ thì quay lại trường C2 sửa thì không nói gì rồi, còn bằng tốt nghiệp em phải ra phòng văn hoá ở UBND để ngta điều chỉnh lại, em có ra UBND ngta bảo khai sinh bản gốc của em đã cũ nên phải đi qua phòng kế bên để trích lục lại khai sinh, nhờ ngta check thì trên hệ thống nó lại là dấu hỏi? Em phải làm như thế nào để kịp ngày đi thi vậy ạ? Vì chưa có kinh nghiệm với mấy vụ giấy tờ này nên em chưa biết phải làm gì, đã áp lực ôn thi giờ còn phải chạy lên chạy xuống để sửa cái lỗi sai của người khác.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Enough_Custard3248"&gt; /u/Enough_Custard3248 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tosgxo/tên_trên_giấy_tờ_không_khớp/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tosgxo/tên_trên_giấy_tờ_không_khớp/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1tosgxo/tên_trên_giấy_tờ_không_khớp/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-05-27T02:40:01+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1tosjms</id>
+    <title>Chi phí du lịch Hà Nội Sapa tự túc</title>
+    <updated>2026-05-27T02:43:26+00:00</updated>
+    <author>
+      <name>/u/No_Lion_9496</name>
+      <uri>https://old.reddit.com/user/No_Lion_9496</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, mình vs bạn mình ở hcm, h tụi mình muốn đi sapa chơi khoảng 5 ngày, mình có tham khảo qua trên mạng thì vô vàn thứ với cũng khó chọn. Không biết ở đây có ai đi rồi, ước lượng giúp mình khoảng chi phí với gợi ý mình mấy địa điểm đi hoặc tips gì đó thú vị cũng được. Mình cảm ơn nhaaaa&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/No_Lion_9496"&gt; /u/No_Lion_9496 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tosjms/chi_phí_du_lịch_hà_nội_sapa_tự_túc/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tosjms/chi_phí_du_lịch_hà_nội_sapa_tự_túc/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1tosjms/chi_phí_du_lịch_hà_nội_sapa_tự_túc/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-05-27T02:43:26+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1toufnj</id>
+    <title>Chứng chỉ BA tại VN</title>
+    <updated>2026-05-27T04:09:53+00:00</updated>
+    <author>
+      <name>/u/No_Detective_4753</name>
+      <uri>https://old.reddit.com/user/No_Detective_4753</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các bác cho em hỏi là trong mắt các công ty tuyển dụng thì chứng chỉ BA của Google hay các tổ chức dạy BA tại Việt Nam thì cái nào sẽ có giá trị hơn ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/No_Detective_4753"&gt; /u/No_Detective_4753 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1toufnj/chứng_chỉ_ba_tại_vn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1toufnj/chứng_chỉ_ba_tại_vn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1toufnj/chứng_chỉ_ba_tại_vn/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-05-27T04:09:53+00:00</published>
   </entry>
   <entry>
     <id>t3_1to8w3c</id>
@@ -255,32 +190,6 @@
     <published>2026-05-26T14:37:10+00:00</published>
   </entry>
   <entry>
-    <id>t3_1to9xnc</id>
-    <title>Thấy bản thân là gánh nặng</title>
-    <updated>2026-05-26T15:14:07+00:00</updated>
-    <author>
-      <name>/u/PromotionOk3256</name>
-      <uri>https://old.reddit.com/user/PromotionOk3256</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em muốn chia sẻ chút tâm trạng buổi tối&lt;/p&gt; &lt;p&gt;( em đang là sinh viên năm 3, em bị cận bẩm sinh, em không giỏi viết lách và diễn đạt nhưng em sẽ cố viết cho thật dễ hiểu)&lt;/p&gt; &lt;p&gt;Vừa nãy em có gọi điện cho gia đình như mọi ngày. Ngoài nói những chuyện vu vơ ra thì em cũng muốn xin gia đình cuối tuần này đưa em đi khám và đặt lịch hẹn mấy tháng sau sẽ phẫu thuật mắt, trước đó em cũng có nhắc đến chuyện muốn đi mổ rồi chứ không phải nay mới đột ngột nói, nhưng mãi đến gần kết thúc cuộc gọi rồi em cũng không dám mở mồm ra xin ( vì em biết chi phí rất lớn) cảm thấy lời cứ mắc trong cổ mãi, đến lúc mẹ sắp tắt điện thoại em mới dám nói ra. Em thấy mẹ bảo ừ ừ trong lòng cũng mừng nhưng lát sau thấy lời nói của bố tự dưng gắt lên với mẹ, sau đấy có vẻ là 2 người cãi nhau ( em nghe không rõ bố nói gì vì bố đứng xa điện thoại nhưng giọng là đang gắt). Em biết bố gắt là do không có tiền cho em phẫu thuật, nên giờ em thấy bản thân như một gánh nặng.&lt;/p&gt; &lt;p&gt;Lý do em mong muốn phẫu thuật bây giờ chứ không phải đợi vài năm nữa là vì: - thấy nhiều bất tiện trong sinh hoạt khi đeo kính nhất là hôm đi trời mưa - quan trọng nhất là kỳ sau em phải học môn bơi ở trường mà tháo kính ra thì em không thấy - em cũng gặp nhiều giới hạn trong học tập như đợt đi xét làm ban cán sự hay xin làm MC cho trường, lúc vào phỏng vấn cô kia bảo em là “ trông em bị cận nặng nhỉ” đấy là câu đầu tiên người ta hỏi em và chả hỏi thêm gì nữa và tất nhiên em không được nhận - em thấy tự ti và các bạn cũng hay hỏi sao bạn bị cận nặng thế, hỏi nhiều đến mức em cũng hay cúi mặt xuống cứ như mình bị tội gì &lt;/p&gt; &lt;p&gt;P/s lúc còn nhỏ độ cận vẫn không cao nhưng lúc cấp 2 cấp 3 gia đình cũng không quan tâm nên để em không thay kính và đi khám trong suốt 5-6 năm nên bị tăng độ nhiều. Em cố gắng đi làm thì phải khoảng 3 đến 4 năm nữa mới tự tiết kiệm đủ tiền để phẫu thuật&lt;/p&gt; &lt;p&gt;Thấy hơi buồn tí thôi, chúc cả nhà buổi tối vui vẻ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/PromotionOk3256"&gt; /u/PromotionOk3256 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1to9xnc/thấy_bản_thân_là_gánh_nặng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1to9xnc/thấy_bản_thân_là_gánh_nặng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1to9xnc/thấy_bản_thân_là_gánh_nặng/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-05-26T15:14:07+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1tomwwh</id>
-    <title>Sao bài viết trên sub của tui bị xóa hết dù không vi phạm luật của sub vậy?</title>
-    <updated>2026-05-26T22:45:22+00:00</updated>
-    <author>
-      <name>/u/Ignis_1734</name>
-      <uri>https://old.reddit.com/user/Ignis_1734</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1tomwwh/sao_bài_viết_trên_sub_của_tui_bị_xóa_hết_dù_không/"&gt; &lt;img alt="Sao bài viết trên sub của tui bị xóa hết dù không vi phạm luật của sub vậy?" src="https://preview.redd.it/tb10syfr8k3h1.jpg?width=140&amp;amp;height=130&amp;amp;auto=webp&amp;amp;s=c8b0305ad8d2977ef469a2fe7b114accf9c33dec" title="Sao bài viết trên sub của tui bị xóa hết dù không vi phạm luật của sub vậy?" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các bài viết từ tận những ngày đầu tui tham gia sub đăng cũng bị xóa dù mấy bài viết đó chẳng vi phạm gì? Bài viết gần nhất của tui thì cũng là đang hỏi giá đất, bàn luận về giá nhà đất thôi chứ có gì vi phạm luật sub đâu???&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ignis_1734"&gt; /u/Ignis_1734 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1tomwwh"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tomwwh/sao_bài_viết_trên_sub_của_tui_bị_xóa_hết_dù_không/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1tomwwh/sao_bài_viết_trên_sub_của_tui_bị_xóa_hết_dù_không/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-05-26T22:45:22+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1tobptb</id>
     <title>Nhiệt Độ Mùa Hè Xưa Và Nay</title>
     <updated>2026-05-26T16:15:03+00:00</updated>
@@ -292,6 +201,32 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1tobptb/nhiệt_độ_mùa_hè_xưa_và_nay/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-05-26T16:15:03+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1tou055</id>
+    <title>Chưa có ny thì p làm sao</title>
+    <updated>2026-05-27T03:49:37+00:00</updated>
+    <author>
+      <name>/u/Ok-Mind-7907</name>
+      <uri>https://old.reddit.com/user/Ok-Mind-7907</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Dạo này chán quá thấy bạn bè xung có có ny hết roài mà mình vẫn chưa có. Cũng không nhất thiết là phải có ny, chỉ là bản thân cũng muốn có 1 ai đó nhắn tin vui vui hợp vibe tí cũng như tâm sự cho đời nó đỡ chán. Vì đang là sinh viên nên cũng tha thiết kiếm đồng môn nói chuyện, ai rảnh cứ ib tui nha, nói chuyện linh tinh hay gì cũng được (em là nữ)&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ok-Mind-7907"&gt; /u/Ok-Mind-7907 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tou055/chưa_có_ny_thì_p_làm_sao/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tou055/chưa_có_ny_thì_p_làm_sao/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1tou055/chưa_có_ny_thì_p_làm_sao/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-05-27T03:49:37+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1toqfun</id>
+    <title>Phí Công Đoàn?</title>
+    <updated>2026-05-27T01:11:27+00:00</updated>
+    <author>
+      <name>/u/khidai</name>
+      <uri>https://old.reddit.com/user/khidai</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1toqfun/phí_công_đoàn/"&gt; &lt;img alt="Phí Công Đoàn?" src="https://preview.redd.it/x2kkhx0vyk3h1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=5ec491671e980d81f2de9ce52b36e502b9176106" title="Phí Công Đoàn?" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Ủa cái đ gì mà &amp;quot; Kỷ Nguyên Công Ty 1 Người&amp;quot; xong sáng nay mở email thì thấy bắt đóng cái gì mà gọi là &amp;quot; Phí Công Đoàn&amp;quot; vậy anh em? &lt;/p&gt; &lt;p&gt;Công ty 1 thành viên vẫn phải đóng 1 năm mười mấy củ tiền Phí Công Đoàn?? Kỷ Nguyên Tận Thu à? &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/khidai"&gt; /u/khidai &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/x2kkhx0vyk3h1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1toqfun/phí_công_đoàn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1toqfun/phí_công_đoàn/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-05-27T01:11:27+00:00</published>
   </entry>
   <entry>
     <id>t3_1tofrwp</id>
@@ -307,17 +242,30 @@
     <published>2026-05-26T18:31:33+00:00</published>
   </entry>
   <entry>
-    <id>t3_1tofg6a</id>
-    <title>Câu truyện top 20 ngành học ở TQ</title>
-    <updated>2026-05-26T18:20:38+00:00</updated>
+    <id>t3_1tomwwh</id>
+    <title>Sao bài viết trên sub của tui bị xóa hết dù không vi phạm luật của sub vậy?</title>
+    <updated>2026-05-26T22:45:22+00:00</updated>
     <author>
-      <name>/u/Flat_Shame_7764</name>
-      <uri>https://old.reddit.com/user/Flat_Shame_7764</uri>
+      <name>/u/Ignis_1734</name>
+      <uri>https://old.reddit.com/user/Ignis_1734</uri>
     </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1tofg6a/câu_truyện_top_20_ngành_học_ở_tq/"&gt; &lt;img alt="Câu truyện top 20 ngành học ở TQ" src="https://preview.redd.it/yf9p1nekxi3h1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=13d521a013d96fae23694e796af1ba0fdc87a014" title="Câu truyện top 20 ngành học ở TQ" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mấy nay lưới mxh thấy top 20 ngành học ở TQ đang hot gần đây nên đem lên cho ae voz bàn luận.&lt;br /&gt; Top 20 ngành đại học hot nhất Trung Quốc năm 2026 toàn là kỹ thuật: Kỹ thuật điện &amp;amp; tự động hóa, Cơ khí tự động hóa, Trí tuệ nhân tạo, Giao thông vận tải… Dược học vẫn còn trong top 20. Không có một ngành truyền thông, marketing hay giải trí nào lọt vào.&lt;br /&gt; Ngược lại, top ngành hot ở Việt Nam vẫn là Marketing, Truyền thông, Kinh doanh quốc tế.&lt;br /&gt; Không phải người Trung Quốc thông minh hơn, họ chỉ đang nhìn xa hơn tăm năm. Chúng ta đang nhìn vào màn hình điện thoại.&lt;br /&gt; Một đứa trẻ 15 tuổi Việt Nam thấy gì xung quanh? Anh A làm clip 2 phút kiếm vài chục triệu, chị B đi du lịch miễn phí nhờ chụp ảnh, idol C chưa xong cấp 3 đã có triệu fan. Trong khi bố nó – kỹ sư 15 năm kinh nghiệm – về nhà lúc 9 tối với khuôn mặt hốc hác.&lt;br /&gt; Vì vậy, không ai mơ làm thợ CNC cao cấp, kỹ sư nông nghiệp hay nhà khoa học. Không trách trẻ, mà phải trách những giá trị chúng ta đang cổ vũ hàng ngày qua view, trending và thuật toán.&lt;br /&gt; Xã hội không bao giờ đưa lên top những kỹ sư trưởng dự án tăm tỷ, bác sĩ phẫu thuật ca hiểm nghèo, hay thợ hàn bậc 7 thu 80 triệu/tháng, làm chủ xưởng năm 35 tuổi. Những người này có thật, nhưng camera không quay họ.&lt;br /&gt; Thực tế: Việt Nam đang thiếu trầm trọng kỹ sư cơ khí, điện tử, tự động hóa, thợ lành nghề. Lương kỹ sư 5 năm kinh nghiệm tại FDI: 30–60 triệu/tháng. Doanh nghiệp năn nỉ vẫn không có người. Một giám đốc nhà máy FDI từng nói: “Chúng tôi sẵn sàng trả 60 triệu cho kỹ sư tự động hóa nhưng không tìm được.”&lt;br /&gt; Đây không còn là chuyện cá nhân. Đất nước phát triển thật sự cần kỹ sư thiết kế hạ tầng, nhà khoa học làm chủ công nghệ lõi. Hàn Quốc, Nhật Bản, Đài Loan, Trung Quốc không trở thành cường quốc nhờ idol, mà nhờ đội ngũ kỹ thuật xuất sắc.&lt;br /&gt; Nếu không thay đổi, 5–7 năm nữa chúng ta vẫn chỉ làm gia công cho những nước mà sinh viên họ đang đổ xô học tự động hóa và AI.&lt;br /&gt; Cần làm gì? Đãi ngộ xứng đáng: lương cạnh tranh, môi trường tốt, con đường thăng tiến rõ ràng và sự tôn trọng từ xã hội. Kỹ sư giỏi, bác sĩ giỏi cũng phải nuôi gia đình.&lt;br /&gt; Nghề sáng tạo nội dung không xấu. Nhưng khi cả một thế hệ đổ xô vào một hướng trong khi hướng kia trống rỗng, trả lương cao và quyết định tương lai đất nước, thì phải nói thẳng:&lt;br /&gt; Chúng ta đang thiếu kỹ sư, thiếu bác sĩ, thiếu thợ lành nghề. Nhưng idol thì không bao giờ thiếu.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Flat_Shame_7764"&gt; /u/Flat_Shame_7764 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/yf9p1nekxi3h1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tofg6a/câu_truyện_top_20_ngành_học_ở_tq/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1tofg6a/câu_truyện_top_20_ngành_học_ở_tq/"/>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1tomwwh/sao_bài_viết_trên_sub_của_tui_bị_xóa_hết_dù_không/"&gt; &lt;img alt="Sao bài viết trên sub của tui bị xóa hết dù không vi phạm luật của sub vậy?" src="https://preview.redd.it/tb10syfr8k3h1.jpg?width=140&amp;amp;height=130&amp;amp;auto=webp&amp;amp;s=c8b0305ad8d2977ef469a2fe7b114accf9c33dec" title="Sao bài viết trên sub của tui bị xóa hết dù không vi phạm luật của sub vậy?" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các bài viết từ tận những ngày đầu tui tham gia sub đăng cũng bị xóa dù mấy bài viết đó chẳng vi phạm gì? Bài viết gần nhất của tui thì cũng là đang hỏi giá đất, bàn luận về giá nhà đất thôi chứ có gì vi phạm luật sub đâu???&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ignis_1734"&gt; /u/Ignis_1734 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1tomwwh"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tomwwh/sao_bài_viết_trên_sub_của_tui_bị_xóa_hết_dù_không/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1tomwwh/sao_bài_viết_trên_sub_của_tui_bị_xóa_hết_dù_không/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-05-26T18:20:38+00:00</published>
+    <published>2026-05-26T22:45:22+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1tos2v4</id>
+    <title>cho mình thắc mắc mấy bạn nam nhớ tình đầu ấy có thật sự sẽ yêu trọn vẹn người đồng hành hiện tại không ạ ....</title>
+    <updated>2026-05-27T02:22:37+00:00</updated>
+    <author>
+      <name>/u/Logical_Kangaroo_520</name>
+      <uri>https://old.reddit.com/user/Logical_Kangaroo_520</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em là nữ,em yêu xa một lần, em nghe được sau buổi tâm sự rằng anh ấy nhớ cô ấy.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Logical_Kangaroo_520"&gt; /u/Logical_Kangaroo_520 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tos2v4/cho_mình_thắc_mắc_mấy_bạn_nam_nhớ_tình_đầu_ấy_có/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tos2v4/cho_mình_thắc_mắc_mấy_bạn_nam_nhớ_tình_đầu_ấy_có/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1tos2v4/cho_mình_thắc_mắc_mấy_bạn_nam_nhớ_tình_đầu_ấy_có/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-05-27T02:22:37+00:00</published>
   </entry>
   <entry>
     <id>t3_1to8art</id>
@@ -331,5 +279,57 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1to8art/bạn_chọn_ở_lại_sài_gòn_vì_điều_gì/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-05-26T14:16:18+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1tou1yv</id>
+    <title>Mọi người nghĩ sao về trường hợp này?</title>
+    <updated>2026-05-27T03:52:03+00:00</updated>
+    <author>
+      <name>/u/Own-Vermicelli2989</name>
+      <uri>https://old.reddit.com/user/Own-Vermicelli2989</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1tou1yv/mọi_người_nghĩ_sao_về_trường_hợp_này/"&gt; &lt;img alt="Mọi người nghĩ sao về trường hợp này?" src="https://preview.redd.it/z8ggrrkirl3h1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=a9a0cc1fe775d99141bbd91ffd920b512e0fecfb" title="Mọi người nghĩ sao về trường hợp này?" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Vừa thấy bài này trên voz xong, mình thấy tội cho bạn này và tội cho anh kia nữa. Mình không biết nên đánh giá thế nào luôn, đây là một trong số ít các trường hợp mình không biết phải nghĩ sao luôn...&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Own-Vermicelli2989"&gt; /u/Own-Vermicelli2989 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/z8ggrrkirl3h1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tou1yv/mọi_người_nghĩ_sao_về_trường_hợp_này/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1tou1yv/mọi_người_nghĩ_sao_về_trường_hợp_này/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-05-27T03:52:03+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1tothqv</id>
+    <title>Hôm nay trời nắng đẹp em phụ mẹ phơi lúa , coi bộ cũng được việc quá ta</title>
+    <updated>2026-05-27T03:25:57+00:00</updated>
+    <author>
+      <name>/u/lmitu</name>
+      <uri>https://old.reddit.com/user/lmitu</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;&lt;a href="https://reddit.com/link/1tothqv/video/zzyyefqtml3h1/player"&gt;https://reddit.com/link/1tothqv/video/zzyyefqtml3h1/player&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/lmitu"&gt; /u/lmitu &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tothqv/hôm_nay_trời_nắng_đẹp_em_phụ_mẹ_phơi_lúa_coi_bộ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tothqv/hôm_nay_trời_nắng_đẹp_em_phụ_mẹ_phơi_lúa_coi_bộ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1tothqv/hôm_nay_trời_nắng_đẹp_em_phụ_mẹ_phơi_lúa_coi_bộ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-05-27T03:25:57+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1totn5d</id>
+    <title>vụ nhân viên VT tự tử</title>
+    <updated>2026-05-27T03:32:48+00:00</updated>
+    <author>
+      <name>/u/BeyondShort1512</name>
+      <uri>https://old.reddit.com/user/BeyondShort1512</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Ai ở đây có thông tin mới về vụ này không? Vừa mới xảy ra hôm trước xong. Nhân viên VT nhảy lầu&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/BeyondShort1512"&gt; /u/BeyondShort1512 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1totn5d/vụ_nhân_viên_vt_tự_tử/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1totn5d/vụ_nhân_viên_vt_tự_tử/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1totn5d/vụ_nhân_viên_vt_tự_tử/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-05-27T03:32:48+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1tofg6a</id>
+    <title>Câu truyện top 20 ngành học ở TQ</title>
+    <updated>2026-05-26T18:20:38+00:00</updated>
+    <author>
+      <name>/u/Flat_Shame_7764</name>
+      <uri>https://old.reddit.com/user/Flat_Shame_7764</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1tofg6a/câu_truyện_top_20_ngành_học_ở_tq/"&gt; &lt;img alt="Câu truyện top 20 ngành học ở TQ" src="https://preview.redd.it/yf9p1nekxi3h1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=13d521a013d96fae23694e796af1ba0fdc87a014" title="Câu truyện top 20 ngành học ở TQ" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mấy nay lưới mxh thấy top 20 ngành học ở TQ đang hot gần đây nên đem lên cho ae voz bàn luận.&lt;br /&gt; Top 20 ngành đại học hot nhất Trung Quốc năm 2026 toàn là kỹ thuật: Kỹ thuật điện &amp;amp; tự động hóa, Cơ khí tự động hóa, Trí tuệ nhân tạo, Giao thông vận tải… Dược học vẫn còn trong top 20. Không có một ngành truyền thông, marketing hay giải trí nào lọt vào.&lt;br /&gt; Ngược lại, top ngành hot ở Việt Nam vẫn là Marketing, Truyền thông, Kinh doanh quốc tế.&lt;br /&gt; Không phải người Trung Quốc thông minh hơn, họ chỉ đang nhìn xa hơn tăm năm. Chúng ta đang nhìn vào màn hình điện thoại.&lt;br /&gt; Một đứa trẻ 15 tuổi Việt Nam thấy gì xung quanh? Anh A làm clip 2 phút kiếm vài chục triệu, chị B đi du lịch miễn phí nhờ chụp ảnh, idol C chưa xong cấp 3 đã có triệu fan. Trong khi bố nó – kỹ sư 15 năm kinh nghiệm – về nhà lúc 9 tối với khuôn mặt hốc hác.&lt;br /&gt; Vì vậy, không ai mơ làm thợ CNC cao cấp, kỹ sư nông nghiệp hay nhà khoa học. Không trách trẻ, mà phải trách những giá trị chúng ta đang cổ vũ hàng ngày qua view, trending và thuật toán.&lt;br /&gt; Xã hội không bao giờ đưa lên top những kỹ sư trưởng dự án tăm tỷ, bác sĩ phẫu thuật ca hiểm nghèo, hay thợ hàn bậc 7 thu 80 triệu/tháng, làm chủ xưởng năm 35 tuổi. Những người này có thật, nhưng camera không quay họ.&lt;br /&gt; Thực tế: Việt Nam đang thiếu trầm trọng kỹ sư cơ khí, điện tử, tự động hóa, thợ lành nghề. Lương kỹ sư 5 năm kinh nghiệm tại FDI: 30–60 triệu/tháng. Doanh nghiệp năn nỉ vẫn không có người. Một giám đốc nhà máy FDI từng nói: “Chúng tôi sẵn sàng trả 60 triệu cho kỹ sư tự động hóa nhưng không tìm được.”&lt;br /&gt; Đây không còn là chuyện cá nhân. Đất nước phát triển thật sự cần kỹ sư thiết kế hạ tầng, nhà khoa học làm chủ công nghệ lõi. Hàn Quốc, Nhật Bản, Đài Loan, Trung Quốc không trở thành cường quốc nhờ idol, mà nhờ đội ngũ kỹ thuật xuất sắc.&lt;br /&gt; Nếu không thay đổi, 5–7 năm nữa chúng ta vẫn chỉ làm gia công cho những nước mà sinh viên họ đang đổ xô học tự động hóa và AI.&lt;br /&gt; Cần làm gì? Đãi ngộ xứng đáng: lương cạnh tranh, môi trường tốt, con đường thăng tiến rõ ràng và sự tôn trọng từ xã hội. Kỹ sư giỏi, bác sĩ giỏi cũng phải nuôi gia đình.&lt;br /&gt; Nghề sáng tạo nội dung không xấu. Nhưng khi cả một thế hệ đổ xô vào một hướng trong khi hướng kia trống rỗng, trả lương cao và quyết định tương lai đất nước, thì phải nói thẳng:&lt;br /&gt; Chúng ta đang thiếu kỹ sư, thiếu bác sĩ, thiếu thợ lành nghề. Nhưng idol thì không bao giờ thiếu.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Flat_Shame_7764"&gt; /u/Flat_Shame_7764 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/yf9p1nekxi3h1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tofg6a/câu_truyện_top_20_ngành_học_ở_tq/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1tofg6a/câu_truyện_top_20_ngành_học_ở_tq/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-05-26T18:20:38+00:00</published>
   </entry>
 </feed>
