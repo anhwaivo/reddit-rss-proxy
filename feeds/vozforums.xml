@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-05-28T22:21:06+00:00</updated>
+  <updated>2026-05-28T23:48:44+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -73,19 +73,6 @@
     <published>2026-05-28T18:28:15+00:00</published>
   </entry>
   <entry>
-    <id>t3_1tpuvw7</id>
-    <title>Laptop mới mua mà lag?</title>
-    <updated>2026-05-28T06:04:38+00:00</updated>
-    <author>
-      <name>/u/NguynNguyen</name>
-      <uri>https://old.reddit.com/user/NguynNguyen</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1tpuvw7/laptop_mới_mua_mà_lag/"&gt; &lt;img alt="Laptop mới mua mà lag?" src="https://preview.redd.it/4pn32882kt3h1.png?width=140&amp;amp;height=68&amp;amp;auto=webp&amp;amp;s=1c50bc821b03bbe2b4808cdb63e312cc1d15bc93" title="Laptop mới mua mà lag?" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;laptop mình dòng thinkpad P1gen4 RTX A3000 32GB RAM, SSD 1TB&lt;br /&gt; mà chạy phần mềm lag, lướt wed lâu cũng đơ máy , phải reset máy lại mới dùng được. mà mình chưa bao giờ thấy laptop qua nổi 16GB RAM nha, mn ai rành laptop cho mình hỏi với&lt;/p&gt; &lt;p&gt;&lt;a href="https://preview.redd.it/4pn32882kt3h1.png?width=1747&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=0f716b30852107ce3615a6806e0e62cf34b1ec5c"&gt;https://preview.redd.it/4pn32882kt3h1.png?width=1747&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=0f716b30852107ce3615a6806e0e62cf34b1ec5c&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/NguynNguyen"&gt; /u/NguynNguyen &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tpuvw7/laptop_mới_mua_mà_lag/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tpuvw7/laptop_mới_mua_mà_lag/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1tpuvw7/laptop_mới_mua_mà_lag/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-05-28T06:04:38+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1tpqhfu</id>
     <title>Chia tay lâu rồi nhưng mỗi lần nhìn lại câu này là một lần ... Thấy cảm xúc bản thân thật phức tạp . Nhờ một câu nói vô tình , tôi dường như nhìn thế giới với một gam màu hoàn toàn khác</title>
     <updated>2026-05-28T02:30:14+00:00</updated>
@@ -97,6 +84,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1tpqhfu/chia_tay_lâu_rồi_nhưng_mỗi_lần_nhìn_lại_câu_này/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-05-28T02:30:14+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1tpuvw7</id>
+    <title>Laptop mới mua mà lag?</title>
+    <updated>2026-05-28T06:04:38+00:00</updated>
+    <author>
+      <name>/u/NguynNguyen</name>
+      <uri>https://old.reddit.com/user/NguynNguyen</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1tpuvw7/laptop_mới_mua_mà_lag/"&gt; &lt;img alt="Laptop mới mua mà lag?" src="https://preview.redd.it/4pn32882kt3h1.png?width=140&amp;amp;height=68&amp;amp;auto=webp&amp;amp;s=1c50bc821b03bbe2b4808cdb63e312cc1d15bc93" title="Laptop mới mua mà lag?" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;laptop mình dòng thinkpad P1gen4 RTX A3000 32GB RAM, SSD 1TB&lt;br /&gt; mà chạy phần mềm lag, lướt wed lâu cũng đơ máy , phải reset máy lại mới dùng được. mà mình chưa bao giờ thấy laptop qua nổi 16GB RAM nha, mn ai rành laptop cho mình hỏi với&lt;/p&gt; &lt;p&gt;&lt;a href="https://preview.redd.it/4pn32882kt3h1.png?width=1747&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=0f716b30852107ce3615a6806e0e62cf34b1ec5c"&gt;https://preview.redd.it/4pn32882kt3h1.png?width=1747&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=0f716b30852107ce3615a6806e0e62cf34b1ec5c&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/NguynNguyen"&gt; /u/NguynNguyen &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tpuvw7/laptop_mới_mua_mà_lag/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tpuvw7/laptop_mới_mua_mà_lag/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1tpuvw7/laptop_mới_mua_mà_lag/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-05-28T06:04:38+00:00</published>
   </entry>
   <entry>
     <id>t3_1tqd8rr</id>
@@ -112,6 +112,19 @@
     <published>2026-05-28T19:11:35+00:00</published>
   </entry>
   <entry>
+    <id>t3_1tq8euw</id>
+    <title>Lốp trưởng</title>
+    <updated>2026-05-28T16:21:32+00:00</updated>
+    <author>
+      <name>/u/Anxious_Belt_9464</name>
+      <uri>https://old.reddit.com/user/Anxious_Belt_9464</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Nhận ra bản thân là lốp nó vừa mắc cười vừa tức bản thân, không hề giận hay trách họ chỉ trách mình dễ rung động với cách họ quan tâm mình quá 😌&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Anxious_Belt_9464"&gt; /u/Anxious_Belt_9464 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tq8euw/lốp_trưởng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tq8euw/lốp_trưởng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1tq8euw/lốp_trưởng/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-05-28T16:21:32+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1tpyn0d</id>
     <title>nền tảng gia đình</title>
     <updated>2026-05-28T09:37:16+00:00</updated>
@@ -123,19 +136,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1tpyn0d/nền_tảng_gia_đình/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-05-28T09:37:16+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1tqa937</id>
-    <title>Cảm giác khi biết mình ngộ nhận🤡</title>
-    <updated>2026-05-28T17:26:30+00:00</updated>
-    <author>
-      <name>/u/maituidi1049</name>
-      <uri>https://old.reddit.com/user/maituidi1049</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tham khảo lời khuyên của các bác đã cmt hôm qua nên hôm nay em đã dám nhắn tin với người em thích thời còn đi học. Em vào thổ lộ vài ba câu thì bạn ấy cũng rep ngay lập tức, bạn thân thiện hơn em tưởng, nhưng cái trường hợp mà em chưa hề nghĩ tới nó lại xảy ra:&lt;/p&gt; &lt;p&gt;Bạn ấy không biết em.&lt;/p&gt; &lt;p&gt;Em cứ hỏi còn bạn cứ phủ nhận: &amp;quot;Cho hỏi bạn là ai vậy ạ?&amp;quot;, &amp;quot;Bạn quen mình hả?&amp;quot;, &amp;quot;Nma nhắn nãy giờ tui cũng chưa biết bạn là ai&amp;quot;, &amp;quot;3 năm rồi á, bạn có nhầm ai không dị&amp;quot;.&lt;/p&gt; &lt;p&gt;Em đơ cái mặt ra, vừa cố hỏi người ta về cái tên của mình vừa hả họng cười như thằng điên, hoá ra mình đã tự xây nên chuyện cổ tích dài tận 6 năm, ôi sao mà thật đến thế, &amp;quot;ẻm nhìn mình, ẻm thích mình&amp;quot;. Mọi kỷ niệm trải qua mà bản thân dặn lòng phải nhớ nay như trò đùa, em nói với cổ là mình ngộ nhận xong em bỏ chạy. Họ đã bị em theo dõi trên mạng suốt mấy năm và đêm nay hắn lại còn nhào vô nhắn tin vớ vẫn. Cảm ơn các bác đã quan tâm khích lệ em, chiều nay em được một bạn xem tarot cũng bảo rằng bạn nữ có tình cảm nhưng đã move on, quá tuyệt vời dù sao cũng cảm ơn vì nó miễn phí. Haha thôi thì ít ra bản thân cũng đã dám thử, sau này cũng không phải tiếc nuối lan man. Đúng là thức khuya không được ích lợi gì. &lt;/p&gt; &lt;p&gt;.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/maituidi1049"&gt; /u/maituidi1049 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tqa937/cảm_giác_khi_biết_mình_ngộ_nhận/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tqa937/cảm_giác_khi_biết_mình_ngộ_nhận/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1tqa937/cảm_giác_khi_biết_mình_ngộ_nhận/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-05-28T17:26:30+00:00</published>
   </entry>
   <entry>
     <id>t3_1tq53tp</id>
@@ -177,17 +177,17 @@
     <published>2026-05-28T10:23:23+00:00</published>
   </entry>
   <entry>
-    <id>t3_1tq8euw</id>
-    <title>Lốp trưởng</title>
-    <updated>2026-05-28T16:21:32+00:00</updated>
+    <id>t3_1tqa937</id>
+    <title>Cảm giác khi biết mình ngộ nhận🤡</title>
+    <updated>2026-05-28T17:26:30+00:00</updated>
     <author>
-      <name>/u/Anxious_Belt_9464</name>
-      <uri>https://old.reddit.com/user/Anxious_Belt_9464</uri>
+      <name>/u/maituidi1049</name>
+      <uri>https://old.reddit.com/user/maituidi1049</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Nhận ra bản thân là lốp nó vừa mắc cười vừa tức bản thân, không hề giận hay trách họ chỉ trách mình dễ rung động với cách họ quan tâm mình quá 😌&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Anxious_Belt_9464"&gt; /u/Anxious_Belt_9464 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tq8euw/lốp_trưởng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tq8euw/lốp_trưởng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1tq8euw/lốp_trưởng/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tham khảo lời khuyên của các bác đã cmt hôm qua nên hôm nay em đã dám nhắn tin với người em thích thời còn đi học. Em vào thổ lộ vài ba câu thì bạn ấy cũng rep ngay lập tức, bạn thân thiện hơn em tưởng, nhưng cái trường hợp mà em chưa hề nghĩ tới nó lại xảy ra:&lt;/p&gt; &lt;p&gt;Bạn ấy không biết em.&lt;/p&gt; &lt;p&gt;Em cứ hỏi còn bạn cứ phủ nhận: &amp;quot;Cho hỏi bạn là ai vậy ạ?&amp;quot;, &amp;quot;Bạn quen mình hả?&amp;quot;, &amp;quot;Nma nhắn nãy giờ tui cũng chưa biết bạn là ai&amp;quot;, &amp;quot;3 năm rồi á, bạn có nhầm ai không dị&amp;quot;.&lt;/p&gt; &lt;p&gt;Em đơ cái mặt ra, vừa cố hỏi người ta về cái tên của mình vừa hả họng cười như thằng điên, hoá ra mình đã tự xây nên chuyện cổ tích dài tận 6 năm, ôi sao mà thật đến thế, &amp;quot;ẻm nhìn mình, ẻm thích mình&amp;quot;. Mọi kỷ niệm trải qua mà bản thân dặn lòng phải nhớ nay như trò đùa, em nói với cổ là mình ngộ nhận xong em bỏ chạy. Họ đã bị em theo dõi trên mạng suốt mấy năm và đêm nay hắn lại còn nhào vô nhắn tin vớ vẫn. Cảm ơn các bác đã quan tâm khích lệ em, chiều nay em được một bạn xem tarot cũng bảo rằng bạn nữ có tình cảm nhưng đã move on, quá tuyệt vời dù sao cũng cảm ơn vì nó miễn phí. Haha thôi thì ít ra bản thân cũng đã dám thử, sau này cũng không phải tiếc nuối lan man. Đúng là thức khuya không được ích lợi gì. &lt;/p&gt; &lt;p&gt;.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/maituidi1049"&gt; /u/maituidi1049 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tqa937/cảm_giác_khi_biết_mình_ngộ_nhận/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tqa937/cảm_giác_khi_biết_mình_ngộ_nhận/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1tqa937/cảm_giác_khi_biết_mình_ngộ_nhận/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-05-28T16:21:32+00:00</published>
+    <published>2026-05-28T17:26:30+00:00</published>
   </entry>
   <entry>
     <id>t3_1tpyble</id>
@@ -307,19 +307,6 @@
     <published>2026-05-28T10:04:13+00:00</published>
   </entry>
   <entry>
-    <id>t3_1tq9rni</id>
-    <title>Bốc cách sống của một idol TiKtok , mn nên né thg này khi mua hàng nha</title>
-    <updated>2026-05-28T17:10:08+00:00</updated>
-    <author>
-      <name>/u/Syphu-Computer289</name>
-      <uri>https://old.reddit.com/user/Syphu-Computer289</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1tq9rni/bốc_cách_sống_của_một_idol_tiktok_mn_nên_né_thg/"&gt; &lt;img alt="Bốc cách sống của một idol TiKtok , mn nên né thg này khi mua hàng nha" src="https://preview.redd.it/fe2hpp3tuw3h1.jpg?width=140&amp;amp;height=140&amp;amp;crop=1:1,smart&amp;amp;auto=webp&amp;amp;s=07a4426e58bec109b8f93d5eaff50f2e51c0e32b" title="Bốc cách sống của một idol TiKtok , mn nên né thg này khi mua hàng nha" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Nay chưa bao giờ lên bóc ai nhưng hôm nay các sếp cho em xin phép bóc phốt bạn này vì giao dịch rất mất thời gian&lt;/p&gt; &lt;p&gt;12/05 idol có đăng vào nhóm thanh lí con xiaomi 27 inch và mình chốt đc trong group hàng quay thanh lí của idol và không bảo hành (Ảnh 1,2) + mình cũng xin Freeship idol oki.&lt;/p&gt; &lt;p&gt;22/05 Viettel post ship chậm và mình chủ quan nên không khui kiểm tra và thấy đốm như hình (Ảnh 3,4,5). Và idol bảo là do côn trùng :)))) cái này anh em thấy đó.&lt;/p&gt; &lt;p&gt;Hôm nay hoàn tiền thì hoàn tiền trừ tiền freeship đi cho mình. Đơn back lại idol thì mình trả 120k tiền ship&lt;/p&gt; &lt;p&gt;Thực sự thì tổng gần 200k tiền ship mình chả tiếc đâu nhưng idol sống dơ quá. Xoá mình ra khỏi nhóm :))) còn bảo mất thời gian vs mình trong khi hàng không báo là bị đốm màn.&lt;/p&gt; &lt;p&gt;P/s : idol đã bank lại số tiền nhưng thái độ rất bố láo muốn xoá bài viết 🙃 (ảnh cuối cùng)&lt;/p&gt; &lt;p&gt;Cre : Trần Công Hiếu&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Syphu-Computer289"&gt; /u/Syphu-Computer289 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1tq9rni"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tq9rni/bốc_cách_sống_của_một_idol_tiktok_mn_nên_né_thg/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1tq9rni/bốc_cách_sống_của_một_idol_tiktok_mn_nên_né_thg/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-05-28T17:10:08+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1tq4c9o</id>
     <title>Chống nạn " mũ tặc " ở Hà Nội</title>
     <updated>2026-05-28T13:54:10+00:00</updated>
@@ -331,5 +318,18 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1tq4c9o/chống_nạn_mũ_tặc_ở_hà_nội/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-05-28T13:54:10+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1tq9rni</id>
+    <title>Bốc cách sống của một idol TiKtok , mn nên né thg này khi mua hàng nha</title>
+    <updated>2026-05-28T17:10:08+00:00</updated>
+    <author>
+      <name>/u/Syphu-Computer289</name>
+      <uri>https://old.reddit.com/user/Syphu-Computer289</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1tq9rni/bốc_cách_sống_của_một_idol_tiktok_mn_nên_né_thg/"&gt; &lt;img alt="Bốc cách sống của một idol TiKtok , mn nên né thg này khi mua hàng nha" src="https://preview.redd.it/fe2hpp3tuw3h1.jpg?width=140&amp;amp;height=140&amp;amp;crop=1:1,smart&amp;amp;auto=webp&amp;amp;s=07a4426e58bec109b8f93d5eaff50f2e51c0e32b" title="Bốc cách sống của một idol TiKtok , mn nên né thg này khi mua hàng nha" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Nay chưa bao giờ lên bóc ai nhưng hôm nay các sếp cho em xin phép bóc phốt bạn này vì giao dịch rất mất thời gian&lt;/p&gt; &lt;p&gt;12/05 idol có đăng vào nhóm thanh lí con xiaomi 27 inch và mình chốt đc trong group hàng quay thanh lí của idol và không bảo hành (Ảnh 1,2) + mình cũng xin Freeship idol oki.&lt;/p&gt; &lt;p&gt;22/05 Viettel post ship chậm và mình chủ quan nên không khui kiểm tra và thấy đốm như hình (Ảnh 3,4,5). Và idol bảo là do côn trùng :)))) cái này anh em thấy đó.&lt;/p&gt; &lt;p&gt;Hôm nay hoàn tiền thì hoàn tiền trừ tiền freeship đi cho mình. Đơn back lại idol thì mình trả 120k tiền ship&lt;/p&gt; &lt;p&gt;Thực sự thì tổng gần 200k tiền ship mình chả tiếc đâu nhưng idol sống dơ quá. Xoá mình ra khỏi nhóm :))) còn bảo mất thời gian vs mình trong khi hàng không báo là bị đốm màn.&lt;/p&gt; &lt;p&gt;P/s : idol đã bank lại số tiền nhưng thái độ rất bố láo muốn xoá bài viết 🙃 (ảnh cuối cùng)&lt;/p&gt; &lt;p&gt;Cre : Trần Công Hiếu&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Syphu-Computer289"&gt; /u/Syphu-Computer289 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1tq9rni"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tq9rni/bốc_cách_sống_của_một_idol_tiktok_mn_nên_né_thg/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1tq9rni/bốc_cách_sống_của_một_idol_tiktok_mn_nên_né_thg/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-05-28T17:10:08+00:00</published>
   </entry>
 </feed>
