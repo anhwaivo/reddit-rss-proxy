@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-05-31T11:17:10+00:00</updated>
+  <updated>2026-05-31T12:56:55+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1tsmu3m</id>
-    <title>Không xin được giấy của bệnh viện.</title>
-    <updated>2026-05-31T05:56:56+00:00</updated>
-    <author>
-      <name>/u/clayer719</name>
-      <uri>https://old.reddit.com/user/clayer719</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em là sinh viên năm 1. Em dự định đi khám tổng quát để lấy giấy xin ngoại trú GDQP ở đại học. Ban đầu đi bệnh viện định khám tổng quát vào thứ 6 nhưng do đã ăn sáng nên không khám tổng quát được. Được nhân viên hẹn lại thứ 7, CN. Hôm nay CN đi khám lại thì bác sĩ không đi làm (ngày nghỉ).&lt;/p&gt; &lt;p&gt;Ban đầu em không có câu hỏi gì cả, nhưng do có người quan tâm nên em viết lại bài. Thì em cũng có hở van tim 3 lá (nhẹ, khám năm lớp 7) chứ không phải không có bệnh :v. Đúng là em không thích môi trường quân đội thật.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/clayer719"&gt; /u/clayer719 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tsmu3m/không_xin_được_giấy_của_bệnh_viện/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tsmu3m/không_xin_được_giấy_của_bệnh_viện/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1tsmu3m/không_xin_được_giấy_của_bệnh_viện/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-05-31T05:56:56+00:00</published>
-  </entry>
   <entry>
     <id>t3_1tryv7s</id>
     <title>35T IT systems lương có 30tr</title>
@@ -32,19 +19,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1tryv7s/35t_it_systems_lương_có_30tr/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-05-30T12:39:20+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1trtkl4</id>
-    <title>Mình mới hoàn thành dự án kéo dài 3 năm, mong được mn ủng hộ ❤️</title>
-    <updated>2026-05-30T07:55:57+00:00</updated>
-    <author>
-      <name>/u/thangtoiyeuem</name>
-      <uri>https://old.reddit.com/user/thangtoiyeuem</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1trtkl4/mình_mới_hoàn_thành_dự_án_kéo_dài_3_năm_mong_được/"&gt; &lt;img alt="Mình mới hoàn thành dự án kéo dài 3 năm, mong được mn ủng hộ ❤️" src="https://preview.redd.it/mqn8kihrd84h1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=c95ce2bc905d58ece972e1cf45110cc7dc704cd5" title="Mình mới hoàn thành dự án kéo dài 3 năm, mong được mn ủng hộ ❤️" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mn, em làm IT cũng được 1 thời gian, ngày đi làm về, đêm cặm cụi build app học ngoại ngữ. Nay em xin phép public mong được mn góp ý ❤️&lt;/p&gt; &lt;p&gt;Mục đích ban đầu em xây dựng app là vì muốn tối ưu những khoảng thời gian rảnh rỗi trong ngày (như lướt fb/tiktok, đi bộ rảnh rỗi ...) thì có thể dành ra 1-3p ôn tập ngoại ngữ, vậy nên khi làm app, tiêu chí hàng đầu là&lt;/p&gt; &lt;p&gt;&amp;quot;&lt;strong&gt;Tối thiểu nỗ lực, tối đa lợi ích&lt;/strong&gt;&amp;quot;&lt;/p&gt; &lt;p&gt;Thay vì build 1 super app với đầy đủ tính năng, e chọn build app theo hướng support, đồng hành cùng user trong suốt quá trình học tập thông qua các tích năng chính:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Học từ vựng hằng ngày &lt;strong&gt;chỉ với 1-3p&lt;/strong&gt;, rất dễ học, nhưng yêu cầu sự kiên trì&lt;/li&gt; &lt;li&gt;Luyện tập thông qua các trò chơi ngắn&lt;/li&gt; &lt;li&gt;Đọc các bài viết chứa từ vựng liên quan&lt;/li&gt; &lt;li&gt;Sách nói để cải thiện kỹ năng listening&lt;/li&gt; &lt;li&gt;App không có quảng cáo ạ&lt;/li&gt; &lt;/ul&gt; &lt;hr /&gt; &lt;p&gt;Đây là app đầu tay và không thể tránh khỏi những sai sót, rất mong được mn feedback ạ, em cảm ơn mn nhiều ❤️&lt;/p&gt; &lt;p&gt;P/s: nếu post có nói điều gì không phải phép mong được góp ý, e sẽ xoá post nếu không phù hợp ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/thangtoiyeuem"&gt; /u/thangtoiyeuem &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/mqn8kihrd84h1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1trtkl4/mình_mới_hoàn_thành_dự_án_kéo_dài_3_năm_mong_được/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1trtkl4/mình_mới_hoàn_thành_dự_án_kéo_dài_3_năm_mong_được/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-05-30T07:55:57+00:00</published>
   </entry>
   <entry>
     <id>t3_1tsnoxl</id>
@@ -112,17 +86,17 @@
     <published>2026-05-31T08:35:24+00:00</published>
   </entry>
   <entry>
-    <id>t3_1tscf7s</id>
-    <title>Re - Nên chia tay không 🫠</title>
-    <updated>2026-05-30T21:43:03+00:00</updated>
+    <id>t3_1tsqb1c</id>
+    <title>Có ai bị xóa bài như t k?</title>
+    <updated>2026-05-31T09:13:57+00:00</updated>
     <author>
-      <name>/u/Narrow-Owl-4790</name>
-      <uri>https://old.reddit.com/user/Narrow-Owl-4790</uri>
+      <name>/u/Ignis_1734</name>
+      <uri>https://old.reddit.com/user/Ignis_1734</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em vẫn đang suy nghĩ nhiều. Hiện tại em nghĩ đến cảnh chia tay, em cũng thấy buồn, em nhớ lại những kỉ niệm nho nhỏ và tính cách của ny em, và thấy ny em yêu em rất nhiều. Nhưng đồng thời khi nghĩ đến việc thôi bỏ ý định ấy, thì lập tức em cảm giác ức chế khi phải nghĩ tới thời gian sắp tới, không biết bao giờ mới được gặp. Em cũng đã tìm hiểu thêm thì khả năng ny em sang được đầu 2027 là khá khó do đợt ấy ít cơ hội, thường thì sẽ phải đợi đợt tháng 9/2027, cũng là lúc visa của em hết hạn nếu không tìm được việc bên này. Em cảm giác ở lại cũng khó nhưng rời đi cũng không nỡ. Em không biết phải làm sao nữa. Tính em suy nghĩ nhiều, cũng overthinking này nọ, đây cũng là mối tình đầu của em, cũng 3 năm rưỡi rồi, nên chuyện này em khó nghĩ quá ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Narrow-Owl-4790"&gt; /u/Narrow-Owl-4790 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tscf7s/re_nên_chia_tay_không/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tscf7s/re_nên_chia_tay_không/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1tscf7s/re_nên_chia_tay_không/"/>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1tsqb1c/có_ai_bị_xóa_bài_như_t_k/"&gt; &lt;img alt="Có ai bị xóa bài như t k?" src="https://preview.redd.it/wmzuu87lwf4h1.jpg?width=140&amp;amp;height=140&amp;amp;crop=1:1,smart&amp;amp;auto=webp&amp;amp;s=ba5650e6d75143cad8843e9b6192c8822b9f2202" title="Có ai bị xóa bài như t k?" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Kdv của sub này bị gì vậy??? Sau lần các bài viết của tui bị xóa thì t có đăng thêm 2 bài. Một bài phàn nàn về lý do tại sao bài viết của tui bị xóa, một bài thì đăng nói về nhiệt độ mùa hè? Chẳng vi phạm luật gì của sub? Xong nay t vào reddit thì thấy hai bài viết bị xóa thẳng luôn, không có bất kỳ một lý do nào đc đưa ra???&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ignis_1734"&gt; /u/Ignis_1734 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1tsqb1c"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tsqb1c/có_ai_bị_xóa_bài_như_t_k/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1tsqb1c/có_ai_bị_xóa_bài_như_t_k/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-05-30T21:43:03+00:00</published>
+    <published>2026-05-31T09:13:57+00:00</published>
   </entry>
   <entry>
     <id>t3_1ts1wni</id>
@@ -138,19 +112,6 @@
     <published>2026-05-30T14:46:35+00:00</published>
   </entry>
   <entry>
-    <id>t3_1tsqb1c</id>
-    <title>Có ai bị xóa bài như t k?</title>
-    <updated>2026-05-31T09:13:57+00:00</updated>
-    <author>
-      <name>/u/Ignis_1734</name>
-      <uri>https://old.reddit.com/user/Ignis_1734</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1tsqb1c/có_ai_bị_xóa_bài_như_t_k/"&gt; &lt;img alt="Có ai bị xóa bài như t k?" src="https://preview.redd.it/wmzuu87lwf4h1.jpg?width=140&amp;amp;height=140&amp;amp;crop=1:1,smart&amp;amp;auto=webp&amp;amp;s=ba5650e6d75143cad8843e9b6192c8822b9f2202" title="Có ai bị xóa bài như t k?" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Kdv của sub này bị gì vậy??? Sau lần các bài viết của tui bị xóa thì t có đăng thêm 2 bài. Một bài phàn nàn về lý do tại sao bài viết của tui bị xóa, một bài thì đăng nói về nhiệt độ mùa hè? Chẳng vi phạm luật gì của sub? Xong nay t vào reddit thì thấy hai bài viết bị xóa thẳng luôn, không có bất kỳ một lý do nào đc đưa ra???&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ignis_1734"&gt; /u/Ignis_1734 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://www.reddit.com/gallery/1tsqb1c"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tsqb1c/có_ai_bị_xóa_bài_như_t_k/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1tsqb1c/có_ai_bị_xóa_bài_như_t_k/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-05-31T09:13:57+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1tsqozy</id>
     <title>Làm Teleperformance Malaysia có ổn không ạ???</title>
     <updated>2026-05-31T09:36:38+00:00</updated>
@@ -162,6 +123,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1tsqozy/làm_teleperformance_malaysia_có_ổn_không_ạ/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-05-31T09:36:38+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1tscf7s</id>
+    <title>Re - Nên chia tay không 🫠</title>
+    <updated>2026-05-30T21:43:03+00:00</updated>
+    <author>
+      <name>/u/Narrow-Owl-4790</name>
+      <uri>https://old.reddit.com/user/Narrow-Owl-4790</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em vẫn đang suy nghĩ nhiều. Hiện tại em nghĩ đến cảnh chia tay, em cũng thấy buồn, em nhớ lại những kỉ niệm nho nhỏ và tính cách của ny em, và thấy ny em yêu em rất nhiều. Nhưng đồng thời khi nghĩ đến việc thôi bỏ ý định ấy, thì lập tức em cảm giác ức chế khi phải nghĩ tới thời gian sắp tới, không biết bao giờ mới được gặp. Em cũng đã tìm hiểu thêm thì khả năng ny em sang được đầu 2027 là khá khó do đợt ấy ít cơ hội, thường thì sẽ phải đợi đợt tháng 9/2027, cũng là lúc visa của em hết hạn nếu không tìm được việc bên này. Em cảm giác ở lại cũng khó nhưng rời đi cũng không nỡ. Em không biết phải làm sao nữa. Tính em suy nghĩ nhiều, cũng overthinking này nọ, đây cũng là mối tình đầu của em, cũng 3 năm rưỡi rồi, nên chuyện này em khó nghĩ quá ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Narrow-Owl-4790"&gt; /u/Narrow-Owl-4790 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tscf7s/re_nên_chia_tay_không/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tscf7s/re_nên_chia_tay_không/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1tscf7s/re_nên_chia_tay_không/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-05-30T21:43:03+00:00</published>
   </entry>
   <entry>
     <id>t3_1tsr9v0</id>
@@ -177,19 +151,6 @@
     <published>2026-05-31T10:09:56+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ts4f75</id>
-    <title>Một bài đăng trên một subreddit gì ấy về con voi trong phòng</title>
-    <updated>2026-05-30T16:26:44+00:00</updated>
-    <author>
-      <name>/u/Traditional-You8927</name>
-      <uri>https://old.reddit.com/user/Traditional-You8927</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1ts4f75/một_bài_đăng_trên_một_subreddit_gì_ấy_về_con_voi/"&gt; &lt;img alt="Một bài đăng trên một subreddit gì ấy về con voi trong phòng" src="https://preview.redd.it/r12u806wwa4h1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=b149150abaf2293ad3fb5b6405b252aa44f26ee8" title="Một bài đăng trên một subreddit gì ấy về con voi trong phòng" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Không ngờ shopee lại hoang dã đến vậy (các bác cứ nhìn xuống dưới là thấy)&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Traditional-You8927"&gt; /u/Traditional-You8927 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/r12u806wwa4h1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ts4f75/một_bài_đăng_trên_một_subreddit_gì_ấy_về_con_voi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ts4f75/một_bài_đăng_trên_một_subreddit_gì_ấy_về_con_voi/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-05-30T16:26:44+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1tsrjo1</id>
     <title>Các bác học master ở Anh/Mỹ/Pháp. Profile của các bác ban đầu là ntn? Và tài chính ra sao? Các bác có thấy các quốc gia này có đáng sống? Em đang aim mục tiêu 3 nước trên</title>
     <updated>2026-05-31T10:25:09+00:00</updated>
@@ -201,6 +162,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1tsrjo1/các_bác_học_master_ở_anhmỹpháp_profile_của_các/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-05-31T10:25:09+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ts4f75</id>
+    <title>Một bài đăng trên một subreddit gì ấy về con voi trong phòng</title>
+    <updated>2026-05-30T16:26:44+00:00</updated>
+    <author>
+      <name>/u/Traditional-You8927</name>
+      <uri>https://old.reddit.com/user/Traditional-You8927</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1ts4f75/một_bài_đăng_trên_một_subreddit_gì_ấy_về_con_voi/"&gt; &lt;img alt="Một bài đăng trên một subreddit gì ấy về con voi trong phòng" src="https://preview.redd.it/r12u806wwa4h1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=b149150abaf2293ad3fb5b6405b252aa44f26ee8" title="Một bài đăng trên một subreddit gì ấy về con voi trong phòng" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Không ngờ shopee lại hoang dã đến vậy (các bác cứ nhìn xuống dưới là thấy)&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Traditional-You8927"&gt; /u/Traditional-You8927 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/r12u806wwa4h1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ts4f75/một_bài_đăng_trên_một_subreddit_gì_ấy_về_con_voi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ts4f75/một_bài_đăng_trên_một_subreddit_gì_ấy_về_con_voi/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-05-30T16:26:44+00:00</published>
   </entry>
   <entry>
     <id>t3_1tss9at</id>
@@ -229,6 +203,19 @@
     <published>2026-05-31T11:08:13+00:00</published>
   </entry>
   <entry>
+    <id>t3_1tstd6t</id>
+    <title>Hỏi về trình pickleball và kinh nghiệm lần đầu đi xé vé</title>
+    <updated>2026-05-31T11:58:49+00:00</updated>
+    <author>
+      <name>/u/TheStarHolder0410</name>
+      <uri>https://old.reddit.com/user/TheStarHolder0410</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;E chào các bác, chẳng là e chơi pick cũng được hơn 6 tháng, mà chơi với nhóm bạn cố định nên thật sự k biết chính xác trình độ e đang đến đâu nên e định đi xé vé trình newbie, bơi ra biển lớn để biết e đang ở đâu trong cộng đồng. Các bác khai sáng giúp em phát nha:&lt;/p&gt; &lt;p&gt;• Trình độ 2.0 là phải đánh được như thế nào (Các bác có vi đeo thì tuyệt vời lun), còn trình độ 3 tháng tối thiểu phải đánh được như thế nào?&lt;/p&gt; &lt;p&gt;• Trình 3 tháng và 6 tháng khác nhau nhiều thế nào?&lt;/p&gt; &lt;p&gt;• Xé vé lần đầu cần lưu ý điều gì? Ví dụ e vào sân newbie mà đánh lệch hẳn tay so với mọi người thì có sao không?&lt;/p&gt; &lt;p&gt;Cảm ơn các bác nha&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/TheStarHolder0410"&gt; /u/TheStarHolder0410 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tstd6t/hỏi_về_trình_pickleball_và_kinh_nghiệm_lần_đầu_đi/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tstd6t/hỏi_về_trình_pickleball_và_kinh_nghiệm_lần_đầu_đi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1tstd6t/hỏi_về_trình_pickleball_và_kinh_nghiệm_lần_đầu_đi/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-05-31T11:58:49+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1tsnuiu</id>
     <title>Vụ nam thanh niên cố giữ xe một thanh niên chở bạn gái, bị kéo lê một khoảng rồi té, may là ko sao, ai có thông tin vụ này share mình với</title>
     <updated>2026-05-31T06:53:31+00:00</updated>
@@ -240,19 +227,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1tsnuiu/vụ_nam_thanh_niên_cố_giữ_xe_một_thanh_niên_chở/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-05-31T06:53:31+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1tsp0pn</id>
-    <title>Ý nghĩa của cuộc sống</title>
-    <updated>2026-05-31T07:59:34+00:00</updated>
-    <author>
-      <name>/u/Quirky_Eye_7642</name>
-      <uri>https://old.reddit.com/user/Quirky_Eye_7642</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hiện e đang ở độ tuổi 18, e nhận ra rằng : Năm cấp 2, e cố gắng vào được một ngôi trường cấp 3 tốt, cấp 3 e lại phấn đấu vào đc một trg đại học, lên đại học chắc lại tập trung hc tập để sau này ra trg có cv ổn định. Sau khi có đc cv chắc lại có nhà, có xe, có vợ, có con...... Giả sử nếu như năm 40 tuổi e đã có tất cả, vậy lúc đó e sống vì điều gì&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Quirky_Eye_7642"&gt; /u/Quirky_Eye_7642 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tsp0pn/ý_nghĩa_của_cuộc_sống/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tsp0pn/ý_nghĩa_của_cuộc_sống/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1tsp0pn/ý_nghĩa_của_cuộc_sống/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-05-31T07:59:34+00:00</published>
   </entry>
   <entry>
     <id>t3_1tski4l</id>
@@ -268,17 +242,43 @@
     <published>2026-05-31T03:56:49+00:00</published>
   </entry>
   <entry>
-    <id>t3_1tsqxfb</id>
-    <title>Tư vấn thuốc 18+</title>
-    <updated>2026-05-31T09:50:22+00:00</updated>
+    <id>t3_1tstdud</id>
+    <title>Kiếm thêm thu nhập</title>
+    <updated>2026-05-31T11:59:38+00:00</updated>
     <author>
-      <name>/u/IGAloda</name>
-      <uri>https://old.reddit.com/user/IGAloda</uri>
+      <name>/u/Long_Value_7432</name>
+      <uri>https://old.reddit.com/user/Long_Value_7432</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người! Em cần tư vấn thuốc giúp duy trì, kéo dài thời gian &amp;quot;yêu&amp;quot; ạ. Dạo này cứ khoản 1 đến 2 tuần đi công tác em mới về với vợ nên cũng ham hố chuyện đó vì cũng là vợ chồng son. Nhưng khoản 2 tuần nay em cảm thấy rất yếu trong chuyện đó, trước khi đi công tác em có thể sinh hoạt điều và hầu như duy trì được 10p, mà giờ 2 ngày nghỉ ở nhà em chỉ có thể &amp;quot;yêu&amp;quot; 1 đến 2 và lần mà lần nào cũng khoản 3p là xong, công tác lâu ngày khi về quấn quých bên nhau mà chỉ có nhiêu đó làm em và vợ khá hụt hẫn, không đủ thỏa mãn. Em nhờ mọi người tư vấn thuốc giúp duy trì có bán tại tác nhà thuốc như Pharmacity, Long Châu và Trung Sơn. Em tìm loại dùng nhất thời thôi chứ chưa tìm biện pháp lâu dài. Em thấy có loại Rocket1h cũng gọi là có danh tiếng nhưng em chưa sử dụng, mong mọi người tư vấn và cho lời khuyên ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/IGAloda"&gt; /u/IGAloda &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tsqxfb/tư_vấn_thuốc_18/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tsqxfb/tư_vấn_thuốc_18/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1tsqxfb/tư_vấn_thuốc_18/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mn hiện tại mình đang làm cv chính lương 15-17tr , mình muốn kiếm thêm thu nhập bên ngoài thì có những cách nào a, có bỏ vốn không và vốn tầm bao nhiêu a. Em cảm ơn a&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Long_Value_7432"&gt; /u/Long_Value_7432 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tstdud/kiếm_thêm_thu_nhập/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tstdud/kiếm_thêm_thu_nhập/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1tstdud/kiếm_thêm_thu_nhập/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-05-31T09:50:22+00:00</published>
+    <published>2026-05-31T11:59:38+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1tsp0pn</id>
+    <title>Ý nghĩa của cuộc sống</title>
+    <updated>2026-05-31T07:59:34+00:00</updated>
+    <author>
+      <name>/u/Quirky_Eye_7642</name>
+      <uri>https://old.reddit.com/user/Quirky_Eye_7642</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hiện e đang ở độ tuổi 18, e nhận ra rằng : Năm cấp 2, e cố gắng vào được một ngôi trường cấp 3 tốt, cấp 3 e lại phấn đấu vào đc một trg đại học, lên đại học chắc lại tập trung hc tập để sau này ra trg có cv ổn định. Sau khi có đc cv chắc lại có nhà, có xe, có vợ, có con...... Giả sử nếu như năm 40 tuổi e đã có tất cả, vậy lúc đó e sống vì điều gì&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Quirky_Eye_7642"&gt; /u/Quirky_Eye_7642 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tsp0pn/ý_nghĩa_của_cuộc_sống/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tsp0pn/ý_nghĩa_của_cuộc_sống/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1tsp0pn/ý_nghĩa_của_cuộc_sống/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-05-31T07:59:34+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1tsj13m</id>
+    <title>Làm sao để thoát khỏi tình trạng này</title>
+    <updated>2026-05-31T02:45:50+00:00</updated>
+    <author>
+      <name>/u/Relevant_Rabbit2298</name>
+      <uri>https://old.reddit.com/user/Relevant_Rabbit2298</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;E năm nay 25M hiện làm việc tại HN các bác ạ,&lt;/p&gt; &lt;p&gt;Chuyện là gần đây bị suy nghĩ quá nhiều về vấn đề lấy vợ, có thể là stress luôn =)) công việc ổn định và đang có cơ hội để đi lên vì vậy e phải dành thời gian thêm buổi tối và có thể là cuối tuần nữa cho side job và học kiến thức mới.&lt;/p&gt; &lt;p&gt;Nhưng hiện tại luôn đau đáu 1 việc là suy nghĩ là phải luôn sắp xếp nhưng buổi đi chơi để có thể có ny rồi đó lấy vợ nhưng bên cạnh đó vẫn phải tập trung phát triển công việc. Chỉ sợ khi quá tập trung vào công việc đến lúc nhìn lại đã muộn để lập gia đình.&lt;/p&gt; &lt;p&gt;Ở quê giục thì đã đành nhưng nhìn bạn bè cũng chuẩn bị lập gia đình hoặc đã tìm được người đồng hành thì lại cảm thấy chạnh lòng hơn ...&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Relevant_Rabbit2298"&gt; /u/Relevant_Rabbit2298 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tsj13m/làm_sao_để_thoát_khỏi_tình_trạng_này/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tsj13m/làm_sao_để_thoát_khỏi_tình_trạng_này/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1tsj13m/làm_sao_để_thoát_khỏi_tình_trạng_này/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-05-31T02:45:50+00:00</published>
   </entry>
   <entry>
     <id>t3_1tsh8w9</id>
@@ -294,17 +294,17 @@
     <published>2026-05-31T01:18:59+00:00</published>
   </entry>
   <entry>
-    <id>t3_1tsj13m</id>
-    <title>Làm sao để thoát khỏi tình trạng này</title>
-    <updated>2026-05-31T02:45:50+00:00</updated>
+    <id>t3_1tsqxfb</id>
+    <title>Tư vấn thuốc 18+</title>
+    <updated>2026-05-31T09:50:22+00:00</updated>
     <author>
-      <name>/u/Relevant_Rabbit2298</name>
-      <uri>https://old.reddit.com/user/Relevant_Rabbit2298</uri>
+      <name>/u/IGAloda</name>
+      <uri>https://old.reddit.com/user/IGAloda</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;E năm nay 25M hiện làm việc tại HN các bác ạ,&lt;/p&gt; &lt;p&gt;Chuyện là gần đây bị suy nghĩ quá nhiều về vấn đề lấy vợ, có thể là stress luôn =)) công việc ổn định và đang có cơ hội để đi lên vì vậy e phải dành thời gian thêm buổi tối và có thể là cuối tuần nữa cho side job và học kiến thức mới.&lt;/p&gt; &lt;p&gt;Nhưng hiện tại luôn đau đáu 1 việc là suy nghĩ là phải luôn sắp xếp nhưng buổi đi chơi để có thể có ny rồi đó lấy vợ nhưng bên cạnh đó vẫn phải tập trung phát triển công việc. Chỉ sợ khi quá tập trung vào công việc đến lúc nhìn lại đã muộn để lập gia đình.&lt;/p&gt; &lt;p&gt;Ở quê giục thì đã đành nhưng nhìn bạn bè cũng chuẩn bị lập gia đình hoặc đã tìm được người đồng hành thì lại cảm thấy chạnh lòng hơn ...&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Relevant_Rabbit2298"&gt; /u/Relevant_Rabbit2298 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tsj13m/làm_sao_để_thoát_khỏi_tình_trạng_này/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tsj13m/làm_sao_để_thoát_khỏi_tình_trạng_này/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1tsj13m/làm_sao_để_thoát_khỏi_tình_trạng_này/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người! Em cần tư vấn thuốc giúp duy trì, kéo dài thời gian &amp;quot;yêu&amp;quot; ạ. Dạo này cứ khoản 1 đến 2 tuần đi công tác em mới về với vợ nên cũng ham hố chuyện đó vì cũng là vợ chồng son. Nhưng khoản 2 tuần nay em cảm thấy rất yếu trong chuyện đó, trước khi đi công tác em có thể sinh hoạt điều và hầu như duy trì được 10p, mà giờ 2 ngày nghỉ ở nhà em chỉ có thể &amp;quot;yêu&amp;quot; 1 đến 2 và lần mà lần nào cũng khoản 3p là xong, công tác lâu ngày khi về quấn quých bên nhau mà chỉ có nhiêu đó làm em và vợ khá hụt hẫn, không đủ thỏa mãn. Em nhờ mọi người tư vấn thuốc giúp duy trì có bán tại tác nhà thuốc như Pharmacity, Long Châu và Trung Sơn. Em tìm loại dùng nhất thời thôi chứ chưa tìm biện pháp lâu dài. Em thấy có loại Rocket1h cũng gọi là có danh tiếng nhưng em chưa sử dụng, mong mọi người tư vấn và cho lời khuyên ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/IGAloda"&gt; /u/IGAloda &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tsqxfb/tư_vấn_thuốc_18/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tsqxfb/tư_vấn_thuốc_18/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1tsqxfb/tư_vấn_thuốc_18/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-05-31T02:45:50+00:00</published>
+    <published>2026-05-31T09:50:22+00:00</published>
   </entry>
   <entry>
     <id>t3_1tsn1o1</id>
