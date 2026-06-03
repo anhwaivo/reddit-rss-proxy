@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-06-02T22:03:15+00:00</updated>
+  <updated>2026-06-03T00:01:45+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -216,19 +216,6 @@
     <published>2026-06-02T14:46:18+00:00</published>
   </entry>
   <entry>
-    <id>t3_1tush9r</id>
-    <title>Tư vấn về vấn đề trầm cảm</title>
-    <updated>2026-06-02T14:23:03+00:00</updated>
-    <author>
-      <name>/u/stockthin</name>
-      <uri>https://old.reddit.com/user/stockthin</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Không biết có ai như mình không, lúc trước là 1 con người luôn vui vẻ, yêu đời, tham gia mọi cuộc vui nếu có người rủ. Tới gần ngày có cuộc vui nào lớn là háo hức khó ngủ. Vậy mà dạo này, sau khi trải qua biến cố cũng khá lớn, mình lại chẳng thấy hứng thú với bất cứ cái gì, cái gì đến cũng cho trôi đi, không vui, không buồn, không oán hận, không mong chờ bất kỳ ai. Thử search trên mạng thì thấy kêu là hội chứng tiền trầm cảm. Không biết để tình trạng này kéo dài có ổn không mọi người? có nên tìm cách chữa bệnh không ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/stockthin"&gt; /u/stockthin &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tush9r/tư_vấn_về_vấn_đề_trầm_cảm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tush9r/tư_vấn_về_vấn_đề_trầm_cảm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1tush9r/tư_vấn_về_vấn_đề_trầm_cảm/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-06-02T14:23:03+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1tunmd0</id>
     <title>tán tỉnh</title>
     <updated>2026-06-02T11:05:48+00:00</updated>
@@ -240,6 +227,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1tunmd0/tán_tỉnh/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-06-02T11:05:48+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1tush9r</id>
+    <title>Tư vấn về vấn đề trầm cảm</title>
+    <updated>2026-06-02T14:23:03+00:00</updated>
+    <author>
+      <name>/u/stockthin</name>
+      <uri>https://old.reddit.com/user/stockthin</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Không biết có ai như mình không, lúc trước là 1 con người luôn vui vẻ, yêu đời, tham gia mọi cuộc vui nếu có người rủ. Tới gần ngày có cuộc vui nào lớn là háo hức khó ngủ. Vậy mà dạo này, sau khi trải qua biến cố cũng khá lớn, mình lại chẳng thấy hứng thú với bất cứ cái gì, cái gì đến cũng cho trôi đi, không vui, không buồn, không oán hận, không mong chờ bất kỳ ai. Thử search trên mạng thì thấy kêu là hội chứng tiền trầm cảm. Không biết để tình trạng này kéo dài có ổn không mọi người? có nên tìm cách chữa bệnh không ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/stockthin"&gt; /u/stockthin &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tush9r/tư_vấn_về_vấn_đề_trầm_cảm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1tush9r/tư_vấn_về_vấn_đề_trầm_cảm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1tush9r/tư_vấn_về_vấn_đề_trầm_cảm/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-06-02T14:23:03+00:00</published>
   </entry>
   <entry>
     <id>t3_1tusnps</id>
