@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-06-14T19:57:30+00:00</updated>
+  <updated>2026-06-14T21:17:44+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1u5lfm7</id>
-    <title>Phóng sự bẫy kỳ nghỉ đang chiếu phần 3 rồi</title>
-    <updated>2026-06-14T13:38:41+00:00</updated>
-    <author>
-      <name>/u/Motor-Payment5281</name>
-      <uri>https://old.reddit.com/user/Motor-Payment5281</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình đang xem trên VTV1 không biết có ai cũng đang theo dõi phóng sự này như mình không?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Motor-Payment5281"&gt; /u/Motor-Payment5281 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1u5lfm7/phóng_sự_bẫy_kỳ_nghỉ_đang_chiếu_phần_3_rồi/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1u5lfm7/phóng_sự_bẫy_kỳ_nghỉ_đang_chiếu_phần_3_rồi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1u5lfm7/phóng_sự_bẫy_kỳ_nghỉ_đang_chiếu_phần_3_rồi/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-06-14T13:38:41+00:00</published>
-  </entry>
   <entry>
     <id>t3_1u5dpko</id>
     <title>Tình cảm là thứ vớ vẩn?</title>
@@ -164,6 +151,19 @@
     <published>2026-06-14T10:31:26+00:00</published>
   </entry>
   <entry>
+    <id>t3_1u5wos7</id>
+    <title>Xin kinh nghiệm chào hỏi đi làm ở bệnh viện</title>
+    <updated>2026-06-14T21:03:18+00:00</updated>
+    <author>
+      <name>/u/Dr_Jin_Ji_Min</name>
+      <uri>https://old.reddit.com/user/Dr_Jin_Ji_Min</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Dạ không biết có bác nào ở đây từng làm trong bệnh viện không cho em xin ít kinh nghiệm chào hỏi&lt;/p&gt; &lt;p&gt;Chuyện là em được nhận thông qua ban giám đốc, không thông qua trưởng khoa. Nên em định sau phỏng vấn sẽ xin ít phút để chào hỏi trực tiếp trưởng khoa. &lt;/p&gt; &lt;p&gt;Không biết là em có nên gặp riêng, tặng quà (nếu có thì tặng khi nào và như thế nào ạ) hay cần chú ý gì ko ạ? Vì dù sao trưởng khoa mới là người làm việc với mình, để người ta ghét thì không hay&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Dr_Jin_Ji_Min"&gt; /u/Dr_Jin_Ji_Min &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1u5wos7/xin_kinh_nghiệm_chào_hỏi_đi_làm_ở_bệnh_viện/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1u5wos7/xin_kinh_nghiệm_chào_hỏi_đi_làm_ở_bệnh_viện/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1u5wos7/xin_kinh_nghiệm_chào_hỏi_đi_làm_ở_bệnh_viện/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-06-14T21:03:18+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1u5ouvb</id>
     <title>có ae nào kinh nghiệm làm phi công k</title>
     <updated>2026-06-14T15:57:41+00:00</updated>
@@ -190,17 +190,17 @@
     <published>2026-06-14T11:06:15+00:00</published>
   </entry>
   <entry>
-    <id>t3_1u5tm46</id>
-    <title>Buổi thử việc đầu tiên của em có đang bị trả quá thấp không ạ?</title>
-    <updated>2026-06-14T19:02:11+00:00</updated>
+    <id>t3_1u5r8yy</id>
+    <title>Du học nghề Đức và Visa 18b</title>
+    <updated>2026-06-14T17:31:06+00:00</updated>
     <author>
-      <name>/u/HyokaYoKo</name>
-      <uri>https://old.reddit.com/user/HyokaYoKo</uri>
+      <name>/u/Jovaniac</name>
+      <uri>https://old.reddit.com/user/Jovaniac</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Xin chào mọi người, em muốn lên đây xin lời khuyên ạ. Em sinh năm 2008, là nữ .Mới thi xong một ngày muốn tham gia thị trường lao động nên tìm hiểu và xin thử việc 1 quán nhà hàng BBQ gần nhà.&lt;/p&gt; &lt;p&gt;Ban đầu do còn non nớt và thiếu kinh nghiệm em xin việc làm full time thử việc 1 tuần đầu và đồng ý với mức lương 7tr ( lúc này anh chủ có khuyên nvm làm part time trước mà em không chịu ).&lt;/p&gt; &lt;p&gt;Em lúc 9h sáng phỏng vấn, 15p sau khi thỏa thuận với anh chủ xong em vào làm việc luôn. Do chưa dạn việc nên em làm còn hơi chậm so với mọi người.&lt;/p&gt; &lt;p&gt;Buổi sáng em làm từ 9h18 và về lúc 14h12 được ăn một bữa cơm. Buổi chiều em đến lúc 16h18 và làm đến 0h16 ( không có cơm tối ạ). Em luôn giữ thái độ và tinh thần học hỏi trong suốt buổi làm việc, có buổi tối khi quán bắt đầu đông em chưa bắt được nhịp để phối hợp cùng mọi người phục vụ nhưng có quan sát và luôn sẵn sàng hỗ trợ đằng sau.&lt;/p&gt; &lt;p&gt;Do cảm thấy khối lượng công việc nặng so với sức mình ( cuối ca em còn rửa 5 chậu cốc hơn, và đứng suốt không ngồi nên cảm thấy nặng so với sức mình do ngày đầu đi làm nên em hơi sốc. Việc này là của nhân viên bình thường nên em không than khổ đâu ạ, chỉ là cảm thấy hơi vất vả do lần đầu đi làm nhà hàng dù em cũng xác định sẽ vất vả 🥲).&lt;/p&gt; &lt;p&gt;Tối em có nhắn xin không làm nữa và lương thử việc. Đến tối ngày hôm sau thì anh chủ trả cho em 150k. Em có hỏi thì được trả lời là: “Ngày đầu em đang học việc đã làm được gì đâu”.&lt;/p&gt; &lt;p&gt;Em khá buồn vì dù sao cũng mang tinh thần học hỏi và nỗ lực trong công việc, luôn hỏi việc để làm chứ không có chỉ ngồi không ạ. Em mong mọi người cho em lời khuyên không biết liệu 150k có xứng đáng với 12 tiếng thử việc không ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/HyokaYoKo"&gt; /u/HyokaYoKo &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1u5tm46/buổi_thử_việc_đầu_tiên_của_em_có_đang_bị_trả_quá/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1u5tm46/buổi_thử_việc_đầu_tiên_của_em_có_đang_bị_trả_quá/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1u5tm46/buổi_thử_việc_đầu_tiên_của_em_có_đang_bị_trả_quá/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em đang thấy có chương trình đi du học nghề đức cho người đã có bằng đại học được quảng bá trên facebook. Các bác ai đã từng đi rồi chia sẽ kinh nghiệm lại cho em với ạ, ở đâu tư vấn uy tín giá cả phải chăng và mình có cần lưu ý gì không? &lt;/p&gt; &lt;p&gt;Về bản thân em chưa từng ra nước ngoài bao giờ. Em có bằng đại học ngôn ngữ Anh chính quy, có chứng chỉ Delf B1 tiếng Pháp. Em ở tỉnh An Giang, miền tây ạ.&lt;/p&gt; &lt;p&gt;Cảm ơn các bác.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Jovaniac"&gt; /u/Jovaniac &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1u5r8yy/du_học_nghề_đức_và_visa_18b/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1u5r8yy/du_học_nghề_đức_và_visa_18b/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1u5r8yy/du_học_nghề_đức_và_visa_18b/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-06-14T19:02:11+00:00</published>
+    <published>2026-06-14T17:31:06+00:00</published>
   </entry>
   <entry>
     <id>t3_1u5fdnv</id>
@@ -214,19 +214,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1u5fdnv/bố_mình_đang_tự_huỷ_hoại_sức_khoẻ_mỗi_ngày/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-06-14T08:12:21+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1u5r8yy</id>
-    <title>Du học nghề Đức và Visa 18b</title>
-    <updated>2026-06-14T17:31:06+00:00</updated>
-    <author>
-      <name>/u/Jovaniac</name>
-      <uri>https://old.reddit.com/user/Jovaniac</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em đang thấy có chương trình đi du học nghề đức cho người đã có bằng đại học được quảng bá trên facebook. Các bác ai đã từng đi rồi chia sẽ kinh nghiệm lại cho em với ạ, ở đâu tư vấn uy tín giá cả phải chăng và mình có cần lưu ý gì không? &lt;/p&gt; &lt;p&gt;Về bản thân em chưa từng ra nước ngoài bao giờ. Em có bằng đại học ngôn ngữ Anh chính quy, có chứng chỉ Delf B1 tiếng Pháp. Em ở tỉnh An Giang, miền tây ạ.&lt;/p&gt; &lt;p&gt;Cảm ơn các bác.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Jovaniac"&gt; /u/Jovaniac &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1u5r8yy/du_học_nghề_đức_và_visa_18b/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1u5r8yy/du_học_nghề_đức_và_visa_18b/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1u5r8yy/du_học_nghề_đức_và_visa_18b/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-06-14T17:31:06+00:00</published>
   </entry>
   <entry>
     <id>t3_1u5rsj0</id>
@@ -253,6 +240,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1u5gx7i/có_bác_nào_thấy_việc_học_ngoại_ngữ_khi_đạt_đến/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-06-14T09:48:22+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1u5tm46</id>
+    <title>Buổi thử việc đầu tiên của em có đang bị trả quá thấp không ạ?</title>
+    <updated>2026-06-14T19:02:11+00:00</updated>
+    <author>
+      <name>/u/HyokaYoKo</name>
+      <uri>https://old.reddit.com/user/HyokaYoKo</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Xin chào mọi người, em muốn lên đây xin lời khuyên ạ. Em sinh năm 2008, là nữ .Mới thi xong một ngày muốn tham gia thị trường lao động nên tìm hiểu và xin thử việc 1 quán nhà hàng BBQ gần nhà.&lt;/p&gt; &lt;p&gt;Ban đầu do còn non nớt và thiếu kinh nghiệm em xin việc làm full time thử việc 1 tuần đầu và đồng ý với mức lương 7tr ( lúc này anh chủ có khuyên nvm làm part time trước mà em không chịu ).&lt;/p&gt; &lt;p&gt;Em lúc 9h sáng phỏng vấn, 15p sau khi thỏa thuận với anh chủ xong em vào làm việc luôn. Do chưa dạn việc nên em làm còn hơi chậm so với mọi người.&lt;/p&gt; &lt;p&gt;Buổi sáng em làm từ 9h18 và về lúc 14h12 được ăn một bữa cơm. Buổi chiều em đến lúc 16h18 và làm đến 0h16 ( không có cơm tối ạ). Em luôn giữ thái độ và tinh thần học hỏi trong suốt buổi làm việc, có buổi tối khi quán bắt đầu đông em chưa bắt được nhịp để phối hợp cùng mọi người phục vụ nhưng có quan sát và luôn sẵn sàng hỗ trợ đằng sau.&lt;/p&gt; &lt;p&gt;Do cảm thấy khối lượng công việc nặng so với sức mình ( cuối ca em còn rửa 5 chậu cốc hơn, và đứng suốt không ngồi nên cảm thấy nặng so với sức mình do ngày đầu đi làm nên em hơi sốc. Việc này là của nhân viên bình thường nên em không than khổ đâu ạ, chỉ là cảm thấy hơi vất vả do lần đầu đi làm nhà hàng dù em cũng xác định sẽ vất vả 🥲).&lt;/p&gt; &lt;p&gt;Tối em có nhắn xin không làm nữa và lương thử việc. Đến tối ngày hôm sau thì anh chủ trả cho em 150k. Em có hỏi thì được trả lời là: “Ngày đầu em đang học việc đã làm được gì đâu”.&lt;/p&gt; &lt;p&gt;Em khá buồn vì dù sao cũng mang tinh thần học hỏi và nỗ lực trong công việc, luôn hỏi việc để làm chứ không có chỉ ngồi không ạ. Em mong mọi người cho em lời khuyên không biết liệu 150k có xứng đáng với 12 tiếng thử việc không ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/HyokaYoKo"&gt; /u/HyokaYoKo &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1u5tm46/buổi_thử_việc_đầu_tiên_của_em_có_đang_bị_trả_quá/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1u5tm46/buổi_thử_việc_đầu_tiên_của_em_có_đang_bị_trả_quá/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1u5tm46/buổi_thử_việc_đầu_tiên_của_em_có_đang_bị_trả_quá/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-06-14T19:02:11+00:00</published>
   </entry>
   <entry>
     <id>t3_1u5k5ce</id>
