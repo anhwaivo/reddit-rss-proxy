@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-06-17T18:33:27+00:00</updated>
+  <updated>2026-06-17T20:56:12+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1u7jf07</id>
-    <title>Tính ra dân giờ giàu nhờ</title>
-    <updated>2026-06-16T17:03:22+00:00</updated>
-    <author>
-      <name>/u/kitchcu</name>
-      <uri>https://old.reddit.com/user/kitchcu</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chắc có mỗi tui nghèo nên thấy mấy ly nước trong highland, coffee house, Phúc Long, ... nó không đáng với số tiền bỏ ra ấy &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/kitchcu"&gt; /u/kitchcu &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1u7jf07/tính_ra_dân_giờ_giàu_nhờ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1u7jf07/tính_ra_dân_giờ_giàu_nhờ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1u7jf07/tính_ra_dân_giờ_giàu_nhờ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-06-16T17:03:22+00:00</published>
-  </entry>
   <entry>
     <id>t3_1u82qzv</id>
     <title>Tư vấn xe đạp gấp</title>
@@ -32,6 +19,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1u82qzv/tư_vấn_xe_đạp_gấp/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-06-17T06:52:41+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1u7jf07</id>
+    <title>Tính ra dân giờ giàu nhờ</title>
+    <updated>2026-06-16T17:03:22+00:00</updated>
+    <author>
+      <name>/u/kitchcu</name>
+      <uri>https://old.reddit.com/user/kitchcu</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chắc có mỗi tui nghèo nên thấy mấy ly nước trong highland, coffee house, Phúc Long, ... nó không đáng với số tiền bỏ ra ấy &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/kitchcu"&gt; /u/kitchcu &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1u7jf07/tính_ra_dân_giờ_giàu_nhờ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1u7jf07/tính_ra_dân_giờ_giàu_nhờ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1u7jf07/tính_ra_dân_giờ_giàu_nhờ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-06-16T17:03:22+00:00</published>
   </entry>
   <entry>
     <id>t3_1u81dye</id>
@@ -138,19 +138,6 @@
     <published>2026-06-17T10:05:11+00:00</published>
   </entry>
   <entry>
-    <id>t3_1u8cuy9</id>
-    <title>Làm sao để chấm dứt tìn trạng đốt tiền phung phí</title>
-    <updated>2026-06-17T15:09:48+00:00</updated>
-    <author>
-      <name>/u/VietAnhisme</name>
-      <uri>https://old.reddit.com/user/VietAnhisme</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác. Lương mỗi ngày của e 400k, tháng cũng cỡ 10tr nhưng e thường phung phí mỗi ngày 5-600k và mấy triệu như là rác đốt phung phí trong mấy buổi bia trong tháng. Hiện tại e vẫn nợ mấy chỗ lẻ tẻ mấy triệu, có mấy nợ xấu tiêu dùng 3-4tr định mỗi lần lấy lương thanh toán nhưng lúc lấy lương thì tiền cạn sạch. E vẫn là thanh niên, dựa tiền của mẹ rất nhiều (tiền ăn uống, nhà cửa không mất), chưa vướng vợ con. Em chưa biết làm chủ tài chính thế nào, làm sao để dừng lại cái ảo tưởng tài chính của em.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/VietAnhisme"&gt; /u/VietAnhisme &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1u8cuy9/làm_sao_để_chấm_dứt_tìn_trạng_đốt_tiền_phung_phí/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1u8cuy9/làm_sao_để_chấm_dứt_tìn_trạng_đốt_tiền_phung_phí/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1u8cuy9/làm_sao_để_chấm_dứt_tìn_trạng_đốt_tiền_phung_phí/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-06-17T15:09:48+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1u82vhe</id>
     <title>Build in public ở voz</title>
     <updated>2026-06-17T07:00:06+00:00</updated>
@@ -164,19 +151,6 @@
     <published>2026-06-17T07:00:06+00:00</published>
   </entry>
   <entry>
-    <id>t3_1u8d4uh</id>
-    <title>Share slot claude team</title>
-    <updated>2026-06-17T15:19:45+00:00</updated>
-    <author>
-      <name>/u/DimensionAccurate756</name>
-      <uri>https://old.reddit.com/user/DimensionAccurate756</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hiện tại team em đang dư vài seat Claude Team, anh em có nhu cầu contact với em ạ&lt;/p&gt; &lt;p&gt;Price: Premium 6.25X 1800K/tháng Standard 1.25X 400K/tháng&lt;/p&gt; &lt;p&gt;Lưu ý: Cấm sử dụng với các công cụ bên thứ ba làm ảnh hưởng đến team em&lt;/p&gt; &lt;p&gt;Liên hệ: Zalo: 038.673.70.77 Telegram: BlackWings68&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/DimensionAccurate756"&gt; /u/DimensionAccurate756 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1u8d4uh/share_slot_claude_team/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1u8d4uh/share_slot_claude_team/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1u8d4uh/share_slot_claude_team/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-06-17T15:19:45+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1u81q5c</id>
     <title>Gần U30 r, có nên học toán, code, vật lý như 1 sở thích</title>
     <updated>2026-06-17T05:54:24+00:00</updated>
@@ -188,19 +162,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1u81q5c/gần_u30_r_có_nên_học_toán_code_vật_lý_như_1_sở/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-06-17T05:54:24+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1u8dyxj</id>
-    <title>Lại tiếp tục theo dõi vụ bẫy kỳ nghỉ</title>
-    <updated>2026-06-17T15:50:07+00:00</updated>
-    <author>
-      <name>/u/Motor-Payment5281</name>
-      <uri>https://old.reddit.com/user/Motor-Payment5281</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Nay thời sự đã đưa tin, bắt gần 200 đối tượng của 23 công ty liên quan. Nhiều đối tượng còn rất trẻ, điều đáng suy nghĩ là cái bẫy này không chỉ giăng ra với những nạn nhân mua kỳ nghỉ ấy, nó là cạm bẫy cho chính những người muốn làm giàu nhanh bất chấp thủ đoạn, hoặc những người đơn giản vì thấy nhiều tiền mà cũng cứ lao theo. Dù làm gì thì khi những vụ án như thế này bị bắt, bạn mới vào hay không cũng sẽ lên hình cùng các đối tượng khác.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Motor-Payment5281"&gt; /u/Motor-Payment5281 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1u8dyxj/lại_tiếp_tục_theo_dõi_vụ_bẫy_kỳ_nghỉ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1u8dyxj/lại_tiếp_tục_theo_dõi_vụ_bẫy_kỳ_nghỉ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1u8dyxj/lại_tiếp_tục_theo_dõi_vụ_bẫy_kỳ_nghỉ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-06-17T15:50:07+00:00</published>
   </entry>
   <entry>
     <id>t3_1u8c8u5</id>
@@ -227,6 +188,45 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1u82god/đưa_đón_đi_chơi/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-06-17T06:35:48+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1u8cuy9</id>
+    <title>Làm sao để chấm dứt tìn trạng đốt tiền phung phí</title>
+    <updated>2026-06-17T15:09:48+00:00</updated>
+    <author>
+      <name>/u/VietAnhisme</name>
+      <uri>https://old.reddit.com/user/VietAnhisme</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác. Lương mỗi ngày của e 400k, tháng cũng cỡ 10tr nhưng e thường phung phí mỗi ngày 5-600k và mấy triệu như là rác đốt phung phí trong mấy buổi bia trong tháng. Hiện tại e vẫn nợ mấy chỗ lẻ tẻ mấy triệu, có mấy nợ xấu tiêu dùng 3-4tr định mỗi lần lấy lương thanh toán nhưng lúc lấy lương thì tiền cạn sạch. E vẫn là thanh niên, dựa tiền của mẹ rất nhiều (tiền ăn uống, nhà cửa không mất), chưa vướng vợ con. Em chưa biết làm chủ tài chính thế nào, làm sao để dừng lại cái ảo tưởng tài chính của em.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/VietAnhisme"&gt; /u/VietAnhisme &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1u8cuy9/làm_sao_để_chấm_dứt_tìn_trạng_đốt_tiền_phung_phí/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1u8cuy9/làm_sao_để_chấm_dứt_tìn_trạng_đốt_tiền_phung_phí/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1u8cuy9/làm_sao_để_chấm_dứt_tìn_trạng_đốt_tiền_phung_phí/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-06-17T15:09:48+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1u8d4uh</id>
+    <title>Share slot claude team</title>
+    <updated>2026-06-17T15:19:45+00:00</updated>
+    <author>
+      <name>/u/DimensionAccurate756</name>
+      <uri>https://old.reddit.com/user/DimensionAccurate756</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hiện tại team em đang dư vài seat Claude Team, anh em có nhu cầu contact với em ạ&lt;/p&gt; &lt;p&gt;Price: Premium 6.25X 1800K/tháng Standard 1.25X 400K/tháng&lt;/p&gt; &lt;p&gt;Lưu ý: Cấm sử dụng với các công cụ bên thứ ba làm ảnh hưởng đến team em&lt;/p&gt; &lt;p&gt;Liên hệ: &lt;/p&gt; &lt;p&gt;Zalo: 038.673.70.77 &lt;/p&gt; &lt;p&gt;Telegram: BlackWings68&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/DimensionAccurate756"&gt; /u/DimensionAccurate756 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1u8d4uh/share_slot_claude_team/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1u8d4uh/share_slot_claude_team/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1u8d4uh/share_slot_claude_team/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-06-17T15:19:45+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1u8dyxj</id>
+    <title>Lại tiếp tục theo dõi vụ bẫy kỳ nghỉ</title>
+    <updated>2026-06-17T15:50:07+00:00</updated>
+    <author>
+      <name>/u/Motor-Payment5281</name>
+      <uri>https://old.reddit.com/user/Motor-Payment5281</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Nay thời sự đã đưa tin, bắt gần 200 đối tượng của 23 công ty liên quan. Nhiều đối tượng còn rất trẻ, điều đáng suy nghĩ là cái bẫy này không chỉ giăng ra với những nạn nhân mua kỳ nghỉ ấy, nó là cạm bẫy cho chính những người muốn làm giàu nhanh bất chấp thủ đoạn, hoặc những người đơn giản vì thấy nhiều tiền mà cũng cứ lao theo. Dù làm gì thì khi những vụ án như thế này bị bắt, bạn mới vào hay không cũng sẽ lên hình cùng các đối tượng khác.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Motor-Payment5281"&gt; /u/Motor-Payment5281 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1u8dyxj/lại_tiếp_tục_theo_dõi_vụ_bẫy_kỳ_nghỉ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1u8dyxj/lại_tiếp_tục_theo_dõi_vụ_bẫy_kỳ_nghỉ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1u8dyxj/lại_tiếp_tục_theo_dõi_vụ_bẫy_kỳ_nghỉ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-06-17T15:50:07+00:00</published>
   </entry>
   <entry>
     <id>t3_1u8f6vk</id>
