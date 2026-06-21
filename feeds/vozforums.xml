@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-06-21T21:53:29+00:00</updated>
+  <updated>2026-06-21T23:11:22+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -268,19 +268,6 @@
     <published>2026-06-21T19:43:21+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ubsgqo</id>
-    <title>Chuyện về tâm sinh lý nhạy cảm ạ</title>
-    <updated>2026-06-21T15:10:13+00:00</updated>
-    <author>
-      <name>/u/Sure-Cattle2003</name>
-      <uri>https://old.reddit.com/user/Sure-Cattle2003</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mn, mình năm nay 23 tuổi. Chuyện là khi mình way tay không xem phim thì mình thấy khá lâu, nhưng cứ hễ way + xem phim là ra sớm. Không biết có bị ảnh hưởng gì không ạ (mình thi thoảng mới th* khoảng 2 lần 1 tuần, có khi cả tuần không cái nào). Mình cũng có thăm khám thì chất lượng tt vẫn bình thường.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Sure-Cattle2003"&gt; /u/Sure-Cattle2003 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ubsgqo/chuyện_về_tâm_sinh_lý_nhạy_cảm_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ubsgqo/chuyện_về_tâm_sinh_lý_nhạy_cảm_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ubsgqo/chuyện_về_tâm_sinh_lý_nhạy_cảm_ạ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-06-21T15:10:13+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1ubrnxy</id>
     <title>Chuyện này hơi nhạy cảm chút xíu ạ.</title>
     <updated>2026-06-21T14:36:50+00:00</updated>
@@ -305,6 +292,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ubg1jv/ích_kỷ_vs_lý_trí_khi_chọn_vợ/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-06-21T04:00:01+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ubsgqo</id>
+    <title>Chuyện về tâm sinh lý nhạy cảm ạ</title>
+    <updated>2026-06-21T15:10:13+00:00</updated>
+    <author>
+      <name>/u/Sure-Cattle2003</name>
+      <uri>https://old.reddit.com/user/Sure-Cattle2003</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mn, mình năm nay 23 tuổi. Chuyện là khi mình way tay không xem phim thì mình thấy khá lâu, nhưng cứ hễ way + xem phim là ra sớm. Không biết có bị ảnh hưởng gì không ạ (mình thi thoảng mới th* khoảng 2 lần 1 tuần, có khi cả tuần không cái nào). Mình cũng có thăm khám thì chất lượng tt vẫn bình thường.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Sure-Cattle2003"&gt; /u/Sure-Cattle2003 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ubsgqo/chuyện_về_tâm_sinh_lý_nhạy_cảm_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ubsgqo/chuyện_về_tâm_sinh_lý_nhạy_cảm_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ubsgqo/chuyện_về_tâm_sinh_lý_nhạy_cảm_ạ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-06-21T15:10:13+00:00</published>
   </entry>
   <entry>
     <id>t3_1ubnruc</id>
