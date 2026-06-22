@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-06-21T23:11:22+00:00</updated>
+  <updated>2026-06-22T01:41:00+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Hello vOzers! Nội quy: cấm các nội dung không lành mạnh như sex, pbvm, toxic, chính trị, chất cấm, tin nhạy cảm... Cấm các thể loại ngôn từ thiếu văn minh, spam, chửi người khác, hoặc đưa các thông tin cá nhân nhạy cảm. Vi phạm sẽ bị xử lý tùy theo mức độ.</subtitle>
-  <entry>
-    <id>t3_1ub0zkc</id>
-    <title>17 tuổi</title>
-    <updated>2026-06-20T16:34:11+00:00</updated>
-    <author>
-      <name>/u/Neat-Cat-529</name>
-      <uri>https://old.reddit.com/user/Neat-Cat-529</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;cấp 2 đi học bị bạn bè cô lập&lt;br /&gt; cấp 3 bố mẹ ly hôn,bị dượng bạo hành, bị xhtd 2 lần, mẹ không bảo vệ&lt;br /&gt; lớp 12 tự học ở nhà vì mẹ chỉ cho em gái đi học thêm,còn mình thì bảo tự ôn ở nhà do “lớn rồi”&lt;br /&gt; sát ngày thi thptqg 46 ngày phát hiện bạn trai ngủ cùng người khác,doạ tu tu&lt;br /&gt; TT sao số em nó khổ dữ vậy &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Neat-Cat-529"&gt; /u/Neat-Cat-529 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ub0zkc/17_tuổi/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ub0zkc/17_tuổi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ub0zkc/17_tuổi/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-06-20T16:34:11+00:00</published>
-  </entry>
   <entry>
     <id>t3_1ubb7c7</id>
     <title>Got myself a box of Riftbound</title>
@@ -60,19 +47,6 @@
     <published>2026-06-21T09:23:45+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ubsvht</id>
-    <title>[Tìm team làm game/app mobile cùng nhau]</title>
-    <updated>2026-06-21T15:27:11+00:00</updated>
-    <author>
-      <name>/u/Top_Examination3816</name>
-      <uri>https://old.reddit.com/user/Top_Examination3816</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, mình là Phúc, nam, sinh năm 2k, hiện đang ở TP.HCM. Mình làm dev bên mảng mobile, chủ yếu liên quan đến app, publish sản phẩm lên App Store / Google Play và các phần tối ưu sau khi ra mắt.&lt;/p&gt; &lt;p&gt;Hiện tại mình muốn lập một team nhỏ 4–5 bạn để cùng làm một project game hoặc app mobile. Mục đích chính là có một nhóm cùng làm cho vui, học hỏi, thử cái mới và tạo ra một sản phẩm thật sự có thể chạy được.&lt;/p&gt; &lt;p&gt;Về idea thì hiện tại mình chưa chốt sẵn. Mình muốn tìm team trước, sau đó mọi người cùng trao đổi, góp ý và chọn một ý tưởng nhỏ phù hợp để làm. Mục tiêu ban đầu là ra được MVP/prototype trong khoảng 7–14 ngày, không làm quá lớn ngay từ đầu.&lt;/p&gt; &lt;p&gt;Mình không phải người nắm lead hay áp đặt hướng đi cho team. Mình chỉ là người đứng ra lập team, kết nối mọi người và tham gia như một thành viên trong dự án.&lt;/p&gt; &lt;p&gt;Phần mình tự tin có thể làm tốt:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Dev mobile nếu phù hợp với project&lt;/li&gt; &lt;li&gt;Publish app lên App Store / Google Play&lt;/li&gt; &lt;li&gt;ASO, mô tả app, screenshot, keyword&lt;/li&gt; &lt;li&gt;Monetization: ads, IAP, subscription nếu phù hợp&lt;/li&gt; &lt;li&gt;Support các phần liên quan đến vận hành sản phẩm sau khi publish&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Riêng về game thì đây là lần đầu mình muốn làm một dự án game nghiêm túc cùng team, nên mình rất cần các bạn có kinh nghiệm hoặc có góc nhìn về game chia sẻ thêm: gameplay, game design, art style, scope, cách làm prototype, cách test người chơi…&lt;/p&gt; &lt;p&gt;Role team đang tìm:&lt;/p&gt; &lt;p&gt;Nếu làm game:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Dev&lt;/li&gt; &lt;li&gt;Artist&lt;/li&gt; &lt;li&gt;UI/UX&lt;/li&gt; &lt;li&gt;GD / Game Designer&lt;/li&gt; &lt;li&gt;Marketing&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Nếu làm app:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;UI/UX / Designer&lt;/li&gt; &lt;li&gt;Marketing&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Bạn có role nào trong các role trên thì cứ inbox mình nhé. Không cần quá pro, miễn là có đam mê, có thời gian và muốn cùng làm một project thật sự.&lt;/p&gt; &lt;p&gt;Yêu cầu:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Có đam mê làm game/app hoặc sản phẩm mobile&lt;/li&gt; &lt;li&gt;Có thời gian dành cho dự án mỗi tuần&lt;/li&gt; &lt;li&gt;Cam kết rõ số giờ hoặc số buổi có thể làm&lt;/li&gt; &lt;li&gt;Có trách nhiệm với phần mình nhận&lt;/li&gt; &lt;li&gt;Có thể trao đổi trực tiếp khi cần&lt;/li&gt; &lt;li&gt;Ưu tiên các bạn ở TP.HCM để có thể offline/cafe làm việc chung&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Về chi phí, tiền công, doanh thu, quyền sở hữu source code/asset… team sẽ cùng bàn bạc và thống nhất rõ ràng trước khi làm sâu hơn.&lt;/p&gt; &lt;p&gt;Bạn nào hứng thú thì inbox mình vài dòng giới thiệu: bạn làm role gì, có thời gian bao nhiêu mỗi tuần, từng làm project nào chưa, và bạn muốn tham gia kiểu nào nhé.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Top_Examination3816"&gt; /u/Top_Examination3816 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ubsvht/tìm_team_làm_gameapp_mobile_cùng_nhau/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ubsvht/tìm_team_làm_gameapp_mobile_cùng_nhau/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ubsvht/tìm_team_làm_gameapp_mobile_cùng_nhau/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-06-21T15:27:11+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1ubt4b1</id>
     <title>Mua điện thoại cũ nên chú ý điều gì?</title>
     <updated>2026-06-21T15:37:18+00:00</updated>
@@ -97,19 +71,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ubf6fd/mình_không_có_cảm_giác_thân_thụôc_với_ai_cả/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-06-21T03:13:58+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1ubtahi</id>
-    <title>Xe điện hay xe máy</title>
-    <updated>2026-06-21T15:44:25+00:00</updated>
-    <author>
-      <name>/u/SuyNhieuLan</name>
-      <uri>https://old.reddit.com/user/SuyNhieuLan</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;hi mn đơn giản ngắn gọn em muốn mua xe nhưng ko biết là nên mua xe máy điện hay xe máy ạ, hết hè em lên cấp 3 nên muốn nhờ mn giải đáp thắc mắc giúp e ạ, nơi e ở là 1 thị xã bình thường có cắm vài cái trụ sạc V, nma em không thích hãng xe này lắm ( có thể cân nhắc ) &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/SuyNhieuLan"&gt; /u/SuyNhieuLan &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ubtahi/xe_điện_hay_xe_máy/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ubtahi/xe_điện_hay_xe_máy/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ubtahi/xe_điện_hay_xe_máy/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-06-21T15:44:25+00:00</published>
   </entry>
   <entry>
     <id>t3_1ubl17d</id>
@@ -164,6 +125,19 @@
     <published>2026-06-21T15:07:06+00:00</published>
   </entry>
   <entry>
+    <id>t3_1ubsvht</id>
+    <title>[Tìm team làm game/app mobile cùng nhau]</title>
+    <updated>2026-06-21T15:27:11+00:00</updated>
+    <author>
+      <name>/u/Top_Examination3816</name>
+      <uri>https://old.reddit.com/user/Top_Examination3816</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, mình là Phúc, nam, sinh năm 2k, hiện đang ở TP.HCM. Mình làm dev bên mảng mobile, chủ yếu liên quan đến app, publish sản phẩm lên App Store / Google Play và các phần tối ưu sau khi ra mắt.&lt;/p&gt; &lt;p&gt;Hiện tại mình muốn lập một team nhỏ 4–5 bạn để cùng làm một project game hoặc app mobile. Mục đích chính là có một nhóm cùng làm cho vui, học hỏi, thử cái mới và tạo ra một sản phẩm thật sự có thể chạy được.&lt;/p&gt; &lt;p&gt;Về idea thì hiện tại mình chưa chốt sẵn. Mình muốn tìm team trước, sau đó mọi người cùng trao đổi, góp ý và chọn một ý tưởng nhỏ phù hợp để làm. Mục tiêu ban đầu là ra được MVP/prototype trong khoảng 7–14 ngày, không làm quá lớn ngay từ đầu.&lt;/p&gt; &lt;p&gt;Mình không phải người nắm lead hay áp đặt hướng đi cho team. Mình chỉ là người đứng ra lập team, kết nối mọi người và tham gia như một thành viên trong dự án.&lt;/p&gt; &lt;p&gt;Phần mình tự tin có thể làm tốt:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Dev mobile nếu phù hợp với project&lt;/li&gt; &lt;li&gt;Publish app lên App Store / Google Play&lt;/li&gt; &lt;li&gt;ASO, mô tả app, screenshot, keyword&lt;/li&gt; &lt;li&gt;Monetization: ads, IAP, subscription nếu phù hợp&lt;/li&gt; &lt;li&gt;Support các phần liên quan đến vận hành sản phẩm sau khi publish&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Riêng về game thì đây là lần đầu mình muốn làm một dự án game nghiêm túc cùng team, nên mình rất cần các bạn có kinh nghiệm hoặc có góc nhìn về game chia sẻ thêm: gameplay, game design, art style, scope, cách làm prototype, cách test người chơi…&lt;/p&gt; &lt;p&gt;Role team đang tìm:&lt;/p&gt; &lt;p&gt;Nếu làm game:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Dev&lt;/li&gt; &lt;li&gt;Artist&lt;/li&gt; &lt;li&gt;UI/UX&lt;/li&gt; &lt;li&gt;GD / Game Designer&lt;/li&gt; &lt;li&gt;Marketing&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Nếu làm app:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;UI/UX / Designer&lt;/li&gt; &lt;li&gt;Marketing&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Bạn có role nào trong các role trên thì cứ inbox mình nhé. Không cần quá pro, miễn là có đam mê, có thời gian và muốn cùng làm một project thật sự.&lt;/p&gt; &lt;p&gt;Yêu cầu:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Có đam mê làm game/app hoặc sản phẩm mobile&lt;/li&gt; &lt;li&gt;Có thời gian dành cho dự án mỗi tuần&lt;/li&gt; &lt;li&gt;Cam kết rõ số giờ hoặc số buổi có thể làm&lt;/li&gt; &lt;li&gt;Có trách nhiệm với phần mình nhận&lt;/li&gt; &lt;li&gt;Có thể trao đổi trực tiếp khi cần&lt;/li&gt; &lt;li&gt;Ưu tiên các bạn ở TP.HCM để có thể offline/cafe làm việc chung&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Về chi phí, tiền công, doanh thu, quyền sở hữu source code/asset… team sẽ cùng bàn bạc và thống nhất rõ ràng trước khi làm sâu hơn.&lt;/p&gt; &lt;p&gt;Bạn nào hứng thú thì inbox mình vài dòng giới thiệu: bạn làm role gì, có thời gian bao nhiêu mỗi tuần, từng làm project nào chưa, và bạn muốn tham gia kiểu nào nhé.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Top_Examination3816"&gt; /u/Top_Examination3816 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ubsvht/tìm_team_làm_gameapp_mobile_cùng_nhau/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ubsvht/tìm_team_làm_gameapp_mobile_cùng_nhau/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ubsvht/tìm_team_làm_gameapp_mobile_cùng_nhau/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-06-21T15:27:11+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1ubpfpp</id>
     <title>Già hơn tuổi ?</title>
     <updated>2026-06-21T12:58:52+00:00</updated>
@@ -203,6 +177,19 @@
     <published>2026-06-21T03:50:09+00:00</published>
   </entry>
   <entry>
+    <id>t3_1ubtahi</id>
+    <title>Xe điện hay xe máy</title>
+    <updated>2026-06-21T15:44:25+00:00</updated>
+    <author>
+      <name>/u/SuyNhieuLan</name>
+      <uri>https://old.reddit.com/user/SuyNhieuLan</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;hi mn đơn giản ngắn gọn em muốn mua xe nhưng ko biết là nên mua xe máy điện hay xe máy ạ, hết hè em lên cấp 3 nên muốn nhờ mn giải đáp thắc mắc giúp e ạ, nơi e ở là 1 thị xã bình thường có cắm vài cái trụ sạc V, nma em không thích hãng xe này lắm ( có thể cân nhắc ) &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/SuyNhieuLan"&gt; /u/SuyNhieuLan &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ubtahi/xe_điện_hay_xe_máy/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ubtahi/xe_điện_hay_xe_máy/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ubtahi/xe_điện_hay_xe_máy/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-06-21T15:44:25+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1ubr1le</id>
     <title>Đột nhiên thương người lao động chân tay nhiều hơn 🥹</title>
     <updated>2026-06-21T14:10:17+00:00</updated>
@@ -214,6 +201,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ubr1le/đột_nhiên_thương_người_lao_động_chân_tay_nhiều_hơn/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-06-21T14:10:17+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ubkcho</id>
+    <title>Tâm sự tuổi 27</title>
+    <updated>2026-06-21T08:07:27+00:00</updated>
+    <author>
+      <name>/u/Jealous_Heart_6770</name>
+      <uri>https://old.reddit.com/user/Jealous_Heart_6770</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Xin chào mọi người mình lấy chồng được 5 năm có một con nhỏ suốt 5 năm chồng mình vì chơi tiền ảo nên nợ nần từ lúc lấy nhau đến giờ toàn làm để trả nợ khoảng 500tr ( đã trả )chưa kể tiền vay các sô ảo gần đây họ lại đến đòi mình stress quá chồng mình vẫn không nói thật với mình mặc dù là vợ chồng . Suốt 5 năm sống cùng bố mẹ chồng phụ thuộc cơm nước không phải lo mẹ Ck mình lo hét số tiền Ck mình đi làm được chỉ để trả nợ . Giờ mình chịu hết nổi rồi mình ở đây vì bố mẹ Ck mình tốt nhưng mình sống kiểu phụ thuộc cùng người Ck ngu dốt k có ý cầu tiến như vậy có nên tiếp tục không ạ mình muốn li hôn mọi người cho mình lời khuyên ạ 😔&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Jealous_Heart_6770"&gt; /u/Jealous_Heart_6770 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ubkcho/tâm_sự_tuổi_27/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ubkcho/tâm_sự_tuổi_27/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ubkcho/tâm_sự_tuổi_27/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-06-21T08:07:27+00:00</published>
   </entry>
   <entry>
     <id>t3_1ubfw6t</id>
@@ -229,17 +229,17 @@
     <published>2026-06-21T03:51:51+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ubkcho</id>
-    <title>Tâm sự tuổi 27</title>
-    <updated>2026-06-21T08:07:27+00:00</updated>
+    <id>t3_1uc6vru</id>
+    <title>liệu đây có phải trùng hợp hay là duyên trời?</title>
+    <updated>2026-06-22T01:20:13+00:00</updated>
     <author>
-      <name>/u/Jealous_Heart_6770</name>
-      <uri>https://old.reddit.com/user/Jealous_Heart_6770</uri>
+      <name>/u/Artistic_Travel1375</name>
+      <uri>https://old.reddit.com/user/Artistic_Travel1375</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Xin chào mọi người mình lấy chồng được 5 năm có một con nhỏ suốt 5 năm chồng mình vì chơi tiền ảo nên nợ nần từ lúc lấy nhau đến giờ toàn làm để trả nợ khoảng 500tr ( đã trả )chưa kể tiền vay các sô ảo gần đây họ lại đến đòi mình stress quá chồng mình vẫn không nói thật với mình mặc dù là vợ chồng . Suốt 5 năm sống cùng bố mẹ chồng phụ thuộc cơm nước không phải lo mẹ Ck mình lo hét số tiền Ck mình đi làm được chỉ để trả nợ . Giờ mình chịu hết nổi rồi mình ở đây vì bố mẹ Ck mình tốt nhưng mình sống kiểu phụ thuộc cùng người Ck ngu dốt k có ý cầu tiến như vậy có nên tiếp tục không ạ mình muốn li hôn mọi người cho mình lời khuyên ạ 😔&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Jealous_Heart_6770"&gt; /u/Jealous_Heart_6770 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ubkcho/tâm_sự_tuổi_27/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ubkcho/tâm_sự_tuổi_27/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ubkcho/tâm_sự_tuổi_27/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;chào mn, em chia tay mối tình 3 năm khá toxic được hơn 3 tháng, sau khi chia tay em độ 1-2 tuần đối phương đã quen người mới chỉ là chưa công khai, còn em thì vẫn lủi thủi một mình, em vẫn giữ tư duy là mới chia tay không yêu bừa, không quen bừa. Chuyện là một ngày nọ e lướt tiktok và thấy video của ẻm ( người chính đề cập trong bài viết này ) và mình có ấn tượng với họ vì thấy rằng họ khá đúng gu với mình ( học giỏi, xinh đẹp ), trước đây ẻm có vào xem tcn mình 1 lần và cũng k để ý và mình bắt gặp video của em nhiều lần cũng chẳng để ý, nhưng lần đó mình có đăng str tiktok và ẻm có xem và mình tò mò vào xem tcn và theo dõi và từ đó mình thấy họ đăng nhiều str hơn và mình cũng hay xem rất nhanh và thả tym, khá thú vị ở chỗ nhà mình cách nhà ngoại của mình 1.7km, và nhà mình cách nhà ẻm cũng 1.7km, cùng phường với nhau, cùng trường cấp 2 với nhau ( mình khoá trên, ẻm khoá dưới ), thật ra mình và ẻm từng nhắn tin với nhau từ thời cấp 2 nhưng chắc giờ ẻm cũng chẳng nhớ nữa..mình nhìn các cô gái trên mạng xã hội khác nhau không có cảm tình và không đủ để mình wow, riêng ẻm này là khác 1 trời 1 vực luôn.. nhiều lúc cũng muốn bắt chuyện mà sợ nta không reply rầy lắm, với lại thời điểm này với mình khá nhạy cảm cũng k muốn yêu vì nhiều vấn đề cá nhân, thậm chí mình cũng đã mơ về ẻm đó luôn rồi.. theo mn thì đây chỉ là sự trùng hợp hay duyên trời..? Tks mn&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Artistic_Travel1375"&gt; /u/Artistic_Travel1375 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1uc6vru/liệu_đây_có_phải_trùng_hợp_hay_là_duyên_trời/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1uc6vru/liệu_đây_có_phải_trùng_hợp_hay_là_duyên_trời/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1uc6vru/liệu_đây_có_phải_trùng_hợp_hay_là_duyên_trời/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-06-21T08:07:27+00:00</published>
+    <published>2026-06-22T01:20:13+00:00</published>
   </entry>
   <entry>
     <id>t3_1ubo02y</id>
@@ -268,19 +268,6 @@
     <published>2026-06-21T19:43:21+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ubrnxy</id>
-    <title>Chuyện này hơi nhạy cảm chút xíu ạ.</title>
-    <updated>2026-06-21T14:36:50+00:00</updated>
-    <author>
-      <name>/u/Many-Shopping478</name>
-      <uri>https://old.reddit.com/user/Many-Shopping478</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em và vợ sắp cưới quen nhau đã dc gần 2 năm (vì chúng em đã giạm ngõ rồi), lúc trước em vấn đề q.hệ của em rất khỏe và sung mãn, nhưng dạo khoảng 2 tháng gần đây em q.hệ ko đc mạnh nữa ngày càng yếu đi (ko cương cứng đc, có lúc thì ra sớm). Trước giờ em thẩm du cũng đều độ và giờ cũng vậy 1 tuần 2 đến 3 lần. Vậy các anh hay bạn nam nào gặp trường hợp giống em ko ạ, cho em xin ý kiến vs kinh nghiệm khắc phục ạ, em ko rõ có phải do thẩm du như vậy là nhiều ko hay do stress áp lực công việc ạ. Em xin cảm ơn. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Many-Shopping478"&gt; /u/Many-Shopping478 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ubrnxy/chuyện_này_hơi_nhạy_cảm_chút_xíu_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ubrnxy/chuyện_này_hơi_nhạy_cảm_chút_xíu_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ubrnxy/chuyện_này_hơi_nhạy_cảm_chút_xíu_ạ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-06-21T14:36:50+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1ubg1jv</id>
     <title>Ích kỷ vs lý trí khi chọn vợ</title>
     <updated>2026-06-21T04:00:01+00:00</updated>
@@ -305,6 +292,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ubsgqo/chuyện_về_tâm_sinh_lý_nhạy_cảm_ạ/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-06-21T15:10:13+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ubrnxy</id>
+    <title>Chuyện này hơi nhạy cảm chút xíu ạ.</title>
+    <updated>2026-06-21T14:36:50+00:00</updated>
+    <author>
+      <name>/u/Many-Shopping478</name>
+      <uri>https://old.reddit.com/user/Many-Shopping478</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em và vợ sắp cưới quen nhau đã dc gần 2 năm (vì chúng em đã giạm ngõ rồi), lúc trước em vấn đề q.hệ của em rất khỏe và sung mãn, nhưng dạo khoảng 2 tháng gần đây em q.hệ ko đc mạnh nữa ngày càng yếu đi (ko cương cứng đc, có lúc thì ra sớm). Trước giờ em thẩm du cũng đều độ và giờ cũng vậy 1 tuần 2 đến 3 lần. Vậy các anh hay bạn nam nào gặp trường hợp giống em ko ạ, cho em xin ý kiến vs kinh nghiệm khắc phục ạ, em ko rõ có phải do thẩm du như vậy là nhiều ko hay do stress áp lực công việc ạ. Em xin cảm ơn. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Many-Shopping478"&gt; /u/Many-Shopping478 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ubrnxy/chuyện_này_hơi_nhạy_cảm_chút_xíu_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ubrnxy/chuyện_này_hơi_nhạy_cảm_chút_xíu_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ubrnxy/chuyện_này_hơi_nhạy_cảm_chút_xíu_ạ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-06-21T14:36:50+00:00</published>
   </entry>
   <entry>
     <id>t3_1ubnruc</id>
