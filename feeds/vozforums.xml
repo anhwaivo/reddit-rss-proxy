@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-06-26T19:17:37+00:00</updated>
+  <updated>2026-06-26T21:05:17+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Cộng đồng không chính thức trên Reddit của vOzforums (nay là voz.vn).</subtitle>
-  <entry>
-    <id>t3_1ug9nx6</id>
-    <title>Vấn đề nhạy cảm</title>
-    <updated>2026-06-26T15:15:54+00:00</updated>
-    <author>
-      <name>/u/Sure-Cattle2003</name>
-      <uri>https://old.reddit.com/user/Sure-Cattle2003</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mn, cho em hỏi đã có bác nào sử dụng mấy viên tăng tgian qhe hay sì sú gì đó không , cho em xin ít rì viu xem có hiệu quả không ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Sure-Cattle2003"&gt; /u/Sure-Cattle2003 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ug9nx6/vấn_đề_nhạy_cảm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ug9nx6/vấn_đề_nhạy_cảm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ug9nx6/vấn_đề_nhạy_cảm/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-06-26T15:15:54+00:00</published>
-  </entry>
   <entry>
     <id>t3_1uf7zsi</id>
     <title>Nhức nhối</title>
@@ -110,19 +97,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ug6cyy/sinh_viên_đà_lạt_và_đà_nẵng/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-06-26T13:07:17+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1ugcf0g</id>
-    <title>Đây có phải là trang phục của người Khơ-me không mọi người?</title>
-    <updated>2026-06-26T16:56:46+00:00</updated>
-    <author>
-      <name>/u/West-Ad-4825</name>
-      <uri>https://old.reddit.com/user/West-Ad-4825</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1ugcf0g/đây_có_phải_là_trang_phục_của_người_khơme_không/"&gt; &lt;img alt="Đây có phải là trang phục của người Khơ-me không mọi người?" src="https://preview.redd.it/0qec3gwuqn9h1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ae80fe50a6e81b13f0230fd79e398b82a5c8c9d8" title="Đây có phải là trang phục của người Khơ-me không mọi người?" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Lướt lướt threads thấy bạn này mặc trang phục này đẹp quá, mà không biết của Ấn hay là của Khơ-me hay là của Thái Lan. Cao nhân nào hiểu biết về văn hoá vô chỉ dùm mình nha🤗&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/West-Ad-4825"&gt; /u/West-Ad-4825 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/0qec3gwuqn9h1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ugcf0g/đây_có_phải_là_trang_phục_của_người_khơme_không/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ugcf0g/đây_có_phải_là_trang_phục_của_người_khơme_không/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-06-26T16:56:46+00:00</published>
   </entry>
   <entry>
     <id>t3_1ug0o3f</id>
@@ -255,17 +229,30 @@
     <published>2026-06-26T10:38:19+00:00</published>
   </entry>
   <entry>
-    <id>t3_1ugaw5q</id>
-    <title>Đàn ông như này có nên tiếp tục ko ?</title>
-    <updated>2026-06-26T16:01:24+00:00</updated>
+    <id>t3_1ugcf0g</id>
+    <title>Đây có phải là trang phục của người Khơ-me không mọi người?</title>
+    <updated>2026-06-26T16:56:46+00:00</updated>
     <author>
-      <name>/u/KangarooPositive3207</name>
-      <uri>https://old.reddit.com/user/KangarooPositive3207</uri>
+      <name>/u/West-Ad-4825</name>
+      <uri>https://old.reddit.com/user/West-Ad-4825</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình là nữ 24t, ny mình 27t, cả 2 đều có công việc ổn định, cả 2 đều có nhà ở tp, nói chung là ko có vật lộn với tiền bạc. Tụi mình quen dc 9 tháng, thì mình nhận thấy a thụ động trong mọi việc, kể cả việc ra mắt bm mình anh cũng chần chừ, rồi mình bảo bao giờ a dẫn e ra mắt với nhà anh và bạn bè anh thì anh cũng chần chừ. Mình hỏi a có plan gì cho tương lai ko (nhảy việc, tự kinh doanh, ...) thì a cũng chần chừ ko biết, cty a làm thì ổn định nhưng lương 7tr, kiểu làm chừng nào ngta đuổi thì a nghỉ kiếm việc khác. Cái gì a cũng thụ động nhút nhát như 1 đứa trẻ, mình nói thì a cứ ậm ờ qua chuyện, 27t nhưng nói về chuyện thành gia lập thất thì a cũng chỉ ậm ờ, chừng nào bm anh hối quyết liệt thì a mới làm. Ưu điểm thì ny mình tốt bụng, chung thủy, nhưng suy xét cái vấn đề này nếu bm a ko hối chắc mình chờ hết cả tuổi xuân luôn. Anh em có lời khuyên gì ko ạ, tính cách như này có thay đổi dc ko hay quanh quẩn chỉ có vậy ko thêm dc&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/KangarooPositive3207"&gt; /u/KangarooPositive3207 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ugaw5q/đàn_ông_như_này_có_nên_tiếp_tục_ko/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ugaw5q/đàn_ông_như_này_có_nên_tiếp_tục_ko/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1ugaw5q/đàn_ông_như_này_có_nên_tiếp_tục_ko/"/>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1ugcf0g/đây_có_phải_là_trang_phục_của_người_khơme_không/"&gt; &lt;img alt="Đây có phải là trang phục của người Khơ-me không mọi người?" src="https://preview.redd.it/0qec3gwuqn9h1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ae80fe50a6e81b13f0230fd79e398b82a5c8c9d8" title="Đây có phải là trang phục của người Khơ-me không mọi người?" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Lướt lướt threads thấy bạn này mặc trang phục này đẹp quá, mà không biết của Ấn hay là của Khơ-me hay là của Thái Lan. Cao nhân nào hiểu biết về văn hoá vô chỉ dùm mình nha🤗&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/West-Ad-4825"&gt; /u/West-Ad-4825 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/0qec3gwuqn9h1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ugcf0g/đây_có_phải_là_trang_phục_của_người_khơme_không/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ugcf0g/đây_có_phải_là_trang_phục_của_người_khơme_không/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-06-26T16:01:24+00:00</published>
+    <published>2026-06-26T16:56:46+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ugiln6</id>
+    <title>Tui cảm giác sau năm 2019 thời gian trôi nhanh quá, nhoáng cái đã hơn nửa năm 2026 rồi.</title>
+    <updated>2026-06-26T20:48:55+00:00</updated>
+    <author>
+      <name>/u/Liu_Han</name>
+      <uri>https://old.reddit.com/user/Liu_Han</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1ugiln6/tui_cảm_giác_sau_năm_2019_thời_gian_trôi_nhanh/"&gt; &lt;img alt="Tui cảm giác sau năm 2019 thời gian trôi nhanh quá, nhoáng cái đã hơn nửa năm 2026 rồi." src="https://preview.redd.it/xl6hdfp9wo9h1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=7bbb69fc5fef67b4668526f03cd2113ba9e34421" title="Tui cảm giác sau năm 2019 thời gian trôi nhanh quá, nhoáng cái đã hơn nửa năm 2026 rồi." /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Liu_Han"&gt; /u/Liu_Han &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/xl6hdfp9wo9h1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ugiln6/tui_cảm_giác_sau_năm_2019_thời_gian_trôi_nhanh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ugiln6/tui_cảm_giác_sau_năm_2019_thời_gian_trôi_nhanh/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-06-26T20:48:55+00:00</published>
   </entry>
   <entry>
     <id>t3_1ug7x3k</id>
@@ -292,6 +279,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1ug9cvr/bỏ_ngành_it_thì_làm_gì/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-06-26T15:04:16+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ugaw5q</id>
+    <title>Đàn ông như này có nên tiếp tục ko ?</title>
+    <updated>2026-06-26T16:01:24+00:00</updated>
+    <author>
+      <name>/u/KangarooPositive3207</name>
+      <uri>https://old.reddit.com/user/KangarooPositive3207</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình là nữ 24t, ny mình 27t, cả 2 đều có công việc ổn định, cả 2 đều có nhà ở tp, nói chung là ko có vật lộn với tiền bạc. Tụi mình quen dc 9 tháng, thì mình nhận thấy a thụ động trong mọi việc, kể cả việc ra mắt bm mình anh cũng chần chừ, rồi mình bảo bao giờ a dẫn e ra mắt với nhà anh và bạn bè anh thì anh cũng chần chừ. Mình hỏi a có plan gì cho tương lai ko (nhảy việc, tự kinh doanh, ...) thì a cũng chần chừ ko biết, cty a làm thì ổn định nhưng lương 7tr, kiểu làm chừng nào ngta đuổi thì a nghỉ kiếm việc khác. Cái gì a cũng thụ động nhút nhát như 1 đứa trẻ, mình nói thì a cứ ậm ờ qua chuyện, 27t nhưng nói về chuyện thành gia lập thất thì a cũng chỉ ậm ờ, chừng nào bm anh hối quyết liệt thì a mới làm. Ưu điểm thì ny mình tốt bụng, chung thủy, nhưng suy xét cái vấn đề này nếu bm a ko hối chắc mình chờ hết cả tuổi xuân luôn. Anh em có lời khuyên gì ko ạ, tính cách như này có thay đổi dc ko hay quanh quẩn chỉ có vậy ko thêm dc&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/KangarooPositive3207"&gt; /u/KangarooPositive3207 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ugaw5q/đàn_ông_như_này_có_nên_tiếp_tục_ko/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ugaw5q/đàn_ông_như_này_có_nên_tiếp_tục_ko/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ugaw5q/đàn_ông_như_này_có_nên_tiếp_tục_ko/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-06-26T16:01:24+00:00</published>
   </entry>
   <entry>
     <id>t3_1ug27zy</id>
