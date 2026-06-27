@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-06-27T20:43:34+00:00</updated>
+  <updated>2026-06-27T21:44:55+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -177,19 +177,6 @@
     <published>2026-06-27T13:18:48+00:00</published>
   </entry>
   <entry>
-    <id>t3_1uh6v7p</id>
-    <title>Xin kinh nghiệm đi máy bay đúng giờ</title>
-    <updated>2026-06-27T16:18:20+00:00</updated>
-    <author>
-      <name>/u/Evening_Cap1217</name>
-      <uri>https://old.reddit.com/user/Evening_Cap1217</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, đây là lần đầu e đi máy bay một mình. E chuẩn bị có bay chuyến nội địa nhưng e có việc bận nên e tính là từ chợ Bến Thành lúc 3h30 bắt xe qua sân bay là làm thủ tục cho chuyến bay 17:30 thì có kịp ko ạ? E ko mang hành lý ký gửi, mua vé trên Traveloka thì có cần cân nhắc trước gì k ạ? E nghe nói sân bay xếp hàng làm thủ tục lâu lắm, không biết đến sân bay 1 tiếng rưỡi trước giờ bay có trễ bay k ạ? Mn cho e xin kn đi máy bay cho nhanh và kịp giờ bay ạ… Cảm ơn mn. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Evening_Cap1217"&gt; /u/Evening_Cap1217 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1uh6v7p/xin_kinh_nghiệm_đi_máy_bay_đúng_giờ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1uh6v7p/xin_kinh_nghiệm_đi_máy_bay_đúng_giờ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1uh6v7p/xin_kinh_nghiệm_đi_máy_bay_đúng_giờ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-06-27T16:18:20+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1uh57vc</id>
     <title>Làm cách nào để vượt qua những lời không tích cực ?</title>
     <updated>2026-06-27T15:11:46+00:00</updated>
@@ -201,6 +188,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1uh57vc/làm_cách_nào_để_vượt_qua_những_lời_không_tích_cực/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-06-27T15:11:46+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1uh6v7p</id>
+    <title>Xin kinh nghiệm đi máy bay đúng giờ</title>
+    <updated>2026-06-27T16:18:20+00:00</updated>
+    <author>
+      <name>/u/Evening_Cap1217</name>
+      <uri>https://old.reddit.com/user/Evening_Cap1217</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, đây là lần đầu e đi máy bay một mình. E chuẩn bị có bay chuyến nội địa nhưng e có việc bận nên e tính là từ chợ Bến Thành lúc 3h30 bắt xe qua sân bay là làm thủ tục cho chuyến bay 17:30 thì có kịp ko ạ? E ko mang hành lý ký gửi, mua vé trên Traveloka thì có cần cân nhắc trước gì k ạ? E nghe nói sân bay xếp hàng làm thủ tục lâu lắm, không biết đến sân bay 1 tiếng rưỡi trước giờ bay có trễ bay k ạ? Mn cho e xin kn đi máy bay cho nhanh và kịp giờ bay ạ… Cảm ơn mn. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Evening_Cap1217"&gt; /u/Evening_Cap1217 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1uh6v7p/xin_kinh_nghiệm_đi_máy_bay_đúng_giờ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1uh6v7p/xin_kinh_nghiệm_đi_máy_bay_đúng_giờ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1uh6v7p/xin_kinh_nghiệm_đi_máy_bay_đúng_giờ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-06-27T16:18:20+00:00</published>
   </entry>
   <entry>
     <id>t3_1uh4zga</id>
