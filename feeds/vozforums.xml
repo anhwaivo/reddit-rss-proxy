@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-07-03T17:49:20+00:00</updated>
+  <updated>2026-07-03T19:19:43+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -99,19 +99,6 @@
     <published>2026-07-03T10:15:29+00:00</published>
   </entry>
   <entry>
-    <id>t3_1umjegc</id>
-    <title>muốn tiếp tục đi theo hướng nghiên cứu từ bậc cử nhân, có nên bắt đầu apply tiến sĩ hoặc thạc sĩ ngay từ đầu không?</title>
-    <updated>2026-07-03T16:40:19+00:00</updated>
-    <author>
-      <name>/u/crackhead0302</name>
-      <uri>https://old.reddit.com/user/crackhead0302</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;chào các bạn trên forum,&lt;/p&gt; &lt;p&gt;mình hiện đang theo học cử nhân tại một trường đại học tư nước ngoài đặt tại Việt Nam. hiện tại mình muốn đi theo hướng nghiên cứu và kiếm PhD thẳng từ bậc cử nhân luôn, do chương trình của mình khi tốt nghiệp sẽ được phép apply trực tiếp vào các chương trình PhD với tư cách là Thạc sĩ. mình muốn hỏi là thường nếu như đi như vậy thì mình có cần phải vào làm trong dự án của các thầy cô không, hay là chỉ cần xin được cái lá thư đề cử là được thôi? với lại mình có nên bắt đầu luyện thi cho những cuộc thi kiểm tra kiến thức cho cao học không?&lt;/p&gt; &lt;p&gt;thông tin thêm là hiện mình đang học ngành điện điện tử và mình muốn đi vào hướng thiết kế IC và bo mạch. theo lời thầy cô và anh chị tốt nghiệp trong ngành tại trường cũ thì thường ngành này muốn thực sự làm việc phải từ bậc Thạc sĩ trở lên.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/crackhead0302"&gt; /u/crackhead0302 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1umjegc/muốn_tiếp_tục_đi_theo_hướng_nghiên_cứu_từ_bậc_cử/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1umjegc/muốn_tiếp_tục_đi_theo_hướng_nghiên_cứu_từ_bậc_cử/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1umjegc/muốn_tiếp_tục_đi_theo_hướng_nghiên_cứu_từ_bậc_cử/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-07-03T16:40:19+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1um9k1h</id>
     <title>Cơ điện tử ct tiên tiến</title>
     <updated>2026-07-03T09:21:06+00:00</updated>
@@ -175,6 +162,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1umga1f/về_ngành_học_ai_và_ra_trường_làm_gì/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-07-03T14:40:27+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1umjegc</id>
+    <title>muốn tiếp tục đi theo hướng nghiên cứu từ bậc cử nhân, có nên bắt đầu apply tiến sĩ hoặc thạc sĩ ngay từ đầu không?</title>
+    <updated>2026-07-03T16:40:19+00:00</updated>
+    <author>
+      <name>/u/crackhead0302</name>
+      <uri>https://old.reddit.com/user/crackhead0302</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;chào các bạn trên forum,&lt;/p&gt; &lt;p&gt;mình hiện đang theo học cử nhân tại một trường đại học tư nước ngoài đặt tại Việt Nam. hiện tại mình muốn đi theo hướng nghiên cứu và kiếm PhD thẳng từ bậc cử nhân luôn, do chương trình của mình khi tốt nghiệp sẽ được phép apply trực tiếp vào các chương trình PhD với tư cách là Thạc sĩ. mình muốn hỏi là thường nếu như đi như vậy thì mình có cần phải vào làm trong dự án của các thầy cô không, hay là chỉ cần xin được cái lá thư đề cử là được thôi? với lại mình có nên bắt đầu luyện thi cho những cuộc thi kiểm tra kiến thức cho cao học không?&lt;/p&gt; &lt;p&gt;thông tin thêm là hiện mình đang học ngành điện điện tử và mình muốn đi vào hướng thiết kế IC và bo mạch. theo lời thầy cô và anh chị tốt nghiệp trong ngành tại trường cũ thì thường ngành này muốn thực sự làm việc phải từ bậc Thạc sĩ trở lên.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/crackhead0302"&gt; /u/crackhead0302 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1umjegc/muốn_tiếp_tục_đi_theo_hướng_nghiên_cứu_từ_bậc_cử/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1umjegc/muốn_tiếp_tục_đi_theo_hướng_nghiên_cứu_từ_bậc_cử/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1umjegc/muốn_tiếp_tục_đi_theo_hướng_nghiên_cứu_từ_bậc_cử/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-07-03T16:40:19+00:00</published>
   </entry>
   <entry>
     <id>t3_1um2d5a</id>
@@ -268,19 +268,6 @@
     <published>2026-07-03T09:49:03+00:00</published>
   </entry>
   <entry>
-    <id>t3_1um9wkx</id>
-    <title>Lí trí bảo chia tay nhưng em không đủ can đảm...</title>
-    <updated>2026-07-03T09:41:42+00:00</updated>
-    <author>
-      <name>/u/Content_Finding7578</name>
-      <uri>https://old.reddit.com/user/Content_Finding7578</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em là nữ (F23) quen 1 anh lớn hơn 10 tuổi, đã quen nhau được 2 năm, sống chung với nhau khoảng 1 năm (do mong muốn của cả 2 vì thấy hợp và vui). Em thì từ lúc dọn về ở chung đã xác định là quen nghiêm túc lâu dài, sau này sẽ cưới người này làm chồng, còn anh ý thì ngược lại mng ạ. Mỗi lần em hỏi là anh có quen em nghiêm túc không, có cưới không, thì anh chỉ cười lại và đùa là có chứ sao không, nhưng có 1 lần nói chuyện nghiêm túc thì anh bảo là &amp;quot;có thể là anh thà chia tay em còn hơn là phải commit với 1 người suốt cả đời&amp;quot; --&amp;gt; lúc đó là tầm hơn nửa năm trước, em nghe xong em cũng có giận hờn và hỏi tại sao anh lại nói vậy, tại sao anh không muốn cưới em thì luôn nhận lại được câu trả lời là không biết.&lt;/p&gt; &lt;p&gt;Đỉnh điểm là cho tới tuần trước, em nói chuyện nghiêm túc là có khi năm nay phải cưới để năm sau làm hồ sơ đi du học (diện vợ đi học chồng đi cùng, và từ đầu lúc em nói ra ý định 2 đứa cùng đi thì anh hoàn toàn vui vẻ và đồng ý) thì có vẻ lúc này anh đã nhận ra được mức độ nghiêm túc thật sự của em vào mqh này nên lại nói lại câu đó 1 lần nữa: &amp;quot;anh thà chia tay em còn hơn là phải ở với 1 người tới cuối đời&amp;quot;. Anh bảo là 2 đứa mình đều có khuyết điểm, không ai hài lòng hoàn toàn 100% ở ai, từ trước tới giờ anh vẫn thương em rất nhiều nhưng quen nhau 2 năm qua anh không thấy tình thương đó tiến triển thêm được nhiều nên anh vẫn có cảm giác không muốn cưới. &lt;/p&gt; &lt;p&gt;Vậy là em buồn quá, tới giờ em vẫn suy nghĩ có nên chia tay không :( cuộc sống với anh rất vui vẻ và hạnh phúc, tại sao lại tới nước đường này chứ ahuhuuuuu? Mọi người có lời khuyên gì thì cho em xin với, chứ lí trí thì bảo em là không được quen nữa, nhưng cảm xúc thì không cho phép vì em còn thương quá... buông lời nặng nề cũng được, em muốn đau 1 lần rồi thôi...&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Content_Finding7578"&gt; /u/Content_Finding7578 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1um9wkx/lí_trí_bảo_chia_tay_nhưng_em_không_đủ_can_đảm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1um9wkx/lí_trí_bảo_chia_tay_nhưng_em_không_đủ_can_đảm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1um9wkx/lí_trí_bảo_chia_tay_nhưng_em_không_đủ_can_đảm/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-07-03T09:41:42+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1um3b1c</id>
     <title>Một trong các nghề MMO được giới trẻ ưa thích là gì ?</title>
     <updated>2026-07-03T03:36:57+00:00</updated>
@@ -292,6 +279,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1um3b1c/một_trong_các_nghề_mmo_được_giới_trẻ_ưa_thích_là/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-07-03T03:36:57+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1um9wkx</id>
+    <title>Lí trí bảo chia tay nhưng em không đủ can đảm...</title>
+    <updated>2026-07-03T09:41:42+00:00</updated>
+    <author>
+      <name>/u/Content_Finding7578</name>
+      <uri>https://old.reddit.com/user/Content_Finding7578</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em là nữ (F23) quen 1 anh lớn hơn 10 tuổi, đã quen nhau được 2 năm, sống chung với nhau khoảng 1 năm (do mong muốn của cả 2 vì thấy hợp và vui). Em thì từ lúc dọn về ở chung đã xác định là quen nghiêm túc lâu dài, sau này sẽ cưới người này làm chồng, còn anh ý thì ngược lại mng ạ. Mỗi lần em hỏi là anh có quen em nghiêm túc không, có cưới không, thì anh chỉ cười lại và đùa là có chứ sao không, nhưng có 1 lần nói chuyện nghiêm túc thì anh bảo là &amp;quot;có thể là anh thà chia tay em còn hơn là phải commit với 1 người suốt cả đời&amp;quot; --&amp;gt; lúc đó là tầm hơn nửa năm trước, em nghe xong em cũng có giận hờn và hỏi tại sao anh lại nói vậy, tại sao anh không muốn cưới em thì luôn nhận lại được câu trả lời là không biết.&lt;/p&gt; &lt;p&gt;Đỉnh điểm là cho tới tuần trước, em nói chuyện nghiêm túc là có khi năm nay phải cưới để năm sau làm hồ sơ đi du học (diện vợ đi học chồng đi cùng, và từ đầu lúc em nói ra ý định 2 đứa cùng đi thì anh hoàn toàn vui vẻ và đồng ý) thì có vẻ lúc này anh đã nhận ra được mức độ nghiêm túc thật sự của em vào mqh này nên lại nói lại câu đó 1 lần nữa: &amp;quot;anh thà chia tay em còn hơn là phải ở với 1 người tới cuối đời&amp;quot;. Anh bảo là 2 đứa mình đều có khuyết điểm, không ai hài lòng hoàn toàn 100% ở ai, từ trước tới giờ anh vẫn thương em rất nhiều nhưng quen nhau 2 năm qua anh không thấy tình thương đó tiến triển thêm được nhiều nên anh vẫn có cảm giác không muốn cưới. &lt;/p&gt; &lt;p&gt;Vậy là em buồn quá, tới giờ em vẫn suy nghĩ có nên chia tay không :( cuộc sống với anh rất vui vẻ và hạnh phúc, tại sao lại tới nước đường này chứ ahuhuuuuu? Mọi người có lời khuyên gì thì cho em xin với, chứ lí trí thì bảo em là không được quen nữa, nhưng cảm xúc thì không cho phép vì em còn thương quá... buông lời nặng nề cũng được, em muốn đau 1 lần rồi thôi...&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Content_Finding7578"&gt; /u/Content_Finding7578 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1um9wkx/lí_trí_bảo_chia_tay_nhưng_em_không_đủ_can_đảm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1um9wkx/lí_trí_bảo_chia_tay_nhưng_em_không_đủ_can_đảm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1um9wkx/lí_trí_bảo_chia_tay_nhưng_em_không_đủ_can_đảm/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-07-03T09:41:42+00:00</published>
   </entry>
   <entry>
     <id>t3_1umb813</id>
