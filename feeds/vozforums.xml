@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-07-04T21:57:52+00:00</updated>
+  <updated>2026-07-04T23:02:51+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Cộng đồng không chính thức trên Reddit của vOzforums (nay là voz.vn).</subtitle>
-  <entry>
-    <id>t3_1umb4r0</id>
-    <title>Đít đỏ lại bị chặn =))</title>
-    <updated>2026-07-03T10:48:58+00:00</updated>
-    <author>
-      <name>/u/hungvmu</name>
-      <uri>https://old.reddit.com/user/hungvmu</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1umb4r0/đít_đỏ_lại_bị_chặn/"&gt; &lt;img alt="Đít đỏ lại bị chặn =))" src="https://preview.redd.it/2jffs4r2vzah1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=991d1ce3f43aa79dfa32cbca2404c6cd82195e0b" title="Đít đỏ lại bị chặn =))" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;App mobile hình như chưa bị ảnh hưởng, còn dùng trên web (cả mobile và pc) thì đều không truy cập được. Chán chết, giờ phải bật cloudflare để vào reddit :(&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/hungvmu"&gt; /u/hungvmu &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/2jffs4r2vzah1.png"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1umb4r0/đít_đỏ_lại_bị_chặn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1umb4r0/đít_đỏ_lại_bị_chặn/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-07-03T10:48:58+00:00</published>
-  </entry>
   <entry>
     <id>t3_1umz6u9</id>
     <title>Dân quân tại địa phương</title>
@@ -242,19 +229,6 @@
     <published>2026-07-04T06:30:58+00:00</published>
   </entry>
   <entry>
-    <id>t3_1unf105</id>
-    <title>Nên tiến tới ko</title>
-    <updated>2026-07-04T17:35:16+00:00</updated>
-    <author>
-      <name>/u/Think-Violinist-7062</name>
-      <uri>https://old.reddit.com/user/Think-Violinist-7062</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Bữa trước crush cũ 5 năm trước rủ đi cafe với bạn. Em có kêu qua chở thì đi thì qua chở thiệt, trò chuyện cũng thấy hơi có tín hiệu này kia. Lúc về em có rủ đi xem phim mà ẻm ko chịu nói ko thích đi xem fim. Năm sau ẻm về quê làm gv rồi em thì làm IT phải trụ ở sg vì về quê thì ko biết làm gì. Đắn đo để đổi mode quá, đi cùng ngồi cùng có cảm giác lại thấy an toàn gần gủi ấm cúng. 5 5 Trước em tỏ tình mà ẻm ko đồng ý&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Think-Violinist-7062"&gt; /u/Think-Violinist-7062 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1unf105/nên_tiến_tới_ko/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1unf105/nên_tiến_tới_ko/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1unf105/nên_tiến_tới_ko/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-07-04T17:35:16+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1un6k0a</id>
     <title>[Bóng Đá W.C] Mời các bác yêu bóng đá dự đoán 8 cái tên đi tiếp sau vòng 16 đội</title>
     <updated>2026-07-04T11:22:04+00:00</updated>
@@ -268,6 +242,19 @@
     <published>2026-07-04T11:22:04+00:00</published>
   </entry>
   <entry>
+    <id>t3_1unf105</id>
+    <title>Nên tiến tới ko</title>
+    <updated>2026-07-04T17:35:16+00:00</updated>
+    <author>
+      <name>/u/Think-Violinist-7062</name>
+      <uri>https://old.reddit.com/user/Think-Violinist-7062</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Bữa trước crush cũ 5 năm trước rủ đi cafe với bạn. Em có kêu qua chở thì đi thì qua chở thiệt, trò chuyện cũng thấy hơi có tín hiệu này kia. Lúc về em có rủ đi xem phim mà ẻm ko chịu nói ko thích đi xem fim. Năm sau ẻm về quê làm gv rồi em thì làm IT phải trụ ở sg vì về quê thì ko biết làm gì. Đắn đo để đổi mode quá, đi cùng ngồi cùng có cảm giác lại thấy an toàn gần gủi ấm cúng. 5 5 Trước em tỏ tình mà ẻm ko đồng ý&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Think-Violinist-7062"&gt; /u/Think-Violinist-7062 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1unf105/nên_tiến_tới_ko/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1unf105/nên_tiến_tới_ko/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1unf105/nên_tiến_tới_ko/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-07-04T17:35:16+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1un4bt8</id>
     <title>Bạn sẽ làm gì nếu gia đình không thích người yêu của bạn?</title>
     <updated>2026-07-04T09:09:21+00:00</updated>
@@ -279,6 +266,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1un4bt8/bạn_sẽ_làm_gì_nếu_gia_đình_không_thích_người_yêu/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-07-04T09:09:21+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1unll9r</id>
+    <title>Yêu nhau nhưng gia đình ngăn cấm</title>
+    <updated>2026-07-04T22:15:59+00:00</updated>
+    <author>
+      <name>/u/Greedy-Performer7559</name>
+      <uri>https://old.reddit.com/user/Greedy-Performer7559</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình nam 24 tuổi yêu một bạn 98, mọi thứ đều ổn từ học thức đến ngoại hình, nhưng gia đình mình ngăn cấm vì không thích yêu con gái nhiều tuổi hơn.&lt;br /&gt; Buồn quá mọi người ạ !&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Greedy-Performer7559"&gt; /u/Greedy-Performer7559 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1unll9r/yêu_nhau_nhưng_gia_đình_ngăn_cấm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1unll9r/yêu_nhau_nhưng_gia_đình_ngăn_cấm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1unll9r/yêu_nhau_nhưng_gia_đình_ngăn_cấm/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-07-04T22:15:59+00:00</published>
   </entry>
   <entry>
     <id>t3_1un7a9i</id>
