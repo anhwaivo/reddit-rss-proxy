@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-07-04T18:40:49+00:00</updated>
+  <updated>2026-07-04T19:54:18+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Cộng đồng không chính thức trên Reddit của vOzforums (nay là voz.vn).</subtitle>
-  <entry>
-    <id>t3_1un78es</id>
-    <title>Review bài thi chuyên môn Viettel</title>
-    <updated>2026-07-04T11:58:58+00:00</updated>
-    <author>
-      <name>/u/Head_Role_5830</name>
-      <uri>https://old.reddit.com/user/Head_Role_5830</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, em có đang apply bên Viettel mảng backend Node, và đã qua vòng phỏng vấn chuyên môn. Em chuẩn bị có bài test iq + dev. Mọi người cho em review về bài thi này được không ạ :&lt;br /&gt; - Nội dung thi của bài thi chuyên môn cũng như độ khó&lt;br /&gt; - Nội dung sẽ về ngôn ngữ cụ thể như Java hay tùy vào ngôn ngữ mình apply ạ ? (tại em thấy bên Viettel tuyển Java khá nhiều)&lt;/p&gt; &lt;p&gt;Em cảm ơn mọi người ạ. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Head_Role_5830"&gt; /u/Head_Role_5830 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1un78es/review_bài_thi_chuyên_môn_viettel/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1un78es/review_bài_thi_chuyên_môn_viettel/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1un78es/review_bài_thi_chuyên_môn_viettel/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-07-04T11:58:58+00:00</published>
-  </entry>
   <entry>
     <id>t3_1umb4r0</id>
     <title>Đít đỏ lại bị chặn =))</title>
@@ -86,19 +73,6 @@
     <published>2026-07-04T14:53:44+00:00</published>
   </entry>
   <entry>
-    <id>t3_1unb6v8</id>
-    <title>Sub có ai theo dõi phê phim ko, hình như họ bỏ hẳn mục phê phim new, mấy tháng rồi ko làm 😢.</title>
-    <updated>2026-07-04T14:58:38+00:00</updated>
-    <author>
-      <name>/u/Federal_Algae2268</name>
-      <uri>https://old.reddit.com/user/Federal_Algae2268</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1unb6v8/sub_có_ai_theo_dõi_phê_phim_ko_hình_như_họ_bỏ_hẳn/"&gt; &lt;img alt="Sub có ai theo dõi phê phim ko, hình như họ bỏ hẳn mục phê phim new, mấy tháng rồi ko làm 😢." src="https://preview.redd.it/t8b6zgt298bh1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=54317b51216841e672b8a7a721ecbb60e8e2261d" title="Sub có ai theo dõi phê phim ko, hình như họ bỏ hẳn mục phê phim new, mấy tháng rồi ko làm 😢." /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Federal_Algae2268"&gt; /u/Federal_Algae2268 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/t8b6zgt298bh1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1unb6v8/sub_có_ai_theo_dõi_phê_phim_ko_hình_như_họ_bỏ_hẳn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1unb6v8/sub_có_ai_theo_dõi_phê_phim_ko_hình_như_họ_bỏ_hẳn/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-07-04T14:58:38+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1un6mq6</id>
     <title>XIN Ý KIẾN CÁC CAO NHÂN</title>
     <updated>2026-07-04T11:26:16+00:00</updated>
@@ -123,19 +97,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1un7m4z/review_bài_test_chuyên_môn_viettel/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-07-04T12:17:32+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1unds7l</id>
-    <title>Muốn kiếm tiền</title>
-    <updated>2026-07-04T16:45:11+00:00</updated>
-    <author>
-      <name>/u/NULL-n-void_0</name>
-      <uri>https://old.reddit.com/user/NULL-n-void_0</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em hiện đang là học sinh cuối cấp, ngoài việc học ra thì em muốn kiếm một chút tiền để sài, hiện thì em có những kỹ năng sau:&lt;/p&gt; &lt;p&gt;- Biết dùng Git cơ bản (Github với Codeberg là nguyên cái kho lưu trữ file+ dữ liệu của e)&lt;/p&gt; &lt;p&gt;- Biết chạy docker (em ghét spotify quá nên chạy docker để host :]] trước em đi chơi xa thì em chỉ cần truy cập vô địa chỉ IP nhà em rồi nghe nhạc thôi, con laptop em chạy 24/7)&lt;/p&gt; &lt;p&gt;- Biết 1 số framework cho web&lt;/p&gt; &lt;p&gt;- DSA ổn (Em cũng khá hứng thú với Competitive Programming)&lt;/p&gt; &lt;p&gt;- có chút project nhảm (Máy tính lấy cảm hứng từ jupyter notebook CLI =C#, Pomodoro TUI = python)&lt;/p&gt; &lt;p&gt;- Nển tảng Toán cấp 3 ok &lt;/p&gt; &lt;p&gt;- Biết query sql cơ bản&lt;/p&gt; &lt;p&gt;- Biết Tiếng Anh &lt;/p&gt; &lt;p&gt;- Kỹ thuật prompt bth, biết dùng AI mà em toàn dùng để hỏi/đáp&lt;/p&gt; &lt;p&gt;- tự học được&lt;/p&gt; &lt;p&gt;Trước em có làm VFX lẫn dev cho mấy cái game xàm xàm trên roblox, cũng được mớ tiền mà giờ em bỏ rồi vì nhiều lý do.&lt;/p&gt; &lt;p&gt;Em xin phép hỏi là em có thể làm ở vị trí nào để kiếm chút tiền ạ.&lt;/p&gt; &lt;p&gt;Tuy em rành về IT nhưng em cũng đang có chút suy nghĩ sang kỹ thuật (Tự động hóa hoặc cơ điện tử vì người nhà em ai ai cũng dân kỹ thuật). Nhưng em lo là em sợ không tìm được tài liệu quan trọng vì trước giờ em muốn tìm mấy cái methods thì e quen với doc rồi.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/NULL-n-void_0"&gt; /u/NULL-n-void_0 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1unds7l/muốn_kiếm_tiền/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1unds7l/muốn_kiếm_tiền/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1unds7l/muốn_kiếm_tiền/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-07-04T16:45:11+00:00</published>
   </entry>
   <entry>
     <id>t3_1un3ixw</id>
@@ -177,30 +138,30 @@
     <published>2026-07-03T23:30:40+00:00</published>
   </entry>
   <entry>
-    <id>t3_1unglna</id>
-    <title>Khó ngủ</title>
-    <updated>2026-07-04T18:39:09+00:00</updated>
+    <id>t3_1unb6v8</id>
+    <title>Sub có ai theo dõi phê phim ko, hình như họ bỏ hẳn mục phê phim new, mấy tháng rồi ko làm 😢.</title>
+    <updated>2026-07-04T14:58:38+00:00</updated>
+    <author>
+      <name>/u/Federal_Algae2268</name>
+      <uri>https://old.reddit.com/user/Federal_Algae2268</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1unb6v8/sub_có_ai_theo_dõi_phê_phim_ko_hình_như_họ_bỏ_hẳn/"&gt; &lt;img alt="Sub có ai theo dõi phê phim ko, hình như họ bỏ hẳn mục phê phim new, mấy tháng rồi ko làm 😢." src="https://preview.redd.it/t8b6zgt298bh1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=54317b51216841e672b8a7a721ecbb60e8e2261d" title="Sub có ai theo dõi phê phim ko, hình như họ bỏ hẳn mục phê phim new, mấy tháng rồi ko làm 😢." /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Federal_Algae2268"&gt; /u/Federal_Algae2268 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/t8b6zgt298bh1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1unb6v8/sub_có_ai_theo_dõi_phê_phim_ko_hình_như_họ_bỏ_hẳn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1unb6v8/sub_có_ai_theo_dõi_phê_phim_ko_hình_như_họ_bỏ_hẳn/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-07-04T14:58:38+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1ungs0t</id>
+    <title>Gia sư toán cấp 2</title>
+    <updated>2026-07-04T18:46:34+00:00</updated>
     <author>
       <name>/u/EstablishmentLow7890</name>
       <uri>https://old.reddit.com/user/EstablishmentLow7890</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Khó ngủ nhỉ, ai trò chuyện gì khôm nè&lt;/p&gt; &lt;p&gt;22F ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/EstablishmentLow7890"&gt; /u/EstablishmentLow7890 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1unglna/khó_ngủ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1unglna/khó_ngủ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1unglna/khó_ngủ/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi các bác&lt;/p&gt; &lt;p&gt;Em nay cũng ra trường rồi nhưng mà em thích công việc đi dạy gia sư thêm, kèm cặp các em rồi trò chuyện tiếp động lực các em yêu môn toán hơn. &lt;/p&gt; &lt;p&gt;Nếu bác nào muốn cho con học gia sư onl hoặc ở khu vực trung tâm HN thì ib em nhé ạ&lt;/p&gt; &lt;p&gt;Em dạy giá mềm ạ, chủ yếu dạy từ mất gốc lên 8 điểm và cho các bé nắm được bản chất bài học ạ. &lt;/p&gt; &lt;p&gt;Em là nữ ạ&lt;/p&gt; &lt;p&gt;Cảm ơn các bác đã ghé bài em ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/EstablishmentLow7890"&gt; /u/EstablishmentLow7890 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ungs0t/gia_sư_toán_cấp_2/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1ungs0t/gia_sư_toán_cấp_2/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1ungs0t/gia_sư_toán_cấp_2/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-07-04T18:39:09+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1un87xc</id>
-    <title>Chi phí dọn ra ở riêng</title>
-    <updated>2026-07-04T12:47:12+00:00</updated>
-    <author>
-      <name>/u/Hot_Schedule_146</name>
-      <uri>https://old.reddit.com/user/Hot_Schedule_146</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em chào anh chị trên reddit.&lt;/p&gt; &lt;p&gt;Em còn khoảng 1 năm nữa là ra trường, cũng định là ra ở trọ cho dù nhà ở hn cùng bố mẹ. Chi phí dự trù ra ở riêng nên vào khoảng bao nhiêu cho thoải mái nếu sống ở nội thành Hà Nội ạ? Và có cần lưu ý gì về chi tiêu không ạ? Em cảm ơn anh chị!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Hot_Schedule_146"&gt; /u/Hot_Schedule_146 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1un87xc/chi_phí_dọn_ra_ở_riêng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1un87xc/chi_phí_dọn_ra_ở_riêng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1un87xc/chi_phí_dọn_ra_ở_riêng/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-07-04T12:47:12+00:00</published>
+    <published>2026-07-04T18:46:34+00:00</published>
   </entry>
   <entry>
     <id>t3_1un0rqt</id>
@@ -216,6 +177,19 @@
     <published>2026-07-04T05:40:55+00:00</published>
   </entry>
   <entry>
+    <id>t3_1unds7l</id>
+    <title>Muốn kiếm tiền</title>
+    <updated>2026-07-04T16:45:11+00:00</updated>
+    <author>
+      <name>/u/NULL-n-void_0</name>
+      <uri>https://old.reddit.com/user/NULL-n-void_0</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em hiện đang là học sinh cuối cấp, ngoài việc học ra thì em muốn kiếm một chút tiền để sài, hiện thì em có những kỹ năng sau:&lt;/p&gt; &lt;p&gt;- Biết dùng Git cơ bản (Github với Codeberg là nguyên cái kho lưu trữ file+ dữ liệu của e)&lt;/p&gt; &lt;p&gt;- Biết chạy docker (em ghét spotify quá nên chạy docker để host :]] trước em đi chơi xa thì em chỉ cần truy cập vô địa chỉ IP nhà em rồi nghe nhạc thôi, con laptop em chạy 24/7)&lt;/p&gt; &lt;p&gt;- Biết 1 số framework cho web&lt;/p&gt; &lt;p&gt;- DSA ổn (Em cũng khá hứng thú với Competitive Programming)&lt;/p&gt; &lt;p&gt;- có chút project nhảm (Máy tính lấy cảm hứng từ jupyter notebook CLI =C#, Pomodoro TUI = python)&lt;/p&gt; &lt;p&gt;- Nển tảng Toán cấp 3 ok &lt;/p&gt; &lt;p&gt;- Biết query sql cơ bản&lt;/p&gt; &lt;p&gt;- Biết Tiếng Anh &lt;/p&gt; &lt;p&gt;- Kỹ thuật prompt bth, biết dùng AI mà em toàn dùng để hỏi/đáp&lt;/p&gt; &lt;p&gt;- tự học được&lt;/p&gt; &lt;p&gt;Trước em có làm VFX lẫn dev cho mấy cái game xàm xàm trên roblox, cũng được mớ tiền mà giờ em bỏ rồi vì nhiều lý do.&lt;/p&gt; &lt;p&gt;Em xin phép hỏi là em có thể làm ở vị trí nào để kiếm chút tiền ạ.&lt;/p&gt; &lt;p&gt;Tuy em rành về IT nhưng em cũng đang có chút suy nghĩ sang kỹ thuật (Tự động hóa hoặc cơ điện tử vì người nhà em ai ai cũng dân kỹ thuật). Nhưng em lo là em sợ không tìm được tài liệu quan trọng vì trước giờ em muốn tìm mấy cái methods thì e quen với doc rồi.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/NULL-n-void_0"&gt; /u/NULL-n-void_0 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1unds7l/muốn_kiếm_tiền/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1unds7l/muốn_kiếm_tiền/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1unds7l/muốn_kiếm_tiền/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-07-04T16:45:11+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1un3z1d</id>
     <title>Câu chuyện đi học cao học hiện nay</title>
     <updated>2026-07-04T08:47:22+00:00</updated>
@@ -229,17 +203,17 @@
     <published>2026-07-04T08:47:22+00:00</published>
   </entry>
   <entry>
-    <id>t3_1unf105</id>
-    <title>Nên tiến tới ko</title>
-    <updated>2026-07-04T17:35:16+00:00</updated>
+    <id>t3_1un87xc</id>
+    <title>Chi phí dọn ra ở riêng</title>
+    <updated>2026-07-04T12:47:12+00:00</updated>
     <author>
-      <name>/u/Think-Violinist-7062</name>
-      <uri>https://old.reddit.com/user/Think-Violinist-7062</uri>
+      <name>/u/Hot_Schedule_146</name>
+      <uri>https://old.reddit.com/user/Hot_Schedule_146</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Bữa trước crush cũ 5 năm trước rủ đi cafe với bạn. Em có kêu qua chở thì đi thì qua chở thiệt, trò chuyện cũng thấy hơi có tín hiệu này kia. Lúc về em có rủ đi xem phim mà ẻm ko chịu nói ko thích đi xem fim. Năm sau ẻm về quê làm gv rồi em thì làm IT phải trụ ở sg vì về quê thì ko biết làm gì. Đắn đo để đổi mode quá, đi cùng ngồi cùng có cảm giác lại thấy an toàn gần gủi ấm cúng. 5 5 Trước em tỏ tình mà ẻm ko đồng ý&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Think-Violinist-7062"&gt; /u/Think-Violinist-7062 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1unf105/nên_tiến_tới_ko/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1unf105/nên_tiến_tới_ko/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1unf105/nên_tiến_tới_ko/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em chào anh chị trên reddit.&lt;/p&gt; &lt;p&gt;Em còn khoảng 1 năm nữa là ra trường, cũng định là ra ở trọ cho dù nhà ở hn cùng bố mẹ. Chi phí dự trù ra ở riêng nên vào khoảng bao nhiêu cho thoải mái nếu sống ở nội thành Hà Nội ạ? Và có cần lưu ý gì về chi tiêu không ạ? Em cảm ơn anh chị!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Hot_Schedule_146"&gt; /u/Hot_Schedule_146 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1un87xc/chi_phí_dọn_ra_ở_riêng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1un87xc/chi_phí_dọn_ra_ở_riêng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1un87xc/chi_phí_dọn_ra_ở_riêng/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-07-04T17:35:16+00:00</published>
+    <published>2026-07-04T12:47:12+00:00</published>
   </entry>
   <entry>
     <id>t3_1umz0b9</id>
@@ -266,6 +240,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1un1nv6/30_tuổi_nhưng_tâm_trí_vẫn_như_nhóc_20/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-07-04T06:30:58+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1unf105</id>
+    <title>Nên tiến tới ko</title>
+    <updated>2026-07-04T17:35:16+00:00</updated>
+    <author>
+      <name>/u/Think-Violinist-7062</name>
+      <uri>https://old.reddit.com/user/Think-Violinist-7062</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Bữa trước crush cũ 5 năm trước rủ đi cafe với bạn. Em có kêu qua chở thì đi thì qua chở thiệt, trò chuyện cũng thấy hơi có tín hiệu này kia. Lúc về em có rủ đi xem phim mà ẻm ko chịu nói ko thích đi xem fim. Năm sau ẻm về quê làm gv rồi em thì làm IT phải trụ ở sg vì về quê thì ko biết làm gì. Đắn đo để đổi mode quá, đi cùng ngồi cùng có cảm giác lại thấy an toàn gần gủi ấm cúng. 5 5 Trước em tỏ tình mà ẻm ko đồng ý&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Think-Violinist-7062"&gt; /u/Think-Violinist-7062 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1unf105/nên_tiến_tới_ko/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1unf105/nên_tiến_tới_ko/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1unf105/nên_tiến_tới_ko/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-07-04T17:35:16+00:00</published>
   </entry>
   <entry>
     <id>t3_1un6k0a</id>
@@ -318,6 +305,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1un44sy/mọi_người_nghĩ_sao_về_việc_tự_làm_ứng_dụng_game/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-07-04T08:57:28+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1unglna</id>
+    <title>Khó ngủ</title>
+    <updated>2026-07-04T18:39:09+00:00</updated>
+    <author>
+      <name>/u/EstablishmentLow7890</name>
+      <uri>https://old.reddit.com/user/EstablishmentLow7890</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Khó ngủ nhỉ, ai trò chuyện gì khôm nè&lt;/p&gt; &lt;p&gt;22F ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/EstablishmentLow7890"&gt; /u/EstablishmentLow7890 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1unglna/khó_ngủ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1unglna/khó_ngủ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1unglna/khó_ngủ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-07-04T18:39:09+00:00</published>
   </entry>
   <entry>
     <id>t3_1u6cf54</id>
