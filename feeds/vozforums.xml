@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-07-04T23:02:51+00:00</updated>
+  <updated>2026-07-05T00:12:25+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Cộng đồng không chính thức trên Reddit của vOzforums (nay là voz.vn).</subtitle>
-  <entry>
-    <id>t3_1umz6u9</id>
-    <title>Dân quân tại địa phương</title>
-    <updated>2026-07-04T04:15:55+00:00</updated>
-    <author>
-      <name>/u/Aggressive-Carob-667</name>
-      <uri>https://old.reddit.com/user/Aggressive-Carob-667</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1umz6u9/dân_quân_tại_địa_phương/"&gt; &lt;img alt="Dân quân tại địa phương" src="https://preview.redd.it/42s4ksle25bh1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=dad20313e23a4e080349ecf9b0e03670d760ebd1" title="Dân quân tại địa phương" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào các bác, em có tìm hiểu giấy này chỉ là thông báo không phải lệnh, vậy là em k cần lên phường Bổ sung hồ sơ phải k ạ. Em được giao giấy này tận nhà và có ký form “xác nhận nhận giấy thông báo” thôi. Thế này vẫn ksao phải k nhỉ các bác.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Aggressive-Carob-667"&gt; /u/Aggressive-Carob-667 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/42s4ksle25bh1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1umz6u9/dân_quân_tại_địa_phương/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1umz6u9/dân_quân_tại_địa_phương/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-07-04T04:15:55+00:00</published>
-  </entry>
   <entry>
     <id>t3_1umb813</id>
     <title>Câu chuyện về công an nằm vùng điên rồ nhất mn từng nghe?</title>
@@ -86,19 +73,6 @@
     <published>2026-07-04T12:17:32+00:00</published>
   </entry>
   <entry>
-    <id>t3_1un3ixw</id>
-    <title>Hình như reddit bị chặn rồi</title>
-    <updated>2026-07-04T08:19:52+00:00</updated>
-    <author>
-      <name>/u/kitchcu</name>
-      <uri>https://old.reddit.com/user/kitchcu</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Sáng giờ vô không được phải dùng vpn mới vô được á&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/kitchcu"&gt; /u/kitchcu &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1un3ixw/hình_như_reddit_bị_chặn_rồi/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1un3ixw/hình_như_reddit_bị_chặn_rồi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1un3ixw/hình_như_reddit_bị_chặn_rồi/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-07-04T08:19:52+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1un9b6j</id>
     <title>Xây nhà thế nào cho tiết kiệm và hợp lí</title>
     <updated>2026-07-04T13:37:46+00:00</updated>
@@ -125,6 +99,19 @@
     <published>2026-07-03T23:30:40+00:00</published>
   </entry>
   <entry>
+    <id>t3_1un3ixw</id>
+    <title>Hình như reddit bị chặn rồi</title>
+    <updated>2026-07-04T08:19:52+00:00</updated>
+    <author>
+      <name>/u/kitchcu</name>
+      <uri>https://old.reddit.com/user/kitchcu</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Sáng giờ vô không được phải dùng vpn mới vô được á&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/kitchcu"&gt; /u/kitchcu &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1un3ixw/hình_như_reddit_bị_chặn_rồi/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1un3ixw/hình_như_reddit_bị_chặn_rồi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1un3ixw/hình_như_reddit_bị_chặn_rồi/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-07-04T08:19:52+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1ungs0t</id>
     <title>Gia sư toán cấp 2</title>
     <updated>2026-07-04T18:46:34+00:00</updated>
@@ -138,6 +125,19 @@
     <published>2026-07-04T18:46:34+00:00</published>
   </entry>
   <entry>
+    <id>t3_1unhzev</id>
+    <title>Tôi đã nói chuyện với người yêu cũ khi đang “cãi nhau” với người yêu</title>
+    <updated>2026-07-04T19:36:40+00:00</updated>
+    <author>
+      <name>/u/FlyLeather1648</name>
+      <uri>https://old.reddit.com/user/FlyLeather1648</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tôi gọi người yêu cũ đi nói chuyện “cãi nhau” với người yêu.&lt;/p&gt; &lt;p&gt;Context: Bọn tôi đã yêu nhau 2 năm và có mối quan hệ cực kỳ tốt đẹp. Anh ấy là một người tình, người bạn tuyệt vời. Gia đình bạn bè 2 bên đều yêu quý, nghề nghiệp match nhau, sex cũng rất tuyệt. &lt;/p&gt; &lt;p&gt;Cho đến tháng này: Hiện anh ấy đang có dự án phải đi công tác tỉnh, 2 3 tuần mới về một lần được. Một hôm bạn đại học (không thân thiết) vào chơi, anh rủ bạn đi uống bia và đi hát karaoke, nhưng theo lời anh kể thì sau đó bạn anh đã gọi vịn vào. Anh thừa nhận do rất nhiều yếu tố: say và sĩ diện với bạn bè nên đã không từ chối hay dứt khoát bước ra khỏi đó. Anh cam đoan không động chạm ôm gì mấy người đó, theo như toàn bộ lịch sử về con người và hành động của anh, tôi tin anh tử tế. Vấn đề là anh đã giấu tôi và sáng hôm sau nói rằng lúc đó anh đi ngủ rồi. Tuy nhiên tôi đang cầm máy tính của anh nên tôi đọc được tin nhắn, và anh đã khai ra toàn bộ (bao gồm cả những lời kể ở trên). Tôi nổi điên, không nói chuyện với anh ta hai ngày và xả cơn tức với một người bạn chung của cả hai, và nhờ người bạn này chuyển lời toàn bộ. Tôi bốc mày và chửi anh ấy 45 phút liền, nói rằng không ngờ anh ta là người như thế và đủ thứ khác, anh ấy xin lỗi liên tục, không bao biện và thậm chí phóng về (mất 3 tiếng rưỡi từ chỗ anh ấy) ngay trong đêm để gặp tôi. Bọn tôi đã nói hết toàn bộ mọi thứ cần nói, xem xét về mặt lý trí tôi thấy đây chỉ là không nghĩ rằng một lời nói dối để cho tôi bớt lo lắng có thể gây ra hậu quả nghiêm trọng như vậy, chứ không phải một kẻ cố tình nói dối có hệ thống. Và xem xét đến toàn bộ context từ đầu bài, và là lần đầu nói dối, anh đã đề ra giải pháp cho vấn đề, và tôi quyết định tha thứ. &lt;/p&gt; &lt;p&gt;Những ngày sau đó thi thoảng tôi nghĩ lại và sẽ khóc vì thấy buồn. Nhưng anh luôn kiên nhẫn lắng nghe. Rồi một tối gần đây tôi dùng máy anh tra google thì phát hiện có lịch sử “tinder”. Tôi mò vào activity thì thấy đăng nhập nhiều lần từ tháng 3 tới giờ, nên tôi như phát điên và gọi anh 40 cuộc từ 10h đêm tới 2h sáng. Hôm đó anh đã bảo tôi anh ít ngủ hơn bình thường nên sẽ ngủ một chút, khoảng 11h đêm sẽ dậy nhưng hôm đó lại tắt máy ngủ quên mất. Bình thường tôi sẽ chỉ chúc anh ngủ ngon và tự đi ngủ sau đấy, nhưng với những gì tôi tìm thấy trên máy làm tôi như phát điên, bị đâm dao sau chuyện nói dối kia. Tôi nhắn tin cho chị bạn thân của anh, và chị ấy chỉ bảo tôi phải suy nghĩ thật kỹ. Và rồi tôi cũng phải chúc chị ấy ngủ ngon. Tôi nhắn một người yêu cũ sau 3 năm no contact, hẹn đi nói chuyện, và anh ấy đồng ý. Bọn tôi đã có một mối quan hệ cực intense và ngắn ngủi, nhưng đó là liều dopamine cực mạnh cho trạng thái sắp sụp đổ của tôi. Ngay từ lúc quyết định đi tôi đã nghĩ sẽ phải nói với người yêu, bởi tôi là người không thể nói dối được chuyện gì không thì tôi cảm thấy cực bứt rứt. Thật sự là bọn tôi chỉ ngồi nói chuyện, nhiều chủ đề linh tinh đến sáng, tôi về nhà và kể cho người yêu nghe, và còn gửi ảnh bọn tôi thật sự chỉ ngồi quán bia cỏ vỉa hè. &lt;/p&gt; &lt;p&gt;Lúc đó tôi đã nghĩ quá đơn giản: tôi nghĩ mọi người ai cũng có thể làm bạn với nhau, người yêu tôi có thể làm bạn với người yêu cũ tôi, hoà bình thế giới là có thật. Nhưng sau khi người yêu tôi nói về cảm xúc của mình và như vậy là ranh giới của anh ấy, tôi càng nghĩ càng thấy đúng là mọi việc không đơn giản như vậy, như vậy là ích kỷ. Ngay hôm sau tôi vũng nhắn với bạn người cũ về việc mình không nên gặp nhau nữa để tôn trọng mối quan hệ hiện tại, chúc anh công việc và cuộc sống đều phất, anh bạn cũng ok anh hiểu mà và nói rất thoải mái về việc đó. &lt;/p&gt; &lt;p&gt;Sáng hôm sau thì câu chuyện mới sáng tỏ, anh làm cùng công ty trong suốt từ đầu dự án vẫn dùng tinder trên máy tính chung, đăng nhập bằng nick của người yêu tôi và chỉ xoá lịch sử web đi thôi.&lt;/p&gt; &lt;p&gt;Tôi đang cảm thấy rất tệ. Đó là một hành động ích kỷ. Anh có một vấn đề: nói dối vô hại (white lies) trong công việc lại có thể dẫn đến hậu quả lớn. Còn tôi mắc chứng overthinking và phải tìm đến sự trấn an cảm xúc bên ngoài: bạn bè, giờ là bạn người yêu cũ. Dùng Gemini để nói chuyện trong lúc hoảng loạn như vậy còn tệ hơn vì nó vẽ ra những viễn cảnh không tưởng, và làm tôi bị nghiện việc “phải có câu trả lời ngay”. Sau khi nói chuyện tất nhiên anh ấy giận và tổn thương, tôi cũng nhận ra lỗi của mình và xin lỗi anh vô điều kiẹn, nhưng khi nói thẳng thắn những gì bọn tôi đã nghĩ trong những giây phút đó, bọn tôi yêu nhau rất nhiều và không muốn buông tay nhau.&lt;/p&gt; &lt;p&gt;Cách giải quyết: bọn tôi sẽ ngồi lập list “relationship boundaries”, công khai toàn bộ các chi tiết như tin nhắn cần thiết để làm nhau thấy yên tâm. Chỉ là tôi cảm thấy tệ với anh ấy lắm. Bình thường mỗi khi cãi nhau tôi luôn cố gắng để ý lời lẽ và cảm xúc của mình để không làm nhau tổn thương, luôn tôn trọng các ranh giới của nhau. Nhưng từ sau vụ kia tôi bị cực khó kiểm soát overthinking và cảm xúc, lời nói của mình hơn rất nhiều. Tôi muốn chia sẻ câu chuyện và các cách để bù đắp cho anh cũng như làm mối quan hệ trở nên mạnh mẽ, khăng khít hơn trong tương lai.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/FlyLeather1648"&gt; /u/FlyLeather1648 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1unhzev/tôi_đã_nói_chuyện_với_người_yêu_cũ_khi_đang_cãi/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1unhzev/tôi_đã_nói_chuyện_với_người_yêu_cũ_khi_đang_cãi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1unhzev/tôi_đã_nói_chuyện_với_người_yêu_cũ_khi_đang_cãi/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-07-04T19:36:40+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1un0rqt</id>
     <title>Anh yêu em vì lí do gì ?</title>
     <updated>2026-07-04T05:40:55+00:00</updated>
@@ -149,19 +149,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1un0rqt/anh_yêu_em_vì_lí_do_gì/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-07-04T05:40:55+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1unds7l</id>
-    <title>Muốn kiếm tiền</title>
-    <updated>2026-07-04T16:45:11+00:00</updated>
-    <author>
-      <name>/u/NULL-n-void_0</name>
-      <uri>https://old.reddit.com/user/NULL-n-void_0</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em hiện đang là học sinh cuối cấp, ngoài việc học ra thì em muốn kiếm một chút tiền để sài, hiện thì em có những kỹ năng sau:&lt;/p&gt; &lt;p&gt;- Biết dùng Git cơ bản (Github với Codeberg là nguyên cái kho lưu trữ file+ dữ liệu của e)&lt;/p&gt; &lt;p&gt;- Biết chạy docker (em ghét spotify quá nên chạy docker để host :]] trước em đi chơi xa thì em chỉ cần truy cập vô địa chỉ IP nhà em rồi nghe nhạc thôi, con laptop em chạy 24/7)&lt;/p&gt; &lt;p&gt;- Biết 1 số framework cho web&lt;/p&gt; &lt;p&gt;- DSA ổn (Em cũng khá hứng thú với Competitive Programming)&lt;/p&gt; &lt;p&gt;- có chút project nhảm (Máy tính lấy cảm hứng từ jupyter notebook CLI =C#, Pomodoro TUI = python)&lt;/p&gt; &lt;p&gt;- Nển tảng Toán cấp 3 ok &lt;/p&gt; &lt;p&gt;- Biết query sql cơ bản&lt;/p&gt; &lt;p&gt;- Biết Tiếng Anh &lt;/p&gt; &lt;p&gt;- Kỹ thuật prompt bth, biết dùng AI mà em toàn dùng để hỏi/đáp&lt;/p&gt; &lt;p&gt;- tự học được&lt;/p&gt; &lt;p&gt;Trước em có làm VFX lẫn dev cho mấy cái game xàm xàm trên roblox, cũng được mớ tiền mà giờ em bỏ rồi vì nhiều lý do.&lt;/p&gt; &lt;p&gt;Em xin phép hỏi là em có thể làm ở vị trí nào để kiếm chút tiền ạ.&lt;/p&gt; &lt;p&gt;Tuy em rành về IT nhưng em cũng đang có chút suy nghĩ sang kỹ thuật (Tự động hóa hoặc cơ điện tử vì người nhà em ai ai cũng dân kỹ thuật). Nhưng em lo là em sợ không tìm được tài liệu quan trọng vì trước giờ em muốn tìm mấy cái methods thì e quen với doc rồi.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/NULL-n-void_0"&gt; /u/NULL-n-void_0 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1unds7l/muốn_kiếm_tiền/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1unds7l/muốn_kiếm_tiền/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1unds7l/muốn_kiếm_tiền/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-07-04T16:45:11+00:00</published>
   </entry>
   <entry>
     <id>t3_1unb6v8</id>
@@ -190,6 +177,19 @@
     <published>2026-07-04T08:47:22+00:00</published>
   </entry>
   <entry>
+    <id>t3_1umz0b9</id>
+    <title>Chuyện trò linh tinh nè</title>
+    <updated>2026-07-04T04:06:27+00:00</updated>
+    <author>
+      <name>/u/Delicious_Society735</name>
+      <uri>https://old.reddit.com/user/Delicious_Society735</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Ở đây có các bác 25t đến 35t ko :)) độc thân hoặc đã lập gđ vào nhóm chat em nói chuyện nè &lt;/p&gt; &lt;p&gt;Xôm lắm&lt;/p&gt; &lt;p&gt;Nhóm nhiều nữ và nhiều bạn ở nước ngoài &lt;/p&gt; &lt;p&gt;Vào share ảnh đồ ăn, pet, cuộc sống mỗi ngày nè&lt;/p&gt; &lt;p&gt;Vào tìm người yêu hẹn hò cũng ok luôn&lt;/p&gt; &lt;p&gt;Cmt e thêm vào nhé &lt;/p&gt; &lt;p&gt;Nhóm chat em ở trên reddit này luôn. &lt;/p&gt; &lt;p&gt;Hóng thành viên mới &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Delicious_Society735"&gt; /u/Delicious_Society735 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1umz0b9/chuyện_trò_linh_tinh_nè/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1umz0b9/chuyện_trò_linh_tinh_nè/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1umz0b9/chuyện_trò_linh_tinh_nè/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-07-04T04:06:27+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1un87xc</id>
     <title>Chi phí dọn ra ở riêng</title>
     <updated>2026-07-04T12:47:12+00:00</updated>
@@ -203,17 +203,17 @@
     <published>2026-07-04T12:47:12+00:00</published>
   </entry>
   <entry>
-    <id>t3_1umz0b9</id>
-    <title>Chuyện trò linh tinh nè</title>
-    <updated>2026-07-04T04:06:27+00:00</updated>
+    <id>t3_1unds7l</id>
+    <title>Muốn kiếm tiền</title>
+    <updated>2026-07-04T16:45:11+00:00</updated>
     <author>
-      <name>/u/Delicious_Society735</name>
-      <uri>https://old.reddit.com/user/Delicious_Society735</uri>
+      <name>/u/NULL-n-void_0</name>
+      <uri>https://old.reddit.com/user/NULL-n-void_0</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Ở đây có các bác 25t đến 35t ko :)) độc thân hoặc đã lập gđ vào nhóm chat em nói chuyện nè &lt;/p&gt; &lt;p&gt;Xôm lắm&lt;/p&gt; &lt;p&gt;Nhóm nhiều nữ và nhiều bạn ở nước ngoài &lt;/p&gt; &lt;p&gt;Vào share ảnh đồ ăn, pet, cuộc sống mỗi ngày nè&lt;/p&gt; &lt;p&gt;Vào tìm người yêu hẹn hò cũng ok luôn&lt;/p&gt; &lt;p&gt;Cmt e thêm vào nhé &lt;/p&gt; &lt;p&gt;Nhóm chat em ở trên reddit này luôn. &lt;/p&gt; &lt;p&gt;Hóng thành viên mới &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Delicious_Society735"&gt; /u/Delicious_Society735 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1umz0b9/chuyện_trò_linh_tinh_nè/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1umz0b9/chuyện_trò_linh_tinh_nè/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1umz0b9/chuyện_trò_linh_tinh_nè/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em hiện đang là học sinh cuối cấp, ngoài việc học ra thì em muốn kiếm một chút tiền để sài, hiện thì em có những kỹ năng sau:&lt;/p&gt; &lt;p&gt;- Biết dùng Git cơ bản (Github với Codeberg là nguyên cái kho lưu trữ file+ dữ liệu của e)&lt;/p&gt; &lt;p&gt;- Biết chạy docker (em ghét spotify quá nên chạy docker để host :]] trước em đi chơi xa thì em chỉ cần truy cập vô địa chỉ IP nhà em rồi nghe nhạc thôi, con laptop em chạy 24/7)&lt;/p&gt; &lt;p&gt;- Biết 1 số framework cho web&lt;/p&gt; &lt;p&gt;- DSA ổn (Em cũng khá hứng thú với Competitive Programming)&lt;/p&gt; &lt;p&gt;- có chút project nhảm (Máy tính lấy cảm hứng từ jupyter notebook CLI =C#, Pomodoro TUI = python)&lt;/p&gt; &lt;p&gt;- Nển tảng Toán cấp 3 ok &lt;/p&gt; &lt;p&gt;- Biết query sql cơ bản&lt;/p&gt; &lt;p&gt;- Biết Tiếng Anh &lt;/p&gt; &lt;p&gt;- Kỹ thuật prompt bth, biết dùng AI mà em toàn dùng để hỏi/đáp&lt;/p&gt; &lt;p&gt;- tự học được&lt;/p&gt; &lt;p&gt;Trước em có làm VFX lẫn dev cho mấy cái game xàm xàm trên roblox, cũng được mớ tiền mà giờ em bỏ rồi vì nhiều lý do.&lt;/p&gt; &lt;p&gt;Em xin phép hỏi là em có thể làm ở vị trí nào để kiếm chút tiền ạ.&lt;/p&gt; &lt;p&gt;Tuy em rành về IT nhưng em cũng đang có chút suy nghĩ sang kỹ thuật (Tự động hóa hoặc cơ điện tử vì người nhà em ai ai cũng dân kỹ thuật). Nhưng em lo là em sợ không tìm được tài liệu quan trọng vì trước giờ em muốn tìm mấy cái methods thì e quen với doc rồi.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/NULL-n-void_0"&gt; /u/NULL-n-void_0 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1unds7l/muốn_kiếm_tiền/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1unds7l/muốn_kiếm_tiền/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1unds7l/muốn_kiếm_tiền/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-07-04T04:06:27+00:00</published>
+    <published>2026-07-04T16:45:11+00:00</published>
   </entry>
   <entry>
     <id>t3_1un1nv6</id>
