@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-07-05T23:37:33+00:00</updated>
+  <updated>2026-07-06T01:23:11+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Cộng đồng không chính thức trên Reddit của vOzforums (nay là voz.vn).</subtitle>
-  <entry>
-    <id>t3_1unv889</id>
-    <title>Thrift store ở sài gòn</title>
-    <updated>2026-07-05T06:52:58+00:00</updated>
-    <author>
-      <name>/u/Breadlol5507</name>
-      <uri>https://old.reddit.com/user/Breadlol5507</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Dạo này e hay xem thấy mấy vid về thrift store tìm đồ, quần áo cũ ở bên tây, em muốn hỏi ở sài gòn mình có chỗ nào không ạ mà giá không quá đắt ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Breadlol5507"&gt; /u/Breadlol5507 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1unv889/thrift_store_ở_sài_gòn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1unv889/thrift_store_ở_sài_gòn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1unv889/thrift_store_ở_sài_gòn/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-07-05T06:52:58+00:00</published>
-  </entry>
   <entry>
     <id>t3_1unt3r4</id>
     <title>Nên chọn cái nào</title>
@@ -47,19 +34,6 @@
     <published>2026-07-05T12:35:54+00:00</published>
   </entry>
   <entry>
-    <id>t3_1unb6v8</id>
-    <title>Sub có ai theo dõi phê phim ko, hình như họ bỏ hẳn mục phê phim new, mấy tháng rồi ko làm 😢.</title>
-    <updated>2026-07-04T14:58:38+00:00</updated>
-    <author>
-      <name>/u/Federal_Algae2268</name>
-      <uri>https://old.reddit.com/user/Federal_Algae2268</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1unb6v8/sub_có_ai_theo_dõi_phê_phim_ko_hình_như_họ_bỏ_hẳn/"&gt; &lt;img alt="Sub có ai theo dõi phê phim ko, hình như họ bỏ hẳn mục phê phim new, mấy tháng rồi ko làm 😢." src="https://preview.redd.it/t8b6zgt298bh1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=54317b51216841e672b8a7a721ecbb60e8e2261d" title="Sub có ai theo dõi phê phim ko, hình như họ bỏ hẳn mục phê phim new, mấy tháng rồi ko làm 😢." /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Federal_Algae2268"&gt; /u/Federal_Algae2268 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/t8b6zgt298bh1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1unb6v8/sub_có_ai_theo_dõi_phê_phim_ko_hình_như_họ_bỏ_hẳn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1unb6v8/sub_có_ai_theo_dõi_phê_phim_ko_hình_như_họ_bỏ_hẳn/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-07-04T14:58:38+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1unxj5e</id>
     <title>Thi bằng lái xe A1</title>
     <updated>2026-07-05T09:12:25+00:00</updated>
@@ -71,6 +45,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1unxj5e/thi_bằng_lái_xe_a1/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-07-05T09:12:25+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1unb6v8</id>
+    <title>Sub có ai theo dõi phê phim ko, hình như họ bỏ hẳn mục phê phim new, mấy tháng rồi ko làm 😢.</title>
+    <updated>2026-07-04T14:58:38+00:00</updated>
+    <author>
+      <name>/u/Federal_Algae2268</name>
+      <uri>https://old.reddit.com/user/Federal_Algae2268</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1unb6v8/sub_có_ai_theo_dõi_phê_phim_ko_hình_như_họ_bỏ_hẳn/"&gt; &lt;img alt="Sub có ai theo dõi phê phim ko, hình như họ bỏ hẳn mục phê phim new, mấy tháng rồi ko làm 😢." src="https://preview.redd.it/t8b6zgt298bh1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=54317b51216841e672b8a7a721ecbb60e8e2261d" title="Sub có ai theo dõi phê phim ko, hình như họ bỏ hẳn mục phê phim new, mấy tháng rồi ko làm 😢." /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Federal_Algae2268"&gt; /u/Federal_Algae2268 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/t8b6zgt298bh1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1unb6v8/sub_có_ai_theo_dõi_phê_phim_ko_hình_như_họ_bỏ_hẳn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1unb6v8/sub_có_ai_theo_dõi_phê_phim_ko_hình_như_họ_bỏ_hẳn/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-07-04T14:58:38+00:00</published>
   </entry>
   <entry>
     <id>t3_1uno2f7</id>
@@ -190,6 +177,19 @@
     <published>2026-07-05T19:30:32+00:00</published>
   </entry>
   <entry>
+    <id>t3_1uo1xic</id>
+    <title>Hỏi về nghề quảng cáo, in ấn</title>
+    <updated>2026-07-05T13:14:13+00:00</updated>
+    <author>
+      <name>/u/LengthLow2274</name>
+      <uri>https://old.reddit.com/user/LengthLow2274</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1uo1xic/hỏi_về_nghề_quảng_cáo_in_ấn/"&gt; &lt;img alt="Hỏi về nghề quảng cáo, in ấn" src="https://preview.redd.it/og9nn81dvebh1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=9ab781b2de3ded53fe86b1e995fc0c6ac508c2ff" title="Hỏi về nghề quảng cáo, in ấn" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Những anh em đã và đang làm trong ngành này có thể chia sẻ kinh nghiệm hoặc có giáo trình hay link hướng dẫn về làm nghề, làm led các thứ có thể giúp mình hoặc cho lời khuyên về nghề này với ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/LengthLow2274"&gt; /u/LengthLow2274 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/og9nn81dvebh1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1uo1xic/hỏi_về_nghề_quảng_cáo_in_ấn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1uo1xic/hỏi_về_nghề_quảng_cáo_in_ấn/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-07-05T13:14:13+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1unqlfk</id>
     <title>Trải nghiệm từ xấu trai thành đẹp trai hơn</title>
     <updated>2026-07-05T02:30:41+00:00</updated>
@@ -216,43 +216,17 @@
     <published>2026-07-05T15:26:50+00:00</published>
   </entry>
   <entry>
-    <id>t3_1uo988o</id>
-    <title>Chuyên Tuyên Quang</title>
-    <updated>2026-07-05T18:14:44+00:00</updated>
+    <id>t3_1uojcd7</id>
+    <title>Sáng ngủ dậy nghe tin sét đánh ngang tai</title>
+    <updated>2026-07-06T01:18:58+00:00</updated>
     <author>
-      <name>/u/BlackberryPlane9870</name>
-      <uri>https://old.reddit.com/user/BlackberryPlane9870</uri>
+      <name>/u/huyenduong18</name>
+      <uri>https://old.reddit.com/user/huyenduong18</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;E có thắc mắc là ko biết vụ này sẽ xử lý kết quả thi của 300hs trong trường ra sao nhỉ? Vì thấy hủy kq thi thì nặng, mà tha thì lại tạo tiền lệ cho lần sau. Edit: ý e là có những trg hợp tự làm thật và bh cx khó mà xác định được ai đi chép bài&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/BlackberryPlane9870"&gt; /u/BlackberryPlane9870 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1uo988o/chuyên_tuyên_quang/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1uo988o/chuyên_tuyên_quang/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1uo988o/chuyên_tuyên_quang/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Đội bóng tôi yêu đã gục ngã. Anh ta đã khóc, khóc rất nhiều....&lt;/p&gt; &lt;p&gt;định mệnh các anh, đá thế thì bay hết mọi thứ rồi. để im mẹ 02 đi còn gỡ dc tí tỉ số, lại còn 12 ở phút cuối. đến chịu các anh !&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/huyenduong18"&gt; /u/huyenduong18 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1uojcd7/sáng_ngủ_dậy_nghe_tin_sét_đánh_ngang_tai/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1uojcd7/sáng_ngủ_dậy_nghe_tin_sét_đánh_ngang_tai/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1uojcd7/sáng_ngủ_dậy_nghe_tin_sét_đánh_ngang_tai/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-07-05T18:14:44+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1uo1xic</id>
-    <title>Hỏi về nghề quảng cáo, in ấn</title>
-    <updated>2026-07-05T13:14:13+00:00</updated>
-    <author>
-      <name>/u/LengthLow2274</name>
-      <uri>https://old.reddit.com/user/LengthLow2274</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1uo1xic/hỏi_về_nghề_quảng_cáo_in_ấn/"&gt; &lt;img alt="Hỏi về nghề quảng cáo, in ấn" src="https://preview.redd.it/og9nn81dvebh1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=9ab781b2de3ded53fe86b1e995fc0c6ac508c2ff" title="Hỏi về nghề quảng cáo, in ấn" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Những anh em đã và đang làm trong ngành này có thể chia sẻ kinh nghiệm hoặc có giáo trình hay link hướng dẫn về làm nghề, làm led các thứ có thể giúp mình hoặc cho lời khuyên về nghề này với ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/LengthLow2274"&gt; /u/LengthLow2274 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/og9nn81dvebh1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1uo1xic/hỏi_về_nghề_quảng_cáo_in_ấn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1uo1xic/hỏi_về_nghề_quảng_cáo_in_ấn/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-07-05T13:14:13+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1unw8ym</id>
-    <title>Mức offer như này là ổn chưa các bác</title>
-    <updated>2026-07-05T07:54:25+00:00</updated>
-    <author>
-      <name>/u/HenZeros</name>
-      <uri>https://old.reddit.com/user/HenZeros</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mấy bác cho e hỏi , e làm trong nghành IT, từ lúc ra trường tới giờ e chỉ đi làm đúng cho 1 cty. Hiện tại e được khoảng 5 năm kinh nghiệm làm FE. Vừa rồi e có thử đi phỏng vấn và được cty N** màu đỏ của Úc ở gần cầu Ba Son offer mức 43tr gross. Mấy bác cho e hỏi mức này là ổn với đúng với thị trường hiện tại chưa v ạ. Gần 5 năm r e chưa đi pv nên không biết bây giờ thị trường như thế nào&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/HenZeros"&gt; /u/HenZeros &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1unw8ym/mức_offer_như_này_là_ổn_chưa_các_bác/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1unw8ym/mức_offer_như_này_là_ổn_chưa_các_bác/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1unw8ym/mức_offer_như_này_là_ổn_chưa_các_bác/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-07-05T07:54:25+00:00</published>
+    <published>2026-07-06T01:18:58+00:00</published>
   </entry>
   <entry>
     <id>t3_1uo544a</id>
@@ -268,17 +242,43 @@
     <published>2026-07-05T15:31:37+00:00</published>
   </entry>
   <entry>
-    <id>t3_1uo88zv</id>
-    <title>Làm sao để xử lí cảm xúc bản thân sau khi xem phải gore.</title>
-    <updated>2026-07-05T17:36:22+00:00</updated>
+    <id>t3_1unw8ym</id>
+    <title>Mức offer như này là ổn chưa các bác</title>
+    <updated>2026-07-05T07:54:25+00:00</updated>
     <author>
-      <name>/u/dbrdjt</name>
-      <uri>https://old.reddit.com/user/dbrdjt</uri>
+      <name>/u/HenZeros</name>
+      <uri>https://old.reddit.com/user/HenZeros</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Đã 1 năm kể từ khi xem phải video của vụ án Lạng Sơn em đã bị ám ảnh nhiều lần vì sợ mình nhiễm phải tư tưởng lệch lạc và bệnh hoạn của cả hung thủ và nạn nhân. Em không biết làm thế nào để thoát ra khỏi ám ảnh đó, vì bây giờ em vẫn còn lý trí, chỉ sợ một ngày không còn nhân tính làm những điều nguy hiểm gây ảnh hưởng tới người thân.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/dbrdjt"&gt; /u/dbrdjt &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1uo88zv/làm_sao_để_xử_lí_cảm_xúc_bản_thân_sau_khi_xem/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1uo88zv/làm_sao_để_xử_lí_cảm_xúc_bản_thân_sau_khi_xem/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1uo88zv/làm_sao_để_xử_lí_cảm_xúc_bản_thân_sau_khi_xem/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mấy bác cho e hỏi , e làm trong nghành IT, từ lúc ra trường tới giờ e chỉ đi làm đúng cho 1 cty. Hiện tại e được khoảng 5 năm kinh nghiệm làm FE. Vừa rồi e có thử đi phỏng vấn và được cty N** màu đỏ của Úc ở gần cầu Ba Son offer mức 43tr gross. Mấy bác cho e hỏi mức này là ổn với đúng với thị trường hiện tại chưa v ạ. Gần 5 năm r e chưa đi pv nên không biết bây giờ thị trường như thế nào&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/HenZeros"&gt; /u/HenZeros &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1unw8ym/mức_offer_như_này_là_ổn_chưa_các_bác/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1unw8ym/mức_offer_như_này_là_ổn_chưa_các_bác/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1unw8ym/mức_offer_như_này_là_ổn_chưa_các_bác/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-07-05T17:36:22+00:00</published>
+    <published>2026-07-05T07:54:25+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1uo988o</id>
+    <title>Chuyên Tuyên Quang</title>
+    <updated>2026-07-05T18:14:44+00:00</updated>
+    <author>
+      <name>/u/BlackberryPlane9870</name>
+      <uri>https://old.reddit.com/user/BlackberryPlane9870</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;E có thắc mắc là ko biết vụ này sẽ xử lý kết quả thi của 300hs trong trường ra sao nhỉ? Vì thấy hủy kq thi thì nặng, mà tha thì lại tạo tiền lệ cho lần sau. Edit: ý e là có những trg hợp tự làm thật và bh cx khó mà xác định được ai đi chép bài&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/BlackberryPlane9870"&gt; /u/BlackberryPlane9870 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1uo988o/chuyên_tuyên_quang/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1uo988o/chuyên_tuyên_quang/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1uo988o/chuyên_tuyên_quang/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-07-05T18:14:44+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1uobb3g</id>
+    <title>Ghét bạn thân của mình</title>
+    <updated>2026-07-05T19:36:14+00:00</updated>
+    <author>
+      <name>/u/Ok_Pension_5302</name>
+      <uri>https://old.reddit.com/user/Ok_Pension_5302</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi mọi người, chuyện là mình có một cô bạn thân, tụi mình chơi chung với nhau đã được gần 10 năm rồi, mình gọi là A. Mình là một người hướng nội, trong khi bạn ấy hướng ngoại và rất quảng giao. Nhờ sự quảng giao của bạn ấy mà mình đã có thêm nhiều bạn mới, nhiều mối quan hệ mới vì bạn ấy hay mang mình đi chơi cùng nhóm bạn của bạn ấy. Nhưng trong những năm gần đây, bạn ấy có hội bạn thân mới, và theo đuổi phong cách mới mà theo mình là performative, phông bạt trên mxh. Mình thấy những giá trị bạn theo đuổi thật sự nông cạn, đôi khi có những hành động thiếu đạo đức, mình thấy năng lượng bạn ấy toả ra rất độc hại. Cảm xúc của mình pha lẫn ghen tỵ vì mình không thể nào hướng ngoại và quảng giao như thế, căm ghét vì bạn ấy đã khác đi rất nhiều, và mình ko còn yêu mến phiên bản ấy, nhưng mình cũng biết ơn vì bạn từng giúp mình, ngoài đời cũng tốt với mình. Nhiều khi mình thể hiện ra mặt sự khó chịu đó và bạn cũng tổn thương, tụi mình dần xa nhau. Mình nên làm sao để bảo vệ cảm xúc của bản thân, và ko đánh mất bạn ấy ạ? Tụi mình chơi lâu lắm rồi, thực sự là cũng ko nhiều người hiểu mình như bạn. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ok_Pension_5302"&gt; /u/Ok_Pension_5302 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1uobb3g/ghét_bạn_thân_của_mình/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1uobb3g/ghét_bạn_thân_của_mình/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1uobb3g/ghét_bạn_thân_của_mình/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-07-05T19:36:14+00:00</published>
   </entry>
   <entry>
     <id>t3_1uo2tjk</id>
@@ -294,17 +294,17 @@
     <published>2026-07-05T13:55:09+00:00</published>
   </entry>
   <entry>
-    <id>t3_1uobb3g</id>
-    <title>Ghét bạn thân của mình</title>
-    <updated>2026-07-05T19:36:14+00:00</updated>
+    <id>t3_1uo88zv</id>
+    <title>Làm sao để xử lí cảm xúc bản thân sau khi xem phải gore.</title>
+    <updated>2026-07-05T17:36:22+00:00</updated>
     <author>
-      <name>/u/Ok_Pension_5302</name>
-      <uri>https://old.reddit.com/user/Ok_Pension_5302</uri>
+      <name>/u/dbrdjt</name>
+      <uri>https://old.reddit.com/user/dbrdjt</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi mọi người, chuyện là mình có một cô bạn thân, tụi mình chơi chung với nhau đã được gần 10 năm rồi, mình gọi là A. Mình là một người hướng nội, trong khi bạn ấy hướng ngoại và rất quảng giao. Nhờ sự quảng giao của bạn ấy mà mình đã có thêm nhiều bạn mới, nhiều mối quan hệ mới vì bạn ấy hay mang mình đi chơi cùng nhóm bạn của bạn ấy. Nhưng trong những năm gần đây, bạn ấy có hội bạn thân mới, và theo đuổi phong cách mới mà theo mình là performative, phông bạt trên mxh. Mình thấy những giá trị bạn theo đuổi thật sự nông cạn, đôi khi có những hành động thiếu đạo đức, mình thấy năng lượng bạn ấy toả ra rất độc hại. Cảm xúc của mình pha lẫn ghen tỵ vì mình không thể nào hướng ngoại và quảng giao như thế, căm ghét vì bạn ấy đã khác đi rất nhiều, và mình ko còn yêu mến phiên bản ấy, nhưng mình cũng biết ơn vì bạn từng giúp mình, ngoài đời cũng tốt với mình. Nhiều khi mình thể hiện ra mặt sự khó chịu đó và bạn cũng tổn thương, tụi mình dần xa nhau. Mình nên làm sao để bảo vệ cảm xúc của bản thân, và ko đánh mất bạn ấy ạ? Tụi mình chơi lâu lắm rồi, thực sự là cũng ko nhiều người hiểu mình như bạn. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ok_Pension_5302"&gt; /u/Ok_Pension_5302 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1uobb3g/ghét_bạn_thân_của_mình/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1uobb3g/ghét_bạn_thân_của_mình/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1uobb3g/ghét_bạn_thân_của_mình/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Đã 1 năm kể từ khi xem phải video của vụ án Lạng Sơn em đã bị ám ảnh nhiều lần vì sợ mình nhiễm phải tư tưởng lệch lạc và bệnh hoạn của cả hung thủ và nạn nhân. Em không biết làm thế nào để thoát ra khỏi ám ảnh đó, vì bây giờ em vẫn còn lý trí, chỉ sợ một ngày không còn nhân tính làm những điều nguy hiểm gây ảnh hưởng tới người thân.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/dbrdjt"&gt; /u/dbrdjt &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1uo88zv/làm_sao_để_xử_lí_cảm_xúc_bản_thân_sau_khi_xem/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1uo88zv/làm_sao_để_xử_lí_cảm_xúc_bản_thân_sau_khi_xem/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1uo88zv/làm_sao_để_xử_lí_cảm_xúc_bản_thân_sau_khi_xem/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-07-05T19:36:14+00:00</published>
+    <published>2026-07-05T17:36:22+00:00</published>
   </entry>
   <entry>
     <id>t3_1uo9jiv</id>
