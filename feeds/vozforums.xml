@@ -2,50 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-07-10T12:36:49+00:00</updated>
+  <updated>2026-07-10T15:19:18+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Cộng đồng không chính thức trên Reddit của vOzforums (nay là voz.vn).</subtitle>
-  <entry>
-    <id>t3_1urqw1r</id>
-    <title>Mọi người nghĩ sao về chuyện điểm 10 ở Tuyên Quang</title>
-    <updated>2026-07-09T13:50:45+00:00</updated>
-    <author>
-      <name>/u/BubblyFish3324</name>
-      <uri>https://old.reddit.com/user/BubblyFish3324</uri>
-    </author>
-    <content type="html">&amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/BubblyFish3324"&gt; /u/BubblyFish3324 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1urqw1r/mọi_người_nghĩ_sao_về_chuyện_điểm_10_ở_tuyên_quang/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1urqw1r/mọi_người_nghĩ_sao_về_chuyện_điểm_10_ở_tuyên_quang/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1urqw1r/mọi_người_nghĩ_sao_về_chuyện_điểm_10_ở_tuyên_quang/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-07-09T13:50:45+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1urf8t2</id>
-    <title>Xin topic để mình làm 1 buổi chia sẻ về career về Software/AI/Data</title>
-    <updated>2026-07-09T03:58:39+00:00</updated>
-    <author>
-      <name>/u/wakandan</name>
-      <uri>https://old.reddit.com/user/wakandan</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình đang nghĩ tới việc tổ chức một buổi chia sẻ nhỏ về career trong software engineering / AI / data, nhưng trước khi làm thì muốn hỏi mọi người xem topic nào thật sự hữu ích.&lt;/p&gt; &lt;p&gt;Một chút context:&lt;/p&gt; &lt;p&gt;Mình đi làm software engineering cũng hơn 10 năm rồi. Bắt đầu từ backend/full-stack, sau đó chuyển dần qua machine learning engineering, ML platform, MLOps, AI tooling, và gần đây là các bài toán liên quan tới AI adoption trong công ty. Những công ty mình đã từng làm việc cùng: Zalora, Axon (vàng), Techcombank, OrangeLogic.&lt;/p&gt; &lt;p&gt;Mình từng có cơ hội làm việc ở nhiều môi trường khác nhau: startup, product company, global company, fintech/banking, enterprise software. Mỗi môi trường cho mình một góc nhìn khác nhau về cách team vận hành, cách sản phẩm được xây dựng, cách engineering decisions được đưa ra, và cách một người engineer có thể phát triển qua từng giai đoạn career.&lt;/p&gt; &lt;p&gt;Mình không nghĩ điều hữu ích nhất mình có thể chia sẻ là “tech stack X tốt hơn tech stack Y” hay “tool nào đang hot nhất hiện tại”. Mỗi công ty có context khác nhau, và công nghệ chỉ là một phần của câu chuyện.&lt;/p&gt; &lt;p&gt;Cái mình nghĩ có thể hữu ích hơn là những kinh nghiệm thực tế hơn, ví dụ:&lt;/p&gt; &lt;p&gt;* Mình đã chuẩn bị phỏng vấn như thế nào qua từng giai đoạn career&lt;/p&gt; &lt;p&gt;* Làm sao để chuyển từ một engineer chỉ làm task sang người có thể own system / own problem&lt;/p&gt; &lt;p&gt;* Những điều mình ước biết sớm hơn khi interview, chọn công ty, và phát triển career&lt;/p&gt; &lt;p&gt;* Những khác biệt giữa startup, product company, fintech/banking, global company&lt;/p&gt; &lt;p&gt;* Cách nhìn một công ty trước khi join: nên hỏi gì, quan sát gì, chuẩn bị gì&lt;/p&gt; &lt;p&gt;* Những thứ đi làm mới thấy quan trọng nhưng ít được nói kỹ trong course&lt;/p&gt; &lt;p&gt;* Làm AI/ML trong công ty thật sự khác với học AI/ML trên course như thế nào&lt;/p&gt; &lt;p&gt;* Làm sao để grow career mà không bị cuốn theo hype, title, hoặc tool mới&lt;/p&gt; &lt;p&gt;Mình đang cân nhắc tổ chức buổi đầu tiên theo format rất đơn giản:&lt;/p&gt; &lt;p&gt;Một buổi chia sẻ kinh nghiệm thật + Q&amp;amp;A mở.&lt;/p&gt; &lt;p&gt;Không phải khóa học lý thuyết.&lt;/p&gt; &lt;p&gt;Không phải quảng cáo “lộ trình thành công”.&lt;/p&gt; &lt;p&gt;Không hứa hẹn nghe xong là pass interview hay đổi đời.&lt;/p&gt; &lt;p&gt;Chỉ là những gì mình đã trải qua, những gì mình từng làm đúng/sai, và những bài học có thể giúp các bạn developer khác chuẩn bị tốt hơn cho career của mình.&lt;/p&gt; &lt;p&gt;Mình đang phân vân vài topic cho buổi đầu tiên:&lt;/p&gt; &lt;p&gt;A. Mình chuẩn bị phỏng vấn software/AI/ML roles như thế nào qua từng giai đoạn career&lt;/p&gt; &lt;p&gt;B. Từ backend engineer sang ML/AI engineering: những gì thật sự cần học, những gì không cần quá hype&lt;/p&gt; &lt;p&gt;C. Làm việc ở nhiều loại công ty khác nhau: startup, product company, fintech/banking, global company — khác nhau thế nào và nên chọn ra sao&lt;/p&gt; &lt;p&gt;D. Những bài học career mình ước biết sớm hơn: interview, chọn công ty, grow lên senior, làm việc với team&lt;/p&gt; &lt;p&gt;E. AI/ML trong công ty thật sự là gì: khác gì so với course, tutorial, demo, và LinkedIn hype&lt;/p&gt; &lt;p&gt;Nếu bạn là student, junior dev, backend engineer, data/AI learner, hoặc đang muốn đổi job/grow career, bạn muốn nghe topic nào nhất?&lt;/p&gt; &lt;p&gt;Comment giúp mình A/B/C/D/E, hoặc nói thẳng vấn đề bạn đang gặp.&lt;/p&gt; &lt;p&gt;Nếu đủ nhiều người quan tâm, mình sẽ tổ chức một buổi đầu tiên theo topic được vote nhiều nhất.&lt;/p&gt; &lt;p&gt;Mọi người có thể đăng kí tham gia ở website của mình &lt;a href="https://vforce.ai"&gt;https://vforce.ai&lt;/a&gt;. Cảm ơn mọi người rất nhiều.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/wakandan"&gt; /u/wakandan &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1urf8t2/xin_topic_để_mình_làm_1_buổi_chia_sẻ_về_career_về/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1urf8t2/xin_topic_để_mình_làm_1_buổi_chia_sẻ_về_career_về/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1urf8t2/xin_topic_để_mình_làm_1_buổi_chia_sẻ_về_career_về/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-07-09T03:58:39+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1us6jxe</id>
-    <title>chọn ngành kinh tế</title>
-    <updated>2026-07-09T23:20:30+00:00</updated>
-    <author>
-      <name>/u/Unable_Shelter_2108</name>
-      <uri>https://old.reddit.com/user/Unable_Shelter_2108</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;chào các anh chị ạ, em là 2k8 đang trong những ngày cuối chốt nv trên web bộ. &lt;/p&gt; &lt;p&gt;em được 30/30 xét ftu (vì có điểm cộng tham gia hsgqg) và 28,92 xét neu năm nay. nv1 em đang là lscm neu. em đang phân vân không biết để nv2 là kdqt neu hay ktdn ftu ạ. đặt ktdn ftu nv2 thì nhiều khả năng em đậu luôn k rớt xuống nữa. còn đặt lscm và kdqt neu thì cũng có rủi ro rớt ạ... &lt;/p&gt; &lt;p&gt;em định hướng sau này mới ra trường làm mua hàng (procurement) và có định hướng phát triển lên supply chain manager/ analyst về lâu dài ạ. em muốn làm môi trường quốc tế, mnc vì em cũng có gốc 8.0 ielts và chuyên anh ạ. &lt;/p&gt; &lt;p&gt;nếu chỉ xét về môi trường hay văn hoá sinh viên, clb các thứ thì neu và ftu khác nhau ntn ạ? em k hướng ngoại lắm cũng k khoái làm clb lắm (em có hđ clb proj ở c3 nma làm mem thôi), chủ yếu em sẵn sàng networking vì cần nma sợ mtrg cạnh tranh quá mức với toxic. em cũng thích học hơn là đi thi thố (trừ nckh, thi giải case thì em đang nghiên cứu), em cũng có định hướng việc sau này muốn làm rùi (nma bm em thì lại bắt học rộng ạ ☺️) &lt;/p&gt; &lt;p&gt;em thích neu hơn còn bm em thì đang ép ftu và em đòi được nv1 lscm neu rùi nma còn nv2 em vẫn đang phân vân. còn về chương trình học thì em thực sự thấp kdqt neu hay ktdn ftu đều rộng quá so với cái em muốn học.... nma maybe ktdn đỡ hơn? vì có phân ngành log còn kdqt k có. &lt;/p&gt; &lt;p&gt;nma em nghe bảo học ở ftu nặng lắm nma em muốn có tgian để tự học thêm các skill về data, học mos và tiếng trung nữa ạ... &lt;/p&gt; &lt;p&gt;mong mng review cho iem xem nên chọn gì để phù hợp với mong muốn của em. chúc mng 1 ngày tốt lành. allez les bleus 🇫🇷 &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Unable_Shelter_2108"&gt; /u/Unable_Shelter_2108 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1us6jxe/chọn_ngành_kinh_tế/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1us6jxe/chọn_ngành_kinh_tế/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1us6jxe/chọn_ngành_kinh_tế/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-07-09T23:20:30+00:00</published>
-  </entry>
   <entry>
     <id>t3_1uropgi</id>
     <title>Người trung bình muốn đi nước ngoài làm việc</title>
@@ -58,19 +19,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1uropgi/người_trung_bình_muốn_đi_nước_ngoài_làm_việc/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-07-09T12:22:01+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1urqwkp</id>
-    <title>càng lớn càng cô đơn, buổi tối các bác thường làm gì?</title>
-    <updated>2026-07-09T13:51:21+00:00</updated>
-    <author>
-      <name>/u/Delicious_Society735</name>
-      <uri>https://old.reddit.com/user/Delicious_Society735</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em nghe nhạc, thấy lòng dịu lại sau một ngày, thật bình yên. Người trưởng thành công nhận cô đơn thật các bác ạ. Em càng lớn càng chỉ thích yên tĩnh ở nhà nhâm nhi ly cà phê. Nói vậy chứ nếu có hội bạn thân rủ đi chơi là em cũng đi ngay, ngặt nỗi em lại không có bạn bên ngoài. Càng lớn càng khó kết bạn, chắc một phần do em cũng ít mở lòng. (Em là nữ ạ).&lt;/p&gt; &lt;p&gt;Dạo này em có tham gia/lập một góc nhỏ để mọi người vào chuyện trò cho vui, rủ nhau chơi game giải khuây sau giờ làm. Bác nào tầm &lt;strong&gt;24+&lt;/strong&gt; cũng đang thấy trống trải hay muốn tìm cạ cứng thì &lt;strong&gt;inbox (hoặc chấm dưới cmt)&lt;/strong&gt; tụ họp cùng cho vui nha!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Delicious_Society735"&gt; /u/Delicious_Society735 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1urqwkp/càng_lớn_càng_cô_đơn_buổi_tối_các_bác_thường_làm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1urqwkp/càng_lớn_càng_cô_đơn_buổi_tối_các_bác_thường_làm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1urqwkp/càng_lớn_càng_cô_đơn_buổi_tối_các_bác_thường_làm/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-07-09T13:51:21+00:00</published>
   </entry>
   <entry>
     <id>t3_1usfhxa</id>
@@ -99,6 +47,19 @@
     <published>2026-07-09T22:58:34+00:00</published>
   </entry>
   <entry>
+    <id>t3_1urqwkp</id>
+    <title>càng lớn càng cô đơn, buổi tối các bác thường làm gì?</title>
+    <updated>2026-07-09T13:51:21+00:00</updated>
+    <author>
+      <name>/u/Delicious_Society735</name>
+      <uri>https://old.reddit.com/user/Delicious_Society735</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em nghe nhạc, thấy lòng dịu lại sau một ngày, thật bình yên. Người trưởng thành công nhận cô đơn thật các bác ạ. Em càng lớn càng chỉ thích yên tĩnh ở nhà nhâm nhi ly cà phê. Nói vậy chứ nếu có hội bạn thân rủ đi chơi là em cũng đi ngay, ngặt nỗi em lại không có bạn bên ngoài. Càng lớn càng khó kết bạn, chắc một phần do em cũng ít mở lòng. (Em là nữ ạ).&lt;/p&gt; &lt;p&gt;Dạo này em có tham gia/lập một góc nhỏ để mọi người vào chuyện trò cho vui, rủ nhau chơi game giải khuây sau giờ làm. Bác nào tầm &lt;strong&gt;24+&lt;/strong&gt; cũng đang thấy trống trải hay muốn tìm cạ cứng thì &lt;strong&gt;inbox (hoặc chấm dưới cmt)&lt;/strong&gt; tụ họp cùng cho vui nha!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Delicious_Society735"&gt; /u/Delicious_Society735 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1urqwkp/càng_lớn_càng_cô_đơn_buổi_tối_các_bác_thường_làm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1urqwkp/càng_lớn_càng_cô_đơn_buổi_tối_các_bác_thường_làm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1urqwkp/càng_lớn_càng_cô_đơn_buổi_tối_các_bác_thường_làm/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-07-09T13:51:21+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1usgbxu</id>
     <title>Xin review về nha khoa của bạn</title>
     <updated>2026-07-10T07:12:10+00:00</updated>
@@ -123,6 +84,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1usgdc8/khởi_nghiệp/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-07-10T07:14:12+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1usl6fx</id>
+    <title>Bị 🍑🔥 biết ngu rui lên kể cho đỡ kay 🫩🫩</title>
+    <updated>2026-07-10T11:39:18+00:00</updated>
+    <author>
+      <name>/u/watdafaqwaitforH</name>
+      <uri>https://old.reddit.com/user/watdafaqwaitforH</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Trong một giây phút 🫩🫩 anh em mua vé ca nhạc sự kiện đừng như tôiii con đấy nó 🍑 cả vé T1 luôn&lt;/p&gt; &lt;p&gt;Làm cách nào để nó trả đc tiền cho toy bâyh hiuhiu&lt;/p&gt; &lt;p&gt;Toy mới chỉ gọi ra ngân hàng + báo vneid thôi ngoài ra làm đc gì khác k nhòoooo&lt;/p&gt; &lt;p&gt;Nó vẫn chưa biết tôi biết nó 🍑🔥 tôi nên n vẫn giữ liên lạc qua Z để móc tiền tiếp :)))))) vì tôi tìm thấy bài về nó ngay sau khi ck má nó đổi tên nên kb&lt;/p&gt; &lt;p&gt;🫩🫩 hok có sđt hay mxh chỉ có thờ rét, CCCD và HC là giả&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/watdafaqwaitforH"&gt; /u/watdafaqwaitforH &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1usl6fx/bị_biết_ngu_rui_lên_kể_cho_đỡ_kay/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1usl6fx/bị_biết_ngu_rui_lên_kể_cho_đỡ_kay/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1usl6fx/bị_biết_ngu_rui_lên_kể_cho_đỡ_kay/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-07-10T11:39:18+00:00</published>
   </entry>
   <entry>
     <id>t3_1ushobe</id>
@@ -164,19 +138,6 @@
     <published>2026-07-09T08:54:54+00:00</published>
   </entry>
   <entry>
-    <id>t3_1usk8ln</id>
-    <title>Làm công nhân</title>
-    <updated>2026-07-10T10:53:52+00:00</updated>
-    <author>
-      <name>/u/_cowking_</name>
-      <uri>https://old.reddit.com/user/_cowking_</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người&lt;/p&gt; &lt;p&gt;Em 2k8, mới thi tốt nghiệp được 1 tháng. Tình hình là thi xong mẹ e cho nghỉ xả hơi 1 tuần rồi giục e đi làm thời vụ trong khu công nghiệp (làm gần hết hè để có tiền)&lt;/p&gt; &lt;p&gt;Em có vui vẻ đi, được 2 ngày thì thấy mệt quá nên e có nghỉ luôn, rồi chuyển qua một công ty khác làm đồ nhựa&lt;/p&gt; &lt;p&gt;Qua công ty nhựa làm được 1 tuần thì cảm thấy nóng và cực, em cảm thấy làm không có nổi. Đã vậy còn làm 12h, dù luật trên giấy là 8h nhưng ai xin về sớm là bị làm khó dễ, bị dọa đuổi về. Công ty này e làm được 7 ngày thì nhận lương cút luôn&lt;/p&gt; &lt;p&gt;Em ở nhà dc 1 tuần thì mẹ cằn nhằn và bắt đi làm, giờ đá em qua cty gỗ làm luôn. Hôm nay là ngày làm đầu tiên và e cảm thấy rất mệt, dù là công việc chà keo thôi nhưng đứng làm tận 9h.&lt;/p&gt; &lt;p&gt;12 năm em chỉ ăn và học thôi, giờ kêu làm công nhân e làm không có nổi. Nhà cũng k nợ nần hay thiếu tiền gì hết nên e cũng k hiểu mình cố gắng đi làm để làm gì? E thuyết phục mẹ cho hè học thêm HSK thay vì đi làm nhưng mẹ e không chịu&lt;/p&gt; &lt;p&gt;Ai có bí quyết nào để ở nhà hết hè này luôn không chỉ e với ạ. Chứ e mệt mỏi lắm rồi&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/_cowking_"&gt; /u/_cowking_ &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1usk8ln/làm_công_nhân/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1usk8ln/làm_công_nhân/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1usk8ln/làm_công_nhân/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-07-10T10:53:52+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1us7fvi</id>
     <title>Vietjet hay VNA do Pacific Airlines khai thác tốt hơn vậy mấy bác?</title>
     <updated>2026-07-09T23:56:56+00:00</updated>
@@ -188,19 +149,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1us7fvi/vietjet_hay_vna_do_pacific_airlines_khai_thác_tốt/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-07-09T23:56:56+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1uskuyh</id>
-    <title>Thuế TNCN</title>
-    <updated>2026-07-10T11:24:10+00:00</updated>
-    <author>
-      <name>/u/tieuba_vuong</name>
-      <uri>https://old.reddit.com/user/tieuba_vuong</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tháng trước em có thử việc ở cty kia, lương cứng 8 triệu, làm được 6 ngày thì em xin dừng thử việc, hôm nay kế toán gửi bảng lương thực lãnh cho thời gian thử việc được 1tr8 thì em thấy bị trừ thêm 10% TNCN nữa, nhưng em nhớ dưới 2tr đâu phải chịu thuế TNCN đâu ? sao lại tính trên lương thỏa thuận mà không phải thực lãnh ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/tieuba_vuong"&gt; /u/tieuba_vuong &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1uskuyh/thuế_tncn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1uskuyh/thuế_tncn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1uskuyh/thuế_tncn/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-07-10T11:24:10+00:00</published>
   </entry>
   <entry>
     <id>t3_1ush6y6</id>
@@ -229,17 +177,43 @@
     <published>2026-07-10T04:00:29+00:00</published>
   </entry>
   <entry>
-    <id>t3_1usi748</id>
-    <title>Trọ ở Đà Nẵng</title>
-    <updated>2026-07-10T09:01:37+00:00</updated>
+    <id>t3_1uspbjt</id>
+    <title>Cần mua máy chiếu ạ</title>
+    <updated>2026-07-10T14:29:59+00:00</updated>
     <author>
-      <name>/u/GradeBeneficial167</name>
-      <uri>https://old.reddit.com/user/GradeBeneficial167</uri>
+      <name>/u/PsychologicalLeek852</name>
+      <uri>https://old.reddit.com/user/PsychologicalLeek852</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Câu chuyện là mình mới vào Đà Nẵng để sống và làm việc&lt;br /&gt; Công việc của mình là IT và làm remote thôi. Nên muốn đổi môi trường sống. Chọn Đà Nẵng để ở lại&lt;br /&gt; Nhưng mà thuê trọ thì mình thấy khó khăn quá&lt;br /&gt; Tìm bữa giờ mà chưa thấy căn nào ưng ý.&lt;br /&gt; Mà thấy giá trọ Đà Nẵng cao quá, có thể nói cao gần bằng hoặc hơn Sài Gòn luôn&lt;br /&gt; Các bác có kinh nghiệm kiếm trọ, hay có biết ai cho thuê phòng trong nhà nguyên căn… giới thiệu em với ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/GradeBeneficial167"&gt; /u/GradeBeneficial167 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1usi748/trọ_ở_đà_nẵng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1usi748/trọ_ở_đà_nẵng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1usi748/trọ_ở_đà_nẵng/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em có 2tr cần mua máy chiếu cho ba xem bóng đá, em chỉ cần thuần nét, không cần nó phải thông minh, chỉ cần chức năng chiếu ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/PsychologicalLeek852"&gt; /u/PsychologicalLeek852 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1uspbjt/cần_mua_máy_chiếu_ạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1uspbjt/cần_mua_máy_chiếu_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1uspbjt/cần_mua_máy_chiếu_ạ/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-07-10T09:01:37+00:00</published>
+    <published>2026-07-10T14:29:59+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1uskuyh</id>
+    <title>Thuế TNCN</title>
+    <updated>2026-07-10T11:24:10+00:00</updated>
+    <author>
+      <name>/u/tieuba_vuong</name>
+      <uri>https://old.reddit.com/user/tieuba_vuong</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tháng trước em có thử việc ở cty kia, lương cứng 8 triệu, làm được 6 ngày thì em xin dừng thử việc, hôm nay kế toán gửi bảng lương thực lãnh cho thời gian thử việc được 1tr8 thì em thấy bị trừ thêm 10% TNCN nữa, nhưng em nhớ dưới 2tr đâu phải chịu thuế TNCN đâu ? sao lại tính trên lương thỏa thuận mà không phải thực lãnh ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/tieuba_vuong"&gt; /u/tieuba_vuong &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1uskuyh/thuế_tncn/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1uskuyh/thuế_tncn/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1uskuyh/thuế_tncn/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-07-10T11:24:10+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1usqle6</id>
+    <title>Nhắn tin nhạt quá phải làm sao ạ:(((?</title>
+    <updated>2026-07-10T15:16:43+00:00</updated>
+    <author>
+      <name>/u/bruhsussv</name>
+      <uri>https://old.reddit.com/user/bruhsussv</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1usqle6/nhắn_tin_nhạt_quá_phải_làm_sao_ạ/"&gt; &lt;img alt="Nhắn tin nhạt quá phải làm sao ạ:(((?" src="https://preview.redd.it/9mn6uswr5fch1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=b25a88c08656bf155807a42cc57c6828bbef2a80" title="Nhắn tin nhạt quá phải làm sao ạ:(((?" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em đang nhắn tin vs bạn này thì kiểu đang nhắn thì bạn ấy seen xong ko rep. Có phải tại em nhắn ngơ quá ko ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/bruhsussv"&gt; /u/bruhsussv &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/9mn6uswr5fch1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1usqle6/nhắn_tin_nhạt_quá_phải_làm_sao_ạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1usqle6/nhắn_tin_nhạt_quá_phải_làm_sao_ạ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-07-10T15:16:43+00:00</published>
   </entry>
   <entry>
     <id>t3_1urpqyl</id>
@@ -255,17 +229,17 @@
     <published>2026-07-09T13:05:55+00:00</published>
   </entry>
   <entry>
-    <id>t3_1usjrb9</id>
-    <title>Mâu thuẫn khi sống chung với chị và cháu gái</title>
-    <updated>2026-07-10T10:28:14+00:00</updated>
+    <id>t3_1usi748</id>
+    <title>Trọ ở Đà Nẵng</title>
+    <updated>2026-07-10T09:01:37+00:00</updated>
     <author>
-      <name>/u/littlesunshine31</name>
-      <uri>https://old.reddit.com/user/littlesunshine31</uri>
+      <name>/u/GradeBeneficial167</name>
+      <uri>https://old.reddit.com/user/GradeBeneficial167</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình viết hơi vụng nên mong mọi người thông cảm.&lt;/p&gt; &lt;p&gt;Mình là nữ, 28 tuổi. Chồng sắp cưới mất gần 2 năm trước. Hiện làm remote khoảng 10 tiếng/ngày, thu nhập khoảng 40 triệu/tháng.&lt;/p&gt; &lt;p&gt;Sau biến cố, anh chị em quyết định góp tiền mua một căn nhà để ở chung gồm: chị năm (mẹ đơn thân) và con, mình, em trai. Anh chị ba góp khoảng 1,4 tỷ, chị năm góp 150 triệu, mình góp khoảng 1,3 tỷ. Nhà đứng tên chị ba, chị năm và mình. Phần tiền anh chị ba cho mượn được thỏa thuận trả dần trong 5-10 năm, mỗi lần trả sẽ định giá lại nhà để tính lại tỷ lệ sở hữu. Các khoản mình mượn ba mẹ, anh chị hai và người quen để đủ tiền mua nhà mình đã trả hết, hiện chỉ còn nợ anh chị ba khoảng 1,4 tỷ.&lt;/p&gt; &lt;p&gt;Sau gần 2 năm sống chung, mình nhận ra không hợp để ở cùng. Em trai đã chuyển ra ngoài thuê nhà từ vài tháng trước. Ban đầu mình dự định tiếp tục trả nợ và giữ căn nhà, nhưng sau nhiều mâu thuẫn thì mình muốn bán nhà, chia theo tỷ lệ sở hữu rồi ai tự mua nhà của người đó. Nếu chị năm khó khăn thì mọi người có thể cho chị vay để mua chỗ ở riêng.&lt;/p&gt; &lt;p&gt;Nguyên nhân chủ yếu là mâu thuẫn trong sinh hoạt. Chị năm thường tị nạnh chuyện việc nhà, đặc biệt là nấu cơm. Để tránh phiền lòng, ngoài tiền ăn (2tr) mình còn gửi thêm 500k/tháng coi như phụ công nấu cơm, nhưng vẫn không cải thiện. Mình còn biết chị từng nói bóng gió về mình với hàng xóm.&lt;/p&gt; &lt;p&gt;Đồ đạc trong nhà phần lớn là mình mua và vẫn để hai mẹ con sử dụng. Tuy nhiên mình khá giữ đồ, thấy dùng không cẩn thận thì nhắc nhở. Sau đó mình bị nói là chiếm hữu, giả vờ rộng rãi. Vì vậy mình quyết định không cho dùng đồ cá nhân nữa thì lại bị bảo cực đoan, không ai ở chung nổi.&lt;/p&gt; &lt;p&gt;Mình dành phần lớn thời gian cho công việc và học để phát triển bản thân, mục tiêu là kiếm nhiều tiền để trả nợ sớm nên không ưu tiên việc nhà. Không gian riêng mình tự dọn, quần áo tự giặt, chén cũng rửa cho cả nhà sau giờ làm, chỉ không nấu cơm. Gần một tháng nay mình tự nấu tự ăn và thấy phù hợp hơn, vừa khỏe vừa tiết kiệm.&lt;/p&gt; &lt;p&gt;Theo mọi người, trong trường hợp này mình muốn bán nhà để mỗi người có không gian riêng thì có quá đáng không? Mọi người có vẻ đứng về bên yếu thế nói mình làm vậy là tàn nhẫn với chị năm (vì chị là mẹ đơn thân, bé con nay 10 tuổi, thu nhập tầm 10tr/ tháng)&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/littlesunshine31"&gt; /u/littlesunshine31 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1usjrb9/mâu_thuẫn_khi_sống_chung_với_chị_và_cháu_gái/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1usjrb9/mâu_thuẫn_khi_sống_chung_với_chị_và_cháu_gái/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1usjrb9/mâu_thuẫn_khi_sống_chung_với_chị_và_cháu_gái/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Câu chuyện là mình mới vào Đà Nẵng để sống và làm việc&lt;br /&gt; Công việc của mình là IT và làm remote thôi. Nên muốn đổi môi trường sống. Chọn Đà Nẵng để ở lại&lt;br /&gt; Nhưng mà thuê trọ thì mình thấy khó khăn quá&lt;br /&gt; Tìm bữa giờ mà chưa thấy căn nào ưng ý.&lt;br /&gt; Mà thấy giá trọ Đà Nẵng cao quá, có thể nói cao gần bằng hoặc hơn Sài Gòn luôn&lt;br /&gt; Các bác có kinh nghiệm kiếm trọ, hay có biết ai cho thuê phòng trong nhà nguyên căn… giới thiệu em với ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/GradeBeneficial167"&gt; /u/GradeBeneficial167 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1usi748/trọ_ở_đà_nẵng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1usi748/trọ_ở_đà_nẵng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1usi748/trọ_ở_đà_nẵng/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-07-10T10:28:14+00:00</published>
+    <published>2026-07-10T09:01:37+00:00</published>
   </entry>
   <entry>
     <id>t3_1usg5jw</id>
@@ -292,6 +266,32 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1us9ufy/bạn_thích_điều_gì_nhất_ở_world_cup/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-07-10T01:43:03+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1usjrb9</id>
+    <title>Mâu thuẫn khi sống chung với chị và cháu gái</title>
+    <updated>2026-07-10T10:28:14+00:00</updated>
+    <author>
+      <name>/u/littlesunshine31</name>
+      <uri>https://old.reddit.com/user/littlesunshine31</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình viết hơi vụng nên mong mọi người thông cảm.&lt;/p&gt; &lt;p&gt;Mình là nữ, 28 tuổi. Chồng sắp cưới mất gần 2 năm trước. Hiện làm remote khoảng 10 tiếng/ngày, thu nhập khoảng 40 triệu/tháng.&lt;/p&gt; &lt;p&gt;Sau biến cố, anh chị em quyết định góp tiền mua một căn nhà để ở chung gồm: chị năm (mẹ đơn thân) và con, mình, em trai. Anh chị ba góp khoảng 1,4 tỷ, chị năm góp 150 triệu, mình góp khoảng 1,3 tỷ. Nhà đứng tên chị ba, chị năm và mình. Phần tiền anh chị ba cho mượn được thỏa thuận trả dần trong 5-10 năm, mỗi lần trả sẽ định giá lại nhà để tính lại tỷ lệ sở hữu. Các khoản mình mượn ba mẹ, anh chị hai và người quen để đủ tiền mua nhà mình đã trả hết, hiện chỉ còn nợ anh chị ba khoảng 1,4 tỷ.&lt;/p&gt; &lt;p&gt;Sau gần 2 năm sống chung, mình nhận ra không hợp để ở cùng. Em trai đã chuyển ra ngoài thuê nhà từ vài tháng trước. Ban đầu mình dự định tiếp tục trả nợ và giữ căn nhà, nhưng sau nhiều mâu thuẫn thì mình muốn bán nhà, chia theo tỷ lệ sở hữu rồi ai tự mua nhà của người đó. Nếu chị năm khó khăn thì mọi người có thể cho chị vay để mua chỗ ở riêng.&lt;/p&gt; &lt;p&gt;Nguyên nhân chủ yếu là mâu thuẫn trong sinh hoạt. Chị năm thường tị nạnh chuyện việc nhà, đặc biệt là nấu cơm. Để tránh phiền lòng, ngoài tiền ăn (2tr) mình còn gửi thêm 500k/tháng coi như phụ công nấu cơm, nhưng vẫn không cải thiện. Mình còn biết chị từng nói bóng gió về mình với hàng xóm.&lt;/p&gt; &lt;p&gt;Đồ đạc trong nhà phần lớn là mình mua và vẫn để hai mẹ con sử dụng. Tuy nhiên mình khá giữ đồ, thấy dùng không cẩn thận thì nhắc nhở. Sau đó mình bị nói là chiếm hữu, giả vờ rộng rãi. Vì vậy mình quyết định không cho dùng đồ cá nhân nữa thì lại bị bảo cực đoan, không ai ở chung nổi.&lt;/p&gt; &lt;p&gt;Mình dành phần lớn thời gian cho công việc và học để phát triển bản thân, mục tiêu là kiếm nhiều tiền để trả nợ sớm nên không ưu tiên việc nhà. Không gian riêng mình tự dọn, quần áo tự giặt, chén cũng rửa cho cả nhà sau giờ làm, chỉ không nấu cơm. Gần một tháng nay mình tự nấu tự ăn và thấy phù hợp hơn, vừa khỏe vừa tiết kiệm.&lt;/p&gt; &lt;p&gt;Theo mọi người, trong trường hợp này mình muốn bán nhà để mỗi người có không gian riêng thì có quá đáng không? Mọi người có vẻ đứng về bên yếu thế nói mình làm vậy là tàn nhẫn với chị năm (vì chị là mẹ đơn thân, bé con nay 10 tuổi, thu nhập tầm 10tr/ tháng)&lt;/p&gt; &lt;p&gt;Edit: rất cảm ơn mọi người đã góp ý, mình đã đọc và ngẫm từng bình luận của mọi người. Mình theo chủ nghĩa khắc kỷ nên mình cứ nghĩ hoài mình sai ở đâu để sự việc thành ra như vậy. Thì sau khi nói chuyện với chị hai thì chị hai có góp ý mình sai ở chỗ là sống chưa khéo. Biết là mình bận tập trung công việc học tập nhưng cũng nên dành chút thời gian để phụ chị năm thì như vậy sẽ giữ được hòa khí. Lại một vấn đề khiến mình suy nghĩ nữa, đó là có nhất thiết phải giữ hòa khí với một người chị mà theo mình là sống tệ với mình và k đáng để mình kính nể hay k. Giữ hòa khí thì làm gia đình vui lòng, cha mẹ vui lòng. Quan điểm sống của mình là ai làm cuộc sống của mình sóng gió là mình cho họ ra khỏi cs của mình luôn k bận tâm.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/littlesunshine31"&gt; /u/littlesunshine31 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1usjrb9/mâu_thuẫn_khi_sống_chung_với_chị_và_cháu_gái/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1usjrb9/mâu_thuẫn_khi_sống_chung_với_chị_và_cháu_gái/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1usjrb9/mâu_thuẫn_khi_sống_chung_với_chị_và_cháu_gái/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-07-10T10:28:14+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1usmx4m</id>
+    <title>Xóa mạng xã hội</title>
+    <updated>2026-07-10T12:56:12+00:00</updated>
+    <author>
+      <name>/u/AshakagiYasari</name>
+      <uri>https://old.reddit.com/user/AshakagiYasari</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em quyết định tầm tốt nghiệp đại học em sẽ xóa acc Facebook vs zalo, lui về ẩn cư. Vốn dĩ em chưa bao giờ xài zalo vs facebook trong suốt thời gian cấp 3. Do hoàn cảnh đưa đẩy nên buộc em phải tạo zalo vs facebook cho công việc vs học tập. Học tập thì không thấy đâu, mà cứ 1 2 tháng toàn nổ drama cãi nhau, chửi nhau của các chị em. Tắt mẹ nó thông báo thì cứ tag vào. Lâu lâu còn bị làm phiền nữa. Facebook còn tệ hơn nữa, em cảm giác bây giờ facebook như 1 cổ máy định hướng tư duy người khác v. Nó ko còn vui, không còn kết nối con người vs con người nữa.Nói chung chỉ quan điểm cá nhân của em thôi. Cám ơn các vozer đã lắng nghe. Cám ơn các vozer đã đọc bài viết &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/AshakagiYasari"&gt; /u/AshakagiYasari &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1usmx4m/xóa_mạng_xã_hội/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1usmx4m/xóa_mạng_xã_hội/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1usmx4m/xóa_mạng_xã_hội/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-07-10T12:56:12+00:00</published>
   </entry>
   <entry>
     <id>t3_1usgf0c</id>
