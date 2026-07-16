@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-07-16T22:28:30+00:00</updated>
+  <updated>2026-07-16T23:27:32+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Cộng đồng không chính thức trên Reddit của vOzforums (nay là voz.vn).</subtitle>
+  <entry>
+    <id>t3_1uxwjuw</id>
+    <title>quyền tự quyết</title>
+    <updated>2026-07-16T08:11:08+00:00</updated>
+    <author>
+      <name>/u/Much-Road-1867</name>
+      <uri>https://old.reddit.com/user/Much-Road-1867</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;chúng ta biết rằng mỗi ng có định hướng riêng&lt;br /&gt; nhg vẫn mong con mình học giỏi, sống tốt trong khi học, sống sao là quyền tự quyết của chúng&lt;br /&gt; nghĩ xong thấy mâu thuẫn trong lòng với bối rối tht các bác ạ =)) Em ko biết phải làm gì hay nghĩ gì nữa&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Much-Road-1867"&gt; /u/Much-Road-1867 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1uxwjuw/quyền_tự_quyết/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1uxwjuw/quyền_tự_quyết/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1uxwjuw/quyền_tự_quyết/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-07-16T08:11:08+00:00</published>
+  </entry>
   <entry>
     <id>t3_1ux5am0</id>
     <title>Các bác genZ đi làm có bật sếp giống như mxh, truyền thông đang đồn thổi?</title>
@@ -151,19 +164,6 @@
     <published>2026-07-16T08:13:35+00:00</published>
   </entry>
   <entry>
-    <id>t3_1uxrisi</id>
-    <title>Em là thằng tồi</title>
-    <updated>2026-07-16T03:37:30+00:00</updated>
-    <author>
-      <name>/u/ApprehensiveGap5479</name>
-      <uri>https://old.reddit.com/user/ApprehensiveGap5479</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em và người yêu quen nhau gần 5 năm hai bên gia đình đã gặp mặt, tụi em dự định sẽ cưới nhau vào tháng 12 năm nay, nhưng hiện tại bây giờ em cảm thấy không còn cảm giác với bạn gái nữa, mỗi lần tụi em cãi nhau là bạn sẽ đòi dọn ra riêng hoặc chia tay và lần nào em cũng níu kéo cho tới gần đây nhất khi hai đứa quay lại thì em lại mất cảm giác muốn tiếp tục, lý do cãi nhau là do quan điểm của hai đứa khác nhau về gia đình, em cảm thấy bản thân lúc nào cũng phải đứng giữa gia đình và bạn gái, nhiều lúc em có tâm sự với bạn mình xác định cưới nhau thì xem gia đình hai bên như người nhà chứ không muốn đấu khẩu :( em xin lỗi vì lời văn hơi lủng củng&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ApprehensiveGap5479"&gt; /u/ApprehensiveGap5479 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1uxrisi/em_là_thằng_tồi/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1uxrisi/em_là_thằng_tồi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1uxrisi/em_là_thằng_tồi/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-07-16T03:37:30+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1uy06ky</id>
     <title>Mình Gặp Được Nhau Sao Lại Biến Đau Thương.</title>
     <updated>2026-07-16T11:30:33+00:00</updated>
@@ -188,6 +188,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1uy617a/từ_mất_gốc_đến_9_tiếng_anh_thptqg_chỉ_bằng_khoá/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-07-16T15:25:56+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1uxrisi</id>
+    <title>Em là thằng tồi</title>
+    <updated>2026-07-16T03:37:30+00:00</updated>
+    <author>
+      <name>/u/ApprehensiveGap5479</name>
+      <uri>https://old.reddit.com/user/ApprehensiveGap5479</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em và người yêu quen nhau gần 5 năm hai bên gia đình đã gặp mặt, tụi em dự định sẽ cưới nhau vào tháng 12 năm nay, nhưng hiện tại bây giờ em cảm thấy không còn cảm giác với bạn gái nữa, mỗi lần tụi em cãi nhau là bạn sẽ đòi dọn ra riêng hoặc chia tay và lần nào em cũng níu kéo cho tới gần đây nhất khi hai đứa quay lại thì em lại mất cảm giác muốn tiếp tục, lý do cãi nhau là do quan điểm của hai đứa khác nhau về gia đình, em cảm thấy bản thân lúc nào cũng phải đứng giữa gia đình và bạn gái, nhiều lúc em có tâm sự với bạn mình xác định cưới nhau thì xem gia đình hai bên như người nhà chứ không muốn đấu khẩu :( em xin lỗi vì lời văn hơi lủng củng&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ApprehensiveGap5479"&gt; /u/ApprehensiveGap5479 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1uxrisi/em_là_thằng_tồi/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1uxrisi/em_là_thằng_tồi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1uxrisi/em_là_thằng_tồi/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-07-16T03:37:30+00:00</published>
   </entry>
   <entry>
     <id>t3_1uxpl2z</id>
@@ -242,19 +255,6 @@
     <published>2026-07-15T23:16:20+00:00</published>
   </entry>
   <entry>
-    <id>t3_1uy5du4</id>
-    <title>Tâm sự</title>
-    <updated>2026-07-16T15:01:52+00:00</updated>
-    <author>
-      <name>/u/PsychologicalBar7487</name>
-      <uri>https://old.reddit.com/user/PsychologicalBar7487</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các bạn có công nhận là sức khỏe tinh thần ở VN mình là 1 vấn đề không được quan tâm không. Kiểu ở nước ngoài người ta còn có thể bỏ tiền ra khám bác sĩ tâm lý. Ở VN mình nếu mà nói đến đi khám tâm lý thì nhiều ng cứ bảo hoặc là bị điên, hoặc là suy nghĩ linh tinh vài bữa thì hết. Tâm sự với gia đình thì họ nghĩ mình đang đùa, không hiểu hoặc nghĩ mình sướng quá hóa rồ. Bạn bè thì đến 1 tuổi nào đấy xung quanh không còn 1 ai, còn thì kiểu bạn chia sẻ lợi ích hoặc đồng nghiệp các kiểu. Những mối quan hệ này chỉ nói được với nhau về lợi ích hoặc nói xấu 1 đối tượng chung chứ không làm tri kỷ được. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/PsychologicalBar7487"&gt; /u/PsychologicalBar7487 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1uy5du4/tâm_sự/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1uy5du4/tâm_sự/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1uy5du4/tâm_sự/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-07-16T15:01:52+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1uxu46g</id>
     <title>Đương kim vô địch Euro v/s Đương kim vô địch WC. Chung kết này khó đoán quá. Cơ hội 50-50 nhỉ. TBN kĩ thuật nhỉnh hơn và Argentina thì có độ quái của Nam Mỹ</title>
     <updated>2026-07-16T05:52:41+00:00</updated>
@@ -266,6 +266,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1uxu46g/đương_kim_vô_địch_euro_vs_đương_kim_vô_địch_wc/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-07-16T05:52:41+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1uy5du4</id>
+    <title>Tâm sự</title>
+    <updated>2026-07-16T15:01:52+00:00</updated>
+    <author>
+      <name>/u/PsychologicalBar7487</name>
+      <uri>https://old.reddit.com/user/PsychologicalBar7487</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các bạn có công nhận là sức khỏe tinh thần ở VN mình là 1 vấn đề không được quan tâm không. Kiểu ở nước ngoài người ta còn có thể bỏ tiền ra khám bác sĩ tâm lý. Ở VN mình nếu mà nói đến đi khám tâm lý thì nhiều ng cứ bảo hoặc là bị điên, hoặc là suy nghĩ linh tinh vài bữa thì hết. Tâm sự với gia đình thì họ nghĩ mình đang đùa, không hiểu hoặc nghĩ mình sướng quá hóa rồ. Bạn bè thì đến 1 tuổi nào đấy xung quanh không còn 1 ai, còn thì kiểu bạn chia sẻ lợi ích hoặc đồng nghiệp các kiểu. Những mối quan hệ này chỉ nói được với nhau về lợi ích hoặc nói xấu 1 đối tượng chung chứ không làm tri kỷ được. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/PsychologicalBar7487"&gt; /u/PsychologicalBar7487 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1uy5du4/tâm_sự/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1uy5du4/tâm_sự/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1uy5du4/tâm_sự/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-07-16T15:01:52+00:00</published>
   </entry>
   <entry>
     <id>t3_1uy20uk</id>
@@ -281,17 +294,17 @@
     <published>2026-07-16T12:52:29+00:00</published>
   </entry>
   <entry>
-    <id>t3_1uy1val</id>
-    <title>nyc doạ kiện vì video nhạy cảm lúc còn yêu bị phát tán</title>
-    <updated>2026-07-16T12:46:03+00:00</updated>
+    <id>t3_1uxxf6a</id>
+    <title>Nếu thu nhập không cao, bám trụ thành phố để làm gì?</title>
+    <updated>2026-07-16T09:01:38+00:00</updated>
     <author>
-      <name>/u/Tasty-Initiative3461</name>
-      <uri>https://old.reddit.com/user/Tasty-Initiative3461</uri>
+      <name>/u/Electronic_Pizza908</name>
+      <uri>https://old.reddit.com/user/Electronic_Pizza908</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;như tiêu đề, t ko còn nguồn nào đáng tin cậy hơn ae reddit để chia sẻ về vấn đề này. Ae nào biết hoặc có kiến thức chút chân thành cho xin 1 lời khuyên.&lt;/p&gt; &lt;p&gt;Nyc, hiện tại đang ở nước ngoài. Hnay nhắn tin cho gia đình t với nội dung doạ kiện vì clip nhạy cảm bị phát tán công khai trên web đen việt nam. T thì không chủ ý đăng, t nghĩ trong quá trình lúc ở chung share phòng với bạn bè, hoặc lúc sửa điện thoại, vay icloud, bằng một cách nào đó mà người lạ truy cập vào được file rồi phát tán chúng.&lt;/p&gt; &lt;p&gt;Khoảng 2022 vào thời điểm dịch Covid&lt;br /&gt; T là người quay nhưng đc sự đồng thuận của cả hai.&lt;br /&gt; và dựa theo ngày đăng video mà t tìm đc trên mấy web đó thì từ 2025.&lt;/p&gt; &lt;p&gt;Hien tai t ko còn giữ bất kỳ file nào trên bất kì nền tảng nào&lt;/p&gt; &lt;p&gt;T muốn hỏi t phải đối diện với rủi ro phâp lý gì và cách giải quyết khôn ngoan và bình tĩnh nhất trong trường hợp này mặc dù biết là sẽ ko có bằng chứng kết tội t. Nhưng t vẫn cảm giác mệt mỏi và cần kinh nghiệm khi cơ quan chức năng tham gia điều tra nếu tình hình trở nên căng thẳng.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Tasty-Initiative3461"&gt; /u/Tasty-Initiative3461 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1uy1val/nyc_doạ_kiện_vì_video_nhạy_cảm_lúc_còn_yêu_bị/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1uy1val/nyc_doạ_kiện_vì_video_nhạy_cảm_lúc_còn_yêu_bị/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1uy1val/nyc_doạ_kiện_vì_video_nhạy_cảm_lúc_còn_yêu_bị/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình có một thắc mắc.&lt;/p&gt; &lt;p&gt;Nhiều người chấp nhận sống trong những căn nhà rất chật chội ở các thành phố lớn, trong khi với số tiền đó, nếu về quê có thể ở nhà rộng rãi, có sân vườn, không gian sống thoải mái hơn rất nhiều.&lt;/p&gt; &lt;p&gt;Ý mình không nói đến những người có thu nhập cao hoặc làm những công việc chỉ có ở thành phố. Nhưng với những người lao động tự do, thu nhập cũng không quá cao, thì điều gì khiến họ vẫn chọn bám trụ ở thành phố thay vì về quê?&lt;/p&gt; &lt;p&gt;Theo mọi người, lý do lớn nhất là gì?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Electronic_Pizza908"&gt; /u/Electronic_Pizza908 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1uxxf6a/nếu_thu_nhập_không_cao_bám_trụ_thành_phố_để_làm_gì/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1uxxf6a/nếu_thu_nhập_không_cao_bám_trụ_thành_phố_để_làm_gì/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1uxxf6a/nếu_thu_nhập_không_cao_bám_trụ_thành_phố_để_làm_gì/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-07-16T12:46:03+00:00</published>
+    <published>2026-07-16T09:01:38+00:00</published>
   </entry>
   <entry>
     <id>t3_1uyd5b2</id>
@@ -305,19 +318,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1uyd5b2/cảm_thấy_tội_lỗi_khi_ăn_sáng/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-07-16T19:43:41+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1uxxf6a</id>
-    <title>Nếu thu nhập không cao, bám trụ thành phố để làm gì?</title>
-    <updated>2026-07-16T09:01:38+00:00</updated>
-    <author>
-      <name>/u/Electronic_Pizza908</name>
-      <uri>https://old.reddit.com/user/Electronic_Pizza908</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình có một thắc mắc.&lt;/p&gt; &lt;p&gt;Nhiều người chấp nhận sống trong những căn nhà rất chật chội ở các thành phố lớn, trong khi với số tiền đó, nếu về quê có thể ở nhà rộng rãi, có sân vườn, không gian sống thoải mái hơn rất nhiều.&lt;/p&gt; &lt;p&gt;Ý mình không nói đến những người có thu nhập cao hoặc làm những công việc chỉ có ở thành phố. Nhưng với những người lao động tự do, thu nhập cũng không quá cao, thì điều gì khiến họ vẫn chọn bám trụ ở thành phố thay vì về quê?&lt;/p&gt; &lt;p&gt;Theo mọi người, lý do lớn nhất là gì?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Electronic_Pizza908"&gt; /u/Electronic_Pizza908 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1uxxf6a/nếu_thu_nhập_không_cao_bám_trụ_thành_phố_để_làm_gì/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1uxxf6a/nếu_thu_nhập_không_cao_bám_trụ_thành_phố_để_làm_gì/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1uxxf6a/nếu_thu_nhập_không_cao_bám_trụ_thành_phố_để_làm_gì/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-07-16T09:01:38+00:00</published>
   </entry>
   <entry>
     <id>t3_1uy0wlg</id>
