@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-07-19T14:11:42+00:00</updated>
+  <updated>2026-07-19T15:15:18+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
@@ -47,19 +47,6 @@
     <published>2026-07-18T04:15:41+00:00</published>
   </entry>
   <entry>
-    <id>t3_1v0prxt</id>
-    <title>Đại học Thanh Hoa</title>
-    <updated>2026-07-19T12:50:16+00:00</updated>
-    <author>
-      <name>/u/honaku</name>
-      <uri>https://old.reddit.com/user/honaku</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Dạo này tôi thấy khá nhiều hs VN mình đỗ Thanh Hoa, nhưng đều là nữ. Tôi có thuyết âm mưu đây là cách khắc phục hậu quả của chính sách 1 con bên Trung Quốc&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/honaku"&gt; /u/honaku &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v0prxt/đại_học_thanh_hoa/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v0prxt/đại_học_thanh_hoa/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1v0prxt/đại_học_thanh_hoa/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-07-19T12:50:16+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1v0g6yo</id>
     <title>Cách chọn giày phù hợp</title>
     <updated>2026-07-19T03:58:01+00:00</updated>
@@ -86,19 +73,6 @@
     <published>2026-07-19T10:02:02+00:00</published>
   </entry>
   <entry>
-    <id>t3_1v0nv2p</id>
-    <title>Tài liệu học tập trên đại học</title>
-    <updated>2026-07-19T11:15:53+00:00</updated>
-    <author>
-      <name>/u/Crocodile_dagamer</name>
-      <uri>https://old.reddit.com/user/Crocodile_dagamer</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Bình thường các anh chị học cơ sở ngành cơ khí, điện-điện tử có đọc mấy quyển giáo trình dày cộp ko ? Tại em đang vừa mới năm nhất, học gì thì cứ vào file các thầy cô gửi thôi tại nó cô đọng và tập trung vào những nội dung thi kthp nhất, thỉnh thoảng mới đọc thêm 1 ít trong sách, e sợ nếu mà cứ học trong file thì ko có đủ kiến thức chuyên môn, học chỉ để đi thi, sau này đi làm em sợ bị thiếu kiến thức, nhưng mà có nhiều quyển giáo trình dày mấy trăm trang mà ngồi đọc hết trong 1 kỳ thì cx kinh khủng quá. Em muốn biết là mn ôn thi thì có học hết giáo trình ko hay chỉ học những kiến thức trong file của thầy cô th và các anh chị đi làm rồi có tìm đọc lại giáo trình ko ? &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Crocodile_dagamer"&gt; /u/Crocodile_dagamer &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v0nv2p/tài_liệu_học_tập_trên_đại_học/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v0nv2p/tài_liệu_học_tập_trên_đại_học/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1v0nv2p/tài_liệu_học_tập_trên_đại_học/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-07-19T11:15:53+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1v0ein9</id>
     <title>Mình mới mua nhà mới, cho hỏi ae có biết loại cửa sắt nào kéo mượt ko?</title>
     <updated>2026-07-19T02:32:05+00:00</updated>
@@ -123,6 +97,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1v0opyo/công_việc_kỹ_sư_tại_fukuoka_có_đáng_không/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-07-19T12:00:23+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1v0h7z0</id>
+    <title>Whats wrong with BE nowadays</title>
+    <updated>2026-07-19T04:52:36+00:00</updated>
+    <author>
+      <name>/u/Sea_Cardiologist_628</name>
+      <uri>https://old.reddit.com/user/Sea_Cardiologist_628</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;3 times have I order food from a restaurant using BE as shipper.&lt;br /&gt; First time the driver told he doesnt accept bank transfer only cash. And its my problem if i dont have cash on me.&lt;br /&gt; Second time the driver drove to wrong destination 50m further away. Explained that he can drive the wrong way 50m if he want, or he have to driver further down thw road before he can turn. He chose the latter option and complained why i dindt tell him it was so close by so he can just drive the wrong way instead.&lt;br /&gt; Third encounter was try to find the driver by looking at their jacket, but found out that he didnt wear the company jacket. &lt;/p&gt; &lt;p&gt;None of these encounter was friendly or service minded. They are kinda rude compare to grab and Xanh&lt;/p&gt; &lt;p&gt;Is this normally how BE driver behaves or its just my luck?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Sea_Cardiologist_628"&gt; /u/Sea_Cardiologist_628 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v0h7z0/whats_wrong_with_be_nowadays/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v0h7z0/whats_wrong_with_be_nowadays/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1v0h7z0/whats_wrong_with_be_nowadays/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-07-19T04:52:36+00:00</published>
   </entry>
   <entry>
     <id>t3_1v0qvor</id>
@@ -164,17 +151,17 @@
     <published>2026-07-19T05:24:56+00:00</published>
   </entry>
   <entry>
-    <id>t3_1v0h7z0</id>
-    <title>Whats wrong with BE nowadays</title>
-    <updated>2026-07-19T04:52:36+00:00</updated>
+    <id>t3_1v0nv2p</id>
+    <title>Tài liệu học tập trên đại học</title>
+    <updated>2026-07-19T11:15:53+00:00</updated>
     <author>
-      <name>/u/Sea_Cardiologist_628</name>
-      <uri>https://old.reddit.com/user/Sea_Cardiologist_628</uri>
+      <name>/u/Crocodile_dagamer</name>
+      <uri>https://old.reddit.com/user/Crocodile_dagamer</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;3 times have I order food from a restaurant using BE as shipper.&lt;br /&gt; First time the driver told he doesnt accept bank transfer only cash. And its my problem if i dont have cash on me.&lt;br /&gt; Second time the driver drove to wrong destination 50m further away. Explained that he can drive the wrong way 50m if he want, or he have to driver further down thw road before he can turn. He chose the latter option and complained why i dindt tell him it was so close by so he can just drive the wrong way instead.&lt;br /&gt; Third encounter was try to find the driver by looking at their jacket, but found out that he didnt wear the company jacket. &lt;/p&gt; &lt;p&gt;None of these encounter was friendly or service minded. They are kinda rude compare to grab and Xanh&lt;/p&gt; &lt;p&gt;Is this normally how BE driver behaves or its just my luck?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Sea_Cardiologist_628"&gt; /u/Sea_Cardiologist_628 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v0h7z0/whats_wrong_with_be_nowadays/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v0h7z0/whats_wrong_with_be_nowadays/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1v0h7z0/whats_wrong_with_be_nowadays/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Bình thường các anh chị học cơ sở ngành cơ khí, điện-điện tử có đọc mấy quyển giáo trình dày cộp ko ? Tại em đang vừa mới năm nhất, học gì thì cứ vào file các thầy cô gửi thôi tại nó cô đọng và tập trung vào những nội dung thi kthp nhất, thỉnh thoảng mới đọc thêm 1 ít trong sách, e sợ nếu mà cứ học trong file thì ko có đủ kiến thức chuyên môn, học chỉ để đi thi, sau này đi làm em sợ bị thiếu kiến thức, nhưng mà có nhiều quyển giáo trình dày mấy trăm trang mà ngồi đọc hết trong 1 kỳ thì cx kinh khủng quá. Em muốn biết là mn ôn thi thì có học hết giáo trình ko hay chỉ học những kiến thức trong file của thầy cô th và các anh chị đi làm rồi có tìm đọc lại giáo trình ko ? &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Crocodile_dagamer"&gt; /u/Crocodile_dagamer &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v0nv2p/tài_liệu_học_tập_trên_đại_học/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v0nv2p/tài_liệu_học_tập_trên_đại_học/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1v0nv2p/tài_liệu_học_tập_trên_đại_học/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-07-19T04:52:36+00:00</published>
+    <published>2026-07-19T11:15:53+00:00</published>
   </entry>
   <entry>
     <id>t3_1v0ogoa</id>
@@ -242,19 +229,6 @@
     <published>2026-07-19T07:51:13+00:00</published>
   </entry>
   <entry>
-    <id>t3_1v0ot1q</id>
-    <title>Bác nào ở Hà Nội cho tui hỏi là với giá một bát cơm như này bao nhiêu vậy? Tui mới ra Hà Nội và ghé một quán ăn thử, phần ăn trong ảnh 64k.</title>
-    <updated>2026-07-19T12:04:03+00:00</updated>
-    <author>
-      <name>/u/Liu_Han</name>
-      <uri>https://old.reddit.com/user/Liu_Han</uri>
-    </author>
-    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1v0ot1q/bác_nào_ở_hà_nội_cho_tui_hỏi_là_với_giá_một_bát/"&gt; &lt;img alt="Bác nào ở Hà Nội cho tui hỏi là với giá một bát cơm như này bao nhiêu vậy? Tui mới ra Hà Nội và ghé một quán ăn thử, phần ăn trong ảnh 64k." src="https://preview.redd.it/zxmp3i73f6eh1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=e07566ce72d61a6119e44cb17908fba8ade53f74" title="Bác nào ở Hà Nội cho tui hỏi là với giá một bát cơm như này bao nhiêu vậy? Tui mới ra Hà Nội và ghé một quán ăn thử, phần ăn trong ảnh 64k." /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Ở quê tui thì phần ăn này cao lắm 39k, đúng là thủ đô có khác, gì cũng đắt 😐&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Liu_Han"&gt; /u/Liu_Han &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/zxmp3i73f6eh1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v0ot1q/bác_nào_ở_hà_nội_cho_tui_hỏi_là_với_giá_một_bát/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1v0ot1q/bác_nào_ở_hà_nội_cho_tui_hỏi_là_với_giá_một_bát/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-07-19T12:04:03+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1v0o2rk</id>
     <title>Job Seeking after B.S. in the US</title>
     <updated>2026-07-19T11:27:25+00:00</updated>
@@ -266,6 +240,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1v0o2rk/job_seeking_after_bs_in_the_us/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-07-19T11:27:25+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1v0ot1q</id>
+    <title>Bác nào ở Hà Nội cho tui hỏi là với giá một bát cơm như này bao nhiêu vậy? Tui mới ra Hà Nội và ghé một quán ăn thử, phần ăn trong ảnh 64k.</title>
+    <updated>2026-07-19T12:04:03+00:00</updated>
+    <author>
+      <name>/u/Liu_Han</name>
+      <uri>https://old.reddit.com/user/Liu_Han</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1v0ot1q/bác_nào_ở_hà_nội_cho_tui_hỏi_là_với_giá_một_bát/"&gt; &lt;img alt="Bác nào ở Hà Nội cho tui hỏi là với giá một bát cơm như này bao nhiêu vậy? Tui mới ra Hà Nội và ghé một quán ăn thử, phần ăn trong ảnh 64k." src="https://preview.redd.it/zxmp3i73f6eh1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=e07566ce72d61a6119e44cb17908fba8ade53f74" title="Bác nào ở Hà Nội cho tui hỏi là với giá một bát cơm như này bao nhiêu vậy? Tui mới ra Hà Nội và ghé một quán ăn thử, phần ăn trong ảnh 64k." /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Ở quê tui thì phần ăn này cao lắm 39k, đúng là thủ đô có khác, gì cũng đắt 😐&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Liu_Han"&gt; /u/Liu_Han &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/zxmp3i73f6eh1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v0ot1q/bác_nào_ở_hà_nội_cho_tui_hỏi_là_với_giá_một_bát/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1v0ot1q/bác_nào_ở_hà_nội_cho_tui_hỏi_là_với_giá_một_bát/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-07-19T12:04:03+00:00</published>
   </entry>
   <entry>
     <id>t3_1v0hweh</id>
@@ -281,19 +268,6 @@
     <published>2026-07-19T05:30:13+00:00</published>
   </entry>
   <entry>
-    <id>t3_1v0qevj</id>
-    <title>Chọn gì rồi cũng hối hận? – Tuổi 22 trước hai ngả đường</title>
-    <updated>2026-07-19T13:18:56+00:00</updated>
-    <author>
-      <name>/u/Mean_Carry_8917</name>
-      <uri>https://old.reddit.com/user/Mean_Carry_8917</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chọn gì rồi cũng hối hận? – Tuổi 22 trước hai ngả đường&lt;/p&gt; &lt;p&gt;​Chào mọi người, em 2k4, tốt nghiệp bằng Xuất sắc, có C1 Tiếng Anh. Em đang làm cho một cty Đài khá to.&lt;/p&gt; &lt;p&gt;​Do không cận nên cuối năm nay em dễ dính NVQS. Hiện em đang lấn cấn giữa 2 hướng:&lt;/p&gt; &lt;p&gt;​1. Đăng ký đi NVQS luôn: 2 năm về làm lại từ đầu. Ưu điểm là dứt điểm nghĩa vụ, nhược điểm là sợ &amp;quot;out meta&amp;quot;, rơi rớt ngoại ngữ.&lt;/p&gt; &lt;p&gt;​2. Học VB2 Công an: Ra trường hàm Trung úy, siêu ổn định. Nhưng nhà em thuần nông, không có ai trong ngành nên sợ vào môi trường đặc thù này dễ bị chèn ép, khó phát triển.&lt;/p&gt; &lt;p&gt;​Đúng là tuổi 22 chọn cái gì cũng thấy tiếc nuối. Chọn tự do thì vướng nghĩa vụ, chọn ổn định màu áo xanh thì mất tự do bay nhảy.&lt;/p&gt; &lt;p&gt;​Các anh đi trước có kinh nghiệm cho em xin góc nhìn thực tế với ạ. Em cảm ơn!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Mean_Carry_8917"&gt; /u/Mean_Carry_8917 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v0qevj/chọn_gì_rồi_cũng_hối_hận_tuổi_22_trước_hai_ngả/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v0qevj/chọn_gì_rồi_cũng_hối_hận_tuổi_22_trước_hai_ngả/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1v0qevj/chọn_gì_rồi_cũng_hối_hận_tuổi_22_trước_hai_ngả/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-07-19T13:18:56+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1v0j0v7</id>
     <title>Mọi người ở trọ hay uống nước gì thế ạ</title>
     <updated>2026-07-19T06:32:58+00:00</updated>
@@ -307,6 +281,19 @@
     <published>2026-07-19T06:32:58+00:00</published>
   </entry>
   <entry>
+    <id>t3_1v0qevj</id>
+    <title>Chọn gì rồi cũng hối hận? – Tuổi 22 trước hai ngả đường</title>
+    <updated>2026-07-19T13:18:56+00:00</updated>
+    <author>
+      <name>/u/Mean_Carry_8917</name>
+      <uri>https://old.reddit.com/user/Mean_Carry_8917</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chọn gì rồi cũng hối hận? – Tuổi 22 trước hai ngả đường&lt;/p&gt; &lt;p&gt;​Chào mọi người, em 2k4, tốt nghiệp bằng Xuất sắc, có C1 Tiếng Anh. Em đang làm cho một cty Đài khá to.&lt;/p&gt; &lt;p&gt;​Do không cận nên cuối năm nay em dễ dính NVQS. Hiện em đang lấn cấn giữa 2 hướng:&lt;/p&gt; &lt;p&gt;​1. Đăng ký đi NVQS luôn: 2 năm về làm lại từ đầu. Ưu điểm là dứt điểm nghĩa vụ, nhược điểm là sợ &amp;quot;out meta&amp;quot;, rơi rớt ngoại ngữ.&lt;/p&gt; &lt;p&gt;​2. Học VB2 Công an: Ra trường hàm Trung úy, siêu ổn định. Nhưng nhà em thuần nông, không có ai trong ngành nên sợ vào môi trường đặc thù này dễ bị chèn ép, khó phát triển.&lt;/p&gt; &lt;p&gt;​Đúng là tuổi 22 chọn cái gì cũng thấy tiếc nuối. Chọn tự do thì vướng nghĩa vụ, chọn ổn định màu áo xanh thì mất tự do bay nhảy.&lt;/p&gt; &lt;p&gt;​Các anh đi trước có kinh nghiệm cho em xin góc nhìn thực tế với ạ. Em cảm ơn!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Mean_Carry_8917"&gt; /u/Mean_Carry_8917 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v0qevj/chọn_gì_rồi_cũng_hối_hận_tuổi_22_trước_hai_ngả/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v0qevj/chọn_gì_rồi_cũng_hối_hận_tuổi_22_trước_hai_ngả/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1v0qevj/chọn_gì_rồi_cũng_hối_hận_tuổi_22_trước_hai_ngả/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-07-19T13:18:56+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1v0ltjt</id>
     <title>Ngoại trừ nhà ra. Mn chọn đâu để chill đọc sách / học / làm việc / đơn giản là ngắm đường sá, con người?</title>
     <updated>2026-07-19T09:17:10+00:00</updated>
@@ -318,6 +305,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1v0ltjt/ngoại_trừ_nhà_ra_mn_chọn_đâu_để_chill_đọc_sách/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-07-19T09:17:10+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1v0roy2</id>
+    <title>Các bác cho em hỏi, sau 23 tuổi, ra đại học và đi làm rồi thì các bác còn kết bạn, gặp thêm nhiều người mới như hồi còn trẻ không?</title>
+    <updated>2026-07-19T14:14:24+00:00</updated>
+    <author>
+      <name>/u/These-Cost-905</name>
+      <uri>https://old.reddit.com/user/These-Cost-905</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các bác cho em hỏi, sau 23 tuổi, ra đại học và đi làm rồi thì các bác còn kết bạn, gặp thêm nhiều người mới như hồi còn trẻ không?&lt;/p&gt; &lt;p&gt;Em thì gần như không còn. Cảm giác càng lớn càng khó có những mối quan hệ tự nhiên. Những người mới quen đa số chỉ xã giao, có mục đích riêng, thậm chí gặp không ít trường hợp lợi dụng hoặc lừa đảo nên càng ngày càng ngại mở lòng.&lt;/p&gt; &lt;p&gt;Không biết đây có phải là chuyện bình thường không. Các bác sau 23 tuổi thường làm thế nào để gặp được những mối quan hệ mới, bạn bè thật sự, chứ không phải chỉ quen biết vì lợi ích?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/These-Cost-905"&gt; /u/These-Cost-905 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v0roy2/các_bác_cho_em_hỏi_sau_23_tuổi_ra_đại_học_và_đi/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v0roy2/các_bác_cho_em_hỏi_sau_23_tuổi_ra_đại_học_và_đi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1v0roy2/các_bác_cho_em_hỏi_sau_23_tuổi_ra_đại_học_và_đi/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-07-19T14:14:24+00:00</published>
   </entry>
   <entry>
     <id>t3_1v0hqfp</id>
