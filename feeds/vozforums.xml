@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-07-18T23:10:07+00:00</updated>
+  <updated>2026-07-19T00:09:23+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Cộng đồng không chính thức trên Reddit của vOzforums (nay là voz.vn).</subtitle>
-  <entry>
-    <id>t3_1uyv1r4</id>
-    <title>Từ bỏ tình yêu vì chật vật với cuộc sống?</title>
-    <updated>2026-07-17T09:43:03+00:00</updated>
-    <author>
-      <name>/u/alpaca201</name>
-      <uri>https://old.reddit.com/user/alpaca201</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Đàn ông từ bỏ người mình yêu vì lý do nghèo, cảm thấy không xứng, sợ làm người đó khổ hay vì họ không yêu đến thế nên thứ đầu tiên họ vứt bỏ là tình yêu khi gặp khó khăn?&lt;/p&gt; &lt;p&gt;Nếu cả hai đều cố gắng thì liệu mối quan hệ đó sẽ có một kết cục tốt đẹp hay không?&lt;/p&gt; &lt;p&gt;Hay vấn đề cơm áo gạo tiền sẽ vả vào mặt họ?&lt;/p&gt; &lt;p&gt;edit: em là nữ ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/alpaca201"&gt; /u/alpaca201 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1uyv1r4/từ_bỏ_tình_yêu_vì_chật_vật_với_cuộc_sống/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1uyv1r4/từ_bỏ_tình_yêu_vì_chật_vật_với_cuộc_sống/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1uyv1r4/từ_bỏ_tình_yêu_vì_chật_vật_với_cuộc_sống/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-07-17T09:43:03+00:00</published>
-  </entry>
   <entry>
     <id>t3_1uzwnw6</id>
     <title>Tình cảm hay là Kinh tế</title>
@@ -190,19 +177,6 @@
     <published>2026-07-18T02:53:31+00:00</published>
   </entry>
   <entry>
-    <id>t3_1v01shv</id>
-    <title>Học Tiếng Trung Gấp Rút Đi Làm</title>
-    <updated>2026-07-18T17:24:07+00:00</updated>
-    <author>
-      <name>/u/okevip</name>
-      <uri>https://old.reddit.com/user/okevip</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hiện tại mình đang làm tại công ty Hàn và đã kiếm đủ vốn để không bị chặt vật khi nghỉ việc . Tiếng Trung hiện tại của mình là hsk2 mình dự kiến 7tháng nữa sẽ nghỉ cty tức là qua tết mình sẽ đầu quân vào cty Trung dự kiến năm sau làm việc chỉ để học hỏi kinh nghiệm không cần mức lương phải cao , vậy thì 7 tháng này khả năng học và có thể làm việc tại cty Trung có gọi là nhanh quá không ạ !&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/okevip"&gt; /u/okevip &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v01shv/học_tiếng_trung_gấp_rút_đi_làm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v01shv/học_tiếng_trung_gấp_rút_đi_làm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1v01shv/học_tiếng_trung_gấp_rút_đi_làm/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-07-18T17:24:07+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1uzy6lo</id>
     <title>Em muốn tham khảo những chỗ bán vòng ngọc ạ</title>
     <updated>2026-07-18T15:01:21+00:00</updated>
@@ -242,6 +216,19 @@
     <published>2026-07-18T14:48:51+00:00</published>
   </entry>
   <entry>
+    <id>t3_1v01shv</id>
+    <title>Học Tiếng Trung Gấp Rút Đi Làm</title>
+    <updated>2026-07-18T17:24:07+00:00</updated>
+    <author>
+      <name>/u/okevip</name>
+      <uri>https://old.reddit.com/user/okevip</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hiện tại mình đang làm tại công ty Hàn và đã kiếm đủ vốn để không bị chặt vật khi nghỉ việc . Tiếng Trung hiện tại của mình là hsk2 mình dự kiến 7tháng nữa sẽ nghỉ cty tức là qua tết mình sẽ đầu quân vào cty Trung dự kiến năm sau làm việc chỉ để học hỏi kinh nghiệm không cần mức lương phải cao , vậy thì 7 tháng này khả năng học và có thể làm việc tại cty Trung có gọi là nhanh quá không ạ !&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/okevip"&gt; /u/okevip &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v01shv/học_tiếng_trung_gấp_rút_đi_làm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v01shv/học_tiếng_trung_gấp_rút_đi_làm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1v01shv/học_tiếng_trung_gấp_rút_đi_làm/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-07-18T17:24:07+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1uzqtdt</id>
     <title>First date thì đi chung hay riêng?</title>
     <updated>2026-07-18T08:59:03+00:00</updated>
@@ -253,6 +240,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1uzqtdt/first_date_thì_đi_chung_hay_riêng/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-07-18T08:59:03+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1v0ad2v</id>
+    <title>Chứng ngủ l.y bì trong tiền knguyet</title>
+    <updated>2026-07-18T23:14:57+00:00</updated>
+    <author>
+      <name>/u/Lethaovan_</name>
+      <uri>https://old.reddit.com/user/Lethaovan_</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Có cách nào giảm tình trạng này không mn? Trước khi đến kn mình luôn rơi vào trạng thái ngủ l.y bì khoảng 5 ngày mình ngủ từ tối đến 5h chiều không ăn uống gì hết. Bình thường không bị nhưng cứ đến kỳ kn lại bị như vậy. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Lethaovan_"&gt; /u/Lethaovan_ &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v0ad2v/chứng_ngủ_ly_bì_trong_tiền_knguyet/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v0ad2v/chứng_ngủ_ly_bì_trong_tiền_knguyet/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1v0ad2v/chứng_ngủ_ly_bì_trong_tiền_knguyet/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-07-18T23:14:57+00:00</published>
   </entry>
   <entry>
     <id>t3_1uzqaw1</id>
@@ -294,19 +294,6 @@
     <published>2026-07-18T17:43:44+00:00</published>
   </entry>
   <entry>
-    <id>t3_1uzxktz</id>
-    <title>Phương pháp học sao cho chuẩn chỉ</title>
-    <updated>2026-07-18T14:37:04+00:00</updated>
-    <author>
-      <name>/u/Fake_Interpreter</name>
-      <uri>https://old.reddit.com/user/Fake_Interpreter</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em sinh viên năm nhất. Em ấn tượng với các anh chị đh về cách học lẫn tư duy. Ở đây em ko nói đến việc cần cù chịu khó mà phương pháp họ học hiểu. Em cũng ngồi học giống các anh chị mà ko biết tại sao khả năng tiếp thu bài cũng như vận dụng lại thấp hơn các anh chị đó rất nhiều. Các anh chị đi trước có kinh nghiệm gì hay có thể chia sẻ em với ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Fake_Interpreter"&gt; /u/Fake_Interpreter &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1uzxktz/phương_pháp_học_sao_cho_chuẩn_chỉ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1uzxktz/phương_pháp_học_sao_cho_chuẩn_chỉ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1uzxktz/phương_pháp_học_sao_cho_chuẩn_chỉ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-07-18T14:37:04+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1v07zdu</id>
     <title>Có điều gì đã thay đổi mọi người rất nhiều không?</title>
     <updated>2026-07-18T21:31:33+00:00</updated>
@@ -318,6 +305,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1v07zdu/có_điều_gì_đã_thay_đổi_mọi_người_rất_nhiều_không/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-07-18T21:31:33+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1uzxktz</id>
+    <title>Phương pháp học sao cho chuẩn chỉ</title>
+    <updated>2026-07-18T14:37:04+00:00</updated>
+    <author>
+      <name>/u/Fake_Interpreter</name>
+      <uri>https://old.reddit.com/user/Fake_Interpreter</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em sinh viên năm nhất. Em ấn tượng với các anh chị đh về cách học lẫn tư duy. Ở đây em ko nói đến việc cần cù chịu khó mà phương pháp họ học hiểu. Em cũng ngồi học giống các anh chị mà ko biết tại sao khả năng tiếp thu bài cũng như vận dụng lại thấp hơn các anh chị đó rất nhiều. Các anh chị đi trước có kinh nghiệm gì hay có thể chia sẻ em với ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Fake_Interpreter"&gt; /u/Fake_Interpreter &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1uzxktz/phương_pháp_học_sao_cho_chuẩn_chỉ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1uzxktz/phương_pháp_học_sao_cho_chuẩn_chỉ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1uzxktz/phương_pháp_học_sao_cho_chuẩn_chỉ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-07-18T14:37:04+00:00</published>
   </entry>
   <entry>
     <id>t3_1uzlp5z</id>
