@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-07-20T16:54:15+00:00</updated>
+  <updated>2026-07-20T18:51:33+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Cộng đồng không chính thức trên Reddit của vOzforums (nay là voz.vn).</subtitle>
-  <entry>
-    <id>t3_1v1776p</id>
-    <title>Mạng Fpt</title>
-    <updated>2026-07-20T01:00:41+00:00</updated>
-    <author>
-      <name>/u/TheMightyJulian</name>
-      <uri>https://old.reddit.com/user/TheMightyJulian</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Có bác nào xài fpt mà phải qua vpn mới vô được reddit hay x ko? Mới hôm qua còn vô bth được&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/TheMightyJulian"&gt; /u/TheMightyJulian &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v1776p/mạng_fpt/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v1776p/mạng_fpt/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1v1776p/mạng_fpt/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-07-20T01:00:41+00:00</published>
-  </entry>
   <entry>
     <id>t3_1v1gbcc</id>
     <title>Mình muốn mở tiệm sách nhỏ dưới quê thì nên làm gì?</title>
@@ -60,19 +47,6 @@
     <published>2026-07-19T12:04:03+00:00</published>
   </entry>
   <entry>
-    <id>t3_1v1atx9</id>
-    <title>Cho phụ huynh mượn TK ngân hàng để buôn bán nhỏ thì có dính thuế không</title>
-    <updated>2026-07-20T04:00:58+00:00</updated>
-    <author>
-      <name>/u/holyhuy</name>
-      <uri>https://old.reddit.com/user/holyhuy</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là tía má ở quê không rành mấy vụ công nghệ, app ủng ngân hàng lắm. Nên sắp tới mình có tính đăng ký loa phát thanh toán dưới tên mình để ba má buôn bán nhỏ. Tổng dòng tiền &amp;lt;20m một tháng. Cho mình hỏi có cần đăng ký hộ kinh doanh không hay cứ để vậy thôi, và có bị tính thuế không ( hiện tại mình cũng đang làm văn phòng lương lậu cũng &amp;lt;30m)&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/holyhuy"&gt; /u/holyhuy &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v1atx9/cho_phụ_huynh_mượn_tk_ngân_hàng_để_buôn_bán_nhỏ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v1atx9/cho_phụ_huynh_mượn_tk_ngân_hàng_để_buôn_bán_nhỏ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1v1atx9/cho_phụ_huynh_mượn_tk_ngân_hàng_để_buôn_bán_nhỏ/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-07-20T04:00:58+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1v1izhx</id>
     <title>Tìm người phỏng vấn về chủ đề quy hoạch HN</title>
     <updated>2026-07-20T11:36:47+00:00</updated>
@@ -97,6 +71,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1v1f09w/xin_kinh_nghiệm_về_erp_consultant/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-07-20T07:54:57+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1v1atx9</id>
+    <title>Cho phụ huynh mượn TK ngân hàng để buôn bán nhỏ thì có dính thuế không</title>
+    <updated>2026-07-20T04:00:58+00:00</updated>
+    <author>
+      <name>/u/holyhuy</name>
+      <uri>https://old.reddit.com/user/holyhuy</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là tía má ở quê không rành mấy vụ công nghệ, app ủng ngân hàng lắm. Nên sắp tới mình có tính đăng ký loa phát thanh toán dưới tên mình để ba má buôn bán nhỏ. Tổng dòng tiền &amp;lt;20m một tháng. Cho mình hỏi có cần đăng ký hộ kinh doanh không hay cứ để vậy thôi, và có bị tính thuế không ( hiện tại mình cũng đang làm văn phòng lương lậu cũng &amp;lt;30m)&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/holyhuy"&gt; /u/holyhuy &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v1atx9/cho_phụ_huynh_mượn_tk_ngân_hàng_để_buôn_bán_nhỏ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v1atx9/cho_phụ_huynh_mượn_tk_ngân_hàng_để_buôn_bán_nhỏ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1v1atx9/cho_phụ_huynh_mượn_tk_ngân_hàng_để_buôn_bán_nhỏ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-07-20T04:00:58+00:00</published>
   </entry>
   <entry>
     <id>t3_1v0hqfp</id>
@@ -190,32 +177,6 @@
     <published>2026-07-19T15:34:49+00:00</published>
   </entry>
   <entry>
-    <id>t3_1v1e860</id>
-    <title>Làm sao để biết khi nào con trai thấy phiền ?</title>
-    <updated>2026-07-20T07:08:40+00:00</updated>
-    <author>
-      <name>/u/csbyinz</name>
-      <uri>https://old.reddit.com/user/csbyinz</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình là nữ, thường thì mình không được tinh ý cho lắm nên khá khó nhận biết cảm xúc của đối phương. Mình và bạn kia chỉ học chung trên lớp học phụ đạo. Cũng được 2 năm hơn mình để ý bạn ấy rồi nhưng giờ mới dám chủ động nói chuyện. Mình có đến xin kết bạn với bạn ấy xong về nhà hỏi in4 mấy cái linh tinh rồi cũng hết cuộc trò chuyện. (Đêm qua thì mình có nhắn cho bạn ấy nhưng nói cũng hơi nhạt nhạt... xong nhắn xong bạn ấy cũng chỉ thả react. Mà loạn là mình 1h sáng vào check thì bấm nhầm gửi tin nhắn phải xin lỗi rối rít =)))))) may bạn ấy cũng rep lại sticker) Mặc dù cũng tự cảm thấy hơi bế tắc nhưng mình vẫn muốn tiếp tục cố gắng làm bạn với người ta 😭 Có cái tính mình thỉnh thoảng hay bị chủ động thái quá nên sợ làm đối phương thấy ngộp huhu&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/csbyinz"&gt; /u/csbyinz &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v1e860/làm_sao_để_biết_khi_nào_con_trai_thấy_phiền/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v1e860/làm_sao_để_biết_khi_nào_con_trai_thấy_phiền/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1v1e860/làm_sao_để_biết_khi_nào_con_trai_thấy_phiền/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-07-20T07:08:40+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1v1e1b3</id>
-    <title>ứng dụng nhận tiền ngoại hối</title>
-    <updated>2026-07-20T06:58:07+00:00</updated>
-    <author>
-      <name>/u/gHeVaYS</name>
-      <uri>https://old.reddit.com/user/gHeVaYS</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;sao mấy app banking nhận tiền từ nước ngoài nó bất ổn thế mấy bác nhỉ,paypal thì giao dịch 1 lần ban nick vĩnh viễn,payoneer thì đăng nhập toàn dính lỗi không xác định rồi thử lại thì khoá tk 30ph :v mấy cái khác thì thời gian chuyển siêu lâu,em làm 3d modeling thôi ,chuyển cũng toàn khoản nhỏ thôi k nhiều.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/gHeVaYS"&gt; /u/gHeVaYS &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v1e1b3/ứng_dụng_nhận_tiền_ngoại_hối/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v1e1b3/ứng_dụng_nhận_tiền_ngoại_hối/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1v1e1b3/ứng_dụng_nhận_tiền_ngoại_hối/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-07-20T06:58:07+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1v1i06j</id>
     <title>Lại là về việc DQTV</title>
     <updated>2026-07-20T10:46:53+00:00</updated>
@@ -242,17 +203,43 @@
     <published>2026-07-20T16:46:38+00:00</published>
   </entry>
   <entry>
-    <id>t3_1v1o8dg</id>
-    <title>Một cảm giác kỳ lạ</title>
-    <updated>2026-07-20T15:09:14+00:00</updated>
+    <id>t3_1v1e860</id>
+    <title>Làm sao để biết khi nào con trai thấy phiền ?</title>
+    <updated>2026-07-20T07:08:40+00:00</updated>
     <author>
-      <name>/u/AshakagiYasari</name>
-      <uri>https://old.reddit.com/user/AshakagiYasari</uri>
+      <name>/u/csbyinz</name>
+      <uri>https://old.reddit.com/user/csbyinz</uri>
     </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Có bao giờ các vozer đi đến 1 nơi nào đó, nhưng lại cảm giác như mình đã từng đến, từng sống ở đó rồi không. Chả là t có dịp đi Ô Môn, Cần Thơ dự đám cưới người bạn. Thay vì đi đường quốc lộ để đến đó, t lại quyết định tập vào đường tỉnh mà t chưa đi bao giờ, để chạy lên đó. Coi như đây 1 chuyến dạo chơi giết thời gian. Lúc đó là 6h sáng, t đến chợ bà đầm. Không biết vì lý do gì mà t cảm thấy mình đã từng đến nơi này. Từng gốc chợ, con đường, dòng người tấp nập trong quá quen thuộc tới mức kỳ lạ. Bỗng tim t nhảy đi 1 nhịp, cơ thể t như nóng lên. Cảm xúc như mình là đứa con xa vừa mới về nhà v, mặc cho t chưa bao giờ đến nơi này bao giờ. Tự trấn an bản thân, t tiếp tục chạy đi mà không suy nghĩ. Coi đó chỉ là cảm xúc thoáng qua thôi. Cuối cùng khi về, t ko chạy về con đường đó 1 lần nào nữa. Dù cho bản thân t muốn đi ngang qua đó 1 lần nữa. Chuyện đã qua dc vài ngày, nhưng cái hình ảnh và cảm xúc vẫn cứ mắc kẹt mấy ngày nay. Nên t đành phải tâm sự vs các vozer để giải bày.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/AshakagiYasari"&gt; /u/AshakagiYasari &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v1o8dg/một_cảm_giác_kỳ_lạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v1o8dg/một_cảm_giác_kỳ_lạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1v1o8dg/một_cảm_giác_kỳ_lạ/"/>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình là nữ, thường thì mình không được tinh ý cho lắm nên khá khó nhận biết cảm xúc của đối phương. Mình và bạn kia chỉ học chung trên lớp học phụ đạo. Cũng được 2 năm hơn mình để ý bạn ấy rồi nhưng giờ mới dám chủ động nói chuyện. Mình có đến xin kết bạn với bạn ấy xong về nhà hỏi in4 mấy cái linh tinh rồi cũng hết cuộc trò chuyện. (Đêm qua thì mình có nhắn cho bạn ấy nhưng nói cũng hơi nhạt nhạt... xong nhắn xong bạn ấy cũng chỉ thả react. Mà loạn là mình 1h sáng vào check thì bấm nhầm gửi tin nhắn phải xin lỗi rối rít =)))))) may bạn ấy cũng rep lại sticker) Mặc dù cũng tự cảm thấy hơi bế tắc nhưng mình vẫn muốn tiếp tục cố gắng làm bạn với người ta 😭 Có cái tính mình thỉnh thoảng hay bị chủ động thái quá nên sợ làm đối phương thấy ngộp huhu&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/csbyinz"&gt; /u/csbyinz &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v1e860/làm_sao_để_biết_khi_nào_con_trai_thấy_phiền/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v1e860/làm_sao_để_biết_khi_nào_con_trai_thấy_phiền/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1v1e860/làm_sao_để_biết_khi_nào_con_trai_thấy_phiền/"/>
     <category term="vozforums" label="r/vozforums"/>
-    <published>2026-07-20T15:09:14+00:00</published>
+    <published>2026-07-20T07:08:40+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1v1e1b3</id>
+    <title>ứng dụng nhận tiền ngoại hối</title>
+    <updated>2026-07-20T06:58:07+00:00</updated>
+    <author>
+      <name>/u/gHeVaYS</name>
+      <uri>https://old.reddit.com/user/gHeVaYS</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;sao mấy app banking nhận tiền từ nước ngoài nó bất ổn thế mấy bác nhỉ,paypal thì giao dịch 1 lần ban nick vĩnh viễn,payoneer thì đăng nhập toàn dính lỗi không xác định rồi thử lại thì khoá tk 30ph :v mấy cái khác thì thời gian chuyển siêu lâu,em làm 3d modeling thôi ,chuyển cũng toàn khoản nhỏ thôi k nhiều.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/gHeVaYS"&gt; /u/gHeVaYS &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v1e1b3/ứng_dụng_nhận_tiền_ngoại_hối/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v1e1b3/ứng_dụng_nhận_tiền_ngoại_hối/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1v1e1b3/ứng_dụng_nhận_tiền_ngoại_hối/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-07-20T06:58:07+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1v1tthw</id>
+    <title>24 tuổi ăn bám gia đình,đâù óc chậm tiêu ù lì,sống cô lập xã hội</title>
+    <updated>2026-07-20T18:31:23+00:00</updated>
+    <author>
+      <name>/u/manhdzno1</name>
+      <uri>https://old.reddit.com/user/manhdzno1</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em năm nay 24 tuổi vẫn còn ăn bám ngửa tay xin tiền gia đình,trước học đại học nhưng cũng bỏ dở giữa chừng vì không theo nổi,em là người chậm chạp đầu óc chậm tiêu ù lì,em không biết tự suy nghĩ để giải quyết vấn đề trong cuộc sống,tính cách thụ động và đặc biệt phụ thuộc ỷ lại dựa dẫm vào người khác ,có nhiều thứ người ta giải thích nhiều lần em mới hiểu và em thường phải hỏi đi hỏi lại nhiều lần khiến người khác bực mình.Em sống cô lập với xã hội ,không bạn bè ,không định hướng,không công việc.Bây giờ em chán nản bế tắc, tự ti vào bản thân quá,nhiêù khi em khóc giữa đêm vì bất lực với chính mình,cảm thấy mình kém cỏi bất tài vô dụng ,tuyệt vọng vì trí tuệ bẩm sinh của mình không được bình thường.Mọi người có thể làm ơn giúp em ,cho em lời khuyên giải pháp cứu em khỏi tình trạng này không&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/manhdzno1"&gt; /u/manhdzno1 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v1tthw/24_tuổi_ăn_bám_gia_đìnhđâù_óc_chậm_tiêu_ù_lìsống/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v1tthw/24_tuổi_ăn_bám_gia_đìnhđâù_óc_chậm_tiêu_ù_lìsống/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1v1tthw/24_tuổi_ăn_bám_gia_đìnhđâù_óc_chậm_tiêu_ù_lìsống/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-07-20T18:31:23+00:00</published>
   </entry>
   <entry>
     <id>t3_1v1dqwn</id>
@@ -266,6 +253,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1v1dqwn/hỏi_mấy_bạn_99_trở_về_sau_hiện_đang_áp_lực_chuyện/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-07-20T06:41:28+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1v1o8dg</id>
+    <title>Một cảm giác kỳ lạ</title>
+    <updated>2026-07-20T15:09:14+00:00</updated>
+    <author>
+      <name>/u/AshakagiYasari</name>
+      <uri>https://old.reddit.com/user/AshakagiYasari</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Có bao giờ các vozer đi đến 1 nơi nào đó, nhưng lại cảm giác như mình đã từng đến, từng sống ở đó rồi không. Chả là t có dịp đi Ô Môn, Cần Thơ dự đám cưới người bạn. Thay vì đi đường quốc lộ để đến đó, t lại quyết định tập vào đường tỉnh mà t chưa đi bao giờ, để chạy lên đó. Coi như đây 1 chuyến dạo chơi giết thời gian. Lúc đó là 6h sáng, t đến chợ bà đầm. Không biết vì lý do gì mà t cảm thấy mình đã từng đến nơi này. Từng gốc chợ, con đường, dòng người tấp nập trong quá quen thuộc tới mức kỳ lạ. Bỗng tim t nhảy đi 1 nhịp, cơ thể t như nóng lên. Cảm xúc như mình là đứa con xa vừa mới về nhà v, mặc cho t chưa bao giờ đến nơi này bao giờ. Tự trấn an bản thân, t tiếp tục chạy đi mà không suy nghĩ. Coi đó chỉ là cảm xúc thoáng qua thôi. Cuối cùng khi về, t ko chạy về con đường đó 1 lần nào nữa. Dù cho bản thân t muốn đi ngang qua đó 1 lần nữa. Chuyện đã qua dc vài ngày, nhưng cái hình ảnh và cảm xúc vẫn cứ mắc kẹt mấy ngày nay. Nên t đành phải tâm sự vs các vozer để giải bày.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/AshakagiYasari"&gt; /u/AshakagiYasari &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v1o8dg/một_cảm_giác_kỳ_lạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v1o8dg/một_cảm_giác_kỳ_lạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1v1o8dg/một_cảm_giác_kỳ_lạ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-07-20T15:09:14+00:00</published>
   </entry>
   <entry>
     <id>t3_1v1hqhx</id>
@@ -294,19 +294,6 @@
     <published>2026-07-20T13:32:16+00:00</published>
   </entry>
   <entry>
-    <id>t3_1v1n0w5</id>
-    <title>Cảm giác ghê tởm quá</title>
-    <updated>2026-07-20T14:23:45+00:00</updated>
-    <author>
-      <name>/u/Aromatic_Arugula5553</name>
-      <uri>https://old.reddit.com/user/Aromatic_Arugula5553</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Nhớ lại mà cảm thấy không đáng và không cần thiết phải sống nữa, từ lúc bắt đầu đi học tiểu học đã thấy cảm giác bất an, liên tục căng thẳng vì môi trường sống và đặc biệt là từ bố mẹ. Tôi không được bình thường hoặc có thể tôi cảm thấy mình khác biệt với số đông xã hội về khả năng tương tác, giao tiếp. Không thể trao đổi với người nhà về vấn đề của mình vì tôi đã từng trò chuyện với họ nhưng họ không hiểu được hoặc họ không muốn chấp nhận sự thật là tôi có vấn đề, họ nói rằng tôi bị điên và làm quá lên. Tôi học kém và bỏ học năm lớp 12. Sức khỏe khá tệ vì bị thoát vị đĩa đệm từ năm 16 tuổi mà lí do bị bệnh là do tôi. Tôi cũng từng đi kiếm việc làm nhưng chủ yếu do khả năng giao tiếp xã hội mà tôi không thể làm việc. Bây giờ 22 tuổi mà không có cảm giác thân thuộc, gắn bó gì với người thân cả mà tôi cũng chẳng biết mối quan hệ gia đình là để làm gì nữa. Từ nhỏ đã nhận ra mục đích mà bố mẹ sinh tôi ra và họ hàng của tôi khi muốn có con cháu khiến tôi chán nản tột độ, hơn hai năm nay luôn nghĩ đến cái chết hàng ngày. Từ lúc tiếp xúc với mxh, deep web nhiều và biết thêm về bản chất của con người khiến tôi phát ngán, ghê rợn xã hội loài người. Tôi cũng không coi cái thân xác này là của tôi. Ai sản xuất ra thì tôi cũng muốn trả lại cho người đó, nếu bây giờ mà có thể bán hết mô, tạng một cách an toàn để hoàn vốn nuôi cái thân này cho bố mẹ thì tôi cũng sẵn sàng chết và bán luôn nhưng tôi không biết làm thế nào để nói chuyện với họ. Hoặc có thể tôi phải chết vì tự tử như bao người khác hằng ngày. Chẳng biết tìm ai đề trò chuyện nữa mặc dù khó chịu khi tiếp xúc xã hội nhưng mà bản năng đi kêu cứu nó vẫn còn.Lần đầu đăng bài nên bài viết phần loằng ngoằng 🥴 &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Aromatic_Arugula5553"&gt; /u/Aromatic_Arugula5553 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v1n0w5/cảm_giác_ghê_tởm_quá/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v1n0w5/cảm_giác_ghê_tởm_quá/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1v1n0w5/cảm_giác_ghê_tởm_quá/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-07-20T14:23:45+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1v1fro1</id>
     <title>nếu chỉ dùng một từ để diễn tả trận chung kết 2026</title>
     <updated>2026-07-20T08:39:34+00:00</updated>
@@ -318,6 +305,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1v1fro1/nếu_chỉ_dùng_một_từ_để_diễn_tả_trận_chung_kết_2026/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-07-20T08:39:34+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1v1n0w5</id>
+    <title>Cảm giác ghê tởm quá</title>
+    <updated>2026-07-20T14:23:45+00:00</updated>
+    <author>
+      <name>/u/Aromatic_Arugula5553</name>
+      <uri>https://old.reddit.com/user/Aromatic_Arugula5553</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Nhớ lại mà cảm thấy không đáng và không cần thiết phải sống nữa, từ lúc bắt đầu đi học tiểu học đã thấy cảm giác bất an, liên tục căng thẳng vì môi trường sống và đặc biệt là từ bố mẹ. Tôi không được bình thường hoặc có thể tôi cảm thấy mình khác biệt với số đông xã hội về khả năng tương tác, giao tiếp. Không thể trao đổi với người nhà về vấn đề của mình vì tôi đã từng trò chuyện với họ nhưng họ không hiểu được hoặc họ không muốn chấp nhận sự thật là tôi có vấn đề, họ nói rằng tôi bị điên và làm quá lên. Tôi học kém và bỏ học năm lớp 12. Sức khỏe khá tệ vì bị thoát vị đĩa đệm từ năm 16 tuổi mà lí do bị bệnh là do tôi. Tôi cũng từng đi kiếm việc làm nhưng chủ yếu do khả năng giao tiếp xã hội mà tôi không thể làm việc. Bây giờ 22 tuổi mà không có cảm giác thân thuộc, gắn bó gì với người thân cả mà tôi cũng chẳng biết mối quan hệ gia đình là để làm gì nữa. Từ nhỏ đã nhận ra mục đích mà bố mẹ sinh tôi ra và họ hàng của tôi khi muốn có con cháu khiến tôi chán nản tột độ, hơn hai năm nay luôn nghĩ đến cái chết hàng ngày. Từ lúc tiếp xúc với mxh, deep web nhiều và biết thêm về bản chất của con người khiến tôi phát ngán, ghê rợn xã hội loài người. Tôi cũng không coi cái thân xác này là của tôi. Ai sản xuất ra thì tôi cũng muốn trả lại cho người đó, nếu bây giờ mà có thể bán hết mô, tạng một cách an toàn để hoàn vốn nuôi cái thân này cho bố mẹ thì tôi cũng sẵn sàng chết và bán luôn nhưng tôi không biết làm thế nào để nói chuyện với họ. Hoặc có thể tôi phải chết vì tự tử như bao người khác hằng ngày. Chẳng biết tìm ai đề trò chuyện nữa mặc dù khó chịu khi tiếp xúc xã hội nhưng mà bản năng đi kêu cứu nó vẫn còn.Lần đầu đăng bài nên bài viết phần loằng ngoằng 🥴 &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Aromatic_Arugula5553"&gt; /u/Aromatic_Arugula5553 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v1n0w5/cảm_giác_ghê_tởm_quá/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v1n0w5/cảm_giác_ghê_tởm_quá/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1v1n0w5/cảm_giác_ghê_tởm_quá/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-07-20T14:23:45+00:00</published>
   </entry>
   <entry>
     <id>t3_1v1jn73</id>
