@@ -1,9 +1,335 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>https://old.reddit.com/r/vozforums/.rss</id>
-  <title>r/vozforums</title>
-  <updated>2026-07-21T07:19:33.885854+00:00</updated>
-  <link href="https://old.reddit.com/r/vozforums/.rss" rel="alternate"/>
+  <id>/r/vozforums/.rss</id>
+  <title>vOzforums</title>
+  <updated>2026-07-21T10:00:19+00:00</updated>
+  <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
-  <subtitle>Atom feed for r/vozforums</subtitle>
+  <icon>https://www.redditstatic.com/icon.png/</icon>
+  <subtitle>Cộng đồng không chính thức trên Reddit của vOzforums (nay là voz.vn).</subtitle>
+  <entry>
+    <id>t3_1v1e860</id>
+    <title>Làm sao để biết khi nào con trai thấy phiền ?</title>
+    <updated>2026-07-20T07:08:40+00:00</updated>
+    <author>
+      <name>/u/csbyinz</name>
+      <uri>https://old.reddit.com/user/csbyinz</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình là nữ, thường thì mình không được tinh ý cho lắm nên khá khó nhận biết cảm xúc của đối phương. Mình và bạn kia chỉ học chung trên lớp học phụ đạo. Cũng được 2 năm hơn mình để ý bạn ấy rồi nhưng giờ mới dám chủ động nói chuyện. Mình có đến xin kết bạn với bạn ấy xong về nhà hỏi in4 mấy cái linh tinh rồi cũng hết cuộc trò chuyện. (Đêm qua thì mình có nhắn cho bạn ấy nhưng nói cũng hơi nhạt nhạt... xong nhắn xong bạn ấy cũng chỉ thả react. Mà loạn là mình 1h sáng vào check thì bấm nhầm gửi tin nhắn phải xin lỗi rối rít =)))))) may bạn ấy cũng rep lại sticker) Mặc dù cũng tự cảm thấy hơi bế tắc nhưng mình vẫn muốn tiếp tục cố gắng làm bạn với người ta 😭 Có cái tính mình thỉnh thoảng hay bị chủ động thái quá nên sợ làm đối phương thấy ngộp huhu&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/csbyinz"&gt; /u/csbyinz &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v1e860/làm_sao_để_biết_khi_nào_con_trai_thấy_phiền/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v1e860/làm_sao_để_biết_khi_nào_con_trai_thấy_phiền/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1v1e860/làm_sao_để_biết_khi_nào_con_trai_thấy_phiền/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-07-20T07:08:40+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1v28qvz</id>
+    <title>AI Việt Nam</title>
+    <updated>2026-07-21T05:02:20+00:00</updated>
+    <author>
+      <name>/u/ntdat1912</name>
+      <uri>https://old.reddit.com/user/ntdat1912</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các bác có biết AI hay không, em thấy của Việt Nam nên có ngó thử, các bác có dùng thử chưa, thấy của Việt Nam nên em cũng thích thú á, không biết các bác thấy thế nào&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ntdat1912"&gt; /u/ntdat1912 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v28qvz/ai_việt_nam/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v28qvz/ai_việt_nam/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1v28qvz/ai_việt_nam/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-07-21T05:02:20+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1v1e1b3</id>
+    <title>ứng dụng nhận tiền ngoại hối</title>
+    <updated>2026-07-20T06:58:07+00:00</updated>
+    <author>
+      <name>/u/gHeVaYS</name>
+      <uri>https://old.reddit.com/user/gHeVaYS</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;sao mấy app banking nhận tiền từ nước ngoài nó bất ổn thế mấy bác nhỉ,paypal thì giao dịch 1 lần ban nick vĩnh viễn,payoneer thì đăng nhập toàn dính lỗi không xác định rồi thử lại thì khoá tk 30ph :v mấy cái khác thì thời gian chuyển siêu lâu,em làm 3d modeling thôi ,chuyển cũng toàn khoản nhỏ thôi k nhiều.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/gHeVaYS"&gt; /u/gHeVaYS &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v1e1b3/ứng_dụng_nhận_tiền_ngoại_hối/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v1e1b3/ứng_dụng_nhận_tiền_ngoại_hối/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1v1e1b3/ứng_dụng_nhận_tiền_ngoại_hối/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-07-20T06:58:07+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1v2bjyb</id>
+    <title>VIỆC LÀM THÊM TẠI NHÀ</title>
+    <updated>2026-07-21T07:38:03+00:00</updated>
+    <author>
+      <name>/u/ArtisticMortgage5185</name>
+      <uri>https://old.reddit.com/user/ArtisticMortgage5185</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1v2bjyb/việc_làm_thêm_tại_nhà/"&gt; &lt;img alt="VIỆC LÀM THÊM TẠI NHÀ" src="https://preview.redd.it/1zm8zeysdjeh1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=e3b9143e8687bedaf7d8bcc6a0294ae675a71981" title="VIỆC LÀM THÊM TẠI NHÀ" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi ae, sau lần trước post cũng có liên quan tới việc kiếm thêm job để cày mà chưa được, nên mình tiếp tục lên đây tìm kiếm thêm cơ hội từ chia sẻ của ae.&lt;br /&gt; Mình là nam , 30 tuổi, có gia đình, background IT(Support, lead), hiện tại mình đang làm full-time trên cty , nhưng công việc khá rảnh,và mong muốn kiếm thêm cơ hội để tăng thu nhập.&lt;/p&gt; &lt;p&gt;Anh em nào thấy cơ hội nào có thể kiếm thêm thu nhập hoặc tích lũy, nhờ anh em chia sẻ để thảo luận.&lt;br /&gt; Thanks ae,&lt;br /&gt; *ảnh chống trôi&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ArtisticMortgage5185"&gt; /u/ArtisticMortgage5185 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/1zm8zeysdjeh1.png"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v2bjyb/việc_làm_thêm_tại_nhà/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1v2bjyb/việc_làm_thêm_tại_nhà/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-07-21T07:38:03+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1v1o8dg</id>
+    <title>Một cảm giác kỳ lạ</title>
+    <updated>2026-07-20T15:09:14+00:00</updated>
+    <author>
+      <name>/u/AshakagiYasari</name>
+      <uri>https://old.reddit.com/user/AshakagiYasari</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Có bao giờ các vozer đi đến 1 nơi nào đó, nhưng lại cảm giác như mình đã từng đến, từng sống ở đó rồi không. Chả là t có dịp đi Ô Môn, Cần Thơ dự đám cưới người bạn. Thay vì đi đường quốc lộ để đến đó, t lại quyết định tập vào đường tỉnh mà t chưa đi bao giờ, để chạy lên đó. Coi như đây 1 chuyến dạo chơi giết thời gian. Lúc đó là 6h sáng, t đến chợ bà đầm. Không biết vì lý do gì mà t cảm thấy mình đã từng đến nơi này. Từng gốc chợ, con đường, dòng người tấp nập trong quá quen thuộc tới mức kỳ lạ. Bỗng tim t nhảy đi 1 nhịp, cơ thể t như nóng lên. Cảm xúc như mình là đứa con xa vừa mới về nhà v, mặc cho t chưa bao giờ đến nơi này bao giờ. Tự trấn an bản thân, t tiếp tục chạy đi mà không suy nghĩ. Coi đó chỉ là cảm xúc thoáng qua thôi. Cuối cùng khi về, t ko chạy về con đường đó 1 lần nào nữa. Dù cho bản thân t muốn đi ngang qua đó 1 lần nữa. Chuyện đã qua dc vài ngày, nhưng cái hình ảnh và cảm xúc vẫn cứ mắc kẹt mấy ngày nay. Nên t đành phải tâm sự vs các vozer để giải bày.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/AshakagiYasari"&gt; /u/AshakagiYasari &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v1o8dg/một_cảm_giác_kỳ_lạ/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v1o8dg/một_cảm_giác_kỳ_lạ/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1v1o8dg/một_cảm_giác_kỳ_lạ/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-07-20T15:09:14+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1v1dqwn</id>
+    <title>Hỏi: mấy bạn 99 trở về sau hiện đang áp lực chuyện gì là phổ biến ?</title>
+    <updated>2026-07-20T06:41:28+00:00</updated>
+    <author>
+      <name>/u/Sensitive_Screen9573</name>
+      <uri>https://old.reddit.com/user/Sensitive_Screen9573</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Như title ah lứa 99,2k,2k1...đã đi làm rồi&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Sensitive_Screen9573"&gt; /u/Sensitive_Screen9573 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v1dqwn/hỏi_mấy_bạn_99_trở_về_sau_hiện_đang_áp_lực_chuyện/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v1dqwn/hỏi_mấy_bạn_99_trở_về_sau_hiện_đang_áp_lực_chuyện/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1v1dqwn/hỏi_mấy_bạn_99_trở_về_sau_hiện_đang_áp_lực_chuyện/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-07-20T06:41:28+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1v27s06</id>
+    <title>Đi DQTT</title>
+    <updated>2026-07-21T04:13:12+00:00</updated>
+    <author>
+      <name>/u/AgreeableSkill4888</name>
+      <uri>https://old.reddit.com/user/AgreeableSkill4888</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các bác cho em hỏi là liệu bây giờ hoặc cuối tháng 8 có thể xin đi DQTT kịp không các bác, em vừa xong cái bằng đh, cuối tháng 8 là nốt được cái bằng lái xe oto. Em biết bây giờ là trễ nhưng đã chuẩn bị tâm lý trước là phải mất cái đó rồi nên có chuẩn bị, thường giá cả bao nhiêu vậy các bác&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/AgreeableSkill4888"&gt; /u/AgreeableSkill4888 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v27s06/đi_dqtt/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v27s06/đi_dqtt/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1v27s06/đi_dqtt/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-07-21T04:13:12+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1v1hqhx</id>
+    <title>Bế tắc nợ thẻ tín dụng</title>
+    <updated>2026-07-20T10:32:41+00:00</updated>
+    <author>
+      <name>/u/Other_Lengthiness894</name>
+      <uri>https://old.reddit.com/user/Other_Lengthiness894</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, em có dính nợ xấu quá hạn 1 năm với 2 thẻ td VP và HSBC &lt;/p&gt; &lt;p&gt;Bên HSBC thì em xin được dừng tăng lãi và trả dần 119tr, mỗi tháng 2tr. &lt;/p&gt; &lt;p&gt;Bên VP thì gắt hơn nhiều. Lãi lên x2 gốc là 130tr, em đang trả 1tr 1 tháng và sẽ trả nhiều hơn trong tương lai. Ngân hàng đến nhà đòi tất toán thì sẽ giảm lãi, không cho trả góp nữa và sẽ kiện em ra tòa vì em đã dùng tiền sai mục đích (có 1 lần em đã cà máy pos để lấy tiền, còn lại những lần khác thì em rút ATM và tính phí rồi). &lt;/p&gt; &lt;p&gt;Cho em hỏi nếu ra tòa thì khả năng tòa phân xử như nào ạ, em có bị đi tù hoặc bị truy thu tài sản như xe máy để trả nợ không, tòa có khả năng phán xử để em trả góp không.&lt;br /&gt; Với xin mọi người cho em hướng xử lý vì cứ cách ngày là lại lên công ty em nói chuyện ầm ĩ. Tối thì tới nhà cũng 20p-30p ầm ĩ.&lt;/p&gt; &lt;p&gt;Em và gia đình không thể xoay 100tr trả dứt được trong năm nay.&lt;/p&gt; &lt;p&gt;Em cảm ơn&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Other_Lengthiness894"&gt; /u/Other_Lengthiness894 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v1hqhx/bế_tắc_nợ_thẻ_tín_dụng/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v1hqhx/bế_tắc_nợ_thẻ_tín_dụng/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1v1hqhx/bế_tắc_nợ_thẻ_tín_dụng/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-07-20T10:32:41+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1v268sz</id>
+    <title>Đi chụp mão răng chữa tủy cũ thì phát hiện tái nhiễm trùng, phải làm lại</title>
+    <updated>2026-07-21T02:59:10+00:00</updated>
+    <author>
+      <name>/u/luv4ev3R</name>
+      <uri>https://old.reddit.com/user/luv4ev3R</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1v268sz/đi_chụp_mão_răng_chữa_tủy_cũ_thì_phát_hiện_tái/"&gt; &lt;img alt="Đi chụp mão răng chữa tủy cũ thì phát hiện tái nhiễm trùng, phải làm lại" src="https://preview.redd.it/r3yzjfo70ieh1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=29e4d4728f5b577c6633a28240a383b7768c63bb" title="Đi chụp mão răng chữa tủy cũ thì phát hiện tái nhiễm trùng, phải làm lại" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Kinh nghiệm là lấy tủy thì mn nên chụp răng sứ lại liền nhé&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/luv4ev3R"&gt; /u/luv4ev3R &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/r3yzjfo70ieh1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v268sz/đi_chụp_mão_răng_chữa_tủy_cũ_thì_phát_hiện_tái/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1v268sz/đi_chụp_mão_răng_chữa_tủy_cũ_thì_phát_hiện_tái/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-07-21T02:59:10+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1v25gbi</id>
+    <title>danh mục 100tr chia 10 mã kiểu GARP, các fen soi giúp t với</title>
+    <updated>2026-07-21T02:22:20+00:00</updated>
+    <author>
+      <name>/u/Hung_Hoang_the</name>
+      <uri>https://old.reddit.com/user/Hung_Hoang_the</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;t đang xây danh mục dài hạn 100tr, tự viết tool lọc cổ phiếu kiểu GARP (ROE &amp;gt;=15%, tăng trưởng &amp;gt;=10%/năm, PEG thấp, thanh khoản &amp;gt;=3 tỷ/ngày, D/E &amp;lt;=1). ra dc list này, mỗi mã ~8-9tr, đều lô chẵn:&lt;/p&gt; &lt;p&gt;VGS, NCT, HAH, ANV, HAG, NTP, SIP, PNJ, MWG, GAS&lt;/p&gt; &lt;p&gt;fen nào chơi chứng lâu năm soi giúp t với, có mã nào thấy toang hay nên thay ko? FPT tool nó cx lọc ra nhưng t loại vì từng làm ở đó lol. mục tiêu giữ 10 năm+, mỗi tháng bơm thêm 10tr&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Hung_Hoang_the"&gt; /u/Hung_Hoang_the &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v25gbi/danh_mục_100tr_chia_10_mã_kiểu_garp_các_fen_soi/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v25gbi/danh_mục_100tr_chia_10_mã_kiểu_garp_các_fen_soi/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1v25gbi/danh_mục_100tr_chia_10_mã_kiểu_garp_các_fen_soi/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-07-21T02:22:20+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1v1fro1</id>
+    <title>nếu chỉ dùng một từ để diễn tả trận chung kết 2026</title>
+    <updated>2026-07-20T08:39:34+00:00</updated>
+    <author>
+      <name>/u/Valuable-Explorer899</name>
+      <uri>https://old.reddit.com/user/Valuable-Explorer899</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;thì đó là 'suffocating', một cảm giác ngộp, ức chế, khó thở&lt;/p&gt; &lt;p&gt;chung kết gì mà cứ như 11 cầu thủ Argen tới trận xem người TBN chơi bóng khi Arg cứ có banh chừng 10s là mất&lt;/p&gt; &lt;p&gt;cả trận không được một đường bóng ngon ăn nói gì là cơ hội&lt;/p&gt; &lt;p&gt;hãi thực sự&lt;/p&gt; &lt;p&gt;@@&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Valuable-Explorer899"&gt; /u/Valuable-Explorer899 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v1fro1/nếu_chỉ_dùng_một_từ_để_diễn_tả_trận_chung_kết_2026/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v1fro1/nếu_chỉ_dùng_một_từ_để_diễn_tả_trận_chung_kết_2026/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1v1fro1/nếu_chỉ_dùng_một_từ_để_diễn_tả_trận_chung_kết_2026/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-07-20T08:39:34+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1v2678m</id>
+    <title>Tư vấn địa điểm tâm linh</title>
+    <updated>2026-07-21T02:57:07+00:00</updated>
+    <author>
+      <name>/u/Remote_Paramedic_385</name>
+      <uri>https://old.reddit.com/user/Remote_Paramedic_385</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các bác cho hỏi từ Bắc vào Đà Nẵng có địa điểm đền, phủ hay nơi thờ tự nào linh ứng để cầu bình an, công việc và tài lộc không ạ? Em muốn đi lễ với lòng thành, mong mọi người giới thiệu giúp. Em cảm ơn nhiều!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Remote_Paramedic_385"&gt; /u/Remote_Paramedic_385 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v2678m/tư_vấn_địa_điểm_tâm_linh/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v2678m/tư_vấn_địa_điểm_tâm_linh/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1v2678m/tư_vấn_địa_điểm_tâm_linh/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-07-21T02:57:07+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1v1lobc</id>
+    <title>Sách Đức Thánh Trần</title>
+    <updated>2026-07-20T13:32:16+00:00</updated>
+    <author>
+      <name>/u/ExpensiveSurvey2793</name>
+      <uri>https://old.reddit.com/user/ExpensiveSurvey2793</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1v1lobc/sách_đức_thánh_trần/"&gt; &lt;img alt="Sách Đức Thánh Trần" src="https://preview.redd.it/bhmppt590eeh1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=a760abfaf88c1f89220c7f9338e13f6abdd917b7" title="Sách Đức Thánh Trần" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hết Chuyện với Thanh giờ lại tới cuốn này, có vẻ đang trở lại thời Nhân văn giai phẩm&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ExpensiveSurvey2793"&gt; /u/ExpensiveSurvey2793 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/bhmppt590eeh1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v1lobc/sách_đức_thánh_trần/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1v1lobc/sách_đức_thánh_trần/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-07-20T13:32:16+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1v1n0w5</id>
+    <title>Cảm giác ghê tởm quá</title>
+    <updated>2026-07-20T14:23:45+00:00</updated>
+    <author>
+      <name>/u/Aromatic_Arugula5553</name>
+      <uri>https://old.reddit.com/user/Aromatic_Arugula5553</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Nhớ lại mà cảm thấy không đáng và không cần thiết phải sống nữa, từ lúc bắt đầu đi học tiểu học đã thấy cảm giác bất an, liên tục căng thẳng vì môi trường sống và đặc biệt là từ bố mẹ. Tôi không được bình thường hoặc có thể tôi cảm thấy mình khác biệt với số đông xã hội về khả năng tương tác, giao tiếp. Không thể trao đổi với người nhà về vấn đề của mình vì tôi đã từng trò chuyện với họ nhưng họ không hiểu được hoặc họ không muốn chấp nhận sự thật là tôi có vấn đề, họ nói rằng tôi bị điên và làm quá lên. Tôi học kém và bỏ học năm lớp 12. Sức khỏe khá tệ vì bị thoát vị đĩa đệm từ năm 16 tuổi mà lí do bị bệnh là do tôi. Tôi cũng từng đi kiếm việc làm nhưng chủ yếu do khả năng giao tiếp xã hội mà tôi không thể làm việc. Bây giờ 22 tuổi mà không có cảm giác thân thuộc, gắn bó gì với người thân cả mà tôi cũng chẳng biết mối quan hệ gia đình là để làm gì nữa. Từ nhỏ đã nhận ra mục đích mà bố mẹ sinh tôi ra và họ hàng của tôi khi muốn có con cháu khiến tôi chán nản tột độ, hơn hai năm nay luôn nghĩ đến cái chết hàng ngày. Từ lúc tiếp xúc với mxh, deep web nhiều và biết thêm về bản chất của con người khiến tôi phát ngán, ghê rợn xã hội loài người. Tôi cũng không coi cái thân xác này là của tôi. Ai sản xuất ra thì tôi cũng muốn trả lại cho người đó, nếu bây giờ mà có thể bán hết mô, tạng một cách an toàn để hoàn vốn nuôi cái thân này cho bố mẹ thì tôi cũng sẵn sàng chết và bán luôn nhưng tôi không biết làm thế nào để nói chuyện với họ. Hoặc có thể tôi phải chết vì tự tử như bao người khác hằng ngày. Chẳng biết tìm ai đề trò chuyện nữa mặc dù khó chịu khi tiếp xúc xã hội nhưng mà bản năng đi kêu cứu nó vẫn còn.Lần đầu đăng bài nên bài viết phần loằng ngoằng 🥴 &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Aromatic_Arugula5553"&gt; /u/Aromatic_Arugula5553 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v1n0w5/cảm_giác_ghê_tởm_quá/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v1n0w5/cảm_giác_ghê_tởm_quá/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1v1n0w5/cảm_giác_ghê_tởm_quá/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-07-20T14:23:45+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1v1jn73</id>
+    <title>trễ hạn bài tập từ thập niên 90 😭😭</title>
+    <updated>2026-07-20T12:07:04+00:00</updated>
+    <author>
+      <name>/u/anhkhoaO410</name>
+      <uri>https://old.reddit.com/user/anhkhoaO410</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1v1jn73/trễ_hạn_bài_tập_từ_thập_niên_90/"&gt; &lt;img alt="trễ hạn bài tập từ thập niên 90 😭😭" src="https://preview.redd.it/xhsa7jxmkdeh1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=31fc122ad49d877f4a97f5927f81a3f2b81eee99" title="trễ hạn bài tập từ thập niên 90 😭😭" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;lỗi thấy hài nên đăng lên&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/anhkhoaO410"&gt; /u/anhkhoaO410 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/xhsa7jxmkdeh1.png"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v1jn73/trễ_hạn_bài_tập_từ_thập_niên_90/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1v1jn73/trễ_hạn_bài_tập_từ_thập_niên_90/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-07-20T12:07:04+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1v246c8</id>
+    <title>Có thể diễn đạt suy nghĩ khi chỉ cần nhìn vào mắt thôi có được ko</title>
+    <updated>2026-07-21T01:24:28+00:00</updated>
+    <author>
+      <name>/u/Savings_Gold_394</name>
+      <uri>https://old.reddit.com/user/Savings_Gold_394</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Good morning everyone,&lt;/p&gt; &lt;p&gt;Như hôm qua, hôm nay là ngày đi làm, đối với em thì gọi là cày cuốc mưu sinh. Em, đã gia nhập thị trường lao động ở cấp độ thâm day ( &amp;gt; 1000 ngày). Bằng đôi mắt mở ko lên, em đang viết những dòng này.&lt;/p&gt; &lt;p&gt;Tại sao, tại sao mỗi ngày đi làm, chúng ta phải mở miệng để duy trì cuộc trò chuyện. Mở miệng, tiếp theo là cử động các cơ trên mặt, làm em thấy mệt. Có thể nào, để ta có thể đọc được suy nghĩ của nhau, viết cho xong báo cáo, rồi cuốn gói chạy về nhà khi đã xong phần việc của mình. Em, hôm nay, 1 câu chào buổi sáng thôi cũng đủ chiếm hết năng lượng sắp đứt luôn rồi. Đã vậy, còn phải suy nghĩ mình nên nói gì, nói gì trước các ánh mắt đang đòi hỏi chực chờ đổ lỗi. Là tại vì em, 1 con người yếu kém, mất khả năng giao tiếp, nhạy cảm và thiếu tự tin hay là tồn tại 1 con beast chưa được khai mở. Vậy thì làm thế nào, để unleash the beast ?&lt;/p&gt; &lt;p&gt;Em đã uống 2 lon Monster, tốn hết 60k, để bật khởi động unleash the beast như quảng cáo, nhưng vẫn chưa thấy gì.&lt;/p&gt; &lt;p&gt;I need help&lt;/p&gt; &lt;p&gt;Thank you&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Savings_Gold_394"&gt; /u/Savings_Gold_394 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v246c8/có_thể_diễn_đạt_suy_nghĩ_khi_chỉ_cần_nhìn_vào_mắt/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v246c8/có_thể_diễn_đạt_suy_nghĩ_khi_chỉ_cần_nhìn_vào_mắt/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1v246c8/có_thể_diễn_đạt_suy_nghĩ_khi_chỉ_cần_nhìn_vào_mắt/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-07-21T01:24:28+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1v28eag</id>
+    <title>Hỏi đáp về thuế khi làm remote</title>
+    <updated>2026-07-21T04:44:35+00:00</updated>
+    <author>
+      <name>/u/Aggressive_Divide913</name>
+      <uri>https://old.reddit.com/user/Aggressive_Divide913</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi mọi người, em trước đó có làm remote cho những khách hàng ở hồng kong, san xuât phần mềm cho nước ngoài. em là hợp đồng dịch vụ. Em nhận tiền đô vào thẳng tài khoản ngân hàng rồi em chuyển lại vào tiền VND, luong tầm 3.5k usd mỗi tháng. trươc đó em không biết gì về thue nên làm làm thôi, ngoài ra em còn 1 job chinh đong thuế đầy đủ, và em cũng chưa đăng ký kinh doanh gi hết.&lt;/p&gt; &lt;p&gt;vay cho em hỏi, giờ em khai bù lại những năm cũ 2020-&amp;gt;2025 tháng 04( vì giờ em nghỉ rồi hết làm) và em đang ky cá nhân kinh doanh thì co dc hưởng thuế 2% không? em thuê công ty kế toán làm sổ sách có tốt hơn không?&lt;/p&gt; &lt;p&gt;vì em sợ bi truy thu qua nên muốn giai quyết no&lt;/p&gt; &lt;p&gt;cảm ơn mọi người vụ này làm em phiền não mấy hôm nay quá&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Aggressive_Divide913"&gt; /u/Aggressive_Divide913 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v28eag/hỏi_đáp_về_thuế_khi_làm_remote/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v28eag/hỏi_đáp_về_thuế_khi_làm_remote/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1v28eag/hỏi_đáp_về_thuế_khi_làm_remote/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-07-21T04:44:35+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1v23vzj</id>
+    <title>Vì sao nước bò húc ở VN lại ngọt đến như vậy?</title>
+    <updated>2026-07-21T01:11:09+00:00</updated>
+    <author>
+      <name>/u/Maxanis</name>
+      <uri>https://old.reddit.com/user/Maxanis</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình thấy bò húc Thái vị nó chua chua ngọt ít uống rất ngon. Còn bò húc ở VN thì lại ngọt kinh khủng không uống nổi. Tại sao cùng một loại nước mà 2 bên lại khác nhau như vậy? &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Maxanis"&gt; /u/Maxanis &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v23vzj/vì_sao_nước_bò_húc_ở_vn_lại_ngọt_đến_như_vậy/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v23vzj/vì_sao_nước_bò_húc_ở_vn_lại_ngọt_đến_như_vậy/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1v23vzj/vì_sao_nước_bò_húc_ở_vn_lại_ngọt_đến_như_vậy/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-07-21T01:11:09+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1v26qp6</id>
+    <title>Cách deal lương cho sinh viên mới ra trường</title>
+    <updated>2026-07-21T03:22:26+00:00</updated>
+    <author>
+      <name>/u/Ok_Pension_5302</name>
+      <uri>https://old.reddit.com/user/Ok_Pension_5302</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi mọi người, em đang nhận được một offer 15M gross từ một SME sau khi vừa ra trường. Theo em biết đây là khung HR thường trả cho nhóm mới ra trường từ 0-3 năm kinh nghiệm. Nhưng em đã đi làm từ năm nhất và đã nhận mức lương đó từ 2 năm trước rồi. 2 năm đó em tích luỹ thêm rất rất nhiều kinh nghiệm hơn. Làm sao để deal lương lên ạ? Em cảm ơn! &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Ok_Pension_5302"&gt; /u/Ok_Pension_5302 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v26qp6/cách_deal_lương_cho_sinh_viên_mới_ra_trường/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v26qp6/cách_deal_lương_cho_sinh_viên_mới_ra_trường/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1v26qp6/cách_deal_lương_cho_sinh_viên_mới_ra_trường/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-07-21T03:22:26+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1v2ckiv</id>
+    <title>Career path IT BA/PO ? IT Audit</title>
+    <updated>2026-07-21T08:37:41+00:00</updated>
+    <author>
+      <name>/u/grilledsalmon_vn</name>
+      <uri>https://old.reddit.com/user/grilledsalmon_vn</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mn, tháng 4 năm tới là em ra trường nhưng khá phân vân về định hướng. Background của e là MIS, coding ổn trước có thgia camp của NAB, có một số international paper về train AI (ML, NLP), data thì em tạm (biết ETL, visualize, analyze,..). Sau thời gian tiếp xúc, e định hướng theo BA/PO vì khá thích phân tích.&lt;/p&gt; &lt;p&gt;- Vấn đề em gặp phải: e thấy CV e khá tốt nhưng hiện tại job intern khá ít, aim là vào big corp nhưng em thấy toàn tuyển fresher, e thì ch có kinh nghiệm, còn lại chủ yếu là SME mà e cũng rải lun, nma thấy kh phản hồi khá nhiều, một số cty có offer thì em refuse tại thấy red flag. Em cũng thgia thi MT vào tới vòng cuối nma kh đi làm full time được nên rớt = ))))))))&lt;/p&gt; &lt;p&gt;- Giải pháp của em hiện tại khá phân vân:&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Tiếp tục chơi và tìm job IT BA intern phù hợp từ corp (vì e nghe bảo cv đầu tiên sẽ ảnh hưởng đến career path sau này nên em cũng hám fame = ))) )&lt;/li&gt; &lt;li&gt;Tìm cv IT BA intern từ SMEs để tiếp xúc và có kn, trong quá trình đó tiếp tục tìm job từ big corp or MNC&lt;/li&gt; &lt;li&gt;Rẻ qua IT Audit intern cho Big4 (h e đang chờ kết quả), nma e nghe bảo bên này lương khá thấp và bào, với cả em kh biết làm role này thì cái fame từ Big4 + kiến thức có support để intern BA tiếp dc k = ))) Có thể là em intern xong em lại intern BA, nhưng nếu ngành này ổn thì e theo luôn, em chỉ sợ là bẻ qua bên này rồi k exit được và phí time vì tốn tới 6 tháng&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;Mong nhận được từ các ý kiến của các anh chị cùng ngành, em xin chân thành cảm ơn ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/grilledsalmon_vn"&gt; /u/grilledsalmon_vn &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v2ckiv/career_path_it_bapo_it_audit/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v2ckiv/career_path_it_bapo_it_audit/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1v2ckiv/career_path_it_bapo_it_audit/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-07-21T08:37:41+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1v280gf</id>
+    <title>Liệu có thể hết yêu rồi lại yêu lại người đó không?</title>
+    <updated>2026-07-21T04:24:49+00:00</updated>
+    <author>
+      <name>/u/Fantastic-Future-935</name>
+      <uri>https://old.reddit.com/user/Fantastic-Future-935</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Đã ai trải qua chuyện này chưa nhỉ? cho mình xin ý kiến nhé. nhiều khi trong 1 mqh mình cũng ko nhận ra rõ mình hết yêu, hay chỉ tạm thời chán do mqh đã đi vào sự ổn định/mâu thuẫn. Và khi nào nhận ra mình hết yêu? liệu có yêu lại ng đó dc theo cách khác ko? Mong muốn nghe thêm trải nghiệm của mng (cả mqh ny và bạn đời). Cảm ơn mng đã lướt qua bài này&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Fantastic-Future-935"&gt; /u/Fantastic-Future-935 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v280gf/liệu_có_thể_hết_yêu_rồi_lại_yêu_lại_người_đó_không/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v280gf/liệu_có_thể_hết_yêu_rồi_lại_yêu_lại_người_đó_không/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1v280gf/liệu_có_thể_hết_yêu_rồi_lại_yêu_lại_người_đó_không/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-07-21T04:24:49+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1v26fag</id>
+    <title>Ngã tư đời</title>
+    <updated>2026-07-21T03:07:12+00:00</updated>
+    <author>
+      <name>/u/Any_Poem3556</name>
+      <uri>https://old.reddit.com/user/Any_Poem3556</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hi các fen. Vi đầu cũng rối trí nên muốn chia sẽ với anh em về ngã tư đời của em. Em hiện 25t đang làm culi logistics cho Nhật bổn lương gần 2x. Như các fen biết thì lương lậu bọn Nhật không cao nhưng được cái ổn định với đãi ngộ tốt. Qua bà già em nói chuyện vì thấy em lông bông quá, chưa có định hướng phát triển nên muốn kéo về làm tín dụng bank vì bà già có mối quan hệ. Nếu sang bank thì xác định mất 1,2 năm coi như làm lại nhưng bà già bảo lộ trình thăng tiến oke hơn vì ở xã hội này có mối quan hệ nó kéo thì nhanh lên lắm. Theo các fen em nên chọn sao ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Any_Poem3556"&gt; /u/Any_Poem3556 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v26fag/ngã_tư_đời/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v26fag/ngã_tư_đời/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1v26fag/ngã_tư_đời/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-07-21T03:07:12+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1v1tthw</id>
+    <title>24 tuổi ăn bám gia đình,đâù óc chậm tiêu ù lì,sống cô lập xã hội</title>
+    <updated>2026-07-20T18:31:23+00:00</updated>
+    <author>
+      <name>/u/manhdzno1</name>
+      <uri>https://old.reddit.com/user/manhdzno1</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em năm nay 24 tuổi vẫn còn ăn bám ngửa tay xin tiền gia đình,trước học đại học nhưng cũng bỏ dở giữa chừng vì không theo nổi,em là người chậm chạp đầu óc chậm tiêu ù lì,em không biết tự suy nghĩ để giải quyết vấn đề trong cuộc sống,tính cách thụ động và đặc biệt phụ thuộc ỷ lại dựa dẫm vào người khác ,có nhiều thứ người ta giải thích nhiều lần em mới hiểu và em thường phải hỏi đi hỏi lại nhiều lần khiến người khác bực mình.Em sống cô lập với xã hội ,không bạn bè ,không định hướng,không công việc.Bây giờ em chán nản bế tắc, tự ti vào bản thân quá,nhiêù khi em khóc giữa đêm vì bất lực với chính mình,cảm thấy mình kém cỏi bất tài vô dụng ,tuyệt vọng vì trí tuệ bẩm sinh của mình không được bình thường.Mọi người có thể làm ơn giúp em ,cho em lời khuyên giải pháp cứu em khỏi tình trạng này không&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/manhdzno1"&gt; /u/manhdzno1 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v1tthw/24_tuổi_ăn_bám_gia_đìnhđâù_óc_chậm_tiêu_ù_lìsống/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v1tthw/24_tuổi_ăn_bám_gia_đìnhđâù_óc_chậm_tiêu_ù_lìsống/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1v1tthw/24_tuổi_ăn_bám_gia_đìnhđâù_óc_chậm_tiêu_ù_lìsống/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-07-20T18:31:23+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1v2b0gs</id>
+    <title>có ai cảm giác sẽ không kiếm được nửa kia của mình kh</title>
+    <updated>2026-07-21T07:06:41+00:00</updated>
+    <author>
+      <name>/u/BunBoHue71</name>
+      <uri>https://old.reddit.com/user/BunBoHue71</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tui chia tay nyc từ năm ngoái đến nay, không hiểu sao cứ có cảm giác sẽ không bao giờ kiếm được nửa kia của mình :)) nyc gần nhất là quen qua dating app, còn nyc đầu tiên là bạn học chung cấp 3. Nhưng mà giờ tới cái tuổi rất lười quẹt app, hay online dating ib ig fb gì đó tại vì cảm giác rất mất thời gian :)) background 1 tí thì tui 24M nhà ở SG, cũng có ngoại hình 1 xíu, đi làm ngành hàng không, thời gian rảnh thì có chơi thể thao, đi gym, và chạy bộ. Trong suốt quãng tgian single thì chủ yếu đi chơi, cafe với bạn bè thôi, và cứ có cảm giác moá single tới năm 30-40t luôn :)))) có ai cùng hoàn cảnh khh&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/BunBoHue71"&gt; /u/BunBoHue71 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v2b0gs/có_ai_cảm_giác_sẽ_không_kiếm_được_nửa_kia_của/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v2b0gs/có_ai_cảm_giác_sẽ_không_kiếm_được_nửa_kia_của/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1v2b0gs/có_ai_cảm_giác_sẽ_không_kiếm_được_nửa_kia_của/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-07-21T07:06:41+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1v28t8x</id>
+    <title>Warning</title>
+    <updated>2026-07-21T05:05:53+00:00</updated>
+    <author>
+      <name>/u/SuperElderberry3643</name>
+      <uri>https://old.reddit.com/user/SuperElderberry3643</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1v28t8x/warning/"&gt; &lt;img alt="Warning" src="https://preview.redd.it/awt4p7itmieh1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=8c85ed734da3ed4d72eb2402b081782b2da6433f" title="Warning" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Vừa rồi mình có đặt mua key Helldivers 2 ở bên này, họ bắt đợi gần khoản 20 ngày mới có key, thì mình cũng ừ ừ đợi, rồi tới ngày đó khi mình nhận key thì họ bắt phải tải cái Steam.Api gì đấy là mình cũng nghi nghi rồi, rồi tới sau khi làm theo các bước xong mình nhập key vào rồi tải game thì lại chơi game không được, nhắn tin hỏi fanpage thì gần cả ngày trời mới trả lời được vài chữ xong lại lặng tiếp, cả zalo cả discord cũng thế, nhưng mà kì lạ cái là sau khi cài cái steam.api kia thì mình chơi mấy game online khác không được, nó cứ hiện offline hoặc là notifi là steam đang bị gì đấy và bắt reset, và sau khi thử lại và reset máy vài lần không được thì mình quyết định xoá steam tải lại, nhưng mà kì ở chỗ là sau khi tải lại steam thì mình không thấy game cái game Helldivers không có ở trong Library của mình, nên mình nghi là shop này họ bán key lỏ gì đấy bên trung quốc và cái Steam.api giống như kiểu một phần mềm bên thứ ba để kích hoạt cái key lỏ này. Nếu anh em có mua key bản quyền thì khuyên nên né chỗ này ra nhé !&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/SuperElderberry3643"&gt; /u/SuperElderberry3643 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/awt4p7itmieh1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v28t8x/warning/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1v28t8x/warning/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-07-21T05:05:53+00:00</published>
+  </entry>
 </feed>
