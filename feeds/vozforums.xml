@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>/r/vozforums/.rss</id>
   <title>vOzforums</title>
-  <updated>2026-07-23T23:38:34+00:00</updated>
+  <updated>2026-07-24T01:08:25+00:00</updated>
   <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <icon>https://www.redditstatic.com/icon.png/</icon>
   <subtitle>Cộng đồng không chính thức trên Reddit của vOzforums (nay là voz.vn).</subtitle>
-  <entry>
-    <id>t3_1v4akw9</id>
-    <title>Hỏi đáp laptop</title>
-    <updated>2026-07-23T10:59:31+00:00</updated>
-    <author>
-      <name>/u/Hot-Actuator-2190</name>
-      <uri>https://old.reddit.com/user/Hot-Actuator-2190</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, em là sinh viên ngành du lịch thì nên chọn laptop gì?&lt;/p&gt; &lt;p&gt;-Kinh phí: khoảng 20 triệu.&lt;/p&gt; &lt;p&gt;-Nhu cầu: học online, văn phòng cơ bản, chơi game(gta5).&lt;/p&gt; &lt;p&gt;-Cấu hình:&lt;/p&gt; &lt;p&gt;+RAM 16GB.&lt;/p&gt; &lt;p&gt;+Có card rời.&lt;/p&gt; &lt;p&gt;+Bộ nhớ 512GB.&lt;/p&gt; &lt;p&gt;+Quạt ko kêu to (vì anh em có 1 chiếc kêu to lắm)&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Hot-Actuator-2190"&gt; /u/Hot-Actuator-2190 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v4akw9/hỏi_đáp_laptop/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v4akw9/hỏi_đáp_laptop/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1v4akw9/hỏi_đáp_laptop/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-07-23T10:59:31+00:00</published>
-  </entry>
   <entry>
     <id>t3_1v3aukm</id>
     <title>Nếu là anh em thì anh em sẽ chọn công ty nào?</title>
@@ -138,19 +125,6 @@
     <published>2026-07-23T14:13:46+00:00</published>
   </entry>
   <entry>
-    <id>t3_1v4n56o</id>
-    <title>Xin tư vấn mua ấm siêu tốc để dùng lâu dài</title>
-    <updated>2026-07-23T18:57:44+00:00</updated>
-    <author>
-      <name>/u/Reasonable-Top-9481</name>
-      <uri>https://old.reddit.com/user/Reasonable-Top-9481</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em xin chào các anh chị trong nhóm ạ. Mọi người có ai rành về ấm đun siêu tốc tư vấn giúp em 1 chiếc dùng lâu dài ạ em chủ yếu để đun nước nóng mà không biết nên chọn loại nào hãng nào. Mong các anh chị có kinh nghiệm tư vấn giúp em cảm ơn các anh chị rất nhiều ạ 🥰.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Reasonable-Top-9481"&gt; /u/Reasonable-Top-9481 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v4n56o/xin_tư_vấn_mua_ấm_siêu_tốc_để_dùng_lâu_dài/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v4n56o/xin_tư_vấn_mua_ấm_siêu_tốc_để_dùng_lâu_dài/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1v4n56o/xin_tư_vấn_mua_ấm_siêu_tốc_để_dùng_lâu_dài/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-07-23T18:57:44+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1v3yi8u</id>
     <title>Phim odyssey không cần ra imax xem đâu các fen</title>
     <updated>2026-07-23T00:41:24+00:00</updated>
@@ -162,6 +136,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1v3yi8u/phim_odyssey_không_cần_ra_imax_xem_đâu_các_fen/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-07-23T00:41:24+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1v4n56o</id>
+    <title>Xin tư vấn mua ấm siêu tốc để dùng lâu dài</title>
+    <updated>2026-07-23T18:57:44+00:00</updated>
+    <author>
+      <name>/u/Reasonable-Top-9481</name>
+      <uri>https://old.reddit.com/user/Reasonable-Top-9481</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em xin chào các anh chị trong nhóm ạ. Mọi người có ai rành về ấm đun siêu tốc tư vấn giúp em 1 chiếc dùng lâu dài ạ em chủ yếu để đun nước nóng mà không biết nên chọn loại nào hãng nào. Mong các anh chị có kinh nghiệm tư vấn giúp em cảm ơn các anh chị rất nhiều ạ 🥰.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Reasonable-Top-9481"&gt; /u/Reasonable-Top-9481 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v4n56o/xin_tư_vấn_mua_ấm_siêu_tốc_để_dùng_lâu_dài/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v4n56o/xin_tư_vấn_mua_ấm_siêu_tốc_để_dùng_lâu_dài/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1v4n56o/xin_tư_vấn_mua_ấm_siêu_tốc_để_dùng_lâu_dài/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-07-23T18:57:44+00:00</published>
   </entry>
   <entry>
     <id>t3_1v42eea</id>
@@ -201,19 +188,6 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1v41h24/có_bác_nào_đã_cưới_vợ_mà_bác_biết_vợ_mình_không/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-07-23T02:54:12+00:00</published>
-  </entry>
-  <entry>
-    <id>t3_1v4i4rw</id>
-    <title>Mối quan hệ trong gia đình</title>
-    <updated>2026-07-23T16:02:36+00:00</updated>
-    <author>
-      <name>/u/ChampionshipLivid869</name>
-      <uri>https://old.reddit.com/user/ChampionshipLivid869</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em có một người chị. Từ khi học lớp 5, chị em đã không hợp tính với mẹ. Mẹ em là kiểu phụ huynh châu Á khá truyền thống nên cách dạy con đôi khi chưa đúng và khá áp đặt.&lt;/p&gt; &lt;p&gt;Đến lúc chị thi đại học, chị muốn học ngành kinh tế, còn mẹ lại muốn chị theo nghề giáo viên vì cho rằng công việc ổn định, rồi sau này sẽ kiếm cho một người chồng công an hoặc bộ đội để yên bề gia thất (đúng kiểu hình mẫu gia đình truyền thống của Việt Nam). Và cũng từ đó, cuộc chiến giữa hai người bắt đầu.&lt;/p&gt; &lt;p&gt;Mẹ em luôn nghĩ con mình không làm được gì. Lúc chị thi đại học mẹ cũng nói chả làm được đâu, bọn m làm gì giỏi như người ta mà làm mấy nghề không ổn định như thế. Kể cả em bây giờ, mỗi khi muốn thử làm một việc gì đó, mẹ cũng thường nói: &amp;quot;Không làm được đâu, đừng có làm.&amp;quot; Những câu nói như vậy khiến em nhiều lần nhụt chí và cũng trở nên thiếu tự tin vào bản thân.&lt;/p&gt; &lt;p&gt;Khi chị em quyết tâm theo ngành kinh tế, mẹ đã nói rất nhiều lời lẽ nặng nề, thậm chí là xúc phạm (em không tiện kể ở đây). Điều đó khiến chị em hận và ghét mẹ rất nhiều. Bây giờ chị đã ra trường, công việc tuy chưa hẳn ổn định nhưng chị hài lòng với lựa chọn của mình. Sau lần chị bùng nổ, chửi bới và phản kháng quyết liệt, mẹ em cũng không còn áp đặt em như trước nữa.&lt;/p&gt; &lt;p&gt;Hiện tại, mẹ và chị gần như chiến tranh lạnh, không bao giờ nói chuyện với nhau. Trên mạng xã hội, chị cũng chặn mẹ ở tất cả các nền tảng. Mỗi lần về quê ăn Tết hoặc nghỉ phép, mẹ em đã cố gắng không nói những chuyện dễ đụng chạm đến chị. Thế nhưng chị em lại rất nhạy cảm (cũng có thể nói là từng có vấn đề về tâm lý), nên thường cho rằng mẹ đang mỉa mai hay nói móc mình. Rồi chị lại đáp trả bằng những lời lẽ không đúng mực, nhắc lại những câu chửi năm xưa để đay nghiến mẹ.&lt;/p&gt; &lt;p&gt;Ví dụ, có lần mẹ em chỉ nói mình vừa được tăng lương lên 20 triệu, thì chị lại đáp: &amp;quot;Đến tuổi này mà lương có 20 triệu thì có phải gọi là thất bại?&amp;quot; Em nghe thật sự rất khó chịu và bực. Dù sao thì công việc đó cũng đã nuôi hai chị em khôn lớn và lo cho chị suốt bốn năm đại học. Nhiều lúc mẹ vẫn chủ động nhắn tin hỏi thăm, hoặc ngỏ ý bảo chị về quê làm việc để đỡ vất vả, nhà cửa giờ cũng khang trang hơn. Nhưng mỗi lần như vậy, chị vẫn tiếp tục chửi bới và trách móc mẹ.&lt;/p&gt; &lt;p&gt;Đúng là em với mẹ cũng không hợp nhau, hai mẹ con cũng khắc khẩu rất nhiều. Nhưng em vẫn thương mẹ. Ba em cũng không hẳn là một người đàn ông tốt. Từ trước đến nay, chị muốn có máy tính, xe máy hay học tiếng Anh, dù chi phí đắt đến đâu mẹ cũng cố gắng xoay xở để lo cho chị. Có những khoản tiền rất lớn, mẹ còn phải đi vay mượn để đáp ứng cho chị. Với em cũng vậy, từ chuyện học hành, ăn uống đến quần áo hay những thứ cần thiết, mẹ chưa bao giờ để em thiếu thốn.&lt;/p&gt; &lt;p&gt;Em hiểu rằng quá khứ mẹ đã nói những lời rất tổn thương với chị, và điều đó là sai. Em cũng biết tâm lý của chị từng có vấn đề nên những vết thương ấy rất khó lành. Nhưng dù sao mình cũng là con, em vẫn nghĩ không nên dùng những lời lẽ như vậy với mẹ. Nếu nhìn toàn cảnh, mẹ có cái sai, nhưng cũng có rất nhiều cái đúng. Mẹ đã cố gắng lo cho hai chị em từ nhỏ đến lớn, chưa bao giờ để hai đứa thiếu thốn điều gì.&lt;/p&gt; &lt;p&gt;Em cũng từng khuyên chị, nhưng kết quả là hai chị em lại cãi nhau rồi chiến tranh lạnh. Chị nói rằng những tổn thương mẹ gây ra quá lớn, không thể nào chữa lành được nên chị vẫn rất hận và ghét mẹ. Thật sự em rất buồn và bế tắc. Em hiểu cảm xúc của chị, cũng hiểu mẹ đã từng sai rất nhiều. Nhưng em cũng thương mẹ vì những gì mẹ đã hy sinh và làm cho hai chị em suốt bao nhiêu năm. Em không biết phải làm thế nào để mọi chuyện khá hơn.&lt;/p&gt; &lt;p&gt;Mọi người có thể cho em và chị em một lời khuyên được không ạ? Em thật sự bế tắc quá. Có thể em viết câu cú khá lủng củng mong mọi người thông cảm ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ChampionshipLivid869"&gt; /u/ChampionshipLivid869 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v4i4rw/mối_quan_hệ_trong_gia_đình/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v4i4rw/mối_quan_hệ_trong_gia_đình/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1v4i4rw/mối_quan_hệ_trong_gia_đình/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-07-23T16:02:36+00:00</published>
   </entry>
   <entry>
     <id>t3_1v4eafj</id>
@@ -268,6 +242,32 @@
     <published>2026-07-23T23:22:09+00:00</published>
   </entry>
   <entry>
+    <id>t3_1v4i4rw</id>
+    <title>Mối quan hệ trong gia đình</title>
+    <updated>2026-07-23T16:02:36+00:00</updated>
+    <author>
+      <name>/u/ChampionshipLivid869</name>
+      <uri>https://old.reddit.com/user/ChampionshipLivid869</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em có một người chị. Từ khi học lớp 5, chị em đã không hợp tính với mẹ. Mẹ em là kiểu phụ huynh châu Á khá truyền thống nên cách dạy con đôi khi chưa đúng và khá áp đặt.&lt;/p&gt; &lt;p&gt;Đến lúc chị thi đại học, chị muốn học ngành kinh tế, còn mẹ lại muốn chị theo nghề giáo viên vì cho rằng công việc ổn định, rồi sau này sẽ kiếm cho một người chồng công an hoặc bộ đội để yên bề gia thất (đúng kiểu hình mẫu gia đình truyền thống của Việt Nam). Và cũng từ đó, cuộc chiến giữa hai người bắt đầu.&lt;/p&gt; &lt;p&gt;Mẹ em luôn nghĩ con mình không làm được gì. Lúc chị thi đại học mẹ cũng nói chả làm được đâu, bọn m làm gì giỏi như người ta mà làm mấy nghề không ổn định như thế. Kể cả em bây giờ, mỗi khi muốn thử làm một việc gì đó, mẹ cũng thường nói: &amp;quot;Không làm được đâu, đừng có làm.&amp;quot; Những câu nói như vậy khiến em nhiều lần nhụt chí và cũng trở nên thiếu tự tin vào bản thân.&lt;/p&gt; &lt;p&gt;Khi chị em quyết tâm theo ngành kinh tế, mẹ đã nói rất nhiều lời lẽ nặng nề, thậm chí là xúc phạm (em không tiện kể ở đây). Điều đó khiến chị em hận và ghét mẹ rất nhiều. Bây giờ chị đã ra trường, công việc tuy chưa hẳn ổn định nhưng chị hài lòng với lựa chọn của mình. Sau lần chị bùng nổ, chửi bới và phản kháng quyết liệt, mẹ em cũng không còn áp đặt em như trước nữa.&lt;/p&gt; &lt;p&gt;Hiện tại, mẹ và chị gần như chiến tranh lạnh, không bao giờ nói chuyện với nhau. Trên mạng xã hội, chị cũng chặn mẹ ở tất cả các nền tảng. Mỗi lần về quê ăn Tết hoặc nghỉ phép, mẹ em đã cố gắng không nói những chuyện dễ đụng chạm đến chị. Thế nhưng chị em lại rất nhạy cảm (cũng có thể nói là từng có vấn đề về tâm lý), nên thường cho rằng mẹ đang mỉa mai hay nói móc mình. Rồi chị lại đáp trả bằng những lời lẽ không đúng mực, nhắc lại những câu chửi năm xưa để đay nghiến mẹ.&lt;/p&gt; &lt;p&gt;Ví dụ, có lần mẹ em chỉ nói mình vừa được tăng lương lên 20 triệu, thì chị lại đáp: &amp;quot;Đến tuổi này mà lương có 20 triệu thì có phải gọi là thất bại?&amp;quot; Em nghe thật sự rất khó chịu và bực. Dù sao thì công việc đó cũng đã nuôi hai chị em khôn lớn và lo cho chị suốt bốn năm đại học. Nhiều lúc mẹ vẫn chủ động nhắn tin hỏi thăm, hoặc ngỏ ý bảo chị về quê làm việc để đỡ vất vả, nhà cửa giờ cũng khang trang hơn. Nhưng mỗi lần như vậy, chị vẫn tiếp tục chửi bới và trách móc mẹ.&lt;/p&gt; &lt;p&gt;Đúng là em với mẹ cũng không hợp nhau, hai mẹ con cũng khắc khẩu rất nhiều. Nhưng em vẫn thương mẹ. Ba em cũng không hẳn là một người đàn ông tốt. Từ trước đến nay, chị muốn có máy tính, xe máy hay học tiếng Anh, dù chi phí đắt đến đâu mẹ cũng cố gắng xoay xở để lo cho chị. Có những khoản tiền rất lớn, mẹ còn phải đi vay mượn để đáp ứng cho chị. Với em cũng vậy, từ chuyện học hành, ăn uống đến quần áo hay những thứ cần thiết, mẹ chưa bao giờ để em thiếu thốn.&lt;/p&gt; &lt;p&gt;Em hiểu rằng quá khứ mẹ đã nói những lời rất tổn thương với chị, và điều đó là sai. Em cũng biết tâm lý của chị từng có vấn đề nên những vết thương ấy rất khó lành. Nhưng dù sao mình cũng là con, em vẫn nghĩ không nên dùng những lời lẽ như vậy với mẹ. Nếu nhìn toàn cảnh, mẹ có cái sai, nhưng cũng có rất nhiều cái đúng. Mẹ đã cố gắng lo cho hai chị em từ nhỏ đến lớn, chưa bao giờ để hai đứa thiếu thốn điều gì.&lt;/p&gt; &lt;p&gt;Em cũng từng khuyên chị, nhưng kết quả là hai chị em lại cãi nhau rồi chiến tranh lạnh. Chị nói rằng những tổn thương mẹ gây ra quá lớn, không thể nào chữa lành được nên chị vẫn rất hận và ghét mẹ. Thật sự em rất buồn và bế tắc. Em hiểu cảm xúc của chị, cũng hiểu mẹ đã từng sai rất nhiều. Nhưng em cũng thương mẹ vì những gì mẹ đã hy sinh và làm cho hai chị em suốt bao nhiêu năm. Em không biết phải làm thế nào để mọi chuyện khá hơn.&lt;/p&gt; &lt;p&gt;Mọi người có thể cho em và chị em một lời khuyên được không ạ? Em thật sự bế tắc quá. Có thể em viết câu cú khá lủng củng mong mọi người thông cảm ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/ChampionshipLivid869"&gt; /u/ChampionshipLivid869 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v4i4rw/mối_quan_hệ_trong_gia_đình/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v4i4rw/mối_quan_hệ_trong_gia_đình/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1v4i4rw/mối_quan_hệ_trong_gia_đình/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-07-23T16:02:36+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1v4vfx0</id>
+    <title>Tìm người share acc Netflix</title>
+    <updated>2026-07-24T00:13:34+00:00</updated>
+    <author>
+      <name>/u/MiserableCookie1212</name>
+      <uri>https://old.reddit.com/user/MiserableCookie1212</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Dạ anh em nào biết có ai share hoặc bán acc Netflix giá rẻ cho em xin liên hệ ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/MiserableCookie1212"&gt; /u/MiserableCookie1212 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v4vfx0/tìm_người_share_acc_netflix/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v4vfx0/tìm_người_share_acc_netflix/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1v4vfx0/tìm_người_share_acc_netflix/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-07-24T00:13:34+00:00</published>
+  </entry>
+  <entry>
     <id>t3_1v49dxd</id>
     <title>T có đang thuê phòng ngáo giá ko ae?</title>
     <updated>2026-07-23T09:57:39+00:00</updated>
@@ -294,19 +294,6 @@
     <published>2026-07-23T04:15:41+00:00</published>
   </entry>
   <entry>
-    <id>t3_1v4lx5m</id>
-    <title>Bạn thân cấp 3 sa cơ thất thế</title>
-    <updated>2026-07-23T18:15:18+00:00</updated>
-    <author>
-      <name>/u/Typical_Purple3472</name>
-      <uri>https://old.reddit.com/user/Typical_Purple3472</uri>
-    </author>
-    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tổng quan về người bạn cấp 3:&lt;br /&gt; - Gia đình: Giàu, làm bất động sản, vàng thích thì mua mặc kệ đỉnh đáy.&lt;br /&gt; - Bản thân bạn ấy: Học trường công ngành luật, GPA &amp;lt; 3.&lt;br /&gt; - Tư tưởng: Thích kiếm tiền, tự lập ra khỏi gia đình.&lt;br /&gt; Đọc xong 3 dòng thấy có vẻ như “Steve Job Việt Nam” nhưng sự thật là kiếm tiền từ chơi banh bóng, đang năm cuối đại học thì lòi ra tin nợ 180 triệu, ban đầu 50 nhưng vay ngoài sau 2 năm lên như vậy, bonus thêm năm 1 bay 200 triệu.&lt;br /&gt; Tổng kết 4 năm học đại học, GPA như trên, nợ tiếng anh, không viết nổi CV phải nhờ người thân giới thiệu lấy mộc thực tập. Thích suy nghĩ lớn, bỏ vốn hơn 30 triệu để nhập hàng về bán.&lt;br /&gt; Vấn đề là từ năm 1 mình đã khuyên rằng, nhà giàu hãy tận dụng để học tiếng anh, học và chơi đừng nghĩ đến tiền sau này ra kiếm sau, nhưng 4 năm ấy lại đi làm PB, Grab, quản lý trọ,… và nhiều lần xem thường lời khuyên của mình, cảm giác như nói xong thì bị chê cười ngay lập tức, không suy nghĩ. “Học luật thì biết tiếng Anh làm gì? Nhà nước dùng tiếng Việt mà, học phí tiền” đó là 1 câu nói rất sai lầm, đến bây giờ GPA thấp không cạnh tranh được, tiếng anh thì không có để vào công ty nước ngoài.&lt;br /&gt; Bây giờ, BĐS xuống, đất dính dự án, việc nhà nên ba mẹ kẹt tiền, phải bán vàng để chi trả cho sự tự lập ấy, mượn mình 20 triệu. Mọi người có đọc vế lấy 30 triệu nhập hàng về không? Bây giờ không có tiền thi tiếng anh để nộp cho trường cũng như đóng lệ phí tốt nghiệp, mượn tiền mình tiếp.&lt;br /&gt; Mọi người có lời khuyên gì cho những kẻ cứng đầu như vậy không? Sau 4 năm rồi vẫn chưa tỉnh, vẫn nghĩ mọi việc mình làm là giúp đỡ cha mẹ, tự lập, nhưng cuối cùng lại như 1 đứa nhà giàu khác phá hoại tài sản cha mẹ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Typical_Purple3472"&gt; /u/Typical_Purple3472 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v4lx5m/bạn_thân_cấp_3_sa_cơ_thất_thế/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v4lx5m/bạn_thân_cấp_3_sa_cơ_thất_thế/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
-    <link href="https://old.reddit.com/r/vozforums/comments/1v4lx5m/bạn_thân_cấp_3_sa_cơ_thất_thế/"/>
-    <category term="vozforums" label="r/vozforums"/>
-    <published>2026-07-23T18:15:18+00:00</published>
-  </entry>
-  <entry>
     <id>t3_1v4b74g</id>
     <title>Liệu nếu thật sự áp dụng những phúc lợi của các công ty nước ngoài vào VN thì liệu có thật sự nâng cao năng suất của nv hay không ?</title>
     <updated>2026-07-23T11:29:12+00:00</updated>
@@ -318,6 +305,19 @@
     <link href="https://old.reddit.com/r/vozforums/comments/1v4b74g/liệu_nếu_thật_sự_áp_dụng_những_phúc_lợi_của_các/"/>
     <category term="vozforums" label="r/vozforums"/>
     <published>2026-07-23T11:29:12+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1v4lx5m</id>
+    <title>Bạn thân cấp 3 sa cơ thất thế</title>
+    <updated>2026-07-23T18:15:18+00:00</updated>
+    <author>
+      <name>/u/Typical_Purple3472</name>
+      <uri>https://old.reddit.com/user/Typical_Purple3472</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Tổng quan về người bạn cấp 3:&lt;br /&gt; - Gia đình: Giàu, làm bất động sản, vàng thích thì mua mặc kệ đỉnh đáy.&lt;br /&gt; - Bản thân bạn ấy: Học trường công ngành luật, GPA &amp;lt; 3.&lt;br /&gt; - Tư tưởng: Thích kiếm tiền, tự lập ra khỏi gia đình.&lt;br /&gt; Đọc xong 3 dòng thấy có vẻ như “Steve Job Việt Nam” nhưng sự thật là kiếm tiền từ chơi banh bóng, đang năm cuối đại học thì lòi ra tin nợ 180 triệu, ban đầu 50 nhưng vay ngoài sau 2 năm lên như vậy, bonus thêm năm 1 bay 200 triệu.&lt;br /&gt; Tổng kết 4 năm học đại học, GPA như trên, nợ tiếng anh, không viết nổi CV phải nhờ người thân giới thiệu lấy mộc thực tập. Thích suy nghĩ lớn, bỏ vốn hơn 30 triệu để nhập hàng về bán.&lt;br /&gt; Vấn đề là từ năm 1 mình đã khuyên rằng, nhà giàu hãy tận dụng để học tiếng anh, học và chơi đừng nghĩ đến tiền sau này ra kiếm sau, nhưng 4 năm ấy lại đi làm PB, Grab, quản lý trọ,… và nhiều lần xem thường lời khuyên của mình, cảm giác như nói xong thì bị chê cười ngay lập tức, không suy nghĩ. “Học luật thì biết tiếng Anh làm gì? Nhà nước dùng tiếng Việt mà, học phí tiền” đó là 1 câu nói rất sai lầm, đến bây giờ GPA thấp không cạnh tranh được, tiếng anh thì không có để vào công ty nước ngoài.&lt;br /&gt; Bây giờ, BĐS xuống, đất dính dự án, việc nhà nên ba mẹ kẹt tiền, phải bán vàng để chi trả cho sự tự lập ấy, mượn mình 20 triệu. Mọi người có đọc vế lấy 30 triệu nhập hàng về không? Bây giờ không có tiền thi tiếng anh để nộp cho trường cũng như đóng lệ phí tốt nghiệp, mượn tiền mình tiếp.&lt;br /&gt; Mọi người có lời khuyên gì cho những kẻ cứng đầu như vậy không? Sau 4 năm rồi vẫn chưa tỉnh, vẫn nghĩ mọi việc mình làm là giúp đỡ cha mẹ, tự lập, nhưng cuối cùng lại như 1 đứa nhà giàu khác phá hoại tài sản cha mẹ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Typical_Purple3472"&gt; /u/Typical_Purple3472 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v4lx5m/bạn_thân_cấp_3_sa_cơ_thất_thế/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1v4lx5m/bạn_thân_cấp_3_sa_cơ_thất_thế/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1v4lx5m/bạn_thân_cấp_3_sa_cơ_thất_thế/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-07-23T18:15:18+00:00</published>
   </entry>
   <entry>
     <id>t3_1v4m0i4</id>
