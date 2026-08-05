@@ -1,9 +1,335 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>https://old.reddit.com/r/vozforums/.rss</id>
-  <title>r/vozforums</title>
-  <updated>2026-08-05T16:40:52.822844+00:00</updated>
-  <link href="https://old.reddit.com/r/vozforums/.rss" rel="alternate"/>
+  <id>/r/vozforums/.rss</id>
+  <title>vOzforums</title>
+  <updated>2026-08-05T18:10:29+00:00</updated>
+  <link href="https://old.reddit.com/r/vozforums/" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
-  <subtitle>Atom feed for r/vozforums</subtitle>
+  <icon>https://www.redditstatic.com/icon.png/</icon>
+  <subtitle>Cộng đồng không chính thức trên Reddit của vOzforums (nay là voz.vn).</subtitle>
+  <entry>
+    <id>t3_1vfudr0</id>
+    <title>Cấu hình Nas Synology</title>
+    <updated>2026-08-05T02:18:02+00:00</updated>
+    <author>
+      <name>/u/Cozybear110494</name>
+      <uri>https://old.reddit.com/user/Cozybear110494</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Cho hỏi có bác nào rành setup mạng, cấu hình Nas hay từng sài qua Nas Synology ở đây không cho mình hỏi với? Mình muốn truy cập file từ mạng ngoài của gia đình nhưng không biết có cần cấu hình lại router hay sài VPN hay VPS để bypass cái NAT Type không mấy bác ? Hiện tại cái ps remote play của mình đang bị block Nat Type 3.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Cozybear110494"&gt; /u/Cozybear110494 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1vfudr0/cấu_hình_nas_synology/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1vfudr0/cấu_hình_nas_synology/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1vfudr0/cấu_hình_nas_synology/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-08-05T02:18:02+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1vfwxe9</id>
+    <title>bằng đại học loại giỏi mong đợi gì nếu đi nghĩa vụ công an</title>
+    <updated>2026-08-05T04:20:07+00:00</updated>
+    <author>
+      <name>/u/lomup</name>
+      <uri>https://old.reddit.com/user/lomup</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;mình năm nay tốt nghiệp cái bằng công nghệ thông tin ở trường tỉnh. giờ khó xin việc nên định xét nghĩa vụ công an.&lt;/p&gt; &lt;p&gt;anh em cho mình hỏi là có bằng như vậy sẽ có ưu tiên quyền lợi và cơ hội gì&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/lomup"&gt; /u/lomup &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1vfwxe9/bằng_đại_học_loại_giỏi_mong_đợi_gì_nếu_đi_nghĩa/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1vfwxe9/bằng_đại_học_loại_giỏi_mong_đợi_gì_nếu_đi_nghĩa/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1vfwxe9/bằng_đại_học_loại_giỏi_mong_đợi_gì_nếu_đi_nghĩa/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-08-05T04:20:07+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1vg6nuo</id>
+    <title>Xin chia sẻ về cách lựa chọn ghế công thái học</title>
+    <updated>2026-08-05T12:58:18+00:00</updated>
+    <author>
+      <name>/u/PermissionClassic595</name>
+      <uri>https://old.reddit.com/user/PermissionClassic595</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình đang có ý định mua một chiếc ghế công thái học, cần một chiếc đủ thoải mái, tốt cho cơ thể nhất có thể với mức giá không quá chát (chắc loanh quanh 1 triệu thôi). Mọi người có tìm hiểu nhiều với trải nghiệm rồi cho mình xin chia sẻ nên mua của hãng nào với ạ. Mình thấy trên mạng có nhiều mức giá, 600k cũng có mà vài triệu cũng có không biêt nên mua cái nào là ổn nhất với giá.. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/PermissionClassic595"&gt; /u/PermissionClassic595 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1vg6nuo/xin_chia_sẻ_về_cách_lựa_chọn_ghế_công_thái_học/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1vg6nuo/xin_chia_sẻ_về_cách_lựa_chọn_ghế_công_thái_học/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1vg6nuo/xin_chia_sẻ_về_cách_lựa_chọn_ghế_công_thái_học/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-08-05T12:58:18+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1vfvv4p</id>
+    <title>Làm công an ổn không?</title>
+    <updated>2026-08-05T03:27:31+00:00</updated>
+    <author>
+      <name>/u/Fair-Leek-1213</name>
+      <uri>https://old.reddit.com/user/Fair-Leek-1213</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mn! Tình hình là công an tuyển sinh văn bằng 2 mấy năm rồi. Và em thi trượt mấy lần dù bố mẹ em rất muốn em vào, cảm giác như tín hiệu vũ trụ ấy. Cá nhân em thì không thích ngành này lắm chỉ là vào theo nguyện vọng bố mẹ, phụ huynh thì nghĩ ngành này nó danh giá nhưng em thấy có nhiều góc khuất mà em không đánh đổi được. Anh chị nào biết nhiều về ngành này chia sẻ em chút góc nhìn nha&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Fair-Leek-1213"&gt; /u/Fair-Leek-1213 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1vfvv4p/làm_công_an_ổn_không/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1vfvv4p/làm_công_an_ổn_không/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1vfvv4p/làm_công_an_ổn_không/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-08-05T03:27:31+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1vfznfc</id>
+    <title>Tìm chương trình Master Online chấp nhận Work Experience</title>
+    <updated>2026-08-05T06:46:38+00:00</updated>
+    <author>
+      <name>/u/Fickle_Ad_6238</name>
+      <uri>https://old.reddit.com/user/Fickle_Ad_6238</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hế lô mọi người,&lt;/p&gt; &lt;p&gt;Hiện tại mình chỉ mới có bằng Diploma chứ chưa có bằng Bachelor, nhưng đã có khá nhiều năm kinh nghiệm làm việc thực tế. Mình đang muốn học lên Master theo dạng xét tuyển bằng kinh nghiệm + thư giới thiệu (APEL / Work Experience Pathway), ở VN hình như chưa có dạng này.&lt;/p&gt; &lt;p&gt;Mình có tìm hiểu qua một số trường ở UK (University of Essex, University of Hertfordshire) có nhận dạng này và cho học online, nhưng chi phí khá chát (khoảng 300 - 500 triệu VND). Target của mình là lấy cái bằng Master chuẩn, học online được và học phí &amp;quot;dễ thở&amp;quot; hơn một chút. &lt;/p&gt; &lt;p&gt;Anh em cho mình hỏi:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Có ai từng đi đường này (từ Diploma/Kinh nghiệm lên thẳng Master) chưa ạ?&lt;/li&gt; &lt;li&gt;Ngoài UK ra thì có nước nào hoặc trường nào xét tuyển kiểu này mà học phí mềm hơn không?&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Mọi người có trải nghiệm hay gợi ý trường nào ổn áp thì cho mình xin thông tin với nhé. Cảm ơn cả nhà!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Fickle_Ad_6238"&gt; /u/Fickle_Ad_6238 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1vfznfc/tìm_chương_trình_master_online_chấp_nhận_work/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1vfznfc/tìm_chương_trình_master_online_chấp_nhận_work/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1vfznfc/tìm_chương_trình_master_online_chấp_nhận_work/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-08-05T06:46:38+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1vfxjfx</id>
+    <title>1 vài lời khuyên cho người trẻ mới đi làm</title>
+    <updated>2026-08-05T04:52:06+00:00</updated>
+    <author>
+      <name>/u/Nice_Passenger9446</name>
+      <uri>https://old.reddit.com/user/Nice_Passenger9446</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;- mn cho e hỏi sắp tới e sắp bước chân vào thị trường lao động ( e làm business analyst) thì mn đi trước hay có kinh nghiệm gì thì có thể cho em lời khuyên về cách đối nhân xử thế cũng như tâm lí khi đi làm được ko ạ, e là người ko ngại giao tiếp nhưng ko thích drama và toxic và kế hoạch của e là e chỉ muốn tập trung vào cviec của mình thôi ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Nice_Passenger9446"&gt; /u/Nice_Passenger9446 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1vfxjfx/1_vài_lời_khuyên_cho_người_trẻ_mới_đi_làm/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1vfxjfx/1_vài_lời_khuyên_cho_người_trẻ_mới_đi_làm/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1vfxjfx/1_vài_lời_khuyên_cho_người_trẻ_mới_đi_làm/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-08-05T04:52:06+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1vgaax1</id>
+    <title>Làng Vân change.org</title>
+    <updated>2026-08-05T15:18:46+00:00</updated>
+    <author>
+      <name>/u/Otanonymous</name>
+      <uri>https://old.reddit.com/user/Otanonymous</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Vụ này đang bị kiểm soát chặt thiệt lol. &lt;/p&gt; &lt;p&gt;Những ai phản đối việc làm này và muốn hành động. Đơn giản là tạo kiến nghị trên change.org rồi rải đến threads, rải đến các nền tảng mxh khác, đến các nền tảng live stream, đến các ứng dụng mxh hẹn hò ẩn danh, đến các diễn đàn forum trong và ngoài nước. Chỉ vậy mà chưa thấy đứa nào nghĩ ra lol. &lt;/p&gt; &lt;p&gt;Ngồi thấy mấy em đăng mấy dòng status trên Thread như &amp;quot;đã tẩy chay Vin&amp;quot; mà tôi thấy mắc cười quá lol. Chưa thấy đứa nào có cách làm sáng tạo. Chưa thấy hành động nào hiệu quả sâu sắc. Chứ thấy la lẻ tẻ mấy dòng xì ta tút chỗ này chỗ nọ thì ăn thua gì lol. &lt;/p&gt; &lt;p&gt;Ai muốn hành động mà có tâm lý sợ phạt thì đó là một trong những cách làm. Ai nghĩ cách làm này thì không có ăn thua gì đâu thì đừng coi thường Hiệu ứng domino. Cổ phiếu của Vin tụt giá ,1 tòa báo trong nước đăng tin về tác động môi trường, công trình đang xây dựng sẽ tạm hoãn lại... hay không thì không biết được. Ít ra khi nào thấy thêm một trang web bị blocked là biết có hiệu quả rồi đó lol. &lt;/p&gt; &lt;p&gt;Ai nghĩ: &amp;quot; ok, đơn giản vậy sao m không làm chịu làm đi... &amp;quot;. Thì do tôi không rảnh để phản đối Vin, cũng chưa bao giờ đi đèo Hải Vân và tôi cũng chỉ là thường dân mà thôi lol. &lt;/p&gt; &lt;p&gt;Bài viết mang tính chất tham khảo. Vì một nước non Việt Nam vững bền. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Otanonymous"&gt; /u/Otanonymous &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1vgaax1/làng_vân_changeorg/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1vgaax1/làng_vân_changeorg/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1vgaax1/làng_vân_changeorg/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-08-05T15:18:46+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1vf9pxt</id>
+    <title>Ae nghĩ sao về chuyện này ?</title>
+    <updated>2026-08-04T13:01:24+00:00</updated>
+    <author>
+      <name>/u/Expensive_Pin6421</name>
+      <uri>https://old.reddit.com/user/Expensive_Pin6421</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1vf9pxt/ae_nghĩ_sao_về_chuyện_này/"&gt; &lt;img alt="Ae nghĩ sao về chuyện này ?" src="https://preview.redd.it/1dtfuac9wchh1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=64354557573a6afdc9248a904681e76c4b860763" title="Ae nghĩ sao về chuyện này ?" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Trích: &amp;quot;...Đề xuất nghĩa vụ thay thế từng được một số đại biểu Quốc hội nêu khi thảo luận dự án Luật Nghĩa vụ quân sự sửa đổi năm 2014. Đại biểu Nguyễn Công Hồng khi đó dẫn kinh nghiệm một số nước, cho phép người không nhập ngũ tham gia lao động hoặc đóng tiền thay thế nhằm bảo đảm công bằng giữa công dân trong độ tuổi.&amp;quot;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Expensive_Pin6421"&gt; /u/Expensive_Pin6421 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/1dtfuac9wchh1.png"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1vf9pxt/ae_nghĩ_sao_về_chuyện_này/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1vf9pxt/ae_nghĩ_sao_về_chuyện_này/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-08-04T13:01:24+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1vg2x2t</id>
+    <title>CV đầu tiên trong đời nên trình bày gì</title>
+    <updated>2026-08-05T09:56:14+00:00</updated>
+    <author>
+      <name>/u/Fake_Interpreter</name>
+      <uri>https://old.reddit.com/user/Fake_Interpreter</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em vừa kết thúc cấp 3. Trong hè lúc chờ nhập học ĐH nên em có chút thời gian rảnh muốn đi làm thêm ạ. Bên cty HR họ yêu cầu nộp CV nhưng mà em cũng chưa có kinh nghiệm làm việc hay bằng cấp cụ thể nào (dù cty ko yêu cầu). Vì vậy em đang ko biết CV nên trình bày những thông tin gì ạ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Fake_Interpreter"&gt; /u/Fake_Interpreter &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1vg2x2t/cv_đầu_tiên_trong_đời_nên_trình_bày_gì/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1vg2x2t/cv_đầu_tiên_trong_đời_nên_trình_bày_gì/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1vg2x2t/cv_đầu_tiên_trong_đời_nên_trình_bày_gì/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-08-05T09:56:14+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1vgar45</id>
+    <title>Học tiếng trung Offline tại Hà Nội</title>
+    <updated>2026-08-05T15:34:59+00:00</updated>
+    <author>
+      <name>/u/Klaurius</name>
+      <uri>https://old.reddit.com/user/Klaurius</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, &lt;/p&gt; &lt;p&gt;Em tốt nghiệp kĩ sư tự động hóa ra trường được 1 năm đang làm kcn full-time muốn học thêm tiếng trung để mở rộng cơ hội việc làm, nên muốn tìm một trung tâm học tiếng Trung offline cho người mới bắt đầu (từ số 0) ở khu vực Cầu Giấy, Hà Nội vào buổi tối khoảng 2 3 buổi/tuần. &lt;/p&gt; &lt;p&gt;Các ace ai có kinh nghiệm học hoặc có nơi học nào ổn áp cho em xin chia sẻ với&lt;/p&gt; &lt;p&gt;Em xin cảm ơn&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Klaurius"&gt; /u/Klaurius &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1vgar45/học_tiếng_trung_offline_tại_hà_nội/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1vgar45/học_tiếng_trung_offline_tại_hà_nội/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1vgar45/học_tiếng_trung_offline_tại_hà_nội/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-08-05T15:34:59+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1vg06f4</id>
+    <title>Mông lung mới ra trường</title>
+    <updated>2026-08-05T07:15:41+00:00</updated>
+    <author>
+      <name>/u/Useful_Elderberry781</name>
+      <uri>https://old.reddit.com/user/Useful_Elderberry781</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các anh chị cho em cảm nhận ạ. Em là sinh viên mới ra trường và mình vừa mới hết đợt thử việc. Trong quá trình thử việc thì mình thấy đúng là bản thân có sai xót nhiều, tuy nhiên hiện tại em đã pass probation rồi. Chuyện đáng nói là mấy tuần gần đây, gần như cả tháng hiện tại em k có được giao task gì cả, cả ngày chỉ tới công ty ngồi đó rồi hết giờ đi về, em cảm thấy khá stress. Cũng có hỏi xin việc nhưng được kêu là ngồi đọc tài liệu đi.&lt;/p&gt; &lt;p&gt;Và phòng có việc nhưng không cho em làm involve được. Phòng em có 2 người thôi chị sếp thì mất hút em ngồi 1 mình giữa các phòng ban khác. Không bt là như này có phải ngta đang muốn để mình nản mà nghỉ k ạ&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Useful_Elderberry781"&gt; /u/Useful_Elderberry781 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1vg06f4/mông_lung_mới_ra_trường/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1vg06f4/mông_lung_mới_ra_trường/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1vg06f4/mông_lung_mới_ra_trường/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-08-05T07:15:41+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1vgbux5</id>
+    <title>Vấn đề bắn tốc độ khi di chuyển bằng xe máy</title>
+    <updated>2026-08-05T16:14:14+00:00</updated>
+    <author>
+      <name>/u/Fuzzy_Bar2283</name>
+      <uri>https://old.reddit.com/user/Fuzzy_Bar2283</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mình có hỏi cái này chắc nhiều ae đi PKL cũng cùng chung nỗi lòng.&lt;br /&gt; Phàm đi PKL hoặc thậm chí các xe 175cc thì ít anh em nào chạy ở dải tốc độ ~60km/h ở ngoại thành, nên việc chạy nhanh hơn ở khoảng 70-80km/h (tương đương ô tô) là thường xuyên. Tuy nhiên, gần đây mình thấy phạt nguội quá tốc độ ở ngoại thành cũng nhiều khoảng 66/60km, khá là ức chế.&lt;br /&gt; Vậy nên mình muốn hỏi về tip nào để có thể hạn chế việc phạt nguội không? Tất nhiên là trong nội thành thì sẽ tuân thủ tuyệt đối!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Fuzzy_Bar2283"&gt; /u/Fuzzy_Bar2283 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1vgbux5/vấn_đề_bắn_tốc_độ_khi_di_chuyển_bằng_xe_máy/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1vgbux5/vấn_đề_bắn_tốc_độ_khi_di_chuyển_bằng_xe_máy/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1vgbux5/vấn_đề_bắn_tốc_độ_khi_di_chuyển_bằng_xe_máy/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-08-05T16:14:14+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1vfru1u</id>
+    <title>Tháng trước t có đi du lịch bên Huế, có ghé vào một tiệm bán quần áo hàng hiệu, xong nv tiệm đó thái độ cứ kiểu thượng đẳng, khinh thường t ấy.</title>
+    <updated>2026-08-05T00:22:45+00:00</updated>
+    <author>
+      <name>/u/Liu_Han</name>
+      <uri>https://old.reddit.com/user/Liu_Han</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chắc do hôm đó t mặc đồ nhìn bình dân (quần đùi vs áo phông), mà t cứ tưởng việc này chỉ có trên audio cơ, hóa ra trên đời có thật.&lt;/p&gt; &lt;p&gt;Ý là mấy bạn nv ấy cũng thuộc dạng làm công ăn lương thôi, thế quái nào cứ tỏ ra thượng đẳng khinh thường ng khác ấy. Hay do mấy bạn nv đó tiếp xúc nhiều với người giàu, giới thượng lưu xong ảo tưởng bản thân mình cũng như vậy nhỉ =))&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Liu_Han"&gt; /u/Liu_Han &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1vfru1u/tháng_trước_t_có_đi_du_lịch_bên_huế_có_ghé_vào/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1vfru1u/tháng_trước_t_có_đi_du_lịch_bên_huế_có_ghé_vào/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1vfru1u/tháng_trước_t_có_đi_du_lịch_bên_huế_có_ghé_vào/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-08-05T00:22:45+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1vg8v79</id>
+    <title>Kể về khoảng thời gian đen đủi vật vã nhất của mọi người</title>
+    <updated>2026-08-05T14:25:57+00:00</updated>
+    <author>
+      <name>/u/nghxson</name>
+      <uri>https://old.reddit.com/user/nghxson</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Các bác cho em hỏi tí, trong cuộc đời các bác thì khoảng tgian nào là đen đủi nhất vậy. Kiểu có những giai đoạn tự nhiên chuyện nọ nối tiếp chuyện kia, hết chuyện này lại tới chuyện khác, làm gì cũng ko thuận, cảm giác như bị vận đen bám theo ấy. Các bác từng có khoảng thời gian nào như thế chưa? Có thể là công việc, tiền bạc, tình cảm, gia đình hay đủ thứ chuyện dồn lại cùng 1 lúc. Nếu có thì các bác kể em nghe với, xem giai đoạn đen đủi nhất mà mọi người từng trải qua nó như nào.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/nghxson"&gt; /u/nghxson &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1vg8v79/kể_về_khoảng_thời_gian_đen_đủi_vật_vã_nhất_của/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1vg8v79/kể_về_khoảng_thời_gian_đen_đủi_vật_vã_nhất_của/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1vg8v79/kể_về_khoảng_thời_gian_đen_đủi_vật_vã_nhất_của/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-08-05T14:25:57+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1vg3vyu</id>
+    <title>Chuyển tiền từ nước ngoài về có bị bắt trốn thuế?</title>
+    <updated>2026-08-05T10:47:23+00:00</updated>
+    <author>
+      <name>/u/Willing-Society-4123</name>
+      <uri>https://old.reddit.com/user/Willing-Society-4123</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chuyện là em không đăng ký kinh doanh, buôn bán nhỏ lẻ tự phát.&lt;/p&gt; &lt;p&gt;Nhưng sắp tới em có 1 đơn lớn, tổng giá trị đơn hàng (lời ít, chủ yếu là vốn) đâu đó 11000$ hay khoảng 290tr. &lt;/p&gt; &lt;p&gt;Nếu em nhờ đối tác chuyển thẳng về bank thì có nguy hiểm không? Vì ngân hàng có thông báo là nếu trên 500tr sẽ gửi cho cơ quan chức năng nhưng nghe vẫn sợ vì mấy cái quy định thuế gần đây. &lt;/p&gt; &lt;p&gt;Nếu h báo thuế tncn thì lỗ tuột quần, h buôn bán chơi không thường xuyên nên không đủ lý do để lập hộ kinh doanh. Ý kiến mọi ngưòi thế nào, em cảm ơn ạ!&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Willing-Society-4123"&gt; /u/Willing-Society-4123 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1vg3vyu/chuyển_tiền_từ_nước_ngoài_về_có_bị_bắt_trốn_thuế/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1vg3vyu/chuyển_tiền_từ_nước_ngoài_về_có_bị_bắt_trốn_thuế/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1vg3vyu/chuyển_tiền_từ_nước_ngoài_về_có_bị_bắt_trốn_thuế/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-08-05T10:47:23+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1vfth74</id>
+    <title>Anh em banker ổn không?</title>
+    <updated>2026-08-05T01:37:37+00:00</updated>
+    <author>
+      <name>/u/Few-Leader5324</name>
+      <uri>https://old.reddit.com/user/Few-Leader5324</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1vfth74/anh_em_banker_ổn_không/"&gt; &lt;img alt="Anh em banker ổn không?" src="https://preview.redd.it/i1j0axyfnghh1.png?width=140&amp;amp;height=87&amp;amp;auto=webp&amp;amp;s=8e0475c138fbffcbd76ea5f150307468736a129b" title="Anh em banker ổn không?" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Mới có 6 tháng mà mấy bank lay off hàng loạt, nhất là Sacombank giảm tới 25% - con số gây sốc luôn.&lt;/p&gt; &lt;p&gt;&lt;a href="https://preview.redd.it/i1j0axyfnghh1.png?width=1696&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=b3eab5fe177bc5ad59be74bc29f97b8d753a2f03"&gt;https://preview.redd.it/i1j0axyfnghh1.png?width=1696&amp;amp;format=png&amp;amp;auto=webp&amp;amp;s=b3eab5fe177bc5ad59be74bc29f97b8d753a2f03&lt;/a&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Few-Leader5324"&gt; /u/Few-Leader5324 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1vfth74/anh_em_banker_ổn_không/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1vfth74/anh_em_banker_ổn_không/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1vfth74/anh_em_banker_ổn_không/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-08-05T01:37:37+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1vfz2ws</id>
+    <title>Chia sẽ suy nghĩ về gian lận ở Tuyên Quang</title>
+    <updated>2026-08-05T06:15:05+00:00</updated>
+    <author>
+      <name>/u/clayer719</name>
+      <uri>https://old.reddit.com/user/clayer719</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Về vấn đề thi lại: &lt;/p&gt; &lt;p&gt;Có thể sẽ có thí sinh học thật, thi thật nhưng do áp lực dư luận từ mạng xã hội mà lúc thi lại bị điểm thấp hơn. &lt;/p&gt; &lt;p&gt;Cũng đồng thời có thí sinh gian lận nhưng sau 1 tháng ôn luyện, điểm thi lại cao hơn. Về trường hợp 2 có rất nhiều cách để điểm cao hơn, ví dụ thực lực thật được 7 điểm gian lận lên 10 điểm bị bắt thi lại. Sau 1 tháng luyện đề (do đã có để thi thật), có lợi thế thi 2 lần nên điểm cao hơn, lên 9 chẳng hạn. Lúc 7 điểm thì không đủ đậu đại học, nhưng 9 điểm thì có thể. &lt;/p&gt; &lt;p&gt;Phương án thi lại vẫn có tiêu cực xảy ra, nhưng mình cũng không thể đề ra phương án tôi ưu hơn.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/clayer719"&gt; /u/clayer719 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1vfz2ws/chia_sẽ_suy_nghĩ_về_gian_lận_ở_tuyên_quang/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1vfz2ws/chia_sẽ_suy_nghĩ_về_gian_lận_ở_tuyên_quang/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1vfz2ws/chia_sẽ_suy_nghĩ_về_gian_lận_ở_tuyên_quang/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-08-05T06:15:05+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1vg8ffj</id>
+    <title>IT AUDIT TẠI BIG4</title>
+    <updated>2026-08-05T14:09:03+00:00</updated>
+    <author>
+      <name>/u/grilledsalmon_vn</name>
+      <uri>https://old.reddit.com/user/grilledsalmon_vn</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;#Big4 #ITAudit #BA&lt;br /&gt; Hi mn, em là nữ, sắp ra trường vào tháng 4/2027, background: MIS. Định hướng của e là làm BA nma dạo này ch có offer intern nên e có rải cv và đậu IT Audit của cty E big4. Em có chấp nhận offer r nma vẫn hơi lăn tăn&lt;/p&gt; &lt;ol&gt; &lt;li&gt;&lt;p&gt;tiếp tục chấp nhận offer&lt;/p&gt; &lt;p&gt;IT Audit ở Big4&lt;/p&gt;&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;* Vì nếu e làm IT Audit thì trong thời gian này e sẽ rải CV thêm IT BA intern, nếu tìm dc job thì out nhưng khá risk vì người quen e khá nhiều làm mảng này 😇&lt;br /&gt; * Làm IT Audit học dc system của nhiều enterprise có thể support for domain của BA. Em không biết đây là một nhận định dk ? Vì em có quen một số ac thì bảo cv lặp lại, khá chán, làm intern thì phụ thuộc vào detailed task từ staff nên kh học dc nhiều nhưng lý do e chọn là mong muốn dc có góc nhìn về hệ thống của các doanh nghiệp + communicate vs client để tăng khả năng sau này discuss vs skateholders sẽ tốt hơn&lt;br /&gt; * Làm IT Audit thì sẽ có nhiều lựa chọn về cơ hội việc làm hơn trong các bank và big4 khác nếu thị trường BA đi xuống: GRC, IT Risk&lt;/p&gt; &lt;ol&gt; &lt;li&gt;Reject offer và chờ đợi BA&lt;/li&gt; &lt;/ol&gt; &lt;p&gt;* Một số ac bảo làm cv này khá áp lực, em cũng khá lo sẽ bị bào mòn energy + nếu cv kh dc như mong đợi (system, communicate vs client) thì em sẽ thấy phí thời gian, r buồn bla bla&lt;br /&gt; * Sợ công việc IT Audit kh học đc nhiều, kh hỗ trợ dc gì cho công việc BA&lt;/p&gt; &lt;p&gt;Em rất muốn làm BA/PO ở các cty: VNG, MOMO, Nashtech, KMS nên kh biết việc làm IT Audit có giúp bản thân học đc nhiều k về cách nhìn control &amp;amp; risk của 1 system&lt;/p&gt; &lt;p&gt;Thật lòng vấn đề của em là có quá nhiều thông tin từ cả 2 option nên giờ chọn option nào em cũng đắn đo. Em vừa mong được hiểu thêm nhưng cũng sợ đây là 1 lựa chọn rủi ro, không biết anh chị nào từng làm ngành này có thể review cho em được không ạ ? Em xin chân thành cảm ơn&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/grilledsalmon_vn"&gt; /u/grilledsalmon_vn &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1vg8ffj/it_audit_tại_big4/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1vg8ffj/it_audit_tại_big4/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1vg8ffj/it_audit_tại_big4/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-08-05T14:09:03+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1vg9220</id>
+    <title>Bỏ học từ năm lớp 8.</title>
+    <updated>2026-08-05T14:32:58+00:00</updated>
+    <author>
+      <name>/u/BeMeMie</name>
+      <uri>https://old.reddit.com/user/BeMeMie</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Em năm nay 17, em bỏ học từ năm lớp 8 do tình hình kinh tế khó khăn. Bây giờ, em mới bắt đầu nghĩ về tương lai cho bản thân. Em nên bắt đầu học nghề từ bây giờ?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/BeMeMie"&gt; /u/BeMeMie &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1vg9220/bỏ_học_từ_năm_lớp_8/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1vg9220/bỏ_học_từ_năm_lớp_8/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1vg9220/bỏ_học_từ_năm_lớp_8/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-08-05T14:32:58+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1vfv7f7</id>
+    <title>CHUYÊN TUYÊN QUANG</title>
+    <updated>2026-08-05T02:56:09+00:00</updated>
+    <author>
+      <name>/u/Hiep_Tran</name>
+      <uri>https://old.reddit.com/user/Hiep_Tran</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Hà Giang nhập với Tuyên Quang&lt;/p&gt; &lt;p&gt;Lòi ra một ổ thi gian điểm mười&lt;/p&gt; &lt;p&gt;Lân bang được dịp chê cười&lt;/p&gt; &lt;p&gt;Nhà nhà phẫn nộ người người bất an&lt;/p&gt; &lt;p&gt;Hơn ba trăm đứa ăn gian&lt;/p&gt; &lt;p&gt;Nộp vào y dược công an quốc phòng&lt;/p&gt; &lt;p&gt;Bộ thì xử lý lòng vòng&lt;/p&gt; &lt;p&gt;Dám cho thi lại quyết không bỏ người&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Hiep_Tran"&gt; /u/Hiep_Tran &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1vfv7f7/chuyên_tuyên_quang/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1vfv7f7/chuyên_tuyên_quang/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1vfv7f7/chuyên_tuyên_quang/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-08-05T02:56:09+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1vfyug4</id>
+    <title>Vừa bị lừa ae ạ, khôn thật</title>
+    <updated>2026-08-05T06:02:10+00:00</updated>
+    <author>
+      <name>/u/Repulsive-Ad4751</name>
+      <uri>https://old.reddit.com/user/Repulsive-Ad4751</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Ae nào hè rảnh, không có việc gì làm, lên mấy group kiếm việc remote rồi thấy các công việc như gõ văn bản 150k/h, 300k/h&lt;/p&gt; &lt;p&gt;Khi vô nhắn để apply thì nó đòi ae tạo tài khoản ngân hàng, sau đó bắt nhập referral code (mã giới thiệu) để nó bú tiền, rồi nó bắt nhập thêm y chang vậy với ngân hàng khác, lúc đầu mình chỉ nghĩ chắc họ bắt tạo ngân hàng để công ty có thể trả lương cho nhân viên, hóa ra là nó lừa để bú mã, xong nó bảo gửi QR đây để có gì bank lương&lt;/p&gt; &lt;p&gt;Mình mới nói điêu là &amp;quot;app này e tải lâu rồi. giờ sao nữa&amp;quot; là nó trốn luôn&lt;/p&gt; &lt;p&gt;Cái này vừa không phải scam mà vừa có tiền legit&lt;/p&gt; &lt;p&gt;Nãy đăng bài viết mà bot nó vô bình luận như đúng rồi luôn&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Repulsive-Ad4751"&gt; /u/Repulsive-Ad4751 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1vfyug4/vừa_bị_lừa_ae_ạ_khôn_thật/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1vfyug4/vừa_bị_lừa_ae_ạ_khôn_thật/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1vfyug4/vừa_bị_lừa_ae_ạ_khôn_thật/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-08-05T06:02:10+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1vfwn7x</id>
+    <title>Mình làm bài test ở bệnh viện. Kết quả này tệ lắm à?</title>
+    <updated>2026-08-05T04:05:37+00:00</updated>
+    <author>
+      <name>/u/Alarming_Gap313</name>
+      <uri>https://old.reddit.com/user/Alarming_Gap313</uri>
+    </author>
+    <content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href="https://old.reddit.com/r/vozforums/comments/1vfwn7x/mình_làm_bài_test_ở_bệnh_viện_kết_quả_này_tệ_lắm_à/"&gt; &lt;img alt="Mình làm bài test ở bệnh viện. Kết quả này tệ lắm à?" src="https://preview.redd.it/gfobz0uqdhhh1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=07f2239780737a57b9ae54f4f1ffe66f512cbe44" title="Mình làm bài test ở bệnh viện. Kết quả này tệ lắm à?" /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Alarming_Gap313"&gt; /u/Alarming_Gap313 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://i.redd.it/gfobz0uqdhhh1.jpeg"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1vfwn7x/mình_làm_bài_test_ở_bệnh_viện_kết_quả_này_tệ_lắm_à/"&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1vfwn7x/mình_làm_bài_test_ở_bệnh_viện_kết_quả_này_tệ_lắm_à/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-08-05T04:05:37+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1vfwp4t</id>
+    <title>Về chuyện Tuyên Quang, đăng mỗi hôm nay thôi nhé anh em, nhiều nó nhàm và cũng đ có hướng xử lí tốt hơn.</title>
+    <updated>2026-08-05T04:08:19+00:00</updated>
+    <author>
+      <name>/u/TERRYGINNISX</name>
+      <uri>https://old.reddit.com/user/TERRYGINNISX</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;qua ngày mai thấy nữa, mình xoá. vì một vụ&lt;br /&gt; việc nhắc đi nhắc lại suốt, vấn đề luôn sẽ ở đó trừ khi có hành động. ngoài ra nó sẽ lặp lại suốt thôi. &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/TERRYGINNISX"&gt; /u/TERRYGINNISX &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1vfwp4t/về_chuyện_tuyên_quang_đăng_mỗi_hôm_nay_thôi_nhé/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1vfwp4t/về_chuyện_tuyên_quang_đăng_mỗi_hôm_nay_thôi_nhé/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1vfwp4t/về_chuyện_tuyên_quang_đăng_mỗi_hôm_nay_thôi_nhé/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-08-05T04:08:19+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1vg156z</id>
+    <title>BUỔI TỐI DÂN VĂN PHÒNG MỌI NGƯỜI LÀM GÌ?</title>
+    <updated>2026-08-05T08:12:17+00:00</updated>
+    <author>
+      <name>/u/FishingMiserable3116</name>
+      <uri>https://old.reddit.com/user/FishingMiserable3116</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Chào mọi người, em là nữ 2003. Hiện tại ban ngày em đang làm sales công nghệ, lương cứng cũng khá ổn và đã làm gần 2 năm. Vì background của em là kinh tế nên nhiều lúc bán sản phẩm công nghệ em vẫn có cảm giác mình chưa thực sự hiểu sâu về sản phẩm, nhu cầu và value của khách hàng. Công việc chủ yếu vẫn là tìm khách qua event, cold call, email...lặp đi lặp lại nên nhiều lúc em thấy hơi ngộp. E vẫn công nhận nhờ công việc này mà e được học hỏi và dạn hơn rất nhiều, kiểu như mỗi lần gặp khách thì mình được nch với họ thì cũng tích lũy dần từ đó, chỉ là phần lớn cv là đi kiếm khách manually với lại mình chưa thực sự thấy value của mình trong cv nên thấy bị ngộp thôi.&lt;/p&gt; &lt;p&gt;Trong khoảng 1 năm vừa rồi, vì sợ bản thân bị tụt lại nên em cũng đăng ký học thêm vài khóa về data, thiết kế cơ bản, AI, rồi tự học thêm về tech, ... Học xong em thấy rất hữu ích để mở rộng kiến thức nhưng hiện tại vẫn chưa có nhiều cơ hội áp dụng hết vào công việc, nhưng mà e tin đã là kiến thức rồi thì đến một lúc nào đó nó sẽ hữu ích thôi. Em cũng đang nghĩ sau này có thể chuyển sang BA hoặc một role khác để được involve sâu vô sản phẩm hơn, còn nếu vẫn tiếp tục theo sales thì vẫn oke, dù gì thì lương nó cx ổn và có cơ hội phát triển, chỉ hơi oải cái lúc kiếm được khách thôi.&lt;/p&gt; &lt;p&gt;Hiện tại buổi tối và cuối tuần em khá rảnh. Trước mắt, em không muốn ngồi 1 chỗ học thêm nữa vì ngồi văn phòng 8 tiếng mỗi ngày rồi tối lại ngồi nữa. Em muốn tìm một công việc có thể vận động tay chân một chút, kiểu được tiếp xúc với nhiều người, vừa xả stress vừa có thêm trải nghiệm thực tế để sau này nếu kinh doanh thì cũng có thêm vốn sống. Em đang nghĩ đến các công việc như làm ở chuỗi cà phê, nhà hàng, rooftop, bar acoustic hoặc những quán có nhiều khách nước ngoài để tiện luyện tiếng Anh, nhưng mà em muốn làm gì không phải ngồi mà vừa được xài đầu óc ấy ạ. &lt;/p&gt; &lt;p&gt;Không biết anh/chị có gợi ý công việc nào phù hợp không ạ? Hoặc nếu là anh/chị thì sẽ dành thời gian buổi tối để học thêm gì hay làm gì để phát triển bản thân? Em cũng muốn nghe chia sẻ xem mọi người đi làm văn phòng thường sử dụng thời gian sau giờ làm như thế nào. Em cảm ơn mọi người rất nhiều ạ.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/FishingMiserable3116"&gt; /u/FishingMiserable3116 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1vg156z/buổi_tối_dân_văn_phòng_mọi_người_làm_gì/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1vg156z/buổi_tối_dân_văn_phòng_mọi_người_làm_gì/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1vg156z/buổi_tối_dân_văn_phòng_mọi_người_làm_gì/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-08-05T08:12:17+00:00</published>
+  </entry>
+  <entry>
+    <id>t3_1vg5y7e</id>
+    <title>Tán gái</title>
+    <updated>2026-08-05T12:27:25+00:00</updated>
+    <author>
+      <name>/u/Necessary_Win_3332</name>
+      <uri>https://old.reddit.com/user/Necessary_Win_3332</uri>
+    </author>
+    <content type="html">&lt;!-- SC_OFF --&gt;&lt;div class="md"&gt;&lt;p&gt;Xin ae chỉ cho cách tán gái nhanh với chứ năm nay 29 gần 30 rồi mình lại hiền ít nói gặp bạn nữ không biết nói cái gì luôn á &lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href="https://old.reddit.com/user/Necessary_Win_3332"&gt; /u/Necessary_Win_3332 &lt;/a&gt; &lt;br /&gt; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1vg5y7e/tán_gái/"&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href="https://old.reddit.com/r/vozforums/comments/1vg5y7e/tán_gái/"&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+    <link href="https://old.reddit.com/r/vozforums/comments/1vg5y7e/tán_gái/"/>
+    <category term="vozforums" label="r/vozforums"/>
+    <published>2026-08-05T12:27:25+00:00</published>
+  </entry>
 </feed>
